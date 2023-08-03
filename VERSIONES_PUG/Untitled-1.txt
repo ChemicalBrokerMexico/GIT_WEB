@@ -1,0 +1,36 @@
+INSTRUCCION DADA POR DIRECCION GENERAL
+MERCADO
+INTRODUCCION
+SUBMERCADOS
+Productos / PRODUCTOS UTILIZADOS EXCLUSIVAMENTE
+EN ESTA FORMA DE CREAR EL CONTENIDO SE DESCARTA LA CREACION DE LA PARTE DE EXCIPIENTES ACTIVOS Y INTERMEDIOS
+
+FOOD
+BACKERY
+FAMILY PRODUCTOS
+ANTIOXIDANTS PUEDE SER UN ACTIVO FARMACEUTICO 
+EMULSIFIERS LO MISMO PARA ESTO
+
+MERCADO 
+FARMACEUTICOA
+SUBMERCADOS
+SPRAYS ESTE ES UN EJEMPLO DE SUBMERCADOS
+ACTIVO FARMACEUTICO NO ES UN MERCADO ES UN TIPO DE INGREDIENTE
+dentro de la pagina del exicpiente de momenot no se podra colocar foto en donde se enuncia a los productos
+en caso de existir una imagen grafica de cierto proceso colocarla
+
+
+basf lo tiene de la siguiente manera
+mercado general agroquimicos
+introduccion 
+aparecen mas opciones para hacer click es decir algun producto o temas en los que se podrian tener dudas
+al entrar a un producto 
+cuenta con introduccion 
+tabla de beneficios
+y si aplica como utilizarlo 
+
+
+
+
+
+

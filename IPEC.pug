@@ -1,0 +1,44 @@
+doctype html
+html(lang="es")
+ include head.pug
+ body 
+  include nav.pug 
+  div(class="row")
+   div(class="slider slider-prueba")
+    ul(class="slides")
+     li 
+      img(src="img/" style="height:800px;")
+      div(class="caption center-align")
+       br
+       br
+       br
+       br
+       h3(class="primertitulo")
+        b(class="boldbanner") Chemical Broker
+        br
+       b(class="segundotitulo" style="font-size:26px") IPEC
+  div(class="container")
+   div(class="row")
+    div(class="col s12 m12 l12 xl12")
+     section(style="margin-top:125px")
+      a(href="#" class="breditem active" style="color:#262137 !important")
+       b Inicio&nbsp
+       b  >&nbsp  
+      a(href="Cumplimiento.php" class="breditem active" style="color:#262137 !important;margin-left:-2px")
+       b Cumplimiento
+       b     >&nbsp
+      a(href="USP.php" class="breditem active" style="color:#262137 !important;")
+       b IPEC
+  div(class="container")
+   div(class="row")
+    div(class="col s12 m12 l12 xl12")
+     h5(class="letranegro Tipografia--general Titulos") 
+      b Introducción
+     p(class="letranegro Tipografia--general General--Cuerpo") La federación IPEC es una organización global que promueve la calidad y la seguridad de los excipientes farmacéuticos. Los excipientes desempeñan un papel fundamental en la seguridad en los excipientes farmacéuticos. Los excipientes desempeñan un papel fundamental en la fabricación de medicamentos al ayudar a preservar la eficacia, la seguridad y la estabilidad de los ingredientes farmacéuticos activos (API) y al garantizar que brinden los beneficios prometidos a los pacientes.
+
+  include footer.pug      
+      
+       
+       
+
+  script(type="text/javascript", src="js/main.js")

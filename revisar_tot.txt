@@ -1,0 +1,30 @@
+div(class="row" style="margin-top:50px;")
+    div(class="col s12 m12 l6 xl6 mercados zoom" style="float:right")
+     a(href="Spray_Nasal.php" style="cursor:pointer;")
+      div(class="contenedor")
+       div(id="overlay" class="transfo")
+       div(class="centrado_sub" style="position:absolute;z-index:2")
+        h5(class="titulo_submercado")
+        b(class="titulo_submercado") 
+         span(style="position:relative;z-index:2") Servicio 
+         br
+         ='Total' 
+        b 
+        hr(class="animacion")
+       img(src="img/SERVICIO_TOTAL_V2.jpg", alt="" class="mercadosimagen ")
+    div(class="col s12 m12 l12 xl6")
+     h6 
+      i(class="tiny material-icons") arrow_forward_ios
+      b(style="color: #603813;text-decoration:underline;text-decoration-color:#F7291E;") Definición
+     p Acción o conjunto de actividades destinadas a satisfacer una determinada necesidad de los clientes, brindando un producto inmaterial y personalizado
+     h6(style="margin-top:50px")
+      i(class="tiny material-icons") arrow_forward_ios
+      b(style="color: #603813;text-decoration:underline;text-decoration-color:#F7291E;") Etimología
+     p Viene del latín servitium compuesto con: la raíz de servitum. Supino del verbo servire (atender, cuidar, servir,adaptarse a otro o a otra cosa)
+     h6(style="margin-top:50px")
+      i(class="tiny material-icons") arrow_forward_ios
+      b(style="color: #603813;text-decoration:underline;text-decoration-color:#F7291E;") Servicio Total para Chemical Broker
+     p Como organización, estamos convencidos que la base del crecimiento y la realización personal está en servir a los demás, es por eso que mejoramos cada uno de nuestros procesos Productivos y de Negocios de manera constante, lo cual nos permite ofrecer un servicio total .
+     br
+  br
+  br

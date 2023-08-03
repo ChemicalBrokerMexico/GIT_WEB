@@ -1,0 +1,32 @@
+Frase que puede ir en alguna de las vistas a manera de mostrarle al cliente que es lo que obtendra con nosotros
+°Sin contratiempos obten un servicio total
+Generar pagina de testimonios
+° Testimonios pagina especifica para ello de los clientes sastisfechos
+QUE QUIERO LOGRAR CON LA PAGINA WEB DE CHEMICAL BROKER
+° LOGRAR VENDER MAS, OBJETIVO COMUN
+° HACER QUE EL USUARIO / CLIENTE TENGA UNA BUENA EXPERIENCIA AL UTILIZAR LA WEB ENCONTRANDO EL SERVICIO QUE BUSCA SIN NINGUN CONTRATIEMPO
+° AUMENTAR LA VISIBILIDAD DE CHEMICAL BROKER EN EL MUNDO COMO UNA EMPRESA TOTALMENTE PROFESIONAL
+ORIENTACION Y ACOMODO DE LA WEB 
+° diseño actual es estandar, todo acomodado de manera estandar, es esto realmente lo correcto
+° diseño mas agresivo diferente a la mayoria de la industria quimica 
+° investigar como es que la posicion relative cambia la forma de la imagen
+° los usuarios no siempre aterrizan en la pagina de inicio hacer el diseño de cada pagina como una pista de aterrizaje
+° Tenemos diseño corporativo que se siente profesional inmediatamente al entrar 
+° inmediatamente entrar a la pagina me evoca a tomar accion ?
+° textos como apple en un tamaño que guie la vista del usuario a lo que queremos que vea de manera inmediata
+Mercados y productos
+° que es lo que permiten nuestras soluciones como distribuidores a nuestros clientes, especificar eso en cada mercado mas haya de explicar que colaboramos a distribuir productos
+° una vez colocado la forma en que nuestro productos ayudan, explicar lo que ya se tiene referente a los catalogos de PRODUCTOS
+° basf en cada una de las vistas de un mercado en especifico tiene debajo de cada mercado la descripcion o introduccion de cada mercado previo a que se haga click 
+° intentar colocar el mas informacion o el leer mas sin colocar un boton unicamente con letras de un color diferente al que se esta usando ahora y con algun icono al estilo de basf 
+° acomo de basf esta hecho con columnas de igual manera que el chemical broker, basf unicamente tiene en algunos productos o submercados no principales introducciones
+° combinar en algun futuro las paginas de cada producto con una seccion de noticias recientes sobre los ingredientes que se venden  y el como estan siendo usados para mejorar la industria en la cual el cliente 
+se posicione
+
+
+despues de las familias de producto tenemos las 3 divisiones presentes activos intermedios y EXCIPIENTES
+cada uno con su introduccion, sin embargo si se deja asi esa informacion se tendria que repetir en cada submercados (aplica para todos los mercados)
+Si se coloca en la vista de sprays nasales, de igual forma se tendria que repetir la informacion
+si se coloca por separado que es la opcion ideal se debera generar filtros dentro de la tabla de producto que solo permitan ver los productos correspondientes a dicho mercado
+
+Dentro de los activos existen familias de producto es decir activos = fostfatos, gliceroles, etc 
