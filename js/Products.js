@@ -179,7 +179,7 @@ $(document).ready(function(){
     
     <div class="row" style="margin-top:150px">
     <div class="col s12 m12 l6 xl16 center-align">
-    <img src="img/CB_GLICOLS_070323.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
+    <img src="img/CB_GLYCOLS_NEWS_040823.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
     </div>
     <div class="col s12 m12 l6 xl6 columnas_glicoles">
     <h5 class="Titulos Tipografia--general"><b>Glicoles</b></h5>
@@ -479,7 +479,7 @@ function filtroall(){
     
     <div class="row" style="margin-top:150px">
     <div class="col s12 m12 l6 xl16 center-align">
-    <img src="img/CB_GLICOLS_070323.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
+    <img src="img/CB_GLYCOLS_NEWS_040823.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
     </div>
     <div class="col s12 m12 l6 xl6 columnas_glicoles">
     <h5 class="Titulos Tipografia--general"><b>Glicoles</b></h5>
@@ -859,7 +859,7 @@ function filtrog(){
     
     <div class="col s12 m12 l6 xl16 center-align" style="margin-top:0px">
     
-    <img src="img/CB_GLICOLS_070323.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
+    <img src="img/CB_GLYCOLS_NEWS_040823.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
     
     </div>
     

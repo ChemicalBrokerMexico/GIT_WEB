@@ -383,7 +383,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li> <img src="img/CB_GLICOLS_070323.jpg" alt="" style="height:400px;filter: brightness(0.9);">
+          <li> <img src="img/CB_GLYCOLS_NEWS_040823.jpg" alt="" style="height:400px;filter: brightness(0.9);">
             <div class="caption center-align"><br><br><br><br>
               <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">Glicoles</b>
             </div>
