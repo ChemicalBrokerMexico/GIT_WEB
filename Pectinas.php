@@ -391,7 +391,7 @@
                 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
                         href="Mercados.php"><b>Mercados</b></a></li>
                 <ul id="dropdown3" class="dropdown-content">
-                    <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias de
+                    <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">
                             Productos</a></li>
                     <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de
                             Productos</a></li>
@@ -643,7 +643,7 @@
                             >
                             &nbsp</b><a class="breditem active" href="Pectinas.php"
                             style="color:#262137 !important;margin-left:-2px"><b
-                                class="Tipografia--general letranegro Subtitulos breadcrumb">Jarabe de Maiz</b></a></section>
+                                class="Tipografia--general letranegro Subtitulos breadcrumb">Pectinas</b></a></section>
                 </section>
             </div>
         </div>
