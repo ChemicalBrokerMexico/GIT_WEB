@@ -5,16 +5,16 @@ $(document).ready(function(){
     `
     document.getElementById("contenedorliteral").innerHTML = `
     
-    <div class="row" style="margin-top:-30px"> 
-    <div class="col s12 m12 l6 xl6 center-align">
+    <div class="row" style="margin-top:-30px;border:1px solid red"> 
+    <div class="col s12 m12 l6 xl6 center-align" style="border:1px solid red">
     <img src="img/PESCADO_270623.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
     </div>
     <div class= "col s12 m12 l6 xl6 columnas_acidos_grasos">
     <h5 class="Tipografia--general Titulos"><b>Acidos Grasos</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los ácidos grasos se derivan de grasas y aceites animales como el sebo de res y de aceites vegetales tales como aceite de soja, aceite de colza, aceite de coco y de palmiste, aceite de palma aceite, entre otros.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Chemical Broker ofrece una amplia gama de Ácidos Grasos de cadena corta, cadena media y cadena larga. Nuestras relaciones de negocios con nuestros fabricantes en America, Europa y Asia brindan capacidad de respuesta y garantía de suministro en todo el mundo.
-    <p class="Tipografia--general Botones letranegro Leeracidgrass"><b><a href="Acidos_grasos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    <p class="Tipografia--general General--Cuerpo letranegro" style="border:1px solid red">Los ácidos grasos se derivan de grasas y aceites animales como el sebo de res y de aceites vegetales tales como aceite de soja, aceite de colza, aceite de coco y de palmiste, aceite de palma aceite, entre otros.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro" style="border:1px solid red">Chemical Broker ofrece una amplia gama de Ácidos Grasos de cadena corta, cadena media y cadena larga. Nuestras relaciones de negocios con nuestros fabricantes en America, Europa y Asia brindan capacidad de respuesta y garantía de suministro en todo el mundo.
+    <p class="Tipografia--general Botones letranegro Leeracidgrass" style="border:1px solid red"><b><a href="Acidos_grasos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
  
