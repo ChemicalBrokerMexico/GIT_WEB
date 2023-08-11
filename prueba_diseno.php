@@ -391,13 +391,13 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <div class="row">
 <div class="col s12 m12 l12 xl12">
 <h5 class="Titulos Tipografia--general letranegro"><b style="border-bottom:1.5px solid #b12729">Introducción</b></h5>
-<h5 class="Titulos Tipografia--general letranegro" style="margin-top:50px;"><b style="border-bottom:1.5px solid #b12729;color:red">¿Que es Cumplimiento?</b></h5>
-<h5 class="Titulos Tipografia--general letranegro" style="margin-top:50px;"><b style="border-bottom:1.5px solid #b12729;color:red;">¿Por qué Chemical Broker tiene un área de cumplimiento? </b></h5>
+<!-- <h5 class="Titulos Tipografia--general letranegro" style="margin-top:50px;"><b style="border-bottom:1.5px solid #b12729;color:red">¿Que es Cumplimiento?</b></h5>
+<h5 class="Titulos Tipografia--general letranegro" style="margin-top:50px;"><b style="border-bottom:1.5px solid #b12729;color:red;">¿Por qué Chemical Broker tiene un área de cumplimiento? </b></h5> -->
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><b style="color:#262137;">Chemical Broker</b>, es una organización comprometida con el cumplimiento estricto a las <b>Normas Internacionales de Calidad, Inocuidad, Responsabilidad Social y Ética Empresarial; </b>que consiste en la excelencia en nuestros productos y servicios, la preservación del medio ambiente, el cuidado de nuestra sociedad y la sustentabilidad de nuestros negocios con base en los valores universales como el respeto y el compromiso.
 </p>
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px">Para&nbsp<b style="color:#262137">Chemical Broker</b>, una gestión integral y eficiente tiene como resultado la excelencia en nuestros productos y servicios para todos y cada uno de nuestros socios de negocios 
 </p>
-<p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px">Nuestros Productos y Servicios deben de estar en <b>cumplimiento&nbsp</b>con las <b>Normas Internacionales de Calidad&nbsp</b>como lo son: 
+<p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px">Nuestros Productos y Servicios deben de estar en <b>cumplimiento&nbsp</b>con los siguientes <b>Certificados, Reglamentos, Farmacopeas, Grados y Calidades&nbsp</b> 
 </p>
 </div>
 </div>
@@ -408,46 +408,105 @@ gtag('config', 'G-SGJQ8FDDJ6');
     <div class="row">
         <div class="col s12 m12 l12 xl12">
             <table>
-                <tr class="border_compliance_tabla">
-                    <a href="#" class="arrowblue"><td style="width:33.33%;text-align:center">A|B International</td></a>
-                    <td style="width:33.33%;text-align:center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, enim repellat vel tempore deleniti voluptas blanditiis consequatur omnis dolorum quam recusandae expedita doloremque quos amet et unde laboriosam. Quis, ea?</td>
-                    <td style="width:33.33%;text-align:center"><img src="img/ACIDO_OLEICO_141222.jpg" alt="" style="width:50%;"></td>
+                <tr>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="background-color:#000020;color:white;text-align:center" colspan="3">Certificaciones, Reglamentos, Farmacopeas, Grados y Calidades</td>
                 </tr>
                 <tr class="border_compliance_tabla">
-                    <td style="width:33.33%;text-align:center">A|B International</td>
-                    <td style="width:33.33%;text-align:center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, enim repellat vel tempore deleniti voluptas blanditiis consequatur omnis dolorum quam recusandae expedita doloremque quos amet et unde laboriosam. Quis, ea?</td>
-                    <td style="width:33.33%;text-align:center"><img src="img/ACIDO_OLEICO_141222.jpg" alt="" style="width:50%;"></td>
+                    <a class="letranegro Tipografia--general General--Cuerpo" href="#" class="arrowblue"><td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">A|B International</td></a>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">AIB International es una certificación que capacita al personal de las empresas para llevar sus instalaciones a los estándares de seguridad y limpieza reconocidos internacionalmente. Esta Certificación sirve para garantizar que las instalaciones donde se fabrican y envasan los productos que comercializamos, cumplan con rigurosos estándares de Seguridad y Limpieza</td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><img src="img/AIB-INTERNATIONAL_IMAGE.png" alt="" style="width:30%;"></td>
                 </tr>
                 <tr class="border_compliance_tabla">
-                    <td style="width:33.33%;text-align:center">A|B International</td>
-                    <td style="width:33.33%;text-align:center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, enim repellat vel tempore deleniti voluptas blanditiis consequatur omnis dolorum quam recusandae expedita doloremque quos amet et unde laboriosam. Quis, ea?</td>
-                    <td style="width:33.33%;text-align:center"><img src="img/ACIDO_OLEICO_141222.jpg" alt="" style="width:50%;"></td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">BCR</td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">La norma BRC es reconocida por la Iniciativa mundial de Seguridad Alimentaria (GFSI), programa destinado a armonizar las normas internacionales de seguridad alimentaria, velando que cumplan con los requisitos que garantizan la seguridad, calidad, y legalidad de sus alimentos</td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><img src="img/BCR_IMAGE.png" alt="" style="width:30%;"></td>
                 </tr>
                 <tr class="border_compliance_tabla">
-                    <td style="width:33.33%;text-align:center">A|B International</td>
-                    <td style="width:33.33%;text-align:center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, enim repellat vel tempore deleniti voluptas blanditiis consequatur omnis dolorum quam recusandae expedita doloremque quos amet et unde laboriosam. Quis, ea?</td>
-                    <td style="width:33.33%;text-align:center"><img src="img/ACIDO_OLEICO_141222.jpg" alt="" style="width:50%;"></td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">ECOCERT</td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">El Certificado ECOCERT es la garantía para un producto en que cumpla con todos los requisitos de sostenibilidad, desde la producción de sus materias primas hasta el producto terminado. </td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><img src="img/ECO-CERT_IMAGE.png" alt="" style="width:30%;"></td>
                 </tr>
                 <tr class="border_compliance_tabla">
-                    <td style="width:33.33%;text-align:center">A|B International</td>
-                    <td style="width:33.33%;text-align:center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, enim repellat vel tempore deleniti voluptas blanditiis consequatur omnis dolorum quam recusandae expedita doloremque quos amet et unde laboriosam. Quis, ea?</td>
-                    <td style="width:33.33%;text-align:center"><img src="img/ACIDO_OLEICO_141222.jpg" alt="" style="width:50%;"></td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">FCC</td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">El Códice de Sustancias Químicas para Alimentos o Food Chemicals Codex (FCC) es una colección de estándares internacionalmente reconocidos para la pureza e identidad de los ingredientes alimentarios. </td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><img src="img/FCC_IMAGE.png" alt="" style="width:30%;"></td>
                 </tr>
                 <tr class="border_compliance_tabla">
-                    <td style="width:33.33%;text-align:center">A|B International</td>
-                    <td style="width:33.33%;text-align:center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, enim repellat vel tempore deleniti voluptas blanditiis consequatur omnis dolorum quam recusandae expedita doloremque quos amet et unde laboriosam. Quis, ea?</td>
-                    <td style="width:33.33%;text-align:center"><img src="img/ACIDO_OLEICO_141222.jpg" alt="" style="width:50%;"></td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">FEMA</td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">FEMA es la Agencia Fedeal para el Manejo de Emergencias. Solo tenemos el dimetilpolisiloxano al 10% con esta "Certificación" pero FEMA, se refiere a un programa de ayuda ante riesgos y desastres como inundaciones, terremotos, tornados, huracanes, etc.¿Por qué se necesita con un anti-espumante?</td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><img src="img/FEMA_IMAGE.png" alt="" style="width:30%;"></td>
                 </tr>
                 <tr class="border_compliance_tabla">
-                    <td style="width:33.33%;text-align:center">A|B International</td>
-                    <td style="width:33.33%;text-align:center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, enim repellat vel tempore deleniti voluptas blanditiis consequatur omnis dolorum quam recusandae expedita doloremque quos amet et unde laboriosam. Quis, ea?</td>
-                    <td style="width:33.33%;text-align:center"><img src="img/ACIDO_OLEICO_141222.jpg" alt="" style="width:50%;"></td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">FSSC-22000</td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">La Norma FSSC 22000 establece un marco de referencia para los requisitos de la seguridad alimentaria incorporando buenas prácticas en los sistemas agrícolas, de fabricación y distribución, y considerando los principios para el análisis de peligros y puntos críticos de control.</td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><img src="img/FSSC-22000_IMAGE.jpg" alt="" style="width:30%;"></td>
                 </tr>
                 <tr class="border_compliance_tabla">
-                    <td style="width:33.33%;text-align:center">A|B International</td>
-                    <td style="width:33.33%;text-align:center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, enim repellat vel tempore deleniti voluptas blanditiis consequatur omnis dolorum quam recusandae expedita doloremque quos amet et unde laboriosam. Quis, ea?</td>
-                    <td style="width:33.33%;text-align:center"><img src="img/ACIDO_OLEICO_141222.jpg" alt="" style="width:50%;"></td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">GMO</td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">Los Organismos Modificados Genéticamente (GMO) son plantas y animales creados en los laboratorios al insertar genes de una especie en la secuencia de ADN de otra especie</td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><img src="img/GMO_IMAGE.jpg" alt="" style="width:30%;"></td>
                 </tr>
+                <tr class="border_compliance_tabla">
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">GMP</td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">La Certificación de Buenas Prácticas de Fabricación (GMP - Good Manufacturing Practices) de SGS garantiza la integridad de su proceso de fabricación de alimentos y su conformidad con los reglamentos de seguridad alimentaria. La garantía de seguridad y calidad de los alimentos es un criterio importante para los consumidores en la actualidad.</td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><img src="img/GMP_IMAGE.png" alt="" style="width:30%;"></td>
+                </tr>
+                <tr class="border_compliance_tabla">
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">HACCP</td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">El Sistema de Análisis de Peligros y Control de Puntos Críticos (HACCP - Hazard Analisis and Critical Control Points) el cual permite identificar peligros específicos y medidas para su control con el fin de garantizar la inocuidad de los alimentos.</td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><img src="img/HACCP_IMAGE.jpg" alt="" style="width:30%;"></td>
+                </tr>
+                <tr class="border_compliance_tabla">
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">Halal</td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">La Certificación Halal determina que un producto o servicio cumple con lo que establece Ley Islámica (Shaira) para que este sea consumido, esto garantiza que los productos agroalimentarios cumplen con el conjunto de prácticas permitidas por la religión musulmana. El termino Halal se refiere a todo aquello que está permitido, aquello que es benéfico y saludable para el ser humano ya que aporta mejoras en la calidad de vida y reduce riesgos para la salud. </td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><img src="img/HALAL_IMAGE.png" alt="" style="width:30%;"></td>
+                </tr>
+                <tr class="border_compliance_tabla">
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">ISO 9001:2015</td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">La Certificación ISO 9001:2015 es una norma internacional de gestión de la calidad aplicable a cualquier tipo de organización en cualquier sector o actividad empresarial o industrial. Está basada en los siente principios de gestión de calidad, fundamentales para una buena gestión empresarial.</td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><img src="img/ISO-9001_IMAGE.png" alt="" style="width:30%;"></td>
+                </tr>
+                <tr class="border_compliance_tabla">
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">ISO 14001:2015</td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">La Certificación ISO 14001:2015 promueve la protección ambiental a través de la mejora y optimización de la gestión de recursos a través del uso racional de los mismos y de este modo, reduciendo la probabilidad de ocurrencia de riesgos ambientales.</td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><img src="img/ISO-14001_IMAGE.png" alt="" style="width:30%;"></td>
+                </tr>
+                <tr class="border_compliance_tabla">
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">JECFA</td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">El Comité Mixto FAO/OMS de Expertos en Aditivos Alimentarios (JECFA) es el órgano internacional encargado de la evaluación de la inocuidad de los aditivos alimentarios. </td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><img src="img/JECFA_IMAGE.jpg" alt="" style="width:30%;"></td>
+                </tr>
+                <tr class="border_compliance_tabla">
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">KOSHER</td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">La Certificación Kosher es aquella que indica que dichos productos respetan los preceptos de la religión judía y que, por tanto, se consideran puros y aptos para ser ingeridos por los practicantes de dicha religión.</td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><img src="img/KOSHER_IMAGE.jpg" alt="" style="width:30%;"></td>
+                </tr>
+                <tr class="border_compliance_tabla">
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">NON-GMO</td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">La certificación NON GMO evalúa alimentos de cuyos ingredientes o algún algún proceso de la creación de ellos, se ocupen organismos modificados genéticamente. Dicho de otro modo, certifica productos alimenticios completamente orgánicos, con todas sus cualidades naturales intactas.</td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><img src="img/NON-GMO_IMAGE.jpg" alt="" style="width:30%;"></td>
+                </tr>
+                <tr class="border_compliance_tabla">
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">OHSAS-18001</td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">OHSAS 18001 especifica los requisitos para un sistema de gestión de la Seguridad y Salud en el Trabajo (SST), destinados a permitir que una organización controle sus riesgos para la SST y mejore su desempeño de la SST.</td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><img src="img/OHSAS-18001_IMAGE.png" alt="" style="width:30%;"></td>
+                </tr>
+                <tr class="border_compliance_tabla">
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">REACH</td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">El REACH (Registro, Evaluación, Autorización y Restricción de las Sustancias y Mezclas Químicas / Registration, Evaluation, Authorisation and Restriction of Chemicals) es un Reglamento de la Unión Europea Reglamento (CE) nº 1907/2006, adoptado con el fin de mejorar la protección de la salud humana y el medio ambiente contra los riesgos que pueden presentar los productos químicos.</td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><img src="img/REACH-1_IMAGE.jpg" alt="" style="width:30%;"></td>
+                </tr>
+                <tr class="border_compliance_tabla">
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">RSPO</td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">La RSPO (Roundtable on Sustainable Palm Oil / Mesa Redonda sobre el Aceite de Palma Sostenible) es una organización voluntaria que certifica a través de la unión de los siete grupos relacionados con la producción de aceite de palma: productores, procesadores o comerciantes, fabricantes de bienes de consumo, minoristas, bancos e inversores, y ONG sociales y medioambientales. La certificación RSPO se basa en la conformidad de cada eslabón de su cadena de suministro. </td>
+                    <td style="width:33.33%;text-align:center"><img src="img/RSPO_IMAGE.png" alt="" style="width:30%;"></td>
+                </tr>
+                <tr class="border_compliance_tabla">
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">SQF</td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center">El programa SQF (Safe Quality Food / Seguridad de Calidad Alimentaria) es un programa de calidad e inocuidad de los alimentos riguroso y confiable con reconocimiento por parte de minoristas, propietarios de marcas y proveedores de servicios de alimentos a nivel mundial.</td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><img src="img/SQF_IMAGE.png" alt="" style="width:30%;"></td>
+                </tr>
+                
             </table>
         </div>
     </div>

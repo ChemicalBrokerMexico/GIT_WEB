@@ -390,7 +390,9 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<h5 class="Titulos Tipografia--general letranegro"><b style="border-bottom:1.5px solid #b12729">Introducción </b></h5>
+<h5 class="Titulos Tipografia--general letranegro"><b style="border-bottom:1.5px solid #b12729">Introducción</b></h5>
+<h5 class="Titulos Tipografia--general letranegro"><b style="border-bottom:1.5px solid #b12729;color:red">¿Que es Cumplimiento?</b></h5>
+<h5 class="Titulos Tipografia--general letranegro"><b style="border-bottom:1.5px solid #b12729">¿Por qué Chemical Broker tiene un área de cumplimiento? </b></h5>
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><b style="color:#262137;">Chemical Broker</b>, es una organización comprometida con el cumplimiento estricto a las <b>Normas Internacionales de Calidad, Inocuidad, Responsabilidad Social y Ética Empresarial; </b>que consiste en la excelencia en nuestros productos y servicios, la preservación del medio ambiente, el cuidado de nuestra sociedad y la sustentabilidad de nuestros negocios con base en los valores universales como el respeto y el compromiso.
 </p>
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px">Para&nbsp<b style="color:#262137">Chemical Broker</b>, una gestión integral y eficiente tiene como resultado la excelencia en nuestros productos y servicios para todos y cada uno de nuestros socios de negocios 

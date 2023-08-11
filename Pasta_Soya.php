@@ -659,7 +659,7 @@
                     Debido a esto en la actualidad es el ingrediente más utilizado por nutriólogos en la elaboración de
                     alimentos balanceados para cualquier tipo de animal.</p>
 
-                    <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La pasta de soya es la fuente de proteína mas importante utilizada en la alimentación humana y del ganado. La pasta de soya es la fuente natural más concentrada de proteína, aminoácidos y energía. Debido a esto en la actualidad es el ingrediente más utilizado por nutriólogos en la elaboración de alimentos balanceados para cualquier tipo de animal.</p>
+                    
 
                     <ol style="margin-top:50px;">
 

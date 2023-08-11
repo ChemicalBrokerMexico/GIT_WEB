@@ -527,7 +527,7 @@ style="color:white !important;border:hidden">Contacto </a></td>
 <div class="container-fluid">
 <div class="slider slider-prueba" style="margin-top:0px">
 <ul class="slides slides-pruea">
-<li> <img src="img/CB_CARRERAS_180222.jpg" alt="" style="height:800px;">
+<li> <img src="img/CB_RH_100823.jpg" alt="" style="height:528px;filter:brightness(0.9)">
 <div class="caption center-align"><br><br><br><br>
 <h3 class="primertitulo" style="margin-top:-46px;"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo"
 style="font-size: 26px;">Carreras</b>
@@ -558,19 +558,19 @@ href="Carreras.php" style="color:#262137 !important"><b class="breadcrumb">Carre
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<h5 class="Tipografia--general letranegro General--Cuerpo"><b style="border-bottom: 1.5px solid #b12729;">!!Consigue la Excelencia!!</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo"><b>!!Consigue la Excelencia!!</b></h5>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="border-bottom: 1.5px solid #b12729;">¿Quién es Chemical Broker?</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>¿Quién es Chemical Broker?</b></h5>
 
 <p class="Tipografia--general letranegro General--Cuerpo"><b class="Tipografia--general letranegro General--Cuerpo;">Chemical Broker</b> es un proveedor mundial de servicios de intermediación, comercialización, distribución,
 importación y exportación de productos químicos.</p>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="border-bottom: 1.5px solid #b12729;">¿Por qué elegir a Chemical Broker?</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>¿Por qué elegir a Chemical Broker?</b></h5>
 
 <p class="Tipografia--general letranegro General--Cuerpo"><b class="Tipografia--general letranegro Genera l--Cuerpo">Chemical Broker</b> es una organización enfocada a la
     competitividad, excelencia, la mejora continua y el desarrollo de nuestros Recursos Humanos</p>
 
-    <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="border-bottom: 1.5px solid #b12729;">Cultura</b></h5>
+    <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Cultura</b></h5>
     
 
     <p class="Tipografia--general letranegro General--Cuerpo">Trabajamos sobre una política de “puertas abiertas”, con el objetivo
@@ -581,7 +581,7 @@ importación y exportación de productos químicos.</p>
   
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="border-bottom: 1.5px solid #b12729;">Valores</b></h5>
+        <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Valores</b></h5>
         <div class="row">
     <div class="col s12">
       <ul class="tabs">
@@ -776,7 +776,7 @@ style="position:relative;z-index:2">Valor 3 </span></b><b> </b>
 <div class="container">
 <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="border-bottom: 1.5px solid #b12729;">Areas de Carrera</b></h5>
+        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Areas de Carrera</b></h5>
         <div class="row">
     <div class="col s12">
       <ul class="tabs">

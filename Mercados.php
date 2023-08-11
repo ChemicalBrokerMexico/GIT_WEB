@@ -373,7 +373,7 @@
     <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li> <img src="img/CB_MARKETS_200422.jpg" style="height:650px;">
+          <li> <img src="img/CB_MARKETS_200422.jpg" style="height:650px;filter:brightness(0.9)">
             <div class="caption center-align"><br><br><br><br>
               <h3 class="primertitulo"><b class="boldbanner">Chemical Broker</b><br></h3><b class="segundotitulo" style="font-size:26px">Mercados </b>
             </div>
@@ -390,7 +390,7 @@
       <div class="container">
         <div class="row">
           <div class="col s12 m12 l12 xl12">
-            <p class="Tipografia--general letranegro General--Cuerpo"><b color="#000020">Chemical Broker</b> es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de ingredientes químicos, para las industrias Farmacéutica, Veterinaria Alimentaria y Nutrición Humana, Nutrición Animal, Cosmética y del Cuidado Personal, Detergentes, Agroquímica, Industrial e Industria Química en general.</p>
+            <p class="Tipografia--general letranegro General--Cuerpo"><b color="#000020">Chemical Broker</b> es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de ingredientes químicos, para las industrias Farmacéutica, Veterinaria, Alimentaria y Nutrición Humana, Nutrición Animal, Cosmética y del Cuidado Personal, Detergentes, Agroquímica, Industrial e Industria Química en general.</p>
             <!-- <ol style="margin-top:30px"> 
               <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc">Farmacéutica </li>
               <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc">Nutrición Humana</li>

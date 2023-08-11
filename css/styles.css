@@ -1174,6 +1174,11 @@ font-size: 12px;
             margin-top:0px;
         }
 
+        .border_compliance_tabla{
+            border-top: 1px solid #000020;
+            border-bottom: 1px solid #000020;
+        }
+
 }
 
 @media only screen and (min-width: 576px) {
@@ -1943,6 +1948,10 @@ font-size: 12px;
         margin-top:0px;
     }
 
+    .border_compliance_tabla{
+        border-top: 1px solid #000020;
+        border-bottom: 1px solid #000020;
+    }
 
 }
 
@@ -4681,36 +4690,36 @@ margin-top:85px;
     }
 
     .Leerglice {
-        margin-top: 169px;
+        margin-top: 146px;
     }
 
     .Leergli {
-        margin-top:74px;
+        margin-top:43px;
     }
 
     .Leerleci {
-        margin-top: 160px;
+        margin-top: 113px;
     }
 
     .Leermaltodextrin{
-        margin-top:234px;    
+        margin-top:220px;    
     }
 
     .Leersorbi {
-        margin-top:97px;
+        margin-top:68px;
     }
 
     .Leernitruro{
-        margin-top:210px;
+        margin-top:194px;
     }
 
 
     .LeerNMETHYL{
-        margin-top: 162px;
+        margin-top: 140px;
     }
 
     .LeerDimetil{
-     margin-top: 208px;
+     margin-top:193px;
     }
 
     .Leerpectina{
@@ -4718,19 +4727,19 @@ margin-top:85px;
     }
 
     .Leerantiox {
-        margin-top: 143px;
+        margin-top:95px;
     }
 
     .LeerBicarSodio{
-        margin-top:160px;
+        margin-top:113px;
     }
 
     .Leeracidgrass {
-        margin-top:94px;
+        margin-top:62px;
     }
 
     .Leeralcoholesgrasos{
-        margin-top:168px;
+        margin-top:122px;
     }
 
     .LeeralcoholIsopropilico{
@@ -4738,7 +4747,7 @@ margin-top:85px;
     }
 
     .Leermaiz{
-        margin-top:118px;
+        margin-top:95px;
     }
 
     .breditem--inicio {
@@ -4846,7 +4855,7 @@ margin-top:85px;
     }
 
     .Leerlauril{
-        margin-top:96px;
+        margin-top:42px;
     }
 
     .Estructural_BHA{
@@ -4902,11 +4911,11 @@ margin-top:85px;
         }
 
         .LeerPasta{
-            margin-top:164px;
+            margin-top:126px;
         }
 
         .LeerDextrosa{
-            margin-top: 176px;
+            margin-top: 160px;
         }
 
         .LeerColageno{
