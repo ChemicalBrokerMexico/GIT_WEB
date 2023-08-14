@@ -651,24 +651,6 @@ style="position:relative;z-index:2">Trabajo en Equipo</span></b><b> </b>
 </div></div>
 
 
-    <!-- <div id="test4" class="col s12"><div class="col s12 m12 l6 xl6 mercados zoom" style="margin-top:10px"><a href="Proximamente.php"
-style="cursor:pointer;">
-<div class="contenedor">
-<div class="transfo" id="overlay_RH" style="border-radius:10px"></div>
-<div class="centrado_sub" style="position:absolute;z-index:2">
-<h5 class="titulo_rh"></h5><b class="titulo_rh"> <span
-style="position:relative;z-index:2">Diversidad e Inclusión</span></b><b> </b>
-<hr class="animacion"> -->
-<!-- <p><b style="color:white !important">
-<p class="leer_mas_mercados center-align botones"> Leer Mas</p>
-</b></p> -->
-<!-- </div><img class="mercadosimagen" src="img/CB_DIVERSITY_060422.jpg" alt="" style="border-radius:10px">
-</div>
-</a></div>
-
-<div class="col s12 m12 l6 xl6 mercados zoom columna1--mobile">
-<p class="Tipografia--general letranegro General--Cuerpo">Día a día existen cambios en la perspectiva de inclusión a nivel mundial, las empresas están implementando nuevas políticas en cuanto a la diversidad de los Recursos Humanos, Chemical Broker a través de la política inclusión y diversidad química apoya el hecho de trabajar con todas las personas que tengan las aptitudes para desempeñarse sin límites en un puesto de trabajo, sin importar raza, credo o religión.</p>
-</div></div> -->
   </div>
         
         </div>
@@ -684,93 +666,6 @@ style="position:relative;z-index:2">Diversidad e Inclusión</span></b><b> </b>
 </div>
 
 
-<!-- 
- <div class="container"> -->
-
-<!-- <div class="row center-align">
-<div class="col s12 m12 l6 xl6 mercados zoom" style="margin-top:10px"><a href="Proximamente.php"
-style="cursor:pointer;">
-<div class="contenedor">
-<div class="transfo" id="overlay_RH" style="border-radius:10px"></div>
-<div class="centrado_sub" style="position:absolute;z-index:2">
-<h5 class="titulo_rh"></h5><b class="titulo_rh"> <span
-style="position:relative;z-index:2">Diversidad e Inclusión</span></b><b> </b>
-<hr class="animacion"> -->
-<!-- <p><b style="color:white !important">
-<p class="leer_mas_mercados center-align botones"> Leer Mas</p>
-</b></p> -->
-<!-- </div><img class="mercadosimagen" src="img/CB_DIVERSITY_060422.jpg" alt="" style="border-radius:10px">
-</div>
-</a></div>
-<div class="col s12 m12 l6 xl6 mercados zoom columna1--mobile">
-<p class="Tipografia--general letranegro General--Cuerpo">Día a día existen cambios en la perspectiva de inclusión a nivel mundial, las empresas están implementando nuevas políticas en cuanto a la diversidad de los Recursos Humanos, Chemical Broker a través de la política inclusión y diversidad química apoya el hecho de trabajar con todas las personas que tengan las aptitudes para desempeñarse sin límites en un puesto de trabajo, sin importar raza, credo o religión.</p>
-</div>
-</div>
-<div class="row center-align" style="margin-top:80px;">
-<div class="col s12 m12 l6 xl6 mercados zoom" style="margin-top:10px;float:right;"><a href="Proximamente.php"
-style="cursor:pointer;">
-<div class="contenedor">
-<div class="transfo" id="overlay_RH" style="border-radius:10px"></div>
-<div class="centrado_sub" style="position:absolute;z-index:2">
-<h5 class="titulo_rh"></h5><b class="titulo_rh"> <span
-style="position:relative;z-index:2">Compromiso</span></b><b> </b>
-<hr class="animacion"> -->
-<!-- <p><b style="color:white !important">
-<p class="leer_mas_mercados center-align botones"> Leer Mas</p>
-</b></p> -->
-<!-- </div><img class="mercadosimagen" src="img/CB_COMPROMISO_060422.jpg" alt="" style="border-radius:10px">
-</div>
-</a></div>
-<div class="col s12 m12 l6 xl6 mercados zoom columna1--mobile">
-<p class="Tipografia--general letranegro General--Cuerpo">
-A través de nuestra política de puertas abiertas, cada una de las áreas puede realizar sus labores manteniendo estrecha comunicación de forma ascendente, horizontal y descendente con las áreas y departamentos, lo que permite que exista un total compromiso de nuestros colaboradores para el logro de los objetivos.
-</p>
-</div>
-</div> -->
-
-<!-- 
-<div class="row center-align" style="margin-top:80px;">
-<div class="col s12 m12 l6 xl6 mercados zoom" style="margin-top:10px;"><a href="Proximamente.php"
-style="cursor:pointer;">
-<div class="contenedor">
-<div class="transfo" id="overlay_RH" style="border-radius:10px"></div>
-<div class="centrado_sub" style="position:absolute;z-index:2">
-<h5 class="titulo_rh"></h5><b class="titulo_rh"> <span
-style="position:relative;z-index:2">Trabajo en Equipo</span></b><b> </b>
-<hr class="animacion"> -->
-<!-- <p><b style="color:white !important">
-<p class="leer_mas_mercados center-align botones"> Leer Mas</p>
-</b></p> -->
-<!-- </div><img class="mercadosimagen" src="img/CB_WORKTEAM_210422.jpg" alt="" style="border-radius:10px">
-</div>
-</a></div>
-<div class="col s12 m12 l6 xl6 mercados zoom columna1--mobile">
-<p class="Tipografia--general letranegro General--Cuerpo">Una organización exitosa persigue un objetivo en común, coopera, colabora y compite con el mismo equipo de trabajo en cada actividad clave, orientado al resultado de excelencia.</p>
-</div>
-
-</div> -->
-
-
-<!-- <div class="row center-align">
-<div class="col s12 m12 l6 xl6 mercados zoom" style="margin-top:10px;"><a href="pharmaceutical.php"
-style="cursor:pointer;">
-<div class="contenedor">
-<div class="transfo" id="overlay" style="border-radius:10px"></div>
-<div class="centrado_sub" style="position:absolute;z-index:2">
-<h5 class="titulo_submercado"></h5><b class="titulo_submercado"> <span
-style="position:relative;z-index:2">Valor 3 </span></b><b> </b>
-<hr class="animacion">
-<p><b style="color:white !important">
-<p class="leer_mas_mercados center-align botones"> Leer Mas</p>
-</b></p>
-</div><img class="mercadosimagen" src="img/FARMACEUTICA_CB.jpg" alt="" style="border-radius:10px">
-</div>
-</a></div>
-<div class="col s12 m12 l6 xl6 mercados zoom columna1--mobile"><a href="Alimentos.php" style="cursor:pointer;">
-<p class="Tipografia--general letranegro General--Cuerpo">Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, sit quis? In nam perferendis vero consequuntur molestias ea voluptas suscipit distinctio! Unde nihil atque porro recusandae molestiae! Quas, animi minus.</p>
-</div></a>
-</div> -->
-<!-- </div>  -->
 
 
 <div class="container">
@@ -780,13 +675,16 @@ style="position:relative;z-index:2">Valor 3 </span></b><b> </b>
         <div class="row">
     <div class="col s12">
       <ul class="tabs">
-        <li class="tab col s1.7"><a class="active" href="#test1C">Cumplimiento</a></li>
-        <li class="tab col s1.7"><a href="#test2C">Administración</a></li>
-        <li class="tab col s1.7"><a href="#test3C">Compras</a></li>
-        <li class="tab col s1.7"><a href="#test4C">Calidad</a></li>
-        <li class="tab col s1.7"><a href="#test5C">Logistica</a></li>
-        <li class="tab col s1.7"><a href="#test6C">Ventas</a></li>
-        <li class="tab col s1.7"><a href="#test7C">I.T.</a></li>
+        <li class="tab col s1.2"><a class="active" href="#test1C">Legal</a></li>
+        <li class="tab col s1.2"><a href="#test2C">Recursos Humanos</a></li>
+        <li class="tab col s1.2"><a href="#test3C">Tecnologías de la Información</a></li>
+        <li class="tab col s1.2"><a href="#test4C">Administración</a></li>
+        <li class="tab col s1.2"><a href="#test5C">Cumplimiento</a></li>
+        <li class="tab col s1.2"><a href="#test6C">Finanzas</a></li>
+        <li class="tab col s1.2"><a href="#test7C">Ventas</a></li>
+        <li class="tab col s1.2"><a href="#test7C">Compras</a></li>
+        <li class="tab col s1.2"><a href="#test7C">Calidad</a></li>
+        <li class="tab col s1.2"><a href="#test7C">Logística Global</a></li>
         <!-- <li class="tab col s3"><a href="#test4">Test 4</a></li> -->
       </ul>
     </div>
@@ -854,24 +752,7 @@ style="position:relative;z-index:2">Trabajo en Equipo</span></b><b> </b>
 </div></div>
 
 
-    <!-- <div id="test4" class="col s12"><div class="col s12 m12 l6 xl6 mercados zoom" style="margin-top:10px"><a href="Proximamente.php"
-style="cursor:pointer;">
-<div class="contenedor">
-<div class="transfo" id="overlay_RH" style="border-radius:10px"></div>
-<div class="centrado_sub" style="position:absolute;z-index:2">
-<h5 class="titulo_rh"></h5><b class="titulo_rh"> <span
-style="position:relative;z-index:2">Diversidad e Inclusión</span></b><b> </b>
-<hr class="animacion"> -->
-<!-- <p><b style="color:white !important">
-<p class="leer_mas_mercados center-align botones"> Leer Mas</p>
-</b></p> -->
-<!-- </div><img class="mercadosimagen" src="img/CB_DIVERSITY_060422.jpg" alt="" style="border-radius:10px">
-</div>
-</a></div>
 
-<div class="col s12 m12 l6 xl6 mercados zoom columna1--mobile">
-<p class="Tipografia--general letranegro General--Cuerpo">Día a día existen cambios en la perspectiva de inclusión a nivel mundial, las empresas están implementando nuevas políticas en cuanto a la diversidad de los Recursos Humanos, Chemical Broker a través de la política inclusión y diversidad química apoya el hecho de trabajar con todas las personas que tengan las aptitudes para desempeñarse sin límites en un puesto de trabajo, sin importar raza, credo o religión.</p>
-</div></div> -->
   </div>
         
         </div>

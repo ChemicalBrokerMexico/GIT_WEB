@@ -6,55 +6,55 @@ $(document).ready(function(){
     document.getElementById("contenedorliteral").innerHTML = `
     
     <div class="row" style="margin-top:-30px;border:1px solid red"> 
-    <div class="col s12 m12 l6 xl6 center-align" style="border:1px solid red">
+    <div class="col s12 m12 l6 xl6 center-align" style="border:1px solid red";height:350px>
     <img src="img/PESCADO_270623.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
     </div>
-    <div class= "col s12 m12 l6 xl6 columnas_acidos_grasos">
+    <div class= "col s12 m12 l6 xl6 columnas_acidos_grasos" style="position:relative;height:350px">
     <h5 class="Tipografia--general Titulos"><b>Acidos Grasos</b></h5>
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro" style="border:1px solid red">Los ácidos grasos se derivan de grasas y aceites animales como el sebo de res y de aceites vegetales tales como aceite de soja, aceite de colza, aceite de coco y de palmiste, aceite de palma aceite, entre otros.</p>
     <p class="Tipografia--general General--Cuerpo letranegro" style="border:1px solid red">Chemical Broker ofrece una amplia gama de Ácidos Grasos de cadena corta, cadena media y cadena larga. Nuestras relaciones de negocios con nuestros fabricantes en America, Europa y Asia brindan capacidad de respuesta y garantía de suministro en todo el mundo.
-    <p class="Tipografia--general Botones letranegro Leeracidgrass" style="border:1px solid red"><b><a href="Acidos_grasos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    <p class="Tipografia--general Botones letranegro Leeracidgrass" style="border:1px solid red;position:absolute;left:10px;bottom:-30px"><b><a href="Acidos_grasos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
  
 
     <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l6 xl6 center-align">
+    <div class="col s12 m12 l6 xl6 center-align" style="height:350px">
     <img src="img/ALCOHOLES-GRASOS_IMAGEN-1.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
     </div>
-    <div class= "col s12 m12 l6 xl6 columnas_acidos_grasos">
+    <div class= "col s12 m12 l6 xl6 columnas_acidos_grasos" style="position:relative;height:350px">
     <h5 class="Tipografia--general Titulos"><b>Alcoholes Grasos</b></h5>
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro">Chemical Broker ofrece una amplia gama de Alcoholes Grasos de fracción media y fracción pesada a partir de materias primas naturales sostenibles. </p>
     <p class="Tipografia--general General--Cuerpo letranegro">Nuestras relaciones de negocios con nuestros fabricantes en America, Europa y Asia brindan capacidad de respuesta y garantía de suministro en todo el mundo.
-    <p class="Tipografia--general Botones letranegro Leeralcoholesgrasos"><b><a href="Alcoholes_Grasos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    <p class="Tipografia--general Botones letranegro Leeralcoholesgrasos" style="position:absolute;left:10px;bottom:-30px"><b><a href="Alcoholes_Grasos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
 
     <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l6 xl6 center-align">
+    <div class="col s12 m12 l6 xl6 center-align" style="height:350px">
     <img src="img/CB_ALCOHOL_ISOPROPILICO.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
     </div>
-    <div class= "col s12 m12 l6 xl6 columnas_acidos_grasos">
+    <div class= "col s12 m12 l6 xl6 columnas_acidos_grasos" style="position:relative;height:350px">
     <h5 class="Tipografia--general Titulos"><b>Alcohol Isopropilico</b></h5>
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro">El Alcohol Isopropilico (propan-2-ol, Isopropanol o 2-propanol), es un compuesto orgánico incoloro e inflamable con un olor a alcohol acre.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Se utiliza en la fabricación de una amplia variedad de productos químicos industriales y domésticos y es un ingrediente común en productos como antisépticos, desinfectantes y detergentes.
-    <p class="Tipografia--general Botones letranegro LeeralcoholIsopropilico"><b><a href="Alcohol_Isopropilico.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    <p class="Tipografia--general Botones letranegro LeeralcoholIsopropilico" style="position:absolute;left:10px;bottom:-30px"><b><a href="Alcohol_Isopropilico.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
 
     <div class="row" style="margin-top:150px;">
-    <div class="col s12 m12 l6 xl6 center-align">
+    <div class="col s12 m12 l6 xl6 center-align" style="height:350px">
     <img src="img/ANTIOXIDANTES_020823.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
     </div>
-    <div class="col s12 m12 l6 xl6 columnas_antioxidantes">
+    <div class="col s12 m12 l6 xl6 columnas_antioxidantes" style="position:relative:height:350px">
     <h5 class="Tipografia--general Titulos"><b>Antioxidantes</b></h5>
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro">Los Antioxidantes son moléculas capaces de retardar o prevenir la oxidación de otras moléculas y alargar la vida útil de los productos.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Los antioxidantes son muy importantes para la industria alimentaria humana y animal, así como para la industria farmacéutica, veterinaria y cosmética ya que logran que los productos conserven sus propiedades y sus niveles de calidad.</p>
-    <p class="Tipografia--general Botones letranegro Leerantiox"><b><a href="Antioxidantes.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    <p class="Tipografia--general Botones letranegro Leerantiox" style="position:absolute;left:10px;bottom:-30px"><b><a href="Antioxidantes.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </p>
     </div>
     </div>
@@ -62,68 +62,64 @@ $(document).ready(function(){
 
 
     <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l6 xl6 center-align">
+    <div class="col s12 m12 l6 xl6 center-align" style="height:350px">
     <img src="img/CB_BICARBONATO_SODIO_271222.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
     </div>
-    <div class= "col s12 m12 l6 xl6 columnas_bicarbonato_sodio">
+    <div class= "col s12 m12 l6 xl6 columnas_bicarbonato_sodio" style="position:relative;height:350px">
     <h5 class="Tipografia--general Titulos"><b>Bicarbonato de Sodio</b></h5>
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro">El Bicarbonato de Sodio es un compuesto sólido cristalino de color blanco soluble en agua, con un ligero sabor alcalino parecido al del carbonato de sodio (menos fuerte y más salado) Se puede encontrar como mineral en la naturaleza o se puede producir artificialmente.  La forma mineral natural es nahcolita. Es un componente del mineral natrón y se encuentra disuelto en muchos manantiales minerales.</p>
-    <p class="Tipografia--general Botones letranegro LeerBicarSodio"><b><a href="Bicarbonato_Sodio.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    <p class="Tipografia--general Botones letranegro LeerBicarSodio" style="position:absolute;left:10px;bottom:-30px"><b><a href="Bicarbonato_Sodio.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
 
 
     <div class="row" style="margin-top:150px;">
-    <div class="col s12 m12 l6 xl6 center-align">
+    <div class="col s12 m12 l6 xl6 center-align"  style="height:350px">
     <img src="img/CB_COLLAGEN_280723.jpg" alt="Colágeno Hidrolizado" style="width:100%;border-radius:10px">
     </div>
-    <div class="col s12 m12 l6 xl6 columnas_dextrosas">
+    <div class="col s12 m12 l6 xl6 columnas_dextrosas" style="position:relative;height:350px">
     <h5 class="Tipografia--general Titulos"><b>Colágeno Hidrolizado</b></h5>
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro">Es un producto proteico natural, obtenido por hidrólisis enzimática de material rico en colágeno de origen bovino. Tiene un olor y sabor muy neutro y es adecuado para aplicaciones de mezclas de polvo seco, bebidas, barras, galletas y chicles.</p>
-    <p class="Tipografia--general Botones letranegro LeerColageno"><b><a href="Colageno_Hidrolizado.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    <p class="Tipografia--general Botones letranegro LeerColageno" style="position:absolute;left:10px;bottom:-30px"><b><a href="Colageno_Hidrolizado.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
 
     <div class="row" style="margin-top:70px;display:none">
-    <div class="col s12 m12 l6 xl6 center-align">
+    <div class="col s12 m12 l6 xl6 center-align" style="margin-top:150px;height:350px">
     <img src="img/Acidos.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
     </div>
-    <div class="col s12 m12 l6 xl6 columnas_acidulantes">
+    <div class="col s12 m12 l6 xl6 columnas_acidulantes" style="position:relative;height:350px">
     <h5 class="Tipografia--general Titulos"><b>Acidulantes</b></h5>
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro"> Los acidulantes son sustancias activas que modifican la acidez de los alimentos y ayudan a reforzar su sabor</p>
     <p class="Tipografia--general General--Cuerpo letranegro"> Los acidulantes tambien cumplen funciones de aromatizacion, son antioxidantes y aumentan la vida util de los alimentos para evitar la oxidacion en las sustancias eseciales que confieren las propiedades organolepticas al producto.</p>
-    <p class="Tipografia--general Botones letranegro Leerantiox"><b><a href="Acidulantes.php" style="color:#212637;" class="Botones arrowblue"> Leer Mas...</a></b></p>
+    <p class="Tipografia--general Botones letranegro Leerantiox" style="position:absolute;left:10px;bottom:-30px"><b><a href="Acidulantes.php" style="color:#212637;" class="Botones arrowblue"> Leer Mas...</a></b></p>
     </p>
     </div>
     </div>
 
 
-
-
-
-    
     <div class="row" style="margin-top:150px;display:none">
-    <div class="col s12 m12 l6 xl6 center-align">
+    <div class="col s12 m12 l6 xl6 center-align" style="height:350px">
     <img src="img/CB_DEXTROSAS_130323.jpg" alt="Dextrosas" style="width:100%;border-radius:10px;" class="zoom">
     </div>
-    <div class="col s12 m12 l6 xl6 columnas_gomas">
+    <div class="col s12 m12 l6 xl6 columnas_gomas"  style="position:relative;height:350px">
     <h5 class="Tipografia--general Titulos"><b>Gomas</b></h5>
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro">La dextrosa es un azúcar simple, químicamente idéntico a la glucosa, que proporciona 4 kcal por gramo y tiene varios usos, desde el culinario, la elaboración de productos procesados de mano de la industria alimentaria, hasta el medicinal y el deportivo.</p>
     <p class="Tipografia--general General--Cuerpo letranegro"> Es indispensable para el buen funcionamiento del organismo, pues proporciona nutrición a las células para que transforme el azúcar en energía. Sin embargo, dado que es un azúcar simple, un uso indebido o excesivo puede provocar serios problemas de salud, sobre todo a largo plazo</p>
-    <p class="Tipografia--general Botones letranegro Leersorbi"><b><a href="Dextrosas.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    <p class="Tipografia--general Botones letranegro Leersorbi" style="position:absolute;left:10px;bottom:-30px"><b><a href="Dextrosas.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
 
     
     <div class="row" style="margin-top:70px;display:none">
-    <div class="col s12 m12 l6 xl6 center-align">
+    <div class="col s12 m12 l6 xl6 center-align" style="height:350px">
     <img src="" alt="" style="width:100%">
     </div>
-    <div class="col s12 m12 l6 xl6 columnas_carbomeros">
+    <div class="col s12 m12 l6 xl6 columnas_carbomeros" style="position:relative;height:350px">
     <h5 class="Tipografia--general Titulos"><b>Carbomeros</b></h5>
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro">Los carbomeros son polímeros sintéticos hidrofílicos de ácido acrílico. En cosmética, se usan para espesar las preparaciones como agente gelificante y emulsionante, pero también como solvente para ayudar a que las fórmulas se mantengan bien mezcladas. Estas son moléculas grandes que no penetran las barreras de la piel.</p>
