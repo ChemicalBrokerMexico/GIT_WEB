@@ -550,20 +550,20 @@ recaptchaResponse.value = token;
   <div class="container">
     <div class="row">
       <div class="col s12 m12 l12 xl12">
-        <center><h1 class="Tipografia--general Titulos" style="color:#2279dfa4;margin-top:0px;">Preservar tu Salud es lo mas Importante</h1></center>
-        <p class="Tipografia--general General--Cuerpo" style="color:#262137">La Industria Farmacéutica provee al mundo
+        <center><h1 class="Tipografia--general Titulos" style="color:#2279dfa4;margin-top:50px;"><b>Preservar tu Salud es lo mas Importante</b></h1></center>
+        <p class="Tipografia--general General--Cuerpo" style="color:#262137;margin-top:50px;">La Industria Farmacéutica provee al mundo
           soluciones que permiten preservar la salud humana y mejorar su calidad de vida.</p>
         <p class="Tipografia--general General--Cuerpo" style="color:#262137;">Chemical Broker ofrece un amplio
           portafolios de Excipientes en cumplimiento y certificación con las Farmacopeas Internacionales y Buenas
           Prácticas de Manufactura ICH-Q7.</p>
-        <h6 class="Tipografia--general Titulos" style="color:#262137;margin-top:30px"><b>Excipientes</b></h6>
+        <h6 class="Tipografia--general Titulos" style="color:#262137;margin-top:50px"><b>Excipientes</b></h6>
         <p class="Tipografia--general General--Cuerpo" style="color:#262137">En la fabricación de medicamentos para
           una mejor calidad de vida, los Excipientes, son las sustancias responsables de que los Activos cumplan con su
           cometido al ser mezclados entre sí y pueden constituir el 90% de la composición total de un medicamento:</p>
-        <h5 class="Tipografia--general center-align" style="color:#262137;margin-top: 30px;"><b style="font-size:18px;margin-top: 30px;">Los excipientes
+        <h5 class="Tipografia--general center-align" style="color:#262137;margin-top: 50px;"><b style="font-size:20px;margin-top: 30px;color:#2279dfa4;">Los excipientes
             funcionan como vehículo para darle cuerpo, textura, forma y conservación al principio activo facilitando su
             ingesta y regulando su actividad en el organismo.</b></h5>
-        <h5 class="Tipografia--general Titulos" style="color:#262137;margin-top:30px"><b>Funciones</b>
+        <h5 class="Tipografia--general Titulos" style="color:#262137;margin-top:50px"><b>Funciones</b>
           <ol>
             <li class="Tipografia--general Elementos--Listas General--Cuerpo"
               style="color:#262137;margin-top:30px;list-style-type: disc;">Aumentan el valor de la formula, pues las

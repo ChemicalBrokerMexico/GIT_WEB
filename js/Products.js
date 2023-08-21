@@ -5,16 +5,28 @@ $(document).ready(function(){
     `
     document.getElementById("contenedorliteral").innerHTML = `
     
-    <div class="row" style="margin-top:-30px;border:1px solid red"> 
-    <div class="col s12 m12 l6 xl6 center-align" style="border:1px solid red";height:350px>
+    <div class="row" style="margin-top:-30px;"> 
+    <div class="col s12 m12 l6 xl6 center-align" style="height:350px">
     <img src="img/PESCADO_270623.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
     </div>
     <div class= "col s12 m12 l6 xl6 columnas_acidos_grasos" style="position:relative;height:350px">
-    <h5 class="Tipografia--general Titulos"><b>Acidos Grasos</b></h5>
+    <h5 class="Tipografia--general Titulos"><b>Ácidos Grasos</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro" style="border:1px solid red">Los ácidos grasos se derivan de grasas y aceites animales como el sebo de res y de aceites vegetales tales como aceite de soja, aceite de colza, aceite de coco y de palmiste, aceite de palma aceite, entre otros.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro" style="border:1px solid red">Chemical Broker ofrece una amplia gama de Ácidos Grasos de cadena corta, cadena media y cadena larga. Nuestras relaciones de negocios con nuestros fabricantes en America, Europa y Asia brindan capacidad de respuesta y garantía de suministro en todo el mundo.
-    <p class="Tipografia--general Botones letranegro Leeracidgrass" style="border:1px solid red;position:absolute;left:10px;bottom:-30px"><b><a href="Acidos_grasos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Los ácidos grasos se derivan de grasas y aceites animales como el sebo de res y de aceites vegetales tales como aceite de soja, aceite de colza, aceite de coco y de palmiste, aceite de palma aceite, entre otros.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Chemical Broker ofrece una amplia gama de Ácidos Grasos de cadena corta, cadena media y cadena larga. Nuestras relaciones de negocios con nuestros fabricantes en America, Europa y Asia brindan capacidad de respuesta y garantía de suministro en todo el mundo.
+    <p class="Tipografia--general Botones letranegro Leeracidgrass" style="position:absolute;left:10px;bottom:-30px"><b><a href="Acidos_grasos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
+    <div class="row" style="margin-top:150px;"> 
+    <div class="col s12 m12 l6 xl6 center-align" style="height:350px">
+    <img src="img/CB_ACIDOS_GRASOS_PALMA_210823.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
+    </div>
+    <div class= "col s12 m12 l6 xl6 columnas_acidos_grasos" style="position:relative;height:350px">
+    <h5 class="Tipografia--general Titulos"><b>Ácidos Grasos Destilados de Palma</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">Los Ácidos Grasos Destilados de Palma se obtienen por desdoblamiento y posterior destilación al vacío del aceite de palma. El producto obtenido es un sólido blanco opaco a temperatura ambiente, con un punto de fusión sobre los 45 °C. Es rico en acido palmítico y esteárico.</p>
+    <p class="Tipografia--general Botones letranegro Leeracidgrass" style="position:absolute;left:10px;bottom:-30px"><b><a href="Acidos_Grasos_Destilados_Palma.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
  
@@ -54,7 +66,7 @@ $(document).ready(function(){
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro">Los Antioxidantes son moléculas capaces de retardar o prevenir la oxidación de otras moléculas y alargar la vida útil de los productos.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Los antioxidantes son muy importantes para la industria alimentaria humana y animal, así como para la industria farmacéutica, veterinaria y cosmética ya que logran que los productos conserven sus propiedades y sus niveles de calidad.</p>
-    <p class="Tipografia--general Botones letranegro Leerantiox" style="position:absolute;left:10px;bottom:-30px"><b><a href="Antioxidantes.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    <p class="Tipografia--general Botones letranegro Leerantiox" style="left:10px;bottom:-30px"><b><a href="Antioxidantes.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </p>
     </div>
     </div>
@@ -95,7 +107,7 @@ $(document).ready(function(){
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro"> Los acidulantes son sustancias activas que modifican la acidez de los alimentos y ayudan a reforzar su sabor</p>
     <p class="Tipografia--general General--Cuerpo letranegro"> Los acidulantes tambien cumplen funciones de aromatizacion, son antioxidantes y aumentan la vida util de los alimentos para evitar la oxidacion en las sustancias eseciales que confieren las propiedades organolepticas al producto.</p>
-    <p class="Tipografia--general Botones letranegro Leerantiox" style="position:absolute;left:10px;bottom:-30px"><b><a href="Acidulantes.php" style="color:#212637;" class="Botones arrowblue"> Leer Mas...</a></b></p>
+    <p class="Tipografia--general Botones letranegro Leerantiox" style="left:10px;bottom:-30px"><b><a href="Acidulantes.php" style="color:#212637;" class="Botones arrowblue"> Leer Mas...</a></b></p>
     </p>
     </div>
     </div>
@@ -297,10 +309,10 @@ $(document).ready(function(){
     <div class= "col s12 m12 l6 xl6 columnas_pectinas">
     <h5 class="Tipografia--general Titulos"><b>Pectinas</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Las Pectinas son una mezcla de polimeros acidos y neutros muy ramificados.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Las Pectinas son una mezcla de polimeros ácidos y neutros muy ramificados.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Las pectinas son hidrocoloides solubles en agua con funciones gelificantes y espesantes.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Las pectinas tambien proporcionan superficies cargadas que regulan el pH y el balance ionico.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">La Pectina contiene principalmente acidos galacturonicosparcialmente metoxilados. La pectina, un ingrediente versátil para texturas innovadoras La pectina es un ingrediente y un componente natural de las plantas. La pectina se encuentra en muchas frutas, pero es especialmente abundante en las manzanas y los cítricos. La pectina de la fruta está asociada a la celulosa en los tejidos vegetales, donde juega un papel fundamental en la determinación de sus propiedades mecánicas.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">La Pectina contiene principalmente ácidos galacturonicosparcialmente metoxilados. La pectina, un ingrediente versátil para texturas innovadoras La pectina es un ingrediente y un componente natural de las plantas. La pectina se encuentra en muchas frutas, pero es especialmente abundante en las manzanas y los cítricos. La pectina de la fruta está asociada a la celulosa en los tejidos vegetales, donde juega un papel fundamental en la determinación de sus propiedades mecánicas.</p>
     <p class="Tipografia--general Botones letranegro Leerpectina"><b><a href="Pectinas.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -343,6 +355,18 @@ function filtroall(){
     <p class="Tipografia--general General--Cuerpo letranegro">Los ácidos grasos se derivan de grasas y aceites animales como el sebo de res y de aceites vegetales tales como aceite de soja, aceite de colza, aceite de coco y de palmiste, aceite de palma aceite, entre otros.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Chemical Broker ofrece una amplia gama de Ácidos Grasos de cadena corta, cadena media y cadena larga. Nuestras relaciones de negocios con nuestros fabricantes en America, Europa y Asia brindan capacidad de respuesta y garantía de suministro en todo el mundo.
     <p class="Tipografia--general Botones letranegro Leeracidgrass"><b><a href="Acidos_grasos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
+    <div class="row" style="margin-top:150px;"> 
+    <div class="col s12 m12 l6 xl6 center-align" style="height:350px">
+    <img src="img/CB_ACIDOS_GRASOS_PALMA_210823.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
+    </div>
+    <div class= "col s12 m12 l6 xl6 columnas_acidos_grasos" style="position:relative;height:350px">
+    <h5 class="Tipografia--general Titulos"><b>Ácidos Grasos Destilados de Palma</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">Los Ácidos Grasos Destilados de Palma se obtienen por desdoblamiento y posterior destilación al vacío del aceite de palma. El producto obtenido es un sólido blanco opaco a temperatura ambiente, con un punto de fusión sobre los 45 °C. Es rico en acido palmítico y esteárico.</p>
+    <p class="Tipografia--general Botones letranegro Leeracidgrass" style="position:absolute;left:10px;bottom:-30px"><b><a href="Acidos_Grasos_Destilados_Palma.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
 
@@ -594,10 +618,10 @@ function filtroall(){
     <div class= "col s12 m12 l6 xl6 columnas_pectinas">
     <h5 class="Tipografia--general Titulos"><b>Pectinas</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Las Pectinas son una mezcla de polimeros acidos y neutros muy ramificados.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Las Pectinas son una mezcla de polimeros ácidos y neutros muy ramificados.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Las pectinas son hidrocoloides solubles en agua con funciones gelificantes y espesantes.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Las pectinas tambien proporcionan superficies cargadas que regulan el pH y el balance ionico.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">La Pectina contiene principalmente acidos galacturonicosparcialmente metoxilados. La pectina, un ingrediente versátil para texturas innovadoras La pectina es un ingrediente y un componente natural de las plantas. La pectina se encuentra en muchas frutas, pero es especialmente abundante en las manzanas y los cítricos. La pectina de la fruta está asociada a la celulosa en los tejidos vegetales, donde juega un papel fundamental en la determinación de sus propiedades mecánicas.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">La Pectina contiene principalmente ácidos galacturonicosparcialmente metoxilados. La pectina, un ingrediente versátil para texturas innovadoras La pectina es un ingrediente y un componente natural de las plantas. La pectina se encuentra en muchas frutas, pero es especialmente abundante en las manzanas y los cítricos. La pectina de la fruta está asociada a la celulosa en los tejidos vegetales, donde juega un papel fundamental en la determinación de sus propiedades mecánicas.</p>
     <p class="Tipografia--general Botones letranegro Leerpectina"><b><a href="Pectinas.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -628,18 +652,31 @@ function filtroa(){
     <div class="divfooter2" style="text-align:center;"><span style="font-size:55px;border-bottom:3px solid #262137;"><b>A</b></span></div><br><br></div>
     `
     document.getElementById("contenedorliteral").innerHTML = `
-    
 
-    <div class="row" style="margin-top:-30px"> 
+  
+
+    <div class="row" style="margin-top:0px"> 
     <div class="col s12 m12 l6 xl6 center-align">
     <img src="img/PESCADO_270623.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
     </div>
     <div class= "col s12 m12 l6 xl6" style="margin-top:-32px">
-    <h5 class="Tipografia--general Titulos"><b>Acidos Grasos</b></h5>
+    <h5 class="Tipografia--general Titulos"><b>Ácidos Grasos</b></h5>
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro">Los ácidos grasos se derivan de grasas y aceites animales como el sebo de res y de aceites vegetales tales como aceite de soja, aceite de colza, aceite de coco y de palmiste, aceite de palma aceite, entre otros.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Chemical Broker ofrece una amplia gama de Ácidos Grasos de cadena corta, cadena media y cadena larga. Nuestras relaciones de negocios con nuestros fabricantes en America, Europa y Asia brindan capacidad de respuesta y garantía de suministro en todo el mundo.
     <p class="Tipografia--general Botones letranegro Leeracidgrass"><b><a href="Acidos_grasos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
+    <div class="row" style="margin-top:150px;"> 
+    <div class="col s12 m12 l6 xl6 center-align" style="height:350px">
+    <img src="img/CB_ACIDOS_GRASOS_PALMA_210823.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
+    </div>
+    <div class= "col s12 m12 l6 xl6 columnas_acidos_grasos" style="position:relative;height:350px">
+    <h5 class="Tipografia--general Titulos"><b>Ácidos Grasos Destilados de Palma</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">Los Ácidos Grasos Destilados de Palma se obtienen por desdoblamiento y posterior destilación al vacío del aceite de palma. El producto obtenido es un sólido blanco opaco a temperatura ambiente, con un punto de fusión sobre los 45 °C. Es rico en acido palmítico y esteárico.</p>
+    <p class="Tipografia--general Botones letranegro Leeracidgrass" style="position:absolute;left:10px;bottom:-30px"><b><a href="Acidos_Grasos_Destilados_Palma.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
 
@@ -820,7 +857,7 @@ function filtrof(){
     
     <h5>Bakes</h5>
     <hr style="border:1px solid #b21b27">
-    <p> Los acidos son un elemento fundamental agentes usados usados por una gran variedad de industrias para remover impurezas y producir fertilizantes, incluso pintura para los ojos</p>
+    <p> Los ácidos son un elemento fundamental agentes usados usados por una gran variedad de industrias para remover impurezas y producir fertilizantes, incluso pintura para los ojos</p>
     <b><a href="#" style="color:#212637;" class="arrowblue">Leer Mas...</a></b>
     `;
 }
@@ -881,7 +918,7 @@ function filtroh(){
     
     <h5>Bakes</h5>
     <hr style="border:1px solid #b21b27">
-    <p> Los acidos son un elemento fundamental agentes usados usados por una gran variedad de industrias para remover impurezas y producir fertilizantes, incluso pintura para los ojos</p>
+    <p> Los ácidos son un elemento fundamental agentes usados usados por una gran variedad de industrias para remover impurezas y producir fertilizantes, incluso pintura para los ojos</p>
     <b><a href="#" style="color:#212637;" class="arrowblue">Leer Mas...</a></b>
     `;
 }
@@ -895,7 +932,7 @@ function filtroi(){
     
     <h5>Bakes</h5>
     <hr style="border:1px solid #b21b27">
-    <p> Los acidos son un elemento fundamental agentes usados usados por una gran variedad de industrias para remover impurezas y producir fertilizantes, incluso pintura para los ojos</p>
+    <p> Los ácidos son un elemento fundamental agentes usados usados por una gran variedad de industrias para remover impurezas y producir fertilizantes, incluso pintura para los ojos</p>
     <b><a href="#" style="color:#212637;" class="arrowblue">Leer Mas...</a></b>
     `;
 }
@@ -951,7 +988,7 @@ function filtrok(){
     
     <h5>Bakes</h5>
     <hr style="border:1px solid #b21b27">
-    <p> Los acidos son un elemento fundamental agentes usados usados por una gran variedad de industrias para remover impurezas y producir fertilizantes, incluso pintura para los ojos</p>
+    <p> Los ácidos son un elemento fundamental agentes usados usados por una gran variedad de industrias para remover impurezas y producir fertilizantes, incluso pintura para los ojos</p>
     <b><a href="#" style="color:#212637;" class="arrowblue">Leer Mas...</a></b>
     `;
 }
@@ -1064,7 +1101,7 @@ function filtroo(){
     
     <h5>Bakes</h5>
     <hr style="border:1px solid #b21b27">
-    <p> Los acidos son un elemento fundamental agentes usados usados por una gran variedad de industrias para remover impurezas y producir fertilizantes, incluso pintura para los ojos</p>
+    <p> Los ácidos son un elemento fundamental agentes usados usados por una gran variedad de industrias para remover impurezas y producir fertilizantes, incluso pintura para los ojos</p>
     <b><a href="#" style="color:#212637;" class="arrowblue">Leer Mas...</a></b>
     `;
 }
@@ -1096,10 +1133,10 @@ function filtrop(){
     <div class= "col s12 m12 l6 xl6" style="margin-top:-32px">
     <h5 class="Tipografia--general Titulos"><b>Pectinas</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Las Pectinas son una mezcla de polimeros acidos y neutros muy ramificados.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Las Pectinas son una mezcla de polimeros ácidos y neutros muy ramificados.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Las pectinas son hidrocoloides solubles en agua con funciones gelificantes y espesantes.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Las pectinas tambien proporcionan superficies cargadas que regulan el pH y el balance ionico.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">La Pectina contiene principalmente acidos galacturonicosparcialmente metoxilados. La pectina, un ingrediente versátil para texturas innovadoras La pectina es un ingrediente y un componente natural de las plantas. La pectina se encuentra en muchas frutas, pero es especialmente abundante en las manzanas y los cítricos. La pectina de la fruta está asociada a la celulosa en los tejidos vegetales, donde juega un papel fundamental en la determinación de sus propiedades mecánicas.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">La Pectina contiene principalmente ácidos galacturonicosparcialmente metoxilados. La pectina, un ingrediente versátil para texturas innovadoras La pectina es un ingrediente y un componente natural de las plantas. La pectina se encuentra en muchas frutas, pero es especialmente abundante en las manzanas y los cítricos. La pectina de la fruta está asociada a la celulosa en los tejidos vegetales, donde juega un papel fundamental en la determinación de sus propiedades mecánicas.</p>
     <p class="Tipografia--general Botones letranegro Leerpectina"><b><a href="Pectinas.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -1118,7 +1155,7 @@ function filtroq(){
     
     <h5>Bakes</h5>
     <hr style="border:1px solid #b21b27">
-    <p> Los acidos son un elemento fundamental agentes usados usados por una gran variedad de industrias para remover impurezas y producir fertilizantes, incluso pintura para los ojos</p>
+    <p> Los ácidos son un elemento fundamental agentes usados usados por una gran variedad de industrias para remover impurezas y producir fertilizantes, incluso pintura para los ojos</p>
     <b><a href="#" style="color:#212637;" class="arrowblue">Leer Mas...</a></b>
     `;
 }
@@ -1132,7 +1169,7 @@ function filtror(){
     
     <h5>Bakes</h5>
     <hr style="border:1px solid #b21b27">
-    <p> Los acidos son un elemento fundamental agentes usados usados por una gran variedad de industrias para remover impurezas y producir fertilizantes, incluso pintura para los ojos</p>
+    <p> Los ácidos son un elemento fundamental agentes usados usados por una gran variedad de industrias para remover impurezas y producir fertilizantes, incluso pintura para los ojos</p>
     <b><a href="#" style="color:#212637;" class="arrowblue">Leer Mas...</a></b>
     `;
 }

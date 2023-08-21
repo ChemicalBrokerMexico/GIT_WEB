@@ -4104,6 +4104,20 @@ margin-top:85px;
 
 @media only screen and (min-width: 1750px) {
 
+
+    .tabla_compliance_desktop{
+        width: 100%;
+    }
+
+    .Banner_Grasos_Palma{
+        height: 645px;
+        margin-top: -398px;
+    }
+
+    .tabla_compliance_movil{
+        width:50%;
+    }
+
     .elemennav-secun {
         margin-left: 79px;
         margin-right: 90px;

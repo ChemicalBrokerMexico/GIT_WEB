@@ -682,9 +682,9 @@ style="position:relative;z-index:2">Trabajo en Equipo</span></b><b> </b>
         <li class="tab col s1.2"><a href="#test5C">Cumplimiento</a></li>
         <li class="tab col s1.2"><a href="#test6C">Finanzas</a></li>
         <li class="tab col s1.2"><a href="#test7C">Ventas</a></li>
-        <li class="tab col s1.2"><a href="#test7C">Compras</a></li>
-        <li class="tab col s1.2"><a href="#test7C">Calidad</a></li>
-        <li class="tab col s1.2"><a href="#test7C">Logística Global</a></li>
+        <li class="tab col s1.2"><a href="#test8C">Compras</a></li>
+        <li class="tab col s1.2"><a href="#test9C">Calidad</a></li>
+        <li class="tab col s1.2"><a href="#test10C">Logística Global</a></li>
         <!-- <li class="tab col s3"><a href="#test4">Test 4</a></li> -->
       </ul>
     </div>
@@ -696,18 +696,16 @@ style="cursor:pointer;">
 <div class="transfo" id="overlay_RH" style="border-radius:10px"></div>
 <div class="centrado_sub" style="position:absolute;z-index:2">
 <h5 class="titulo_rh"></h5><b class="titulo_rh"> <span
-style="position:relative;z-index:2">Diversidad e Inclusión</span></b><b> </b>
+style="position:relative;z-index:2">Legal</span></b><b> </b>
 <hr class="animacion">
-<!-- <p><b style="color:white !important">
-<p class="leer_mas_mercados center-align botones"> Leer Mas</p>
-</b></p> -->
-</div><img class="mercadosimagen" src="img/CB_DIVERSITY_060422.jpg" alt="" style="border-radius:10px">
+
+</div><img class="mercadosimagen" src="img/CBM_LEGLA_170823.jpg" alt="" style="border-radius:10px">
 </div>
 </a></div>
 
 <div class="col s12 m12 l6 xl6 mercados columna1--mobile">
 <p class="Tipografia--general letranegro General--Cuerpo">Día a día existen cambios en la perspectiva de inclusión a nivel mundial, las empresas están implementando nuevas políticas en cuanto a la diversidad de los Recursos Humanos, Chemical Broker a través de la política inclusión y diversidad química apoya el hecho de trabajar con todas las personas que tengan las aptitudes para desempeñarse sin límites en un puesto de trabajo, sin importar raza, credo o religión.</p>
-<a href="#" class="btn" style="background:#000020;">Leer Mas</a>
+<a href="#" class="btn" style="background:#000020;text-transform: capitalize;">Leer Mas</a>
 </div>
 
     </div>
@@ -718,39 +716,151 @@ style="cursor:pointer;">
 <div class="transfo" id="overlay_RH" style="border-radius:10px"></div>
 <div class="centrado_sub" style="position:absolute;z-index:2">
 <h5 class="titulo_rh"></h5><b class="titulo_rh"> <span
-style="position:relative;z-index:2">Compromiso</span></b><b> </b>
+style="position:relative;z-index:2">Recursos Humanos</span></b><b> </b>
 <hr class="animacion">
 <!-- <p><b style="color:white !important">
 <p class="leer_mas_mercados center-align botones"> Leer Mas</p>
 </b></p> -->
-</div><img class="mercadosimagen" src="img/CB_COMPROMISO_060422.jpg" alt="" style="border-radius:10px">
+</div><img class="mercadosimagen" src="img/CB_RH_16082023.jpg" alt="" style="border-radius:10px">
 </div>
 </a></div>
 <div class="col s12 m12 l6 xl6 mercados  columna1--mobile">
 <p class="Tipografia--general letranegro General--Cuerpo">
 A través de nuestra política de puertas abiertas, cada una de las áreas puede realizar sus labores manteniendo estrecha comunicación de forma ascendente, horizontal y descendente con las áreas y departamentos, lo que permite que exista un total compromiso de nuestros colaboradores para el logro de los objetivos.
 </p>
-<a href="#" class="btn" style="background:#000020;">Leer Mas</a>
+<a href="#" class="btn" style="background:#000020;text-transform: capitalize;">Leer Mas</a>
 </div></div>
     <div id="test3C" class="col s12"><div class="col s12 m12 l6 xl6 mercados" style="margin-top:10px;"><a href="Proximamente.php"
 style="cursor:pointer;">
 <div class="contenedor">
 <div class="transfo" id="overlay_RH" style="border-radius:10px"></div>
 <div class="centrado_sub" style="position:absolute;z-index:2">
-<h5 class="titulo_rh"></h5><b class="titulo_rh"> <span
-style="position:relative;z-index:2">Trabajo en Equipo</span></b><b> </b>
+<h5 class="titulo_rh"></h5>
+
+<b class="titulo_rh"> <span
+style="position:relative;z-index:2">I.T.</span></b><b> </b>
 <hr class="animacion">
 <!-- <p><b style="color:white !important">
 <p class="leer_mas_mercados center-align botones"> Leer Mas</p>
 </b></p> -->
-</div><img class="mercadosimagen" src="img/CB_WORKTEAM_210422.jpg" alt="" style="border-radius:10px">
+</div><img class="mercadosimagen" src="img/CB_IT_170823.jpg" alt="" style="border-radius:10px">
 </div>
 </a></div>
 <div class="col s12 m12 l6 xl6 mercados columna1--mobile">
 <p class="Tipografia--general letranegro General--Cuerpo">Una organización exitosa persigue un objetivo en común, coopera, colabora y compite con el mismo equipo de trabajo en cada actividad clave, orientado al resultado de excelencia.</p>
-<a href="#" class="btn" style="background:#000020;">Leer Mas</a>
+<a href="#" class="btn" style="background:#000020;text-transform: capitalize;">Leer Mas</a>
 </div></div>
 
+
+<div id="test4C" class="col s12"><div class="col s12 m12 l6 xl6 mercados" style="margin-top:10px;"><a href="Proximamente.php"
+style="cursor:pointer;">
+<div class="contenedor">
+<div class="transfo" id="overlay_RH" style="border-radius:10px"></div>
+<div class="centrado_sub" style="position:absolute;z-index:2">
+<h5 class="titulo_rh"></h5>
+
+<b class="titulo_rh"> <span
+style="position:relative;z-index:2">Administración</span></b><b> </b>
+<hr class="animacion">
+<!-- <p><b style="color:white !important">
+<p class="leer_mas_mercados center-align botones"> Leer Mas</p>
+</b></p> -->
+</div><img class="mercadosimagen" src="img/CB_ADMINISTRACION_160823.jpg" alt="" style="border-radius:10px">
+</div>
+</a></div>
+<div class="col s12 m12 l6 xl6 mercados columna1--mobile">
+<p class="Tipografia--general letranegro General--Cuerpo">Diseñar, desarrollar, implementar y controlar los procesos organizacionales que permitan lograr los resultados esperados, optimizando los Recursos Financieros, Humanos y Materiales, contribuyendo así al desarrollo de Chemical Broker. </p>
+<a href="#" class="btn" style="background:#000020;text-transform: capitalize;">Leer Mas</a>
+</div></div>
+
+
+
+<div id="test5C" class="col s12"><div class="col s12 m12 l6 xl6 mercados" style="margin-top:10px;"><a href="Proximamente.php"
+style="cursor:pointer;">
+<div class="contenedor">
+<div class="transfo" id="overlay_RH" style="border-radius:10px"></div>
+<div class="centrado_sub" style="position:absolute;z-index:2">
+<h5 class="titulo_rh"></h5>
+
+<b class="titulo_rh"> <span
+style="position:relative;z-index:2">Cumplimiento</span></b><b> </b>
+<hr class="animacion">
+<!-- <p><b style="color:white !important">
+<p class="leer_mas_mercados center-align botones"> Leer Mas</p>
+</b></p> -->
+</div><img class="mercadosimagen" src="img/CB_COMPLIANCE_190823.jpg" alt="" style="border-radius:10px">
+</div>
+</a></div>
+<div class="col s12 m12 l6 xl6 mercados columna1--mobile">
+<p class="Tipografia--general letranegro General--Cuerpo">Una organización exitosa persigue un objetivo en común, coopera, colabora y compite con el mismo equipo de trabajo en cada actividad clave, orientado al resultado de excelencia.</p>
+<a href="#" class="btn" style="background:#000020;text-transform: capitalize;">Leer Mas</a>
+</div></div>
+
+
+
+<div id="test6C" class="col s12"><div class="col s12 m12 l6 xl6 mercados" style="margin-top:10px;"><a href="Proximamente.php"
+style="cursor:pointer;">
+<div class="contenedor">
+<div class="transfo" id="overlay_RH" style="border-radius:10px"></div>
+<div class="centrado_sub" style="position:absolute;z-index:2">
+<h5 class="titulo_rh"></h5>
+
+<b class="titulo_rh"> <span
+style="position:relative;z-index:2">Finanzas</span></b><b> </b>
+<hr class="animacion">
+<!-- <p><b style="color:white !important">
+<p class="leer_mas_mercados center-align botones"> Leer Mas</p>
+</b></p> -->
+</div><img class="mercadosimagen" src="img/CB_FINANZAS_170823.jpg" alt="" style="border-radius:10px">
+</div>
+</a></div>
+<div class="col s12 m12 l6 xl6 mercados columna1--mobile">
+<p class="Tipografia--general letranegro General--Cuerpo">Analizar, controlar y priorizar la toma de decisiones en cuanto a la gestión financiera general, de deuda y nuevas oportunidades de inversión. </p>
+<a href="#" class="btn" style="background:#000020;text-transform: capitalize;">Leer Mas</a>
+</div></div>
+
+<div id="test7C" class="col s12"><div class="col s12 m12 l6 xl6 mercados" style="margin-top:10px;"><a href="Proximamente.php"
+style="cursor:pointer;">
+<div class="contenedor">
+<div class="transfo" id="overlay_RH" style="border-radius:10px"></div>
+<div class="centrado_sub" style="position:absolute;z-index:2">
+<h5 class="titulo_rh"></h5>
+
+<b class="titulo_rh"> <span
+style="position:relative;z-index:2">Ventas</span></b><b> </b>
+<hr class="animacion">
+<!-- <p><b style="color:white !important">
+<p class="leer_mas_mercados center-align botones"> Leer Mas</p>
+</b></p> -->
+</div><img class="mercadosimagen" src="img/CB_VENTAS_160823.jpg" alt="" style="border-radius:10px">
+</div>
+</a></div>
+<div class="col s12 m12 l6 xl6 mercados columna1--mobile">
+<p class="Tipografia--general letranegro General--Cuerpo">Una organización exitosa persigue un objetivo en común, coopera, colabora y compite con el mismo equipo de trabajo en cada actividad clave, orientado al resultado de excelencia.</p>
+<a href="#" class="btn" style="background:#000020;text-transform: capitalize;">Leer Mas</a>
+</div></div>
+
+
+<div id="test8C" class="col s12"><div class="col s12 m12 l6 xl6 mercados" style="margin-top:10px;"><a href="Proximamente.php"
+style="cursor:pointer;">
+<div class="contenedor">
+<div class="transfo" id="overlay_RH" style="border-radius:10px"></div>
+<div class="centrado_sub" style="position:absolute;z-index:2">
+<h5 class="titulo_rh"></h5>
+
+<b class="titulo_rh"> <span
+style="position:relative;z-index:2">Compras</span></b><b> </b>
+<hr class="animacion">
+<!-- <p><b style="color:white !important">
+<p class="leer_mas_mercados center-align botones"> Leer Mas</p>
+</b></p> -->
+</div><img class="mercadosimagen" src="img/CB_MARKETS_200422.jpg" alt="" style="border-radius:10px">
+</div>
+</a></div>
+<div class="col s12 m12 l6 xl6 mercados columna1--mobile">
+<p class="Tipografia--general letranegro General--Cuerpo">Generar, analizar y negociar con distintos proveedores a nivel global, los beneficios que se obtienen de las relaciones a largo plazo para el crecimiento y desarrollo con base en nuestro Enfoque de Negocios.</p>
+<a href="#" class="btn" style="background:#000020;text-transform: capitalize;">Leer Mas</a>
+</div></div>
 
 
   </div>
@@ -760,192 +870,26 @@ style="position:relative;z-index:2">Trabajo en Equipo</span></b><b> </b>
       </div>
 
 
-      <div class="container">
-        <div class="row">
-          <div class="col s12 m12 l12 xl12">
-            <h5 class="Tipografia--general letranegro Titulos"><b style="color:#000020;">¿Qué es un Plan Profesional de Carrera?</b></h5>
-            <p class="Tipografia--general letranegro General--Cuerpo">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime aperiam nemo reiciendis molestias laborum velit quod a minima error odit minus, ea odio eaque tempore aut voluptas enim nulla sit?</p>
-          </div>
-        </div>
-      </div>
-
-
-    <div class="container">
-      <a href="#" class="btn" style="background-color:#000020">Leer Mas</a>
-</div>
-
-
-<div class="container" style="margin-top:50px;">
-  <div class="row">
-    <div class="col s12 m12 l12 xl12">
-      <h5 class="Tipografia--general letranegro General--Cuerpo">Preguntas Frecuentes</h5>
-      <ul class="collapsible">
-    <li>
-      <div class="collapsible-header">¿Las Entrevistas son Presenciales?</div>
-      <div class="collapsible-body"><span>Todas nuestras entrevistas son totalmente presenciales</span></div>
-    </li>
-    <li>
-      <div class="collapsible-header">Second</div>
-      <div class="collapsible-body"><span>Pregunta 2</span></div>
-    </li>
-    <li>
-      <div class="collapsible-header">Third</div>
-      <div class="collapsible-body"><span>Pregunta 3</span></div>
-    </li>
-  </ul>
-    </div>
-  </div>
-</div>
-
-
-<div class="container" style="margin-top:30px;">
-<div class="row">
-<!-- <div class="col s12 m12 l12 xl12">
-<h5 class="Tipografia--general Titulos"><b style="color: #262137;border-bottom: 1.5px solid #b12729;">Areas de carrera</b></h5>
-</div> -->
-
-<!--div unicamente de cumplimiento-->
-<!-- <div class="col s12 m12 l6 xl6 mercados zoom" style="margin-top:10px">
-<a href="Proximamente.php" style="cursor: pointer;">
+      <div id="test9C" class="col s12"><div class="col s12 m12 l6 xl6 mercados" style="margin-top:10px;"><a href="Proximamente.php"
+style="cursor:pointer;">
 <div class="contenedor">
-  <div class="transfo" id="overlay_RH" style="border-radius: 10px;"></div>
-  <div class="centrado_sub" style="position: absolute;z-index:2;">
-<h5 class="titulo_rh"></h5><b class="titulo_rh"><span style="position: relative;z-index:2;">Cumplimiento</span></b>
+<div class="transfo" id="overlay_RH" style="border-radius:10px"></div>
+<div class="centrado_sub" style="position:absolute;z-index:2">
+<h5 class="titulo_rh"></h5>
+
+<b class="titulo_rh"> <span
+style="position:relative;z-index:2">Compliance</span></b><b> </b>
 <hr class="animacion">
-<p><b style="color: white !important;">
-<p class="leer_mas_mercados center-align botones">Leer Mas</p>
-</b></p>
-  </div>
-  <img class="mercadosimagen" src="img/compliance-graphic.png" alt="" style="border-radius: 10px;">
+<!-- <p><b style="color:white !important">
+<p class="leer_mas_mercados center-align botones"> Leer Mas</p>
+</b></p> -->
+</div><img class="mercadosimagen" src="img/CB_COMPLIANCE_190823" alt="" style="border-radius:10px">
 </div>
-</a>
-</div> -->
-
-
-<!--div unicamente de administracion-->
-<!-- <div class="col s12 m12 l6 xl6 mercados zoom" style="margin-top:10px">
-<a href="Administracion.php" style="cursor: pointer;">
-<div class="contenedor">
-  <div class="transfo" id="overlay_RH" style="border-radius: 10px;"></div>
-  <div class="centrado_sub" style="position: absolute;z-index:2;">
-<h5 class="titulo_rh"></h5><b class="titulo_rh"><span style="position: relative;z-index:2;">Administración</span></b>
-<hr class="animacion">
-<p><b style="color: white !important;">
-<p class="leer_mas_mercados center-align botones">Leer Mas</p>
-</b></p>
-  </div>
-  <img class="mercadosimagen" src="img/CB_MANAGEMENT_220322.jpg" alt="" style="border-radius: 10px;">
-</div>
-</a>
-</div> -->
-
-
-<!--div unicamente de compras-->
-<!-- <div class="col s12 m12 l6 xl6 mercados zoom" style="margin-top:30px">
-<a href="Proximamente.php" style="cursor: pointer;">
-<div class="contenedor">
-  <div class="transfo" id="overlay_RH" style="border-radius: 10px;"></div>
-  <div class="centrado_sub" style="position: absolute;z-index:2;">
-<h5 class="titulo_rh"></h5><b class="titulo_rh"><span style="position: relative;z-index:2;">Compras</span></b>
-<hr class="animacion">
-<p><b style="color: white !important;">
-<p class="leer_mas_mercados center-align botones">Leer Mas</p>
-</b></p>
-  </div>
-  <img class="mercadosimagen" src="img/CB_MARKETS_200422.jpg" alt="" style="border-radius: 10px;">
-</div>
-</a>
-</div> -->
-
-
-<!--div inhabilitado unicamente para calidad-->
-<!-- <div class="col s12 m12 l6 xl6 mercados zoom" style="margin-top:30px">
-<a href="Proximamente.php" style="cursor: pointer;">
-<div class="contenedor">
-  <div class="transfo" id="overlay_RH" style="border-radius: 10px;"></div>
-  <div class="centrado_sub" style="position: absolute;z-index:2;">
-<h5 class="titulo_rh"></h5><b class="titulo_rh"><span style="position: relative;z-index:2;">Calidad</span></b>
-<hr class="animacion">
-<p><b style="color: white !important;">
-<p class="leer_mas_mercados center-align botones">Leer Mas</p>
-</b></p>
-  </div>
-  <img class="mercadosimagen" src="img/QUALITY_PICTURE_NO_1.jpg" alt="" style="border-radius: 10px;">
-</div>
-</a>
-</div> -->
-
-<!--div inhabilitado unicamente para Logistica Global-->
-<!-- <div class="col s12 m12 l6 xl6 mercados zoom" style="margin-top:30px">
-<a href="Proximamente.php" style="cursor: pointer;">
-<div class="contenedor">
-  <div class="transfo" id="overlay_RH" style="border-radius: 10px;"></div>
-  <div class="centrado_sub" style="position: absolute;z-index:2;">
-<h5 class="titulo_rh"></h5><b class="titulo_rh"><span style="position: relative;z-index:2;">Logistica Global</span></b>
-<hr class="animacion">
-<p><b style="color: white !important;">
-<p class="leer_mas_mercados center-align botones">Leer Mas</p>
-</b></p>
-  </div>
-  <img class="mercadosimagen" src="img/LOGISTICS_290822.jpg" alt="" style="border-radius: 10px;">
-</div>
-</a>
-</div> -->
-
-<!--div unicamente de finanzas-->
-<!-- <div class="col s12 m12 l6 xl6 mercados zoom" style="margin-top:10px">
-<a href="Proximamente.php" style="cursor: pointer;">
-<div class="contenedor">
-  <div class="transfo" id="overlay" style="border-radius: 10px;"></div>
-  <div class="centrado_sub" style="position: absolute;z-index:2;">
-<h5 class="titulo_submercado"></h5><b class="titulo_submercado"><span style="position: relative;z-index:2;">Finanzas</span></b>
-<hr class="animacion">
-<p><b style="color: white !important;">
-<p class="leer_mas_mercados center-align botones">Leer Mas</p>
-</b></p>
-  </div>
-  <img class="mercadosimagen" src="img/CB_FINANCE_220322.jpeg" alt="" style="border-radius: 10px;">
-</div>
-</a>
-</div> -->
-
-
-<!--div unicamente de ventas-->
-<!-- <div class="col s12 m12 l6 xl6 mercados zoom" style="margin-top:30px">
-<a href="Ventas.php" style="cursor: pointer;">
-<div class="contenedor">
-  <div class="transfo" id="overlay_RH" style="border-radius: 10px;"></div>
-  <div class="centrado_sub" style="position: absolute;z-index:2;">
-<h5 class="titulo_rh"></h5><b class="titulo_rh"><span style="position: relative;z-index:2;">Ventas</span></b>
-<hr class="animacion">
-<p><b style="color: white !important;">
-<p class="leer_mas_mercados center-align botones">Leer Mas</p>
-</b></p>
-  </div>
-  <img class="mercadosimagen" src="img/CB_VENTAS_220322.jpg" alt="" style="border-radius: 10px;">
-</div>
-</a>
-</div> -->
-
-
-
-
-<!--div unicamente para IT-->
- <!-- <div class="col s12 m12 l6 xl6 mercados zoom" style="margin-top:30px">
-<a href="Proximamente.php" style="cursor: pointer;">
-<div class="contenedor">
-  <div class="transfo" id="overlay_RH" style="border-radius: 10px;"></div>
-  <div class="centrado_sub" style="position: absolute;z-index:2;">
-<h5 class="titulo_rh"></h5><b class="titulo_rh"><span style="position: relative;z-index:2;">I.T</span></b>
-<hr class="animacion">
-<p><b style="color: white !important;">
-<p class="leer_mas_mercados center-align botones">Leer Mas</p>
-</b></p>
-  </div>
-  <img class="mercadosimagen" src="img/CB_INFORMATION_TECHNOLOGIES_180422_V2.jpg" alt="" style="border-radius: 10px;">
-</div>
-</a>
-</div> -->
+</a></div>
+<div class="col s12 m12 l6 xl6 mercados columna1--mobile">
+<p class="Tipografia--general letranegro General--Cuerpo">Una organización exitosa persigue un objetivo en común, coopera, colabora y compite con el mismo equipo de trabajo en cada actividad clave, orientado al resultado de excelencia.</p>
+<a href="#" class="btn" style="background:#000020;text-transform: capitalize;">Leer Mas</a>
+</div></div>
 
 
 </div>

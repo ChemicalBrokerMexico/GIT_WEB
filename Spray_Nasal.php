@@ -386,7 +386,7 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-          <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"> <b>Inicio&nbsp </b><b>  >&nbsp </b></a><a href="Mercados.php" class="breditem active" style="color:#262137 !important"><b>Mercados ></b></a> <a href="pharmaceutical.php" class="breditem active" style="color:#262137 !important"><b>Farmaceutica ></b></a> <a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Spray Nasal </b></a></section>
+          <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"> <b>Inicio&nbsp </b><b>  >&nbsp </b></a><a href="Mercados.php" class="breditem active" style="color:#262137 !important"><b>Mercados ></b></a> <a href="pharmaceutical.php" class="breditem active" style="color:#262137 !important"><b>Farmacéutica ></b></a> <a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Spray Nasal </b></a></section>
         </div>
       </div>
     </div>
@@ -408,7 +408,7 @@
       <div class="row">
         <div class="col s12 m12 l6 xl12">
         <ol class="Tipografia--general General--Cuerpo">
-          <a href="Glycerins.php" class="Tipografia--general letranegro General--Cuerpo"><li class="arrowblue Tipografia--general letranegro" style="color:rgba(2 146 238 /99%);" >Glicerinas <span class="arrowblue desaparece">Leer Mas</span></li></a>
+          <a href="Glycerins.php" class="Tipografia--general letranegro General--Cuerpo"><li class="arrowblue Tipografia--general letranegro" style="color:rgba(2 146 238 /99%);list-style-type:disc;font-size:18px">Glicerina</li></a>
           <!-- Glicerina 99.7%  -->
           <!-- Glicerina 99.7% base vegetal -->
           <!-- Reenvio a pagina de familia glicerinas -->
