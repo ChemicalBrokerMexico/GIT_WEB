@@ -239,7 +239,7 @@
                                     <div class="row">
                                         <div class="col s12 m12 l10 xl10 sections">
                                             <h6 class="Tipografia--general Titulos" style="color:white;padding-top:5px">
-                                                Acerca de </h6>
+                                                Nosotros</h6>
                                             <p class="Tipografia--general General--Cuerpo" style="color:#a7a7a7;">
                                                 Chemical Broker es un
                                                 proveedor mundial de servicios de intermediación, comercialización,
@@ -568,7 +568,7 @@
                             <tbody class="center-align">
                                 <tr>
                                     <td style="border:hidden;background-color:#262137;"><a href="index.php"
-                                            style="color:white !important;border:hidden">Acerca de </a></td>
+                                            style="color:white !important;border:hidden">Nosotros</a></td>
                                 </tr>
                                 <tr>
                                     <td style="border:hidden;background-color:#262137;"><a href="Historia_Hechos.php"
@@ -653,7 +653,7 @@
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
-                <p class="colornegro Tipografia--general General--Cuerpo">Las <b>Pectinas</b> son una mezcla compleja de polisacáridos de origen vegetal que posee excelentes características de gelificación, y biocompatibilidad, por lo que ha sido ampliamente estudiada como excipiente en diversas formas farmacéuticas para modular la liberación de moléculas activas. La pectina permanece intacta en la parte alta del tracto gastrointestinal, y sólo es degradada por la microflora del colon. Por tal motivo, se ha incluido en esta revisión el desarrollo de diferentes formulaciones de liberación colónica de fármacos basadas en este polisacárido para tratar afecciones locales como el cáncer de colon y la enfermedad de Crohn. También se incluyen diversos estudios acerca de aplicaciones terapéuticas de la pectina como coadyuvante en diferentes patologías digestivas como el reflujo gastroesofágico y la diarrea persistente. El efecto que, sobre los niveles de glucosa, insulina y lípidos en plasma, puede tener una dieta rica en pectina es así mismo analizado.</p>
+                <p class="colornegro Tipografia--general General--Cuerpo">Las <b>Pectinas</b> son una mezcla compleja de polisacáridos de origen vegetal que posee excelentes características de gelificación, y biocompatibilidad, por lo que ha sido ampliamente estudiada como excipiente en diversas formas farmacéuticas para modular la liberación de moléculas activas. La pectina permanece intacta en la parte alta del tracto gastrointestinal, y sólo es degradada por la microflora del colon. Por tal motivo, se ha incluido en esta revisión el desarrollo de diferentes formulaciones de liberación colónica de fármacos basadas en este polisacárido para tratar afecciones locales como el cáncer de colon y la enfermedad de Crohn. También se incluyen diversos estudios Nosotrosaplicaciones terapéuticas de la pectina como coadyuvante en diferentes patologías digestivas como el reflujo gastroesofágico y la diarrea persistente. El efecto que, sobre los niveles de glucosa, insulina y lípidos en plasma, puede tener una dieta rica en pectina es así mismo analizado.</p>
                 <p class="colornegro Tipografia--general General--Cuerpo" style="margin-top:50px;">La pectina se encuentra inscrita en la FDA como un aditivo seguro sin límites de consumo diario, por lo que es ampliamente utilizada como excipiente en la formulación de comprimidos matriciales, geles, cubiertas de formas farmacéuticas, etc.</p>
                 <h5 class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;"><b>Funciones</b></h5>
                 <ol style="margin-bottom:0px;">

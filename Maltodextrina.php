@@ -205,7 +205,7 @@
                                     <div class="row">
                                         <div class="col s12 m12 l10 xl10 sections">
                                             <h6 class="Tipografia--general Titulos" style="color:white;padding-top:5px">
-                                                Acerca de </h6>
+                                                Nosotros</h6>
                                             <p class="Tipografia--general General--Cuerpo" style="color:#a7a7a7;">
                                                 Chemical Broker es un proveedor mundial de servicios de intermediación,
                                                 comercialización, distribución, importación y exportación de productos
@@ -418,7 +418,7 @@
                             <tbody class="center-aling">
                                 <tr>
                                     <td style="border:hidden"><a href="index.php"
-                                            style="color:black !important;border:hidden">Acerca de </a></td>
+                                            style="color:black !important;border:hidden">Nosotros</a></td>
                                 </tr>
                                 <tr>
                                     <td style="border:hidden"><a href="Historia_Hechos.php"
@@ -527,7 +527,7 @@
                             <tbody class="center-align">
                                 <tr>
                                     <td style="border:hidden;background-color:#262137;"><a href="index.php"
-                                            style="color:white !important;border:hidden">Acerca de </a></td>
+                                            style="color:white !important;border:hidden">Nosotros</a></td>
                                 </tr>
                                 <tr>
                                     <td style="border:hidden;background-color:#262137;"><a href="Historia_Hechos.php"

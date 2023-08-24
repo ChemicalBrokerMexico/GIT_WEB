@@ -113,7 +113,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
                   <div class="container">
                     <div class="row">
                       <div class="col s12 m12 l10 xl10 sections">
-                        <h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Acerca de </h6>
+                        <h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Nosotros</h6>
                         <p class="Tipografia--general General--Cuerpo" style="color:#a7a7a7;">Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos.</p>
                       </div>
                     </div>
@@ -155,7 +155,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
                     <ul> 
                       <p class="color--blanco"><b class="Tipografia--general Titulos">Compañia</b></p>
                       <hr class="hr">
-                      <ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Acerca de <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Valores.php">Valores &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
+                      <ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Nosotros<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Valores.php">Valores &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
                     </ul>
                   </section>
                 </div>
@@ -253,7 +253,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
                 </thead>
                 <tbody class="center-aling">
                   <tr> 
-                    <td style="border:hidden"><a href="index.php" style="color:black !important;border:hidden">Acerca de </a></td>
+                    <td style="border:hidden"><a href="index.php" style="color:black !important;border:hidden">Nosotros</a></td>
                   </tr>
                   <tr>
                     <td style="border:hidden"><a href="Historia_Hechos.php" style="color:black !important;border:hidden">Historia y Hechos</a></td>
@@ -332,7 +332,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
                 </thead>
                 <tbody class="center-align">
                   <tr> 
-                    <td class="fondo--color--corporativo" style="border:hidden;"><a href="index.php" class="color--blanco" style="border:hidden">Acerca de </a></td>
+                    <td class="fondo--color--corporativo" style="border:hidden;"><a href="index.php" class="color--blanco" style="border:hidden">Nosotros</a></td>
                   </tr>
                   <tr> 
                     <td  class="fondo--color--corporativo" style="border:hidden;"><a href="Historia_Hechos.php" class="color--blanco" style="border:hidden">Historia y Hechos</a></td>

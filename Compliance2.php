@@ -116,7 +116,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l10 xl10 sections">
-<h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Acerca de </h6>
+<h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Nosotros</h6>
 <p class="Tipografia--general General--Cuerpo" style="color:#a7a7a7;">Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos.</p>
 </div>
 </div>
@@ -158,7 +158,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <ul> 
 <p class="color--blanco"><b class="Tipografia--general Titulos">Compañia</b></p>
 <hr class="hr">
-<ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Acerca de <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Valores.php">Valores <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
+<ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Nosotros<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Valores.php">Valores <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
 </ul>
 </section>
 </div>
@@ -251,7 +251,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 </thead>
 <tbody class="center-aling">
 <tr> 
-<td class="border--hidden"><a class="letranegro border--hidden" href="index.php">Acerca de </a></td>
+<td class="border--hidden"><a class="letranegro border--hidden" href="index.php">Nosotros</a></td>
 </tr>
 <tr>
 <td class="border--hidden"><a class="letranegro border--hidden" href="Historia_Hechos.php">Historia y Hechos</a></td>
@@ -330,7 +330,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 </thead>
 <tbody class="center-align">
 <tr> 
-<td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="index.php">Acerca de </a></td>
+<td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="index.php">Nosotros</a></td>
 </tr>
 <tr> 
 <td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="Historia_Hechos.php">Historia y Hechos</a></td>
@@ -407,14 +407,14 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <div class="container">
     <div class="row">
         <div class="col s12 m12 l12 xl12">
-            <table class="tabla_compliance_movil">
+            <table class="compliance_tab">
                 <tr>
                     <td class="letranegro Tipografia--general General--Cuerpo" style="background-color:#000020;color:white;text-align:center" colspan="3">Certificaciones, Reglamentos, Farmacopeas, Grados y Calidades</td>
                 </tr>
-                <tr class="border_compliance_tabla" style="border:1px solid red;">
-                    <a class="letranegro Tipografia--general General--Cuerpo" href="#" class="arrowblue"><td class="letranegro Tipografia--general General--Cuerpo" style="text-align:center;border:1px solid red"><b style="color:#000020;">A|B International</b></td></a>
-                    <td class="letranegro Tipografia--general General--Cuerpo" style="text-align:center;border:1px solid red"><p>AIB International es una certificación que capacita al personal de las empresas para llevar sus instalaciones a los estándares de seguridad y limpieza reconocidos internacionalmente. Esta Certificación sirve para garantizar que las instalaciones donde se fabrican y envasan los productos que comercializamos, cumplan con rigurosos estándares de Seguridad y Limpieza</p></td>
-                    <td class="letranegro Tipografia--general General--Cuerpo" style="text-align:center;border:1px solid red"><img src="img/AIB-INTERNATIONAL_IMAGE.png" alt="" style="width:30%;"></td>
+                <tr class="border_compliance_tabla">
+                    <a class="letranegro Tipografia--general General--Cuerpo" href="#" class="arrowblue"><td class="letranegro Tipografia--general General--Cuerpo" style="text-align:center;"><b style="color:#000020;">A|B International</b></td></a>
+                    <td class="letranegro Tipografia--general General--Cuerpo"><p>AIB International es una certificación que capacita al personal de las empresas para llevar sus instalaciones a los estándares de seguridad y limpieza reconocidos internacionalmente. Esta Certificación sirve para garantizar que las instalaciones donde se fabrican y envasan los productos que comercializamos, cumplan con rigurosos estándares de Seguridad y Limpieza</p></td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="text-align:center;"><img src="img/AIB-INTERNATIONAL_IMAGE.png" alt="" style="width:30%;"></td>
                 </tr>
                 <tr class="border_compliance_tabla">
                     <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><b style="color:#000020">BCR</td>
@@ -508,10 +508,256 @@ gtag('config', 'G-SGJQ8FDDJ6');
                 </tr>
                 
             </table>
+        
         </div>
+      
     </div>
 </div>
 
+<div class="container center-align no_compliance">
+    <div class="row">
+        <div class="col s12 m12 l6 xl6" style="font-size:20px;width:50%"><b style="color:#000020;">A|B International</b></div>
+        <div class="col s12 m12 l6 xl6" style="width:45%"><img src="img/AIB-INTERNATIONAL_IMAGE.png" alt=""></div>
+        <div class="col s12 m12 l12 xl12" style="margin-top:10%;">
+        AIB International es una certificación que capacita al personal de las empresas para llevar sus instalaciones a los estándares de seguridad y limpieza reconocidos internacionalmente. Esta Certificación sirve para garantizar que las instalaciones donde se fabrican y envasan los productos que comercializamos, cumplan con rigurosos estándares de Seguridad y Limpieza
+        <hr style="background-color:1px solid black;">
+        </div>
+
+    </div>
+</div>
+
+<div class="container center-align no_compliance">
+    <div class="row">
+        <div class="col s12 m12 l6 xl6" style="font-size:20px;width:50%"><b style="color:#000020;">BCR</b></div>
+        <div class="col s12 m12 l6 xl6" style="width:45%"><img src="img/BCR_IMAGE.png" alt=""></div>
+        <div class="col s12 m12 l12 xl12" style="margin-top:10%;">
+        La norma BRC es reconocida por la Iniciativa mundial de Seguridad Alimentaria (GFSI), programa destinado a armonizar las normas internacionales de seguridad alimentaria, velando que cumplan con los requisitos que garantizan la seguridad, calidad, y legalidad de sus alimentos
+        <hr style="background-color:1px solid black;">
+        </div>
+
+    </div>
+</div>
+
+<div class="container center-align no_compliance">
+    <div class="row">
+        <div class="col s12 m12 l6 xl6" style="font-size:20px;width:50%"><b style="color:#000020;">ECOCERT</b></div>
+        <div class="col s12 m12 l6 xl6" style="width:30%"><img src="img/ECO-CERT_IMAGE.png" alt="" width="100%"></div>
+        <div class="col s12 m12 l12 xl12" style="margin-top:10%;">
+        El Certificado ECOCERT es la garantía para un producto en que cumpla con todos los requisitos de sostenibilidad, desde la producción de sus materias primas hasta el producto terminado.
+        <hr style="background-color:1px solid black;">
+        </div>
+
+    </div>
+</div>
+
+<div class="container center-align no_compliance">
+    <div class="row">
+        <div class="col s12 m12 l6 xl6" style="font-size:20px;width:50%"><b style="color:#000020;">FCC</b></div>
+        <div class="col s12 m12 l6 xl6" style="width:30%"><img src="img/FCC_IMAGE.png" alt=""></div>
+        <div class="col s12 m12 l12 xl12" style="margin-top:10%;">
+        El Códice de Sustancias Químicas para Alimentos o Food Chemicals Codex (FCC) es una colección de estándares internacionalmente reconocidos para la pureza e identidad de los ingredientes alimentarios. 
+        <hr style="background-color:1px solid black;">
+        </div>
+
+    </div>
+</div>
+
+<div class="container center-align no_compliance">
+    <div class="row">
+        <div class="col s12 m12 l6 xl6" style="font-size:20px;width:50%"><b style="color:#000020;">FEMA</b></div>
+        <div class="col s12 m12 l6 xl6" style="width:45%"><img src="img/FEMA_IMAGE.png" alt="" width="100%"></div>
+        <div class="col s12 m12 l12 xl12" style="margin-top:10%;">
+        El programa SQF (Safe Quality Food / Seguridad de Calidad Alimentaria) es un programa de calidad e inocuidad de los alimentos riguroso y confiable con reconocimiento por parte de minoristas, propietarios de marcas y proveedores de servicios de alimentos a nivel mundial.
+        <hr style="background-color:1px solid black;">
+        </div>
+
+    </div>
+</div>
+
+<div class="container center-align no_compliance">
+    <div class="row">
+        <div class="col s12 m12 l6 xl6" style="font-size:20px;width:50%"><b style="color:#000020;">FSSC-22000</b></div>
+        <div class="col s12 m12 l6 xl6" style="width:45%"><img src="img/FSSC-22000_IMAGE.jpg" width="100%" alt=""></div>
+        <div class="col s12 m12 l12 xl12" style="margin-top:10%;">
+        La Norma FSSC 22000 establece un marco de referencia para los requisitos de la seguridad alimentaria incorporando buenas prácticas en los sistemas agrícolas, de fabricación y distribución, y considerando los principios para el análisis de peligros y puntos críticos de control.
+        <hr style="background-color:1px solid black;">
+        </div>
+
+    </div>
+</div>
+
+<div class="container center-align no_compliance">
+    <div class="row">
+        <div class="col s12 m12 l6 xl6" style="font-size:20px;width:50%"><b style="color:#000020;">GMO</b></div>
+        <div class="col s12 m12 l6 xl6" style="width:45%"><img src="img/GMO_IMAGE.jpg" alt=""></div>
+        <div class="col s12 m12 l12 xl12" style="margin-top:10%;">
+        Los Organismos Modificados Genéticamente (GMO) son plantas y animales creados en los laboratorios al insertar genes de una especie en la secuencia de ADN de otra especie
+        <hr style="background-color:1px solid black;">
+        </div>
+
+    </div>
+</div>
+
+<div class="container center-align no_compliance">
+    <div class="row">
+        <div class="col s12 m12 l6 xl6" style="font-size:20px;width:50%"><b style="color:#000020;">GMP</b></div>
+        <div class="col s12 m12 l6 xl6" style="width:45%"><img src="img/GMP_IMAGE.png" alt="" width="100%"></div>
+        <div class="col s12 m12 l12 xl12" style="margin-top:10%;">
+        La Certificación de Buenas Prácticas de Fabricación (GMP - Good Manufacturing Practices) de SGS garantiza la integridad de su proceso de fabricación de alimentos y su conformidad con los reglamentos de seguridad alimentaria. La garantía de seguridad y calidad de los alimentos es un criterio importante para los consumidores en la actualidad.
+        <hr style="background-color:1px solid black;">
+        </div>
+
+    </div>
+</div>
+
+<div class="container center-align no_compliance">
+    <div class="row">
+        <div class="col s12 m12 l6 xl6" style="font-size:20px;width:50%"><b style="color:#000020;">HACCP</b></div>
+        <div class="col s12 m12 l6 xl6" style="width:45%"><img src="img/SQF_IMAGE.png" alt=""></div>
+        <div class="col s12 m12 l12 xl12" style="margin-top:10%;">
+        El programa SQF (Safe Quality Food / Seguridad de Calidad Alimentaria) es un programa de calidad e inocuidad de los alimentos riguroso y confiable con reconocimiento por parte de minoristas, propietarios de marcas y proveedores de servicios de alimentos a nivel mundial.
+        <hr style="background-color:1px solid black;">
+        </div>
+
+    </div>
+</div>
+
+<div class="container center-align no_compliance">
+    <div class="row">
+        <div class="col s12 m12 l6 xl6" style="font-size:20px;width:50%"><b style="color:#000020;">Halal</b></div>
+        <div class="col s12 m12 l6 xl6" style="width:45%"><img src="img/HALAL_IMAGE.png" alt="" style="width:100%;"></div>
+        <div class="col s12 m12 l12 xl12" style="margin-top:10%;">
+        La Certificación Halal determina que un producto o servicio cumple con lo que establece Ley Islámica (Shaira) para que este sea consumido, esto garantiza que los productos agroalimentarios cumplen con el conjunto de prácticas permitidas por la religión musulmana. El termino Halal se refiere a todo aquello que está permitido, aquello que es benéfico y saludable para el ser humano ya que aporta mejoras en la calidad de vida y reduce riesgos para la salud. 
+        <hr style="background-color:1px solid black;">
+        </div>
+
+    </div>
+</div>
+
+<div class="container center-align no_compliance">
+    <div class="row">
+        <div class="col s12 m12 l6 xl6" style="font-size:20px;width:50%"><b style="color:#000020;">ISO 9001:2015</b></div>
+        <div class="col s12 m12 l6 xl6" style="width:45%"><img src="img/ISO-9001_IMAGE.png" alt="" width="100%"></div>
+        <div class="col s12 m12 l12 xl12" style="margin-top:10%;">
+        La Certificación ISO 9001:2015 es una norma internacional de gestión de la calidad aplicable a cualquier tipo de organización en cualquier sector o actividad empresarial o industrial. Está basada en los siente principios de gestión de calidad, fundamentales para una buena gestión empresarial.
+        <hr style="background-color:1px solid black;">
+        </div>
+
+    </div>
+</div>
+
+<div class="container center-align no_compliance">
+    <div class="row">
+        <div class="col s12 m12 l6 xl6" style="font-size:20px;width:50%"><b style="color:#000020;">ISO 14001:2015</b></div>
+        <div class="col s12 m12 l6 xl6" style="width:45%"><img src="img/ISO-14001_IMAGE.png" alt="" width="100%"></div>
+        <div class="col s12 m12 l12 xl12" style="margin-top:10%;">
+        La Certificación ISO 14001:2015 promueve la protección ambiental a través de la mejora y optimización de la gestión de recursos a través del uso racional de los mismos y de este modo, reduciendo la probabilidad de ocurrencia de riesgos ambientales.
+        <hr style="background-color:1px solid black;">
+        </div>
+
+    </div>
+</div>
+
+<div class="container center-align no_compliance">
+    <div class="row">
+        <div class="col s12 m12 l6 xl6" style="font-size:20px;width:50%"><b style="color:#000020;">JECFA</b></div>
+        <div class="col s12 m12 l6 xl6" style="width:45%"><img src="img/JECFA_IMAGE.jpg" alt="" width="100%"></div>
+        <div class="col s12 m12 l12 xl12" style="margin-top:10%;">
+        El Comité Mixto FAO/OMS de Expertos en Aditivos Alimentarios (JECFA) es el órgano internacional encargado de la evaluación de la inocuidad de los aditivos alimentarios.
+        <hr style="background-color:1px solid black;">
+        </div>
+
+    </div>
+</div>
+
+<div class="container center-align no_compliance">
+    <div class="row">
+        <div class="col s12 m12 l6 xl6" style="font-size:20px;width:50%"><b style="color:#000020;">KOSHER</b></div>
+        <div class="col s12 m12 l6 xl6" style="width:45%"><img src="img/KOSHER_IMAGE.jpg" alt="" width="100%"></div>
+        <div class="col s12 m12 l12 xl12" style="margin-top:10%;">
+        La Certificación Kosher es aquella que indica que dichos productos respetan los preceptos de la religión judía y que, por tanto, se consideran puros y aptos para ser ingeridos por los practicantes de dicha religión.
+        <hr style="background-color:1px solid black;">
+        </div>
+
+    </div>
+</div>
+
+<div class="container center-align no_compliance">
+    <div class="row">
+        <div class="col s12 m12 l6 xl6" style="font-size:20px;width:50%"><b style="color:#000020;">NON-GMO</b></div>
+        <div class="col s12 m12 l6 xl6" style="width:45%"><img src="img/NON-GMO_IMAGE.jpg" alt="" width="100%"></div>
+        <div class="col s12 m12 l12 xl12" style="margin-top:10%;">
+        La certificación NON GMO evalúa alimentos de cuyos ingredientes o algún algún proceso de la creación de ellos, se ocupen organismos modificados genéticamente. Dicho de otro modo, certifica productos alimenticios completamente orgánicos, con todas sus cualidades naturales intactas.
+        <hr style="background-color:1px solid black;">
+        </div>
+
+    </div>
+</div>
+
+<div class="container center-align no_compliance">
+    <div class="row">
+        <div class="col s12 m12 l6 xl6" style="font-size:20px;width:50%"><b style="color:#000020;">OHSAS-18001</b></div>
+        <div class="col s12 m12 l6 xl6" style="width:45%"><img src="img/OHSAS-18001_IMAGE.png" alt="" width="100%"></div>
+        <div class="col s12 m12 l12 xl12" style="margin-top:10%;">
+        OHSAS 18001 especifica los requisitos para un sistema de gestión de la Seguridad y Salud en el Trabajo (SST), destinados a permitir que una organización controle sus riesgos para la SST y mejore su desempeño de la SST.
+        <hr style="background-color:1px solid black;">
+        </div>
+
+    </div>
+</div>
+
+<div class="container center-align no_compliance">
+    <div class="row">
+        <div class="col s12 m12 l6 xl6" style="font-size:20px;width:50%"><b style="color:#000020;">REACH</b></div>
+        <div class="col s12 m12 l6 xl6" style="width:45%"><img src="img/REACH-1_IMAGE.jpg" alt="" width="100%"></div>
+        <div class="col s12 m12 l12 xl12" style="margin-top:10%;">
+        El REACH (Registro, Evaluación, Autorización y Restricción de las Sustancias y Mezclas Químicas / Registration, Evaluation, Authorisation and Restriction of Chemicals) es un Reglamento de la Unión Europea Reglamento (CE) nº 1907/2006, adoptado con el fin de mejorar la protección de la salud humana y el medio ambiente contra los riesgos que pueden presentar los productos químicos.
+        <hr style="background-color:1px solid black;">
+        </div>
+
+    </div>
+</div>
+
+
+<div class="container center-align no_compliance">
+    <div class="row">
+        <div class="col s12 m12 l6 xl6" style="font-size:20px;width:50%"><b style="color:#000020;">RSPO</b></div>
+        <div class="col s12 m12 l6 xl6" style="width:45%"><img src="img/RSPO_IMAGE.png" alt="" width="100%"></div>
+        <div class="col s12 m12 l12 xl12" style="margin-top:10%;">
+        La RSPO (Roundtable on Sustainable Palm Oil / Mesa Redonda sobre el Aceite de Palma Sostenible) es una organización voluntaria que certifica a través de la unión de los siete grupos relacionados con la producción de aceite de palma: productores, procesadores o comerciantes, fabricantes de bienes de consumo, minoristas, bancos e inversores, y ONG sociales y medioambientales. La certificación RSPO se basa en la conformidad de cada eslabón de su cadena de suministro. 
+        <hr style="background-color:1px solid black;">
+        </div>
+
+    </div>
+</div>
+
+<div class="container center-align no_compliance">
+    <div class="row">
+        <div class="col s12 m12 l6 xl6" style="font-size:20px;width:50%"><b style="color:#000020;">SQF</b></div>
+        <div class="col s12 m12 l6 xl6" style="width:45%"><img src="img/SQF_IMAGE.png" alt="" width="100%"></div>
+        <div class="col s12 m12 l12 xl12" style="margin-top:10%;">
+        El programa SQF (Safe Quality Food / Seguridad de Calidad Alimentaria) es un programa de calidad e inocuidad de los alimentos riguroso y confiable con reconocimiento por parte de minoristas, propietarios de marcas y proveedores de servicios de alimentos a nivel mundial.
+        <hr style="background-color:1px solid black;">
+        </div>
+
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col s12 m12 l12 xl12">
+        <h5 class="Titulos Tipografia--general letranegro" style="margin-top:50px;"><b style="color:#000020">Importante:</b></h5>
+        <p class="letranegro Tipografia--general General--Cuerpo">Si adquiere algún producto comercializado por <b style="color:#000020;">Chemical Broker,</b> en las especificaciones de le venta le comentaron que tenía alguna certificación y no la ha recibido, póngase en contacto con el Área de Compliance al siguiente correo: compliance@chemicalbroker.mx. Para nosotros, su satisfaccion es lo mas importante.</p>
+        <h5 class="Titulos Tipografia--general letranegro" style="margin-top:50px;"><b style="color:#000020">Contacto</b></h5>
+        <ol>
+            <li class="Elementos--Listas letranegro" style="list-style-type:none;font-size:18px;">Correo Electrónico: <span style="color:rgba(2 146 238 /99%)">compliance@chemicalbroker.mx</span></li>
+            <li class="Elementos--Listas letranegro" style="list-style-type:none;">Télefono Fijo: +52.55.7586.1818</li>
+            <li class="Elementos--Listas letranegro" style="list-style-type:none;">Extensión: 1003 </li>
+            <li class="Elementos--Listas letranegro" style="list-style-type:none;">Teléfono Móvil: +52.55.1064.0248</li>
+        </ol>
+        </div>
+    </div>
+</div>
 
 </body>
 <footer class="altofooter">

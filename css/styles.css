@@ -1179,9 +1179,25 @@ font-size: 12px;
             border-bottom: 1px solid #000020;
         }
 
+        .compliance_tab{
+            display: none;
+        }
+
+        .mobile_compliance{
+            display: inline;
+        }
+
 }
 
 @media only screen and (min-width: 576px) {
+
+    .compliance_tab{
+        display: none;
+    }
+
+    .mobile_compliance{
+        display: inline;
+    }
 
     .img-logo {
         margin-top: 0px;
@@ -4105,6 +4121,10 @@ margin-top:85px;
 @media only screen and (min-width: 1750px) {
 
 
+    .compliance_tab{
+        display: block;
+    }
+
     .tabla_compliance_desktop{
         width: 100%;
     }
@@ -4114,9 +4134,7 @@ margin-top:85px;
         margin-top: -398px;
     }
 
-    .tabla_compliance_movil{
-        width:50%;
-    }
+
 
     .elemennav-secun {
         margin-left: 79px;
@@ -5120,6 +5138,10 @@ margin-top:85px;
         .border_compliance_tabla{
             border-top: 1px solid #000020;
             border-bottom: 1px solid #000020;
+        }
+
+        .no_compliance{
+            display: none;
         }
 }
 

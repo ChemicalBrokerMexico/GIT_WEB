@@ -185,7 +185,7 @@ href="Carreras.php">Carreras </a></b></span></div>
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l10 xl10 sections">
-<h6 class="Tipografia--general Titulos" style="color:white;padding-top:5px">Acerca de </h6>
+<h6 class="Tipografia--general Titulos" style="color:white;padding-top:5px">Nosotros</h6>
 <p class="Tipografia--general General--Cuerpo" style="color:#a7a7a7;">Chemical Broker es un
 proveedor mundial de servicios de intermediación, comercialización, distribución, importación y
 exportación de productos químicos.</p>
@@ -236,7 +236,7 @@ Industria Química.</p>
 <ul>
 <p style="color:white;"><b class="Tipografia--general Titulos">Compañia</b></p>
 <hr class="hr">
-<ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Acerca de <i
+<ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Nosotros<i
 class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a
 class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos
 &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a
@@ -476,7 +476,7 @@ placeholder=" Buscar contenido">
 <tbody class="center-align">
 <tr>
 <td style="border:hidden;background-color:#262137;"><a href="index.php"
-style="color:white !important;border:hidden">Acerca de </a></td>
+style="color:white !important;border:hidden">Nosotros</a></td>
 </tr>
 <tr>
 <td style="border:hidden;background-color:#262137;"><a href="Historia_Hechos.php"
@@ -675,22 +675,22 @@ style="position:relative;z-index:2">Trabajo en Equipo</span></b><b> </b>
         <div class="row">
     <div class="col s12">
       <ul class="tabs">
-        <li class="tab col s1.2"><a class="active" href="#test1C">Legal</a></li>
-        <li class="tab col s1.2"><a href="#test2C">Recursos Humanos</a></li>
-        <li class="tab col s1.2"><a href="#test3C">Tecnologías de la Información</a></li>
-        <li class="tab col s1.2"><a href="#test4C">Administración</a></li>
-        <li class="tab col s1.2"><a href="#test5C">Cumplimiento</a></li>
-        <li class="tab col s1.2"><a href="#test6C">Finanzas</a></li>
-        <li class="tab col s1.2"><a href="#test7C">Ventas</a></li>
-        <li class="tab col s1.2"><a href="#test8C">Compras</a></li>
-        <li class="tab col s1.2"><a href="#test9C">Calidad</a></li>
-        <li class="tab col s1.2"><a href="#test10C">Logística Global</a></li>
+        <!-- <li class="tab col s1.1"><a class="active" href="#test1C">Legal</a></li> -->
+        <li class="tab col s1.1"><a href="#test2C">Recursos Humanos</a></li>
+        <li class="tab col s1.1"><a href="#test3C">I.T.</a></li>
+        <li class="tab col s1.1"><a href="#test4C">Administración</a></li>
+        <li class="tab col s1.1"><a href="#test5C">Cumplimiento</a></li>
+        <li class="tab col s1.1"><a href="#test6C">Finanzas</a></li>
+        <li class="tab col s1.1"><a href="#test7C">Ventas</a></li>
+        <li class="tab col s1.1"><a href="#test8C">Compras</a></li>
+        <!-- <li class="tab col s1.1"><a href="#test9C">Calidad</a></li>
+        <li class="tab col s1.1"><a href="#test10C">Logística Global</a></li> -->
         <!-- <li class="tab col s3"><a href="#test4">Test 4</a></li> -->
       </ul>
     </div>
   <div id="test1C" class="col s12">
 
-<div class="col s12 m12 l6 xl6 mercados" style="margin-top:10px"><a href="Proximamente.php"
+<!-- <div class="col s12 m12 l6 xl6 mercados" style="margin-top:10px"><a href="Proximamente.php"
 style="cursor:pointer;">
 <div class="contenedor">
 <div class="transfo" id="overlay_RH" style="border-radius:10px"></div>
@@ -701,12 +701,12 @@ style="position:relative;z-index:2">Legal</span></b><b> </b>
 
 </div><img class="mercadosimagen" src="img/CBM_LEGLA_170823.jpg" alt="" style="border-radius:10px">
 </div>
-</a></div>
-
+</a></div> -->
+<!-- 
 <div class="col s12 m12 l6 xl6 mercados columna1--mobile">
 <p class="Tipografia--general letranegro General--Cuerpo">Día a día existen cambios en la perspectiva de inclusión a nivel mundial, las empresas están implementando nuevas políticas en cuanto a la diversidad de los Recursos Humanos, Chemical Broker a través de la política inclusión y diversidad química apoya el hecho de trabajar con todas las personas que tengan las aptitudes para desempeñarse sin límites en un puesto de trabajo, sin importar raza, credo o religión.</p>
 <a href="#" class="btn" style="background:#000020;text-transform: capitalize;">Leer Mas</a>
-</div>
+</div> -->
 
     </div>
 
@@ -836,7 +836,7 @@ style="position:relative;z-index:2">Ventas</span></b><b> </b>
 </div>
 </a></div>
 <div class="col s12 m12 l6 xl6 mercados columna1--mobile">
-<p class="Tipografia--general letranegro General--Cuerpo">Una organización exitosa persigue un objetivo en común, coopera, colabora y compite con el mismo equipo de trabajo en cada actividad clave, orientado al resultado de excelencia.</p>
+<p class="Tipografia--general letranegro General--Cuerpo">Generar y desarrollar oportunidades de negocio que provean beneficios económicos y rentables de largo plazo para la organización, contribuyendo al logro de los objetivos establecidos, con base a la generación de pronósticos de venta, destacando la ventaja competitiva con la que se cuenta y aumentando la satisfacción total del cliente..</p>
 <a href="#" class="btn" style="background:#000020;text-transform: capitalize;">Leer Mas</a>
 </div></div>
 
@@ -850,6 +850,27 @@ style="cursor:pointer;">
 
 <b class="titulo_rh"> <span
 style="position:relative;z-index:2">Compras</span></b><b> </b>
+<hr class="animacion">
+<!-- <p><b style="color:white !important">
+<p class="leer_mas_mercados center-align botones"> Leer Mas</p>
+</b></p> -->
+</div><img class="mercadosimagen" src="img/CB_MARKETS_200422.jpg" alt="" style="border-radius:10px">
+</div>
+</a></div>
+<div class="col s12 m12 l6 xl6 mercados columna1--mobile">
+<p class="Tipografia--general letranegro General--Cuerpo">Generar, analizar y negociar con distintos proveedores a nivel global, los beneficios que se obtienen de las relaciones a largo plazo para el crecimiento y desarrollo con base en nuestro Enfoque de Negocios.</p>
+<a href="#" class="btn" style="background:#000020;text-transform: capitalize;">Leer Mas</a>
+</div></div>
+
+<div id="test10C" class="col s12"><div class="col s12 m12 l6 xl6 mercados" style="margin-top:10px;"><a href="Proximamente.php"
+style="cursor:pointer;">
+<div class="contenedor">
+<div class="transfo" id="overlay_RH" style="border-radius:10px"></div>
+<div class="centrado_sub" style="position:absolute;z-index:2">
+<h5 class="titulo_rh"></h5>
+
+<b class="titulo_rh"> <span
+style="position:relative;z-index:2">Logistica Global</span></b><b> </b>
 <hr class="animacion">
 <!-- <p><b style="color:white !important">
 <p class="leer_mas_mercados center-align botones"> Leer Mas</p>

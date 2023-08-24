@@ -117,7 +117,7 @@
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l10 xl10 sections">
-<h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Acerca de </h6>
+<h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Nosotros</h6>
 <p class="Tipografia--general General--Cuerpo" style="color:#a7a7a7;">Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos.</p>
 </div>
 </div>
@@ -159,7 +159,7 @@
 <ul> 
 <p class="color--blanco"><b class="Tipografia--general Titulos">Compañia</b></p>
 <hr class="hr">
-<ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Acerca de <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Valores.php">Valores <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
+<ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Nosotros<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Valores.php">Valores <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
 </ul>
 </section>
 </div>
@@ -253,7 +253,7 @@
 </thead>
 <tbody class="center-aling">
 <tr> 
-<td class="border--hidden"><a class="letranegro border--hidden" href="index.php" style="border-bottom:1px solid white;">Acerca de </a></td>
+<td class="border--hidden"><a class="letranegro border--hidden" href="index.php" style="border-bottom:1px solid white;">Nosotros</a></td>
 </tr>
 <tr>
 <td class="border--hidden"><a class="letranegro border--hidden" href="Historia_Hechos.php" >Historia y Hechos</a></td>
@@ -332,7 +332,7 @@
 </thead>
 <tbody class="center-align">
 <tr> 
-<td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="index.php"  style="border-bottom:1px solid white;">Acerca de </a></td>
+<td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="index.php"  style="border-bottom:1px solid white;">Nosotros</a></td>
 </tr>
 <tr> 
 <td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="Historia_Hechos.php" style="border-bottom:1px solid white;">Historia y Hechos</a></td>
@@ -376,7 +376,7 @@
 <ul class="slides">
 <li> <img src="img/CB_QUIMICA.jpg" style="height:800px;" alt="Industria Quimica">
 <div class="caption center-align"><br><br><br><br>
-<h3 class="primertitulo"><b>Chemical Broker</b><br></h3><b class="segundotitulo">Acerca de</b>
+<h3 class="primertitulo"><b>Chemical Broker</b><br></h3><b class="segundotitulo">Nosotros</b>
 </div>
 </li>
 </ul>
@@ -385,7 +385,7 @@
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section style="margin-top:125px"><a class="breditem active" href="#" style="color:#262137 !important"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Inicio&nbsp</b><b class="Tipografia--general letranegro Subtitulos"> >&nbsp  </b></a><a class="breditem active" href="index.php" style="color:#262137 !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb">Acerca de</b></a></section>
+<section style="margin-top:125px"><a class="breditem active" href="#" style="color:#262137 !important"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Inicio&nbsp</b><b class="Tipografia--general letranegro Subtitulos"> >&nbsp  </b></a><a class="breditem active" href="index.php" style="color:#262137 !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb">Nostros</b></a></section>
 </div>
 </div>
 </div>
@@ -393,14 +393,28 @@
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<h6><b class="Tipografia--general letranegro Titulos" style="color:#262137;border-bottom:1.5px solid #b12729">Quienes Somos</b></h6>
-<p class="Tipografia--general letranegro General--Cuerpo"><b class="Tipografia--general General--Cuerpo" style="color:#262137">Chemical Broker</b> es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos.
-</p>
+<h6><b class="Tipografia--general letranegro Titulos" style="color:#262137;">Nosotros</b></h6>
+<p class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020;">Chemical Broker</b> comenzó hace más de 9 años, nos basamos en una historia aún más larga de innovación y crecimiento.</p>
+<p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Hoy nos hemos convertido en uno de los mayores distribuidores de Oleo químicos; Ácidos Grasos, Alcoholes Grasos, Glicerinas, Triglicéridos, Derivados de Palma, Destilados de Ácidos Grasos, Glicoles, Aceites y Grasas, Conservadores, entre otros.</p>
+<p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Nos vemos a nosotros mismos como el puente que conecta a los proveedores en lugares lejanos con los clientes. Y como un canal de distribucion, que trae materiales esenciales, necesarios para miles de fabricantes, para crear productos que mejoren la vida de millones de consumidores en todo el mundo.</p>
+<p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Incluso estamos ampliando nuestra línea de productos mientras desarrollamos soluciones renovables de base biológica para el futuro.</p>
+<p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Y tal vez eso es realmente lo que nos diferencia. Porque para todos en Chemical Broker, se trata de más que simplemente lo que hacemos, se trata de la forma en como lo hacemos: una empresa, guiada por principios e impulsada por la pasión de servir mejor a nuestros proveedores y clientes, todos los días.</p>
+<h6 style="margin-top:50px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;margin-top:50px;">Enfoque de Negocios</b></h6>
+<p class="Tipografia--general letranegro General--Cuerpo">Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de ingredientes químicos.</p>
+<h6 style="margin-top:50px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;margin-top:50px;">Negocios</b></h6>
+<p class="Tipografia--general letranegro General--Cuerpo">Nuestros negocios brindan servicio a la Industrias Farmacéutica, Alimentaria y Nutrición Humana, Cosmética y del Cuidado Personal, Veterinaria, Alimento y Nutrición Animal, Agroquímicos, Detergentes y Cuidado del Hogar y la Industria Química en general.</p>
+<h6 style="margin-top:50px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;">Proceso de Negocios:</b></h6>
+<div class="row center-align" style="margin-top:50px;">
+  <div class="col s12 m12 l2 xl2" style="background-color:#000020;color:white;height:67px;display:flex;align-items:center;justify-content:center;border-right:1px solid white;">Fabricante</div>
+  <div class="col s12 m12 l2 xl2" style="background-color:#000020;color:white;height:67px;display:flex;align-items:center;justify-content:center;border-right:1px solid white;"><p style="color:yellow;">Compra</p><br><p style="color:rgba(2 146 238 /99%);">Ingredientes</p><br><p style="color:rgba(2 146 238 /99%);">Quimicos</span></div>
+  <div class="col s12 m12 l2 xl2" style="background-color:#000020;color:white;height:67px;display:flex;align-items:center;justify-content:center;border-right:1px solid white;">Chemical Broker</div>
+  <div class="col s12 m12 l2 xl2" style="background-color:#000020;color:white;height:67px;display:flex;align-items:center;justify-content:center;border-right:1px solid white;">Venta<br>Ingredientes<br>Quimicos</div>
+  <div class="col s12 m12 l2 xl2" style="background-color:#000020;color:white;height:67px;display:flex;align-items:center;justify-content:center;border-right:1px solid white;">Consumidor<br>(Cliente)</div>
+</div>
 </div>
 <div class="col s12 m12 l12 xl12" style="margin-top:50px;">
 <h6><b class="Tipografia--general letranegro Titulos" style="color:#262137;border-bottom:1.5px solid #b12729">Enfoque de Negocios </b></h6>
-<p class="Tipografia--general letranegro General--Cuerpo">Nuestros negocios brindan servicio a nuestros clientes en las industrias&nbsp<b style="color:#262137;">Farmacéutica, Alimentaria y Nutrición Humana, Alimentaria y Nutrición Animal, Agroquímicos, Cosmética y Cuidado Personal, Detergencia, Industria Química</b>. Donde la excelencia es el principal protagonista en cada operación.
-</p>
+<p class="Tipografia--general letranegro General--Cuerpo">Nuestros negocios brindan servicio a nuestros clientes en las industrias&nbsp<b style="color:#262137;">Farmacéutica, Alimentaria y Nutrición Humana, Alimentaria y Nutrición Animal, Agroquímicos, Cosmética y Cuidado Personal, Detergencia, Industria Química</b>. Donde la excelencia es el principal protagonista en cada operación.</p>
 </div>
 <div class="col s12 m12 l12 xl12" style="margin-top:50px;">
 <h6><b class="Tipografia--general letranegro Titulos" style="color:#262137;border-bottom:1.5px solid #b12729">Misión          </b></h6>

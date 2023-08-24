@@ -53,7 +53,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l10 xl10 sections">
-<h6 style="color:white;padding-top:5px">Acerca de </h6>
+<h6 style="color:white;padding-top:5px">Nosotros</h6>
 <p style="color:#a7a7a7;text-align:start;font-size:15px">Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos.</p>
 </div>
 </div>
@@ -95,7 +95,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <ul> 
 <p style="color:white;"><b>Compañia</b></p>
 <hr class="hr">
-<ul> <a class="arrowblue" href="index.php">Acerca de <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue" href="Historia_Hechos.php">Historia y Hechos &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue" href="Marca.php">Marca &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue" href="Valores.php">Valores &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue" href="Premisas.php">Premisas &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue" href="Servicio_Total.php">Servicio Total &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
+<ul> <a class="arrowblue" href="index.php">Nosotros<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue" href="Historia_Hechos.php">Historia y Hechos &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue" href="Marca.php">Marca &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue" href="Valores.php">Valores &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue" href="Premisas.php">Premisas &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue" href="Servicio_Total.php">Servicio Total &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
 </ul>
 </section>
 </div>
@@ -176,7 +176,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 </thead>
 <tbody class="center-aling">
 <tr> 
-<td style="border:hidden"><a href="index.php" style="color:black !important;border:hidden">Acerca de </a></td>
+<td style="border:hidden"><a href="index.php" style="color:black !important;border:hidden">Nosotros</a></td>
 </tr>
 <tr>
 <td style="border:hidden"><a href="Historia_Hechos.php" style="color:black !important;border:hidden">Historia y Hechos</a></td>
