@@ -168,6 +168,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
                         <li> <a class="arrowblue Tipogradia--general Subtitulos" href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download>Politica de Privacidad <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                         <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
+                                                      <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                       </p>
                     </ul>
                   </section>
@@ -399,7 +400,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <li class="no--opacidad Tipografia--general" id="B" onclick="filtrob();"><b>B</b></li>
 <li class="no--opacidad Tipografia--general" id="C" onclick="filtroc();"><b>C</b></li>
 <li class="no--opacidad Tipografia--general" id="D" onclick="filtrod();"><b>D</b></li>
-<li class="opacity--menor Tipografia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="E"><b>E</b></li>
+<li class="no--opacidad Tipografia--general" id="E" onclick="filtroe();"><b>E</b></li>
 <li class="opacity--menor Tipografia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="F"><b>F</b></li>
 <li class="no--opacidad Tipografia--general " id="G" onclick="filtrog();"><b>G</b></li>
 <li class="opacity--menor Tipografia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="H"><b>H</b></li>

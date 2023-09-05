@@ -172,6 +172,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download>Politica de Privacidad <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
+<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 </p>
 </ul>
 </section>
@@ -398,35 +399,70 @@
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Hoy nos hemos convertido en uno de los mayores distribuidores de Oleo químicos; Ácidos Grasos, Alcoholes Grasos, Glicerinas, Triglicéridos, Derivados de Palma, Destilados de Ácidos Grasos, Glicoles, Aceites y Grasas, Conservadores, entre otros.</p>
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Nos vemos a nosotros mismos como el puente que conecta a los proveedores en lugares lejanos con los clientes. Y como un canal de distribucion, que trae materiales esenciales, necesarios para miles de fabricantes, para crear productos que mejoren la vida de millones de consumidores en todo el mundo.</p>
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Incluso estamos ampliando nuestra línea de productos mientras desarrollamos soluciones renovables de base biológica para el futuro.</p>
-<p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Y tal vez eso es realmente lo que nos diferencia. Porque para todos en Chemical Broker, se trata de más que simplemente lo que hacemos, se trata de la forma en como lo hacemos: una empresa, guiada por principios e impulsada por la pasión de servir mejor a nuestros proveedores y clientes, todos los días.</p>
+<p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Y tal vez eso es realmente lo que nos diferencia. Porque para todos en <b style="color:#000020;">Chemical Broker</b>, se trata de más que simplemente lo que hacemos, se trata de la forma en como lo hacemos: una empresa, guiada por principios e impulsada por la pasión de servir mejor a nuestros proveedores y clientes, todos los días.</p>
 <h6 style="margin-top:50px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;margin-top:50px;">Enfoque de Negocios</b></h6>
 <p class="Tipografia--general letranegro General--Cuerpo">Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de ingredientes químicos.</p>
 <h6 style="margin-top:50px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;margin-top:50px;">Negocios</b></h6>
 <p class="Tipografia--general letranegro General--Cuerpo">Nuestros negocios brindan servicio a la Industrias Farmacéutica, Alimentaria y Nutrición Humana, Cosmética y del Cuidado Personal, Veterinaria, Alimento y Nutrición Animal, Agroquímicos, Detergentes y Cuidado del Hogar y la Industria Química en general.</p>
 <h6 style="margin-top:50px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;">Proceso de Negocios:</b></h6>
-<div class="row center-align" style="margin-top:50px;">
-  <div class="col s12 m12 l2 xl2" style="background-color:#000020;color:white;height:67px;display:flex;align-items:center;justify-content:center;border-right:1px solid white;">Fabricante</div>
-  <div class="col s12 m12 l2 xl2" style="background-color:#000020;color:white;height:67px;display:flex;align-items:center;justify-content:center;border-right:1px solid white;"><p style="color:yellow;">Compra</p><br><p style="color:rgba(2 146 238 /99%);">Ingredientes</p><br><p style="color:rgba(2 146 238 /99%);">Quimicos</span></div>
-  <div class="col s12 m12 l2 xl2" style="background-color:#000020;color:white;height:67px;display:flex;align-items:center;justify-content:center;border-right:1px solid white;">Chemical Broker</div>
-  <div class="col s12 m12 l2 xl2" style="background-color:#000020;color:white;height:67px;display:flex;align-items:center;justify-content:center;border-right:1px solid white;">Venta<br>Ingredientes<br>Quimicos</div>
-  <div class="col s12 m12 l2 xl2" style="background-color:#000020;color:white;height:67px;display:flex;align-items:center;justify-content:center;border-right:1px solid white;">Consumidor<br>(Cliente)</div>
+
+
+
+
+
 </div>
 </div>
-<div class="col s12 m12 l12 xl12" style="margin-top:50px;">
-<h6><b class="Tipografia--general letranegro Titulos" style="color:#262137;border-bottom:1.5px solid #b12729">Enfoque de Negocios </b></h6>
-<p class="Tipografia--general letranegro General--Cuerpo">Nuestros negocios brindan servicio a nuestros clientes en las industrias&nbsp<b style="color:#262137;">Farmacéutica, Alimentaria y Nutrición Humana, Alimentaria y Nutrición Animal, Agroquímicos, Cosmética y Cuidado Personal, Detergencia, Industria Química</b>. Donde la excelencia es el principal protagonista en cada operación.</p>
 </div>
-<div class="col s12 m12 l12 xl12" style="margin-top:50px;">
-<h6><b class="Tipografia--general letranegro Titulos" style="color:#262137;border-bottom:1.5px solid #b12729">Misión          </b></h6>
-<p class="Tipografia--general letranegro General--Cuerpo">“Ser el <b class="Tipografia--general letranegro General--Cuerpo" style="color:#262137">Broker Global </b> que aporte las soluciones adecuadas y especificas en la adquisición de insumos para la industria química centrados en la necesidad del cliente.”
-</p>
+
+
+<div class="container">
+
+<div class="row">
+<div class="col s12 m12 l12 xl12">
+
+<table>
+  <tr>
+    <td colspan="6" class="center-align" style="background-color:#FF6600;color:white;">Calidad</td>
+  </tr>
+  <tr>
+    <th style="background-color:#000020;color:white;border:1px solid white;" class="center-align"><p style="margin:0px 3px;">Fabricante</p><p style="margin:3px;">(Proveedor)</p></th>
+    <th style="background-color:#000020;color:white;border:1px solid white;" class="center-align"><p style="margin:0px 3px;">Fabricante</p><p style="margin:3px;">(Proveedor)</p></th>
+    <th style="background-color:#000020;color:white;border:1px solid white;" class="center-align"><p style="color:yellow;margin:0px;">Compra</p>  <p style="color:rgba(2 146 238 /99%);margin:0px -10px;">Ingredientes</p><p style="color:rgba(2 146 238 /99%);margin:0px;">Quimicos</p></th>
+    <th style="background-color:#000020;color:white;border:1px solid white;" class="center-align">Chemical Broker</th>
+    <th style="background-color:#000020;color:white;border:1px solid white;" class="center-align"><div style="display:block;"><p style="color:yellow;margin:0px;">Compra</p>  <p style="color:rgba(2 146 238 /99%);margin:0px -10px;">Ingredientes</p><p style="color:rgba(2 146 238 /99%);margin:0px;">Quimicos</p></th>
+    <th style="background-color:#000020;color:white;border:1px solid white;" class="center-align"><div style="display:block;"><p style="margin:0px -14px;">Consumidor</p><p style="margin:0px;">(Cliente)</p></th>
+  </tr>
+  <tr>
+    <td colspan="6" class="center-align" style="background-color:#BDD6EE;color:white;">Sistema de Gestión Integral</td>
+  </tr>
+</table>
+
 </div>
-<div class="col s12 m12 l12 xl12" style="margin-top:50px"> 
-<h6 style="color:#262137"><b class="Tipografia--general Titulos letranegro" style="color:#262137;border-bottom:1.5px solid #b12729">Visión</b></h6>
-<p class="Tipografia--general General--Cuerpo letranegro">"Ser el&nbsp<b class="Tipografia--general letranegro General--Cuerpo" style="color:#262137">Broker </b> mexicano con la mayor proyección de crecimiento al 2023, considerando ser proveedor de las 10 marcas más importantes de las Industrias atendidas sin descuidar otras áreas de oportunidad ” (01/01/2018).
-</p>
+
 </div>
+  
 </div>
+
+<div class="container">
+  <div class="row">
+    <div class="col s12 m12 l12 xl12">
+    <p class="Tipografia--General letranegro General--Cuerpo center-align"><b>(Compra | Ingrediente(s) Químico(s) | Calidad | Aseguramiento | Logística - Importación o Exportación | Aseguramiento | Logística | Calidad | Ingrediente(s) Químico(s) | Venta)</b></p>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="container">
+  <div class="row">
+    <div class="col s12 m12 l12 xl12">
+    <h6 style="margin-top:30px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;">Misión</b></h6>
+  <p class="Tipografia--general letranegro General--Cuerpo">Ser el intermediario mundial de ingredientes químicos que aporte las soluciones adecuadas y especificas en la adquisición de insumos para la industria química centrados en la necesidad del cliente.</p>
+
+  <h6 style="margin-top:50px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;">Visión</b></h6> 
+  <p class="Tipografia--general letranegro General--Cuerpo">Proveedor de las 10 marcas más importantes de la Industria Farmacéutica, Alimentaria y Cosmética, sin descuidar otras áreas de oportunidad.” 01/01/2023</p>
+    </div>
+  </div>
 </div>
 <footer class="altofooter">
 <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""></div><br><br>

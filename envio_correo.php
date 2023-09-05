@@ -1,8 +1,8 @@
 <?php
 
-if(isset($_POST["titulo"])){
-    $Titulo = $_POST["titulo"];
-}
+// if(isset($_POST["titulo"])){
+//     $Titulo = $_POST["titulo"];
+// }
 
 if(isset($_POST["nombre"])){
     $Nombre = $_POST["nombre"];
@@ -20,29 +20,29 @@ if(isset($_POST["email"])){
     $Email = $_POST["email"];    
 }
 
-if(isset($_POST["calleN"])){
-    $Callen = $_POST["calleN"];
-}
+// if(isset($_POST["calleN"])){
+//     $Callen = $_POST["calleN"];
+// }
 
-if(isset($_POST["colonia"])){
-    $Colonia = $_POST["colonia"];
-}
+// if(isset($_POST["colonia"])){
+//     $Colonia = $_POST["colonia"];
+// }
 
-if(isset($_POST["codigop"])){
-    $Codigop = $_POST["codigop"];
-}
+// if(isset($_POST["codigop"])){
+//     $Codigop = $_POST["codigop"];
+// }
 
-if(isset($_POST["ciudad"])){
-    $Ciudad = $_POST["ciudad"];
-}
+// if(isset($_POST["ciudad"])){
+//     $Ciudad = $_POST["ciudad"];
+// }
 
 if(isset($_POST["pais"])){
     $Pais = $_POST["pais"];
 }
 
-if(isset($_POST["estado"])){
-    $Estado = $_POST["estado"];
-}
+// if(isset($_POST["estado"])){
+//     $Estado = $_POST["estado"];
+// }
 
 if(isset($_POST["numtel"])){
     $Numtel = $_POST["numtel"];
@@ -63,13 +63,12 @@ if(isset($_POST["textarea1"])){
     $header .= "Content-type: text/html; charset=iso-8859-1\r\n";
     $header .= "Reply-To: it@chemicalbroker.mx\r\n";
     $header .= "Return-path: it@chemicalbroker.mx\r\n"; 
-    $mensaje .= "Enviado por El/La : " . $Titulo . " " . $Nombre . "\r\n";
-    $mensaje .= "Correo Electronico: " . $Email . "\r\n";
-    $mensaje .= "Empresa " . $Organizacion . "\r\n";
+    $mensaje .= "Enviado por El/La : " . " " . $Nombre . "\r\n";
+    $mensaje .= "Con Correo Electronico: " . $Email . "\r\n";
+    $mensaje .= " de la Empresa " . $Organizacion . "\r\n";
     $mensaje .= "Puesto de Contacto: " . $Puesto . "\r\n";
     $mensaje .= "Numero Telefonico de Contacto: " .  $Numtel . "\r\n";
-    $mensaje .= "Direccion de Contacto: " . $Callen . " " . $Colonia . " C.P. " . $Codigop . "\r\n";
-    $mensaje .= " De la Ciudad de " . $Ciudad . " Perteneciente al Estado de " . $Estado . "\r\n"; 
+    $mensaje .= " De la Ciudad de " . $Ciudad . "\r\n"; 
     $mensaje .= " "  . "\r\n";
     // $mensaje .= "Relacionado a la siguiente Industria:" . " \r\n ";
     $para = 'it@chemicalbroker.mx';

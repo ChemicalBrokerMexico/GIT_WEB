@@ -40,7 +40,7 @@ $(document).ready(function(){
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro">Chemical Broker ofrece una amplia gama de Alcoholes Grasos de fracción media y fracción pesada a partir de materias primas naturales sostenibles. </p>
     <p class="Tipografia--general General--Cuerpo letranegro">Nuestras relaciones de negocios con nuestros fabricantes en America, Europa y Asia brindan capacidad de respuesta y garantía de suministro en todo el mundo.
-    <p class="Tipografia--general Botones letranegro Leeralcoholesgrasos" style="position:absolute;left:10px;bottom:-30px"><b><a href="Alcoholes_Grasos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    <p class="Tipografia--general Botones letranegro" style="position:absolute;left:10px;bottom:-30px"><b><a href="Alcoholes_Grasos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
 
@@ -149,6 +149,20 @@ $(document).ready(function(){
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro">La Dextrosa es un azúcar que se encuentra ampliamente en la naturaleza, por ejemplo, en la miel y muchas frutas. Como componente de la celulosa, el almidón y el glucógeno, se encuentra en todas las plantas y animales y también se conoce como "azúcar de uva" o "azúcar en la sangre".</p>
     <p class="Tipografia--general Botones letranegro LeerDextrosa"><b><a href="Dextrosas.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
+
+
+    <div class="row" style="margin-top:150px;"> 
+    <div class="col s12 m12 l6 xl6 center-align" style="height:350px">
+    <img src="img/CB_2_ETHYLHEXANOL_050923.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
+    </div>
+    <div class= "col s12 m12 l6 xl6 columnas_acidos_grasos" style="position:relative;height:350px">
+    <h5 class="Tipografia--general Titulos"><b>2-Etilhexanol (2-EH)</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">El 2-etilhexanol (abreviado 2-EH) es un alcohol graso ramificado, un compuesto orgánico de ocho átomos de carbono con un grupo alcohol. Es un líquido incoloro que es poco soluble en agua, pero soluble en la mayoría de los disolventes orgánicos. </p>
+    <p class="Tipografia--general Botones letranegro Leeracidgrass" style="position:absolute;left:10px;bottom:-30px"><b><a href="2-Etilhexanol.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
 
@@ -463,6 +477,17 @@ function filtroall(){
     </div>
 
   
+    <div class="row" style="margin-top:150px;"> 
+    <div class="col s12 m12 l6 xl6 center-align" style="height:350px">
+    <img src="img/CB_2_ETHYLHEXANOL_050923.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
+    </div>
+    <div class= "col s12 m12 l6 xl6 columnas_acidos_grasos" style="position:relative;height:350px">
+    <h5 class="Tipografia--general Titulos"><b>2-Etilhexanol (2-EH)</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">El 2-etilhexanol (abreviado 2-EH) es un alcohol graso ramificado, un compuesto orgánico de ocho átomos de carbono con un grupo alcohol. Es un líquido incoloro que es poco soluble en agua, pero soluble en la mayoría de los disolventes orgánicos. </p>
+    <p class="Tipografia--general Botones letranegro Leeracidgrass" style="position:absolute;left:10px;bottom:-30px"><b><a href="2-Etilhexanol.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
     
     
     <div class="row" style="margin-top:70px;display:none">
@@ -829,19 +854,15 @@ function filtroe(){
     
     document.getElementById("contenedorliteral").innerHTML = `
     
-    <div class="row" style="margin-top:70px;display:none">
-    
-    <div class="col s12 m12 l6 xl6 center-align">
-    
-    <img src="" alt="" style="width:100%">
+    <div class="row" style="margin-top:0px;"> 
+    <div class="col s12 m12 l6 xl6 center-align" style="height:350px">
+    <img src="img/CB_2_ETHYLHEXANOL_050923.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
     </div>
-    
-    <div class="col s12 m12 l6 xl6" style="margin-top:-32px">
-    <h5 class="Tipografia--general Titulos"><b>EDTA´s</b></h5>
+    <div class= "col s12 m12 l6 xl6 columnas_acidos_grasos" style="position:relative;height:350px">
+    <h5 class="Tipografia--general Titulos"><b>2-Etilhexanol (2-EH)</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El ácido etilendiaminotetraacético, también denominado EDTA o con menor frecuencia AEDT, es una sustancia utilizada como agente quelante que puede crear complejos con un metal que tenga una estructura de coordinación octaédrica. Coordina a metales pesados de forma reversible por cuatro posiciones acetato y dos amino, lo que lo convierte en un ligando hexadentado, y el más importante de los ligandos quelatos. Fue sintetizado por primera vez en 1935 por Ferdinand Münz. </p>
-    <p class="Tipografia--general General--Cuerpo letranegro">El EDTA y sus derivados tienen la valiosa propiedad química de combinarse con iones metálicos polivalentes en solución para formar complejos coordinados cíclicos no iónicos, solubles en agua y virtualmente no disociables. A estos complejos se les conoce como quelatos.</p>
-    <p class="Tipografia--general Botones letranegro Leerantiox"><b><a href="Carbomeros.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El 2-etilhexanol (abreviado 2-EH) es un alcohol graso ramificado, un compuesto orgánico de ocho átomos de carbono con un grupo alcohol. Es un líquido incoloro que es poco soluble en agua, pero soluble en la mayoría de los disolventes orgánicos. </p>
+    <p class="Tipografia--general Botones letranegro Leeracidgrass" style="position:absolute;left:10px;bottom:-30px"><b><a href="2-Etilhexanol.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
     `;
