@@ -567,7 +567,7 @@
   <div class="container">
     <div class="row">
       <div class="col s12 m12 l12 xl12">
-        <h5 class="Tipografia--general letranegro General--Cuerpo"><b>!!Consigue la Excelencia!!</b></h5>
+        <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;"><b>!!Consigue la Excelencia!!</b></h5>
 
         <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>¿Quién es Chemical
             Broker?</b></h5>
@@ -721,6 +721,7 @@
               <li class="tab col s1.3"><a href="#test7C"><b>Ventas</b></a></li>
               <li class="tab col s1.3"><a href="#test8C"><b>Compras</b></a></li>
               <li class="tab col s1.3"><a href="#test9C"><b>Logistica Global</b></a></li>
+              <!-- <li class="tab col s1.3"><a href="#test10c"><b>Marketing</b></a></li> -->
 
             </ul>
           </div>
@@ -802,7 +803,7 @@
             *se despliegan los departamentos correspondientes a las áreas con sus respectivos roles clave.
 
           </p>
-          <a href="Proximamente.php" style="color:#000020;"><b style="color:#000020;">Leer Mas</b></a>
+          <a href="IT.php" style="color:#000020;"><b style="color:#000020;">Leer Mas</b></a>
         </div>
 
       </div>
@@ -826,7 +827,7 @@
             resultados esperados, optimizando los Recursos Financieros, Humanos y Materiales, contribuyendo así al
             desarrollo de Chemical Broker.
           </p>
-          <a href="Proximamente.php" style="color:#000020;"><b style="color:#000020;">Leer Mas</b></a>
+          <a href="administraion.php" style="color:#000020;"><b style="color:#000020;">Leer Mas</b></a>
         </div>
       </div>
 
@@ -853,7 +854,7 @@
             los programas de mejora de la gestión de las áreas involucradas en el proceso.
           </p>
 
-          <a href="Proximamente.php" style="color:#000020;"><b style="color:#000020;">Leer Mas</b></a>
+          <a href="proximamente.php" style="color:#000020;"><b style="color:#000020;">Leer Mas</b></a>
         </div>
 
       </div>
@@ -899,12 +900,9 @@
 
         <div class="col s12 m12 l6 xl6 mercados zoom columna1--mobile">
           <p class="tipografia--general letranegro General--Cuerpo">
-            Generar y desarrollar oportunidades de negocio que provean beneficios económicos y rentables de largo plazo
-            para la organización, contribuyendo al logro de los objetivos establecidos, con base a la generación de
-            pronósticos de venta, destacando la ventaja competitiva con la que se cuenta y aumentando la satisfacción
-            total del cliente.
+        Dirigir las operaciones y estrategias de ventas, Realizando la busqueda de nuevos socios de negocio, ampliando la cartera e incrementando las ventas, así como analizar y desarrollar nuevas oportunidades de negocio de manera global 
           </p>
-          <a href="Proximamente.php" style="color:#000020;"><b style="color:#000020;">Leer Mas</b></a>
+          <a href="Ventas.php" style="color:#000020;"><b style="color:#000020;">Leer Mas</b></a>
         </div>
 
 
@@ -930,7 +928,7 @@
             Generar, analizar y negociar con distintos proveedores a nivel global, los beneficios que se obtienen de las
             relaciones a largo plazo para el crecimiento y desarrollo con base en nuestro Enfoque de Negocios.
           </p>
-          <a href="Proximamente.php" style="color:#000020;"><b style="color:#000020;">Leer Mas</b></a>
+          <a href="Compras.php.php" style="color:#000020;"><b style="color:#000020;">Leer Mas</b></a>
         </div>
 
 
@@ -955,7 +953,7 @@
             Minimizar los costos tendentes a lograr el nivel de servicio deseado, aumentar al máximo el rendimiento de
             la inversión.
           </p>
-          <a href="Proximamente.php" style="color:#000020;"><b style="color:#000020;">Leer Mas</b></a>
+          <a href="SERVC.php" style="color:#000020;"><b style="color:#000020;">Leer Mas</b></a>
         </div>
 
 
@@ -987,7 +985,16 @@
     </div>
   </div>
 
+  <div class="container" style="margin-top:50px;">
+    <div class="row">
+      <div class="col s12 m12 l12 xl12 center-align">
+        <h5 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020;">Conoce Nuestro Plan Profesional de Carrera</b></h5>
+        <a class="waves-effect waves-light btn" href="Plan_Profesional_CB.php" style="background-color:#000020;text-transform: capitalize;">Plan Profesional de Carrera</a>
 
+      </div>
+    </div>
+  </div>
+  
 </body>
 <footer style="margin-top:70px">
   <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png"

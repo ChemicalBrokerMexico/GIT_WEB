@@ -152,7 +152,17 @@ $(document).ready(function(){
     </div>
     </div>
 
-
+    <div class="row" style="margin-top:150px;"> 
+    <div class="col s12 m12 l6 xl6 center-align" style="height:350px">
+    <img src="img/CB_PALM_STEARIN_060823.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
+    </div>
+    <div class= "col s12 m12 l6 xl6 columnas_acidos_grasos" style="position:relative;height:350px">
+    <h5 class="Tipografia--general Titulos"><b>Estearina de Palma</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">La Estearina de Palma refinada, blanqueada y desodorizada (RBD) es una grasa vegetal derivada del aceite de palma. La estearina de palma RBD es una fracción sólida del aceite de palma RBD, obtenida por fraccionamiento mediante procesos simples de cristalización y separación a temperatura controlada. Las propiedades físicas de la estearina de palma RBD difieren ampliamente de las del aceite de palma RBD. La estearina de palma RBD está disponible en una gama más amplia de puntos de fusión y valores de yodo. </p>
+    <p class="Tipografia--general Botones letranegro Leeracidgrass" style="position:absolute;left:10px;bottom:-30px"><b><a href="Estearina_Palma_Hidrogenado.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
 
     <div class="row" style="margin-top:150px;"> 
     <div class="col s12 m12 l6 xl6 center-align" style="height:350px">
@@ -331,6 +341,17 @@ $(document).ready(function(){
     </div>
     </div>
 
+    <div class="row" style="margin-top:150px;"> 
+    <div class="col s12 m12 l6 xl6 center-align" style="height:350px">
+    <img src="img/CB_SEBO_ALTO_HIDROGENADO.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
+    </div>
+    <div class= "col s12 m12 l6 xl6 columnas_acidos_grasos" style="position:relative;height:350px">
+    <h5 class="Tipografia--general Titulos"><b>Sebo Alto Hidrogenado</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">El Sebo Alto Hidrogenado (HFTA),por sus siglas en ingles, es conocido por su notable versatilidad, lo que lo convierte en un aditivo común en una amplia gama de productos. El ácido graso de sebo hidrogenado (HFTA) se utiliza como intermediario en lubricantes y aceites para laminación, como emoliente en productos para el cuidado personal y como emulsionante en una variedad de aplicaciones.</p>
+    <p class="Tipografia--general Botones letranegro Leeracidgrass" style="position:absolute;left:10px;bottom:-30px"><b><a href="Sebo_Alto_Hidrogeno.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
     
     <div class="row" style="margin-top:150px"> 
     <div class="col s12 m12 l6 xl6 center-align">
@@ -476,6 +497,18 @@ function filtroall(){
     </div>
     </div>
 
+    <div class="row" style="margin-top:150px;"> 
+    <div class="col s12 m12 l6 xl6 center-align" style="height:350px">
+    <img src="img/CB_PALM_STEARIN_060823.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
+    </div>
+    <div class= "col s12 m12 l6 xl6 columnas_acidos_grasos" style="position:relative;height:350px">
+    <h5 class="Tipografia--general Titulos"><b>Estearina de Palma</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">La Estearina de Palma refinada, blanqueada y desodorizada (RBD) es una grasa vegetal derivada del aceite de palma. La estearina de palma RBD es una fracción sólida del aceite de palma RBD, obtenida por fraccionamiento mediante procesos simples de cristalización y separación a temperatura controlada. Las propiedades físicas de la estearina de palma RBD difieren ampliamente de las del aceite de palma RBD. La estearina de palma RBD está disponible en una gama más amplia de puntos de fusión y valores de yodo. </p>
+    <p class="Tipografia--general Botones letranegro Leeracidgrass" style="position:absolute;left:10px;bottom:-30px"><b><a href="Estearina_Palma_Hidrogenado.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
   
     <div class="row" style="margin-top:150px;"> 
     <div class="col s12 m12 l6 xl6 center-align" style="height:350px">
@@ -506,7 +539,7 @@ function filtroall(){
     
     <div class="row" style="margin-top:150px;"> 
     <div class = "col s12 m12 l6 xl6 center-align">
-    <img src="img/CB_GLICERINAS_030823.jpg.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
+    <img src="img/CB_GLICERINAS_030823.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
     </div>
     <div class= "col s12 m12 l6 xl6 columnas_glicerinas">
     <h5 class="Titulos Tipografia--general"><b>Glicerinas</b></h5>
@@ -648,6 +681,19 @@ function filtroall(){
     <p class="Tipografia--general General--Cuerpo letranegro">Las pectinas tambien proporcionan superficies cargadas que regulan el pH y el balance ionico.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">La Pectina contiene principalmente ácidos galacturonicosparcialmente metoxilados. La pectina, un ingrediente versátil para texturas innovadoras La pectina es un ingrediente y un componente natural de las plantas. La pectina se encuentra en muchas frutas, pero es especialmente abundante en las manzanas y los cítricos. La pectina de la fruta está asociada a la celulosa en los tejidos vegetales, donde juega un papel fundamental en la determinación de sus propiedades mecánicas.</p>
     <p class="Tipografia--general Botones letranegro Leerpectina"><b><a href="Pectinas.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
+
+    <div class="row" style="margin-top:150px;"> 
+    <div class="col s12 m12 l6 xl6 center-align" style="height:350px">
+    <img src="img/CB_SEBO_ALTO_HIDROGENADO.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
+    </div>
+    <div class= "col s12 m12 l6 xl6 columnas_acidos_grasos" style="position:relative;height:350px">
+    <h5 class="Tipografia--general Titulos"><b>Sebo Alto Hidrogenado</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">El Sebo Alto Hidrogenado (HFTA),por sus siglas en ingles, es conocido por su notable versatilidad, lo que lo convierte en un aditivo común en una amplia gama de productos. El ácido graso de sebo hidrogenado (HFTA) se utiliza como intermediario en lubricantes y aceites para laminación, como emoliente en productos para el cuidado personal y como emulsionante en una variedad de aplicaciones.</p>
+    <p class="Tipografia--general Botones letranegro Leeracidgrass" style="position:absolute;left:10px;bottom:-30px"><b><a href="Sebo_Alto_Hidrogeno.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
     
@@ -853,8 +899,21 @@ function filtroe(){
     `
     
     document.getElementById("contenedorliteral").innerHTML = `
-    
+
+
     <div class="row" style="margin-top:0px;"> 
+    <div class="col s12 m12 l6 xl6 center-align" style="height:350px">
+    <img src="img/CB_PALM_STEARIN_060823.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
+    </div>
+    <div class= "col s12 m12 l6 xl6 columnas_acidos_grasos" style="position:relative;height:350px">
+    <h5 class="Tipografia--general Titulos"><b>Estearina de Palma</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">La Estearina de Palma refinada, blanqueada y desodorizada (RBD) es una grasa vegetal derivada del aceite de palma. La estearina de palma RBD es una fracción sólida del aceite de palma RBD, obtenida por fraccionamiento mediante procesos simples de cristalización y separación a temperatura controlada. Las propiedades físicas de la estearina de palma RBD difieren ampliamente de las del aceite de palma RBD. La estearina de palma RBD está disponible en una gama más amplia de puntos de fusión y valores de yodo. </p>
+    <p class="Tipografia--general Botones letranegro Leeracidgrass" style="position:absolute;left:10px;bottom:-30px"><b><a href="Estearina_Palma_Hidrogenado.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+    
+    <div class="row" style="margin-top:150px;"> 
     <div class="col s12 m12 l6 xl6 center-align" style="height:350px">
     <img src="img/CB_2_ETHYLHEXANOL_050923.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
     </div>
@@ -1202,12 +1261,27 @@ function filtros(){
     <div class="divfooter2" style="text-align:center;"><span class="inicial--productos Tipografia--general">S</span></div><br><br></div>
     
     `
+    
     document.getElementById("contenedorliteral").innerHTML = `
-    <div class="row"> 
+
+
+    <div class="row" style="margin-top:0px;"> 
+    <div class="col s12 m12 l6 xl6 center-align" style="height:350px">
+    <img src="img/CB_SEBO_ALTO_HIDROGENADO.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
+    </div>
+    <div class= "col s12 m12 l6 xl6 columnas_acidos_grasos" style="position:relative;height:350px">
+    <h5 class="Tipografia--general Titulos"><b>Sebo Alto Hidrogenado</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">El Sebo Alto Hidrogenado (HFTA),por sus siglas en ingles, es conocido por su notable versatilidad, lo que lo convierte en un aditivo común en una amplia gama de productos. El ácido graso de sebo hidrogenado (HFTA) se utiliza como intermediario en lubricantes y aceites para laminación, como emoliente en productos para el cuidado personal y como emulsionante en una variedad de aplicaciones.</p>
+    <p class="Tipografia--general Botones letranegro Leeracidgrass" style="position:absolute;left:10px;bottom:-30px"><b><a href="Sebo_Alto_Hidrogeno.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
+    <div class="row" style="margin-top:150px"> 
     <div class="col s12 m12 l6 xl6 center-align">
     <img src="img/pasta-dientes-fluor.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
     </div>
-    <div class= "col s12 m12 l6 xl6" style="margin-top:-32px">
+    <div class= "col s12 m12 l6 xl6" style="margin-top:-15px">
     <h5 class="Tipografia--general Titulos"><b>Sorbitoles</b></h5>
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro">El sorbitol es un polialcohol, alcohol polihidrico alditol de azucar, industrialmente se obtiene por reduccion mediante hidrogenacion catalítica del monosacárido mas comun, “la glucosa”. </p>

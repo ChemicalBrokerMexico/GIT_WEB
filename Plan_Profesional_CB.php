@@ -1,11 +1,12 @@
 <!DOCTYPE html>
-<html>
+<html lang="esp">
 
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | 2-Etilhexanol</title>
-  <meta name="description" content="Chemical Broker distribuye mundialmente Glicerina de la mas alta Pureza y Calidad para las formulaciones de nuestros clientes."> 
+  <meta name="description"
+    content="Comienza tu carrera profesional, en una organizacion comprometida completamente con tu crecimiento profesional unete a nuestro gran equipo en Chemical Broker">
+  <title>Chemical Broker | Carreras</title>
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -41,16 +42,11 @@
     gtag('js', new Date());
     gtag('config', 'G-SGJQ8FDDJ6');
   </script>
-  <script>
-    $(document).ready(function () {
-      $('#table_id2').DataTable();
-    });
-  </script>
 </head>
 
 <body>
-  <div class="modal" id="modal1" style="overflow-y:auto;">
-    <div class="modal-content" style="overflow-y:auto;">
+  <div class="modal" id="modal1" style="overflow-y: auto;">
+    <div class="modal-content" style="overflow-y: auto;">
       <h6 class="letranegro"> <b class="tipografia--general Titulos letranegro">Respetamos tu Privacidad</b></h6>
       <p class="General--Cuerpo Tipografia--general letranegro">Este sitio web utiliza cookies. Con la ayuda de las
         cookies, podemos mejorar el rendimiento de nuestro sitio web, analizar la navegacion del sitio web, respaldar
@@ -83,7 +79,7 @@
               <p> <a class="Botones Tipografia--general" href="#" style="color:blue;float:left;">Mas información</a></p>
               <div class="row">
                 <div class="col s12 m12 l12 xl12" style="margin-top:16px"><a
-                    class="modal-close Tipografia--general Botones" href="#!"
+                    class="modal-close Tipografia--general Botones"
                     style="color:white;background-color:#262137 !important;padding:10px;float:left">Permitir Todo </a>
                 </div>
               </div>
@@ -165,11 +161,11 @@
           </div>
         </div>
         <div class="col s12 m12 l4 xl4" style="margin-top:20px"><a
-            class="close_hover letranegro Tipografia--general Botones" href="#!" onclick="denegarCookies();">No Estoy de
+            class="close_hover letranegro Tipografia--general Botones" onclick="denegarCookies();">No Estoy de
             Acuerdo </a></div>
         <div class="col s12 m12 l4 xl4" style="margin-top:20px"><a
-            class="modal-close close_hover letranegro Tipografia--general Botones" href="#!"
-            onclick="aceptarCookies();">Estoy de Acuerdo</a></div>
+            class="modal-close close_hover letranegro Tipografia--general Botones" onclick="aceptarCookies();">Estoy de
+            Acuerdo</a></div>
       </div>
     </div>
   </div>
@@ -208,8 +204,9 @@
                       <h6 class="Tipografia--general Titulos" style="color:white;padding-top:5px;">Enfoque de Negocios
                       </h6>
                       <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7;">Nuestros negocios brindan
-                        servicio a las Industrias Farmacéutica, Alimentaria, Cosmética y del Cuidado Personal y la
-                        Industria Química en general.</p>
+                        servicio a nuestros clientes en las industrias Farmacéutica, Alimentaria y Nutrición Humana,
+                        Alimentaria y Nutrición Animal, Agroquímicos, Cosmética y Cuidado Personal, Detergencia,
+                        Industria Química.</p>
                     </div>
                   </div>
                 </div>
@@ -252,7 +249,7 @@
                           class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a
                         class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas &nbsp<i
                           class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a
-                        class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral
+                        class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Total
                         &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
                   </ul>
                 </section>
@@ -267,9 +264,9 @@
                       <li> <a class="arrowblue Tipogradia--general Subtitulos"
                           href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download>Politica de Privacidad <i
                             class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-                            <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
-                                                        id="aparece"></i></a></li>
-                                                      <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                      <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de
+                          Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                     </p>
                   </ul>
                 </section>
@@ -315,12 +312,11 @@
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
             href="Mercados.php"><b>Mercados</b></a></li>
         <ul id="dropdown3" class="dropdown-content">
-          <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Productos</a>
-          </li>
+          <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Productos</a></li>
           <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a>
           </li>
         </ul>
-        <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!"
+        <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger"
             data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a></li>
         <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" <li><a
               class="elemennav-secun Tipografia--general letranegro Subtitulos"
@@ -400,7 +396,7 @@
                 </tr>
                 <tr>
                   <td style="border:hidden"><a href="Servicio_Total.php"
-                      style="color:black !important;border:hidden">Servicio Integral</a></td>
+                      style="color:black !important;border:hidden">Servicio Total</a></td>
                 </tr>
                 <tr>
                   <td style="border:hidden"><a href="Code_of_Conduct.php"
@@ -505,8 +501,8 @@
                       style="color:white !important;border:hidden">Premisas </a></td>
                 </tr>
                 <tr>
-                  <td style="border:hideen;background-color:#262137"><a href="Servicio_Total.php"
-                      style="color:white !important;border:hidden">Servicio Integrall </a></td>
+                  <td style="border:hidden;background-color:#262137"><a href="Servicio_Total.php"
+                      style="color:white !important;border:hidden">Servicio Total </a></td>
                 </tr>
                 <tr>
                   <td style="border:hidden;background-color:#262137"><a href="Code_of_Conduct.php"
@@ -535,272 +531,47 @@
       </div>
     </div>
   </ul>
-
-
   <div class="container-fluid">
     <div class="slider slider-prueba" style="margin-top:0px">
       <ul class="slides slides-pruea">
-        <li> <img src="img/CB_2_ETHYLHEXANOL_050923.jpg" alt="" class="Banner_Grasos_Palma" style="height:1050px;filter:brightness(0.9);">
+        <li> <img src="img/CB_RH_100823.jpg" alt="" style="height:528px;filter:brightness(0.9)">
           <div class="caption center-align"><br><br><br><br>
-            <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo"
-              style="font-size: 26px;">2-Etilhexanol</b>
+            <h3 class="primertitulo" style="margin-top:-46px;"><b class="boldbanner">Chemical Broker </b><br></h3><b
+              class="segundotitulo" style="font-size: 26px;">Carreras</b>
+            <div class="col s12 m12 l12 xl12" style="margin-top:20px;">
+              <a href="Proximamente.php" class="btn boton--carreers" style="color:#262137;color:white">Vida en Chemical
+                Broker</a>
+            </div>
+            <div class="col s12 m12 l12 xl12" style="margin-top:20px">
+              <a href="#" class="btn tooltipped boton--carreers" data-position="bottom"
+                data-tooltip="Conoce Todas Nuestras Vacantes">Registrate</a>
+            </div>
+            <br>
           </div>
         </li>
       </ul>
     </div>
   </div>
-
-  <div class="container" style="margin-top:80px;">
-    <div class="row bread_mobile">
+  <div class="container">
+    <div class="row">
       <div class="col s12 m12 l12 xl12">
-        <section class="breditem--inicio"><a class="breditem active" href="index.php"
-            style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
-            href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b> >
-              &nbsp</b><a class="breditem active" href="Acidos_Grasos_Destilados_Palma.php"
-              style="color:#262137 !important;margin-left:-2px"><b
-                class="Tipografia--general letranegro Subtitulos breadcrumb">2-Etilhexanol (2-EH)</b></a></section>
-        </section>
+        <section style="margin-top:125px"><a class="breditem active" href="index.php"
+            style="color:#262137 !important"><b>Inicio&nbsp </b><b> >&nbsp </b></a><a class="breditem active"
+            href="Carreras.php" style="color:#262137 !important"><b class="breadcrumb">Carreras</a></b></section>
       </div>
     </div>
   </div>
 
-  <div class="container">
-    <div class="row">
-        <div class="col s12 m12 l12 xl12">
-            <p class="Tipografia--general letranegro General--Cuerpo">El 2-etilhexanol (abreviado 2-EH) es un compuesto orgánico con fórmula C8H18O. Es un alcohol quiral ramificado de ocho carbonos. Es un líquido incoloro que es poco soluble en agua, pero soluble en la mayoría de los solventes orgánicos. Se produce a gran escala (>2 000 000 000 kg/año) para su uso en numerosas aplicaciones, como solventes, sabores y fragancias, y especialmente como precursor para la producción de otros productos químicos, como emolientes y plastificantes. Se encuentra en las fragancias naturales de la planta, y el olor ha sido reportado como terroso, y ligeramente floral para el enantiómero R y ligero y una fragancia floral dulce y ligera para el enantiómero S.</p>
-            <table style="margin-top:50px;width:60%;border:1px solid #f2f2f2;">
-
-            
-                <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;width:50%">Descripción Quimica:</td>
-                    <td>2-Etilhexanol</td>
-                </tr>
-
-                <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white">Formula:</td>
-                    <td><img src="img/CBMX_FORMULA-QUIMICA_2-ETILHEXANOL.png" alt="" style="width:60%;"></td>
-                </tr>
-
-                <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white">Formula Quimica:</td>
-                    <td>C<sub>8</sub>H<sub>18</sub>O<sub>1</sub></td>
-                </tr>
-
-                <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white">Nombre IUPAC:</td>
-                    <td>- Alcohol Isooctilico<br>2-Etilhexan-1-ol</td>
-                </tr>
-
-                <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white">Sinónimos:</td>
-                    <td>Alcohol Isooctilico<br>- 2-Etilhexanol</td>
-                </tr>
-
-                <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white">Numero CAS:</td>
-                    <td>104-76-7</td>
-                </tr>
-
-                <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white">ChEBI:</td>
-                    <td>16011</td>
-                </tr>
-
-                <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white" >ChEMBL:</td>
-                    <td>- 31637<br>- 1229918</td>
-                </tr>
-
-                <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white">ChemSpider:</td>
-                    <td>- 7434<br>- 5360145<br>- 5360146<br></td>
-                </tr>
-
-                <tr>
-                    <td style="background-color:#000020;color: rgba(2 146 238 /99%);border:1px solid white;">ECHA InfoCard:</td>
-                    <td>100.002.941</td>
-                </tr>
-
-                <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white">EC No.:</td>
-                    <td>203-234-3</td>
-                </tr>
-
-                <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white">KEGG:</td>
-                    <td>C02498</td>
-                </tr>
-
-                <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white">PubChem:</td>
-                    <td>-7720<br>-6991979<br>- 6991980</td>
-                </tr>
-
-                <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white">UNII:</td>
-                    <td>XZV7TAA77P</td>
-                </tr>
-
-                <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white">Masa molecular:</td>
-                    <td>130.231 g.mol-1</td>
-                </tr>
-                
-
-                <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white">Densidad:</td>
-                    <td>833 mg mL-1</td>
-                </tr>
-                
-                
-                <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white">Punto de fusión:</td>
-                    <td>-76 °C (-105 °F; 197 K)</td>
-                </tr>
-                
-                
-                <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white">Punto de ebullición:</td>
-                    <td>180 a 186 °C; 356 a 367 °F; 453 a 459</td>
-                </tr>
-            </table>
-            <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b style="color:#000020">Producción</b></h5>
-            <p class="General--Cuerpo Tipografia--general letranegro">El 2-etil-hexanol se produce industrialmente por la condensación aldólica del n-butiraldehido, seguido por la hidrogenación del hidroxialdehido resultante. El proceso general es muy similar a la de la reacción de Guerbet, por la cual también puede ser producido. El n-butiraldehido se obtiene por hidroformilacion de propileno.</p>
-            
-            <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b style="color:#000020;">Propiedades</b></h5>
-            <ol>
-                <li style="list-style-type:disc;" class="Elementos--Listas">Emoliente</li>
-                <br>
-                <li style="list-style-type:disc;" class="Elementos--Listas">Solvente</li>
-            </ol>
-            <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</B></h5>
-            <ol>
-                <li style="list-style-type:disc;">Plastificantes</li>
-                <br>
-                <li style="list-style-type:disc;">Lubricantes</li>
-                <br>
-                <li style="list-style-type:disc;">Mejorador de Cetano cuando reacciona con ácido nítrico.</li>
-                <br>
-                <li style="list-style-type:disc;">Desarrollo de Fotografías</li>
-                <br>
-                <li style="list-style-type:disc;">Producción de caucho</li>
-                <br>
-                <li style="list-style-type:disc;">Extracción de petróleo y gas</li>
-                <br>
-                <li style="list-style-type:disc;">Esteres de baja volatilidad</li>
-                <br>
-                <li style="list-style-type:disc;">Esteres de Ácido Adípico</li>
-                <br>
-                <li style="list-style-type:disc;">Fabricación de Solventes de baja volatilidad para aceites vegetales</li>
-                <br>
-                <li style="list-style-type:disc;">Aditivo para agentes humectantes</li>
-                <br>
-                <li style="list-style-type:disc;">Aditivo para agentes dispersantes para pastas pigmentarias</li>
-                <br>
-                <li style="list-style-type:disc;">Solvente en sprays desinfectantes e insecticidas</li>
-                <br>
-                <li style="list-style-type:disc;">Deshielo</li>
-                <br>
-                <li style="list-style-type:disc;">Antihielo</li>
-                <br>
-                <li style="list-style-type:disc;">Anticongelante / Refrigerante</li>
-                <br>
-                <li style="list-style-type:disc;">Cosméticos</li>
-                <br>
-                <li style="list-style-type:disc;">Cuidado Personal</li>
-                <br>
-                <li style="list-style-type:disc;">Recubrimientos</li>
-                <br>
-                <li style="list-style-type:disc;">Adhesivos</li>
-                <br>
-                <li style="list-style-type:disc;">Selladores</li>
-                <br>
-                <li style="list-style-type:disc;">Su principal aplicación es como materia prima en la fabricación de ésteres de baja volatilidad, el más importante de los cuales es ftalato de di-(2-etilhexilo) (DOP o DEHP).</li>
-                <br>
-                <li style="list-style-type:disc;">Otros plastificantes que se pueden obtener del 2-Etilhexanol son los correspondientes ésteres de:
-                    <ol style="margin-top:25px;">
-                        <li style="list-style-type:disc;">ácido adipico</li>
-                        <br>
-                        <li style="list-style-type:disc;">ácido para-hidroxibenzoico</li>
-                        <br>
-                        <li style="list-style-type:disc;">ácido sebácico</li>
-                        <br>
-                        <li style="list-style-type:disc;">ácido azelaico</li>
-                        <br>
-                        <li style="list-style-type:disc;">ácido trimelítico</li>
-                        <br>
-                        <li style="list-style-type:disc;">ácido esteárico</li>
-                        <br>
-                        <li style="list-style-type:disc;">ácido tereftálico</li>
-                        <br>
-                        <li style="list-style-type:disc;">ácido fosfórico, etc.</li>
-                    </ol>
-                </li>
-                <br>
-                <li style="list-style-type:disc;">Lubricantes que se obtienen en reacciones entre 2-etilhexanol, ácidos dicarboxílicos y glicoles o poliglicoles y que contienen diversos aditivos, p.e. poliacrilatos de 2-etilhexanol.</li>
-                <br>
-                <li style="list-style-type:disc;">Las aplicaciones en las que 2-Etilhexanol se pueden utilizar son los siguientes:</li>
-                <br>
-                <li style="list-style-type:disc;">Disolvente de baja volatilidad, por ejemplo, para resinas, ceras, grasas animales, vegetales.</li>
-                <br>
-                <li style="list-style-type:disc;">Aceites y derivados del petróleo</li>
-                <br>
-                <li style="list-style-type:disc;">Ingrediente de baja volatilidad en solvente.</li>
-                <br>
-                <li style="list-style-type:disc;">Mezclas para colorantes y recubrimientos.</li>
-                <br>
-                <li style="list-style-type:disc;">Impresión y tintas para tampones, lacas de inmersión, etc.</li>
-                <br>
-                <li style="list-style-type:disc;">Mejorador de fluidez y brillo en acabados de panificación</li>
-                <br>
-                <li style="list-style-type:disc;">Aditivo en dispersión y agente de humectación para pastas pigmentarias.</li>
-                <br>
-                <li style="list-style-type:disc;">Disolvente de baja volatilidad en algunos desinfectantes y aerosoles insecticidas.</li>
-                <br>
-                <li style="list-style-type:disc;">Materia prima para la fabricación de etoxilatos.</li>
-                <br>
-                <li style="list-style-type:disc;">Herbicidas, por ejemplo, ésteres de 2-etilhexilo de 2,4-diclorofenoxiacético y Ácido 2,4,5-triclorofenoxiacético.</li>
-                <br>
-                <li style="list-style-type:disc;">Materia prima en la fabricación de Extractantes, por ejemplo, para metales pesados.</li>
-                <br>
-                <li style="list-style-type:disc;">Producción del diéster de ácido maleico, que se utiliza para tensoactivos.</li>
-                <br>
-                <li style="list-style-type:disc;">Materia prima para la fabricación de sulfato de 2-etilhexilo, que es utilizado como tensoactivo para electrolitos.</li>
-                <br>
-                <li style="list-style-type:disc;">Producción del 2-etilhexilo ésteres de fosfito de trialquilo, que pueden servir como estabilizadores térmicos y antioxidantes en plásticos.</li>
-                <br>
-                <li style="list-style-type:disc;">Producción de 2-etilhexanoico ácido, el bario, el cadmio y sales de zinc que se utilizan como Estabilizadores de PVC.</li>
-                <br>
-                <li style="list-style-type:disc;">En antiespumantes para casi todos los sistemas acuosos, por ejemplo, los del sector textil y las industrias papeleras. En esta aplicación, proporciones muy bajas de 2-etilhexanol, a saber. 0,1%, son requeridos, y mayores proporciones deben evitarse, porque puede ser responsable de la recurrencia de espuma pronunciada.</li>
-            </ol>
-            <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b style="color:#000020">Aplicaciones prohibidas</b></h5>
-            <ol>
-                <li style="list-style-type:disc;">Como Ingrediente Activo farmacéutico (API)</li>
-                <br>
-                <li style="list-style-type:disc;">Aditivo en Alimentos</li>
-            </ol>
-            <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b style="color:#000020">Fabricante</b></h5>
-            <img src="img/basf-logo-clipart-11.png" alt="" width="20%">
-            <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b style="color:#000020;">Literatura Técnica</b></h5>
-            <ol>
-                <li style="list-style-type:disc;"><a href="../PDF/CATALOGUES/BASF_TL_2-ETHYLHEXANOL_1199.pdf"  style="list-style-type:disc;color:black" class="arrowblue">BASF_TL_2-ETHYLHEXANOL_1199.pdf</a></li>
-                <li style="list-style-type:disc;"><a href="../PDF/CATALOGUES/BASF_TDS_2-ETHYLHEXANOL_0398.PDF"  style="list-style-type:disc;color:black" class="arrowblue">BASF_TDS_2-ETHYLHEXANOL_0398.pdf</a></li>
-                <li style="list-style-type:disc;"><a href="../PDF/CATALOGUES/BASF_HDS_2-ETILHEXANOL_240215.PDF" style="list-style-type:disc;color:black" class="arrowblue">BASF_HDS_2-ETILHEXANOL_240215.pdf</a></li>
-            </ol>
-            <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b style="color:#000020;">Referencias</b></h5>
-            <ol>
-                <li>https://en.wikipedia.org/wiki/2-Ethylhexanol</li>
-                <li>«2-ethylhexanol - Compound Summary». PubChem Compound. USA: National Center for Biotechnology Information. 16 de septiembre de 2005. Identification and Related Records. Consultado el 29 de enero de 2012.</li>
-                <li>Klaus Rettinger; Christian Burschka; Peter Scheeben; Heike Fuchs; Armin Mosandl (1991). «Chiral 2-alkylbranched acids, esters and alcohols. Preparation and stereospecific flavour evaluation». Tetrahedron: Asymmetry 2 (10): 965-968. doi:10.1016/S0957-4166(00)86137-6.</li>
-                <li>Miller, Robert; Bennett, George (enero de 1961). «Producing 2-Ethylhexanol by the Guerbet Reaction». Industrial & Engineering Chemistry 53 (1): 33-36. doi:10.1021/ie50613a027.</li>
-                <li>C. Kohlpaintner, M. Schulte, J. Falbe, P. Lappe, J. Weber, "Aldehydes, Aliphatic" in Ullmann's Encyclopedia of Industrial Chemistry 2008, Wiley-VCH, Weinheim. doi 10.1002/14356007.a01_321.pub2.</li>
-                <li>Ashford’s Dictionary of Industrial Chemicals, Third edition, 2011, page 4180-1</li>
-            </ol>
-        </div>
-    </div>
-  </div>
 
 
+ <div class="container">
+    
+ </div>
+
+
+
+
+  
 </body>
 <footer style="margin-top:70px">
   <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png"
@@ -812,7 +583,6 @@
         Privacidad </a>
       <script type="text/javascript" src="js/main.js"></script></a></strong>
     </p>
-    <script type="text/javascript" src="js/Products.js"></script>
   </div>
 </footer>
 

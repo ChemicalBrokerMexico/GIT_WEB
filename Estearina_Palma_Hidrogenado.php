@@ -4,8 +4,9 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | 2-Etilhexanol</title>
-  <meta name="description" content="Chemical Broker distribuye mundialmente Glicerina de la mas alta Pureza y Calidad para las formulaciones de nuestros clientes."> 
+  <title>Chemical Broker | Estearina Palma Hidrogenado</title>
+  <meta name="description"
+    content="Chemical Broker distribuye mundialmente Glicerina de la mas alta Pureza y Calidad para las formulaciones de nuestros clientes.">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -267,9 +268,11 @@
                       <li> <a class="arrowblue Tipogradia--general Subtitulos"
                           href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download>Politica de Privacidad <i
                             class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-                            <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
-                                                        id="aparece"></i></a></li>
-                                                      <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                      <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de
+                          Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                      <li><a class="arrowblue Tipografia--general Subtitulos"
+                          href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de
+                          Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                     </p>
                   </ul>
                 </section>
@@ -540,10 +543,11 @@
   <div class="container-fluid">
     <div class="slider slider-prueba" style="margin-top:0px">
       <ul class="slides slides-pruea">
-        <li> <img src="img/CB_2_ETHYLHEXANOL_050923.jpg" alt="" class="Banner_Grasos_Palma" style="height:1050px;filter:brightness(0.9);">
+        <li> <img src="img/CB_PALM_STEARIN_060823.jpg" alt="" class="Banner_Grasos_Palma"
+            style="height:1200px;filter:brightness(0.9);">
           <div class="caption center-align"><br><br><br><br>
             <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo"
-              style="font-size: 26px;">2-Etilhexanol</b>
+              style="font-size: 26px;">Estearina Palma Hidrogenado</b>
           </div>
         </li>
       </ul>
@@ -558,245 +562,246 @@
             href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b> >
               &nbsp</b><a class="breditem active" href="Acidos_Grasos_Destilados_Palma.php"
               style="color:#262137 !important;margin-left:-2px"><b
-                class="Tipografia--general letranegro Subtitulos breadcrumb">2-Etilhexanol (2-EH)</b></a></section>
+                class="Tipografia--general letranegro Subtitulos breadcrumb">Estearina de Palma Alto Hidrogenado</b></a>
+        </section>
         </section>
       </div>
     </div>
   </div>
 
+
   <div class="container">
     <div class="row">
+      <div class="col s12 m12 l12 xl12">
+        <p class="Tipografia--general letranegro General--Cuerpo">La estearina de palma refinada, blanqueada y
+          desodorizada (RBD) es una grasa vegetal derivada del aceite de palma. La estearina de palma RBD es una
+          fracción sólida del aceite de palma RBD, obtenida por fraccionamiento mediante procesos simples de
+          cristalización y separación a temperatura controlada. Las propiedades físicas de la estearina de palma RBD
+          difieren ampliamente de las del aceite de palma RBD. La estearina de palma RBD está disponible en una gama más
+          amplia de puntos de fusión y valores de yodo.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La estearina de palma RBD no
+          contiene colesterol y tiene un efecto anticoagulante, lo que ayuda a prevenir enfermedades del corazón. La
+          estearina de palma RBD contiene vitamina E, vitamina D y una proporción aproximadamente igual de ácidos grasos
+          saturados e insaturados. La estearina de palma RBD es altamente estable frente a la oxidación debido a la
+          presencia de tocoferoles, que actúan como un antioxidante natural y se oxidan antes que la oxidación de la
+          estearina de palma RBD.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La Estearina de Palma RBD
+          hidrogenada, es producto de la hidrogenación del aceite, es una cera sólida blanca o ligeramente amarilla a
+          temperatura normal, insoluble en agua, difícilmente soluble en alcohol etílico, soluble en acetona, éter
+          dietílico, cloroformo, benceno, etc., propiedades químicas estables. La estearina de palma RBD hidrogenada se
+          puede usar para hacer ácido esteárico, estearato, también se puede usar en jabón, pasta de pulir, industria de
+          velas, industria de alimentos y piensos.</p>
+        <table style="border:1px solid #f2f2f2;margin-top:50px;">
+          <tr>
+            <th style="background-color:#000020;color:rgba(2 146 238 /99%);border-right: 1px solid white"
+              class="center-align">Especificación</th>
+            <th style="background-color:#000020;color:rgba(2 146 238 /99%);border-right: 1px solid white"
+              class="center-align">Unidad</th>
+            <th style="background-color:#000020;color:rgba(2 146 238 /99%);border-right: 1px solid white"
+              class="center-align">Parametros</th>
+            <th style="background-color:#000020;color:rgba(2 146 238 /99%);border-right: 1px solid white"
+              class="center-align">Método</th>
+          </tr>
+          <tr>
+            <td style="border-right:1px solid #f2f2f2;">Índice de Acidez </td>
+            <td style="border-right:1px solid #f2f2f2;" class="center-align">mg KOH / g</td>
+            <td style="border-right:1px solid #f2f2f2;" class="center-align">≤ 1.0</td>
+            <td style="border-right:1px solid #f2f2f2;" class="center-align">GB/T 9104-2008/ 6</td>
+          </tr>
+
+          <tr>
+            <td style="background-color:#f2f2f2;"></td>
+            <td style="background-color:#f2f2f2;"></td>
+            <td style="background-color:#f2f2f2;"> </td>
+            <td style="background-color:#f2f2f2;"></td>
+          </tr>
+
+          <tr>
+            <td style="border-right:1px solid #f2f2f2;">Índice de Yodo</td>
+            <td style="border-right:1px solid #f2f2f2;" class="center-align">g I₂ / 100 g</td>
+            <td style="border-right:1px solid #f2f2f2;" class="center-align">≤ 0.5</td>
+            <td style="border-right:1px solid #f2f2f2;" class="center-align">GB/T 9104-2008/4</td>
+          </tr>
+          <tr>
+            <td style="background-color:#f2f2f2;"></td>
+            <td style="background-color:#f2f2f2;"></td>
+            <td style="background-color:#f2f2f2;"> </td>
+            <td style="background-color:#f2f2f2;"></td>
+          </tr>
+          <tr>
+            <td style="border-right:1px solid #f2f2f2;">Punto de Fusión</td>
+            <td style="border-right:1px solid #f2f2f2;" class="center-align">°C</td>
+            <td style="border-right:1px solid #f2f2f2;" class="center-align">≥ 57</td>
+            <td style="border-right:1px solid #f2f2f2;" class="center-align">GB/T 617-2006</td>
+          </tr>
+          <tr>
+            <td style="background-color:#f2f2f2;"></td>
+            <td style="background-color:#f2f2f2;"></td>
+            <td style="background-color:#f2f2f2;"> </td>
+            <td style="background-color:#f2f2f2;"></td>
+          </tr>
+          <tr>
+            <td style="border-right:1px solid #f2f2f2;">Color</td>
+            <td style="border-right:1px solid #f2f2f2;" class="center-align">Hazen</td>
+            <td style="border-right:1px solid #f2f2f2;" class="center-align">≤ 450</td>
+            <td style="border-right:1px solid #f2f2f2;" class="center-align">GB/T 9104-2008/7</td>
+          </tr>
+          <tr>
+            <td style="background-color:#f2f2f2;"></td>
+            <td style="background-color:#f2f2f2;"></td>
+            <td style="background-color:#f2f2f2;"> </td>
+            <td style="background-color:#f2f2f2;"></td>
+          </tr>
+          <tr>
+            <td style="border-right:1px solid #f2f2f2;">Humedad</td>
+            <td style="border-right:1px solid #f2f2f2;" class="center-align">%</td>
+            <td style="border-right:1px solid #f2f2f2;" class="center-align">≤ 0.2</td>
+            <td style="border-right:1px solid #f2f2f2;" class="center-align">GB/T 606-2003</td>
+          </tr>
+        </table>
         <div class="col s12 m12 l12 xl12">
-            <p class="Tipografia--general letranegro General--Cuerpo">El 2-etilhexanol (abreviado 2-EH) es un compuesto orgánico con fórmula C8H18O. Es un alcohol quiral ramificado de ocho carbonos. Es un líquido incoloro que es poco soluble en agua, pero soluble en la mayoría de los solventes orgánicos. Se produce a gran escala (>2 000 000 000 kg/año) para su uso en numerosas aplicaciones, como solventes, sabores y fragancias, y especialmente como precursor para la producción de otros productos químicos, como emolientes y plastificantes. Se encuentra en las fragancias naturales de la planta, y el olor ha sido reportado como terroso, y ligeramente floral para el enantiómero R y ligero y una fragancia floral dulce y ligera para el enantiómero S.</p>
-            <table style="margin-top:50px;width:60%;border:1px solid #f2f2f2;">
-
-            
-                <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;width:50%">Descripción Quimica:</td>
-                    <td>2-Etilhexanol</td>
-                </tr>
-
-                <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white">Formula:</td>
-                    <td><img src="img/CBMX_FORMULA-QUIMICA_2-ETILHEXANOL.png" alt="" style="width:60%;"></td>
-                </tr>
-
-                <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white">Formula Quimica:</td>
-                    <td>C<sub>8</sub>H<sub>18</sub>O<sub>1</sub></td>
-                </tr>
-
-                <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white">Nombre IUPAC:</td>
-                    <td>- Alcohol Isooctilico<br>2-Etilhexan-1-ol</td>
-                </tr>
-
-                <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white">Sinónimos:</td>
-                    <td>Alcohol Isooctilico<br>- 2-Etilhexanol</td>
-                </tr>
-
-                <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white">Numero CAS:</td>
-                    <td>104-76-7</td>
-                </tr>
-
-                <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white">ChEBI:</td>
-                    <td>16011</td>
-                </tr>
-
-                <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white" >ChEMBL:</td>
-                    <td>- 31637<br>- 1229918</td>
-                </tr>
-
-                <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white">ChemSpider:</td>
-                    <td>- 7434<br>- 5360145<br>- 5360146<br></td>
-                </tr>
-
-                <tr>
-                    <td style="background-color:#000020;color: rgba(2 146 238 /99%);border:1px solid white;">ECHA InfoCard:</td>
-                    <td>100.002.941</td>
-                </tr>
-
-                <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white">EC No.:</td>
-                    <td>203-234-3</td>
-                </tr>
-
-                <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white">KEGG:</td>
-                    <td>C02498</td>
-                </tr>
-
-                <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white">PubChem:</td>
-                    <td>-7720<br>-6991979<br>- 6991980</td>
-                </tr>
-
-                <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white">UNII:</td>
-                    <td>XZV7TAA77P</td>
-                </tr>
-
-                <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white">Masa molecular:</td>
-                    <td>130.231 g.mol-1</td>
-                </tr>
-                
-
-                <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white">Densidad:</td>
-                    <td>833 mg mL-1</td>
-                </tr>
-                
-                
-                <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white">Punto de fusión:</td>
-                    <td>-76 °C (-105 °F; 197 K)</td>
-                </tr>
-                
-                
-                <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white">Punto de ebullición:</td>
-                    <td>180 a 186 °C; 356 a 367 °F; 453 a 459</td>
-                </tr>
-            </table>
-            <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b style="color:#000020">Producción</b></h5>
-            <p class="General--Cuerpo Tipografia--general letranegro">El 2-etil-hexanol se produce industrialmente por la condensación aldólica del n-butiraldehido, seguido por la hidrogenación del hidroxialdehido resultante. El proceso general es muy similar a la de la reacción de Guerbet, por la cual también puede ser producido. El n-butiraldehido se obtiene por hidroformilacion de propileno.</p>
-            
-            <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b style="color:#000020;">Propiedades</b></h5>
+          <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b
+              style="color:#000020;">Funciones</b></h5>
+          <ol>
+            <li class="Elementos--Listas" style="list-style-type:disc;">Acondicionador</li>
+            <br>
+            <li class="Elementos--Listas" style="list-style-type:disc;">Emoliente</li>
+            <br>
+            <li class="Elementos--Listas" style="list-style-type:disc;">Surfactante</li>
+            <br>
+            <li class="Elementos--Listas" style="list-style-type:disc;">Emulsificantes</li>
+            <br>
+            <li class="Elementos--Listas" style="list-style-type:disc;">Control de viscocidad</li>
+          </ol>
+          <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b
+              style="color:#000020;">Aplicaciones</b></h5>
+          <ol>
+            <li style="list-style-type: disc;">Alimentaria</li>
+            <br>
             <ol>
-                <li style="list-style-type:disc;" class="Elementos--Listas">Emoliente</li>
-                <br>
-                <li style="list-style-type:disc;" class="Elementos--Listas">Solvente</li>
+              <li style="list-style-type: disc;">Margarinas</li>
             </ol>
-            <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</B></h5>
+          </ol>
+          <ol>
+            <li style="list-style-type:disc;">Quimica:</li>
+            <br>
             <ol>
-                <li style="list-style-type:disc;">Plastificantes</li>
-                <br>
-                <li style="list-style-type:disc;">Lubricantes</li>
-                <br>
-                <li style="list-style-type:disc;">Mejorador de Cetano cuando reacciona con ácido nítrico.</li>
-                <br>
-                <li style="list-style-type:disc;">Desarrollo de Fotografías</li>
-                <br>
-                <li style="list-style-type:disc;">Producción de caucho</li>
-                <br>
-                <li style="list-style-type:disc;">Extracción de petróleo y gas</li>
-                <br>
-                <li style="list-style-type:disc;">Esteres de baja volatilidad</li>
-                <br>
-                <li style="list-style-type:disc;">Esteres de Ácido Adípico</li>
-                <br>
-                <li style="list-style-type:disc;">Fabricación de Solventes de baja volatilidad para aceites vegetales</li>
-                <br>
-                <li style="list-style-type:disc;">Aditivo para agentes humectantes</li>
-                <br>
-                <li style="list-style-type:disc;">Aditivo para agentes dispersantes para pastas pigmentarias</li>
-                <br>
-                <li style="list-style-type:disc;">Solvente en sprays desinfectantes e insecticidas</li>
-                <br>
-                <li style="list-style-type:disc;">Deshielo</li>
-                <br>
-                <li style="list-style-type:disc;">Antihielo</li>
-                <br>
-                <li style="list-style-type:disc;">Anticongelante / Refrigerante</li>
-                <br>
-                <li style="list-style-type:disc;">Cosméticos</li>
-                <br>
-                <li style="list-style-type:disc;">Cuidado Personal</li>
-                <br>
-                <li style="list-style-type:disc;">Recubrimientos</li>
-                <br>
-                <li style="list-style-type:disc;">Adhesivos</li>
-                <br>
-                <li style="list-style-type:disc;">Selladores</li>
-                <br>
-                <li style="list-style-type:disc;">Su principal aplicación es como materia prima en la fabricación de ésteres de baja volatilidad, el más importante de los cuales es ftalato de di-(2-etilhexilo) (DOP o DEHP).</li>
-                <br>
-                <li style="list-style-type:disc;">Otros plastificantes que se pueden obtener del 2-Etilhexanol son los correspondientes ésteres de:
-                    <ol style="margin-top:25px;">
-                        <li style="list-style-type:disc;">ácido adipico</li>
-                        <br>
-                        <li style="list-style-type:disc;">ácido para-hidroxibenzoico</li>
-                        <br>
-                        <li style="list-style-type:disc;">ácido sebácico</li>
-                        <br>
-                        <li style="list-style-type:disc;">ácido azelaico</li>
-                        <br>
-                        <li style="list-style-type:disc;">ácido trimelítico</li>
-                        <br>
-                        <li style="list-style-type:disc;">ácido esteárico</li>
-                        <br>
-                        <li style="list-style-type:disc;">ácido tereftálico</li>
-                        <br>
-                        <li style="list-style-type:disc;">ácido fosfórico, etc.</li>
-                    </ol>
-                </li>
-                <br>
-                <li style="list-style-type:disc;">Lubricantes que se obtienen en reacciones entre 2-etilhexanol, ácidos dicarboxílicos y glicoles o poliglicoles y que contienen diversos aditivos, p.e. poliacrilatos de 2-etilhexanol.</li>
-                <br>
-                <li style="list-style-type:disc;">Las aplicaciones en las que 2-Etilhexanol se pueden utilizar son los siguientes:</li>
-                <br>
-                <li style="list-style-type:disc;">Disolvente de baja volatilidad, por ejemplo, para resinas, ceras, grasas animales, vegetales.</li>
-                <br>
-                <li style="list-style-type:disc;">Aceites y derivados del petróleo</li>
-                <br>
-                <li style="list-style-type:disc;">Ingrediente de baja volatilidad en solvente.</li>
-                <br>
-                <li style="list-style-type:disc;">Mezclas para colorantes y recubrimientos.</li>
-                <br>
-                <li style="list-style-type:disc;">Impresión y tintas para tampones, lacas de inmersión, etc.</li>
-                <br>
-                <li style="list-style-type:disc;">Mejorador de fluidez y brillo en acabados de panificación</li>
-                <br>
-                <li style="list-style-type:disc;">Aditivo en dispersión y agente de humectación para pastas pigmentarias.</li>
-                <br>
-                <li style="list-style-type:disc;">Disolvente de baja volatilidad en algunos desinfectantes y aerosoles insecticidas.</li>
-                <br>
-                <li style="list-style-type:disc;">Materia prima para la fabricación de etoxilatos.</li>
-                <br>
-                <li style="list-style-type:disc;">Herbicidas, por ejemplo, ésteres de 2-etilhexilo de 2,4-diclorofenoxiacético y Ácido 2,4,5-triclorofenoxiacético.</li>
-                <br>
-                <li style="list-style-type:disc;">Materia prima en la fabricación de Extractantes, por ejemplo, para metales pesados.</li>
-                <br>
-                <li style="list-style-type:disc;">Producción del diéster de ácido maleico, que se utiliza para tensoactivos.</li>
-                <br>
-                <li style="list-style-type:disc;">Materia prima para la fabricación de sulfato de 2-etilhexilo, que es utilizado como tensoactivo para electrolitos.</li>
-                <br>
-                <li style="list-style-type:disc;">Producción del 2-etilhexilo ésteres de fosfito de trialquilo, que pueden servir como estabilizadores térmicos y antioxidantes en plásticos.</li>
-                <br>
-                <li style="list-style-type:disc;">Producción de 2-etilhexanoico ácido, el bario, el cadmio y sales de zinc que se utilizan como Estabilizadores de PVC.</li>
-                <br>
-                <li style="list-style-type:disc;">En antiespumantes para casi todos los sistemas acuosos, por ejemplo, los del sector textil y las industrias papeleras. En esta aplicación, proporciones muy bajas de 2-etilhexanol, a saber. 0,1%, son requeridos, y mayores proporciones deben evitarse, porque puede ser responsable de la recurrencia de espuma pronunciada.</li>
+              <li style="list-style-type:disc;">Fabricacion de emulsificantes</li>
             </ol>
-            <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b style="color:#000020">Aplicaciones prohibidas</b></h5>
+          </ol>
+          <ol>
+            <li style="list-style-type:disc;">Industria Alimentaria y Nutricion Humana:</li>
+            <br>
             <ol>
-                <li style="list-style-type:disc;">Como Ingrediente Activo farmacéutico (API)</li>
-                <br>
-                <li style="list-style-type:disc;">Aditivo en Alimentos</li>
+              <li style="list-style-type:disc;">Manteca vegetal </li>
+              <br>
+              <li style="list-style-type:disc;">Margarinas </li>
+              <br>
+              <li style="list-style-type:disc;">Grasas solidas para panificacion; reemplazo para manteca de cerdo. </li>
             </ol>
-            <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b style="color:#000020">Fabricante</b></h5>
-            <img src="img/basf-logo-clipart-11.png" alt="" width="20%">
-            <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b style="color:#000020;">Literatura Técnica</b></h5>
+          </ol>
+          <ol>
+            <li style="list-style-type:disc;">Detergentes y Cuidados del Hogar:</li>
+            <br>
             <ol>
-                <li style="list-style-type:disc;"><a href="../PDF/CATALOGUES/BASF_TL_2-ETHYLHEXANOL_1199.pdf"  style="list-style-type:disc;color:black" class="arrowblue">BASF_TL_2-ETHYLHEXANOL_1199.pdf</a></li>
-                <li style="list-style-type:disc;"><a href="../PDF/CATALOGUES/BASF_TDS_2-ETHYLHEXANOL_0398.PDF"  style="list-style-type:disc;color:black" class="arrowblue">BASF_TDS_2-ETHYLHEXANOL_0398.pdf</a></li>
-                <li style="list-style-type:disc;"><a href="../PDF/CATALOGUES/BASF_HDS_2-ETILHEXANOL_240215.PDF" style="list-style-type:disc;color:black" class="arrowblue">BASF_HDS_2-ETILHEXANOL_240215.pdf</a></li>
+              <li style="list-style-type:disc;">Jabon</li>
             </ol>
-            <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b style="color:#000020;">Referencias</b></h5>
+          </ol>
+          <ol>
+            <li style="list-style-type:disc;">Otros:</li>
+            <br>
             <ol>
-                <li>https://en.wikipedia.org/wiki/2-Ethylhexanol</li>
-                <li>«2-ethylhexanol - Compound Summary». PubChem Compound. USA: National Center for Biotechnology Information. 16 de septiembre de 2005. Identification and Related Records. Consultado el 29 de enero de 2012.</li>
-                <li>Klaus Rettinger; Christian Burschka; Peter Scheeben; Heike Fuchs; Armin Mosandl (1991). «Chiral 2-alkylbranched acids, esters and alcohols. Preparation and stereospecific flavour evaluation». Tetrahedron: Asymmetry 2 (10): 965-968. doi:10.1016/S0957-4166(00)86137-6.</li>
-                <li>Miller, Robert; Bennett, George (enero de 1961). «Producing 2-Ethylhexanol by the Guerbet Reaction». Industrial & Engineering Chemistry 53 (1): 33-36. doi:10.1021/ie50613a027.</li>
-                <li>C. Kohlpaintner, M. Schulte, J. Falbe, P. Lappe, J. Weber, "Aldehydes, Aliphatic" in Ullmann's Encyclopedia of Industrial Chemistry 2008, Wiley-VCH, Weinheim. doi 10.1002/14356007.a01_321.pub2.</li>
-                <li>Ashford’s Dictionary of Industrial Chemicals, Third edition, 2011, page 4180-1</li>
+              <li style="list-style-type:disc;">Crayones</li>
+              <br>
+              <li style="list-style-type:disc;">Parafinas</li>
+              <br>
+              <li style="list-style-type:disc;">Velas</li>
             </ol>
+          </ol>
         </div>
+        <div class="col s12 m12 l12 xl12">
+          <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b
+              style="color:#000020;">Origen</b></h5>
+          <p class="letranegro General--Cuerpo Tipografia--general"><b style="color:#000020;">Indonesia</b> es el más
+            grande del mundo Productor y Exportador de Aceite de Palma. La producción de aceite de palma es importante
+            para la economía de Indonesia, ya que el país es el mayor productor y exportador mundial de este producto.
+            Indonesia proporciona más de la mitad del suministro mundial de aceite de palma.</p>
+          <p class="letranegro General--Cuerpo Tipografia--general">Producción y exportaciones de aceite de palma de
+            Indonesia representa actualmente el 55% de la producción mundial de aceite de palma y el 60% de las
+            exportaciones mundiales. Toda la producción de aceite de palma se deriva de la selva tropical de Indonesia,
+            que ocupa el tercer lugar en el mundo, los otros dos se encuentran en las cuencas del Amazonas y el Congo.
+          </p>
+        </div>
+        <div class="col s12 m12 l12 xl12">
+          <table class="center-align">
+
+            <tr>
+              <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;" class="center-align">Año
+              </th>
+              <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;" class="center-align">
+                Tipo Operacion</th>
+              <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;" class="center-align">
+                Cantidad (Kg.)</th>
+            </tr>
+            <tr>
+              <td class="center-align" style="border:1px solid #f2f2f2;">2018</td>
+              <td class="center-align" style="border:1px solid #f2f2f2;">Produccion</td>
+              <td class="center-align" style="border:1px solid #f2f2f2;">40,500,000.00</td>
+            </tr>
+            <tr>
+              <td class="center-align" style="border:1px solid #f2f2f2;">2018</td>
+              <td class="center-align" style="border:1px solid #f2f2f2;">Exportacion</td>
+              <td class="center-align" style="border:1px solid #f2f2f2;">29,500,000.00</td>
+            </tr>
+          </table>
+        </div>
+        <div class="col s12 m12 l12 xl12">
+          <p class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;">Malasia es la segunda más grande del mundo Productor
+            y Exportador de Aceite de Palma. La producción de aceite de palma es vital para la economía de Malasia, que
+            es el segundo mayor productor mundial de este producto después de Indonesia. Malasia tiene un papel
+            importante que desempeñar para satisfacer la creciente necesidad mundial de aceites y grasas de manera
+            sostenible.</p>
+          <p class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;">Producción y exportaciones de aceite de palma de
+            Malasia representa actualmente el 35% de la producción mundial de aceite de palma y el 40% de las
+            exportaciones mundiales. Si se tienen en cuenta otros aceites y grasas producidos en el país, Malasia
+            representa el 15% y el 30% de la producción y exportación total mundial de aceites y grasas.</p>
+        </div>
+
+        <table class="center-align" >
+
+          <tr>
+            <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;" class="center-align">Año
+            </th>
+            <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;" class="center-align">Tipo
+              Operacion</th>
+            <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;" class="center-align">
+              Cantidad (Kg.)</th>
+          </tr>
+          <tr>
+            <td class="center-align" style="border:1px solid #f2f2f2;">2018</td>
+            <td class="center-align" style="border:1px solid #f2f2f2;">Produccion</td>
+            <td class="center-align" style="border:1px solid #f2f2f2;">21,000,000.00</td>
+          </tr>
+          <tr>
+            <td class="center-align" style="border:1px solid #f2f2f2;">2018</td>
+            <td class="center-align" style="border:1px solid #f2f2f2;">Exportacion</td>
+            <td class="center-align" style="border:1px solid #f2f2f2;">17,900,000.00</td>
+          </tr>
+        </table>
+        <div class="col s12 m12 l12 xl12">
+        <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b
+              style="color:#000020;">Presentacion</b></h5>
+              <ol>
+                <li style="list-style-type: disc;">Saco de 25Kg.</li>
+              </ol>
+              <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b
+              style="color:#000020;">Certificaciones</b></h5>
+              <ol>
+                <li style="list-style-type: disc;">Kosher</li>
+                <li style="list-style-type: disc;">Halal</li>
+              </ol>
+        </div>
+      </div>
     </div>
   </div>
 
