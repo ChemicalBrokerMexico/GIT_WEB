@@ -584,7 +584,7 @@
   <div class="row">
 <div class="slider slider-prueba">
 <ul class="slides">
-<li> <img src="img/LOGISTICA-GLOBAL_BANNER_040123.jpg" style="height:800px;" alt="Industria Quimica">
+<li> <img src="img/CADENA_SUMINISTRO_BANNER_040123.jpg" style="height:600px;" alt="Industria Quimica">
 <div class="caption center-align"><br><br><br><br>
 <h3 class="primertitulo"><b>Chemical Broker</b><br></h3><b class="segundotitulo">Cadena de Suministro</b>
 </div>
@@ -613,72 +613,32 @@
     <div class="row">
       <div class="col s12 m12 l12 xl12">
         <h5 class="colornegro Tipografia--general General--Cuerpo" style="text-align:center;font-size:24px"><b
-            style="color:#000020;">Cadena de Suministros</b></h5>
+            style="color:#000020;margin-bottom:0px">Cadena de Suministros</b></h5>
         <h5 class="Tipografia--general General--Cuerpo"
-          style="text-align:center;color:#88C8F4;margin-top:50px;font-size:25px;">“La cadena de suministros contempla
-          todos los aspectos involucrados en una operación, para la obtención de un producto o un servicio, que va desde
-          su adquisición, hasta la entrega al cliente final.”</h5>
-        <p class="Tipografia--general General--Cuerpo colornegro" style="margin-top:50px;">En <b
-            style="color:#000020;text-align:justify">Chemical Broker</b> reconocemos la importancia de la integración entre proveedores y
-          clientes, donde nuestro enfoque está basado en la eficiencia y eficacia interna y externa de cada elemento de
-          nuestra Cadena de Suministro, para poder llevar a cabo un proceso logístico integral y que considera los
-          siguientes puntos: </p>
-        <ol>
-          <li style="list-style-type:none;margin-top:50px;text-decoration:underline;text-decoration-color:#88C8F4;"><b>Proveedores</b></li>
-        </ol>
-        <ol>
-          <li style="list-style-type:disc;text-align:justify;" class="Tipografia--general">Nuestras relaciones de negocios con los
-            principales Fabricantes de Ingredientes Químicos; situados en diferentes países, nos permite ofrecer una
-            gran variedad de productos apegados a las necesidades de nuestros clientes y en cumplimiento a las
-            regulaciones de cada industria.</li>
-          <li style="list-style-type:disc;margin-top:50px;text-align:justify;" class="Tipografia--general">A través de un “Servicio
-            Total; generamos relaciones de largo plazo con nuestros proveedores para garantizar el suministro de
-            materias primas, con productos de la mas alta calidad, abastecimiento oportuno, precios competitivos,
-            garantía y seguridad.</li>
-          <div class="col s12 m12 l6 xl6">
-            <img  class="animate__animated animate__backInLeft" src="img/CB_LOGISTICS_PROVIDERS_240223.jpg" alt="" style="width:100%;margin-top:50px;border-radius:10px;">
-          </div>
-          <div class="col s12 m12 l6 xl6">
-            <img class="animate__animated animate__backInRight" src="img/CB_PATIO_CONTENEDORES_270223.jpg" alt="" style="width:100%;margin-top:50px;border-radius:10px;">
-          </div>
-        </ol>
-        <ol style="display:inline-block;margin-top:50px;margin-bottom:0px;">
-          <li style="list-style-type:none;text-decoration:underline;text-decoration-color:#88C8F4"><b>Distribución:</b></li>
-        </ol>
-        <div class="col s12 m12 l12 xl12" style="margin-top:0px;">
-        <p class="Tipografia--general General--Cuerpo letranegro">Cuidamos todos los aspectos a considerar en el proceso de distribución de nuestros ingredientes químicos; con el objetivo de ser eficientes en nuestras entregas.</p>
-        </div>
-        <ol>
-          <li style="list-style-type:disc;text-align:justify;" class="Tipografia--general">Con nuestros Proveedores involucra una planeación cuidadosa sobre nuestros pronósticos de consumo, tiempos de fabricación y entrega, tiempos de tránsito y procesos logísticos integrales. </li>
-          <br>
-          <li style="list-style-type:disc;text-align:justify;" class="Tipografia--general">Con nuestros clientes; inventario general y de seguridad, puntos de reorden y fechas de requerimiento.</li>
-            <div class="col s12 m12 l6 xl6">
-              <img class="animate__animated animate__backInLeft" src="img/CB_DISTRIBUCION_CAJAS_280223.jpg" alt="" style="width:100%;margin-top:50px;border-radius:10px;">
-            </div>
-            <div class="col s12 m12 l6 xl6">
-              <img  src="img/CB_TRANSPORTE_MARITIMO_280223.jpg" alt="" style="width:100%;margin-top:50px;border-radius:10px;">
-            </div>
-        </ol>
-        <ol>
-          <li style="list-style-type: disc;margin-top:50px;display:inline-block;margin-top:50px;text-decoration:underline;text-decoration-color:#88C8F4"><b>Comercio Internacional:</b></li>
-        </ol>
-        <ol>
-          <li style="list-style-type:none;text-align:justify;" class="Tipografia--general">Involucramos operaciones de Importación y Exportación por todas las aduanas en el mundo; marítimas, aéreas y terrestres, con procesos estandarizados y en cumplimiento a las leyes internacionales vigentes y políticas de comercio exterior.</li>
-          <li style="list-style-type:none;margin-top:50px;text-align:justify;" class="Tipografia--general">Nuestros Agentes Aduanales y Forwarders trabajan en estricto cumplimiento a nuestros requerimientos y forma de trabajo con Chemical Broker para preservar la inocuidad e integridad física de nuestros ingredientes químicos.  </li>
-        </ol>
-        
-        <ol>
-          <li style="list-style-type: disc;margin-top:50px;display:inline-block;margin-top:50px;text-decoration:underline;text-decoration-color:#88C8F4"><b>Logística:</b></li>
-        </ol>
-        <ol>
-          <li style="list-style-type:none;text-align:justify;">La Logística Global para Chemical Broker, es la actividad que Planifica, Gestiona y Controla (PGC), el envío de ingredientes químicos dentro de nuestra cadena de suministros. Tiene como principal objetivo administrar todas las operaciones relacionadas con el movimiento de los productos químicos de forma eficiente.</li>
-          <li style="list-style-type:none;margin-top:50px;text-align:justify;">Nuestra misión es la Gestión y Organización de las actividades relacionadas con la Compra, Recepción, Ubicación, Transporte (Aéreo, Marítimo, Terrestre o Multimodal) y la Expedición de los productos químicos en el lugar, tiempo y condiciones adecuadas.</li>
-        </ol>
-      </div>
+          style="text-align:center;color:#0065ad;margin-top:50px;font-size:25px;margin-bottom:0px"><b style="color: #0065ad">“La cadena de suministros contempla todos los aspectos involucrados en unaoperación para la obtención de un producto o un servicio , que va desde suadquisición , hasta la entrega al cliente final.</b></h5>
+      
+           <p class="Tipografia--general General--Cuerpo colornegro" style="margin-top:50px;">En <b style="color:#000020;">Chemical Broker</b>, reconocemos la importancia de la integración efectiva entre proveedores y clientes en el ámbito de la gestión de la cadena de suministro. Nuestro enfoque se centra en maximizar la eficiencia y eficacia tanto interna como externamente en cada eslabón de nuestra cadena de suministro, en donde contemplamos los siguientes puntos: </p>
+       
+          
 
+      </div>
+    </div>
   </div>
-  </div>
-   
+
+      <div class="container">
+            <div class="row">
+              <div class="col s6 m6 l4 xl4" style="background-color:#000020;">
+                <p>hola soy full stack</p>
+              </div>
+              <div class="col s6 m6 l4 xl4" style="background-color:#000020;">
+                <p>hola soy full stack</p>
+              </div>
+              <div class="col s6 m6 l4 xl4" style="background-color:#000020;">
+                <p>hola soy full stack</p>
+              </div>
+            </div>
+           </div>
+
 </body>
 <footer style="margin-top:70px">
   <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg" alt=""></div>

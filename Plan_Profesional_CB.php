@@ -534,18 +534,10 @@
   <div class="container-fluid">
     <div class="slider slider-prueba" style="margin-top:0px">
       <ul class="slides slides-pruea">
-        <li> <img src="img/CB_RH_100823.jpg" alt="" style="height:528px;filter:brightness(0.9)">
+        <li> <img src="img/CB_BANNER_PLAN_PROFESIONAL_080923.jpg" alt="" style="height:528px;filter:brightness(0.9)">
           <div class="caption center-align"><br><br><br><br>
-            <h3 class="primertitulo" style="margin-top:-46px;"><b class="boldbanner">Chemical Broker </b><br></h3><b
-              class="segundotitulo" style="font-size: 26px;">Carreras</b>
-            <div class="col s12 m12 l12 xl12" style="margin-top:20px;">
-              <a href="Proximamente.php" class="btn boton--carreers" style="color:#262137;color:white">Vida en Chemical
-                Broker</a>
-            </div>
-            <div class="col s12 m12 l12 xl12" style="margin-top:20px">
-              <a href="#" class="btn tooltipped boton--carreers" data-position="bottom"
-                data-tooltip="Conoce Todas Nuestras Vacantes">Registrate</a>
-            </div>
+            <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b
+              class="segundotitulo" style="font-size: 26px;">Plan Profesional de Carrera</b>
             <br>
           </div>
         </li>
@@ -557,7 +549,8 @@
       <div class="col s12 m12 l12 xl12">
         <section style="margin-top:125px"><a class="breditem active" href="index.php"
             style="color:#262137 !important"><b>Inicio&nbsp </b><b> >&nbsp </b></a><a class="breditem active"
-            href="Carreras.php" style="color:#262137 !important"><b class="breadcrumb">Carreras</a></b></section>
+            href="Carreras.php" style="color:#262137 !important"><b>Carreras</a></b><b> >&nbsp </b><a class="breditem active"
+            href="Plan_Profesional_CB.php" style="color:#262137 !important"><b class="breadcrumb">Plan Profesional de Carrera</a></section>
       </div>
     </div>
   </div>
@@ -565,7 +558,14 @@
 
 
  <div class="container">
+
+    <div class="row">
+        <div class="col s12 m12 l12 xl12">
+
+        </div>
+    </div>
     
+
  </div>
 
 
