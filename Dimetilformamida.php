@@ -190,6 +190,14 @@ $(document).ready(function () {
 </p>
 </ul>
 </section>
+<section>
+<ul> 
+<p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas y sugerencias</b>
+</p><hr class="hr">
+<li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<p></p>
+</ul>
+</section>
 </div>
 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
 <section>
@@ -217,7 +225,7 @@ $(document).ready(function () {
 <ul class="hide-on-med-and-down">
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Mercados.php"><b>Mercados</b></a></li>
 <ul id="dropdown3" class="dropdown-content">
-<li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Productos</a></li>
+<li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a></li>
 <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a></li>
 </ul>
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!" data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a></li>
@@ -432,7 +440,7 @@ Científicamente se denominan dioles (alcoholes bivalentes), que se desvían del
 
 <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;"><b>Información Técnica Dimetilformamida</b></h5>
 
-<table class="display" id="table_id2" name="table_id2" style="width:50%;border-spacing:2px 2px;border:none;float:left;margin-top:30px;">
+<table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
 <tr class="Tipografia--general General--Cuerpo" style="text-align:center;padding:10px;font-size:15px !important;">
 <td style="font-size:16px !important;border:1px solid #f2f2f2;background-color:#BDD6EE;color:black;">
 <b>IUPAC:</b>

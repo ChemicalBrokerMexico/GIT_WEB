@@ -287,6 +287,14 @@
                     </p>
                   </ul>
                 </section>
+                <section>
+<ul> 
+<p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas y sugerencias</b>
+</p><hr class="hr">
+<li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<p></p>
+</ul>
+</section>
               </div>
               <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                 <section>
@@ -318,7 +326,7 @@
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
             href="Mercados.php"><b>Mercados</b></a></li>
         <ul id="dropdown3" class="dropdown-content">
-          <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Productos</a>
+          <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a>
           </li>
           <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a>
           </li>
@@ -683,28 +691,28 @@
             </ol>
           </ol>
           <ol>
-            <li style="list-style-type:disc;">Quimica:</li>
+            <li style="list-style-type:disc;">Química:</li>
             <br>
             <ol>
-              <li style="list-style-type:disc;">Fabricacion de emulsificantes</li>
+              <li style="list-style-type:disc;">Fabricación de emulsificantes</li>
             </ol>
           </ol>
           <ol>
-            <li style="list-style-type:disc;">Industria Alimentaria y Nutricion Humana:</li>
+            <li style="list-style-type:disc;">Industria Alimentaria y Nutrición Humana:</li>
             <br>
             <ol>
               <li style="list-style-type:disc;">Manteca vegetal </li>
               <br>
               <li style="list-style-type:disc;">Margarinas </li>
               <br>
-              <li style="list-style-type:disc;">Grasas solidas para panificacion; reemplazo para manteca de cerdo. </li>
+              <li style="list-style-type:disc;">Grasas solidas para panificación; reemplazo para manteca de cerdo. </li>
             </ol>
           </ol>
           <ol>
             <li style="list-style-type:disc;">Detergentes y Cuidados del Hogar:</li>
             <br>
             <ol>
-              <li style="list-style-type:disc;">Jabon</li>
+              <li style="list-style-type:disc;">Jabón</li>
             </ol>
           </ol>
           <ol>
@@ -739,7 +747,7 @@
               <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;" class="center-align">Año
               </th>
               <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;" class="center-align">
-                Tipo Operacion</th>
+                Tipo Operación</th>
               <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;" class="center-align">
                 Cantidad (Kg.)</th>
             </tr>

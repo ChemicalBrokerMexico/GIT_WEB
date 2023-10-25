@@ -361,6 +361,14 @@
                                         </p>
                                     </ul>
                                 </section>
+                                <section>
+<ul> 
+<p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas y sugerencias</b>
+</p><hr class="hr">
+<li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<p></p>
+</ul>
+</section>
                             </div>
                             <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                                 <section>
@@ -395,8 +403,7 @@
                 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
                         href="Mercados.php"><b>Mercados</b></a></li>
                 <ul id="dropdown3" class="dropdown-content">
-                    <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias de
-                            Productos</a>
+                    <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a>
                     </li>
                     <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de
                             Productos</a>
@@ -681,12 +688,12 @@
             </div>
 
             <div class="col s12 m12 l12 xl12">
-                <table class="tabla_propiedades" style="border-spacing:2px 2px;border:none;float:left;margin-top:50px;">
+                <table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
                     <tr class="Tipografia--general General--Cuerpo"
                         style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
                         <td 
                             style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
-                            IUPAC:
+                            <b>IUPAC:</b>
                         </td>
                         <td
                             style="font-size:15px !important;border:1px solid #f2f2f2;width:50%;background-color:#000020;color:white;">
@@ -703,7 +710,7 @@
                         style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
                         <td
                             style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
-                            Sinónimos:
+                            <b>Sinónimos:</b>
                         </td>
                         <td
                             style="font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;">
@@ -723,7 +730,7 @@
                         style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
                         <td
                             style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
-                            Formula Estructural:
+                            <b>Formula Estructural:</b>
                         </td>
                         <td
                             style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;">
@@ -733,7 +740,7 @@
                         style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
                         <td
                             style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
-                            Formula Quimica:
+                            <b>Formula Quimica:</b>
                         </td>
                         <td
                             style="text-align: center;font-size:15px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
@@ -744,7 +751,7 @@
                         style="text-align:center;padding:10px;font-size:16px !important;width:150px;">
                         <td
                             style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
-                            Formula molecular:
+                            <b>Formula molecular:</b>
                         </td>
                         <td
                             style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
@@ -754,7 +761,7 @@
                         style="text-align:center;padding:10px;font-size:16px !important;width:150px;">
                         <td
                             style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
-                            Peso Molecular:
+                            <b>Peso Molecular:</b>
                         </td>
                         <td
                             style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
@@ -762,7 +769,7 @@
                     <tr>
                         <td
                             style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
-                            CAS #:
+                            <b>CAS #:</b>
                         </td>
                         <td
                             style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
@@ -771,7 +778,7 @@
                     <tr>
                         <td
                             style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
-                            EC No.:
+                            <b>EC No.:</b>
                         </td>
                         <td
                             style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
@@ -780,7 +787,7 @@
                     <tr>
                         <td
                             style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
-                            InChl:
+                            <b>InChl:</b>
                         </td>
                         <td
                             style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
@@ -789,7 +796,7 @@
                     <tr>
                         <td
                             style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
-                            ChEBI::
+                            <b>ChEBI::</b>
                         </td>
                         <td
                             style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
@@ -798,7 +805,7 @@
                     <tr>
                         <td
                             style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
-                            ChEMBL:
+                            <b>ChEMBL:</b>
                         </td>
                         <td
                             style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
@@ -807,7 +814,7 @@
                     <tr>
                         <td
                             style="font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:black;">
-                            ChemSpider:</td>
+                            <b>ChemSpider:</b></td>
                         <td
                             style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
                             10539</td>
@@ -816,7 +823,7 @@
                     <tr>
                         <td
                             style="font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:black;">
-                            DrugBank:</td>
+                            <b>DrugBank:</b></td>
                         <td
                             style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
                             08231</td>
@@ -825,7 +832,7 @@
                     <tr>
                         <td
                             style="font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:black;">
-                            PubChem:</td>
+                            <b>PubChem:</b></td>
                         <td
                             style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
                             11005</td>
@@ -834,7 +841,7 @@
                     <tr>
                         <td
                             style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:black;">
-                            UNII:</td>
+                            <b>UNII:</b></td>
                         <td
                             style="text-align: center;font-size:15px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
                             0I3VS25AW</td>
@@ -844,7 +851,7 @@
                     <tr>
                         <td
                             style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:black;">
-                            KEGG:</td>
+                            <b>KEGG:</b></td>
                         <td
                             style="text-align: center;font-size:15px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
                             C06424</td>

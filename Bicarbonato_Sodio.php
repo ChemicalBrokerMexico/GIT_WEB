@@ -284,6 +284,14 @@
                     </p>
                   </ul>
                 </section>
+                <section>
+<ul> 
+<p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas y sugerencias</b>
+</p><hr class="hr">
+<li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<p></p>
+</ul>
+</section>
               </div>
               <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                 <section>
@@ -315,7 +323,7 @@
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
             href="Mercados.php"><b>Mercados</b></a></li>
         <ul id="dropdown3" class="dropdown-content">
-          <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Productos</a>
+          <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a>
           </li>
           <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a>
           </li>
@@ -574,7 +582,7 @@
           naturaleza o se puede producir artificialmente. La forma mineral natural es nahcolita. Es un componente del
           mineral natrón y se encuentra disuelto en muchos manantiales minerales.</p>
         <p class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;margin-bottom:0px;">Cuando se expone a un ácido
-          moderadamente fuerte se descompone produciendo dióxido de carbono y agua, con una característica
+          moderadamente fuerte, se descompone produciendo dióxido de carbono y agua, con una característica
           efervescencia. La reacción es la siguiente:</p>
         <ol style="margin-bottom:0px;margin-top:50px;">
           <li style="list-style-type:disc;margin-left:-23px;width:307px;" class="Elementos--Listas"><b>NaHCO<sub>3</sub> + HCl → NaCl +
@@ -593,14 +601,13 @@
           sus composiciones químicas precisas que se desconocían cuando se acuñó el nombre "bicarbonato de potasa".</p>
 
 
-        <table class="display" id="table_id2" name="table_id2"
-          style="width:33%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
+        <table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
 
           <tr class="Tipografia--general General--Cuerpo"
-            style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
+            style="text-align:center;padding:10px;font-size:15px !important;">
             <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
               class="Tablas_Bicarsodio_Mobile">
-              Descripción Quimica:
+              <b>Descripción Química:</b>
             </td>
             <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
               class="Tablas_Bicarsodio_Mobile">Bicarbonato de Sodio</td>
@@ -609,7 +616,7 @@
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
             <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
               class="Tablas_Bicarsodio_Mobile">
-              IUPAC:
+              <b>IUPAC:</b>
             </td>
             <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
               class="Tablas_Bicarsodio_Mobile">
@@ -620,7 +627,7 @@
             <td
               style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
               class="Tablas_Bicarsodio_Mobile">
-              Sinonimos:
+             <b>Sinónimos:</b>
             </td>
             <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
               class="Tablas_Bicarsodio_Mobile">
@@ -635,16 +642,16 @@
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
             <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
               class="Tablas_Bicarsodio_Mobile">
-              Formula Estructural:
+              <b>Fórmula Estructural:</b>
             </td>
             <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
-              class="Tablas_Bicarsodio_Mobile"><img src="img/BICARBONATOS_FORMULA-ESTRUCTURAL.png" alt=""
-                style="width:60%;"></td>
+              class="Tablas_Bicarsodio_Mobile center-align"><img src="img/BICARBONATOS_FORMULA-ESTRUCTURAL.png" alt=""
+                style="width:50%;"></td>
           </tr>
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
             <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
               class="Tablas_Bicarsodio_Mobile">
-              Formula Molecular
+              <b>Fórmula Molecular</b>
             </td>
             <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
               class="Tablas_Bicarsodio_Mobile">NaHCO<sub>3</sub></td>
@@ -653,7 +660,7 @@
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
             <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
               class="Tablas_Bicarsodio_Mobile">
-              CAS No.:
+              <b>CAS No.:</b>
             </td>
             <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
               class="Tablas_Bicarsodio_Mobile">144-55-8</td>
@@ -663,7 +670,7 @@
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
             <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
               class="Tablas_Bicarsodio_Mobile">
-              ChEMBI:
+              <b>ChEMBI:</b>
             </td>
             <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
               class="Tablas_Bicarsodio_Mobile">32139</td>
@@ -672,7 +679,7 @@
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
             <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
               class="Tablas_Bicarsodio_Mobile">
-              ChEMBL:
+              <b>ChEMBL:</b>
             </td>
             <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
               class="Tablas_Bicarsodio_Mobile">CHEMBL1353</td>
@@ -681,7 +688,7 @@
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;">
             <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
               class="Tablas_Bicarsodio_Mobile">
-              ChemSpider:
+              <b>ChemSpider:</b>
             </td>
             <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
               class="Tablas_Bicarsodio_Mobile">8609</td>
@@ -690,7 +697,7 @@
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
             <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
               class="Tablas_Bicarsodio_Mobile">
-              DrugBank:
+              <b>DrugBank:</b>
             </td>
             <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
               class="Tablas_Bicarsodio_Mobile">01390</td>
@@ -699,7 +706,7 @@
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
             <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
               class="Tablas_Bicarsodio_Mobile">
-              PubChem:
+              <b>PubChem:</b>
             </td>
             <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
               class="Tablas_Bicarsodio_Mobile">516892</td>
@@ -708,7 +715,7 @@
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
             <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
               class="Tablas_Bicarsodio_Mobile">
-              UNII:
+              <b>UNII:</b>
             </td>
             <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
               class="Tablas_Bicarsodio_Mobile">8MDF5V39QO</td>
@@ -717,7 +724,7 @@
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
             <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
               class="Tablas_Bicarsodio_Mobile">
-              KEGG:
+              <b>KEGG:</b>
             </td>
             <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#d9d9d9;margin-bottom:0px;"
               class="Tablas_Bicarsodio_Mobile">D01203 C12603, D01203</td>

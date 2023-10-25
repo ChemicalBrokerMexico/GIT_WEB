@@ -320,6 +320,14 @@
                                         </p>
                                     </ul>
                                 </section>
+                                <section>
+<ul> 
+<p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas y sugerencias</b>
+</p><hr class="hr">
+<li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<p></p>
+</ul>
+</section>
                             </div>
                             <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                                 <section>
@@ -354,7 +362,7 @@
                         href="Mercados.php"><b>Mercados</b></a></li>
                 <ul id="dropdown3" class="dropdown-content">
                     <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">
-                            Productos</a></li>
+                            Familias</a></li>
                     <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de
                             Productos</a></li>
                 </ul>
@@ -625,8 +633,7 @@
                 <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Información Técnica
                         N-Metilpirrolidona</b></h5>
 
-                <table class="display" id="table_id2" name="table_id2"
-                    style="width:50%;border-spacing:2px 2px;border:none;float:left;margin-top:30px;">
+                <table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
                     <tr class="Tipografia--general General--Cuerpo"
                         style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
                         <td
@@ -751,9 +758,9 @@
 
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Los
                     grados de N-Metilpirrolidona es un
-                    solvente organico aprotico polar fuerte de alta pureza con baja cantidad de aminas libres, iones
-                    metalicos y agua, es completamente miscible con agua y disuelve muchos plasticos, incluso fluoruro
-                    de polivinilideno (PVDF), polivinilpirrolidona (PVP) y poliester sulfona (PES).</p>
+                    solvente orgánico aprotico polar fuerte de alta pureza, con baja cantidad de aminas libres, iones
+                    metálicos y agua, es completamente miscible con agua y disuelve muchos plásticos, incluso fluoruro
+                    de polivinilideno (PVDF), polivinilpirrolidona (PVP) y poliéster sulfona (PES).</p>
 
                 <table style="border:2px solid f2f2f2;margin-top:50px">
 
@@ -924,22 +931,22 @@
 
                 <ol>
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Agentes
-                        de proteccion de cultivos,</li>
+                        de protección de cultivos,</li>
                     <br>
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Agente
                         extractor,</li>
                     <br>
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">
-                        Auxiliares de formulacion,</li>
+                        Auxiliares de formulación,</li>
                     <br>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Sintesis
-                        de peptidos en la industria farmaceutica</li>
-                    <br>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">
-                        Intermedio de sistensis quimica,</li>
+                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Síntesis
+                        de péptidos en la industria farmacéutica</li>
                     <br>
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">
-                        Intermedio de sistensis quimica.
+                        Intermedio de sistensis química,</li>
+                    <br>
+                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">
+                        Intermedio de sistensis química.
                         <ol style="margin-bottom:0px;">
                             <br>
                             <li class="Tipografia--general letranegro Elementos--Listas"
@@ -949,17 +956,17 @@
                                 style="list-style-type:circle;">Polivinilpirrolidona (PVP),</li>
                             <br>
                             <li class="Tipografia--general letranegro Elementos--Listas"
-                                style="list-style-type:circle;">Poliester sulfona (PES).</li>
+                                style="list-style-type:circle;">Poliéster sulfona (PES).</li>
                         </ol>
                 </ol>
                 </li>
 
                 <ol style="margin-bottom:0px;">
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">
-                        Absorcion del depurador de gases de productos farmaceuticos,</li>
+                        Absorción del depurador de gases de productos farmaceuticos,</li>
                     <br>
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">
-                        Produccion de baterias de iones de litio,</li>
+                        Producción de baterías de iones de litio,</li>
                     <br>
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">
                         Recubrimientos,</li>
@@ -971,13 +978,13 @@
                         Resinas,</li>
                     <br>
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">
-                        Formulaciones para la proteccion de cultivos,</li>
+                        Formulaciones para la protección de cultivos,</li>
                     <br>
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">
-                        Sintesis de ingredientes activos,</li>
+                        Síntesis de ingredientes activos,</li>
                     <br>
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">
-                        Procesos de extraccion de aceites.</li>
+                        Procesos de extracción de aceites.</li>
                 </ol>
 
                 <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Presentacion:</b></h5>

@@ -5,7 +5,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
   <title>Chemical Broker | Lecitinas </title>
-  <meta name="description" content="La Lecitina es una sustancia organica abundante en las membranas de las celulas vegetales y animales, especialmente en las del tejido nervioso; se obtiene de las grasas animales, la yema de huevo,">
+  <meta name="description" content="La Lecitina es una sustancia orgánica abundante en las membranas de las células vegetales y animales, especialmente en las del tejido nervioso; se obtiene de las grasas animales, la yema de huevo,">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -73,7 +73,7 @@
                   Preferencias de Privacidad </b></h6>
               <p class="Tipografia--general letranegro General--Cuerpo" style="float:left;">Cuando visita cualquier
                 sitio web, puede almacenar o recuperar información en su navegador, principalmente en forma de cookies.
-                Esta información puede ser sobre usted, sus preferencias o su dispositivo y se utiliza principalmente
+                Está información puede ser sobre usted, sus preferencias o su dispositivo y se utiliza principalmente
                 para hacer que el sitio funcione como espera. Por lo general, la informacion no lo identifica
                 directamente, pero puede brindarle una experiencia web mas personalizada. Debido a que respetamos su
                 derecho a la privacidad, puede optar por no permitir algunos tipos de cookies. Haga clic en los titulos
@@ -285,6 +285,14 @@
                     </p>
                   </ul>
                 </section>
+                <section>
+<ul> 
+<p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas y sugerencias</b>
+</p><hr class="hr">
+<li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<p></p>
+</ul>
+</section>
               </div>
               <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                 <section>
@@ -316,7 +324,7 @@
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
             href="Mercados.php"><b>Mercados</b></a></li>
             <ul id="dropdown3" class="dropdown-content">
-  <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Productos</a></li>
+  <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a></li>
   <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a></li>
 </ul>
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!" data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a></li>
@@ -571,10 +579,10 @@
       <!-- <div class="col s12 m6 l6 xl6" style="margin-top: 6px;">
         <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:19px;"><b
             style="border-bottom:3px solid #A24D0A;">Lecitinas</b></h5>
-        <p class="Tipografia--general letranegro General--Cuerpo">La lecitina es una sustancia organica abundante en las
+        <p class="Tipografia--general letranegro General--Cuerpo">La lecitina es una sustancia orgánica abundante en las
           membranas de las celulas vegetales y animales, especialmente en las del tejido nervioso; se obtiene de las
-          grasas animales, la yema de huevo, algunas semillas y se emplea en la elaboracion de ciertos alimentos, como
-          la margarina o el chocolate tambien se aplica en otras industrias como farmaceutica y cosmetica.</p> -->
+          grasas animales, la yema de huevo, algunas semillas y se emplea en la elaboración de ciertos alimentos, como
+          la margarina o el chocolate tambien se aplica en otras industrias como farmaceutica y cosmética.</p> -->
         <!-- <p class="Tipografia--general letranegro General--Cuerpo">son proteínas naturales que están presentes en la mayoría de los vegetales. Algunos alimentos que contienen gran cantidad de lectinas son las habichuelas (frijoles, alubias), el maní (cacahuate), las lentejas, los tomates, las papas, la berenjena, las frutas, el trigo y otros cereales. Las lectinas desempeñan una función protectora, a medida que los vegetales crecen, y no tienen ningún valor nutricional cuando se consumen en los alimentos.</p> -->
       </div>
     </div>
@@ -586,27 +594,27 @@
       <div class="col s12 m12 l12 xl12">
       <h5 class="Tipografia--general letranegro General--Cuerpo"><b
             >Lecitinas</b></h5>
-        <p class="Tipografia--general letranegro General--Cuerpo"><b>La Lecitina</b> es una sustancia organica abundante en las
+        <p class="Tipografia--general letranegro General--Cuerpo"><b>La Lecitina</b> es una sustancia orgánica abundante en las
           membranas de las celulas vegetales y animales, especialmente en las del tejido nervioso; se obtiene de las
-          grasas animales, la yema de huevo, algunas semillas y se emplea en la elaboracion de ciertos alimentos, como
-          la margarina o el chocolate tambien se aplica en otras industrias como farmaceutica y cosmetica.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo"><b>Las Lecitinas</b> son emulsionantes versatiles, aplicables para etiquetas 
-        amigables y en una amplia gama de mercados como lo son Nutricion Humana, Farmaceutica, 
-        Cuidado Personal, Nutricion Animal, Agricola y el mercado industrial.</p>
+          grasas animales, la yema de huevo, algunas semillas y se emplea en la elaboración de ciertos alimentos, como
+          la margarina o el chocolate también se aplica en otras industrias como farmacéutica y cosmética.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo"><b>Las Lecitinas</b> son emulsionantes versátiles, aplicables para etiquetas 
+        amigables y en una amplia gama de mercados como lo son Nutrición Humana, Farmacéutica, 
+        Cuidado Personal, Nutrición Animal, Agrícola y el mercado industrial.</p>
 
         <h5 style="margin-top:50px;margin-bottom:5px;"><b class="Tipografia--general letranegro General--Cuerpo">Beneficios</b></h5>
 
         <ol style="margin-top:0px;">
-          <li class="Elementos--Listas Tipografia--general" style="list-style-type:disc;"><b>Etiqueta Amigable:</b> Producto derivado de la naturaleza, buena alternativa en sustitucion al emulsionante sintetico,</li>
+          <li class="Elementos--Listas Tipografia--general" style="list-style-type:disc;"><b>Etiqueta Amigable:</b> Producto derivado de la naturaleza, buena alternativa en sustitución al emulsionante sintético,</li>
           <br>
-          <li class="Elementos--Listas Tipografia--general" style="list-style-type:disc;"><b>Base Vegetal:</b> Proviene exclusivamente de plantas y esta disponible en soja, girasol y canola,</li>
+          <li class="Elementos--Listas Tipografia--general" style="list-style-type:disc;"><b>Base Vegetal:</b> Proviene exclusivamente de plantas y está disponible en soja, girasol y canola,</li>
           <br>
           <li class="Elementos--Listas Tipografia--general" style="list-style-type:disc;"><b>Amplia Funcionalidad:</b> Buenas propiedades emulsionantes y estabilizadoras en diversas aplicaciones, adecuado para una amplia gama de productos de consumo.</li>
         </ol>
 
         <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:5px;"><b>Funcionalidad de la Lecitina</b></h5>
 
-        <p class="Tipografia--general letranegro General--Cuerpo"><b>La Lecitina</b> está compuesta de fosfolípidos, que guardan el secreto de su extensa funcionalidad, Por un lado, los fosfolípidos atraen agua; por el otro, atraen el petróleo. Esta propiedad anfipática permite que la lecitina cree una fuerte mezcla de aceite en agua y aceite, emulsiones... y tambien puede proporcionar una miríada de otros beneficios.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo"><b>La Lecitina</b> está compuesta de fosfolípidos, que guardan el secreto de su extensa funcionalidad, Por un lado, los fosfolípidos atraen agua; por el otro, atraen el petróleo. Está propiedad anfipática permite que la lecitina cree una fuerte mezcla de aceite en agua y aceite, emulsiones... y también puede proporcionar una miríada de otros beneficios.</p>
 
         <ol style="margin-bottom:0px;">
           <li class="Elementos--listas Tipografia--general" style="list-style-type:disc;">Alternativa amigable con las etiquetas y a los emulsionanéticos,</li>

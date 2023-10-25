@@ -187,6 +187,14 @@
                       </p>
                     </ul>
                   </section>
+                  <section>
+<ul> 
+<p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas y sugerencias</b>
+</p><hr class="hr">
+<li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<p></p>
+</ul>
+</section>
                 </div>
                 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                   <section>
@@ -214,7 +222,7 @@
         <ul class="hide-on-med-and-down">
           <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Mercados.php"><b>Mercados</b></a></li>
           <ul id="dropdown3" class="dropdown-content">
-  <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Productos</a></li>
+  <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a></li>
   <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a></li>
 </ul>
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!" data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a></li>
@@ -431,7 +439,13 @@
         <li class="in-view wow animate__animated animate__bounceInLeft">
           <div>
             <h5 style="color:black !important"><b>2017</b><br><br></h5>
-            <p class="Tipografia--general General--Cuerpo letranegro" style="color: black;margin-top:-10px;text-align: justify;">En la última década la concientización sobre el cuidado de los animales de compañía, así como el tipo de alimentación de los animales para consumo humano ha crecido impulsando a las empresas a generar productos alimenticios de mejor calidad. Bajo las circunstancias del momento Chemical Broker crea su división de Pet & Feed con ingredientes químicos de la más alta calidad, certificados en Buenas Prácticas de Manufactura Grado Alimentos y con un enfoque especializado en la Industria de Alimentacion y Nutrición Animal. </p>
+            <p class="Tipografia--general General--Cuerpo letranegro" style="color: black;margin-top:-10px;text-align: justify;">En la última década la concientización sobre el cuidado de los animales de compañía, así como el tipo de alimentación de los animales para consumo humano ha crecido impulsando a las empresas a generar productos alimenticios de mejor calidad. Bajo las circunstancias del momento Chemical Broker crea su división de Pet & Feed con ingredientes químicos de la más alta calidad, certificados en Buenas Prácticas de Manufactura Grado Alimentos y con un enfoque especializado en la Industria de Alimentación y Nutrición Animal. </p>
+          </div>
+        </li>
+        <li class="in-view wow animate__animated animate__bounceInRight">
+          <div>
+            <h5 style="color:black !important"><b>2018</b><br><br></h5>
+            <p class="Tipografia--general General--Cuerpo letranegro" style="color: black;margin-top:-10px;text-align: justify;">Durante el año 2018 Chemical Broker considera importante desarrollar su propia Unidad de Negocios de Tecnologías de la Información, con el propósito de impulsar la era digital dentro de la organización, para facilitar sus servicios dentro y fuera de ella.</p>
           </div>
         </li><br><br>
       </ul>

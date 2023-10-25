@@ -281,6 +281,14 @@
                     </p>
                   </ul>
                 </section>
+                <section>
+<ul> 
+<p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas y sugerencias</b>
+</p><hr class="hr">
+<li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<p></p>
+</ul>
+</section>
               </div>
               <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                 <section>
@@ -312,7 +320,7 @@
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
             href="Mercados.php"><b>Mercados</b></a></li>
         <ul id="dropdown3" class="dropdown-content">
-          <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Productos</a></li>
+          <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a></li>
           <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a>
           </li>
         </ul>
@@ -538,10 +546,6 @@
           <div class="caption center-align"><br><br><br><br>
             <h3 class="primertitulo" style="margin-top:-46px;"><b class="boldbanner">Chemical Broker </b><br></h3><b
               class="segundotitulo" style="font-size: 26px;">Carreras</b>
-            <div class="col s12 m12 l12 xl12" style="margin-top:20px;">
-              <a href="Proximamente.php" class="btn boton--carreers" style="color:#262137;color:white">Vida en Chemical
-                Broker</a>
-            </div>
             <div class="col s12 m12 l12 xl12" style="margin-top:20px">
               <a href="#" class="btn tooltipped boton--carreers" data-position="bottom"
                 data-tooltip="Conoce Todas Nuestras Vacantes">Registrate</a>
@@ -597,8 +601,7 @@
 
         <div class="row">
 
-          <div class="col s12 m12 l12 xl12">
-            <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Valores</b></h5>
+   <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Valores</b></h5>
 
             <div class="row">
               <div class="col s12">
@@ -900,7 +903,7 @@
 
         <div class="col s12 m12 l6 xl6 mercados zoom columna1--mobile">
           <p class="tipografia--general letranegro General--Cuerpo">
-        Dirigir las operaciones y estrategias de ventas, Realizando la busqueda de nuevos socios de negocio, ampliando la cartera e incrementando las ventas, así como analizar y desarrollar nuevas oportunidades de negocio de manera global 
+        Dirigir las operaciones y estrategias de ventas, Realizando la búsqueda de nuevos socios de negocio, ampliando la cartera e incrementando las ventas, así como analizar y desarrollar nuevas oportunidades de negocio de manera global 
           </p>
           <a href="Ventas.php" style="color:#000020;"><b style="color:#000020;">Leer Mas</b></a>
         </div>
@@ -989,9 +992,53 @@
     <div class="row">
       <div class="col s12 m12 l12 xl12 center-align">
         <h5 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020;">Conoce Nuestro Plan Profesional de Carrera</b></h5>
-        <a class="waves-effect waves-light btn" href="Plan_Profesional_CB.php" style="background-color:#000020;text-transform: capitalize;">Plan Profesional de Carrera</a>
+        <a class="waves-effect waves-light btn" href="Plan_Profesional_CB.php" style="background-color:#000020;text-transform: capitalize;border-radius:15px;width:52%;margin-top:20px">Plan Profesional de Carrera</a>
 
       </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row">
+    <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Preguntas Frecuentes</b></h5>
+    <ul class="collapsible">
+    <li>
+      <div class="collapsible-header">¿Cuál es la ubicacion de la oficina?</div>
+      <div class="collapsible-body"><span>Manuel E. Izaguirre No. 29, Cd. Satélite, 53100 Naucalpan de Juárez, Méx.</span></div>
+    </li>
+    <li>
+      <div class="collapsible-header">¿Cuál es su horario de atención?</div>
+      <div class="collapsible-body"><span>Lunes a Viernes de 09:00 a 18:00</span></div>
+    </li>
+    <!-- <li>
+      <div class="collapsible-header">¿Cuál es su esquema de contratación?</div>
+      <div class="collapsible-body"><span>El esquema de contratación depende del tiempo a cubrir la vacante, pero en su mayoría de los procesos la duración es de 2 a 3 semanas</span></div>
+    </li> -->
+    <li>
+      <div class="collapsible-header">¿Es necesario tener experiencia para desempeñar las labores de mi puesto?</div>
+      <div class="collapsible-body"><span>La experiencia no es necesaria ya que confiamos en la capacidad y conocimientos de los recién egresados</span></div>
+    </li>
+    <li>
+      <div class="collapsible-header">¿En cuánto tiempo dan una respuesta sobre mi postulación?</div>
+      <div class="collapsible-body"><span>La respuesta a los candidatos se dará en un tiempo estimado de una semana a partir de la postulación </span></div>
+    </li>
+    
+    <li>
+      <div class="collapsible-header">¿Cuál es su proceso de reclutamiento? </div>
+      <div class="collapsible-body"><span>Nuestro proceso consta de 2 entrevistas, la entrevista inicial y la entrevista psicométrica</span></div>
+    </li>
+    
+    <li>
+      <div class="collapsible-header">¿Que necesito para formar parte de Chemical Broker? </div>
+      <div class="collapsible-body"><span>Es necesario que todos los candidatos se encuentren titulados o en su proceso de titulación y cuenten con un promedio que demuestre su excelencia y compromiso con su profesión</span></div>
+    </li>
+
+    <li>
+      <div class="collapsible-header">¿Necesito hablar algún idioma adicional al español?</div>
+      <div class="collapsible-body"><span>Es indispensable que todo candidato cuente al menos con un nivel básico de ingles</span></div>
+    </li>
+    
+  </ul>
     </div>
   </div>
   

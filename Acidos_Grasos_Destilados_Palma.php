@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Glicerinas</title>
+  <title>Chemical Broker | Acidos Grasos Destilados de Palma</title>
   <meta name="description" content="Chemical Broker distribuye mundialmente Glicerina de la mas alta Pureza y Calidad para las formulaciones de nuestros clientes."> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -284,6 +284,14 @@
                     </p>
                   </ul>
                 </section>
+                <section>
+<ul> 
+<p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas y sugerencias</b>
+</p><hr class="hr">
+<li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<p></p>
+</ul>
+</section>
               </div>
               <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                 <section>
@@ -315,7 +323,7 @@
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
             href="Mercados.php"><b>Mercados</b></a></li>
         <ul id="dropdown3" class="dropdown-content">
-          <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Productos</a>
+          <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a>
           </li>
           <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a>
           </li>
@@ -571,7 +579,7 @@
                 <h5 class="letranegro Tipografia--general Titulos"><b style="color:#000020;">Ácidos Grasos Destilados de Palma</b></h5>
                 <p class="letranegro Tipografia--general General--Cuerpo">Los ácidos grasos se obtienen a partir de la hidrólisis a alta presión y temperatura de grasas y aceites de origen animal y vegetal. Después son destilados, obteniéndose un producto de aspecto blanco y tacto jabonoso.</p>
                 <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;">Tienen un punto de fusión que va desde los 25ºC del coco a los 50-55ºC de los ácidos grasos que provienen de la palma y el sebo. Este punto de fusión relativamente bajo les permite funcionar como emulgentes en muchas formulaciones o como recubrimiento de diferentes aplicaciones.</p>
-                <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;"><b style="color:#000020">Los Ácidos Grasos Destilados de Palma</b> se obtienen por desdoblamiento y posterior destilación al vacío del aceite de palma. El producto obtenido es un sólido blanco opaco a temperatura ambiente, con un punto de fusión sobre los 45 °C. Es rico en acido palmítico y esteárico. Los ácidos grasos predominantes en el aceite de palma son el oleico, el palmítico y el esteárico. Los ácidos grasos se obtienen a partir de la hidrolisis a alta presión y temperatura de grasas y aceites de origen animal y vegetal.</p>
+                <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;"><b style="color:#000020">Los Ácidos Grasos Destilados de Palma</b> se obtienen por desdoblamiento y posterior destilación al vacío del aceite de palma. El producto obtenido es un sólido blanco opaco a temperatura ambiente, con un punto de fusión sobre los 45 °C. Es rico en ácido palmítico y esteárico. Los ácidos grasos predominantes en el aceite de palma son el oleico, el palmítico y el esteárico. Los ácidos grasos se obtienen a partir de la hidrólisis a alta presión y temperatura de grasas y aceites de origen animal y vegetal.</p>
                 <h5 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#000020;">Especificaciones</b></h5>
                 <table style="margin-top:50px;border:1px solid black">
                 <thead>

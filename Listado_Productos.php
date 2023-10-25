@@ -31,15 +31,10 @@
       gtag('config', 'G-SGJQ8FDDJ6');
     </script>
     <script>
-        $(document).ready(function(){
-    $('#table_id').DataTable({
-    "lengthMenu": [
-      [25, 50, 75, 100],
-      [25, 50, 75, 100]
-      ]
-    });  
-        })
-    </script>
+        $(document).ready(function () {
+          $('#table_id2').DataTable();
+        });
+      </script>
 <script type="text/javascript" src="js/main.js"></script>
 </head>
 <body> 
@@ -223,7 +218,7 @@
 <ul class="hide-on-med-and-down">
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Mercados.php"><b>Mercados</b></a></li>
 <ul id="dropdown3" class="dropdown-content" style="width:300px !important;">
-  <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos" style="width:200px;">Productos</a></li>
+  <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos" style="width:200px;">Familias</a></li>
   <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos" style="width:200px;">Lista de Productos</a></li>
 </ul>
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!" data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a></li>
@@ -256,6 +251,7 @@
 </div>
 </div>
 <div class="col s12 m12 l12 xl12 search" id="search">
+
 <table class="search-table" id="searchTable" style="width:100%">
 <thead> 
 <tr>
@@ -413,13 +409,13 @@
 <div class="row">
 <div class="col s12 m12 l12 xl12">
 
-<table style="border:1px solid #f2f2f2;" id="table_id" class="display compact cell-border responsive" style="width:90%;">
-<thead class="center-align">
+<table id="table_id" style="border:1px solid #f2f2f2;"  class="display compact cell-border responsive" style="width:90%;">
+ <thead class="center-align">
 <tr class="center-align" style="font-size:14px">
-<th id="Dtype" class="center-align">PRUEBA</th>
+<th id="Dtype" class="center-align" style="border-right:1px solid #f2f2f2;">PRUEBA</th>
 <th id="Dtype2" class="center-align">PRUEBA2</th>
 </tr>
-</thead>
+</thead> 
 <tbody>
     <tr>
         <td class="tabla_lista_prod" style="border-right:1px solid #f2f2f2;">Aceites</td>
@@ -457,8 +453,8 @@
         <td style="text-align:center;">8042-47-5</td>
     </tr>
 
-    <tr class="">
-        <td style="height:20px;border-right:1px solid #f2f2f2;""></td>
+    <tr>
+        <td style="height:20px;border-right:1px solid #f2f2f2;"></td>
         <td></td>
     </tr>
 
@@ -613,7 +609,7 @@
     </tr>
 
     <tr class="">
-        <td style="height:20px;border-right:1px solid #f2f2f2;""></td>
+        <td style="height:20px;border-right:1px solid #f2f2f2;"></td>
         <td></td>
     </tr>
 
@@ -1229,7 +1225,7 @@
     </tr>
 
     <tr class="">
-        <td style="height:20px;border-right:1px solid #f2f2f2;""></td>
+        <td style="height:20px;border-right:1px solid #f2f2f2;"></td>
         <td></td>
     </tr>
 
@@ -1404,7 +1400,7 @@
     </tr>
 
     <tr class="">
-        <td style="height:20px;border-right:1px solid #f2f2f2;""></td>
+        <td style="height:20px;border-right:1px solid #f2f2f2;"></td>
         <td></td>
     </tr>
 
@@ -2878,7 +2874,7 @@
 
     <tr>
         <td style="border-right:1px solid #f2f2f2;">Metil Parabeno Sódico</td>
-        <td style="text-align:center;"99-76-3</td>
+        <td style="text-align:center;">99-76-3</td>
     </tr>
 
     <tr class="trgris">

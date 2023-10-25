@@ -80,12 +80,12 @@ recaptchaResponse.value = token;
                 sitio web, puede almacenar o recuperar información en su navegador, principalmente en forma de cookies.
                 Esta información puede ser sobre usted, sus preferencias o su dispositivo y se utiliza principalmente
                 para hacer que el sitio funcione como espera. Por lo general, la informacion no lo identifica
-                directamente, pero puede brindarle una experiencia web mas personalizada. Debido a que respetamos su
+                directamente, pero puede brindarle una experiencia web más personalizada. Debido a que respetamos su
                 derecho a la privacidad, puede optar por no permitir algunos tipos de cookies. Haga clic en los titulos
                 de las diferentes categorías para obtener más información y cambiar nuestra configuración
                 predeterminada. Sin embargo, bloquear algunos tipos de cookies puede afectar su experiencia en el sitio
                 y los servicios que podemos ofrecer.</p>
-              <p> <a class="Botones Tipografia--general" href="#" style="color:blue;float:left;">Mas información</a></p>
+              <p> <a class="Botones Tipografia--general" href="#" style="color:blue;float:left;">Más información</a></p>
               <div class="row">
                 <div class="col s12 m12 l12 xl12" style="margin-top:16px"><a
                     class="modal-close color--blanco fondo--color--corporativo Tipografia--general Botones" href="#!"
@@ -285,6 +285,14 @@ recaptchaResponse.value = token;
                     </p>
                   </ul>
                 </section>
+                <section>
+<ul> 
+<p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas y sugerencias</b>
+</p><hr class="hr">
+<li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<p></p>
+</ul>
+</section>
               </div>
               <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                 <section>
@@ -316,7 +324,7 @@ recaptchaResponse.value = token;
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
             href="Mercados.php"><b>Mercados</b></a></li>
             <ul id="dropdown3" class="dropdown-content">
-  <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Productos</a></li>
+  <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a></li>
   <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a></li>
 </ul>
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!" data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a></li>
@@ -551,7 +559,7 @@ recaptchaResponse.value = token;
   <div class="container">
     <div class="row">
       <div class="col s12 m12 l12 xl12">
-        <center><h1 class="Tipografia--general Titulos" style="color:#2279dfa4;margin-top:50px;"><b>Preservar tu Salud es lo mas Importante</b></h1></center>
+        <center><h1 class="Tipografia--general Titulos" style="color:#2279dfa4;margin-top:50px;"><b>Preservar tu Salud es lo más Importante</b></h1></center>
         <p class="Tipografia--general General--Cuerpo" style="color:#262137;margin-top:50px;">La Industria Farmacéutica provee al mundo
           soluciones que permiten preservar la salud humana y mejorar su calidad de vida.</p>
         <p class="Tipografia--general General--Cuerpo" style="color:#262137;">Chemical Broker ofrece un amplio
@@ -562,13 +570,13 @@ recaptchaResponse.value = token;
           una mejor calidad de vida, los Excipientes, son las sustancias responsables de que los Activos cumplan con su
           cometido al ser mezclados entre sí y pueden constituir el 90% de la composición total de un medicamento:</p>
         <h5 class="Tipografia--general center-align" style="color:#262137;margin-top: 50px;"><b style="font-size:20px;margin-top: 30px;color:#2279dfa4;">Los excipientes
-            funcionan como vehículo para darle cuerpo, textura, forma y conservación al principio activo facilitando su
+            funcionan como vehículo para darle cuerpo, textura, forma y conservación al principio activo, facilitando su
             ingesta y regulando su actividad en el organismo.</b></h5>
         <h5 class="Tipografia--general Titulos" style="color:#262137;margin-top:50px"><b>Funciones</b>
           <ol>
             <li class="Tipografia--general Elementos--Listas General--Cuerpo"
-              style="color:#262137;margin-top:30px;list-style-type: disc;">Aumentan el valor de la formula, pues las
-              cantidades de Principio Activo (API´S) por sus siglas en inglés, por dosis a veces son sumamente pequeñas.
+              style="color:#262137;margin-top:30px;list-style-type: disc;">Aumentan el valor de la fórmula, pues las
+              cantidades de Principio Activo (API´S) por sus siglas en inglés, por dosis, a veces son sumamente pequeñas.
             </li><br />
             <li class="Tipografia--general Elementos--Listas General--Cuerpo"
               style="color:#262137;margin-top:30px;list-style-type: disc;">Aseguran la estabilidad del Principio
@@ -597,7 +605,7 @@ recaptchaResponse.value = token;
                   style="position:relative;z-index:2">Sprays Nasales </span></b><b> </b>
               <hr class="animacion" />
               <p> <b style="color:white !important">
-                  <p class="leer_mas_mercados center-align"> Leer Mas</p>
+                  <p class="leer_mas_mercados center-align"> Leer Más</p>
                 </b></p>
             </div><img class="mercadosimagen" src="img/SPRAY_NASAL.jpeg" alt="" style="border-radius:10px" />
           </div>
@@ -610,7 +618,7 @@ recaptchaResponse.value = token;
                   style="position:relative;z-index:2">Jarabes </span></b><b> </b>
               <hr class="animacion" />
               <p> <b style="color:white !important">
-                  <p class="leer_mas_mercados center-align"> Leer Mas</p>
+                  <p class="leer_mas_mercados center-align"> Leer Más</p>
                 </b></p>
             </div><img class="mercadosimagen" src="img/SYRUP_280421.jpeg" alt="" style="border-radius:10px" />
           </div>
@@ -623,7 +631,7 @@ recaptchaResponse.value = token;
                   style="position:relative;z-index:2">Pomadas </span><br />y<br />Ungüentos</b><b> </b>
               <hr class="animacion" />
               <p> <b style="color:white !important">
-                  <p class="leer_mas_mercados center-align"> Leer Mas</p>
+                  <p class="leer_mas_mercados center-align"> Leer Más</p>
                 </b></p>
             </div><img class="mercadosimagen" src="img/POMADA_100521.jpg" alt="" style="border-radius:10px" />
           </div>
@@ -636,7 +644,7 @@ recaptchaResponse.value = token;
                   style="position:relative;z-index:2">Tabletas Duras </span></b><b> </b>
               <hr class="animacion" />
               <p> <b style="color:white !important">
-                  <p class="leer_mas_mercados center-align"> Leer Mas</p>
+                  <p class="leer_mas_mercados center-align"> Leer Más</p>
                 </b></p>
             </div><img class="mercadosimagen" src="img/TABLETAS_DURAS_100521.jpg" alt="" style="border-radius:10px" />
           </div>
@@ -649,7 +657,7 @@ recaptchaResponse.value = token;
                   style="position:relative;z-index:2">Tabletas Blandas </span></b><b> </b>
               <hr class="animacion" />
               <p> <b style="color:white !important">
-                  <p class="leer_mas_mercados center-align"> Leer Mas</p>
+                  <p class="leer_mas_mercados center-align"> Leer Más</p>
                 </b></p>
             </div><img class="mercadosimagen" src="img/CAPSULAS_BLANDAS_280421.jpeg" alt=""
               style="border-radius:10px" />
@@ -663,7 +671,7 @@ recaptchaResponse.value = token;
                   style="position:relative;z-index:2">Supositorios </span></b><b> </b>
               <hr class="animacion" />
               <p> <b style="color:white !important">
-                  <p class="leer_mas_mercados center-align"> Leer Mas</p>
+                  <p class="leer_mas_mercados center-align"> Leer Más</p>
                 </b></p>
             </div><img class="mercadosimagen" src="img/SUPOSITORIOS_100521.jpg" alt="" style="border-radius:10px" />
           </div>
@@ -676,7 +684,7 @@ recaptchaResponse.value = token;
                   style="position:relative;z-index:2">Inyectables </span></b><b> </b>
               <hr class="animacion" />
               <p> <b style="color:white !important">
-                  <p class="leer_mas_mercados center-align"> Leer Mas </p>
+                  <p class="leer_mas_mercados center-align"> Leer Más </p>
                 </b></p>
             </div><img class="mercadosimagen" src="img/INJECTABLE_280421.jpeg" alt="" style="border-radius:10px" />
           </div>
@@ -689,7 +697,7 @@ recaptchaResponse.value = token;
                   style="position:relative;z-index:2">Suplementos Alimenticios</span></b><b> </b>
               <hr class="animacion" />
               <p> <b style="color:white !important">
-                  <p class="leer_mas_mercados center-align"> Leer Mas </p>
+                  <p class="leer_mas_mercados center-align"> Leer Más </p>
                 </b></p>
             </div><img class="mercadosimagen" src="img/SUPLEMENTS_040521.jpeg" alt="" style="border-radius:10px" />
           </div>

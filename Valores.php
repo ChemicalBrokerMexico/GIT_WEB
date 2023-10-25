@@ -184,6 +184,14 @@
                       </p>
                     </ul>
                   </section>
+                  <section>
+<ul> 
+<p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas y sugerencias</b>
+</p><hr class="hr">
+<li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<p></p>
+</ul>
+</section>
                 </div>
                 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                   <section>
@@ -211,7 +219,7 @@
         <ul class="hide-on-med-and-down">
           <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Mercados.php"><b>Mercados</b></a></li>
           <ul id="dropdown3" class="dropdown-content">
-  <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Productos</a></li>
+  <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a></li>
   <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a></li>
 </ul>
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a></li>
@@ -398,16 +406,16 @@
       </div>
     </div>
     <div class="container">
-      <div class="row" style="margin-top:50px">
-        <div class="col s12 m12 l12 xl6 mercados zoom"><a href="" style="cursor:pointer;">
+      <div class="row" >
+        <!-- <div class="col s12 m12 l12 xl6 mercados zoom"><a href="" style="cursor:pointer;">
             <div class="contenedor">
               <div class="transfo" id="overlay" style="border-radius:10px"></div>
               <div class="centrado_sub" style="position:absolute;z-index:2">
                 <h5 class="titulo_excelencia Tipografia--general"></h5><b class="titulo_excelencia"> <span style="position:relative;z-index:2">Excelencia </span></b><b> </b>
                 <hr class="animacion">
               </div><img class="mercadosimagen" src="img/EXCELENCIA_CB.jpg" alt="" style="border-radius:10px">
-            </div></a></div>
-        <div class="col s12 m12 l12 xl6">
+            </div></a></div> -->
+        <!-- <div class="col s12 m12 l12 xl6">
           <h6 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios </i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Definición</b></h6>
           <p class="Tipografia--general letranegro General--Cuerpo">Superior calidad o bondad que hace digna de aprecio y estima una cosa o a una persona.</p>
           <h6 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px"> <i class="tiny material-icons">arrow_forward_ios</i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Etimología</b></h6>
@@ -420,38 +428,131 @@
             <li style="font-size:16px">Estándar de <b>Tiempo</b></li>
             <li style="font-size:16px">Estándar de <b>Costo</b></li>
           </ol><br>
+        </div> -->
+
+        <div class="col s12 m12 l6 xl6">
+        <div class="card" style="border-radius:15px;">
+    <div class="card-image waves-effect waves-block waves-light">
+      <img class="activator" src="img/EXCELENCIA_CB.jpg">
+    </div>
+    <div class="card-content">
+      <span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Excelencia<i class="material-icons right">arrow_upward</i></b></span>
+    </div>
+    <div class="card-reveal">
+      <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+      <h6 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios </i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Definición</b></h6>
+          <p class="Tipografia--general letranegro General--Cuerpo">Superior calidad o bondad que hace digna de aprecio y estima una cosa o a una persona.</p>
+          <h6 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px"> <i class="tiny material-icons">arrow_forward_ios</i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Etimología</b></h6>
+          <p class="Tipografia--general letranegro General--Cuerpo">La palabra excelencia viene del latín, Excellentia-ae, de ex y cella una raíz indoeuropea *kel- en griego kelo que significa lugar oculto o escondido, bodega, de ahí derivo la castellana celda y en alemán keller (sótano) y zelle (celda), por el cambio de la pronunciación de c como k en el latin clásico (keller) y la c como ts en el eclesiastico (zelle). excellentia, significaría salir de lo oculto, significando también superioridad, grandeza, elevarse, enorgullecerse, De esta palabra, salieron marcas como, por ejemplo. El programa para computadoras Excel.</p>
+          <h6 class="Tipografia--general letranegro Subtitulos" style="margin-top:50px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Excelencia para Chemical Broker</b></h6>
+          <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">Maximizar los Estándares determinados por Chemical Broker para cada proceso:</p>
+          <ol class="Tipografia--general letranegro General--Cuerpo"> 
+            <li style="font-size:16px">Estándar de <b>Calidad</b></li>
+            <li style="font-size:16px">Estándar de <b>Cantidad</b></li>
+            <li style="font-size:16px">Estándar de <b>Tiempo</b></li>
+            <li style="font-size:16px">Estándar de <b>Costo</b></li>
+          </ol>
+    </div>
+  </div>
         </div>
-      </div><br><br><br><br>
-      <div class="row" style="margin-top:50px">
-        <div class="col s12 m12 l12 xl6 mercados zoom" style="float:right"><a href="" style="cursor:pointer;">
+
+        <div class="col s12 m12 l6 xl6">
+        <div class="card" style="border-radius:15px;">
+    <div class="card-image waves-effect waves-block waves-light">
+      <img class="activator" src="img/CB_GOOD_CUSTOMER_130722.jpeg">
+    </div>
+    <div class="card-content">
+      <span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Servicio<i class="material-icons right">arrow_upward</i></b></span>
+    </div>
+    <div class="card-reveal">
+      <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+      <h6 class="Tipografia--general letranegro General--Cuerpo"> <i class="tiny material-icons">arrow_forward_ios </i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Definición</b></h6>
+          <p class="Tipografia--general letranegro General--Cuerpo">Acción o conjunto de actividades destinadas a satisfacer una determinada necesidad de nuestros socios de negocios, brindando un producto inmaterial y personalizado.</p>
+          <h6 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"> <i class="tiny material-icons">arrow_forward_ios</i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Etimología</b></h6>
+          <p class="Tipografia--general letranegro General--Cuerpo"><ol><li style="list-style-type: disc;">Viene del latín servitium compuesto con: la raíz de servitum. Supino del verbo servire (atender, cuidar, servir, ser esclavo, adaptarse a otro o a otra cosa)</ol></li></p>
+          <p class="Tipografia--general letranegro General--Cuerpo"><ol><li style="list-style-type: disc;">Este vocablo en su etimología procede del latín (servitium) que quiere decir servidumbre.</ol></li></p>
+          <h6 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Servicio para Chemical Broker</b></h6>
+          <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">Dedicamos nuestros esfuerzos a la <b>satisfacción total </b>de Nuestros Socios de Negocios.
+          </p>
+    </div>
+  </div>
+        </div>
+
+        
+        <div class="col s12 m12 l6 xl6">
+        <div class="card" style="border-radius:15px;">
+    <div class="card-image waves-effect waves-block waves-light">
+      <img class="activator" src="img/COMPROMISO_CB.jpg">
+    </div>
+    <div class="card-content">
+      <span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Compromiso<i class="material-icons right">arrow_upward</i></b></span>
+    </div>
+    <div class="card-reveal">
+      <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+      <h6 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios </i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Definición </b></h6>
+          <p class="Tipografia--general letranegro General--Cuerpo">Acuerdo formal al que llegan dos o más partes tras hacer concesiones entre ellas</p>
+          <h6 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"> <i class="tiny material-icons">arrow_forward_ios </i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Etimología</b></h6>
+          <p class="Tipografia--general letranegro General--Cuerpo">Viene del latín compromissum (un acuerdo para cumplir con la adjudicación de un árbitro)</p>
+          <h6 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Compromiso para Chemical Broker </b></h6>
+          <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">Brindar a nuestros socios de negocios un <b>Servicio Integral </b>y exclusivo para su completa satisfacción.
+          </p>
+    </div>
+  </div>
+        </div>
+
+        
+        <div class="col s12 m12 l6 xl6">
+        <div class="card" style="border-radius:15px;">
+    <div class="card-image waves-effect waves-block waves-light">
+      <img class="activator" src="img/ETICA_CB.jpg">
+    </div>
+    <div class="card-content">
+      <span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Etica Empresarial<i class="material-icons right">arrow_upward</i></b></span>
+    </div>
+    <div class="card-reveal">
+      <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+      <h6 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios</i><b style="color: #008037;text-decoration:underline;text-decoration-color:#F7291E;">Definición</b></h6>
+          <p class="Tipografia--general letranegro General--Cuerpo">La ética empresarial es una rama de la ética aplicada. Se ocupa del estudio de las cuestiones normativas de naturaleza moral que se plantean en el mundo de los negocios.</p>
+          <h6 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color: #008037;text-decoration:underline;text-decoration-color:#F7291E;">Etimología</b></h6>
+          <p class="Tipografia--general letranegro General--Cuerpo">Se ubica en el latín como ethĭca, forma femenina de ethĭcus, cuyo origen se distingue en el griego ēthikḗ, en calidad de femenino de ēthikós. Es utilizada para referirse al estudio de los actos humanos con el fin de alcanzar el bien, es la voluntad de actuar de manera correcta.</p>
+          <h6 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color: #008037;text-decoration:underline;text-decoration-color:#F7291E;">Etica Empresarial para Chemical Broker</b></h6>
+          <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">Actuar con <b>Respeto, Transparencia y Cumplimiento estricto a nuestros compromisos </b>con Nuestros Socios de Negocios; miembros de la organización, sociedad, gobierno, clientes y proveedores, apegado al marco legal vigente entre Chemical Broker y los involucrados.
+          </p><br>
+    </div>
+  </div>
+        </div>
+
+      </div>
+      <div class="row">
+        <!-- <div class="col s12 m12 l12 xl6 mercados zoom" style="float:right"><a href="" style="cursor:pointer;">
             <div class="contenedor">
               <div class="transfo" id="overlay" style="border-radius:10px"></div>
               <div class="centrado_sub" style="position:absolute;z-index:2">
                 <h5 class="titulo_excelencia"></h5><b class="titulo_excelencia"> <span style="position:relative;z-index:2">Servicio </span></b><b> </b>
                 <hr class="animacion">
               </div><img class="mercadosimagen" src="img/CB_GOOD_CUSTOMER_130722.jpeg" alt="" style="border-radius:10px">
-            </div></a></div>
-        <div class="col s12 m12 l12 xl6">
+            </div></a></div> -->
+        <!-- <div class="col s12 m12 l12 xl6">
           <h6 class="Tipografia--general letranegro General--Cuerpo"> <i class="tiny material-icons">arrow_forward_ios </i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Definición</b></h6>
           <p class="Tipografia--general letranegro General--Cuerpo">Acción o conjunto de actividades destinadas a satisfacer una determinada necesidad de nuestros socios de negocios, brindando un producto inmaterial y personalizado.</p>
           <h6 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"> <i class="tiny material-icons">arrow_forward_ios</i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Etimología</b></h6>
           <p class="Tipografia--general letranegro General--Cuerpo"><ol><li style="list-style-type: disc;">Viene del latín servitium compuesto con: la raíz de servitum. Supino del verbo servire (atender, cuidar, servir, ser esclavo, adaptarse a otro o a otra cosa)</ol></li></p>
-          <p class="Tipografia--general letranegro General--Cuerpo"><ol><li style="list-style-type: disc;">Este vocablo en su etimologia procede del latín (servitium) que quiere decir servidumbre.</ol></li></p>
+          <p class="Tipografia--general letranegro General--Cuerpo"><ol><li style="list-style-type: disc;">Este vocablo en su etimología procede del latín (servitium) que quiere decir servidumbre.</ol></li></p>
           <h6 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Servicio para Chemical Broker</b></h6>
           <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">Dedicamos nuestros esfuerzos a la <b>satisfacción total </b>de Nuestros Socios de Negocios.
           </p><br>
-        </div>
-      </div><br><br><br><br>
-      <div class="row" style="margin-top:50px;">
-        <div class="col s12 m12 l12 xl6 mercados zoom"><a href="" style="cursor:pointer;">
+        </div> -->
+      </div>
+      <div class="row" >
+        <!-- <div class="col s12 m12 l12 xl6 mercados zoom"><a href="" style="cursor:pointer;">
             <div class="contenedor">
               <div class="transfo" id="overlay" style="border-radius:10px"></div>
               <div class="centrado_sub" style="position:absolute;z-index:2">
                 <h5 class="titulo_excelencia"></h5><b class="titulo_excelencia"> <span style="position:relative;z-index:2">Compromiso  </span></b><b> </b>
                 <hr class="animacion">
               </div><img class="mercadosimagen" src="img/COMPROMISO_CB.jpg" alt="" style="border-radius:10px">
-            </div></a></div>
-        <div class="col s12 m12 l12 xl6">
+            </div></a></div> -->
+        <!-- <div class="col s12 m12 l12 xl6">
           <h6 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios </i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Definición </b></h6>
           <p class="Tipografia--general letranegro General--Cuerpo">Acuerdo formal al que llegan dos o más partes tras hacer concesiones entre ellas</p>
           <h6 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"> <i class="tiny material-icons">arrow_forward_ios </i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Etimología</b></h6>
@@ -459,18 +560,18 @@
           <h6 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Compromiso para Chemical Broker </b></h6>
           <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">Brindar a nuestros socios de negocios un <b>Servicio Integral </b>y exclusivo para su completa satisfacción.
           </p><br>
-        </div>
-      </div><br><br><br><br>
-      <div class="row" style="margin-top:50px;">
-        <div class="col s12 m12 l12 xl6 mercados zoom" style="float:right"><a href="" style="cursor:pointer;">
+        </div> -->
+      </div>
+      <div class="row" >
+        <!-- <div class="col s12 m12 l12 xl6 mercados zoom" style="float:right"><a href="" style="cursor:pointer;">
             <div class="contenedor">
               <div class="transfo" id="overlay" style="border-radius:10px"></div>
               <div class="centrado_sub" style="position:absolute;z-index:2">
                 <h5 class="titulo_excelencia Tipografia--general letranegro General--Cuerpo"></h5><b class="titulo_excelencia"> <span style="position:relative;z-index:2">Etica </span><br>Empresarial</b><b> </b>
                 <hr class="animacion">
               </div><img class="mercadosimagen" src="img/ETICA_CB.jpg" alt="" style="border-radius:10px">
-            </div></a></div>
-        <div class="col s12 m12 l12 xl6">
+            </div></a></div> -->
+        <!-- <div class="col s12 m12 l12 xl6">
           <h6 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios</i><b style="color: #008037;text-decoration:underline;text-decoration-color:#F7291E;">Definición</b></h6>
           <p class="Tipografia--general letranegro General--Cuerpo">La ética empresarial es una rama de la ética aplicada. Se ocupa del estudio de las cuestiones normativas de naturaleza moral que se plantean en el mundo de los negocios.</p>
           <h6 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color: #008037;text-decoration:underline;text-decoration-color:#F7291E;">Etimología</b></h6>
@@ -478,8 +579,8 @@
           <h6 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color: #008037;text-decoration:underline;text-decoration-color:#F7291E;">Etica Empresarial para Chemical Broker</b></h6>
           <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">Actuar con <b>Respeto, Transparencia y Cumplimiento estricto a nuestros compromisos </b>con Nuestros Socios de Negocios; miembros de la organización, sociedad, gobierno, clientes y proveedores, apegado al marco legal vigente entre Chemical Broker y los involucrados.
           </p><br>
-        </div>
-      </div><br><br><br><br>
+        </div> -->
+      </div>
     </div>
     <footer class="altofooter">
       <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""></div><br><br>

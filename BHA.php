@@ -284,6 +284,14 @@
                     </p>
                   </ul>
                 </section>
+                <section>
+<ul> 
+<p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas y sugerencias</b>
+</p><hr class="hr">
+<li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<p></p>
+</ul>
+</section>
               </div>
               <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                 <section>
@@ -315,7 +323,7 @@
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
             href="Mercados.php"><b>Mercados</b></a></li>
         <ul id="dropdown3" class="dropdown-content">
-          <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Productos</a>
+          <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a>
           </li>
           <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a>
           </li>
@@ -590,12 +598,12 @@
         </p>
 
         <table class="display" id="table_id2" name="table_id2"
-          style="width:50%;border-spacing:2px 5px;border:none;margin:30px 0px 0px 0px">
+          style="width:100%;border-spacing:2px 5px;border:none;margin:30px 0px 0px 0px">
           <tr class="Tipografia--general General--Cuerpo"
             style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
             <td
               style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#FFCCCC;color:black;" class="table_bha_mobile">
-              Estructura Química:
+              <b>Estructura Química:</b>
             </td>
             <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;text-align:center;" class="table_bha_mobile"><img src="./img/BHA_ESTRUCTURA.png" alt="" class="Estructural_BHA"></td>
           </tr>
@@ -607,7 +615,7 @@
             <td
               style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#FFCCCC;color:black;" class="table_bha_mobile"
               >
-              Nombre IUPAC:
+              <b>Nombre IUPAC:</b>
             </td>
             <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;" class="table_bha_mobile"
               >
@@ -623,11 +631,11 @@
             <td
               style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;background-color:#FFCCCC;color:black;" class="table_bha_mobile"
               >
-              Sinonimos:
+              <b>Sinonimos:</b>
             </td>
             <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;" class="table_bha_mobile"
               >
-              Hidroxianisol butilado</td>
+              Hidroxianisol Butilado</td>
           </tr>
 
 
@@ -636,7 +644,7 @@
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
               style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#FFCCCC;color:black;" class="table_bha_mobile">
-              Formula:
+              <b>Formula:</b>
             </td>
             <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;" class="table_bha_mobile">C<sub>11</sub>H<sub>16</sub>O<sub>2</sub></td>
           </tr>
@@ -647,7 +655,7 @@
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
               style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#FFCCCC;color:black;" class="table_bha_mobile">
-              CAS No:
+              <b>CAS No:</b>
             </td>
             <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%" class="table_bha_mobile">
               25013-16-5, 8003-24-5, 9009-68-1
@@ -658,7 +666,7 @@
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
               style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#FFCCCC;color:black;" class="table_bha_mobile">
-              ChEMBL:
+              <b>ChEMBL:</b>
             </td>
             <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%" class="table_bha_mobile"
         >CHEMBL502074</td>
@@ -670,7 +678,7 @@
             <td
               style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#FFCCCC;color:black;" class="table_bha_mobile"
               >
-              Chem Spider:
+              <b>Chem Spider:</b>
             </td>
             <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%" class="table_bha_mobile"
               >23068</td>
@@ -681,7 +689,7 @@
             <td
               style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#FFCCCC;color:black;" class="table_bha_mobile"
               >
-              PubChem:
+              <b>PubChem:</b>
             </td>
             <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;" class="table_bha_mobile"
               >24667</td>
@@ -692,7 +700,7 @@
             <td
               style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#FFCCCC;color:black;" class="table_bha_mobile"
               >
-              UNII:
+              <b>UNII:</b>
             </td>
             <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;" class="table_bha_mobile"
               >REK4960K2U</td>
@@ -703,7 +711,7 @@
             <td
               style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#FFCCCC;color:black;" class="table_bha_mobile"
               >
-              KEGG:
+              <b>KEGG:</b>
             </td>
             <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;margin-bottom:0px" class="table_bha_mobile"
               >C15469</td>

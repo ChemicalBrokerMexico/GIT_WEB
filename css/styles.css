@@ -1040,8 +1040,8 @@ font-size: 12px;
     }
 
     .Tablas_Bicarsodio_Mobile{
-        width:100%;
-        text-align:center;
+        width:50%;
+     
     }
 
     .Estructural_BHA{
@@ -1833,8 +1833,8 @@ font-size: 12px;
        }
 
        .Tablas_Bicarsodio_Mobile{
-        width:100%;
-        text-align:center;
+        width:50%;
+        
     }
 
        .Estructural_BHA{
@@ -4922,12 +4922,12 @@ margin-top:85px;
 
         
         .tabla_propiedades{
-            width: 50%;
+            width: 100%;
             border-spacing: 2px 2px;
         }
 
         .table_glycols{
-            width: 50%;
+            width:100%;
         }
 
         .Antioxidantes_Banner{

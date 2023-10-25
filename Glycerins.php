@@ -75,12 +75,12 @@
                 sitio web, puede almacenar o recuperar información en su navegador, principalmente en forma de cookies.
                 Esta información puede ser sobre usted, sus preferencias o su dispositivo y se utiliza principalmente
                 para hacer que el sitio funcione como espera. Por lo general, la informacion no lo identifica
-                directamente, pero puede brindarle una experiencia web mas personalizada. Debido a que respetamos su
+                directamente, pero puede brindarle una experiencia web más personalizada. Debido a que respetamos su
                 derecho a la privacidad, puede optar por no permitir algunos tipos de cookies. Haga clic en los titulos
                 de las diferentes categorías para obtener más información y cambiar nuestra configuración
                 predeterminada. Sin embargo, bloquear algunos tipos de cookies puede afectar su experiencia en el sitio
                 y los servicios que podemos ofrecer.</p>
-              <p> <a class="Botones Tipografia--general" href="#" style="color:blue;float:left;">Mas información</a></p>
+              <p> <a class="Botones Tipografia--general" href="#" style="color:blue;float:left;">Más información</a></p>
               <div class="row">
                 <div class="col s12 m12 l12 xl12" style="margin-top:16px"><a
                     class="modal-close Tipografia--general Botones" href="#!"
@@ -284,6 +284,14 @@
                     </p>
                   </ul>
                 </section>
+                <section>
+<ul> 
+<p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas y sugerencias</b>
+</p><hr class="hr">
+<li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<p></p>
+</ul>
+</section>
               </div>
               <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                 <section>
@@ -315,7 +323,7 @@
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
             href="Mercados.php"><b>Mercados</b></a></li>
         <ul id="dropdown3" class="dropdown-content">
-          <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Productos</a>
+          <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a>
           </li>
           <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a>
           </li>
@@ -571,7 +579,7 @@
         <h5 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Glicerinas</b></h5>
 
         <p class="Tipografia--general letranegro General--Cuerpo"><b>Chemical Broker</b> distribuye mundialmente
-          Glicerina de la mas alta Pureza y Calidad para las formulaciones de nuestros clientes.</p>
+          Glicerina de la más alta Pureza y Calidad para las formulaciones de nuestros clientes.</p>
 
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Hoy en dia nuestra oferta incluye glicerina en
           cumplimiento a <b style="color:#000020;">GMP´s, Kosher, Halal, GFSI, FCC, USP, RSPO Mass Balance.</b></p>
@@ -602,7 +610,7 @@
 
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La glicerina es una de las sustancias que intervienen
           en los procesos de transferencia de tejido adiposo y glucosa entre diversos aparatos del organismo y que
-          forman parte de las membranas celulares. Es un compuesto químico dulce y viscoso – cuya formula es C₃H₈O₃ que
+          forman parte de las membranas celulares. Es un compuesto químico dulce y viscoso – cuya fórmula es C₃H₈O₃ que
           ha sido utilizado desde la antigüedad como ingrediente fundamental del jabón.</p>
 
         <blockquote class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">(1) El <b>ciclo de
@@ -614,12 +622,12 @@
         <h5 class="Tipografia--general letranegro General--Cuerpo Titulos" style="margin-top:50px;"><b>Información Técnica Glicerina</b></h5>
 
         <table class="display" id="table_id2" name="table_id2"
-          style="width:33%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
+          style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
               style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tablas_Productos_Glicerina">
-              Formula Estructural:
+              Fórmula Estructural:
             </td>
             <td style="font-size:15px !important;border:1px solid #C0C0C0;text-align:center;width:50%;" class="Tablas_Productos_Glicerina"><img
                 src="./img/1920px-Glycerin_Skelett2.svg.png" alt="" class="Estructural_Glicerina"></td>
@@ -629,7 +637,7 @@
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
               style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tablas_Productos_Glicerina">
-              Formula:
+              Fórmula:
             </td>
             <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;text-align:center" class="Tablas_Productos_Glicerina">
               HOCH<sub>2</sub>-CHOH-</td>
@@ -639,7 +647,7 @@
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
               style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;background-color:#262137;color:white;" class="Tablas_Productos_Glicerina">
-              Formula Molecular:
+              Fórmula Molecular:
             </td>
             <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;text-align:center;" class="Tablas_Productos_Glicerina">
               C<sub>3</sub>H<sub>8</sub>O<sub>3</sub></td>
@@ -804,7 +812,7 @@
       <div class="col s12 m12 l12 xl12">
       <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Tipos de glicerinas</b></h5>
         <ol style="list-style-type:disc;margin-bottom:0px;">
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Glicerina Liquida:</b> Su función principal es
+          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Glicerina Líquida:</b> Su función principal es
             la de
             espesar y mantener la humedad, se encuentra de manera habitual en productos de cosmética por su capacidad
             hidratante.</li>
@@ -817,7 +825,7 @@
           <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Glicerina Vegetal:</b> La glicerina vegetal es
             un
             tipo de glicerina que se refina exclusivamente a partir de grasas 100% vegetales. Es una opción muy buena
-            para aquellos que busquen jabones con bases veganas mas respetuosas con el medio ambiente. </li>
+            para aquellos que busquen jabones con bases veganas más respetuosas con el medio ambiente. </li>
           <br>
           <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Glicerina en forma sintética y natural:</b> La
             glicerina se halla de forma sintética y natural, por eso es importante informarse detalladamente sobre sus
@@ -884,7 +892,7 @@
           <br>
 
           <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Espesante.- </b> Sustancia que se añade a una
-            solución liquida para hacerla más espesa.</li>
+            solución líquida para hacerla más espesa.</li>
 
           <br>
 
@@ -899,7 +907,7 @@
           <br>
 
           <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Solvente.- </b> Sustancia en la que se diluye
-            un sólido, liquido o gas químicamente diferente, se aplica en adhesivos, componentes en las pinturas,
+            un sólido, líquido o gas químicamente diferente, se aplica en adhesivos, componentes en las pinturas,
             productos farmacéuticos, elaboración de materiales sintéticos, etc.</li>
 
           <br>

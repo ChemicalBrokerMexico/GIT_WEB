@@ -89,7 +89,7 @@
                                 principalmente
                                 para hacer que el sitio funcione como espera. Por lo general, la informacion no lo
                                 identifica
-                                directamente, pero puede brindarle una experiencia web mas personalizada. Debido a que
+                                directamente, pero puede brindarle una experiencia web más personalizada. Debido a que
                                 respetamos su
                                 derecho a la privacidad, puede optar por no permitir algunos tipos de cookies. Haga clic
                                 en los titulos
@@ -98,7 +98,7 @@
                                 predeterminada. Sin embargo, bloquear algunos tipos de cookies puede afectar su
                                 experiencia en el sitio
                                 y los servicios que podemos ofrecer.</p>
-                            <p> <a class="Botones Tipografia--general" href="#" style="color:blue;float:left;">Mas
+                            <p> <a class="Botones Tipografia--general" href="#" style="color:blue;float:left;">Más
                                     información</a></p>
                             <div class="row">
                                 <div class="col s12 m12 l12 xl12" style="margin-top:16px"><a
@@ -358,6 +358,14 @@
                                         </p>
                                     </ul>
                                 </section>
+                                <section>
+<ul> 
+<p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas y sugerencias</b>
+</p><hr class="hr">
+<li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<p></p>
+</ul>
+</section>
                             </div>
                             <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                                 <section>
@@ -393,7 +401,7 @@
                         href="Mercados.php"><b>Mercados</b></a></li>
                 <ul id="dropdown3" class="dropdown-content">
                     <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">
-                            Productos</a></li>
+                            Familias</a></li>
                     <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de
                             Productos</a></li>
                 </ul>
@@ -655,7 +663,7 @@
         <div class="row">
             <div class="col s12 m12 l12 xl12">
                 <h5 class="Tipografia--general letranegro General--Cuerpo"><b>Pasta de Soya</b></h5>
-                <p class="Tipografia--general letranegro General--Cuerpo">La pasta de soya es la fuente de proteína mas importante utilizada en la alimentación humana y del
+                <p class="Tipografia--general letranegro General--Cuerpo">La pasta de soya es la fuente de proteína más importante utilizada en la alimentación humana y del
                     ganado. La pasta de soya es la fuente natural más concentrada de proteína, aminoácidos y energía.
                     Debido a esto en la actualidad es el ingrediente más utilizado por nutriólogos en la elaboración de
                     alimentos balanceados para cualquier tipo de animal.</p>
@@ -664,7 +672,7 @@
 
                     <ol style="margin-top:50px;">
 
-                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;">Mas del 90% del frijol de soya producido en el mundo es utilizado en la alimentación y nutrición animal.</li>
+                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;">Más del 90% del frijol de soya producido en el mundo es utilizado en la alimentación y nutrición animal.</li>
                     <br>
                     <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;">La utilización de la pasta de soya genera altos beneficios económicos en la producción animal, ya que además de su composición nutricional es altamente palatable y digestible.</li>
                     
@@ -672,7 +680,7 @@
                 </p>
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">
                     La utilización de la pasta de soya genera altos beneficios económicos en la producción animal, ya
-                    que además de su composición nutricional es altamente palatable y digestible.</p>
+                    que además de su composición nutricional es altamente palpable y digestible.</p>
                 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Especificaciones</b></h5>
                 <p class="Tipografia--general letranegro General--Cuerpo">La pasta de soya es un polvo granular de color beige a café claro, es una buena fuente de proteína derivada de la extracción de aceite del grano de soya y su posterior molienda. La pasta de soya está sujeta a un proceso de extracción con solvente utilizando hexano para extraer el aceite. Después de la extracción la pasta es secada y molida para producir el producto final.</p>
                 <table style="margin-top:50px;border-spacing:2px 5px">

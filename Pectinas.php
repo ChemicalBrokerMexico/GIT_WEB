@@ -358,6 +358,14 @@
                                         </p>
                                     </ul>
                                 </section>
+                                <section>
+<ul> 
+<p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas y sugerencias</b>
+</p><hr class="hr">
+<li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<p></p>
+</ul>
+</section>
                             </div>
                             <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                                 <section>
@@ -393,7 +401,7 @@
                         href="Mercados.php"><b>Mercados</b></a></li>
                 <ul id="dropdown3" class="dropdown-content">
                     <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">
-                            Productos</a></li>
+                            Familias</a></li>
                     <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de
                             Productos</a></li>
                 </ul>
@@ -655,8 +663,8 @@
             <div class="col s12 m6 l12 XL12">
                 <h5 class="Tipografia--general letranegro Titulos"><b>Pectinas</b>
                 </h5>
-                <p class="Tipografia--general letranegro General--Cuerpo">Las pectinas son una mezcla de polimeros
-                    acidos y neutros muy ramificados. Son hidrocoloides solubles en agua con funciones gelificantes y
+                <p class="Tipografia--general letranegro General--Cuerpo">Las pectinas son una mezcla de polímeros
+                    ácidos y neutros muy ramificados. Son hidrocoloides solubles en agua con funciones gelificantes y
                     espesantes. Las pectinas tambien proporcionan superficies cargadas que regulan el pH y el balance
                     ionico.</p>
 
@@ -681,7 +689,7 @@
 
                 <h5 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;"><b>Origen</b></h5>
 
-                <p class="Tipografia--general General--Cuerpo letranegro">La Pectina contiene principalmente acidos
+                <p class="Tipografia--general General--Cuerpo letranegro">La Pectina contiene principalmente ácidos
                     galacturonicosparcialmente metoxilados. La pectina, un ingrediente versátil para texturas
                     innovadoras La pectina es un ingrediente y un componente natural de las plantas. La pectina se
                     encuentra en muchas frutas, pero es especialmente abundante en las manzanas y los cítricos. La

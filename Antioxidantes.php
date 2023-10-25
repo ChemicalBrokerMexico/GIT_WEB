@@ -284,6 +284,14 @@
                     </p>
                   </ul>
                 </section>
+                <section>
+<ul> 
+<p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas y sugerencias</b>
+</p><hr class="hr">
+<li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<p></p>
+</ul>
+</section>
               </div>
               <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                 <section>
@@ -315,7 +323,7 @@
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
             href="Mercados.php"><b>Mercados</b></a></li>
         <ul id="dropdown3" class="dropdown-content">
-          <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Productos</a>
+          <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a>
           </li>
           <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a>
           </li>
@@ -575,7 +583,7 @@
           retardar o prevenir la oxidación de otras moléculas y alargar la vida útil de los productos. La oxidación
           deteriora las propiedades de grasas y aceites dando como resultado sabores y olores desagradables</p>
 
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Hoy en dia nuestra oferta
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Hoy en dÍa nuestra oferta
           incluye glicerina en cumplimiento a GMP´s, Kosher, Halal, GFSI, FCC, USP, RSPO Mass Balance.</p>
 
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Los antioxidantes terminan
@@ -585,7 +593,7 @@
 
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Los antioxidantes son muy
           importantes para la industria alimentaria; humana y animal, así como para la industria farmacéutica,
-          veterinaria y cosmética ya que logran que los productos conserven sus propiedades y sus niveles de calidad.
+          veterinaria y cosmética debido a que logran que los productos conserven sus propiedades y sus niveles de calidad.
         </p>
 
         <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Tipos de Antioxidantes</b></h5>

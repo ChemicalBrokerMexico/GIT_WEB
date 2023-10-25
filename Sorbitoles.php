@@ -285,6 +285,14 @@
                     </p>
                   </ul>
                 </section>
+                <section>
+<ul> 
+<p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas y sugerencias</b>
+</p><hr class="hr">
+<li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<p></p>
+</ul>
+</section>
               </div>
               <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                 <section>
@@ -316,7 +324,7 @@
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
             href="Mercados.php"><b>Mercados</b></a></li>
             <ul id="dropdown3" class="dropdown-content">
-  <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Productos</a></li>
+  <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a></li>
   <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a></li>
 </ul>
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!" data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a></li>
@@ -566,8 +574,8 @@
   <h5 class="Tipografia--general letranegro Titulos" style="margin-top:0px;"><b
             style="color:#262137;">Sorbitoles</b></h5>
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">El <b style="color: #262137;">sorbitol</b> es un
-          polialcohol, alcohol polihidrico alditol de azucar, industrialmente se obtiene por reduccion mediante
-          hidrogenacion catalítica del monosacárido mas comun, “la glucosa”.</p>
+          polialcohol, alcohol polihidrico alditol de azúcar, industrialmente se obtiene por reducción mediante
+          hidrogenación catalítica del monosacárido más común, “la glucosa”.</p>
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">En la naturaleza el <b>sorbitol</b> es uno de los tres
           glucidos (sacarosa, almidon y sorbitol), principales producidos por la fotosintesis en las hojas adultas de
           ciertas plantas de la familia Rosaceae y Plantaginaceae, se ecuentran en cantidades apreciables en algas
@@ -577,7 +585,7 @@
 
   
 
-<table class="display" id="table2" name="table2" style="width:50%;border-spacing:2px 5px;border:none;float:left;margin-top:30px;">
+<table class="display" id="table2" name="table2" style="width:100%;border-spacing:2px 5px;border:none;float:left;margin-top:30px;">
 <tr class="Tipografia--general General--Cuerpo">
 <td style="text-align:center;font-size:15px !important;border:1px solid #C0C0C0;background-color:#00e7f9;color:white;">
 Formula Estructural:
@@ -754,7 +762,7 @@ Pub Chem:
             <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Dulces,</li>
             <br>
-            <li class="Tipografia--general letranegro Elementos--Listas">Goma de mascar sin azucar,</li>
+            <li class="Tipografia--general letranegro Elementos--Listas">Goma de mascar sin azúcar,</li>
             <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Gominolas,</li>
             <br>
@@ -766,7 +774,7 @@ Pub Chem:
             <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Postres,</li>
             <br>
-            <li class="Tipografia--general letranegro Elementos--Listas">Productos de pasteleria,</li>
+            <li class="Tipografia--general letranegro Elementos--Listas">Productos de pastelería,</li>
             <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Salsa de mostaza,</li>
             <br>
@@ -781,13 +789,13 @@ Pub Chem:
             <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Jabones,</li>
             <br>
-            <li class="Tipografia--general letranegro Elementos--Listas">Lapices cosméticos,</li>
+            <li class="Tipografia--general letranegro Elementos--Listas">Lápices cosméticos,</li>
             <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Lociones,</li>
             <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Pastas dentales,</li>
             <br>
-            <li class="Tipografia--general letranegro Elementos--Listas">Produccion de emulsiones.</li>
+            <li class="Tipografia--general letranegro Elementos--Listas">Producción de emulsiones.</li>
           </ol>
         </ol>
         
@@ -809,9 +817,9 @@ Pub Chem:
             <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Mónomero,</li>
             <br>
-            <li class="Tipografia--general letranegro Elementos--Listas">Plstificante de almidón,</li>
+            <li class="Tipografia--general letranegro Elementos--Listas">Plastificante de almidón,</li>
             <br>
-            <li class="Tipografia--general letranegro Elementos--Listas">Poliesteres.</li>
+            <li class="Tipografia--general letranegro Elementos--Listas">Poliésteres.</li>
           </ol>
         </ol>
 

@@ -78,12 +78,12 @@
                                 principalmente en forma de cookies. Esta información puede ser sobre usted, sus
                                 preferencias o su dispositivo y se utiliza principalmente para hacer que el sitio
                                 funcione como espera. Por lo general, la informacion no lo identifica directamente, pero
-                                puede brindarle una experiencia web mas personalizada. Debido a que respetamos su
+                                puede brindarle una experiencia web más personalizada. Debido a que respetamos su
                                 derecho a la privacidad, puede optar por no permitir algunos tipos de cookies. Haga clic
                                 en los titulos de las diferentes categorías para obtener más información y cambiar
                                 nuestra configuración predeterminada. Sin embargo, bloquear algunos tipos de cookies
                                 puede afectar su experiencia en el sitio y los servicios que podemos ofrecer.</p>
-                            <p> <a class="Botones Tipografia--general" href="#" style="color:blue;float:left;">Mas
+                            <p> <a class="Botones Tipografia--general" href="#" style="color:blue;float:left;">Más
                                     información</a></p>
                             <div class="row">
                                 <div class="col s12 m12 l12 xl12" style="margin-top:16px"><a
@@ -318,6 +318,14 @@
                                         </p>
                                     </ul>
                                 </section>
+                                <section>
+<ul> 
+<p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas y sugerencias</b>
+</p><hr class="hr">
+<li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<p></p>
+</ul>
+</section>
                             </div>
                             <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                                 <section>
@@ -742,7 +750,7 @@
                         a temperaturas extremas.
                         <p class="Tipografia--general letranegro General--Cuerpo">Tanto el Etilenglicol como el
                             propilenglicol se usan para elaborar anticongelantes y la eficacia de ambos depende de la
-                            contrancion. Ambos tienen ventajas sobre el otro: El etilenglicol es más economico que el
+                            contrancion. Ambos tienen ventajas sobre el otro: El etilenglicol es más económico que el
                             propilenglicol*, pero mucho mas toxico</p>
                         <p class="Tipografia--general letranegro General--Cuerpo">*Este producto es considerado seguro
                             por la Food and Drug Administration (FDA); por sus siglas en ingles. De manera que en
@@ -782,7 +790,7 @@
                             Solvente,</li>
                             <br>
                         <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-23px;">
-                            Lagrimas Artificiales,</li>
+                            Lágrimas Artificiales,</li>
                             <br>
                         <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-23px;">Pomadas
                             para tratar quemaduras,</li>
@@ -803,7 +811,7 @@
                             para la tos,</li>
                             <br>
                         <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-23px;">
-                            Capsulas de gel.</li>
+                            Cápsulas de gel.</li>
                     </ol>
                 </ol>
 
@@ -1087,7 +1095,7 @@
                             Solvente en tinturas para impresiones,</li>
                             <br>
                         <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Elaboracion de plásticos maleables,</li>
+                            Elaboración de plásticos maleables,</li>
                             <br>
                         <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
                             Cubiertas sintéticas de mármol,</li>

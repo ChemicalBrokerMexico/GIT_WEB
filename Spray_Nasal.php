@@ -184,6 +184,14 @@
                       </p>
                     </ul>
                   </section>
+                  <section>
+<ul> 
+<p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas y sugerencias</b>
+</p><hr class="hr">
+<li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<p></p>
+</ul>
+</section>
                 </div>
                 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                   <section>
@@ -211,7 +219,7 @@
         <ul class="hide-on-med-and-down">
           <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Mercados.php"><b>Mercados</b></a></li>
           <ul id="dropdown3" class="dropdown-content">
-  <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Productos</a></li>
+  <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a></li>
   <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a></li>
 </ul>
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger"  data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a></li>
@@ -407,16 +415,26 @@
       </div>
     <div class="container" style="margin-top:-50px;">
       <div class="row">
-        <div class="col s12 m12 l6 xl12">
-        <ol class="Tipografia--general General--Cuerpo">
-          <a href="Glycerins.php" class="Tipografia--general letranegro General--Cuerpo"><li class="arrowblue Tipografia--general letranegro" style="color:rgba(2 146 238 /99%);list-style-type:disc;font-size:18px">Glicerina</li></a>
-          <!-- Glicerina 99.7%  -->
-          <!-- Glicerina 99.7% base vegetal -->
-          <!-- Reenvio a pagina de familia glicerinas -->
-          <!-- Dentro de pagina glicerinas tabla con informacion de productos disponibles -->
-          <!-- Al hacer click en un enlace de la tabla finaliza redireccionando al e-commerce para la compra -->
-        </ol>
+
+  
+        <div class="col s12 m12 l4 xl4">
+        <div class="card">
+        <div class="card-image">
+          <img src="img/CB_GLICERINAS_030823.jpg">
+          <p class="Titulos" style="margin:0px;display:flex;justify-content:center;margin-top:15px"><b style="color:#000020;">Glicerina</b></p>
         </div>
+        <div class="card-content">
+          <p>La <b>Glicerina</b>, también conocida como
+          <b>Glicerol</b>, es un
+          alcohol en cuya composición están presentes tres hidroxilos. Los hidroxilos se forman de un átomo de oxígeno y
+          un átomo de hidrógeno.</p>
+        </div>
+        <div class="card-action">
+          <a href="Glycerins.php" style="color:#000020;text-transform:capitalize;"><b>Leer Más</b></a>
+        </div>
+      </div>
+      </div>
+       
       </div>
     </div>
     <footer style="margin-top:70px">

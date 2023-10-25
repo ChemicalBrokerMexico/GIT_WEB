@@ -157,10 +157,23 @@ $(document).ready(function(){
     <img src="img/CB_PALM_STEARIN_060823.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
     </div>
     <div class= "col s12 m12 l6 xl6 columnas_acidos_grasos" style="position:relative;height:350px">
-    <h5 class="Tipografia--general Titulos"><b>Estearina de Palma</b></h5>
+    <h5 class="Tipografia--general Titulos"><b>Estearina de palma</b></h5>
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro">La Estearina de Palma refinada, blanqueada y desodorizada (RBD) es una grasa vegetal derivada del aceite de palma. La estearina de palma RBD es una fracción sólida del aceite de palma RBD, obtenida por fraccionamiento mediante procesos simples de cristalización y separación a temperatura controlada. Las propiedades físicas de la estearina de palma RBD difieren ampliamente de las del aceite de palma RBD. La estearina de palma RBD está disponible en una gama más amplia de puntos de fusión y valores de yodo. </p>
     <p class="Tipografia--general Botones letranegro Leeracidgrass" style="position:absolute;left:10px;bottom:-30px"><b><a href="Estearina_Palma_Hidrogenado.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
+
+    <div class="row" style="margin-top:150px;"> 
+    <div class="col s12 m12 l6 xl6 center-align" style="height:350px">
+    <img src="img/ESTERES_SORBITAN_140923.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
+    </div>
+    <div class= "col s12 m12 l6 xl6 columnas_acidos_grasos" style="position:relative;height:350px">
+    <h5 class="Tipografia--general Titulos"><b>Esteres de sorbitan </b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">En Chemical Broker, nos enorgullece ser tu proveedor de confianza de Esteres de Sorbitan de la más alta calidad. Con años de experiencia en la industria y un compromiso inquebrantable con la excelencia, estamos aquí para satisfacer tus necesidades en el mercado de emulsionantes y estabilizadores. </p>
+    <p class="Tipografia--general Botones letranegro Leeracidgrass" style="position:absolute;left:10px;bottom:-30px"><b><a href="Esteres_Sorbitan.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
 
@@ -506,6 +519,19 @@ function filtroall(){
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro">La Estearina de Palma refinada, blanqueada y desodorizada (RBD) es una grasa vegetal derivada del aceite de palma. La estearina de palma RBD es una fracción sólida del aceite de palma RBD, obtenida por fraccionamiento mediante procesos simples de cristalización y separación a temperatura controlada. Las propiedades físicas de la estearina de palma RBD difieren ampliamente de las del aceite de palma RBD. La estearina de palma RBD está disponible en una gama más amplia de puntos de fusión y valores de yodo. </p>
     <p class="Tipografia--general Botones letranegro Leeracidgrass" style="position:absolute;left:10px;bottom:-30px"><b><a href="Estearina_Palma_Hidrogenado.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
+
+    <div class="row" style="margin-top:150px;"> 
+    <div class="col s12 m12 l6 xl6 center-align" style="height:350px">
+    <img src="img/ESTERES_SORBITAN_140923.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
+    </div>
+    <div class= "col s12 m12 l6 xl6 columnas_acidos_grasos" style="position:relative;height:350px">
+    <h5 class="Tipografia--general Titulos"><b>Esteres de sorbitan </b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">En Chemical Broker, nos enorgullece ser tu proveedor de confianza de Esteres de Sorbitan de la más alta calidad. Con años de experiencia en la industria y un compromiso inquebrantable con la excelencia, estamos aquí para satisfacer tus necesidades en el mercado de emulsionantes y estabilizadores. </p>
+    <p class="Tipografia--general Botones letranegro Leeracidgrass" style="position:absolute;left:10px;bottom:-30px"><b><a href="Esteres_Sorbitan" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
 
@@ -912,6 +938,19 @@ function filtroe(){
     <p class="Tipografia--general Botones letranegro Leeracidgrass" style="position:absolute;left:10px;bottom:-30px"><b><a href="Estearina_Palma_Hidrogenado.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
+
+    <div class="row" style="margin-top:150px;"> 
+    <div class="col s12 m12 l6 xl6 center-align" style="height:350px">
+    <img src="img/ESTERES_SORBITAN_140923.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
+    </div>
+    <div class= "col s12 m12 l6 xl6 columnas_acidos_grasos" style="position:relative;height:350px">
+    <h5 class="Tipografia--general Titulos"><b>Esteres de sorbitan </b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">En Chemical Broker, nos enorgullece ser tu proveedor de confianza de Esteres de Sorbitan de la más alta calidad. Con años de experiencia en la industria y un compromiso inquebrantable con la excelencia, estamos aquí para satisfacer tus necesidades en el mercado de emulsionantes y estabilizadores. </p>
+    <p class="Tipografia--general Botones letranegro Leeracidgrass" style="position:absolute;left:10px;bottom:-30px"><b><a href="Esteres_Sorbitan.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
     
     <div class="row" style="margin-top:150px;"> 
     <div class="col s12 m12 l6 xl6 center-align" style="height:350px">

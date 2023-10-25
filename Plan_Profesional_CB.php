@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
   <meta name="description"
     content="Comienza tu carrera profesional, en una organizacion comprometida completamente con tu crecimiento profesional unete a nuestro gran equipo en Chemical Broker">
-  <title>Chemical Broker | Carreras</title>
+  <title>Chemical Broker | Plan Profesional de Carrera</title>
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -266,7 +266,9 @@
                             class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                       <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de
                           Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                      <li><a class="arrowblue Tipografia--general Subtitulos"
+                          href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de
+                          Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                     </p>
                   </ul>
                 </section>
@@ -312,7 +314,7 @@
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
             href="Mercados.php"><b>Mercados</b></a></li>
         <ul id="dropdown3" class="dropdown-content">
-          <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Productos</a></li>
+          <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a></li>
           <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a>
           </li>
         </ul>
@@ -536,8 +538,8 @@
       <ul class="slides slides-pruea">
         <li> <img src="img/CB_BANNER_PLAN_PROFESIONAL_080923.jpg" alt="" style="height:528px;filter:brightness(0.9)">
           <div class="caption center-align"><br><br><br><br>
-            <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b
-              class="segundotitulo" style="font-size: 26px;">Plan Profesional de Carrera</b>
+            <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo"
+              style="font-size: 26px;">Plan Profesional de Carrera</b>
             <br>
           </div>
         </li>
@@ -549,29 +551,112 @@
       <div class="col s12 m12 l12 xl12">
         <section style="margin-top:125px"><a class="breditem active" href="index.php"
             style="color:#262137 !important"><b>Inicio&nbsp </b><b> >&nbsp </b></a><a class="breditem active"
-            href="Carreras.php" style="color:#262137 !important"><b>Carreras</a></b><b> >&nbsp </b><a class="breditem active"
-            href="Plan_Profesional_CB.php" style="color:#262137 !important"><b class="breadcrumb">Plan Profesional de Carrera</a></section>
+            href="Carreras.php" style="color:#262137 !important"><b class="breadcrumb">Carreras</a></b><b> >&nbsp </b><a
+            class="breditem active" href="Carreras.php" style="color:#262137 !important"><b class="breadcrumb">Plan
+              Profesional de Carrera</a></b></section>
+      </div>
+    </div>
+  </div>
+
+    <div class="container"  style="border:1px solid #f2f2f2;border-radius:15px;margin-top:50px">
+      <div class="row">
+        <div class="col s12 m12 l12 xl12">
+        <div class="card">
+          <div class="col s12 m12 l6 xl6">
+    <div class="card-image waves-effect waves-block waves-light">
+      <img class="activator" src="img/CB_RECURSOS_HUMANOS_070922.jpg" style="border-radius:10px;">
+    </div>
+    </div>
+    <div class="col s12 m12 l6 xl6">
+    <div class="card-content">
+      <h5 class="card-title activator grey-text text-darken-4" class="Tipografia--general"><b>Plan Profesional de Carrera</b></h5>
+      <p class="Tipografia--general letranegro General--Cuerpo">Para <b style="color:#000020;">Chemical Broker</b> es elemental que sus trabajadores cuenten con los recursos fundamentales para su desarrollo continuo, nuestra finalidad es mantener y motivar a los trabajadores ofreciéndoles un plan de carrera con un enfoque realista</p>
+    </div>
+    </div>
+    <!-- <div class="card-reveal">
+      <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+      <p>Here is some more information about this product that is only revealed once clicked on.</p>
+    </div> -->
+  </div>
+        </div>
+      </div>
+    </div>
+
+  <!-- <div class="container">
+    <div class="row">
+      <div class="col s12 m12 l6 xl6">
+        <h5 class="Tipografia--general Titulos letranegro General--Cuerpo"><b style="color:#000020;">Plan Profesional de
+            Carrera</b></h5>
+        <p class="Tipogria--general letranegro General--Cuerpo center-align">Para <b style="color:#000020">Chemical
+            Broker</b> es elemental que sus trabajadores cuenten con los recursos fundamentales para su desarrollo
+          continuo,nuestra finalidad es mantener y motivar a los trabajadores ofreciéndoles un plan de carreracon un
+          enfoque realista</p>
+      </div>
+      <div class="col s12 m12 l6 xl6">
+        <img src="img/Oportunidades_laborales.jpg" style="width:100%;height:501px" alt="">
+      </div>
+      <div class="col s12 m12 l6 xl6" style="margin-top:100px;">
+        <img src="img/CB_CRECIMIENTO_100326.jpg " alt="" style="border-radius:69%;width:500px;height:500px">
+      </div>
+      <div class="col s12 m12 l6 xl6" style="margin-top:200px;">
+        <p class="General--Cuerpo Tipografia--general letrasnegro">El éxito de la empresa se centra en la capacidad de
+          atraer, mantener y desarrollartrabajadores capaces de garantizar el crecimiento continuo y sostenible, al
+          contratar unapersona solo se tendrá en cuenta las habilidades relevantes, y su correcto lineamiento a
+          losprincipios fundamentales de la empresa, por lo tanto, no se tendrá en cuenta el origen, lanacionalidad,
+          raza, religión y experiencia previa de los candidatos</p>
+      </div>
+      <div class="col s12 m6 l6 xl6">
+        <h5 class="width:30%">Desarrolla tus habilidades, Construye un futuro con excelencia</h5>
+      </div>
+    </div>
+  </div> -->
+
+  <div class="container center-align" style="margin-top:50px;">
+    <div class="row">
+      <div class="col s12 m12 l12 xl12">
+        <h5 class="Tipografia--general Titulos letranegro" ><b style=color:#000020>
+           La excelencia no se delega, se comparte</b></h5>
+        <p class="General--Cuerpo Tipografia--general letranegro" style="margin-top:50px;">Nuestra responsabilidad fundamental es construir y
+          desarrollar u enfoque mejorado y simplificado para asegurar el liderazgo funcional y nivelesoptimos de
+          resultados</p>
+      </div>
+      <div class="col s12 m12 l6 xl6">
+        <img src="img/CB_OPORTUNIDADES_PREFESIONALES_140923.jpg" alt="" width="95%"
+          style="border-radius:53%;height:250px;width:250px">
+        <p class="Tipografia--general letranegro center-align"><b
+            style="color:#000020;font-family:Arial, Helvetica, sans-serif;font-size:18px;">Oportunidades
+            Profesionales</b></p>
+        <p class="Tipografia--general letranegro center-align"
+          style="font-family:Arial, Helvetica, sans-serif;font-size:18px"><b
+            style="font-family:Arial, Helvetica, sans-serif;font-size:18px;color:#000020;">Chemical Broker</b> brinda
+          oportunidades de mejora y actualización del aprendizaje continuo sobre tu área de interes o conocimientos
+          general.</p>
+      </div>
+      <div class="col s12 m12 l6 xl6">
+        <img src="img/CB_RETOS_140923.jpg" alt="" width="95%" style="border-radius:53%;height:250px;width:250px">
+        <p class="Tipografia--general letranegro center-align"><b
+            style="color:#000020;font-family:Arial, Helvetica, sans-serif;font-size:18px">Aperturas y Desafiós</b></p>
+        <p class="Tipografia--general letranegro center-align"
+          style="font-family:Arial, Helvetica, sans-serif;font-size:18px">Nosotros creemos en el talento joven, los
+          proyectos y orientación darán paso a que empieces tu vida profesional de la mejor manera</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="container center-align" style="margin-top:50px;">
+    <div class="row">
+      <div class="col s12 m12 l12 xl12">
+        <h5 class="Tipografia--general Titulos letranegro"><b style=color:#000020>Recibe un Consejo Profesional de tus
+            Futuros Mentores</b></h5>
+        <p class="General--Cuerpo Tipografia--general letranegro">Te apoyamos para que comiences tu vida profesional de
+          la mejor manera. Nuestros líderes con mas experiencia te acompañarán en tu desarrollo personal y profesional.
+        </p>
+        <img src="img/CB_CARRERAS_180222.jpg" alt="" width="50%">
       </div>
     </div>
   </div>
 
 
-
- <div class="container">
-
-    <div class="row">
-        <div class="col s12 m12 l12 xl12">
-
-        </div>
-    </div>
-    
-
- </div>
-
-
-
-
-  
 </body>
 <footer style="margin-top:70px">
   <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png"

@@ -319,6 +319,14 @@
                                         </p>
                                     </ul>
                                 </section>
+                                <section>
+<ul> 
+<p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas y sugerencias</b>
+</p><hr class="hr">
+<li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<p></p>
+</ul>
+</section>
                             </div>
                             <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                                 <section>
@@ -353,7 +361,7 @@
                         href="Mercados.php"><b>Mercados</b></a></li>
                 <ul id="dropdown3" class="dropdown-content">
                     <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">
-                            Productos</a></li>
+                            Familias</a></li>
                     <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de
                             Productos</a></li>
                 </ul>
@@ -618,8 +626,8 @@
                     posteriormente agregarle ácidos o enzimas como alfa-amilasa bacteriana termoestable, que lo
                     descompone para obtener un polco balco, soluble en agua y con sabor neutro. </p>
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La maltodextrina se
-                    relaciona con los solidos del jarabe de maíz y tienen en común que ambos son sometidos a un proceso
-                    químico de hidrolisis, en que se añade agua para acelerar la descomposición.</p>
+                    relaciona con los sólidos del jarabe de maíz y tienen en común que ambos son sometidos a un proceso
+                    químico de hidrólisis, en que se añade agua para acelerar la descomposición.</p>
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La Maltodextrina
                     tiene un alto peso molecular el cual es mayor al de otros carbohidratos simples. Su osmolaridad es
                     menor a la de otros carbohidratos simples. </p>
@@ -648,7 +656,7 @@
                     entrada de los carbohidratos en sangre, cuanto mayor sea este índice, más rápido entran en la sangre
                     y mayor será la producción de insulina.</p>
 
-                <table style="margin-top:50px;border:1px solid #c0c0c0;width:100%">
+                <table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
                     <tr>
                         <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;">Descripcion Quimica:
                         </td>
@@ -657,8 +665,8 @@
                     <tr>
                         <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;">Formula Estructural:
                         </td>
-                        <td style="border:1px solid #c0c0c0;"><img
-                                src="img/FORMULA_ESTRUCTURAL_MALTODEXTRINA_080323.png" alt="" style="width:50%;"></td>
+                        <td style="border:1px solid #c0c0c0;" class="center-align"><img
+                                src="img/FORMULA_ESTRUCTURAL_MALTODEXTRINA_080323.png" alt="" style="width:30%;"></td>
                     </tr>
                     <tr>
                         <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;">CAS No.:</td>

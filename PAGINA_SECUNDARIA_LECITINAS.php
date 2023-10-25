@@ -360,6 +360,14 @@
                                         </p>
                                     </ul>
                                 </section>
+                                <section>
+<ul> 
+<p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas y sugerencias</b>
+</p><hr class="hr">
+<li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<p></p>
+</ul>
+</section>
                             </div>
                             <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                                 <section>
@@ -722,7 +730,7 @@
                         <li class="Tipografia--general letranegro Elementos--Listas">Ayuda a mejorar la masticabilidad,
                         </li>
                         <br>
-                        <li class="Tipografia--general letranegro Elementos--Listas">Prolonga la vida util.</li>
+                        <li class="Tipografia--general letranegro Elementos--Listas">Prolonga la vida útil.</li>
                     </ol>
                 </ol>
 
@@ -792,7 +800,7 @@
                         <br>
                         <li class="Tipografia--general letranegro Elementos--Listas">Barras,</li>
                         <br>
-                        <li class="Tipografia--general letranegro Elementos--Listas">Productos extruidos / Cereales,
+                        <li class="Tipografia--general letranegro Elementos--Listas">Productos extraídos / Cereales,
                         </li>
                         <br>
                         <li class="Tipografia--general letranegro Elementos--Listas">Masa congelada.</li>
@@ -824,7 +832,7 @@
                             <li class="Tipografia--general letranegro Elementos--Listas">Ayuda a mejorar la capacidad de
                                 esparcimiento,</li>
                             <br>
-                            <li class="Tipografia--general letranegro Elementos--Listas">Reduccion de la separacion de
+                            <li class="Tipografia--general letranegro Elementos--Listas">Reducción de la separación de
                                 grasas.</li>
                         </ol>
                     </ol>
@@ -866,7 +874,7 @@
                             <ol style="list-style-type: disc;margin-top: 15px;">
                                 <li class="Tipografia--general letranegro Elementos--Listas">Leche en Polvo,</li>
                                 <br>
-                                <li class="Tipografia--general letranegro Elementos--Listas">Proteinas en Polvo,</li>
+                                <li class="Tipografia--general letranegro Elementos--Listas">Proteínas en Polvo,</li>
                                 <br>
                                 <li class="Tipografia--general letranegro Elementos--Listas">Formulas Infantiles,</li>
                                 <br>
@@ -889,7 +897,7 @@
                     <ol style="list-style-type: disc;margin-top: 15px;margin-bottom:0px;">
                         <li class="Tipografia--general letranegro Elementos--Listas">Función:</li>
                         <ol style="list-style-type: disc;margin-top:15px;margin-bottom:0px;">
-                            <li class="Tipografia--general letranegro Elementos--Listas">Proporciona fuente de energia,
+                            <li class="Tipografia--general letranegro Elementos--Listas">Proporciona fuente de energÍa,
                             </li>
                             <br>
                             <li class="Tipografia--general letranegro Elementos--Listas">Fuente de colina e inositol,

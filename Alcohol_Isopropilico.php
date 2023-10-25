@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Alcohol Isopropilico</title>
+    <title>Chemical Broker | Alcohol Isopropílico</title>
     <meta name="description"
         content="Chemical Broker distribuye mundialmente Glicerina de la mas alta Pureza y Calidad para las formulaciones de nuestros clientes.">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
@@ -359,6 +359,14 @@
                                         </p>
                                     </ul>
                                 </section>
+                                <section>
+<ul> 
+<p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas y sugerencias</b>
+</p><hr class="hr">
+<li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<p></p>
+</ul>
+</section>
                             </div>
                             <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                                 <section>
@@ -394,7 +402,7 @@
                         href="Mercados.php"><b>Mercados</b></a></li>
                 <ul id="dropdown3" class="dropdown-content">
                     <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">
-                            Productos</a>
+                            Familias</a>
                     </li>
                     <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de
                             Productos</a>
@@ -631,7 +639,7 @@
                         style="filter:brightness(0.9);margin-top:-290px;height:460px;">
                     <div class="caption center-align"><br><br><br><br>
                         <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b
-                            class="segundotitulo" style="font-size: 26px;">Alcohol Isopropilico</b>
+                            class="segundotitulo" style="font-size: 26px;">Alcohol Isopropílico</b>
                     </div>
                 </li>
             </ul>
@@ -660,9 +668,9 @@
             <div class="col s12 m12 l12 xl12">
                 <h5 class="Tipografia--general letanegro Titulos"><b style="color:#000020">Alcohol Isopropílico</b></h5>
                 <p class="Tipografia--general letranegro General--Cuerpo">El <b class="Tipografia--general letranegro"
-                        style="color:#000020;">Alcohol Isopropilico</b> (propan-2-ol, Isopropanol o 2-propanol), es un
+                        style="color:#000020;">Alcohol Isopropílico</b> (propan-2-ol, Isopropanol o 2-propanol), es un
                     compuesto orgánico incoloro e inflamable con un olor a alcohol acre. Como grupo isoporpilico unido a
-                    un grupo de hidroxilo (formula química ((CH3)2CHOH), es el ejemplo mas simple de un alcohol
+                    un grupo de hidroxilo (fórmula química ((CH3)2CHOH), es el ejemplo mas simple de un alcohol
                     secundario, donde el átomo de carbono del alcohol esta unido a otros dos átomos de carbono. Es un
                     isómero estructural de propan-1-ol y etil metil eter.</p>
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Cuando este alcohol
@@ -673,90 +681,90 @@
                     ingrediente común en productos como antisépticos, desinfectantes y detergentes.</p>
             </div>
             <div class="col s12 m12 l12 xl12" style="margin-top:50px;">
-                <table style="width:60%;border:1px solid #f2f2f2;">
+                <table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
                     <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;">Descripción Quimica:</td>
-                        <td><b style="color:#000020">Alcohol Isopropílico</b></td>
+                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;width:50%;padding: 10px;">Descripción Quimica:</td>
+                        <td style="padding:10px"><b style="color:#000020">Alcohol Isopropílico</b></td>
                     </tr>
                     <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;">Formula Estructural:</td>
-                        <td><img src="img/CB_FORMULA-ESTRUCTURAL_ALCOHOL-ISOPROPILICO.png" alt="" style="width:30%;"></td>
+                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;">Fórmula Estructural:</td>
+                        <td class="center-align"><img src="img/CB_FORMULA-ESTRUCTURAL_ALCOHOL-ISOPROPILICO.png" alt="" style="width:30%;"></td>
                     </tr>
                     <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;">Fórmula Quimica:</td>
-                        <td><b style="color:#000020">- (CH<sub>3</sub>)CH(OH) CH<sub>3</sub></b></td>
+                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;">Fórmula Quimica:</td>
+                        <td style="padding:10px"><b style="color:#000020">- (CH<sub>3</sub>)CH(OH) CH<sub>3</sub></b></td>
                     </tr>
                     <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;">Formula Molecular:</td>
-                        <td><b style="color:#000020;">- C<sub>3</sub>H<sub>8</sub>O</b></td>
+                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;">Fórmula Molecular:</td>
+                        <td style="padding:10px"><b style="color:#000020;">- C<sub>3</sub>H<sub>8</sub>O</b></td>
                     </tr>
                     <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;">Nombre IUPAC:</td>
-                        <td><b style="color:#000020">- Propan-2-ol</b></td>
+                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;">Nombre IUPAC:</td>
+                        <td style="padding:10px"><b style="color:#000020">- Propan-2-ol</b></td>
                     </tr>
                     <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;">Sinónimos:</td>
-                        <td><b style="color:#000020;">- 2-propanol<br>- Isopropanol<br>- Alcohol isopropílico<br>- Alcohol sec-propilico<br>- 2-hidroxipropano<br>- i-Pr0H<br>- Dimetilcarbinol<br>- API</b></td>
+                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;">Sinónimos:</td>
+                        <td style="padding:10px"><b style="color:#000020;">- 2-propanol<br>- Isopropanol<br>- Alcohol isopropílico<br>- Alcohol sec-propilico<br>- 2-hidroxipropano<br>- i-Pr0H<br>- Dimetilcarbinol<br>- API</b></td>
                     </tr>
                     <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;">Formula semidesarrollada:</td>
-                        <td></td>
+                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;">Fórmula semidesarrollada:</td>
+                        <td style="padding:10px"></td>
                     </tr>
                     <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;"><b>Numero CAS:</td>
-                        <td><b style="color:#000020;">67-63-0</b></td>
+                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;"><b>Número CAS:</td>
+                        <td style="padding:10px"><b style="color:#000020;">67-63-0</b></td>
                     </tr>
                     <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;">Numero EINECS:</td>
-                        <td></td>
+                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;">Número EINECS:</td>
+                        <td style="padding:10px"></td>
                     </tr>
                     <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;">Numero RTECS:</td>
-                        <td><b style="color:#000020;">NT8050000</b></td>
+                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;">Número RTECS:</td>
+                        <td style="padding:10px"><b style="color:#000020;">NT8050000</b></td>
                     </tr>
                     <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;">ChEBI:</td>
-                        <td><b style="color:#000020;">17824</b></td>
+                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;>ChEBI:</td>
+                        <td style="padding:10px"><b style="color:#000020;">17824</b></td>
                     </tr>
                     <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;">ChEMBL:</td>
-                        <td><b style="color:#000020;">ChEMBL582</b></td>
+                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;">ChEMBL:</td>
+                        <td style="padding:10px"><b style="color:#000020;">ChEMBL582</b></td>
                     </tr>
                     <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;">ChemSpider:</td>
-                        <td><b style="color:#000020;">3644</b></td>
+                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;">ChemSpider:</td>
+                        <td style="padding:10px"><b style="color:#000020;">3644</b></td>
                     </tr>
                     <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;">Drug-Bank</td>
-                        <td><b style="color:#000020;">PubChem:</b></td>
+                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;">Drug-Bank</td>
+                        <td style="padding:10px"><b style="color:#000020;">PubChem:</b></td>
                     </tr>
                     <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;">UNII:</td>
-                        <td><b style="color:#000020;">ND2M416302</b></td>
+                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;">UNII:</td>
+                        <td style="padding:10px"><b style="color:#000020;">ND2M416302</b></td>
                     </tr>
                     <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;">UN No.:</td>
-                        <td><b style="color:#000020;">1219</td>
+                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;">UN No.:</td>
+                        <td style="padding:10px"><b style="color:#000020;">1219</td>
                     </tr>
                     <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;">KEGG:</td>
-                        <td><b style="color:#000020">D00137</b></td>
+                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;">KEGG:</td>
+                        <td style="padding:10px"><b style="color:#000020">D00137</b></td>
                     </tr>
                     <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;">Densidad:</td>
-                        <td><b style="color:#000020;">0.786 g/cm3 (20 °C)</b></td>
+                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;">Densidad:</td>
+                        <td style="padding:10px"><b style="color:#000020;">0.786 g/cm3 (20 °C)</b></td>
                     </tr>
                     <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;">Masa molecular:</td>
-                        <td><b style="color:#000020;">60.096 g/mol</b></td>
+                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;">Masa molecular:</td>
+                        <td style="padding:10px"><b style="color:#000020;">60.096 g/mol</b></td>
                     </tr>
                     <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;">Punto de fusión:</td>
-                        <td><b style="color:#000020;">184 K (-89 °C)</b></td>
+                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;">Punto de fusión:</td>
+                        <td style="padding:10px"><b style="color:#000020;">184 K (-89 °C)</b></td>
                     </tr>
                     <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;">Punto de ebullición:</td>
-                        <td><b style="color:#000020;">355,8 K (83 °C)</b></td>
+                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;">Punto de ebullición:</td>
+                        <td style="padding:10px"><b style="color:#000020;">355,8 K (83 °C)</b></td>
                     </tr>
                 </table>
 
@@ -766,7 +774,7 @@
                 <h5 class="Tipografia--general letranegro Titulos"><b style="color:#000020;">Farmacéutica:</b></h5>
                 <ol>
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Humectante en productos farmacéuticos</li>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Lagrima artificial en bajas concentraciones</li>
+                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Lágrima artificial en bajas concentraciones</li>
                 </ol>
                 <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Alimentos:</b></h5>
                 <ol>
@@ -774,7 +782,7 @@
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Humectante en productos en alimentos</li>
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Agente saborizante en angostura y en amargo de angostura</li>
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Solvente para coloración de alimentos y saborización</li>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Humectante aditivo alimentario, rotulado como numero E1520</li>
+                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Humectante aditivo alimentario, rotulado como número E1520</li>
                 </ol>
                 <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Cosméticos y Cuidado Personal:</b></h5>
                 <ol>
@@ -785,11 +793,7 @@
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Toallas húmedas(wipes) para bebes</li>
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Espuma de baño</li>
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Shampoos.</li>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Lubricante intimo genital</li>
-                </ol>
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Sabores y Fragancias:</b></h5>
-                <ol>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Portador en aceite de fragancia</li>
+                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Lubricante íntimo genital</li>
                 </ol>
                 <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Sabores y Fragancias:</b></h5>
                 <ol>
@@ -801,7 +805,7 @@
                 </ol>
                 <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Otros:</b></h5>
                 <ol>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Fluido hidráulico para maquinas</li>
+                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Fluido hidráulico para máquinas</li>
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Refrigerante en motores de bombas sumergibles</li>
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Como lubricante para el tendido de cables</li>
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">En máquinas de humo artificial para entrenamiento de bomberos y producciones teatrales</li>
@@ -810,7 +814,7 @@
                 <ol>
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Humectante en tabaco</li>
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Para regular la humedad en los cigarros</li>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Como ingrediente base del liquido usado en los cigarrillos electrónicos</li>
+                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Como ingrediente base del líquido usado en los cigarrillos electrónicos</li>
                 </ol>
                 <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Ceramica</b></h5>
                 <ol>

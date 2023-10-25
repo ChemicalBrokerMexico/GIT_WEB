@@ -185,6 +185,14 @@
                       </p>
                     </ul>
                   </section>
+                  <section>
+<ul> 
+<p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas y sugerencias</b>
+</p><hr class="hr">
+<li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<p></p>
+</ul>
+</section>
                 </div>
                 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                   <section>
@@ -212,7 +220,7 @@
         <ul class="hide-on-med-and-down">
           <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Mercados.php"><b>Mercados</b></a></li>
           <ul id="dropdown3" class="dropdown-content">
-  <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Productos</a></li>
+  <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a></li>
   <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a></li>
 </ul>
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!" data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a></li>
@@ -392,9 +400,9 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-          <p class="Tipografia--general letranegro General--Cuerpo"><b>Chemical Broker</b>, ha desarrollado un proceso integral de servicios, con el principal objetivo de ofrecer ingredientes químicos de la más alta calidad, a través de una Cadena de Suministros Global con operaciones de Comercio Internacional (Importaciones y Exportaciones), Logística (Transporte Aéreo, Marítimo, Terrestre y Centros de Distribución), así como de Coberturas de Seguros que mitiguen los riesgos implícitos en la operación.</p>
+          <p class="Tipografia--general letranegro General--Cuerpo"><b>Chemical Broker</b>, ha desarrollado un proceso integral de servicios, con el principal objetivo de ofrecer ingredientes químicos de la más alta calidad, a través de una Cadena de Suministros Global, con operaciones de Comercio Internacional (Importaciones y Exportaciones), Logística (Transporte Aéreo, Marítimo, Terrestre y Centros de Distribución), así como de Coberturas de Seguros que mitiguen los riesgos implícitos en la operación.</p>
 
-          <div class="col s12 m12 l6 xl6 mercados zoom" style="margin-top:10px"><a href="Proximamente.php" style="cursor:pointer;">
+          <div class="col s12 m12 l6 xl6 mercados zoom" style="margin-top:10px"><a href="Cadena_Suministro.php" style="cursor:pointer;">
               <div class="contenedor">
               <div class="transfo" id="overlay" style="border-radius:10px"></div>
                 <div class="centrado_sub" style="position:absolute;z-index:2">
@@ -406,7 +414,7 @@
                
               </div></a></div>
 
-              <div class="col s12 m12 l6 xl6 mercados zoom" style="margin-top:10px"><a href="Proximamente.php" style="cursor:pointer;">
+              <div class="col s12 m12 l6 xl6 mercados zoom" style="margin-top:10px"><a href="Logistica_Global.php" style="cursor:pointer;">
               <div class="contenedor">
               <div class="transfo" id="overlay" style="border-radius:10px"></div> 
                 <div class="centrado_sub" style="position:absolute;z-index:2">

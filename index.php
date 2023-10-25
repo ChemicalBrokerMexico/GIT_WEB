@@ -3,7 +3,7 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Acerca de</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <title>Chemical Broker | Nosotros</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos.">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
@@ -186,6 +186,14 @@
 </p>
 </ul>
 </section>
+<section>
+<ul> 
+<p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas y sugerencias</b>
+</p><hr class="hr">
+<li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<p></p>
+</ul>
+</section>
 </div>
 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2 Carreras_menu_principal">
 <section class="Carreras_menu_principal">
@@ -213,7 +221,7 @@
 <ul class="hide-on-med-and-down">
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Mercados.php"><b>Mercados</b></a></li>
 <ul id="dropdown3" class="dropdown-content" style="width:300px !important;">
-  <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos" style="width:200px;">Productos</a></li>
+  <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos" style="width:200px;">Familias</a></li>
   <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos" style="width:200px;">Lista de Productos</a></li>
 </ul>
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!" data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a></li>
@@ -397,7 +405,7 @@
 <h6><b class="Tipografia--general letranegro Titulos" style="color:#262137;">Nosotros</b></h6>
 <p class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020;">Chemical Broker</b> comenzó hace más de 9 años, nos basamos en una historia aún más larga de innovación y crecimiento.</p>
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Hoy nos hemos convertido en uno de los mayores distribuidores de Oleo químicos; Ácidos Grasos, Alcoholes Grasos, Glicerinas, Triglicéridos, Derivados de Palma, Destilados de Ácidos Grasos, Glicoles, Aceites y Grasas, Conservadores, entre otros.</p>
-<p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Nos vemos a nosotros mismos como el puente que conecta a los proveedores en lugares lejanos con los clientes. Y como un canal de distribucion, que trae materiales esenciales, necesarios para miles de fabricantes, para crear productos que mejoren la vida de millones de consumidores en todo el mundo.</p>
+<p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Nos vemos a nosotros mismos como el puente que conecta a los proveedores en lugares lejanos con los clientes. Y como un canal de distribución, que trae materiales esenciales, necesarios para miles de fabricantes, para crear productos que mejoren la vida de millones de consumidores en todo el mundo.</p>
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Incluso estamos ampliando nuestra línea de productos mientras desarrollamos soluciones renovables de base biológica para el futuro.</p>
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Y tal vez eso es realmente lo que nos diferencia. Porque para todos en <b style="color:#000020;">Chemical Broker</b>, se trata de más que simplemente lo que hacemos, se trata de la forma en como lo hacemos: una empresa, guiada por principios e impulsada por la pasión de servir mejor a nuestros proveedores y clientes, todos los días.</p>
 <h6 style="margin-top:50px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;margin-top:50px;">Enfoque de Negocios</b></h6>
@@ -422,18 +430,17 @@
 
 <table>
   <tr>
-    <td colspan="6" class="center-align" style="background-color:#FF6600;color:white;">Calidad</td>
+    <td colspan="6" class="center-align" style="background-color:#FF6600;color:white;"><b style="color:white;font-size:18px">Calidad</b></td>
   </tr>
   <tr>
-    <th style="background-color:#000020;color:white;border:1px solid white;" class="center-align"><p style="margin:0px 3px;">Fabricante</p><p style="margin:3px;">(Proveedor)</p></th>
-    <th style="background-color:#000020;color:white;border:1px solid white;" class="center-align"><p style="margin:0px 3px;">Fabricante</p><p style="margin:3px;">(Proveedor)</p></th>
-    <th style="background-color:#000020;color:white;border:1px solid white;" class="center-align"><p style="color:yellow;margin:0px;">Compra</p>  <p style="color:rgba(2 146 238 /99%);margin:0px -10px;">Ingredientes</p><p style="color:rgba(2 146 238 /99%);margin:0px;">Quimicos</p></th>
-    <th style="background-color:#000020;color:white;border:1px solid white;" class="center-align">Chemical Broker</th>
-    <th style="background-color:#000020;color:white;border:1px solid white;" class="center-align"><div style="display:block;"><p style="color:yellow;margin:0px;">Compra</p>  <p style="color:rgba(2 146 238 /99%);margin:0px -10px;">Ingredientes</p><p style="color:rgba(2 146 238 /99%);margin:0px;">Quimicos</p></th>
-    <th style="background-color:#000020;color:white;border:1px solid white;" class="center-align"><div style="display:block;"><p style="margin:0px -14px;">Consumidor</p><p style="margin:0px;">(Cliente)</p></th>
+    <th style="background-color:#000020;color:white;border:1px solid white;" class="center-align"><p style="margin:0px 3px;font-size:18px">Fabricante</p><p style="margin:3px;font-size:18px;">(Proveedor)</p></th>
+    <th style="background-color:#000020;color:white;border:1px solid white;" class="center-align"><p style="color:yellow;margin:0px;font-size:18px">Compra</p>  <p style="color:rgba(2 146 238 /99%);margin:0px -10px;font-size:18px">Ingredientes</p><p style="color:rgba(2 146 238 /99%);margin:0px;font-size:18px">QuÍmicos</p></th>
+    <th style="background-color:#000020;color:white;border:1px solid white;font-size:18px" class="center-align">Chemical Broker</th>
+    <th style="background-color:#000020;color:white;border:1px solid white;font-size:18px" class="center-align"><div style="display:block;"><p style="color:yellow;margin:0px;">Venta</p>  <p style="color:rgba(2 146 238 /99%);margin:0px -10px;">Ingredientes</p><p style="color:rgba(2 146 238 /99%);margin:0px;">QuÍmicos</p></th>
+    <th style="background-color:#000020;color:white;border:1px solid white;font-size:18px" class="center-align"><div style="display:block;"><p style="margin:0px -14px;">Consumidor</p><p style="margin:0px;">(Cliente)</p></th>
   </tr>
   <tr>
-    <td colspan="6" class="center-align" style="background-color:#BDD6EE;color:white;">Sistema de Gestión Integral</td>
+    <td colspan="6" class="center-align" style="background-color:#BDD6EE;color:white;"><b style="color:white;font-size:18px">Sistema de Gestión Integral</b></td>
   </tr>
 </table>
 
@@ -446,7 +453,7 @@
 <div class="container">
   <div class="row">
     <div class="col s12 m12 l12 xl12">
-    <p class="Tipografia--General letranegro General--Cuerpo center-align"><b>(Compra | Ingrediente(s) Químico(s) | Calidad | Aseguramiento | Logística - Importación o Exportación | Aseguramiento | Logística | Calidad | Ingrediente(s) Químico(s) | Venta)</b></p>
+    <p class="Tipografia--General letranegro General--Cuerpo center-align" style="text-align:center;"><b>(Compra | Ingrediente(s) Químico(s) | Calidad | Aseguramiento | Logística - Importación o Exportación | Aseguramiento | Logística | Calidad | Ingrediente(s) Químico(s) | Venta)</b></p>
     </div>
   </div>
 </div>
@@ -457,10 +464,10 @@
   <div class="row">
     <div class="col s12 m12 l12 xl12">
     <h6 style="margin-top:30px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;">Misión</b></h6>
-  <p class="Tipografia--general letranegro General--Cuerpo">Ser el intermediario mundial de ingredientes químicos que aporte las soluciones adecuadas y especificas en la adquisición de insumos para la industria química centrados en la necesidad del cliente.</p>
+  <p class="Tipografia--general letranegro General--Cuerpo">Ser el intermediario mundial de ingredientes químicos que aporte las soluciones adecuadas y específicas en la adquisición de insumos para la industria química centrados en la necesidad del cliente.</p>
 
   <h6 style="margin-top:50px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;">Visión</b></h6> 
-  <p class="Tipografia--general letranegro General--Cuerpo">Proveedor de las 10 marcas más importantes de la Industria Farmacéutica, Alimentaria y Cosmética, sin descuidar otras áreas de oportunidad.” 01/01/2023</p>
+  <p class="Tipografia--general letranegro General--Cuerpo">Proveedor de las 10 marcas más importantes de la Industria Farmacéutica, Alimentaria y Cosmética, sin descuidar otras áreas de oportunidad.” 01/01/2023.</p>
     </div>
   </div>
 </div>

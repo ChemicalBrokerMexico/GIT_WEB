@@ -4,7 +4,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
   <title>Chemical Broker | Nitruro de Boro</title>
-  <meta name="description" content="El Nitruro de Boro Momentive Softouch es un polvo de grado cosmético muy fino con buena opacidad. Puede impartir una sensación sedosa, suave y lúbricante en las formulaciones cosméticas, al tiempo que mejora la difusión."> -->
+  <meta name="description" content="El Nitruro de Boro Momentive Softouch es un polvo de grado cosmético muy fino con buena opacidad. Puede impartir una sensación sedosa, suave y lubricante en las formulaciones cosméticas, al tiempo que mejora la difusión."> -->
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -288,6 +288,14 @@
                     </p>
                   </ul>
                 </section>
+                <section>
+<ul> 
+<p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas y sugerencias</b>
+</p><hr class="hr">
+<li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<p></p>
+</ul>
+</section>
               </div>
               <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                 <section>
@@ -319,7 +327,7 @@
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
             href="Mercados.php"><b>Mercados</b></a></li>
             <ul id="dropdown3" class="dropdown-content">
-  <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Productos</a></li>
+  <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a></li>
   <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a></li>
 </ul>
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!" data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a></li>
@@ -588,7 +596,7 @@
       <div class="col s12 m12 l12 xl12">
       <h5 class="Tipografia--general letranegro Titulos" style="margin-top:0px;"><b
             >Nitruro de Boro</b></h5>
-        <p class="Tipografia--general letranegro General--Cuerpo"><b>El Nitruro de Boro</b> Momentive Softouch es un polvo de grado cosmético muy fino con buena opacidad. Puede impartir una sensación sedosa, suave y lúbricante en las formulaciones cosméticas, al tiempo que mejora la difusión.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo"><b>El Nitruro de Boro</b> Momentive Softouch es un polvo de grado cosmético muy fino con buena opacidad. Puede impartir una sensación sedosa, suave y lubricante en las formulaciones cosméticas, al tiempo que mejora la difusión.</p>
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El nitruro de boro es un sólido inorgánico formado por la unión de un átomo de boro (B) con un átomo de nitrógeno (N). Su fórmula química es BN. Es un sólido blanco muy resistente a altas temperaturas y es un buen conductor del calor. Se emplea por ejemplo para fabricar crisoles de laboratorio.</p>
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b>Nitruro de Boro</b> (BN) es resistente a muchos ácidos, sin embargo, tiene cierta debilidad a los ataques del ácido fluorhídrico y por las bases fundidas. Es un buen aislante de la electricidad.</p>
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Se obtiene en diversas estructuras cristalinas, de las cuales las más importantes son la hexagonal y la cúbica. La estructura hexagonal se asemeja al grafito y es resbaladiza, por lo que se emplea como lubricante. La estructura cúbica es casi tan dura como el diamante y se utiliza para fabricar herramientas cortantes y para mejorar la dureza de otros materiales.</p>
@@ -603,7 +611,7 @@
 
 <h5 class="Tipografia--general letranegro General--Cuerpo Titulos" style="margin-top:50px;"><b>Información Técnica Nitruro de Boro</b></h5>
 
-<table class="display" id="table_id2" name="table_id2" style="width:50%;border-spacing:2px 5px;border:none;float:left;margin-top:20px;">
+<table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 5px;border:none;float:left;margin-top:20px;">
 <tr class="Tipografia--general General--Cuerpo" style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
 <td style="text-align:center;font-size:15px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white;">
 Formula Estructural:
