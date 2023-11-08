@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Acido Oleoico</title>
+  <title>Chemical Broker | Acido Oleico</title>
   <meta name="description" content="Este ácido graso monoinsaturado se encuentra en los aceites de oliva, aguacate, semillas de uva, girasol, canola, sésamo, además en nueces, castañas, avellanas, almendras, pistachos, maní entre otros.">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -674,52 +674,52 @@
           <table style="margin-top:50px;width:100%;" class="tabla_propiedades">
 <tbody>
     <tr>
-        <td style="border:1px solid #f2f2f2;background-color:#deeaf6;width:50%;font-size:14px;" class="Tipografia--general letranegro General--Cuerpo">IUPAC:</td>
-        <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;font-size:14px;" class="Tipografia--general  General--Cuerpo"><b>Ácido cis octadec-9-enoico</b></td>
+        <td style="border:1px solid #f2f2f2;background-color:#deeaf6;width:50%;font-size:14px;padding:10px" class="Tipografia--general letranegro General--Cuerpo"><b>IUPAC:</b></td>
+        <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;font-size:14px;" class="Tipografia--general  General--Cuerpo">Ácido cis octadec-9-enoico</td>
     </tr>
     <tr>
-        <td style="border:1px solid #f2f2f2;background-color:#deeaf6;padding:10px;font-size:14px;" class="Tipografia--general letranegro General--Cuerpo">Sinónimos:</td>
+        <td style="border:1px solid #f2f2f2;background-color:#deeaf6;padding:10px;font-size:14px;" class="Tipografia--general letranegro General--Cuerpo"><b>Sinónimos:</b></td>
         <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;" class="Tipografia--general letranegro General--Cuerpo">
             <ol style="margin-bottom:0px;margin-left:-15px;" class="Tipografia--general">
-                <li style="list-style-type:disc;font-size:14px;" class="Elementos--Listas"><b class="">Ácido Oleico</b></li>
-                <li style="list-style-type:disc;font-size:14px;" class="Elementos--Listas"><b>9 Ácido octadecenoico</b></li>
-                <li style="list-style-type:disc;font-size:14px;" class="Elementos--Listas"><b>Ácido 9-Octadecenoico</b></li>
-                <li style="list-style-type:disc;font-size:14px;" class="Elementos--Listas"><b>Ácido cis 9 octadecenoico</b></li>
-                <li style="list-style-type:disc;font-size:14px;" class="Elementos--Listas"><b>Oleato</b></li>
+                <li style="list-style-type:disc;font-size:14px;" class="Elementos--Listas">Ácido Oleico</li>
+                <li style="list-style-type:disc;font-size:14px;" class="Elementos--Listas">9 Ácido octadecenoico</li>
+                <li style="list-style-type:disc;font-size:14px;" class="Elementos--Listas">Ácido 9-Octadecenoico</li>
+                <li style="list-style-type:disc;font-size:14px;" class="Elementos--Listas">Ácido cis 9 octadecenoico</li>
+                <li style="list-style-type:disc;font-size:14px;" class="Elementos--Listas">Oleato</li>
             </ol>
         </td>
     </tr>
     <tr>
-        <td style="border:1px solid #f2f2f2;background-color:#deeaf6;padding:10px;font-size:14px;" class="letranegro Tipografia--general">Formula Estructural:</td>
+        <td style="border:1px solid #f2f2f2;background-color:#deeaf6;padding:10px;font-size:14px;" class="letranegro Tipografia--general"><b>Formula Estructural:</b></td>
         <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;"><img src="img/ACIDO_OLEICO_FORMULA.png" style="width:100%;" alt=""></td>
     </tr>
     <tr>
-        <td style="border:1px solid #f2f2f2;background-color:#deeaf6;padding:10px;font-size:14px" class="letranegro Tipografia--general">Formula Quimica: </td>
-        <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;font-size:14px" class="letranegro Tipografia--general"><b>COOH-(CH<sub>2</sub>)<sub>7</sub>-CH=CH-(CH<sub>2</sub>)<sub>7</sub>-CH<sub>3</b></sub></td>
+        <td style="border:1px solid #f2f2f2;background-color:#deeaf6;padding:10px;font-size:14px" class="letranegro Tipografia--general"><b>Formula Quimica:</b></td>
+        <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;font-size:14px" class="letranegro Tipografia--general">COOH-(CH<sub>2</sub>)<sub>7</sub>-CH=CH-(CH<sub>2</sub>)<sub>7</sub>-CH<sub>3</sub></td>
     </tr>
     <tr>
-        <td style="border:1px solid #f2f2f2;background-color:#deeaf6;padding:10px;font-size:14px" class="letranegro Tipografia--general">Formula Molecular:</td>
-        <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;font-size:14px" class="letranegro Tipografia--general"><b>C<sub>18</sub>H<sub>34</sub>O<sub>2</b></sub></td>
+        <td style="border:1px solid #f2f2f2;background-color:#deeaf6;padding:10px;font-size:14px" class="letranegro Tipografia--general"><b>Formula Molecular:</b></td>
+        <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;font-size:14px" class="letranegro Tipografia--general">C<sub>18</sub>H<sub>34</sub>O<sub>2</sub></td>
     </tr>
     <tr>
-        <td style="border:1px solid #f2f2f2;background-color:#deeaf6;padding:10px;font-size:14px" class="letranegro Tipografia--general ">Peso Molecular:</td>
-        <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;font-size:14px"><b>282.47 g/mol</b></td>
+        <td style="border:1px solid #f2f2f2;background-color:#deeaf6;padding:10px;font-size:14px" class="letranegro Tipografia--general "><b>Peso Molecular:</b></td>
+        <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;font-size:14px">282.47 g/mol</td>
     </tr>
     <tr>
-        <td style="border:1px solid #f2f2f2;background-color:#deeaf6;padding:10px;font-size:14px" class="letranegro Tipografia--general">CAS #:</td>
-        <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;font-size:14x" class="letranegro Tipografia--general"><b>112-80-1</b></td>
+        <td style="border:1px solid #f2f2f2;background-color:#deeaf6;padding:10px;font-size:14px" class="letranegro Tipografia--general"><b>CAS #:</b></td>
+        <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;font-size:14x" class="letranegro Tipografia--general">112-80-1</td>
     </tr>
     <tr>
-        <td style="border:1px solid #f2f2f2;background-color:#deeaf6;padding:10px;font-size:14px" class="letranegro Tipografia--general">EC No.:</td>
-        <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;font-size:14px" class="letranegro Tipografia--general"><b>204-007-1 | 217-977-6</b></td>
+        <td style="border:1px solid #f2f2f2;background-color:#deeaf6;padding:10px;font-size:14px" class="letranegro Tipografia--general"><b>EC No.:</b></td>
+        <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;font-size:14px" class="letranegro Tipografia--general">204-007-1 | 217-977-6</td>
     </tr>
     <tr>
-        <td style="border:1px solid #f2f2f2;background-color:#deeaf6;padding:10px;font-size:14px" class="letranegro Tipografia--general">Pub Chem No.:</td>
-        <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;font-size:14px" class="letranegro Tipografia--general"><b>445639</b></td>
+        <td style="border:1px solid #f2f2f2;background-color:#deeaf6;padding:10px;font-size:14px" class="letranegro Tipografia--general"><b>Pub Chem No.:</b></td>
+        <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;font-size:14px" class="letranegro Tipografia--general">445639</td>
     </tr>
     <tr>
-        <td style="border:1px solid #f2f2f2;background-color:#deeaf6;padding:10px;font-size:14px" class="letranegro Tipografia--general">UNII:</td>
-        <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;font-size:14px" class="letranegro Tipografia--general"><b>2UMI9U37CP</b></td>
+        <td style="border:1px solid #f2f2f2;background-color:#deeaf6;padding:10px;font-size:14px" class="letranegro Tipografia--general"><b>UNII:</b></td>
+        <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;font-size:14px" class="letranegro Tipografia--general">2UMI9U37CP</td>
     </tr>
 </tbody>
           </table>
@@ -762,7 +762,7 @@
             <br>
             <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Juega un papel fundamental en el mantenimiento del peso corporal, ya que interviene en la regulación metabólica de los lípidos.</li>
           </ol>
-          <h5 class="Tipografia--general letranegro" style="margin-top:50px;text-align:center;font-size:20px;"><b style="color:#BF8F00;">“Consumir alimentos ricos en ácido oleico disminuye el riesgo de padecer enfermedades cardiovasculares, a diferencia de otros tipos de grasa.”</b></h5>
+          <h5 class="Tipografia--general letranegro" style="margin-top:50px;text-align:center;font-size:30px;"><b style="color:#BF8F00;">“Consumir alimentos ricos en ácido oleico disminuye el riesgo de padecer enfermedades cardiovasculares, a diferencia de otros tipos de grasa.”</b></h5>
           <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;"><b>Aplicaciones</b></h5>
           <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Farmaceutica</b></h5>
           <ol style="margin-bottom:0px;">

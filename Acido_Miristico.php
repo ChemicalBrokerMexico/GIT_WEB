@@ -683,7 +683,7 @@
             </div>
 
             <div class="col s12 m12 l12 xl12 center-align">
-                <h5 style="color:#BF8F00;margin-top:50px;margin-bottom:0px;font-size:20px">“El Ácido mirístico se obtiene del
+                <h5 style="color:#BF8F00;margin-top:50px;margin-bottom:0px;font-size:30px">“El Ácido mirístico se obtiene del
                     fraccionamiento de un aceite de tipo Láurico.”</h5>
             </div>
 

@@ -559,7 +559,7 @@ recaptchaResponse.value = token;
   <div class="container">
     <div class="row">
       <div class="col s12 m12 l12 xl12">
-        <center><h1 class="Tipografia--general Titulos" style="color:#2279dfa4;margin-top:50px;"><b>Preservar tu Salud es lo más Importante</b></h1></center>
+        <center><h1 class="Tipografia--general" style="color:#2279dfa4;margin-top:50px;font-size:30px"><b>Preservar tu Salud es lo más Importante</b></h1></center>
         <p class="Tipografia--general General--Cuerpo" style="color:#262137;margin-top:50px;">La Industria Farmacéutica provee al mundo
           soluciones que permiten preservar la salud humana y mejorar su calidad de vida.</p>
         <p class="Tipografia--general General--Cuerpo" style="color:#262137;">Chemical Broker ofrece un amplio

@@ -583,43 +583,43 @@
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La Dextrosa, que se deriva del almidón de maíz, se ha convertido en un ingrediente vital en una amplia gama de aplicaciones de alimentos y bebidas, gracias a sus propiedades funcionales, sensoriales y nutricionales. Usada a menudo en combinación con azúcar u otros edulcorantes, acorta la percepción del dulzor y realza los sabores originales de alimentos y bebidas.</p>
       <table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
         <tr>
-          <td style="border:1px solid #c0c0c0;background-color:#000020;width:50%;color:white"><b>Descripción Química:</b></td>
-          <td style="border:1px solid #c0c0c0;">Dextrosas</td>
+          <td style="border:1px solid #c0c0c0;background-color:#000020;width:50%;color:white;font-size:18px"><b>Descripción Química:</b></td>
+          <td style="border:1px solid #c0c0c0;font-size:18px">Dextrosas</td>
         </tr>
         <tr>
-          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white"><b>Formula Estructural:</b></td>
+          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px"><b>Formula Estructural:</b></td>
           <td style="border:1px solid #c0c0c0;" class="center-align">
             <div class="col s12 m12 l12 xl12"><img src="img/CB_DEXTROSA_ESTRUCTURA1_130323.png" alt="" style="width:20%;"></div>
             <div class="col s12 m12 l12 xl12"><img src="img/CB_DEXTROSA_ESTRUCTURA2_130323.png" alt="" style="width:20%;"></div>
           </td>
         </tr>
         <tr>
-          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white"><b>Formula Molecular:</b></td>
-          <td style="border:1px solid #c0c0c0">C<sub>6</sub>H<sub>12</sub>O<sub>6</sub></td>
+          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px"><b>Formula Molecular:</b></td>
+          <td style="border:1px solid #c0c0c0;font-size:18px">C<sub>6</sub>H<sub>12</sub>O<sub>6</sub></td>
         </tr>
         <tr>
-          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white"><b>CAS No.:</b></td>
-          <td style="border:1px solid #c0c0c0">50-99-7</td>
+          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px"><b>CAS No.:</b></td>
+          <td style="border:1px solid #c0c0c0;font-size:18px">50-99-7</td>
         </tr>
         <tr>
-          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white"><b>ChEBI:</b></td>
-          <td style="border:1px solid #c0c0c0">4167</td>
+          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px"><b>ChEBI:</b></td>
+          <td style="border:1px solid #c0c0c0;font-size:18px">4167</td>
         </tr>
         <tr>
-          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white"><b>ChemSpider:</b></td>
-          <td style="border:1px solid #c0c0c0">5589</td>
+          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px"><b>ChemSpider:</b></td>
+          <td style="border:1px solid #c0c0c0;font-size:18px">5589</td>
         </tr>
         <tr>
-          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white"><b>PubChem:</b></td>
-          <td style="border:1px solid #c0c0c0">5793</td>
+          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px"><b>PubChem:</b></td>
+          <td style="border:1px solid #c0c0c0;font-size:18px">5793</td>
         </tr>
         <tr>
-          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white"><b>UNII:</b></td>
-          <td style="border:1px solid #c0c0c0">5SL0G7R0OK</td>
+          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px"><b>UNII:</b></td>
+          <td style="border:1px solid #c0c0c0;font-size:18px">5SL0G7R0OK</td>
         </tr>
         <tr>
-          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white"><b>KEGG:</b></td>
-          <td style="border:1px solid #c0c0c0">C00031</td>
+          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px"><b>KEGG:</b></td>
+          <td style="border:1px solid #c0c0c0;font-size:18px">C00031</td>
         </tr>
       </table>
 

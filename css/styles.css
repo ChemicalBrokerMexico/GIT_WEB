@@ -1969,6 +1969,10 @@ font-size: 12px;
         border-bottom: 1px solid #000020;
     }
 
+    .CREMER_LOGO{
+        width:50%;
+    }
+
 }
 
 @media only screen and (min-width:639px) and (max-width:640px) {
@@ -5142,6 +5146,14 @@ margin-top:85px;
 
         .no_compliance{
             display: none;
+        }
+
+        .div-fotoprod{
+            height:350px;
+        }
+
+        .div-textoprod{
+            height:350px;
         }
 }
 

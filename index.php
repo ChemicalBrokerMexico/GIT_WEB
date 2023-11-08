@@ -394,7 +394,7 @@
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section style="margin-top:125px"><a class="breditem active" href="#" style="color:#262137 !important"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Inicio&nbsp</b><b class="Tipografia--general letranegro Subtitulos"> >&nbsp  </b></a><a class="breditem active" href="index.php" style="color:#262137 !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb">Nostros</b></a></section>
+<section style="margin-top:125px"><a class="breditem active" href="#" style="color:#262137 !important"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Inicio&nbsp</b><b class="Tipografia--general letranegro Subtitulos"> >&nbsp  </b></a><a class="breditem active" href="index.php" style="color:#262137 !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb">Nosotros</b></a></section>
 </div>
 </div>
 </div>

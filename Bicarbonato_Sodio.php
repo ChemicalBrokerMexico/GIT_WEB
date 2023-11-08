@@ -605,31 +605,31 @@
 
           <tr class="Tipografia--general General--Cuerpo"
             style="text-align:center;padding:10px;font-size:15px !important;">
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
               class="Tablas_Bicarsodio_Mobile">
               <b>Descripción Química:</b>
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
               class="Tablas_Bicarsodio_Mobile">Bicarbonato de Sodio</td>
           </tr>
 
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
               class="Tablas_Bicarsodio_Mobile">
               <b>IUPAC:</b>
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
               class="Tablas_Bicarsodio_Mobile">
               Hidrogenocarbonato (IV) de Sodio</td>
           </tr>
 
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
             <td
-              style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
               class="Tablas_Bicarsodio_Mobile">
              <b>Sinónimos:</b>
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
               class="Tablas_Bicarsodio_Mobile">
               <ol>
                 <li class="Elementos--Listas" style="list-style-type:disc;margin-left:-20px">Bicarbonato sódico</li>
@@ -640,93 +640,93 @@
             </td>
           </tr>
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
               class="Tablas_Bicarsodio_Mobile">
               <b>Fórmula Estructural:</b>
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
               class="Tablas_Bicarsodio_Mobile center-align"><img src="img/BICARBONATOS_FORMULA-ESTRUCTURAL.png" alt=""
                 style="width:50%;"></td>
           </tr>
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
               class="Tablas_Bicarsodio_Mobile">
               <b>Fórmula Molecular</b>
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
               class="Tablas_Bicarsodio_Mobile">NaHCO<sub>3</sub></td>
           </tr>
 
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
               class="Tablas_Bicarsodio_Mobile">
               <b>CAS No.:</b>
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
               class="Tablas_Bicarsodio_Mobile">144-55-8</td>
           </tr>
 
 
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
               class="Tablas_Bicarsodio_Mobile">
               <b>ChEMBI:</b>
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
               class="Tablas_Bicarsodio_Mobile">32139</td>
           </tr>
 
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
               class="Tablas_Bicarsodio_Mobile">
               <b>ChEMBL:</b>
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
               class="Tablas_Bicarsodio_Mobile">CHEMBL1353</td>
           </tr>
 
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;">
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
               class="Tablas_Bicarsodio_Mobile">
               <b>ChemSpider:</b>
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
               class="Tablas_Bicarsodio_Mobile">8609</td>
           </tr>
 
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
               class="Tablas_Bicarsodio_Mobile">
               <b>DrugBank:</b>
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
               class="Tablas_Bicarsodio_Mobile">01390</td>
           </tr>
 
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
               class="Tablas_Bicarsodio_Mobile">
               <b>PubChem:</b>
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
               class="Tablas_Bicarsodio_Mobile">516892</td>
           </tr>
 
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
               class="Tablas_Bicarsodio_Mobile">
               <b>UNII:</b>
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
               class="Tablas_Bicarsodio_Mobile">8MDF5V39QO</td>
           </tr>
 
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
               class="Tablas_Bicarsodio_Mobile">
               <b>KEGG:</b>
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#d9d9d9;margin-bottom:0px;"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9;margin-bottom:0px;"
               class="Tablas_Bicarsodio_Mobile">D01203 C12603, D01203</td>
           </tr>
         </table>

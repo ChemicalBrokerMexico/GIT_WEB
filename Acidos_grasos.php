@@ -584,7 +584,7 @@
 
   <div class="container">
     <div class="row">
-      <div class="col s12 m6 l12 xl12">
+      <div class="col s12 m12 l12 xl12">
         <h5 class="Tipografia--general letranegro Titulos"><b>Ácidos Grasos</b></h5>
         <p class="Tipografia--general letranegro General--Cuerpo">Los <b style="color:#262137;">ácidos grasos</b> se
           derivan de grasas y aceites animales como el sebo de res y de aceites vegetales tales como aceite de soja,

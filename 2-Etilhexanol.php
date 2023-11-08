@@ -580,96 +580,96 @@
 
             
                 <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;width:50%"><b>Descripción Quimica:</b></td>
-                    <td style="border:1px solid #f2f2f2;">2-Etilhexanol</td>
+                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;width:50%;font-size:18px"><b>Descripción Quimica:</b></td>
+                    <td style="border:1px solid #f2f2f2;font-size:18px">2-Etilhexanol</td>
                 </tr>
 
                 <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white"><b>Formula:</b></td>
+                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>Formula:</b></td>
                     <td style="border:1px solid #f2f2f2;"><img src="img/CBMX_FORMULA-QUIMICA_2-ETILHEXANOL.png" alt="" style="width:60%;"></td>
                 </tr>
 
                 <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white"><b>Formula Quimica:</b></td>
-                    <td style="border:1px solid #f2f2f2;">C<sub>8</sub>H<sub>18</sub>O<sub>1</sub></td>
+                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>Formula Quimica:</b></td>
+                    <td style="border:1px solid #f2f2f2;font-size:18px">C<sub>8</sub>H<sub>18</sub>O<sub>1</sub></td>
                 </tr>
 
                 <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white"><b>Nombre IUPAC:</b>></td>
-                    <td style="border:1px solid #f2f2f2;">- Alcohol Isooctilico<br>2-Etilhexan-1-ol</td>
+                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>Nombre IUPAC:</b>></td>
+                    <td style="border:1px solid #f2f2f2;font-size:18px">- Alcohol Isooctilico<br>2-Etilhexan-1-ol</td>
                 </tr>
 
                 <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white"><b>Sinónimos:</b></td>
-                    <td style="border:1px solid #f2f2f2;">Alcohol Isooctilico<br>- 2-Etilhexanol</td>
+                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>Sinónimos:</b></td>
+                    <td style="border:1px solid #f2f2f2;font-size:18px">Alcohol Isooctilico<br>- 2-Etilhexanol</td>
                 </tr>
 
                 <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white"><b>Numero CAS:</b></td>
-                    <td style="border:1px solid #f2f2f2;">104-76-7</td>
+                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>Numero CAS:</b></td>
+                    <td style="border:1px solid #f2f2f2;font-size:18px">104-76-7</td>
                 </tr>
 
                 <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white"><b>ChEBI:</b></td>
-                    <td style="border:1px solid #f2f2f2;">16011</td>
+                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>ChEBI:</b></td>
+                    <td style="border:1px solid #f2f2f2;font-size:18px">16011</td>
                 </tr>
 
                 <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white" ><b>ChEMBL:</b></td>
-                    <td style="border:1px solid #f2f2f2;">- 31637<br>- 1229918</td>
+                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>ChEMBL:</b></td>
+                    <td style="border:1px solid #f2f2f2;font-size:18px">- 31637<br>- 1229918</td>
                 </tr>
 
                 <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white"><b>ChemSpider:</b></td>
-                    <td style="border:1px solid #f2f2f2;">- 7434<br>- 5360145<br>- 5360146<br></td>
+                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>ChemSpider:</b></td>
+                    <td style="border:1px solid #f2f2f2;font-size:18px">- 7434<br>- 5360145<br>- 5360146<br></td>
                 </tr>
 
                 <tr>
-                    <td style="background-color:#000020;color: rgba(2 146 238 /99%);border:1px solid white;"><b>ECHA InfoCard:</b></td>
-                    <td style="border:1px solid #f2f2f2;">100.002.941</td>
+                    <td style="background-color:#000020;color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>ECHA InfoCard:</b></td>
+                    <td style="border:1px solid #f2f2f2;font-size:18px">100.002.941</td>
                 </tr>
 
                 <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white"><b>EC No.:</b></td>
-                    <td style="border:1px solid #f2f2f2;">203-234-3</td>
+                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>EC No.:</b></td>
+                    <td style="border:1px solid #f2f2f2;font-size:18px">203-234-3</td>
                 </tr>
 
                 <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white"><b>KEGG:</b></td>
-                    <td style="border:1px solid #f2f2f2;">C02498</td>
+                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>KEGG:</b></td>
+                    <td style="border:1px solid #f2f2f2;font-size:18px">C02498</td>
                 </tr>
 
                 <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white"><b>PubChem:</b></td>
-                    <td style="border:1px solid #f2f2f2;">-7720<br>-6991979<br>- 6991980</td>
+                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>PubChem:</b></td>
+                    <td style="border:1px solid #f2f2f2;font-size:18px">-7720<br>-6991979<br>- 6991980</td>
                 </tr>
 
                 <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white"><b>UNII:</b></td>
-                    <td style="border:1px solid #f2f2f2;">XZV7TAA77P</td>
+                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>UNII:</b></td>
+                    <td style="border:1px solid #f2f2f2;font-size:18px">XZV7TAA77P</td>
                 </tr>
 
                 <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white"><b>Masa molecular:</b></td>
-                    <td style="border:1px solid #f2f2f2;">130.231 g.mol-1</td>
+                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>Masa molecular:</b></td>
+                    <td style="border:1px solid #f2f2f2;font-size:18px">130.231 g.mol-1</td>
                 </tr>
                 
 
                 <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white"><b>Densidad:</b></td>
-                    <td style="border:1px solid #f2f2f2;">833 mg mL-1</td>
+                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>Densidad:</b></td>
+                    <td style="border:1px solid #f2f2f2;font-size:18px">833 mg mL-1</td>
                 </tr>
                 
                 
                 <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white"><b>Punto de fusión:</b></td>
-                    <td style="border:1px solid #f2f2f2;">-76 °C (-105 °F; 197 K)</td>
+                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>Punto de fusión:</b></td>
+                    <td style="border:1px solid #f2f2f2;font-size:18px">-76 °C (-105 °F; 197 K)</td>
                 </tr>
                 
                 
                 <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white"><b>Punto de ebullición:</b></td>
-                    <td style="border:1px solid #f2f2f2;">180 a 186 °C; 356 a 367 °F; 453 a 459</td>
+                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>Punto de ebullición:</b></td>
+                    <td style="border:1px solid #f2f2f2;font-size:18px">180 a 186 °C; 356 a 367 °F; 453 a 459</td>
                 </tr>
             </table>
             <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b style="color:#000020">Producción</b></h5>

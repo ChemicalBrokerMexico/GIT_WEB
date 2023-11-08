@@ -601,20 +601,20 @@
           velas, industria de alimentos y piensos.</p>
         <table style="border:1px solid #f2f2f2;margin-top:50px;">
           <tr>
-            <th style="background-color:#000020;color:rgba(2 146 238 /99%);border-right: 1px solid white"
+            <th style="background-color:#000020;color:rgba(2 146 238 /99%);border-right: 1px solid white;font-size:18px"
               class="center-align">Especificación</th>
-            <th style="background-color:#000020;color:rgba(2 146 238 /99%);border-right: 1px solid white"
+            <th style="background-color:#000020;color:rgba(2 146 238 /99%);border-right: 1px solid white;font-size:18px"
               class="center-align">Unidad</th>
-            <th style="background-color:#000020;color:rgba(2 146 238 /99%);border-right: 1px solid white"
+            <th style="background-color:#000020;color:rgba(2 146 238 /99%);border-right: 1px solid white;font-size:18px"
               class="center-align">Parametros</th>
-            <th style="background-color:#000020;color:rgba(2 146 238 /99%);border-right: 1px solid white"
+            <th style="background-color:#000020;color:rgba(2 146 238 /99%);border-right: 1px solid white;font-size:18px"
               class="center-align">Método</th>
           </tr>
           <tr>
-            <td style="border-right:1px solid #f2f2f2;">Índice de Acidez </td>
-            <td style="border-right:1px solid #f2f2f2;" class="center-align">mg KOH / g</td>
-            <td style="border-right:1px solid #f2f2f2;" class="center-align">≤ 1.0</td>
-            <td style="border-right:1px solid #f2f2f2;" class="center-align">GB/T 9104-2008/ 6</td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px">Índice de Acidez </td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px" class="center-align">mg KOH / g</td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px" class="center-align">≤ 1.0</td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px" class="center-align">GB/T 9104-2008/ 6</td>
           </tr>
 
           <tr>
@@ -625,10 +625,10 @@
           </tr>
 
           <tr>
-            <td style="border-right:1px solid #f2f2f2;">Índice de Yodo</td>
-            <td style="border-right:1px solid #f2f2f2;" class="center-align">g I₂ / 100 g</td>
-            <td style="border-right:1px solid #f2f2f2;" class="center-align">≤ 0.5</td>
-            <td style="border-right:1px solid #f2f2f2;" class="center-align">GB/T 9104-2008/4</td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px">Índice de Yodo</td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px" class="center-align">g I₂ / 100 g</td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px" class="center-align">≤ 0.5</td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px" class="center-align">GB/T 9104-2008/4</td>
           </tr>
           <tr>
             <td style="background-color:#f2f2f2;"></td>
@@ -637,10 +637,10 @@
             <td style="background-color:#f2f2f2;"></td>
           </tr>
           <tr>
-            <td style="border-right:1px solid #f2f2f2;">Punto de Fusión</td>
-            <td style="border-right:1px solid #f2f2f2;" class="center-align">°C</td>
-            <td style="border-right:1px solid #f2f2f2;" class="center-align">≥ 57</td>
-            <td style="border-right:1px solid #f2f2f2;" class="center-align">GB/T 617-2006</td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px">Punto de Fusión</td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px" class="center-align">°C</td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px" class="center-align">≥ 57</td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px" class="center-align">GB/T 617-2006</td>
           </tr>
           <tr>
             <td style="background-color:#f2f2f2;"></td>
@@ -649,10 +649,10 @@
             <td style="background-color:#f2f2f2;"></td>
           </tr>
           <tr>
-            <td style="border-right:1px solid #f2f2f2;">Color</td>
-            <td style="border-right:1px solid #f2f2f2;" class="center-align">Hazen</td>
-            <td style="border-right:1px solid #f2f2f2;" class="center-align">≤ 450</td>
-            <td style="border-right:1px solid #f2f2f2;" class="center-align">GB/T 9104-2008/7</td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px">Color</td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px" class="center-align">Hazen</td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px" class="center-align">≤ 450</td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px" class="center-align">GB/T 9104-2008/7</td>
           </tr>
           <tr>
             <td style="background-color:#f2f2f2;"></td>
@@ -661,10 +661,10 @@
             <td style="background-color:#f2f2f2;"></td>
           </tr>
           <tr>
-            <td style="border-right:1px solid #f2f2f2;">Humedad</td>
-            <td style="border-right:1px solid #f2f2f2;" class="center-align">%</td>
-            <td style="border-right:1px solid #f2f2f2;" class="center-align">≤ 0.2</td>
-            <td style="border-right:1px solid #f2f2f2;" class="center-align">GB/T 606-2003</td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px">Humedad</td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px" class="center-align">%</td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px" class="center-align">≤ 0.2</td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px" class="center-align">GB/T 606-2003</td>
           </tr>
         </table>
         <div class="col s12 m12 l12 xl12">
@@ -744,22 +744,22 @@
           <table class="center-align">
 
             <tr>
-              <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;" class="center-align">Año
+              <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;font-size:18px" class="center-align">Año
               </th>
-              <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;" class="center-align">
+              <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;font-size:18px" class="center-align">
                 Tipo Operación</th>
-              <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;" class="center-align">
+              <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;font-size:18px" class="center-align">
                 Cantidad (Kg.)</th>
             </tr>
             <tr>
-              <td class="center-align" style="border:1px solid #f2f2f2;">2018</td>
-              <td class="center-align" style="border:1px solid #f2f2f2;">Produccion</td>
-              <td class="center-align" style="border:1px solid #f2f2f2;">40,500,000.00</td>
+              <td class="center-align" style="border:1px solid #f2f2f2;font-size:18px">2018</td>
+              <td class="center-align" style="border:1px solid #f2f2f2;font-size:18px">Produccion</td>
+              <td class="center-align" style="border:1px solid #f2f2f2;font-size:18px">40,500,000.00</td>
             </tr>
             <tr>
-              <td class="center-align" style="border:1px solid #f2f2f2;">2018</td>
-              <td class="center-align" style="border:1px solid #f2f2f2;">Exportacion</td>
-              <td class="center-align" style="border:1px solid #f2f2f2;">29,500,000.00</td>
+              <td class="center-align" style="border:1px solid #f2f2f2;font-size:18px">2018</td>
+              <td class="center-align" style="border:1px solid #f2f2f2;font-size:18px">Exportacion</td>
+              <td class="center-align" style="border:1px solid #f2f2f2;font-size:18px">29,500,000.00</td>
             </tr>
           </table>
         </div>
@@ -778,22 +778,22 @@
         <table class="center-align" >
 
           <tr>
-            <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;" class="center-align">Año
+            <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;font-size:18px" class="center-align">Año
             </th>
-            <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;" class="center-align">Tipo
+            <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;font-size:18px" class="center-align">Tipo
               Operacion</th>
-            <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;" class="center-align">
+            <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;font-size:18px" class="center-align">
               Cantidad (Kg.)</th>
           </tr>
           <tr>
-            <td class="center-align" style="border:1px solid #f2f2f2;">2018</td>
-            <td class="center-align" style="border:1px solid #f2f2f2;">Produccion</td>
-            <td class="center-align" style="border:1px solid #f2f2f2;">21,000,000.00</td>
+            <td class="center-align" style="border:1px solid #f2f2f2;font-size:18px">2018</td>
+            <td class="center-align" style="border:1px solid #f2f2f2;font-size:18px">Produccion</td>
+            <td class="center-align" style="border:1px solid #f2f2f2;font-size:18px">21,000,000.00</td>
           </tr>
           <tr>
-            <td class="center-align" style="border:1px solid #f2f2f2;">2018</td>
-            <td class="center-align" style="border:1px solid #f2f2f2;">Exportacion</td>
-            <td class="center-align" style="border:1px solid #f2f2f2;">17,900,000.00</td>
+            <td class="center-align" style="border:1px solid #f2f2f2;font-size:18px">2018</td>
+            <td class="center-align" style="border:1px solid #f2f2f2;font-size:18px">Exportacion</td>
+            <td class="center-align" style="border:1px solid #f2f2f2;font-size:18px">17,900,000.00</td>
           </tr>
         </table>
         <div class="col s12 m12 l12 xl12">

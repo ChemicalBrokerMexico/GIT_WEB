@@ -610,7 +610,7 @@
 
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;width:150px;border-bottom: none;">
-            <td style="font-size:15px !important;float:left;border-bottom: none;margin-top:20px;"
+            <td style="font-size:18px !important;float:left;border-bottom: none;margin-top:20px;"
               class="Tipografia--general letranegro General--Cuerpo">
               CO-1214 Lauryl / Myristyl Alcohol (Dedonacol / Tetradecanol)
             </td>
@@ -621,7 +621,7 @@
 
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;width:150px;border-bottom: none;">
-            <td style="font-size:15px !important;float:left;border-bottom: none;margin-top:20px;"
+            <td style="font-size:18px !important;float:left;border-bottom: none;margin-top:20px;"
               class="Tipografia--general letranegro General--Cuerpo">
               CO-1270 Lauryl / Myristyl Alcohol (Dedonacol / Tetradecanol)
             </td>
@@ -632,7 +632,7 @@
 
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;width:150px;border-bottom: none;">
-            <td style="font-size:15px !important;float:left;border-bottom: none;margin-top:20px;"
+            <td style="font-size:18px !important;float:left;border-bottom: none;margin-top:20px;"
               class="Tipografia--general letranegro General--Cuerpo">
               CO-1650 Cetostearyl Alcohol (Hexadecanol / Octadecanol)
             </td>
@@ -643,7 +643,7 @@
 
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;width:150px;border-bottom: none;">
-            <td style="font-size:15px !important;float:left;border-bottom: none;margin-top:20px;"
+            <td style="font-size:18px !important;float:left;border-bottom: none;margin-top:20px;"
               class="Tipografia--general letranegro General--Cuerpo">
               CO-1695 Cetyl Alcohol NF (Hexadecanol)
             </td>
@@ -653,7 +653,7 @@
 
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;width:150px;border-bottom: none;">
-            <td style="font-size:15px !important;float:left;border-bottom: none;margin-top:20px;"
+            <td style="font-size:18px !important;float:left;border-bottom: none;margin-top:20px;"
               class="Tipografia--general letranegro General--Cuerpo">
               CO-1698 Cetyl Alcohol (Hexadecanol)
             </td>
@@ -662,7 +662,7 @@
 
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;width:150px;border-bottom: none;">
-            <td style="font-size:15px !important;float:left;border-bottom: none;margin-top:20px;"
+            <td style="font-size:18px !important;float:left;border-bottom: none;margin-top:20px;"
               class="Tipografia--general letranegro General--Cuerpo">
               TA-1618 Cetostearyl Alcohol (Hexadecanol / Octadecanol)
             </td>
@@ -671,7 +671,7 @@
 
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;width:150px;border-bottom: none;">
-            <td style="font-size:15px !important;float:left;border-bottom: none;margin-top:20px;"
+            <td style="font-size:18px !important;float:left;border-bottom: none;margin-top:20px;"
               class="Tipografia--general letranegro General--Cuerpo">
               CO-1895 Stearyl Alcohol NF (Octadecanol)
             </td>
@@ -680,7 +680,7 @@
 
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;width:150px;border-bottom: none;">
-            <td style="font-size:15px !important;float:left;border-bottom: none;margin-top:20px;"
+            <td style="font-size:18px !important;float:left;border-bottom: none;margin-top:20px;"
               class="Tipografia--general letranegro General--Cuerpo">
               CO-1897 Stearyl Alcohol NF (Octadecanol)
             </td>
@@ -689,7 +689,7 @@
 
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;width:150px;border-bottom: none;">
-            <td style="font-size:15px !important;float:left;border-bottom: none;margin-top:20px;"
+            <td style="font-size:18px !important;float:left;border-bottom: none;margin-top:20px;"
               class="Tipografia--general letranegro General--Cuerpo">
               CO-1898 Stearyl Alcohol NF (Octadecanol)
             </td>
@@ -698,7 +698,7 @@
 
           <tr class="Tipografia--general General--Cuerpo"
             style="text-align:center;padding:10px;width:150px;border-bottom: none;">
-            <td style="text-align:center;font-size:15px !important;float:left;border-bottom: none;margin-top:20px;"
+            <td style="text-align:center;font-size:18px !important;float:left;border-bottom: none;margin-top:20px;"
               class="Tipografia--general letranegro General--Cuerpo">
               CO-1899  Stearyl Alcohol (Octadecanol)
             </td>

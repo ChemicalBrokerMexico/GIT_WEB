@@ -581,7 +581,7 @@
         <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;margin-bottom: 0px;">La producción industrial se lleva a cabo a aproximadamente a 250 °C con sorbitol y el ácido graso correspondiente. Estos ácidos grasos pueden venir de fuentes animales, pero por lo general se usan los obtenidos a partir de grasas vegetales, al ser más baratos.  También es posible utilizar una mezcla de ácidos grasos (ácido esteárico, ácido láurico, ácido oleico y ácido palmítico), la cual forma una mezcla compleja de diferentes ésteres de ácidos grasos de sorbitano, que también tiene las propiedades químicas deseadas.</p>
         <table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
             <tr>
-                <td style="color:rgba(2 146 238 /99%);background-color:#000020;border:1px solid #f2f2f2;width:50%;padding:10px"><b>Formula Estructural:</b></td>
+                <td style="color:rgba(2 146 238 /99%);background-color:#000020;border:1px solid #f2f2f2;width:50%;padding:10px;font-size:18px"><b>Formula Estructural:</b></td>
                 <td style="border:1px solid #f2f2f2;text-align:center;padding:10px;"><img src="img/CB_FORMULA-ESTRUCTURAL_ESTERES-SORBITAN.png" alt="Estructuras" width="40%"></td>
             </tr>
             <tr>
@@ -589,7 +589,7 @@
                 <td style="background-color:#f2f2f2;"></td>
             </tr>
             <tr>
-                <td style="color:rgba(2 146 238 /99%);background-color:#000020;border:1px solid #f2f2f2;padding:10px"><b>Estructura de Anillos de 5 y 6 Eslabones de Sorbitano:</b></td>
+                <td style="color:rgba(2 146 238 /99%);background-color:#000020;border:1px solid #f2f2f2;padding:10px;font-size:18px"><b>Estructura de Anillos de 5 y 6 Eslabones de Sorbitano:</b></td>
                 <td style="border:1px solid #f2f2f2;text-align:center;padding:10px;"><img src="img/CB_FORMULA-ESTRUCTURAL_ANILLOS-ESTERES-SORBITAN.png" alt="Estructuras" width="50%"></td>
             </tr>
         </table>
@@ -612,7 +612,7 @@
             <br>
             <li style="list-style-type:disc;"><b style="color:#000020;">Sorbitán Mono Laurato (Span 20).-</b> Es una mezcla de ésteres formados a partir del ácido graso de 12 átomos de carbono, llamado ácido láurico y polioles derivados del sorbitol, sorbitano e isosorbida. Se utiliza como aditivo alimentario, y se designa con el número E E493.</li>
         </ol>
-        <p class="letranegro Tipografia--general General--Cuerpo " style="margin-top:50px;color:#0033CC;text-align: center;margin-bottom:0px;"><b>“Los Ésteres de Sorbitán son seguros para el consumo humano cuando se utilizan dentro de los límites establecidos por las regulaciones alimentarias y cosméticas. Ayudan a mejorar la textura, la estabilidad y la vida util de diversos productos y son comunes en la formulación de alimentos procesados, productos de cuidado personal y productos farmacéuticos.”</b></p>
+        <p class="letranegro Tipografia--general General--Cuerpo " style="margin-top:50px;color:#0033CC;text-align: center;margin-bottom:0px;font-size:30px;"><b>“Los Ésteres de Sorbitán son seguros para el consumo humano cuando se utilizan dentro de los límites establecidos por las regulaciones alimentarias y cosméticas. Ayudan a mejorar la textura, la estabilidad y la vida util de diversos productos y son comunes en la formulación de alimentos procesados, productos de cuidado personal y productos farmacéuticos.”</b></p>
         <h5 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#000020;">Fabricante</b></h5>
         <img src="img/ENFOQUE-QUIMICO_LOGO.jpg" alt="" style="width:25%;">
         <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;">¿Por qué Elegirnos como tu Proveedor de Ésteres de Sorbitán?</p>
@@ -633,7 +633,7 @@
         <h5 class="letranegro Tipografia--general Titulos" style="margin-top:50px;margin-bottom:0px;"><b style="color:#000020;">¡Contactanos Hoy Mismo!</b></h5>
         <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Ya sea que estes buscando mejorar la estabilidad de tus productos o crear fórmulas innovadoras en la industria de productos cosméticos. Chemical Broker es tu socio ideal para el suministro de Ésteres de Sorbitán de alta calidad.</p>
         <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;margin-bottom:0px;"><b style="color:#000020">No dudes en ponerte en contacto con nosotros para obtener más información, muestras o cotizaciones personalizadas.</b></p>
-        <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;margin-bottom:0px;float:right;"><b style="color:#0033CC;">¡Deseamos colaborar contigo y ayudarte a alcanzar el éxito de tus proyectos!</b></p>
+        <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;margin-bottom:0px;float:right;font-size:30px"><b style="color:#0033CC;">¡Deseamos colaborar contigo y ayudarte a alcanzar el éxito de tus proyectos!</b></p>
         </div>
         <!-- <div class="col s12 m12 l12 xl12">
         <h5 class="letranegro Tipografia--general Titulos" style="margin-bottom:0px;"><b style="color:#000020;">Mono Laurato de Sorbitan (Span 20)</b></h5>

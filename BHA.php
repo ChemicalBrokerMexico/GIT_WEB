@@ -602,7 +602,7 @@
           <tr class="Tipografia--general General--Cuerpo"
             style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
             <td
-              style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#FFCCCC;color:black;" class="table_bha_mobile">
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#FFCCCC;color:black;" class="table_bha_mobile">
               <b>Estructura Química:</b>
             </td>
             <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;text-align:center;" class="table_bha_mobile"><img src="./img/BHA_ESTRUCTURA.png" alt="" class="Estructural_BHA"></td>
@@ -613,15 +613,15 @@
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-              style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#FFCCCC;color:black;" class="table_bha_mobile"
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#FFCCCC;color:black;" class="table_bha_mobile"
               >
               <b>Nombre IUPAC:</b>
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;" class="table_bha_mobile"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;" class="table_bha_mobile"
               >
               <ol>
-                <li style="list-style-type:disc" class="Elementos--Listas">2-tert-butil-4hidroxianisol</li>
-                <li style="list-style-type:disc" class="Elementos--Listas">3-tert-butil-4-hidroxianisol </li>
+                <li style="list-style-type:disc;font-size:18px" class="Elementos--Listas">2-tert-butil-4hidroxianisol</li>
+                <li style="list-style-type:disc;font-size:18px" class="Elementos--Listas">3-tert-butil-4-hidroxianisol </li>
               </ol>
             </td>
           </tr>
@@ -629,11 +629,11 @@
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-              style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;background-color:#FFCCCC;color:black;" class="table_bha_mobile"
+              style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#FFCCCC;color:black;" class="table_bha_mobile"
               >
               <b>Sinonimos:</b>
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;" class="table_bha_mobile"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;" class="table_bha_mobile"
               >
               Hidroxianisol Butilado</td>
           </tr>
@@ -643,10 +643,10 @@
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-              style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#FFCCCC;color:black;" class="table_bha_mobile">
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#FFCCCC;color:black;" class="table_bha_mobile">
               <b>Formula:</b>
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;" class="table_bha_mobile">C<sub>11</sub>H<sub>16</sub>O<sub>2</sub></td>
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;" class="table_bha_mobile">C<sub>11</sub>H<sub>16</sub>O<sub>2</sub></td>
           </tr>
 
 
@@ -654,10 +654,10 @@
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-              style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#FFCCCC;color:black;" class="table_bha_mobile">
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#FFCCCC;color:black;" class="table_bha_mobile">
               <b>CAS No:</b>
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%" class="table_bha_mobile">
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%" class="table_bha_mobile">
               25013-16-5, 8003-24-5, 9009-68-1
             </td>
           </tr>
@@ -665,10 +665,10 @@
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-              style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#FFCCCC;color:black;" class="table_bha_mobile">
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#FFCCCC;color:black;" class="table_bha_mobile">
               <b>ChEMBL:</b>
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%" class="table_bha_mobile"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%" class="table_bha_mobile"
         >CHEMBL502074</td>
           </tr>
 
@@ -680,40 +680,40 @@
               >
               <b>Chem Spider:</b>
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%" class="table_bha_mobile"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%" class="table_bha_mobile"
               >23068</td>
           </tr>
 
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-              style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#FFCCCC;color:black;" class="table_bha_mobile"
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#FFCCCC;color:black;" class="table_bha_mobile"
               >
               <b>PubChem:</b>
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;" class="table_bha_mobile"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;" class="table_bha_mobile"
               >24667</td>
           </tr>
 
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-              style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#FFCCCC;color:black;" class="table_bha_mobile"
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#FFCCCC;color:black;" class="table_bha_mobile"
               >
               <b>UNII:</b>
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;" class="table_bha_mobile"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;" class="table_bha_mobile"
               >REK4960K2U</td>
           </tr>
 
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-              style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#FFCCCC;color:black;" class="table_bha_mobile"
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#FFCCCC;color:black;" class="table_bha_mobile"
               >
               <b>KEGG:</b>
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;margin-bottom:0px" class="table_bha_mobile"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;margin-bottom:0px" class="table_bha_mobile"
               >C15469</td>
           </tr>
 
@@ -724,31 +724,31 @@
         <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Propiedades</b></h5>
 
         <ol style="margin-bottom:0px;">
-          <li style="list-style-type:disc;" class="Elementos--Listas">Aditivo</li>
+          <li style="list-style-type:disc;font-size:18px" class="Elementos--Listas">Aditivo</li>
           <br>
-         <li style="list-style-type:disc;" class="Elementos--Listas">Alta pureza, con un ensayo
+         <li style="list-style-type:disc;font-size:18px" class="Elementos--Listas">Alta pureza, con un ensayo
             mínimo del 98.5%</li>
           <br>
-          <li style="list-style-type:disc;" class="Elementos--Listas">Alto contenido de 3-BHA; ≥ 95.0%
+          <li style="list-style-type:disc;font-size:18px" class="Elementos--Listas">Alto contenido de 3-BHA; ≥ 95.0%
           </li>
           <br>
-          <li style="list-style-type:disc;" class="Elementos--Listas">Excelente extensor de vida de
+          <li style="list-style-type:disc;font-size:18px" class="Elementos--Listas">Excelente extensor de vida de
             anaquel</li>
           <br>
-          <li style="list-style-type:disc;" class="Elementos--Listas">Fuerte protección contra la
+          <li style="list-style-type:disc;font-size:18px" class="Elementos--Listas">Fuerte protección contra la
             oxidación</li>
           <br>
-          <li style="list-style-type:disc;" class="Elementos--Listas">Excelente solubilidad en grasas
+          <li style="list-style-type:disc;font-size:18px" class="Elementos--Listas">Excelente solubilidad en grasas
             y aceites</li>
           <br>
-          <li style="list-style-type:disc;" class="Elementos--Listas">Buen efecto de transferencia en
+          <li style="list-style-type:disc;font-size:18px" class="Elementos--Listas">Buen efecto de transferencia en
             productos horneados</li>
         </ol>
 
         <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Beneficios</b></h5>
 
         <ol style="margin-bottom:0px;">
-          <li style="list-style-type:disc;" class="Elementos--Listas">Sin Tolueno; lo que garantiza el
+          <li style="list-style-type:disc;font-size:18px" class="Elementos--Listas">Sin Tolueno; lo que garantiza el
             mas alto nivel de seguridad de alimentos y piensos</li>
           <br>
           <li style="list-style-type:disc;" class="Elementos--Listas">Alta pureza con un ensayo mínimo

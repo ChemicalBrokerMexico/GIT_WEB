@@ -311,8 +311,7 @@
   <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a></li>
 </ul>
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!" data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a></li>
-        <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Servicios.php"><b>Logística
-              Global</b></a></li>
+        <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Servicios.php"><b>Servicios</b></a></li>
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
             href="Cumplimiento.php"><b>Cumplimiento </b></a></li>
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Contact.php"><b>Contacto
@@ -390,8 +389,7 @@
                   <td class="border-hidden"><a class="letranegro border--hidden" href="Mercados.php">Mercados</a></td>
                 </tr>
                 <tr>
-                  <td class="border-hidden"><a class="letranegro border-hidden" href="Servicios.php">Logística
-                      Global</a></td>
+                  <td class="border-hidden"><a class="letranegro border-hidden" href="Servicios.php">Servicios</a></td>
                 </tr>
                 <tr>
                   <td class="border--hidden"><a class="letranegro border--hidden"
@@ -544,80 +542,80 @@
   <div class="container">
     <div class="row">
       <div class="col s12 m12 l12 xl12">
-      <h5 class="Tipografia--general letranegro Titulos center-align" style="margin-top:20px;"><b>LogÍstica Global</b></h5>
-        <p class="Tipografia--general letranegro Titulos center-align" style="color:blue;">“La Logística es la disciplina que se ocupa de la gestión y coordinación eficiente de los recursos, procesos y actividades para controlar el flujo de bienes, desde el punto de origen hasta el punto de consumo final”.</p>
-        <p class="Tipografia--general letranegro Titulos" style="margin-top:50px;text-align:justify">Chemical Broker, nuestra misión es proporcionar un Servicio Integral de Logística Global que cumpla en tiempo y forma con las necesidades y expectativas de nuestros socios de negocios en la obtención de productos químicos. Con años de experiencia en la industria química y un equipo altamente capacitado, somos tu socio confiable para todas tus necesidades de logística de productos químicos.</p>
+      <h5 class="Tipografia--general letranegro Titulos center-align" style="margin-top:20px;"><b>Logística Global</b></h5>
+        <p class="Tipografia--general letranegro Titulos center-align" style="color:#4D79C7;"><b>“La Logística es la disciplina que se ocupa de la gestión y coordinación eficiente de los recursos, procesos y actividades para controlar el flujo de bienes, desde el punto de origen hasta el punto de consumo final”.</b></p>
+        <p class="Tipografia--general letranegro Titulos" style="margin-top:50px;text-align:justify"><b style="color:#000020">Chemical Broker</b>, nuestra misión es proporcionar un Servicio Integral de Logística Global que cumpla en tiempo y forma con las necesidades y expectativas de nuestros socios de negocios en la obtención de productos químicos. Con años de experiencia en la industria química y un equipo altamente capacitado, somos tu socio confiable para todas tus necesidades de logística de productos químicos.</p>
       </div>
       <div class="col s12 m12 l6 xl6" style="margin-top:50px;">
-      <img src="img/CB_NUESTRA_EXPERIENCIA_121023.jpg" alt="" style="width:100%;">
+      <img src="img/CB_NUESTRA_EXPERIENCIA_121023.jpg" alt="" style="width:100%;border-radius:10px">
       </div>
       <div class="col s12 m12 l6 xl6" style="margin-top:50px;">
       <h5 class="Tipografia--general letranegro Titulos center-align" style="margin-top:20px;"><b>Nuestra experiencia en la Industria Química</b></h5>
-      <p class="Tipografia--general letranegro Titulos" style="color:blue;text-align:justify">Entendemos la complejidad y la sensibilidad de la industria química. Nuestra experiencia en este campo nos permite navegar con éxito los desafíos logísticos únicos que enfrentan nuestros clientes. Trabajamos en estrecha colaboración con grandes socios de negocios, para brindar soluciones logísticas a medida.</p>
+      <p class="Tipografia--general letranegro Titulos" style="text-align:justify">Entendemos la complejidad y la sensibilidad de la industria química. Nuestra experiencia en este campo nos permite navegar con éxito los desafíos logísticos únicos que enfrentan nuestros clientes. Trabajamos en estrecha colaboración con grandes socios de negocios, para brindar soluciones logísticas a medida.</p>
     
       </div>
       <div class="col s12 m12 l12 xl12">
       <p class="Tipografia--general letranegro Titulos" style="text-align:justify;margin-top:50px;">Nuestro compromiso con la excelencia se refleja en los principios fundamentales que guían cada una de nuestras operaciones:</p>
       <table>
         <tr>
-          <td width="20%" class="center-align" style="font-size:60px;border:1px solid blue">1</td>
-          <td style="border:1px solid blue;padding:15px">
+          <td width="10%" class="center-align" style="font-size:60px;border:1px solid #00B0F0"><b style="color:#000020;">1</b></td>
+          <td style="border:1px solid #00B0F0;padding:15px">
           <h5 class="Tipografia--general letranegro Titulos center-align" style="margin-top:20px;"><b style="color:#000099;">Previsión & Planificación</b></h5>
-          <p class="Tipografia--general letranegro Titulos" style="text-align:justify;margin-top:50px;">A través de una correcta planificación previa a cada operación, logramos llevar ingredientes químicos a cualquier parte del mundo. Nuestro enfoque meticuloso garantiza que cada paso se realice con precisión y eficiencia.</p>
+          <p class="Tipografia--general letranegro Titulos" style="text-align:justify;margin-top:30px;">A través de una correcta planificación previa a cada operación, logramos llevar ingredientes químicos a cualquier parte del mundo. Nuestro enfoque meticuloso garantiza que cada paso se realice con precisión y eficiencia.</p>
           </td>
         </tr>
         <tr>
-          <td class="center-align" style="font-size:60px;border:1px solid blue">2</td>
-          <td style="border:1px solid blue;padding:15px">
+          <td class="center-align" style="font-size:60px;border:1px solid #00B0F0"><b style="color:#000020;">2</b></td>
+          <td style="border:1px solid #00B0F0;padding:15px;background-color:#f2f2f2;">
           <h5 class="Tipografia--general letranegro Titulos center-align" style="margin-top:20px;"><b style="color:#0000FE;">Suficiencia</b></h5>
-          <p class="Tipografia--general letranegro Titulos" style="text-align:justify;margin-top:50px;">Para satisfacer las necesidades de nuestros socios de negocios, nos aseguramos de contar con el suministro necesario para completar cada operación. No dejamos espacio para retrasos ni interrupciones.</p>
+          <p class="Tipografia--general letranegro Titulos" style="text-align:justify;margin-top:30px;">Para satisfacer las necesidades de nuestros socios de negocios, nos aseguramos de contar con el suministro necesario para completar cada operación. No dejamos espacio para retrasos ni interrupciones.</p>
           </td>
         </tr>
         <tr>
-          <td class="center-align" style="font-size:60px;border:1px solid blue">3</td>
-          <td style="border:1px solid blue;padding:15px">
+          <td class="center-align" style="font-size:60px;border:1px solid #00B0F0"><b style="color:#000020;">3</b></td>
+          <td style="border:1px solid #00B0F0;padding:15px">
           <h5 class="Tipografia--general letranegro Titulos center-align" style="margin-top:20px;"><b style="color:#5B5BFF;">Comunicación</b></h5>
-          <p class="Tipografia--general letranegro Titulos" style="text-align:justify;margin-top:50px;">La clave de nuestra excelencia es la comunicación.</p>
-          <p class="Tipografia--general letranegro Titulos" style="text-align:justify;margin-top:50px;">Mantenemos una estricta comunicación con nuestros socios de negocios en cada operación con el fin de brindarles un servicio inter-venta de la más alta calidad. La transparencia y la claridad son nuestro sello distintivo.</p>
+          <p class="Tipografia--general letranegro Titulos" style="text-align:justify;margin-top:30px;">La clave de nuestra excelencia es la comunicación.</p>
+          <p class="Tipografia--general letranegro Titulos" style="text-align:justify;margin-top:30px;">Mantenemos una estricta comunicación con nuestros socios de negocios en cada operación con el fin de brindarles un servicio inter-venta de la más alta calidad. La transparencia y la claridad son nuestro sello distintivo.</p>
           </td>
         </tr>
         <tr>
-          <td class="center-align" style="font-size:60px;border:1px solid blue">4</td>
-          <td style="border:1px solid blue;padding:15px">
+          <td class="center-align" style="font-size:60px;border:1px solid #00B0F0"><b style="color:#000020;">4</b></td>
+          <td style="border:1px solid #00B0F0;padding:15px;background-color:#f2f2f2;">
           <h5 class="Tipografia--general letranegro Titulos center-align" style="margin-top:20px;"><b style="color:#8585FF;">Flexibilidad</b></h5>
-          <p class="Tipografia--general letranegro Titulos" style="text-align:justify;margin-top:50px;">Contamos con la capacidad de adaptarnos a las necesidades de cada cliente y cada operación, fortaleciendo y mejorando cada uno de nuestros procedimientos. Su satisfacción es nuestra prioridad.</p>
+          <p class="Tipografia--general letranegro Titulos" style="text-align:justify;margin-top:30px;">Contamos con la capacidad de adaptarnos a las necesidades de cada cliente y cada operación, fortaleciendo y mejorando cada uno de nuestros procedimientos. Su satisfacción es nuestra prioridad.</p>
           </td>
         </tr>
       </table>
       </div>
       <div class="col s12 m12 l12 xl12">
       <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Nuestro Servicio Integral</b></h5>
-        <p class="Tipografia--general letranegro Titulos center-align" style="color:blue;">En el mundo empresarial actual, la eficiencia y la agilidad en la cadena de suministro son fundamentales para el éxito. En Chemical Broker, entendemos la importancia de una cadena de suministro global, por ello, tenemos un Servicio Integral diseñado para maximizar la eficiencia nuestras operaciones, abarcando los siguientes puntos:</p>
+        <p class="Tipografia--general letranegro Titulos" >En el mundo empresarial actual, la eficiencia y la agilidad en la cadena de suministro son fundamentales para el éxito. En <b style="color:#000020;">Chemical Broker</b>, entendemos la importancia de una cadena de suministro global, por ello, tenemos un Servicio Integral diseñado para maximizar la eficiencia nuestras operaciones, abarcando los siguientes puntos:</p>
       </div>
       <div class="col s12 m12 l6 xl6" style="margin-top:50px;">
-        <img src="img/IMAGEN1_LOG_191023.jpg" width="100%">
+        <img src="img/IMAGEN1_LOG_191023.jpg" width="100%" style="border-radius:10px;">
         <h5 class="Tipografia--general letranegro Titulos center-align"><b>Distribución Segura</b></h5>
-        <p class="Tipografia--general letranegro Titulos center-align">Contamos con alianzas estratégicas con proveedores logisticos y de transporte para brindar soluciones de distribución que garantizan la integridad de tus productos en cada paso del proceso.</p>
+        <p class="Tipografia--general letranegro Titulos">Contamos con alianzas estratégicas con proveedores logisticos y de transporte para brindar soluciones de distribución que garantizan la integridad de tus productos en cada paso del proceso.</p>
       </div>
       <div class="col s12 m12 l6 xl6" style="margin-top:50px;">
-      <img src="img/IMAGEN2_LOG_11.png" width="100%">
+      <img src="img/IMAGEN2_LOG_11.png" width="100%" style="border-radius:10px;">
         <h5 class="Tipografia--general letranegro Titulos center-align"><b>Gestion de Riesgos y Cumplimiento Normativo</b></h5>
-        <p class="Tipografia--general letranegro Titulos center-align">Verificamos en cada operación el cumplimiento a regulaciones y normativas especificas de la industria quimica y logistica, asegurando que nuestras operaciones cumplan con los requisitos legales y de seguridad.</p>
+        <p class="Tipografia--general letranegro Titulos">Verificamos en cada operación el cumplimiento a regulaciones y normativas especificas de la industria quimica y logistica, asegurando que nuestras operaciones cumplan con los requisitos legales y de seguridad.</p>
 
       </div>  
       <div class="col s12 m12 l6 xl6" style="margin-top:50px;">
-      <img src="img/IMAGEN3_LOG_191023.jpg" width="100%">
+      <img src="img/IMAGEN3_LOG_191023.jpg" width="100%" style="border-radius:10px;">
         <h5 class="Tipografia--general letranegro center-align"><b>Comercio Internacional</b></h5>
-        <p class="Tipografia--general letranegro Titulos center-align">Trabajamos con operaciones de comercio internacional de productos químicos con proveedores AAA alrededor del mundo, para ofrecer a nuestros clientes productos de la más alta calidad.</p>
+        <p class="Tipografia--general letranegro Titulos">Trabajamos con operaciones de comercio internacional de productos químicos con proveedores AAA alrededor del mundo, para ofrecer a nuestros clientes productos de la más alta calidad.</p>
 
       </div>  
       <div class="col s12 m12 l6 xl6" style="margin-top:50px;">
-      <img src="img/IMAGEN4_LOG_191023.jpg" width="100%">
+      <img src="img/IMAGEN4_LOG_191023.jpg" width="100%" style="border-radius:10px;">
         <h5 class="Tipografia--general letranegro center-align"><b>Compromiso con la Excelencia y la Sostenibilidad</b></h5>
-        <p class="Tipografia--general letranegro Titulos center-align">En Chemical Broker, creemos en la excelencia en cada aspecto de nuestros servicios. Nos esforzamos por superar tus expectativas en términos de calidad, confiabilidad y eficiencia. Además, estamos comprometidos con la sostenibilidad y trabajamos continuamente para minimizar nuestro impacto ambiental a través de prácticas logísticas responsables.</p>
+        <p class="Tipografia--general letranegro Titulos">En <b style="color:#000020;">Chemical Broker</b>, creemos en la excelencia en cada aspecto de nuestros servicios. Nos esforzamos por superar tus expectativas en términos de calidad, confiabilidad y eficiencia. Además, estamos comprometidos con la sostenibilidad y trabajamos continuamente para minimizar nuestro impacto ambiental a través de prácticas logísticas responsables.</p>
       </div>  
       <div class="col s12 m12 l12 xl12" style="margin-top:50px;">
-        <p class="Tipografia--general letranegro Titulos center-align">Nuestra pasión por la excelencia en la logística de productos químicos impulsa nuestra misión de proporcionar un Servicio Integral de Logística Global para cumplir con las expectativas de nuestros valiosos socios de negocios. Nos enorgullece ser el socio confiable nuestros clientes y proveedores.</p>
+        <p class="Tipografia--general letranegro Titulos ">Nuestra pasión por la excelencia en la logística de productos químicos impulsa nuestra misión de proporcionar un Servicio Integral de Logística Global para cumplir con las expectativas de nuestros valiosos socios de negocios. Nos enorgullece ser el socio confiable nuestros clientes y proveedores.</p>
       </div>
     
   </div>

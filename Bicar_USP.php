@@ -676,22 +676,22 @@
                 <table style="margin-top:50px">
                     <thead>
                         <tr>
-                            <td style="background-color:#000020;border:1px solid #f2f2f2;color:white;padding:5px;text-align:center;"
+                            <td style="background-color:#000020;border:1px solid #f2f2f2;color:white;padding:5px;text-align:center;font-size:18px"
                                 colspan="4"><b>Especificaciones</b></td>
                         </tr>
                         </thead>
                         <tr>
-                            <td style="text-align:center;border:1px solid #f2f2f2;background-color:#d9d9d9" colspan="2">
+                            <td style="text-align:center;border:1px solid #f2f2f2;background-color:#d9d9d9;font-size:18px" colspan="2">
                                 <b>FCC</b></td>
-                            <td style="text-align:center;border:1px solid #f2f2f2;background-color:#d9d9d9" colspan="2">
+                            <td style="text-align:center;border:1px solid #f2f2f2;background-color:#d9d9d9;font-size:18px" colspan="2">
                                 <b>USP</b></td>
                         </tr>
 
                         <tr>
-                            <td style="border:1px solid #f2f2f2">Ensayo:</td>
-                            <td style="border:1px solid #f2f2f2;text-align:center;">99.0% - 100.5%</td>
-                            <td style="border:1px solid #f2f2f2">Cloruro:</td>
-                            <td style="border:1px solid #f2f2f2;text-align:center;">150 ppm Maximo</td>
+                            <td style="border:1px solid #f2f2f2;font-size:18px">Ensayo:</td>
+                            <td style="border:1px solid #f2f2f2;text-align:center;font-size:18px">99.0% - 100.5%</td>
+                            <td style="border:1px solid #f2f2f2;font-size:18px">Cloruro:</td>
+                            <td style="border:1px solid #f2f2f2;text-align:center;font-size:18px">150 ppm Maximo</td>
                         </tr>
                         <tr>
                             <td style="border:1px solid #f2f2f2;background-color:#d9d9d9"></td>
@@ -700,10 +700,10 @@
                             <td style="border:1px solid #f2f2f2;background-color:#d9d9d9"></td>
                         </tr>
                         <tr>
-                            <td style="border:1px solid #f2f2f2">Pérdida por secado:</td>
-                            <td style="border:1px solid #f2f2f2;text-align: center;">0.25% Máximo</td>
-                            <td style="border:1px solid #f2f2f2">Compuestos de azufre:</td>
-                            <td style="border:1px solid #f2f2f2;text-align: center;">150 ppm Máximo</td>
+                            <td style="border:1px solid #f2f2f2;font-size:18px">Pérdida por secado:</td>
+                            <td style="border:1px solid #f2f2f2;text-align: center;font-size:18px">0.25% Máximo</td>
+                            <td style="border:1px solid #f2f2f2;font-size:18px">Compuestos de azufre:</td>
+                            <td style="border:1px solid #f2f2f2;text-align: center;font-size:18px">150 ppm Máximo</td>
                         </tr>
                         <tr>
                             <td style="border:1px solid #f2f2f2;background-color:#d9d9d9"></td>
@@ -712,34 +712,34 @@
                             <td style="border:1px solid #f2f2f2;background-color:#d9d9d9"></td>
                         </tr>
                         <tr>
-                            <td style="border:1px solid #f2f2f2">Sustancias insolubles:</td>
-                            <td style="border:1px solid #f2f2f2;text-align: center;">Conforme</td>
-                            <td style="border:1px solid #f2f2f2">Metales pesados:</td>
-                            <td style="border:1px solid #f2f2f2;text-align: center;">5 ppm Máximo</td>
-                        </tr>
-                        <tr>
-                            <td style="border:1px solid #f2f2f2;background-color:#d9d9d9;"></td>
-                            <td style="border:1px solid #f2f2f2;background-color:#d9d9d9;"></td>
-                            <td style="border:1px solid #f2f2f2;background-color:#d9d9d9;"></td>
-                            <td style="border:1px solid #f2f2f2;background-color:#d9d9d9;"></td>
-                        </tr>
-                        <tr>
-                            <td style="border:1px solid #f2f2f2">Plomo (Pb):</td>
-                            <td style="border:1px solid #f2f2f2;text-align: center;">2 ppm máximo</td>
-                            <td style="border:1px solid #f2f2f2">Arsénico:</td>
-                            <td style="border:1px solid #f2f2f2;text-align: center;">2 ppm Máximo</td>
+                            <td style="border:1px solid #f2f2f2;font-size:18px">Sustancias insolubles:</td>
+                            <td style="border:1px solid #f2f2f2;text-align: center;font-size:18px">Conforme</td>
+                            <td style="border:1px solid #f2f2f2;font-size:18px">Metales pesados:</td>
+                            <td style="border:1px solid #f2f2f2;text-align: center;font-size:18px">5 ppm Máximo</td>
                         </tr>
                         <tr>
                             <td style="border:1px solid #f2f2f2;background-color:#d9d9d9;"></td>
                             <td style="border:1px solid #f2f2f2;background-color:#d9d9d9;"></td>
                             <td style="border:1px solid #f2f2f2;background-color:#d9d9d9;"></td>
+                            <td style="border:1px solid #f2f2f2;background-color:#d9d9d9;"></td>
+                        </tr>
+                        <tr>
+                            <td style="border:1px solid #f2f2f2;font-size:18px">Plomo (Pb):</td>
+                            <td style="border:1px solid #f2f2f2;text-align: center;font-size:18px">2 ppm máximo</td>
+                            <td style="border:1px solid #f2f2f2;font-size:18px">Arsénico:</td>
+                            <td style="border:1px solid #f2f2f2;text-align: center;font-size:18px">2 ppm Máximo</td>
+                        </tr>
+                        <tr>
+                            <td style="border:1px solid #f2f2f2;background-color:#d9d9d9;"></td>
+                            <td style="border:1px solid #f2f2f2;background-color:#d9d9d9;"></td>
+                            <td style="border:1px solid #f2f2f2;background-color:#d9d9d9;"></td>
                             <td style="border:1px solid #f2f2f2;background-color:#d9d9d9"></td>
                         </tr>
                         <tr>
-                            <td style="border:1px solid #f2f2f2">Amoníaco:</td>
-                            <td style="border:1px solid #f2f2f2;text-align: center;">Conforme</td>
-                            <td style="border:1px solid #f2f2f2">Límite de Amoníaco:</td>
-                            <td style="border:1px solid #f2f2f2;text-align: center;">Conforme</td>
+                            <td style="border:1px solid #f2f2f2;font-size:18px">Amoníaco:</td>
+                            <td style="border:1px solid #f2f2f2;text-align: center;font-size:18px">Conforme</td>
+                            <td style="border:1px solid #f2f2f2;font-size:18px">Límite de Amoníaco:</td>
+                            <td style="border:1px solid #f2f2f2;text-align: center;font-size:18px">Conforme</td>
                         </tr>
                         <tr>
                             <td style="border:1px solid #f2f2f2;background-color:#d9d9d9"></td>
@@ -748,10 +748,10 @@
                             <td style="border:1px solid #f2f2f2;background-color:#d9d9d9"></td>
                         </tr>
                         <tr>
-                            <td style="border:1px solid #f2f2f2">Identidad:</td>
-                            <td style="border:1px solid #f2f2f2;text-align: center;">Conforme</td>
-                            <td style="border:1px solid #f2f2f2">Carbonato normal:</td>
-                            <td style="border:1px solid #f2f2f2;text-align: center;">Conforme</td>
+                            <td style="border:1px solid #f2f2f2;font-size:18px">Identidad:</td>
+                            <td style="border:1px solid #f2f2f2;text-align: center;font-size:18px">Conforme</td>
+                            <td style="border:1px solid #f2f2f2;font-size:18px">Carbonato normal:</td>
+                            <td style="border:1px solid #f2f2f2;text-align: center;font-size:18px">Conforme</td>
                         </tr>
                         <tr>
                             <td style="border:1px solid #f2f2f2;background-color:#d9d9d9"></td>
@@ -765,32 +765,32 @@
                     <thead>
                         <tr>
                             <td colspan="2"
-                                style="text-align:center;background-color:#000020;color:white;padding:5px;border:1px solid #d9d9d9;">
+                                style="text-align:center;background-color:#000020;color:white;padding:5px;border:1px solid #d9d9d9;font-size:18px">
                                 <b>Distribucion de Tamaño de Particula</b></td>
                             <td colspan="2"
-                                style="text-align:center;background-color:#000020;color:white;padding:5px;border:1px solid #d9d9d9;">
+                                style="text-align:center;background-color:#000020;color:white;padding:5px;border:1px solid #d9d9d9;font-size:18px">
                                 <b>% Acumulativo retenido</b></td>
                         </tr>
                     </thead>
                     <tr>
                         <td
-                            style="text-align:center;background-color:#d9d9d9;border:1px solid #d9d9d9;text-align:center;border:1px solid #d9d9d9;border:1px solid white">
+                            style="text-align:center;background-color:#d9d9d9;border:1px solid #d9d9d9;text-align:center;border:1px solid #d9d9d9;border:1px solid white;font-size:18px">
                             <b>Tamiz estandar de EE.UU.</b></td>
                         <td
-                            style="text-align:center;background-color:#d9d9d9;border:1px solid #d9d9d9;text-align:center;border:1px solid #d9d9d9;border:1px solid white">
+                            style="text-align:center;background-color:#d9d9d9;border:1px solid #d9d9d9;text-align:center;border:1px solid #d9d9d9;border:1px solid white;font-size:18px">
                             <b>Micron</b></td>
                         <td
-                            style="text-align:center;background-color:#d9d9d9;border:1px solid #d9d9d9;text-align:center;border:1px solid #d9d9d9;border:1px solid white">
+                            style="text-align:center;background-color:#d9d9d9;border:1px solid #d9d9d9;text-align:center;border:1px solid #d9d9d9;border:1px solid white;font-size:18px">
                             <b>Minimo</b></td>
                         <td
-                            style="text-align:center;background-color:#d9d9d9;border:1px solid #d9d9d9;text-align:center;border:1px solid #d9d9d9;border:1px solid white">
+                            style="text-align:center;background-color:#d9d9d9;border:1px solid #d9d9d9;text-align:center;border:1px solid #d9d9d9;border:1px solid white;font-size:18px">
                             <b>Maximo</b></td>
                     </tr>
                     <tr>
-                        <td style="border:1px solid #d9d9d9;">Malla +100</td>
-                        <td style="text-align:center;border:1px solid;border:1px solid #d9d9d9">150</td>
-                        <td style="text-align:center;border:1px solid;border:1px solid #d9d9d9">0</td>
-                        <td style="text-align:center;border:1px solid;border:1px solid #d9d9d9">2</td>
+                        <td style="border:1px solid #d9d9d9;font-size:18px">Malla +100</td>
+                        <td style="text-align:center;border:1px solid;border:1px solid #d9d9d9;font-size:18px">150</td>
+                        <td style="text-align:center;border:1px solid;border:1px solid #d9d9d9;font-size:18px">0</td>
+                        <td style="text-align:center;border:1px solid;border:1px solid #d9d9d9;font-size:18px">2</td>
                     </tr>
                     <tr>
                         <td style="background-color:#d9d9d9;border:1px solid #d9d9d9" class="ocultar_mobile"></td>
@@ -799,10 +799,10 @@
                         <td style="background-color:#d9d9d9;border:1px solid #d9d9d9" class="ocultar_mobile"></td>
                     </tr>
                     <tr>
-                        <td style="border:1px solid #d9d9d9">Malla +200</td>
-                        <td style="text-align:center;border:1px solid #d9d9d9">75</td>
-                        <td style="text-align:center;border:1px solid #d9d9d9">20</td>
-                        <td style="text-align:center;border:1px solid #d9d9d9">45</td>
+                        <td style="border:1px solid #d9d9d9;font-size:18px">Malla +200</td>
+                        <td style="text-align:center;border:1px solid #d9d9d9;font-size:18px">75</td>
+                        <td style="text-align:center;border:1px solid #d9d9d9;font-size:18px">20</td>
+                        <td style="text-align:center;border:1px solid #d9d9d9;font-size:18px">45</td>
                     </tr>
                     <tr>
                         <td style="background-color:#d9d9d9;border:1px solid #d9d9d9" class="ocultar_mobile"></td>
@@ -811,10 +811,10 @@
                         <td style="background-color:#d9d9d9;border:1px solid #d9d9d9" class="ocultar_mobile"></td>
                     </tr>
                     <tr>
-                        <td style="border:1px solid #d9d9d9">Malla +325</td>
-                        <td style="text-align:center;border:1px solid #d9d9d9">45</td>
-                        <td style="text-align:center;border:1px solid #d9d9d9">60</td>
-                        <td style="text-align:center;border:1px solid #d9d9d9">100</td>
+                        <td style="border:1px solid #d9d9d9;font-size:18px">Malla +325</td>
+                        <td style="text-align:center;border:1px solid #d9d9d9;font-size:18px">45</td>
+                        <td style="text-align:center;border:1px solid #d9d9d9;font-size:18px">60</td>
+                        <td style="text-align:center;border:1px solid #d9d9d9;font-size:18px">100</td>
                     </tr>
                     <tr>
                         <td style="background-color:#d9d9d9;border:1px solid #d9d9d9" class="ocultar_mobile"></td>
@@ -827,29 +827,29 @@
                 <table style="margin-top:50px">
                     <thead>
                         <tr>
-                            <td style="background-color:#000020;border:1px solid #d9d9d9;color:white;padding:5px;text-align:center"
+                            <td style="background-color:#000020;border:1px solid #d9d9d9;color:white;padding:5px;text-align:center;font-size:18px"
                                 colspan="4"><b>Propiedades Tipicas y Caracteristicas Fisicas</b></td>
                         </tr>
                     </thead>
                     <tr>
-                        <td style="border:1px solid #d9d9d9">Apariencia:</td>
-                        <td style="border:1px solid #d9d9d9;text-align:center">Polvo cristalino blanco</td>
+                        <td style="border:1px solid #d9d9d9;font-size:18px">Apariencia:</td>
+                        <td style="border:1px solid #d9d9d9;text-align:center;font-size:18px">Polvo cristalino blanco</td>
                     </tr>
                     <tr>
                         <td style="background-color:#d9d9d9;border: 1px solid #f2f2f2" class="ocultar_mobile"></td>
                         <td style="background-color:#d9d9d9;border: 1px solid #f2f2f2" class="ocultar_mobile"></td>
                     </tr>
                     <tr>
-                        <td style="border:1px solid #d9d9d9">Densidad aparente lb/ft3:</td>
-                        <td style="border:1px solid #d9d9d9;text-align:center">68 – 82</td>
+                        <td style="border:1px solid #d9d9d9;font-size:18px">Densidad aparente lb/ft3:</td>
+                        <td style="border:1px solid #d9d9d9;text-align:center;font-size:18px">68 – 82</td>
                     </tr>
                     <tr>
                         <td style="background-color:#d9d9d9;border:1px solid #f2f2f2" class="ocultar_mobile"></td>
                         <td style="background-color:#d9d9d9;border:1px solid #f2f2f2" class="ocultar_mobile"></td>
                     </tr>
                     <tr>
-                        <td style="border:1px solid #d9d9d9">pH (Solucion al 1%):</td>
-                        <td style="border:1px solid #d9d9d9;text-align:center">0</td>
+                        <td style="border:1px solid #d9d9d9;font-size:18px">pH (Solucion al 1%):</td>
+                        <td style="border:1px solid #d9d9d9;text-align:center;font-size:18px">0</td>
                     </tr>
                     <tr>
                         <td style="background-color:#d9d9d9;border:1px solid #f2f2f2" class="ocultar_mobile"></td>
