@@ -270,7 +270,8 @@
                             class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                             <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
-                                                      <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                     </p>
                   </ul>
                 </section>
@@ -587,56 +588,56 @@
 
 <table class="display" id="table2" name="table2" style="width:100%;border-spacing:2px 5px;border:none;float:left;margin-top:30px;">
 <tr class="Tipografia--general General--Cuerpo">
-<td style="text-align:center;font-size:15px !important;border:1px solid #C0C0C0;background-color:#00e7f9;color:white;">
+<td style="text-align:center;font-size:18px !important;border:1px solid #C0C0C0;background-color:#00e7f9;color:white;">
 Formula Estructural:
 </td>
-<td style="text-align: center;font-size:15px !important;border:1px solid #C0C0C0"><img src="./img/ESTRUCTURA_SORBITOL_300822.png" alt="" class="Estructural_Sorbitol"></td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0"><img src="./img/ESTRUCTURA_SORBITOL_300822.png" alt="" class="Estructural_Sorbitol"></td>
 </tr>
 
 
 
-<tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="text-align:center;font-size:15px !important;border:1px solid #C0C0C0;background-color:#00e7f9;color:white;">
+<tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:18px !important;width:150px;">
+<td style="text-align:center;font-size:18px !important;border:1px solid #C0C0C0;background-color:#00e7f9;color:white;">
 Nombre IUPAC:
 </td>
-<td style="text-align: center;font-size:15px !important;border:1px solid #C0C0C0">(2S,3R,4R,5R)-Hexano-1,2,3,4,5,6-hexol</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0">(2S,3R,4R,5R)-Hexano-1,2,3,4,5,6-hexol</td>
 </tr>
 
 
 
-<tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="text-align:center;font-size:15px !important;border:1px solid #C0C0C0;background-color:#00e7f9;color:white;">
+<tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:18px !important;width:150px;">
+<td style="text-align:center;font-size:18px !important;border:1px solid #C0C0C0;background-color:#00e7f9;color:white;">
 Formula: 
 </td>
-<td style="text-align: center;font-size:15px !important;border:1px solid #C0C0C0">C<sub>6</sub>H<sub>1</sub><sub>4</sub>O<sub>6</sub></td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0">C<sub>6</sub>H<sub>1</sub><sub>4</sub>O<sub>6</sub></td>
 </tr>
 
 
 
 
-<tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="text-align:center;font-size:15px !important;border:1px solid #C0C0C0;background-color:#00e7f9;color:white;">
+<tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:18px !important;width:150px;">
+<td style="text-align:center;font-size:18px !important;border:1px solid #C0C0C0;background-color:#00e7f9;color:white;">
 CAS #: 
 </td>
-<td style="text-align: center;font-size:15px !important;border:1px solid #C0C0C0">50-70-4</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0">50-70-4</td>
 </tr>
 
 
 
-<tr class="Tipografia--general General--Cuerpo" style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="text-align:center;font-size:15px !important;border:1px solid #C0C0C0;background-color:#00e7f9;color:white;">
+<tr class="Tipografia--general General--Cuerpo" style="text-align:center;padding:10px;font-size:18px !important;width:150px;">
+<td style="text-align:center;font-size:18px !important;border:1px solid #C0C0C0;background-color:#00e7f9;color:white;">
 EINECS #:
 </td>
-<td style="text-align: center;font-size:15px !important;border:1px solid #C0C0C0">200-061-5</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0">200-061-5</td>
 </tr>
 
 
 
-<tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="text-align:center;font-size:15px !important;border:1px solid #C0C0C0;background-color:#00e7f9;color:white">
+<tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:18px !important;width:150px;">
+<td style="text-align:center;font-size:18px !important;border:1px solid #C0C0C0;background-color:#00e7f9;color:white">
 Pub Chem:
 </td>
-<td style="text-align:center;font-size:15px !important;border:1px solid #C0C0C0"><ol class="center-align">
+<td style="text-align:center;font-size:18px !important;border:1px solid #C0C0C0"><ol class="center-align">
 5780
 </td>
 </tr>

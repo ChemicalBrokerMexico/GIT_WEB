@@ -167,7 +167,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <ul> 
 <p class="color--blanco"><b class="Tipografia--general Titulos">Politicas </b>
 <hr class="hr">
-<li> <a class="arrowblue Tipografia--general Subtitulos" href="Code_of_Conduct.php">Codigo de conducta  <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<li> <a class="arrowblue Tipografia--general Subtitulos" href="Code_of_Conduct.php">Codigo de Conducta Interno<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download>Politica de Privacidad <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 </p>   <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>

@@ -273,7 +273,8 @@
                             class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                             <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
-                                                      <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                     </p>
                   </ul>
                 </section>
@@ -613,71 +614,71 @@
 
 <table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 5px;border:none;float:left;margin-top:20px;">
 <tr class="Tipografia--general General--Cuerpo" style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="text-align:center;font-size:15px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white;">
+<td style="text-align:center;font-size:18px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white;">
 Formula Estructural:
 </td>
-<td style="text-align: center;font-size:15px !important;border:1px solid #C0C0C0"><img src="./img/Boron-nitride-(hexagonal)-top-3D-balls.png" alt="" class="Estructural_Nitruro"></td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0"><img src="./img/Boron-nitride-(hexagonal)-top-3D-balls.png" alt="" class="Estructural_Nitruro"></td>
 </tr>
 
 
 
 <tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="text-align:center;font-size:15px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white;">
+<td style="text-align:center;font-size:18px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white;">
 Formula Molecular:
 </td>
-<td style="text-align: center;font-size:15px !important;border:1px solid #C0C0C0">BN</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0">BN</td>
 </tr>
 
 
 
 <tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="text-align:center;font-size:15px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white;">
+<td style="text-align:center;font-size:18px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white;">
 Nombre IUPAC:
 </td>
-<td style="text-align: center;font-size:15px !important;border:1px solid #C0C0C0">Nitruro de boro</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0">Nitruro de boro</td>
 </tr>
 
 
 
 
 <tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="text-align:center;font-size:15px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white;">
+<td style="text-align:center;font-size:18px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white;">
 CAS#:
 </td>
-<td style="text-align: center;font-size:15px !important;border:1px solid #C0C0C0">10043-11-5</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0">10043-11-5</td>
 </tr>
 
 
 
 <tr class="Tipografia--general General--Cuerpo" style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="text-align:center;font-size:15px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white;">
+<td style="text-align:center;font-size:18px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white;">
 EINECS #:
 </td>
-<td style="text-align: center;font-size:15px !important;border:1px solid #C0C0C0">233-136-6</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0">233-136-6</td>
 </tr>
 
 
 
 <tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="text-align:center;font-size:15px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white;">
+<td style="text-align:center;font-size:18px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white;">
 ChEBI:
 </td>
-<td style="text-align: center;font-size:15px !important;border:1px solid #C0C0C0">50883</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0">50883</td>
 </tr>
 
 
 <tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="text-align:center;font-size:15px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white;">
+<td style="text-align:center;font-size:18px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white;">
 ChemSpider:
 </td>
-<td style="text-align: center;font-size:15px !important;border:1px solid #C0C0C0">59612</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0">59612</td>
 </tr>
 
 <tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="text-align:center;font-size:15px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white;">
+<td style="text-align:center;font-size:18px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white;">
 Pub Chem:
 </td>
-<td style="text-align: center;font-size:15px !important;border:1px solid #C0C0C0">66227</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0">66227</td>
 </tr>
 
 </table> 
@@ -699,98 +700,98 @@ Pub Chem:
 
 <div class="container">
 <h5 class="Tipografia--general letranegro General--Cuerpo Titulos"><b>Propiedades Físicas Típicas</b></h5>
-<table class="display" id="table_id4" name="table_id4" style="width:50%;border-spacing:2px 5px;border:none;float:left;margin-top:20px;">
+<table class="display" id="table_id4" name="table_id4" style="width:100%;border-spacing:2px 5px;border:none;float:left;margin-top:20px;">
 <tr class="Tipografia--general General--Cuerpo" style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="font-size:15px !important;border:1px solid #C0C0C0;background-color: #a7a7a7;color:white;">
+<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color: #a7a7a7;color:white;">
 Cristal:
 </td>
-<td style="font-size:15px !important;border:1px solid #a7a7a7;">Hexagonal</td>
+<td style="font-size:18px !important;border:1px solid #a7a7a7;">Hexagonal</td>
 </tr>
 
 
 
 <tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white;">
+<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white;">
 Color:
 </td>
-<td style="font-size:15px !important;border:1px solid #C0C0C0;;">Blanco</td>
+<td style="font-size:18px !important;border:1px solid #C0C0C0;;">Blanco</td>
 </tr>
 
 
 
 <tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white;">
+<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white;">
 Olor:
 </td>
-<td style="font-size:15px !important;border:1px solid #C0C0C0;">Ninguno</td>
+<td style="font-size:18px !important;border:1px solid #C0C0C0;">Ninguno</td>
 </tr>
 
 
 
 
 <tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white">
+<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white">
 Tamaño medio de partícula (micras):
 </td>
-<td style="font-size:15px !important;border:1px solid #C0C0C0">6</td>
+<td style="font-size:18px !important;border:1px solid #C0C0C0">6</td>
 </tr>
 
 
 
 <tr class="Tipografia--general General--Cuerpo" style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#C0C0C0;background-color:#a7a7a7;color:white;">
+<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#C0C0C0;background-color:#a7a7a7;color:white;">
 B+N (%):
 </td>
-<td style="font-size:15px !important;border:1px solid #C0C0C0">>99</td>
+<td style="font-size:18px !important;border:1px solid #C0C0C0">>99</td>
 </tr>
 
 
 
 <tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="font-size:15px !important;border:1px solid #C0C0C0;background-color: #a7a7a7;color:white">
+<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color: #a7a7a7;color:white">
 O2 (%)
 </td>
-<td style="font-size:15px !important;border:1px solid #C0C0C0"><1</td>
+<td style="font-size:18px !important;border:1px solid #C0C0C0"><1</td>
 </tr>
 
 
 <tr class="Tipografia--general General--Cuerpo"  style="padding:10px;font-size:15px !important;width:150px;">
-<td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white">
+<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white">
 As (ppm)
 </td>
-<td style="font-size:15px !important;border:1px solid #C0C0C0"><1</td>
+<td style="font-size:18px !important;border:1px solid #C0C0C0"><1</td>
 </tr>
 
 <tr class="Tipografia--general General--Cuerpo"  style="padding:10px;font-size:15px !important;width:150px;">
-<td style="font-size:15px !important;border:1px;background-color:#a7a7a7;color:white">
+<td style="font-size:18px !important;border:1px;background-color:#a7a7a7;color:white">
 Pb (ppm)
 </td>
-<td style="font-size:15px !important;border:1px solid #C0C0C0"><1</td>
+<td style="font-size:18px !important;border:1px solid #C0C0C0"><1</td>
 </tr>
 
 <tr class="Tipografia--general General--Cuerpo"  style="padding:10px;font-size:15px !important;width:150px;">
-<td style="font-size:15px !important;border:1px solid #C0C0C0;background-color: #a7a7a7;color:white;">
+<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color: #a7a7a7;color:white;">
 Hg (ppm)
 </td>
-<td style="font-size:15px !important;border:1px solid #C0C0C0">0.03</td>
+<td style="font-size:18px !important;border:1px solid #C0C0C0">0.03</td>
 </tr>
 
 <tr class="Tipografia--general General--Cuerpo"  style="padding:10px;font-size:15px !important;width:150px;">
-<td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white">
+<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white">
 Superficie (m2/g)
 </td>
-<td style="font-size:15px !important;border:1px solid #C0C0C0">8.5</td>
+<td style="font-size:18px !important;border:1px solid #C0C0C0">8.5</td>
 </tr>
 
 <tr class="Tipografia--general General--Cuerpo"  style="padding:10px;font-size:15px !important;width:150px;">
-<td style="font-size:15px !important;border:1px solid #C0C0C0;background-color: #a7a7a7;color:white;">
+<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color: #a7a7a7;color:white;">
 Densidad del grifo (g/m3)
 </td>
-<td style="font-size:15px !important;border:1px solid #C0C0C0">0.8 (31.2 lb/ft3)</td>
+<td style="font-size:18px !important;border:1px solid #C0C0C0">0.8 (31.2 lb/ft3)</td>
 </tr>
 
 <tr class="Tipografia--general General--Cuerpo"  style="padding:10px;font-size:15px !important;width:150px;">
-<td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white;">
+<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white;">
 Oil Absorption
 (ASTM D-1483-95)
 </td>
@@ -798,7 +799,7 @@ Oil Absorption
 
 
 
-font-size:15px !important;border:1px solid #C0C0C0">140</td>
+font-size:18px !important;border:1px solid #C0C0C0">140</td>
 </tr>
 
 

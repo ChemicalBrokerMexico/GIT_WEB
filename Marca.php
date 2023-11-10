@@ -168,11 +168,12 @@
                     <ul> 
                       <p class="color--blanco"><b class="Tipografia--general Titulos">Politicas </b>
                         <hr class="hr"/>
-                        <li> <a class="arrowblue Tipografia--general Subtitulos" href="Code_of_Conduct.php">Codigo de conducta  <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                        <li> <a class="arrowblue Tipografia--general Subtitulos" href="Code_of_Conduct.php">Codigo de Conducta Interno<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                         <li> <a class="arrowblue Tipografia--general Subtitulos" href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download="download">Politica de Privacidad <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                         <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
-                                                      <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                       </p>
                     </ul>
                   </section>
@@ -401,36 +402,36 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-          <h6 class="center-align Tipografia--general" style="color: #262137;"><b style="color:#262137;border-bottom: 1.5px solid #b12729;font-size:16px">"Una Marca, Una Identidad"</b><br/></h6>
-          <p class="center-align in-view wow animate_animated animate_bounceInDown letranegro Tipografia--general" style="font-size:16px">Todas las organizaciones tienen una identificación comercial; una<b class="Tipografia--general" style="color:#262137"> marca</b>, que las relaciona con las personas por los productos o servicios que ofrecen en el mercado.
+          <h6 class="center-align Tipografia--general" style="color: #262137;"><b style="color:#262137;border-bottom: 1.5px solid #b12729;font-size:18px">"Una Marca, Una Identidad"</b><br/></h6>
+          <p class="center-align in-view wow animate_animated animate_bounceInDown letranegro Tipografia--general" style="font-size:18px">Todas las organizaciones tienen una identificación comercial; una<b class="Tipografia--general" style="color:#262137"> marca</b>, que las relaciona con las personas por los productos o servicios que ofrecen en el mercado.
           </p>
-          <p class="center-align in-view animate__animated animate_bounceInDown Tipografia--general" style="margin-top:50px;font-size:16px">Algunas organizaciones buscan vender más, nosotros buscamos crecer con nuestros socios de negocios.</p>
-          <p class="center-align in-view wow animate__animated animate_bounceInDown Tipografia--general" style="margin-top:50px"><b class="Tipografia--general" style="color:#262137;font-size:16px">Chemical Broker es una marca global construida a partir de los siguientes elementos:</b></p>
+          <p class="center-align in-view animate__animated animate_bounceInDown Tipografia--general" style="margin-top:50px;font-size:18px">Algunas organizaciones buscan vender más, nosotros buscamos crecer con nuestros socios de negocios.</p>
+          <p class="center-align in-view wow animate__animated animate_bounceInDown Tipografia--general" style="margin-top:50px"><b class="Tipografia--general" style="color:#262137;font-size:18px">Chemical Broker es una marca global construida a partir de los siguientes elementos:</b></p>
         </div>
         <div class="col s12 m12 l6 xl6 center-align" style="margin-top:50px">
           <div class="col s12 m12 l12 xl12">
-            <h6 class="in-view wow animate__animated animate_bounceInDown Tipografia--general"><b style="color:#262137;border-bottom:1.5px solid #b12729;font-size:16px">Logotipo </b></h6>
+            <h6 class="in-view wow animate__animated animate_bounceInDown Tipografia--general"><b style="color:#262137;border-bottom:1.5px solid #b12729;font-size:18px">Logotipo </b></h6>
           </div>
           <div class="col s12 m12 l12 xl12">
-            <p class="Tipografia--general" style="font-size:16px">Es la palabra que más usamos para definir la representación gráfica de una marca</p><img src="img/CB_LOGOTIPO_FONDO-BLANCO_V0.jpg" style="max-width:250px" alt=""/>
+            <p class="Tipografia--general" style="font-size:18px">Es la palabra que más usamos para definir la representación gráfica de una marca</p><img src="img/CB_LOGOTIPO_FONDO-BLANCO_V0.jpg" style="max-width:250px" alt=""/>
           </div>
         </div>
         <div class="col s12 m12 l6 xl6 center-align" style="margin-top:50px">
           <div class="s12 m12 l12 xl12">
-            <h6 class="Tipografia--general"><b style="color:#262137;border-bottom:1.5px solid #b12729;font-size:16px">Isotipo</b></h6>
+            <h6 class="Tipografia--general"><b style="color:#262137;border-bottom:1.5px solid #b12729;font-size:18px">Isotipo</b></h6>
           </div>
           <div class="col s12 m12 l12 xl12"> 
-            <p style="font-size:16px">Es la parte simbólico o icónico de la representación gráfica de una marca, es decir el dibujo</p><img src="img/ISOTIPO.jpg" alt="" style="max-width:90px"/>
+            <p style="font-size:18px">Es la parte simbólico o icónico de la representación gráfica de una marca, es decir el dibujo</p><img src="img/ISOTIPO.jpg" alt="" style="max-width:90px"/>
           </div>
         </div>
         <div class="col s12 m12 l12 xl6 center-align" style="margin-top:50px">
-          <h6><b style="color:#262137;border-bottom:1.5px solid #b12729;font-size:16px">Isologo</b>
-            <p style="font-size:16px">Las piezas que lo componen son indivisibles o inseparables lo compone la parte gráfica o icono y también la parte textual, siempre se encuentran integrados </p><img src="img/CB_IMAGOTIPO_FONDO-BLANCO_V0.png" alt="" style="max-width:310px"/>
+          <h6><b style="color:#262137;border-bottom:1.5px solid #b12729;font-size:18px">Isologo</b>
+            <p style="font-size:18px">Las piezas que lo componen son indivisibles o inseparables lo compone la parte gráfica o icono y también la parte textual, siempre se encuentran integrados </p><img src="img/CB_IMAGOTIPO_FONDO-BLANCO_V0.png" alt="" style="max-width:310px"/>
           </h6>
         </div>
         <div class="col s12 m12 l12 xl6 center-align" style="margin-top:50px">
-          <h6><b style="color:#262137;border-bottom:1.5px solid #b12729;font-size:16px">Slogan</b></h6>
-          <p style="font-size:16px">Es la frase que acompaña la marca y que intenta trasladar al cliente el valor que tiene el producto</p><br/><img class="sloganedwar" src="img/Captura.png" alt="" style="margin-top:50px"/>
+          <h6><b style="color:#262137;border-bottom:1.5px solid #b12729;font-size:18px">Slogan</b></h6>
+          <p style="font-size:18px">Es la frase que acompaña la marca y que intenta trasladar al cliente el valor que tiene el producto</p><br/><img class="sloganedwar" src="img/Captura.png" alt="" style="margin-top:50px"/>
         </div>
       </div>
     </div>

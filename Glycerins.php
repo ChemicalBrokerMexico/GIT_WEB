@@ -269,7 +269,8 @@
                             class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                             <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
-                                                      <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                     </p>
                   </ul>
                 </section>
@@ -626,30 +627,30 @@
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-              style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tablas_Productos_Glicerina">
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tablas_Productos_Glicerina">
               Fórmula Estructural:
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;text-align:center;width:50%;" class="Tablas_Productos_Glicerina"><img
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;text-align:center;width:50%;" class="Tablas_Productos_Glicerina"><img
                 src="./img/1920px-Glycerin_Skelett2.svg.png" alt="" class="Estructural_Glicerina"></td>
           </tr>
 
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-              style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tablas_Productos_Glicerina">
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tablas_Productos_Glicerina">
               Fórmula:
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;text-align:center" class="Tablas_Productos_Glicerina">
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;text-align:center" class="Tablas_Productos_Glicerina">
               HOCH<sub>2</sub>-CHOH-</td>
           </tr>
 
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-              style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;background-color:#262137;color:white;" class="Tablas_Productos_Glicerina">
+              style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#262137;color:white;" class="Tablas_Productos_Glicerina">
               Fórmula Molecular:
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;text-align:center;" class="Tablas_Productos_Glicerina">
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;text-align:center;" class="Tablas_Productos_Glicerina">
               C<sub>3</sub>H<sub>8</sub>O<sub>3</sub></td>
           </tr>
 
@@ -658,22 +659,22 @@
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-              style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tablas_Productos_Glicerina">
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tablas_Productos_Glicerina">
               Nombre IUPAC:
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;text-align:center" class="Tablas_Productos_Glicerina">1, 2, 3 -
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;text-align:center" class="Tablas_Productos_Glicerina">1, 2, 3 -
               Propanotriol</td>
           </tr>
 
 
 
           <tr class="Tipografia--general General--Cuerpo"
-            style="padding:10px;font-size:15px !important;width:150px;">
+            style="padding:10px;font-size:18px !important;width:150px;">
             <td
-              style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tablas_Productos_Glicerina">
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tablas_Productos_Glicerina">
               Sinónimos:
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%" class="Tablas_Productos_Glicerina">
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%" class="Tablas_Productos_Glicerina">
               <ol>
                 <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">Glicerol</li>
                 <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro">Glicerina</li>
@@ -688,83 +689,83 @@
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-              style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tablas_Productos_Glicerina">
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tablas_Productos_Glicerina">
               CAS #:
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;text-align:center;" class="Tablas_Productos_Glicerina">56-81-5</td>
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;text-align:center;" class="Tablas_Productos_Glicerina">56-81-5</td>
           </tr>
 
 
           <tr class="Tipografia--general General--Cuerpo"
-            style="padding:10px;font-size:15px !important;width:150px;">
+            style="padding:10px;font-size:18px !important;width:150px;">
             <td
-              style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tablas_Productos_Glicerina">
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tablas_Productos_Glicerina">
               EINECS #:
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;text-align:center;" class="Tablas_Productos_Glicerina">200-289-5</td>
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;text-align:center;" class="Tablas_Productos_Glicerina">200-289-5</td>
           </tr>
 
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-              style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tablas_Productos_Glicerina">
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tablas_Productos_Glicerina">
               ChEBI:
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;text-align:center" class="Tablas_Productos_Glicerina">17754</td>
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;text-align:center" class="Tablas_Productos_Glicerina">17754</td>
           </tr>
 
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-              style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tablas_Productos_Glicerina">
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tablas_Productos_Glicerina">
               ChEMBL:
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;text-align:center" class="Tablas_Productos_Glicerina">CHEMBL692</td>
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;text-align:center" class="Tablas_Productos_Glicerina">CHEMBL692</td>
           </tr>
 
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-              style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tablas_Productos_Glicerina">
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tablas_Productos_Glicerina">
               ChemSpider:
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;text-align:center;" class="Tablas_Productos_Glicerina">733</td>
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;text-align:center;" class="Tablas_Productos_Glicerina">733</td>
           </tr>
 
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-              style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tablas_Productos_Glicerina">
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tablas_Productos_Glicerina">
               DrugBank:
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;text-align:center;" class="Tablas_Productos_Glicerina">09462</td>
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;text-align:center;" class="Tablas_Productos_Glicerina">09462</td>
           </tr>
 
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-              style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tablas_Productos_Glicerina">
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tablas_Productos_Glicerina">
               Pub Chem:
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;text-align:center;" class="Tablas_Productos_Glicerina">753</td>
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;text-align:center;" class="Tablas_Productos_Glicerina">753</td>
           </tr>
 
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-              style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tablas_Productos_Glicerina">
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tablas_Productos_Glicerina">
               UNII:
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;text-align:center" class="Tablas_Productos_Glicerina">PDC6A3C0OX</td>
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;text-align:center" class="Tablas_Productos_Glicerina">PDC6A3C0OX</td>
           </tr>
 
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-              style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tablas_Productos_Glicerina">
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tablas_Productos_Glicerina">
               KEGG:
             </td>
-            <td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;text-align:center" class="Tablas_Productos_Glicerina">C00116 D00028,
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;text-align:center" class="Tablas_Productos_Glicerina">C00116 D00028,
               C00116</td>
           </tr>
 

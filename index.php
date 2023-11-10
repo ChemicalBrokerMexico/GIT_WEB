@@ -168,11 +168,13 @@
 <ul> 
 <p class="color--blanco"><b class="Tipografia--general Titulos">Politicas </b>
 <hr class="hr">
-<li> <a class="arrowblue Tipografia--general Subtitulos" href="Code_of_Conduct.php">Codigo de conducta  <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<li> <a class="arrowblue Tipografia--general Subtitulos" href="Code_of_Conduct.php">Codigo de Conducta Interno<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download>Politica de Privacidad <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
-<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+  <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+
 </p>
 </ul>
 </section>
@@ -409,7 +411,7 @@
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Incluso estamos ampliando nuestra línea de productos mientras desarrollamos soluciones renovables de base biológica para el futuro.</p>
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Y tal vez eso es realmente lo que nos diferencia. Porque para todos en <b style="color:#000020;">Chemical Broker</b>, se trata de más que simplemente lo que hacemos, se trata de la forma en como lo hacemos: una empresa, guiada por principios e impulsada por la pasión de servir mejor a nuestros proveedores y clientes, todos los días.</p>
 <h6 style="margin-top:50px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;margin-top:50px;">Enfoque de Negocios</b></h6>
-<p class="Tipografia--general letranegro General--Cuerpo">Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de ingredientes químicos.</p>
+<p class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020">Chemical Broker</b> es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de ingredientes químicos.</p>
 <h6 style="margin-top:50px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;margin-top:50px;">Negocios</b></h6>
 <p class="Tipografia--general letranegro General--Cuerpo">Nuestros negocios brindan servicio a la Industrias Farmacéutica, Alimentaria y Nutrición Humana, Cosmética y del Cuidado Personal, Veterinaria, Alimento y Nutrición Animal, Agroquímicos, Detergentes y Cuidado del Hogar y la Industria Química en general.</p>
 <h6 style="margin-top:50px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;">Proceso de Negocios:</b></h6>

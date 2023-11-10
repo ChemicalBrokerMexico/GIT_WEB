@@ -176,7 +176,8 @@ $(document).ready(function () {
 <li> <a class="arrowblue Tipogradia--general Subtitulos" href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download>Politica de Privacidad <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
-                                                      <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 </p>
 </ul>
 </section>
@@ -445,7 +446,7 @@ Científicamente se denominan dioles (alcoholes bivalentes), que se desvían del
 <td style="font-size:16px !important;border:1px solid #f2f2f2;background-color:#BDD6EE;color:black;">
 <b>IUPAC:</b>
 </td>
-<td style="text-align: center;font-size:15px !important;border:1px solid #f2f2f2;background-color:#000020;color:white;">N, N-Dimetilformamida</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #f2f2f2;background-color:#000020;color:white;">N, N-Dimetilformamida</td>
 </tr>
 
 
@@ -463,77 +464,77 @@ Científicamente se denominan dioles (alcoholes bivalentes), que se desvían del
 
 
 <tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:15px !important;">
-<td style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
+<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
 <b>Formula Estructural:</b>
 </td>
 <td style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;"><img src="img/DIMETILFORMAMIDA_FORMULA_ESTRUCTURAL_111122.png" alt="" style="width:50%;"></td>
 </tr>
 <tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
+<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
 <b>Formula:</b>
 </td>
-<td style="text-align: center;font-size:15px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">C<sub>3</sub>H<sub>7</sub>NO</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">C<sub>3</sub>H<sub>7</sub>NO</td>
 </tr>
 
 <tr class="Tipografia--general General--Cuerpo" style="text-align:center;padding:10px;font-size:16px !important;width:150px;">
-<td style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
+<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
 <b>Peso molecular:</b>
 </td>
-<td style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">C(3) H (7) ON</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">C(3) H (7) ON</td>
 </tr>
-<tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:16px !important;width:150px;">
-<td style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
+<tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:18px !important;width:150px;">
+<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
 <b>CAS #:</b>
 </td>
-<td style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">68-12-2</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">68-12-2</td>
 <tr>
-<td style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
+<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
 <b>RTECS No.:</b>
 </td>
-<td style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">LQ2100000</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">LQ2100000</td>
 </tr>
 <tr>
-<td style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
+<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
 <b>ChEBI:</b>
 </td>
-<td style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">17741</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">17741</td>
 </tr>
 <tr>
-<td style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
+<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
 <b>ChEMBL:</b>
 </td>
-<td style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">CHEMBL268291</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">CHEMBL268291</td>
 </tr>
 <tr>
-<td style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
+<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
 <b>ChemSpider:</b>
 </td>
-<td style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">5993</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">5993</td>
 </tr>
 <tr>
-<td style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
+<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
 <b>DrugBank:</b>
 </td>
-<td style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">01844</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">01844</td>
 </tr>
 <tr>
-<td style="font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:black;"><b>PubChem:</b></td>
-<td style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">5993</td>
+<td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:black;"><b>PubChem:</b></td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">5993</td>
 
 </tr>
 <tr>
-<td style="font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:black;"><b>PRD-Number:</b></td>
-<td style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">30034812</td>
+<td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:black;"><b>PRD-Number:</b></td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">30034812</td>
 
 </tr>
 <tr>
-<td style="font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:black;"><b>UNII:</b></td>
-<td style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">8696NH0Y2X</td>
+<td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:black;"><b>UNII:</b></td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">8696NH0Y2X</td>
 
 </tr>
 <tr>
-<td style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:black;"><b>KEGG:</b></td>
-<td style="text-align: center;font-size:15px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">C03134</td>
+<td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:black;"><b>KEGG:</b></td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">C03134</td>
 
 </tr>
 

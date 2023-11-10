@@ -302,7 +302,8 @@
                                                     href="Politica_Calidad.php">Politica de Calidad &nbsp <i
                                                         class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
-                                                      <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                                         </p>
                                     </ul>
                                 </section>
@@ -658,43 +659,43 @@
 
                 <table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
                     <tr>
-                        <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;">Descripcion Quimica:
+                        <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px;"><b>Descripción Química:</b>
                         </td>
-                        <td style="border:1px solid #c0c0c0;"><b>Maltodextrina</b></td>
+                        <td style="border:1px solid #c0c0c0;font-size:18px">Maltodextrina</td>
                     </tr>
                     <tr>
-                        <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;">Formula Estructural:
+                        <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px"><b>Formula Estructural:</b>
                         </td>
                         <td style="border:1px solid #c0c0c0;" class="center-align"><img
                                 src="img/FORMULA_ESTRUCTURAL_MALTODEXTRINA_080323.png" alt="" style="width:30%;"></td>
                     </tr>
                     <tr>
-                        <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;">CAS No.:</td>
-                        <td style="border:1px solid #c0c0c0;"><b>9050-36-6</b></td>
+                        <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px"><b>CAS No.:</b></td>
+                        <td style="border:1px solid #c0c0c0;font-size:18px">9050-36-6</td>
                     </tr>
                     <tr>
-                        <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;">ChEBI:</td>
-                        <td style="border:1px solid #c0c0c0;"><b>18398</b></td>
+                        <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px"><b>ChEBI:</b></td>
+                        <td style="border:1px solid #c0c0c0;font-size:18px">18398</td>
                     </tr>
                     <tr>
-                        <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;">ChemSpider:</td>
-                        <td style="border:1px solid #c0c0c0;"><b>56445</b></td>
+                        <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px"><b>ChemSpider:</b></td>
+                        <td style="border:1px solid #c0c0c0;font-size:18px">56445</td>
                     </tr>
                     <tr>
-                        <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;">DrugBank:</td>
-                        <td style="border:1px solid #c0c0c0;"><b>12583</b></td>
+                        <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px"><b>DrugBank:</b></td>
+                        <td style="border:1px solid #c0c0c0;font-size:18px">12583</td>
                     </tr>
                     <tr>
-                        <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;">PubChem:</td>
-                        <td style="border:1px solid #c0c0c0;"><b>62698</b></td>
+                        <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px"><b>PubChem:</b></td>
+                        <td style="border:1px solid #c0c0c0;font-size:18px">62698</td>
                     </tr>
                     <tr>
-                        <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;">UNII:</td>
-                        <td style="border:1px solid #c0c0c0;"><b>7CRV7L4A2D</b></td>
+                        <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px"><b>UNII:</b></td>
+                        <td style="border:1px solid #c0c0c0;font-size:18px">7CRV7L4A2D</td>
                     </tr>
                     <tr>
-                        <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;">KEGG:</td>
-                        <td style="border:1px solid #c0c0c0;"><b>C01935</b></td>
+                        <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px"><b>KEGG:</b></td>
+                        <td style="border:1px solid #c0c0c0;font-size:18px">C01935</td>
                     </tr>
                 </table>
 

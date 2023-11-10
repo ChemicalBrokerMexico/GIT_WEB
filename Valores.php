@@ -166,11 +166,12 @@
                     <ul> 
                       <p class="color--blanco"><b class="Tipografia--general Titulos">Politicas </b>
                         <hr class="hr">
-                        <li> <a class="arrowblue Tipografia--general Subtitulos" href="Code_of_Conduct.php">Codigo de conducta  <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                        <li> <a class="arrowblue Tipografia--general Subtitulos" href="Code_of_Conduct.php">Codigo de Conducta Interno<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                         <li> <a class="arrowblue Tipografia--general Subtitulos" href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download>Politica de Privacidad <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                         <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
-                                                      <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                       </p>
                     </ul>
                   </section>
@@ -391,7 +392,7 @@
     </div>
     
     <div class="container">
-      <section style="margin-top:125px;width:130px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Inicio&nbsp</b><b> >&nbsp</b></a><a class="Tipografia--general letranegro Subtitulos" href="Valores.php" style="color:#262137 !important;"><b class="Tipografia--general letranegro Subtitulos breadcrumb"> Valores</b></a></section>
+      <section style="margin-top:125px;width:150px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Inicio&nbsp</b><b> >&nbsp</b></a><a class="Tipografia--general letranegro Subtitulos" href="Valores.php" style="color:#262137 !important;"><b class="Tipografia--general letranegro Subtitulos breadcrumb"> Valores</b></a></section>
     </div>
     <div class="container" style="margin-top:20px">
       <div class="row">
@@ -446,7 +447,7 @@
           <h6 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px"> <i class="tiny material-icons">arrow_forward_ios</i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Etimología</b></h6>
           <p class="Tipografia--general letranegro General--Cuerpo">La palabra excelencia viene del latín, Excellentia-ae, de ex y cella una raíz indoeuropea *kel- en griego kelo que significa lugar oculto o escondido, bodega, de ahí derivo la castellana celda y en alemán keller (sótano) y zelle (celda), por el cambio de la pronunciación de c como k en el latin clásico (keller) y la c como ts en el eclesiastico (zelle). excellentia, significaría salir de lo oculto, significando también superioridad, grandeza, elevarse, enorgullecerse, De esta palabra, salieron marcas como, por ejemplo. El programa para computadoras Excel.</p>
           <h6 class="Tipografia--general letranegro Subtitulos" style="margin-top:50px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Excelencia para Chemical Broker</b></h6>
-          <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">Maximizar los Estándares determinados por Chemical Broker para cada proceso:</p>
+          <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">Maximizar los Estándares determinados por <b style="color:#000020">Chemical Broker</b> para cada proceso:</p>
           <ol class="Tipografia--general letranegro General--Cuerpo"> 
             <li style="font-size:16px">Estándar de <b>Calidad</b></li>
             <li style="font-size:16px">Estándar de <b>Cantidad</b></li>
@@ -517,7 +518,7 @@
           <h6 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color: #008037;text-decoration:underline;text-decoration-color:#F7291E;">Etimología</b></h6>
           <p class="Tipografia--general letranegro General--Cuerpo">Se ubica en el latín como ethĭca, forma femenina de ethĭcus, cuyo origen se distingue en el griego ēthikḗ, en calidad de femenino de ēthikós. Es utilizada para referirse al estudio de los actos humanos con el fin de alcanzar el bien, es la voluntad de actuar de manera correcta.</p>
           <h6 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color: #008037;text-decoration:underline;text-decoration-color:#F7291E;">Etica Empresarial para Chemical Broker</b></h6>
-          <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">Actuar con <b>Respeto, Transparencia y Cumplimiento estricto a nuestros compromisos </b>con Nuestros Socios de Negocios; miembros de la organización, sociedad, gobierno, clientes y proveedores, apegado al marco legal vigente entre Chemical Broker y los involucrados.
+          <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">Actuar con <b>Respeto, Transparencia y Cumplimiento estricto a nuestros compromisos </b>con Nuestros Socios de Negocios; miembros de la organización, sociedad, gobierno, clientes y proveedores, apegado al marco legal vigente entre <b style="color:#000020">Chemical Broker</b> y los involucrados.
           </p><br>
     </div>
   </div>

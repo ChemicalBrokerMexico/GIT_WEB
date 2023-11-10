@@ -169,11 +169,12 @@
                     <ul> 
                       <p class="color--blanco"><b class="Tipografia--general Titulos">Politicas </b>
                         <hr class="hr">
-                        <li> <a class="arrowblue Tipografia--general Subtitulos" href="Code_of_Conduct.php">Codigo de conducta  <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                        <li> <a class="arrowblue Tipografia--general Subtitulos" href="Code_of_Conduct.php">Codigo de Conducta Interno<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                         <li> <a class="arrowblue Tipografia--general Subtitulos" href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download>Politica de Privacidad <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                         <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
-                                                      <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                       </p>
                     </ul>
                   </section>
@@ -395,7 +396,7 @@
       </div>
     </div>
     <div class="container">
-      <section style="margin-top:125px;width:200px;"><a class="breditem active" href="index.php" style="color:#262137 !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="breditem active" href="Historia_Hechos.php"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Historia & Hechos</b></a></section>
+      <section style="margin-top:125px;width:230px;"><a class="breditem active" href="index.php" style="color:#262137 !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="breditem active" href="Historia_Hechos.php"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Historia & Hechos</b></a></section>
     </div><br>
     <div class="container">
       <div class="row">
@@ -405,7 +406,7 @@
           </p>
           <p class="Tipografia--general General--Cuerpo letranegro" style="text-align:justify;margin-top:50px"><b style="color:#262137">Chemical Broker </b>, una compañía creada en el año <b style="color:#262137">2014</b>, con un enfoque de negocios claro y definido, descrito a continuación:
           </p>
-          <p class="Tipografia--general General--Cuerpo letranegro" style="text-align:justify;margin-top:50px"><b style="color:#262137">Facilitar</b> . – Los procesos de compra y venta de productos químicos a nuestros socios de negocios, por medio de negociaciones robustas y de largo plazo con los principales fabricantes y proveedores en el mundo permitiendo crear una mayor rentabilidad para Chemical Broker y nuestros socios de negocios.
+          <p class="Tipografia--general General--Cuerpo letranegro" style="text-align:justify;margin-top:50px"><b style="color:#262137">Facilitar</b> . – Los procesos de compra y venta de productos químicos a nuestros socios de negocios, por medio de negociaciones robustas y de largo plazo con los principales fabricantes y proveedores en el mundo permitiendo crear una mayor rentabilidad para <b style="color:#000020">Chemical Broker</b> y nuestros socios de negocios.
           </p>
           <p class="Tipografia--general General--Cuerpo letranegro" style="text-align:justify;margin-top:50px"><b class="Tipografia--general General--Cuerpo letranegro" style="color:#262137">Negociar y Proveer </b>. – Productos químicos y servicios como Servicios, Comercio Internacional (Importaciones y Exportaciones) y Coberturas de Seguros para nuestros socios de negocios.
           </p>
@@ -421,7 +422,7 @@
         <li class="in-view wow animate__animated animate__bounceInRight">
           <div>
             <h5 style="color:black;margin-top:-10px;text-align:justify;padding-top:25px"><b>2014</b><br><br></h5>
-            <p class="Tipografia--general General--Cuerpo letranegro" style="color:black;margin-top:-10px;text-align:justify;">El 10 de Julio de 2014 se funda la firma Chemical Broker enfocada en la venta de ingredientes químicos para las Industrias de Farmacéutica, Alimentos y Nutrición Humana, Cosméticos y Cuidado Personal y la Industria Química general con la venta de Oleo químicos; Glicerinas, Alcoholes y Ácidos Grasos.</p>
+            <p class="Tipografia--general General--Cuerpo letranegro" style="color:black;margin-top:-10px;text-align:justify;">El 10 de Julio de 2014 se funda la firma <b>Chemical Broker</b> enfocada en la venta de ingredientes químicos para las Industrias de Farmacéutica, Alimentos y Nutrición Humana, Cosméticos y Cuidado Personal y la Industria Química general con la venta de Oleo químicos; Glicerinas, Alcoholes y Ácidos Grasos.</p>
           </div>
         </li>
         <li class="in-view wow animate__animated animate__bounceInLeft">
@@ -439,13 +440,13 @@
         <li class="in-view wow animate__animated animate__bounceInLeft">
           <div>
             <h5 style="color:black !important"><b>2017</b><br><br></h5>
-            <p class="Tipografia--general General--Cuerpo letranegro" style="color: black;margin-top:-10px;text-align: justify;">En la última década la concientización sobre el cuidado de los animales de compañía, así como el tipo de alimentación de los animales para consumo humano ha crecido impulsando a las empresas a generar productos alimenticios de mejor calidad. Bajo las circunstancias del momento Chemical Broker crea su división de Pet & Feed con ingredientes químicos de la más alta calidad, certificados en Buenas Prácticas de Manufactura Grado Alimentos y con un enfoque especializado en la Industria de Alimentación y Nutrición Animal. </p>
+            <p class="Tipografia--general General--Cuerpo letranegro" style="color: black;margin-top:-10px;text-align: justify;">En la última década la concientización sobre el cuidado de los animales de compañía, así como el tipo de alimentación de los animales para consumo humano ha crecido impulsando a las empresas a generar productos alimenticios de mejor calidad. Bajo las circunstancias del momento <b style="color:#000020">Chemical Broker</b> crea su división de Pet & Feed con ingredientes químicos de la más alta calidad, certificados en Buenas Prácticas de Manufactura Grado Alimentos y con un enfoque especializado en la Industria de Alimentación y Nutrición Animal. </p>
           </div>
         </li>
         <li class="in-view wow animate__animated animate__bounceInRight">
           <div>
             <h5 style="color:black !important"><b>2018</b><br><br></h5>
-            <p class="Tipografia--general General--Cuerpo letranegro" style="color: black;margin-top:-10px;text-align: justify;">Durante el año 2018 Chemical Broker considera importante desarrollar su propia Unidad de Negocios de Tecnologías de la Información, con el propósito de impulsar la era digital dentro de la organización, para facilitar sus servicios dentro y fuera de ella.</p>
+            <p class="Tipografia--general General--Cuerpo letranegro" style="color: black;margin-top:-10px;text-align: justify;">Durante el año 2018 <b style="color:#000020">Chemical Broker</b> considera importante desarrollar su propia Unidad de Negocios de Tecnologías de la Información, con el propósito de impulsar la era digital dentro de la organización, para facilitar sus servicios dentro y fuera de ella.</p>
           </div>
         </li><br><br>
       </ul>

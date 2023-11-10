@@ -341,7 +341,8 @@
                                                     href="Politica_Calidad.php">Politica de Calidad &nbsp <i
                                                         class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
-                                                      <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                                         </p>
                                     </ul>
                                 </section>
@@ -686,21 +687,21 @@
                 <table style="margin-top:50px;border-spacing:2px 5px">
                     <th>
                         <tr>
-                            <td style="background-color:#000020;color:white;width:50%;" class="center-align">
+                            <td style="background-color:#000020;color:white;width:50%;font-size:18px;" class="center-align">
                             Especificaciones
                             </td>
-                            <td style="background-color:#000020;color:white;" class="center-align">
+                            <td style="background-color:#000020;color:white;font-size:18px;" class="center-align">
                             Minimo
                             </td>
-                            <td style="background-color:#000020;color:white;" class="center-align">
+                            <td style="background-color:#000020;color:white;font-size:18px;" class="center-align">
                             Maximo
                             </td>
                         </tr>
                     </th>
                     <tr>
-                        <td>Humedad (%):</td>
-                        <td class="center-align">-</td>
-                        <td class="center-align">12</td>
+                        <td style="font-size:18px;">Humedad (%):</td>
+                        <td class="center-align" style="font-size:18px;">-</td>
+                        <td class="center-align" style="font-size:18px;">12</td>
                     </tr>
                     <tr>
                         <td style="background-color:#F2F2F2;padding:10px;"></td>
@@ -708,9 +709,9 @@
                         <td style="background-color:#F2F2F2;padding:10px;"></td>
                     </tr>
                     <tr>
-                        <td>Proteína Cruda (%):</td>
-                        <td class="center-align">48</td>
-                        <td class="center-align">-</td>
+                        <td style="font-size:18px;">Proteína Cruda (%):</td>
+                        <td class="center-align" style="font-size:18px;">48</td>
+                        <td class="center-align" style="font-size:18px;">-</td>
                     </tr>
                     <tr>
                         <td style="background-color:#F2F2F2;padding:10px;"></td>
@@ -718,9 +719,9 @@
                         <td style="background-color:#F2F2F2;padding:10px;"></td>
                     </tr>
                     <tr>
-                        <td>Extracto Etéreo (%):</td>
-                        <td class="center-align">0.5</td>
-                        <td class="center-align">-</td>
+                        <td style="font-size:18px;">Extracto Etéreo (%):</td>
+                        <td class="center-align" style="font-size:18px;">0.5</td>
+                        <td class="center-align" style="font-size:18px;">-</td>
                     </tr>
                     <tr>
                         <td style="background-color:#F2F2F2;padding:10px;"></td>
@@ -728,9 +729,9 @@
                         <td style="background-color:#F2F2F2;padding:10px;"></td>
                     </tr>
                     <tr>
-                        <td>Fibra Cruda (%):</td>
-                        <td class="center-align">-</td>
-                        <td class="center-align">5</td>
+                        <td style="font-size:18px;">Fibra Cruda (%):</td>
+                        <td class="center-align" style="font-size:18px;">-</td>
+                        <td class="center-align" style="font-size:18px;">5</td>
                     </tr>
                     <tr>
                         <td style="background-color:#F2F2F2;padding:10px;"></td>
@@ -738,9 +739,9 @@
                         <td style="background-color:#F2F2F2;padding:10px;"></td>
                     </tr>
                     <tr>
-                        <td>Cenizas (%):</td>
-                        <td class="center-align">-</td>
-                        <td class="center-align">6.5</td>
+                        <td style="font-size:18px;">Cenizas (%):</td>
+                        <td class="center-align" style="font-size:18px;">-</td>
+                        <td class="center-align" style="font-size:18px;">6.5</td>
                     </tr>
                     <tr>
                         <td style="background-color:#F2F2F2;padding:10px;"></td>
@@ -748,9 +749,9 @@
                         <td style="background-color:#F2F2F2;padding:10px;"></td>
                     </tr>
                     <tr>
-                        <td>Actividad Ureasica (Cambio pH):</td>
-                        <td class="center-align">0.05</td>
-                        <td class="center-align">0.2</td>
+                        <td style="font-size:18px;">Actividad Ureasica (Cambio pH):</td>
+                        <td class="center-align" style="font-size:18px;">0.05</td>
+                        <td class="center-align" style="font-size:18px;">0.2</td>
                     </tr>
                     <tr>
                         <td style="background-color:#F2F2F2;padding:10px;"></td>
@@ -758,17 +759,17 @@
                         <td style="background-color:#F2F2F2;padding:10px;"></td>
                     </tr>
                     <tr>
-                        <td>Solubilidad de proteínas en agua (%):</td>
-                        <td class="center-align">15</td>
-                        <td class="center-align">30</td>
+                        <td style="font-size:18px;">Solubilidad de proteínas en agua (%):</td>
+                        <td class="center-align" style="font-size:18px;">15</td>
+                        <td class="center-align" style="font-size:18px;">30</td>
                     </tr>
                     <td style="background-color:#F2F2F2;padding:10px;"></td>
                     <td style="background-color:#F2F2F2;padding:10px;"></td>
                     <td style="background-color:#F2F2F2;padding:10px;"></td>
                     <tr>
-                        <td>Solubilidad de proteína (KOH %)</td>
-                        <td class="center-align">75</td>
-                        <td class="center-align">85</td>
+                        <td style="font-size:18px;">Solubilidad de proteína (KOH %)</td>
+                        <td class="center-align" style="font-size:18px;">75</td>
+                        <td class="center-align" style="font-size:18px;">85</td>
                     </tr>
                     <tr>
                         <td style="background-color:#F2F2F2;padding:10px;"></td>

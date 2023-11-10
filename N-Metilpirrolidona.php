@@ -303,7 +303,8 @@
                                                     href="Politica_Calidad.php">Politica de Calidad &nbsp <i
                                                         class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
-                                                      <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                                         </p>
                                     </ul>
                                 </section>
@@ -637,24 +638,24 @@
                     <tr class="Tipografia--general General--Cuerpo"
                         style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
                         <td
-                            style="font-size:16px !important;border:1px solid #f2f2f2;background-color:#BDD6EE;color:white;">
+                            style="font-size:18px !important;border:1px solid #f2f2f2;background-color:#BDD6EE;color:white;">
                             IUPAC:
                         </td>
                         <td
-                            style="text-align: center;font-size:15px !important;border:1px solid #f2f2f2;width:50%;background-color:#2F5496;color:white;">
+                            style="text-align: center;font-size:18px !important;border:1px solid #f2f2f2;width:50%;background-color:#2F5496;color:white;">
                             1-metilpirrolidin-2-ona</td>
                     </tr>
 
 
 
                     <tr class="Tipografia--general General--Cuerpo"
-                        style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
+                        style="text-align:center;padding:10px;font-size:18px !important;width:150px;">
                         <td
-                            style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:white;">
+                            style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:white;">
                             Sinónimos:
                         </td>
                         <td
-                            style="font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#2F5496;">
+                            style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#2F5496;">
                             <ol style="margin-left:52px;color:white;">
                                 <li style="list-style-type:disc;margin-left:-69px;"
                                     class="Tipografia General Elementos--Listas colornegro">1-metil-2-pirrolidona</li>
@@ -667,9 +668,9 @@
                     </tr>
 
                     <tr class="Tipografia--general General--Cuerpo"
-                        style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
+                        style="text-align:center;padding:10px;font-size:18px !important;width:150px;">
                         <td
-                            style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:white;">
+                            style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:white;">
                             Formula Estructural:
                         </td>
                         <td
@@ -678,68 +679,68 @@
                         </td>
                     </tr>
                     <tr class="Tipografia--general General--Cuerpo"
-                        style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
+                        style="text-align:center;padding:10px;font-size:18px !important;width:150px;">
                         <td
-                            style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:white;">
+                            style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:white;">
                             Formula:
                         </td>
                         <td
-                            style="text-align: center;font-size:15px !important;border:1px solid #C0C0C0;width:50%;background-color:#2F5496;color:white;">
+                            style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#2F5496;color:white;">
                             C<sub>5</sub>H<sub>9</sub>NO</td>
                     </tr>
 
                     <tr class="Tipografia--general General--Cuerpo"
-                        style="text-align:center;padding:10px;font-size:16px !important;width:150px;">
+                        style="text-align:center;padding:10px;font-size:18px !important;width:150px;">
                         <td
-                            style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:white;">
+                            style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:white;">
                             Peso molecular:
                         </td>
                         <td
-                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#2F5496;color:white;">
+                            style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#2F5496;color:white;">
                             99.1</td>
                     </tr>
                     <tr class="Tipografia--general General--Cuerpo"
-                        style="text-align:center;padding:10px;font-size:16px !important;width:150px;">
+                        style="text-align:center;padding:10px;font-size:18px !important;width:150px;">
                         <td
-                            style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:white;">
+                            style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:white;">
                             CAS #:
                         </td>
                         <td
-                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#2F5496;color:white;">
+                            style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#2F5496;color:white;">
                             872-50-4</td>
                     <tr>
                         <td
-                            style="font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:white;">
+                            style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:white;">
                             PubChem:</td>
                         <td
-                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#2F5496;color:white;">
+                            style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#2F5496;color:white;">
                             13387</td>
 
                     </tr>
                     <tr>
                         <td
-                            style="font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:white;">
+                            style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:white;">
                             PRD-Number:</td>
                         <td
-                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#2F5496;color:white;">
+                            style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#2F5496;color:white;">
                             30036605</td>
 
                     </tr>
                     <tr>
                         <td
-                            style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:white;">
+                            style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:white;">
                             KEGG:</td>
                         <td
-                            style="text-align: center;font-size:15px !important;border:1px solid #C0C0C0;width:50%;background-color:#2F5496;color:white;">
+                            style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#2F5496;color:white;">
                             C11118</td>
 
                     </tr>
                     <tr>
                         <td
-                            style="font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:white;">
+                            style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:white;">
                             UNII:</td>
                         <td
-                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#2F5496;color:white;">
+                            style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#2F5496;color:white;">
                             JR9CE63FPM</td>
 
                     </tr>

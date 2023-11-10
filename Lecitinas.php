@@ -270,7 +270,8 @@
                             class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                             <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
-                                                      <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                     </p>
                   </ul>
                 </section>
@@ -648,7 +649,7 @@
         <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Fabricante:</b></h5>
 
         <ol style="margin-top:50px;">
-        <a href="PAGINA_SECUNDARIA_LECITINAS.php" style="color: black;" class="arrowblue"><img src="img/Cargill-Logo_2.png" alt="" class="logo_lecitinas_secundarias"><span class="arrowblue desaparece">Ver Más...</span></a>
+        <a href="PAGINA_SECUNDARIA_LECITINAS.php" style="color: black;" class="arrowblue"><img src="img/Cargill-Logo_2.png" alt="" class="logo_lecitinas_secundarias"><span class="arrowblue">Ver Más...</span></a>
           <!-- <li class="Elementos--listas Tipografia--general"><a href="PAGINA_SECUNDARIA_LECITINAS.php" style="color: black;" class="arrowblue">Cargill</a></li> -->
         </ol>
 

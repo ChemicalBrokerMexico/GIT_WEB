@@ -371,12 +371,12 @@ $(document).ready(function(){
     <div class="col s12 m12 l6 xl6 center-align">
     <img src="img/pasta-dientes-fluor.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
     </div>
-    <div class= "col s12 m12 l6 xl6 columnas_sorbitoles">
+    <div class= "col s12 m12 l6 xl6 columnas_sorbitoles" style="position:relative">
     <h5 class="Tipografia--general Titulos"><b>Sorbitoles</b></h5>
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro">El sorbitol es un polialcohol, alcohol polihidrico alditol de azucar, industrialmente se obtiene por reduccion mediante hidrogenacion catalítica del monosacárido mas comun, “la glucosa”. </p>
     <p class="Tipografia--general General--Cuerpo letranegro">En la naturaleza el sorbitol es uno de los tres glucidos (sacarosa, almidon y sorbitol), principales producidos por la fotosintesis en las hojas adultas de ciertas plantas de la familia Rosaceae y Plantaginaceae, se ecuentran en cantidades apreciables en algas rojas, peras, manzanas, cerezas, duraznos.</p>
-    <p class="Tipografia--general Botones letranegro Leersorbi"><b><a href="Sorbitoles.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    <p class="Tipografia--general Botones letranegro Leersorbi" style="position:absolute:left:10px;bottom:-30px"><b><a href="Sorbitoles.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
 

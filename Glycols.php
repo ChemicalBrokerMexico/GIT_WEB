@@ -176,7 +176,8 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <li> <a class="arrowblue Tipogradia--general Subtitulos" href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download>Politica de Privacidad <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
-                                                      <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 </p>
 </ul>
 </section>
@@ -421,50 +422,50 @@ gtag('config', 'G-SGJQ8FDDJ6');
 
         <table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
 <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-<td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tabla_productos_glicoles">
+<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tabla_productos_glicoles">
 Fórmula Estructural:
 </td>
-<td style="text-align: center;font-size:15px !important;border:1px solid #C0C0C0;" class="Tabla_productos_glicoles">HO-CH2 CH2 -OH</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;" class="Tabla_productos_glicoles">HO-CH2 CH2 -OH</td>
 </tr>
 
 
 
 <tr class="Tipografia--general General--Cuerpo"  style="padding:10px;font-size:15px !important;width:150px;">
-<td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tabla_productos_glicoles">
+<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tabla_productos_glicoles">
 Nombre IUPAC:
 </td>
-<td style="text-align:center;font-size:15px !important;border:1px solid #C0C0C0;" class="Tabla_productos_glicoles">(2S,3R,4R,5R)-Hexano-1,2,3,4,5,6-hexol</td>
+<td style="text-align:center;font-size:18px !important;border:1px solid #C0C0C0;" class="Tabla_productos_glicoles">(2S,3R,4R,5R)-Hexano-1,2,3,4,5,6-hexol</td>
 </tr>
 
 
 
 <tr class="Tipografia--general General--Cuerpo"  style="padding:10px;font-size:15px !important;width:150px;">
-<td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tabla_productos_glicoles">
+<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tabla_productos_glicoles">
 Fórmula:
 </td>
-<td style="text-align: center;font-size:15px !important;border:1px solid #C0C0C0;" class="Tabla_productos_glicoles">C<sub>2</sub>H<sub>6</sub>O<sub>2</sub></td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;" class="Tabla_productos_glicoles">C<sub>2</sub>H<sub>6</sub>O<sub>2</sub></td>
 </tr>
 <tr class="Tipografia--general General--Cuerpo"  style="padding:10px;font-size:15px !important;" >
-<td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tabla_productos_glicoles">
+<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tabla_productos_glicoles">
 CAS#:
 </td>
-<td style="text-align: center;font-size:15px !important;border:1px solid #C0C0C0;" class="Tabla_productos_glicoles">107-21-1</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;" class="Tabla_productos_glicoles">107-21-1</td>
 </tr>
 
-<tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-<td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tabla_productos_glicoles">
+<tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:18px !important;width:150px;">
+<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tabla_productos_glicoles">
 EINECS #:
 </td>
-<td style="text-align: center;font-size:15px !important;border:1px solid #C0C0C0;" class="Tabla_productos_glicoles">203-474-3</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;" class="Tabla_productos_glicoles">203-474-3</td>
 </tr>
 
 
 
-<tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="font-size:15px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tabla_productos_glicoles">
+<tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:18px !important;width:150px;">
+<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tabla_productos_glicoles">
 Pub Chem:
 </td>
-<td style="text-align: center;font-size:15px !important;border:1px solid #C0C0C0;" class="Tabla_productos_glicoles">174</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;" class="Tabla_productos_glicoles">174</td>
 </tr>
 
 </table>

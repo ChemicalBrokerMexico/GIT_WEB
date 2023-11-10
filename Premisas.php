@@ -167,11 +167,12 @@
                     <ul> 
                       <p class="color--blanco"><b class="Tipografia--general Titulos">Politicas </b>
                         <hr class="hr"/>
-                        <li> <a class="arrowblue Tipografia--general Subtitulos" href="Code_of_Conduct.php">Codigo de conducta  <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                        <li> <a class="arrowblue Tipografia--general Subtitulos" href="Code_of_Conduct.php">Codigo de Conducta Interno<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                         <li> <a class="arrowblue Tipografia--general Subtitulos" href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download="download">Politica de Privacidad <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                         <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                   id="aparece"></i></a></li>
-                                                <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                                                  <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                       </p>
                     </ul>
                   </section>
@@ -469,25 +470,7 @@
       </div>
     </div>
 
-    <div class="col s12 m12 l6 xl6">
-        <div class="card" style="border-radius:15px;">
-    <div class="card-image waves-effect waves-block waves-light">
-      <img class="activator" src="img/CB_LIMPIEZA.jpg">
-    </div>
-    <div class="card-content">
-      <span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Limpieza<i class="material-icons right">arrow_upward</i></b></span>
-    </div>
-    <div class="card-reveal">
-    <h6 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:blue;text-decoration: underline;text-decoration-color:blue;">Definición </b></h6>
-          <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">Es la acción de limpiar la suciedad, lo superfluo o lo perjudicial de algo. Es la precisión con que se ejecuta algo y a la integridad de una organización en todo momento y circunstancia dentro y fuera del ámbito de negocios. </p>
-          <h6 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:blue;text-decoration: underline;text-decoration-color:blue;">Etimología </b></h6>
-          <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">La palabra limpieza, deriva de la palabra &nbsp<b style="color:#262137">“limpio” &nbsp</b>(cualidad de no tener suciedad) y el sufijo: <b style="color:#262137">“-eza”.</b>Limpio, deriva del latín <b style="color:#262137">“limpidus”</b> , que se refiere a algo <b style="color:#262137">“claro”&nbsp</b>o <b style="color:#262137">“sin manchas”.</b>
-          </p>
-          <h6 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:blue;text-decoration: underline;text-decoration-color:blue;">Limpieza para Chemical Broker</b></h6>
-          <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">es la pulcritud en la manera de ejecutar tus acciones diarias que te haga sentir satisfecho.</p>
-        </div>
-      </div>
-    </div>
+    
 
   </div>
         </div>

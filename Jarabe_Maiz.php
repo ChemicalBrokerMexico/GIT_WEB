@@ -341,7 +341,8 @@
                                                     href="Politica_Calidad.php">Politica de Calidad &nbsp <i
                                                         class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
-                                                      <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                                         </p>
                                     </ul>
                                 </section>
@@ -737,24 +738,24 @@
                 <h5 class="Tipografia--general letranegro General--Cuerpo"><b>Productos</b></h5>
                 <table style="border:solid 2px #C0C0C0;margin-top:15px;">
                     <tr>
-                        <td style="border:solid 1px #C0C0C0;padding:10px;" class="Tipografia--general colornegro">Clearsweet® 43% IX Jarabe de Maltosa</td>
-                        <td style="border:solid 1px #C0C0C0;text-align:justify;padding:10px;" class="Tipografia--general colornegro">El Clearsweet® 43% IX Jarabe de Maltosa es un jarabe de maíz especialmente producido por medio de una conversión acidó-enzimática que contiene como mayor carbohidrato constituyente la maltosa. Ha sido desmineralizado para contener bajos niveles de sales y SO2.Este jarabe de alta maltosa mejora sabor, cuerpo y textura en sustituciones altas de azúcar impartiendo resistencia a la formación de color, absorción de humedad y cristalización en productos terminados como el caramelo macizo. Ayuda a producir productos terminados con una excelente estabilidad, claridad y brillantez.</td>
+                        <td style="border:solid 1px #C0C0C0;padding:10px;" class="Tipografia--general colornegro General--Cuerpo">Clearsweet® 43% IX Jarabe de Maltosa</td>
+                        <td style="border:solid 1px #C0C0C0;text-align:justify;padding:10px;" class="Tipografia--general colornegro General--Cuerpo">El Clearsweet® 43% IX Jarabe de Maltosa es un jarabe de maíz especialmente producido por medio de una conversión acidó-enzimática que contiene como mayor carbohidrato constituyente la maltosa. Ha sido desmineralizado para contener bajos niveles de sales y SO2.Este jarabe de alta maltosa mejora sabor, cuerpo y textura en sustituciones altas de azúcar impartiendo resistencia a la formación de color, absorción de humedad y cristalización en productos terminados como el caramelo macizo. Ayuda a producir productos terminados con una excelente estabilidad, claridad y brillantez.</td>
                     </tr>
                     <tr>
                         <td style="border:solid 1px #C0C0C0;padding:5px;background-color:#C0C0C0;"></td>
                         <td style="border:solid 1px #C0C0C0;background-color:#C0C0C0;"></td>
                     </tr>
                     <tr>
-                        <td style="border:solid 1px #C0C0C0;padding:10px;" class="Tipografia--general colornegro">Clearsweet® 41/43 Jarabe de Maíz</td>
-                        <td style="border:solid 1px #C0C0C0;text-align:justify;padding:10px;padding:10px;" class="Tipografia--general colornegro">El Clearsweet® 41/43 Jarabe de Maíz es un jarabe carbón-refinado que sirve para diversas a aplicaciones alimenticias. Su moderado dulzor lo hace ideal para usarse en jarabes de mesa, jaleas y gelatinas. Adicional al dulzor el Clearsweet® 41/43 Jarabe de Maíz provee cuerpo en productos como bebidas, salsas y condimentos, y provee protección a la cristalización en productos como helados y confitería.</td>
+                        <td style="border:solid 1px #C0C0C0;padding:10px;" class="Tipografia--general colornegro General--Cuerpo">Clearsweet® 41/43 Jarabe de Maíz</td>
+                        <td style="border:solid 1px #C0C0C0;text-align:justify;padding:10px;padding:10px;" class="Tipografia--general colornegro General--Cuerpo">El Clearsweet® 41/43 Jarabe de Maíz es un jarabe carbón-refinado que sirve para diversas a aplicaciones alimenticias. Su moderado dulzor lo hace ideal para usarse en jarabes de mesa, jaleas y gelatinas. Adicional al dulzor el Clearsweet® 41/43 Jarabe de Maíz provee cuerpo en productos como bebidas, salsas y condimentos, y provee protección a la cristalización en productos como helados y confitería.</td>
                     </tr>
                     <tr>
                     <td style="border:solid 1px #C0C0C0;padding:5px;background-color:#C0C0C0;"></td>
                     <td style="border:solid 1px #C0C0C0;background-color:#C0C0C0;"></td>
                     </tr>
                     <tr>
-                        <td style="border:solid 1px #C0C0C0;padding:10px;" class="Tipografia--general colornegro">Clearsweet® 63/43 Jarabe de Maíz</td>
-                        <td style="border:solid 1px #C0C0C0;text-align:justify;padding:10px;" class="Tipografia--general colornegro">El Clearsweet® 63/43 Jarabe de Maíz es un jarabe carbón-refinado. La conversión enzimática de largas cadenas de dextrina en mona y disacáridos le da al Clearsweet® 63/43 Jarabe de Maíz una alta concentración de azucares fermentables. Esta propiedad junto con el alto poder edulcorante y baja viscosidad, lo hace un excelente jarabe para panificación, saborizante, confiterías, bebidas entre otras aplicaciones.</td>
+                        <td style="border:solid 1px #C0C0C0;padding:10px;" class="Tipografia--general colornegro General--Cuerpo">Clearsweet® 63/43 Jarabe de Maíz</td>
+                        <td style="border:solid 1px #C0C0C0;text-align:justify;padding:10px;" class="Tipografia--general colornegro General--Cuerpo">El Clearsweet® 63/43 Jarabe de Maíz es un jarabe carbón-refinado. La conversión enzimática de largas cadenas de dextrina en mona y disacáridos le da al Clearsweet® 63/43 Jarabe de Maíz una alta concentración de azucares fermentables. Esta propiedad junto con el alto poder edulcorante y baja viscosidad, lo hace un excelente jarabe para panificación, saborizante, confiterías, bebidas entre otras aplicaciones.</td>
                     </tr>
                     <tr>
                     <td style="border:solid 1px #C0C0C0;background-color:#C0C0C0;padding:5px;"></td>
@@ -762,8 +763,8 @@
 
                     </tr>
                     <tr>
-                        <td style="border:solid 1px #C0C0C0;padding:10px;" class="Tipografia--general colornegro">Cleardex® 36/43 Jarabe de Maíz</td>
-                        <td style="border:solid 1px #C0C0C0;text-align:justify;padding:10px;" class="Tipografia--general colornegro">El Cleardex® 36/43 Jarabe de Maíz es in jarabe de maíz obtenido por medio de una conversión acidó-enzimática con bajo nivel de D.E: Es de sabor ligeramente suave y es usado cundo se requiere un nivel de dulzor bajo. Propiedades como estabilidad al choque térmico, agente espesante y control de cristalización hacen de Cleardex® 36/43 Jarabe de Maíz sea una elección ideal para uso helados, productos congelados y botanas.</td>
+                        <td style="border:solid 1px #C0C0C0;padding:10px;" class="Tipografia--general colornegro General--Cuerpo">Cleardex® 36/43 Jarabe de Maíz</td>
+                        <td style="border:solid 1px #C0C0C0;text-align:justify;padding:10px;" class="Tipografia--general colornegro General--Cuerpo">El Cleardex® 36/43 Jarabe de Maíz es in jarabe de maíz obtenido por medio de una conversión acidó-enzimática con bajo nivel de D.E: Es de sabor ligeramente suave y es usado cundo se requiere un nivel de dulzor bajo. Propiedades como estabilidad al choque térmico, agente espesante y control de cristalización hacen de Cleardex® 36/43 Jarabe de Maíz sea una elección ideal para uso helados, productos congelados y botanas.</td>
                     </tr>
                 </table>
                 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Brochure</b></h5>
