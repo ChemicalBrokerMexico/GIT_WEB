@@ -414,10 +414,10 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <div class="container">
     <div class="row" style="margin-bottom:0px;">
         <div class="col s12 m12 l12 xl12">
-        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b  >Glicoles</b></h5>
+        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Glicoles</b></h5>
   <p class="Tipografia--general letranegro General--Cuerpo">Los Glicoles son un tipo de compuesto químico orgánico que contiene dos grupos hidroxilos (grupos -OH) que resultan de la reacción del agua con el óxido de etileno.
   Científicamente se denominan dioles (alcoholes bivalentes), que se desvían del etilenglicol (denominados 1,2-dioles, dioles vecinales o alcanos). Los derivados de etilenglicol cuyos grupos hidroxilos no están ordenados de forma vecinal se denominan glicoles. Los glicoles se encuentran con frecuencia en refrigerantes y anticongelantes, así como en productos de descongelación, ya que el punto de fusión de −10 a −15 °C (concentrado) está por debajo del punto de fusión del agua. En combinación con el agua (mezcla de glicol con agua), el punto de fusión es todavía muy inferior y, dependiendo de la proporción de la mezcla, puede alcanzar hasta los -55 °C.</p>
-  <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Todos los glicoles se presentan en forma de líquido claro, transparente, inodoro y de baja volatilidad. Los glicoles de poco peso molecular son totalmente miscibles en agua y la mayoría cuentan con una gran capacidad para disolverse en casi todos los compuestos orgánicos.</p>
+  <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Todos los glicoles se presentan en forma de líquido claro, transparente, inodoro y de baja volatilidad. Los glicoles de poco peso molecular son totalmente miscibles en agua y la mayoría cuentan con una gran capacidad para disolverse en casi todos los compuestos orgánicos.</p>
     <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Información Técnica Glicoles</b></h5>
 
         <table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">

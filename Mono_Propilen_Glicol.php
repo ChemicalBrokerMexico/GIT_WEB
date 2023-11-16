@@ -630,7 +630,7 @@
             <div class="col s12 m12 l12 xl12">
                 <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Tipos de
                         propilenglicol</b></h5>
-                <p class="Tipografia--general letranegro General--Cuerpo">Es importante saber que en el mercado están
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">Es importante saber que en el mercado están
                     disponibles dos
                     tipos de Propilenglicol, el primero de Grado Técnico, dirigido al sector industrial y el
                     Propilenglicol Grado USP o Grado Farmacéutico, el cual es el único que puede utilizarse en
@@ -638,7 +638,7 @@
             </div>
             <div class="col s12 m12 l12 xl12">
                 <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Grado Técnico</b></h5>
-                <p class="Tipografia--general letranegro General--Cuerpo">El Propilenglicol de Grado Técnico es un
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">El Propilenglicol de Grado Técnico es un
                     coproducto de alta
                     pureza obtenido a partir de la fabricación de óxido de propileno mediante el proceso de peróxido de
                     hidrógeno. Se trata de un producto destilado con una especificación de pureza superior a 99.5%. Se
@@ -648,13 +648,13 @@
             <div class="col s12 m12 l12 xl12">
                 <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Grado USP o Grado
                         Farmacéutico</b></h5>
-                <p class="Tipografia--general letranegro General--Cuerpo">Para aplicaciones en la industria
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">Para aplicaciones en la industria
                     farmacológica, higiene y cuidado personal, cosmética y alimentos solo se debe utilizar el
                     Propilenglicol USP.</p>
             </div>
             <div class="col s12 m12 l12 xl12">
                 <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Farmacéutica</b></h5>
-                <p class="Tipografia--general letranegro General--Cuerpo">El Propilenglicol está presente en ámbitos tan
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">El Propilenglicol está presente en ámbitos tan
                     variados como el de perfumería, cosmética, alimentación y farmacia. Para utilizarlo en estos
                     sectores el Propilenglicol debe ser Grado USP o Grado Farmacéutico, debe cumplir la estricta
                     normativa USP (United States Pharmacopeia) y la EP ( European Pharmacopoeia). El Propilenglicol USP
@@ -664,14 +664,14 @@
             </div>
             <div class="col s12 m12 l12 xl12">
                 <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Alimentos</b></h5>
-                <p class="Tipografia--general letranegro General--Cuerpo">El Propilenglicol USP es el único apropiado
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">El Propilenglicol USP es el único apropiado
                     para su aplicación en alimentos, debido que es incoloro, inodoro y carece de sabor propio se ha
                     convertido en el portador ideal de sabores distintivos de una gran variedad de alimentos habituales
                     en nuestro día a día. </p>
-                <p class="Tipografia--general letranegro General--Cuerpo">Además, el Propilenglicol USP está aprobado
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">Además, el Propilenglicol USP está aprobado
                     para ser utilizado como aditivo alimentario con el número E1520 con un límite máximo estricto de 1 g
                     por cada kg en alimentos humanos. </p>
-                <p class="Tipografia--general letranegro General--Cuerpo">También se utiliza el Propilenglicol USP en la
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">También se utiliza el Propilenglicol USP en la
                     alimentación animal por su propiedad inherente de atraer el agua, ayudando a mantener los piensos
                     húmedos, frescos, y masticables, haciéndolos más fáciles de digerir para nuestros perros y también
                     para el ganado. </p>

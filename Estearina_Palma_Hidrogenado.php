@@ -734,14 +734,14 @@
             grande del mundo Productor y Exportador de Aceite de Palma. La producción de aceite de palma es importante
             para la economía de Indonesia, ya que el país es el mayor productor y exportador mundial de este producto.
             Indonesia proporciona más de la mitad del suministro mundial de aceite de palma.</p>
-          <p class="letranegro General--Cuerpo Tipografia--general">Producción y exportaciones de aceite de palma de
+          <p class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;">Producción y exportaciones de aceite de palma de
             Indonesia representa actualmente el 55% de la producción mundial de aceite de palma y el 60% de las
             exportaciones mundiales. Toda la producción de aceite de palma se deriva de la selva tropical de Indonesia,
             que ocupa el tercer lugar en el mundo, los otros dos se encuentran en las cuencas del Amazonas y el Congo.
           </p>
         </div>
         <div class="col s12 m12 l12 xl12">
-          <table class="center-align">
+          <table class="center-align" style="margin-top:50px;">
 
             <tr>
               <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;font-size:18px" class="center-align">Año
@@ -775,7 +775,7 @@
             representa el 15% y el 30% de la producción y exportación total mundial de aceites y grasas.</p>
         </div>
 
-        <table class="center-align" >
+        <table class="center-align" style="margin-top:50px;">
 
           <tr>
             <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;font-size:18px" class="center-align">Año
