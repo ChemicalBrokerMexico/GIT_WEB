@@ -41,7 +41,7 @@ $(document).ready(function(){
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro">Chemical Broker ofrece una amplia gama de Alcoholes Grasos de fracción media y fracción pesada a partir de materias primas naturales sostenibles. </p>
     <p class="Tipografia--general General--Cuerpo letranegro">Nuestras relaciones de negocios con nuestros fabricantes en America, Europa y Asia brindan capacidad de respuesta y garantía de suministro en todo el mundo.
-    <p class="Tipografia--general Botones letranegro" style="position:absolute;left:10px;bottom:-30px"><b><a href="Alcoholes_Grasos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    <p class="Tipografia--general Botones letranegro" style="position:absolute;left:10px;bottom:-10px"><b><a href="Alcoholes_Grasos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
 
@@ -363,7 +363,7 @@ $(document).ready(function(){
     <h5 class="Tipografia--general Titulos"><b>Sebo Alto Hidrogenado</b></h5>
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro">El Sebo Alto Hidrogenado (HFTA),por sus siglas en ingles, es conocido por su notable versatilidad, lo que lo convierte en un aditivo común en una amplia gama de productos. El ácido graso de sebo hidrogenado (HFTA) se utiliza como intermediario en lubricantes y aceites para laminación, como emoliente en productos para el cuidado personal y como emulsionante en una variedad de aplicaciones.</p>
-    <p class="Tipografia--general Botones letranegro Leeracidgrass" style="position:absolute;left:10px;bottom:-30px"><b><a href="Sebo_Alto_Hidrogeno.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    <p class="Tipografia--general Botones letranegro Leeracidgrass" style="position:absolute;left:10px;bottom:-133px"><b><a href="Sebo_Alto_Hidrogeno.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
     
@@ -434,15 +434,15 @@ function filtroall(){
 
 
     <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l6 xl6 center-align">
+    <div class="col s12 m12 l6 xl6 center-align div-fotoprod">
     <img src="img/CB_ALCOHOL_ISOPROPILICO.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
     </div>
-    <div class= "col s12 m12 l6 xl6 columnas_acidos_grasos">
+    <div class= "col s12 m12 l6 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Alcohol Isopropilico</b></h5>
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro">El Alcohol Isopropilico (propan-2-ol, Isopropanol o 2-propanol), es un compuesto orgánico incoloro e inflamable con un olor a alcohol acre.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Se utiliza en la fabricación de una amplia variedad de productos químicos industriales y domésticos y es un ingrediente común en productos como antisépticos, desinfectantes y detergentes.
-    <p class="Tipografia--general Botones letranegro LeeralcoholIsopropilico"><b><a href="Alcohol_Isopropilico.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    <p class="Tipografia--general Botones letranegro LeeralcoholIsopropilico" style="position:absolute;left:10px;bottom:-30px"><b><a href="Alcohol_Isopropilico.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
 
@@ -793,15 +793,15 @@ function filtroa(){
     </div>
 
     <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l6 xl6 center-align">
+    <div class="col s12 m12 l6 xl6 center-align div-fotoprod">
     <img src="img/CB_ALCOHOL_ISOPROPILICO.jpg" alt="" style="width:100%;border-radius:10px;" class="zoom">
     </div>
-    <div class= "col s12 m12 l6 xl6 columnas_acidos_grasos">
+    <div class= "col s12 m12 l6 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Alcohol Isopropilico</b></h5>
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro">El Alcohol Isopropilico (propan-2-ol, Isopropanol o 2-propanol), es un compuesto orgánico incoloro e inflamable con un olor a alcohol acre.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Se utiliza en la fabricación de una amplia variedad de productos químicos industriales y domésticos y es un ingrediente común en productos como antisépticos, desinfectantes y detergentes.
-    <p class="Tipografia--general Botones letranegro LeeralcoholIsopropilico"><b><a href="Alcohol_Isopropilico.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    <p class="Tipografia--general Botones letranegro LeeralcoholIsopropilico" style="position:absolute;left:10px;bottom:-30px"><b><a href="Alcohol_Isopropilico.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
 

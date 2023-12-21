@@ -420,7 +420,7 @@ li {
 
     .titulo_submercado {
         font-family: Arial;
-        font-size: 6px;
+        font-size: 12px;
         color: white;
         /* margin-top: 23px; */
     }
@@ -739,7 +739,7 @@ font-size: 12px;
     }
 
     .leer_mas_mercados {
-        font-size: 7px;
+        font-size: 12px;
         margin-left: 0%;
         margin-top: 0px;
     }
@@ -1301,7 +1301,7 @@ font-size: 12px;
 
     .titulo_submercado {
         font-family: Arial;
-        font-size: 11px;
+        font-size: 16px;
         color: white;
         /* margin-top: 23px; */
     }
@@ -1647,7 +1647,7 @@ font-size: 12px;
     }
 
     .leer_mas_mercados {
-        font-size: 11px;
+        font-size: 16px;
         margin-left: 0%;
     }
 
@@ -2055,6 +2055,10 @@ font-size: 12px;
 
     .PG_LOGO{
         width: 25%;
+    }
+
+    .titulo_submercado{
+     font-size:16px;
     }
 }
 
@@ -5155,6 +5159,25 @@ margin-top:85px;
         .div-textoprod{
             height:350px;
         }
+
+        .contenedor-texto{
+            position: relative;
+            display: inline-block;
+            text-align: center;
+        }
+
+        .texto-encima{
+          position: absolute;
+          top: 280px;
+          left: 20px;
+        }
+
+        .centrado{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
 }
 
 @media only screen and (min-width:2143px) {
@@ -5174,11 +5197,11 @@ margin-top:85px;
     }
 
     .divfooter:before {
-        margin: 9px -2px 35px 5px;
+        margin: 25px -5px 22px 5px;
     }
 
     .divfooter:after {
-        margin: 0px -2px 35px -2px;
+        margin: 25px -5px 22px 5px;
     }
 
     .divfooter2:before,
@@ -5190,13 +5213,7 @@ margin-top:85px;
         content: "";
     }
 
-    .divfooter2:before {
-        margin: 0px -2px 35px 5px;
-    }
-
-    .divfooter2:after {
-        margin: 0px 5px 35px -2px;
-    }
+    
 
     #chefle {
         display: flex !important;
@@ -5261,11 +5278,11 @@ margin-top:85px;
     }
 
     .divfooter2:before {
-        margin: 0px -2px 39px 5px;
+        margin: 25px -6px 22px 5px;
     }
 
     .divfooter2:after {
-        margin: 0px 5px 39px -2px;
+        margin: 25px 6px 22px 5px;
     }
 
     #chefle {
@@ -5314,11 +5331,11 @@ margin-top:85px;
     }
 
     .divfooter:before {
-        margin: 9px -2px 39px 5px;
+        margin: 0px -2px 21px 5px;
     }
 
     .divfooter:after {
-        margin: 0px -2px 39px -2px;
+        margin: 0px -2px 21px 5px;
     }
 
     .divfooter2:before,
@@ -5330,13 +5347,7 @@ margin-top:85px;
         content: "";
     }
 
-    .divfooter2:before {
-        margin: 0px -2px 39px 5px;
-    }
-
-    .divfooter2:after {
-        margin: 0px 5px 39px -2px;
-    }
+  
 
     #chefle {
         display: flex !important;
@@ -5400,11 +5411,11 @@ margin-top:85px;
     }
 
     .divfooter2:before {
-        margin: 0px -2px 48px 5px;
+        margin: 0px -2px 24px 0px;
     }
 
     .divfooter2:after {
-        margin: 0px 5px 48px -2px;
+        margin: 0px -2px 24px 0px;
     }
 
     #chefle {

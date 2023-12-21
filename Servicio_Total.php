@@ -20,7 +20,7 @@
     <script>new WOW().init();</script>
     <script type="text/javscript" src="js/materialize.min.js?n=1"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
-    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.js"></script>
+        <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.js"></script>
     <script type="text/javascript" charset="utf8" src="js/Buscador.js?n=1"></script>
     <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/responsive/2.2.6/js/dataTables.responsive.js"></script>
     <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
@@ -158,7 +158,7 @@
                     <ul> 
                       <p class="color--blanco"><b class="Tipografia--general Titulos">Compañia</b></p>
                       <hr class="hr"/>
-                      <ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Nosotros<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br/><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br/><a class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br/><a class="arrowblue Tipografia--general Subtitulos" href="Valores.php">Valores <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br/><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br/><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
+                      <ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Nosotros <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br/><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br/><a class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br/><a class="arrowblue Tipografia--general Subtitulos" href="Valores.php">Valores <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br/><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br/><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
                     </ul>
                   </section>
                 </div>
@@ -167,7 +167,7 @@
                     <ul> 
                       <p class="color--blanco"><b class="Tipografia--general Titulos">Politicas </b>
                         <hr class="hr"/>
-                        <li> <a class="arrowblue Tipografia--general Subtitulos" href="Code_of_Conduct.php">Codigo de Conducta Interno<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                        <li> <a class="arrowblue Tipografia--general Subtitulos" href="Code_of_Conduct.php">Codigo de Conducta Organizacional <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                         <li> <a class="arrowblue Tipografia--general Subtitulos" href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download="download">Politica de Privacidad <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                         <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
@@ -413,7 +413,10 @@
           </ol>
         </div>
       </div>
-      <div class="row" style="margin-top:30px">
+
+  
+
+      <!-- <div class="row" style="margin-top:30px">
         <div class="col s12 m12 l12 xl6 mercados zoom">
             <div class="contenedor">
               <div class="transfo" id="overlay" style="border-radius:10px"></div>
@@ -427,8 +430,8 @@
           <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify;">Los productos que ofrecemos a nuestros clientes cumplen, con las normas internacionales de Calidad, Inocuidad y Buenas Prácticas de Manufactura  <b style="color:#262137">(BPM´s), </b> las cuales podrán consultarse en la siguiente página <a href="Cumplimiento.php" style="color:blue !important">Normas de Calidad Mundial </a>
           </p><br/><br/><br/><br/><br/>
         </div>
-      </div>
-      <div class="row in-view animate__animated animate__bounceInLeft" style="margin-top:150px">
+      </div> -->
+      <!-- <div class="row in-view animate__animated animate__bounceInLeft" style="margin-top:150px">
         <div class="col s12 m12 l12 xl6 mercados zoom" style="float:right">
             <div class="contenedor">
               <div class="transfo" id="overlay" style="border-radius:10px"></div>
@@ -445,8 +448,8 @@
           </p>
           <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify;margin-top:50px;">Nuestra Logística está certificada en las normas internacionales ISO 90001 & FSCC 22,000, en cumplimiento con los máximos estándares de sanitización, inocuidad y tiempo. <br/><br/><br/><br/><br/></p>
         </div>
-      </div>
-      <div class="row in-view animate__animated animate__bounceInLeft" style="margin-top:150px">
+      </div> -->
+      <!-- <div class="row in-view animate__animated animate__bounceInLeft" style="margin-top:150px">
         <div class="col s12 m12 l12 xl6 mercados zoom">
             <div class="contenedor">
               <div class="transfo" id="overlay" style="border-radius:10px"></div>
@@ -460,8 +463,8 @@
           <p class="letranegro Tipografia--general General--Cuerpo" style="text-align:justify"><b>Garantizamos</b> la entera satisfacción de nuestros socios de negocios, con productos en óptimas condiciones de calidad (calidad mundial), vida de anaquel, cumplimento a especificaciones, correcto empaque, cumplimento a características solicitadas previamente y atención prioritaria ante cualquier no conformidad que pudiera presentarse.<br/><br/><br/><br/><br/>
           </p>
         </div>
-      </div>
-      <div class="row in-view animate__animated animate__bounceInLeft" style="margin-top:150px">
+      </div> -->
+      <!-- <div class="row in-view animate__animated animate__bounceInLeft" style="margin-top:150px">
         <div class="col s12 m12 l12 xl6 mercados zoom" style="float:right">
             <div class="contenedor">
               <div class="transfo" id="overlay" style="border-radius:10px"></div>
@@ -474,8 +477,8 @@
           <h6 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios </i><b style="color: #262137;text-decoration: underline;text-decoration-color:#F7291E;">En Chemical Broker</b></h6>
           <p class="letranegro General--Cuerpo Tipografia--general" style="text-align: justify;">Ofrecemos coberturas de riesgo para cubrir cualquier incidente, que pudiera suscitarse durante la operación de compra – venta.<br/><br/><br/><br/><br/></p>
         </div>
-      </div>
-      <div class="row in-view animate__animated animate__bounceInLeft" style="margin-top:150px">
+      </div> -->
+      <!-- <div class="row in-view animate__animated animate__bounceInLeft" style="margin-top:150px">
         <div class="col s12 m12 l12 xl6 mercados zoom">
             <div class="contenedor">
               <div class="transfo" id="overlay" style="border-radius:10px"></div>
@@ -493,8 +496,8 @@
             <li style="font-size:16px"><b style="color:#262137">Valor de Mercado.</b></li><br/>
           </ol>
         </div>
-      </div>
-      <div class="row in-view animate__animated animate__bounceInLeft" style="margin-top:150px">
+      </div> -->
+      <!-- <div class="row in-view animate__animated animate__bounceInLeft" style="margin-top:150px">
         <div class="col s12 m12 l12 xl6 mercados zoom" style="float:right">
             <div class="contenedor">
               <div class="transfo" id="overlay" style="border-radius:10px"></div>
@@ -510,8 +513,127 @@
           <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px">Nuestro proceso de ventas es estandarizado acorde a la Norma Internacional ISO 9001, para reducir las omisiones, errores o falta de un servicio eficiente.</p>
           <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px">La venta de nuestros productos químicos se realiza con una atención personalizada para conocer, entender y satisfacer las necesidades de nuestros clientes.</p><br/>
         </div><br/>
-      </div>
+      </div> -->
     </div>
+
+    <div class="container">
+
+<div class="row">
+  
+<div class="col s12 m12 l6 xl6">
+  <div class="card" style="border-radius:15px;">
+<div class="card-image waves-effect waves-block waves-light">
+<img class="activator" src="img/QUIMICA.jpg">
+</div>
+<div class="card-content">
+<span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Calidad Mundial<i class="material-icons right">arrow_upward</i></b></span>
+</div>
+<div class="card-reveal">
+<span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+<h6 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios </i><b style="color:#262137;text-decoration:underline;text-decoration-color:#F7291E">En Chemical Broker </b></h6>
+          <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify;">Los productos que ofrecemos a nuestros clientes cumplen, con las normas internacionales de Calidad, Inocuidad y Buenas Prácticas de Manufactura  <b style="color:#262137">(BPM´s), </b> las cuales podrán consultarse en la siguiente página <a href="Cumplimiento.php" style="color:blue !important">Normas de Calidad Mundial </a>
+          </p><br/><br/><br/><br/><br/>
+</div>
+</div>
+  </div>
+
+  <div class="col s12 m12 l6 xl6">
+  <div class="card" style="border-radius:15px;">
+<div class="card-image waves-effect waves-block waves-light">
+<img class="activator" src="img/PIPA_CB.jpg">
+</div>
+<div class="card-content">
+<span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Abastecimiento Oportuno<i class="material-icons right">arrow_upward</i></b></span>
+</div>
+<div class="card-reveal">
+<span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+<h6 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios </i><b style="color:#262137;text-decoration: underline;text-decoration-color:#F7291E">Para Chemical Broker </b></h6>
+          <h5 class="Tipografia--general letranegro General--Cuerpo"><b>"No hay producto más caro, que aquel que No se tiene"</b></h5>
+          <p class="Tipografia--general letranegro General--Cuerpo" style="text-align: justify;">Trabajamos con pronósticos de consumos trimestrales, semestrales y anuales con nuestros socios de negocios; lo cual garantiza la cantidad de producto solicitado y permite cumplir en tiempo y forma con sus requerimientos.       </p>
+          <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify;margin-top:50px;">Contamos con Centros de Distribución en cumplimiento con Buenas Prácticas de Manufactura (BMP´s) y Certificados en las Normas Internacionales &nbsp<b style="color:#262137">ISO 9001 & FSSC 22,000, </b>en las principales Ciudad de México, con una capacidad de almacenamiento de 30 días naturales, para el consumo programado de nuestros socios de negocios.
+          </p>
+          <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify;margin-top:50px;">Nuestra Logística está certificada en las normas internacionales ISO 90001 & FSCC 22,000, en cumplimiento con los máximos estándares de sanitización, inocuidad y tiempo. <br/><br/><br/><br/><br/></p>
+</div>
+</div>
+  </div>
+
+
+  <div class="col s12 m12 l6 xl6">
+  <div class="card" style="border-radius:15px;">
+<div class="card-image waves-effect waves-block waves-light">
+<img class="activator" src="img/CB_WARRANTY.jpg">
+</div>
+<div class="card-content">
+<span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Garantia del Producto<i class="material-icons right">arrow_upward</i></b></span>
+</div>
+<div class="card-reveal">
+<span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+<h6 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios</i><b style="color: #262137;text-decoration: underline;text-decoration-color:#F7291E;">En Chemical Broker:</b></h6>
+          <p class="letranegro Tipografia--general General--Cuerpo" style="text-align:justify"><b>Garantizamos</b> la entera satisfacción de nuestros socios de negocios, con productos en óptimas condiciones de calidad (calidad mundial), vida de anaquel, cumplimento a especificaciones, correcto empaque, cumplimento a características solicitadas previamente y atención prioritaria ante cualquier no conformidad que pudiera presentarse.<br/><br/><br/><br/><br/>
+</div>
+</div>
+  </div>
+
+  <div class="col s12 m12 l6 xl6">
+  <div class="card" style="border-radius:15px;">
+<div class="card-image waves-effect waves-block waves-light">
+<img class="activator" src="img/CB_COBERTURA_RIESGOS.jpg">
+</div>
+<div class="card-content">
+<span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Seguridad del Producto<i class="material-icons right">arrow_upward</i></b></span>
+</div>
+<div class="card-reveal">
+<span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+<h6 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios </i><b style="color: #262137;text-decoration: underline;text-decoration-color:#F7291E;">En Chemical Broker</b></h6>
+          <p class="letranegro General--Cuerpo Tipografia--general" style="text-align: justify;">Ofrecemos coberturas de riesgo para cubrir cualquier incidente, que pudiera suscitarse durante la operación de compra – venta.<br/><br/><br/><br/><br/></p>
+</div>
+</div>
+  </div>
+
+  <div class="col s12 m12 l6 xl6">
+  <div class="card" style="border-radius:15px;">
+<div class="card-image waves-effect waves-block waves-light">
+<img class="activator" src="img/sale.jpg">
+</div>
+<div class="card-content">
+<span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Precios Justos y Competitivos<i class="material-icons right">arrow_upward</i></b></span>
+</div>
+<div class="card-reveal">
+<span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+<h6 class="General--Cuerpo letranegro Tipografia--general"><i class="tiny material-icons">arrow_forward_ios </i><b style="color: #262137;text-decoration: underline;text-decoration-color:#F7291E;">En Chemical Broker</b></h6>
+          <p class="letranegro General--Cuerpo Tipografia--general">El valor de nuestros productos químicos es definido acorde a los siguientes rubros:</p>
+          <ol class="Tipografia--general letranegro General--Cuerpo">
+            <li style="font-size:16px"> <b style="color:#262137">Calidad,</b></li><br/>
+            <li style="font-size:16px"><b style="color:#262137">Certificaciones, </b></li><br/>
+            <li style="font-size:16px"><b style="color:#262137">Valor de Mercado.</b></li><br/>
+          </ol>
+</div>
+</div>
+  </div>
+
+  <div class="col s12 m12 l6 xl6">
+  <div class="card" style="border-radius:15px;">
+<div class="card-image waves-effect waves-block waves-light">
+<img class="activator" src="img/CB_CONTACTO.jpg">
+</div>
+<div class="card-content">
+<span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Atencion Personal Pre, Inter y Post-Venta<i class="material-icons right">arrow_upward</i></b></span>
+</div>
+<div class="card-reveal">
+<span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+<h6 class="General--Cuerpo Tipografia--general letranegro"><i class="tiny material-icons">arrow_forward_ios </i><b style="color: #262137;text-decoration: underline;text-decoration-color:#F7291E;">En Chemical Broker:</b></h6>
+          <p class="Tipografia--general letranegro General--Cuerpo">Nuestra organización está formada por miembros especializados, en cada uno de los puestos de trabajo donde desarrollan sus habilidades estratégicas y operativas.</p>
+          <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px">Los Ejecutivos de Ventas de Chemical Broker son personas especializadas en la industria química para cada una de las divisiones que atendemos, (por ejemplo: Ingenieros en Alimentos, Ingenieros Químicos, Químicos Farmacobiólogo, etc.).</p>
+          <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px">Nuestro proceso de ventas es estandarizado acorde a la Norma Internacional ISO 9001, para reducir las omisiones, errores o falta de un servicio eficiente.</p>
+          <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px">La venta de nuestros productos químicos se realiza con una atención personalizada para conocer, entender y satisfacer las necesidades de nuestros clientes.</p><br/>
+</div>
+</div>
+  </div>
+
+  </div>
+  
+</div>
+
     <footer class="altofooter">
       <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""/></div><br/><br/>
       <div class="container-fluid center-align" style="margin-top:-50px">

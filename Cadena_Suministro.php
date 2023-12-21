@@ -621,8 +621,8 @@
   <div class="container">
     <div class="row">
       <div class="col s12 m12 l12 xl12">
-        <h5 class="colornegro Tipografia--general General--Cuerpo" style="text-align:center;font-size:24px"><b
-            style="color:#000020;margin-bottom:0px">Cadena de Suministros</b></h5>
+        <!-- <h5 class="colornegro Tipografia--general General--Cuerpo" style="text-align:center;font-size:24px"><b
+            style="color:#000020;margin-bottom:0px">Cadena de Suministros</b></h5> -->
         <h5 class="Tipografia--general General--Cuerpo"
           style="text-align:center;color:#0065ad;margin-top:50px;font-size:25px;margin-bottom:0px"><b style="color: #0065ad">“La cadena de suministros contempla todos los aspectos involucrados en una operación para la obtención de un producto o un servicio , que va desde su adquisición , hasta la entrega al cliente final.</b></h5>
       

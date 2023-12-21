@@ -19,8 +19,8 @@
     <script>new WOW().init();</script>
     <script type="text/javscript" src="js/materialize.min.js"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
-    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.js"></script>
-    <script type="text/javascript" charset="utf8" src="js/Buscador.js"></script>
+        <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.js"></script>
+    <script type="text/javascript" charset="utf8" src="js/Buscador.js?n=1"></script>
     <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/responsive/2.2.6/js/dataTables.responsive.js"></script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
     <script>
@@ -167,7 +167,7 @@ recaptchaResponse.value = token;
                     <ul> 
                       <p style="color:white;"><b class="Tipografia--general Titulos">Compañia</b></p>
                       <hr class="hr">
-                      <ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Nosotros<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Valores.php">Valores &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
+                      <ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Nosotros <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Valores.php">Valores &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
                     </ul>
                   </section>
                 </div>
@@ -397,7 +397,7 @@ recaptchaResponse.value = token;
         <ul class="slides slides-pruea">
           <li> <img src="img/probar10.jpg" style="height:400px;">
             <div class="caption center-align"><br><br><br><br>
-              <h3 class="primertitulo"><b class="boldbanner">Chemical Broker</b><br></h3><b class="segundotitulo" style="font-size:26px">Contacto </b>
+              <h3 class="primertitulo"><b class="boldbanner">Chemical Broker</b><br></h3><b class="segundotitulo" style="font-size:26px">Contacta con Nuestro Equipo de Especialistas </b>
             </div>
           </li>
         </ul>
@@ -406,7 +406,7 @@ recaptchaResponse.value = token;
     <div class="container">
       <div class="row">
         <div class="vcol s12 m12 l12 xl12">
-          <section style="margin-top:125px;width:150px"><a class="breditem active" href="index.php" style="color: #000020 !important;"><b>Inicio &nbsp</b><b>  >&nbsp</b></a><a class="breditem active" href="Contact.php" style="color: #000020 !important;margin-left: -2px;"><b class="Tipografia--general letranegro Subtitulos breadcrumb"> Contacto </b></a></section>
+          <section style="margin-top:125px;width:150px"><a class="breditem active" href="index.php" style="color: #000020 !important;"><b>Inicio &nbsp</b><b>  >&nbsp</b></a><a class="breditem active" href="Contact.php" style="color: #000020 !important;margin-left: -2px;"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Contacto</b></a></section>
         </div>
       </div>
     </div>
@@ -420,18 +420,22 @@ recaptchaResponse.value = token;
     </div>
     <div class="container">
       <div class="row">
-        <div class="col s12 m6 l6 xl6">
-          <h6><b style="color:#000020">Ventas </b></h6>
-          <p class="Tipografia--general letranegro General--Cuerpo"><b>Teléfono: </b><a href="tel:+525575861888" class="arrowblue Tipografia--general General--Cuerpo" style="color:black">+52.55.7586.1888</a><br><span><b class="Tipografia--general General--Cuerpo">Correo Electrónico:</b></span><a href="mailto:sales@chemicalbroker.mx" style="color:black;font-size:16px" class="arrowblue Tipografia--general General--Cuerpo"> sales@chemicalbroker.mx</a></p>
+        <div class="col s12 m6 l6 xl6" >
+          <div style="border:1px solid black;">
+          <h6 style="padding:10px;background-color: #000020;margin-top:0px;"><b style="color:white"><center>Ventas</center></b></h6>
+          <p class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;"><b>Teléfono: </b><a href="tel:+525575861888" class="arrowblue Tipografia--general General--Cuerpo" style="color:black">+52.55.7586.1888</a><br><span><b class="Tipografia--general General--Cuerpo">Correo Electrónico:</b></span><a href="mailto:sales@chemicalbroker.mx" style="color:black;font-size:16px" class="arrowblue Tipografia--general General--Cuerpo"> sales@chemicalbroker.mx</a></p>
+          </div>
         </div>
         <div class="col s12 m6 l6 xl6">
-          <h6> <b style="color:#000020" class="Tipografia--general letranegro General--Cuerpo">Información General</b></h6>
-          <p style="font-size:14px !important" class="Tipografia--general letranegro General--Cuerpo"><b class="Tipografia--general General--Cuerpo">Teléfono:</b><a href="tel:+525575861818" class="arrowblue Tipografia--general General--Cuerpo" style="color:black">+52.55.7586.1818</a><br><span><b class="Tipografia--general General--Cuerpo">Correo Electrónico:</b></span><a href="mailto:info@chemicalbroker.mx" style="color:black;font-size:16px" class="arrowblue General--Cuerpo Tipografia--general"> info@chemicalbroker.mx</a></p>
+        <div style="border:1px solid black;height:151px;">
+          <h6 style="padding:10px;background-color:#000020;margin-top:0px;"><b style="color:white" class="Tipografia--general letranegro General--Cuerpo"><center>Información General</center></b></h6>
+          <p style="padding:10px;" class="Tipografia--general letranegro General--Cuerpo"><b class="Tipografia--general General--Cuerpo">Teléfono:</b><a href="tel:+525575861818" class="arrowblue Tipografia--general General--Cuerpo" style="color:black">+52.55.7586.1818</a><br><span><b class="Tipografia--general General--Cuerpo">Correo Electrónico:</b></span><a href="mailto:info@chemicalbroker.mx" style="color:black;font-size:16px" class="arrowblue General--Cuerpo Tipografia--general"> info@chemicalbroker.mx</a></p>
+          </div>
         </div>
       </div>
     </div>
     <div class="container" style="margin-top:50px">
-      <form action="envio_correo.php" method="POST" id="enviocorreo">
+      <form action="envio_correo.php" method="POST" id="enviocorreo" style="border:1px solid black;">
         <div class="row">
           <!-- <div class="input-field col s12 m6 l6 xl6"><i class="material-icons prefix">account_circle </i>
             <select class="validate" id="titulo" name="titulo" required="required">

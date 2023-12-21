@@ -172,7 +172,7 @@
 <ul> 
 <p class="color--blanco"><b class="Tipografia--general Titulos">Compañia</b></p>
 <hr class="hr">
-<ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Nosotros<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Valores.php">Valores <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
+<ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Nosotros <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Valores.php">Valores <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
 </ul>
 </section>
 </div>
@@ -181,12 +181,11 @@
 <ul> 
 <p class="color--blanco"><b class="Tipografia--general Titulos">Politicas </b>
 <hr class="hr">
-<li> <a class="arrowblue Tipografia--general Subtitulos" href="Code_of_Conduct.php">Codigo de Conducta Interno<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<li> <a class="arrowblue Tipografia--general Subtitulos" href="Code_of_Conduct.php">Codigo de conducta  <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download>Politica de Privacidad <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
-                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                                                      <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 </p>
 </ul>
 </section>
@@ -419,12 +418,12 @@
 <div class="col s12 m12 l12 xl12">
 
 <table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
- <thead class="center-align">
+ <!-- <thead class="center-align">
 <tr class="center-align" style="font-size:14px">
 <th id="Dtype" class="center-align" style="border-right:1px solid #f2f2f2;">PRUEBA</th>
 <th id="Dtype2" class="center-align">PRUEBA2</th>
 </tr>
-</thead> 
+</thead>  -->
 <tbody>
     <tr>
         <td class="tabla_lista_prod" style="border-right:1px solid #f2f2f2;">Aceites</td>

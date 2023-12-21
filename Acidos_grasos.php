@@ -588,7 +588,7 @@
     <div class="row">
       <div class="col s12 m12 l12 xl12">
         <h5 class="Tipografia--general letranegro Titulos"><b>Ácidos Grasos</b></h5>
-        <p class="Tipografia--general letranegro General--Cuerpo">Los <b style="color:#262137;">ácidos grasos</b> se
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px">Los <b style="color:#262137;">ácidos grasos</b> se
           derivan de grasas y aceites animales como el sebo de res y de aceites vegetales tales como aceite de soja,
           aceite de colza, aceite de coco y de palmiste, aceite de palma aceite, entre otros.</p>
 
@@ -626,7 +626,7 @@
         <h5 class="Tipografia--general letranegro General--Cuerpo Titulos" style="margin-top:50px;"><b>Clasificación</b>
         </h5>
 
-        <p class="Tipografia--general letranegro General--Cuerpo"><b>Ácidos grasos saturados.- </b> Son ácidos grasos
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;"><b>Ácidos grasos saturados.- </b> Son ácidos grasos
           sin dobles enlaces entre carbonos; tienden a formar cadenas extendidas y a ser sólidos a temperatura ambiente,
           excepto los de cadena corta.</p>
 
@@ -688,7 +688,7 @@
           la molécula sea rectilínea; se encuentra principalmente en alimentos industrializados que han sido sometidos a
           hidrogenación, con el fin de solidificarlos (como la margarina).</p>
 
-        <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Funciones & Industrias</b></h5>
+        <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px"><b>Funciones & Industrias</b></h5>
 
         <ol style="list-style-type:disc;margin-bottom:0px;margin-left:-25px;" class="margin_movil">
           <li class="Tipografia--general letranegro Elementos--Listas"><b>Agroquímicos:</b></li>

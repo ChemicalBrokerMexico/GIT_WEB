@@ -667,188 +667,298 @@
 
     <div class="container">
         <div class="row">
-            <div class="col s12 m12 l12 xl12">
-                <h5 class="Tipografia--general letanegro Titulos"><b style="color:#000020">Alcohol Isopropílico</b></h5>
-                <p class="Tipografia--general letranegro General--Cuerpo">El <b class="Tipografia--general letranegro"
-                        style="color:#000020;">Alcohol Isopropílico</b> (propan-2-ol, Isopropanol o 2-propanol), es un
-                    compuesto orgánico incoloro e inflamable con un olor a alcohol acre. Como grupo isoporpilico unido a
-                    un grupo de hidroxilo (fórmula química ((CH3)2CHOH), es el ejemplo mas simple de un alcohol
-                    secundario, donde el átomo de carbono del alcohol esta unido a otros dos átomos de carbono. Es un
-                    isómero estructural de propan-1-ol y etil metil eter.</p>
-                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Cuando este alcohol
-                    se oxida se convierte en acetona, ya que los alcoholes secundarios se convierten en cetonas; a
-                    diferencia de los alcoholes primarios que se convierten en aldehídos.</p>
-                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Se utiliza en la
-                    fabricación de una amplia variedad de productos químicos industriales y domésticos y es un
-                    ingrediente común en productos como antisépticos, desinfectantes y detergentes.</p>
-            </div>
-            <div class="col s12 m12 l12 xl12" style="margin-top:50px;">
-                <table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
-                    <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;width:50%;padding: 10px;font-size:18px;" class="Tipografia--general"><b>Descripción Quimica:</b></td>
-                        <td style="padding:10px;border:1px solid #f2f2f2;font-size:18px" class="Tipografia--general">Alcohol Isopropílico</td>
-                    </tr>
-                    <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;font-size:18px" class="Tipografia--general"><b>Fórmula Estructural:</b></td>
-                        <td class="center-align;border:1px solid #f2f2f2;"><img src="img/CB_FORMULA-ESTRUCTURAL_ALCOHOL-ISOPROPILICO.png" alt="" style="width:30%;"></td>
-                    </tr>
-                    <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;font-size:18px" class="Tipografia--general"><b>Fórmula Quimica:</b></td>
-                        <td style="padding:10px;border:1px solid #f2f2f2;font-size:18px" class="Tipografia--general">- (CH<sub>3</sub>)CH(OH) CH<sub>3</sub></td>
-                    </tr>
-                    <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;font-size:18px;" class="Tipografia--general"><b>Fórmula Molecular:</b></td>
-                        <td style="padding:10px;border:1px solid #f2f2f2;font-size:18px;" class="Tipografia--general">- C<sub>3</sub>H<sub>8</sub>O</td>
-                    </tr>
-                    <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding:10px;font-size:18px;" class="Tipografia--general"><b>Nombre IUPAC:</b></td>
-                        <td style="padding:10px;border:1px solid #f2f2f2;font-size:18px" class="Tipografia--general">- Propan-2-ol</td>
-                    </tr>
-                    <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;font-size:18px" class="Tipografia--general"><b>Sinónimos:</b></td>
-                        <td style="padding:10px;border:1px solid #f2f2f2;font-size:18px;" class="Tipografia--general">- 2-propanol<br>- Isopropanol<br>- Alcohol isopropílico<br>- Alcohol sec-propilico<br>- 2-hidroxipropano<br>- i-Pr0H<br>- Dimetilcarbinol<br>- API</td>
-                    </tr>
-                    <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;font-size:18px;" class="Tipografia--general"><b>Fórmula semidesarrollada:</b></td>
-                        <td style="padding:10px;border:1px solid #f2f2f2;font-size:18px"></td>
-                    </tr>
-                    <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;font-size:18px;" class="Tipografia--general"><b>Número CAS:</td>
-                        <td style="padding:10px;border:1px solid #f2f2f2;font-size:18px" class="Tipografia--general">67-63-0</td>
-                    </tr>
-                    <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;font-size:18px" class="Tipografia--general"><b>Número EINECS:</b></td>
-                        <td style="padding:10px;border:1px solid #f2f2f2;font-size:18px"></td>
-                    </tr>
-                    <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;font-size:18px" class="Tipografia--general"><b>Número RTECS:</b></td>
-                        <td style="padding:10px;border:1px solid #f2f2f2;font-size:18px" class="Tipografia--general">NT8050000</td>
-                    </tr>
-                    <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;font-size:18px" class="Tipografia--general"><b>ChEBI:</b></td>
-                        <td style="padding:10px;border:1px solid #f2f2f2;font-size:18px" class="Tipografia--general">17824</td>
-                    </tr>
-                    <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;font-size:18px" class="Tipografia--general"><b>ChEMBL:</b></td>
-                        <td style="padding:10px;border:1px solid #f2f2f2;font-size:18px" class="Tipografia--general">ChEMBL582</td>
-                    </tr>
-                    <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;font-size:18px" class="Tipografia--general"><b>ChemSpider:</b></td>
-                        <td style="padding:10px;border:1px solid #f2f2f2;font-size:18px" class="Tipografia--general">3644</td>
-                    </tr>
-                    <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;font-size:18px" class="Tipografia--general"><b>Drug-Bank</b></td>
-                        <td style="padding:10px;border:1px solid #f2f2f2;font-size:18px" class="Tipografia--general">PubChem:</td>
-                    </tr>
-                    <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border:1px solid white;padding: 10px;font-size:18px" class="Tipografia--general"><b>UNII:</b></td>
-                        <td style="padding:10px;border:1px solid #f2f2f2;font-size:18px" class="Tipografia--general">ND2M416302</td>
-                    </tr>
-                    <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;font-size:18px" class="Tipografia--general"><b>UN No.:</b></td>
-                        <td style="padding:10px;border: 1px solid #f2f2f2;font-size:18px" class="Tipografia--general">1219</td>
-                    </tr>
-                    <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;font-size:18px" class="Tipografia--general"><b>KEGG:</b></td>
-                        <td style="padding:10px;border:1px solid #f2f2f2;font-size:18px" class="Tipografia--general">D00137</td>
-                    </tr>
-                    <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;font-size:18px" class="Tipografia--general"><b>Densidad:</b></td>
-                        <td style="padding:10px;border:1px solid #f2f2f2;font-size:18px" class="Tipografia--general">0.786 g/cm3 (20 °C)</td>
-                    </tr>
-                    <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;font-size:18px" class="Tipografoa--general"><b>Masa molecular:</b></td>
-                        <td style="padding:10px;border:1px solid #f2f2f2;font-size:18px" class="Tipografia--general">60.096 g/mol</td>
-                    </tr>
-                    <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;font-size:18px" class="Tipografia--general"><b>Punto de fusión:</b></td>
-                        <td style="padding:10px;border:1px solid #f2f2f2;font-size:18px" class="Tipografia--general">184 K (-89 °C)</td>
-                    </tr>
-                    <tr>
-                        <td style="background-color: #000020;color:rgba(2 146 238 /99%);border-bottom:1px solid white;padding: 10px;font-size:18px" class="Tipografia--general"><b>Punto de ebullición:</b></td>
-                        <td style="padding:10px;border: 1px solid #f2f2f2;font-size:18px" class="Tipografia--general">355,8 K (83 °C)</td>
-                    </tr>
-                </table>
+          
+        <div class="col s12 m12 l12 xl12">
+            <p class="Tipografia--general General--Cuerpo letranegra">El Alcohol Isopropilico (propan-2-ol, Isopropanol o 2-propanol), es un compuesto orgánico incoloro e inflamable con un olor a alcohol acre. Como grupo isoporpilico unido a un grupo de hidroxilo (formula química ((CH3)2CHOH), es el ejemplo mas simple de un alcohol secundario, donde el átomo de carbono del alcohol esta unido a otros dos átomos de carbono. Es un isómero estructural de propan-1-ol y etil metil eter.</p>
+            <p class="Tipografia--general General--Cuerpo letranegra">Cuando este alcohol se oxida se convierte en acetona, ya que los alcoholes secundarios se convierten en cetonas; a diferencia de los alcoholes primarios que se convierten en aldehídos.</p>
+            <p class="Tipografia--general General--Cuerpo letranegra">Se utiliza en la fabricación de una amplia variedad de productos químicos industriales y domésticos y es un ingrediente común en productos como antisépticos, desinfectantes y detergentes.</p>
 
-            </div>
-            <div class="col s12 m12 l12 xl12">
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020">Aplicaciones</b></h5>
-                <h5 class="Tipografia--general letranegro Titulos"><b style="color:#000020;">Farmacéutica:</b></h5>
-                <ol>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Humectante en productos farmacéuticos</li>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Lágrima artificial en bajas concentraciones</li>
-                </ol>
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Alimentos:</b></h5>
-                <ol>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Anticongelante de alimentos</li>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Humectante en productos en alimentos</li>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Agente saborizante en angostura y en amargo de angostura</li>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Solvente para coloración de alimentos y saborización</li>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Humectante aditivo alimentario, rotulado como número E1520</li>
-                </ol>
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Cosméticos y Cuidado Personal:</b></h5>
-                <ol>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Humectante en productos cosméticos</li>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Desinfectantes de manos</li>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Lociones antibacteriales</li>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Soluciones salinas</li>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Toallas húmedas(wipes) para bebes</li>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Espuma de baño</li>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Shampoos.</li>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Lubricante íntimo genital</li>
-                </ol>
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Sabores y Fragancias:</b></h5>
-                <ol>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Portador en aceite de fragancia</li>
-                </ol>
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Pinturas y Recubrimientos:</b></h5>
-                <ol>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Pintura dentro de los “paintball”</li>
-                </ol>
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Otros:</b></h5>
-                <ol>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Fluido hidráulico para máquinas</li>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Refrigerante en motores de bombas sumergibles</li>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Como lubricante para el tendido de cables</li>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">En máquinas de humo artificial para entrenamiento de bomberos y producciones teatrales</li>
-                </ol>
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Cigarros y Tabaco:</b></h5>
-                <ol>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Humectante en tabaco</li>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Para regular la humedad en los cigarros</li>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Como ingrediente base del líquido usado en los cigarrillos electrónicos</li>
-                </ol>
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Ceramica</b></h5>
-                <ol>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Como vehículo serigráfico; adicionándolo a las pastas serigráficas utilizadas en la decoración de baldosas.</li>
-                </ol>
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Certificaciones</b></h5>
-                <ol>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Kosher</li>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Halal</li>
-                </ol>
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Fabricante</b></h5>
-                <img src="img/LYONDELLBASELL-LOGO_V2.png" alt="Lyondell Logo" style="width:20%;margin-top:20px;">
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Literatura Técnica</b></h5>
-                <ol>
-                    <a href="PDF/CATALOGUES/LYONDELLBASELL_SS_ISOPROPYL-ALCOHOL-USP.pdf"><li class="Tipografia--general letranegro Elementos--Listas arrowblue" style="list-style-type:disc;">LYONDELLBASELL_SS_ISOPROPYL-ALCOHOL-USP.pdf</li></a>
-                    <a href="PDF/CATALOGUES/LYONDELLBASELL_SDS_ISOPROPYL-ALCOHOL-USP_221019.pdf"><li class="Tipografia--general letranegro Elementos--Listas arrowblue" style="list-style-type:disc;">LYONDELLBASELL_SDS_ISOPROPYL-ALCOHOL-USP_221019.pdf</li></a>
-                </ol>
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Cartas Declaratorias</b></h5>
-                <ol>
-                    <a href="PDF/CATALOGUES/LYONDELLBASELL_PRODUCT-STEWARDSHIP-BULLETIN_ISOPROPYL-ALCOHOL-USP_060323.pdf"><li class="Tipografia--general letranegro Elementos--Listas arrowblue" style="list-style-type:disc;">LYONDELLBASELL_PRODUCT-STEWARDSHIP-BULLETIN_ISOPROPYL-ALCOHOL-USP_060323.pdf</li></a>
-                </ol>
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Certificaciones</b></h5>
-                <ol>
-                    <a href="PDF/CATALOGUES/LYONDELLBASELL_PRODUCT-STEWARDSHIP-BULLETIN_ISOPROPYL-ALCOHOL-USP_060323.pdf"><li class="Tipografia--general letranegro Elementos--Listas arrowblue" style="list-style-type:disc;">OU_KOSHER-CERTIFICATE_ISOPROPYL-ALCOHOL-USP_LYONDELLBASELL-HOUSTON-TX_300623.pdf</li></a>
-                </ol>
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Referencias</b></h5>
-                <ol>
-                    <a href="PDF/CATALOGUES/LYONDELLBASELL_PRODUCT-STEWARDSHIP-BULLETIN_ISOPROPYL-ALCOHOL-USP_060323.pdf"><li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">https://es.wikipedia.org/wiki/Propilenglicol</li></a>
-                </ol>
-            </div>
+            <table class="display" id="table_id2" name="table_id2"
+          style="width:100%;border-spacing:2px 5px;border:none;margin:30px 0px 0px 0px">
+          <tr class="Tipografia--general General--Cuerpo"
+            style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
+            <td
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#000020;color:rgba(2 146 238 /99%);" class="table_bha_mobile">
+              <b>Descripción Química:</b>
+            </td>
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;" class="table_bha_mobile">Alcohol Isopropilico</td>
+          </tr>
+
+
+
+          <tr class="Tipografia--general General--Cuerpo"
+            style="padding:10px;font-size:15px !important;width:150px;">
+            <td
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#000020;color:rgba(2 146 238 /99%);" class="table_bha_mobile"
+              >
+              <b>Formula Estructural:</b>
+            </td>
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;" class="table_bha_mobile"
+              >
+              <img src="img/CB_FORMULA-ESTRUCTURAL_ALCOHOL-ISOPROPILICO.png" alt="" style="width:30%;">
+            </td>
+          </tr>
+
+          <tr class="Tipografia--general General--Cuerpo"
+            style="padding:10px;font-size:15px !important;width:150px;">
+            <td
+              style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:rgba(2 146 238 /99%);" class="table_bha_mobile"
+              >
+              <b>Fórmula Química:</b>
+            </td>
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;" class="table_bha_mobile"
+              >
+              -(CH<sub>3</sub>)CH(OH) CH<sub>3</sub></td>
+          </tr>
+
+
+
+          <tr class="Tipografia--general General--Cuerpo"
+            style="padding:10px;font-size:15px !important;width:150px;">
+            <td
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#000020;color:rgba(2 146 238 /99%);" class="table_bha_mobile">
+              <b>Formula Molecular</b>
+            </td>
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;" class="table_bha_mobile">-C<sub>3</sub>H<sub>8</sub>O</td>
+          </tr>
+
+
+
+          <tr class="Tipografia--general General--Cuerpo"
+            style="padding:10px;font-size:15px !important;width:150px;">
+            <td
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#000020;color:rgba(2 146 238 /99%);;" class="table_bha_mobile">
+              <b>Nombre IUPAC:</b>
+            </td>
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%" class="table_bha_mobile">
+              -Propan-2-ol
+            </td>
+          </tr>
+
+          <tr class="Tipografia--general General--Cuerpo"
+            style="padding:10px;font-size:15px !important;width:150px;">
+            <td
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#000020;color:rgba(2 146 238 /99%);" class="table_bha_mobile">
+              <b>Sinónimos</b>
+            </td>
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%" class="table_bha_mobile"
+        ><ol>
+            <li style="list-style-type:disc;">-2-propanol</li>
+            <li style="list-style-type:disc;">-Isopropanol</li>
+            <li style="list-style-type:disc;">-Alcohol isopropílico</li>
+            <li style="list-style-type:disc;">-Alcohol sec-propilico</li>
+            <li style="list-style-type:disc;">-2-hidroxipropano</li>
+            <li style="list-style-type:disc;">-i-Pr0H</li>
+            <li style="list-style-type:disc;">-Dimetilcarbinol</li>
+            <li style="list-style-type:disc;">-Dimetilcarbinol</li>
+            <li style="list-style-type:disc;">-API</li>
+        </ol></td>
+          </tr>
+
+          <tr class="Tipografia--general General--Cuerpo"
+            style="padding:10px;font-size:15px !important;width:150px;">
+            <td
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#000020;color:rgba(2 146 238 /99%);" class="table_bha_mobile"
+              >
+              <b>Formula Semidesarrollada</b>
+            </td>
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%" class="table_bha_mobile"
+              >-</td>
+          </tr>
+
+          <tr class="Tipografia--general General--Cuerpo"
+            style="padding:10px;font-size:15px !important;width:150px;">
+            <td
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#000020;color:rgba(2 146 238 /99%);" class="table_bha_mobile"
+              >
+              <b>Numero CAS:</b>
+            </td>
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;" class="table_bha_mobile"
+              >67-63-0</td>
+          </tr>
+
+          <tr class="Tipografia--general General--Cuerpo"
+            style="padding:10px;font-size:15px !important;width:150px;">
+            <td
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#000020;color:rgba(2 146 238 /99%);" class="table_bha_mobile"
+              >
+              <b>Numero EINECS</b>
+            </td>
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;" class="table_bha_mobile"
+              >-</td>
+          </tr>
+
+          <tr class="Tipografia--general General--Cuerpo"
+            style="padding:10px;font-size:15px !important;width:150px;">
+            <td
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#000020;color:rgba(2 146 238 /99%);" class="table_bha_mobile"
+              >
+              <b>Numero RTECS:</b>
+            </td>
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;margin-bottom:0px" class="table_bha_mobile"
+              >C15469</td>
+          </tr>
+
+
+          <tr class="Tipografia--general General--Cuerpo"
+            style="padding:10px;font-size:15px !important;width:150px;">
+            <td
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#000020;color:rgba(2 146 238 /99%);" class="table_bha_mobile"
+              >
+              <b>Numero ChEBI:</b>
+            </td>
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;margin-bottom:0px" class="table_bha_mobile"
+              >17824</td>
+          </tr>
+          
+          <tr class="Tipografia--general General--Cuerpo"
+            style="padding:10px;font-size:15px !important;width:150px;">
+            <td
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#000020;color:rgba(2 146 238 /99%);" class="table_bha_mobile"
+              >
+              <b>ChEMBL:</b>
+            </td>
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;margin-bottom:0px" class="table_bha_mobile"
+              >ChEMLBL582</td>
+          </tr>
+
+          <tr class="Tipografia--general General--Cuerpo"
+            style="padding:10px;font-size:15px !important;width:150px;">
+            <td
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#000020;color:rgba(2 146 238 /99%);" class="table_bha_mobile"
+              >
+              <b>ChemSpider:</b>
+            </td>
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;margin-bottom:0px" class="table_bha_mobile"
+              >3644</td>
+          </tr>
+
+          <tr class="Tipografia--general General--Cuerpo"
+            style="padding:10px;font-size:15px !important;width:150px;">
+            <td
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#000020;color:rgba(2 146 238 /99%);" class="table_bha_mobile"
+              >
+              <b>Drug-Bank:</b>
+            </td>
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;margin-bottom:0px" class="table_bha_mobile"
+              >-</td>
+          </tr>
+
+          <tr class="Tipografia--general General--Cuerpo"
+            style="padding:10px;font-size:15px !important;width:150px;">
+            <td
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#000020;color:rgba(2 146 238 /99%);" class="table_bha_mobile"
+              >
+              <b>PubChem:</b>
+            </td>
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;margin-bottom:0px" class="table_bha_mobile"
+              >3776</td>
+          </tr>
+
+          <tr class="Tipografia--general General--Cuerpo"
+            style="padding:10px;font-size:15px !important;width:150px;">
+            <td
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#000020;color:rgba(2 146 238 /99%);" class="table_bha_mobile"
+              >
+              <b>UNII:</b>
+            </td>
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;margin-bottom:0px" class="table_bha_mobile"
+              >ND2M416302</td>
+          </tr>
+
+          <tr class="Tipografia--general General--Cuerpo"
+            style="padding:10px;font-size:15px !important;width:150px;">
+            <td
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#000020;color:rgba(2 146 238 /99%);" class="table_bha_mobile"
+              >
+              <b>UN No.:</b>
+            </td>
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;margin-bottom:0px" class="table_bha_mobile"
+              >1219</td>
+          </tr>
+
+          <tr class="Tipografia--general General--Cuerpo"
+            style="padding:10px;font-size:15px !important;width:150px;">
+            <td
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#000020;color:rgba(2 146 238 /99%);" class="table_bha_mobile"
+              >
+              <b>KEGG:</b>
+            </td>
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;margin-bottom:0px" class="table_bha_mobile"
+              >D00137</td>
+          </tr>
+
+          <tr class="Tipografia--general General--Cuerpo"
+            style="padding:10px;font-size:15px !important;width:150px;">
+            <td
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#000020;color:rgba(2 146 238 /99%);" class="table_bha_mobile"
+              >
+              <b>Densidad:</b>
+            </td>
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;margin-bottom:0px" class="table_bha_mobile"
+              >0.786 g/cm3 (20 °C)</td>
+          </tr>
+
+          <tr class="Tipografia--general General--Cuerpo"
+            style="padding:10px;font-size:15px !important;width:150px;">
+            <td
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#000020;color:rgba(2 146 238 /99%);" class="table_bha_mobile"
+              >
+              <b>Masa Molecular:</b>
+            </td>
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;margin-bottom:0px" class="table_bha_mobile"
+              >60.096 g/mol</td>
+          </tr>
+
+          <tr class="Tipografia--general General--Cuerpo"
+            style="padding:10px;font-size:15px !important;width:150px;">
+            <td
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#000020;color:rgba(2 146 238 /99%);" class="table_bha_mobile"
+              >
+              <b>Punto de fusión</b>
+            </td>
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;margin-bottom:0px" class="table_bha_mobile"
+              >184 K (-89 °C)</td>
+          </tr>
+
+          <tr class="Tipografia--general General--Cuerpo"
+            style="padding:10px;font-size:15px !important;width:150px;">
+            <td
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#000020;color:rgba(2 146 238 /99%);" class="table_bha_mobile"
+              >
+              <b>Punto de ebullición:</b>
+            </td>
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;margin-bottom:0px" class="table_bha_mobile"
+              >355,8 K (83 °C)</td>
+          </tr>
+
+        </table>
         </div>
+       
+        </div>
+
+        <div class="col s12 m12 l12 xl12">
+            <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Funciones</b></h5>
+            <p class="Tipografoa--general letranegro General--Cuerpo"><b>Desinfectante. -</b> se utiliza para limpiar y desinfectar superficies. Es eficaz para matar microorganismos como bacterias y virus, lo que lo hace útil en entornos médicos, cosméticos y de limpieza general.</p>
+            <p class="Tipografoa--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Disolvente. -</b> Actúa como un disolvente efectivo para muchas sustancias, como grasas, aceites, resinas y tintas. Por lo tanto, se utiliza en la fabricación de productos químicos, tintas y barnices.</p>
+            <p class="Tipografoa--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Desengrasante. -</b> debido a su capacidad para disolver grasas, el alcohol isopropílico se utiliza como desengrasante en aplicaciones industriales, como la limpieza de piezas metálicas y maquinaria.</p>
+            <p class="Tipografoa--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Limpieza. -</b> se utiliza para limpiar y desinfectar superficies, instrumentos y maquinaria.</p>
+            <p class="Tipografoa--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Eliminación de pegamento. -</b> Puede ayudar a disolver y eliminar residuos de pegamento, adhesivos y etiquetas.</p>
+            <p class="Tipografoa--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Control de Olores. -</b> Se utiliza a veces para disolver olores en entornos específicos, ya que se evapora rápidamente y no deja residuos olorosos.</p>
+            <p class="Tipografoa--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Descongelante. -</b> Debido a su bajo punto de congelación, el alcohol isopropílico se puede usar para descongelar parabrisas y cerraduras congeladas.</p>
+        </div>
+
+        <div class="col s12 m12 l12 xl12">
+        <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Tipos</b></h5>
+        <ol>
+            <a href="Alcohol_Isopropilico_USP.php"><ul style="list-style-type:disc;color:rgba(2 146 238 /99%);" class="arrowblue"><b>Alcohol Isopropilico USP</b></ul></a>
+            <ul style="list-style-type:disc;color:rgba(2 146 238 /99%);margin-top:30px;" class="arrowblue"><b>Alcohol Isopropilico Industrial</b></ul>
+        </ol>
+        </div>
+
     </div>
+
+
 
 
 </body>

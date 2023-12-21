@@ -20,7 +20,7 @@
     <script>new WOW().init();</script>
     <script type="text/javscript" src="js/materialize.min.js?n=1"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
-    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.js"></script>
+        <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.js"></script>
     <script type="text/javascript" charset="utf8" src="js/Buscador.js?n=1"></script>
     <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/responsive/2.2.6/js/dataTables.responsive.js"></script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
@@ -158,7 +158,7 @@
                     <ul> 
                       <p class="color--blanco"><b class="Tipografia--general Titulos">Compañia</b></p>
                       <hr class="hr">
-                      <ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Nosotros<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Valores.php">Valores <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
+                      <ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Nosotros <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Valores.php">Valores <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
                     </ul>
                   </section>
                 </div>
@@ -167,7 +167,7 @@
                     <ul> 
                       <p class="color--blanco"><b class="Tipografia--general Titulos">Politicas </b>
                         <hr class="hr">
-                        <li> <a class="arrowblue Tipografia--general Subtitulos" href="Code_of_Conduct.php">Codigo de Conducta Interno<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                        <li> <a class="arrowblue Tipografia--general Subtitulos" href="Code_of_Conduct.php">Codigo de Conducta Organizacional <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                         <li> <a class="arrowblue Tipografia--general Subtitulos" href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download>Politica de Privacidad <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                         <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
@@ -449,7 +449,7 @@
               <div class="contenedor">
                 <div class="transfo" id="overlayalimentos" style="border-radius:10px"></div>
                 <div class="centrado_sub" style="position:absolute;z-index:2">
-                  <h5 class="titulo_submercado"><b class="titulo_submercado"> <span style="position:relative;z-index:2">Alimentaria & Nutrición Humana</span></b><b> </b>
+                  <h5 class="titulo_submercado"><b class="titulo_submercado"> <span style="position:relative;z-index:2">Alimentaria & <br>Nutrición Humana</span></b><b> </b>
                     <hr class="animacion">
                     <p><b class="botones" style="color:white !important">
                         <p class="leer_mas_mercados botones center-align">  Leer Mas</p></b></p>
@@ -463,7 +463,7 @@
               <div class="contenedor">
                 <div class="transfo" id="overlayped" style="border-radius:10px"></div>
                 <div class="centrado_sub" style="position:absolute;z-index:2">
-                  <h5 class="titulo_submercado"><b class="titulo_submercado"><span style="position:relative;z-index:2">Alimento & Nutricion Animal  </span></b><b> </b>
+                  <h5 class="titulo_submercado"><b class="titulo_submercado"><span style="position:relative;z-index:2">Alimento &<br>Nutricion Animal  </span></b><b> </b>
                     <hr class="animacion">
                     <p><b style="color:white !important">
                         <p class="leer_mas_mercados center-align botones">  Leer Mas</p></b></p>
@@ -485,7 +485,7 @@
               <div class="contenedor">
                 <div class="transfo" id="overlaycosme" style="border-radius:10px"></div>
                 <div class="centrado_sub" style="position:absolute;z-index:2">
-                  <h5 class="titulo_submercado"><b class="titulo_submercado"> <span style="position:relative;z-index:2">Cosmeticos & Cuidado Personal  </span></b><b> </b>
+                  <h5 class="titulo_submercado"><b class="titulo_submercado"> <span style="position:relative;z-index:2">Cosmeticos &<br>Cuidado Personal  </span></b><b> </b>
                     <hr class="animacion">
                     <p><b style="color:white !important">
                         <p class="leer_mas_mercados center-align botones">  Leer Mas </p></b></p>
@@ -496,7 +496,7 @@
               <div class="contenedor">
                 <div class="transfo" id="overlaydeter" style="border-radius:10px"></div>
                 <div class="centrado_sub" style="position:absolute;z-index:2">
-                  <h5 class="titulo_submercado"><b class="titulo_submercado"> <span style="position:relative;z-index:2">Detergentes & Hogar</span></b><b> </b>
+                  <h5 class="titulo_submercado"><b class="titulo_submercado"> <span style="position:relative;z-index:2">Detergentes &<br> Hogar</span></b><b> </b>
                     <hr class="animacion">
                     <p><b style="color:white !important">
                         <p class="leer_mas_mercados center-align botones">  Leer Mas</p></b></p>

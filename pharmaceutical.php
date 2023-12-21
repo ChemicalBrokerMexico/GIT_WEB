@@ -560,17 +560,17 @@ recaptchaResponse.value = token;
   <div class="container">
     <div class="row">
       <div class="col s12 m12 l12 xl12">
-        <center><h1 class="Tipografia--general" style="color:#2279dfa4;margin-top:50px;font-size:30px"><b>Preservar tu Salud es lo más Importante</b></h1></center>
-        <p class="Tipografia--general General--Cuerpo" style="color:#262137;margin-top:50px;">La Industria Farmacéutica provee al mundo
+        <center><h1 class="Tipografia--general" style="color:#2279dfa4;font-size:30px"><b>Preservar tu Salud es lo más Importante</b></h1></center>
+        <p class="Tipografia--general General--Cuerpo" style="color:#262137;margin-top:50px;margin-bottom:0px;">La Industria <b style="color:#000020;">Farmacéutica</b> provee al mundo
           soluciones que permiten preservar la salud humana y mejorar su calidad de vida.</p>
-        <p class="Tipografia--general General--Cuerpo" style="color:#262137;">Chemical Broker ofrece un amplio
+        <p class="Tipografia--general General--Cuerpo" style="color:#262137;margin-top:50px;margin-bottom:0px;"><b style="color:#000020;">Chemical Broker</b> ofrece un amplio
           portafolios de Excipientes en cumplimiento y certificación con las Farmacopeas Internacionales y Buenas
           Prácticas de Manufactura ICH-Q7.</p>
         <h6 class="Tipografia--general Titulos" style="color:#262137;margin-top:50px"><b>Excipientes</b></h6>
-        <p class="Tipografia--general General--Cuerpo" style="color:#262137">En la fabricación de medicamentos para
+        <p class="Tipografia--general General--Cuerpo" style="color:#262137;margin-bottom:0px;">En la fabricación de medicamentos para
           una mejor calidad de vida, los Excipientes, son las sustancias responsables de que los Activos cumplan con su
           cometido al ser mezclados entre sí y pueden constituir el 90% de la composición total de un medicamento:</p>
-        <h5 class="Tipografia--general center-align" style="color:#262137;margin-top: 50px;"><b style="font-size:20px;margin-top: 30px;color:#2279dfa4;">Los excipientes
+        <h5 class="Tipografia--general center-align" style="color:#262137;margin-top: 50px;margin-bottom:0px;"><b style="font-size:30px;margin-top: 30px;color:#2279dfa4;">Los excipientes
             funcionan como vehículo para darle cuerpo, textura, forma y conservación al principio activo, facilitando su
             ingesta y regulando su actividad en el organismo.</b></h5>
         <h5 class="Tipografia--general Titulos" style="color:#262137;margin-top:50px"><b>Funciones</b>
@@ -703,6 +703,24 @@ recaptchaResponse.value = token;
             </div><img class="mercadosimagen" src="img/SUPLEMENTS_040521.jpeg" alt="" style="border-radius:10px" />
           </div>
         </a></div>
+        <div class="col s12 m12 l4 xl4">
+          <div>
+            <img src="img/FARMACEUTICA_CB.jpg" alt="" width="100%">
+            <div style="background-color:#f2f2f2;">
+              <p>Commercial Construccion</p>
+            </div>
+            </div>
+           
+        </div>
+        <div class="col s12 m12 l4 xl4">
+
+        </div>
+        <div class="col s12 m12 l4 xl4">
+
+        </div>
+        <div class="col s12 m12 l4 xl4">
+
+        </div>
     </div>
   </div>
   <!-- <div class="container">

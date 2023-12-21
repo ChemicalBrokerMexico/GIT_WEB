@@ -607,9 +607,9 @@
             <div class="row">
               <div class="col s12">
                 <ul class="tabs">
-                  <li class="tab col s4"><a class="active" href="#test1"><b style="color:#000020;">Diversidad e Inclusion</b></a></li>
-                  <li class="tab col s4"><a href="#test2"><b style="color:#000020;">Compromiso</b></a></li>
-                  <li class="tab col s4"><a href="#test3"><b style="color:#000020;">Trabajo en Equipo</b></a></li>
+                  <li class="tab col s4"><a class="active" href="#test1" style="text-transform:none;"><b style="color:#000020;text-transform:none;">Diversidad e Inclusion</b></a></li>
+                  <li class="tab col s4"><a href="#test2"><b style="color:#000020;text-transform: none;">Compromiso</b></a></li>
+                  <li class="tab col s4"><a href="#test3"><b style="color:#000020;text-transform: none;">Trabajo en Equipo</b></a></li>
                   <!-- <li class="tab col s3"><a href="#test4">Test 4</a></li> -->
                 </ul>
               </div>
@@ -718,13 +718,13 @@
               <!-- <li class="tab col s1.3"><a class="active" href="#test1C">Legal</a></li> -->
               <!-- <li class="tab col s1.3"><a href="#test2C">Recursos Humanos</a></li> -->
               <!-- <li class="tab col s1.3"><a href="#test2C">Mercadotecnia</a></li> -->
-              <li class="tab col s1.3"><a href="#test3C"><b>I.T.</b></a></li>
-              <li class="tab col s1.3"><a href="#test4C"><b>Administración</b></a></li>
-              <li class="tab col s1.3"><a href="#test5C"><b>Cumplimiento</b></a></li>
+              <li class="tab col s1.3"><a href="#test3C"><b style="text-transform:none;">I.T.</b></a></li>
+              <li class="tab col s1.3"><a href="#test4C"><b style="text-transform:none;">Administración</b></a></li>
+              <li class="tab col s1.3"><a href="#test5C"><b style="text-transform:none;">Cumplimiento</b></a></li>
               <!-- <li class="tab col s1.3"><a href="#test6C">Finanzas</a></li> -->
-              <li class="tab col s1.3"><a href="#test7C"><b>Ventas</b></a></li>
-              <li class="tab col s1.3"><a href="#test8C"><b>Compras</b></a></li>
-              <li class="tab col s1.3"><a href="#test9C"><b>Logistica Global</b></a></li>
+              <li class="tab col s1.3"><a href="#test7C"><b style="text-transform:none;">Ventas</b></a></li>
+              <li class="tab col s1.3"><a href="#test8C"><b style="text-transform:none;">Compras</b></a></li>
+              <li class="tab col s1.3"><a href="#test9C"><b style="text-transform:none;">Logistica Global</b></a></li>
               <!-- <li class="tab col s1.3"><a href="#test10c"><b>Marketing</b></a></li> -->
 
             </ul>
