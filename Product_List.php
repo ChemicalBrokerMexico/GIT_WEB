@@ -227,6 +227,7 @@
 <ul id="dropdown3" class="dropdown-content" style="width:300px !important;">
   <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos" style="width:200px;">Familias</a></li>
   <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos" style="width:200px;">Lista de Productos</a></li>
+  <li><a href="Catalogos_Productos" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
 </ul>
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!" data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a></li>
 <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Servicios.php"><b>Servicios</b></a></li>
@@ -347,74 +348,41 @@
 </ul>
 
 
-<div class="container">
+<div class="container" style="margin-top:50px;">
     <div class="row">
         <div class="col s12 m12 l12 xl12">
         <table id="table_id2" class="display" style="width:100%">
     <thead>
         <tr>
-            <th>Name</th>
-            <th>Position</th>
-            <th>Office</th>
-            <th>Age</th>
-            <th>Start date</th>
-            <th>Salary</th>
+            <th class="center-align" style="background-color:#000020;color:white;border-right: 1px solid white;border-radius:10px;">Familia</th>
+            <th class="center-align" style="background-color:#000020;color:white;border-right: 1px solid white;border-radius:10px;">Producto</th>
+            <th class="center-align" style="background-color:#000020;color:white;border-right: 1px solid white;border-radius:10px;">CAS</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Tiger Nixon</td>
-            <td>System Architect</td>
-            <td>Edinburgh</td>
-            <td>61</td>
-            <td>2011-04-25</td>
-            <td>$320,800</td>
-        </tr>
-        <tr>
-            <td>Garrett Winters</td>
-            <td>Accountant</td>
-            <td>Tokyo</td>
-            <td>63</td>
-            <td>2011-07-25</td>
-            <td>$170,750</td>
-        </tr>
-        <tr>
-            <td>Ashton Cox</td>
-            <td>Junior Technical Author</td>
-            <td>San Francisco</td>
-            <td>66</td>
-            <td>2009-01-12</td>
-            <td>$86,000</td>
-        </tr>
-        <tr>
-            <td>Cedric Kelly</td>
-            <td>Senior Javascript Developer</td>
-            <td>Edinburgh</td>
-            <td>22</td>
-            <td>2012-03-29</td>
-            <td>$433,060</td>
-        </tr>
-        <tr>
-            <td>Airi Satou</td>
-            <td>Accountant</td>
-            <td>Tokyo</td>
-            <td>33</td>
-            <td>2008-11-28</td>
-            <td>$162,700</td>
-        </tr>
-     
-        
+       <?php
+
+       include "conexion.php";
+       $conexion = new conexion();
+       $cnn = $conexion->conectar();
+       mysqli_select_db($cnn,"catalogos_productos");
+       $sql = "SELECT * FROM catalogo_productos";
+       $result = mysqli_query($cnn,$sql);
+       mysqli_error($cnn);
+       while($mostrar = mysqli_fetch_array($result)){
+       ?>
+       <tr>
+            <td class="center-align" style="background-color: #000020;opacity:0.5;color:white;"><?php echo $mostrar['Familia']?></td></center>
+            <td class="center-align" style="background-color: #000020;opacity:0.9;color:white;"><?php echo $mostrar['Producto']?></td>
+            <td class="center-align" style="background-color: #000020;opacity:0.5;color:white;"><?php echo $mostrar['CAS']?></td>
+       </tr>
+
+
+<?php
+       }
+     ?>   
+
     </tbody>
-    <tfoot>
-        <tr>
-            <th>Name</th>
-            <th>Position</th>
-            <th>Office</th>
-            <th>Age</th>
-            <th>Start date</th>
-            <th>Salary</th>
-        </tr>
-    </tfoot>
 </table>
         </div>
     </div>

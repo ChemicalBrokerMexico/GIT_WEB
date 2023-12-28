@@ -326,9 +326,10 @@
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
             href="Mercados.php"><b>Mercados</b></a></li>
         <ul id="dropdown3" class="dropdown-content">
-          <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a>
+                    <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a>
           </li>
           <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a>
+<li><a href="Catalogos_Productos" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
           </li>
         </ul>
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!"
@@ -551,8 +552,8 @@
   <div class="container-fluid">
     <div class="slider slider-prueba" style="margin-top:0px">
       <ul class="slides slides-pruea">
-        <li> <img src="img/CB_PALM_STEARIN_060823.jpg" alt="" class="Banner_Grasos_Palma"
-            style="height:1200px;filter:brightness(0.9);">
+        <li> <img src="img/CB_ESTEARINA_PALMA_281223.png" alt="" class="Banner_Grasos_Palma"
+            style="height:800px;filter:brightness(0.9);">
           <div class="caption center-align"><br><br><br><br>
             <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo"
               style="font-size: 26px;">Estearina Palma Hidrogenado</b>

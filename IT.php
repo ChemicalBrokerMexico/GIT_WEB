@@ -402,9 +402,10 @@
             <ul class="hide-on-med-and-down">
                 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
                         href="Mercados.php"><b>Mercados</b></a></li>
-                        <ul id="dropdown3" class="dropdown-content">
-  <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a></li>
-  <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a></li>
+                   <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a>
+          </li>
+          <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a>
+<li><a href="Catalogos_Productos" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
 </ul>
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!" data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a></li>
                 <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos"

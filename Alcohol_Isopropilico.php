@@ -409,6 +409,7 @@
                     <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de
                             Productos</a>
                     </li>
+                    <li><a href="Catalogos_Productos" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
                 </ul>
                 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!"
                         data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a>
@@ -952,7 +953,7 @@
         <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Tipos</b></h5>
         <ol>
             <a href="Alcohol_Isopropilico_USP.php"><ul style="list-style-type:disc;color:rgba(2 146 238 /99%);" class="arrowblue"><b>Alcohol Isopropilico USP</b></ul></a>
-            <ul style="list-style-type:disc;color:rgba(2 146 238 /99%);margin-top:30px;" class="arrowblue"><b>Alcohol Isopropilico Industrial</b></ul>
+            <a href="ALCOHOL_ISOPROPILICO_INDUSTRIAL.php"><ul style="list-style-type:disc;color:rgba(2 146 238 /99%);margin-top:30px;" class="arrowblue"><b>Alcohol Isopropilico Industrial</b></ul></a>
         </ol>
         </div>
 

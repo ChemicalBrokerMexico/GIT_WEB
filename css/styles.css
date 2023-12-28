@@ -317,6 +317,11 @@ li {
         height: 2px;
     }
 
+    .Leersebo{
+        margin-top:10px;
+        }
+    
+
     .img-logo {
         margin-top: 0px;
         max-width: 324px !important;
@@ -1194,6 +1199,11 @@ font-size: 12px;
     .compliance_tab{
         display: none;
     }
+
+    .Leersebo{
+        margin-top:10px;
+        }
+    
 
     .mobile_compliance{
         display: inline;
@@ -3821,6 +3831,11 @@ margin-top:85px;
         margin-top:73px;
     }
 
+    .Leersebo{
+        bottom:133px;
+        }
+
+
     .Leeralcoholesgrasos{
         margin-top:146px;
     }
@@ -4128,6 +4143,9 @@ margin-top:85px;
 
 @media only screen and (min-width: 1750px) {
 
+    .Leersebo{
+        margin-top:111px;
+    }
 
     .compliance_tab{
         display: block;

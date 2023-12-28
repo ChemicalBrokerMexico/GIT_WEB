@@ -20,7 +20,7 @@
     <script>new WOW().init();</script>
     <script type="text/javscript" src="js/materialize.min.js?n=1"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
-        <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.js"></script>
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.js"></script>
     <script type="text/javascript" charset="utf8" src="js/Buscador.js?n=1"></script>
     <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/responsive/2.2.6/js/dataTables.responsive.js"></script>
     <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>

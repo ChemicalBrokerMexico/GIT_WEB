@@ -225,6 +225,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a><ul id="dropdown3" class="dropdown-content" tabindex="0">
   <li tabindex="0"><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a></li>
   <li tabindex="0"><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a></li>
+  <li><a href="Catalogos_Productos" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
 </ul></li>
 <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Servicios.php"><b>Servicios</b></a></li>
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Cumplimiento.php"><b>Cumplimiento </b></a></li>

@@ -366,6 +366,7 @@
                             Familias</a></li>
                     <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de
                             Productos</a></li>
+                            <li><a href="Catalogos_Productos" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
                 </ul>
                 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger"
                         data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a>
