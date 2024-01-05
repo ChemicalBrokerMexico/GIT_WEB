@@ -517,7 +517,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
                     <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><b style="color:#000020">GMP ICH Q7</b></td>
                     <td class="letranegro Tipografia--general General--Cuerpo" style="width:765px;text-align:justify;"><p style="text-align: justify;padding:5px;width:765px;">Las
 Buenas prácticas de fabricación de principios activos farmacéuticos
-(Good ManufacturingPractices for Active Pharmaceutical Ingredients) es un documento que proporciona orientación sobrelas buenas prácticas de fabricación para la fabricación de principios activos farmacéuticos (API porsus siglas en inglés) bajo un sistema adecuado de gestión de la calidad. De mismo modo pretendeayudar a garantizar que los API cumplan los requisitos de calidad y pureza. <span>Para más información</span> <a href="https://www.sqfi.com/es-mx/our-program/what-is-sqf/noriko-nakama" style="color:rgba(2 146 238 /99%);">clic aquí</a></p></td>
+(Good ManufacturingPractices for Active Pharmaceutical Ingredients) es un documento que proporciona orientación sobrelas buenas prácticas de fabricación para la fabricación de principios activos farmacéuticos (API porsus siglas en inglés) bajo un sistema adecuado de gestión de la calidad. De mismo modo pretendeayudar a garantizar que los API cumplan los requisitos de calidad y pureza. <span>Para más información</span> <a href="Proximamente.php" style="color:rgba(2 146 238 /99%);">clic aquí</a></p></td>
                     <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><img src="img/CB_ICH_Q7_271123.jpg" alt="" style="width:80%;"></td>
                 </tr>
 
@@ -525,7 +525,7 @@ Buenas prácticas de fabricación de principios activos farmacéuticos
                     <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><b style="color:#000020">IATA</b></td>
                     <td class="letranegro Tipografia--general General--Cuerpo" style="width:765px;text-align:justify;"><p style="text-align: justify;padding:5px;width:765px;">La Asociación de Transporte Aéreo Internacional - IATA por sus siglas en inglés (
 International AirTransport Association
-) es la asociación profesional de las aerolíneas del mundo, ayuda a formularpolíticas de la industria, así como a resolver situaciones críticas o delicadas y son los responsables detodos los aspectos relacionados con el transporte aéreo, desde seguridad y fiabilidad, hasta medioambiente. <span>Para más información</span> <a href="https://www.sqfi.com/es-mx/our-program/what-is-sqf/noriko-nakama" style="color:rgba(2 146 238 /99%);">clic aquí</a></p></td>
+) es la asociación profesional de las aerolíneas del mundo, ayuda a formularpolíticas de la industria, así como a resolver situaciones críticas o delicadas y son los responsables detodos los aspectos relacionados con el transporte aéreo, desde seguridad y fiabilidad, hasta medioambiente. <span>Para más información</span> <a href="Proximamente.php" style="color:rgba(2 146 238 /99%);">clic aquí</a></p></td>
                     <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><img src="img/CERTIFICACIONES_CUMPLIMIENTO/CB_IATA_180422.jpg" alt="" style="width:50%;"></td>
                 </tr>
 
@@ -533,7 +533,7 @@ International AirTransport Association
                     <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><b style="color:#000020">IP WHO</b></td>
                     <td class="letranegro Tipografia--general General--Cuerpo" style="width:765px;text-align:justify;"><p style="text-align: justify;padding:5px;width:765px;">La
 Farmacopea Internacional de la Organización Mundial de la Salud
-, por sus sigglas en Inglés(International Pharmacopeia - World Health Organization) permite favorecer el control de los fármacosde baja calidad o falsificados, ya que determina varios elementos específicos sobre el contenido y lapureza de los medicamentos de acuerdo con las normas internacionales. <span>Para más información</span> <a href="https://www.sqfi.com/es-mx/our-program/what-is-sqf/noriko-nakama" style="color:rgba(2 146 238 /99%);">clic aquí</a></p></td>
+, por sus sigglas en Inglés(International Pharmacopeia - World Health Organization) permite favorecer el control de los fármacosde baja calidad o falsificados, ya que determina varios elementos específicos sobre el contenido y lapureza de los medicamentos de acuerdo con las normas internacionales. <span>Para más información</span> <a href="Proximamente.php" style="color:rgba(2 146 238 /99%);">clic aquí</a></p></td>
                     <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><img src="img/IP-WHO_IMAGE.png" alt="" style="width:50%;"></td>
                 </tr>
 
@@ -549,7 +549,7 @@ Consejo Internacional de Excipientes Farmacéuticos
                     <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><b style="color:#000020">ISO 27001:2022</b></td>
                     <td class="letranegro Tipografia--general General--Cuerpo" style="width:765px;text-align:justify;"><p style="text-align: justify;padding:5px;width:765px;">Un
 Sistema de Gestión de Seguridad de la Información
-establece parámetros de administración dela información a través del conjunto de políticas, procedimientos y directrices, apalancado de recursosy actividades asociados, que son administrados colectivamente por una empresa u organización,prioritariamente busca proteger sus activos de información esenciales. <span>Para más información</span> <a href="https://www.sqfi.com/es-mx/our-program/what-is-sqf/noriko-nakama" style="color:rgba(2 146 238 /99%);">clic aquí</a></p></td>
+establece parámetros de administración dela información a través del conjunto de políticas, procedimientos y directrices, apalancado de recursosy actividades asociados, que son administrados colectivamente por una empresa u organización,prioritariamente busca proteger sus activos de información esenciales. <span>Para más información</span> <a href="Proximamente.php" style="color:rgba(2 146 238 /99%);">clic aquí</a></p></td>
                     <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><img src="img/iso-27001_IMAGE.png" alt="" style="width:80%;"></td>
                 </tr>
 
@@ -557,7 +557,7 @@ establece parámetros de administración dela información a través del conjunt
                     <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><b style="color:#000020">ISO 37001:2021</b></td>
                     <td class="letranegro Tipografia--general General--Cuerpo" style="width:765px;text-align:justify;"><p style="text-align: justify;padding:5px;width:765px;">Un
 Sistema de Gestión Antisoborno
-es un sistema que permite prevenir, detectar y mitigarcualquier intento o acto de soborno. El sistema busca establecer, implementar, mantener y mejorarcontinuamente los elementos que lleven a mitigar el riesgo de soborno en las empresas uorganizaciones. <span>Para más información</span> <a href="https://www.sqfi.com/es-mx/our-program/what-is-sqf/noriko-nakama" style="color:rgba(2 146 238 /99%);">clic aquí</a></p></td>
+es un sistema que permite prevenir, detectar y mitigarcualquier intento o acto de soborno. El sistema busca establecer, implementar, mantener y mejorarcontinuamente los elementos que lleven a mitigar el riesgo de soborno en las empresas uorganizaciones. <span>Para más información</span> <a href="Proximamente.php" style="color:rgba(2 146 238 /99%);">clic aquí</a></p></td>
                     <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><img src="img/ISO-37001_IMAGE.jpg" alt="" style="width:80%;"></td>
                 </tr>
 
@@ -565,7 +565,7 @@ es un sistema que permite prevenir, detectar y mitigarcualquier intento o acto d
                     <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><b style="color:#000020">ISO 37301:2021</b></td>
                     <td class="letranegro Tipografia--general General--Cuerpo" style="width:765px;text-align:justify;"><p style="text-align: justify;padding:5px;width:765px;">Un
 Sistema de Gestión de Compliance
-se compone de todas las medidas, estructuras y procesosque una empresa u organización debe establecer para garantizar el cumplimiento de las normasaplicables y la ley vigente. De mismo modo, debe ser conocido y apoyado por la alta dirección, paramantener desde todas las áreas la identidad e integridad corporativa. <span>Para más información</span> <a href="https://www.sqfi.com/es-mx/our-program/what-is-sqf/noriko-nakama" style="color:rgba(2 146 238 /99%);">clic aquí</a></p></td>
+se compone de todas las medidas, estructuras y procesosque una empresa u organización debe establecer para garantizar el cumplimiento de las normasaplicables y la ley vigente. De mismo modo, debe ser conocido y apoyado por la alta dirección, paramantener desde todas las áreas la identidad e integridad corporativa. <span>Para más información</span> <a href="Proximamente.php" style="color:rgba(2 146 238 /99%);">clic aquí</a></p></td>
                     <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><img src="img/ISO-37301_IMAGE.jpg" alt="" style="width:100%;"></td>
                 </tr>
 
@@ -573,7 +573,7 @@ se compone de todas las medidas, estructuras y procesosque una empresa u organiz
                     <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><b style="color:#000020">JP</b></td>
                     <td class="letranegro Tipografia--general General--Cuerpo" style="width:765px;text-align:justify;"><p style="text-align: justify;padding:5px;width:765px;">La
 Farmacopea Japonesa
-(o Japaneese Pharmacopoeia) es la farmacopea oficial del estado delJapón. Es editada por la Agencia de dispositivos médicos y productos farmacéuticos bajo la autoridaddel Ministerio de sanidad, trabajo y bienestar de Japón, es por dicho motivo que mantiene un altogrado de exigencia. <span>Para más información</span> <a href="https://www.sqfi.com/es-mx/our-program/what-is-sqf/noriko-nakama" style="color:rgba(2 146 238 /99%);">clic aquí</a></p></td>
+(o Japaneese Pharmacopoeia) es la farmacopea oficial del estado delJapón. Es editada por la Agencia de dispositivos médicos y productos farmacéuticos bajo la autoridaddel Ministerio de sanidad, trabajo y bienestar de Japón, es por dicho motivo que mantiene un altogrado de exigencia. <span>Para más información</span> <a href="Proximamente.php" style="color:rgba(2 146 238 /99%);">clic aquí</a></p></td>
                     <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><img src="img/" alt="" style="width:50%;"></td>
                 </tr>
 
@@ -589,7 +589,7 @@ Kosher PAREVE
                     <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><b style="color:#000020">RFE</b></td>
                     <td class="letranegro Tipografia--general General--Cuerpo" style="width:765px;text-align:justify;"><p style="text-align: justify;padding:5px;width:765px;">La
 Real Farmacopea Española
-, es el código que recoge las normas específicas para asegurar lacalidad que deben cumplir los principios activos y excipientes que forman parte de la composición delos medicamentos tanto de uso humano como de uso veterinario, así como los métodos analíticospara su control. <span>Para más información</span> <a href="https://www.sqfi.com/es-mx/our-program/what-is-sqf/noriko-nakama" style="color:rgba(2 146 238 /99%);">clic aquí</a></p></td>
+, es el código que recoge las normas específicas para asegurar lacalidad que deben cumplir los principios activos y excipientes que forman parte de la composición delos medicamentos tanto de uso humano como de uso veterinario, así como los métodos analíticospara su control. <span>Para más información</span> <a href="Proximamente.php" style="color:rgba(2 146 238 /99%);">clic aquí</a></p></td>
                     <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><img src="img/" alt="" style="width:50%;"></td>
                 </tr>
 
@@ -597,8 +597,8 @@ Real Farmacopea Española
                     <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><b style="color:#000020">USP</b></td>
                     <td class="letranegro Tipografia--general General--Cuerpo" style="width:765px;text-align:justify;"><p style="text-align: justify;padding:5px;width:765px;">La USP por sus siglas en inglés (
 United States Pharmacopoeia
-), o bien, Farmacopea de los EstadosUnidos de América, establece estándares y parámetros para los ingredientes de los alimentos y suplementos alimenticios. <span>Para más información</span> <a href="https://www.sqfi.com/es-mx/our-program/what-is-sqf/noriko-nakama" style="color:rgba(2 146 238 /99%);">clic aquí</a></p></td>
-                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><img src="img/" alt="" style="width:50%;"></td>
+), o bien, Farmacopea de los EstadosUnidos de América, establece estándares y parámetros para los ingredientes de los alimentos y suplementos alimenticios. <span>Para más información</span> <a href="Proximamente.php" style="color:rgba(2 146 238 /99%);">clic aquí</a></p></td>
+                    <td class="letranegro Tipografia--general General--Cuerpo" style="width:33.33%;text-align:center"><img src="img/USP_LOGO.png" alt="" style="width:50%;"></td>
                 </tr>
 
                 

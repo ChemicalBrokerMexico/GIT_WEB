@@ -4143,6 +4143,20 @@ margin-top:85px;
 
 @media only screen and (min-width: 1750px) {
 
+
+
+    .btn_leerMas{
+        position: absolute;
+        left: 10px;
+        top: 93%;
+    }
+
+
+    .IMG_Seccion_Prod{
+        width: 100%;
+        border-radius: 10px;
+    }
+
     .Leersebo{
         margin-top:111px;
     }
@@ -5196,6 +5210,8 @@ margin-top:85px;
             left: 50%;
             transform: translate(-50%, -50%);
         }
+
+
 }
 
 @media only screen and (min-width:2143px) {

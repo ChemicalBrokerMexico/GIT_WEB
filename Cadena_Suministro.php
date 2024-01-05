@@ -661,7 +661,7 @@
               </div>
             </div>
             <div class="col s12 m12 l12 xl12" style="margin-top:50px;">
-            <p class="Tipografia--general General--Cuerpo colrnegro">Nuestra comprensión de la cadena de suministro y nuestra experiencia en su optimización nos permiten ofrecer un “Servicio Integral” a todos nuestros socios de negocios, impulsando la eficiencia, la reducción de costos y la mejora de la calidad en cada etapa del proceso, cuidando atender cada aspecto como:</p>
+            <p class="Tipografia--general General--Cuerpo colrnegro">Nuestra comprensión de la cadena de suministro y nuestra experiencia en su optimización nos permiten ofrecer un <b style="color:#000020;">"Servicio Integral”</b> a todos nuestros socios de negocios, impulsando la eficiencia, la reducción de costos y la mejora de la calidad en cada etapa del proceso, cuidando atender cada aspecto como:</p>
             </div>
             <div class="col s12 m12 l6 xl6" style="margin-top:50px;">
               <img src="img/CB_SUPPLIERS_150923.jpg" alt="" width="100%" style="border-radius:10px;">
@@ -697,7 +697,7 @@
             <div class="col s12 m12 l6 xl6" style="margin-top:50px;">
             <h5 class="Tipografia--general letranegro General--Cuerpo" style="color:black;text-align:center;"><b style="border-bottom:2px solid #0065ad;">Comercio Internacional</b></h5>
             <p class="Tipografia--general General--Cuerpo" style="color:black;">Involucramos operaciones de Importación y Exportación por todas las aduanas en el mundo; marítimas, aéreas y terrestres, con procesos estandarizados y en cumplimiento a las leyes internacionales vigentes y políticas de comercio exterior.</p>
-            <p class="Tipografia--general General--Cuerpo" style="color:black;">Nuestros Agentes Aduanales y Forwarders trabajan en estricto cumplimiento a nuestros requerimientos y forma de trabajo con Chemical Broker para preservar la inocuidad e integridad física de nuestros ingredientes químicos.</p>
+            <p class="Tipografia--general General--Cuerpo" style="color:black;">Nuestros Agentes Aduanales y Forwarders trabajan en estricto cumplimiento a nuestros requerimientos y forma de trabajo con <b style="color:#000020;">Chemical Broker</b> para preservar la inocuidad e integridad física de nuestros ingredientes químicos.</p>
             </div>
            </div>
 
@@ -707,7 +707,7 @@
             </div>
             <div class="col s12 m12 l6 xl6" style="margin-top:50px;">
             <h5 class="Tipografia--general letranegro General--Cuerpo" style="color:black;text-align:center;"><b style="border-bottom:2px solid #0065ad;">Logística</b></h5>
-            <p class="Tipografia--general General--Cuerpo" style="color:black;">La Logística Global para Chemical Broker, es la actividad que Planifica, Gestiona y Controla (PGC), el envío de ingredientes químicos dentro de nuestra cadena de suministros. Tiene como principal objetivo administrar todas las operaciones relacionadas con el movimiento de los productos químicos de forma eficiente.</p>
+            <p class="Tipografia--general General--Cuerpo" style="color:black;">La Logística Global para <b style="color:#000020">Chemical Broker</b>, es la actividad que Planifica, Gestiona y Controla (PGC), el envío de ingredientes químicos dentro de nuestra cadena de suministros. Tiene como principal objetivo administrar todas las operaciones relacionadas con el movimiento de los productos químicos de forma eficiente.</p>
             <p class="Tipografia--general General--Cuerpo" style="color:black;">Nuestra misión es la Gestión y Organización de las actividades relacionadas con la Compra, Recepción, Ubicación, Transporte (Aéreo, Marítimo, Terrestre o Multimodal) y la Expedición de los productos químicos en el lugar, tiempo y condiciones adecuadas.</p>
             </div>
            </div>
@@ -718,8 +718,8 @@
             </div>
             <div class="col s12 m12 l6 xl6" style="margin-top:50px;">
             <h5 class="Tipografia--general letranegro General--Cuerpo" style="color:black;text-align:center;"><b style="border-bottom:2px solid #0065ad;">Cobertura de Riesgos</b></h5>
-            <p class="Tipografia--general General--Cuerpo" style="color:black;">En Chemical Broker, la tranquilidad de nuestros socios de negocios es nuestra máxima prioridad. Gracias a una política estricta para mitigar los riesgos en cada operación, diseñamos estrategias y soluciones que aseguran una Logística Global libre de siniestros.</p>
-            <p class="Tipografia--general General--Cuerpo" style="color:black;">Trabajamos de la mano con las principales aseguradoras de riesgos a nivel mundial para garantizar la llegada de nuestros ingredientes químicos a las instalaciones de cada cliente. Su confianza en nosotros es esencial, y nos esforzamos continuamente para ofrecer un servicio que proteja su inversión y asegure la continuidad de sus operaciones. En Chemical Broker, su éxito y seguridad son nuestra prioridad.</p>
+            <p class="Tipografia--general General--Cuerpo" style="color:black;">En <b style="color:#000020;">Chemical Broker</b>, la tranquilidad de nuestros socios de negocios es nuestra máxima prioridad. Gracias a una política estricta para mitigar los riesgos en cada operación, diseñamos estrategias y soluciones que aseguran una Logística Global libre de siniestros.</p>
+            <p class="Tipografia--general General--Cuerpo" style="color:black;">Trabajamos de la mano con las principales aseguradoras de riesgos a nivel mundial para garantizar la llegada de nuestros ingredientes químicos a las instalaciones de cada cliente. Su confianza en nosotros es esencial, y nos esforzamos continuamente para ofrecer un servicio que proteja su inversión y asegure la continuidad de sus operaciones. En <b style="color:#000020;">Chemical Broker</b>, su éxito y seguridad son nuestra prioridad.</p>
             </div>
            </div>
    

@@ -478,7 +478,7 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Confiteria.html" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Confiteria</b><b> > &nbsp</b></a><a class="breditem active" href="Gomitas .php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Bombones.php" style="color:#262137 !important;margin-left:-2px"><b>Bombones</b></a> </section></section>
+        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Confiteria.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Confiteria</b><b> > &nbsp</b></a><a class="breditem active" href="Gomitas .php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Bombones.php" style="color:#262137 !important;margin-left:-2px"><b>Bombones</b></a> </section></section>
         </div>
       </div>
     </div>

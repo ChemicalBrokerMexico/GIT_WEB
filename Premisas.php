@@ -44,7 +44,7 @@
               <div class="modal-content">
                 <h6 class="letranegro"> <b class="Tipografia--general letranegro Titulos" style="float:left;">Centro de Preferencias de Privacidad       </b></h6>
                 <p class="Tipografia--general letranegro General--Cuerpo" style="float:left;">Cuando visita cualquier sitio web, puede almacenar o recuperar información en su navegador, principalmente en forma de cookies. Esta información puede ser sobre usted, sus preferencias o su dispositivo y se utiliza principalmente para hacer que el sitio funcione como espera. Por lo general, la informacion no lo identifica directamente, pero puede brindarle una experiencia web mas personalizada. Debido a que respetamos su derecho a la privacidad, puede optar por no permitir algunos tipos de cookies. Haga clic en los titulos de las diferentes categorías para obtener más información y cambiar nuestra configuración predeterminada. Sin embargo, bloquear algunos tipos de cookies puede afectar su experiencia en el sitio y los servicios que podemos ofrecer.</p>
-                <p> <a class="Botones Tipografia--general" href="#" style="color:blue;float:left;">Mas información</a></p>
+                <p> <a class="Botones Tipografia--general" href="" style="color:blue;float:left;">Mas información</a></p>
                 <div class="row">
                   <div class="col s12 m12 l12 xl12" style="margin-top:16px"><a class="modal-close color--blanco fondo--color--corporativo Tipografia--general Botones"  style="padding:10px;float:left">Permitir Todo </a></div>
                 </div>

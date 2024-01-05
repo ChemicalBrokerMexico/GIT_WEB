@@ -560,7 +560,7 @@
   <div class="container-fluid">
     <div class="slider slider-prueba" style="margin-top:0px">
       <ul class="slides slides-pruea">
-        <li> <img src="img/PESCADO_270623.jpg" alt="" style="height:400px;filter: brightness(0.9);"
+        <li> <img src="img/CB_ACIDOS_GRASOS_291223.jpg" alt="" style="height:400px;filter: brightness(0.9);"
             class="img_acidos_grasos img_acidos_grasos_desktop">
           <div class="caption center-align"><br><br><br><br>
             <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo"
