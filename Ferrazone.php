@@ -4,8 +4,13 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Acido Miristico</title>
-    <meta name="description" content="El ácido mirístico o ácido tetradecanoico es un ácido graso común saturado. Un miristato es la sal o éster del ácido mirístico.">
+    <title>Chemical Broker | Ferrazone®</title>
+    <meta name="description"
+        content="Los ácidos grasos se derivan de grasas y aceites animales como el sebo de res y de diversos aceites vegetales.">
+    <meta http-equiv="Expires" content="0">
+    <meta http-equiv="Last-Modified" content="0">
+    <meta http-equiv="Cache-Control" content="no-cache, mustrevalidate">
+    <meta http-equiv="Pragma" content="no-cache">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -304,8 +309,9 @@
                                     <ul>
                                         <p style="color:white;"><b class="Tipografia--general Titulos">Compañia</b></p>
                                         <hr class="hr">
-                                        <ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Acerca
-                                                de <i class="fas fa-long-arrow-alt-right desaparece"
+                                        <ul> <a class="arrowblue Tipografia--general Subtitulos"
+                                                href="index.php">Nosotros<i
+                                                    class="fas fa-long-arrow-alt-right desaparece"
                                                     id="aparece"></i></a><br><a
                                                 class="arrowblue Tipografia--general Subtitulos"
                                                 href="Historia_Hechos.php">Historia y Hechos
@@ -338,15 +344,29 @@
                                                     href="Code_of_Conduct.php">Codigo de
                                                     conducta &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
-                                            <li> <a class="arrowblue Tipografia--general Subtitulos"
+                                            <li> <a class="arrowblue Tipogradia--general Subtitulos"
                                                     href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download>Politica de
                                                     Privacidad <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
-                                            <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
+                                            <li><a class="arrowblue Tipografia--general Subtitulos"
+                                                    href="Politica_Calidad.php">Politica de Calidad &nbsp <i
+                                                        class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
-                                                          <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                                            <li><a class="arrowblue Tipografia--general Subtitulos"
+                                                    href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf"
+                                                    download>Código de Conducta de Proveedores &nbsp <i
+                                                        class="fas fa-long-arrow-alt-right desaparece"
+                                                        id="aparece"></i></a></li>
+                                            <li><a class="arrowblue Tipografia--general Subtitulos"
+                                                    href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf"
+                                                    download>Código de Conducta de Clientes &nbsp <i
+                                                        class="fas fa-long-arrow-alt-right desaparece"
+                                                        id="aparece"></i></a></li>
+                                            <li><a class="arrowblue Tipografia--general Subtitulos"
+                                                    href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf"
+                                                    download>Código de Conducta de Clientes &nbsp <i
+                                                        class="fas fa-long-arrow-alt-right desaparece"
+                                                        id="aparece"></i></a></li>
                                         </p>
                                     </ul>
                                 </section>
@@ -364,13 +384,18 @@
                                     </ul>
                                 </section>
                                 <section>
-<ul> 
-<p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas y sugerencias</b>
-</p><hr class="hr">
-<li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-<p></p>
-</ul>
-</section>
+                                    <ul>
+                                        <p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas
+                                                y sugerencias</b>
+                                        </p>
+                                        <hr class="hr">
+                                        <li> <a class="arrowblue Tipografia--general Subtitulos"
+                                                href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y
+                                                sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece"
+                                                    id="aparece"></i></a></li>
+                                        <p></p>
+                                    </ul>
+                                </section>
                             </div>
                             <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                                 <section>
@@ -405,11 +430,13 @@
                 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
                         href="Mercados.php"><b>Mercados</b></a></li>
                 <ul id="dropdown3" class="dropdown-content">
-                         <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a>
-          </li>
-      
-          <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a>
-<li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
+                    <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a>
+                    </li>
+                    <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de
+                            Productos</a>
+                    <li><a href="Catalogos_Productos" class="Tipografia--general letranegro Subtitulos">Catalogos</a>
+                    </li>
+                    </li>
                 </ul>
                 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!"
                         data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a>
@@ -638,10 +665,12 @@
     <div class="container-fluid">
         <div class="slider slider-prueba" style="margin-top:0px">
             <ul class="slides slides-pruea">
-                <li> <img src="img/CB_NUEZ_MOSCADA_171122.jpg" alt="" style="height:400px;">
+                <li> <img src="img/ALIMENTACION_AFRICA.jpg" alt=""
+                        style="height:585px;filter: brightness(0.9);margin-top:-63px;"
+                        class="img_acidos_grasos img_acidos_grasos_desktop">
                     <div class="caption center-align"><br><br><br><br>
                         <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b
-                            class="segundotitulo" style="font-size: 26px;">Ácido Miristico</b>
+                            class="segundotitulo" style="font-size: 26px;">Ferrazone ®</b>
                     </div>
                 </li>
             </ul>
@@ -655,354 +684,297 @@
                         style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
                         href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b>
                             >
-                            &nbsp</b><a class="breditem active" href="Glycerins.php"
+                            &nbsp</b><a class="breditem active" href="Ferrazone.php"
                             style="color:#262137 !important;margin-left:-2px"><b
-                                class="Tipografia--general letranegro Subtitulos breadcrumb">Ácido Miristico</b></a>
+                                class="Tipografia--general letranegro Subtitulos breadcrumb">Ferrazone ®</b></a>
                 </section>
                 </section>
             </div>
         </div>
     </div>
+
 
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
-                <h5 class="Tipografia--general letranegro Titulos"><b>Ácido Miristico</b>
-                </h5>
-                <p class="Tipografia--general letranegro General--Cuerpo">El ácido mirístico o ácido tetradecanoico es
-                    un ácido graso común saturado. Un miristato es la sal o éster del ácido mirístico, fue descubierto
-                    en 1841 en el fruto del árbol tropical Myristica fragrans, de donde proviene su nombre. Este es un
-                    ácido graso saturado conformado por una cadena larga de átomos de carbono y recibe su nombre por la
-                    nuez moscada (Myristica fragrans); y su manteca tiene 75 % trimiristina, un triglicérido compuesto
-                    por tres moléculas de ácido mirístico. Además de la nuez moscada, este ácido se encuentra en el
-                    aceite de palma, manteca y espermaceti y en fracciones cristalizadas de grasa de ballena.</p>
-                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px">El
-                    Acido Miristico es un ácido graso saturado que está presente en una gran cantidad de grasas tanto
-                    animales como vegetales, entre las cuales se encuentran el aceite de coco, la mantequilla y la
-                    manteca de cerdo, pero sobre todo, se le atribuye la nuez moscada de donde proviene, ya que al árbol
-                    que da origen a la nuez se le llama myristica. La mayor parte de las grasas saturadas se conservan
-                    en estado sólido a temperatura ambiente. Se presenta como un sólido similar a la mantequilla.</p>
-            </div>
-
-            <div class="col s12 m12 l12 xl12 center-align">
-                <h5 style="color:#BF8F00;margin-top:50px;margin-bottom:0px;font-size:30px">“El Ácido mirístico se obtiene del
-                    fraccionamiento de un aceite de tipo Láurico.”</h5>
+                <h5 class="center-align" style="font-size:30px;">“<b style="color:#C00000;">Ferrazone®</b> <b
+                        style="color:#000066">El hierro más biodisponible contra la anemia”</b></h5>
             </div>
 
             <div class="col s12 m12 l12 xl12">
-                <table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
-                    <tr class="Tipografia--general General--Cuerpo"
-                        style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-                        <td 
-                            style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
-                            <b>IUPAC:</b>
-                        </td>
-                        <td
-                            style="font-size:15px !important;border:1px solid #f2f2f2;width:50%;background-color:#000020;color:white;">
-                            <ol>
-                                <li style="list-style-type:disc;margin-left:-23px;">Acido Tetradecanoico</li>
-                                <li style="list-style-type:disc;margin-left:-23px;">Acido Miristico</li>
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;"><b
+                        style="color:#C00000;">Ferrazone®</b> es apto para uso alimentario y ha sido recomendado por la
+                    Organización Mundial de la Salud como el único suplemento de hierro adecuado para la fortificación
+                    masiva de harinas de cereales con alto contenido de fitatos y también se recomienda para condimentos
+                    como salsa de soja y salsa de pescado. Ferrazone® se utiliza en iniciativas de enriquecimiento de
+                    alimentos a gran escala en África, América Latina, Asia y Medio Oriente.</p>
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;"><b
+                        style="color:#C00000;">Ferrazone®</b> se fabrica en la planta de Nouryon en Herkenbosch, Países
+                    Bajos. Esta instalación de producción está certificada según el sistema de garantía de calidad
+                    FSSC22000. Ferrazone® también está certificado para su uso en alimentos Kosher y Halal.</p>
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;"><b
+                        style="color:#C00000;">Ferrazone®</b> ha sido aprobada oficialmente para su uso en alimentos por
+                    el JECFA, la FDA y la EFSA.</p>
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;"><b
+                        style="color:#C00000;">Ferrazone®</b> se fabrica de acuerdo con las especificaciones descritas
+                    en las monografías para EDTA férrico y sódico de calidad alimentaria de la octava versión de la FCC
+                    y el JECFA.</p>
+
+                <h5 class="Tipografia--general letranegro" style="margin-top:50px;font-size:20px"><b
+                        style="color:#000066;">¿Por qué</b> <b style="color:#C00000;">Ferrazone®?</b></h5>
+                <div class="col s12 m12 l6 xl6">
+                    <img src="img/IMAGEN_FERRAZONE_100124.png" alt="" width="100%"
+                        style="margin-top:10px;height:350px;border-radius:15px;">
+                </div>
+
+                <div class="col s12 m12 l6 xl6">
+
+                    <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">¿Cómo combatir
+                        la anemia? La anemia por deficiencia de hierro es uno de los principales problemas de salud a
+                        nivel mundial y afecta a 1.500 millones de personas. En general, la anemia por deficiencia de
+                        hierro provoca una pérdida de resistencia física debido a niveles reducidos de hemoglobina y
+                        hierro en los tejidos.</p>
+                    <p class="Tipografia--general letranegro General--Cuerpo"
+                        style="margin-top:50px;margin-bottom:0px;">Durante el embarazo, la anemia por deficiencia de
+                        hierro se asocia con un mayor riesgo de mortalidad materna. La deficiencia de hierro en la
+                        infancia y la niñez se asocia con una pérdida significativa de capacidades cognitivas y una
+                        menor resistencia a las infecciones.</p>
+                </div>
+
+                <div class="col s12 m12 l12 xl12">
+                    <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b
+                            style="color:#C00000;">Anemia por deficiencia de hierro:</b></h5>
+                    <p class="Tipografia--general letranegro General--Cuerpo">El hierro está presente en todas las
+                        células del cuerpo humano y desempeña un papel vital en los glóbulos rojos al ayudar a
+                        transportar oxígeno por el cuerpo. La deficiencia de hierro afecta la función del cuerpo humano.
+                        En su forma grave, la deficiencia de hierro provoca anemia. La deficiencia de hierro es la
+                        deficiencia de nutrientes más frecuente en el mundo. Según estimaciones de la Organización
+                        Mundial de la Salud (OMS), el 40% de la población mundial está anémica. Es responsable de
+                        aproximadamente 20.000 muertes entre niños menores de 5 años. Además, la anemia por deficiencia
+                        de hierro durante el embarazo es un factor de riesgo de mortalidad materna. Se han atribuido a
+                        la deficiencia de hierro 115.000 muertes anuales por causas maternas entre mujeres en edad
+                        fértil. Según una revisión de la Organización Mundial de la Salud (OMS) de encuestas
+                        representativas a nivel nacional realizadas entre 1993 y 2005, el 42% de las mujeres embarazadas
+                        y el 47% de los niños en edad preescolar en todo el mundo padecen anemia. La deficiencia de
+                        hierro tiene su mayor impacto en la salud y el bienestar de los niños en edad preescolar y de
+                        las mujeres en edad fértil, aunque también puede afectar a otros grupos de población. La anemia
+                        se manifiesta se traduce en una menor productividad laboral en hombres y mujeres, una menor
+                        inteligencia en los niños y un mayor riesgo de bebés con bajo peso al nacer en las mujeres
+                        embarazadas.</p>
+                </div>
+
+                <div class="col s12 m12 l6 xl6">
+                    <img src="img/FERRAZONE_HARINAS_100124.jpg" alt="" width="100%"
+                        style="margin-top:30px;height:350px;margin-top:50px;border-radius:15px;">
+                </div>
+
+                <div class="col s12 m12 l6 xl6">
+                    <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">EDTA Férrico y
+                        Sódico para el enriquecimiento de harinas y alimentos La forma más eficaz de prevenir y tratar
+                        la anemia por deficiencia de hierro es mediante el enriquecimiento de productos alimenticios con
+                        una forma de hierro que el cuerpo absorbe fácilmente. Se ha demostrado que el EDTA férrico y
+                        sódico de Nouryon, <b style="color:#C00000;">Ferrazone®</b>, es seguro y eficaz para reducir la
+                        deficiencia de hierro gracias a su biodisponibilidad superior, especialmente en dietas en las
+                        que los compuestos inherentes inhiben la absorción de hierro.</p>
+                </div>
+
+                <div class="col s12 m12 l12 xl12">
+
+                </div>
+
+                <div class="row" style="margin-top:50px;">
+                    <div class="col s12 m12 l6 xl6" style="float:right;margin-top:50px">
+                        <img src="img/SCUPE_FERRAZONE_100123.jpg" alt="" width="100%"
+                            style="margin-top:50px;height:350px;border-radius:15px">
+                    </div>
+
+                    <div class="col s12 m12 l6 xl6" style="margin-top:50px;">
+                        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El principal
+                            desafío en cualquier suplementación con hierro es evitar cambios indeseables de color y
+                            sabor en los alimentos fortificados. También es importante la eficacia del hierro absorbido
+                            a nivel celular en el cuerpo. A diferencia de otros compuestos de hierro, <b
+                                style="color:#C00000;">Ferrazone®</b> es beneficioso en todo lo siguiente:</p>
+
+                        <ol style="margin-top:30px;">
+                            <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">
+                                Bien soluble en agua </li>
+                            <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">
+                                Sin sabor metálico </li>
+                            <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">
+                                No mancha los dientes </li>
+                            <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">
+                                Sin rancidez </li>
+                            <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">
+                                Altamente eficaz, incluso en presencia de fitato </li>
+                        </ol>
+                    </div>
+                </div>
+
+
+
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Alimentos básicos
+                    fortificantes (es decir, varios tipos de harina) con <b style="color:#C00000;">Ferrazone®</b> es la
+                    forma más eficaz de combatir la anemia en los países en desarrollo. Por lo tanto, Nouryon está
+                    trabajando estrechamente con ONG´s, gobiernos y productores líderes de premezclas (una mezcla de
+                    vitaminas y minerales utilizadas para fortificar los alimentos) para proporcionar un producto de la
+                    más alta calidad y el conocimiento necesario para una aplicación exitosa.</p>
+
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Historial de
+                    seguridad de <b style="color:#C00000;">Ferrazone®</b> Nouryon ha estado estudiando, apoyando y
+                    revisando la investigación sobre la seguridad, el impacto ambiental y la eficacia de Ferrazone
+                    durante más de 50 años. Toda la evidencia apunta al uso absolutamente seguro de Ferrazone para el
+                    consumo humano. Las investigaciones han demostrado que el EDTA férrico y sódico muestra una ausencia
+                    total de toxicidad en el cuerpo humano cuando se toma por vía oral. El complejo Hierro-EDTA está
+                    estrechamente unido y el hierro sólo se libera a través de las barreras intestinales cuando es
+                    necesario, no "empujado" activamente al torrente sanguíneo, lo que elimina el riesgo de sobrecarga
+                    de hierro. Una vez que las moléculas de hierro se transfieren a través de las paredes intestinales,
+                    las moléculas de EDTA generalmente se excretan del cuerpo en cuestión de horas a través de los
+                    riñones. Las investigaciones han demostrado que no existe ningún efecto cancerígeno y que no se
+                    producen alteraciones endocrinas. Las preocupaciones sobre el riesgo del EDTA de "agotar" otros
+                    minerales ingeridos, como el calcio, también son infundadas.</p>
+
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Por el contrario,
+                    algunos estudios han demostrado que las dietas que contienen EDTA férrico y sódico, en comparación
+                    con el sulfato ferroso, en realidad mejoran la biodisponibilidad y la absorción de zinc. Esto
+                    sugiere que las moléculas vacías de EDTA podrían estar "transportando" las moléculas de zinc de
+                    manera más efectiva a través de las paredes intestinales uniéndose a ellas, lo cual es esencial
+                    cuando hay otros compuestos inhibidores presentes que pueden limitar la absorción de este importante
+                    mineral. El EDTA férrico y sódico no tiene ningún impacto en la absorción de calcio y manganeso, ni
+                    siquiera de plomo.</p>
+
+                <h5 class="Tipografia--general letranegro" style="margin-top:50px;font-size:20px;margin-bottom:0px;"><b
+                        style="color:#000066;">Pautas de uso de</b> <b style="color:#C00000;">Ferrazone®</b></h5>
+
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">El JECFA ha declarado que la IDA máxima
+                    (Ingesta diaria admisible) de EDTA es 1,9 mg/día/ kg de peso corporal (pc), lo que equivale a
+                    Ferrazone® será de 2,8 mg/día/kg de peso corporal.</p>
+
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">El EDTA férrico y
+                    sódico es al menos 2 o 3 veces más biodisponible que fuentes comparables de hierro como el sulfato
+                    ferroso o el fumarato, que los formuladores deben tener en cuenta. Literatura de investigación
+                    disponible a pedido.</p>
+
+                <h5 class="Tipografia--general letranegro" style="margin-top:50px;font-size:20px"><b
+                        style="color:#000066;">Aplicaciones destacadas</b></h5>
+
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;"><b style="color:#C00000;">Ferrazone®</b> se
+                    puede utilizar en muchos productos de alimentos y bebidas, debido a su estabilidad inherente y
+                    facilidad de manipulación. Es especialmente ideal para mezclar en seco con otros polvos como
+                    premezclas, mezclas de bebidas y otros productos secos.</p>
+                    
+                <div class="row" style="margin-top:50px;">
+                    <div class="col s12 m12 l6 xl6">
+                        <div class="card" style="border:none;">
+                            <div class="card-image" style="border:none;">
+                                <img src="img/PLATO_CEREAL_FERRAZONE_100124.jpg">
+                            </div>
+                            <div class="card-content">
+                                <p class="Tipografia--general General--Cuerpo letranegro">Productos a base de harina de trigo y maíz el <b
+                                        style="color:#C00000;">Ferrazone®</b> se puede añadir a la harina de trigo y de
+                                    maíz, que son dos de los tres principales alimentos básicos consumidos en el mundo.
+                                    Ejemplos de productos derivados de la harina son el pan, las galletas, la pasta, los
+                                    fideos instantáneos y los cereales.</p>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="col s12 m12 l6 xl6">
+                        <div class="card" style="border:none;">
+                            <div class="card-image">
+                                <img src="img/Bebidas_Ferrazone_100124.jpg">
+                            </div>
+                            <div class="card-content">
+                                <p class="Tipografia--general General--Cuerpo letranegro">En Bebidas el <b style="color:#C00000;">Ferrazone®</b> puede utilizarse en las
+                                    bebidas en polvo y las bebidas listas para servir, como las bebidas con sabor a
+                                    frutas y las bebidas funcionales como las bebidas deportivas y los batidos de
+                                    proteínas, también son buenos objetivos para la fortificación con hierro. <span style="color: transparent;">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</span></p>
+                            </div>
+
+                        </div>
+                    </div>
+
+
+                    <div class="col s12 m12 l6 xl6">
+                        <div class="card" style="border:none;">
+                            <div class="card-image">
+                                <img src="img/CAPSULAS_FERRAZONE_100124.png">
+                            </div>
+                            <div class="card-content" style="height:117px;">
+                                <p class="Tipografia--general General--Cuerpo letranegro">En Suplementos Alimenticios el <b style="color:#C00000;">Ferrazone®</b> se puede
+                                    utilizar en complementos alimenticios de diversas formas, como jarabes, aerosoles,
+                                    tabletas y sobres de polvo.</p>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="col s12 m12 l6 xl6">
+                        <div class="card" style="border:none;">
+                            <div class="card-image">
+                                <img src="img/TE_FERRAZONE_100124.jpg">
+                            </div>
+                            <div class="card-content">
+                                <p class="Tipografia--general General--Cuerpo letranegro">En Condimentos el <b style="color:#C00000;">Ferrazone®</b> puede usarse
+                                    ventajosamente para fortalecer condimentos cotidianos comunes tales como salsa de
+                                    soja, salsa de pescado, cubitos de caldo y sal.</p>
+                            </div>
+
+                        </div>
+                    </div>
+
+
+
+                </div>
+
+            </div>
+            <div class="col s12 m12 l12 xl1">
+                <h5 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020">Proveedor</b></h5>
+                <img src="img/LOGO_NOURYON_100124.png" alt="" style="margin-top:10px" width="300%">
+                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b
+                        style="color:#000020">Grados:</b></h5>
+                <table style="border:1px solid #f2f2f2;width:800px;">
+                    <tr>
+                        <td><a href="Proximamente.php" class="General--Cuerpo"><b style="color:#C00000;cursor:pointer;padding:5px;"
+                                    class="arrowblue">Ferrazone®</b></a></td>
+                        <td>
+                            <ol class="Elementos--Listas Tipografia--general letranegro">
+                                <li style="list-style-type:disc;">Alimentos, Bebidas y Suplementos</li>
                             </ol>
                         </td>
                     </tr>
-
-
-
-                    <tr class="Tipografia--general General--Cuerpo"
-                        style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-                        <td
-                            style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
-                            <b>Sinónimos:</b>
-                        </td>
-                        <td
-                            style="font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;">
-                            <ol style="color:white;">
-                                <li style="list-style-type:disc;margin-left:-23px"
-                                    class="Tipografia General Elementos--Listas colornegro ">Acido n-tetradecanoico</li>
-                                <li style="list-style-type:disc;margin-left:-23px"
-                                    class="Tipografia General Elementos--Listas colornegro">Acido n-tetradecan-1-oico
-                                </li>
+                    <tr style="background-color:F2F2F2;">
+                        <td style="background-color:#f2f2f2;height:25px;"></td>
+                        <td style="background-color:#f2f2f2;"></td>
+                    </tr>
+                    <tr>
+                        <td><a href="Proximamente.php" class="Tipografia--general General--Cuerpo"><b
+                                    style="color:#C00000;cursor:pointer;padding:5px;" class="arrowblue">Ferrazone®</b> XF</a></td>
+                        <td>
+                            <ol class="Elementos--Listas Tipografia--general letranegro">
+                                <li style="list-style-type:disc;">Harina de trigo y maíz</li>
                             </ol>
                         </td>
                     </tr>
-
-
-
-                    <tr class="Tipografia--general General--Cuerpo"
-                        style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-                        <td
-                            style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
-                            <b>Formula Estructural:</b>
+                    <tr style="background-color:F2F2F2;">
+                        <td style="background-color:#f2f2f2;height:25px;"></td>.
+                        <td style="background-color:#f2f2f2;"></td>
+                    </tr>
+                    <tr>
+                        <td><a href="Proximamente.php" class="General--Cuerpo"><b style="color:#C00000;cursor:pointer;padding:5px;"
+                                    class="arrowblue">Ferrazone®</b> BP</a></td>
+                        <td>
+                            <ol class="Elementos--Listas Tipografia--general letranegro">
+                                <li style="list-style-type:disc;">Productos Farmacéuticos</li>
+                            </ol>
                         </td>
-                        <td
-                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;">
-                            <img src="img/ESTRUCTURAL_ACIDO_MIRISTICO_171122.png" alt="" style="width:100%;"></td>
                     </tr>
-                    <tr class="Tipografia--general General--Cuerpo"
-                        style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-                        <td
-                            style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
-                            <b>Formula Quimica:</b>
-                        </td>
-                        <td
-                            style="text-align: center;font-size:15px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
-                            C<sub>14</sub>H<sub>28</sub>O<sub>2</sub></td>
-                    </tr>
-
-                    <tr class="Tipografia--general General--Cuerpo"
-                        style="text-align:center;padding:10px;font-size:16px !important;width:150px;">
-                        <td
-                            style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
-                            <b>Formula molecular:</b>
-                        </td>
-                        <td
-                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
-                            CH<sub>3</sub>(CH<sub>2</sub>)<sub>12</sub>COOH</td>
-                    </tr>
-                    <tr class="Tipografia--general General--Cuerpo"
-                        style="text-align:center;padding:10px;font-size:16px !important;width:150px;">
-                        <td
-                            style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
-                            <b>Peso Molecular:</b>
-                        </td>
-                        <td
-                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
-                            228.37</td>
-                    <tr>
-                        <td
-                            style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
-                            <b>CAS #:</b>
-                        </td>
-                        <td
-                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
-                            544-63-8</td>
-                    </tr>
-                    <tr>
-                        <td
-                            style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
-                            <b>EC No.:</b>
-                        </td>
-                        <td
-                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
-                            208-875-2</td>
-                    </tr>
-                    <tr>
-                        <td
-                            style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
-                            <b>InChl:</b>
-                        </td>
-                        <td
-                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
-                            1S/C14H28O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14(15)16/h2-13H2,1H3, (H, 15, 16)</td>
-                    </tr>
-                    <tr>
-                        <td
-                            style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
-                            <b>ChEBI::</b>
-                        </td>
-                        <td
-                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
-                            28875</td>
-                    </tr>
-                    <tr>
-                        <td
-                            style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
-                            <b>ChEMBL:</b>
-                        </td>
-                        <td
-                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
-                            CHEBL111077</td>
-                    </tr>
-                    <tr>
-                        <td
-                            style="font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:black;">
-                            <b>ChemSpider:</b></td>
-                        <td
-                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
-                            10539</td>
-
-                    </tr>
-                    <tr>
-                        <td
-                            style="font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:black;">
-                            <b>DrugBank:</b></td>
-                        <td
-                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
-                            08231</td>
-
-                    </tr>
-                    <tr>
-                        <td
-                            style="font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:black;">
-                            <b>PubChem:</b></td>
-                        <td
-                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
-                            11005</td>
-
-                    </tr>
-                    <tr>
-                        <td
-                            style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:black;">
-                            <b>UNII:</b></td>
-                        <td
-                            style="text-align: center;font-size:15px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
-                            0I3VS25AW</td>
-
-                    </tr>
-
-                    <tr>
-                        <td
-                            style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:black;">
-                            <b>KEGG:</b></td>
-                        <td
-                            style="text-align: center;font-size:15px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
-                            C06424</td>
-                    </tr>
-
-                    </tr>
-
                 </table>
 
             </div>
-
-            <div class="col s12 m12 l12 xl12">
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px"><b>Aplicaciones:</b>
-                    <ol style="margin-bottom:0px;">
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">
-                            Elaboracion de Tensoactivos</li>
-                            <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">
-                            Esteres de Acidos Grasos de Sorbitan</li>
-                            <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">
-                            Esteres de acidos grasos de glicerol</li>
-                            <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">
-                            Esteres de Acidos grasos de etilenglicol o propilenglicol</li>
-                            <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">
-                            Sistesis de materia organica</li>
-                            <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">
-                            Fragancias</li>
-                            <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">
-                            Aromas</li>
-                            <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">
-                            Acabado de superficies</li>
-                            <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">
-                            Lubricantes</li>
-                            <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">
-                            Jabones metalicos</li>
-                            <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">
-                            Cosmeticos</li>
-                            <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">
-                            Alimentacion animal</li>
-                            <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">
-                            Quimica papelera</li>
-                            <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">
-                            Plasticos</li>
-                            <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">
-                            Detergentes</li>
-                            <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">
-                            Agroquimicos</li>
-                            <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">
-                            Resinas</li>
-                            <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">
-                            Recubrimientos</li>
-                            <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">
-                            Estabilizadores de color de PVC y Plastificantes</li>
-                            <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">
-                            Agentes impermeabilizantes</li>
-                            <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">
-                            Antiespumantes</li>
-                            <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">
-                            Agentes aromatizantes</li>
-                            <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">
-                            Produccion de ceras</li>
-                            <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">Sales
-                            metalicas </li>
-                            <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">
-                            Esteres</li>
-                            <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">
-                            Agentes de recubrimiento</li>
-                            <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">Velas
-                        </li>
-                        <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">
-                            Neumaticos</li>
-                            <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">
-                            Aditivo Alimentario</li>
-                            <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">
-                            Ingrediente en cremas cosmeticas</li>
-                            <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">
-                            Espumas para afeitar</li>
-                            <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">
-                            Jabones y detergentes</li>
-                            <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">
-                            Productos para el cuidado de la piel, cabello y uñas</li>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">
-                            Maquillaje para los ojos</li>
-                            <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">Gel
-                            desmaquillante</li>
-                            <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">
-                            Desodorantes</li>
-                            <br>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">
-                            Aceites de baño</li>
-                    </ol>
-            </div>
-            <div class="col s12 m12 l12 xl12">
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Fabricante</b>
-            </div>
-            <div class="col s12 m12 l12 xl12">
-                <img src="img/LOGO_CREMER3_010922.png" alt="CREMER-LOGO" class="CREMER_LOGO" style="margin-top:50px;">
-            </div>
-            <div class="col s12 m12 l12 xl12">
-                <h5 class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;"><b>Cartas
-                        Declaratorias</b></h5>
-                <ol>
-                    <li style="list-style-type:disc"><a
-                            href="PDF/CATALOGUES/CREMER_PS_FA-1498_051113.pdf"
-                            style="color:rgba(2 146 238 /99%) !important;"
-                            download>CREMER_PS_FA-1498_051113.pdf<span
-                                class="arrowblue desaparece">Descargar...</span></a></li>
-                    <li style="list-style-type:disc;margin-top:30px;"><a
-                            href="PDF/CATALOGUES/CREMER_SDS_FA-1498_020615.pdf"
-                            style="color:rgba(2 146 238 /99%) !important;"
-                            download>CREMER_SDS_FA-1498_020615.pdf<span
-                                class="arrowblue desaparece">Descargar...</span></a></li>
-            </div>
         </div>
     </div>
-    </div>
+
 
 </body>
 <footer style="margin-top:70px">

@@ -413,7 +413,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <li class="no--opacidad Tipografia--general" id="C" onclick="filtroc();"><b>C</b></li>
 <li class="no--opacidad Tipografia--general" id="D" onclick="filtrod();"><b>D</b></li>
 <li class="no--opacidad Tipografia--general" id="E" onclick="filtroe();"><b>E</b></li>
-<li class="opacity--menor Tipografia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="F"><b>F</b></li>
+<li class="no--opacidad Tipografia--general" id="F" onclick="filtrof();"><b>F</b></li>
 <li class="no--opacidad Tipografia--general " id="G" onclick="filtrog();"><b>G</b></li>
 <li class="opacity--menor Tipografia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="H"><b>H</b></li>
 <li class="opacity--menor Tipografia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="I"><b>I</b></li>

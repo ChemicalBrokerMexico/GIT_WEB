@@ -409,7 +409,7 @@
           </li>
       
           <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a>
-<li><a href="Catalogos_Productos" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
+<li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
                 </ul>
                 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!"
                         data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a>
@@ -655,7 +655,7 @@
                         style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
                         href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b>
                             >
-                            &nbsp</b><a class="breditem active" href="Catalogos_Productos.php"
+                            &nbsp</b><a class="breditem active" href="Catalogos_Productos.php.php"
                             style="color:#262137 !important;margin-left:-2px"><b
                                 class="Tipografia--general letranegro Subtitulos breadcrumb">Catalogos</b></a>
                 </section>
@@ -668,9 +668,10 @@
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
-                <p class="Tipografia--general letranegro General--Cuerpo">Te damos la bienvenida a nuestro catalogo integral de productos quimicos, Navega a traves de nuestra seleccion diversa y especializada de ingredientes quimicos. Diseñado para satisfacer las necesidades de la industria, nuestro catalogo ofrece información detallada y especificaciones tecnicas para cada producto.</p>
-                <h5 class="Tipografia--general Titulos"><b>Catalogo General</b></h5>
-                <a href="PDF/CHEMICAL-BROKER_CATALOGO-PRODUCTOS_131223.pdf" class="Tipografia--general Subtitulos" style="color:rgba(2 146 238 /99%);margin-top:50px;" download>Catalogo General de Productos</a>
+                <p class="Tipografia--general letranegro General--Cuerpo">Chemical Broker enfoca sus negocios a nivel global en la venta de Ingredientes químicos para las industrias de Farmacéutica, Veterinaria, Alimentaria y Nutrición Humana, Alimento y Nutrición Animal, Cosmética y Cuidado Personal, Agroquímicos, Detergentes y Cuidado del Hogar e Industria Quimica.</p>
+                <p class="Tipografia--general letranegro General--Cuerpo">A través de nuestros Catálogos de Productos por Industrias usted podrá encontrar una gran variedad de ingredientes químicos enfocados al segmento de mercado deseado y en cumplimiento a los estándares de calidad correspondientes:</p>
+                <h5 class="Tipografia--general Titulos"><b>Catálogos</b></h5>
+                <a href="PDF/CHEMICAL-BROKER_CATALOGO-PRODUCTOS_131223.pdf" class="Tipografia--general Subtitulos" style="color:rgba(2 146 238 /99%);margin-top:50px;" download>CHEMICAL-BROKER_CATALOGO-PRODUCTOS_131223.pdf</a>
             </div>
         </div>
     </div>

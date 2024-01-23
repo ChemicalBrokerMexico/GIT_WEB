@@ -337,7 +337,7 @@
                     <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a>
           </li>
           <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a>
-<li><a href="Catalogos_Productos" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
+<li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
           </li>
         </ul>
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!"
@@ -631,7 +631,7 @@
           sin dobles enlaces entre carbonos; tienden a formar cadenas extendidas y a ser sólidos a temperatura ambiente,
           excepto los de cadena corta.</p>
 
-        <ol style="margin-top:50px;margin-bottom:0px;margin-left:-25px;">
+        <ol style="margin-top:30px;margin-bottom:0px;margin-left:-25px;">
           <li style="list-style-type:disc;"><b>Cadena corta (volátiles)</b>:</li>
           <br>
           <ol>

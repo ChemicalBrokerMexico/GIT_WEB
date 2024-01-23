@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -324,10 +325,10 @@ recaptchaResponse.value = token;
       <ul class="hide-on-med-and-down">
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
             href="Mercados.php"><b>Mercados</b></a></li>
-       <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a>
-          </li>
-          <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a>
-<li><a href="Catalogos_Productos" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
+            <ul id="dropdown3" class="dropdown-content">
+  <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a></li>
+  <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a></li>
+  <li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
 </ul>
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!" data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a></li>
         <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos"
@@ -704,7 +705,7 @@ recaptchaResponse.value = token;
             </div><img class="mercadosimagen" src="img/SUPLEMENTS_040521.jpeg" alt="" style="border-radius:10px" />
           </div>
         </a></div>
-        <div class="col s12 m12 l4 xl4">
+        <!-- <div class="col s12 m12 l4 xl4">
           <div>
             <img src="img/FARMACEUTICA_CB.jpg" alt="" width="100%">
             <div style="background-color:#f2f2f2;">
@@ -712,7 +713,7 @@ recaptchaResponse.value = token;
             </div>
             </div>
            
-        </div>
+        </div> -->
         <div class="col s12 m12 l4 xl4">
 
         </div>

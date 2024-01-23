@@ -409,7 +409,7 @@
                     <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de
                             Productos</a>
                     </li>
-                    <li><a href="Catalogos_Productos" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
+                    <li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
                 </ul>
                 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!"
                         data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a>
@@ -665,7 +665,7 @@
     </div>
 
 
-   <div class="container">
+   <div class="container" style="margin-top:50px">
     <div class="row">
         <div class="col s12 m12 l12 xl12">
         <h5 class="Tipografia--general letranegro Titulos" style="margin-top:0px;"><b>Aceite de Soya Refinado, Blanqueado y Desodorizado (RBD)</b></h5>

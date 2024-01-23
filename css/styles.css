@@ -310,6 +310,10 @@ li {
 }
 
 @media only screen and (max-width: 576px) {
+
+
+  
+
     .divider_sections {
         background-color: white;
         width: 108%;
@@ -1192,6 +1196,18 @@ font-size: 12px;
             display: inline;
         }
 
+        .IMG_Seccion_Prod{
+            width: 100%;
+            border-radius: 10px;
+        }
+
+
+        .btn_leerMas{
+            position: absolute;
+            left: 10px;
+            top: 100%;
+        }
+
 }
 
 @media only screen and (min-width: 576px) {
@@ -1919,7 +1935,7 @@ font-size: 12px;
     }
 
     .columnas_dextrosas{
-        margin-top:32px;
+        margin-top:0px;
     }
 
     .columnas_edta{
@@ -1981,6 +1997,17 @@ font-size: 12px;
 
     .CREMER_LOGO{
         width:50%;
+    }
+
+    .IMG_Seccion_Prod{
+        width: 100%;
+        border-radius: 10px;
+    }
+
+    .btn_leerMas{
+        position: absolute;
+        left: 10px;
+        top: 100%;
     }
 
 }
@@ -2069,6 +2096,12 @@ font-size: 12px;
 
     .titulo_submercado{
      font-size:16px;
+    }
+
+    .btn_leerMas{
+        position: absolute;
+        left: 10px;
+        top: 100%;
     }
 }
 
@@ -2987,6 +3020,14 @@ margin-top: -44px;
 }
 
 @media only screen and (min-width: 1280px) {
+    
+    .btn_leerMas{
+        position: absolute;
+        left: 10px;
+        top: 93%;
+    }
+
+    
     .elemennav-secun {
         margin-left: 60px;
         margin-right: 60px;

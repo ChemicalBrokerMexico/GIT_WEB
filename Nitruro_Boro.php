@@ -1,10 +1,11 @@
+
 <!DOCTYPE html>
 <html>
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
   <title>Chemical Broker | Nitruro de Boro</title>
-  <meta name="description" content="El Nitruro de Boro Momentive Softouch es un polvo de grado cosmético muy fino con buena opacidad. Puede impartir una sensación sedosa, suave y lubricante en las formulaciones cosméticas, al tiempo que mejora la difusión."> -->
+  <meta name="description" content="El Nitruro de Boro Momentive Softouch es un polvo de grado cosmético muy fino con buena opacidad. Puede impartir una sensación sedosa, suave y lubricante en las formulaciones cosméticas, al tiempo que mejora la difusión."> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -327,10 +328,9 @@
       <ul class="hide-on-med-and-down">
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
             href="Mercados.php"><b>Mercados</b></a></li>
-       <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a>
-          </li>
-          <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a>
-<li><a href="Catalogos_Productos" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
+            <ul id="dropdown3" class="dropdown-content">
+  <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a></li>
+  <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a></li>
 </ul>
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!" data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a></li>
         <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos"
@@ -592,361 +592,118 @@
     </div>
   </div>
 
-
-  <div class="container">
-    <div class="row">
-      <div class="col s12 m12 l12 xl12">
-      <h5 class="Tipografia--general letranegro Titulos" style="margin-top:0px;"><b
-            >Nitruro de Boro</b></h5>
-        <p class="Tipografia--general letranegro General--Cuerpo"><b>El Nitruro de Boro</b> Momentive Softouch es un polvo de grado cosmético muy fino con buena opacidad. Puede impartir una sensación sedosa, suave y lubricante en las formulaciones cosméticas, al tiempo que mejora la difusión.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El nitruro de boro es un sólido inorgánico formado por la unión de un átomo de boro (B) con un átomo de nitrógeno (N). Su fórmula química es BN. Es un sólido blanco muy resistente a altas temperaturas y es un buen conductor del calor. Se emplea por ejemplo para fabricar crisoles de laboratorio.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b>Nitruro de Boro</b> (BN) es resistente a muchos ácidos, sin embargo, tiene cierta debilidad a los ataques del ácido fluorhídrico y por las bases fundidas. Es un buen aislante de la electricidad.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Se obtiene en diversas estructuras cristalinas, de las cuales las más importantes son la hexagonal y la cúbica. La estructura hexagonal se asemeja al grafito y es resbaladiza, por lo que se emplea como lubricante. La estructura cúbica es casi tan dura como el diamante y se utiliza para fabricar herramientas cortantes y para mejorar la dureza de otros materiales.</p>
-        <!-- <h5 class="Tipografia--general letranegro Titulos"><b>Presencia en Ácidos Grasos</b></h5>
-<ol class="Tipografia--general letranegro Elementos--Listas" style="list-style-type: disc;">
-<li class="Tipografia--general letranegro Elementos--Listas">El glicerol está presente en todos los aceites, grasas animales y vegetales en forma combinada, es decir, vinculado a los ácidos grasos como el ácido esteárico, ácido oleico, ácido palmítico y ácido láurico para formar una molécula de triglicéridos.</li>
-<br>
-<li style="font-size: 16px;text-align: justify;">Los aceites de coco y de palma contienen una cantidad elevada (70% - 80%) de ácidos grasos de cadena de carbono 6 a 14 átomos de carbono.</li>
-<br>
-<li style="font-size: 16px;text-align: justify;">Estos producen más moléculas de glicerol en los aceites que contienen ácidos grasos de 16 a 18 átomos de carbono, como las grasas, el aceite de semilla de algodón, el aceite de soya, el aceite de oliva y el aceite de palma.</li>
-</ol> -->
-
-<h5 class="Tipografia--general letranegro General--Cuerpo Titulos" style="margin-top:50px;"><b>Información Técnica Nitruro de Boro</b></h5>
-
-<table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 5px;border:none;float:left;margin-top:20px;">
-<tr class="Tipografia--general General--Cuerpo" style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="text-align:center;font-size:18px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white;">
-Formula Estructural:
-</td>
-<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0"><img src="./img/Boron-nitride-(hexagonal)-top-3D-balls.png" alt="" class="Estructural_Nitruro"></td>
-</tr>
-
-
-
-<tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="text-align:center;font-size:18px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white;">
-Formula Molecular:
-</td>
-<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0">BN</td>
-</tr>
-
-
-
-<tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="text-align:center;font-size:18px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white;">
-Nombre IUPAC:
-</td>
-<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0">Nitruro de boro</td>
-</tr>
-
-
-
-
-<tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="text-align:center;font-size:18px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white;">
-CAS#:
-</td>
-<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0">10043-11-5</td>
-</tr>
-
-
-
-<tr class="Tipografia--general General--Cuerpo" style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="text-align:center;font-size:18px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white;">
-EINECS #:
-</td>
-<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0">233-136-6</td>
-</tr>
-
-
-
-<tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="text-align:center;font-size:18px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white;">
-ChEBI:
-</td>
-<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0">50883</td>
-</tr>
-
-
-<tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="text-align:center;font-size:18px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white;">
-ChemSpider:
-</td>
-<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0">59612</td>
-</tr>
-
-<tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="text-align:center;font-size:18px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white;">
-Pub Chem:
-</td>
-<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0">66227</td>
-</tr>
-
-</table> 
-
-</div>
-
-
-<div class="row" style="margin-top:0px;">
+ 
+<div class="row">
 <div class="col s12 m12 l12 xl12">
 
-
-
-</div>
-</div>
-</div>  
+<div style="background-color:#FF0066;height:50px;width:35%;float:right;">
+<span style="color:white;font-size:33px;padding:10px;"><b>Nitruro de Boro |</b><span style="color:black;"> <b>Powder Solutions</b></span></span>
 </div>
 
+  </div>
+</div>
 
 
 <div class="container">
-<h5 class="Tipografia--general letranegro General--Cuerpo Titulos"><b>Propiedades Físicas Típicas</b></h5>
-<table class="display" id="table_id4" name="table_id4" style="width:100%;border-spacing:2px 5px;border:none;float:left;margin-top:20px;">
-<tr class="Tipografia--general General--Cuerpo" style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color: #a7a7a7;color:white;">
-Cristal:
-</td>
-<td style="font-size:18px !important;border:1px solid #a7a7a7;">Hexagonal</td>
-</tr>
-
-
-
-<tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white;">
-Color:
-</td>
-<td style="font-size:18px !important;border:1px solid #C0C0C0;;">Blanco</td>
-</tr>
-
-
-
-<tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white;">
-Olor:
-</td>
-<td style="font-size:18px !important;border:1px solid #C0C0C0;">Ninguno</td>
-</tr>
-
-
-
-
-<tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white">
-Tamaño medio de partícula (micras):
-</td>
-<td style="font-size:18px !important;border:1px solid #C0C0C0">6</td>
-</tr>
-
-
-
-<tr class="Tipografia--general General--Cuerpo" style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#C0C0C0;background-color:#a7a7a7;color:white;">
-B+N (%):
-</td>
-<td style="font-size:18px !important;border:1px solid #C0C0C0">>99</td>
-</tr>
-
-
-
-<tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color: #a7a7a7;color:white">
-O2 (%)
-</td>
-<td style="font-size:18px !important;border:1px solid #C0C0C0"><1</td>
-</tr>
-
-
-<tr class="Tipografia--general General--Cuerpo"  style="padding:10px;font-size:15px !important;width:150px;">
-<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white">
-As (ppm)
-</td>
-<td style="font-size:18px !important;border:1px solid #C0C0C0"><1</td>
-</tr>
-
-<tr class="Tipografia--general General--Cuerpo"  style="padding:10px;font-size:15px !important;width:150px;">
-<td style="font-size:18px !important;border:1px;background-color:#a7a7a7;color:white">
-Pb (ppm)
-</td>
-<td style="font-size:18px !important;border:1px solid #C0C0C0"><1</td>
-</tr>
-
-<tr class="Tipografia--general General--Cuerpo"  style="padding:10px;font-size:15px !important;width:150px;">
-<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color: #a7a7a7;color:white;">
-Hg (ppm)
-</td>
-<td style="font-size:18px !important;border:1px solid #C0C0C0">0.03</td>
-</tr>
-
-<tr class="Tipografia--general General--Cuerpo"  style="padding:10px;font-size:15px !important;width:150px;">
-<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white">
-Superficie (m2/g)
-</td>
-<td style="font-size:18px !important;border:1px solid #C0C0C0">8.5</td>
-</tr>
-
-<tr class="Tipografia--general General--Cuerpo"  style="padding:10px;font-size:15px !important;width:150px;">
-<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color: #a7a7a7;color:white;">
-Densidad del grifo (g/m3)
-</td>
-<td style="font-size:18px !important;border:1px solid #C0C0C0">0.8 (31.2 lb/ft3)</td>
-</tr>
-
-<tr class="Tipografia--general General--Cuerpo"  style="padding:10px;font-size:15px !important;width:150px;">
-<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#a7a7a7;color:white;">
-Oil Absorption
-(ASTM D-1483-95)
-</td>
-<td style="
-
-
-
-font-size:18px !important;border:1px solid #C0C0C0">140</td>
-</tr>
-
-
-</table> 
-
-
-
-
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">(1) Las propiedades reales pueden variar. Los numeros representan datos tipicos y variaran dentro de los rangos establecidos para un grado en particular.</p>
-  </div>
+<p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#ff0066">Nitruro de Boro</b> es un compuesto quimico formado por atomos de boro y nitrogeno. Su formula quimica es BN. Este material tiene propiedades interesantes y se utiliza en diversas aplicaciones.</p>
+<h5 class="Tipografia--general letranegro Titulos" style="color:#ff0066;margin-top:50px"><b>Estructura Cristilina:</b></h5>
+<p class="Tipografia--general letranegro General--Cuerpo">El Nitruro de Boro puede existir en varias formas, pero las dos principales son el Nitruro de Boro Hexagonal (h-BN) y el Nitruro de Boro Cubico (c-BN).</p>
+<ol class="Elementos--Listas" style="margin-top:30px">
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Nitruro de Boro Hexagonal (h-BN).- tiene una estructura similar al grafito.</li>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Nitruro de Boro Cubico (c-BN).- tiene una estructura similar al diamante.</li>
+</ol>
+<h5 class="Tipografia--general letranegro Titulos" style="color:#ff0066;margin-top:50px"><b>Sintesis:</b></h5>
+<p class="Tipografia--general letranegro General--Cuerpo">El Nitruro de Boro se puede sintetizar mediante varios metodos, como la deposicion quimica de vapor (CVD) o la sintesis a alta presion y alta temperatura.</p>
+<h5 class="Tipografia--general letranegro Titulos" style="color:#ff0066;margin-top:50px"><b>Propiedades:</b></h5>
+<h5 class="Tipografia--general letranegro Titulos" style="color:black;margin-top:30px"><b>Nitruro de Boro Hexagonal (h-BN):</b></h5>
+<ol>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Estructura cristalina</li>
+<br>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Dureza</li>
+<br>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Autolubricante</li>
+<br>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Baja friccion</li>
+<br>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Excelente aislante electrico</li>
+<br>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Resistencia termica</li>
+<br>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Transparencia optica</li>
+<br>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Estabilidad quimica</li>
+<br>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Baja conductividad</li>
+</ol>
+<h5 class="Tipografia--general letranegro Titulos" style="color:black;margin-top:50px"><b>Nitruro de Boro Cubico (c-BN):</b></h5>
+<ol>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Dureza</li>
+<br>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Conductividad termica</li>
+<br>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Estabilidad termica</li>
+<br>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Resistencia quimica</li>
+<br>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Transparencia optica</li>
+<br>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Aislante electrico</li>
+<br>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Baja absorcion de neutrones</li>
+<br>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Estabilidad quimica</li>
+<br>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Comportamiento lubricante</li>
+</ol>
+<h5 class="Tipografia--general letranegro Titulos" style="color:#ff0066;margin-top:50px"><b>Aplicaciones:</b></h5>
+<p class="Tipografia--general letranegro Titulos" style="color:black;margin-top:0px"><b>Nitruro de Boro Hexagonal (h-BN):</b></p>
+<ol>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Aislante Termico.- </b> El h-BN tiene una excelente conductividad termica y, al mismo tiempo, es un buen aislante electrico. Esto lo hace util como material en aplicaciones donde se requiere una gestion eficiente de calor, como en dispositivos electronicos avanzados y sistemas de refrigeracion.</li>
+<br>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Recubrimientos protectores.- </b> Debido a su estructura hexagonal y propiedades de barrera, el h-BN puede utilizarse como recubrimiento protector en diversas aplicaciones. Por ejemplo, puede aplicarse en la fabricacion de recubrimientos para proteger supérficies contra la corrosion, la abrasion y otros tipos de desgaste.</li>
+<br>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Electronica avanzada.- </b> Aunque no conduce la electricidad tan bien como el grafeno, el h-BN es un buen aislante electrico. Esto lo hace adecuado para su uso en dispositivoselectronicosdonde se requiere una capa aislante entre componentes conductores para prevenir cortocircuitos.</li>
+<br>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Optoelectronica.- </b> El h-BN puede utilizarse como lubricante solido en condiciones de alta temperaturay presion. Su estructuralaminar le permiteactuar como un solido deslizante entre superficies, reduciendo la friccion y el desgaste en aplicaciones industriales.</li>
+<br>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Lubricantes solidos.- </b> El h-BN puede utilizarse como lubricante solido en condiciones de alta temperatura y presion. Su estructura laminar le permite actuar como un solido deslizante entre superficies, reduciendo la friccion y el desgaste en aplicaciones industriales.</li>
+<br>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Sensores.- </b> Debido a sus propiedades quimicas y termicas, el h-BN puede ser empleado en la fabricacion de sensores para detectar cambios en la temperatura, la presion, y la composicion quimica. Estos sensores podrian tener aplicaciones en la industria automotriz, la monitorizacion ambiental, y la deteccion de gases, entre otros.</li>
+</ol>
+<h5 class="Tipografia--general letranegro Titulos" style="color:black;margin-top:50px"><b>Nitruro de Boro Cubico (c-BN):</b></h5>
+<ol>
+<li class="Elementos--Listas letranegro Tipografia--General" style="list-style-type:disc"><b>Materiales abrasivos de alto rendimiento.- </b> El c-BN es conocido por su dureza excepcional, solo superado por el diamante. Esto lo hace adecuado para aplicaciones en las que se requiere un material abrasivo de alto rendimiento, como herramientas de corte, muelas abrasivas y recubrimientos resistentes al desgaste.</li>
+<br>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Componentes Electronicos.- </b> Devido a sus propiedades dielectricas, el nitruro de boro cubico se utiliza en la fabricacion de dispositivos electronicos, especialmente en la formacion de sustratos aislantes para circuitos integrados.</li>
+<br>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Recubrimientos protectores.- </b> La resistencia quimica y termica del c-BN lo hace ideal para aplicaciones en las que se requiere un recubrimiento protector. Puede utilizarse en recubrimientos para herramientas, moldes y componentes expuestos a condiciones extremas.</li>
+<br>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Optoelectronica.- </b> El nitruro de boro cubico tiene propiedades opticas unicas que lo hacen util en aplicaciones de optoelectronica, como ventanas transparentes a la radiacion ultravioleta, lentes y componentes para dispositivos laser.</li>
+<br>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Herramientas de corte de alta velocidad.- </b> Debido a su alta conductividad termica y dureza, c-BN se utiliza en herramientas de corte de alta velocidad para mecanizado de materiales duros, como metales endurecidos y aleaciones.</li>
+<br> 
+<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Componentes de Reactores Nucleares.- </b> El c-BN se utiliza en aplicaciones nucleares como material de recubrimiento debido a su capacidad para resistir la corrosion y su baja absorcion de neutrones.</li>
+<br>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Lubricantes solidos.- </b> Puede utilizarse como lubricante solido en condiciones extremas de temperaturay presion, proporcionando una capa protectora duradera en aplicaciones industriales y aerosoles.</li>
+<br>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Materiales ceramicos avanzados.- </b> Se utiliza en la fabricacion de ceramicas avanzadas y materiales compuestos debido a su alta resistencia y dureza.</li>
+</ol>
+<h5 class="Tipografia--general letranegro Titulos" style="color:black;margin-top:50px"><b style="color:#ff0066">Fabricante:</b></h5>
+<img src="img/SAINT-GOBAIN_BRAND.png" alt="" style="width:15%;margin-top:30px"></img>
+<h5 class="Tipografia--general letranegro Titulos" style="color:black;margin-top:50px"><b style="color:#ff0066">Catalogos:</b></h5>
+<h5 class="Tipografia--general letranegro Titulos" style="color:black;margin-top:30px"><b>Nitruro de Boro Hexagonal (h-BN):</b></h5>
+<ol>
+  <a href="/PDF/SAINT-GOBAIN_BROCHURE_BORON-NITRIDE-POWDER.pdf" style="color:black;cursor:pointer"><li class="Elementos--Listas arrowblue" style="list-style-type:disc;cursor:pointer" download>SAINT-GOBAIN_BROCHURE_BORON-NITRIDE-POWDER.pdf</li></a>
+</ol>
+</div>
+</div>
 </div>
 
 
-</div>
 
-
-  </div>
-
-
-  <div class="container">
-    <div class="row">
-      <div class="col s12 m12 l12 xl12">
-        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:10px;"><b>Aplicaciones e Industrias</b>
-        </h5>
-        <ol style="list-style-type:disc;" class="margin60_escritorio margin_movil">
-          <li class="Tipografia--general letranegro Elementos--Listas"><b>Cosmeticos:</b></li>
-          <ol style="list-style-type: disc;margin-top:15px;">
-            <li class="Tipografia--general letranegro Elementos--Listas">Polvos Faciales,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas">Cimientos,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas">Lápiz labial,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas">Protección de la piel.</li>
-          </ol>
-        </ol>
-
-        <ol style="list-style-type: disc;margin-top:15px;">
-          <li class="Tipografia--general letranegro Elementos--Listas"><b>Farmaceutica:</b></li>
-          <ol style="list-style-type: disc;" class="margin60_escritorio margin_movil">
-            <li class="Tipografia--general letranegro Elementos--Listas">Antimicoticos en spray</li>
-          </ol>
-        </ol>
-
-       
-      </div>
-    </div>
-  </div>
-
-
-
-  <div class="container">
-    <div class="row">
-      <div class="col s12 m12 l12 xl12">
-        <h5 class="Tipografia--general letranegro Titulos" style="margin-top: 0px;"><b>Fabricante:</b></h5>
-      </div>
-
-      <div class="col s12 l12 xl12"><img src="img/MOMENTIVE_LOGO.png" alt="MOMENTIVE-LOGO" class="cargill-logo"
-          style="margin-top:40px;"></div>
-    <div class="col s12 m12 l12 xl12" style="margin-top:50px;">
-<h5 class="Tipografia--general letranegro Titulos" style="margin-top:0px;"><b>Portafolio de Productos:</b></h5>
-        <a href="PDF/CATALOGUES/MOMENTIVE_SKIN-&-COLOR-COSMETIC-TOOL.pdf"
-          class="arrowblue Tipografia--general Botones letranegro" download
-          style="margin-top: 30px;color:rgba(2 146 238 /99%)">MOMENTIVE_SKIN-&-COLOR-COSMETIC-TOOL.pdf &nbsp<span class="arrowblue desaparece">Descargar...</span></a>
-        <br>
-      </div>
-
-      
-
-
-<!--      
-      <div class="col s12 l12 xl12"><img src="img/CB_CREMER_150622.jpg" alt="Peter Cremer Logo" class="cargill-logo"
-          style="margin-top: 50px;"></div>
-     
-          <div class="col s12 m12 l12 xl12" style="margin-top:50px;">
-        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:0px;"><b>Portafolio de Productos:</b></h5>
-
-        <a href="PDF/CATALOGUES/CREMER_OLEOCHEMICALS-BROCHURE_2022.pdf"
-          class="arrowblue Tipografia--general Botones letranegro" download
-          style="margin-top: 30px;">CREMER_OLEOCHEMICALS-BROCHURE_2022.pdf <i
-            class="fas fa-long-arrow-alt-right desaparece" id="aparece"> </i></a>
-        <br>
-      </div>
-
-      
-      <div class="col s12 l12 xl12"><img src="img/P&G_LOGO_150622.png" alt="P&G-LOGO" class="cargill-logo"
-          style="margin-top: 50px;"></div>
-
-    </div>
-  </div>
-
-  <div class="container">
-    <div class="row">
-      <div class="col s12 m12 l12 xl12">
-        <h5 class="Tipografia--general letranegro General--Cuerpo"><b>Portafolios de Productos:</b></h5>
-        
-       
-        <a href="PDF/CATALOGUES/P&GC_GLYCEROLS-BRAND-MATRIX_2022.pdf"
-          class="arrowblue Tipografia--general Botones letranegro" download
-          style="margin-top: 30px;">P&GC_GLYCEROLS-BRAND-MATRIX_2022.pdf <i
-            class="fas fa-long-arrow-alt-right desaparece" id="aparece"> </i></a>
-      </div>
-    </div>
-  </div> -->
-
-
-  <!-- <div class="container">
-    <div class="row">
-      <div class="col s12 m12 l12 xl12">
-        <h5 class="Tipografia--general letranegro Titulos"><b>Productos</b></h5>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col s12 m12 l4 xl4">
-        <div class="card" style="border-raidus:5px">
-          <div class="card-content"><span class="card-title" style="color:#0d7bba">Glycerin 99.7%</span>
-            <h5 style="font-size:16px">GL - 99.7% USP Kosher NPO Glycerin</h5>
-          </div>
-          <div class="card-action"><a class="arrowblue" href="Proximamente.php"
-              style="color:black;text-transform:none">Leer Mas.</a></div>
-        </div>
-      </div>
-      <div class="col s12 m12 l4 xl4">
-        <div class="card" style="border-raidus:5px">
-          <div class="card-content"><span class="card-title" style="color:#0d7bba">Glycerin 99.7%</span>
-            <h5 style="font-size:16px">GL - 99.7% USP Kosher Vegetable based</h5>
-          </div>
-          <div class="card-action"><a class="arrowblue" href="Proximamente.php"
-              style="color:black;text-transform:none">Leer Mas.</a></div>
-        </div>
-      </div>
-      <div class="col s12 m12 l4 xl4">
-        <div class="card" style="border-raidus:5px">
-          <div class="card-content"><span class="card-title" style="color:#0d7bba">Glycerin 99.7%</span>
-            <h5 style="font-size:16px">Radia 4811</h5>
-          </div>
-          <div class="card-action"><a class="arrowblue" href="Proximamente.php"
-              style="color:black;text-transform: none;">Leer Mas.</a></div>
-        </div>
-      </div>
-    </div>
-  </div> -->
-  </div>
-  </div>
+ 
 </body>
 <footer style="margin-top:70px">
   <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png"
