@@ -230,7 +230,7 @@ new DataTable('#example');
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Mercados.php"><b>Mercados</b></a></li>
 <ul id="dropdown3" class="dropdown-content" style="width:300px !important;">
   <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos" style="width:200px;">Familias</a></li>
-  <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos" style="width:200px;">Lista de Productos</a></li>
+  <li><a href="Product_List.php" class="Tipografia--general letranegro Subtitulos" style="width:200px;">Lista de Productos</a></li>
 </ul>
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!" data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a></li>
 <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Servicios.php"><b>Servicios</b></a></li>
@@ -323,7 +323,7 @@ new DataTable('#example');
 <ul>
 <li><a href="Productos_news.php" style="color:white;">Productos <i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i></a></li>
 <div class="divider"></div>
-<li><a href="Listado_Productos.php" style="color:white;width:500px;">Listado de Productos <i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i></a></li>
+<li><a href="Product_List.php" style="color:white;width:500px;">Listado de Productos <i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i></a></li>
 </div>
 </ul>
 <div class="divider"> </div>

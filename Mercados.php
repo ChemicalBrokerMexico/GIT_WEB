@@ -429,7 +429,12 @@
                   <hr class="animacion">
                   <p><b style="color:white !important">
                       <p class="leer_mas_mercados center-align botones">  Leer Mas</p></b></p>
-                </div><img class="mercadosimagen" src="img/FARMACEUTICA_CB.jpg" alt="" style="border-radius:10px">
+
+                </div>
+                <!-- <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
+                  <source class="mercadosimagen" src="../GIT_WEB/VIDEO/Farma.mp4" type="video/mp4">
+                </video> -->
+                <img class="mercadosimagen" src="img/FARMACEUTICA_CB.jpg" alt="" style="border-radius:10px"> 
               </div></a></div>
 
 
@@ -443,7 +448,11 @@
                     <p> <b style="color:white !important">
                         <p class="leer_mas_mercados center-align botones">  Leer Mas </p></b></p>
                   </h5>
-                </div><img class="mercadosimagen" src="img/CB_VETERINARIA_070621.jpg" alt="" style="border-radius:10px">
+                </div>
+                <!-- <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
+                  <source class="mercadosimagen" src="../GIT_WEB/VIDEO/Veterinaria.mp4" type="video/mp4">
+                </video> -->
+                <img class="mercadosimagen" src="img/CB_VETERINARIA_070621.jpg" alt="" style="border-radius:10px"> 
               </div></a></div>
 
 

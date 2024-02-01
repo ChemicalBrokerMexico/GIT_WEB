@@ -3,7 +3,7 @@
 <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Alcohol Isopropílico</title>
+    <title>Chemical Broker | Lista de Productos</title>
     <meta name="description"
         content="Chemical Broker distribuye mundialmente Glicerina de la mas alta Pureza y Calidad para las formulaciones de nuestros clientes.">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
@@ -226,7 +226,7 @@
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Mercados.php"><b>Mercados</b></a></li>
 <ul id="dropdown3" class="dropdown-content" style="width:300px !important;">
   <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos" style="width:200px;">Familias</a></li>
-  <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos" style="width:200px;">Lista de Productos</a></li>
+  <li><a href="Product_List.php" class="Tipografia--general letranegro Subtitulos" style="width:200px;">Lista de Productos</a></li>
   <li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
 </ul>
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!" data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a></li>
@@ -320,7 +320,7 @@
 <ul>
 <li><a href="Productos_news.php" style="color:white;">Productos <i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i></a></li>
 <div class="divider"></div>
-<li><a href="Listado_Productos.php" style="color:white;width:500px;">Listado de Productos <i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i></a></li>
+<li><a href="Product_List.php" style="color:white;width:500px;">Listado de Productos <i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i></a></li>
 </div>
 </ul>
 <div class="divider"> </div>
@@ -354,9 +354,9 @@
         <table id="table_id2" class="display" style="width:100%">
     <thead>
         <tr>
-            <th class="center-align" style="background-color:#000020;color:white;border-right: 1px solid white;border-radius:10px;">Familia</th>
-            <th class="center-align" style="background-color:#000020;color:white;border-right: 1px solid white;border-radius:10px;">Producto</th>
-            <th class="center-align" style="background-color:#000020;color:white;border-right: 1px solid white;border-radius:10px;">CAS</th>
+            <th class="center-align" style="background-color:#F2F2F2;color:black;border-right: 1px solid white;border-radius:10px;">Familia</th>
+            <th class="center-align" style="background-color:#F2F2F2;color:black;border-right: 1px solid white;border-radius:10px;">Producto</th>
+            <th class="center-align" style="background-color:#F2F2F2;color:black;border-right: 1px solid white;border-radius:10px;">CAS</th>
         </tr>
     </thead>
     <tbody>
@@ -365,16 +365,16 @@
        include "conexion.php";
        $conexion = new conexion();
        $cnn = $conexion->conectar();
-       mysqli_select_db($cnn,"Catalogos_Productos.php");
+       mysqli_select_db($cnn,"catalogos_productos.php");
        $sql = "SELECT * FROM catalogo_productos";
        $result = mysqli_query($cnn,$sql);
-       mysqli_error($cnn);
-       while($mostrar = mysqli_fetch_array($result)){
+       echo mysqli_error($cnn);
+        while($mostrar = mysqli_fetch_array($result)){
        ?>
        <tr>
-            <td class="center-align" style="background-color: #000020;opacity:0.5;color:white;"><?php echo $mostrar['Familia']?></td></center>
-            <td class="center-align" style="background-color: #000020;opacity:0.9;color:white;"><?php echo $mostrar['Producto']?></td>
-            <td class="center-align" style="background-color: #000020;opacity:0.5;color:white;"><?php echo $mostrar['CAS']?></td>
+            <td class="center-align" style="background-color: #000020;color:white;border-radius:10px;"><?php echo $mostrar['Familia']?></td></center>
+            <td class="center-align" style="background-color: #000020;color:white;border-radius:10px;"><?php echo $mostrar['Producto']?></td>
+            <td class="center-align" style="background-color: #000020;color:white;border-radius:10px;"><?php echo $mostrar['CAS']?></td>
        </tr>
 
 

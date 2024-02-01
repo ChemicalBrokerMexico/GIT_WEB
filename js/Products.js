@@ -204,7 +204,7 @@ $(document).ready(function(){
 
     <div class="row" style="margin-top:150px;"> 
     <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/LOGO_FERRAZONE_100124.jpg" alt="" class="zoom IMG_Seccion_Prod">
+    <img src="img/LOGO_FERRAZONE_100124.jpg" alt="" class="zoom IMG_Seccion_Prod" style="100%">
     </div>
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Ferrazone®</b></h5>
@@ -604,7 +604,7 @@ function filtroall(){
 
     <div class="row" style="margin-top:150px;"> 
     <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/LOGO_FERRAZONE_100124.jpg" alt="" class="zoom IMG_Seccion_Prod">
+    <img src="img/LOGO_FERRAZONE_100124.jpg" alt="" class="zoom IMG_Seccion_Prod" style="100%">
     </div>
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Ferrazone®</b></h5>
@@ -1056,7 +1056,7 @@ function filtrof(){
     
     <div class="row" style="margin-top:"> 
     <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/LOGO_FERRAZONE_100124.jpg" alt="" class="zoom IMG_Seccion_Prod">
+    <img src="img/LOGO_FERRAZONE_100124.jpg" alt="" class="zoom IMG_Seccion_Prod" style="100%">
     </div>
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Ferrazone®</b></h5>

@@ -3,15 +3,19 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <meta name="description" content="Sorbitol de excelente calidad, disponibilidad inmediata,">
-  <title>Chemical Broker | Sorbitoles</title>
-  <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
+  <title>Chemical Broker | Acidos Grasos</title>
+  <meta name="description"
+    content="Los ácidos grasos se derivan de grasas y aceites animales como el sebo de res y de diversos aceites vegetales.">
+  <meta http-equiv="Expires" content="0">
+  <meta http-equiv="Last-Modified" content="0">
+  <meta http-equiv="Cache-Control" content="no-cache, mustrevalidate">
+  <meta http-equiv="Pragma" content="no-cache">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-  integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+    integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
   <link rel="stylesheet" href="css/History_Line.css">
   <link rel="stylesheet" href="css/jquery.dataTables.min.css">
   <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
@@ -43,7 +47,12 @@
   </script>
   <script>
     $(document).ready(function () {
-      $('#table2').DataTable();
+      $('#table_id2').DataTable();
+    });
+  </script>
+  <script>
+    $(document).ready(function () {
+      $('#table_id2').DataTable();
     });
   </script>
 </head>
@@ -182,8 +191,8 @@
             </b></span><i class="medium material-icons rigth" id="rotar">arrow_drop_down</i></div>
         <div class="collapsible-header Carreras_altura"
           style="background-color:black;color:white;border:none;padding:0;margin-right:15px;float:right;height:0px;">
-          <span style="margin-left:15px"><b class="Tipografia--general Desplegables"> <a
-                href="Carreras.php">Carreras </a></b></span>
+          <span style="margin-left:15px"><b class="Tipografia--general Desplegables"> <a href="Carreras.php">Carreras
+              </a></b></span>
         </div>
         <div class="collapsible-body" style="background-color:black;margin-left:-1px;margin-right:-1px">
           <div class="row">
@@ -208,9 +217,8 @@
                       <h6 class="Tipografia--general Titulos" style="color:white;padding-top:5px;">Enfoque de Negocios
                       </h6>
                       <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7;">Nuestros negocios brindan
-                        servicio a nuestros clientes en las industrias Farmacéutica, Alimentaria y Nutrición Humana,
-                        Alimentaria y Nutrición Animal, Agroquímicos, Cosmética y Cuidado Personal, Detergencia,
-                        Industria Química.</p>
+                        servicio a las Industrias Farmacéutica, Alimentaria, Cosmética y del Cuidado Personal y la
+                        Industria Química en general.</p>
                     </div>
                   </div>
                 </div>
@@ -270,7 +278,8 @@
                             class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                             <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
-                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                                                          <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                     </p>
                   </ul>
@@ -324,14 +333,18 @@
       <ul class="hide-on-med-and-down">
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
             href="Mercados.php"><b>Mercados</b></a></li>
-       <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a>
+        <ul id="dropdown3" class="dropdown-content">
+                    <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a>
           </li>
-          <li><a href="Listado_Productos.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a>
-<li><a href="Catalogos_Productos" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
-</ul>
-<li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!" data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a></li>
-        <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos"
-            <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Servicios.php"><b>Servicios</b></a></li>
+          <li><a href="Product_List.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a>
+<li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
+          </li>
+        </ul>
+        <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!"
+            data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a></li>
+        <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" <li><a
+              class="elemennav-secun Tipografia--general letranegro Subtitulos"
+              href="Servicios.php"><b>Servicios</b></a></li>
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
             href="Cumplimiento.php"><b>Cumplimiento </b></a></li>
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Contact.php"><b>Contacto
@@ -542,7 +555,6 @@
       </div>
     </div>
   </ul>
-
 
   <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
