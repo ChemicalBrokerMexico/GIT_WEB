@@ -602,7 +602,7 @@ recaptchaResponse.value = token;
     <div class="row center-align">
       <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Spray_Nasal.php" style="cursor:pointer;">
           <div class="contenedor">
-            <div class="transfo" id="overlay" style="border-radius:10px"></div>
+            <div class="transfo" id="overlay" style="border-radius:0px"></div>
             <div class="centrado_sub" style="position:absolute;z-index:2">
               <h5 class="titulo_submercado"></h5><b class="titulo_submercado"> <span
                   style="position:relative;z-index:2">Sprays Nasales </span></b><b> </b>
@@ -610,8 +610,12 @@ recaptchaResponse.value = token;
               <p> <b style="color:white !important">
                   <p class="leer_mas_mercados center-align"> Leer Más</p>
                 </b></p>
-            </div><img class="mercadosimagen" src="img/SPRAY_NASAL.jpeg" alt="" style="border-radius:10px" />
+            </div><img class="mercadosimagen" src="img/SPRAY_NASAL.jpeg" alt=""  />
+          
           </div>
+          <div class="container" style="background-color:#000020;border-radius:15px;padding:5px;margin-top:-30px;width:100%;">
+                <p class="Tipografia--general letranegro General--Cuerpo center-align" style="color:white;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam excepturi possimus ab a debitis, ad iure nam deserunt eligendi quod aspernatur magni in hic, minima eos fuga, esse illum voluptatem. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Harum beatae, molestiae ab, in quam quibusdam, nam inventore iusto fugit architecto quaerat quos dolor laboriosam excepturi dicta. Minima necessitatibus consectetur possimus?</p>
+            </div>
         </a></div>
       <div class="col s12 m12 l6 xl6 mercados zoom "><a href="Proximamente.php" style="cursor:pointer;">
           <div class="contenedor">
