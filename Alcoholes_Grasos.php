@@ -4,8 +4,8 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Alcoholes Grasos</title>
-  <meta name="description" content="Chemical Broker ofrece una amplia gama de Alcoholes Grasos de fracción media y fracción pesada a partir de materias primas naturales sostenibles.">
+  <title>Chemical Broker | Alcoholes Grasos de Peter Cremer</title>
+  <meta name="description" content="Chemical Broker ofrece Alcoholes Grasos de la mejor calidad a nivel mundial, Ven y conoce nuestra linea de Alcoholes Grasos de Peter Cremer.">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -552,7 +552,7 @@
       <ul class="slides slides-pruea">
         <li> <img src="img/ALCOHOLES-GRASOS_IMAGEN-1.jpg" alt="" style="height:103%;">
           <div class="caption center-align"><br><br><br><br>
-            <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo"
+            <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo"
               style="font-size: 26px;">Alcoholes Grasos</b>
           </div>
         </li>
@@ -578,7 +578,7 @@
   <div class="container">
     <div class="row">
       <div class="col s12 m12 l12 xl12">
-        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Alcoholes Grasos</b></h5>
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Alcoholes Grasos</b></h2>
 
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;"><b style="color:#262137">Chemical Broker</b> ofrece
           una amplia gama de <b>Alcoholes Grasos</b> de fracción media y fracción pesada a partir de materias primas
@@ -607,7 +607,7 @@
           su aplicación y necesidades regionales. Las necesidades pueden ser ligeramente diferentes en todo el mundo
           para cumplir con las regulaciones locales y las demandas de los clientes.</b></p></p>
 
-          <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;"><b>Lista de Productos:</b></h5>
+          <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;"><b>Lista de Productos:</b></h2>
         
           <table>
 
@@ -709,7 +709,7 @@
           </tr>
         </table>
 
-        <h5 class="Tipografia--general letranegro Titulos" style="display:inline-block;margin-top:50px;margin-bottom:0px;"><b>Proveedor:</b></h5>
+        <h2 class="Tipografia--general letranegro Titulos" style="display:inline-block;margin-top:50px;margin-bottom:0px;"><b>Proveedor:</b></h2>
 
         <table>
           <tr style="border:none;">
@@ -719,15 +719,15 @@
           </tr>
           <tr style="border:none;">
             <td>
-            <h5 class="Tipografia--general letranegro Titulos" style="margin-top:30px;margin-bottom:0px"><b>Portafolios de Productos Cremer:</b></h5>
+            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:30px;margin-bottom:0px"><b>Portafolios de Productos Cremer:</b></h2>
             </td>
         
           </tr>
           <tr style="border:none;">
             <td>
-              <h5 style="margin-top:20px;margin-bottom:0px;"><a href="PDF/CATALOGUES/CREMER_OLEOCHEMICALS-BROCHURE_2022.pdf"
+              <h2 style="margin-top:20px;margin-bottom:0px;"><a href="PDF/CATALOGUES/CREMER_OLEOCHEMICALS-BROCHURE_2022.pdf"
               class="arrowblue Tipografia--general Botones letranegro" download
-              style="margin-top: 30px;color:rgba(2 146 238 /99%);">CREMER_OLEOCHEMICALS-BROCHURE_2022.pdf &nbsp</a></h5>
+              style="margin-top: 30px;color:rgba(2 146 238 /99%);">CREMER_OLEOCHEMICALS-BROCHURE_2022.pdf &nbsp</a></h2>
             </td>
           </tr>
         </table>

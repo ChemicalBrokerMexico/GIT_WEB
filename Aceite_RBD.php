@@ -4,9 +4,8 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Aceite RBD</title>
-    <meta name="description"
-        content="Chemical Broker distribuye mundialmente Glicerina de la mas alta Pureza y Calidad para las formulaciones de nuestros clientes.">
+    <title>Chemical Broker | Aceite RBD de Cargill</title>
+    <meta name="description" content="Chemical Broker Distribuye Aceite RBD de la mas alta Pureza y Calidad para las formulaciones de nuestros socios de negocios.">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -641,7 +640,7 @@
                 <li> <img src="img/ACEITE_RBD_211223.jpg" alt="" class="Collagen_Banner"
                         style="filter:brightness(0.9);margin-top:-174px;height:460px;">
                     <div class="caption center-align"><br><br><br><br>
-                        <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b
+                        <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b
                             class="segundotitulo" style="font-size: 26px;">Aceite de Soya Refinado</b>
                     </div>
                 </li>
@@ -668,7 +667,7 @@
    <div class="container" style="margin-top:50px">
     <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:0px;"><b>Aceite de Soya Refinado, Blanqueado y Desodorizado (RBD)</b></h5>
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:0px;"><b>Aceite de Soya Refinado, Blanqueado y Desodorizado (RBD)</b></h2>
         <p class="Tipografia--general letranegro General--Cuerpo">Es un tipo de aceite vegetal que se obtiene a partir de los granos de soya, este proceso de refinado implica varias etapas para eliminar impurezas y componentes no deseados del aceite crudo de soya.</p>
         <p class="Tipografia--general letranegro General--Cuerpo">Las etapas principales del proceso RBD son:</p>
         <ol style="margin-top:30px;">
@@ -678,7 +677,7 @@
         </ol>
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Aceite de Soya Refinado, Blanqueado y Desodorizado (RBD)</b> es un aceite comestible muy utilizado en la cocina, tanto en la preparación de alimentos como en la producción de productos procesados. Es conocido por ser versátil y tener un alto punto de humo, lo que lo hace adecuado para freír y cocinar a altas temperaturas.</p>
     
-        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Funciones</b></h5>    
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Funciones</b></h2>    
 
         <ol>
      
@@ -688,9 +687,9 @@
             <li style="list-style-type:disc;margin-top:50px" class="Elementos--listas">Textura y Emulsificación. - se utiliza en la fabricación de productos alimenticios para mejorar la textura y la boca. También se utiliza como agente emulsionante en productos como mayonesas y aderezos para ensaladas.</li>
         </ol>
 
-        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Aplicaciones</b></h5>    
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Aplicaciones</b></h2>    
 
-        <h5 class="Tipografia--general letranegro Titulos" >Industria Alimentaria:</h5> 
+        <h2 class="Tipografia--general letranegro Titulos" >Industria Alimentaria:</h2> 
 
         <ol>
         <li style="list-style-type:disc;margin-top:0px;" class="Elementos--listas">Panificación</li>
@@ -700,7 +699,7 @@
             <li style="list-style-type:disc;" class="Elementos--listas">Margarinas</li>
         </ol>
 
-        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;" >Industria Cosmética:</h5> 
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;" >Industria Cosmética:</h2> 
 
         <ol>
         <li style="list-style-type:disc;margin-top:0px;" class="Elementos--listas">Cremas</li>
@@ -708,38 +707,38 @@
             <li style="list-style-type:disc;margin-top:;" class="Elementos--listas">Champús</li>
         </ol>
 
-        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;" >Industria Farmacéutica:</h5> 
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;" >Industria Farmacéutica:</h2> 
 
         <ol>
         <li style="list-style-type:disc;margin-top:0px;" class="Elementos--listas">Excipiente en la fabricación de Productos farmacéuticos</li>
             <li style="list-style-type:disc;margin-top:;" class="Elementos--listas">Excipiente en la fabricación de Suplementos nutricionales</li>
         </ol>
 
-        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;" >Industria de Biocombustibles:</h5> 
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;" >Industria de Biocombustibles:</h2> 
 
         <ol>
         <li style="list-style-type:disc;margin-top:0px;" class="Elementos--listas">Biodiesel</li>
         </ol>
 
-        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;" >Industria de Plásticos:</h5> 
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;" >Industria de Plásticos:</h2> 
 
         <ol>
         <li style="list-style-type:disc;margin-top:0px;" class="Elementos--listas">Aditivo para mejorar la flexibilidad y maleabilidad</li>
         </ol>
 
 
-        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;" >Industria de Pinturas y Recubrimientos:</h5> 
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;" >Industria de Pinturas y Recubrimientos:</h2> 
 
         <ol>
         <li style="list-style-type:disc;margin-top:0px;" class="Elementos--listas">Agente que proporciona fluidez</li>
         </ol>
 
 
-        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Fabricante</b></h5>
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Fabricante</b></h2>
 
 <img src="img/Cargill-Logo_2.png" alt="" width="20%" style="margin-top:0px;">
 
-<h5 class="Tipografia--general letranegro Titulos" style="margin-top:30px;margin-bottom:0px;" >Literatura Técnica</h5> 
+<h2 class="Tipografia--general letranegro Titulos" style="margin-top:30px;margin-bottom:0px;" >Literatura Técnica</h2> 
 
 <ol>
             <a href="PDF/CARGILL_HE_ACEITE-SOYA-RBD_CODIGO_100128986_120722.pdf"><li style="list-style-type:disc;color: rgba(2 146 238 /99%);" class="Elementos--Listas arrowblue">CARGILL_HE_ACEITE-SOYA-RBD_CODIGO_100128986_120722.pdf</li></a>

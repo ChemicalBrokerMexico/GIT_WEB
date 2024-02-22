@@ -3,8 +3,8 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
-    <title>Chemical Broker | Premisas</title><link rel="shortcut icon" href="img/CB_ICON.ico"/>
-    <meta name="description" content="Nuestras premisas nos permiten actuar de igual forma con nuestros socios de negocios, así como mejorar constantemente nuestros procesos productivos y de negocios.">
+    <title>Chemical Broker | Nuestras Premisas Organizacionales</title><link rel="shortcut icon" href="img/CB_ICON.ico"/>
+    <meta name="description" content="Nuestras premisas nos permiten actuar de igual forma con nuestros socios de negocios, así como mejorar constantemente nuestros procesos productivos y de negocios con el objetivo de brindar excelencia a nuestros socios de negocios.">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen"/>
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen"/>
@@ -387,7 +387,7 @@
         <ul class="slides slides-pruea">
           <li> <img src="img/premisas.jpg" style="height:600px;filter:brightness(0.9);"/>
             <div class="caption center-align"><br/><br/><br/><br/>
-              <h3 class="primertitulo"><b class="boldbanner">Chemical Broker</b><br/></h3><b class="segundotitulo" style="font-size:26px;">Premisas </b>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker</b><br/></h1><b class="segundotitulo" style="font-size:26px;">Premisas </b>
             </div>
           </li>
         </ul>
@@ -419,12 +419,12 @@
       <span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Orden<i class="material-icons right">arrow_upward</i></b></span>
     </div>
     <div class="card-reveal">
-    <h6 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:#F7291E;text-decoration: underline;text-decoration-color:#F7291E;">Definición </b></h6>
+    <h2 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:#F7291E;text-decoration: underline;text-decoration-color:#F7291E;">Definición </b></h2>
           <p class="letranegro General--Cuerpo Tipografia--general" style="text-align:justify">Es la manera de estar colocadas las cosas en el espacio o de sucederse los hechos en el tiempo, según un determinado criterio o una determinada norma y de acuerdo con un plan, el cual se contrapone a la casualidad y el caos.</p>
-          <h6 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:#F7291E;text-decoration: underline;text-decoration-color:#F7291E;">Etimología </b></h6>
+          <h2 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:#F7291E;text-decoration: underline;text-decoration-color:#F7291E;">Etimología </b></h2>
           <p class="letranegro General--Cuerpo Tipografia--general">Es una palabra originaria del latín &nbsp<b style="color:#262137">"ordin"&nbsp</b>de la cual derivan muchas otras palabras como ordenar, ordenado, ordenamiento, ordenador entre muchas otras, esta palabra latina viene de una raíz indoeuropea <b style="color:#262137">"ar" &nbsp</b>que significa mover o ajustar.
           </p>
-          <h6 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:#F7291E;text-decoration: underline;text-decoration-color:#F7291E;">Orden para Chemical Broker</b></h6>
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:#F7291E;text-decoration: underline;text-decoration-color:#F7291E;">Orden para Chemical Broker</b></h2>
           <p class="letranegro General--Cuerpo Tipografia--general" style="text-align:justify;color:#262137">Organizar el espacio de trabajo de forma eficaz. Al aplicarlo en la vida diaria, mejora los resultados.</p><br/>
         </div>
       </div>
@@ -439,14 +439,14 @@
       <span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Seguridad<i class="material-icons right">arrow_upward</i></b></span>
     </div>
     <div class="card-reveal">
-    <h6 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:#714324;text-decoration: underline;text-decoration-color:#714324;">Definición </b></h6>
+    <h2 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:#714324;text-decoration: underline;text-decoration-color:#714324;">Definición </b></h2>
           <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">Es la ausencia de peligro o riesgo. En términos generales, la seguridad se define como&nbsp<b style="color: #262137;">"el estado de bienestar que percibe y disfruta el ser humano".</b> Según la pirámide de Maslow, la seguridad en el ser humano ocupa el segundo nivel dentro de las necesidades de déficit. Según la teoría de las necesidades de Bronisław Malinowski, la seguridad es una de las siete necesidades básicas a satisfacer por el ser humano.
           </p>
           <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">la seguridad tiene como objetivo la prevención de riesgos en todos y cada uno de sus procesos productivos y de negocios. </p>
-          <h6 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:#714324;text-decoration: underline;text-decoration-color:#714324;">Etimología </b></h6>
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:#714324;text-decoration: underline;text-decoration-color:#714324;">Etimología </b></h2>
           <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">Proviene del latín&nbsp<b style="color:#262137">“securitas”</b>, que a su vez deriva de <b style="color:#262137">“securus”</b>(sin cuidado, sin precaución, sin temor a preocuparse), que significa libre de cualquier peligro o daño. 
           </p>
-          <h6 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:#714324;text-decoration: underline;text-decoration-color:#714324;">Seguridad para Chemical Broker</b></h6>
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:#714324;text-decoration: underline;text-decoration-color:#714324;">Seguridad para Chemical Broker</b></h2>
           <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">es la ausencia de riesgo y el estado de bienestar que el ser humano percibe y disfruta en su vida diaria. </p>
         </div>
       </div>
@@ -461,12 +461,12 @@
       <span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Limpieza<i class="material-icons right">arrow_upward</i></b></span>
     </div>
     <div class="card-reveal">
-    <h6 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:blue;text-decoration: underline;text-decoration-color:blue;">Definición </b></h6>
+    <h2 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:blue;text-decoration: underline;text-decoration-color:blue;">Definición </b></h2>
           <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">Es la acción de limpiar la suciedad, lo superfluo o lo perjudicial de algo. Es la precisión con que se ejecuta algo y a la integridad de una organización en todo momento y circunstancia dentro y fuera del ámbito de negocios. </p>
-          <h6 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:blue;text-decoration: underline;text-decoration-color:blue;">Etimología </b></h6>
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:blue;text-decoration: underline;text-decoration-color:blue;">Etimología </b></h2>
           <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">La palabra limpieza, deriva de la palabra &nbsp<b style="color:#262137">“limpio” &nbsp</b>(cualidad de no tener suciedad) y el sufijo: <b style="color:#262137">“-eza”.</b>Limpio, deriva del latín <b style="color:#262137">“limpidus”</b> , que se refiere a algo <b style="color:#262137">“claro”&nbsp</b>o <b style="color:#262137">“sin manchas”.</b>
           </p>
-          <h6 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:blue;text-decoration: underline;text-decoration-color:blue;">Limpieza para Chemical Broker</b></h6>
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:blue;text-decoration: underline;text-decoration-color:blue;">Limpieza para Chemical Broker</b></h2>
           <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">es la pulcritud en la manera de ejecutar tus acciones diarias que te haga sentir satisfecho.</p>
         </div>
       </div>

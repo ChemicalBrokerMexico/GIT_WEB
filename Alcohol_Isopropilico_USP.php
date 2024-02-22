@@ -641,7 +641,7 @@
                 <li> <img src="img/CB_ALCOHOL_ISOPROPILICO_USP.jpg" alt="" class="Collagen_Banner"
                         style="filter:brightness(0.9);margin-top:-34px;height:460px;">
                     <div class="caption center-align"><br><br><br><br>
-                        <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b
+                        <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b
                             class="segundotitulo" style="font-size: 26px;">Alcohol Isopropílico USP</b>
                     </div>
                 </li>
@@ -670,7 +670,7 @@
         <div class="row">
         <div class="col s12 m12 l12 xl12">
 
-        <h5 class="Tipografia--general letranegro Titulos"><b>Alcohol Isopropilico USP</b></h5>
+        <h2 class="Tipografia--general letranegro Titulos"><b>Alcohol Isopropilico USP</b></h2>
         <p class="Tipografia--general letranegro General--Cuerpo">El alcohol isopropílico, también conocido como isopropanol o alcohol isopropílico, es un disolvente y desinfectante de uso común.</p>
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El término "USP" significa Farmacopea de los Estados Unidos, que es un conjunto de estándares de calidad para medicamentos y otros productos sanitarios en los Estados Unidos.</p>
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Cuando el alcohol isopropílico está etiquetado como "USP", significa que cumple con las especificaciones descritas en la Farmacopea de los Estados Unidos en cuanto a pureza y calidad. Esta designación es importante, especialmente cuando el alcohol está destinado a aplicaciones médicas, farmacéuticas o cosméticas. La USP establece estándares para la identidad, potencia, calidad, pureza, envasado y etiquetado de sustancias que se utilizan en la práctica de la medicina.</p>
@@ -678,7 +678,7 @@
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El alcohol isopropílico se utiliza habitualmente como desinfectante para la piel y las superficies. A menudo se aplica sobre la piel antes de las inyecciones para reducir el riesgo de infección.</p>
 
 
-        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Funciones</b></h5>
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Funciones</b></h2>
 
         <ol>
             <li style="list-style-type:disc;" class="Elementos--listas"><b>Disolvente. -</b> es un buen disolvente en muchas sustancias, por lo que se utiliza en la fabricación de productos farmacéuticos, cosméticos y otros productos químicos.</li>
@@ -686,9 +686,9 @@
             <li style="list-style-type:disc;margin-top:50px;" class="Elementos--listas"><b>Agente Limpiador</b></li>
         </ol>
 
-        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Aplicaciones</b></h5>
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Aplicaciones</b></h2>
 
-        <h5 class="Tipografia--general letranegro Titulos"><b>Farmacéutica:</b></h5>
+        <h2 class="Tipografia--general letranegro Titulos"><b>Farmacéutica:</b></h2>
 
         <ol>
             <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Desinfección de superficies. -  Se utiliza para desinfectar superficies en entornos farmacéuticos, como laboratorios y salas de producción, para mantener un ambiente estéril.</li>
@@ -701,7 +701,7 @@
             <li style="list-style-type:disc;margin-top:50px;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Control de contaminación cruzada. - contribuye a prevenir la contaminación cruzada al desinfectar equipos y áreas en la producción de diferentes productos farmacéuticos.</li>
         </ol>
 
-        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Alimentos:</b></h5>
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Alimentos:</b></h2>
 
         <ol>
             <li style="list-style-type:disc;margin-top:;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Limpieza de superficies. -  en áreas de procesamiento de alimentos, cocinas industriales y otras instalaciones relacionadas con la administración.</li>
@@ -711,7 +711,7 @@
         </ol>
 
 
-        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Cosméticos y Cuidado Personal:</b></h5>
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Cosméticos y Cuidado Personal:</b></h2>
 
         <ol>
             <li style="list-style-type:disc;margin-top:;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Agente Limpiador.</li>
@@ -727,30 +727,33 @@
             <li style="list-style-type:disc;margin-top:50px;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Cuidado de la piel.</li>
         </ol>
 
-        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Certificaciones</b></h5>
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Certificaciones</b></h2>
 
         <ol>
             <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Kosher</li>
         </ol>
 
-        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Fabricante</b></h5>
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Fabricante</b></h2>
 
+        <ol>
         <img src="img/LYONDELLBASELL-LOGO_V2.png" alt="" width="30%" style="margin-top:30px;">
+        </ol>
 
-        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Literatura Técnica</b></h5>
+
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Literatura Técnica</b></h2>
 
         <ol>
             <a href="PDF/LYONDELLBASELL_SS_ISOPROPYL-ALCOHOL-USP.pdf"><li style="list-style-type:disc;color: rgba(2 146 238 /99%);" class="Elementos--Listas arrowblue">LYONDELLBASELL_SS_ISOPROPYL-ALCOHOL-USP.pdf</li></a>
             <a href="PDF/LYONDELLBASELL_SDS_ISOPROPYL-ALCOHOL-USP_221019.pdf"><li style="list-style-type:disc;color: rgba(2 146 238 /99%);" class="Elementos--Listas arrowblue" >LYONDELLBASELL_SDS_ISOPROPYL-ALCOHOL-USP_221019.pdf</li></a>
         </ol>
 
-        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Cartas Declaratorias</b></h5>
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Cartas Declaratorias</b></h2>
 
         <ol>
             <a href="PDF/LYONDELLBASELL_PRODUCT-STEWARDSHIP-BULLETIN_ISOPROPYL-ALCOHOL-USP_060323.pdf"><li style="list-style-type:disc;color: rgba(2 146 238 /99%);" class="Elementos--Listas arrowblue">LYONDELLBASELL_PRODUCT-STEWARDSHIP-BULLETIN_ISOPROPYL-ALCOHOL-USP_060323.pdf</li></a>
         </ol>
 
-        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Certificaciones</b></h5>
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Certificaciones</b></h2>
 
         <ol>
             <a href="PDF/OU_KOSHER-CERTIFICATE_ISOPROPYL-ALCOHOL-USP_LYONDELLBASELL-HOUSTON-TX_300623.pdf"><li style="list-style-type:disc;color: rgba(2 146 238 /99%);" class="Elementos--Listas arrowblue">OU_KOSHER-CERTIFICATE_ISOPROPYL-ALCOHOL-USP_LYONDELLBASELL-HOUSTON-TX_300623.pdf</li></a>

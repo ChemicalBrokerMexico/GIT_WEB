@@ -4,8 +4,8 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
-    <title>Chemical Broker | Valores</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <meta name="description" content="Somos una organización que se rige por valores universales, aplicables en todo momento y lugar, sin importar raza, credo, posición económica o cualquier otra distinción.">
+    <title>Chemical Broker | Nuestros Valores Organizacionales</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <meta name="description" content="Somos una organización que se rige por valores universales, aplicables en todo momento y lugar, sin importar raza, credo, posición económica o cualquier otra distinción con el objetivo de aportar excelencia a nuestro mundo.">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">
@@ -386,7 +386,7 @@
         <ul class="slides slides-pruea">
           <li><img src="img/VALUES_040222.jpg" style="height:450px;" alt="">
             <div class="caption center-align"><br><br><br><br>
-              <h3 class="primertitulo"><b class="boldbanner">Chemical Broker</b><br></h3><b class="segundotitulo" style="font-size:26px">Valores</b>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker</b><br></h1><b class="segundotitulo" style="font-size:26px">Valores</b>
             </div>
           </li>
         </ul>
@@ -399,7 +399,7 @@
     <div class="container" style="margin-top:20px">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-          <h6 class="Tipografia--general letranegro General--Cuerpo"><b class="Tipografia--general letranegro General--Cuerpo" style="color:#262137;border-bottom:1.5px solid #b12729">Como Regimos Nuestro Actuar</b></h6>
+          <h2 class="Tipografia--general letranegro General--Cuerpo"><b class="Tipografia--general letranegro General--Cuerpo" style="color:#262137;border-bottom:1.5px solid #b12729">Como Regimos Nuestro Actuar</b></h2>
           <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><b style="color:#262137;">Chemical Broker</b> es una organización regida por <b style="color: #262137">valores universales</b>, aplicables en todo momento y lugar, sin importar raza, credo, posición económica o cualquier otro tipo de distinción entre seres vivos.
           </p>
           <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px">Los valores universales en los que creemos fortalecen las relaciones con nuestro &nbsp<b>equipo de trabajo</b> y nuestros<b>&nbspsocios de negocios </b>y describen claramente en que dirección queremos llevar nuestra organización.
@@ -444,11 +444,11 @@
     </div>
     <div class="card-reveal">
       <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
-      <h6 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios </i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Definición</b></h6>
+      <h2 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios </i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Definición</b></h2>
           <p class="Tipografia--general letranegro General--Cuerpo">Superior calidad o bondad que hace digna de aprecio y estima una cosa o a una persona.</p>
-          <h6 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px"> <i class="tiny material-icons">arrow_forward_ios</i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Etimología</b></h6>
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px"> <i class="tiny material-icons">arrow_forward_ios</i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Etimología</b></h2>
           <p class="Tipografia--general letranegro General--Cuerpo">La palabra excelencia viene del latín, Excellentia-ae, de ex y cella una raíz indoeuropea *kel- en griego kelo que significa lugar oculto o escondido, bodega, de ahí derivo la castellana celda y en alemán keller (sótano) y zelle (celda), por el cambio de la pronunciación de c como k en el latin clásico (keller) y la c como ts en el eclesiastico (zelle). excellentia, significaría salir de lo oculto, significando también superioridad, grandeza, elevarse, enorgullecerse, De esta palabra, salieron marcas como, por ejemplo. El programa para computadoras Excel.</p>
-          <h6 class="Tipografia--general letranegro Subtitulos" style="margin-top:50px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Excelencia para Chemical Broker</b></h6>
+          <h2 class="Tipografia--general letranegro Subtitulos" style="margin-top:50px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Excelencia para Chemical Broker</b></h2>
           <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">Maximizar los Estándares determinados por <b style="color:#000020">Chemical Broker</b> para cada proceso:</p>
           <ol class="Tipografia--general letranegro General--Cuerpo"> 
             <li style="font-size:16px">Estándar de <b>Calidad</b></li>
@@ -470,12 +470,12 @@
     </div>
     <div class="card-reveal">
       <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
-      <h6 class="Tipografia--general letranegro General--Cuerpo"> <i class="tiny material-icons">arrow_forward_ios </i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Definición</b></h6>
+      <h2 class="Tipografia--general letranegro General--Cuerpo"> <i class="tiny material-icons">arrow_forward_ios </i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Definición</b></h2>
           <p class="Tipografia--general letranegro General--Cuerpo">Acción o conjunto de actividades destinadas a satisfacer una determinada necesidad de nuestros socios de negocios, brindando un producto inmaterial y personalizado.</p>
-          <h6 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"> <i class="tiny material-icons">arrow_forward_ios</i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Etimología</b></h6>
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"> <i class="tiny material-icons">arrow_forward_ios</i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Etimología</b></h2>
           <p class="Tipografia--general letranegro General--Cuerpo"><ol><li style="list-style-type: disc;">Viene del latín servitium compuesto con: la raíz de servitum. Supino del verbo servire (atender, cuidar, servir, ser esclavo, adaptarse a otro o a otra cosa)</ol></li></p>
           <p class="Tipografia--general letranegro General--Cuerpo"><ol><li style="list-style-type: disc;">Este vocablo en su etimología procede del latín (servitium) que quiere decir servidumbre.</ol></li></p>
-          <h6 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Servicio para Chemical Broker</b></h6>
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Servicio para Chemical Broker</b></h2>
           <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">Dedicamos nuestros esfuerzos a la <b>satisfacción total </b>de Nuestros Socios de Negocios.
           </p>
     </div>
@@ -493,11 +493,11 @@
     </div>
     <div class="card-reveal">
       <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
-      <h6 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios </i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Definición </b></h6>
+      <h2 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios </i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Definición </b></h2>
           <p class="Tipografia--general letranegro General--Cuerpo">Acuerdo formal al que llegan dos o más partes tras hacer concesiones entre ellas</p>
-          <h6 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"> <i class="tiny material-icons">arrow_forward_ios </i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Etimología</b></h6>
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"> <i class="tiny material-icons">arrow_forward_ios </i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Etimología</b></h2>
           <p class="Tipografia--general letranegro General--Cuerpo">Viene del latín compromissum (un acuerdo para cumplir con la adjudicación de un árbitro)</p>
-          <h6 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Compromiso para Chemical Broker </b></h6>
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Compromiso para Chemical Broker </b></h2>
           <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">Brindar a nuestros socios de negocios un <b>Servicio Integral </b>y exclusivo para su completa satisfacción.
           </p>
     </div>
@@ -515,11 +515,11 @@
     </div>
     <div class="card-reveal">
       <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
-      <h6 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios</i><b style="color: #008037;text-decoration:underline;text-decoration-color:#F7291E;">Definición</b></h6>
+      <h2 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios</i><b style="color: #008037;text-decoration:underline;text-decoration-color:#F7291E;">Definición</b></h2>
           <p class="Tipografia--general letranegro General--Cuerpo">La ética empresarial es una rama de la ética aplicada. Se ocupa del estudio de las cuestiones normativas de naturaleza moral que se plantean en el mundo de los negocios.</p>
-          <h6 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color: #008037;text-decoration:underline;text-decoration-color:#F7291E;">Etimología</b></h6>
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color: #008037;text-decoration:underline;text-decoration-color:#F7291E;">Etimología</b></h2>
           <p class="Tipografia--general letranegro General--Cuerpo">Se ubica en el latín como ethĭca, forma femenina de ethĭcus, cuyo origen se distingue en el griego ēthikḗ, en calidad de femenino de ēthikós. Es utilizada para referirse al estudio de los actos humanos con el fin de alcanzar el bien, es la voluntad de actuar de manera correcta.</p>
-          <h6 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color: #008037;text-decoration:underline;text-decoration-color:#F7291E;">Etica Empresarial para Chemical Broker</b></h6>
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color: #008037;text-decoration:underline;text-decoration-color:#F7291E;">Etica Empresarial para Chemical Broker</b></h2>
           <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">Actuar con <b>Respeto, Transparencia y Cumplimiento estricto a nuestros compromisos </b>con Nuestros Socios de Negocios; miembros de la organización, sociedad, gobierno, clientes y proveedores, apegado al marco legal vigente entre <b style="color:#000020">Chemical Broker</b> y los involucrados.
           </p><br>
     </div>

@@ -4,9 +4,9 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Alcohol Isopropílico</title>
+    <title>Chemical Broker | Alcohol Isopropílico de Lyondell Basell</title>
     <meta name="description"
-        content="Chemical Broker distribuye mundialmente Glicerina de la mas alta Pureza y Calidad para las formulaciones de nuestros clientes.">
+        content="Chemical Broker Distribuye Alcohol Isopropilico de la mas alta calidad del fabricante Lyondell Basell, Ingresa y Contactanos.">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -641,7 +641,7 @@
                 <li> <img src="img/CB_ALCOHOL_ISOPROPILICO.jpg" alt="" class="Collagen_Banner"
                         style="filter:brightness(0.9);margin-top:-290px;height:460px;">
                     <div class="caption center-align"><br><br><br><br>
-                        <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b
+                        <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b
                             class="segundotitulo" style="font-size: 26px;">Alcohol Isopropílico</b>
                     </div>
                 </li>
@@ -939,7 +939,7 @@
         </div>
 
         <div class="col s12 m12 l12 xl12">
-            <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Funciones</b></h5>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Funciones</b></h2>
             <p class="Tipografoa--general letranegro General--Cuerpo"><b>Desinfectante. -</b> se utiliza para limpiar y desinfectar superficies. Es eficaz para matar microorganismos como bacterias y virus, lo que lo hace útil en entornos médicos, cosméticos y de limpieza general.</p>
             <p class="Tipografoa--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Disolvente. -</b> Actúa como un disolvente efectivo para muchas sustancias, como grasas, aceites, resinas y tintas. Por lo tanto, se utiliza en la fabricación de productos químicos, tintas y barnices.</p>
             <p class="Tipografoa--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Desengrasante. -</b> debido a su capacidad para disolver grasas, el alcohol isopropílico se utiliza como desengrasante en aplicaciones industriales, como la limpieza de piezas metálicas y maquinaria.</p>
@@ -950,7 +950,7 @@
         </div>
 
         <div class="col s12 m12 l12 xl12">
-        <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Tipos</b></h5>
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Tipos</b></h2>
         <ol>
             <a href="Alcohol_Isopropilico_USP.php"><ul style="list-style-type:disc;color:rgba(2 146 238 /99%);" class="arrowblue"><b>Alcohol Isopropilico USP</b></ul></a>
             <a href="ALCOHOL_ISOPROPILICO_INDUSTRIAL.php"><ul style="list-style-type:disc;color:rgba(2 146 238 /99%);margin-top:30px;" class="arrowblue"><b>Alcohol Isopropilico Industrial</b></ul></a>

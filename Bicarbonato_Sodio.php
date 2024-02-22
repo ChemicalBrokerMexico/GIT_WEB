@@ -4,8 +4,8 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Bicarbonato de Sodio</title>
-  <meta name="description" content="El bicarbonato de sodio (también llamado bicarbonato sódico, hidrogenocarbonato de sodio,​carbonato ácido de sodio o bicarbonato de soda) es un compuesto sólido cristalino de color blanco soluble en agua, con un ligero sabor alcalino parecido al del carbonato de sodio (aunque menos fuerte y más salado que este último), de fórmula NaHCO3. Se puede encontrar como mineral en la naturaleza o se puede producir artificialmente.">
+  <title>Chemical Broker | Bicarbonato de Sodio de Solvay</title>
+  <meta name="description" content="Chemical Broker brinda a sus socios de negocio, Bicarbonato de Sodio de la mas alta calidad a nivel mundial con el objetivo de brindar al mercado mundial la mas alta calidad.">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -554,7 +554,7 @@
         <li><img src="img/CB_BICARBONATO_SODIO_271222.jpg" alt="" class="Bicarbonato_Sodio_Banner"
             style="height:500px;filter: brightness(0.8);">
           <div class="caption center-align"><br><br><br><br>
-            <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo"
+            <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo"
               style="font-size: 26px;">Bicarbonato de Sodio</b>
           </div>
         </li>
@@ -565,7 +565,7 @@
   <div class="container" style="margin-top:80px;">
     <div class="row bread_mobile">
       <div class="col s12 m12 l12 xl12">
-        <section class="breditem--inicio" style="width:322px;"><a class="breditem active" href="index.php"
+        <section class="breditem--inicio" style="width:350px;"><a class="breditem active" href="index.php"
             style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
             href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b> >
               &nbsp</b><a class="breditem active" href="Bicarbonato_Sodio.php"
@@ -734,7 +734,7 @@
           </tr>
         </table>
 
-        <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Obtención</b></h5>
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Obtención</b></h2>
 
         <p class="Tipografia--general letranegro General--Cuerpo">Mediante el proceso Solvay. Aunque es utilizado para
           obtener Na2CO3, es posible obtener en una de las reacciones intermedias bicarbonato sódico. El proceso
@@ -751,7 +751,7 @@
 
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;"></p>
 
-        <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Funciones:</b></h5>
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Funciones:</b></h2>
 
         <ol style="margin-bottom:0px;">
 
@@ -778,9 +778,9 @@
 
         </ol>
 
-        <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Aplicaciones:</b></h5>
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Aplicaciones:</b></h2>
 
-        <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;"><b style="color:#000020;">Nutrición Humana</b></h5>
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;"><b style="color:#000020;">Nutrición Humana</b></h2>
 
         <p class="Tipografia--general letranegro General--Cuerpo">Con una amplia gama de tamaños de partículas
           disponibles, ha sido reconocido durante mucho tiempo como el agente leudante:</p>
@@ -802,8 +802,8 @@
         </ol>
 
         
-        <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">
-          <b>Farmacéutica:</b></h5>
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">
+          <b>Farmacéutica:</b></h2>
 
         <ol>
           <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Excipiente,</li>
@@ -826,7 +826,7 @@
             Neutralizador de Olores.</li>
         </ol>
 
-        <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Cuidado Personal:</b></h5>
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Cuidado Personal:</b></h2>
 
         <ol>
           <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Shampoos,</li>
@@ -844,8 +844,8 @@
 
         </ol>
 
-        <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Detergentes y Cuidado del
-            Hogar:</b></h5>
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Detergentes y Cuidado del
+            Hogar:</b></h2>
         <ol>
           <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Detergentes en
             Polvo,</li>
@@ -855,7 +855,7 @@
         </ol>
 
 
-        <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Nutrición Animal</b></h5>
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Nutrición Animal</b></h2>
         <p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#000020;">bicarbonato de sodio</b> ofrece una gama de soluciones
           eficaces para la nutrición, la higiene y la calidad de los piensos.</p>
         <p class="Tipografia--general letranegro General--Cuerpo">Es un complemento alimenticio para rumiantes, cerdos y
@@ -864,7 +864,7 @@
           un ingrediente con potencial benéfico en la alimentación de pollos debido a su efecto sobre el balance
           electrolítico y adicionalmente por mejorar la digestibilidad proteica y el rendimiento de los mismos.</p>
 
-        <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Biogas</b></h5>
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Biogas</b></h2>
         <p class="Tipografia--general letranegro General--Cuerpo">En las plantas de producción de biogás, se puede
           utilizar como medida preventiva o curativa en caso de acidosis para estabilizar el pH en el digestor y
           asegurar una producción optima de biogás.</p>
@@ -872,8 +872,8 @@
           de sodio</b> al sustrato puede aumentar el volumen de biogás producido cada día en 115 m3, es decir, en un 1.8%.
         </p>
 
-        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;">
-          <b>Proveedor:</b></h5>
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;">
+          <b>Proveedor:</b></h2>
 
         <table style="margin-top:30px;">
           <tr style="border:none;">
@@ -883,8 +883,8 @@
           </tr>
           <tr style="border:none;">
             <td>
-              <h5 class="Tipografia--general letranegro Titulos">
-                <b>Productos:</b></h5>
+              <h2 class="Tipografia--general letranegro Titulos">
+                <b>Productos:</b></h2>
             </td>
           </tr>
           <tr style="border:none;">

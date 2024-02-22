@@ -3,9 +3,8 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Acidos Grasos</title>
-  <meta name="description"
-    content="Los ácidos grasos se derivan de grasas y aceites animales como el sebo de res y de diversos aceites vegetales.">
+  <title>Chemical Broker | Acidos Grasos de Peter Cremer</title>
+  <meta name="description" content="Buscas Acidos Grasos de la mas alta calidad Chemical Broker es tu mejor opcion, contamos con ingredientes quimicos  de la mas alta calidad. ">
   <meta http-equiv="Expires" content="0">
   <meta http-equiv="Last-Modified" content="0">
   <meta http-equiv="Cache-Control" content="no-cache, mustrevalidate">
@@ -563,7 +562,7 @@
         <li> <img src="img/CB_ACIDOS_GRASOS_291223.jpg" alt="" style="height:400px;filter: brightness(0.9);"
             class="img_acidos_grasos img_acidos_grasos_desktop">
           <div class="caption center-align"><br><br><br><br>
-            <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo"
+            <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo"
               style="font-size: 26px;">Ácidos Grasos</b>
           </div>
         </li>
@@ -588,7 +587,7 @@
   <div class="container">
     <div class="row">
       <div class="col s12 m12 l12 xl12">
-        <h5 class="Tipografia--general letranegro Titulos"><b>Ácidos Grasos</b></h5>
+        <h2 class="Tipografia--general letranegro Titulos"><b>Ácidos Grasos</b></h2>
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px">Los <b style="color:#262137;">ácidos grasos</b> se
           derivan de grasas y aceites animales como el sebo de res y de aceites vegetales tales como aceite de soja,
           aceite de colza, aceite de coco y de palmiste, aceite de palma aceite, entre otros.</p>
@@ -624,8 +623,7 @@
           hidroxilos (-OH) del glicerol (glicerina, propanotriol); los triglicéridos (grasas) se almacenan en el tejido
           adiposo .</p>
 
-        <h5 class="Tipografia--general letranegro General--Cuerpo Titulos" style="margin-top:50px;"><b>Clasificación</b>
-        </h5>
+        <h2 class="Tipografia--general letranegro General--Cuerpo Titulos" style="margin-top:50px;"><b>Clasificación</b></h2>
 
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;"><b>Ácidos grasos saturados.- </b> Son ácidos grasos
           sin dobles enlaces entre carbonos; tienden a formar cadenas extendidas y a ser sólidos a temperatura ambiente,
@@ -689,7 +687,7 @@
           la molécula sea rectilínea; se encuentra principalmente en alimentos industrializados que han sido sometidos a
           hidrogenación, con el fin de solidificarlos (como la margarina).</p>
 
-        <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px"><b>Funciones & Industrias</b></h5>
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px"><b>Funciones & Industrias</b></h2>
 
         <ol style="list-style-type:disc;margin-bottom:0px;margin-left:-25px;" class="margin_movil">
           <li class="Tipografia--general letranegro Elementos--Listas"><b>Agroquímicos:</b></li>
@@ -700,8 +698,8 @@
           </ol>
         </ol>
 
-        <h5 class="Tipografia--general letranegro Titulos General--Cuerpo" style="margin-top:50px;margin-bottom:0px;"><b>Aplicaciones e
-            Industrias</b></h5>
+        <h2 class="Tipografia--general letranegro Titulos General--Cuerpo" style="margin-top:50px;margin-bottom:0px;"><b>Aplicaciones e
+            Industrias</b></h2>
 
         <ol style="list-style-type:disc;margin-bottom:0px !important;margin-left:-25px;" class="margin_movil">
           <li class="Tipografia--general letranegro Elementos--Listas"><b>Farmacéutica:</b></li>
@@ -820,7 +818,7 @@
           regionales. Las necesidades pueden ser ligeramente diferentes en todo el mundo para cumplir con las
           regulaciones locales y las demandas de los clientes. </p>
 
-        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Portafolio de Productos:</b></h5>
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Portafolio de Productos:</b></h2>
 
         <table class="display" id="" name="" style="width:100%;border:none;float:left;">
           <tr class="Tipografia--general General--Cuerpo"
@@ -1058,9 +1056,9 @@
           </tbody>
         </table> -->
 
-        <h5 class="Tipografia--general letranegro Titulos" style="display:inline-block;margin-top:50px;margin-bottom:0px;">
+        <h2 class="Tipografia--general letranegro Titulos" style="display:inline-block;margin-top:50px;margin-bottom:0px;">
           <b>Proveedor:</b>
-        </h5>
+        </h2>
 
         <table>
           <tr style="border:none;">
@@ -1070,14 +1068,14 @@
           </tr>
           <tr style="border:none;">
             <td>
-          <h5 class="Tipografia--general letranegro Titulos" style="margin-top:30px;margin-bottom:0px"><b>Portafolios de Productos Cremer:</b></h5>
+          <h2 class="Tipografia--general letranegro Titulos" style="margin-top:30px;margin-bottom:0px"><b>Portafolios de Productos Cremer:</b></h2>
           </td>
           </tr>
           <tr style="border:none;">
             <td>
-          <h5 style="margin-top:20px;margin-bottom:0px;"><a href="PDF/CATALOGUES/CREMER_OLEOCHEMICALS-BROCHURE.pdf"
+          <h2 style="margin-top:20px;margin-bottom:0px;"><a href="PDF/CATALOGUES/CREMER_OLEOCHEMICALS-BROCHURE.pdf"
           class="arrowblue Tipografia--general Botones letranegro" download
-          style="color:rgba(2 146 238 /99%);">CREMER_OLEOCHEMICALS-BROCHURE.pdf &nbsp</a></h5>
+          style="color:rgba(2 146 238 /99%);">CREMER_OLEOCHEMICALS-BROCHURE.pdf &nbsp</a></h2>
             </td>
           </tr>
         </table>

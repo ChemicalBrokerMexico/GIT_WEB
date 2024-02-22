@@ -23,7 +23,7 @@
     <link rel="stylesheet" href="css/jquery.dataTables.min.css">
 <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
     <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.js"></script>
-    <script type="text/javascript" charset="utf8" src="js/Buscador.js?n=1"></script>l
+    <script type="text/javascript" charset="utf8" src="js/Buscador.js?n=1"></script>
 <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/responsive/2.2.6/js/dataTables.responsive.js"></script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
     <link rel="stylesheet" href="css/History_Line.css?n=1">
@@ -392,7 +392,7 @@
         <ul class="slides slides-pruea">
           <li><img src="img/HISTORY.jpg" style="height:800px;" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size:26px">Historia y Hechos</b>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Historia y Hechos</b>
             </div>
           </li>
         </ul>
@@ -404,7 +404,7 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-          <h6> <b class="Tipografia--general Subtitulos" style="color:#262137;border-bottom:1.5px solid #b12729">Hechos </b></h6>
+          <h2> <b class="Tipografia--general Subtitulos" style="color:#262137;border-bottom:1.5px solid #b12729">Hechos </b></h2>
           <p class="Tipografia--general General--Cuerpo  letranegro" style="text-align:justify">Al entender los problemas y dificultades que viven diariamente las empresas enfocadas en la producción de&nbsp<b style="color:#262137">ingredientes químicos</b> y productos terminados alrededor del mundo, por la obtención de <b style="color:#262137">materias primas&nbsp</b>debido a un servicio inadecuado y poco profesional de proveedores, así como por desconocimiento en temas de<b style="color:#262137">&nbspnegociación, adquisición, importación, exportación, Servicios&nbsp</b>y coberturas de seguros, se crea la firma:
           </p>
           <p class="Tipografia--general General--Cuerpo letranegro" style="text-align:justify;margin-top:50px"><b style="color:#262137">Chemical Broker </b>, una compañía creada en el año <b style="color:#262137">2014</b>, con un enfoque de negocios claro y definido, descrito a continuación:
@@ -424,31 +424,31 @@
       <ul> 
         <li class="in-view wow animate__animated animate__bounceInRight">
           <div>
-            <h5 style="color:black;margin-top:-10px;text-align:justify;padding-top:25px"><b>2014</b><br><br></h5>
+            <h3 style="color:black;margin-top:-10px;text-align:justify;padding-top:25px"><b>2014</b><br><br></h3>
             <p class="Tipografia--general General--Cuerpo letranegro" style="color:black;margin-top:-10px;text-align:justify;">El 10 de Julio de 2014 se funda la firma <b>Chemical Broker</b> enfocada en la venta de ingredientes químicos para las Industrias de Farmacéutica, Alimentos y Nutrición Humana, Cosméticos y Cuidado Personal y la Industria Química general con la venta de Oleo químicos; Glicerinas, Alcoholes y Ácidos Grasos.</p>
           </div>
         </li>
         <li class="in-view wow animate__animated animate__bounceInLeft">
           <div> 
-            <h5 style="color:black !important;"><b>2015</b><br><br></h5>
+            <h3 style="color:black !important;"><b>2015</b><br><br></h3>
             <p class="Tipografia--general General--Cuerpo letranegro" style="color:black;margin-top:-10px;text-align:justify">Se abren nuevas oportunidades de negocio con fabricantes a nivel mundial para la venta de diferentes productos Grado Farmacéutico, USP, FCC y Grado Cosmético con un amplio portafolio de productos enfocado a las Divisiones Farmacéutica, Alimento y Nutrición Humana y Cosméticos y Cuidado Personal.</p>
           </div>
         </li>
         <li class="in-view wow animate__animated animate__bounceInRight">
           <div> 
-            <h5 style="color:black;margin-top:-10px;text-align:justify;padding-top:25px"><b>2016</b><br><br></h5>
+            <h3 style="color:black;margin-top:-10px;text-align:justify;padding-top:25px"><b>2016</b><br><br></h3>
             <p class="Tipografia--general General--Cuerpo letranegro" style="color: black;margin-top:-10px;text-align: justify;">Se amplía nuestro enfoque de negocios con la venta de Ingredientes Químicos para la División de Agroquímicos, con un portafolio de productos enfocado a atender a los fabricantes de Reguladores de Crecimiento, Pesticidas y Fertilizantes, así como a empresas comercializadoras de materias primas para la industria de Agroquímicos.</p>
           </div>
         </li>
         <li class="in-view wow animate__animated animate__bounceInLeft">
           <div>
-            <h5 style="color:black !important"><b>2017</b><br><br></h5>
+            <h3 style="color:black !important"><b>2017</b><br><br></h3>
             <p class="Tipografia--general General--Cuerpo letranegro" style="color: black;margin-top:-10px;text-align: justify;">En la última década la concientización sobre el cuidado de los animales de compañía, así como el tipo de alimentación de los animales para consumo humano ha crecido impulsando a las empresas a generar productos alimenticios de mejor calidad. Bajo las circunstancias del momento <b style="color:#000020">Chemical Broker</b> crea su división de Pet & Feed con ingredientes químicos de la más alta calidad, certificados en Buenas Prácticas de Manufactura Grado Alimentos y con un enfoque especializado en la Industria de Alimentación y Nutrición Animal. </p>
           </div>
         </li>
         <li class="in-view wow animate__animated animate__bounceInRight">
           <div>
-            <h5 style="color:black !important"><b>2018</b><br><br></h5>
+            <h3 style="color:black !important"><b>2018</b><br><br></h3>
             <p class="Tipografia--general General--Cuerpo letranegro" style="color: black;margin-top:-10px;text-align: justify;">Durante el año 2018 <b style="color:#000020">Chemical Broker</b> considera importante desarrollar su propia Unidad de Negocios de Tecnologías de la Información, con el propósito de impulsar la era digital dentro de la organización, para facilitar sus servicios dentro y fuera de ella.</p>
           </div>
         </li><br><br>

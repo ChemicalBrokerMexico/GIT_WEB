@@ -3,9 +3,8 @@
 <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Lista de Productos</title>
-    <meta name="description"
-        content="Chemical Broker distribuye mundialmente Glicerina de la mas alta Pureza y Calidad para las formulaciones de nuestros clientes.">
+    <title>Chemical Broker | Nuestra Lista de Productos</title>
+    <meta name="description" content="Te invitamos a conocer nuestro catalogo de productos, en donde podras encontrar ingredientes quimicos de la mas alta calidad a nivel mundial.">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -354,9 +353,9 @@
         <table id="table_id2" class="display" style="width:100%">
     <thead>
         <tr>
-            <th class="center-align" style="background-color:#F2F2F2;color:black;border-right: 1px solid white;border-radius:10px;">Familia</th>
-            <th class="center-align" style="background-color:#F2F2F2;color:black;border-right: 1px solid white;border-radius:10px;">Producto</th>
-            <th class="center-align" style="background-color:#F2F2F2;color:black;border-right: 1px solid white;border-radius:10px;">CAS</th>
+            <th class="center-align" style="background-color:#000020;color:white;border-right: 1px solid white;border-radius:10px;">Familia</th>
+            <th class="center-align" style="background-color:#000020;color:white;border-right: 1px solid white;border-radius:10px;">Producto</th>
+            <th class="center-align" style="background-color:#000020;color:white;border-right: 1px solid white;border-radius:10px;">CAS</th>
         </tr>
     </thead>
     <tbody>
@@ -372,9 +371,9 @@
         while($mostrar = mysqli_fetch_array($result)){
        ?>
        <tr>
-            <td class="center-align" style="background-color: #000020;color:white;border-radius:10px;"><?php echo $mostrar['Familia']?></td></center>
-            <td class="center-align" style="background-color: #000020;color:white;border-radius:10px;"><?php echo $mostrar['Producto']?></td>
-            <td class="center-align" style="background-color: #000020;color:white;border-radius:10px;"><?php echo $mostrar['CAS']?></td>
+            <td class="center-align" style="background-color: #f2f2f2;color:black;border-radius:10px;"><?php echo $mostrar['Familia']?></td></center>
+            <td class="center-align" style="background-color: #f2f2f2;color:black;border-radius:10px;"><?php echo $mostrar['Producto']?></td>
+            <td class="center-align" style="background-color: #f2f2f2;color:black;border-radius:10px;"><?php echo $mostrar['CAS']?></td>
        </tr>
 
 

@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <title>Chemical Broker | Nosotros</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos.">
+    <meta name="description" content="Conoce a Chemical Broker, un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos, de la mas alta calidad, brindando a sus socios de negocio un servicio de excelencia total.">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">
@@ -397,7 +397,7 @@
 <ul class="slides">
 <li> <img src="img/CB_QUIMICA.jpg" style="height:800px;" alt="Industria Quimica">
 <div class="caption center-align"><br><br><br><br>
-<h3 class="primertitulo"><b>Chemical Broker</b><br></h3><b class="segundotitulo">Nosotros</b>
+<h1 class="primertitulo"><b>Chemical Broker</b><br></h1><b class="segundotitulo">Nosotros</b>
 </div>
 </li>
 </ul>
@@ -414,17 +414,17 @@
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<h6><b class="Tipografia--general letranegro Titulos" style="color:#262137;">Nosotros</b></h6>
+<h2 style="margin-top:-30px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;margin-top: -50px;">Nosotros</b></h2>
 <p class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020;">Chemical Broker</b> comenzó hace más de 9 años, nos basamos en una historia aún más larga de innovación y crecimiento.</p>
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Hoy nos hemos convertido en uno de los mayores distribuidores de Oleo químicos; Ácidos Grasos, Alcoholes Grasos, Glicerinas, Triglicéridos, Derivados de Palma, Destilados de Ácidos Grasos, Glicoles, Aceites y Grasas, Conservadores, entre otros.</p>
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Nos vemos a nosotros mismos como el puente que conecta a los proveedores en lugares lejanos con los clientes. Y como un canal de distribución, que trae materiales esenciales, necesarios para miles de fabricantes, para crear productos que mejoren la vida de millones de consumidores en todo el mundo.</p>
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Incluso estamos ampliando nuestra línea de productos mientras desarrollamos soluciones renovables de base biológica para el futuro.</p>
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Y tal vez eso es realmente lo que nos diferencia. Porque para todos en <b style="color:#000020;">Chemical Broker</b>, se trata de más que simplemente lo que hacemos, se trata de la forma en como lo hacemos: una empresa, guiada por principios e impulsada por la pasión de servir mejor a nuestros proveedores y clientes, todos los días.</p>
-<h6 style="margin-top:50px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;margin-top:50px;">Enfoque de Negocios</b></h6>
+<h2 style="margin-top:50px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;margin-top:50px;">Enfoque de Negocios</b></h6>
 <p class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020">Chemical Broker</b> es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de ingredientes químicos.</p>
-<h6 style="margin-top:50px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;margin-top:50px;">Negocios</b></h6>
+<h2 style="margin-top:50px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;margin-top:50px;">Negocios</b></h6>
 <p class="Tipografia--general letranegro General--Cuerpo">Nuestros negocios brindan servicio a la Industrias Farmacéutica, Alimentaria y Nutrición Humana, Cosmética y del Cuidado Personal, Veterinaria, Alimento y Nutrición Animal, Agroquímicos, Detergentes y Cuidado del Hogar y la Industria Química en general.</p>
-<h6 style="margin-top:50px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;">Proceso de Negocios:</b></h6>
+<h2 style="margin-top:50px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;">Proceso de Negocios:</b></h6>
 
 
 
@@ -475,16 +475,15 @@
 <div class="container">
   <div class="row">
     <div class="col s12 m12 l12 xl12">
-    <h6 style="margin-top:30px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;">Misión</b></h6>
+    <h2 style="margin-top:30px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;">Misión</b></h6>
   <p class="Tipografia--general letranegro General--Cuerpo">Ser el intermediario mundial de ingredientes químicos que aporte las soluciones adecuadas y específicas en la adquisición de insumos para la industria química centrados en la necesidad del cliente.</p>
-
-  <h6 style="margin-top:50px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;">Visión</b></h6> 
+  <h2 style="margin-top:50px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;">Visión</b></h6> 
   <p class="Tipografia--general letranegro General--Cuerpo">Proveedor de las 10 marcas más importantes de la Industria Farmacéutica, Alimentaria y Cosmética, sin descuidar otras áreas de oportunidad.” 01/01/2023.</p>
     </div>
   </div>
 </div>
 <footer class="altofooter">
-<div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""></div><br><br>
+<div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt="ESCUDO DE C&E"></div><br><br>
 <div class="container-fluid center-align" style="margin-top:-50px">
 <p class="Tipografia--general letranegro center-align Pie--Pagina">© 2014 C&E | Chemical Broker Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto |&nbsp</a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad </a></p>
 </div>

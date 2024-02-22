@@ -3,8 +3,8 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
-    <title>Chemical Broker | Servicio Integral</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
+    <title>Chemical Broker | Nuestro Servicio Integral</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <meta name="description" content="Ingresa a nuestro sitio web y conoce nuestro Servicio Total desde su conceptualizacion hasta la ejecucion, ofrecemos soluciones integrales que impulsan tu exito, con Chemical Broker alcanza tus metas.">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen"/>
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen"/>
@@ -387,7 +387,7 @@
         <ul class="slides slides-pruea">
           <li> <img src="img/proyectoproyect_principal.jpg" style="height:750px;"/>
             <div class="caption center-align"><br/><br/><br/><br/>
-              <h3 class="primertitulo"><b class="bolbanner">Chemica Broker</b><br/></h3><b class="seguntitulo" style="font-size:26px">Servicio Integral</b>
+              <h1 class="primertitulo"><b class="bolbanner">Chemica Broker</b><br/></h1><b class="seguntitulo" style="font-size:26px">Servicio Integral</b>
             </div>
           </li>
         </ul>
@@ -417,105 +417,6 @@
       </div>
 
   
-
-      <!-- <div class="row" style="margin-top:30px">
-        <div class="col s12 m12 l12 xl6 mercados zoom">
-            <div class="contenedor">
-              <div class="transfo" id="overlay" style="border-radius:10px"></div>
-              <div class="centrado_sub" style="position:absolute;z-index:2">
-                <h5 class="titulo_submercado Tipografia--general letranegro General--Cuerpo"></h5><b class="titulo_submercado"> <span style="position:relative;z-index:2;color:white;">Calidad </span><br/>Mundial</b><b> </b>
-                <hr class="animacion"/>
-              </div><img class="mercadosimagen img--border--radius" src="img/QUIMICA.jpg" alt=""/>
-            </div></div>
-        <div class="col s12 m12 l12 xl6">
-          <h6 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios </i><b style="color:#262137;text-decoration:underline;text-decoration-color:#F7291E">En Chemical Broker </b></h6>
-          <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify;">Los productos que ofrecemos a nuestros clientes cumplen, con las normas internacionales de Calidad, Inocuidad y Buenas Prácticas de Manufactura  <b style="color:#262137">(BPM´s), </b> las cuales podrán consultarse en la siguiente página <a href="Cumplimiento.php" style="color:blue !important">Normas de Calidad Mundial </a>
-          </p><br/><br/><br/><br/><br/>
-        </div>
-      </div> -->
-      <!-- <div class="row in-view animate__animated animate__bounceInLeft" style="margin-top:150px">
-        <div class="col s12 m12 l12 xl6 mercados zoom" style="float:right">
-            <div class="contenedor">
-              <div class="transfo" id="overlay" style="border-radius:10px"></div>
-              <div class="centrado_sub" style="position:absolute;z-index:2">
-                <h5 class="titulo_submercado Tipografia--general letranegro General--Cuerpo"></h5><b class="titulo_submercado"> <span style="position:relative;z-index:2;color:white;">Abastecimiento </span><br/>Oportuno</b><b> </b>
-                <hr class="animacion"/>
-              </div><img class="mercadosimagen img--border--radius" src="img/PIPA_CB.jpg" alt=""/>
-            </div></div>
-        <div class="col s12 m12 l12 xl6">
-          <h6 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios </i><b style="color:#262137;text-decoration: underline;text-decoration-color:#F7291E">Para Chemical Broker </b></h6>
-          <h5 class="Tipografia--general letranegro General--Cuerpo"><b>"No hay producto más caro, que aquel que No se tiene"</b></h5>
-          <p class="Tipografia--general letranegro General--Cuerpo" style="text-align: justify;">Trabajamos con pronósticos de consumos trimestrales, semestrales y anuales con nuestros socios de negocios; lo cual garantiza la cantidad de producto solicitado y permite cumplir en tiempo y forma con sus requerimientos.       </p>
-          <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify;margin-top:50px;">Contamos con Centros de Distribución en cumplimiento con Buenas Prácticas de Manufactura (BMP´s) y Certificados en las Normas Internacionales &nbsp<b style="color:#262137">ISO 9001 & FSSC 22,000, </b>en las principales Ciudad de México, con una capacidad de almacenamiento de 30 días naturales, para el consumo programado de nuestros socios de negocios.
-          </p>
-          <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify;margin-top:50px;">Nuestra Logística está certificada en las normas internacionales ISO 90001 & FSCC 22,000, en cumplimiento con los máximos estándares de sanitización, inocuidad y tiempo. <br/><br/><br/><br/><br/></p>
-        </div>
-      </div> -->
-      <!-- <div class="row in-view animate__animated animate__bounceInLeft" style="margin-top:150px">
-        <div class="col s12 m12 l12 xl6 mercados zoom">
-            <div class="contenedor">
-              <div class="transfo" id="overlay" style="border-radius:10px"></div>
-              <div class="centrado_sub" style="position:absolute;z-index:2">
-                <h5 class="titulo_submercado Tipografia--general letranegro General--Cuerpo"></h5><b class="titulo_submercado"> <span style="position:relative;z-index:2;color:white;">Garantia</span><br/>del<br/>Producto</b><b> </b>
-                <hr class="animacion"/>
-              </div><img class="mercadosimagen img--border--radius" src="img/CB_WARRANTY.jpg" alt=""/>
-            </div></div>
-        <div class="col s12 m12 l12 xl6">
-          <h6 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios</i><b style="color: #262137;text-decoration: underline;text-decoration-color:#F7291E;">En Chemical Broker:</b></h6>
-          <p class="letranegro Tipografia--general General--Cuerpo" style="text-align:justify"><b>Garantizamos</b> la entera satisfacción de nuestros socios de negocios, con productos en óptimas condiciones de calidad (calidad mundial), vida de anaquel, cumplimento a especificaciones, correcto empaque, cumplimento a características solicitadas previamente y atención prioritaria ante cualquier no conformidad que pudiera presentarse.<br/><br/><br/><br/><br/>
-          </p>
-        </div>
-      </div> -->
-      <!-- <div class="row in-view animate__animated animate__bounceInLeft" style="margin-top:150px">
-        <div class="col s12 m12 l12 xl6 mercados zoom" style="float:right">
-            <div class="contenedor">
-              <div class="transfo" id="overlay" style="border-radius:10px"></div>
-              <div class="centrado_sub" style="position:absolute;z-index:2">
-                <h5 class="titulo_submercado letranegro General--Cuerpo Tipografia--general"></h5><b class="titulo_submercado"> <span style="position:relative;z-index:2;color:white;">Seguridad </span><br/>del<br/>Producto</b><b> </b>
-                <hr class="animacion"/>
-              </div><img class="mercadosimagen img--border--radius" src="img/CB_COBERTURA_RIESGOS.jpg" alt=""/>
-            </div></div>
-        <div class="col s12 m12 l12 xl6">
-          <h6 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios </i><b style="color: #262137;text-decoration: underline;text-decoration-color:#F7291E;">En Chemical Broker</b></h6>
-          <p class="letranegro General--Cuerpo Tipografia--general" style="text-align: justify;">Ofrecemos coberturas de riesgo para cubrir cualquier incidente, que pudiera suscitarse durante la operación de compra – venta.<br/><br/><br/><br/><br/></p>
-        </div>
-      </div> -->
-      <!-- <div class="row in-view animate__animated animate__bounceInLeft" style="margin-top:150px">
-        <div class="col s12 m12 l12 xl6 mercados zoom">
-            <div class="contenedor">
-              <div class="transfo" id="overlay" style="border-radius:10px"></div>
-              <div class="centrado_sub" style="position:absolute;z-index:2">
-                <h5 class="titulo_submercado Tipografia--general letranegro General--Cuerpo"></h5><b class="titulo_submercado"> <span style="position:relative;z-index:2;color:white;">Precios justos</span><br/>y<br/>Competitivos</b><b> </b>
-                <hr class="animacion"/>
-              </div><img class="mercadosimagen img--border--radius" src="img/sale.jpg" alt=""/>
-            </div></div>
-        <div class="col s12 m12 l12 xl6">
-          <h6 class="General--Cuerpo letranegro Tipografia--general"><i class="tiny material-icons">arrow_forward_ios </i><b style="color: #262137;text-decoration: underline;text-decoration-color:#F7291E;">En Chemical Broker</b></h6>
-          <p class="letranegro General--Cuerpo Tipografia--general">El valor de nuestros productos químicos es definido acorde a los siguientes rubros:</p>
-          <ol class="Tipografia--general letranegro General--Cuerpo">
-            <li style="font-size:16px"> <b style="color:#262137">Calidad,</b></li><br/>
-            <li style="font-size:16px"><b style="color:#262137">Certificaciones, </b></li><br/>
-            <li style="font-size:16px"><b style="color:#262137">Valor de Mercado.</b></li><br/>
-          </ol>
-        </div>
-      </div> -->
-      <!-- <div class="row in-view animate__animated animate__bounceInLeft" style="margin-top:150px">
-        <div class="col s12 m12 l12 xl6 mercados zoom" style="float:right">
-            <div class="contenedor">
-              <div class="transfo" id="overlay" style="border-radius:10px"></div>
-              <div class="centrado_sub" style="position:absolute;z-index:2">
-                <h5 class="titulo_submercado General--Cuerpo Tipografia--general letranegro"></h5><b class="titulo_submercado"> <span style="position:relative;z-index:2;color:white;">Atencion </span><br/>Personal<br/>Pre,<br/>Inter y<br/>Post-Venta</b><b> </b>
-                <hr class="animacion"/>
-              </div><img class="mercadosimagen img--border--radius" src="img/CB_CONTACTO.jpg" alt=""/>
-            </div></div>
-        <div class="col s12 m12 l12 xl6">
-          <h6 class="General--Cuerpo Tipografia--general letranegro"><i class="tiny material-icons">arrow_forward_ios </i><b style="color: #262137;text-decoration: underline;text-decoration-color:#F7291E;">En Chemical Broker:</b></h6>
-          <p class="Tipografia--general letranegro General--Cuerpo">Nuestra organización está formada por miembros especializados, en cada uno de los puestos de trabajo donde desarrollan sus habilidades estratégicas y operativas.</p>
-          <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px">Los Ejecutivos de Ventas de Chemical Broker son personas especializadas en la industria química para cada una de las divisiones que atendemos, (por ejemplo: Ingenieros en Alimentos, Ingenieros Químicos, Químicos Farmacobiólogo, etc.).</p>
-          <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px">Nuestro proceso de ventas es estandarizado acorde a la Norma Internacional ISO 9001, para reducir las omisiones, errores o falta de un servicio eficiente.</p>
-          <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px">La venta de nuestros productos químicos se realiza con una atención personalizada para conocer, entender y satisfacer las necesidades de nuestros clientes.</p><br/>
-        </div><br/>
-      </div> -->
     </div>
 
     <div class="container">
@@ -532,7 +433,7 @@
 </div>
 <div class="card-reveal">
 <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
-<h6 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios </i><b style="color:#262137;text-decoration:underline;text-decoration-color:#F7291E">En Chemical Broker </b></h6>
+<h2 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios </i><b style="color:#262137;text-decoration:underline;text-decoration-color:#F7291E">En Chemical Broker </b></h2>
           <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify;">Los productos que ofrecemos a nuestros clientes cumplen, con las normas internacionales de Calidad, Inocuidad y Buenas Prácticas de Manufactura  <b style="color:#262137">(BPM´s), </b> las cuales podrán consultarse en la siguiente página <a href="Cumplimiento.php" style="color:blue !important">Normas de Calidad Mundial </a>
           </p><br/><br/><br/><br/><br/>
 </div>
@@ -549,8 +450,8 @@
 </div>
 <div class="card-reveal">
 <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
-<h6 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios </i><b style="color:#262137;text-decoration: underline;text-decoration-color:#F7291E">Para Chemical Broker </b></h6>
-          <h5 class="Tipografia--general letranegro General--Cuerpo"><b>"No hay producto más caro, que aquel que No se tiene"</b></h5>
+<h2 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios </i><b style="color:#262137;text-decoration: underline;text-decoration-color:#F7291E">Para Chemical Broker </b></h2>
+          <h2 class="Tipografia--general letranegro General--Cuerpo"><b>"No hay producto más caro, que aquel que No se tiene"</b></h2>
           <p class="Tipografia--general letranegro General--Cuerpo" style="text-align: justify;">Trabajamos con pronósticos de consumos trimestrales, semestrales y anuales con nuestros socios de negocios; lo cual garantiza la cantidad de producto solicitado y permite cumplir en tiempo y forma con sus requerimientos.       </p>
           <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify;margin-top:50px;">Contamos con Centros de Distribución en cumplimiento con Buenas Prácticas de Manufactura (BMP´s) y Certificados en las Normas Internacionales &nbsp<b style="color:#262137">ISO 9001 & FSSC 22,000, </b>en las principales Ciudad de México, con una capacidad de almacenamiento de 30 días naturales, para el consumo programado de nuestros socios de negocios.
           </p>
@@ -570,7 +471,7 @@
 </div>
 <div class="card-reveal">
 <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
-<h6 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios</i><b style="color: #262137;text-decoration: underline;text-decoration-color:#F7291E;">En Chemical Broker:</b></h6>
+<h2 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios</i><b style="color: #262137;text-decoration: underline;text-decoration-color:#F7291E;">En Chemical Broker:</b></h2>
           <p class="letranegro Tipografia--general General--Cuerpo" style="text-align:justify"><b>Garantizamos</b> la entera satisfacción de nuestros socios de negocios, con productos en óptimas condiciones de calidad (calidad mundial), vida de anaquel, cumplimento a especificaciones, correcto empaque, cumplimento a características solicitadas previamente y atención prioritaria ante cualquier no conformidad que pudiera presentarse.<br/><br/><br/><br/><br/>
 </div>
 </div>
@@ -586,7 +487,7 @@
 </div>
 <div class="card-reveal">
 <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
-<h6 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios </i><b style="color: #262137;text-decoration: underline;text-decoration-color:#F7291E;">En Chemical Broker</b></h6>
+<h2 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios </i><b style="color: #262137;text-decoration: underline;text-decoration-color:#F7291E;">En Chemical Broker</b></h2>
           <p class="letranegro General--Cuerpo Tipografia--general" style="text-align: justify;">Ofrecemos coberturas de riesgo para cubrir cualquier incidente, que pudiera suscitarse durante la operación de compra – venta.<br/><br/><br/><br/><br/></p>
 </div>
 </div>
@@ -602,7 +503,7 @@
 </div>
 <div class="card-reveal">
 <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
-<h6 class="General--Cuerpo letranegro Tipografia--general"><i class="tiny material-icons">arrow_forward_ios </i><b style="color: #262137;text-decoration: underline;text-decoration-color:#F7291E;">En Chemical Broker</b></h6>
+<h2 class="General--Cuerpo letranegro Tipografia--general"><i class="tiny material-icons">arrow_forward_ios </i><b style="color: #262137;text-decoration: underline;text-decoration-color:#F7291E;">En Chemical Broker</b></h2>
           <p class="letranegro General--Cuerpo Tipografia--general">El valor de nuestros productos químicos es definido acorde a los siguientes rubros:</p>
           <ol class="Tipografia--general letranegro General--Cuerpo">
             <li style="font-size:16px"> <b style="color:#262137">Calidad,</b></li><br/>
@@ -623,7 +524,7 @@
 </div>
 <div class="card-reveal">
 <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
-<h6 class="General--Cuerpo Tipografia--general letranegro"><i class="tiny material-icons">arrow_forward_ios </i><b style="color: #262137;text-decoration: underline;text-decoration-color:#F7291E;">En Chemical Broker:</b></h6>
+<h2 class="General--Cuerpo Tipografia--general letranegro"><i class="tiny material-icons">arrow_forward_ios </i><b style="color: #262137;text-decoration: underline;text-decoration-color:#F7291E;">En Chemical Broker:</b></h2>
           <p class="Tipografia--general letranegro General--Cuerpo">Nuestra organización está formada por miembros especializados, en cada uno de los puestos de trabajo donde desarrollan sus habilidades estratégicas y operativas.</p>
           <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px">Los Ejecutivos de Ventas de Chemical Broker son personas especializadas en la industria química para cada una de las divisiones que atendemos, (por ejemplo: Ingenieros en Alimentos, Ingenieros Químicos, Químicos Farmacobiólogo, etc.).</p>
           <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px">Nuestro proceso de ventas es estandarizado acorde a la Norma Internacional ISO 9001, para reducir las omisiones, errores o falta de un servicio eficiente.</p>

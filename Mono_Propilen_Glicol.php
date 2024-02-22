@@ -620,8 +620,8 @@
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12 xl12" style="margin-top:6px;">
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b
-                        >Mono Propilen Glicol</b></h5>
+                <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b
+                        >Mono Propilen Glicol</b></h2>
                 <p class="Tipografia--general letranegro General--Cuerpo">Es un líquido claro y transparente,
                     prácticamente inodoro y con baja volatilidad. Es totalmente soluble en agua y en la mayoría de los
                     disolventes orgánicos. Además, todos los glicoles propilénicos tienen una gran capacidad para
@@ -629,8 +629,8 @@
                     aromas, sabores, colorantes y humedad.</p>
             </div>
             <div class="col s12 m12 l12 xl12">
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Tipos de
-                        propilenglicol</b></h5>
+                <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Tipos de
+                        propilenglicol</b></h2>
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">Es importante saber que en el mercado están
                     disponibles dos
                     tipos de Propilenglicol, el primero de Grado Técnico, dirigido al sector industrial y el
@@ -638,7 +638,7 @@
                     aplicaciones que tengan contacto directo con los seres humanos.</p>
             </div>
             <div class="col s12 m12 l12 xl12">
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Grado Técnico</b></h5>
+                <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Grado Técnico</b></h2>
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">El Propilenglicol de Grado Técnico es un
                     coproducto de alta
                     pureza obtenido a partir de la fabricación de óxido de propileno mediante el proceso de peróxido de
@@ -647,14 +647,14 @@
                     industriales.</p>
             </div>
             <div class="col s12 m12 l12 xl12">
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Grado USP o Grado
-                        Farmacéutico</b></h5>
+                <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Grado USP o Grado
+                        Farmacéutico</b></h2>
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">Para aplicaciones en la industria
                     farmacológica, higiene y cuidado personal, cosmética y alimentos solo se debe utilizar el
                     Propilenglicol USP.</p>
             </div>
             <div class="col s12 m12 l12 xl12">
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Farmacéutica</b></h5>
+                <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Farmacéutica</b></h2>
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">El Propilenglicol está presente en ámbitos tan
                     variados como el de perfumería, cosmética, alimentación y farmacia. Para utilizarlo en estos
                     sectores el Propilenglicol debe ser Grado USP o Grado Farmacéutico, debe cumplir la estricta
@@ -664,7 +664,7 @@
                     su capacidad dispersante que proporciona una distribución equitativa del principio activo.</p>
             </div>
             <div class="col s12 m12 l12 xl12">
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Alimentos</b></h5>
+                <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Alimentos</b></h2>
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">El Propilenglicol USP es el único apropiado
                     para su aplicación en alimentos, debido que es incoloro, inodoro y carece de sabor propio se ha
                     convertido en el portador ideal de sabores distintivos de una gran variedad de alimentos habituales
@@ -678,7 +678,7 @@
                     para el ganado. </p>
             </div>
             <div class="col s12 m12 l12 xl12">
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Propiedades</b></h5>
+                <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Propiedades</b></h2>
                 <ol style="margin-bottom:0px;">
                     <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-left:-15px;"><b>Baja
                             Toxicidad. -</b> La baja toxicidad del Propilenglicol USP/EP es única entre los glicoles y
@@ -771,8 +771,8 @@
                 </ol>
             </div>
             <div class="col s12 m12 l12 xl12">
-            <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px"><b>Industrias y
-                        Aplicaciones</b></h5>
+            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px"><b>Industrias y
+                        Aplicaciones</b></h2>
                 <ol style="margin-bottom:0px;">
                     <li class="Tipografia--general letranegro" style="list-style-type:disc">
                         <b>Farmacéutica:</b>
@@ -1143,17 +1143,17 @@
 
           <tr style="border:none;">
             <td>
-              <h5 class="Tipografia--general letranegro Titulos" style="margin-top:30px;margin-bottom:0px"><b>Portafolios de Productos</b></h5>
+              <h2 class="Tipografia--general letranegro Titulos" style="margin-top:30px;margin-bottom:0px"><b>Portafolios de Productos</b></h2>
             </td>
           </tr>
 
 
           <tr style="border:none;">
             <td>
-              <h5 class="Tipografia--general letranegro General--Cuerpo"><a
+              <h2 class="Tipografia--general letranegro General--Cuerpo"><a
                   href="PDF/CATALOGUES/CB_PRODUCT-PORTFOLIO_GLYCOLS_LYONDELLBASELL_270622.pdf"
                   class="arrowblue Tipografia--general letranegro" download
-                  style="margin-top:30px;color:rgba(2 146 238 /99%);">CB_PRODUCT-PORTFOLIO_GLYCOLS_LYONDELLBASELL_270622.pdf</li></a></h5>
+                  style="margin-top:30px;color:rgba(2 146 238 /99%);">CB_PRODUCT-PORTFOLIO_GLYCOLS_LYONDELLBASELL_270622.pdf</li></a></h2>
             </td>
           </tr>
         </table>

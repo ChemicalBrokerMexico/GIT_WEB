@@ -4,7 +4,7 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-<title>Chemical Broker | Glicoles</title>
+<title>Chemical Broker | Glicoles de la mas alta calidad de Lyondell Basell</title>
 <meta name="description" content="Los Glicoles son un tipo de compuesto químico orgánico que contiene dos grupos hidroxilos (grupos -OH) que resultan de la reacción del agua con el óxido de etileno.">
 <link rel="shortcut icon" href="img/CB_ICON.ico" />
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -398,7 +398,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
         <ul class="slides slides-pruea">
           <li> <img src="img/CB_GLYCOLS_NEWS_040823.jpg" alt="" style="height:400px;filter: brightness(0.9);">
             <div class="caption center-align"><br><br><br><br>
-              <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">Glicoles</b>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size: 26px;">Glicoles</b>
             </div>
           </li>
         </ul>
@@ -417,11 +417,11 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <div class="container">
     <div class="row" style="margin-bottom:0px;">
         <div class="col s12 m12 l12 xl12">
-        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Glicoles</b></h5>
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Glicoles</b></h2>
   <p class="Tipografia--general letranegro General--Cuerpo">Los Glicoles son un tipo de compuesto químico orgánico que contiene dos grupos hidroxilos (grupos -OH) que resultan de la reacción del agua con el óxido de etileno.
   Científicamente se denominan dioles (alcoholes bivalentes), que se desvían del etilenglicol (denominados 1,2-dioles, dioles vecinales o alcanos). Los derivados de etilenglicol cuyos grupos hidroxilos no están ordenados de forma vecinal se denominan glicoles. Los glicoles se encuentran con frecuencia en refrigerantes y anticongelantes, así como en productos de descongelación, ya que el punto de fusión de −10 a −15 °C (concentrado) está por debajo del punto de fusión del agua. En combinación con el agua (mezcla de glicol con agua), el punto de fusión es todavía muy inferior y, dependiendo de la proporción de la mezcla, puede alcanzar hasta los -55 °C.</p>
   <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Todos los glicoles se presentan en forma de líquido claro, transparente, inodoro y de baja volatilidad. Los glicoles de poco peso molecular son totalmente miscibles en agua y la mayoría cuentan con una gran capacidad para disolverse en casi todos los compuestos orgánicos.</p>
-    <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Información Técnica Glicoles</b></h5>
+    <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Información Técnica Glicoles</b></h2>
 
         <table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
 <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
@@ -480,7 +480,7 @@ Pub Chem:
 <div class="container">
     <div class="row">
         <div class="col s12 m12 l12 xl12">
-            <h5 class="Tipografia--general General--Cuerpo" style="margin-top:50px;"><b>Clasificacion</b></h5>
+            <h2 class="Tipografia--general General--Cuerpo" style="margin-top:50px;"><b>Clasificacion</b></h2>
             <p class="Tipografia--general General--Cuerpo" style="margin-bottom:50px;">El término <b>Glicol</b> alude a compuestos líquidos densos con sabor dulce y acre, teniendo en cuenta su composición, podemos clasificar los glicoles de menor a mayor complejidad.</p>
             <p class="Tipografia--general General--Cuerpo" style="margin-top:0px;">Los <b>Glicoles</b> se clasifican acorde a su complejidad de menor a mayor:</p>
             <ol>
@@ -501,7 +501,7 @@ Pub Chem:
 <div class="row">
 <div class="col s12 m12 l12 xl12">
 
-<h5 class="Tipografia--general General--Cuerpo" style="margin-top:0px;"><b>Tipos de Glicoles</b></h5>
+<h2 class="Tipografia--general General--Cuerpo" style="margin-top:0px;"><b>Tipos de Glicoles</b></h2>
             <ol>
                 <li class="Tipografia--general General--Cuerpo" style="list-style-type:disc;color:rgba(2 146 238 /99%);"><a href="Mono_Propilen_Glicol.php" class="arrowblue Tipografia--general letranegro" style="color:rgba(2 146 238 /99%);"><b>Mono Propilen Glicol</b></a></li>
                 <br>

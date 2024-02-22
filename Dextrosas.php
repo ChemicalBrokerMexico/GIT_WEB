@@ -553,7 +553,7 @@
         <li> <img src="img/CB_DEXTROSAS_130323.jpg" alt="" class="Antioxidantes_Banner"
             style="height:200px;">
           <div class="caption center-align"><br><br><br><br>
-            <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo"
+            <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo"
               style="font-size: 26px;">Dextrosa</b>
           </div>
         </li>
@@ -579,7 +579,7 @@
   <div class="container">
     <div class="row">
       <div class="col s12 m12 l12 xl12">
-      <h5 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Dextrosa</b></h5>
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Dextrosa</b></h2>
 
       <p class="Tipografia--general letranegro General--Cuerpo">Los azúcares son una fuente importante de energía, esencial para que nuestro cuerpo y cerebro funcionen de manera óptima. La dextrosa es un azúcar que se encuentra ampliamente en la naturaleza, por ejemplo, en la miel y muchas frutas. Como componente de la celulosa, el almidón y el glucógeno, se encuentra en todas las plantas y animales y también se conoce como "azúcar de uva" o "azúcar en la sangre".</p>
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La Dextrosa, que se deriva del almidón de maíz, se ha convertido en un ingrediente vital en una amplia gama de aplicaciones de alimentos y bebidas, gracias a sus propiedades funcionales, sensoriales y nutricionales. Usada a menudo en combinación con azúcar u otros edulcorantes, acorta la percepción del dulzor y realza los sabores originales de alimentos y bebidas.</p>
@@ -632,15 +632,15 @@
       <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Propiedades nutricionales</b></h5>
       <p class="Tipografia--general letranegro General--Cuerpo">La dextrosa, al igual que la sacarosa y otros edulcorantes calóricos completos, tiene un valor calórico de 4 Kcal/g, lo que produce una respuesta glucémica rápida. Proporciona una fuente inmediata de energía para los órganos, los músculos y el cerebro.</p>
 
-      <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Propiedades edulcorantes</b></h5>
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Propiedades edulcorantes</b></h2>
       <p class="Tipografia--general letranegro General--Cuerpo">Con una dulzura relativa que oscila entre 70 y 80 frente a la sacarosa es uno de los edulcorantes a base de almidón más dulces.</p>
 
-      <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Propiedades funcionales</b></h5>
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Propiedades funcionales</b></h2>
       <p class="Tipografia--general letranegro General--Cuerpo">La dextrosa es uno de los edulcorantes más versátiles y se usa para reducir el punto de congelación en helados, dorar pan y galletas, mejorar el sabor en bebidas con leche chocolatada, dispersabilidad en mezclas en polvo y optimizar la textura, entre otros.</p>
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Chemical Broker ofrece Dextrosa Anhidra y Monohidratada, disponibles en una variedad de distribuciones de tamaño de partícula y granulometría para brindar facilidad y estabilidad de mezcla, para satisfacer sus necesidades. Además de grado alimenticio, </p>
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Chemical Broker también ofrece Dextrosa Monohidratada Grado Farmacéutico y para piensos.</p>
 
-      <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Características:</b></h5>
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Características:</b></h2>
       <ol>
         <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;">Dulzura relativa de 70-80 versus sacarosa</li>
         <br>
@@ -657,21 +657,21 @@
         <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;">Bajo peso molecular</li>
       </ol>
 
-      <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Proceso de Producción</b></h5>
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Proceso de Producción</b></h2>
       <p class="Tipografia--general letranegro General--Cuerpo">Dextrosa es sinónimo de D-glucosa y se refiere al monosacárido cristalino puro obtenido tras una hidrólisis total del almidón de maíz. Existe en 2 formas, monohidrato de dextrosa que contiene una molécula de agua cristalina en contraste con la dextrosa anhidra, que no contiene nada. Ambas formas están disponibles como un polvo cristalino blanco de alta pureza.</p>
 
-      <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Etiquetado y Legislación</b></h5>
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Etiquetado y Legislación</b></h2>
       <p class="Tipografia--general letranegro General--Cuerpo">La dextrosa está regulada por la Directiva CE 2001/111/CE relativa a determinados azúcares destinados al consumo humano.</p>
       <p class="Tipografia--general letranegro General--Cuerpo">Recomendamos incluir 'monohidrato de dextrosa' y 'dextrosa anhidra' como "dextrosa" en la declaración de ingredientes en las etiquetas de alimentos y bebidas terminados.</p>
 
-      <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Certificaciones:</b></h5>
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Certificaciones:</b></h2>
       <ol>
         <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;">Kosher</li>
         <br>
         <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;">Halal</li>
       </ol>
 
-      <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Aplicaciones:</b></h5>
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Aplicaciones:</b></h2>
       <ol>
       <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;">Fuente de carbono en los procesos de fermentación</li>
       <br>
@@ -688,12 +688,12 @@
       <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;">Agente reductor en procesos de tratamiento de metales</li>
       </ol>
 
-      <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Presentación:</b></h5>
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Presentación:</b></h2>
       <ol>
         <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;">Saco de Papel Kraft de 25 Kg.</li>
       </ol>
 
-      <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Productos:</b></h5>
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Productos:</b></h5>
       <ol>
         <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type: disc;"><a href="Proximamente.php"
               style="color:rgba(2 146 238 /99%);list-style-type:disc;">Dextrosa Anhidra</a></li>

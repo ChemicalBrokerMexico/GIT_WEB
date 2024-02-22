@@ -4,9 +4,8 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Ácidos Grasos Destilados</title>
-  <meta name="description"
-    content="Los ácidos grasos se derivan de grasas y aceites animales como el sebo de res y de diversos aceites vegetales.">
+  <title>Chemical Broker | Ácidos Grasos Destilados de Peter Cremer</title>
+  <meta name="description" content="Conoces los Ácidos Grasos Destilados, en Chemical Broker contamos con los Acidos Grasos Destilados de Peter Cremer los cuales tienen una calidad mundial">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -555,7 +554,7 @@
       <ul class="slides slides-pruea">
         <li> <img src="img/CB_ACIDOS_DESTILADOS_191222.jpg" alt="" style="height:500px;filter: brightness(0.8);">
           <div class="caption center-align"><br><br><br><br>
-            <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo"
+            <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo"
               style="font-size: 26px;">Ácidos Grasos Destilados</b>
           </div>
         </li>
@@ -588,7 +587,7 @@
             <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Se obtienen mediante innovadores procesos enzimáticos de hidrólisis de los triglicéridos de los aceites, se refinan finalmente mediante un proceso de destilación. El proceso de transformación se lleva a cabo en unas condiciones suaves de operación, por lo que no se produce degradación de la materia prima ni se generan residuos peligrosos, obteniéndose un producto de gran calidad con múltiples aplicaciones en diferentes industrias.</p>
             <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Los ácidos grasos se pueden obtener a partir de la hidrólisis a alta presión (desdoblamiento de un triglicérido) y temperatura de grasas y aceites de origen animal y vegetal. Tras este proceso son destilados, y de esta manera se obtiene un producto con un tacto jabonoso y tono blanco.</p>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo No-Desktop">Base Aceite Coco</h5>
+<h2 class="Tipografia--general letranegro General--Cuerpo No-Desktop">Base Aceite Coco</h2>
 
 <table class="No-Desktop">
 <thead>
@@ -815,52 +814,7 @@
 </table>
 
 
-<!-- <h5 class="Tipografia--general letranegro General--Cuerpo">Saturados</h5>
 
-<table class="No-Desktop" style="margin-top:50px;">
-<thead>
-
-<tr>
-<td style="border:1px solid #f2f2f2;background-color:#f2f2f2;color:black;text-align:center;">Caracteristicas</td>
-<td style="border:1px solid #f2f2f2;background-color:#f2f2f2;color:black;text-align:center;">FA-C1218HD</td>
-
-</tr>
-</thead>
-<tbody>
-  <tr>
-  <td>Tipo de Acido Graso:</td>
-<td style="border:1px solid #f2f2f2;color:black;text-align:center;">Totalmente Hidrofraccionado Corte Superior</td>
-</tr>
-<tr>
-  <td>Indice de Saponificacion:</td>
-  <td>252 – 263</td>
-</tr>
-<tr>
-  <td>Indice de Acidez:</td>
-  <td>250 – 262</td>
-</tr>
-<tr>
-  <td>Indice de Yodo:</td>
-  <td>1.5 Max.</td>
-</tr>
-<tr>
-  <td>Indice de Humedad (%KF):</td>
-  <td>0.3</td>
-</tr>
-<tr>
-  <td>TITER (°C):</td>
-  <td>27 – 33</td>
-</tr>
-<tr>
-  <td>Color, Lovibond:</td>
-  <td>10.0 / 1.0 Max.</td>
-</tr>
-<tr>
-  <td>% Transmitancia en 440nm / 550 nm:</td>
-  <td>90 / 95 Min.</td>
-</tr>
-</tbody>
-</table> -->
             
 <!-- Tabla normal dekstop -->
 
@@ -1433,25 +1387,25 @@
                 <td style="border:1px solid #f2f2f2;color:black;background-color:#f2f2f2;" class="ocultar_mobile"></td>
             </tr>
             </table>
-            <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Funciones</b></h5>
+            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Funciones</b></h2>
             <ol style="margin-bottom:0px;">
               <li style="margin-left:-23px;list-style-type:disc;">
                 <h5 class="Tipografia--general letranegro General--Cuerpo">Emulsificante</h5>
               </li>
             </ol>
             
-            <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Aplicaciones | Industria</b></h5>
-            <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Tratamiento de Superficies:</b></h5>
+            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Aplicaciones | Industria</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Tratamiento de Superficies:</b></h2>
             <ol>
                 <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Los ácidos grasos se puede fundir y utilizar para tratamiento superficial de piezas y materiales. Con ello se evita su oxidación, apelmazamiento, adherencias o que cojan humedad. Se aplican en algunas formulaciones para reducir el punto de fusión de la mezcla y facilitar su procesamiento.</li>
                 <br>
                 <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Suministramos ácidos grasos destilados para formulación de pastas como emulgente. Estas pastas se utilizan para pulido, aislamiento o recubrimiento de superficies. Los ácidos grasos de sebo darán a la pasta un toque mas consistente al tener una composición de ácidos grasos C18 (esteárico, oleico y linolénico) en torno al 70%.</li>
             </ol>
-            <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Ceras:</b></h5>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Ceras:</b></h2>
             <ol>
                 <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Se usan en combinación con ceras y resinas para mejorar propiedades de protección de materias primas y productos finales. La parte “grasa” del ácido graso destilado repele el agua y genera una capa aislante sobre el producto.</li>
             </ol>
-            <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Detergentes:</b></h5>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Detergentes:</b></h2>
             <ol>
                 <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Geles</li>
                 <br>
@@ -1463,13 +1417,13 @@
                 <br>
                 <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Los ácidos grasos pueden también modificar las propiedades de tensión superficial, utilizándose en detergentes.</li>
             </ol>
-            <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Plastico:</b></h5>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Plastico:</b></h2>
             <ol>
                 <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Para producir plásticos que no requieran altas temperaturas de fabricación se pueden utilizar los ácidos grasos como aditivo. Favorecen la fluidez y lubricación en extrusoras y moldes.</li>
                 <br>
                 <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">La dosificación de lubricantes y aditivos en los procesos de fabricación disminuye el coste energético en motores y resistencias calefactoras, incrementa la productividad y resulta en mejoras de las propiedades finales del producto.</li>
             </ol>
-            <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Fitosanitarios:</b></h5>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Fitosanitarios:</b></h2>
             <ol>
                 <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Como repelente de roedores y otros animales que pueden afectar a las cosechas y plantas.</li>
                 <br>
@@ -1477,15 +1431,15 @@
                 <br>
                 <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Desinfectantes e insecticidas</li>
             </ol>
-            <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Agroquimicos:</b></h5>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Agroquimicos:</b></h2>
             <ol>
                 <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Por sus propiedades repelentes del agua, lo que evita se adhieran gotas en las hojas de las plantas, quemándose cuando brilla el sol.</li>
             </ol>
-            <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Mineria:</b></h5>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Mineria:</b></h2>
             <ol>
                 <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Procesos de flotacion</li>
             </ol>
-            <h5 class="Tipografia--general letranegro Titulos" style="display:inline-block;margin-top:50px;margin-bottom:0px;"><b>Proveedor:</b></h5>
+            <h2 class="Tipografia--general letranegro Titulos" style="display:inline-block;margin-top:50px;margin-bottom:0px;"><b>Proveedor:</b></h5>
 
             <table style="margin-top:50px;">
           <tr style="border:none;">
@@ -1502,14 +1456,14 @@
             <td>
    
           
-            <h5 style="margin-top:20px;margin-bottom:0px;"><a href="PDF/CATALOGUES/CREMER_PS_DISTILLED-COCONUT-FATTY-ACIDS_051113.pdf"
+            <h2 style="margin-top:20px;margin-bottom:0px;"><a href="PDF/CATALOGUES/CREMER_PS_DISTILLED-COCONUT-FATTY-ACIDS_051113.pdf"
               class="arrowblue Tipografia--general Botones letranegro" download
-              style="margin-top: 20px;color:rgba(2 146 238 /99%);">CREMER_PS_DISTILLED-COCONUT-FATTY-ACIDS.pdf &nbsp</a></h5>
+              style="margin-top: 20px;color:rgba(2 146 238 /99%);">CREMER_PS_DISTILLED-COCONUT-FATTY-ACIDS.pdf &nbsp</a></h2>
           
         
-              <h5 style="margin-top:20px;margin-bottom:0px;"><a href="PDF/CATALOGUES/CREMER_PS_WHOLE-CUT-SPLIT-DISTILLED-FATTY-ACIDS_051113.pdf"
+              <h2 style="margin-top:20px;margin-bottom:0px;"><a href="PDF/CATALOGUES/CREMER_PS_WHOLE-CUT-SPLIT-DISTILLED-FATTY-ACIDS_051113.pdf"
               class="arrowblue Tipografia--general Botones letranegro" download
-              style="margin-top: 30px;color:rgba(2 146 238 /99%);">CREMER_PS_WHOLE-CUT-SPLIT-DISTILLED-FATTY-ACIDS_051113.pdf &nbsp</a></h5>
+              style="margin-top: 30px;color:rgba(2 146 238 /99%);">CREMER_PS_WHOLE-CUT-SPLIT-DISTILLED-FATTY-ACIDS_051113.pdf &nbsp</a></h2>
   
             </td>
           </tr>

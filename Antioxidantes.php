@@ -553,7 +553,7 @@
         <li> <img src="img/ANTIOXIDANTES_020823.jpg" alt="" class="Antioxidantes_Banner"
             style="height:800px;">
           <div class="caption center-align"><br><br><br><br>
-            <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo"
+            <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo"
               style="font-size: 26px;">Antioxidantes</b>
           </div>
         </li>
@@ -579,7 +579,7 @@
   <div class="container">
     <div class="row">
       <div class="col s12 m12 l12 xl12">
-        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Antioxidantes</b></h5>
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Antioxidantes</b></h2>
 
         <p class="Tipografia--general letranegro General--Cuerpo">Los <b>Antioxidantes</b> son moléculas capaces de
           retardar o prevenir la oxidación de otras moléculas y alargar la vida útil de los productos. La oxidación
@@ -598,13 +598,13 @@
           veterinaria y cosmética debido a que logran que los productos conserven sus propiedades y sus niveles de calidad.
         </p>
 
-        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Tipos de Antioxidantes</b></h5>
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Tipos de Antioxidantes</b></h2>
 
         <p class="Tipografia--general letranegro General--Cuerpo">Los Antioxidantes se clasifican en dos tipos;
           Naturales son obtenidos íntegramente de fuentes naturales y los Antioxidantes sintéticos creados a partir de
           procesos químicos.</p>
 
-        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Antioxidantes sintéticos</b></h5>
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Antioxidantes sintéticos</b></h2>
 
         <ol>
           <li style="list-style-type:disc;margin-left:-23px;"><a href="BHA.php"

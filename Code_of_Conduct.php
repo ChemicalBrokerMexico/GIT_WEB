@@ -3,8 +3,8 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
-    <meta name="description" content="El Código Global de Ética refleja nuestra filosofía corporativa, definiendo nuestros valores básicos y los estándares de conducta que se esperan de los integrantes de Chemical Broker, interna y externamente, El Código Global de Ética establece los principios para el trato justo y respetuoso de nuestros colaboradores y socios de negocios.">
-    <title>Chemical Broker | Codigo de Conducta</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <meta name="description" content="Nuestro Código Global de Ética refleja nuestra filosofía corporativa, definiendo nuestros valores básicos y los estándares de conducta que se esperan de los integrantes de Chemical Broker.">
+    <title>Chemical Broker | Nuestro Codigo de Conducta</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen"/>
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen"/>
@@ -387,7 +387,7 @@
         <ul class="slides slides-pruea">
           <li style="background:cover !important;"><img src="img/CB_RULES_080223.jpg" style="height:434px;background: cover !important;" alt="Codigo de Conducta"/>
             <div class="caption center-align"><br/><br/><br/><br/>
-              <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br/></h3><b class="seguntitulo" style="font-size:26px">Codigo de Conducta</b>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br/></h1><b class="seguntitulo" style="font-size:26px">Codigo de Conducta</b>
             </div>
           </li>
         </ul>
@@ -405,17 +405,17 @@
         <div class="col s12 m12 l12 xl12">
           <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">El Código Global de Ética refleja nuestra filosofía corporativa, definiendo nuestros valores básicos y los estándares de conducta que se esperan de los integrantes de&nbsp<b style="color:#262137">Chemical Broker</b>, interna y externamente, <b style="color:#262137">El Código Global de Ética</b> establece los principios para el trato justo y respetuoso de nuestros colaboradores y socios de negocios.
           </p>
-          <h5 class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px"><b style="color:#262137;border-bottom:1.5px solid #b12729">Compromiso de Responsabilidad Corporativa de Chemical Broker</b></h5>
+          <h2 class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px"><b style="color:#262137;border-bottom:1.5px solid #b12729">Compromiso de Responsabilidad Corporativa de Chemical Broker</b></h2>
           <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;text-align:justify"><b style="color:#262137">Chemical Broker&nbsp</b>combino el éxito económico y la responsabilidad social, con la protección del medio ambiente. Y esto lo llevamos a cabo como una Organización. Por tanto, nuestra normativa de responsabilidad corporativa es fundamentalmente la misma a nivel nacional e internacional y está basada en un Código de Conducta. 
           </p>
           <p class="letranegro Tipogradia--general General--Cuerpo" style="margin-top:50px;text-align:justify">Para tener éxito en lo que hacemos y para poner en práctica nuestra estrategia &nbsp<b style="color:#262137">“Nuestra excelencia, está en nuestro Servicio”</b>, es vital que todos y cada uno de los integrantes del equipo de <b style="color:#262137">Chemical Broker&nbsp</b>conozcan y apliquen nuestros valores: Excelencia, Servicio, Compromiso y Ética Empresarial. 
           </p>
-          <h5 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px"><b style="color:#262137;border-bottom:1.5px solid #b12729">Nuestro valor "Compromiso" refleja nuestra adhesión completa al compromiso de responsabilidad corporativa</b></h5>
-          <h6 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px">¿Qué quiere decir esto?</h6>
+          <h2 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px"><b style="color:#262137;border-bottom:1.5px solid #b12729">Nuestro valor "Compromiso" refleja nuestra adhesión completa al compromiso de responsabilidad corporativa</b></h2>
+          <h2 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px">¿Qué quiere decir esto?</h2>
           <p class="Tipografia--general General--Cuerpo letranegro" style="text-align:justify">No hay nada más importante que nuestra integridad tanto empresarial como individual&nbsp<b style="color:#262137">Chemical Broker </b>está estrictamente comprometido con el riguroso cumplimiento de la ley, así como con una ética empresarial, y espera que todos los empleados se adhieran a dichas normas. Dicho compromiso debe desarrollarse plenamente en la organización, dado que cada uno de los individuos actúa como embajador de la empresa. Para nosotros, es de vital importancia que su comportamiento sea conforme a nuestras normas; estas no se pueden ver comprometidas. 
           </p>
           <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;text-align:justify">Estamos convencidos de que nuestro sistema de cumplimiento, que ha estado mejorando de forma continua se viene desarrollando desde su introducción, ha demostrado ser eficaz. No obstante, su cumplimiento siempre constituirá un reto y debemos fomentar y seguir desarrollando de forma permanente nuestra cultura de cumplimiento en función de nuestros valores.</p>
-          <h6 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px">Por tanto, esperamos que asuma la responsabilidad personal de cumplir con todas:</h6>
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px">Por tanto, esperamos que asuma la responsabilidad personal de cumplir con todas:</h2>
           <ul class="Tipografia--general letranegro Elemetos--Listas">
             <li class="Elementos--Listas">• Las leyes aplicables,</li>
             <li>• Los estándares internacionales básicos,</li>
@@ -427,7 +427,7 @@
           </p>
           <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px"><b style="color:#262137;text-align:justify">Chemical Broker </b>tiene el compromiso de proporcionarle toda la información y la asistencia que precisa para cumplir con estas obligaciones. En caso de duda, solo tiene que preguntar.
           </p>
-          <h6 class="General--Cuerpo letranegro Tipografia--general" style="margin-top:50px"><b style="color:#262137;border-bottom:1.5px solid #b12729">Gracias por su compromiso.</b></h6>
+          <h2 class="General--Cuerpo letranegro Tipografia--general" style="margin-top:50px"><b style="color:#262137;border-bottom:1.5px solid #b12729">Gracias por su compromiso.</b></h2>
           <p class="Tipografia--general General--Cuerpo letranegro">Nuestro Código Global de Ética se encuentra disponible en archivo PDF, en Español.</p>
         </div>
       </div>

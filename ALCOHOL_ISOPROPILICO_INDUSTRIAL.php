@@ -641,7 +641,7 @@
                 <li> <img src="img/CB_ALCOHOL_ISOPROPILICO_INDUSTRIAL.jpg"
                         style="filter:brightness(0.9);margin-top:-34px;height:460px;">
                     <div class="caption center-align"><br><br><br><br>
-                        <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b
+                        <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b
                             class="segundotitulo" style="font-size: 26px;">Alcohol Isopropilico Grado Industrial</b>
                     </div>
                 </li>
@@ -668,7 +668,7 @@
             <div class="row">
                 <div class="col s12 m12 l12 xl12">
                     <p class="Tipografia--general letranegro General--Cuerpo">El Alcohol Isopropílico Grado Industrial o Técnico es una forma de isopropanol que se utiliza en aplicaciones industriales y técnicas, pero que no cumple con los estándares de pureza requeridos para ciertas aplicaciones mas especializadas, como en la industria farmacéutica o de alimentos. </p>
-                    <h5 class="Tipografia--general letranegro Titulos"><b>Aplicaciones</b></h5>
+                    <h2 class="Tipografia--general letranegro Titulos"><b>Aplicaciones</b></h2>
                     <ol>
                         <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Electronica</li>
                         <ol>
@@ -731,11 +731,11 @@
                             <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;margin-top:20px;">Puede utilizarse para limpiar y eliminar residuos de insecticidas en superficies.</li>
                         </ol>
                     </ol>
-                    <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Fabricante</b></h5>
+                    <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Fabricante</b></h2>
 
                     <img src="img/LYONDELLBASELL-LOGO_V2.png" alt="" width="30%" style="margin-top:30px;">
 
-                    <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Literatura Técnica</b></h5>
+                    <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Literatura Técnica</b></h2>
 
 
                     <ol>

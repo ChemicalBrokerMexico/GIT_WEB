@@ -3,7 +3,7 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
+    <meta name="description" content="Conoce nuestra Politica de Calidad, la cual establece nuestros compromisos y objetivos a cumplir con nuestros Socios de Negocios .">
     <title>Chemical Broker | Política de Calidad</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
 
@@ -382,7 +382,7 @@
         <ul class="slides slides-pruea">
           <li> <img src="img/CB_QUALITY_090223.jpg" alt="" style="height:400px;filter:brightness(0.9)">
             <div class="caption center-align"><br><br><br><br>
-              <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">Política de Calidad</b>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size: 26px;">Política de Calidad</b>
             </div>
           </li>
         </ul>
@@ -399,9 +399,9 @@
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
-                <h5 class="Tipografia--general Titulos top--lecitinas center-align"><b style="color:#000020;font-size:22px;">Política de Calidad</b></h5>
+                <h2 class="Tipografia--general Titulos top--lecitinas center-align"><b style="color:#000020;font-size:22px;">Política de Calidad</b></h2>
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Para <b style="color:#000020;font-size:16px">Camacho & Elizondo S.A de C.V.</b> nuestro compromiso es lograr la satisfacción de las necesidades de nuestros socios de negocios y su desarrollo a través de la comercialización de ingredientes químicos, para las industrias: Farmacéutica, Nutrición Humana, Veterinaria, Nutrición Animal, Cosmética, Cuidado Personal, Agroquímicos, Detergentes, Cuidado del Hogar e Industria Química en general, para cumplir con el marco regulatorio, normas y políticas aplicables, con el principal objetivo de lograr la mejora continua de nuestros procesos y nuestro Sistema de Gestión Integral.</p>
-                <h5 class="Tipografia--general Titulos top--lecitinas center-align"><b style="color:#000020;font-size:22px;">Objetivos de Calidad</b></h5>
+                <h2 class="Tipografia--general Titulos top--lecitinas center-align"><b style="color:#000020;font-size:22px;">Objetivos de Calidad</b></h2>
                 <ol style="list-style-type: disc;margin-top:50px;margin-bottom:0px;">
                     <li class="Tipografia--general letranegro" style="list-style-type:disc;">Mantener la satisfacción del Cliente.</li>
                     <li class="Tipografia--general letranegro" style="list-style-type:disc;">Mantener la rentabilidad del negocio.</li>

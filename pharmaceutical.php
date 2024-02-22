@@ -4,8 +4,8 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0" />
-  <title>Chemical Broker | Farmacéutica</title>
-  <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos.">
+  <title>Chemical Broker | Mercado Farmacéutico</title>
+  <meta name="description" content="Calidad en cada ingrediente; en Chemical Broker contamos con un amplio portafolio de ingredientes farmaceuticos los cuales cumplen con las mejores certificaciones a nivel global con el objetivo de brindar la mayor calida a nuestros socios de negocios.">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
   <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen" />
@@ -538,7 +538,7 @@ recaptchaResponse.value = token;
       <ul class="slides slides-pruea">
         <li> <img class="bannerimage" src="img/FARMACEUTICA_CB.jpg" alt="" />
           <div class="caption center-align"><br /><br /><br /><br />
-            <h3 class="primertitulo"><b class="boldbanner">Chemical Broker</b><br /></h3><b class="segundotitulo"
+            <h1 class="primertitulo"><b class="boldbanner">Chemical Broker</b><br /></h1><b class="segundotitulo"
               style="font-size:26px">Farmacéutica </b>
           </div>
         </li>
@@ -562,20 +562,21 @@ recaptchaResponse.value = token;
   <div class="container">
     <div class="row">
       <div class="col s12 m12 l12 xl12">
-        <center><h1 class="Tipografia--general" style="color:#2279dfa4;font-size:30px"><b>Preservar tu Salud es lo más Importante</b></h1></center>
+        <center><h2 class="Tipografia--general" style="color:#2279dfa4;font-size:30px"><b>“Calidad en cada ingrediente; Nuestro compromiso con la excelencia farmacéutica”</b></h2></center>
         <p class="Tipografia--general General--Cuerpo" style="color:#262137;margin-top:50px;margin-bottom:0px;">La Industria <b style="color:#000020;">Farmacéutica</b> provee al mundo
           soluciones que permiten preservar la salud humana y mejorar su calidad de vida.</p>
         <p class="Tipografia--general General--Cuerpo" style="color:#262137;margin-top:50px;margin-bottom:0px;"><b style="color:#000020;">Chemical Broker</b> ofrece un amplio
           portafolios de Excipientes en cumplimiento y certificación con las Farmacopeas Internacionales y Buenas
           Prácticas de Manufactura ICH-Q7.</p>
-        <h6 class="Tipografia--general Titulos" style="color:#262137;margin-top:50px"><b>Excipientes</b></h6>
+        <h2 class="Tipografia--general Titulos" style="color:#262137;margin-top:50px"><b>Excipientes</b></h2>
         <p class="Tipografia--general General--Cuerpo" style="color:#262137;margin-bottom:0px;">En la fabricación de medicamentos para
           una mejor calidad de vida, los Excipientes, son las sustancias responsables de que los Activos cumplan con su
           cometido al ser mezclados entre sí y pueden constituir el 90% de la composición total de un medicamento:</p>
-        <h5 class="Tipografia--general center-align" style="color:#262137;margin-top: 50px;margin-bottom:0px;"><b style="font-size:30px;margin-top: 30px;color:#2279dfa4;">Los excipientes
+        <h2 class="Tipografia--general center-align" style="color:#262137;margin-top: 50px;margin-bottom:0px;font-size:30px"><b style="font-size:30px;margin-top: 30px;color:#2279dfa4;">Los excipientes
             funcionan como vehículo para darle cuerpo, textura, forma y conservación al principio activo, facilitando su
-            ingesta y regulando su actividad en el organismo.</b></h5>
-        <h5 class="Tipografia--general Titulos" style="color:#262137;margin-top:50px"><b>Funciones</b>
+            ingesta y regulando su actividad en el organismo.</b></h2>
+
+        <h2 class="Tipografia--general Titulos" style="color:#262137;margin-top:50px"><b>Funciones</b></h2>
           <ol>
             <li class="Tipografia--general Elementos--Listas General--Cuerpo"
               style="color:#262137;margin-top:30px;list-style-type: disc;">Aumentan el valor de la fórmula, pues las
@@ -592,19 +593,20 @@ recaptchaResponse.value = token;
               style="color:#262137;margin-top:30px;list-style-type: disc;">Mejoran la biodisponibilidad; es decir la
               cantidad de fármaco que llega al torrente sanguíneo.</li>
           </ol>
-        </h5>
         </p>
         </p>
       </div>
     </div>
   </div>
+
+
   <div class="container">
     <div class="row center-align">
       <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Spray_Nasal.php" style="cursor:pointer;">
           <div class="contenedor">
             <div class="transfo" id="overlay" style="border-radius:0px"></div>
             <div class="centrado_sub" style="position:absolute;z-index:2">
-              <h5 class="titulo_submercado"></h5><b class="titulo_submercado"> <span
+              <h2 class="titulo_submercado"></h2><b class="titulo_submercado"> <span
                   style="position:relative;z-index:2">Sprays Nasales </span></b><b> </b>
               <hr class="animacion" />
               <p> <b style="color:white !important">
@@ -613,15 +615,15 @@ recaptchaResponse.value = token;
             </div><img class="mercadosimagen" src="img/SPRAY_NASAL.jpeg" alt=""  />
           
           </div>
-          <div class="container" style="background-color:#000020;border-radius:15px;padding:5px;margin-top:-30px;width:100%;">
+          <!-- <div class="container" style="background-color:#000020;border-radius:15px;padding:5px;margin-top:-30px;width:100%;">
                 <p class="Tipografia--general letranegro General--Cuerpo center-align" style="color:white;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam excepturi possimus ab a debitis, ad iure nam deserunt eligendi quod aspernatur magni in hic, minima eos fuga, esse illum voluptatem. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Harum beatae, molestiae ab, in quam quibusdam, nam inventore iusto fugit architecto quaerat quos dolor laboriosam excepturi dicta. Minima necessitatibus consectetur possimus?</p>
-            </div>
+            </div> -->
         </a></div>
       <div class="col s12 m12 l6 xl6 mercados zoom "><a href="Proximamente.php" style="cursor:pointer;">
           <div class="contenedor">
             <div class="transfo" id="overlay" style="border-radius:10px"></div>
             <div class="centrado_sub " style="position:absolute;z-index:2">
-              <h5 class="titulo_submercado"></h5><b class="titulo_submercado"> <span
+              <h2 class="titulo_submercado"></h2><b class="titulo_submercado"> <span
                   style="position:relative;z-index:2">Jarabes </span></b><b> </b>
               <hr class="animacion" />
               <p> <b style="color:white !important">
@@ -634,7 +636,7 @@ recaptchaResponse.value = token;
           <div class="contenedor">
             <div class="transfo" id="overlay" style="border-radius:10px"></div>
             <div class="centrado_sub" style="position:absolute;z-index:2">
-              <h5 class="titulo_submercado"></h5><b class="titulo_submercado"> <span
+              <h2 class="titulo_submercado"></h2><b class="titulo_submercado"> <span
                   style="position:relative;z-index:2">Pomadas </span><br />y<br />Ungüentos</b><b> </b>
               <hr class="animacion" />
               <p> <b style="color:white !important">
@@ -647,7 +649,7 @@ recaptchaResponse.value = token;
           <div class="contenedor">
             <div class="transfo" id="overlay" style="border-radius:10px"></div>
             <div class="centrado_sub" style="position:absolute;z-index:2">
-              <h5 class="titulo_submercado"></h5><b class="titulo_submercado"> <span
+              <h2 class="titulo_submercado"></h2><b class="titulo_submercado"> <span
                   style="position:relative;z-index:2">Tabletas Duras </span></b><b> </b>
               <hr class="animacion" />
               <p> <b style="color:white !important">
@@ -660,7 +662,7 @@ recaptchaResponse.value = token;
           <div class="contenedor">
             <div class="transfo" id="overlay" style="border-radius:10px"></div>
             <div class="centrado_sub" style="position:absolute;z-index:2">
-              <h5 class="titulo_submercado"></h5><b class="titulo_submercado"> <span
+              <h2 class="titulo_submercado"></h2><b class="titulo_submercado"> <span
                   style="position:relative;z-index:2">Tabletas Blandas </span></b><b> </b>
               <hr class="animacion" />
               <p> <b style="color:white !important">
@@ -674,7 +676,7 @@ recaptchaResponse.value = token;
           <div class="contenedor">
             <div class="transfo" id="overlay" style="border-radius:10px"></div>
             <div class="centrado_sub" style="position:absolute;z-index:2">
-              <h5 class="titulo_submercado"></h5><b class="titulo_submercado"> <span
+              <h2 class="titulo_submercado"></h2><b class="titulo_submercado"> <span
                   style="position:relative;z-index:2">Supositorios </span></b><b> </b>
               <hr class="animacion" />
               <p> <b style="color:white !important">
@@ -687,7 +689,7 @@ recaptchaResponse.value = token;
           <div class="contenedor">
             <div class="transfo" id="overlay" style="border-radius:10px"></div>
             <div class="centrado_sub" style="position:absolute;z-index:2">
-              <h5 class="titulo_submercado"></h5><b class="titulo_submercado"> <span
+              <h2 class="titulo_submercado"></h2><b class="titulo_submercado"> <span
                   style="position:relative;z-index:2">Inyectables </span></b><b> </b>
               <hr class="animacion" />
               <p> <b style="color:white !important">
@@ -700,7 +702,7 @@ recaptchaResponse.value = token;
           <div class="contenedor">
             <div class="transfo" id="overlay" style="border-radius:10px"></div>
             <div class="centrado_sub" style="position:absolute;z-index:2">
-              <h5 class="titulo_submercado"></h5><b class="titulo_submercado"> <span
+              <h2 class="titulo_submercado"></h2><b class="titulo_submercado"> <span
                   style="position:relative;z-index:2">Suplementos Alimenticios</span></b><b> </b>
               <hr class="animacion" />
               <p> <b style="color:white !important">

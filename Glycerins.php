@@ -552,7 +552,7 @@
       <ul class="slides slides-pruea">
         <li> <img src="img/CB_GLICERINAS_030823.jpg" alt="" class="Glycerin_Banner" style="height:800px;filter:brightness(0.9);">
           <div class="caption center-align"><br><br><br><br>
-            <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo"
+            <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo"
               style="font-size: 26px;">Glicerinas</b>
           </div>
         </li>
@@ -578,7 +578,7 @@
   <div class="container">
     <div class="row">
       <div class="col s12 m12 l12 xl12">
-        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Glicerinas</b></h5>
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Glicerinas</b></h2>
 
         <p class="Tipografia--general letranegro General--Cuerpo"><b>Chemical Broker</b> distribuye mundialmente
           Glicerina de la más alta Pureza y Calidad para las formulaciones de nuestros clientes.</p>
@@ -621,7 +621,7 @@
           sucesión de reacciones químicas, que forma parte de la respiración celular en todas las células aeróbicas.
         </blockquote>
 
-        <h5 class="Tipografia--general letranegro General--Cuerpo Titulos" style="margin-top:50px;"><b>Información Técnica Glicerina</b></h5>
+        <h2 class="Tipografia--general letranegro General--Cuerpo Titulos" style="margin-top:50px;"><b>Información Técnica Glicerina</b></h2>
 
         <table class="display" id="table_id2" name="table_id2"
           style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
@@ -781,8 +781,8 @@
           con muchas otras sustancias y su facilidad de procesamiento, la glicerina se utiliza en muchas áreas.</p>
       </div>
       <div class="col s12 m12 l12 xl12">
-      <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Presencia en Ácidos Grasos</b>
-        </h5>
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Presencia en Ácidos Grasos</b>
+        </h2>
 
         <ol style="list-style-type: disc;margin-bottom:0px">
 
@@ -805,14 +805,14 @@
         
       </div>
       <div class="col s12 m12 l12 xl12">
-      <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Presencia en células</b></h5>
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Presencia en células</b></h2>
         <ol style="list-style-type:disc;margin-bottom:0px;">
           <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">El glicerol combinado también está presente en
             todas las células animales y vegetales como parte de su membrana celular en forma de fosfolípidos.</li>
         </ol>
       </div>
       <div class="col s12 m12 l12 xl12">
-      <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Tipos de glicerinas</b></h5>
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Tipos de glicerinas</b></h2>
         <ol style="list-style-type:disc;margin-bottom:0px;">
           <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Glicerina Líquida:</b> Su función principal es
             la de
@@ -839,7 +839,7 @@
         </ol>
       </div>
       <div class="col s12 m12 l12 xl12">
-      <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Origen</b></h5>
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Origen</b></h2>
 
         <p class="Tipografia--general letranegro General--Cuerpo">Todo el glicerol producido en el mundo hasta 1949,
           provenía de la industria del jabón. Actualmente, el mayor productor de glicerol en bruto es Indonesia,3 y
@@ -861,7 +861,7 @@
 
       </div>
       <div class="col s12 m12 l12 xl12">
-     <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Propiedades</b></h5>
+     <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Propiedades</b></h2>
 
         <ol style="list-style-type: disc;margin-bottom:0px">
           <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Agente Humectante.- </b> Tensoactivo que,
@@ -940,8 +940,8 @@
 
       </div>
       <div class="col s12 m12 l12 xl12">
-      <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Industrias y Funciones</b>
-        </h5>
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Industrias y Funciones</b>
+        </h2>
         <ol style="list-style-type:disc;" class="margin60_escritorio margin_movil">
           <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Farmacéutica:</b></li>
           <ol style="list-style-type: disc;margin-top:15px;">
@@ -1017,8 +1017,8 @@
         </ol>
       </div>
       <div class="col s12 m12 l12 xl12">
-      <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Aplicaciones e Industrias</b>
-        </h5>
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Aplicaciones e Industrias</b>
+        </h2>
         <ol style="list-style-type:disc;" class="margin60_escritorio margin_movil">
           <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Farmacéutica:</b></li>
           <ol style="list-style-type: disc;margin-top:15px;">
@@ -1218,7 +1218,7 @@
         </ol>
       </div>
       <div class="col s12 m12 l12 xl12">
-      <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;"><b>Proveedores:</b></h5>
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;"><b>Proveedores:</b></h2>
       </div>
 
       <!-- <table style="margin-top:30px;">
@@ -1269,7 +1269,7 @@
           style="margin-top:30px;">
       </div>
       <div class="col s12 m12 l12 xl12">
-      <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Portafolio de Productos:</b></h5>
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Portafolio de Productos:</b></h2>
         <a href="PDF/CATALOGUES/OLEON_OLEOCHEMICALS-BROCHURE_2022.pdf"
           class="arrowblue Tipografia--general Botones letranegro" download
           style="margin-top: 30px;color:rgba(2 146 238 /99%)">OLEON_OLEOCHEMICALS-BROCHURE_2022.pdf &nbsp<span
@@ -1279,7 +1279,7 @@
       <div class="col s12 l12 xl12"><img src="img/LOGO_CREMER3_010922.png" alt="CREMER-LOGO" class="CREMER_LOGO"
           style="margin-top:80px;"></div>
       <div class="col s12 m12 l12 xl12" style="margin-top:50px;">
-        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:0px;"><b>Portafolio de Productos:</b></h5>
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:0px;"><b>Portafolio de Productos:</b></h2>
         <a href="PDF/CATALOGUES/CREMER_OLEOCHEMICALS-BROCHURE_2022.pdf"
           class="arrowblue Tipografia--general Botones letranegro" download
           style="margin-top: 30px;color:rgba(2 146 238 /99%)">CREMER_OLEOCHEMICALS-BROCHURE_2022.pdf &nbsp<span
@@ -1289,7 +1289,7 @@
       <div class="col s12 l12 xl12"><img src="img/P&G-CHEMICALS_LOGO_010922.png" alt="P&G-LOGO" class="PG_LOGO"
           style="margin-top:80px;"></div>
           <div class="col s12 m12 l12 xl12" style="margin-top:50px;">
-        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:0px;"><b>Portafolio de Productos:</b></h5>
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:0px;"><b>Portafolio de Productos:</b></h2>
         <a href="PDF/CATALOGUES/P&GC_GLYCEROLS-BRAND-MATRIX_2022.pdf"
           class="arrowblue Tipografia--general Botones letranegro" download
           style="margin-top: 30px;color:rgba(2 146 238 /99%)">P&GC_GLYCEROLS-BRAND-MATRIX_2022.pdf&nbsp<span

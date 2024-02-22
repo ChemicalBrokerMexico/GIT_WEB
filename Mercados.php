@@ -3,7 +3,7 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Mercados</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <title>Chemical Broker | Mercados Atendidos a Nivel Global</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="Chemical Broker atiende globalmente a sus clientes con la venta de ingredientes químicos catalogados como especialidades y commodities">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
@@ -387,7 +387,7 @@
         <ul class="slides slides-pruea">
           <li> <img src="img/CB_MARKETS_200422.jpg" style="height:650px;filter:brightness(0.9)">
             <div class="caption center-align"><br><br><br><br>
-              <h3 class="primertitulo"><b class="boldbanner">Chemical Broker</b><br></h3><b class="segundotitulo" style="font-size:26px">Mercados </b>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker</b><br></h1><b class="segundotitulo" style="font-size:26px">Mercados </b>
             </div>
           </li>
         </ul>
@@ -443,11 +443,11 @@
               <div class="contenedor">
                 <div class="transfo" id="overlayveteri" style="border-radius:10px"></div>
                 <div class="centrado_sub" style="position:absolute;z-index:2">
-                  <h5 class="titulo_submercado"><b class="titulo_submercado"> <span style="position:relative;z-index:2">Veterinaria</span></b><b> </b>
+                  <h2 class="titulo_submercado"><b class="titulo_submercado"> <span style="position:relative;z-index:2">Veterinaria</span></b><b> </b>
                     <hr class="animacion">
                     <p> <b style="color:white !important">
                         <p class="leer_mas_mercados center-align botones">  Leer Mas </p></b></p>
-                  </h5>
+                  </h2>
                 </div>
                 <!-- <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
                   <source class="mercadosimagen" src="../GIT_WEB/VIDEO/Veterinaria.mp4" type="video/mp4">
@@ -460,11 +460,11 @@
               <div class="contenedor">
                 <div class="transfo" id="overlayalimentos" style="border-radius:10px"></div>
                 <div class="centrado_sub" style="position:absolute;z-index:2">
-                  <h5 class="titulo_submercado"><b class="titulo_submercado"> <span style="position:relative;z-index:2">Alimentaria & <br>Nutrición Humana</span></b><b> </b>
+                  <h2 class="titulo_submercado"><b class="titulo_submercado"> <span style="position:relative;z-index:2">Alimentaria & <br>Nutrición Humana</span></b><b> </b>
                     <hr class="animacion">
                     <p><b class="botones" style="color:white !important">
                         <p class="leer_mas_mercados botones center-align">  Leer Mas</p></b></p>
-                  </h5>
+                  </h2>
                 </div><img class="mercadosimagen" src="img/CB_FOOD_080223.jpg" alt="" style="border-radius:10px">
               </div></a></div>
 
@@ -474,55 +474,55 @@
               <div class="contenedor">
                 <div class="transfo" id="overlayped" style="border-radius:10px"></div>
                 <div class="centrado_sub" style="position:absolute;z-index:2">
-                  <h5 class="titulo_submercado"><b class="titulo_submercado"><span style="position:relative;z-index:2">Alimento &<br>Nutricion Animal  </span></b><b> </b>
+                  <h2 class="titulo_submercado"><b class="titulo_submercado"><span style="position:relative;z-index:2">Alimento &<br>Nutricion Animal  </span></b><b> </b>
                     <hr class="animacion">
                     <p><b style="color:white !important">
                         <p class="leer_mas_mercados center-align botones">  Leer Mas</p></b></p>
-                  </h5>
+                  </h2>
                 </div><img class="mercadosimagen" src="img/CB_ALIMENTO_ANIMAL_090223.jpg" alt="" style="border-radius:10px">
               </div></a></div>
           <div class="col s12 m12 l6 xl6 mercados zoom columna3"><a href="Proximamente.php" style="cursor:pointer;">
               <div class="contenedor">
                 <div class="transfo" id="overlayagro" style="border-radius:10px"></div>
                 <div class="centrado_sub " style="position:absolute;z-index:2">
-                  <h5 class="titulo_submercado"><b class="titulo_submercado"> <span style="position:relative;z-index:2">Agroquímicos</span></b><b> </b>
+                  <h2 class="titulo_submercado"><b class="titulo_submercado"> <span style="position:relative;z-index:2">Agroquímicos</span></b><b> </b>
                     <hr class="animacion">
                     <p><b style="color:white!important">
                         <p class="leer_mas_mercados center-align botones">  Leer Mas</p></b></p>
-                  </h5>
+                  </h2>
                 </div><img class="mercadosimagen" src="img/AGRICULTURE_310122.jpeg" alt="" style="border-radius:10px">
               </div></a></div>
           <div class="col s12 m12 l6 xl6 mercados zoom columna3"><a href="Cosmetica_Cuidadopersonal.php" style="cursor:pointer;">
               <div class="contenedor">
                 <div class="transfo" id="overlaycosme" style="border-radius:10px"></div>
                 <div class="centrado_sub" style="position:absolute;z-index:2">
-                  <h5 class="titulo_submercado"><b class="titulo_submercado"> <span style="position:relative;z-index:2">Cosmeticos &<br>Cuidado Personal  </span></b><b> </b>
+                  <h2 class="titulo_submercado"><b class="titulo_submercado"> <span style="position:relative;z-index:2">Cosmeticos &<br>Cuidado Personal  </span></b><b> </b>
                     <hr class="animacion">
                     <p><b style="color:white !important">
                         <p class="leer_mas_mercados center-align botones">  Leer Mas </p></b></p>
-                  </h5>
+                  </h2>
                 </div><img class="mercadosimagen" src="img/CB_COSMETICS_090223.jpg" alt="" style="border-radius:10px">
               </div></a></div>
           <div class="col s12 m12 l6 xl6 mercados zoom columna4"><a href="Detergencia.php" style="cursor:pointer;">
               <div class="contenedor">
                 <div class="transfo" id="overlaydeter" style="border-radius:10px"></div>
                 <div class="centrado_sub" style="position:absolute;z-index:2">
-                  <h5 class="titulo_submercado"><b class="titulo_submercado"> <span style="position:relative;z-index:2">Detergentes &<br> Hogar</span></b><b> </b>
+                  <h2 class="titulo_submercado"><b class="titulo_submercado"> <span style="position:relative;z-index:2">Detergentes &<br> Hogar</span></b><b> </b>
                     <hr class="animacion">
                     <p><b style="color:white !important">
                         <p class="leer_mas_mercados center-align botones">  Leer Mas</p></b></p>
-                  </h5>
+                  </h2>
                 </div><img class="mercadosimagen" src="img/CB_DETERGENCIA.jpg" alt="" style="border-radius:10px">
               </div></a></div>
           <div class="col s12 m12 l6 xl6 mercados zoom columna4"><a href="Proximamente.php" style="cursor:pointer;">
               <div class="contenedor">
                 <div class="transfo" id="overlaychemi" style="border-radius:10px"></div>
                 <div class="centrado_sub" style="position:absolute;z-index:2">
-                  <h5 class="titulo_submercado"><b class="titulo_submercado"> <span style="position:relative;z-index:2">Químicos</span></b><b> </b>
+                  <h2 class="titulo_submercado"><b class="titulo_submercado"> <span style="position:relative;z-index:2">Químicos</span></b><b> </b>
                     <hr class="animacion">
                     <p><b style="color:white !important">
                         <p class="leer_mas_mercados center-align botones">  Leer Mas</p></b></p>
-                  </h5>
+                  </h2>
                 </div><img class="mercadosimagen" src="img/CB_QUIMICA.jpg" alt="" style="border-radius:10px">
               </div></a></div>
         </div>
