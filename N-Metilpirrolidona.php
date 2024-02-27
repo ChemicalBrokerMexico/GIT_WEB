@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | N-Metilpirrolidona</title>
+    <title>Chemical Broker | N-Metilpirrolidona del fabricante Basf</title>
     <meta name="description" content="La N-metil-2-pirrolidona (NMP) es un disolvente orgánico aprotico, altamente polar, que consta de una lactama de 5 miembros.">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -594,7 +594,7 @@
             <ul class="slides slides-pruea">
                 <li> <img src="img/N-METHYL_081122.jpg" alt="" style="height:400px;">
                     <div class="caption center-align"><br><br><br><br>
-                        <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b
+                        <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b
                             class="segundotitulo" style="font-size: 26px;">N-Metilpirrolidona</b>
                     </div>
                 </li>
@@ -624,16 +624,16 @@
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>N-Metilpirrolidona</b>
-                </h5>
+                <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>N-Metilpirrolidona</b>
+                </h2>
                 <p class="Tipografia--general letranegro General--Cuerpo">La N-metil-2-pirrolidona (NMP) es un
                     disolvente orgánico aprotico, altamente polar, que consta de una lactama de 5 miembros. Es un
                     líquido incoloro, con una amina de olor tenue. Es miscible con agua y en los disolventes orgánicos
                     más comunes.</p>
 
 
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Información Técnica
-                        N-Metilpirrolidona</b></h5>
+                <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Información Técnica
+                        N-Metilpirrolidona</b></h2>
 
                 <table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
                     <tr class="Tipografia--general General--Cuerpo"
@@ -927,8 +927,8 @@
                     </tr>
                 </table>
 
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;">
-                    <b>Aplicaciones:</b></h5>
+                <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;">
+                    <b>Aplicaciones:</b></h2>
 
 
                 <ol>
@@ -989,7 +989,7 @@
                         Procesos de extracción de aceites.</li>
                 </ol>
 
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Presentacion:</b></h5>
+                <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Presentacion:</b></h2>
 
                 <ol style="margin-bottom:0px;">
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Frasco de
@@ -1005,18 +1005,18 @@
                     </li>
                 </ol>
 
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Almacenamiento y Manejo:</b></h5>
+                <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Almacenamiento y Manejo:</b></h2>
 
                 <ol style="margin-bottom:0px;">
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">La
                         N-Metilpirrolidona tiene una vida util de 12 meses en su empaque original.</li>
                 </ol>
 
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;"><b>Fabricante:</b></h5>
+                <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;"><b>Fabricante:</b></h2>
 
                 <img src="img/BASF_LOGO_081122.png" alt="" class="Logo_BASF" width="15%" style="margin-top:50px;">
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;"><b>Literatura Tecnica</b>
-                </h5>
+                <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;"><b>Literatura Tecnica</b>
+                </h2>
 
                 <ol>
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;margin-left:-23px;"><a

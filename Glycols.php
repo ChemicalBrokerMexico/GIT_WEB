@@ -4,7 +4,7 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-<title>Chemical Broker | Glicoles de la mas alta calidad de Lyondell Basell</title>
+<title>Chemical Broker | Glicoles de la mas alta calidad del Fabricante Lyondell Basell</title>
 <meta name="description" content="Los Glicoles son un tipo de compuesto químico orgánico que contiene dos grupos hidroxilos (grupos -OH) que resultan de la reacción del agua con el óxido de etileno.">
 <link rel="shortcut icon" href="img/CB_ICON.ico" />
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -423,7 +423,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
   <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Todos los glicoles se presentan en forma de líquido claro, transparente, inodoro y de baja volatilidad. Los glicoles de poco peso molecular son totalmente miscibles en agua y la mayoría cuentan con una gran capacidad para disolverse en casi todos los compuestos orgánicos.</p>
     <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Información Técnica Glicoles</b></h2>
 
-        <table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
+        <table class="display" id="table_id2"  style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
 <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
 <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tabla_productos_glicoles">
 Fórmula Estructural:

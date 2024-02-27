@@ -3,7 +3,7 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-<title>Chemical Broker | Dimetilformamida</title>
+<title>Chemical Broker | Dimetilformamida del Fabricante Basf</title>
 <meta name="description" content="La N, N-Dimetilformamida (Dimetilformamida), comunmente abreviado como DMF, es un compuesto organico, es un liquido incoloro miscible en aguay en la mayoria de componentes organicos.">
 <link rel="shortcut icon" href="img/CB_ICON.ico" />
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -397,7 +397,7 @@ $(document).ready(function () {
 <ul class="slides slides-pruea">
 <li> <img src="img/CB_METIL_130223.jpg" alt="" style="height:400px;">
 <div class="caption center-align"><br><br><br><br>
-<h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">N, N-Dimetilformamida</b>
+<h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size: 26px;">N, N-Dimetilformamida</b>
 </div>
 </li>
 </ul>
@@ -434,14 +434,14 @@ Científicamente se denominan dioles (alcoholes bivalentes), que se desvían del
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<h5 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>N, N-Dimetilformamida</b></h5>
+<h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>N, N-Dimetilformamida</b></h2>
 <!-- <p class="Tipografia--general letranegro General--Cuerpo">La N-Metilpirrolidona es un disolvente organico aprotico altamente polar con un contenido reducido de aminas libres y un bajo contenido de agua, se utiliza principalmente en la industria farmaceutica en la sistensis de péptidos y para que los fabricantes de membranas proporcionen altos rendimientos, alta eficiencia y mayores tasas de reciclaje que los grados convencionales.</p> -->
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">La N, N-Dimetilformamida (Dimetilformamida), comunmente abreviado como DMF, es un compuesto organico, es un liquido incoloro miscible en agua y en la mayoria de componentes organicos.</p>
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">La Dimetilformamida es utilizada como disolvente para reacciones quimicas. La N, N-Dimetilformamida (DMF), la N, N-Metilpirrolidona (NMP) y la N, N-Dimetilacetamina (DMAc), son disolventes amidicos; por contener un grupo amida en su estructura molecular, que tienen diferentes puntos de ebullicion.</p>
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">La Dimetilformamida es un disolvente polar con un alto punto de ebullicion. Facilita las reacciones que siguen mecanismos polare, como es el caso de las reacciones SN2.</p>
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">La Dimetilformamida puede ser sintetizada a partir de formiato de metilo y dimetilamina o mediante reacciones con dimetilamina y monóxido de carbono. No es estable en presencia de bases fuertes como el hidróxido sódico o ácidos fuertes como el ácido clorhídrico o ácido sulfúrico y se hidroliza en ácido fórmico y dimetilamina, especialmente a altas temperaturas.</p>
 
-<h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;"><b>Información Técnica Dimetilformamida</b></h5>
+<h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;"><b>Información Técnica Dimetilformamida</b></h2>
 
 <table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
 <tr class="Tipografia--general General--Cuerpo" style="text-align:center;padding:10px;font-size:15px !important;">
@@ -547,7 +547,7 @@ Científicamente se denominan dioles (alcoholes bivalentes), que se desvían del
 
 </div>
 <div class="col s12 m12 l12 xl12" style="margin-top:50px;">
-<h5 class="Tipografia--general letranegro Titulos" style="margin-bottom:0px;margin-top:0px;"><b>Especificaciones</b></h5>
+<h2 class="Tipografia--general letranegro Titulos" style="margin-bottom:0px;margin-top:0px;"><b>Especificaciones</b></h2>
 <table style="border:2px solid f2f2f2;margin-top:30px;width:100%">
 <tr>
 <th class="tablaword" style="background-color:#000020;color:white;text-align:center;border:2px solid #f2f2f2;"><b>Parametro</b></th>
@@ -619,11 +619,11 @@ Científicamente se denominan dioles (alcoholes bivalentes), que se desvían del
 <div class="col s12 m12 l12 xl12">
 
 <div class="col s12 m12 l12 xl12">
-<h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;"><b>Funciones:</b></h5>
+<h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;"><b>Funciones:</b></h2>
 <ol style="margin-bottom:0px;">
 <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Disolvente</li>
 </ol>
-<h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;"><b>Aplicaciones:</b></h5>
+<h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;"><b>Aplicaciones:</b></h2>
 <ol style="margin-bottom:0px;">
 <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Fabricacion de fibras acrilicas y plasticos,</li>
 <br>
@@ -660,7 +660,7 @@ Científicamente se denominan dioles (alcoholes bivalentes), que se desvían del
 </ol>
 </div>
 <div class="col s12 m12 l12 xl12" style="margin-top:50px;">
-<h5 class="Tipografia--general letranegro Titulos" style="margin-top:0px;margin-bottom:0px;"><b>Presentacion:</b></h5>
+<h2 class="Tipografia--general letranegro Titulos" style="margin-top:0px;margin-bottom:0px;"><b>Presentacion:</b></h2>
 <ol style="margin-bottom:0px;">
 <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Frasco de cristal 0.400 y 1.00 Kg,</li>
 <br>
@@ -672,15 +672,15 @@ Científicamente se denominan dioles (alcoholes bivalentes), que se desvían del
 </ol>
 </div>
 <div class="col s12 m12 l12 xl12" style="margin-top:50px;">
-<h5 class="Tipografia--general letranegro Titulos"><b>Almacenamiento y Manejo:</b></h5>
+<h2 class="Tipografia--general letranegro Titulos"><b>Almacenamiento y Manejo:</b></h2>
 <ol style="margin-bottom:0px;">
 <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">12 meses en su empaque original.</li>
 </ol>
 </div>
 <div class="col s12 m12 l12 xl12">
-<h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;"><b>Fabricante:</b></h5>
+<h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;"><b>Fabricante:</b></h2>
 <img src="img/BASF_LOGO_081122.png" alt="LOGO BASF" class="logo_basf_mobile"  style="margin-top:20px;">
-<h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;"><b>Literatura Tecnica</b></h5>
+<h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;"><b>Literatura Tecnica</b></h2>
 <ol>
 <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;"><a href="PDF/CATALOGUES/BASF_PS_DIMETHYLFORMAMIDE_100915.pdf" class="arrowblue Tipografia--general Botones letranegro" download style="margin-top: 30px;color:rgba(2 146 238 /99%)">BASF_PS_DIMETHYLFORMAMIDE_100915.pdf</a></li>
 

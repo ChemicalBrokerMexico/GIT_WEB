@@ -632,7 +632,7 @@
             <ul class="slides slides-pruea">
                 <li> <img src="img/LAURIL-SULFATO-SODIO-94_PICTURE_1_V2.jpg" alt="" style="height:400px;">
                     <div class="caption center-align"><br><br><br><br>
-                        <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b
+                        <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b
                             class="segundotitulo" style="font-size: 26px;">Lauril Sulfato de Sodio 94%</b>
                     </div>
                 </li>
@@ -674,7 +674,7 @@
                     formación de espuma: este producto produce una espuma alta y muy estable.</p>
             </div>
             <div class="col s12 m12 l12 xl12">
-            <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px"><b>Sinonimos</b></h5>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px"><b>Sinonimos</b></h2>
                 <ol style="margin-bottom:0px;">
                     <li class="Tipografia--general letranegro Elementos--Listas Listas_disc">Lauril sulfato de sodio
                     </li>
@@ -688,7 +688,7 @@
                 </ol>
             </div>
             <div class="col s12 m12 l12 xl12">
-            <h5 class="Tipografia--general letranegro General--Cuerpo Titulos" style="margin-top:50px;"><b>Información Técnica Lauril Sulfato Sodio 94%</b></h5>
+            <h2 class="Tipografia--general letranegro General--Cuerpo Titulos" style="margin-top:50px;"><b>Información Técnica Lauril Sulfato Sodio 94%</b></h2>
             <table style="margin-top:30px;">
                     <thead>
                         <th class="Tipografia--general letranegro General--Cuerpo"
@@ -829,7 +829,7 @@
                 </table>
             </div>
             <div class="col s12 m12 l12 xl12">
-            <h5 class="letrangro Tipografia--general General--Cuerpo" style="margin-top:50px;"><b>Ventajas del Producto</b></h5>
+            <h2 class="letrangro Tipografia--general General--Cuerpo" style="margin-top:50px;"><b>Ventajas del Producto</b></h2>
                 <ol style="margin-bottom:0px;">
                     <li class="Elementos--Listas letranegro Listas_disc">Una base perfecta para la formulación de
                         aditivos secos,</li>
@@ -849,7 +849,7 @@
                 </ol>
             </div>
             <div class="col s12 m12 l12 xl12">
-            <h5 class="letrangro Tipografia--general General--Cuerpo" style="margin-top:50px"><b>Función</b></h5>
+            <h2 class="letrangro Tipografia--general General--Cuerpo" style="margin-top:50px"><b>Función</b></h2>
                 <ol style="margin-bottom:0px;">
                     <li class="Elementos--Listas letranegro Listas_disc">Tensoactivos bases,</li>
                     <br>
@@ -865,8 +865,8 @@
                 </ol>
             </div>
             <div class="col s12 m12 l12 xl12">
-            <h5 class="letrangro Tipografia--general General--Cuerpo" style="margin-top:50px;"><b>Certificaciones</b>
-                </h5>
+            <h2 class="letrangro Tipografia--general General--Cuerpo" style="margin-top:50px;"><b>Certificaciones</b>
+                </h2>
                 <ol style="margin-bottom:0px;">
                     <li class="Elementos--Listas letranegro Listas_disc">Roundtable on Sustainable Palm Oil (RSPO),</li>
                     <br>
@@ -879,7 +879,7 @@
                 </ol>
             </div>
             <div class="col s12 m12 l12 xl12">
-                <h5 class="letrangro Tipografia--general General--Cuerpo" style="margin-top:50px;"><b>Vida de Anaquel</b></h5>
+                <h2 class="letrangro Tipografia--general General--Cuerpo" style="margin-top:50px;"><b>Vida de Anaquel</b></h2>
                 <ol style="margin-bottom:0px;">
                     <li class="Elementos--Listas letranegro Listas_disc">3 años en su empaque original e intacto.</li>
                     <br>
@@ -888,21 +888,21 @@
                 </ol>
             </div>
             <div class="col s12 m12 l12 xl12">
-                <h5 class="letrangro Tipografia--general General--Cuerpo" style="margin-top:50px;"><b>Origen de Fabricacion</b></h5>
+                <h2 class="letrangro Tipografia--general General--Cuerpo" style="margin-top:50px;"><b>Origen de Fabricacion</b></h2>
                 <ol style="margin-bottom:0px;">
                     <li class="Elementos--Listas letranegro Listas_disc">Belgica, Union Europea.</li>
                 </ol>
             </div>
             <div class="col s12 m12 l12 xl12">
-                <h5 class="letrangro Tipografia--general General--Cuerpo" style="margin-top:50px;"><b>Presentacion</b></h5>
+                <h2 class="letrangro Tipografia--general General--Cuerpo" style="margin-top:50px;"><b>Presentacion</b></h2>
                 <ol style="margin-bottom:0px;">
                     <li class="Elementos--Listas letranegro Listas_disc">Sacos de Papel Tipo Kraft con Bolsa interna de
                         Polietileno de 25 Kg.</li>
                 </ol>
             </div>
             <div class="col s12 m12 l12 xl12">
-                <h5 class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px"><b>Aplicaciones &
-                        Industrias</b></h5>
+                <h2 class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px"><b>Aplicaciones &
+                        Industrias</b></h2>
                 <ol>
                     <li class="Elementos--Listas letranegro Listas_disc">Construccion:
                         <ol>
@@ -958,11 +958,11 @@
 
                 </div>
                 <div class="col s12 m12 l12 xl12">
-                <h5 class="General--Cuerpo letranegro Tipografia--general" style="margin-top:50px;"><b>Fabricante:</b></h5>
+                <h2 class="General--Cuerpo letranegro Tipografia--general" style="margin-top:50px;"><b>Fabricante:</b></h2>
             <img src="img/LAURIL-SULFATO-SODIO-94_PICTURE_2.jpg" alt="Logo de Cargill" class="LOGO_KLK_OLEO">
                 </div>
                 <div class="col s12 m12 l12 xl12">
-                <h5 class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;"><b>Literatura Tecnica</b></h5>
+                <h2 class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;"><b>Literatura Tecnica</b></h2>
                 <ol>
                     <li style="list-style-type:disc"><a
                             href="PDF/CATALOGUES/KLK-OLEO-TENSACHEM_TDS_TENSOPOL-USP94_290615_V15.pdf"
@@ -970,7 +970,7 @@
                             download><b>KLK-OLEO-TENSACHEM_TDS_TENSOPOL-USP94_290615_V15.pdf</b><span
                                 class="arrowblue desaparece">Descargar...</span></a></li>
                 </ol>
-                <h5 class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;"><b>Cartas Declaratorias</b></h5>
+                <h2 class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;"><b>Cartas Declaratorias</b></h2>
                 <ol>
                     <li style="list-style-type:disc"><a
                             href="PDF/CATALOGUES/KLK-OLEO-TENSACHEM_ALLERGENS-STATEMENT_TENSOPOL-USP94_050116.pdf"
@@ -998,7 +998,7 @@
                             download><b>KLK-OLEO-TENSACHEM_COUNTRY-OF-MANUFACTURE_TENSOPOL-USP94_050116.pdf</b><span
                                 class="arrowblue desaparece">Descargar...</span></a></li>
                 </ol>
-                <h5 class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;"><b>Certificaciones</b></h5>
+                <h2 class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;"><b>Certificaciones</b></h2>
                 <ol>
                     <li style="list-style-type:disc"><a
                             href="PDF/CATALOGUES/BIR_KOSHER-CERTIFICATE_BY-KLK-TENSACHEM_240123.pdf"

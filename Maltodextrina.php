@@ -594,7 +594,7 @@
                 <li> <img src="img/CB_POPSTART_MALTODEXTRINA_080323.jpg" alt=""
                         style="height:400px;filter: brightness(0.9);">
                     <div class="caption center-align"><br><br><br><br>
-                        <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b
+                        <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b
                             class="segundotitulo" style="font-size: 26px;">Maltodextrina</b>
                     </div>
                 </li>
@@ -621,7 +621,7 @@
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Maltodextrina</b></h5>
+                <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Maltodextrina</b></h2>
                 <p class="Tipografia--general letranegro General--Cuerpo">La Maltodextrina es un polímero formado por
                     unidades de D-Glucosa unidad por medio de enlaces glicosídicos α (1-4) y α (1-6). Es un polvo blanco
                     que se obtiene del maíz, arroz, almidón, papa y trigo, es decir almidones que deben cocinarse para
@@ -700,7 +700,7 @@
                     </tr>
                 </table>
 
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Funciónes</b></h5>
+                <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Funciónes</b></h2>
 
                 <ol>
                     <li class="letranegro Tipografia--General General--Cuerpo" style="list-style-type:disc;">Aditivo
@@ -716,7 +716,7 @@
                     </li>
                 </ol>
 
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Aplicaciones</b></h5>
+                <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Aplicaciones</b></h2>
 
                 <ol>
                     <li class="letranegro Tipografia--General General--Cuerpo" style="list-style-type:disc;">Industria Alimentaria y Nutrición Humana:</li>

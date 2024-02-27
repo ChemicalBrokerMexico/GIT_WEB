@@ -5,7 +5,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
   <title>Chemical Broker | Bicarbonato de Sodio de Solvay</title>
-  <meta name="description" content="Chemical Broker brinda a sus socios de negocio, Bicarbonato de Sodio de la mas alta calidad a nivel mundial con el objetivo de brindar al mercado mundial la mas alta calidad.">
+  <meta name="description" content="Chemical Broker brinda a sus socios de negocio, Bicarbonato de Sodio de la mas alta calidad a nivel mundial con el objetivo de brindar al mercado mundial la mas alta calidad .">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -874,7 +874,9 @@
 
         <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;">
           <b>Proveedor:</b></h2>
-
+            <picture>
+              <source srcset="img/LOGO_SOLVAY.webp" type="image/webp">
+            </picture>
         <table style="margin-top:30px;">
           <tr style="border:none;">
             <td>
@@ -890,9 +892,9 @@
           <tr style="border:none;">
             <td>
               <ol>
-                <a href="Proximamente.php">
+                <a href="Bicar-Pharma-API.php">
                   <li class="Tipografia--general letranegro Elementos--Listas"
-                    style="list-style-type:disc;color:rgba(2 146 238 /99%);margin-left:-23px;">Bicar® Pharma</li>
+                    style="list-style-type:disc;color:rgba(2 146 238 /99%);margin-left:-23px;">Bicar® Pharma API</li>
                 </a>
                 <br>
                 <a href="Proximamente.php">

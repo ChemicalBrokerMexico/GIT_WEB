@@ -4,8 +4,8 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Pectinas</title>
-    <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
+    <title>Chemical Broker | Pectinas del fabricante Cargill</title>
+    <meta name="description" content="Chemical Broker brinda a sus socios de negocio Pectinas de la mas alta calidad a nivel mundial del fabricante Cargill con el objetivo de satisfacer sus necesidades">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -635,7 +635,7 @@
             <ul class="slides slides-pruea">
                 <li> <img src="img/MANZANA_VERDE_141222.jpg" alt="" style="height:800px;filter:brightness(0.9)">
                     <div class="caption center-align"><br><br><br><br>
-                        <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b
+                        <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b
                             class="segundotitulo" style="font-size: 26px;">Pectinas</b>
                     </div>
                 </li>
@@ -663,8 +663,8 @@
     <div class="container">
         <div class="row">
             <div class="col s12 m6 l12 XL12">
-                <h5 class="Tipografia--general letranegro Titulos"><b>Pectinas</b>
-                </h5>
+                <h2 class="Tipografia--general letranegro Titulos"><b>Pectinas</b>
+                </h2>
                 <p class="Tipografia--general letranegro General--Cuerpo">Las pectinas son una mezcla de polímeros
                     ácidos y neutros muy ramificados. Son hidrocoloides solubles en agua con funciones gelificantes y
                     espesantes. Las pectinas tambien proporcionan superficies cargadas que regulan el pH y el balance
@@ -672,10 +672,10 @@
 
 
 
-                <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Las Pectinas tienen
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Las Pectinas tienen
                     3
                     dominios
-                    principales:</h5>
+                    principales:</h2>
 
 
                 <ol>
@@ -689,7 +689,7 @@
                         Ramnogalacturonano II</li>
                 </ol>
 
-                <h5 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;"><b>Origen</b></h5>
+                <h2 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;"><b>Origen</b></h2>
 
                 <p class="Tipografia--general General--Cuerpo letranegro">La Pectina contiene principalmente ácidos
                     galacturonicosparcialmente metoxilados. La pectina, un ingrediente versátil para texturas
@@ -697,133 +697,6 @@
                     encuentra en muchas frutas, pero es especialmente abundante en las manzanas y los cítricos. La
                     pectina de la fruta está asociada a la celulosa en los tejidos vegetales, donde juega un papel
                     fundamental en la determinación de sus propiedades mecánicas.</p>
-
-
-                <!-- <div class="row">
-                    <div class="col s12 m12 l3 xl3" style="margin-top:20px;">
-
-                        <div style="background-color:#e0c540;text-align:center;color:white">
-                            Lima
-                        </div>
-
-                    </div>
-                    <div class="col s12 m12 l3 xl3" style="margin-top:20px;">
-
-                        <div style="background-color:#df354a;text-align:center;color:white">
-                            Toronja
-                        </div>
-
-                    </div>
-                    <div class="col s12 m12 l3 xl3" style="margin-top:20px;">
-
-                        <div style="background-color:#ffbd01;text-align:center;color:white">
-                            Durazno
-                        </div>
-
-                    </div>
-
-                    <div class="col s12 m12 l3 xl3" style="margin-top:20px;">
-
-                        <div style="background-color:#662931;">
-                        Cereza
-                        </div>
-
-                    </div>
-
-                    <br>
-
-                    <div class="col s12 m12 l3 xl3" style="margin-top:20px;">
-
-                        <div style="background-color:#000020;">
-                            sssssssssss
-                        </div>
-
-                    </div>
-
-
-
-                    <div class="col s12 m12 l3 xl3" style="margin-top:20px;">
-
-                        <div style="background-color:#000020;">
-                            sssssssssss
-                        </div>
-
-                    </div>
-
-
-                    <div class="col s12 m12 l3 xl3" style="margin-top:20px;">
-
-                        <div style="background-color:#000020;">
-                            sssssssssss
-                        </div>
-
-                    </div>
-
-
-                    <div class="col s12 m12 l3 xl3" style="margin-top:20px;">
-
-                        <div style="background-color:#000020;">
-                            sssssssssss
-                        </div>
-
-                    </div>
-
-
-                    <div class="col s12 m12 l3 xl3" style="margin-top:20px;">
-
-                        <div style="background-color:#000020;">
-                            sssssssssss
-                        </div>
-
-                    </div>
-
-
-                    <div class="col s12 m12 l3 xl3" style="margin-top:20px;">
-
-                        <div style="background-color:#000020;">
-                            sssssssssss
-                        </div>
-
-                    </div>
-
-
-                    <div class="col s12 m12 l3 xl3" style="margin-top:20px;">
-
-                        <div style="background-color:#000020;">
-                            sssssssssss
-                        </div>
-
-                    </div>
-
-
-                    <div class="col s12 m12 l3 xl3" style="margin-top:20px;">
-
-                        <div style="background-color:#000020;">
-                            sssssssssss
-                        </div>
-
-                    </div>
-
-
-                    <div class="col s12 m12 l3 xl3" style="margin-top:20px;">
-
-                        <div style="background-color:#000020;">
-                            sssssssssss
-                        </div>
-
-                    </div>
-
-
-                    <div class="col s12 m12 l3 xl3" style="margin-top:20px;">
-
-                        <div style="background-color:#000020;">
-                            sssssssssss
-                        </div>
-
-                    </div> -->
-
-
-                <!-- </div> -->
 
 
                 <table style="width:50%;border:none;">

@@ -4,8 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <meta name="description" content="Sorbitol de excelente calidad, disponibilidad inmediata,">
-    <meta name="description" content="Durante casi 100 años, la lecitina ha sido un ingrediente esencial en las herramientas de los formuladores. Este emulsionante derivado de plantas, versátil y apto para etiquetas parece hacerlo todo.">
+    <meta name="description" content="Chemical Broker ofrece a sus socios de negocios Lecitinas de la mas alta calidad del fabricante Cargill">
     <title>Chemical Broker | Lecitinas Cargill</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -637,7 +636,7 @@
             <ul class="slides slides-pruea">
                 <li> <img src="img/LECITINAS_4.jpg" alt="" style="height:800px;filter: brightness(0.7);">
                     <div class="caption center-align"><br><br><br><br>
-                        <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b
+                        <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b
                             class="segundotitulo" style="font-size: 26px;">Lecitinas <br> Cargill</b>
                     </div>
                 </li>
@@ -670,7 +669,7 @@
             </div> -->
             <div class="col s12 m12 l12 xl12">
 
-                <h5 class="Tipografia--general letranegro Titulos"><b style="color:black;">Lecitinas</b></h5>
+                <h2 class="Tipografia--general letranegro Titulos"><b style="color:black;">Lecitinas</b></h2>
 
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;"><b>Cargill</b>
                     ofrece una amplia gama de
@@ -679,8 +678,7 @@
                     , y las opciones orgánicas y sin OGM están disponibles para respaldar aún más la formulación
                     amigable con las etiquetas.</p>
 
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;"><b>Tipos de Lecitina</b>
-                </h5>
+                <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;"><b>Tipos de Lecitina</b></h2>
                 <ol style="list-style-type: disc;margin-bottom:0px;">
                     <li>Lecitina de Canola,</li>
                     <br>
@@ -695,8 +693,8 @@
                     <li>Lecitina Fluida a la Medida.</li>
                 </ol>
 
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;"><b>Alimentos y Nutrición
-                        Humana</b></h5>
+                <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;"><b>Alimentos y Nutrición
+                        Humana</b></h2>
 
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">Durante casi 100
                     años, la lecitina ha sido un
@@ -714,8 +712,8 @@
                     triglicéridos. Como tal, la lecitina interactúa bien con otras sustancias en los alimentos, como
                     proteínas, lípidos y carbohidratos.</p>
 
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px">
-                    <b>Funciones y Aplicaciones</b></h5>
+                <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px">
+                    <b>Funciones y Aplicaciones</b></h2>
 
                 <ol style="margin-bottom: 0px;list-style-type: disc;">
                     <li class="Tipografia--general letranegro Elementos--Listas">Funciónes:</li>
@@ -765,7 +763,7 @@
                     </ol>
                 </ol>
 
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;"><b>Panificación</b></h5>
+                <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;"><b>Panificación</b></h2>
 
                 <ol style="margin-bottom: 0px;list-style-type:disc">
                     <li>Función:</li>
@@ -971,9 +969,9 @@
                     </ol>
                 </ol>
 
-                <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Sitios de
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Sitios de
                         Producción y
-                        Certificaciones de Calidad:</b></h5>
+                        Certificaciones de Calidad:</b></h2>
 
                         <ol style="list-style-type: disc;">
                     <li class="Elementos--listas Tipografia--general">Hamburgo, Alemania, Unión Europea:</li>
@@ -1025,7 +1023,7 @@
                     </ol>
                 </ol>
 
-                <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;"><b>In the spotlight: Organic</b></h5>
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;"><b>In the spotlight: Organic</b></h2>
 
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;"><b>Leciprime® Organic IP</b> is or is our
                     organic offering to respond to the growing demand from consumers for organic products.
@@ -1056,7 +1054,7 @@
 
                 <hr style="border: 1px solid #a7a7a7;margin-top:50px;">
 
-                <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;"><b>Fuentes</b></h5>
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;"><b>Fuentes</b></h2>
 
                 <ol style="list-style-type: disc;margin-top:15px">
                     <li class="Elementos--listas Tipografia--general">https://www.cargill.com/food-beverage/na/lecithins
@@ -1071,14 +1069,7 @@
     </div>
 
 
-    <div class="container">
-        <div class="row">
-            <div class="col s12 m12 l12 xl12">
-               
-             
-            </div>
-        </div>
-    </div>
+ 
 
 </body>
 <footer style="margin-top:70px">

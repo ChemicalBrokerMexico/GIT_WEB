@@ -4,8 +4,8 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Pasta de Soya</title>
-    <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
+    <title>Chemical Broker | Pasta de Soya del fabricante Cargill </title>
+    <meta name="description" content="La pasta de soya es la fuente de proteína mas importante utilizada en la alimentacion humana  y del ganado">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -635,7 +635,7 @@
             <ul class="slides slides-pruea">
                 <li> <img src="img/CB_PASTA_SOYA_280223.jpg" alt="" style="height:400px;">
                     <div class="caption center-align"><br><br><br><br>
-                        <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b
+                        <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b
                             class="segundotitulo" style="font-size: 26px;">Pasta de Soya</b>
                     </div>
                 </li>
@@ -664,7 +664,7 @@
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
-                <h5 class="Tipografia--general letranegro General--Cuerpo"><b>Pasta de Soya</b></h5>
+                <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Pasta de Soya</b></h2>
                 <p class="Tipografia--general letranegro General--Cuerpo">La pasta de soya es la fuente de proteína más importante utilizada en la alimentación humana y del
                     ganado. La pasta de soya es la fuente natural más concentrada de proteína, aminoácidos y energía.
                     Debido a esto en la actualidad es el ingrediente más utilizado por nutriólogos en la elaboración de
@@ -683,7 +683,7 @@
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">
                     La utilización de la pasta de soya genera altos beneficios económicos en la producción animal, ya
                     que además de su composición nutricional es altamente palpable y digestible.</p>
-                <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Especificaciones</b></h5>
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Especificaciones</b></h2>
                 <p class="Tipografia--general letranegro General--Cuerpo">La pasta de soya es un polvo granular de color beige a café claro, es una buena fuente de proteína derivada de la extracción de aceite del grano de soya y su posterior molienda. La pasta de soya está sujeta a un proceso de extracción con solvente utilizando hexano para extraer el aceite. Después de la extracción la pasta es secada y molida para producir el producto final.</p>
                 <table style="margin-top:50px;border-spacing:2px 5px">
                     <th>
@@ -778,9 +778,9 @@
                         <td style="background-color:#F2F2F2;padding:10px;"></td>
                     </tr>
                 </table>
-                <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Fabricante</b></h5>
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Fabricante</b></h2>
                 <img src="img/Cargill-Logo_2.png" alt="" class="logo_lecitinas_secundarias">
-                <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Hoja de Especificaciones</b></h5>
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Hoja de Especificaciones</b></h2>
                 <ol style="list-style-type: disc;margin-top:15px;">
                         <a href="PDF/CATALOGUES/CARGILL_HE_PASTA-SOYA_110219.pdf"
                             class="Tipografia--general Botones letranegro" download>

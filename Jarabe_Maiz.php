@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Jarabe de Maíz</title>
+    <title>Chemical Broker | Jarabe de Maíz de Cargill</title>
     <meta name="description" content="El Jarabe de Maíz es un edulcorante líquido, creado a partir del almidón o fécula de maíz. Con un rango de jarabes carbón-refinados, desmineralizados y de conversión enzimática los ingredientes ">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -634,7 +634,7 @@
             <ul class="slides slides-pruea">
                 <li> <img src="img/CB_JARABE_MAIZ_270223.jpg" alt="" style="height:400px;filter:brightness(0.9)">
                     <div class="caption center-align"><br><br><br><br>
-                        <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b
+                        <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b
                             class="segundotitulo" style="font-size: 26px;">Jarabe de Maíz</b>
                     </div>
                 </li>
@@ -662,13 +662,13 @@
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
-                <h5 class="Tipografia--general letranegro General--Cuerpo"><b>Jarabe de Maíz</b></h5>
+                <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Jarabe de Maíz</b></h2>
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">El Jarabe de Maíz es un edulcorante líquido, creado a partir del almidón o fécula de maíz. Con un rango de jarabes carbón-refinados, desmineralizados y de conversión enzimática los ingredientes <span style="color:orange;">Clearsweet®</span> Jarabes de Maíz y <span style="color:green;">Cleardex®</span> Jarabe de Maíz pueden ayudar a alcanzar la textura justa y sabor característico de sus requerimientos de aplicación como:</p>
-                <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Dulzor moderado</b></h5>
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Dulzor moderado</b></h2>
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">Nivel medio de dulzor que es ideales para uso en jarabes de mesa, jaleas y gelatinas</p>
-                <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Mejora Estabilidad</b></h5>
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Mejora Estabilidad</b></h2>
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">Los ingredientes <span style="color:orange;">Clearsweet®</span> y <span style="color:green;">Cleardex®</span> incrementan sabor y mejoran la humectación, lo cual puede incrementar la vida de anaquel.</p>
-                <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Aplicaciones</b></h5>
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Aplicaciones</b></h2>
                 <ol style="margin-bottom:0px;">
                     <li style="list-style-type:disc;" class="letranegro Tipografia--general General--Cuerpo">Panificación</li>
                     <ol style="margin-top:20px;margin-bottom:0px;">
@@ -733,9 +733,9 @@
                         <li style="list-style-type:disc;" class="letranegro Tipografia--general">Jarabes</li>
                     </ol>
                 </ol>
-                <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Fabricante</b></h5>
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Fabricante</b></h2>
                 <img src="img/Cargill-Logo_2.png" alt="" class="logo_lecitinas_secundarias">
-                <h5 class="Tipografia--general letranegro General--Cuerpo"><b>Productos</b></h5>
+                <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Productos</b></h2>
                 <table style="border:solid 2px #C0C0C0;margin-top:15px;">
                     <tr>
                         <td style="border:solid 1px #C0C0C0;padding:10px;" class="Tipografia--general colornegro General--Cuerpo">Clearsweet® 43% IX Jarabe de Maltosa</td>
@@ -767,7 +767,7 @@
                         <td style="border:solid 1px #C0C0C0;text-align:justify;padding:10px;" class="Tipografia--general colornegro General--Cuerpo">El Cleardex® 36/43 Jarabe de Maíz es in jarabe de maíz obtenido por medio de una conversión acidó-enzimática con bajo nivel de D.E: Es de sabor ligeramente suave y es usado cundo se requiere un nivel de dulzor bajo. Propiedades como estabilidad al choque térmico, agente espesante y control de cristalización hacen de Cleardex® 36/43 Jarabe de Maíz sea una elección ideal para uso helados, productos congelados y botanas.</td>
                     </tr>
                 </table>
-                <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Brochure</b></h5>
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Brochure</b></h2>
                 <ol style="list-style-type: disc;margin-top:15px;">
                         <a href="PDF/CATALOGUES/CARGILL_FT_CLEARSWEET_CLEARDEX_CLEARBREW-CORN SYRUP.pdf"
                             class="Tipografia--general Botones letranegro" download>

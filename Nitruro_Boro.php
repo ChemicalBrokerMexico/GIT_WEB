@@ -4,8 +4,8 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Nitruro de Boro</title>
-  <meta name="description" content="El Nitruro de Boro Momentive Softouch es un polvo de grado cosmético muy fino con buena opacidad. Puede impartir una sensación sedosa, suave y lubricante en las formulaciones cosméticas, al tiempo que mejora la difusión."> 
+  <title>Chemical Broker | Nitruro de Boro del fabricante Saint Gobain </title>
+  <meta name="description" content="El Nitruro de Boro de Saint Gobain es un polvo de grado cosmético muy fino con buena opacidad. Puede impartir una sensación sedosa, suave y lubricante en las formulaciones cosméticas, al tiempo que mejora la difusión."> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -552,7 +552,7 @@
         <ul class="slides slides-pruea">
           <li> <img src="img/NITRURO-BORO-FOTO.jpg" alt="" style="height:400px;filter: brightness(0.9);">
             <div class="caption center-align"><br><br><br><br>
-              <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">Nitruro de Boro</b>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size: 26px;">Nitruro de Boro</b>
             </div>
           </li>
         </ul>

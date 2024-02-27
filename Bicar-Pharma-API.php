@@ -1,14 +1,11 @@
 <!DOCTYPE html>
 <html>
+
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Lectinas de Cargill</title>
-  <meta name="description" content="Chemical Broker Brinda a sus socios de negocios Lecitinas de la mas alta calidad del fabricante Cargill">
-  <meta http-equiv="Expires" content="0">
-  <meta http-equiv="Last-Modified" content="0">
-  <meta http-equiv="Cache-Control" content="no-cache, mustrevalidate">
-  <meta http-equiv="Pragma" content="no-cache">
+  <title>Chemical Broker | Bicarbonato de Sodio de Solvay</title>
+  <meta name="description" content="Chemical Broker brinda a sus socios de negocio, Bicarbonato de Sodio de la mas alta calidad a nivel mundial con el objetivo de brindar al mercado mundial la mas alta calidad .">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -43,11 +40,6 @@
     }
     gtag('js', new Date());
     gtag('config', 'G-SGJQ8FDDJ6');
-  </script>
-  <script>
-    $(document).ready(function () {
-      $('#table_id2').DataTable();
-    });
   </script>
   <script>
     $(document).ready(function () {
@@ -336,7 +328,7 @@
                     <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a>
           </li>
           <li><a href="Product_List.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a>
-<li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
+<li><a href="Catalogos_Productos" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
           </li>
         </ul>
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!"
@@ -557,127 +549,110 @@
 
 
   <div class="container-fluid">
-      <div class="slider slider-prueba" style="margin-top:0px">
-        <ul class="slides slides-pruea">
-          <li> <img src="img/LECITINAS_4.jpg" alt="" style="height:800px;">
-            <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size: 26px;">Lecitinas</b>
-            </div>
-          </li>
-        </ul>
-      </div>
+    <div class="slider slider-prueba" style="margin-top:0px">
+      <ul class="slides slides-pruea">
+        <li><img src="img/TABLETAS_COMPRIMIDAS_260234.png" alt="" class="Bicarbonato_Sodio_Banner"
+            style="height:500px;filter: brightness(0.8);">
+          <div class="caption center-align"><br><br><br><br>
+            <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo"
+              style="font-size: 26px;">Bicar-Pharma-API</b>
+          </div>
+        </li>
+      </ul>
     </div>
+  </div>
 
   <div class="container" style="margin-top:80px;">
-    <div class="row">
+    <div class="row bread_mobile">
       <div class="col s12 m12 l12 xl12">
-        <section class="breditem--inicio"><a class="breditem active" href="index.php"
-            style="color:#262137 !important"><b>Inicio&nbsp </b><b> > &nbsp</b></a><a class="breditem active"
-            href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b> >
-              &nbsp</b><a class="breditem active" href="Lecitinas.php"
-              style="color:#262137 !important;margin-left:-2px"><b
-                class="Tipografia--general letranegro Subtitulos breadcrumb">Lecitinas</b></a></section>
+        <section class="breditem--inicio" style="width:350px;"><a class="breditem active" href="index.php"
+            style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
+            href="Bicar-Pharma-API.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b> >
+              &nbsp</b><a class="breditem active" href="Bicarbonato_Sodio.php"
+              style="color:#262137 !important;margin-left:-2px;"><b
+                class="Tipografia--general letranegro Subtitulos breadcrumb">Bicar-Pharma-API</b></a></section>
         </section>
       </div>
     </div>
   </div>
 
-  <div class="container">
-    <div class="row">
-      <!-- <div class="col s12 m12 l12 xl12">
-<h5><b class="Tipografia--general letranegro Titulos">Lecitinas</b></h5>
-</div> -->
-      <!-- <div class="col s12 m12 l6 xl6">
-        <img src="img/LECITINAS_4.jpg" alt="LECITINAS" class="IMAGE--LECITHINS" style="border-radius:10px;">
-      </div> -->
-      <!-- <div class="col s12 m6 l6 xl6" style="margin-top: 6px;">
-        <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:19px;"><b
-            style="border-bottom:3px solid #A24D0A;">Lecitinas</b></h5>
-        <p class="Tipografia--general letranegro General--Cuerpo">La lecitina es una sustancia orgánica abundante en las
-          membranas de las celulas vegetales y animales, especialmente en las del tejido nervioso; se obtiene de las
-          grasas animales, la yema de huevo, algunas semillas y se emplea en la elaboración de ciertos alimentos, como
-          la margarina o el chocolate tambien se aplica en otras industrias como farmaceutica y cosmética.</p> -->
-        <!-- <p class="Tipografia--general letranegro General--Cuerpo">son proteínas naturales que están presentes en la mayoría de los vegetales. Algunos alimentos que contienen gran cantidad de lectinas son las habichuelas (frijoles, alubias), el maní (cacahuate), las lentejas, los tomates, las papas, la berenjena, las frutas, el trigo y otros cereales. Las lectinas desempeñan una función protectora, a medida que los vegetales crecen, y no tienen ningún valor nutricional cuando se consumen en los alimentos.</p> -->
-      </div>
-    </div>
-  </div>
-
 
   <div class="container">
     <div class="row">
-      <div class="col s12 m12 l12 xl12">
-      <h2 class="Tipografia--general letranegro General--Cuerpo"><b
-            >Lecitinas</b></h2>
-        <p class="Tipografia--general letranegro General--Cuerpo"><b>La Lecitina</b> es una sustancia orgánica abundante en las
-          membranas de las celulas vegetales y animales, especialmente en las del tejido nervioso; se obtiene de las
-          grasas animales, la yema de huevo, algunas semillas y se emplea en la elaboración de ciertos alimentos, como
-          la margarina o el chocolate también se aplica en otras industrias como farmacéutica y cosmética.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo"><b>Las Lecitinas</b> son emulsionantes versátiles, aplicables para etiquetas 
-        amigables y en una amplia gama de mercados como lo son Nutrición Humana, Farmacéutica, 
-        Cuidado Personal, Nutrición Animal, Agrícola y el mercado industrial.</p>
-
-        <h2 style="margin-top:50px;margin-bottom:5px;"><b class="Tipografia--general letranegro General--Cuerpo">Beneficios</b></h2>
-
-        <ol style="margin-top:0px;">
-          <li class="Elementos--Listas Tipografia--general" style="list-style-type:disc;"><b>Etiqueta Amigable:</b> Producto derivado de la naturaleza, buena alternativa en sustitución al emulsionante sintético,</li>
-          <br>
-          <li class="Elementos--Listas Tipografia--general" style="list-style-type:disc;"><b>Base Vegetal:</b> Proviene exclusivamente de plantas y está disponible en soja, girasol y canola,</li>
-          <br>
-          <li class="Elementos--Listas Tipografia--general" style="list-style-type:disc;"><b>Amplia Funcionalidad:</b> Buenas propiedades emulsionantes y estabilizadoras en diversas aplicaciones, adecuado para una amplia gama de productos de consumo.</li>
+        <div class="col s12 m12 l12 xl12">
+            <h2 class="letranegro Tipografia--general Titulos"><b style="color:#000020;">Bicarbonato de Sodio (Ingrediente Farmacéutico Activo)</b></h2>
+        </div>
+        <div class="col s12 m12 l4 xl4">
+<img src="img/bicar1.jpg" alt="" style="width:100%;border-radius:10px;">
+        </div>
+        <div class="col s12 m12 l4 xl4">
+<img src="img/bicar2.jpeg" alt="" style="width:100%;border-radius:10px;">
+        </div>
+        <div class="col s12 m12 l4 xl4">
+<img src="img/bicar3.jpg" alt="" style="width:100%;border-radius:10px;">
+        </div>
+        <div class="col s12 m12 l12 xl12">
+            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El Bicarbonato de Sodio (NaHCO3) es un compuesto químico que tiene propiedades alcalinas y puede actuar como un tampón en soluciones, ayudando a mantener el equilibrio del pH.</p>
+            <p class="Tipografia--general letranegro General--Cuerpo">En algunas circunstancias el Bicarbonato de Sodio se utiliza como Ingrediente Farmacéutico Activo (API); por sus siglas en inglés, en la formulación de ciertos medicamentos.</p>
+            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">El Bicarbonato de Sodio ICH Q7 cumple con la normatividad y pautas establecidas por la Buenas Prácticas de manufactura y la Conferencia Internacional de Armonización para su uso en aplicaciones farmacéuticas como Ingrediente Farmacéutico Activo.</b></p>
+            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Aplicaciones Farmacéuticas</b></h2>
+            <p class="Tipografia--general letranegro General--Cuerpo"><b>Antiácidos. -</b> El Bicarbonato de Sodio se utiliza a veces como ingrediente en productos antiácidos para aliviar la acidez estomacal y la indigestión. Al reaccionar con el ácido estomacal, puede ayudar a neutralizar el exceso de ácido.</b></p>
+            <p class="Tipografia--general letranegro General--Cuerpo"><b>Tratamiento de la acidosis.</b> - En situaciones medicas específicas, como la acidosis metabólica, el bicarbonato de sodio puede ser administrado como parte del tratamiento para corregir el desequilibrio acido -base en el cuerpo</b></p>
+            <p class="Tipografia--general letranegro General--Cuerpo"><b>Alcalinización de la orina. -</b> En ciertos casos clínicos, el bicarbonato de sodio puede ser utilizado para alcalinizar la orina y ayudar en el tratamiento de ciertas condiciones médicas.</b></p>
+            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Fabricante</b></h2>
+            <img src="img/LOGO_SOLVAY.jpg" alt="" width="15%">
+            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Descargas</b></h2>
+            <div class="col s12 m12 l6 xl6">
+            <div style="border:1px solid #000020;border-radius:15px;height:500px;">
+                <center><img src="img/flecha_ico.png" alt="" width="30%"></center>
+                <hr style="border: 2px solid #000020;width:50%;">
+                <h2 class="Tipografia--general letranegro Titulos" style="text-align:center;"><b style="color:#000020;">Literatura Técnica</b></h2>
+                <ol>
+                    <li style="list-style-type:disc;">Hoja Técnica de Producto</li>
+                    <ol>
+                       <a href="PDF/SOLVAY_PDS_BICARPHARMA-APL_010416.pdf" download><li style="list-style-type:circle;color:#000020" class="arrowblue"">SOLVAY_PDS_BICARPHARMA-APL_010416.pdf</li></a>
+                    </ol>
+                </ol>
+            </div>
+            </div>
+      
+            <div class="col s12 m12 l6 xl6">
+            <div style="border:1px solid #000020;border-radius:15px;height:500px;">
+                <center><img src="img/formula_ico.png" alt="" width="30%"></center>
+                <hr style="border: 2px solid #000020;width:50%;">
+                <h2 class="Tipografia--general letranegro Titulos" style="text-align:center;"><b style="color:#000020;">Cátalogos</b></h2>
+                <ol>
+                    <li style="list-style-type:disc;">Catalogo BicarPharma</li>
+                    <ol>
+                       <a href="PDF/SOLVAY_PDS_BICARPHARMA-API_010416.pdf" download></a> <li style="list-style-type:circle;color: #000020;" class="arrowblue">SOLVAY_PDS_BICARPHARMA-API_010416.pdf</li></a>
+                    </ol>
+                </ol>
+                
+            </div>
+            </div>
+<div class="col s12 m12 l12 xl12" style="margin-top:50px;">
+    <div style="background-color:#678de0;border-radius:15px;padding:15px">
+        <p class="letranegro Tipografia--general General--Cuerpo" style="color:white;">Chemical Broker ofrece ingredientes farmacéuticos cumpliendo con altos estándares de calidad como:</p>
+        <ol style="list-style-type:none;">
+            <li class="Elementos--Listas letranegro" style="color:white;">a)	Calidad superior y constante con un perfil de pureza muy alto</li>
+            <li class="Elementos--Listas letranegro" style="color:white;">b)	Fiabilidad y disponibilidad del producto gracias a una presencia mundial</li>
+            <li class="Elementos--Listas letranegro" style="color:white;">c)	Diferentes granulometrías para satisfacer las necesidades del cliente</li>
+            <li class="Elementos--Listas letranegro" style="color:white;">d)	Mejor soporte en documentación para cumplir y anticipar el futuro global </li>
+            <li class="Elementos--Listas letranegro" style="color:white;">e)	Estándares de calidad (CEP disponible)</li>
+            <li class="Elementos--Listas letranegro" style="color:white;">f)	Construir y superar estándares de certificación GMP ICH Q7 y GMP IPEC-PQG</li>
         </ol>
-
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:5px;"><b>Funcionalidad de la Lecitina</b></h2>
-
-        <p class="Tipografia--general letranegro General--Cuerpo"><b>La Lecitina</b> está compuesta de fosfolípidos, que guardan el secreto de su extensa funcionalidad, Por un lado, los fosfolípidos atraen agua; por el otro, atraen el petróleo. Está propiedad anfipática permite que la lecitina cree una fuerte mezcla de aceite en agua y aceite, emulsiones... y también puede proporcionar una miríada de otros beneficios.</p>
-
-        <ol style="margin-bottom:0px;">
-          <li class="Elementos--listas Tipografia--general" style="list-style-type:disc;">Alternativa amigable con las etiquetas y a los emulsionanéticos,</li>
-          <br>
-          <li class="Elementos--listas Tipografia--general" style="list-style-type:disc;">Estabilización,</li>
-          <br>
-          <li class="Elementos--listas Tipografia--general" style="list-style-type:disc;">Homogeneización,</li>
-          <br>
-          <li class="Elementos--listas Tipografia--general" style="list-style-type:disc;">Anti-oxidación,</li>
-          <br>
-          <li class="Elementos--listas Tipografia--general" style="list-style-type:disc;">Dispersante,</li>
-          <br>
-          <li class="Elementos--listas Tipografia--general" style="list-style-type:disc;">Agente Humectante.</li>
-        </ol>
-
-        <!-- <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La lecitina se prepara extrayendo y purificando los fosfolípidos de productos naturales como la soja, los huevos, el girasol y las semillas de canola.</p> -->
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:5px;"><b>Tipos</b></h2>
-
-        <ol style="margin-bottom:0px;">
-          <li class="Elementos--listas Tipografia--general" style="list-style-type:disc;">Soya,</li>
-          <br>
-          <li class="Elementos--listas Tipografia--general" style="list-style-type:disc;">Canola,</li>
-          <br>
-          <li class="Elementos--listas Tipografia--general" style="list-style-type:disc;">Girasol.</li>
-        </ol>
-
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Estado Regulatorio</b></h2>
-
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">En la UE, la lecitina (E322) Está regulada por el Reglamento (CE) n° 1333/2008 del Parlamento Europeo y del Consejo de 16 de diciembre de 2008 sobre aditivos alimentarios.</p>
-
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Fabricante:</b></h2>
-
-        <ol style="margin-top:50px;">
-        <a href="PAGINA_SECUNDARIA_LECITINAS.php" style="color: black;" class="arrowblue"><img src="img/Cargill-Logo_2.png" alt="" class="logo_lecitinas_secundarias"><span class="arrowblue">Ver Más...</span></a>
-          <!-- <li class="Elementos--listas Tipografia--general"><a href="PAGINA_SECUNDARIA_LECITINAS.php" style="color: black;" class="arrowblue">Cargill</a></li> -->
-        </ol>
-
-  </div>
+        <p class="letranegro Tipografia--general General--Cuerpo" style="color:white;">Podemos proporcionarle el grado adecuado de Bicarbonato de Sodio. Además, podemos brindar un sólido soporte para cumplir con las especificaciones y requisitos regulatorios del mercado.</p>
+    </div>
+</div>
+            
+        </div>
     </div>
   </div>
-
-
-
 
  
-
-
+  
 </body>
-<footer style="margin-top:70px;">
+<footer style="margin-top:70px">
   <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png"
       alt=""></div><br><br>
   <div class="container-fluid" style="text-align:center;margin-top:-50px">
