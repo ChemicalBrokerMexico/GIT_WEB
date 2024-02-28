@@ -827,7 +827,7 @@
                     <li class="Tipografia--general General--Cuerpo"
                         style="list-style-type:disc;color:rgba(2 146 238 /99%);"><a href="Pectinas_Farmaceutica.php"
                             class="arrowblue Tipografia--general letranegro"
-                            style="color:rgba(2 146 238 /99%);">Farmaceuti</a></li>
+                            style="color:rgba(2 146 238 /99%);">Farmaceutica</a></li>
                 </ol>
 
             </div>
