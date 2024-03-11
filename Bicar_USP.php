@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <title>Chemical Broker | Bicar USP</title>
     <meta name="description" content="El bicarbonato de sodio (también llamado bicarbonato sódico, hidrogenocarbonato de sodio,​carbonato ácido de sodio o bicarbonato de soda) es un compuesto sólido cristalino de color blanco soluble en agua, con un ligero sabor alcalino parecido al del carbonato de sodio (aunque menos fuerte y más salado que este último), de fórmula NaHCO3. Se puede encontrar como mineral en la naturaleza o se puede producir artificialmente.">
+    <link rel="canonical" href="">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">

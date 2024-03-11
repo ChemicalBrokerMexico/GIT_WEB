@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
   <meta name="description"
     content="Comienza tu carrera profesional, en una organizacion comprometida completamente con tu crecimiento profesional unete a nuestro gran equipo en Chemical Broker">
+    <link rel="canonical" href="">
   <title>Chemical Broker | Carreras</title>
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">

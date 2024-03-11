@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
@@ -624,7 +623,7 @@
                 <ol>
                     <li style="list-style-type:disc;">Catalogo BicarPharma</li>
                     <ol>
-                       <a href="PDF/SOLVAY_PDS_BICARPHARMA-API_010416.pdf" download></a> <li style="list-style-type:circle;color: #000020;" class="arrowblue">SOLVAY_PDS_BICARPHARMA-API_010416.pdf</li></a>
+                       <a href="PDF/SOLVAY_PDS_BICARPHARMA-API_010416.pdf" download><li style="list-style-type:circle;color: #000020;" class="arrowblue">SOLVAY_PDS_BICARPHARMA-API_010416.pdf</li></a>
                     </ol>
                 </ol>
                 

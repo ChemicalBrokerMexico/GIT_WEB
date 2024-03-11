@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <title>Chemical Broker | Acido Miristico</title>
     <meta name="description" content="El ácido mirístico o ácido tetradecanoico es un ácido graso común saturado. Un miristato es la sal o éster del ácido mirístico.">
+    <link rel="canonical" href="">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">

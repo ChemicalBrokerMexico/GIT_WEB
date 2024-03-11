@@ -5,7 +5,8 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
   <title>Chemical Broker | Nitruro de Boro del fabricante Saint Gobain </title>
-  <meta name="description" content="El Nitruro de Boro de Saint Gobain es un polvo de grado cosmético muy fino con buena opacidad. Puede impartir una sensación sedosa, suave y lubricante en las formulaciones cosméticas, al tiempo que mejora la difusión."> 
+  <meta name="description" content="El Nitruro de Boro de Saint Gobain es un polvo de grado cosmético muy fino con buena opacidad. Puede impartir una sensación sedosa, suave y lubricante en las formulaciones cosméticas, al tiempo que mejora la difusión.">
+  <link rel="canonical" href=""> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">

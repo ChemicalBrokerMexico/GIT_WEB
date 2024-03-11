@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0" />
   <title>Chemical Broker | Mercado Farmacéutico</title>
   <meta name="description" content="Calidad en cada ingrediente; en Chemical Broker contamos con un amplio portafolio de ingredientes farmaceuticos los cuales cumplen con las mejores certificaciones a nivel global con el objetivo de brindar la mayor calida a nuestros socios de negocios.">
+  <link rel="canonical" href="">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
   <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen" />

@@ -6,7 +6,9 @@
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
   <title>Chemical Broker | Dextrosas</title>
   <meta name="description" content="Los azúcares son una fuente importante de energía, esencial para que nuestro cuerpo y cerebro funcionen de manera óptima. La dextrosa es un azúcar que se encuentra ampliamente en la naturaleza.">
+  <link rel="canonical" href="">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
+  <link rel="canonical" href="https://Dextrosas.com"/>
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">

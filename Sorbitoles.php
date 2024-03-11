@@ -4,12 +4,12 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
   <title>Chemical Broker | Acidos Grasos</title>
-  <meta name="description"
-    content="Los ácidos grasos se derivan de grasas y aceites animales como el sebo de res y de diversos aceites vegetales.">
+  <meta name="description" content="Los ácidos grasos se derivan de grasas y aceites animales como el sebo de res y de diversos aceites vegetales.">
   <meta http-equiv="Expires" content="0">
   <meta http-equiv="Last-Modified" content="0">
   <meta http-equiv="Cache-Control" content="no-cache, mustrevalidate">
   <meta http-equiv="Pragma" content="no-cache">
+  <link rel="canonical" href="">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">

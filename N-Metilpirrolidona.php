@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <title>Chemical Broker | N-Metilpirrolidona del fabricante Basf</title>
     <meta name="description" content="La N-metil-2-pirrolidona (NMP) es un disolvente orgánico aprotico, altamente polar, que consta de una lactama de 5 miembros.">
+    <link rel="canonical" href="">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">

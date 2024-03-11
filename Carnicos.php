@@ -4,6 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
 <meta name="description" content="La industria cárnica es uno de los principales sectores de la industria alimentaria, se encarga de la producción, el procesamiento y la distribución de la carne animal en los principales centros de consumo del mundo">
+<link rel="canonical" href="">
 <title>Chemical Broker | Carnicos</title>
 <link rel="shortcut icon" href="img/CB_ICON.ico" />
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">

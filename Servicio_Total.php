@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
     <title>Chemical Broker | Nuestro Servicio Integral</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="Ingresa a nuestro sitio web y conoce nuestro Servicio Total desde su conceptualizacion hasta la ejecucion, ofrecemos soluciones integrales que impulsan tu exito, con Chemical Broker alcanza tus metas.">
+    <link rel="canonical" href="">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen"/>
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen"/>
