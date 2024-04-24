@@ -656,10 +656,10 @@
                         style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
                         href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b>
                             >
-                            &nbsp</b><a class="breditem active" href="Glycerins.php"
+                            &nbsp</b><a class="breditem active" href="Alcohol_isopropilico_USP.php"
                             style="color:#262137 !important;margin-left:-2px"><b
                                 class="Tipografia--general letranegro Subtitulos breadcrumb">Alcohol
-                                Isopropílico Grado Industrial o Técnico</b></a></section>
+                                Isopropílico USP</b></a></section>
                 </section>
             </div>
         </div>

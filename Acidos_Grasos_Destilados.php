@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
   <title>Chemical Broker | Ácidos Grasos Destilados de Peter Cremer</title>
   <meta name="description" content="Conoces los Ácidos Grasos Destilados, en Chemical Broker contamos con los Acidos Grasos Destilados de Peter Cremer los cuales tienen una calidad mundial">
-  <link rel="canonical" href="">
+  <link rel="canonical" href="https://chemicalbroker.mx/Acidos_Grasos_Destilados.php">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -572,7 +572,7 @@
               &nbsp</b><a class="breditem active" href="Glycerins.php"
               style="color:#262137 !important;margin-left:-2px"><b
                 class="Tipografia--general letranegro Subtitulos">Ácidos Grasos ></b></a>
-                <a class="breditem active" href="Acido_Oleico.php"
+                <a class="breditem active" href="Acidos_Grasos_Destilados.php"
               style="color:#262137 !important;margin-left:-2px"><b
                 class="Tipografia--general letranegro Subtitulos breadcrumb">Ácidos Grasos Destilados</b></a></section>
         </section>

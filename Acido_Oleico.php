@@ -4,8 +4,8 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Acido Oleico</title>
-  <link rel="canonical" href="">
+  <title>Chemical Broker | Acido Oleico de Peter Cremer</title>
+  <link rel="canonical" href="https://chemicalbroker.mx/Acido_Oleico.php">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -558,7 +558,7 @@
       <ul class="slides slides-pruea">
         <li> <img src="img/ACIDO_OLEICO_141222.jpg" alt="" style="height:500px;filter: brightness(0.8);">
           <div class="caption center-align"><br><br><br><br>
-            <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo"
+            <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo"
               style="font-size: 26px;">Ácido Oleico</b>
           </div>
         </li>
@@ -572,7 +572,7 @@
         <section class="breditem--inicio"><a class="breditem active" href="index.php"
             style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
             href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b> >
-              &nbsp</b><a class="breditem active" href="Glycerins.php"
+              &nbsp</b><a class="breditem active" href="Acido_Oleico.php"
               style="color:#262137 !important;margin-left:-2px"><b
                 class="Tipografia--general letranegro Subtitulos">Ácidos Grasos ></b></a>
                 <a class="breditem active" href="Acido_Oleico.php"
@@ -586,8 +586,8 @@
   <div class="container">
     <div class="row">
       <div class="col s12 m6 l12 xl12">
-        <h5 class="Tipografia--general letranegro Titulos"><b>Ácido Oleico</b>
-        </h5>
+        <h2 class="Tipografia--general letranegro Titulos"><b>Ácido Oleico</b>
+        </h2>
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">El <b>Ácido Oleico</b> es un ácido graso monoinsaturado de la serie Omega 9 típico de los aceites vegetales y en grasas animales.</p>
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Este ácido graso monoinsaturado se encuentra en los aceites de oliva, aguacate, semillas de uva, girasol, canola, sésamo, además en nueces, castañas, avellanas, almendras, pistachos, maní entre otros:</p>
           <table style="margin-top:50px;">
@@ -727,13 +727,12 @@
 </tbody>
           </table>
           <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">El ácido oleico es una sustancia líquida oleosa e incolora, que se oxida cuando entra en contacto con el aire, su olor es similar al de la manteca de cerdo, siendo su masa molecular de 282 g/mol.</p>
-          <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Al ser un ácido graso monoinsaturado posee sólo un doble enlace de carbono-carbono en su estructura química.</p>
-          <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Así, la hidrogenación de este doble enlace produce ácido esteárico saturado y su reducción genera alcohol oleílico.</p>
+          <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Al ser un ácido graso monoinsaturado posee sólo un doble enlace de carbono-carbono en su estructura química, Así, la hidrogenación de este doble enlace produce ácido esteárico saturado y su reducción genera alcohol oleílico.</p>
           <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Aunque es insoluble en agua, resulta ser soluble en los disolventes orgánicos como el benceno, alcohol y éter.</p>
           <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Otras características que presenta este ácido es que se solidifica por enfriamiento y se funde desde los 14° centígrados.</p>
           <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">En temperaturas muy bajas puede formar una mezcla que es inflamable al unirse con el oxígeno del aire.</p>
           <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Se descompone con el calor, dando origen por destilación a ácidos sebácico, caprílico, caproico y otros componentes.</p>
-          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Caracteristicas</b></h5>
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Caracteristicas</b></h2>
           <ol style="margin-bottom:0px;">
             <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Es estable a la oxidacion</li>
             <br>
@@ -745,7 +744,7 @@
             <br>
             <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;margin-bottom:0px;">Es insoluble en agua</li>
           </ol>
-          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;"><b>Beneficios</b></h5>
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;"><b>Beneficios</b></h2>
           <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">Uno de los principales beneficios del ácido oleico es que actúa como protector del sistema cardiovascular ya que ayuda a reducir la tensión arterial y el colesterol malo, además de aumentar el colesterol bueno.</p>
           <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">El ácido oleico está incluido en algunos alimentos de la dieta humana.</p>
           <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">De igual manera, el Omega 9 también es producido por el cuerpo de forma natural, cuando existen suficientes ácidos de Omega 3 y 6.</p>
@@ -765,13 +764,13 @@
             <br>
             <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Juega un papel fundamental en el mantenimiento del peso corporal, ya que interviene en la regulación metabólica de los lípidos.</li>
           </ol>
-          <h5 class="Tipografia--general letranegro" style="margin-top:50px;text-align:center;font-size:30px;"><b style="color:#BF8F00;">“Consumir alimentos ricos en ácido oleico disminuye el riesgo de padecer enfermedades cardiovasculares, a diferencia de otros tipos de grasa.”</b></h5>
-          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;"><b>Aplicaciones</b></h5>
-          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Farmaceutica</b></h5>
+          <h2 class="Tipografia--general letranegro" style="margin-top:50px;text-align:center;font-size:30px;"><b style="color:#BF8F00;">“Consumir alimentos ricos en ácido oleico disminuye el riesgo de padecer enfermedades cardiovasculares, a diferencia de otros tipos de grasa.”</b></h2>
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;"><b>Aplicaciones</b></h2>
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Farmaceutica</b></h2>
           <ol style="margin-bottom:0px;">
-            <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Excipiente</li>
+            <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Excipientes</li>
           </ol>
-          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Suplementos</b></h5>
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Suplementos</b></h2>
           <ol style="margin-bottom:0px;">
             <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Vitamina E</li>
             <br>
@@ -779,7 +778,7 @@
             <br>
             <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Vitamina B-1</li>
           </ol>
-          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Cosmeticos y Cuidado Personal</b></h5>
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Cosmeticos y Cuidado Personal</b></h2>
           <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">El ácido oleico cuenta con un alto poder antioxidante y antienvejecimiento, es por estas razones por las cuales se utiliza en gran medida en esta industria, en aplicaciones como:</p>
           <ol style="margin-bottom:0px;">
             <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Cosmeticos</li>
@@ -794,7 +793,7 @@
             <br>
             <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Barras para labios</li>
           </ol>
-          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Agroquimicos</b></h5>
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Agroquimicos</b></h2>
           <ol style="margin-bottom:0px;">
             <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Fertilizantes</li>
             <br>
@@ -808,7 +807,7 @@
             <br>
             <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Aceites Vegetales</li>
           </ol>
-            <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Otros</b></h5>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Otros</b></h2>
             <ol style="margin-bottom:0px;">
             <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Lubricante en las industrias metalurgicas</li>
             <br>
@@ -823,13 +822,13 @@
             <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Laboratorios; lo emplean en el analisis y la investigacion de ciertos componentes quimicos organicos.</li>
           </ol>
           <div class="col s12 m12 l12 xl12">
-      <h5 class="Tipografia--general letranegro General--Cuerpo" style="display:inline-block;margin-top:50px;">
+      <h2 class="Tipografia--general letranegro General--Cuerpo" style="display:inline-block;margin-top:50px;">
         <b>Fabricantes:</b>
-      </h5>
+      </h2>
       <div class="col s12 l12 xl12"><img src="img/LOGO_CREMER3_010922.png" alt="CREMER-LOGO" class="CREMER_LOGO"
           style="margin-top:30px;"></div>
       <div class="col s12 m12 l12 xl12" style="margin-top:50px;">
-      <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:0px;"><b>Literatura Tecnica</b></h5>
+      <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:0px;"><b>Literatura Tecnica</b></h2>
         <ol style="margin-bottom:0px;">
           <li style="list-style-type:disc;margin-left:-23px;">
             <a href="PDF/CATALOGUES/CREMER_PS_CREMERAC-OLS-70_051113.pdf"

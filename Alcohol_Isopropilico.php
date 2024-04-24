@@ -7,7 +7,7 @@
     <title>Chemical Broker | Alcohol Isopropílico de Lyondell Basell</title>
     <meta name="description"
         content="Chemical Broker Distribuye Alcohol Isopropilico de la mas alta calidad del fabricante Lyondell Basell, Ingresa y Contactanos.">
-        <link rel="canonical" href="">
+        <link rel="canonical" href="https://chemicalbroker.mx/Alcohol_Isopropilico.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -657,7 +657,7 @@
                         style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
                         href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b>
                             >
-                            &nbsp</b><a class="breditem active" href="Glycerins.php"
+                            &nbsp</b><a class="breditem active" href="Alcohol_Isopropilico.php"
                             style="color:#262137 !important;margin-left:-2px"><b
                                 class="Tipografia--general letranegro Subtitulos breadcrumb">Alcohol
                                 Isopropílico</b></a></section>

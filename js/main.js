@@ -369,4 +369,35 @@ boton.addEventListener('click', function MostrarContenido(){
 // })
 
 
+//funcion 18 agregado de campos
+
+function anadir_campos(){
+
+  var Tipo_empresa = $("#Tipoempresa").find("option:selected").val();
+  var Formcontacto = $("#enviocorreo").val;
+  var contenedor = $("#pruebadinamic");
+  if(Tipo_empresa == "Quimicos"){
+
+    input = ` <div class="input-field col s12 m6 l6 xl6"><i class="material-icons prefix">work </i>
+    <select id='pruebadinamica' name='pruebadinamica'>
+    <option value="" disabled selected>Tipo de Empresa</option>
+    <option value="Qumicos">Quimicosdinamicos</option>
+    <option value="Servicios">Servicios</option>
+    <option value="Material de Empaque">Material de Empaque</option>
+  </select>
+  </div>
+    `
+   $(contenedor).append(input);
+
+  }else{
+    alert("error")
+  }
+
+    
+  }
+
+
+
+
+
 

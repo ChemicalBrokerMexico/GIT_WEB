@@ -4,9 +4,9 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Acido Miristico</title>
+    <title>Chemical Broker | Acido Miristico de Peter Cremer</title>
     <meta name="description" content="El ácido mirístico o ácido tetradecanoico es un ácido graso común saturado. Un miristato es la sal o éster del ácido mirístico.">
-    <link rel="canonical" href="">
+    <link rel="canonical" href="https://chemicalbroker.mx/Acido_Miristico.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -656,7 +656,7 @@
                         style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
                         href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b>
                             >
-                            &nbsp</b><a class="breditem active" href="Glycerins.php"
+                            &nbsp</b><a class="breditem active" href="Acido_Miristico.php"
                             style="color:#262137 !important;margin-left:-2px"><b
                                 class="Tipografia--general letranegro Subtitulos breadcrumb">Ácido Miristico</b></a>
                 </section>

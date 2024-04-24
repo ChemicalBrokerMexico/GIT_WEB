@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
   <title>Chemical Broker | Acidos Grasos de Peter Cremer</title>
   <meta name="description" content="Buscas Acidos Grasos de la mas alta calidad Chemical Broker es tu mejor opcion, contamos con ingredientes quimicos  de la mas alta calidad. ">
-  <link rel="canonical" href="">
+  <link rel="canonical" href="https://chemicalbroker.mx/Acidos_grasos.php">
   <meta http-equiv="Expires" content="0">
   <meta http-equiv="Last-Modified" content="0">
   <meta http-equiv="Cache-Control" content="no-cache, mustrevalidate">
@@ -562,6 +562,7 @@
       <ul class="slides slides-pruea">
         <li> <img src="img/CB_ACIDOS_GRASOS_291223.jpg" alt="" style="height:400px;filter: brightness(0.9);"
             class="img_acidos_grasos img_acidos_grasos_desktop">
+            <!-- <video src="VIDEO/ACIDOS_GRASOS.mp4" autoplay height="1000px" width="100%"></video>  -->
           <div class="caption center-align"><br><br><br><br>
             <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo"
               style="font-size: 26px;">Ácidos Grasos</b>
@@ -577,7 +578,7 @@
         <section class="breditem--inicio"><a class="breditem active" href="index.php"
             style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
             href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b> >
-              &nbsp</b><a class="breditem active" href="Glycerins.php"
+              &nbsp</b><a class="breditem active" href=".php"
               style="color:#262137 !important;margin-left:-2px"><b
                 class="Tipografia--general letranegro Subtitulos breadcrumb">Ácidos Grasos</b></a></section>
         </section>

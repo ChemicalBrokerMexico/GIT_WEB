@@ -4,8 +4,8 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Glicerinas</title>
-  <meta name="description" content="Chemical Broker distribuye mundialmente Glicerina de la mas alta Pureza y Calidad para las formulaciones de nuestros clientes."> 
+  <title>Chemical Broker | Glicerinas de los Principales Fabricantes a nivel Global (Peter Cremer, Oleon, Procter and Gamble )</title>
+  <meta name="description" content="Chemical Broker distribuye mundialmente Glicerina de la mas alta Pureza y Calidad para las formulaciones de nuestros clientes, vendiendo unicamente Glicerina de los mejores Fabricantes a nivel mundial."> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">

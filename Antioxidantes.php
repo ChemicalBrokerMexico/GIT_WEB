@@ -4,9 +4,9 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Antioxidantes</title>
+  <title>Chemical Broker | Antioxidantes del Fabricante Camlin</title>
   <meta name="description" content="Los antioxidantes son importantes en cualquier cadena de suministro ya que preservan los alimentos y evitan su oxidacion">
-  <link rel="canonical" href="">
+  <link rel="canonical" href="https://chemicalbroker.mx/Antioxidantes.php">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -586,8 +586,8 @@
           retardar o prevenir la oxidación de otras moléculas y alargar la vida útil de los productos. La oxidación
           deteriora las propiedades de grasas y aceites dando como resultado sabores y olores desagradables</p>
 
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Hoy en dÍa nuestra oferta
-          incluye glicerina en cumplimiento a GMP´s, Kosher, Halal, GFSI, FCC, USP, RSPO Mass Balance.</p>
+        <!-- <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Hoy en dÍa nuestra oferta
+          incluye glicerina en cumplimiento a GMP´s, Kosher, Halal, GFSI, FCC, USP, RSPO Mass Balance.</p> -->
 
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Los antioxidantes terminan
           estas reacciones quitando intermedios del radical e inhiben otras reacciones de oxidación, oxidándose ellos

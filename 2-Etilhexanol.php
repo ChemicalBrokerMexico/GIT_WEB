@@ -4,9 +4,9 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | 2-Etilhexanol</title>
+  <title>Chemical Broker | 2-Etilhexanol de Basf</title>
   <meta name="description" content="Chemical Broker distribuye mundialmente Glicerina de la mas alta Pureza y Calidad para las formulaciones de nuestros clientes."> 
-  <link rel="canonical" href="">
+  <link rel="canonical" href="https://chemicalbroker.mx/2-Etilhexanol.php">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -568,7 +568,7 @@
         <section class="breditem--inicio"><a class="breditem active" href="index.php"
             style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
             href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b> >
-              &nbsp</b><a class="breditem active" href="Acidos_Grasos_Destilados_Palma.php"
+              &nbsp</b><a class="breditem active" href="2-Etilhexanol.php"
               style="color:#262137 !important;margin-left:-2px"><b
                 class="Tipografia--general letranegro Subtitulos breadcrumb">2-Etilhexanol (2-EH)</b></a></section>
         </section>

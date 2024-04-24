@@ -6,7 +6,7 @@
     <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
     <title>Chemical Broker | Nuestros Valores Organizacionales</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="Somos una organización que se rige por valores universales, aplicables en todo momento y lugar, sin importar raza, credo, posición económica o cualquier otra distinción con el objetivo de aportar excelencia a nuestro mundo.">
-    <link rel="canonical" href="">
+    <link rel="canonical" href="https://chemicalbroker.mx/Valores.php">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">

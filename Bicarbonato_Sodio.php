@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
   <title>Chemical Broker | Bicarbonato de Sodio de Solvay</title>
   <meta name="description" content="Chemical Broker brinda a sus socios de negocio, Bicarbonato de Sodio de la mas alta calidad a nivel mundial con el objetivo de brindar al mercado mundial la mas alta calidad .">
-  <link rel="canonical" href="">
+  <link rel="canonical" href="https://chemicalbroker.mx/Bicarbonato_Sodio.php">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -737,20 +737,20 @@
 
         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Obtención</b></h2>
 
-        <p class="Tipografia--general letranegro General--Cuerpo">Mediante el proceso Solvay. Aunque es utilizado para
+        <p class="Tipografia--general letranegro General--Cuerpo">Se obtiene Mediante el proceso Solvay. Aunque es utilizado para
           obtener Na2CO3, es posible obtener en una de las reacciones intermedias bicarbonato sódico. El proceso
           consiste en la siguiente reacción:</p>
 
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;"><b>NaCl + NH<b><sub>3</sub></b> + CO<b><sub>2</sub></b> +
           H<b><sub>2</sub></b>O → NaHCO3 + NH<b><sub>4</sub></b>Cl</b></p>
 
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Cloruro de sodio (NaCl) + Amoníaco (NH<sub>3</sub>) +
-          Dióxido de carbono (CO<sub>2</sub>) + Agua (H<sub>2</sub>O)</p>
+          
 
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">En la cual precipita el <b style="color:#000020;">bicarbonato de sodio</b> debido a la capacidad del
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Cloruro de sodio (NaCl) + Amoníaco (NH<sub>3</sub>) +
+          Dióxido de carbono (CO<sub>2</sub>) + Agua (H<sub>2</sub>O) En la cual precipita el <b style="color:#000020;">bicarbonato de sodio</b> debido a la capacidad del
           <b style="color:#000020;">bicarbonato de sodio</b> de liberar dióxido de carbono se usa junto con compuestos acídicos.</p>
 
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;"></p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">Debido a la capacidad del bicarbonato de sodio de liberar dióxido de carbono se usa junto con compuestos acídicos y tiene diversas funciones y aplicaciones:</p>
 
         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Funciones:</b></h2>
 
@@ -781,68 +781,45 @@
 
         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Aplicaciones:</b></h2>
 
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;"><b style="color:#000020;">Nutrición Humana</b></h2>
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;"><b style="color:#000020;">Industria Farmacéutica</b></h2>
 
-        <p class="Tipografia--general letranegro General--Cuerpo">Con una amplia gama de tamaños de partículas
-          disponibles, ha sido reconocido durante mucho tiempo como el agente leudante:</p>
-
-        <p class="Tipografia--general letranegro General--Cuerpo">También se utiliza como gasificante para productos
-          horneados y como fuente de Dióxido de Carbono para bebidas efervescentes.</p>
-
-
-        <ol style="margin-bottom:0px;margin-top:50px">
-          <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Panificación,</li>
-          <br>
-          <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Bebidas
-            Carbonatadas,</li>
-          <br>
-          <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Repostería,</li>
-          <br>
-          <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Harinas Preparadas,
-          </li>
+        <ol>
+          <li class="Elementos--Listas">Excipiente</li>
+          <ol>
+            <li class="Elementos--Listas">Tablas Efervescentes</li>
+            <li class="Elementos--Listas">En hemodialisis para proporcionar electrolitos y estabilizar el pH</li>
+          </ol>
+          <li class="Elementos--Listas">Activo farmacéutico</li>
+          <li class="Elementos--Listas">Hiperacidez gástrica</li>
+          <li class="Elementos--Listas">Acidosis metabólica</li>
+          <li class="Elementos--Listas">Alcalinizante urinario</li>
+          <li class="Elementos--Listas">Antiácidos</li>
+          <li class="Elementos--Listas">Neutralizador de olores</li>
         </ol>
+
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;"><b style="color:#000020;">Industria Alimentaria</b></h2>
+
+       <ol>
+        <li class="Tipografia--general letranegro Elementos--Listas">Leudante de pan . - Se utiliza como agente leudante en productos horneados como pan, pasteles y galletas</li>
+        <li class="Tipografia--general letranegro Elementos--Listas">Regulador de pH. - Ayuda a mantener el pH adecuado en alimentos preparados y bebidas</li>
+        <li class="Tipografia--general letranegro Elementos--Listas">Ternura de carne . - Puede usarse para ablandar carne</li>
+        <li class="Tipografia--general letranegro Elementos--Listas">Gasificante para productos horneados</li>
+        <li class="Tipografia--general letranegro Elementos--Listas">Fuente de dioxido de carbono para bebidas efervecentes</li>
+       </ol>
 
         
+        
         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">
-          <b>Farmacéutica:</b></h2>
+          <b>Cuidado Personal:</b></h2>
 
         <ol>
-          <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Excipiente,</li>
-          <br>
-          <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Activo Farmacéutico,
-          </li>
-          <br>
-          <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Hiperacidez
-            Gástrica,</li>
-          <br>
-          <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Acidosis Metabólica
-          </li>
-          <br>
-          <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Alcalinizante
-            Urinario,</li>
-          <br>
-          <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Antiácidos</li>
-          <br>
-          <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;margin-bottom:0px;">
-            Neutralizador de Olores.</li>
-        </ol>
-
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Cuidado Personal:</b></h2>
-
-        <ol>
-          <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Shampoos,</li>
-          <br>
-          <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Desodorantes,</li>
-          <br>
-          <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Pastas Dentales,
-          </li>
-          <br>
-          <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Jabón de Tocador,
-          </li>
-          <br>
-          <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;margin-bottom:0px;">
-            Desodorantes.</li>
-
+          <li class="Tipografia--general letranegro Elementos--Listas">Exfoliante facial y corporal. - el bicarbonato de sodio se utiliza en productos exfoliantes, como limpiadores faciales o pastas de dientes, debido a su textura fina y suave, que puede ayudar a eliminar las células muertas de la piel y promover la renovación celular.</li>
+          <li class="Tipografia--general letranegro Elementos--Listas">Shampoos en seco. - algunas personas utilizan bicarbonato de sodio para absorber el exceso de grasa en el cabello, actúa	</li>
+          <li class="Tipografia--general letranegro Elementos--Listas">Pastas dentales. - se encuentra en algunas pastas de dientes naturales debido a sus propiedades para eliminar manchas y neutralizar olores.</li>
+          <li class="Tipografia--general letranegro Elementos--Listas">Jabón de tocador</li>
+          <li class="Tipografia--general letranegro Elementos--Listas">Desodorantes naturales. - se emplea en desodorantes para neutralizar los olores corporales.</li>
+          <li class="Tipografia--general letranegro Elementos--Listas">Exfoliantes faciales y corporales. - ayuda a eliminar células muertas de la piel y a suavizarla.</li>
+          <li class="Tipografia--general letranegro Elementos--Listas">Tratamiento de afecciones cutáneas. - el bicarbonato de sodio a menudo se utiliza en baños de inmersión para aliviar ciertas afecciones cutáneas, como la picazón y las irritaciones leves. Puede proporcionar alivio temporal.</li>
         </ol>
 
         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Detergentes y Cuidado del
@@ -856,7 +833,7 @@
         </ol>
 
 
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Nutrición Animal</b></h2>
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Pet y Nutrición Animal</b></h2>
         <p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#000020;">bicarbonato de sodio</b> ofrece una gama de soluciones
           eficaces para la nutrición, la higiene y la calidad de los piensos.</p>
         <p class="Tipografia--general letranegro General--Cuerpo">Es un complemento alimenticio para rumiantes, cerdos y

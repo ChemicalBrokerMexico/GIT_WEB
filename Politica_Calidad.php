@@ -6,7 +6,7 @@
     <meta name="description" content="Conoce nuestra Politica de Calidad, la cual establece nuestros compromisos y objetivos a cumplir con nuestros Socios de Negocios .">
     <title>Chemical Broker | Política de Calidad</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <link rel="canonical" href="">
+    <link rel="canonical" href="https://chemicalbroker.mx/Politica_Calidad.php">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
     <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">

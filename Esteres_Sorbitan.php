@@ -4,9 +4,9 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Ésteres de Sorbitan</title>
+  <title>Chemical Broker | Ésteres de Sorbitan de Enfoque Químico</title>
   <meta name="description" content="Chemical Broker distribuye mundialmente Glicerina de la mas alta Pureza y Calidad para las formulaciones de nuestros clientes."> 
-  <link rel="canonical" href="">
+  <link rel="canonical" href="https://chemicalbroker.mx/Esteres_Sorbitan.php">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">

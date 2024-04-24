@@ -6,6 +6,7 @@
     <meta name="description" content="Las aves de corral llevan una dieta rica en: Trigo, Arroz, Cebada, Avena, Sorgo, Chemical Broker provee a sus socios de negocio con ingredientes de la mas alta calidad">
     <title>Chemical Broker | Aves de Corral</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <link rel="canonical" href="https://chemicalbroker.mx/Aves_Corral.php">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
     <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">

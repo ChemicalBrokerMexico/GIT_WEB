@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
     <meta name="description" content="Nuestro Código Global de Ética refleja nuestra filosofía corporativa, definiendo nuestros valores básicos y los estándares de conducta que se esperan de los integrantes de Chemical Broker.">
-    <link rel="canonical" href="">
+    <link rel="canonical" href="https://chemicalbroker.mx/Code_of_Conduct.php">
     <title>Chemical Broker | Nuestro Codigo de Conducta</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen"/>

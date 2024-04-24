@@ -5,8 +5,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
     <title>Chemical Broker | Nuestras Premisas Organizacionales</title><link rel="shortcut icon" href="img/CB_ICON.ico"/>
     <meta name="description" content="Nuestras premisas nos permiten actuar de igual forma con nuestros socios de negocios, así como mejorar constantemente nuestros procesos productivos y de negocios con el objetivo de brindar excelencia a nuestros socios de negocios.">
-    <link rel="canonical" href="">
-    <link rel="canonical" href="">
+    <link rel="canonical" href="https://chemicalbroker.mx/Premisas.php">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen"/>
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen"/>
@@ -421,6 +420,7 @@
       <span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Orden<i class="material-icons right">arrow_upward</i></b></span>
     </div>
     <div class="card-reveal">
+    <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
     <h2 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:#F7291E;text-decoration: underline;text-decoration-color:#F7291E;">Definición </b></h2>
           <p class="letranegro General--Cuerpo Tipografia--general" style="text-align:justify">Es la manera de estar colocadas las cosas en el espacio o de sucederse los hechos en el tiempo, según un determinado criterio o una determinada norma y de acuerdo con un plan, el cual se contrapone a la casualidad y el caos.</p>
           <h2 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:#F7291E;text-decoration: underline;text-decoration-color:#F7291E;">Etimología </b></h2>
@@ -441,6 +441,7 @@
       <span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Seguridad<i class="material-icons right">arrow_upward</i></b></span>
     </div>
     <div class="card-reveal">
+    <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
     <h2 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:#714324;text-decoration: underline;text-decoration-color:#714324;">Definición </b></h2>
           <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">Es la ausencia de peligro o riesgo. En términos generales, la seguridad se define como&nbsp<b style="color: #262137;">"el estado de bienestar que percibe y disfruta el ser humano".</b> Según la pirámide de Maslow, la seguridad en el ser humano ocupa el segundo nivel dentro de las necesidades de déficit. Según la teoría de las necesidades de Bronisław Malinowski, la seguridad es una de las siete necesidades básicas a satisfacer por el ser humano.
           </p>
@@ -463,6 +464,7 @@
       <span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Limpieza<i class="material-icons right">arrow_upward</i></b></span>
     </div>
     <div class="card-reveal">
+    <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
     <h2 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:blue;text-decoration: underline;text-decoration-color:blue;">Definición </b></h2>
           <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">Es la acción de limpiar la suciedad, lo superfluo o lo perjudicial de algo. Es la precisión con que se ejecuta algo y a la integridad de una organización en todo momento y circunstancia dentro y fuera del ámbito de negocios. </p>
           <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:blue;text-decoration: underline;text-decoration-color:blue;">Etimología </b></h2>

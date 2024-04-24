@@ -7,6 +7,7 @@
     <title>Chemical Broker | Aceite RBD de Cargill</title>
     <meta name="description" content="Chemical Broker Distribuye Aceite RBD de la mas alta Pureza y Calidad para las formulaciones de nuestros socios de negocios.">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <link rel="canonical" href="https://chemicalbroker.mx/Aceite_RBD.php">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
     <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -655,7 +656,7 @@
                         style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
                         href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b>
                             >
-                            &nbsp</b><a class="breditem active" href="Glycerins.php"
+                            &nbsp</b><a class="breditem active" href="Aceite_RBD.php"
                             style="color:#262137 !important;margin-left:-2px"><b
                                 class="Tipografia--general letranegro Subtitulos breadcrumb">Aceite de Soya Refinado</b></a></section>
                 </section>

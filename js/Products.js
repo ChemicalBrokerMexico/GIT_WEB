@@ -7,6 +7,18 @@ $(document).ready(function(){
     
     <div class="row" style="margin-top:-30px;"> 
     <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img/CB_ACEITE_COCO2.jpg" alt="" class="zoom IMG_Seccion_Prod">
+    </div>
+    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
+    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Coco</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">El Aceite de coco es un aceite vegetal derivado de la pulpa del coco (Cocos nucifera). Se obtiene mediante procesos de prensado en frio o extracción con calor de la carne blanca o la copra del coco. Es conocido por su alta concentración de ácidos grasos saturados de cadena media, especialmente acido láurico.</p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Coco.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+    
+    <div class="row" style="margin-top:150px;"> 
+    <div class="col s12 m12 l12 xl6 center-align">
     <img src="img/ACEITE_RBD_211223.jpg" alt="" class="zoom IMG_Seccion_Prod">
     </div>
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
@@ -417,8 +429,20 @@ function filtroall(){
     <div class="divfooter2 center-align"><span class="inicial--productos Tipografia--general"><b>All</b></span></div><br><br><br></div>
     `
     document.getElementById("contenedorliteral").innerHTML = `
-    
+
     <div class="row" style="margin-top:-30px;"> 
+    <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img/CB_ACEITE_COCO2.jpg" alt="" class="zoom IMG_Seccion_Prod">
+    </div>
+    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
+    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Coco</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">El Aceite de coco es un aceite vegetal derivado de la pulpa del coco (Cocos nucifera). Se obtiene mediante procesos de prensado en frio o extracción con calor de la carne blanca o la copra del coco. Es conocido por su alta concentración de ácidos grasos saturados de cadena media, especialmente acido láurico.</p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Coco.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+    
+    <div class="row" style="margin-top:150px;"> 
     <div class="col s12 m12 l12 xl6 center-align">
     <img src="img/ACEITE_RBD_211223.jpg" alt="" class="zoom IMG_Seccion_Prod">
     </div>
@@ -818,7 +842,20 @@ function filtroa(){
     `
     document.getElementById("contenedorliteral").innerHTML = `
 
+
     <div class="row" style="margin-top:-10px;"> 
+    <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img/CB_ACEITE_COCO2.jpg" alt="" class="zoom IMG_Seccion_Prod">
+    </div>
+    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
+    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Coco</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">El Aceite de coco es un aceite vegetal derivado de la pulpa del coco (Cocos nucifera). Se obtiene mediante procesos de prensado en frio o extracción con calor de la carne blanca o la copra del coco. Es conocido por su alta concentración de ácidos grasos saturados de cadena media, especialmente acido láurico.</p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Coco.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
+    <div class="row" style="margin-top:150px;"> 
     <div class="col s12 m12 l12 xl6 center-align">
     <img src="img/ACEITE_RBD_211223.jpg" alt=""  class="zoom IMG_Seccion_Prod">
     </div>

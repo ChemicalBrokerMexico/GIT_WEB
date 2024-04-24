@@ -13,9 +13,11 @@
     <link rel="stylesheet" href="css/History_Line.css">
     <link rel="stylesheet" href="css/jquery.dataTables.min.css">
     <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
     <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="js/materialize.js" type="text/javascript"></script>
     <script src="js/init.js"></script>
+    <script src="js/wow.js"></script>
     <script>new WOW().init();</script>
     <script type="text/javscript" src="js/materialize.min.js"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
@@ -228,6 +230,7 @@ recaptchaResponse.value = token;
     <nav style="background-color:white;height:25px;margin-top:-19px">
       <div class="nav-wrapper flex"><a class="sidenav-trigger" href="#" data-target="mobile-demo"><i class="material-icons letranegro">menu</i></a><span class="Pmenu letranegro">Menu</span>
         <ul class="hide-on-med-and-down">
+        <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="index.php.php"><b>Nosotros</b></a></li>
           <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Mercados.php"><b>Mercados</b></a></li>
           <ul id="dropdown3" class="dropdown-content" style="width:300px !important;">
                  <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a>
@@ -242,13 +245,13 @@ recaptchaResponse.value = token;
         </ul>
       </div>
       <div> 
-        <ul> <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock" style="color:white !Important;margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock" style="color:white !Important;display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
+         <ul> <!--<a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock" style="color:white !Important;margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock" style="color:white !Important;display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
             <div style="display:flex;justify-content:center"> 
               <p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
-            </div></a>
-          <li class="ul-independiente right"><a class="btn-search-desktop1" href="#" id="busquedaprueba" onclick="abrirsearch();"><i class="material-icons left search-desktop-icon" style="color:black !important;font-size:24px;font-weight:500;position:absolute;z-index:1">search</i></a></li>
+            </div></a> -->
+          <li class="ul-independiente right"><a class="btn-search-desktop1" href="#" id="busquedaprueba" onclick="abrirsearch();"><i class="material-icons left search-desktop-icon" style="color:black !important;font-size:24px;font-weight:500;position:absolute;z-index:1; margin-left: -111px;">search</i></a></li>
         </ul>
-        <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i class="material-icons search-mobile-icon" style="width:0px">search</i></a></div>
+        <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i class="material-icons search-mobile-icon" style="width:0px;">search</i></a></div>
       </div>
     </nav>
     <ul class="collapsible" id="search1" style="display:none">
@@ -423,13 +426,13 @@ recaptchaResponse.value = token;
     <div class="container">
       <div class="row">
         <div class="col s12 m6 l6 xl6" >
-          <div style="border:1px solid black;">
+          <div style="border:1px solid #f2f2f2;">
           <h6 style="padding:10px;background-color: #000020;margin-top:0px;"><b style="color:white"><center>Ventas</center></b></h6>
           <p class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;"><b>Teléfono: </b><a href="tel:+525575861888" class="arrowblue Tipografia--general General--Cuerpo" style="color:black">+52.55.7586.1888</a><br><span><b class="Tipografia--general General--Cuerpo">Correo Electrónico:</b></span><a href="mailto:sales@chemicalbroker.mx" style="color:black;font-size:16px" class="arrowblue Tipografia--general General--Cuerpo"> sales@chemicalbroker.mx</a></p>
           </div>
         </div>
         <div class="col s12 m6 l6 xl6">
-        <div style="border:1px solid black;height:151px;">
+        <div style="border:1px solid #f2f2f2;height:151px;">
           <h6 style="padding:10px;background-color:#000020;margin-top:0px;"><b style="color:white" class="Tipografia--general letranegro General--Cuerpo"><center>Información General</center></b></h6>
           <p style="padding:10px;" class="Tipografia--general letranegro General--Cuerpo"><b class="Tipografia--general General--Cuerpo">Teléfono:</b><a href="tel:+525575861818" class="arrowblue Tipografia--general General--Cuerpo" style="color:black">+52.55.7586.1818</a><br><span><b class="Tipografia--general General--Cuerpo">Correo Electrónico:</b></span><a href="mailto:info@chemicalbroker.mx" style="color:black;font-size:16px" class="arrowblue General--Cuerpo Tipografia--general"> info@chemicalbroker.mx</a></p>
           </div>
@@ -437,7 +440,7 @@ recaptchaResponse.value = token;
       </div>
     </div>
     <div class="container" style="margin-top:50px">
-      <form action="envio_correo.php" method="POST" id="enviocorreo" style="border:1px solid black;">
+      <form action="envio_correo.php" method="POST" id="enviocorreo" style="border:1px solid #f2f2f2;">
         <div class="row">
           <!-- <div class="input-field col s12 m6 l6 xl6"><i class="material-icons prefix">account_circle </i>
             <select class="validate" id="titulo" name="titulo" required="required">
@@ -448,7 +451,7 @@ recaptchaResponse.value = token;
           </div> -->
           <div class="input-field col s12 m6 l6 xl6"><i class="material-icons prefix">account_circle </i>
             <input class="validate" type="text" id="nombre" name="nombre" required="required">
-            <label for="nombre">Nombre / Apellido            </label>
+            <label for="nombre">Nombre / Apellido</label>
           </div>
           <div class="input-field col s12 m6 l6 xl6"><i class="material-icons prefix">business</i>
             <input class="validate" type="text" id="organizacion" name="organizacion" required="required">
@@ -467,19 +470,39 @@ recaptchaResponse.value = token;
               <option value="Comprador">Comprador</option>
               <option value="Otro">Otro</option>
             </select>
+            <label for="puesto">Puesto</label>
           </div>
           <div class="input-field col s12 m6 l6 xl6"><i class="material-icons prefix">mail </i>
             <input class="validate" type="email" id="email" name="email" required="required">
             <label for="email">Dirección de Correo Electrónico</label>
           </div>
         </div>
+
+          
+    <div class="row">
+        <div class="input-field col s12 m6 l6 xl6"><i class="material-icons prefix">work </i>
+            <select id="Tipoempresa" name="Tipoempresa" required="required" onchange="anadir_campos()">
+              <option value="" disabled selected>Tipo de Empresa</option>
+              <option value="Quimicos">Quimicos</option>
+              <option value="Servicios">Servicios</option>
+              <option value="Material de Empaque">Material de Empaque</option>
+            </select>
+          </div>
+          
+    </div>
+
+    <div class="container" id="pruebadinamic" name="pruebadinamic">
+
+    </div>
+
+
         <div class="row">
           
           <!-- <div class="input-field col s12 m6 l6 xl6"><i class="material-icons prefix">add_location</i>
             <input class="validate" type="text" id="calleN" name="calleN" required="required">
             <label for="calleN">Calle / Numero</label>
           </div> -->
-          <div class="input-field col s12 m6 l6 xl6"><i class="material-icons prefix">place </i>
+          <!-- <div class="input-field col s12 m6 l6 xl6"><i class="material-icons prefix">place </i>
           
           <select class="form-control" id="pais" name="pais" onchange="asignacionclavpa();" required="required">
             <option value="0">País </option>
@@ -717,14 +740,14 @@ recaptchaResponse.value = token;
             <option value="+263 Zimbabue">Zimbabue</option>
           </select>
 
-      </div>
+      </div> -->
 
-      <div class="input-field col s12 m6 l6 xl6"><i class="material-icons prefix">phone </i>
+      <!-- <div class="input-field col s12 m6 l6 xl6"><i class="material-icons prefix">phone </i>
             <input class="validate" type="text" id="numtel" name="numtel" placeholder="Numero de Teléfono" required="required">
           </div>
 
         </div>
-        <div class="row">
+        <div class="row"> -->
           <!-- <div class="input-field col s12 m6 l6 xl6"><i class="material-icons prefix">place </i>
             <input class="validate" type="text" id="colonia" name="colonia" required="required">
             <label for="colonia">Colonia</label>
@@ -735,11 +758,11 @@ recaptchaResponse.value = token;
           </div> -->
 
 
-          <div class="input-field col s12 m12 l12 xl12"><i class="material-icons prefix">topic </i>
+          <!-- <div class="input-field col s12 m12 l12 xl12"><i class="material-icons prefix">topic </i>
             <textarea class="materialize-textarea validate" id="textarea1" name="textarea1" required="required"></textarea>
             <label for="textarea1">Asunto  </label>
           </div>
-        </div>
+        </div> -->
         <!-- <div class="row">
           <div class="input-field col s12 m6 l6 xl6"><i class="material-icons prefix">place </i>
             <input class="validate" type="text" id="ciudad" name="ciudad" required="required">

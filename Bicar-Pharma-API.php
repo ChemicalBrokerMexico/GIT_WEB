@@ -6,6 +6,7 @@
   <title>Chemical Broker | Bicarbonato de Sodio de Solvay</title>
   <meta name="description" content="Chemical Broker brinda a sus socios de negocio, Bicarbonato de Sodio de la mas alta calidad a nivel mundial con el objetivo de brindar al mercado mundial la mas alta calidad .">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
+  <link rel="canonical" href="https://chemicalbroker.mx/Bicar-Pharma-API.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">

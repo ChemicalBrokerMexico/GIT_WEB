@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <title>Chemical Broker | Pectinas Nutricion Humana</title>
     <meta name="description" content="La pectina, como producto derivado de la naturaleza, tiene una gran demanda en la industria de alimentos y bebidas, donde constantemente se descubren nuevas aplicaciones, se puede utilizar como agente gelificante, agente espesante y estabilizador en aplicaciones alimentarias">
-    <link rel="canonical" href="">
+    <link rel="canonical" href="https://chemicalbroker.mx/Nutricion_Humana_Pectinas.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">

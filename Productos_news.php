@@ -6,6 +6,7 @@
 <title>Chemical Broker | Productos Químicos</title>
 <meta name="description" content="Chemical Broker, cuenta con las principales familias de ingredientes quimicos, para satisfacer las necesidades de sus socios de negocios a nivel global">
 <link rel="shortcut icon" href="img/CB_ICON.ico" />
+<link rel="canonical" href="https://chemicalbroker.mx/Productos_news.php">
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
 <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">

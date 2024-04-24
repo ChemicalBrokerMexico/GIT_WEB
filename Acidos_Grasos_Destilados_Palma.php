@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
   <title>Chemical Broker | Acidos Grasos Destilados de Palma de Cargill</title>
   <meta name="description" content="Chemical Broker distribuye mundialmente Acidos Grasos Destilados de Palma de la mas alta calidad probada a nivel mundial"> 
-  <link rel="canonical" href="">
+  <link rel="canonical" href="https://chemicalbroker.mx/Acidos_Grasos_Destilados_Palma.php">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">

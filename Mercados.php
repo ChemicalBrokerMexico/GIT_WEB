@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <title>Chemical Broker | Mercados Atendidos a Nivel Global</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="Chemical Broker atiende globalmente a sus clientes con la venta de ingredientes químicos catalogados como especialidades y commodities">
-    <link rel="canonical" href="">
+    <link rel="canonical" href="https://chemicalbroker.mx/Mercados.php">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">

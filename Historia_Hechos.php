@@ -7,6 +7,7 @@
     <meta name="description" content="Al entender las dificultades que viven diariamente las empresas enfocadas en la produccion de ingredientes quimicos, nace en el año 2014 Chemical Broker">
     <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="canonical" href="https://chemicalbroker.mx/Historia_Hechos.php">
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
@@ -400,11 +401,11 @@
     </div>
     <div class="container">
       <section style="margin-top:125px;width:230px;"><a class="breditem active" href="index.php" style="color:#262137 !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="breditem active" href="Historia_Hechos.php"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Historia & Hechos</b></a></section>
-    </div><br>
+    </div>
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-          <h2> <b class="Tipografia--general Subtitulos" style="color:#262137;border-bottom:1.5px solid #b12729">Hechos </b></h2>
+          <h2 style="margin-top:0px"> <b class="Tipografia--general Subtitulos" style="color:#262137;border-bottom:1.5px solid #b12729;">Hechos </b></h2>
           <p class="Tipografia--general General--Cuerpo  letranegro" style="text-align:justify">Al entender los problemas y dificultades que viven diariamente las empresas enfocadas en la producción de&nbsp<b style="color:#262137">ingredientes químicos</b> y productos terminados alrededor del mundo, por la obtención de <b style="color:#262137">materias primas&nbsp</b>debido a un servicio inadecuado y poco profesional de proveedores, así como por desconocimiento en temas de<b style="color:#262137">&nbspnegociación, adquisición, importación, exportación, Servicios&nbsp</b>y coberturas de seguros, se crea la firma:
           </p>
           <p class="Tipografia--general General--Cuerpo letranegro" style="text-align:justify;margin-top:50px"><b style="color:#262137">Chemical Broker </b>, una compañía creada en el año <b style="color:#262137">2014</b>, con un enfoque de negocios claro y definido, descrito a continuación:

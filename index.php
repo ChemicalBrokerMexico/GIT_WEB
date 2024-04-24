@@ -8,6 +8,7 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">
+    <link rel="canonical" href="https://chemicalbroker.mx/index.php">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
     <link rel="stylesheet" href="css/History_Line.css?n=1">
     <link rel="stylesheet" href="css/jquery.dataTables.min.css">
@@ -109,6 +110,19 @@
 <ul class="collapsible">
 <li>
 <div class="collapsible-header color--blanco color--fondo--negro" style="border:none;padding:0;margin-top:-9px;margin-left:-1px;margin-right:-1px" id="chefle"><span style="margin-left:15px"><b class="Tipografia--general Desplegables">Chemical Broker </b></span><i class="medium material-icons rigth" id="rotar">arrow_drop_down</i></div>
+<div class="collapsible-header color--fondo--negro color--blanco Carreras_altura" style="border:none;padding:0;margin-right:15px;float:right;height:0px"><span style="margin-left:15px">
+    <!-- <p>
+      <label>
+        <input type="checkbox" class="checkspanish"/>
+        <span style="margin-top:20px;">Spanish</span>
+      </label>
+      <label style="margin-right:25px;">
+        <input type="checkbox" class="checkenglish"/>
+        <span>English</span>
+      </label>
+    </p> -->
+</div>
+   
 <div class="collapsible-header color--fondo--negro color--blanco Carreras_altura" style="border:none;padding:0;margin-right:15px;float:right;height:0px"><span style="margin-left:15px"><b class="Tipografia--general Desplegables"> <a href="Carreras.php">Carreras  </a></b></span></div>
 <div class="collapsible-body color--fondo--negro" style="margin-left:-1px;margin-right:-1px">
 <div class="row">  
@@ -174,7 +188,6 @@
                                                         id="aparece"></i></a></li>
   <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-
 </p>
 </ul>
 </section>
@@ -182,7 +195,7 @@
 <div class="col s12 m12 l12 xl8">
 <section>
 <ul> 
-<p class="color--blanco"><b class="Tipografia--general Titulos">Empleados </b>
+<p class="color--blanco"><b class="Tipografia--general Titulos" style="margin-top:0px">Empleados </b>
 <hr class="hr">
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="VISTA/Principal.php">Intranet&nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 </p>
@@ -238,7 +251,7 @@
 <div style="display:flex;justify-content:center"> 
 <p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
 </div></a>
-<li class="ul-independiente right"><a class="btn-search-desktop1" href="#" id="busquedaprueba" onclick="abrirsearch();"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1">search</i></a></li>
+<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1">search</i></a></li>
 </ul>
 <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i class="material-icons search-mobile-icon search-top-mobile" style="width:0px">search</i></a></div>
 </div>
@@ -429,7 +442,6 @@
 
 
 
-
 </div>
 </div>
 </div>
@@ -490,6 +502,7 @@
 </footer>
 <!-- Start of HubSpot Embed Code -->
 <script type="text/javascript" id="hs-script-loader" async defer src="//js-na1.hs-scripts.com/43785156.js"></script>
+<script src="js/Traduccion.js"></script>
 <!-- End of HubSpot Embed Code -->
 </body>
 </html>

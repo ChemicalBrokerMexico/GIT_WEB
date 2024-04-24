@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
 <title>Chemical Broker | Dimetilformamida del Fabricante Basf</title>
 <meta name="description" content="La N, N-Dimetilformamida (Dimetilformamida), comunmente abreviado como DMF, es un compuesto organico, es un liquido incoloro miscible en aguay en la mayoria de componentes organicos.">
-<link rel="canonical" href="">
+<link rel="canonical" href="https://chemicalbroker.mx/Dimetilformamida.php">
 <link rel="shortcut icon" href="img/CB_ICON.ico" />
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -409,7 +409,7 @@ $(document).ready(function () {
 <div class="container" style="margin-top:80px">
 <div class="row bread_mobile">
 <div class="col s12 m12 l12 xl12">
-<section class="breditem--inicio"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b>   > &nbsp</b><a class="breditem active" href="Glycols.php" style="color:#262137 !important;margin-left:-2px"><b class="Tipografia--general letranegro Subtitulos breadcrumb">N, N-Dimetilformamida</b></a></section></section>
+<section class="breditem--inicio"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b>   > &nbsp</b><a class="breditem active" href="Dimetilformamida.php" style="color:#262137 !important;margin-left:-2px"><b class="Tipografia--general letranegro Subtitulos breadcrumb">N, N-Dimetilformamida</b></a></section></section>
 </div>
 </div>
 </div>

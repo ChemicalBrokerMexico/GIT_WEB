@@ -8,6 +8,7 @@
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    <link rel="canonical" href="https://chemicalbroker.mx/Alimento_Animal.php">
     <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection"/>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus"/>
     <link rel="stylesheet" href="css/History_Line.css"/>
@@ -410,7 +411,7 @@ recaptchaResponse.value = token;
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>  >&nbsp </b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important"><b>Mercados&nbsp </b><b>>&nbsp  </b></a><a class="breditem active" href="pharmaceutical.php" style="color:#262137 !important;margin-left:-2px"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Alimento y Nutrición Animal </b></a></section>
+        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>  >&nbsp </b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important"><b>Mercados&nbsp </b><b>>&nbsp  </b></a><a class="breditem active" href="Alimento_Animal.php" style="color:#262137 !important;margin-left:-2px"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Alimento y Nutrición Animal </b></a></section>
         </div>
       </div>
     </div>

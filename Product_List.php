@@ -364,7 +364,7 @@
        include "conexion.php";
        $conexion = new conexion();
        $cnn = $conexion->conectar();
-       mysqli_select_db($cnn,"catalogos_productos.php");
+       mysqli_select_db($cnn,"b8iu0m6g_catalogos_productos");
        $sql = "SELECT * FROM catalogo_productos";
        $result = mysqli_query($cnn,$sql);
        echo mysqli_error($cnn);

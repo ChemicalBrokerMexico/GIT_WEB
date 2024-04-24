@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <title>Chemical Broker | Pasta de Soya del fabricante Cargill </title>
     <meta name="description" content="La pasta de soya es la fuente de proteína mas importante utilizada en la alimentacion humana  y del ganado">
-    <link rel="canonical" href="">
+    <link rel="canonical" href="https://chemicalbroker.mx/Pasta_Soya.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -653,7 +653,7 @@
                         style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
                         href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b>
                             >
-                            &nbsp</b><a class="breditem active" href="Lauril_Sulfato_Sodio-94.php"
+                            &nbsp</b><a class="breditem active" href="Pasta_Soya.php"
                             style="color:#262137 !important;margin-left:-2px"><b
                                 class="Tipografia--general letranegro Subtitulos breadcrumb">Pasta de Soya</b></a>
                 </section>

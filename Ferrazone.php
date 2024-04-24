@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Ferrazone®</title>
+    <title>Chemical Broker | Ferrazone® del Fabricante Nouryon</title>
     <meta name="description"
         content="Los ácidos grasos se derivan de grasas y aceites animales como el sebo de res y de diversos aceites vegetales.">
     <meta http-equiv="Expires" content="0">
@@ -12,6 +12,7 @@
     <meta http-equiv="Cache-Control" content="no-cache, mustrevalidate">
     <meta http-equiv="Pragma" content="no-cache">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <link rel="canonical" href="https://chemicalbroker.mx/Ferrazone.php">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
     <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -670,7 +671,7 @@
                         class="img_acidos_grasos img_acidos_grasos_desktop">
                     <div class="caption center-align"><br><br><br><br>
                         <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b
-                            class="segundotitulo" style="font-size: 26px;">Ferrazone ®</b>
+                            class="segundotitulo" style="font-size: 26px;">Ferrazone <span style="font-size:18px;">®</span></b>
                     </div>
                 </li>
             </ul>
@@ -697,7 +698,7 @@
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
-                <h5 class="center-align" style="font-size:30px;">“<b style="color:#C00000;">Ferrazone®</b> <b
+                <h5 class="center-align" style="font-size:30px;">“<b style="color:#C00000;">Ferrazone<span style="font-size:20px;">®</span></b> <b
                         style="color:#000066">El hierro más biodisponible contra la anemia”</b></h5>
             </div>
 
@@ -949,7 +950,7 @@
                     </tr>
                     <tr>
                         <td><a href="Proximamente.php" class="Tipografia--general General--Cuerpo"><b
-                                    style="color:#C00000;cursor:pointer;padding:5px;" class="arrowblue">Ferrazone®</b> XF</a></td>
+                                    style="color:#C00000;cursor:pointer;padding:5px;" class="arrowblue">Ferrazone® XF</b> </a></td>
                         <td>
                             <ol class="Elementos--Listas Tipografia--general letranegro">
                                 <li style="list-style-type:disc;">Harina de trigo y maíz</li>
@@ -957,12 +958,12 @@
                         </td>
                     </tr>
                     <tr style="background-color:F2F2F2;">
-                        <td style="background-color:#f2f2f2;height:25px;"></td>.
+                        <td style="background-color:#f2f2f2;height:25px;"></td>
                         <td style="background-color:#f2f2f2;"></td>
                     </tr>
                     <tr>
                         <td><a href="Proximamente.php" class="General--Cuerpo"><b style="color:#C00000;cursor:pointer;padding:5px;"
-                                    class="arrowblue">Ferrazone®</b> BP</a></td>
+                                    class="arrowblue">Ferrazone® BP</b></a></td>
                         <td>
                             <ol class="Elementos--Listas Tipografia--general letranegro">
                                 <li style="list-style-type:disc;">Productos Farmacéuticos</li>

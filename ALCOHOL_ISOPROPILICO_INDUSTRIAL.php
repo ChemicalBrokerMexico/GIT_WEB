@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Alcohol Isopropilico Grado Industrial</title>
+    <title>Chemical Broker | Alcohol Isopropilico Grado Industrial del Fabricante Lyondell Basell</title>
     <meta name="description"
         content="Chemical Broker distribuye mundialmente Glicerina de la mas alta Pureza y Calidad para las formulaciones de nuestros clientes.">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
@@ -656,7 +656,7 @@
                         style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
                         href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b>
                             >
-                            &nbsp</b><a class="breditem active" href="Glycerins.php"
+                            &nbsp</b><a class="breditem active" href="ALCOHOL_ISOPROPILICO_INDUSTRIAL.php"
                             style="color:#262137 !important;margin-left:-2px"><b
                                 class="Tipografia--general letranegro Subtitulos breadcrumb">Alcohol Isopropilico Grado Industrial</b></a></section>
                 </section>
