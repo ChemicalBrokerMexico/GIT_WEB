@@ -24,11 +24,13 @@ $(document).ready(function(){
                 <td class="letranegro Tipografia--general General--Cuerpo"
                     style="width:765px;text-align:justify;">
                     <p style="text-align: justify;padding:5px;width:765px;">La Farmacopea Británica ( BP ) es la farmacopea nacional del Reino Unido . Es una colección de estándares de calidad para sustancias medicinales que se publica anualmente en el Reino Unido y que utilizan personas y organizaciones involucradas en la investigación , el desarrollo , la fabricación y las pruebas farmacéuticas .
-                        <span>Para más información</span> <a href="https://www.pharmacopoeia.com/"
-                            style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
+                        <br>
+                        <br>
+                    <a href="https://www.pharmacopoeia.com/"
+                            style="color:rgba(2 146 238 /99%);">Ver Mas</a></p>
                 </td>
                 <td class="letranegro Tipografia--general General--Cuerpo"
-                    style="width:50%;text-align:center"><img src="img/Farmacopea_Britanica.png" alt=""
+                    style="width:50%;text-align:center"><img src="img/FARMACOPEA_BRITANICA.png" alt=""
                         style="width:70%;"></td>
             </tr>
 
@@ -39,8 +41,10 @@ $(document).ready(function(){
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:765px;text-align:justify;">
                             <p style="text-align: justify;padding:5px;width:765px;">La Farmacopea Europea (Ph. Eur., en inglés European Pharmacopoeia, EP) del Consejo de Europa es una farmacopea que incluye una amplia gama de principios activos y excipientes utilizados para preparar productos farmacéuticos en Europa. Está compuesta por más de 2.000 monografías generales y específicas, incluyendo diversas sustancias químicas, antibióticos, sustancias biológicas, vacunas para uso humano o veterinario; sueros inmunológicos, preparaciones de radiofármacos, fitoterápicos, preparados homeopáticos y reservas homeopáticas.1​ También contiene formas de dosificación, monografías generales, materiales y recipientes, suturas, 268 métodos generales con esquemas o cromatogramas y la descripción de 2210 reactivos.
-                                <span>Para más información</span> <a href="https://pheur.edqm.eu/home"
-                                    style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
+                            <br>
+                            <br>   
+                            <a href="https://pheur.edqm.eu/home"
+                                    style="color:rgba(2 146 238 /99%);">Ver Más</a></p>
                         </td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:100%;text-align:center"><img src="img/CB_FARMACOPEA_EUROPEA.png" alt=""
@@ -57,9 +61,12 @@ $(document).ready(function(){
                             el Manejo de Emergencias. Solo tenemos el dimetilpolisiloxano al 10% con esta
                             "Certificación" pero FEMA, se refiere a un programa de ayuda ante riesgos y
                             desastres como inundaciones, terremotos, tornados, huracanes, etc.¿Por qué se
-                            necesita con un anti-espumante? <span>Para más información</span> <a
+                            necesita con un anti-espumante? 
+                            <br>
+                            <br>
+                            <a
                                 href="https://www.usa.gov/es/agencias/agencia-federal-para-el-manejo-de-emergencias"
-                                style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
+                                style="color:rgba(2 146 238 /99%);">Ver Más</a></p>
                     </td>
                     <td class="letranegro Tipografia--general General--Cuerpo"
                         style="width:33.33%;text-align:center"><img src="img/FEMA_IMAGE.png" alt=""
@@ -77,9 +84,12 @@ $(document).ready(function(){
                         ) es la asociación profesional de las aerolíneas del mundo, ayuda a
                         formularpolíticas de la industria, así como a resolver situaciones críticas o
                         delicadas y son los responsables detodos los aspectos relacionados con el transporte
-                        aéreo, desde seguridad y fiabilidad, hasta medioambiente. <span>Para más
-                            información</span> <a href="Proximamente.php"
-                            style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
+                        aéreo, desde seguridad y fiabilidad, hasta medioambiente. 
+                         
+                        <br>
+                        <br>
+                        <a href="Proximamente.php"
+                            style="color:rgba(2 146 238 /99%);">Ver Más</a></p>
                 </td>
                 <td class="letranegro Tipografia--general General--Cuerpo"
                     style="width:33.33%;text-align:center"><img
@@ -97,9 +107,11 @@ $(document).ready(function(){
                     , por sus sigglas en Inglés(International Pharmacopeia - World Health Organization)
                     permite favorecer el control de los fármacosde baja calidad o falsificados, ya que
                     determina varios elementos específicos sobre el contenido y lapureza de los
-                    medicamentos de acuerdo con las normas internacionales. <span>Para más
-                        información</span> <a href="Proximamente.php"
-                        style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
+                    medicamentos de acuerdo con las normas internacionales. 
+                    <br>
+                    <br>
+                    <a href="Proximamente.php"
+                        style="color:rgba(2 146 238 /99%);">Ver Más</a></p>
             </td>
             <td class="letranegro Tipografia--general General--Cuerpo"
                 style="width:33.33%;text-align:center"><img src="img/IP-WHO_IMAGE.png" alt=""
@@ -119,9 +131,13 @@ $(document).ready(function(){
                                 excipientes farmacéuticos y sistemas de administración de excipientes.
                                 IPEC-Américas, junto con sus homólogos de todo el mundo, es el principal recurso
                                 internacional en materiade excipientes para sus miembros, gobiernos y público en
-                                general. <span>Para más información</span> <a
+                                general. 
+                                
+                                <br>
+                                <br>
+                                <a
                                     href="https://www.sqfi.com/es-mx/our-program/what-is-sqf/noriko-nakama"
-                                    style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
+                                    style="color:rgba(2 146 238 /99%);">Ver Más</a></p>
                         </td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:33.33%;text-align:center"><img src="img/IPEC_LOGO.png" alt=""
@@ -137,10 +153,12 @@ $(document).ready(function(){
                             style="width:765px;text-align:justify">
                             <p style="text-align: justify;padding:5px;width:765px;">El Comité Mixto FAO/OMS de
                                 Expertos en Aditivos Alimentarios (JECFA) es el órgano internacional encargado de la
-                                evaluación de la inocuidad de los aditivos alimentarios. <span>Para más
-                                    información</span> <a
+                                evaluación de la inocuidad de los aditivos alimentarios. 
+                                <br>
+                                <br>
+                                <a
                                     href="https://www.fao.org/food/food-safety-quality/scientific-advice/jecfa/es/"
-                                    style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
+                                    style="color:rgba(2 146 238 /99%);">Ver Más</a></p>
                         </td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:33.33%;text-align:center"><img src="img/JECFA_IMAGE.jpg" alt=""
@@ -157,8 +175,11 @@ $(document).ready(function(){
                                 (o Japaneese Pharmacopoeia) es la farmacopea oficial del estado delJapón. Es editada
                                 por la Agencia de dispositivos médicos y productos farmacéuticos bajo la
                                 autoridaddel Ministerio de sanidad, trabajo y bienestar de Japón, es por dicho
-                                motivo que mantiene un altogrado de exigencia. <span>Para más información</span> <a
-                                    href="Proximamente.php" style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
+                                motivo que mantiene un altogrado de exigencia. 
+                                <br>
+                                <br>
+                                <a
+                                    href="Proximamente.php" style="color:rgba(2 146 238 /99%);">Ver Más</a></p>
                         </td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:33.33%;text-align:center"><img src="img/" alt="" style="width:50%;"></td>
@@ -170,8 +191,11 @@ $(document).ready(function(){
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:765px;text-align:justify;">
                             <p style="text-align: justify;padding:5px;width:765px;">Esta Norma establece los requisitos mínimos necesarios para el proceso de fabricación de los medicamentos para uso humano comercializados en el país y/o con fines de investigación.
-                                <span>Para más información</span> <a href="https://dof.gob.mx/nota_detalle.php?codigo=5424575&fecha=05/02/2016#gsc.tab=0"
-                                    style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
+                                
+                            <br>
+                            <br>
+                            <a href="https://dof.gob.mx/nota_detalle.php?codigo=5424575&fecha=05/02/2016#gsc.tab=0"
+                                    style="color:rgba(2 146 238 /99%);">Ver Más</a></p>
                         </td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:33.33%;text-align:center"><img src="img/NOM-059.png" alt=""
@@ -189,9 +213,13 @@ $(document).ready(function(){
                                 Evaluation, Authorisation and Restriction of Chemicals) es un Reglamento de la Unión
                                 Europea Reglamento (CE) nº 1907/2006, adoptado con el fin de mejorar la protección
                                 de la salud humana y el medio ambiente contra los riesgos que pueden presentar los
-                                productos químicos. <span>Para más información</span> <a
+                                productos químicos.
+                                
+                                <br>
+                                <br>
+                                <a
                                     href="https://osha.europa.eu/es/themes/dangerous-substances/reach"
-                                    style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
+                                    style="color:rgba(2 146 238 /99%);">Ver Más</a></p>
                         </td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:33.33%;text-align:center"><img src="img/REACH-1_IMAGE.jpg" alt=""
@@ -212,8 +240,10 @@ $(document).ready(function(){
                                 United States Pharmacopoeia
                                 ), o bien, Farmacopea de los EstadosUnidos de América, establece estándares y
                                 parámetros para los ingredientes de los alimentos y suplementos alimenticios.
-                                <span>Para más información</span> <a href="Proximamente.php"
-                                    style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
+                                <br>
+                                <br>
+                                <a href="Proximamente.php"
+                                    style="color:rgba(2 146 238 /99%);">Ver Más</a></p>
                         </td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:33.33%;text-align:center"><img src="img/USP_LOGO.png" alt=""
@@ -264,11 +294,14 @@ function filtroall(){
                 <td class="letranegro Tipografia--general General--Cuerpo"
                     style="width:765px;text-align:justify;">
                     <p style="text-align: justify;padding:5px;width:765px;">La Farmacopea Británica ( BP ) es la farmacopea nacional del Reino Unido . Es una colección de estándares de calidad para sustancias medicinales que se publica anualmente en el Reino Unido y que utilizan personas y organizaciones involucradas en la investigación , el desarrollo , la fabricación y las pruebas farmacéuticas .
-                        <span>Para más información</span> <a href="https://www.pharmacopoeia.com/"
-                            style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
+                         
+                    <br>
+                    <br>
+                    <a href="https://www.pharmacopoeia.com/"
+                            style="color:rgba(2 146 238 /99%);">Ver Más</a></p>
                 </td>
                 <td class="letranegro Tipografia--general General--Cuerpo"
-                    style="width:50%;text-align:center"><img src="img/Farmacopea_Britanica.png" alt=""
+                    style="width:50%;text-align:center"><img src="img/FARMACOPEA_BRITANICA.png" alt=""
                         style="width:70%;"></td>
             </tr>
 
@@ -279,8 +312,11 @@ function filtroall(){
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:765px;text-align:justify;">
                             <p style="text-align: justify;padding:5px;width:765px;">La Farmacopea Europea (Ph. Eur., en inglés European Pharmacopoeia, EP) del Consejo de Europa es una farmacopea que incluye una amplia gama de principios activos y excipientes utilizados para preparar productos farmacéuticos en Europa. Está compuesta por más de 2.000 monografías generales y específicas, incluyendo diversas sustancias químicas, antibióticos, sustancias biológicas, vacunas para uso humano o veterinario; sueros inmunológicos, preparaciones de radiofármacos, fitoterápicos, preparados homeopáticos y reservas homeopáticas.1​ También contiene formas de dosificación, monografías generales, materiales y recipientes, suturas, 268 métodos generales con esquemas o cromatogramas y la descripción de 2210 reactivos.
-                                <span>Para más información</span> <a href="https://pheur.edqm.eu/home"
-                                    style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
+                                 
+                            <br>
+                            <br>
+                            <a href="https://pheur.edqm.eu/home"
+                                    style="color:rgba(2 146 238 /99%);">Ver Más</a></p>
                         </td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:100%;text-align:center"><img src="img/CB_FARMACOPEA_EUROPEA.png" alt=""
@@ -297,9 +333,12 @@ function filtroall(){
                             el Manejo de Emergencias. Solo tenemos el dimetilpolisiloxano al 10% con esta
                             "Certificación" pero FEMA, se refiere a un programa de ayuda ante riesgos y
                             desastres como inundaciones, terremotos, tornados, huracanes, etc.¿Por qué se
-                            necesita con un anti-espumante? <span>Para más información</span> <a
+                            necesita con un anti-espumante?
+                            <br>
+                            <br>
+                            <a
                                 href="https://www.usa.gov/es/agencias/agencia-federal-para-el-manejo-de-emergencias"
-                                style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
+                                style="color:rgba(2 146 238 /99%);">Ver Más</a></p>
                     </td>
                     <td class="letranegro Tipografia--general General--Cuerpo"
                         style="width:33.33%;text-align:center"><img src="img/FEMA_IMAGE.png" alt=""
@@ -317,9 +356,11 @@ function filtroall(){
                         ) es la asociación profesional de las aerolíneas del mundo, ayuda a
                         formularpolíticas de la industria, así como a resolver situaciones críticas o
                         delicadas y son los responsables detodos los aspectos relacionados con el transporte
-                        aéreo, desde seguridad y fiabilidad, hasta medioambiente. <span>Para más
-                            información</span> <a href="Proximamente.php"
-                            style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
+                        aéreo, desde seguridad y fiabilidad, hasta medioambiente. 
+                        <br>
+                        <br>
+                        <a href="Proximamente.php"
+                            style="color:rgba(2 146 238 /99%);">Ver Más</a></p>
                 </td>
                 <td class="letranegro Tipografia--general General--Cuerpo"
                     style="width:33.33%;text-align:center"><img
@@ -337,9 +378,11 @@ function filtroall(){
                     , por sus sigglas en Inglés(International Pharmacopeia - World Health Organization)
                     permite favorecer el control de los fármacosde baja calidad o falsificados, ya que
                     determina varios elementos específicos sobre el contenido y lapureza de los
-                    medicamentos de acuerdo con las normas internacionales. <span>Para más
-                        información</span> <a href="Proximamente.php"
-                        style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
+                    medicamentos de acuerdo con las normas internacionales. 
+                    <br>
+                    <br>
+                    <a href="Proximamente.php"
+                        style="color:rgba(2 146 238 /99%);">Ver Más</a></p>
             </td>
             <td class="letranegro Tipografia--general General--Cuerpo"
                 style="width:33.33%;text-align:center"><img src="img/IP-WHO_IMAGE.png" alt=""
@@ -359,9 +402,12 @@ function filtroall(){
                                 excipientes farmacéuticos y sistemas de administración de excipientes.
                                 IPEC-Américas, junto con sus homólogos de todo el mundo, es el principal recurso
                                 internacional en materiade excipientes para sus miembros, gobiernos y público en
-                                general. <span>Para más información</span> <a
+                                general.
+                                <br>
+                                <br>
+                                <a
                                     href="https://www.sqfi.com/es-mx/our-program/what-is-sqf/noriko-nakama"
-                                    style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
+                                    style="color:rgba(2 146 238 /99%);">Ver Más</a></p>
                         </td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:33.33%;text-align:center"><img src="img/IPEC_LOGO.png" alt=""

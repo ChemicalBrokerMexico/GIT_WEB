@@ -320,7 +320,7 @@
       <ul class="hide-on-med-and-down">
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
             href="Mercados.php"><b>Mercados</b></a></li>
-       <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a>
+       <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Ingredientes Químicos</a>
           </li>
           <li><a href="Product_List.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a>
 <li><a href="Catalogos_Productos" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 

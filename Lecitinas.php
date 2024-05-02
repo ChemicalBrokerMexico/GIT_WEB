@@ -334,7 +334,7 @@
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
             href="Mercados.php"><b>Mercados</b></a></li>
         <ul id="dropdown3" class="dropdown-content">
-                    <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a>
+                    <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Ingredientes Químicos</a>
           </li>
           <li><a href="Product_List.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a>
 <li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
@@ -613,13 +613,13 @@
           membranas de las celulas vegetales y animales, especialmente en las del tejido nervioso; se obtiene de las
           grasas animales, la yema de huevo, algunas semillas y se emplea en la elaboración de ciertos alimentos, como
           la margarina o el chocolate también se aplica en otras industrias como farmacéutica y cosmética.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo"><b>Las Lecitinas</b> son emulsionantes versátiles, aplicables para etiquetas 
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;margin-top:50px;"><b>Las Lecitinas</b> son emulsionantes versátiles, aplicables para etiquetas 
         amigables y en una amplia gama de mercados como lo son Nutrición Humana, Farmacéutica, 
         Cuidado Personal, Nutrición Animal, Agrícola y el mercado industrial.</p>
 
-        <h2 style="margin-top:50px;margin-bottom:5px;"><b class="Tipografia--general letranegro General--Cuerpo">Beneficios</b></h2>
+        <h2 style="margin-top:50px;margin-bottom:0px;"><b class="Tipografia--general letranegro General--Cuerpo">Beneficios</b></h2>
 
-        <ol style="margin-top:0px;">
+        <ol style="margin-top:30px;">
           <li class="Elementos--Listas Tipografia--general" style="list-style-type:disc;"><b>Etiqueta Amigable:</b> Producto derivado de la naturaleza, buena alternativa en sustitución al emulsionante sintético,</li>
           <br>
           <li class="Elementos--Listas Tipografia--general" style="list-style-type:disc;"><b>Base Vegetal:</b> Proviene exclusivamente de plantas y está disponible en soja, girasol y canola,</li>
@@ -627,7 +627,7 @@
           <li class="Elementos--Listas Tipografia--general" style="list-style-type:disc;"><b>Amplia Funcionalidad:</b> Buenas propiedades emulsionantes y estabilizadoras en diversas aplicaciones, adecuado para una amplia gama de productos de consumo.</li>
         </ol>
 
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:5px;"><b>Funcionalidad de la Lecitina</b></h2>
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Funcionalidad de la Lecitina</b></h2>
 
         <p class="Tipografia--general letranegro General--Cuerpo"><b>La Lecitina</b> está compuesta de fosfolípidos, que guardan el secreto de su extensa funcionalidad, Por un lado, los fosfolípidos atraen agua; por el otro, atraen el petróleo. Está propiedad anfipática permite que la lecitina cree una fuerte mezcla de aceite en agua y aceite, emulsiones... y también puede proporcionar una miríada de otros beneficios.</p>
 
@@ -646,7 +646,7 @@
         </ol>
 
         <!-- <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La lecitina se prepara extrayendo y purificando los fosfolípidos de productos naturales como la soja, los huevos, el girasol y las semillas de canola.</p> -->
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:5px;"><b>Tipos</b></h2>
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:5px;"><b>Tipos de Lecitina</b></h2>
 
         <ol style="margin-bottom:0px;">
           <li class="Elementos--listas Tipografia--general" style="list-style-type:disc;">Soya,</li>

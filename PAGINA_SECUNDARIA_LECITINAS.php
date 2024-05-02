@@ -402,10 +402,7 @@
                 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
                         href="Mercados.php"><b>Mercados</b></a></li>
                 <ul id="dropdown3" class="dropdown-content">
-                    <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias de
-                            Productos</a></li>
-                    <li><a href="Product_List.php" class="Tipografia--general letranegro Subtitulos">Lista de
-                            Productos</a></li>
+                    <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Ingredientes Químicos</a></li>
                             <li><a href="Catalogos_Productos" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
                 </ul>
                 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!"
@@ -662,11 +659,10 @@
         </div>
     </div>
 
+
     <div class="container">
         <div class="row">
-            <!-- <div class="col s12 m12 l6 xl6">
-                <img src="img/Cargill-Logo_2.png" alt="" style="width:80%;">
-            </div> -->
+        
             <div class="col s12 m12 l12 xl12">
 
                 <h2 class="Tipografia--general letranegro Titulos"><b style="color:black;">Lecitinas</b></h2>
@@ -679,7 +675,7 @@
                     amigable con las etiquetas.</p>
 
                 <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;"><b>Tipos de Lecitina</b></h2>
-                <ol style="list-style-type: disc;margin-bottom:0px;">
+                <ol style="list-style-type: disc;margin-bottom:0px;margin-top:30px;">
                     <li>Lecitina de Canola,</li>
                     <br>
                     <li>Lecitina Desaceitada,</li>
@@ -715,7 +711,7 @@
                 <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px">
                     <b>Funciones y Aplicaciones</b></h2>
 
-                <ol style="margin-bottom: 0px;list-style-type: disc;">
+                <ol style="margin-bottom: 0px;list-style-type: disc;margin-top:30px">
                     <li class="Tipografia--general letranegro Elementos--Listas">Funciónes:</li>
                     <ol style="margin-bottom: 0px;list-style-type: disc;margin-top: 15px;">
                         <li class="Tipografia--general letranegro Elementos--Listas">Ajusta la viscosidad y el valor de
@@ -737,7 +733,7 @@
                 <ol style="margin-bottom: 0px;margin-top:50px;">
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type: disc;">
                         Aplicaciones:</li>
-                    <ol style="margin-bottom: 0px;list-style-type:disc;margin-top:15px;">
+                    <ol style="margin-bottom: 0px;list-style-type:disc;margin-top:30px;">
                         <li class="Tipografia--general letranegro Elementos--Listas">Chocolate,</li>
                         <br>
                         <li class="Tipografia--general letranegro Elementos--Listas">Coberturas,</li>
@@ -750,7 +746,7 @@
 
                 <ol style="margin-bottom: 0px;list-style-type:disc;margin-top:50px;">
                     <li class="Tipografia--general letranegro Elementos--listas">Marcas Cargill:</li>
-                    <ol style="margin-bottom: 0px;list-style-type:disc;margin-top: 15px;">
+                    <ol style="margin-bottom: 0px;list-style-type:disc;margin-top:30px;">
                         <li class="Tipografia--general letranegro Elementos--Listas">LECIPRIME®,</li>
                         <br>
                         <li class="Tipografia--general letranegro Elementos--Listas">TOPCITHIN®,</li>

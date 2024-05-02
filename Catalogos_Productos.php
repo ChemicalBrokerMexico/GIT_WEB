@@ -406,7 +406,7 @@
                 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
                         href="Mercados.php"><b>Mercados</b></a></li>
                 <ul id="dropdown3" class="dropdown-content">
-                         <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a>
+                         <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Ingredientes Químicos</a>
           </li>
       
           <li><a href="Product_List.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a>
@@ -673,7 +673,7 @@
                 <p class="Tipografia--general letranegro General--Cuerpo">A través de nuestros Catálogos de Productos por Industrias usted podrá encontrar una gran variedad de ingredientes químicos enfocados al segmento de mercado deseado y en cumplimiento a los estándares de calidad correspondientes:</p>
                 <h5 class="Tipografia--general Titulos"><b>Catálogos</b></h5>
                 <!-- <a href="PDF/CHEMICAL-BROKER_CATALOGO-PRODUCTOS_290424.pdf" class="Tipografia--general Subtitulos" style="color:rgba(2 146 238 /99%);margin-top:50px;" download>CHEMICAL-BROKER_CATALOGO-PRODUCTOS_290424.pdf</a> -->
-                <a href="PDF/CHEMICAL-BROKER_CATALOGO-PRODUCTOS_290224.pdf" class="Tipografia--general Subtitulos" style="color:rgba(2 146 238 /99%);margin-top:50px;cursor: pointer;" download>CHEMICAL-BROKER_CATALOGO-PRODUCTOS_290224</a>
+                <a href="PDF/CHEMICAL-BROKER_CATALOGO-PRODUCTOS_010424.pdf" class="Tipografia--general Subtitulos" style="color:rgba(2 146 238 /99%);margin-top:50px;cursor: pointer;" download>CHEMICAL-BROKER_CATALOGO-PRODUCTOS_010424.pdf</a>
                 <br>
                 <br>
                 <a href="PDF/CHEMICAL-BROKER_OLEOCHEMICALS-PORTFOLIO.pdf" class="Tipografia--general Subtitulos" style="color:rgba(2 146 238 /99%);margin-top:50px;cursor: pointer;" download>CHEMICAL-BROKER_OLEOCHEMICALS-PORTFOLIO.pdf</a>

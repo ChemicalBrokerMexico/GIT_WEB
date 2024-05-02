@@ -408,8 +408,8 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;">Nuestras certificaciones son un testimonio de nuestro compromiso con los más altos estándares internacionales en la gestión de la calidad y demuestra nuestra dedicación en ofrecer productos y servicios confiables y seguros para nuestros clientes y proveedores.</p>
 <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020;">Certificaciones de Chemical Broker:</b></h2>
 <ol>
-    <li class="Elementos--Listas" style="color:#0000FF;"><a download="PDF/DNV_CERTIFICADO-ISO-9001-2015_FOLIO_C627141_CAMACHO&ELIZONDO_110123.pdf"></a> ISO 9001</li>
-    <li class="Elementos--Listas" style="color:#0000FF;">Ecovadis Bronce</li>
+    <li class="Elementos--Listas" style="color:#0000FF;"><a href="PDF/DNV_CERTIFICADO-ISO-9001-2015_FOLIO_C627141_CAMACHO&ELIZONDO_110123.pdf" style="cursor:pointer;color:black;" class="arrowblue" download>ISO 9001</li></a>
+    <!-- <li class="Elementos--Listas" style="color:#0000FF;">Ecovadis Bronce</li> -->
 </ol>
 <p class="Tipografia--general letranegro General--Cuerpo" style="color:#000020;margin-top:30px;">Para <b style="color:#000020;">Chemical Broker</b>, una gestión integral y eficiente tiene como resultado la excelencia en nuestros productos y servicios para todos y cada uno de nuestros socios de negocios.</p>
 

@@ -222,7 +222,7 @@
         <ul class="hide-on-med-and-down">
           <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Mercados.php"><b>Mercados</b></a></li>
           <ul id="dropdown3" class="dropdown-content" style="width:300px !important;">
-                 <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a>
+                 <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Ingredientes Químicos</a>
           </li>
           <li><a href="Product_List.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a>
 <li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
@@ -432,10 +432,10 @@
                       <p class="leer_mas_mercados center-align botones">  Leer Mas</p></b></p>
 
                 </div>
-                <!-- <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
+                <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
                   <source class="mercadosimagen" src="../GIT_WEB/VIDEO/Farma.mp4" type="video/mp4">
-                </video> -->
-                <img class="mercadosimagen" src="img/FARMACEUTICA_CB.jpg" alt="" style="border-radius:10px"> 
+                </video> 
+                <!-- <img class="mercadosimagen" src="img/FARMACEUTICA_CB.jpg" alt="" style="border-radius:10px">  -->
               </div></a></div>
 
 
@@ -450,10 +450,10 @@
                         <p class="leer_mas_mercados center-align botones">  Leer Mas </p></b></p>
                   </h2>
                 </div>
-                <!-- <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
+                <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
                   <source class="mercadosimagen" src="../GIT_WEB/VIDEO/Veterinaria.mp4" type="video/mp4">
-                </video> -->
-                <img class="mercadosimagen" src="img/CB_VETERINARIA_070621.jpg" alt="" style="border-radius:10px"> 
+                </video> 
+                <!-- <img class="mercadosimagen" src="img/CB_VETERINARIA_070621.jpg" alt="" style="border-radius:10px">  -->
               </div></a></div>
 
 
@@ -466,7 +466,11 @@
                     <p><b class="botones" style="color:white !important">
                         <p class="leer_mas_mercados botones center-align">  Leer Mas</p></b></p>
                   </h2>
-                </div><img class="mercadosimagen" src="img/CB_FOOD_080223.jpg" alt="" style="border-radius:10px">
+                </div>
+                <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
+                  <source class="mercadosimagen" src="../GIT_WEB/VIDEO/NUTRICION_HUMANA.mp4" type="video/mp4">
+                </video> 
+                <!-- <img class="mercadosimagen" src="img/CB_FOOD_080223.jpg" alt="" style="border-radius:10px"> -->
               </div></a></div>
 
 
@@ -480,7 +484,11 @@
                     <p><b style="color:white !important">
                         <p class="leer_mas_mercados center-align botones">  Leer Mas</p></b></p>
                   </h2>
-                </div><img class="mercadosimagen" src="img/CB_ALIMENTO_ANIMAL_090223.jpg" alt="" style="border-radius:10px">
+                </div>
+                <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
+                  <source class="mercadosimagen" src="../GIT_WEB/VIDEO/ALIMENTO_ANIMAL.mp4" type="video/mp4">
+                </video> 
+                <!-- <img class="mercadosimagen" src="img/CB_ALIMENTO_ANIMAL_090223.jpg" alt="" style="border-radius:10px"> -->
               </div></a></div>
           <div class="col s12 m12 l6 xl6 mercados zoom columna3"><a href="Proximamente.php" style="cursor:pointer;">
               <div class="contenedor">
@@ -491,7 +499,12 @@
                     <p><b style="color:white!important">
                         <p class="leer_mas_mercados center-align botones">  Leer Mas</p></b></p>
                   </h2>
-                </div><img class="mercadosimagen" src="img/AGRICULTURE_310122.jpeg" alt="" style="border-radius:10px">
+                </div>
+                <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
+                  <source class="mercadosimagen" src="../GIT_WEB/VIDEO/AGRICULTURA.mp4" type="video/mp4">
+                </video> 
+
+                <!-- <img class="mercadosimagen" src="img/AGRICULTURE_310122.jpeg" alt="" style="border-radius:10px"> -->
               </div></a></div>
           <div class="col s12 m12 l6 xl6 mercados zoom columna3"><a href="Cosmetica_Cuidadopersonal.php" style="cursor:pointer;">
               <div class="contenedor">
@@ -502,7 +515,11 @@
                     <p><b style="color:white !important">
                         <p class="leer_mas_mercados center-align botones">  Leer Mas </p></b></p>
                   </h2>
-                </div><img class="mercadosimagen" src="img/CB_COSMETICS_090223.jpg" alt="" style="border-radius:10px">
+                </div>
+                <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
+                  <source class="mercadosimagen" src="../GIT_WEB/VIDEO/COSMETICOS.mp4" type="video/mp4">
+                </video> 
+                <!-- <img class="mercadosimagen" src="img/CB_COSMETICS_090223.jpg" alt="" style="border-radius:10px"> -->
               </div></a></div>
           <div class="col s12 m12 l6 xl6 mercados zoom columna4"><a href="Detergencia.php" style="cursor:pointer;">
               <div class="contenedor">
@@ -513,7 +530,11 @@
                     <p><b style="color:white !important">
                         <p class="leer_mas_mercados center-align botones">  Leer Mas</p></b></p>
                   </h2>
-                </div><img class="mercadosimagen" src="img/CB_DETERGENCIA.jpg" alt="" style="border-radius:10px">
+                </div>
+                <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
+                  <source class="mercadosimagen" src="../GIT_WEB/VIDEO/DETERGENTES.mp4" type="video/mp4">
+                </video> 
+                <!-- <img class="mercadosimagen" src="img/CB_DETERGENCIA.jpg" alt="" style="border-radius:10px"> -->
               </div></a></div>
           <div class="col s12 m12 l6 xl6 mercados zoom columna4"><a href="Proximamente.php" style="cursor:pointer;">
               <div class="contenedor">
@@ -524,7 +545,11 @@
                     <p><b style="color:white !important">
                         <p class="leer_mas_mercados center-align botones">  Leer Mas</p></b></p>
                   </h2>
-                </div><img class="mercadosimagen" src="img/CB_QUIMICA.jpg" alt="" style="border-radius:10px">
+                </div>
+                <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
+                  <source class="mercadosimagen" src="../GIT_WEB/VIDEO/QUIMICO.mp4" type="video/mp4">
+                </video> 
+                <!-- <img class="mercadosimagen" src="img/CB_QUIMICA.jpg" alt="" style="border-radius:10px"> -->
               </div></a></div>
         </div>
       </div>
