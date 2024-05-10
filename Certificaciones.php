@@ -397,7 +397,7 @@
                                 class="material-icons right">arrow_drop_down</i></b></a>
                     <ul id="dropdown4" class="dropdown-content" tabindex="0">
                         <li tabindex="0"><a href="Cumplimiento.php"
-                                class="Tipografia--general letranegro Subtitulos">Introduccion a Cumplimiento</a></li>
+                                class="Tipografia--general letranegro Subtitulos">SGI</a></li>
                         <li tabindex="0"><a href="Marco_Regulatorio.php"
                                 class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
                         <li tabindex="0"><a href="Certificaciones.php"

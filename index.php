@@ -235,14 +235,19 @@
 <div class="nav-wrapper flex"><a class="sidenav-trigger" href="#" data-target="mobile-demo"><i class="material-icons letranegro">menu</i></a><span class="Pmenu letranegro">Menu</span>
 <ul class="hide-on-med-and-down">
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Mercados.php"><b>Mercados</b></a></li>
-<!-- <ul id="dropdown3" class="dropdown-content" style="width:300px !important;">
-  <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos" style="width:200px;">Familias</a></li>
+<ul id="dropdown3" class="dropdown-content" style="width:300px !important;">
+  <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos" style="width:200px;">Ingredientes Químicos</a></li>
   <li><a href="Product_List.php" class="Tipografia--general letranegro Subtitulos" style="width:200px;">Lista de Productos</a></li>
   <li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
-</ul> -->
-<li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Productos_news.php"><b>Ingredientes Quimicos</b></a></li>
+</ul> 
+<li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!" data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a></li>
 <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Servicios.php"><b>Servicios</b></a></li>
-<li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Cumplimiento.php"><b>Cumplimiento </b></a></li>
+<li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i class="material-icons right">arrow_drop_down</i></b></a>
+<ul id="dropdown4" class="dropdown-content" tabindex="0">
+<li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Cumplimiento</a></li>
+<li tabindex="0"><a href="Marco_Regulatorio.php" class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
+  <li tabindex="0"><a href="Certificaciones.php" class="Tipografia--general letranegro Subtitulos">Certificaciones</a></li>
+</ul></li>
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Contact.php"><b>Contacto </b></a></li>
 </ul>
 </div>
@@ -452,7 +457,7 @@
 <div class="row">
 <div class="col s12 m12 l12 xl12">
 
-<table>
+<table id="TablaPresentacionDesktop" name="TablaPresentacionDesktop">
   <tr>
     <td colspan="6" class="center-align" style="background-color:#FF6600;color:white;"><b style="color:white;font-size:18px">Calidad</b></td>
   </tr>
@@ -468,11 +473,38 @@
   </tr>
 </table>
 
+<table style="margin-top:0px;" id="TablaPresentacionMobile" name="TablaPresentacionMobile">
+<tr style="background-color:#FF6600;color:white;">
+  <td style="text-align:center;"><b>Calidad</b></td>
+</tr>
+<tr>
+  <td class="Tipografia--general Cuerpo--General" style="background-color:#000020;color:white;text-align:center;border-bottom:1px solid white;"><b>Fabricante<br>(Proveedor)</b></td>
+</tr>
+<tr>
+  <td class="Tipografia--general Cuerpo--General" style="background-color:#000020;color:white;text-align:center;border-bottom:1px solid white;"><span style="color:yellow;"><b>Compra</b></span><br><span style="color:rgba(2 146 238 /99%);"><b>Ingredientes</b></span><br><span style="color:rgba(2 146 238 /99%);"><b>Químicos</b></span></td>
+</tr>
+<tr>
+  <td class="Tipografia--general Cuerpo--General" style="background-color:#000020;color:white;text-align:center;border-bottom:1px solid white;"><b>Chemical Broker</b></td>
+</tr>
+<tr>
+  <td class="Tipografia--general Cuerpo--General" style="background-color:#000020;color:white;text-align:center;border-bottom:1px solid white;"><span style="color:yellow;"><b>Venta</b></span><br><span style="color:rgba(2 146 238 /99%);"><b>Ingredientes</b></span><br><span style="color:rgba(2 146 238 /99%);"><b>Químicos</b></span></td>
+</tr>
+<tr>
+  <td class="Tipografia--general Cuerpo--General" style="background-color:#000020;color:white;text-align:center;border-bottom:1px solid white;"><b>Consumidor</b><br><b>(Cliente)</b></td>
+</tr>
+<tr>
+  <td class="Tipografia--general Cuerpo--General" style="background-color:#BDD6EE;text-align: center;color: white;"><b>Sistema de Gestión Integral</b></td>
+</tr>
+</table>
+
+
 </div>
 
 </div>
   
 </div>
+
+
 
 <div class="container">
   <div class="row">

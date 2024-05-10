@@ -328,7 +328,7 @@
         <ul id="dropdown3" class="dropdown-content">
               <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Ingredientes Químicos</a>
           </li>
-          <li><a href="Product_List.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a>
+          
 <li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
           </li>
         </ul>
@@ -337,8 +337,12 @@
         <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" <li><a
               class="elemennav-secun Tipografia--general letranegro Subtitulos"
               href="Servicios.php"><b>Servicios</b></a></li>
-        <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
-            href="Cumplimiento.php"><b>Cumplimiento </b></a></li>
+<li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i class="material-icons right">arrow_drop_down</i></b></a>
+<ul id="dropdown4" class="dropdown-content" tabindex="0">
+<li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Cumplimiento</a></li>
+<li tabindex="0"><a href="Marco_Regulatorio.php" class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
+  <li tabindex="0"><a href="Certificaciones.php" class="Tipografia--general letranegro Subtitulos">Certificaciones</a></li>
+</ul></li>
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Contact.php"><b>Contacto
             </b></a></li>
       </ul>
@@ -621,78 +625,64 @@
 </div>
   </div>
 
-<div class="container" id="Contenedor_dual" name="Contenedor_dual">
-  <div class="row">
-    <div class="col s12 m12 l6 xl6" style="background-color:#000020;color:white;">
-    <?php
 
+
+<div class="container" style="margin-top:-100px;" id="tableprods" name="tableprods">
+  <div class="row">
+    <div class="col s12 m12 l12 xl12">
+    <?php
     require "conexion.php";
 
-    $conexion = new conexion();
+$conexion = new conexion();
 
-    $cnn = $conexion-> conectar();
+$cnn = $conexion-> conectar();
 
-    mysqli_select_db($cnn,"catalogos_productos");
+mysqli_select_db($cnn,"catalogos_productos");
 
-    $consulta = "SELECT * FROM catalogo_productos";
+$consulta = "SELECT * FROM catalogo_productos";
 
-    $result = mysqli_query($cnn, $consulta);
+$result = mysqli_query($cnn, $consulta);
 
-    while($mostrar = mysqli_fetch_array($result)){
+while($mostrar = mysqli_fetch_array($result)){
 
 
-      ?>
+  ?>
+      <table>
+    
+        <tr style="margin-top:-70px;">
 
-      <span style="font-size:40px;"><?php echo $mostrar['Alfabetico']?></span>
-      <hr>
-      <h5 class="General--Cuerpo Tipografia--General" style="color:white;"><?php echo $mostrar['Familia']?></h5>
-      <div class="col s12 m12 l6 xl6" style="margin-top:-10px;">
-        <ol>
-        <span><b>Ingrediente Químico</b></span>
-          <li style="list-style-type:disc;"><?php echo $mostrar['Producto']?></li>
-        </ol>
-      </div>
-      <div class="col s12 m12 l6 xl6">
-       
-        <ol>
-        <span><b>CAS #</b></span>
-          <li style="list-style-type:disc;">8001-30-7</li>
-          <li style="list-style-type:disc;">8001-22-7</li>
-        </ol>
-      </div>
+        <?php
 
-<?php
+          if($mostrar['Alfabetico'] != ""){
+           
+            echo "<td style='background-color:#EB592F;color:white;text-align:center;' colspan = '3'>" . $mostrar['Alfabetico'] . "</td>";
+
+          }else{
+           
+          }
+              
+              ?></td>
+
+
+        
+        </tr>
+        <tr>
+          <td style="background-color:#000020;color:white;text-align:center;border-right:1px solid white;">Familia</td>
+          <td style="background-color:#000020;color:white;text-align:center;border-right:1px solid white;">Descripción Quimica</td>
+          <td style="background-color:#000020;color:white;text-align:center;border-right:1px solid white;">CAS #</td>
+        </tr>
+        <tr>
+          <td style="text-align:center;width: 33.33%;"><?php echo $mostrar['Familia']?></td>
+          <td style="text-align:center;width: 33.33%;"><?php echo $mostrar['Producto']?></td>
+          <td style="text-align:center;width: 33.33%;"><?php echo $mostrar['CAS']?></td>
+        </tr>
+      </table>
+      <?php
     }
 ?>
-      <span style="font-size:40px;">A</span>
-      <hr>
-      <h5 class="General--Cuerpo Tipografia--General" style="color:white;">Aceites</h5>
-      <div class="col s12 m12 l6 xl6" style="margin-top:-10px;">
-        <ol>
-        <span><b>Ingrediente Químico</b></span>
-          <li style="list-style-type:disc;">Aceite de Maiz RBD</li>
-          <li style="list-style-type:disc;">Aceite de Soya RBD</li>
-          <li></li>
-          <li></li>
-        </ol>
-      </div>
-      <div class="col s12 m12 l6 xl6">
-       
-        <ol>
-        <span><b>CAS #</b></span>
-          <li style="list-style-type:disc;">8001-30-7</li>
-          <li style="list-style-type:disc;">8001-22-7</li>
-        </ol>
-      </div>
-    </div>
-    <div class="col s6 m6 l6 xl" style="background-color:#000020;opacity:0.8;color:white">
-      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Deleniti facilis veritatis porro reprehenderit ea sapiente molestiae, ducimus maxime, aspernatur totam distinctio eligendi cum odit adipisci. Ipsam libero fugit obcaecati a!</p>
     </div>
   </div>
 </div>
-
-
-
  
 
 
@@ -706,9 +696,10 @@
         href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de
         Privacidad </a>
       <script type="text/javascript" src="js/main.js"></script></a></strong>
-      <script type="text/javascript" src="js/Ingredientes_Quimicos.js"></script>
+
     </p>
-    <script type="text/javascript" src="js/Products.js"></script>
+    
+    <script type="text/javascript" src="js/NEW_PRODUCTS_MODULE.js"></script>
   </div>
 </footer>
 

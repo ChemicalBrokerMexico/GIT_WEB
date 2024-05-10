@@ -329,7 +329,7 @@
               <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Ingredientes Químicos</a>
           </li>
          
-          <li><a href="Product_List.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a>
+          
 <li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
           </li>
         </ul>
@@ -338,8 +338,12 @@
         <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" <li><a
               class="elemennav-secun Tipografia--general letranegro Subtitulos"
               href="Servicios.php"><b>Servicios</b></a></li>
-        <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
-            href="Cumplimiento.php"><b>Cumplimiento </b></a></li>
+              <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i class="material-icons right">arrow_drop_down</i></b></a>
+<ul id="dropdown4" class="dropdown-content" tabindex="0">
+<li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Cumplimiento</a></li>
+<li tabindex="0"><a href="Marco_Regulatorio.php" class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
+  <li tabindex="0"><a href="Certificaciones.php" class="Tipografia--general letranegro Subtitulos">Certificaciones</a></li>
+</ul></li>
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Contact.php"><b>Contacto
             </b></a></li>
       </ul>
@@ -673,6 +677,7 @@
                 <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#000020;">Literatura Técnica</b></h2>
                 <ol>
                         <a href="PDF/CATALOGUES/CARGILL_HE_ACIDOS-GRASOS-DESTILADOS-PALMA_071221_V2.pdf" class="arrowblue letranegro" download><li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro">CARGILL_HE_ACIDOS-GRASOS-DESTILADOS-PALMA_071221_V2.pdf</li></a>
+                        <br>
                         <a href="PDF/CATALOGUES/CARGILL_SDS_DEODORIZER-DESTILLATE_ACIDULATED-DEODORIZARZER-DESTILLATE_100415.pdf" class="arrowblue letranegro" download><li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro">CARGILL_SDS_DEODORIZER-DESTILLATE_ACIDULATED-DEODORIZARZER-DESTILLATE_100415.pdf</li></a>
                     </ol>
             </div>

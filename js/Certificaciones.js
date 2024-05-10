@@ -131,7 +131,7 @@ $(document).ready(function(){
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:765px;text-align:justify;">
                             <p style="text-align: justify;padding:5px;width:765px;">El Sistema de Análisis de Peligros y Control de Puntos Críticos (HACCP - Hazard Análisis and Critical Control Points) el cual permite identificar peligros específicos y medidas para su control con el fin de garantizar la inocuidad de los alimentos. <span>Para más información</span> <a
-                                    href="https://www3.paho.org/hq/index.php?option=com_content&view=article&id=10833:2015-historia-sistema-haccp&Itemid=0&lang=es#gsc.tab=0" style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
+                                    href="https://haccp-international.com/" style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
                         </td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:33.33%;text-align:center"><img src="img/HACCP_IMAGE.jpg" alt="" style="width:50%;"></td>
@@ -255,7 +255,7 @@ $(document).ready(function(){
         <p style="text-align: justify;padding:5px;width:765px;">La certificación
         Kosher PAREVE
         (NEUTRO) cumple al pie de la letra con las exigencias de aquellaspersonas que por diversas razones requieren de una dieta vegetariana, vegana o muy estricta, y queno pueden contener ningún tipo de grasa animal, debido a que esta certificación asegura lainexistencia de contaminación o arrastre de partículas que afectan a personas con diferentes tipos dealergias, principalmente de derivados de lácteos o cárnicos.
-            <span>Para más información</span> <a href="https://www.sqfi.com/es-mx/our-program/what-is-sqf/noriko-nakama"
+            <span>Para más información</span> <a href="https://ukkosher.org/empresas/carnicos-lacteos-y-pareve/#:~:text=Los%20alimentos%20que%20no%20son,caf%C3%A9%2C%20t%C3%A9%20y%20diversos%20dulces."
                 style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
     </td>
     <td class="letranegro Tipografia--general General--Cuerpo"
@@ -425,7 +425,7 @@ function filtroall(){
             <td class="letranegro Tipografia--general General--Cuerpo"
                 style="width:765px;text-align:justify;">
                 <p style="text-align: justify;padding:5px;width:765px;">El Sistema de Análisis de Peligros y Control de Puntos Críticos (HACCP - Hazard Análisis and Critical Control Points) el cual permite identificar peligros específicos y medidas para su control con el fin de garantizar la inocuidad de los alimentos. <span>Para más información</span> <a
-                        href="https://www3.paho.org/hq/index.php?option=com_content&view=article&id=10833:2015-historia-sistema-haccp&Itemid=0&lang=es#gsc.tab=0" style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
+                        href="https://haccp-international.com/" style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
             </td>
             <td class="letranegro Tipografia--general General--Cuerpo"
                 style="width:33.33%;text-align:center"><img src="img/HACCP_IMAGE.jpg" alt="" style="width:50%;"></td>
@@ -549,7 +549,7 @@ style="width:765px;text-align:justify;">
 <p style="text-align: justify;padding:5px;width:765px;">La certificación
 Kosher PAREVE
 (NEUTRO) cumple al pie de la letra con las exigencias de aquellaspersonas que por diversas razones requieren de una dieta vegetariana, vegana o muy estricta, y queno pueden contener ningún tipo de grasa animal, debido a que esta certificación asegura lainexistencia de contaminación o arrastre de partículas que afectan a personas con diferentes tipos dealergias, principalmente de derivados de lácteos o cárnicos.
-<span>Para más información</span> <a href="https://www.sqfi.com/es-mx/our-program/what-is-sqf/noriko-nakama"
+<span>Para más información</span> <a href="https://ukkosher.org/empresas/carnicos-lacteos-y-pareve/#:~:text=Los%20alimentos%20que%20no%20son,caf%C3%A9%2C%20t%C3%A9%20y%20diversos%20dulces."
     style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
 </td>
 <td class="letranegro Tipografia--general General--Cuerpo"
@@ -857,7 +857,7 @@ function filtroh(){
                 <td class="letranegro Tipografia--general General--Cuerpo"
                     style="width:765px;text-align:justify;">
                     <p style="text-align: justify;padding:5px;width:765px;">El Sistema de Análisis de Peligros y Control de Puntos Críticos (HACCP - Hazard Análisis and Critical Control Points) el cual permite identificar peligros específicos y medidas para su control con el fin de garantizar la inocuidad de los alimentos. <span>Para más información</span> <a
-                            href="https://www3.paho.org/hq/index.php?option=com_content&view=article&id=10833:2015-historia-sistema-haccp&Itemid=0&lang=es#gsc.tab=0" style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
+                            href="https://haccp-international.com/" style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
                 </td>
                 <td class="letranegro Tipografia--general General--Cuerpo"
                     style="width:33.33%;text-align:center"><img src="img/HACCP_IMAGE.jpg" alt="" style="width:50%;"></td>
@@ -1170,7 +1170,7 @@ style="width:765px;text-align:justify;">
 <p style="text-align: justify;padding:5px;width:765px;">La certificación
 Kosher PAREVE
 (NEUTRO) cumple al pie de la letra con las exigencias de aquellaspersonas que por diversas razones requieren de una dieta vegetariana, vegana o muy estricta, y queno pueden contener ningún tipo de grasa animal, debido a que esta certificación asegura lainexistencia de contaminación o arrastre de partículas que afectan a personas con diferentes tipos dealergias, principalmente de derivados de lácteos o cárnicos.
-<span>Para más información</span> <a href="https://www.sqfi.com/es-mx/our-program/what-is-sqf/noriko-nakama"
+<span>Para más información</span> <a href="https://ukkosher.org/empresas/carnicos-lacteos-y-pareve/#:~:text=Los%20alimentos%20que%20no%20son,caf%C3%A9%2C%20t%C3%A9%20y%20diversos%20dulces."
     style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
 </td>
 <td class="letranegro Tipografia--general General--Cuerpo"

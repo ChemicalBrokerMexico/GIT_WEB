@@ -417,8 +417,12 @@
                 <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" <li><a
                             class="elemennav-secun Tipografia--general letranegro Subtitulos"
                             href="Servicios.php"><b>Servicios</b></a></li>
-                <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
-                        href="Cumplimiento.php"><b>Cumplimiento </b></a></li>
+                            <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i class="material-icons right">arrow_drop_down</i></b></a>
+<ul id="dropdown4" class="dropdown-content" tabindex="0">
+<li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Cumplimiento</a></li>
+<li tabindex="0"><a href="Marco_Regulatorio.php" class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
+  <li tabindex="0"><a href="Certificaciones.php" class="Tipografia--general letranegro Subtitulos">Certificaciones</a></li>
+</ul></li>
                 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Contact.php"><b>Contacto
                         </b></a></li>
             </ul>
@@ -639,7 +643,7 @@
         <div class="slider slider-prueba" style="margin-top:0px">
             <ul class="slides slides-pruea">
                 <li> <img src="img/ACEITE_RBD_211223.jpg" alt="" class="Collagen_Banner"
-                        style="filter:brightness(0.9);margin-top:-174px;height:460px;">
+                        style="filter:brightness(0.9);margin-top:-174px;height:573px;">
                     <div class="caption center-align"><br><br><br><br>
                         <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b
                             class="segundotitulo" style="font-size: 26px;">Aceite de Soya Refinado</b>
@@ -670,7 +674,7 @@
         <div class="col s12 m12 l12 xl12">
         <h2 class="Tipografia--general letranegro Titulos" style="margin-top:0px;"><b>Aceite de Soya Refinado, Blanqueado y Desodorizado (RBD)</b></h2>
         <p class="Tipografia--general letranegro General--Cuerpo">Es un tipo de aceite vegetal que se obtiene a partir de los granos de soya, este proceso de refinado implica varias etapas para eliminar impurezas y componentes no deseados del aceite crudo de soya.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo">Las etapas principales del proceso RBD son:</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Las etapas principales del proceso RBD son:</p>
         <ol style="margin-top:30px;">
             <li class="Elementos--listas">Refinado. - El aceite crudo de soya se somete a un proceso de refinado para eliminar impurezas como sólidos, gomas y fosfolípidos. Este proceso generalmente involucra la neutralización del aceite con soda caustica o acido fosfórico, seguido de la separación de los compuestos no deseados.</li>
             <li class="Elementos--listas" style="margin-top:50px;">Desodorizado. - Después del refinado, el aceite se somete a un proceso de desodorización para eliminar o reducir los compuestos que pueden darle un olor no deseado. La desodorización se realiza mediante calor y vació para eliminar los compuestos volátiles. </li>
@@ -683,9 +687,9 @@
         <ol>
      
             <li style="list-style-type:disc;margin-top:0px;" class="Elementos--listas">Cocción y Freír. - tiene un alto punto de humo, lo que lo hace adecuado para la cocción y freir a altas temperaturas. Su estabilidad térmica significa que puede soportar temperaturas elevadas sin descomponerse o producir humo.</li>
-            <li style="list-style-type:disc;margin-top:50px;" class="Elementos--listas">Sabor neutro. - El proceso de refinado y desodorización elimina gran parte del sabor y olor característicos de la soya, dejando un aceite con un sabor neutro. Esto hace que sea versátil y adecuado para una gran variedad de preparaciones culinarias sin afectar significativamente el sabor d ellos alimentos.</li>
-            <li style="list-style-type:disc;margin-top:50px;" class="Elementos--listas">Extensor de vida útil. - el proceso de refinado ayuda a eliminar impurezas y componentes que podrían hacer que el aceite se vuelva rancio más rápidamente. Como resultado tiene una vida útil más larga en comparación con los aceites crudos.</li>
-            <li style="list-style-type:disc;margin-top:50px" class="Elementos--listas">Textura y Emulsificación. - se utiliza en la fabricación de productos alimenticios para mejorar la textura y la boca. También se utiliza como agente emulsionante en productos como mayonesas y aderezos para ensaladas.</li>
+            <li style="list-style-type:disc;margin-top:30px;" class="Elementos--listas">Sabor neutro. - El proceso de refinado y desodorización elimina gran parte del sabor y olor característicos de la soya, dejando un aceite con un sabor neutro. Esto hace que sea versátil y adecuado para una gran variedad de preparaciones culinarias sin afectar significativamente el sabor d ellos alimentos.</li>
+            <li style="list-style-type:disc;margin-top:30px;" class="Elementos--listas">Extensor de vida útil. - el proceso de refinado ayuda a eliminar impurezas y componentes que podrían hacer que el aceite se vuelva rancio más rápidamente. Como resultado tiene una vida útil más larga en comparación con los aceites crudos.</li>
+            <li style="list-style-type:disc;margin-top:30px" class="Elementos--listas">Textura y Emulsificación. - se utiliza en la fabricación de productos alimenticios para mejorar la textura y la boca. También se utiliza como agente emulsionante en productos como mayonesas y aderezos para ensaladas.</li>
         </ol>
 
         <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Aplicaciones</b></h2>    

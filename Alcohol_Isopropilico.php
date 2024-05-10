@@ -418,8 +418,12 @@
                 <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" <li><a
                             class="elemennav-secun Tipografia--general letranegro Subtitulos"
                             href="Servicios.php"><b>Servicios</b></a></li>
-                <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
-                        href="Cumplimiento.php"><b>Cumplimiento </b></a></li>
+<li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i class="material-icons right">arrow_drop_down</i></b></a>
+<ul id="dropdown4" class="dropdown-content" tabindex="0">
+<li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Cumplimiento</a></li>
+<li tabindex="0"><a href="Marco_Regulatorio.php" class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
+  <li tabindex="0"><a href="Certificaciones.php" class="Tipografia--general letranegro Subtitulos">Certificaciones</a></li>
+</ul></li>
                 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Contact.php"><b>Contacto
                         </b></a></li>
             </ul>
@@ -640,7 +644,7 @@
         <div class="slider slider-prueba" style="margin-top:0px">
             <ul class="slides slides-pruea">
                 <li> <img src="img/CB_ALCOHOL_ISOPROPILICO.jpg" alt="" class="Collagen_Banner"
-                        style="filter:brightness(0.9);margin-top:-290px;height:460px;">
+                        style="filter:brightness(0.9);margin-top:-290px;height:691px;">
                     <div class="caption center-align"><br><br><br><br>
                         <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b
                             class="segundotitulo" style="font-size: 26px;">Alcohol Isopropílico</b>
@@ -653,7 +657,7 @@
     <div class="container" style="margin-top:80px;">
         <div class="row bread_mobile">
             <div class="col s12 m12 l12 xl12">
-                <section class="breditem--inicio"><a class="breditem active" href="index.php"
+                <section class="breditem--inicio" style="width:320px;"><a class="breditem active" href="index.php"
                         style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
                         href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b>
                             >
@@ -680,10 +684,10 @@
           <tr class="Tipografia--general General--Cuerpo"
             style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
             <td
-              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#000020;color:rgba(2 146 238 /99%);" class="table_bha_mobile">
+              style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile ">
               <b>Descripción Química:</b>
             </td>
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;" class="table_bha_mobile">Alcohol Isopropilico</td>
+            <td style="font-size:18px !important;border-bottom:1px solid black;width:50%;color:black;" class="table_bha_mobile">Alcohol Isopropilico</td>
           </tr>
 
 
@@ -691,24 +695,23 @@
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#000020;color:rgba(2 146 238 /99%);" class="table_bha_mobile"
+              style="font-size:18px !important;border-bottom:1px solid black" class="table_bha_mobile"
               >
               <b>Formula Estructural:</b>
             </td>
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;" class="table_bha_mobile"
-              >
-              <img src="img/CB_FORMULA-ESTRUCTURAL_ALCOHOL-ISOPROPILICO.png" alt="" style="width:30%;">
+            <td style="font-size:18px;border-bottom:1px solid black;color:white;"  class="table_bha_mobile">
+              <img src="img/CB_FORMULA-ESTRUCTURAL_ALCOHOL-ISOPROPILICO.png" alt="" style="width:30%;" >
             </td>
           </tr>
 
           <tr class="Tipografia--general General--Cuerpo"
-            style="padding:10px;font-size:15px !important;width:150px;">
+            style="padding:10px;font-size:15px !important;width:150px;border-bottom:1px solid black">
             <td
-              style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:rgba(2 146 238 /99%);" class="table_bha_mobile"
+              style="font-size:18px !important;border-bottom:1px solid black;width:50%;color:black;" class="table_bha_mobile"
               >
               <b>Fórmula Química:</b>
             </td>
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;" class="table_bha_mobile"
+            <td style="font-size:18px !important;border-bottom:1px solid black;width:50%;color:black;" class="table_bha_mobile"
               >
               -(CH<sub>3</sub>)CH(OH) CH<sub>3</sub></td>
           </tr>

@@ -1,0 +1,5522 @@
+#rotar {
+    -webkit-transition-duration: 0.8s;
+    -moz-transition-duration: 0.8s;
+    -o-transition-duration: 0.8s;
+    transition-duration: 0.8s;
+    -webkit-transition-property: -webkit-transform;
+    -moz-transition-property: -moz-transform;
+    -o-transition-property: -o-transform;
+    transition-property: transform;
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+}
+
+.Listas_disc{
+    list-style-type: disc;
+   }
+
+
+   td{
+    font-family: Arial, Helvetica, sans-serif !important;
+   }
+
+.color--corporativo {
+    color: #000020;
+}
+
+.fondo--color--corporativo {
+    background-color: #000020;
+}
+
+.border--hidden {
+    border: hidden;
+}
+
+.color--blanco {
+    color: white !important;
+}
+
+.esquinas_redondeadas_contacto {
+    border-radius: 1%;
+    border-bottom: 15px solid #000020;
+}
+
+.color--fondo--negro {
+    background-color: black;
+}
+
+.elementos--cookies {
+    margin-top: 20px;
+}
+
+.float-right {
+    float: right;
+}
+
+.Tipografia--general {
+    font-family: Arial;
+}
+
+.letranegro {
+    color: black;
+}
+
+.Titulos {
+    font-size: 18px;
+}
+
+.Subtitulos {
+    font-size: 18px;
+}
+
+.Titulos_cuerpo{
+    color: #000020 ;
+    font-size: 18px;
+}
+
+.Subtitulos_cuerpo{
+    color:#000020;
+    font-size: 18px;
+}
+
+.Desplegables {
+    font-size: 16px;
+}
+
+.tabla_lista_prod{
+    color: #00B0F0;
+    background-color: #000020;
+    font-weight: ;
+}
+
+.trgris{
+background-color: #f2f2f2;
+border: 1px solid #f2f2f2;
+}
+
+.Elementos--Listas {
+    font-size: 18px;
+    font-family:Arial, Helvetica, sans-serif;
+    list-style-type: disc;
+}
+
+.General--Cuerpo {
+    font-size: 18px;
+    text-align: justify;
+}
+
+.Pie--Pagina {
+    font-size: 16px;
+}
+
+.Botones {
+    font-size: 16px;
+}
+
+.botones-logistics{
+font-size:16px;
+}
+
+.botones-logistics:hover{
+    background-color:#000020;
+    padding:5px;
+    border-radius:5px
+}
+
+.arrow_drop_down_cb {
+    margin-top: 1px;
+    color: white;
+}
+
+.sections {
+    background-color: #141414;
+}
+
+.opacity--menor {
+    opacity: 0.5;
+    cursor: pointer;
+    display: inline;
+    margin-left: 15px;
+    font-size: 30px;
+}
+
+.no--opacidad {
+    cursor: pointer;
+    display: inline;
+    margin-left: 15px;
+    color: #b21b27;
+    font-size: 30px;
+}
+
+.no--opacidad:hover {
+    color: #000020;
+}
+
+.boton--carreers {
+    background-color: #b21b27;
+}
+
+.boton--carreers:hover {
+    background-color: #000020;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+html {
+    overflow-x: hidden;
+}
+
+.overflow-y {
+    overflow-y: hidden;
+}
+
+.overflow-x {
+    overflow-x: hidden;
+}
+
+.float--left {
+    float: left;
+}
+
+.float--right {
+    float: right;
+}
+
+a {
+    color: white;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: Arial;
+}
+
+ul,
+ol,
+li {
+    font-family: Arial;
+    font-size: 18px;
+}
+
+.desaparece {
+    display: none !important;
+}
+
+.azul--electrico {
+    color: rgba(2 146 238 /99%);
+}
+
+.arrowblue {
+    transition: margin-left 0.5s;
+}
+
+.arrowblue:hover {
+    color: rgba(2 146 238 /99%) !important;
+    margin-left: 10px;
+}
+
+.arrowblue_inverso {
+    transition: margin-top 0.5s;
+}
+
+.arrowblue_inverso:hover {
+    color: rgba(2 146 238 /99%) !important;
+    margin-bottom: 50px;
+}
+
+
+.arrowblue2:hover {
+    color: rgba(2 146 238 /99%);
+}
+
+.arrowblue:hover .desaparece {
+    display: inline !important;
+}
+
+.hr {
+    background-color: white;
+    width: 244px;
+    margin-top: -8px;
+    margin-left: 1px !important;
+}
+
+.contlog {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-mobile-icon {
+    color: black !important;
+}
+
+.search {
+    display: none;
+}
+
+.dataTables_length,
+.dataTables_filter,
+.dataTables_paginate,
+.dataTables_info {
+    display: none;
+}
+
+.slider-prueba {
+    height: 300px !important;
+}
+
+.primertitulo {
+    font-size: 26px !important;
+    color: white !important;
+}
+
+.segundotitulo {
+    font-size: 26px !important;
+}
+
+.boldbanner {
+    color: white;
+    padding-bottom: 40px;
+    padding-top: 14px;
+    padding-left: 4px;
+    padding-right: 5px;
+}
+
+.infohov:hover {
+    color: rgba(2 146 238 /99%) !important;
+}
+
+.saleshover:hover {
+    color: rgba(2 146 238 /99%) !important;
+}
+
+.img--border--radius {
+    border-radius: 10px;
+}
+
+.margin--bottom{
+    margin-bottom: 0px;
+}
+
+.margin--top{
+    margin-top: 50px;
+}
+
+@media only screen and (max-width: 576px) {
+
+
+  
+
+    .divider_sections {
+        background-color: white;
+        width: 108%;
+        margin-left: -11px;
+        height: 2px;
+    }
+
+    .Leersebo{
+        margin-top:10px;
+        }
+    
+
+    .img-logo {
+        margin-top: 0px;
+        max-width: 324px !important;
+    }
+
+    .flex {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+    }
+
+    .btn-lock1 {
+        margin-left: -98px;
+        margin-top: -26px;
+        width: 36px;
+        padding: 0px;
+        height: 26px;
+    }
+
+    .search-mobile-icon {
+        margin-left: -54px;
+        margin-top: -41px
+    }
+
+    .imglogoCE {
+        width: 29% !important;
+    }
+
+    .divfooter:before,
+    .divfooter:after {
+        background-color: black;
+        width: 30%;
+        height: 1px;
+        display: inline-block;
+        content: "";
+    }
+
+    .divfooter:before {
+        margin: 0px -2px 38px 5px;
+    }
+
+    .divfooter:after {
+        margin: 0px 5px 38px -2px;
+    }
+
+    .divfooter2:before,
+    .divfooter2:after {
+        background-color: rgb(192, 174, 174);
+        width: 35%;
+        height: 1px;
+        display: inline-block;
+        content: "";
+    }
+
+    .divfooter2:before {
+        margin: 0% 0% 6% 0%;
+    }
+
+    .divfooter2:after {
+        margin: 0% 0% 6% 0%;
+    }
+
+    .btn-menu-search-ok2 {
+        width: 270px !important;
+        height: 33px !important;
+        background-color: #c73e32 !important;
+        /* margin-left: ; */
+    }
+
+    .mercadosimagen {
+        position: relative;
+        max-width: 100%;
+        margin-top: 5px;
+        opacity: 1;
+        height: auto;
+        transition: .5s ease;
+        backface-visibility: hidden;
+        -webkit-filter: contrast(200%);
+        filter: saturate(1.3);
+    }
+
+    .contenedor {
+        position: relative;
+        display: inline-block;
+        text-align: center;
+    }
+
+    .centrado {
+        position: absolute;
+        top: 8%;
+        left: 50%;
+        transform: translate(-50%, -26%);
+    }
+
+    .titulomercado {
+        font-family: Arial;
+        font-size: 10px;
+        color: white;
+        /* margin-top: 23px; */
+    }
+
+    .titulo_submercado {
+        font-family: Arial;
+        font-size: 10px;
+        color: white;
+        /* margin-top: 23px; */
+    }
+
+    .animacion {
+        background-color: #F31515;
+        height: 1px;
+        border: 0px;
+        width: 30px;
+        transition: width 0.5s;
+        margin-top: 1px;
+    }
+
+    .mercados:hover .animacion {
+        width: 60px;
+    }
+
+    .colorazulimg {
+        max-width: 100%;
+    }
+
+    .tipografiaimg {
+        max-width: 100%;
+    }
+
+    .sloganedwar {
+        max-width: 100%;
+    }
+
+    .middle {
+        transition: .5s ease;
+        opacity: 0;
+        transform: translate(0%, -239%);
+        -ms-transform: translate(-50%, -50%);
+        text-align: center;
+        width: 100%;
+    }
+
+    .mercados:hover .middle {
+        opacity: 1;
+    }
+
+    .text {
+        background-color: #a6a6a6;
+        ;
+        font-size: 10px;
+        padding: 10px 32px;
+    }
+
+    .text2 {
+        background-color: #ed7d31;
+        color: white;
+        font-size: 10px;
+        padding: 10px 32px;
+    }
+
+    .text3 {
+        background-color: #81D0F9;
+        color: white;
+        font-size: 10px;
+        padding: 10px 32px;
+    }
+
+    .text4 {
+        background-color: #f6d900;
+        color: white;
+        font-size: 10px;
+        padding: 10px 32px;
+    }
+
+    .text5 {
+        background-color: #006600;
+        color: white;
+        font-size: 10px;
+        padding: 10px 32px;
+    }
+
+    .text6 {
+        background-color: #3a2351;
+        color: white;
+        font-size: 10px;
+        padding: 10px 32px;
+    }
+
+    .text7 {
+        background-color: #00b0f0;
+        color: white;
+        font-size: 10px;
+        padding: 10px 32px;
+    }
+
+    .text8 {
+        background-color: black;
+        color: white;
+        font-size: 10px;
+        padding: 10px 32px;
+    }
+
+    #overlay {
+        position: absolute;
+        width: 30%;
+        height: 30%;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: rgba(0, 0, 0, 0.5);
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        background: red;
+        opacity: .4;
+    }
+
+    #overlay {
+        position: absolute;
+        width: 35%;
+        height: 97.8%;
+        top: 0px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #858b92a4;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlayalimentos {
+        position: absolute;
+        width: 35%;
+        height: 97.8%;
+        top: 0px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: orange;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+        border-radius: 10px;
+    }
+
+    #overlaysuplementos {
+        position: absolute;
+        width: 35%;
+        height: 97.8%;
+        top: 0px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #81D0F9;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlayagro {
+        position: absolute;
+        width: 35%;
+        height: 97.8%;
+        top: 0px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #006600;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlaycosme {
+        position: absolute;
+        width: 35%;
+        height: 97.8%;
+        top: 0px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #3a2351;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlaydeter {
+        position: absolute;
+        width: 35%;
+        height: 97.8%;
+        top: 0px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #00b0f0;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlaychemi {
+        position: absolute;
+        width: 35%;
+        height: 97.8%;
+        top: 0px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: black;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlayped {
+        position: absolute;
+        width: 35%;
+        height: 97.8%;
+        top: 0px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #f6d900;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlayveteri {
+        position: absolute;
+        width: 35%;
+        height: 97.8%;
+        top: 0px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: rgb(32, 94, 136);
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlay_RH {
+        position: absolute;
+        width: 35%;
+        height: 95.9%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color:#000020;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.5;
+    }
+
+    .pruebadiagonal::after{
+        content: '';
+    }
+    
+    .titulo_rh{
+font-size: 12px;
+    }
+
+    /* .transfo::after{
+        position: absolute;
+        content: "";
+        height: 100%;
+        top: 0;
+        width: 80%;
+        bottom: 0;
+        left: 20%;
+        right: inherit;
+        opacity: 0.7;
+        transform: skewX(-12deg);
+        backface-visibility: hidden;
+        background: #262137;
+        z-index:-1;
+    } */
+    .zoom {
+        transition: transform .2s;
+    }
+
+    .zoom:hover {
+        transform: scale(1.02);
+    }
+
+    .leer_mas_mercados {
+        font-size: 12px;
+        margin-left: 0%;
+        margin-top: 0px;
+    }
+
+    .centrado_sub {
+        position: absolute;
+        top: 50%;
+        left: 17.5%;
+        transform: translate(-50%, -50%);
+    }
+
+    #modal1 {
+        width: 336px !important;
+    }
+
+    .modal-footer {
+        padding-bottom: 255px !important;
+    }
+
+    #chefle {
+        display: flex !important;
+        justify-content: start;
+    }
+
+    .Logindesktop {
+        margin-top: -23px;
+        color: white !important;
+        display: none;
+    }
+
+
+    .ocultar {
+        visibility: hidden;
+    }
+
+    .Tabla_productos_glicerina {
+        width: 100%;
+    }
+
+    .Tabla_productos_glicoles {
+        width: 190%;
+    }
+
+    .Carreras_altura {
+        margin-top: -23px;
+        height: 10px;
+    }
+
+    .breadcumb--general {
+        margin-top: 125px;
+    }
+
+    .breadcumb--general-cadena_suministro{
+        margin-top:100px;
+    }
+
+    .inicial--productos {
+        font-size: 54px;
+        border-bottom: 3px solid #000020;
+        color: #000020;
+    }
+
+    .IMAGE--GLICERINS {
+        width: 100%;
+        margin-top: 23px;
+    }
+
+  
+
+    .IMAGE--GLYCOLS {
+        width: 100%;
+        margin-top: 23px;
+        border-radius: 10px;
+    }
+
+    .IMAGE--LECITHINS {
+        width: 100%;
+        margin-top: 23px;
+        border-radius: 10px;
+    }
+
+    .IMAGE--SORBITOLS {
+        width: 100%;
+        margin-top: 23px;
+        border-radius: 10px;
+    }
+
+    .top--glicerin {
+        margin-top: 60px;
+
+    }
+
+    .top--glicoles {
+        margin-top: 60px;
+    }
+
+    .top--lecitinas {
+        margin-top: 60px;
+    }
+
+    .top--sorbitoles {
+        margin-top: 60px;
+    }
+
+    .top--antioxidantes {
+        margin-top: 25px;
+    }
+
+    .Leerglice {
+        margin-top: 15px;
+    }
+
+    .Leergli {
+        margin-top: 11px;
+    }
+
+    .Leerleci {
+        margin-top: 11px;
+    }
+
+    .Leersorbi {
+        margin-top: 11px;
+    }
+
+    .Leernitruro{
+        margin-top: 11px;
+    }
+
+    .Leerpectina{
+        margin-top: 30px;
+    }
+
+    .Leerantiox {
+        margin-top: 11px;
+    }
+
+    .Leeracidgrass {
+        margin-top:11px;
+    }
+
+    .Leeralcoholesgrasos{
+        margin-top:30px;
+    }
+
+    .breditem--inicio {
+        margin-top: 0px;
+    }
+
+    .columna1--mobile {
+        margin-top: 10px;
+    }
+
+    .columna2 {
+        margin-top: 10px;
+    }
+
+    .columna3 {
+        margin-top: 10px;
+    }
+
+    .columna4 {
+        margin-top: 10px;
+    }
+
+    .margin_movil {
+        margin-top: 20px;
+    }
+
+    table {
+        width: 100%;
+    }
+
+    /* correcta visualizacion mobile eliminar */
+    /* thead  {
+        display: none;
+    } */
+
+    tr:nth-of-type(2n) {
+        background-color: inherit;
+    }
+
+    tr td:firs-child {
+        background: #f0f0f0;
+        font-weight: bold;
+        font-size: 1.3em;
+    }
+
+    /* correcta visualizacion mobile eliminar */
+     /* tbody td  {
+      
+    }  */
+
+   .tabla_larga{
+        display: block !important;
+        width: 316px;
+    }
+
+    tbody td:before {
+        content: attr(data-th);
+        display: block;
+        text-align: center;
+    }
+
+    tr td:last-child {
+        margin-bottom: 15px;
+
+    }
+
+    .nodisplay {
+        display: none;
+    }
+
+    .formulaestructural {
+        width: 192%;
+    }
+
+    .formulaestructural {
+        width: 192%;
+    }
+
+    .cargill-logo {
+        width: 65%;
+    }
+
+    .OLEON_LOGO {
+        width: 65%;
+    }
+
+    .CREMER_LOGO{
+        width: 80%;
+    }
+
+    .PG_LOGO{
+        width: 65%;
+    }
+
+    .Cumplimiento_GDP_P {
+        width:100%
+    }
+
+    .Cumplimiento_HACCP_P {
+        width:100%
+    }
+
+    .Cumplimiento_FCC_P {
+        width:100%
+    }
+
+    .Estructural_Glicerina {
+        width: 70%;
+    }
+
+    .logo_lecitinas_secundarias{
+        width:100%;
+    }
+
+    .logo_lyondell_secundario{
+        width:50%;
+    }
+
+    .LOGO_KLK_OLEO{
+        width:100%;
+    }
+
+    .img_acidos_grasos{
+          background: round;
+          background-position: inherit !important;
+    }
+
+    .bread_mobile{
+        margin-top:130px;
+        width: 326px;
+    }
+
+    .Antioxidantes_Banner{
+        height:400px !important;
+    }
+
+    .Bicarbonato_Sodio_Banner{
+        height:400px !important;
+    }
+
+    .Glycerin_Banner{
+        height: 400px !important;
+    }
+
+    .Tablas_Productos_Mobile{
+     width: 120% !important;
+    }
+
+    .Tablas_Productos_Glicerina{
+        width:150% !important;
+    }
+
+    .table_bha_mobile{
+        width:185% !important;
+        text-align: center;
+    }
+
+    .Tablas_Bicarsodio_Mobile{
+        width:50%;
+     
+    }
+
+    .Estructural_BHA{
+    width: 100%;
+    }
+
+     .ocultar_mobile{
+        display: none;
+    } 
+
+    .SOLVEY_LOGO{
+        width:60%;
+        }
+
+        .Leerlauril{
+            margin-top: 16px;
+        }
+
+
+        .Banner_Productos{
+            width:400px;
+        }
+
+        .img-bicar-usp{
+            height: 400px !important;
+        }
+
+        .Estructural_Sorbitol{
+            width:100%;
+        }
+
+        .Grasos_No_Movil{
+            display: none;
+        }
+
+        .tabla_propiedades{
+            width: 100%;
+            border-spacing: 2px 2px;
+        }
+
+        .table_glycols{
+            width:100%;
+        }
+
+        .logo_basf_mobile{
+            width:50%;
+        }
+
+        .Logo_BASF{
+            width:50%;
+        }
+
+        .columnas_acidos_grasos{
+            margin-top: 0px;
+        }
+
+        .columnas_alcoholes_grasos{
+            margin-top:0px;
+        }
+
+        .columnas_antioxidantes{
+            margin-top:0px;
+        }
+
+        .columnas_bicarbonato_sodio{
+            margin-top:0px;
+        }
+
+        .columnas_acidulantes{
+            margin-top:-32px;
+        }
+
+        .columnas_carbomeros{
+            margin-top: -32px;
+        }
+
+        .columnas_dextrosas{
+            margin-top:-8px;
+        }
+
+        .columnas_edta{
+            margin-top:-32px;
+        }
+
+        .columnas_glicerinas{
+            margin-top:0px;
+        }
+
+        .columnas_glicoles{
+            margin-top:0px;
+        }
+
+        .columnas_jarabe_maiz{
+            margin-top:0px;
+        }
+
+        .columnas_lauril_sulfato{
+            margin-top:0px;
+        }
+
+        .columnas_lecitinas{
+            margin-top:0px;
+        }
+
+        .columnas_maltodextrina{
+            margin-top:0px;
+        }
+
+        .columnas_dimetilformamida{
+            margin-top:0px;
+        }
+
+        .columnas_nitruro_boro{
+            margin-top:0px;
+        }
+
+        .columnas_metilpirrolidona{
+            margin-top:0px;
+        }
+
+        .columnas_pasta_soya{
+            margin-top:-32px;
+        }
+
+        .columnas_pectinas{
+            margin-top:0px;
+        }
+
+        .columnas_sorbitoles{
+            margin-top:0px;
+        }
+
+        .border_compliance_tabla{
+            border-top: 1px solid #000020;
+            border-bottom: 1px solid #000020;
+        }
+
+        .compliance_tab{
+            display: none;
+        }
+
+        .mobile_compliance{
+            display: inline;
+        }
+
+        .IMG_Seccion_Prod{
+            width: 100%;
+            border-radius: 10px;
+        }
+
+
+        .btn_leerMas{
+            position: absolute;
+            left: 10px;
+            top: 100%;
+        }
+
+}
+
+@media only screen and (min-width: 576px) {
+
+    .compliance_tab{
+        display: none;
+    }
+
+    .Leersebo{
+        margin-top:10px;
+        }
+    
+
+    .mobile_compliance{
+        display: inline;
+    }
+
+    .img-logo {
+        margin-top: 0px;
+        max-width: 353px !important;
+    }
+
+    .flex {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+    }
+
+    .btn-lock1 {
+        margin-left: -98px;
+        margin-top: -26px;
+        width: 36px;
+        padding: 0px;
+        height: 26px;
+    }
+
+    .search-mobile-icon {
+        margin-left: -54px;
+        margin-top: -40px
+    }
+
+    .imglogoCE {
+        width: 20% !important;
+    }
+
+    .divfooter:before,
+    .divfooter:after {
+        background-color: black;
+        width: 35%;
+        height: 1px;
+        display: inline-block;
+        content: "";
+    }
+
+    .divfooter:before {
+        margin: 0px -2px 38px 5px;
+    }
+
+    .divfooter:after {
+        margin: 0px 5px 38px -2px;
+    }
+
+    .divfooter2:before,
+    .divfooter2:after {
+        background-color: black;
+        width: 42%;
+        height: 1px;
+        display: inline-block;
+        content: "";
+    }
+
+    .divfooter2:before {
+        margin: 0% 0% 3% 0%;
+    }
+
+    .divfooter2:after {
+        margin: 0% 0% 3% 0%;
+    }
+
+    .btn-menu-search-ok2 {
+        width: 270px !important;
+        height: 33px !important;
+        background-color: #c73e32 !important;
+        /* margin-left: ; */
+    }
+
+    .mercadosimagen {
+        max-width: 100%;
+        margin-top: 5px;
+        opacity: 1;
+        height: auto;
+        transition: .5s ease;
+        backface-visibility: hidden;
+        -webkit-filter: contrast(200%);
+        filter: saturate(1.3);
+    }
+
+    .contenedor {
+        position: relative;
+        display: inline-block;
+        text-align: center;
+    }
+
+    .centrado {
+        position: absolute;
+        top: 8%;
+        left: 50%;
+        transform: translate(-50%, -26%);
+    }
+
+    .titulomercado {
+        font-family: Arial;
+        font-size: 16px;
+        color: white;
+        /* margin-top: 23px; */
+    }
+
+    .titulo_submercado {
+        font-family: Arial;
+        font-size: 16px;
+        color: white;
+        /* margin-top: 23px; */
+    }
+
+    .animacion {
+        background-color: #F31515;
+        height: 2px;
+        width: 37px;
+        border: 0px;
+        transition: width 0.5s;
+    }
+
+    .mercados:hover .animacion {
+        width: 60px;
+    }
+
+    .desplazamiento_familias {
+        transition: margin-left 0.5s;
+    }
+
+    .desplazamiento_familias:hover {
+        margin-left: 20px;
+    }
+
+    .colorazulimg {
+        max-width: 100%;
+    }
+
+    .tipografiaimg {
+        max-width: 100%;
+    }
+
+    .sloganedwar {
+        max-width: 100%;
+    }
+
+    .middle {
+        transition: .5s ease;
+        opacity: 0;
+        transform: translate(0%, -356%);
+        -ms-transform: translate(-50%, -50%);
+        text-align: center;
+        width: 100%;
+    }
+
+    .mercados:hover .middle {
+        opacity: 1;
+    }
+
+    .text {
+        background-color: #a6a6a6;
+        font-size: 15px;
+        padding: 10px 32px;
+    }
+
+    .text2 {
+        background-color: orange;
+        color: white;
+        font-size: 15px;
+        padding: 10px 32px;
+    }
+
+    .text3 {
+        background-color: #81D0F9;
+        color: white;
+        font-size: 15px;
+        padding: 10px 32px;
+    }
+
+    .text4 {
+        background-color: #f6d900;
+        color: white;
+        font-size: 15px;
+        padding: 10px 32px;
+    }
+
+    .text5 {
+        background-color: #006600;
+        color: white;
+        font-size: 15px;
+        padding: 10px 32px;
+    }
+
+    .text6 {
+        background-color: #3a2351;
+        color: white;
+        font-size: 15px;
+        padding: 10px 32px;
+    }
+
+    .text7 {
+        background-color: #00b0f0;
+        color: white;
+        font-size: 15px;
+        padding: 10px 32px;
+    }
+
+    .text8 {
+        background-color: black;
+        color: white;
+        font-size: 15px;
+        padding: 10px 32px;
+    }
+
+    #overlay {
+        position: absolute;
+        width: 30%;
+        height: 30%;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: rgba(0, 0, 0, 0.5);
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        background: red;
+        opacity: 0.4;
+    }
+
+    #overlay {
+        position: absolute;
+        width: 35%;
+        height: 99.5%;
+        top: -2px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #858b92a4;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.4;
+    }
+
+    #overlayalimentos {
+        position: absolute;
+        width: 35%;
+        height: 99.5%;
+        top: -2px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: orange;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlaysuplementos {
+        position: absolute;
+        width: 35%;
+        height: 99.5%;
+        top: -2px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #81D0F9;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlayagro {
+        position: absolute;
+        width: 35%;
+        height: 99.5%;
+        top: -2px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #006600;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlaycosme {
+        position: absolute;
+        width: 35%;
+        height: 99.5%;
+        top: -2px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #3a2351;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlaydeter {
+        position: absolute;
+        width: 35%;
+        height: 99.5%;
+        top: -2px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #00b0f0;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlaychemi {
+        position: absolute;
+        width: 35%;
+        height: 99.5%;
+        top: -2px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: black;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlayped {
+        position: absolute;
+        width: 35%;
+        height: 99.5%;
+        top: -2px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #f6d900;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlayveteri {
+        position: absolute;
+        width: 35%;
+        height: 99.5%;
+        top: -2px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: rgb(32, 94, 136);
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlay_RH {
+        position: absolute;
+        width: 35%;
+        height: 96.9%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color:#000020;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.5;
+    }
+
+    .titulo_rh{
+        font-size: 16px;
+    }
+
+    /* .transfo::after{
+        position: absolute;
+        content: "";
+        height: 100%;
+        top: 0;
+        width: 80%;
+        bottom: 0;
+        left: 20%;
+        right: inherit;
+        opacity: 0.7;
+        transform: skewX(-12deg);
+        backface-visibility: hidden;
+        background: #262137;
+        z-index:-1;
+    } */
+    .zoom {
+        transition: transform .2s;
+    }
+
+    .zoom:hover {
+        transform: scale(1.02);
+    }
+
+    .centrado_sub {
+        position: absolute;
+        top: 50%;
+        left: 17.5%;
+        transform: translate(-50%, -50%);
+    }
+
+    #modal {
+        width: 250px !important;
+    }
+
+    .modal-footer {
+        padding-bottom: 152px !important;
+    }
+
+    #chefle {
+        display: flex !important;
+        justify-content: start;
+    }
+
+    .Logindesktop {
+        margin-top: -22px;
+        color: white !important;
+        display: none;
+    }
+
+    .leer_mas_mercados {
+        font-size: 16px;
+        margin-left: 0%;
+    }
+
+    .Tabla_productos_glicerina {
+        width: 100%;
+    }
+
+    .Carreras_altura {
+        margin-top: -23px;
+        height: 10px;
+    }
+
+    .inicial--productos {
+        font-size: 54px;
+        border-bottom: 3px solid #000020;
+        color: #000020;
+    }
+
+    .breadcumb--general {
+        margin-top: 125px;
+    }
+
+    .breadcumb--general-cadena_suministro{
+        margin-top:0px;
+    }
+
+    .IMAGE--GLICERINS {
+        width: 100%;
+        margin-top: 23px;
+    }
+
+   
+
+    .IMAGE--GLYCOLS {
+        width: 100%;
+        margin-top: 23px;
+        border-radius: 10px;
+    }
+
+    .IMAGE--LECITHINS {
+        width: 100%;
+        margin-top: 23px;
+        border-radius: 10px;
+    }
+
+    .IMAGE--SORBITOLS {
+        width: 100%;
+        margin-top: 23px;
+        border-radius: 10px;
+    }
+
+
+    .top--glicerin {
+        margin-top: 40px;
+
+    }
+
+    .top--glicoles {
+        margin-top: 40px;
+
+    }
+
+
+    .top--lecitinas {
+        margin-top: 40px;
+    }
+
+    .top--sorbitoles {
+        margin-top: 40px;
+    }
+
+    .top--antioxidantes {
+        margin-top: 8px;
+    }
+
+    .Leerglice {
+        margin-top: 20px;
+    }
+
+    .Leergli {
+        margin-top: 20px;
+    }
+
+    .Leerleci {
+        margin-top: 20px;
+    }
+
+    .Leersorbi {
+        margin-top:20px;
+    }
+
+    .Leernitruro{
+        margin-top:20px;
+    }
+
+    .Leerpectina{
+        margin-top: 30px;
+    }
+
+    .Leerantiox {
+        margin-top: 10px;
+    }
+
+    .Leeracidgrass {
+        margin-top: 10px;
+    }
+
+    .breditem--inicio {
+        margin-top: 0px;
+    }
+
+    .Leeralcoholesgrasos{
+        margin-top:20px;
+    }
+
+    .columna1--mobile {
+        margin-top: 10px;
+    }
+
+    .columna2 {
+        margin-top: 10px;
+    }
+
+    .columna3 {
+        margin-top: 10px;
+    }
+
+    .columna4 {
+        margin-top: 10px;
+    }
+
+    .margin_movil {
+        margin-top: 20px;
+    }
+
+    .nodisplay {
+        display: none;
+    }
+
+    .Estructural_Glicerina {
+        width: 70%;
+    }
+
+    .Estructural_Sorbitol{
+        width: 100%;
+    }
+
+    .logo_lecitinas_secundarias{
+        width:100%;
+    }
+
+    .logo_lyondell_secundario{
+        width:50%;
+    }
+
+    .LOGO_KLK_OLEO{
+        width:100%;
+    }
+
+    .Antioxidantes_Banner{
+        height:400px !important;
+    }
+
+    .Bicarbonato_Sodio_Banner{
+        height:400px !important;
+    }
+
+    .Glycerin_Banner{
+        height: 400px !important;
+    }
+
+    .Tablas_Productos_Mobile{
+        width: 136% !important;
+       }
+
+       .Tablas_Productos_Glicerina{
+        width:150% !important;
+    }
+
+       .table_bha_mobile{
+        width:185% !important;
+        text-align: center;
+       }
+
+       .Tablas_Bicarsodio_Mobile{
+        width:50%;
+        
+    }
+
+       .Estructural_BHA{
+        width: 100%;
+        }
+
+        .ocultar_mobile{
+            display: none;
+        }
+
+        .SOLVEY_LOGO{
+            width:20%;
+            margin-left: -38px;
+            }
+
+            .Leerlauril{
+                margin-top: 16px;
+            }
+
+            
+    .Banner_Productos{
+        width:400px;
+    }
+
+    .img-bicar-usp{
+        height: 400px !important;
+    }
+
+    .Grasos_No_Movil{
+        display: none;
+    }
+
+    .tabla_propiedades{
+        width: 100%;
+        border-spacing: 2px 2px;
+    }
+
+    .table_glycols{
+        width:100%;
+    }
+
+    .logo_basf_mobile{
+        width:50%;
+    }
+
+    .Logo_BASF{
+        width:50%;
+    }
+
+    .columnas_acidos_grasos{
+        margin-top: 0px;
+    }
+
+    .columnas_alcoholes_grasos{
+        margin-top:0px;
+    }
+
+    .columnas_antioxidantes{
+        margin-top:0px;
+    }
+
+    .columnas_bicarbonato_sodio{
+        margin-top:0px;
+    }
+
+    .columnas_acidulantes{
+        margin-top:0px;
+    }
+
+    .columnas_carbomeros{
+        margin-top:0px;
+    }
+
+    .columnas_dextrosas{
+        margin-top:0px;
+    }
+
+    .columnas_edta{
+        margin-top:0px;
+    }
+
+    .columnas_glicerinas{
+        margin-top:0px;
+    }
+
+    .columnas_glicoles{
+        margin-top:0px;
+    }
+
+    .columnas_jarabe_maiz{
+        margin-top:15px;
+    }
+
+    .columnas_lauril_sulfato{
+        margin-top:0px;
+    }
+
+    .columnas_lecitinas{
+        margin-top:0px;
+    }
+
+    .columnas_maltodextrina{
+        margin-top:15px;
+    }
+
+    .columnas_dimetilformamida{
+        margin-top:0px;
+    }
+
+    .columnas_nitruro_boro{
+        margin-top:0px;
+    }
+
+    .columnas_metilpirrolidona{
+        margin-top:0px;
+    }
+
+    .columnas_pasta_soya{
+        margin-top:0px;
+    }
+
+    .columnas_pectinas{
+        margin-top:0px;
+    }
+
+    .columnas_sorbitoles{
+        margin-top:0px;
+    }
+
+    .border_compliance_tabla{
+        border-top: 1px solid #000020;
+        border-bottom: 1px solid #000020;
+    }
+
+    .CREMER_LOGO{
+        width:50%;
+    }
+
+    .IMG_Seccion_Prod{
+        width: 100%;
+        border-radius: 10px;
+    }
+
+    .btn_leerMas{
+        position: absolute;
+        left: 10px;
+        top: 100%;
+    }
+
+}
+
+@media only screen and (min-width:639px) and (max-width:640px) {
+    .search-mobile-icon {
+        margin-left: -54px;
+        margin-top: -44px
+    }
+
+    .Logindesktop {
+        margin-top: -27px;
+        color: white !important;
+        display: none;
+    }
+
+    .centrado_sub {
+        position: absolute;
+        top: 50%;
+        left: 17.5%;
+        transform: translate(-50%, -50%);
+    }
+
+    .titulo_submercado {
+        font-family: Arial;
+        font-size: 11px;
+        color: white;
+    }
+
+    .margin-top-movil {
+        margin-top: 50px;
+    }
+
+    table {
+        width: 100%;
+    }
+
+    thead {
+        display: none;
+    }
+
+    tr:nth-of-type(2n) {
+        background-color: inherit;
+    }
+
+    tr td:firs-child {
+        background: #f0f0f0;
+        font-weight: bold;
+        font-size: 1.3em;
+    }
+
+    tbody td {
+        display: block;
+      
+    }
+
+    tbody td:before {
+        content: attr(data-th);
+        display: block;
+        text-align: center;
+    }
+
+    .nodisplay {
+        display: none;
+    }
+
+    .LOGO_KLK_OLEO{
+        width:100%;
+    }
+
+    .logo_lecitinas_secundarias{
+        width:25%;
+    }
+
+    .OLEON_LOGO{
+        width: 18%;
+    }
+
+    .CREMER_LOGO{
+        width:50%;
+    }
+
+    .PG_LOGO{
+        width: 25%;
+    }
+
+    .titulo_submercado{
+     font-size:16px;
+    }
+
+    .btn_leerMas{
+        position: absolute;
+        left: 10px;
+        top: 100%;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width:991px) {
+    .imglogoCE {
+        width: 15% !important;
+    }
+
+    .divfooter:before,
+    .divfooter:after {
+        background-color: black;
+        width: 40%;
+        height: 1px;
+        display: inline-block;
+        content: "";
+    }
+
+    .divfooter:before {
+        margin: 0px -2px 38px 5px;
+    }
+
+    .divfooter:after {
+        margin: 0px 5px 38px -2px;
+    }
+
+    .divfooter2:before,
+    .divfooter2:after {
+        background-color: black;
+        width: 43%;
+        height: 1px;
+        display: inline-block;
+        content: "";
+    }
+
+    .divfooter2:before {
+        margin: 0% 0% 3% 0%;
+    }
+
+    .divfooter2:after {
+        margin: 0% 0% 3% 0%;
+    }
+
+    .btn-menu-search-ok2 {
+        width: 252px !important;
+    }
+
+    .middle {
+        transition: .5s ease;
+        opacity: 0;
+        transform: translate(0%, -453%);
+    }
+
+    .divider_sections {
+        background-color: white;
+        width: 103%;
+        margin-left: -9px;
+        height: 2px;
+    }
+
+    #overlay {
+        position: absolute;
+        width: 35%;
+        height: 98.1%;
+        top: 1px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #858b92a4;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.4;
+    }
+
+    #overlayalimentos {
+        position: absolute;
+        width: 35%;
+        height: 98.1%;
+        top: 1px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: orange;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlaysuplementos {
+        position: absolute;
+        width: 35%;
+        height: 98.1%;
+        top: 1px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #81D0F9;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlayagro {
+        position: absolute;
+        width: 35%;
+        height: 98.1%;
+        top: 1px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #006600;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlaycosme {
+        position: absolute;
+        width: 35%;
+        height: 98.1%;
+        top: 1px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #3a2351;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlaydeter {
+        position: absolute;
+        width: 35%;
+        height: 98.1%;
+        top: 1px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #00b0f0;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlaychemi {
+        position: absolute;
+        width: 35%;
+        height: 98.1%;
+        top: 1px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: black;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlayped {
+        position: absolute;
+        width: 35%;
+        height: 98.1%;
+        top: 1px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #f6d900;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlayveteri {
+        position: absolute;
+        width: 35%;
+        height: 98.1%;
+        top: 1px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: rgb(32, 94, 136);
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlay_RH {
+        position: absolute;
+        width: 35%;
+        height: 97.9%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color:#000020;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.5;
+    }
+
+    .titulo_rh{
+        font-size: 16px;
+    }
+
+    .Logindesktop {
+        margin-top: -27px;
+        color: white !important;
+        display: none;
+    }
+
+    .search-mobile-icon {
+        margin-left: -60px;
+        margin-top: -44px
+    }
+
+    .nodisplay {
+        display: none;
+    }
+
+    .breadcrumb-movil {
+        margin-top: 50px;
+    }
+
+    .LOGO_KLK_OLEO{
+        width:100%;
+    }
+
+    .logo_lecitinas_secundarias{
+        width:25%;
+    }
+
+    .OLEON_LOGO{
+        width: 18%;
+    }
+
+    .CREMER_LOGO{
+        width:50%;
+    }
+
+    .PG_LOGO{
+        width: 25%;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .imglogoCE {
+        width: 12% !important;
+    }
+
+    .divfooter:before,
+    .divfooter:after {
+        background-color: black;
+        width: 40%;
+        height: 1px;
+        display: inline-block;
+        content: "";
+    }
+
+    .divfooter:before {
+        margin: 0px -2px 43px 5px;
+    }
+
+    .divfooter:after {
+        margin: 0px 5px 43px -2px;
+    }
+
+    .divfooter2:before,
+    .divfooter2:after {
+        background-color: black;
+        width: 44%;
+        height: 1px;
+        display: inline-block;
+        content: "";
+    }
+
+    .divfooter2:before {
+        margin: 0px -2px px 5px;
+    }
+
+    .divfooter2:after {
+        margin: 0px 5px px -2px;
+    }
+
+    .btn-menu-search-ok2 {
+        width: 210px !important;
+    }
+
+    .middle {
+        transition: .5s ease;
+        opacity: 0;
+        transform: translate(0%, -239%);
+    }
+
+    .divider_sections {
+        background-color: white;
+        width: 88%;
+        margin-left: -9px;
+        height: 2px;
+    }
+
+    .titulomercado {
+        font-family: Arial;
+        font-size: 16px;
+        color: white;
+        /* margin-top: 23px; */
+    }
+
+    .titulo_submercado {
+        font-family: Arial;
+        font-size: 11px;
+        color: white;
+    }
+
+    .leer_mas_mercados {
+        font-size: 8px;
+        margin-left: 0%;
+    }
+
+    .titulo_submercado {
+        font-family: Arial;
+        font-size: 8px;
+        color: white;
+        /* margin-top: 23px; */
+    }
+
+    .nodisplay {
+        display: none;
+    }
+
+.search-top-mobile{
+margin-top: -44px;
+}
+
+.LOGO_KLK_OLEO{
+    width:100%;
+}
+
+.logo_lecitinas_secundarias{
+    width:25%;
+}
+
+}
+
+@media only screen and (min-width: 1025px) {
+    .divider_sections {
+        background-color: white;
+        width: 86%;
+        margin-left: -9px;
+    }
+
+    .flex {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .elemennav-secun {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .btn-search-desktop1 {
+        margin-left: -200px;
+        margin-top: -41px;
+    }
+
+    .imglogoCE {
+        width: 12% !important;
+    }
+
+    .divfooter:before,
+    .divfooter:after {
+        background-color: black;
+        width: 40%;
+        height: 1px;
+        display: inline-block;
+        content: "";
+    }
+
+    .divfooter:before {
+        margin: 0px -2px 38px 5px;
+    }
+
+    .divfooter:after {
+        margin: 0px 5px 38px -2px;
+    }
+
+    .divfooter2:before,
+    .divfooter2:after {
+        background-color: black;
+        width: 30%;
+        height: 1px;
+        display: inline-block;
+        content: "";
+    }
+
+    .divfooter2:before {
+        margin: 0px -2px 38px 5px;
+    }
+
+    .divfooter2:after {
+        margin: 0px 5px 38px -2px;
+    }
+
+    .leer_mas_mercados {
+        font-size: 16px;
+        margin-left: 0%;
+    }
+
+    .nodisplay {
+        display: none;
+    }
+
+    .close_hover:hover {
+        background-color: #000020 !important;
+        color: white !important;
+        padding: 10px;
+    }
+
+    .LOGO_KLK_OLEO{
+        width:100%;
+    }
+
+    .logo_lecitinas_secundarias{
+        width:25%;
+    }
+
+    .topacidgraas{
+        margin-top: -6px
+    }
+
+    .topantioxidantes{
+        margin-top:1px;
+    }
+
+    .topbicarbonatosodio{
+        margin-top:-1px;
+    }
+
+    .columnas_dextrosas{
+        margin-top:-9px;
+    }
+}
+
+@media only screen and (min-width: 1097px){
+
+    .divfooter2:before,
+    .divfooter2:after {
+        background-color: black;
+        width: 44%;
+        height: 1px;
+        display: inline-block;
+        content: "";
+    }
+
+    .divfooter2:before {
+        margin: 0% 0% 2.5% 0%;
+    }
+
+    .divfooter2:after {
+        margin: 0% 0% 2.5% 0%;
+    }
+
+    .columnas_acidos_grasos{
+        margin-top: -15px;
+    }
+
+
+    .columnas_antioxidantes{
+        margin-top: -15px;
+    }
+
+  
+    .columnas_bicarbonato_sodio{
+        margin-top: -15px;
+    }
+
+    .columnas_dextrosas{
+        margin-top:-15px;
+    }
+
+  
+   .columnas_glicerinas{
+        margin-top:-15px;
+   }
+
+   .columnas_glicoles{
+         margin-top:-15px;
+   }
+
+   .columnas_jarabe_maiz{
+        margin-top:-15px;
+   }
+
+   .columnas_lecitinas{
+        margin-top:-15px;
+   }
+
+   .columnas_maltodextrina{
+        margin-top:-15px;
+   }
+
+   .columnas_dimetilformamida{
+        margin-top:-15px;
+   }
+
+   .columnas_nitruro_boro{
+        margin-top:-15px;
+   }
+
+   .columnas_metilpirrolidona{
+        margin-top:-15px;
+   }
+
+   .columnas_pasta_soya{
+        margin-top:-15px;
+   }
+
+   .columnas_pectinas{
+    margin-top:-15px;
+   }
+
+   .columnas_lauril_sulfato{
+    margin-top: -15px;
+   }
+
+   .columnas_sorbitoles{
+    margin-top:-15px;
+   }
+
+    .top-sorbitoles{
+        margin-top: 0px;
+    }
+
+    .titulo_excelencia{
+        font-size:16px;
+    }
+    
+    #overlay_RH {
+        position: absolute;
+        width: 35%;
+        height: 94.9%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color:#000020;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.5;
+    }
+
+    .OLEON_LOGO{
+        width: 18%;
+    }
+
+    .CREMER_LOGO{
+        width: 25%;
+    }
+
+    .PG_LOGO{
+        width: 25%;
+    }
+
+
+    .Carreras_menu_principal{
+        display: inline-block;
+        margin-left: 571px;
+        margin-top: -50px;
+    }
+
+
+    #overlay {
+        position: absolute;
+        width: 35%;
+        height: 95.5%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #858b92a4;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.4;
+    }
+
+    #overlayalimentos {
+        position: absolute;
+        width: 35%;
+        height: 95.5%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: orange;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlaysuplementos {
+        position: absolute;
+        width: 35%;
+        height: 95.5%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #81D0F9;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlayped {
+        position: absolute;
+        width: 35%;
+        height: 95.5%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #f6d900;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlayagro {
+        position: absolute;
+        width: 35%;
+        height: 95.5%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #006600;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlaycosme {
+        position: absolute;
+        width: 35%;
+        height: 97%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #3a2351;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlaydeter {
+        position: absolute;
+        width: 35%;
+        height: 97%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #00b0f0;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlaychemi {
+        position: absolute;
+        width: 35%;
+        height: 97%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: black;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlayveteri {
+        position: absolute;
+        width: 35%;
+        height: 97%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: rgb(32, 94, 136);
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    
+}
+
+@media only screen and (min-width: 1200px) {
+
+    .elemennav-secun {
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+
+    .btn-lock1 {
+        width: 41px
+    }
+
+    .btn-search-desktop1 {
+        margin-left: -238px;
+        margin-top: -41px;
+    }
+
+    .imglogoCE {
+        width: 10% !important;
+    }
+
+    .divfooter:before,
+    .divfooter:after {
+        background-color: black;
+        width: 40%;
+        height: 1px;
+        display: inline-block;
+        content: "";
+    }
+
+    .divfooter:before {
+        margin: 0px -2px 38px 5px;
+    }
+
+    .divfooter:after {
+        margin: 0px 5px 38px -2px;
+    }
+
+    .divfooter2:before,
+    .divfooter2:after {
+        background-color: black;
+        width: 44%;
+        height: 1px;
+        display: inline-block;
+        content: "";
+    }
+
+    .divfooter2:before {
+        margin: 0% 0% 2.5% 0%;
+    }
+
+    .divfooter2:after {
+        margin: 0% 0% 2.5% 0%;
+    }
+
+    .mercadosimagen {
+        max-width: 100%;
+        -webkit-filter: contrast(100%);
+        filter: saturate(1.3);
+    }
+
+    .middle {
+        transition: .5s ease;
+        opacity: 0;
+        transform: translate(0%, -290%);
+    }
+
+    .btn-search-desktop1 {
+        margin-left: -100px;
+        margin-top: -41px;
+    }
+
+    .icon-menu-search {
+        background-color: #eaeaea !important;
+        height: 52px !important;
+        padding-top: 8px !important;
+        width: 50px !important;
+        font-size: 35px !important;
+    }
+
+    .txt-menu-search {
+        max-width: 400px !important;
+        background-color: #eaeaea !important;
+        margin-left: -27px !important;
+        height: 50px !important;
+    }
+
+    .btn-menu-search-ok {
+        width: 420px !important;
+        height: 50px !important;
+        margin-left: 250px !important;
+        background-color: #000020 !important;
+    }
+
+    .Logindesktop {
+        margin-top: -27px;
+        color: white !important;
+        display: none;
+    }
+
+    .margin60_escritorio {
+        margin-top: 15px;
+    }
+
+    .nodisplay {
+        display: none;
+    }
+
+    .close_hover:hover {
+        background-color: #000020 !important;
+        color: white !important;
+        padding: 10px;
+    }
+
+    .Cumplimiento_GMP {
+
+        width: 80%;
+
+    }
+
+    .Carreras_menu_principal{
+        display: inline-block;
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+
+    .LOGO_KLK_OLEO{
+        width:100%;
+    }
+
+    .logo_lecitinas_secundarias{
+        width:25%;
+    }
+
+}
+
+@media only screen and (min-width:1240px) {
+    .leer_mas_mercados {
+        font-size: 10px;
+        margin-left: 0%;
+    }
+
+    .Leermas_servicios {
+        margin-top: -70px;
+    }
+
+    .LOGO_KLK_OLEO{
+        width:100%;
+    }
+
+    .Carreras_menu_principal{
+        display: inline-block;
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+
+}
+
+@media only screen and (min-width: 1280px) {
+    
+    .btn_leerMas{
+        position: absolute;
+        left: 10px;
+        top: 93%;
+    }
+
+    
+    .elemennav-secun {
+        margin-left: 60px;
+        margin-right: 60px;
+    }
+
+    .btn-lock1 {
+        width: 42px;
+    }
+
+    .btn-search-desktop1 {
+        margin-left: -238px;
+        margin-top: -41px;
+    }
+
+    .imglogoCE {
+        width: 10% !important;
+    }
+
+    .divfooter:before,
+    .divfooter:after {
+        background-color: black;
+        width: 40%;
+        height: 1px;
+        display: inline-block;
+        content: "";
+    }
+
+    .divfooter:before {
+        margin: 0px -2px 57px 5px;
+    }
+
+    .divfooter:after {
+        margin: 0px 5px 57px -2px;
+    }
+
+    .divfooter2:before,
+    .divfooter2:after {
+        background-color: black;
+        width: 46%;
+        height: 1px;
+        display: inline-block;
+        content: "";
+    }
+
+    .divfooter2:before {
+        margin: 0% 0% 1.5% 0%;
+    }
+
+    .divfooter2:after {
+        margin: 0% 0% 1.5% 0%;
+    }
+
+    .mercadosimagen {
+        max-width: 100%;
+        -webkit-filter: contrast(100%);
+        filter: saturate(1.3);
+    }
+
+    .middle {
+        transition: .5s ease;
+        opacity: 0;
+        transform: translate(0%, -290%);
+    }
+
+    .btn-search-desktop1 {
+        margin-left: -101px;
+        margin-top: -41px;
+    }
+
+    .icon-menu-search {
+        background-color: #eaeaea !important;
+        height: 52px !important;
+        padding-top: 8px !important;
+        width: 50px !important;
+        font-size: 35px !important;
+    }
+
+    .txt-menu-search {
+        max-width: 364px !important;
+        background-color: #eaeaea !important;
+        margin-left: -27px !important;
+        height: 50px !important;
+    }
+
+    .btn-menu-search-ok {
+        width: 347px !important;
+        height: 50px !important;
+        margin-left: 250px !important;
+        background-color: #000020 !important;
+    }
+
+    #overlaysuplementos {
+        position: absolute;
+        width: 35%;
+        height: 96%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #81D0F9;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlayagro {
+        position: absolute;
+        width: 35%;
+        height: 96%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #006600;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlaycosme {
+        position: absolute;
+        width: 35%;
+        height: 96%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #3a2351;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlaydeter {
+        position: absolute;
+        width: 35%;
+        height: 96%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #00b0f0;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlaychemi {
+        position: absolute;
+        width: 35%;
+        height: 96%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: black;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlayped {
+        position: absolute;
+        width: 35%;
+        height: 96%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #f6d900;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlayveteri {
+        position: absolute;
+        width: 35%;
+        height: 96%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: rgb(32, 94, 136);
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlay {
+        position: absolute;
+        width: 35%;
+        height: 96%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #858b92a4;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.4;
+    }
+
+    #overlayalimentos {
+        position: absolute;
+        width: 35%;
+        height: 96%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: orange;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlay_RH {
+        position: absolute;
+        width: 35%;
+        height: 96.9%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color:#000020;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.5;
+    }
+
+    .titulo_rh{
+        font-size: 12px;
+    }
+
+    .leer_mas_mercados {
+        font-size: 10px;
+        margin-top: -9px;
+        margin-left: 0%;
+    }
+
+    .titulomercado {
+        font-family: Arial;
+        font-size: 16px;
+        color: white;
+        /* margin-top: 23px; */
+    }
+
+    .titulo_submercado {
+        font-family: Arial;
+        font-size: 10px;
+        color: white;
+        /* margin-top: 23px; */
+    }
+
+    .titulo_excelencia{
+        font-size:16px;
+    }
+    
+
+    .nodisplay {
+        display: none;
+    }
+
+    .cargill-logo {
+        width: 30%;
+    }
+
+    .OLEON_LOGO {
+        width: 30%;
+    }
+
+    .CREMER_LOGO{
+        width: 25%;
+    }
+
+    .PG_LOGO{
+        width: 65%;
+    }
+
+    .close_hover:hover {
+        background-color: #000020 !important;
+        color: white !important;
+        padding:0px;
+    }
+
+    .breditem--inicio {
+        margin-top: 38px;
+    }
+
+    .LOGO_KLK_OLEO{
+        width:30%;
+    }
+
+    .columnas_acidos_grasos{
+        margin-top: -16px;
+    }
+
+    .columnas_alcoholes_grasos{
+        margin-top:-16px;
+    }
+
+    .columnas_antioxidantes{
+        margin-top:-17px;
+    }
+
+    .columnas_bicarbonato_sodio{
+        margin-top:-16px;
+    }
+
+    .columnas_acidulantes{
+        margin-top:-16px;
+    }
+
+    .columnas_carbomeros{
+        margin-top: -16px;
+    }
+
+    .columnas_dextrosas{
+        margin-top:-16px;
+    }
+
+    .columnas_edta{
+        margin-top:-16px;
+    }
+
+    .columnas_glicerinas{
+        margin-top:-16px;
+    }
+
+
+
+    .columnas_glicoles{
+        margin-top:-16px;
+    }
+
+    .columnas_jarabe_maiz{
+        margin-top:-15px;
+    }
+
+    .columnas_lauril_sulfato{
+        margin-top:-16px;
+    }
+
+    .columnas_lecitinas{
+        margin-top:-16px;
+    }
+
+    .columnas_maltodextrina{
+        margin-top:-15px;
+    }
+
+    .columnas_dimetilformamida{
+        margin-top:-16px;
+    }
+
+    .columnas_nitruro_boro{
+        margin-top:-16px;
+    }
+
+    .columnas_metilpirrolidona{
+        margin-top:-16px;
+    }
+
+    .columnas_pasta_soya{
+        margin-top:-16px;
+    }
+
+    .columnas_pectinas{
+        margin-top:-16px;
+    }
+
+    .columnas_sorbitoles{
+        margin-top:-16px;
+    }
+
+.Leerglice {
+    margin-top:92px;
+}
+
+.Leerlauril{
+    margin-top:13px;
+}
+
+.Leergli {
+    margin-top:13px;
+}
+
+.Leerleci {
+    margin-top:64px;
+}
+
+.Leermaltodextrin{
+    margin-top:142px;    
+}
+
+.Leersorbi {
+    margin-top:13px;
+}
+
+.Leernitruro{
+    margin-top:106px;
+}
+
+
+.LeerNMETHYL{
+    margin-top:65px;
+}
+
+.LeerPasta{
+margin-top:51px;
+}
+
+.LeerDimetil{
+ margin-top:124px;
+}
+
+.Leerpectina{
+    margin-top: 30px;
+}
+
+.Leerantiox {
+    margin-top:52px;
+}
+
+.LeerBicarSodio{
+    margin-top:65px;
+}
+
+.Leeracidgrass {
+    margin-top:31px;
+}
+
+.Leeralcoholesgrasos{
+    margin-top:50px;
+}
+
+.Leermaiz{
+    margin-top:52px;
+}
+
+  .LeerDextrosa{
+        margin-top:83px;
+    }
+
+    #overlay_RH {
+        position: absolute;
+        width: 35%;
+        height: 95.9%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color:#000020;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.5;
+    }
+
+    .Carreras_menu_principal{
+        display: inline-block;
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+
+    .Titulos{
+        font-size:15px
+    }
+
+    .General--Cuerpo{
+        font-size:13px;
+    }
+
+    .Botones{
+        font-size:13px;
+    }
+
+}
+
+
+@media only screen and (min-width:1536px){
+
+    
+    .columnas_acidos_grasos{
+        margin-top: -15px;
+    }
+
+    .columnas_alcoholes_grasos{
+        margin-top:-15px;
+    }
+
+    .columnas_antioxidantes{
+        margin-top:-15px;
+    }
+
+    .columnas_bicarbonato_sodio{
+        margin-top:-15px;
+    }
+
+    .columnas_acidulantes{
+        margin-top:-15px;
+    }
+
+    .columnas_carbomeros{
+        margin-top: -15px;
+    }
+
+    .columnas_dextrosas{
+        margin-top:-15px;
+    }
+
+    .columnas_edta{
+        margin-top:-15px;
+    }
+
+    .columnas_glicerinas{
+        margin-top:-15px;
+    }
+
+    .columnas_glicoles{
+        margin-top:-15px;
+    }
+
+    .columnas_jarabe_maiz{
+        margin-top:-15px;
+    }
+
+    .columnas_lauril_sulfato{
+        margin-top:-15px;
+    }
+
+    .columnas_lecitinas{
+        margin-top:-15px;
+    }
+
+    .columnas_maltodextrina{
+        margin-top:-15px;
+    }
+
+    .columnas_dimetilformamida{
+        margin-top:-15px;
+    }
+
+    .columnas_nitruro_boro{
+        margin-top:-15px;
+    }
+
+    .columnas_metilpirrolidona{
+        margin-top:-15px;
+    }
+
+    .columnas_pasta_soya{
+        margin-top:-15px;
+    }
+
+    .columnas_pectinas{
+        margin-top:-15px;
+    }
+
+    .columnas_sorbitoles{
+        margin-top:-15px;
+    }
+
+
+.Leerglice {
+    margin-top:108px;
+}
+
+.Leerlauril{
+    margin-top:17px;
+}
+
+.Leergli {
+    margin-top:17px;
+}
+
+.Leerleci {
+    margin-top:83px;
+}
+
+.Leermaltodextrin{
+    margin-top:172px;    
+}
+
+.Leersorbi {
+    margin-top:16px;
+}
+
+.Leernitruro{
+    margin-top:128px;
+}
+
+
+.LeerNMETHYL{
+    margin-top:80px;
+}
+
+.LeerPasta{
+margin-top:85px;
+}
+
+.LeerDimetil{
+ margin-top:153px;
+}
+
+.Leerpectina{
+    margin-top: 30px;
+}
+
+.Leerantiox {
+    margin-top: 63px;
+}
+
+.LeerBicarSodio{
+    margin-top:79px;
+}
+
+.Leeracidgrass {
+    margin-top:40px;
+}
+
+.Leeralcoholesgrasos{
+    margin-top:64px;
+}
+
+.Leermaiz{
+    margin-top:60px;
+}
+
+  .LeerDextrosa{
+        margin-top: 104px;
+    }
+
+
+    .Carreras_menu_principal{
+        display: inline-block;
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+
+
+    #overlay {
+        position: absolute;
+        width: 35%;
+        height: 96.5%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #858b92a4;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.4;
+    }
+
+    #overlayalimentos {
+        position: absolute;
+        width: 35%;
+        height: 96.5%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: orange;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlaysuplementos {
+        position: absolute;
+        width: 35%;
+        height: 96.5%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #81D0F9;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlayped {
+        position: absolute;
+        width: 35%;
+        height: 96.5%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #f6d900;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlayagro {
+        position: absolute;
+        width: 35%;
+        height: 96.5%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #006600;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlaycosme {
+        position: absolute;
+        width: 35%;
+        height: 96.5%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #3a2351;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlaydeter {
+        position: absolute;
+        width: 35%;
+        height: 96.5%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #00b0f0;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlaychemi {
+        position: absolute;
+        width: 35%;
+        height: 96.5%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: black;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlayveteri {
+        position: absolute;
+        width: 35%;
+        height: 96.5%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: rgb(32, 94, 136);
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    .General--Cuerpo {
+        font-size: 18px;
+        text-align: justify;
+    }
+
+    .Titulos{
+        font-size:20px;
+    }
+
+}
+
+@media only screen and (min-width: 1745px){
+
+    .Leeracidgrass{
+        margin-top:73px;
+    }
+
+    .Leersebo{
+        bottom:133px;
+        }
+
+
+    .Leeralcoholesgrasos{
+        margin-top:146px;
+    }
+
+    .Leerantiox{
+        margin-top:124px;
+    }
+
+    .LeerBicarSodio{
+        margin-top:118px;
+    }
+
+    .LeerDextrosa{
+        margin-top:164px;
+    }
+
+    .Leerglice{
+        margin-top:149px;
+    }
+
+    .Leergli{
+        margin-top:77px;
+    }
+
+    .Leermaiz{
+        margin-top:100px;
+    }
+
+    .Leerlauril{
+        margin-top:76px;
+    }
+
+    .Leerleci{
+        margin-top:139px;
+    }
+
+    .Leermaltodextrin{
+        margin-top:211px;
+    }
+
+    .LeerDimetil{
+        margin-top:191px;
+    }
+
+    .Leernitruro{
+        margin-top:189px;
+    }
+
+    .LeerNMETHYL{
+        margin-top:139px;
+    }
+
+    .Leersorbi{
+        margin-top: 76px;
+    }
+
+    .PG_LOGO{
+        width: 15%;
+    }
+
+    .Carreras_menu_principal{
+        display: inline-block;
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+
+    #overlay {
+        position: absolute;
+        width: 35%;
+        height: 97%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #858b92a4;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.4;
+    }
+
+    #overlayalimentos {
+        position: absolute;
+        width: 35%;
+        height: 97%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: orange;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlaysuplementos {
+        position: absolute;
+        width: 35%;
+        height: 97%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #81D0F9;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlayped {
+        position: absolute;
+        width: 35%;
+        height: 97%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #f6d900;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlayagro {
+        position: absolute;
+        width: 35%;
+        height: 97%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #006600;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlaycosme {
+        position: absolute;
+        width: 35%;
+        height: 97%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #3a2351;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlaydeter {
+        position: absolute;
+        width: 35%;
+        height: 97%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #00b0f0;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlaychemi {
+        position: absolute;
+        width: 35%;
+        height: 97%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: black;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlayveteri {
+        position: absolute;
+        width: 35%;
+        height: 97%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: rgb(32, 94, 136);
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    .columnas_acidos_grasos{
+        margin-top: -15px;
+    }
+
+    .columnas_alcoholes_grasos{
+        margin-top:-32px;
+    }
+
+    .columnas_antioxidantes{
+        margin-top:-14px;
+    }
+
+    .columnas_bicarbonato_sodio{
+        margin-top:-17px;
+    }
+
+    .columnas_acidulantes{
+        margin-top:-32px;
+    }
+
+    .columnas_carbomeros{
+        margin-top: -32px;
+    }
+
+    .columnas_dextrosas{
+        margin-top:-14px;
+    }
+
+    .columnas_edta{
+        margin-top:-32px;
+    }
+
+    .columnas_glicerinas{
+        margin-top:-15px;
+    }
+
+    .columnas_glicoles{
+        margin-top:-38px;
+    }
+
+    .columnas_jarabe_maiz{
+        margin-top:-15px;
+    }
+
+    .columnas_lauril_sulfato{
+        margin-top:-15px;
+    }
+
+    .columnas_lecitinas{
+        margin-top:-15px;
+    }
+
+    .columnas_maltodextrina{
+        margin-top:-15px;
+    }
+
+    .columnas_dimetilformamida{
+        margin-top:-15px;
+    }
+
+    .columnas_nitruro_boro{
+        margin-top:-15px;
+    }
+
+    .columnas_metilpirrolidona{
+        margin-top:-15px;
+    }
+
+    .columnas_pasta_soya{
+        margin-top:-15px;
+    }
+
+    .columnas_pectinas{
+        margin-top:-15px;
+    }
+
+    .columnas_sorbitoles{
+        margin-top:-15px;
+    }
+
+    .Botones{
+        font-size:16px;
+    }
+    
+}
+
+@media only screen and (min-width: 1750px) {
+
+
+
+    .btn_leerMas{
+        position: absolute;
+        left: 10px;
+        top: 93%;
+    }
+
+
+    .IMG_Seccion_Prod{
+        width: 100%;
+        border-radius: 10px;
+    }
+
+    .Leersebo{
+        margin-top:111px;
+    }
+
+    .compliance_tab{
+        display: block;
+    }
+
+    .tabla_compliance_desktop{
+        width: 100%;
+    }
+
+    .Banner_Grasos_Palma{
+        height: 645px;
+        margin-top: -398px;
+    }
+
+    .elemennav-secun {
+        margin-left: 49px;
+        margin-right: 60px;
+    }
+
+    .cargill-logo {
+        width: 30%;
+    }
+
+    .OLEON_LOGO {
+        width:20%;
+    }
+
+    .CREMER_LOGO{
+        width:20%;
+    }
+
+    .PG_LOGO{
+        width:15%;
+    }
+
+    .btn-lock1 {
+        width: 186px;
+    }
+
+    .btn-search-desktop1 {
+        margin-left: -238px;
+        margin-top: -41px;
+    }
+
+    .icon-menu-search {
+        background-color: #eaeaea !important;
+        height: 52px !important;
+        padding-top: 8px !important;
+        width: 70px !important;
+        font-size: 35px !important;
+    }
+
+    .txt-menu-search {
+        max-width: 80% !important;
+        background-color: #eaeaea !important;
+        margin-left: -27px !important;
+        height: 50px !important;
+    }
+
+    .btn-menu-search-ok {
+        width: 420px !important;
+        height: 50px !important;
+        margin-left: 250px !important;
+        background-color: #000020 !important;
+    }
+
+    .divfooter:before,
+    .divfooter:after {
+        background-color: black;
+        width: 45%;
+        height: 1px;
+        display: inline-block;
+        content: "";
+    }
+
+    
+    .h5before:before,
+    .h5before:after {
+        background-color: black;
+        width: 45%;
+        height: 1px;
+        display: inline-block;
+        content: "";
+    }
+
+    .imglogoCE {
+        width: 5% !important;
+    }
+
+    .h5before:before {
+        margin: 0% 0.40% 0.40% 0%;
+    } 
+
+    .h5before:after {
+        margin: 1% 0% 0.40% 0%;
+    }
+
+    
+    .divfooter:before {
+        margin: 2% 0% 1.7% 0%;
+    }
+
+    .divfooter:after {
+        margin: 2% 0% 1.7% 0%;
+    }
+
+
+    .divfooter2:before,
+    .divfooter2:after {
+        background-color: black;
+        width: 47.2%;
+        height: 1px;
+        display: inline-block;
+        content: "";
+    }
+
+    .divfooter2:before {
+        margin: 2% 0% 1.5% 0%;
+        ;
+    }
+
+    .divfooter2:after {
+        margin: 2% 0% 1.5% 0%;
+        ;
+    }
+
+    .sloganedwar {
+        max-width: 620px;
+    }
+
+    .leermasbrand:hover {
+        background-color: #000020;
+        color: white !important;
+    }
+
+    .colorazulimg {
+        max-width: 350px;
+    }
+
+    .tipografiaimg {
+        max-width: 350px;
+    }
+
+    .mercadosimagen {
+        max-width: 100%;
+        -webkit-filter: contrast(200%);
+        filter: saturate(1.2);
+        position: relative;
+    }
+
+    .centrado {
+        position: absolute;
+        top: 10%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .centrado_sub {
+        position: absolute;
+        top: 50%;
+        left: 17.5%;
+        transform: translate(-50%, -50%);
+    }
+
+    .container .image:hover {
+        opacity: 1;
+    }
+
+    .middle {
+        transition: .5s ease;
+        opacity: 0;
+        transform: translate(0%, -353%);
+    }
+
+    .text {
+        background-color: #a6a6a6;
+        font-size: 24px;
+        padding: 10px 32px;
+    }
+
+    .text2 {
+        background-color: #ed7d31;
+        color: white;
+        font-size: 24px;
+        padding: 10px 32px;
+    }
+
+    .text3 {
+        background-color: #81D0F9;
+        color: white;
+        font-size: 24px;
+        padding: 10px 32px;
+    }
+
+    .text4 {
+        background-color: #f6d900;
+        color: white;
+        font-size: 24px;
+        padding: 10px 32px;
+    }
+
+    .text5 {
+        background-color: #006600;
+        color: white;
+        font-size: 24px;
+        padding: 10px 32px;
+    }
+
+    .text6 {
+        background-color: #3a2351;
+        color: white;
+        font-size: 24px;
+        padding: 10px 32px;
+    }
+
+    .text7 {
+        background-color: #00b0f0;
+        color: white;
+        font-size: 24px;
+        padding: 10px 32px;
+    }
+
+    .text8 {
+        background-color: black;
+        color: white;
+        font-size: 24px;
+        padding: 10px 32px;
+    }
+
+    .mercados:hover .middle {
+        opacity: 1;
+    }
+
+    .tablacompliance {
+        display: inline;
+    }
+
+    #prueba33:hover {
+        color: rgba(2 146 238 /99%) !important;
+    }
+
+    #overlay {
+        position: absolute;
+        width: 35%;
+        height: 98%;
+        top: 1px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #858b92a4;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.4;
+    }
+
+    #overlayalimentos {
+        position: absolute;
+        width: 35%;
+        height: 98%;
+        top: 1px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: orange;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlaysuplementos {
+        position: absolute;
+        width: 35%;
+        height: 98%;
+        top: 1px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #81D0F9;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlayped {
+        position: absolute;
+        width: 35%;
+        height: 98%;
+        top: 1px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #f6d900;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlayagro {
+        position: absolute;
+        width: 35%;
+        height: 98%;
+        top: 1px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #006600;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlaycosme {
+        position: absolute;
+        width: 35%;
+        height: 98%;
+        top: 1px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #3a2351;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlaydeter {
+        position: absolute;
+        width: 35%;
+        height: 98%;
+        top: 1px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #00b0f0;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlaychemi {
+        position: absolute;
+        width: 35%;
+        height: 98%;
+        top: 1px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: black;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlayveteri {
+        position: absolute;
+        width: 35%;
+        height: 98%;
+        top: 1px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: rgb(32, 94, 136);
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.7;
+    }
+
+    #overlay_RH {
+        position: absolute;
+        width: 35%;
+        height: 96.9%;
+        top: 5px;
+        left: -1px;
+        right: 0;
+        bottom: 0;
+        background-color: #000020;
+        z-index: 2;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        /* transform: skewX(6deg); */
+        opacity: 0.5;
+    }
+
+    .titulo_rh{
+        font-size: 16px;
+    }
+
+    /* .transfo::after{
+        position: absolute;
+        content: "";
+        height: 100%;
+        top: 0;
+        width: 80%;
+        bottom: 0;
+        left: 20%;
+        right: inherit;
+        opacity: 0.7;
+        transform: skewX(-12deg);
+        backface-visibility: hidden;
+        background: #262137;
+        z-index:-1;
+    } */
+    .zoom {
+        transition: transform .2s;
+    }
+
+    .zoom:hover {
+        transform: scale(1.02);
+    }
+
+    .titulomercado {
+        font-family: Arial;
+        font-size: 20px;
+        color: white;
+        /* margin-top: 23px; */
+    }
+
+    .titulo_submercado {
+        font-family: Arial;
+        font-size: 13px;
+        color: white;
+    }
+
+    .titulo_logistica {
+        font-family: Arial;
+        font-size: 16px;
+        color: white;
+    }
+
+    .bannerimage {
+        width: 550px;
+        height: 681px !important;
+    }
+
+    .columna2 {
+        margin-top: 10px;
+    }
+
+    .columna3 {
+        margin-top: 10px;
+    }
+
+    .columna4 {
+        margin-top: 10px;
+    }
+
+    .modal-footer {
+        padding-bottom: 60px !important;
+    }
+
+    #chefle {
+        display: flex !important;
+        justify-content: start;
+    }
+
+    .Logindesktop {
+        margin-top: -27px;
+        color: white !important;
+        display: inline;
+    }
+
+    .hovercard:hover {
+        color: rgba(2 146 238 /99%) !important;
+    }
+
+
+    .close_hover:hover {
+        background-color: #000020 !important;
+        color: white !important;
+        padding: 10px;
+    }
+
+    .arrowblue2 {
+        font-size: 17px;
+    }
+
+    .arrowblue2:hover {
+        color: rgba(2 146 238 /99%) !important;
+    }
+
+    .Tabla_productos_glicerina {
+        width: 100%;
+    }
+
+    .Carreras_altura {
+        margin-top: -24px;
+    }
+
+    .divider_sections {
+        background-color: white;
+        width: 86%;
+        margin-left: -9px;
+    }
+
+    .altofooter {
+        margin-top: 70px;
+    }
+
+    .breadcumb--general {
+        margin-top: 125px;
+    }
+
+    .breadcumb--general-cadena_suministro{
+        margin-top:118px;
+    }
+
+    .inicial--productos {
+        font-size: 54px;
+        border-bottom: 3px solid #000020;
+        color: #000020;
+    }
+
+    .IMAGE--GLICERINS {
+        width: 100%;
+        margin-top: 23px;
+    }
+
+    .IMAGE--ALCOHOLES--GRASOS{
+      width: 100%;
+      margin-top: 23px;
+    }
+
+    .IMAGE--GLYCOLS {
+        width: 100%;
+        margin-top: 23px;
+        border-radius: 10px;
+    }
+
+    .IMAGE--LECITHINS {
+        width: 100%;
+        margin-top: 23px;
+        border-radius: 10px;
+    }
+
+    .IMAGE--SORBITOLS {
+        width: 100%;
+        margin-top: 23px;
+        border-radius: 10px;
+    }
+
+    .top--glicerin {
+        margin-top: 32px;
+
+    }
+
+    .top--glicoles {
+        margin-top: 40px;
+
+    }
+
+
+    .top--jarabe-maiz{
+        margin-top:35px;
+    }
+
+    .top--lecitinas {
+        margin-top: 33px;
+    }
+
+    .top--maltrodextrina{
+        margin-top: 33px;
+    }
+
+    .top--sorbitoles {
+        margin-top: 32px;
+    }
+
+    .top--antioxidantes {
+        margin-top: 9px;
+    }
+
+    .Leerglice {
+        margin-top: 146px;
+    }
+
+    .Leergli {
+        margin-top:43px;
+    }
+
+    .Leerleci {
+        margin-top: 113px;
+    }
+
+    .Leermaltodextrin{
+        margin-top:220px;    
+    }
+
+    .Leersorbi {
+        margin-top:68px;
+    }
+
+    .Leernitruro{
+        margin-top:194px;
+    }
+
+
+    .LeerNMETHYL{
+        margin-top: 140px;
+    }
+
+    .LeerDimetil{
+     margin-top:193px;
+    }
+
+    .Leerpectina{
+        margin-top: 30px;
+    }
+
+    .Leerantiox {
+        margin-top:95px;
+    }
+
+    .LeerBicarSodio{
+        margin-top:113px;
+    }
+
+    .Leeracidgrass {
+        margin-top:62px;
+    }
+
+    .Leeralcoholesgrasos{
+        margin-top:122px;
+    }
+
+    .LeeralcoholIsopropilico{
+        margin-top:120px;
+    }
+
+    .Leermaiz{
+        margin-top:95px;
+    }
+
+    .breditem--inicio {
+        margin-top: 50px;
+    }
+
+    .nodisplay2 {
+        display: none;
+    }
+
+    .nodisplay {
+        display: inline;
+    }
+
+    .formulaestructural {
+        width: 50%;
+    }
+
+    .imagotipo_leon_RH {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .Listas-disc{
+     list-style-type: disc;
+    }
+
+
+    .Leermas_servicios {
+        margin-top: 50%;
+    }
+
+    .Cumplimiento_GMP {
+        width: 85%;
+    }
+
+    .leer_mas_mercados {
+        font-size: 14px;
+        margin-top: -9px;
+        margin-left: 0%;
+    }
+
+    .Estructural_Glicerina {
+        width:50%;
+    }
+
+    .Estructural_Sorbitol{
+        width: 32.5%;
+    }
+
+    .Estructural_Nitruro{
+        width: 40%;
+    }
+
+    .logo_lecitinas_secundarias{
+        width:15%;
+    }
+
+    .logo_lyondell_secundario{
+        width:22%;
+    }
+
+    .hoverLima:hover{
+        background-color: #006600;
+        padding:20px;
+        width:200px;
+        color:white;
+    }
+
+    .LOGO_KLK_OLEO{
+        width:25%;
+    }
+
+    .tablaword{
+        height: 18.89px;
+        font-family: Arial;
+        font-size:18px;
+    }
+
+    /* .img_acidos_grasos_desktop{
+        background-size: cover !important;
+        background: round !important;
+    } */
+
+    .SOLVEY_LOGO{
+    width:15%;
+    }
+
+     .ocultar_mobile{
+        display:revert;
+    } 
+
+    
+    .Glycerin_Banner{
+        height:580px !important;
+    }
+
+    .Collagen_Banner{
+        height: 692px !important;
+    }
+
+    .Banner_Productos{
+        width:650px;
+    }
+
+    .Leerlauril{
+        margin-top:42px;
+    }
+
+    .Estructural_BHA{
+        width:50%;
+        }
+
+        .table_bha_mobile{
+            width: 50% !important;
+            text-align: left;
+           }
+
+        .Tablas_Productos_Glicerina{
+            width: 20% !important;
+        }
+
+
+        .Tabla_productos_glicoles {
+            width: 20%;
+        }
+
+        .img-bicar-usp{
+            height:1100px !important;
+        }
+
+        .Grasos_No_Movil{
+       display: table;
+        }
+
+        .No-Desktop{
+            display: none;
+        }
+
+        
+        .tabla_propiedades{
+            width: 100%;
+            border-spacing: 2px 2px;
+        }
+
+        .table_glycols{
+            width:100%;
+        }
+
+        .Antioxidantes_Banner{
+            height:800px !important;
+        }
+
+        .logo_basf_mobile{
+            width:15%;
+        }
+
+        .Logo_BASF{
+            width:15%;
+        }
+
+        .LeerPasta{
+            margin-top:126px;
+        }
+
+        .LeerDextrosa{
+            margin-top: 160px;
+        }
+
+        .LeerColageno{
+            margin-top: 160px;
+        }
+
+        .columnas_acidos_grasos{
+            margin-top: -13px;
+        }
+
+        .columnas_alcoholes_grasos{
+            margin-top:-13px;
+        }
+
+        .columnas_antioxidantes{
+            margin-top:-13px;
+        }
+
+        .columnas_bicarbonato_sodio{
+            margin-top:-13px;
+        }
+
+        .columnas_acidulantes{
+            margin-top:-13px;
+        }
+
+        .columnas_carbomeros{
+            margin-top: -13px;
+        }
+
+        .columnas_dextrosas{
+            margin-top:-8px;
+        }
+
+        .columnas_edta{
+            margin-top:-13px;
+        }
+
+        .columnas_glicerinas{
+            margin-top:-13px;
+        }
+
+        .columnas_glicoles{
+            margin-top:-17px;
+        }
+
+        .columnas_jarabe_maiz{
+            margin-top:-13px;
+        }
+
+        .columnas_lauril_sulfato{
+            margin-top:-13px;
+        }
+
+        .columnas_lecitinas{
+            margin-top:-13px;
+        }
+
+        .columnas_maltodextrina{
+            margin-top:-13px;
+        }
+
+        .columnas_dimetilformamida{
+            margin-top:-13px;
+        }
+
+        .columnas_nitruro_boro{
+            margin-top:-13px;
+        }
+
+        .columnas_metilpirrolidona{
+            margin-top:-13px;
+        }
+
+        .columnas_pasta_soya{
+            margin-top:-13px;
+        }
+
+        .columnas_pectinas{
+            margin-top:13px;
+        }
+
+        .columnas_sorbitoles{
+            margin-top:-13px;
+        }
+
+        #overlay2{
+
+                position: absolute;
+                width: 35%;
+                height: 95%;
+                top: 5px;
+                left: -1px;
+                right: 0;
+                bottom: 0;
+                background-color: #000020;
+                z-index: 2;
+                cursor: pointer;
+                display: flex;
+                flex-direction: column;
+                opacity: .4;
+            
+        }
+
+        .primerpunto::before{
+            width: 30px;
+            height: 30px;
+            content: "";
+            position: absolute;
+            background-color: #000020;
+            border-radius: 50%;
+            z-index: 1;
+            left: -15px;
+            top: 178px;
+        }
+
+        .segundopunto::before{
+            width: 30px;
+            height: 30px;
+            content: "";
+            position: absolute;
+            background-color: #000020;
+            border-radius: 50%;
+            z-index: 1;
+            left:626px;
+            top: 179px;
+        }
+
+        .tercerpunto::before{
+            width: 30px;
+            height: 30px;
+            content: "";
+            position: absolute;
+            background-color: #000020;
+            border-radius: 50%;
+            z-index: 1;
+            left: 1263px;
+            top: 179px;
+        }
+
+        .cuartopunto::before{
+            width: 30px;
+            height: 30px;
+            content: "";
+            position: absolute;
+            background-color: #000020;
+            border-radius: 50%;
+            z-index: 1;
+            left: -15px;
+            top: -15px;
+        }
+/* 
+        #overlay2:hover{
+            background: linear-gradient(to bottom, rgba(0,0,32) 0%);
+        } */
+
+
+
+        .titulo_submercado2{
+            font-size:11px;
+        }
+
+        .Titulos{
+            font-size:20px;
+        }
+
+
+      /* #cuadrante_logisticaglobal:hover{
+            background-color: #000020;
+            color: white;
+        }
+
+        #cuadrante_cadenasuministro:hover{
+            background-color: #000020;
+            color: white;
+        }
+
+        #cuadrante_comerciointernacional:hover{
+            background-color: #000020;
+            color: white;
+        }
+
+        #cuadrante_coberturariesgos:hover{
+            background-color: #000020;
+            color: white;
+        } */
+
+        .border_compliance_tabla{
+            border-top: 1px solid #000020;
+            border-bottom: 1px solid #000020;
+        }
+
+        .no_compliance{
+            display: none;
+        }
+
+        .div-fotoprod{
+            height:350px;
+        }
+
+        .div-textoprod{
+            height:350px;
+        }
+
+        .contenedor-texto{
+            position: relative;
+            display: inline-block;
+            text-align: center;
+        }
+
+        .texto-encima{
+          position: absolute;
+          top: 280px;
+          left: 20px;
+        }
+
+        .centrado{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+
+}
+
+@media only screen and (min-width:2143px) {
+
+    .divfooter:before,
+    .divfooter:after {
+        background-color: black;
+        width: 45%;
+        height: 1px;
+        display: inline-block;
+        content: "";
+    }
+
+    .imglogoCE {
+        width: 4.5% !important;
+        margin-top: 400px;
+    }
+
+    .divfooter:before {
+        margin: 25px -5px 22px 5px;
+    }
+
+    .divfooter:after {
+        margin: 25px -5px 22px 5px;
+    }
+
+    .divfooter2:before,
+    .divfooter2:after {
+        background-color: black;
+        width: 30%;
+        height: 1px;
+        display: inline-block;
+        content: "";
+    }
+
+    
+
+    #chefle {
+        display: flex !important;
+        justify-content: start;
+    }
+
+    .divider_sections {
+        background-color: white;
+        width: 84.5%;
+        margin-left: -9px;
+    }
+
+    .altofooter {
+        margin-top: -20px;
+    }
+
+    .nodisplay2 {
+        display: none;
+    }
+
+    .nodisplay {
+        display: inline;
+    }
+
+    .LOGO_KLK_OLEO{
+        width:100%;
+    }
+
+}
+
+@media only screen and (min-width:2536px) {
+
+    .divfooter:before,
+    .divfooter:after {
+        background-color: black;
+        width: 45%;
+        height: 1px;
+        display: inline-block;
+        content: "";
+    }
+
+    .imglogoCE {
+        width: 4% !important;
+        margin-top: 400px;
+    }
+
+    .divfooter:before {
+        margin: 9px -2px 39px 5px;
+    }
+
+    .divfooter:after {
+        margin: 0px -2px 39px -2px;
+    }
+
+    .divfooter2:before,
+    .divfooter2:after {
+        background-color: black;
+        width: 30%;
+        height: 1px;
+        display: inline-block;
+        content: "";
+    }
+
+    .divfooter2:before {
+        margin: 25px -6px 22px 5px;
+    }
+
+    .divfooter2:after {
+        margin: 25px 6px 22px 5px;
+    }
+
+    #chefle {
+        display: flex !important;
+        justify-content: start;
+    }
+
+    .divider_sections {
+        background-color: white;
+        width: 84.5%;
+        margin-left: -9px;
+    }
+
+    .altofooter {
+        margin-top: -20px;
+    }
+
+    .nodisplay2 {
+        display: none;
+    }
+
+    .nodisplay {
+        display: inline;
+    }
+
+    .LOGO_KLK_OLEO{
+        width:100%;
+    }
+
+}
+
+@media only screen and (min-width:3805px) {
+
+    .divfooter:before,
+    .divfooter:after {
+        background-color: black;
+        width: 45%;
+        height: 1px;
+        display: inline-block;
+        content: "";
+    }
+
+    .imglogoCE {
+        width: 3% !important;
+        margin-top: 400px;
+    }
+
+    .divfooter:before {
+        margin: 0px -2px 21px 5px;
+    }
+
+    .divfooter:after {
+        margin: 0px -2px 21px 5px;
+    }
+
+    .divfooter2:before,
+    .divfooter2:after {
+        background-color: black;
+        width: 30%;
+        height: 1px;
+        display: inline-block;
+        content: "";
+    }
+
+  
+
+    #chefle {
+        display: flex !important;
+        justify-content: start;
+    }
+
+    .divider_sections {
+        background-color: white;
+        width: 84.5%;
+        margin-left: -9px;
+    }
+
+    .altofooter {
+        margin-top: -20px;
+    }
+
+    .nodisplay2 {
+        display: none;
+    }
+
+    .nodisplay {
+        display: inline;
+    }
+
+    .LOGO_KLK_OLEO{
+        width:100%;
+    }
+}
+
+@media only screen and (min-width:5755px) {
+
+    .divfooter:before,
+    .divfooter:after {
+        background-color: black;
+        width: 45%;
+        height: 1px;
+        display: inline-block;
+        content: "";
+    }
+
+    .imglogoCE {
+        width: 2.5% !important;
+        margin-top: 400px;
+    }
+
+    .divfooter:before {
+        margin: 9px -2px 48px 5px;
+    }
+
+    .divfooter:after {
+        margin: 0px -2px 48px -2px;
+    }
+
+    .divfooter2:before,
+    .divfooter2:after {
+        background-color: black;
+        width: 30%;
+        height: 1px;
+        display: inline-block;
+        content: "";
+    }
+
+    .divfooter2:before {
+        margin: 0px -2px 24px 0px;
+    }
+
+    .divfooter2:after {
+        margin: 0px -2px 24px 0px;
+    }
+
+    #chefle {
+        display: flex !important;
+        justify-content: start;
+    }
+
+    .divider_sections {
+        background-color: white;
+        width: 84.5%;
+        margin-left: -9px;
+    }
+
+    .altofooter {
+        margin-top: -20px;
+    }
+
+    .nodisplay2 {
+        display: none;
+    }
+
+    .nodisplay {
+        display: inline;
+    }
+
+    .LOGO_KLK_OLEO{
+        width:100%;
+    }
+
+}

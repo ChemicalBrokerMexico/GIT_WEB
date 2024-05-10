@@ -31,7 +31,7 @@ $(document).ready(function(){
     
     <div class="row" style="margin-top:150px;"> 
     <div class="col s12 m12 l12 xl6 center-align ">
-    <img src="img/CB_ACIDOS_GRASOS_291223.jpg" alt="" class="zoom IMG_Seccion_Prod">
+    <img src="img/COCOS_FRESCOS_030524.jpg" alt="" class="zoom IMG_Seccion_Prod">
     </div>
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Ácidos Grasos</b></h5>
@@ -390,6 +390,11 @@ $(document).ready(function(){
     </div>
     </div>
 
+
+
+    
+
+
     <div class="row" style="margin-top:150px;"> 
     <div class="col s12 m12 l12 xl6 center-align">
     <img src="img/CB_SEBO_ALTO_HIDROGENADO.jpg" alt="" class="zoom IMG_Seccion_Prod">
@@ -402,7 +407,9 @@ $(document).ready(function(){
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Sebo_Alto_Hidrogeno.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
-    
+
+
+   
     <div class="row" style="margin-top:150px"> 
     <div class="col s12 m12 l12 xl6 center-align">
     <img src="img/pasta-dientes-fluor.jpg" alt=""  class="zoom IMG_Seccion_Prod">
@@ -416,6 +423,20 @@ $(document).ready(function(){
     </div>
     </div>
 
+
+    <div class="row" style="margin-top:150px"> 
+    <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img/CB_Sulfosuccionatos.jpg" alt=""  class="zoom IMG_Seccion_Prod">
+    </div>
+    <div class= "col s12 m12 l12 xl6 columnas_sorbitoles div-textoprod" style="position:relative">
+    <h5 class="Tipografia--general Titulos"><b>Sulfosuccinatos</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">Los sulfossucinatos son una clase de surfactantes aniónicos utilizados en una variedad de aplicaciones industriales y de cuidado personal. Estos compuestos se derivan del acido succínico y se caracterizan por tener grupos sulfonato como grupos funcionales principales.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Introducimos nuestros sulfosuccinatos de alta calidad, agentes tensoactivos de ultima generación diseñados para ofrecer resultados superiores en una amplia gama de aplicaciones industriales y de cuidado personal.</p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas" style="position:absolute:left:10px;bottom:-30px"><b><a href="Sulfosuccinatos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+    
 
     `
 
@@ -456,7 +477,7 @@ function filtroall(){
     
     <div class="row" style="margin-top:150px;"> 
     <div class="col s12 m12 l12 xl6 center-align ">
-    <img src="img/CB_ACIDOS_GRASOS_291223.jpg" alt="" class="zoom IMG_Seccion_Prod">
+    <img src="img/COCOS_FRESCOS_030524.jpg" alt="" class="zoom IMG_Seccion_Prod">
     </div>
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Ácidos Grasos</b></h5>
@@ -831,6 +852,19 @@ function filtroall(){
     </div>
     </div>
 
+    <div class="row" style="margin-top:150px"> 
+    <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img/CB_Sulfosuccionatos.jpg" alt=""  class="zoom IMG_Seccion_Prod">
+    </div>
+    <div class= "col s12 m12 l12 xl6 columnas_sorbitoles div-textoprod" style="position:relative">
+    <h5 class="Tipografia--general Titulos"><b>Sulfosuccinatos</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">Los sulfossucinatos son una clase de surfactantes aniónicos utilizados en una variedad de aplicaciones industriales y de cuidado personal. Estos compuestos se derivan del acido succínico y se caracterizan por tener grupos sulfonato como grupos funcionales principales.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Introducimos nuestros sulfosuccinatos de alta calidad, agentes tensoactivos de ultima generación diseñados para ofrecer resultados superiores en una amplia gama de aplicaciones industriales y de cuidado personal.</p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas" style="position:absolute:left:10px;bottom:-30px"><b><a href="Sulfosuccinatos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+    
 
     `
 };
@@ -869,7 +903,7 @@ function filtroa(){
 
     <div class="row" style="margin-top:150px"> 
     <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_ACIDOS_GRASOS_291223.jpg" alt=""  class="zoom IMG_Seccion_Prod">
+    <img src="img/COCOS_FRESCOS_030524.jpg" alt=""  class="zoom IMG_Seccion_Prod">
     </div>
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative">
     <h5 class="Tipografia--general Titulos"><b>Ácidos Grasos</b></h5>
@@ -1455,6 +1489,21 @@ function filtros(){
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Sorbitoles.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
+
+
+    <div class="row" style="margin-top:150px"> 
+    <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img/CB_Sulfosuccionatos.jpg" alt=""  class="zoom IMG_Seccion_Prod">
+    </div>
+    <div class= "col s12 m12 l12 xl6 columnas_sorbitoles div-textoprod" style="position:relative">
+    <h5 class="Tipografia--general Titulos"><b>Sulfosuccinatos</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">Los sulfossucinatos son una clase de surfactantes aniónicos utilizados en una variedad de aplicaciones industriales y de cuidado personal. Estos compuestos se derivan del acido succínico y se caracterizan por tener grupos sulfonato como grupos funcionales principales.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Introducimos nuestros sulfosuccinatos de alta calidad, agentes tensoactivos de ultima generación diseñados para ofrecer resultados superiores en una amplia gama de aplicaciones industriales y de cuidado personal.</p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas" style="position:absolute:left:10px;bottom:-30px"><b><a href="Sulfosuccinatos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+    
     
     `;
     

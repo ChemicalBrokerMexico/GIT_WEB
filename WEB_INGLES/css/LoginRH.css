@@ -1,0 +1,183 @@
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.elemennav-secun {
+    margin-left: 93px;
+    margin-right: 93px;
+}
+
+.Tipografia--general {
+    font-family: Arial;
+}
+
+.letranegro {
+    color: black;
+}
+
+.Titulos {
+    font-size: 18px;
+}
+
+.Subtitulos {
+    font-size: 16px;
+}
+
+@media only screen and (max-width: 576px){
+
+}
+
+
+@media only screen and (min-width:576px){
+
+}
+
+
+@media only screen and (min-width:639px) and (max-width:639px){
+
+}
+
+
+@media only screen and (min-width:768px) and (max-width:991px){
+
+}
+
+@media only screen and (min-width:992px){
+
+}
+
+@media only screen and (min-width:1025px){
+    .elemennav-secun {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+}
+
+
+@media only screen and (min-width:1200px){
+
+    .elemennav-secun {
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+
+    .altofooter {
+        margin-top:615px;
+    }
+    .divfooter:before,
+    .divfooter:after {
+        background-color: black;
+        width: 45%;
+        height: 1px;
+        display: inline-block;
+        content: "";
+    }
+
+    .imglogoCE {
+        width: 4.5% !important;
+    }
+
+    .divfooter:before {
+        margin: 2% 0% 1.7% 0%;
+    }
+
+    .divfooter:after {
+        margin: 2% 0% 1.7% 0%;
+    }
+    .imglogoCE {
+        width: 4.5% !important;
+    }
+    
+.Pie--Pagina {
+    font-size: 16px;
+}
+
+ 
+.oscuro{ 
+    background-color:black; 
+    color: #f1eded; 
+}
+
+}
+
+
+@media only screen and (min-width:1280px){
+    .elemennav-secun {
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+}
+
+
+@media only screen and (min-width:1750px){
+    .elemennav-secun {
+        margin-left: 93px;
+        margin-right: 93px;
+    }
+
+    .altofooter {
+        margin-top:615px;
+    }
+    .divfooter:before,
+    .divfooter:after {
+        background-color: black;
+        width: 45%;
+        height: 1px;
+        display: inline-block;
+        content: "";
+    }
+
+    .imglogoCE {
+        width: 4.5% !important;
+    }
+
+    .divfooter:before {
+        margin: 2% 0% 1.7% 0%;
+    }
+
+    .divfooter:after {
+        margin: 2% 0% 1.7% 0%;
+    }
+    .imglogoCE {
+        width: 4.5% !important;
+    }
+    
+.Pie--Pagina {
+    font-size: 16px;
+}
+
+ 
+.oscuro{ 
+    background-color:black; 
+    color: #f1eded; 
+}
+
+
+.contenedor_opciones_rh{
+    width: 100% !important;
+    max-width:100%;
+   }
+
+}
+
+
+@media only screen and (min-width:2143px){
+
+}
+
+
+@media only screen and (min-width:2536px){
+
+}
+
+
+@media only screen and (min-width:3805px){
+
+}
+
+
+@media only screen and (min-width:5755px){
+
+}

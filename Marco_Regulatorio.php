@@ -397,7 +397,7 @@
                                 class="material-icons right">arrow_drop_down</i></b></a>
                     <ul id="dropdown4" class="dropdown-content" tabindex="0">
                         <li tabindex="0"><a href="Cumplimiento.php"
-                                class="Tipografia--general letranegro Subtitulos">Introduccion a Cumplimiento</a></li>
+                                class="Tipografia--general letranegro Subtitulos">SGI</a></li>
                         <li tabindex="0"><a href="Marco_Regulatorio.php"
                                 class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
                         <li tabindex="0"><a href="Certificaciones.php"
@@ -706,9 +706,9 @@
         <div class="row">
             <div class="col s12 m12 l12 xl12">
                 <section style="margin-top:125px"><a class="breditem active" href="index.php"
-                        style="color:#262137 !important"><b>Inicio&nbsp; </b><b> &gt;&nbsp;</b></a><a
-                        class="breditem active" href="Cumplimiento.php"
-                        style="color:#262137 !important;margin-left:-2px"><b
+                        style="color:#262137 !important"><b>Inicio&nbsp;</b><b> &gt;&nbsp;</b></a><a
+                        class="breditem active" href="Marco_Regulatorio.php"
+                        style="color:#262137 !important;margin-left:-2px"><a href="Cumplimiento.php" style="color:black;"><b>Cumplimiento</b> > </a><b
                             class="Tipografia--general letranegro Subtitulos breadcrumb">&nbsp;Marca Regulatorio</b></a>
                 </section>
             </div>

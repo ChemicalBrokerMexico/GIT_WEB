@@ -430,7 +430,7 @@ li {
 
     .titulo_submercado {
         font-family: Arial;
-        font-size: 12px;
+        font-size: 10px;
         color: white;
         /* margin-top: 23px; */
     }
@@ -549,8 +549,8 @@ li {
     #overlay {
         position: absolute;
         width: 35%;
-        height: 94.8%;
-        top: 5px;
+        height: 97.8%;
+        top: 0px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -566,8 +566,8 @@ li {
     #overlayalimentos {
         position: absolute;
         width: 35%;
-        height: 94.8%;
-        top: 5px;
+        height: 97.8%;
+        top: 0px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -584,8 +584,8 @@ li {
     #overlaysuplementos {
         position: absolute;
         width: 35%;
-        height: 94.8%;
-        top: 5px;
+        height: 97.8%;
+        top: 0px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -601,8 +601,8 @@ li {
     #overlayagro {
         position: absolute;
         width: 35%;
-        height: 94.8%;
-        top: 5px;
+        height: 97.8%;
+        top: 0px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -618,8 +618,8 @@ li {
     #overlaycosme {
         position: absolute;
         width: 35%;
-        height: 94.8%;
-        top: 5px;
+        height: 97.8%;
+        top: 0px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -635,8 +635,8 @@ li {
     #overlaydeter {
         position: absolute;
         width: 35%;
-        height: 94.8%;
-        top: 5px;
+        height: 97.8%;
+        top: 0px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -652,8 +652,8 @@ li {
     #overlaychemi {
         position: absolute;
         width: 35%;
-        height: 94.8%;
-        top: 5px;
+        height: 97.8%;
+        top: 0px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -669,8 +669,8 @@ li {
     #overlayped {
         position: absolute;
         width: 35%;
-        height: 94.8%;
-        top: 5px;
+        height: 97.8%;
+        top: 0px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -686,8 +686,8 @@ li {
     #overlayveteri {
         position: absolute;
         width: 35%;
-        height: 94.8%;
-        top: 5px;
+        height: 97.8%;
+        top: 0px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -1209,6 +1209,14 @@ font-size: 12px;
             top: 100%;
         }
 
+        #TablaPresentacionMobile{
+            display:inline-table;
+        }
+
+        #TablaPresentacionDesktop{
+            display: none;
+        }
+
 }
 
 @media only screen and (min-width: 576px) {
@@ -1453,8 +1461,8 @@ font-size: 12px;
     #overlay {
         position: absolute;
         width: 35%;
-        height: 96.5%;
-        top: 5px;
+        height: 99.5%;
+        top: -2px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -1470,8 +1478,8 @@ font-size: 12px;
     #overlayalimentos {
         position: absolute;
         width: 35%;
-        height: 96.5%;
-        top: 5px;
+        height: 99.5%;
+        top: -2px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -1487,8 +1495,8 @@ font-size: 12px;
     #overlaysuplementos {
         position: absolute;
         width: 35%;
-        height: 96.5%;
-        top: 5px;
+        height: 99.5%;
+        top: -2px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -1504,8 +1512,8 @@ font-size: 12px;
     #overlayagro {
         position: absolute;
         width: 35%;
-        height: 96.5%;
-        top: 5px;
+        height: 99.5%;
+        top: -2px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -1521,8 +1529,8 @@ font-size: 12px;
     #overlaycosme {
         position: absolute;
         width: 35%;
-        height: 96.5%;
-        top: 5px;
+        height: 99.5%;
+        top: -2px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -1538,8 +1546,8 @@ font-size: 12px;
     #overlaydeter {
         position: absolute;
         width: 35%;
-        height: 96.5%;
-        top: 5px;
+        height: 99.5%;
+        top: -2px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -1555,8 +1563,8 @@ font-size: 12px;
     #overlaychemi {
         position: absolute;
         width: 35%;
-        height: 96.5%;
-        top: 5px;
+        height: 99.5%;
+        top: -2px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -1572,8 +1580,8 @@ font-size: 12px;
     #overlayped {
         position: absolute;
         width: 35%;
-        height: 96.5%;
-        top: 5px;
+        height: 99.5%;
+        top: -2px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -1589,8 +1597,8 @@ font-size: 12px;
     #overlayveteri {
         position: absolute;
         width: 35%;
-        height: 96.5%;
-        top: 5px;
+        height: 99.5%;
+        top: -2px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -2011,6 +2019,15 @@ font-size: 12px;
         top: 100%;
     }
 
+    #TablaPresentacionMobile{
+        display:inline-table;
+    }
+
+    #TablaPresentacionDesktop{
+        display: none;
+    }
+
+
 }
 
 @media only screen and (min-width:639px) and (max-width:640px) {
@@ -2165,8 +2182,8 @@ font-size: 12px;
     #overlay {
         position: absolute;
         width: 35%;
-        height: 97.1%;
-        top: 5px;
+        height: 98.1%;
+        top: 1px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -2182,8 +2199,8 @@ font-size: 12px;
     #overlayalimentos {
         position: absolute;
         width: 35%;
-        height: 97.1%;
-        top: 5px;
+        height: 98.1%;
+        top: 1px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -2199,8 +2216,8 @@ font-size: 12px;
     #overlaysuplementos {
         position: absolute;
         width: 35%;
-        height: 97.1%;
-        top: 5px;
+        height: 98.1%;
+        top: 1px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -2216,8 +2233,8 @@ font-size: 12px;
     #overlayagro {
         position: absolute;
         width: 35%;
-        height: 97.1%;
-        top: 5px;
+        height: 98.1%;
+        top: 1px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -2233,8 +2250,8 @@ font-size: 12px;
     #overlaycosme {
         position: absolute;
         width: 35%;
-        height: 97.1%;
-        top: 5px;
+        height: 98.1%;
+        top: 1px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -2250,8 +2267,8 @@ font-size: 12px;
     #overlaydeter {
         position: absolute;
         width: 35%;
-        height: 97.1%;
-        top: 5px;
+        height: 98.1%;
+        top: 1px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -2267,8 +2284,8 @@ font-size: 12px;
     #overlaychemi {
         position: absolute;
         width: 35%;
-        height: 97.1%;
-        top: 5px;
+        height: 98.1%;
+        top: 1px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -2284,8 +2301,8 @@ font-size: 12px;
     #overlayped {
         position: absolute;
         width: 35%;
-        height: 97.1%;
-        top: 5px;
+        height: 98.1%;
+        top: 1px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -2301,8 +2318,8 @@ font-size: 12px;
     #overlayveteri {
         position: absolute;
         width: 35%;
-        height: 97.1%;
-        top: 5px;
+        height: 98.1%;
+        top: 1px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -4446,8 +4463,8 @@ margin-top:85px;
     #overlay {
         position: absolute;
         width: 35%;
-        height: 97%;
-        top: 5px;
+        height: 98%;
+        top: 1px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -4463,8 +4480,8 @@ margin-top:85px;
     #overlayalimentos {
         position: absolute;
         width: 35%;
-        height: 97%;
-        top: 5px;
+        height: 98%;
+        top: 1px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -4480,8 +4497,8 @@ margin-top:85px;
     #overlaysuplementos {
         position: absolute;
         width: 35%;
-        height: 97%;
-        top: 5px;
+        height: 98%;
+        top: 1px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -4497,8 +4514,8 @@ margin-top:85px;
     #overlayped {
         position: absolute;
         width: 35%;
-        height: 97%;
-        top: 5px;
+        height: 98%;
+        top: 1px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -4514,8 +4531,8 @@ margin-top:85px;
     #overlayagro {
         position: absolute;
         width: 35%;
-        height: 97%;
-        top: 5px;
+        height: 98%;
+        top: 1px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -4531,8 +4548,8 @@ margin-top:85px;
     #overlaycosme {
         position: absolute;
         width: 35%;
-        height: 97%;
-        top: 5px;
+        height: 98%;
+        top: 1px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -4548,8 +4565,8 @@ margin-top:85px;
     #overlaydeter {
         position: absolute;
         width: 35%;
-        height: 97%;
-        top: 5px;
+        height: 98%;
+        top: 1px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -4565,8 +4582,8 @@ margin-top:85px;
     #overlaychemi {
         position: absolute;
         width: 35%;
-        height: 97%;
-        top: 5px;
+        height: 98%;
+        top: 1px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -4582,8 +4599,8 @@ margin-top:85px;
     #overlayveteri {
         position: absolute;
         width: 35%;
-        height: 97%;
-        top: 5px;
+        height: 98%;
+        top: 1px;
         left: -1px;
         right: 0;
         bottom: 0;
@@ -5249,6 +5266,14 @@ margin-top:85px;
             top: 50%;
             left: 50%;
             transform: translate(-50%, -50%);
+        }
+
+        #TablaPresentacionMobile{
+            display:none;
+        }
+
+        #TablaPresentacionDesktop{
+            display: table;
         }
 
 

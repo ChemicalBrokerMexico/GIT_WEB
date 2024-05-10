@@ -327,7 +327,7 @@
         <ul id="dropdown3" class="dropdown-content">
                     <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Ingredientes Químicos</a>
           </li>
-          <li><a href="Product_List.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a>
+          
 <li><a href="Catalogos_Productos" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
           </li>
         </ul>
@@ -336,8 +336,12 @@
         <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" <li><a
               class="elemennav-secun Tipografia--general letranegro Subtitulos"
               href="Servicios.php"><b>Servicios</b></a></li>
-        <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
-            href="Cumplimiento.php"><b>Cumplimiento </b></a></li>
+              <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i class="material-icons right">arrow_drop_down</i></b></a>
+<ul id="dropdown4" class="dropdown-content" tabindex="0">
+<li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Cumplimiento</a></li>
+<li tabindex="0"><a href="Marco_Regulatorio.php" class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
+  <li tabindex="0"><a href="Certificaciones.php" class="Tipografia--general letranegro Subtitulos">Certificaciones</a></li>
+</ul></li>
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Contact.php"><b>Contacto
             </b></a></li>
       </ul>
@@ -584,12 +588,15 @@
           compuesto químico que se utiliza como conservante en alimentos, productos farmacéuticos y productos de cuidado
           personal. Se produce sintéticamente y se usa como alternativa a los conservantes naturales como el ácido
           cítrico.</p>
+
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El Butilhidroxianisol es una
           mezcla de dos isómeros de compuestos orgánicos; 2-tert-butil-4-hidroxianisol y 3-tert-butil-4-hidroxianisol.
           El anillo aromático conjugado del BHA es capaz de estabilizar a un radical libre, secuestrándolo. Al actuar
           como un agente secuestrante, se evitan posteriores reacciones de radicales libres. </p>
+
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Se prepara a partir de
           4-metoxifenol e isobutileno. Es un sólido ceroso que exhibe propiedades antioxidantes.</p>
+
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El BHA es un conservante
           eficaz que ayuda a prevenir la oxidación de los productos y a prolongar su vida útil. Se añade a los productos
           para evitar la contaminación por hongos y bacterias y para evitar que los aceites y grasas se rancifiquen.
@@ -797,7 +804,7 @@
         <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Aplicaciones & Industrias</b>
         </h5>
 
-       <ol><li style="list-style-type:disc;margin-left:-23px;"><h5 class="Tipografia--general letranegro Titulos"><b>Nutrición Humana</b></h5></ol></li>
+       <ol><li style="list-style-type:disc;margin-left:-23px;"><h5 class="Tipografia--general letranegro Titulos" style="margin-top:30px;"><b>Nutrición Humana</b></h5></ol></li>
 
         <ol style="margin-bottom:0px;">
           <li style="list-style-type:disc;" class="Elementos--Listas">Botanas</li>
@@ -823,7 +830,7 @@
           <li style="list-style-type:disc;" class="Elementos--Listas">Aceites vegetales</li>
         </ol>
 
-        <ol><li style="list-style-type:disc;margin-left:-23px;margin-top:50px;"><h5 class="Tipografia--general letranegro Titulos"><b>Nutrición Animal</b></h5></ol></li>
+        <ol><li style="list-style-type:disc;margin-left:-23px;margin-top:50px;"><h5 class="Tipografia--general letranegro Titulos" style="margin-top:30px;"><b>Nutrición Animal</b></h5></ol></li>
 
         <ol style="margin-bottom:0px;">
           <li style="list-style-type:disc;" class="Elementos--Listas">Piensos y alimentos para

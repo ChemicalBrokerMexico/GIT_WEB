@@ -88,7 +88,7 @@ $(document).ready(function(){
                          
                         <br>
                         <br>
-                        <a href="Proximamente.php"
+                        <a href="https://www.iata.org/en/services/statistics/passenger-traffic-data/?utm_source=google&utm_medium=cpc&utm_campaign=bis-smx004-data-awareness&utm_term=searchbrand&gad_source=1&gclid=Cj0KCQjw_-GxBhC1ARIsADGgDjsc2aIAU4fIMFVBSwLWvJQ0cNpeq1Uv7vOaB5Aez2uK9JBTbC9QAGwaAoKBEALw_wcB"
                             style="color:rgba(2 146 238 /99%);">Ver Más</a></p>
                 </td>
                 <td class="letranegro Tipografia--general General--Cuerpo"
@@ -110,7 +110,7 @@ $(document).ready(function(){
                     medicamentos de acuerdo con las normas internacionales. 
                     <br>
                     <br>
-                    <a href="Proximamente.php"
+                    <a href="https://www.who.int/es"
                         style="color:rgba(2 146 238 /99%);">Ver Más</a></p>
             </td>
             <td class="letranegro Tipografia--general General--Cuerpo"
@@ -136,7 +136,7 @@ $(document).ready(function(){
                                 <br>
                                 <br>
                                 <a
-                                    href="https://www.sqfi.com/es-mx/our-program/what-is-sqf/noriko-nakama"
+                                    href="https://www.ilo.org/es/programa-internacional-para-la-erradicacion-del-trabajo-infantil-ipec/el-programa-ipec"
                                     style="color:rgba(2 146 238 /99%);">Ver Más</a></p>
                         </td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
@@ -179,7 +179,7 @@ $(document).ready(function(){
                                 <br>
                                 <br>
                                 <a
-                                    href="Proximamente.php" style="color:rgba(2 146 238 /99%);">Ver Más</a></p>
+                                    href="https://www.pmda.go.jp/english/rs-sb-std/standards-development/jp/0029.html" style="color:rgba(2 146 238 /99%);">Ver Más</a></p>
                         </td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:33.33%;text-align:center"><img src="img/" alt="" style="width:50%;"></td>
@@ -242,7 +242,7 @@ $(document).ready(function(){
                                 parámetros para los ingredientes de los alimentos y suplementos alimenticios.
                                 <br>
                                 <br>
-                                <a href="Proximamente.php"
+                                <a href="https://www.usp.org/"
                                     style="color:rgba(2 146 238 /99%);">Ver Más</a></p>
                         </td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
@@ -359,7 +359,7 @@ function filtroall(){
                         aéreo, desde seguridad y fiabilidad, hasta medioambiente. 
                         <br>
                         <br>
-                        <a href="Proximamente.php"
+                        <a href="https://www.iata.org/en/services/statistics/passenger-traffic-data/?utm_source=google&utm_medium=cpc&utm_campaign=bis-smx004-data-awareness&utm_term=searchbrand&gad_source=1&gclid=Cj0KCQjw_-GxBhC1ARIsADGgDjsc2aIAU4fIMFVBSwLWvJQ0cNpeq1Uv7vOaB5Aez2uK9JBTbC9QAGwaAoKBEALw_wcB"
                             style="color:rgba(2 146 238 /99%);">Ver Más</a></p>
                 </td>
                 <td class="letranegro Tipografia--general General--Cuerpo"
@@ -381,7 +381,7 @@ function filtroall(){
                     medicamentos de acuerdo con las normas internacionales. 
                     <br>
                     <br>
-                    <a href="Proximamente.php"
+                    <a href="https://www.who.int/es"
                         style="color:rgba(2 146 238 /99%);">Ver Más</a></p>
             </td>
             <td class="letranegro Tipografia--general General--Cuerpo"
@@ -406,7 +406,7 @@ function filtroall(){
                                 <br>
                                 <br>
                                 <a
-                                    href="https://www.sqfi.com/es-mx/our-program/what-is-sqf/noriko-nakama"
+                                    href="https://www.ilo.org/es/programa-internacional-para-la-erradicacion-del-trabajo-infantil-ipec/el-programa-ipec"
                                     style="color:rgba(2 146 238 /99%);">Ver Más</a></p>
                         </td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
@@ -444,7 +444,7 @@ function filtroall(){
                                 por la Agencia de dispositivos médicos y productos farmacéuticos bajo la
                                 autoridaddel Ministerio de sanidad, trabajo y bienestar de Japón, es por dicho
                                 motivo que mantiene un altogrado de exigencia. <span>Para más información</span> <a
-                                    href="Proximamente.php" style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
+                                    href="https://www.pmda.go.jp/english/rs-sb-std/standards-development/jp/0029.html" style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
                         </td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:33.33%;text-align:center"><img src="img/" alt="" style="width:50%;"></td>
@@ -498,7 +498,7 @@ function filtroall(){
                                 United States Pharmacopoeia
                                 ), o bien, Farmacopea de los EstadosUnidos de América, establece estándares y
                                 parámetros para los ingredientes de los alimentos y suplementos alimenticios.
-                                <span>Para más información</span> <a href="Proximamente.php"
+                                <span>Para más información</span> <a href="https://www.usp.org/"
                                     style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
                         </td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
@@ -742,7 +742,7 @@ function filtroi(){
                         formularpolíticas de la industria, así como a resolver situaciones críticas o
                         delicadas y son los responsables detodos los aspectos relacionados con el transporte
                         aéreo, desde seguridad y fiabilidad, hasta medioambiente. <span>Para más
-                            información</span> <a href="Proximamente.php"
+                            información</span> <a href="https://www.iata.org/en/services/statistics/passenger-traffic-data/?utm_source=google&utm_medium=cpc&utm_campaign=bis-smx004-data-awareness&utm_term=searchbrand&gad_source=1&gclid=Cj0KCQjw_-GxBhC1ARIsADGgDjsc2aIAU4fIMFVBSwLWvJQ0cNpeq1Uv7vOaB5Aez2uK9JBTbC9QAGwaAoKBEALw_wcB"
                             style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
                 </td>
                 <td class="letranegro Tipografia--general General--Cuerpo"
@@ -762,7 +762,7 @@ function filtroi(){
                     permite favorecer el control de los fármacosde baja calidad o falsificados, ya que
                     determina varios elementos específicos sobre el contenido y lapureza de los
                     medicamentos de acuerdo con las normas internacionales. <span>Para más
-                        información</span> <a href="Proximamente.php"
+                        información</span> <a href="https://www.who.int/es"
                         style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
             </td>
             <td class="letranegro Tipografia--general General--Cuerpo"
@@ -784,7 +784,7 @@ function filtroi(){
                                 IPEC-Américas, junto con sus homólogos de todo el mundo, es el principal recurso
                                 internacional en materiade excipientes para sus miembros, gobiernos y público en
                                 general. <span>Para más información</span> <a
-                                    href="https://www.sqfi.com/es-mx/our-program/what-is-sqf/noriko-nakama"
+                                    href="https://www.ilo.org/es/programa-internacional-para-la-erradicacion-del-trabajo-infantil-ipec/el-programa-ipec"
                                     style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
                         </td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
@@ -855,7 +855,7 @@ function filtroj(){
                                 por la Agencia de dispositivos médicos y productos farmacéuticos bajo la
                                 autoridaddel Ministerio de sanidad, trabajo y bienestar de Japón, es por dicho
                                 motivo que mantiene un altogrado de exigencia. <span>Para más información</span> <a
-                                    href="Proximamente.php" style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
+                                    href="https://www.pmda.go.jp/english/rs-sb-std/standards-development/jp/0029.html" style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
                         </td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:33.33%;text-align:center"><img src="img/" alt="" style="width:50%;"></td>
@@ -1108,7 +1108,7 @@ function filtrou(){
                                 United States Pharmacopoeia
                                 ), o bien, Farmacopea de los EstadosUnidos de América, establece estándares y
                                 parámetros para los ingredientes de los alimentos y suplementos alimenticios.
-                                <span>Para más información</span> <a href="Proximamente.php"
+                                <span>Para más información</span> <a href="https://www.usp.org/"
                                     style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
                         </td>
                         <td class="letranegro Tipografia--general General--Cuerpo"

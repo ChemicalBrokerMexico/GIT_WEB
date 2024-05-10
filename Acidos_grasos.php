@@ -336,7 +336,7 @@
         <ul id="dropdown3" class="dropdown-content">
                     <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Ingredientes Químicos</a>
           </li>
-          <li><a href="Product_List.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a>
+          
 <li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
           </li>
         </ul>
@@ -345,8 +345,12 @@
         <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" <li><a
               class="elemennav-secun Tipografia--general letranegro Subtitulos"
               href="Servicios.php"><b>Servicios</b></a></li>
-        <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
-            href="Cumplimiento.php"><b>Cumplimiento </b></a></li>
+              <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i class="material-icons right">arrow_drop_down</i></b></a>
+<ul id="dropdown4" class="dropdown-content" tabindex="0">
+<li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Cumplimiento</a></li>
+<li tabindex="0"><a href="Marco_Regulatorio.php" class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
+  <li tabindex="0"><a href="Certificaciones.php" class="Tipografia--general letranegro Subtitulos">Certificaciones</a></li>
+</ul></li>
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Contact.php"><b>Contacto
             </b></a></li>
       </ul>
@@ -560,12 +564,11 @@
   <div class="container-fluid">
     <div class="slider slider-prueba" style="margin-top:0px">
       <ul class="slides slides-pruea">
-        <li> <img src="img/CB_ACIDOS_GRASOS_291223.jpg" alt="" style="height:400px;filter: brightness(0.9);"
+        <li> <img src="img/COCOS_FRESCOS_030524.jpg" alt="" style="height:400px;filter: brightness(0.9);"
             class="img_acidos_grasos img_acidos_grasos_desktop">
             <!-- <video src="VIDEO/ACIDOS_GRASOS.mp4" autoplay height="1000px" width="100%"></video>  -->
           <div class="caption center-align"><br><br><br><br>
-            <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo"
-              style="font-size: 26px;">Ácidos Grasos</b>
+            <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1>
           </div>
         </li>
       </ul>
@@ -574,11 +577,12 @@
 
   <div class="container" style="margin-top:80px;">
     <div class="row bread_mobile">
+    <h5 class="Tipografia--general Cuerpo--General" style="margin-top:150px;background-color:#1F3864;text-align:center;color:white;padding:15px;font-size:35px">Ácidos Grasos</h5>
       <div class="col s12 m12 l12 xl12">
         <section class="breditem--inicio"><a class="breditem active" href="index.php"
             style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
             href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b> >
-              &nbsp</b><a class="breditem active" href=".php"
+              &nbsp</b><a class="breditem active" href="Acidos_grasos.php"
               style="color:#262137 !important;margin-left:-2px"><b
                 class="Tipografia--general letranegro Subtitulos breadcrumb">Ácidos Grasos</b></a></section>
         </section>
@@ -627,7 +631,7 @@
 
         <h2 class="Tipografia--general letranegro General--Cuerpo Titulos" style="margin-top:50px;"><b>Clasificación</b></h2>
 
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;"><b>Ácidos grasos saturados.- </b> Son ácidos grasos
+        <!-- <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;"><b>Ácidos grasos saturados.- </b> Son ácidos grasos
           sin dobles enlaces entre carbonos; tienden a formar cadenas extendidas y a ser sólidos a temperatura ambiente,
           excepto los de cadena corta.</p>
 
@@ -687,7 +691,1238 @@
             grasos trans.-</b> Son ácidos grasos
           insaturados en los cuales los dos átomos de hidrógeno están uno a cada lado del doble enlace, lo que hace que
           la molécula sea rectilínea; se encuentra principalmente en alimentos industrializados que han sido sometidos a
-          hidrogenación, con el fin de solidificarlos (como la margarina).</p>
+          hidrogenación, con el fin de solidificarlos (como la margarina).</p> -->
+
+          <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;margin-bottom:0px;"><b>Chemical
+            Broker</b> ofrece
+          productos de alta
+          calidad con especificaciones consistentes, que se pueden utilizar en una variedad de aplicaciones. Ofrecemos
+          opciones RSPO Mass Balance y Certificaciones y estándares para satisfacer su aplicación y necesidades
+          regionales. Las necesidades pueden ser ligeramente diferentes en todo el mundo para cumplir con las
+          regulaciones locales y las demandas de los clientes. </p>
+
+          <h5 class="Tipografia--general Cuerpo--General" style="background-color:#1F3864;color:white;padding:15px;margin-top:50px;">Hidrogenado / Destilado</h5>
+
+          <h5 class="Tipografia--general Cuerpo--General" style="color:#1F3864;margin-top:50px;">Acidos Grasos | Base Aceite de Coco</h5>
+
+  <table border="1" style="margin-top:50px;">
+
+    <thead>
+        <tr>
+            <th style="color:#1F3864;">Características</th>
+            <th style="color:#1F3864;text-align:center;">FA C818D</th>
+            <th style="color:#1F3864;text-align:center;">FA C818H</th>
+            <th style="color:#1F3864;text-align:center;">FA C818DH</th>
+            <th style="color:#1F3864;text-align:center;">FA C1218DH</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="color:#595959;">Tipo de Ácido Graso</td>
+            <td style="color:#595959;text-align:center;">Destilado</td>
+            <td style="color:#595959;text-align:center;">Parcialmente Hidrogenado</td>
+            <td style="color:#595959;text-align:center;">Totalmente Hidrogenado</td>
+            <td style="color:#595959;text-align:center;">Corte Superior de Hidrogeno Total</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Valor de Humedad (%KF)</td>
+            <td style="color:#595959;text-align:center;">0.3 Máx</td>
+            <td style="color:#595959;text-align:center;">0.3 Máx</td>
+            <td style="color:#595959;text-align:center;">0.3 Máx</td>
+            <td style="color:#595959;text-align:center;">0.3 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Titer</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+            <td style="color:#595959;text-align:center;">23-29</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Índice de Yodo</td>
+            <td style="color:#595959;text-align:center;">1 Máx</td>
+            <td style="color:#595959;text-align:center;">1 Máx</td>
+            <td style="color:#595959;text-align:center;">1 Máx</td>
+            <td style="color:#595959;text-align:center;">1 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">Valor de Ácido</td>
+            <td style="color:#595959;text-align:center;">266-274</td>
+            <td style="color:#595959;text-align:center;">266-274</td>
+            <td style="color:#595959;text-align:center;">260-275</td>
+            <td style="color:#595959;text-align:center;">250-260</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">Valor de Saponificación</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+            <td style="color:#595959;text-align:center;">261-277</td>
+            <td style="color:#595959;text-align:center;">Reportar</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">Color, Lovibond</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+            <td style="color:#595959;text-align:center;">5.0/0.5 Máx</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">% de Transmitancia a 440nm/550nm</td>
+            <td style="color:#595959;text-align:center;">75/90 Mín</td>
+            <td style="color:#595959;text-align:center;">85/95 Mín</td>
+            <td style="color:#595959;text-align:center;">90/97 Mín</td>
+            <td style="color:#595959;text-align:center;">90/95 Mín</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">Número CAS</td>
+            <td style="color:#595959;text-align:center;">67701-05-7</td>
+            <td style="color:#595959;text-align:center;">67701-05-7</td>
+            <td style="color:#595959;text-align:center;">67701-05-7</td>
+            <td style="color:#595959;text-align:center;">67701-05-7</td>
+        </tr>
+        <tr>
+            <td style="color:#595959"><b style="color:#595959">Composición de Ácidos Grasos en %</b></td>
+            <td style="color:#595959;text-align:center;"></td>
+            <td style="color:#595959;text-align:center;"></td>
+            <td style="color:#595959;text-align:center;"></td>
+            <td style="color:#595959;text-align:center;"></td>
+        </tr>
+        <tr>
+            <td style="color:#595959">C8</td>
+            <td style="color:#595959;text-align:center;">9 Máx</td>
+            <td style="color:#595959;text-align:center;">5-8.5</td>
+            <td style="color:#595959;text-align:center;">8.5 Máx</td>
+            <td style="color:#595959;text-align:center;">1 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">C10</td>
+            <td style="color:#595959;text-align:center;">5-10</td>
+            <td style="color:#595959;text-align:center;">5-10</td>
+            <td style="color:#595959;text-align:center;">5-9</td>
+            <td style="color:#595959;text-align:center;">1 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">C12</td>
+            <td style="color:#595959;text-align:center;">46-58</td>
+            <td style="color:#595959;text-align:center;">46-58</td>
+            <td style="color:#595959;text-align:center;">46-55</td>
+            <td style="color:#595959;text-align:center;">50-65</td>
+        </tr>
+    </tbody>
+  </table>
+
+
+   <!-- <table border="1" style="margin-top:50px;">
+    <thead>
+        <tr>
+            <th style="color:#1F3864;">Characteristics</th>
+            <th style="color:#1F3864;text-align:center;">FA C818D</th>
+            <th style="color:#1F3864;text-align:center;">FA C818H</th>
+            <th style="color:#1F3864;text-align:center;">FA C818DH</th>
+            <th style="color:#1F3864;text-align:center;">FA C1218DH</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="color:#595959;">Fatty Acid Type</td>
+            <td style="color:#595959;text-align:center;">Distilled</td>
+            <td style="color:#595959;text-align:center;">Partially Hydrogenated</td>
+            <td style="color:#595959;text-align:center;">Fully Hydrogenated</td>
+            <td style="color:#595959;text-align:center;">Fully Hydro Top Cut</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Moisture Value (%KF)</td>
+            <td style="color:#595959;text-align:center;">0.3 Máx</td>
+            <td style="color:#595959;text-align:center;">0.3 Máx</td>
+            <td style="color:#595959;text-align:center;">0.3 Máx</td>
+            <td style="color:#595959;text-align:center;">0.3 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">TITRE (C)</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+            <td style="color:#595959;text-align:center;">23-29</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Iodine Value</td>
+            <td style="color:#595959;text-align:center;">1 Máx</td>
+            <td style="color:#595959;text-align:center;">1 Máx</td>
+            <td style="color:#595959;text-align:center;">1 Máx</td>
+            <td style="color:#595959;text-align:center;">1 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">Acid Value</td>
+            <td style="color:#595959;text-align:center;">266-274</td>
+            <td style="color:#595959;text-align:center;">266-274</td>
+            <td style="color:#595959;text-align:center;">260-275</td>
+            <td style="color:#595959;text-align:center;">250-260</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">Saponification Value</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+            <td style="color:#595959;text-align:center;">261-277</td>
+            <td style="color:#595959;text-align:center;">Reportar</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">Color, Lovibond</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+            <td style="color:#595959;text-align:center;">5.0/0.5 Máx</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">% Transmittance at 440nm/550nm</td>
+            <td style="color:#595959;text-align:center;">75/90 Mín</td>
+            <td style="color:#595959;text-align:center;">85/95 Mín</td>
+            <td style="color:#595959;text-align:center;">90/97 Mín</td>
+            <td style="color:#595959;text-align:center;">90/95 Mín</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">CAS Number</td>
+            <td style="color:#595959;text-align:center;">67701-05-7</td>
+            <td style="color:#595959;text-align:center;">67701-05-7</td>
+            <td style="color:#595959;text-align:center;">67701-05-7</td>
+            <td style="color:#595959;text-align:center;">67701-05-7</td>
+        </tr>
+        <tr>
+            <td style="color:#595959"><b style="color:#595959">Fatty Acid Composition in %</b></td>
+            <td style="color:#595959;text-align:center;"></td>
+            <td style="color:#595959;text-align:center;"></td>
+            <td style="color:#595959;text-align:center;"></td>
+            <td style="color:#595959;text-align:center;"></td>
+        </tr>
+        <tr>
+            <td style="color:#595959">C8</td>
+            <td style="color:#595959;text-align:center;">9 Máx</td>
+            <td style="color:#595959;text-align:center;">5-8.5</td>
+            <td style="color:#595959;text-align:center;">8.5 Máx</td>
+            <td style="color:#595959;text-align:center;">1 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">C10</td>
+            <td style="color:#595959;text-align:center;">5-10</td>
+            <td style="color:#595959;text-align:center;">5-10</td>
+            <td style="color:#595959;text-align:center;">5-9</td>
+            <td style="color:#595959;text-align:center;">1 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">C12</td>
+            <td style="color:#595959;text-align:center;">46-58</td>
+            <td style="color:#595959;text-align:center;">46-58</td>
+            <td style="color:#595959;text-align:center;">46-55</td>
+            <td style="color:#595959;text-align:center;">50-65</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">C14</td>
+            <td style="color:#595959;text-align:center;">16-23</td>
+            <td style="color:#595959;text-align:center;">16-23</td>
+            <td style="color:#595959;text-align:center;">15-20</td>
+            <td style="color:#595959;text-align:center;">18-26</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">C16</td>
+            <td style="color:#595959;text-align:center;">6-11</td>
+            <td style="color:#595959;text-align:center;">6-11</td>
+            <td style="color:#595959;text-align:center;">7-12</td>
+            <td style="color:#595959;text-align:center;">5-12</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">C18</td>
+            <td style="color:#595959;text-align:center;">8 Máx</td>
+            <td style="color:#595959;text-align:center;">8 Máx</td>
+            <td style="color:#595959;text-align:center;">6-16</td>
+            <td style="color:#595959;text-align:center;">8-12</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">C18:1</td>
+            <td style="color:#595959;text-align:center;">6.5 Máx</td>
+            <td style="color:#595959;text-align:center;">5 Máx</td>
+            <td style="color:#595959;text-align:center;">1 Máx</td>
+            <td style="color:#595959;text-align:center;">Report</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">C18:2</td>
+            <td style="color:#595959;text-align:center;">1 Máx</td>
+            <td style="color:#595959;text-align:center;">1 Máx</td>
+            <td style="color:#595959;text-align:center;">0.5 Máx</td>
+            <td style="color:#595959;text-align:center;"></td>
+        </tr>
+        <tr>
+            <td style="color:#595959">C20</td>
+            <td style="color:#595959;text-align:center;"></td>
+            <td style="color:#595959;text-align:center;"></td>
+            <td style="color:#595959;text-align:center;"></td>
+            <td style="color:#595959;text-align:center;">Report</td>
+        </tr>
+    </tbody>
+</table> -->
+
+<h5 class="Tipografia--general Cuerpo--General" style="background-color:#1F3864;color:white;padding:15px;margin-top:50px;">Hidrogenado / Destilado</h5>
+
+<h5 class="Tipografia--general Cuerpo--General" style="color:#1F3864;margin-top:50px;">Acidos Grasos | Base Soya</h5>
+
+<table border="1" style="margin-top:50px;">
+    <thead>
+        <tr>
+            <th style="color:#1F3864;">Características</th>
+            <th style="color:#1F3864;text-align:center;">FA S1884</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="color:#595959;">Tipo de Ácido Graso</td>
+            <td style="color:#595959;text-align:center;">Destilado</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Valor de Humedad (%KF)</td>
+            <td style="color:#595959;text-align:center;">0.3 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Titer</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Índice de Yodo</td>
+            <td style="color:#595959;text-align:center;">127 Mín</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">Valor de Ácido</td>
+            <td style="color:#595959;text-align:center;">197-203</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">Valor de Saponificación</td>
+            <td style="color:#595959;text-align:center;">Reportar</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">Color, Lovibond</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">% de Transmitancia a 440nm/550nm</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">Número CAS</td>
+            <td style="color:#595959;text-align:center;">67701-08-0</td>
+        </tr>
+        <tr>
+            <td style="color:#595959"><b style="color:#595959">Composición de Ácidos Grasos en %</b></td>
+            <td style="color:#595959;text-align:center;"></td>
+        </tr>
+        <tr>
+            <td style="color:#595959">C12</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">C14</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">C16</td>
+            <td style="color:#595959;text-align:center;">(11)</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">C18</td>
+            <td style="color:#595959;text-align:center;">(4)</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">C18:1</td>
+            <td style="color:#595959;text-align:center;">(24)</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">C18:2</td>
+            <td style="color:#595959;text-align:center;">(52)</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">C18:3</td>
+            <td style="color:#595959;text-align:center;">(8)</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">C20</td>
+            <td style="color:#595959;text-align:center;">(0.3)</td>
+        </tr>
+    </tbody>
+</table>
+
+<h5 class="Tipografia--general Cuerpo--General" style="background-color:#1F3864;color:white;padding:15px;margin-top:50px;">Ácidos Grasos Fraccionados</h5>
+
+
+<table border="1" style="margin-top:50px;">
+    <thead>
+        <tr>
+            <th style="color: #1F3864;">Características</th>
+            <th style="color: #1F3864;text-align:center;">LC 899</th>
+            <th style="color: #1F3864;text-align:center;">LC 810L</th>
+            <th style="color: #1F3864;text-align:center;">LC 1099</th>
+            <th style="color: #1F3864;text-align:center;">FA 1299</th>
+            <th style="color: #1F3864;text-align:center;">FA 1498</th>
+            <th style="color: #1F3864;text-align:center;">FA 1695V</th>
+            <th style="color: #1F3864;text-align:center;">FA 1890V</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><b style="color:#595959;">Tipo de Ácido Graso</b></td>
+            <td style="text-align:center;color:#595959;">Ácido Caprílico</td>
+            <td style="text-align:center;color:#595959;">Ácido Caprílico/Caprílico</td>
+            <td style="text-align:center;color:#595959;">Ácido Cáprico</td>
+            <td style="text-align:center;color:#595959;">Láurico</td>
+            <td style="text-align:center;color:#595959;">Mirístico</td>
+            <td style="text-align:center;color:#595959;">Ácido Palmítico</td>
+            <td style="text-align:center;color:#595959;">Ácido Esteárico</td>
+        </tr>
+        <tr>
+            <td>Valor de Humedad (%KF)</td>
+            <td style="text-align:center;color:#595959;">NR</td>
+            <td style="text-align:center;color:#595959;">0.2 Máx</td>
+            <td style="text-align:center;color:#595959;">NR</td>
+            <td style="text-align:center;color:#595959;">Reportar</td>
+            <td style="text-align:center;color:#595959;">Reportar</td>
+            <td style="text-align:center;color:#595959;">0.3 Máx</td>
+            <td style="text-align:center;color:#595959;">0.3 Máx</td>
+        </tr>
+        <tr>
+            <td>Titer</td>
+            <td style="text-align:center;color:#595959;">15-18</td>
+            <td style="text-align:center;color:#595959;">7.0 Máx</td>
+            <td style="text-align:center;color:#595959;">30-32</td>
+            <td style="text-align:center;color:#595959;">42-44</td>
+            <td style="text-align:center;color:#595959;">53-55</td>
+            <td style="text-align:center;color:#595959;">58-63</td>
+            <td style="text-align:center;color:#595959;">NR</td>
+        </tr>
+        <tr>
+            <td>Índice de Yodo</td>
+            <td style="text-align:center;color:#595959;">0.5 Máx</td>
+            <td style="text-align:center;color:#595959;">0.5 Máx</td>
+            <td style="text-align:center;color:#595959;">0.5 Máx</td>
+            <td style="text-align:center;color:#595959;">0.5 Máx</td>
+            <td style="text-align:center;color:#595959;">0.5 Máx</td>
+            <td style="text-align:center;color:#595959;">0.5 Máx</td>
+            <td style="text-align:center;color:#595959;">1.5 Máx</td>
+        </tr>
+        <tr>
+            <td>Valor de Ácido</td>
+            <td style="text-align:center;color:#595959;">383-390</td>
+            <td style="text-align:center;color:#595959;">352-365</td>
+            <td style="text-align:center;color:#595959;">321-329</td>
+            <td style="text-align:center;color:#595959;">277-282</td>
+            <td style="text-align:center;color:#595959;">244-248</td>
+            <td style="text-align:center;color:#595959;">217-222</td>
+            <td style="text-align:center;color:#595959;">195-203</td>
+        </tr>
+        <tr>
+            <td>Valor de Saponificación</td>
+            <td style="text-align:center;color:#595959;">NR</td>
+            <td style="text-align:center;color:#595959;">354-367</td>
+            <td style="text-align:center;color:#595959;">321-330</td>
+            <td style="text-align:center;color:#595959;">Reportar</td>
+            <td style="text-align:center;color:#595959;">245-249</td>
+            <td style="text-align:center;color:#595959;">NR</td>
+            <td style="text-align:center;color:#595959;">NR</td>
+        </tr>
+        <tr>
+            <td>Color, Lovibond</td>
+            <td style="text-align:center;color:#595959;">5.0/0.5 Máx</td>
+            <td style="text-align:center;color:#595959;">5.0/0.5 Máx</td>
+            <td style="text-align:center;color:#595959;">4.0/0.5 Máx</td>
+            <td style="text-align:center;color:#595959;">2.0/0.2 Máx</td>
+            <td style="text-align:center;color:#595959;">2.0/0.2 Máx</td>
+            <td style="text-align:center;color:#595959;">3.0/0.3 Máx</td>
+            <td style="text-align:center;color:#595959;">5.0/0.5 Máx</td>
+        </tr>
+        <tr>
+            <td>% de Transmitancia a 440nm/550nm</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td style="text-align:center;color:#595959;">90/98 Mín</td>
+            <td style="text-align:center;color:#595959;">NR</td>
+            <td style="text-align:center;color:#595959;">93 Mín</td>
+            <td style="text-align:center;color:#595959;">80/95 Mín</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Número CAS</td>
+            <td style="text-align:center;color:#595959;">124-07-2</td>
+            <td style="text-align:center;color:#595959;">67762-36-1</td>
+            <td style="text-align:center;color:#595959;">334-48-5</td>
+            <td style="text-align:center;color:#595959;">143-07-7</td>
+            <td style="text-align:center;color:#595959;">544-63-8</td>
+            <td style="text-align:center;color:#595959;">57-10-3</td>
+            <td style="text-align:center;color:#595959;">57-11-4</td>
+        </tr>
+        <tr>
+            <td style="color:#595959"><b style="color:#595959">Composición de Ácidos Grasos en %</b></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>C6</td>
+            <td style="text-align:center;color:#595959;">1 Máx</td>
+            <td style="text-align:center;color:#595959;">0.5 Máx</td>
+            <td style="text-align:center;color:#595959;">NR</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>C8</td>
+            <td style="text-align:center;color:#595959;">99 Mín</td>
+            <td style="text-align:center;color:#595959;">53 Mín</td>
+            <td style="text-align:center;color:#595959;">1.0 Máx</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>C10</td>
+            <td style="text-align:center;color:#595959;">1 Máx</td>
+            <td style="text-align:center;color:#595959;">35-45</td>
+            <td style="text-align:center;color:#595959;">99.0 Mín</td>
+            <td style="text-align:center;color:#595959;">1 Máx</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>C12</td>
+            <td style="text-align:center;color:#595959;">NR</td>
+            <td style="text-align:center;color:#595959;">1.5 Máx</td>
+            <td style="text-align:center;color:#595959;">1 Máx</td>
+            <td style="text-align:center;color:#595959;">98.5 Mín</td>
+            <td style="text-align:center;color:#595959;">1 Máx</td>
+            <td style="text-align:center;color:#595959;">1 Máx</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>C14</td>
+            <td></td>
+            <td></td>
+            <td style="text-align:center;color:#595959;"></td>
+            <td style="text-align:center;color:#595959;">1.5 Máx</td>
+            <td style="text-align:center;color:#595959;">98 Mín</td>
+            <td>5 Máx</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">C16</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td style="text-align:center;color:#595959;"></td>
+            <td style="text-align:center;color:#595959;">2 Máx</td>
+            <td style="text-align:center;color:#595959;">95 Mín</td>
+            <td style="text-align:center;color:#595959;">NR</td>
+        </tr>
+        <tr>
+            <td>C18</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td style="text-align:center;color:#595959;">5 Máx</td>
+            <td style="text-align:center;color:#595959;">87 Mín</td>
+        </tr>
+        <tr>
+            <td>C18:1</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td style="text-align:center;color:#595959;"></td>
+            <td style="text-align:center;color:#595959;">2.0 Máx</td>
+        </tr>
+        <tr>
+            <td>Otros Enlaces de Cadena</td>
+            <td></td>
+            <td></td>
+            <td style="text-align:center;color:#595959;"></td>
+            <td style="text-align:center;color:#595959;"></td>
+            <td></td>
+            <td style="text-align:center;color:#595959;">NR</td>
+            <td style="text-align:center;color:#595959;">NR</td>
+        </tr>
+    </tbody>
+</table>
+
+
+<h5 class="Tipografia--general Cuerpo--General" style="background-color:#1F3864;color:white;padding:15px;margin-top:50px;">Acido Estearico</h5>
+
+
+<table border="1" style="margin-top:50px;">
+    <thead>
+        <tr>
+            <th style="color: #1F3864;">Características</th>
+            <th style="color: #1F3864;text-align:center;">FA 1655V</th>
+            <th style="color: #1F3864;text-align:center;">FA 1855V</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="color:#595959;">Tipo de Ácido Graso</td>
+            <td style="color:#595959;text-align:center;">Triple Prensado</td>
+            <td style="color:#595959;text-align:center;">Doble Prensado</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Valor de Humedad (%KF)</td>
+            <td style="color:#595959;text-align:center;">Reportar</td>
+            <td style="color:#595959;text-align:center;">0.3 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Titer</td>
+            <td style="color:#595959;text-align:center;">54-57</td>
+            <td style="color:#595959;text-align:center;">(55)</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Índice de Yodo</td>
+            <td style="color:#595959;text-align:center;">0.5 Máx</td>
+            <td style="color:#595959;text-align:center;">0.5 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Valor de Ácido</td>
+            <td style="color:#595959;text-align:center;">205-211</td>
+            <td style="color:#595959;text-align:center;">205-211</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Valor de Saponificación</td>
+            <td style="color:#595959;text-align:center;">206-211</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Color, Lovibond</td>
+            <td style="color:#595959;text-align:center;">5.0/0.5 Máx</td>
+            <td style="color:#595959;text-align:center;">5.0/0.5 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">% de Transmitancia a 440nm/550nm</td>
+            <td style="color:#595959;text-align:center;">85/95 Máx</td>
+            <td style="color:#595959;text-align:center;">85/95 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Número CAS</td>
+            <td style="color:#595959;text-align:center;">67701-03-5</td>
+            <td style="color:#595959;text-align:center;">67701-03-5</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;"><b style="color:#595959;">Composición de Ácidos Grasos en %</b></td>
+            <td style="color:#595959;text-align:center;"></td>
+            <td style="color:#595959;text-align:center;"></td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">C12</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+            <td style="color:#595959;text-align:center;">1 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">C14</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+            <td style="color:#595959;text-align:center;">2 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">C16</td>
+            <td style="color:#595959;text-align:center;">50-56</td>
+            <td style="color:#595959;text-align:center;">42-50</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">C18</td>
+            <td style="color:#595959;text-align:center;">44-50</td>
+            <td style="color:#595959;text-align:center;">50-55</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">C18:1</td>
+            <td style="color:#595959;text-align:center;"></td>
+            <td style="color:#595959;text-align:center;">1 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Otros</td>
+            <td style="color:#595959;text-align:center;"></td>
+            <td style="color:#595959;text-align:center;">NR</td>
+        </tr>
+    </tbody>
+</table>
+
+
+<h5 class="Tipografia--general Cuerpo--General" style="background-color:#1F3864;color:white;padding:15px;margin-top:50px;">Acido Oleico</h5>
+
+
+<table border="1" style="margin-top:50px;">
+    <thead>
+        <tr>
+            <th style="color:#1F3864;">Características</th>
+            <th style="color:#1F3864;text-align:center;">OLS 70</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="color:#595959;">Tipo de Ácido Graso</td>
+            <td style="color:#595959;text-align:center;">Destilado Simple</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Valor de Humedad (%KF)</td>
+            <td style="color:#595959;text-align:center;">0.3 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Titer</td>
+            <td style="color:#595959;text-align:center;">9 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Índice de Yodo</td>
+            <td style="color:#595959;text-align:center;">90 Mín</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Valor de Ácido</td>
+            <td style="color:#595959;text-align:center;">195-205</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Valor de Saponificación</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Color, Lovibond</td>
+            <td style="color:#595959;text-align:center;">10/1 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">% de Transmitancia a 440nm/550nm</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Número CAS</td>
+            <td style="color:#595959;text-align:center;">67701-08-0</td>
+        </tr>
+        <tr>
+            <td><b style="color:#595959;">Composición de Ácidos Grasos en %</b></td>
+            <td style="color:#595959;text-align:center;"></td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">C12</td>
+            <td style="color:#595959;text-align:center;">2 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">C14</td>
+            <td style="color:#595959;text-align:center;">2 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">C16</td>
+            <td style="color:#595959;text-align:center;">7 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">C18</td>
+            <td style="color:#595959;text-align:center;">2 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">C18:1</td>
+            <td style="color:#595959;text-align:center;">75 Mín</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">C18:2</td>
+            <td style="color:#595959;text-align:center;">14 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">C18:3</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">C20</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Otros</td>
+            <td style="color:#595959;text-align:center;">1.5 Máx</td>
+        </tr>
+    </tbody>
+</table>
+
+
+<!-- 2
+<table border="1" style="margin-top:30px;">
+    <thead>
+        <tr>
+            <th style="color: #1F3864;">Characteristics</th>
+            <th style="color:#1F3864;">FA S1884</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="color: #595959;">Fatty Acid Type</td>
+            <td style="color:#595959;">Distilled</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Moisture Value (%KF)</td>
+            <td style="color:#595959;">0.3 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">TITER (C)</td>
+            <td style="color:#595959;">NR</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Iodine Value</td>
+            <td style="color:#595959;">127 Mín</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Acid Value</td>
+            <td style="color:#595959;">197-203</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Saponification Value</td>
+            <td style="color:#595959;">Reportar</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Color, Lovibond</td>
+            <td style="color:#595959;">NR</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">% Transmittance at 440nm/550nm</td>
+            <td style="color:#595959;">NR</td>
+        </tr>
+        <tr>
+            <td style="color#:595959;">CAS Number</td>
+            <td style="color:#595959;">67701-08-0</td>
+        </tr>
+        <tr>
+            <td><b style="color:#595959">Fatty Acid Composition in %</b></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="color:#595959">C12</td>
+            <td style="color:#595959;">NR</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">C14</td>
+            <td style="color:#595959;">NR</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">C16</td>
+            <td style="color:#595959;">(11)</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">C18</td>
+            <td style="color:#595959;">(4)</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">C18:1</td>
+            <td style="color:#595959;">(24)</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">C18:2</td>
+            <td style="color:#595959;">(52)</td>
+        </tr>
+        <tr>
+            <td>C18:3</td>
+            <td style="color:#595959;">(8)</td>
+        </tr>
+        <tr>
+            <td style="color:#595959">C20</td>
+            <td style="color:#595959;">(0.3)</td>
+        </tr>
+    </tbody>
+</table>
+-->
+
+<!-- <h5 class="Tipografia--general Cuerpo--General" style="background-color:#1F3864;color:white;padding:15px;margin-top:50px;">Fractionated Fatty Acids</h5>
+3
+<table border="1" style="margin-top:50px;">
+    <thead>
+        <tr>
+            <th style="color: #1F3864;">Characteristics</th>
+            <th  style="color: #1F3864;text-align:center;">LC 899</th>
+            <th style="color: #1F3864;text-align:center;">LC 810L</th>
+            <th style="color: #1F3864;text-align:center;">LC 1099</th>
+            <th style="color: #1F3864;text-align:center;">FA 1299</th>
+            <th style="color: #1F3864;text-align:center;">FA 1498</th>
+            <th style="color: #1F3864;text-align:center;">FA 1695V</th>
+            <th style="color: #1F3864;text-align:center;">FA 1890V</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><b style="color:#595959;">Fatty Acid Type</b></td>
+            <td style="text-align:center;color:#595959;">Caprylic Acid</td>
+            <td style="text-align:center;color:#595959;">Caprylic/Capric Acid</td>
+            <td style="text-align:center;color:#595959;">Capric Acid</td>
+            <td style="text-align:center;color:#595959;">Lauric</td>
+            <td style="text-align:center;color:#595959;">Myristic</td>
+            <td style="text-align:center;color:#595959;">Palmitic Acid</td>
+            <td style="text-align:center;color:#595959;">Stearic Acid</td>
+        </tr>
+        <tr>
+            <td>Moisture Value (%KF)</td>
+            <td style="text-align:center;color:#595959;">NR</td>
+            <td style="text-align:center;color:#595959;">0.2 Máx</td>
+            <td style="text-align:center;color:#595959;">NR</td>
+            <td style="text-align:center;color:#595959;">Reportar</td>
+            <td style="text-align:center;color:#595959;">Reportar</td>
+            <td style="text-align:center;color:#595959;">0.3 Máx</td>
+            <td style="text-align:center;color:#595959;">0.3 Máx</td>
+        </tr>
+        <tr>
+            <td>TITRE (C)</td>
+            <td style="text-align:center;color:#595959;">15-18</td>
+            <td style="text-align:center;color:#595959;">7.0 Máx</td>
+            <td style="text-align:center;color:#595959;">30-32</td>
+            <td style="text-align:center;color:#595959;">42-44</td>
+            <td style="text-align:center;color:#595959;">53-55</td>
+            <td style="text-align:center;color:#595959;">58-63</td>
+            <td style="text-align:center;color:#595959;">NR</td>
+        </tr>
+        <tr>
+            <td>Iodine Value</td>
+            <td style="text-align:center;color:#595959;">0.5 Máx</td>
+            <td style="text-align:center;color:#595959;">0.5 Máx</td>
+            <td style="text-align:center;color:#595959;">0.5 Máx</td>
+            <td style="text-align:center;color:#595959;">0.5 Máx</td>
+            <td style="text-align:center;color:#595959;">0.5 Máx</td>
+            <td style="text-align:center;color:#595959;">0.5 Máx</td>
+            <td style="text-align:center;color:#595959;">1.5 Máx</td>
+        </tr>
+        <tr>
+            <td>Acid Value</td>
+            <td style="text-align:center;color:#595959;">383-390</td>
+            <td style="text-align:center;color:#595959;">352-365</td>
+            <td style="text-align:center;color:#595959;">321-329</td>
+            <td style="text-align:center;color:#595959;">277-282</td>
+            <td style="text-align:center;color:#595959;">244-248</td>
+            <td style="text-align:center;color:#595959;">217-222</td>
+            <td style="text-align:center;color:#595959;">195-203</td>
+        </tr>
+        <tr>
+            <td>Saponification Value</td>
+            <td style="text-align:center;color:#595959;">NR</td>
+            <td style="text-align:center;color:#595959;">354-367</td>
+            <td style="text-align:center;color:#595959;">321-330</td>
+            <td style="text-align:center;color:#595959;">Reportar</td>
+            <td style="text-align:center;color:#595959;">245-249</td>
+            <td style="text-align:center;color:#595959;">NR</td>
+            <td style="text-align:center;color:#595959;">NR</td>
+        </tr>
+        <tr>
+            <td>Color, Lovibond</td>
+            <td style="text-align:center;color:#595959;">5.0/0.5 Máx</td>
+            <td style="text-align:center;color:#595959;">5.0/0.5 Máx</td>
+            <td style="text-align:center;color:#595959;">4.0/0.5 Máx</td>
+            <td style="text-align:center;color:#595959;">2.0/0.2 Máx</td>
+            <td style="text-align:center;color:#595959;">2.0/0.2 Máx</td>
+            <td style="text-align:center;color:#595959;">3.0/0.3 Máx</td>
+            <td style="text-align:center;color:#595959;">5.0/0.5 Máx</td>
+        </tr>
+        <tr>
+            <td>% Transmittance at 440nm/550nm</td>
+            <td style="text-align:center;color:#595959;"></td>
+            <td style="text-align:center;color:#595959;"></td>
+            <td style="text-align:center;color:#595959;"></td>
+            <td style="text-align:center;color:#595959;">90/98 Mín</td>
+            <td style="text-align:center;color:#595959;">NR</td>
+            <td style="text-align:center;color:#595959;">93 Mín</td>
+            <td style="text-align:center;color:#595959;">80/95 Mín</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">CAS Number</td>
+            <td style="text-align:center;color:#595959;">124-07-2</td>
+            <td style="text-align:center;color:#595959;">67762-36-1</td>
+            <td style="text-align:center;color:#595959;">334-48-5</td>
+            <td style="text-align:center;color:#595959;">143-07-7</td>
+            <td style="text-align:center;color:#595959;">544-63-8</td>
+            <td style="text-align:center;color:#595959;">57-10-3</td>
+            <td style="text-align:center;color:#595959;">57-11-4</td>
+        </tr>
+        <tr>
+            <td style="color:#595959"><b style="color:#595959">Fatty Acid Composition in %</b></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>C6</td>
+            <td style="text-align:center;color:#595959;">1 Máx</td>
+            <td style="text-align:center;color:#595959;">0.5 Máx</td>
+            <td style="text-align:center;color:#595959;">NR</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>C8</td>
+            <td style="text-align:center;color:#595959;">99 Mín</td>
+            <td style="text-align:center;color:#595959;">53 Mín</td>
+            <td style="text-align:center;color:#595959;">1.0 Máx</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>C10</td>
+            <td style="text-align:center;color:#595959;">1 Máx</td>
+            <td style="text-align:center;color:#595959;">35-45</td>
+            <td style="text-align:center;color:#595959;">99.0 Mín</td>
+            <td style="text-align:center;color:#595959;">1 Máx</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>C12</td>
+            <td style="text-align:center;color:#595959;">NR</td>
+            <td style="text-align:center;color:#595959;">1.5 Máx</td>
+            <td style="text-align:center;color:#595959;">1 Máx</td>
+            <td style="text-align:center;color:#595959;">98.5 Mín</td>
+            <td style="text-align:center;color:#595959;">1 Máx</td>
+            <td style="text-align:center;color:#595959;">1 Máx</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>C14</td>
+            <td></td>
+            <td></td>
+            <td style="text-align:center;color:#595959;"></td>
+            <td style="text-align:center;color:#595959;">1.5 Máx</td>
+            <td style="text-align:center;color:#595959;">98 Mín</td>
+            <td>5 Máx</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">C16</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td style="text-align:center;color:#595959;"></td>
+            <td style="text-align:center;color:#595959;">2 Máx</td>
+            <td style="text-align:center;color:#595959;">95 Mín</td>
+            <td style="text-align:center;color:#595959;">NR</td>
+        </tr>
+        <tr>
+            <td>C18</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td style="text-align:center;color:#595959;">5 Máx</td>
+            <td style="text-align:center;color:#595959;">87 Mín</td>
+        </tr>
+        <tr>
+            <td>C18:1</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td style="text-align:center;color:#595959;"></td>
+            <td style="text-align:center;color:#595959;">2.0 Máx</td>
+        </tr>
+        <tr>
+            <td>Other Chain Links</td>
+            <td></td>
+            <td></td>
+            <td style="text-align:center;color:#595959;"></td>
+            <td style="text-align:center;color:#595959;"></td>
+            <td></td>
+            <td style="text-align:center;color:#595959;">NR</td>
+            <td style="text-align:center;color:#595959;">NR</td>
+        </tr>
+    </tbody>
+</table>
+
+
+<h5 class="Tipografia--general Cuerpo--General" style="background-color:#1F3864;color:white;padding:15px;margin-top:50px;">Stearic Acid</h5>
+4
+<table border="1" style="margin-top:50px;">
+    <thead>
+        <tr>
+            <th style="color: #1F3864;">Characteristics</th>
+            <th style="color: #1F3864;text-align:center;">FA 1655V</th>
+            <th style="color: #1F3864;text-align:center;">FA 1855V</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="color:#595959;">Fatty Acid Type</td>
+            <td style="color:#595959;text-align:center;">Triple Pressing</td>
+            <td style="color:#595959;text-align:center;">Double Pressing</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Moisture Value (%KF)</td>
+            <td style="color:#595959;text-align:center;">Report</td>
+            <td style="color:#595959;text-align:center;">0.3 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">TITRE (C)</td>
+            <td style="color:#595959;text-align:center;">54-57</td>
+            <td style="color:#595959;text-align:center;">(55)</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Iodine Value</td>
+            <td style="color:#595959;text-align:center;">0.5 Máx</td>
+            <td style="color:#595959;text-align:center;">0.5 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Acid Value</td>
+            <td style="color:#595959;text-align:center;">205-211</td>
+            <td style="color:#595959;text-align:center;">205-211</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Saponification Value</td>
+            <td style="color:#595959;text-align:center;">206-211</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Color, Lovibond</td>
+            <td style="color:#595959;text-align:center;">5.0/0.5 Máx</td>
+            <td style="color:#595959;text-align:center;">5.0/0.5 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">% Transmittance at 440nm/550nm</td>
+            <td style="color:#595959;text-align:center;">85/95 Máx</td>
+            <td style="color:#595959;text-align:center;">85/95 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">CAS Number</td>
+            <td style="color:#595959;text-align:center;">67701-03-5</td>
+            <td style="color:#595959;text-align:center;">67701-03-5</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;"><b style="color:#595959;">Fatty Acid Composition in %</b></td>
+            <td style="color:#595959;text-align:center;"></td>
+            <td style="color:#595959;text-align:center;"></td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">C12</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+            <td style="color:#595959;text-align:center;">1 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">C14</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+            <td style="color:#595959;text-align:center;">2 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">C16</td>
+            <td style="color:#595959;text-align:center;">50-56</td>
+            <td style="color:#595959;text-align:center;">42-50</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">C18</td>
+            <td style="color:#595959;text-align:center;">44-50</td>
+            <td style="color:#595959;text-align:center;">50-55</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">C18:1</td>
+            <td style="color:#595959;text-align:center;"></td>
+            <td style="color:#595959;text-align:center;">1 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Others</td>
+            <td style="color:#595959;text-align:center;"></td>
+            <td style="color:#595959;text-align:center;">NR</td>
+        </tr>
+    </tbody>
+</table>
+
+
+<h5 class="Tipografia--general Cuerpo--General" style="background-color:#1F3864;color:white;padding:15px;margin-top:50px;">Oleic Acid</h5>
+5
+<table border="1" style="margin-top:50px;">
+    <thead>
+        <tr>
+            <th style="color:#1F3864;">Characteristics</th>
+            <th style="color:#1F3864;text-align:center;">OLS 70</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="color:#595959;">Fatty Acid Type</td>
+            <td style="color:#595959;text-align:center;">Single Destillate</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Moisture Value (%KF)</td>
+            <td style="color:#595959;text-align:center;">0.3 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">TITRE (C)</td>
+            <td style="color:#595959;text-align:center;">9 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Iodine Value</td>
+            <td style="color:#595959;text-align:center;">90 Mín</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Acid Value</td>
+            <td style="color:#595959;text-align:center;">195-205</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Saponification Value</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Color, Lovibond</td>
+            <td style="color:#595959;text-align:center;">10/1 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">% Transmittance at 440nm/550nm</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">CAS Number</td>
+            <td style="color:#595959;text-align:center;">67701-08-0</td>
+        </tr>
+        <tr>
+            <td><b style="color:#595959;">Fatty Acid Composition in %</b></td>
+            <td style="color:#595959;text-align:center;"></td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">C12</td>
+            <td style="color:#595959;text-align:center;">2 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">C14</td>
+            <td style="color:#595959;text-align:center;">2 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">C16</td>
+            <td style="color:#595959;text-align:center;">7 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">C18</td>
+            <td style="color:#595959;text-align:center;">2 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">C18:1</td>
+            <td style="color:#595959;text-align:center;">75 Mín</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">C18:2</td>
+            <td style="color:#595959;text-align:center;">14 Máx</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">C18:3</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">C20</td>
+            <td style="color:#595959;text-align:center;">NR</td>
+        </tr>
+        <tr>
+            <td style="color:#595959;">Others</td>
+            <td style="color:#595959;text-align:center;">1.5 Máx</td>
+        </tr>
+    </tbody>
+</table>  -->
+
 
         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px"><b>Funciones & Industrias</b></h2>
 
@@ -812,15 +2047,9 @@
           </ol>
         </ol>
 
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;"><b>Chemical
-            Broker</b> ofrece
-          productos de alta
-          calidad con especificaciones consistentes, que se pueden utilizar en una variedad de aplicaciones. Ofrecemos
-          opciones RSPO Mass Balance y Certificaciones y estándares para satisfacer su aplicación y necesidades
-          regionales. Las necesidades pueden ser ligeramente diferentes en todo el mundo para cumplir con las
-          regulaciones locales y las demandas de los clientes. </p>
+       
 
-        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Portafolio de Productos:</b></h2>
+        <!-- <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Portafolio de Productos:</b></h2>
 
         <table class="display" id="" name="" style="width:100%;border:none;float:left;">
           <tr class="Tipografia--general General--Cuerpo"
@@ -1028,7 +2257,7 @@
               </ol>
             </td>
           </tr>
-        </table>
+        </table> -->
 
         <!-- <table>
           <thead>

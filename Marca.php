@@ -225,12 +225,17 @@
           <ul id="dropdown3" class="dropdown-content" style="width:300px !important;">
                  <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Ingredientes Químicos</a>
           </li>
-          <li><a href="Product_List.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a>
+          
 <li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
 </ul>
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!" data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a></li>
           <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Servicios.php"><b>Servicios</b></a></li>
-          <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Cumplimiento.php"><b>Cumplimiento </b></a></li>
+       <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i class="material-icons right">arrow_drop_down</i></b></a>
+<ul id="dropdown4" class="dropdown-content" tabindex="0">
+<li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Cumplimiento</a></li>
+<li tabindex="0"><a href="Marco_Regulatorio.php" class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
+  <li tabindex="0"><a href="Certificaciones.php" class="Tipografia--general letranegro Subtitulos">Certificaciones</a></li>
+</ul></li>
           <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Contact.php"><b>Contacto </b></a></li>
         </ul>
       </div>
@@ -434,7 +439,7 @@
         </div>
         <div class="col s12 m12 l12 xl6 center-align" style="margin-top:50px">
           <h6><b style="color:#262137;border-bottom:1.5px solid #b12729;font-size:18px">Slogan</b></h6>
-          <p style="font-size:18px">Es la frase que acompaña la marca y que intenta trasladar al cliente el valor que tiene el producto</p><br/><img class="sloganedwar" src="img/Captura.png" alt="" style="margin-top:50px"/>
+          <p style="font-size:18px">Es la frase que acompaña la marca y que intenta trasladar al cliente el valor que tiene el producto</p><br/><img class="sloganedwar" src="img/Captura.png" alt="" style="margin-top:0px"/>
         </div>
       </div>
     </div>

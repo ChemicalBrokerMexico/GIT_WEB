@@ -328,7 +328,7 @@
         <ul id="dropdown3" class="dropdown-content">
                     <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Ingredientes Químicos</a>
           </li>
-          <li><a href="Product_List.php" class="Tipografia--general letranegro Subtitulos">Lista de Productos</a>
+          
 <li><a href="Catalogos_Productos" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
           </li>
         </ul>
@@ -337,8 +337,12 @@
         <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" <li><a
               class="elemennav-secun Tipografia--general letranegro Subtitulos"
               href="Servicios.php"><b>Servicios</b></a></li>
-        <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
-            href="Cumplimiento.php"><b>Cumplimiento </b></a></li>
+<li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i class="material-icons right">arrow_drop_down</i></b></a>
+<ul id="dropdown4" class="dropdown-content" tabindex="0">
+<li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Cumplimiento</a></li>
+<li tabindex="0"><a href="Marco_Regulatorio.php" class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
+  <li tabindex="0"><a href="Certificaciones.php" class="Tipografia--general letranegro Subtitulos">Certificaciones</a></li>
+</ul></li>
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Contact.php"><b>Contacto
             </b></a></li>
       </ul>
@@ -610,7 +614,7 @@
 
           <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;"><b>Lista de Productos:</b></h2>
         
-          <table>
+          <table style="width:150%;">
 
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;width:150px;border-bottom: none;">
@@ -629,7 +633,7 @@
               class="Tipografia--general letranegro General--Cuerpo">
               CO-1270 Lauryl / Myristyl Alcohol (Dedonacol / Tetradecanol)
             </td>
-            <td style="text-align:center;font-size:15px !important;"></td>
+           
           </tr>
 
 
@@ -640,9 +644,7 @@
               class="Tipografia--general letranegro General--Cuerpo">
               CO-1650 Cetostearyl Alcohol (Hexadecanol / Octadecanol)
             </td>
-            <td style="font-size:15px !important;">
-              <ol style="margin-left:60px;">
-            </td>
+           
           </tr>
 
           <tr class="Tipografia--general General--Cuerpo"
@@ -701,8 +703,8 @@
           </tr>
 
           <tr class="Tipografia--general General--Cuerpo"
-            style="text-align:center;padding:10px;width:150px;border-bottom: none;">
-            <td style="text-align:center;font-size:18px !important;float:left;border-bottom: none;margin-top:20px;"
+            style="text-align:center;padding:10px;border-bottom: none;">
+            <td style="font-size:18px !important;float:left;border-bottom: none;margin-top:20px;"
               class="Tipografia--general letranegro General--Cuerpo">
               CO-1899  Stearyl Alcohol (Octadecanol)
             </td>
