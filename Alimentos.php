@@ -241,7 +241,7 @@ recaptchaResponse.value = token;
           <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Servicios.php"><b>Servicios</b></a></li>
        <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i class="material-icons right">arrow_drop_down</i></b></a>
 <ul id="dropdown4" class="dropdown-content" tabindex="0">
-<li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Cumplimiento</a></li>
+<li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Sistema de Gestión Integral</a></li>
 <li tabindex="0"><a href="Marco_Regulatorio.php" class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
   <li tabindex="0"><a href="Certificaciones.php" class="Tipografia--general letranegro Subtitulos">Certificaciones</a></li>
 </ul></li>
@@ -307,7 +307,7 @@ recaptchaResponse.value = token;
                     <td class="border-hidden"><a class="letranegro border-hidden" href="Servicios.php">Servicios</a></td>
                   </tr>
                   <tr>
-                    <td class="border--hidden"><a class="letranegro border--hidden" href="Cumplimiento.php">Cumplimiento</a></td>
+                    <td class="border--hidden"><a class="letranegro border--hidden" href="Cumplimiento.php">Sistema de Gestión Integral</a></td>
                   </tr>
                   <tr>
                     <td class="border--hidden"><a class="letranegro" href="Contact.php" style="border:hidden">Contacto</a></td>
@@ -332,7 +332,7 @@ recaptchaResponse.value = token;
             <p class="color--blanco">Servicios</p></a></li>
         <div class="divider"></div>
         <li> <a class="color--blanco" href="Cumplimiento.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
-            <p style="color:white !important;">Cumplimiento </p></a></li>
+            <p style="color:white !important;">Sistema de Gestión Integral </p></a></li>
         <div class="divider"></div>
         <li> <a class="color--blanco" href="Contact.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
             <p class="color--blanco">Contact</p></a></li>
@@ -386,7 +386,7 @@ recaptchaResponse.value = token;
                     <td class="fondo--color--corporativo border--hidden"> <a class="border--hidden color--blanco" href="Servicios.php">Servicios  </a></td>
                   </tr>
                   <tr> 
-                    <td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="Cumplimiento.php">Cumplimiento </a></td>
+                    <td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="Cumplimiento.php">Sistema de Gestión Integral </a></td>
                   </tr>
                   <tr> 
                     <td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="Contact.php">Contacto    </a></td>
@@ -401,10 +401,13 @@ recaptchaResponse.value = token;
     <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li> <img src="img/CB_FOOD_080223.jpg" alt="" style="height:400px;"/>
-            <div class="caption center-align"><br/><br/><br/><br/>
-              <h3 class="primertitulo"><b class="boldbanner">Chemical Broker</b><br/></h3><b class="segundotitulo" style="font-size:26px">Alimentos </b>
+        <div class="caption center-align" style="z-index:3;position:relative;"><br/><br/><br/><br/>
+              <h3 class="primertitulo"><b class="boldbanner">Chemical Broker</b><br/></h3><b class="segundotitulo" style="font-size:26px;color:white">Alimentos </b>
             </div>
+          <li>   <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
+                  <source class="mercadosimagen" src="VIDEO/NUTRICION_HUMANA.mp4" type="video/mp4">
+                </video> 
+         
           </li>
         </ul>
       </div>

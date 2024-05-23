@@ -7,6 +7,7 @@
     <title>Chemical Broker | Alcohol Isopropilico Grado Industrial del Fabricante Lyondell Basell</title>
     <meta name="description"
         content="Chemical Broker distribuye mundialmente Glicerina de la mas alta Pureza y Calidad para las formulaciones de nuestros clientes.">
+        <link rel="canonical" href="https://chemicalbroker.mx/BHA.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -419,7 +420,7 @@
                             href="Servicios.php"><b>Servicios</b></a></li>
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i class="material-icons right">arrow_drop_down</i></b></a>
 <ul id="dropdown4" class="dropdown-content" tabindex="0">
-<li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Cumplimiento</a></li>
+<li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Sistema de Gestión Integral</a></li>
 <li tabindex="0"><a href="Marco_Regulatorio.php" class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
   <li tabindex="0"><a href="Certificaciones.php" class="Tipografia--general letranegro Subtitulos">Certificaciones</a></li>
 </ul></li>
@@ -516,7 +517,7 @@
                                 </tr>
                                 <tr>
                                     <td style="border:hidden"><a href="Cumplimiento.php"
-                                            style="color:black !important;border:hidden">Cumplimiento</a></td>
+                                            style="color:black !important;border:hidden">Sistema de Gestión Integral</a></td>
                                 </tr>
                                 <tr>
                                     <td style="border:hidden"><a href="Contact.php"
@@ -551,7 +552,7 @@
         <div class="divider"></div>
         <li> <a href="Cumplimiento.php" style="color:white !important"><i class="small material-icons right"
                     style="color:white !important;margin-top:0px !important;">chevron_right</i>
-                <p style="color:white !important;">Cumplimiento </p>
+                <p style="color:white !important;">Sistema de Gestión Integral </p>
             </a></li>
         <div class="divider"></div>
         <li> <a href="Contact.php" style="color:white !important"><i class="small material-icons right"
@@ -624,7 +625,7 @@
                                 </tr>
                                 <tr>
                                     <td style="border:hidden;background-color:#262137"><a href="Cumplimiento.php"
-                                            style="color:white !important;border:hidden">Cumplimiento </a></td>
+                                            style="color:white !important;border:hidden">Sistema de Gestión Integral </a></td>
                                 </tr>
                                 <tr>
                                     <td style="border:hidden;background-color:#262137"><a href="Contact.php"

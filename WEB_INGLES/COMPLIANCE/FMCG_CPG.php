@@ -157,7 +157,7 @@
                     <ul> 
                       <p style="color:white;"><b>Compañia</b></p>
                       <hr class="hr">
-                      <ul> <a class="arrowblue" href="index.php">Nosotros<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue" href="Historia_Hechos.php">Historia y Hechos &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue" href="Marca.php">Marca &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue" href="Valores.php">Valores &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue" href="Premisas.php">Premisas &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue" href="Servicio_Total.php">Servicio Total &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
+                      <ul> <a class="arrowblue" href="index.php">Nosotros<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue" href="Historia_Hechos.php">Historia y Hechos &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue" href="Marca.php">Marca &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue" href="values.php">Valores &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue" href="Premisas.php">Premisas &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue" href="Servicio_Total.php">Servicio Total &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
                     </ul>
                   </section>
                 </div>
@@ -264,7 +264,7 @@
                     <td style="border:hidden"><a href="Marca.php" style="color:black !important;border:hidden">Marca</a></td>
                   </tr>
                   <tr>
-                    <td style="border:hidden"><a href="Valores.php" style="color:black !important;border:hidden">Valores</a></td>
+                    <td style="border:hidden"><a href="values.php" style="color:black !important;border:hidden">Valores</a></td>
                   </tr>
                   <tr>
                     <td style="border:hidden"><a href="Premisas.php" style="color:black !important;border:hidden">Premisas</a></td>

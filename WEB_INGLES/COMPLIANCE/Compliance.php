@@ -159,7 +159,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <ul> 
 <p class="color--blanco"><b class="Tipografia--general Titulos">Compañia</b></p>
 <hr class="hr">
-<ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Nosotros <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Valores.php">Valores <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp;<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
+<ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Nosotros <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="values.php">Valores <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp;<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
 </ul>
 </section>
 </div>
@@ -235,7 +235,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <li tabindex="0"><a href="../COMPLIANCE/Marco_Regulatorio.php" class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
   <li tabindex="0"><a href="../COMPLIANCE/Certificaciones.php" class="Tipografia--general letranegro Subtitulos">Certificaciones</a></li>
 </ul></li>
-<li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Contact.php"><b>Contacto </b></a></li>
+<li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="../CONTACT/Contact.php"><b>Contacto </b></a></li>
 </ul>
 </div>
 <div> 
@@ -307,20 +307,20 @@ gtag('config', 'G-SGJQ8FDDJ6');
 </li>
 </ul>
 <ul class="sidenav fondo--color--corporativo" id="mobile-demo"> 
-<li> <a class="color--blanco" href="Mercados.php"> <i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
+<li> <a class="color--blanco" href="../MARKETS/Mercados.php"> <i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
 <p class="color--blanco">Mercados</p></a>
 <div class="divider"></div>
 </li>
-<li> <a class="color--blanco" href="Productos_news.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
+<li> <a class="color--blanco" href="../PRODUCTS/Productos_news.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
 <p class="color--blanco">Productos </p></a>
 <div class="divider"> </div>
-</li><li> <a class="color--blanco" href="Servicios.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
+</li><li> <a class="color--blanco" href="../SERVICES/Servicios.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
 <p class="color--blanco">Servicios</p></a></li>
 <div class="divider"></div>
-<li> <a class="color--blanco" href="Cumplimiento.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
+<li> <a class="color--blanco" href="../COMPLIANCE/Cumplimiento.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
 <p style="color:white !important;">Cumplimiento </p></a></li>
 <div class="divider"></div>
-<li> <a class="color--blanco" href="Contact.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
+<li> <a class="color--blanco" href="../CONTACT/Contact.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
 <p class="color--blanco">Contact</p></a></li>
 <div class="divider"></div>
 <li> <a class="sidenav-trigger color--blanco" href="#" data-target="mobile-search"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">search</i>

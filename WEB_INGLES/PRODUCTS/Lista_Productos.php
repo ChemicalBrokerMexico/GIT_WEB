@@ -156,7 +156,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
                     <ul> 
                       <p class="color--blanco"><b class="Tipografia--general Titulos">Compañia</b></p>
                       <hr class="hr">
-                      <ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Nosotros <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Valores.php">Valores &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
+                      <ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Nosotros <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="values.php">Valores &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
                     </ul>
                   </section>
                 </div>
@@ -233,7 +233,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <li tabindex="0"><a href="../COMPLIANCE/Marco_Regulatorio.php" class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
   <li tabindex="0"><a href="../COMPLIANCE/Certificaciones.php" class="Tipografia--general letranegro Subtitulos">Certificaciones</a></li>
 </ul></li>
-          <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Contact.php"><b>Contacto </b></a></li>
+          <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="../CONTACT/Contact.php"><b>Contacto </b></a></li>
         </ul>
       </div>
       <div> 
@@ -281,7 +281,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
                     <td style="border:hidden"><a href="Marca.php" style="color:black !important;border:hidden">Marca</a></td>
                   </tr>
                   <tr>
-                    <td style="border:hidden"><a href="Valores.php" style="color:black !important;border:hidden">Valores</a></td>
+                    <td style="border:hidden"><a href="values.php" style="color:black !important;border:hidden">Valores</a></td>
                   </tr>
                   <tr>
                     <td style="border:hidden"><a href="Premisas.php" style="color:black !important;border:hidden">Premisas</a></td>
@@ -360,7 +360,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
                     <td  class="fondo--color--corporativo" style="border:hidden;"><a href="Marca.php"></a></td>
                   </tr>
                   <tr> 
-                    <td  class="fondo--color--corporativo" style="border:hidden;"><a href="Valores.php" class="color--blanco" style="border:hidden">Valores </a></td>
+                    <td  class="fondo--color--corporativo" style="border:hidden;"><a href="values.php" class="color--blanco" style="border:hidden">Valores </a></td>
                   </tr>
                   <tr> 
                     <td  class="fondo--color--corporativo" style="border:hidden;"><a href="Premisas.php" class="color--blanco" style="border:hidden">Premisas    </a></td>

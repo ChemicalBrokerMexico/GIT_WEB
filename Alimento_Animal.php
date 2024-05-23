@@ -242,7 +242,7 @@ recaptchaResponse.value = token;
           <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Servicios.php"><b>Servicios</b></a></li>
        <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i class="material-icons right">arrow_drop_down</i></b></a>
 <ul id="dropdown4" class="dropdown-content" tabindex="0">
-<li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Cumplimiento</a></li>
+<li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Sistema de Gestión Integral</a></li>
 <li tabindex="0"><a href="Marco_Regulatorio.php" class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
   <li tabindex="0"><a href="Certificaciones.php" class="Tipografia--general letranegro Subtitulos">Certificaciones</a></li>
 </ul></li>
@@ -405,10 +405,12 @@ recaptchaResponse.value = token;
     <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li> <img src="img/CB_ALIMENTO_ANIMAL_090223.jpg" alt=""   style="height:800px;margin-top:-200px;"/>
-            <div class="caption center-align"><br/><br/><br/><br/>
-              <h3 class="primertitulo"><b class="boldbanner">Chemical Broker</b><br/></h3><b class="segundotitulo" style="font-size: 26px;">Alimento & Nutricion Animal</b>
+        <div class="caption center-align" style="z-index:3;position:relative;"><br/><br/><br/><br/>
+              <h3 class="primertitulo"><b class="boldbanner">Chemical Broker</b><br/></h3><b class="segundotitulo" style="font-size:26px;color:white">Nutricion Animal</b>
             </div>
+          <li><video width="100%" style="border-radius:10px;margin-top:-600px;" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
+                  <source class="mercadosimagen" src="VIDEO/ALIMENTO_ANIMAL.mp4" type="video/mp4">
+                </video> 
           </li>
         </ul>
       </div>

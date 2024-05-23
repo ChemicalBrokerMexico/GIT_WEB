@@ -272,7 +272,7 @@
                                                 <i class="fas fa-long-arrow-alt-right desaparece"
                                                     id="aparece"></i></a><br><a
                                                 class="arrowblue Tipografia--general Subtitulos"
-                                                href="Valores.php">Valores <i
+                                                href="values.php">Valores <i
                                                     class="fas fa-long-arrow-alt-right desaparece"
                                                     id="aparece"></i></a><br><a
                                                 class="arrowblue Tipografia--general Subtitulos"

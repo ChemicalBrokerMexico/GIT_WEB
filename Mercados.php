@@ -231,7 +231,7 @@
           <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Servicios.php"><b>Servicios</b></a></li>
        <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i class="material-icons right">arrow_drop_down</i></b></a>
 <ul id="dropdown4" class="dropdown-content" tabindex="0">
-<li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Cumplimiento</a></li>
+<li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Sistema de Gestión Integral</a></li>
 <li tabindex="0"><a href="Marco_Regulatorio.php" class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
   <li tabindex="0"><a href="Certificaciones.php" class="Tipografia--general letranegro Subtitulos">Certificaciones</a></li>
 </ul></li>
@@ -297,7 +297,7 @@
                     <td class="border-hidden"><a class="letranegro border-hidden" href="Servicios.php">Servicios</a></td>
                   </tr>
                   <tr>
-                    <td class="border--hidden"><a class="letranegro border--hidden" href="Cumplimiento.php">Cumplimiento</a></td>
+                    <td class="border--hidden"><a class="letranegro border--hidden" href="Cumplimiento.php">Sistema de Gestión Integral</a></td>
                   </tr>
                   <tr>
                     <td class="border--hidden"><a class="letranegro" href="Contact.php" style="border:hidden">Contacto</a></td>
@@ -322,7 +322,7 @@
             <p class="color--blanco">Servicios</p></a></li>
         <div class="divider"></div>
         <li> <a class="color--blanco" href="Cumplimiento.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
-            <p style="color:white !important;">Cumplimiento </p></a></li>
+            <p style="color:white !important;">Sistema de Gestión Integral </p></a></li>
         <div class="divider"></div>
         <li> <a class="color--blanco" href="Contact.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
             <p class="color--blanco">Contact</p></a></li>
@@ -376,7 +376,7 @@
                     <td class="fondo--color--corporativo border--hidden"> <a class="border--hidden color--blanco" href="Servicios.php">Servicios</a></td>
                   </tr>
                   <tr> 
-                    <td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="Cumplimiento.php">Cumplimiento </a></td>
+                    <td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="Cumplimiento.php">Sistema de Gestión Integral </a></td>
                   </tr>
                   <tr> 
                     <td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="Contact.php">Contacto    </a></td>
@@ -438,14 +438,14 @@
 
                 </div>
                 <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
-                  <source class="mercadosimagen" src="../GIT_WEB/VIDEO/Farma.mp4" type="video/mp4">
+                  <source class="mercadosimagen" src="VIDEO/Farma.mp4" type="video/mp4">
                 </video> 
                 <!-- <img class="mercadosimagen" src="img/FARMACEUTICA_CB.jpg" alt="" style="border-radius:10px">  -->
               </div></a></div>
 
 
                   
-          <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Proximamente.php" style="cursor:pointer;">
+          <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Veterinaria.php" style="cursor:pointer;">
               <div class="contenedor">
                 <div class="transfo" id="overlayveteri" style="border-radius:10px"></div>
                 <div class="centrado_sub" style="position:absolute;z-index:2">
@@ -456,7 +456,7 @@
                   </h2>
                 </div>
                 <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
-                  <source class="mercadosimagen" src="../GIT_WEB/VIDEO/Veterinaria.mp4" type="video/mp4">
+                  <source class="mercadosimagen" src="VIDEO/Veterinaria.mp4" type="video/mp4">
                 </video> 
                 <!-- <img class="mercadosimagen" src="img/CB_VETERINARIA_070621.jpg" alt="" style="border-radius:10px">  -->
               </div></a></div>
@@ -473,7 +473,7 @@
                   </h2>
                 </div>
                 <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
-                  <source class="mercadosimagen" src="../GIT_WEB/VIDEO/NUTRICION_HUMANA.mp4" type="video/mp4">
+                  <source class="mercadosimagen" src="VIDEO/NUTRICION_HUMANA.mp4" type="video/mp4">
                 </video> 
                 <!-- <img class="mercadosimagen" src="img/CB_FOOD_080223.jpg" alt="" style="border-radius:10px"> -->
               </div></a></div>
@@ -491,11 +491,11 @@
                   </h2>
                 </div>
                 <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
-                  <source class="mercadosimagen" src="../GIT_WEB/VIDEO/ALIMENTO_ANIMAL.mp4" type="video/mp4">
+                  <source class="mercadosimagen" src="VIDEO/ALIMENTO_ANIMAL.mp4" type="video/mp4">
                 </video> 
                 <!-- <img class="mercadosimagen" src="img/CB_ALIMENTO_ANIMAL_090223.jpg" alt="" style="border-radius:10px"> -->
               </div></a></div>
-          <div class="col s12 m12 l6 xl6 mercados zoom columna3"><a href="Proximamente.php" style="cursor:pointer;">
+          <div class="col s12 m12 l6 xl6 mercados zoom columna3"><a href="Agroquimicos.php" style="cursor:pointer;">
               <div class="contenedor">
                 <div class="transfo" id="overlayagro" style="border-radius:10px"></div>
                 <div class="centrado_sub " style="position:absolute;z-index:2">
@@ -506,7 +506,7 @@
                   </h2>
                 </div>
                 <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
-                  <source class="mercadosimagen" src="../GIT_WEB/VIDEO/AGRICULTURA.mp4" type="video/mp4">
+                  <source class="mercadosimagen" src="VIDEO/AGRICULTURA.mp4" type="video/mp4">
                 </video> 
 
                 <!-- <img class="mercadosimagen" src="img/AGRICULTURE_310122.jpeg" alt="" style="border-radius:10px"> -->
@@ -522,7 +522,7 @@
                   </h2>
                 </div>
                 <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
-                  <source class="mercadosimagen" src="../GIT_WEB/VIDEO/COSMETICOS.mp4" type="video/mp4">
+                  <source class="mercadosimagen" src="VIDEO/COSMETICOS.mp4" type="video/mp4">
                 </video> 
                 <!-- <img class="mercadosimagen" src="img/CB_COSMETICS_090223.jpg" alt="" style="border-radius:10px"> -->
               </div></a></div>
@@ -537,7 +537,7 @@
                   </h2>
                 </div>
                 <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
-                  <source class="mercadosimagen" src="../GIT_WEB/VIDEO/DETERGENTES.mp4" type="video/mp4">
+                  <source class="mercadosimagen" src="VIDEO/DETERGENTES.mp4" type="video/mp4">
                 </video> 
                 <!-- <img class="mercadosimagen" src="img/CB_DETERGENCIA.jpg" alt="" style="border-radius:10px"> -->
               </div></a></div>
@@ -552,7 +552,7 @@
                   </h2>
                 </div>
                 <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
-                  <source class="mercadosimagen" src="../GIT_WEB/VIDEO/QUIMICO.mp4" type="video/mp4">
+                  <source class="mercadosimagen" src="VIDEO/QUIMICO.mp4" type="video/mp4">
                 </video> 
                 <!-- <img class="mercadosimagen" src="img/CB_QUIMICA.jpg" alt="" style="border-radius:10px"> -->
               </div></a></div>

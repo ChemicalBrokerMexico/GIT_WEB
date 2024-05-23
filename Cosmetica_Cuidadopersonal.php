@@ -375,7 +375,7 @@
                     <li><a href="Product_List.php" class="Tipografia--general letranegro Subtitulos">Lista de
                             Productos</a></li>
                 </ul>
-                <li><a href="Catalogos_Productos" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
+               
                 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger"
                         data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a>
                 </li>
@@ -384,7 +384,7 @@
                             href="Servicios.php"><b>Servicios</b></a></li>
                             <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i class="material-icons right">arrow_drop_down</i></b></a>
 <ul id="dropdown4" class="dropdown-content" tabindex="0">
-<li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Cumplimiento</a></li>
+<li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Sistema de Gestión Integral</a></li>
 <li tabindex="0"><a href="Marco_Regulatorio.php" class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
   <li tabindex="0"><a href="Certificaciones.php" class="Tipografia--general letranegro Subtitulos">Certificaciones</a></li>
 </ul></li>
@@ -475,7 +475,7 @@
                                 </tr>
                                 <tr>
                                     <td class="border--hidden"><a class="letranegro border--hidden"
-                                            href="Cumplimiento.php">Cumplimiento</a></td>
+                                            href="Cumplimiento.php">Sistema de Gestión Integral</a></td>
                                 </tr>
                                 <tr>
                                     <td class="border--hidden"><a class="letranegro" href="Contact.php"
@@ -510,7 +510,7 @@
         <div class="divider"></div>
         <li> <a class="color--blanco" href="Cumplimiento.php"><i class="small material-icons right color--blanco"
                     style="margin-top:0px !important;">chevron_right</i>
-                <p style="color:white !important;">Cumplimiento </p>
+                <p style="color:white !important;">Sistema de Gestión Integral </p>
             </a></li>
         <div class="divider"></div>
         <li> <a class="color--blanco" href="Contact.php"><i class="small material-icons right color--blanco"
@@ -585,7 +585,7 @@
                                 </tr>
                                 <tr>
                                     <td class="fondo--color--corporativo border--hidden"><a
-                                            class="border--hidden color--blanco" href="Cumplimiento.php">Cumplimiento
+                                            class="border--hidden color--blanco" href="Cumplimiento.php">Sistema de Gestión Integral
                                         </a></td>
                                 </tr>
                                 <tr>
@@ -600,16 +600,18 @@
         </div>
     </ul>
     <div class="container-fluid">
-        <div class="slider slider-prueba" style="margin-top:0px">
-            <ul class="slides slides-pruea">
-                <li> <img src="img/CB_COSMETICS_090223.jpg" alt="" style="height:1000px;" />
-                    <div class="caption center-align"><br /><br /><br /><br />
-                        <h3 class="primertitulo"><b class="boldbanner">Chemical Broker</b><br /></h3><b
-                            class="segundotitulo" style="font-size:26px">Cosmetica & Cuidado Personal </b>
-                    </div>
-                </li>
-            </ul>
-        </div>
+      <div class="slider slider-prueba" style="margin-top:0px">
+        <ul class="slides slides-pruea">
+        <div class="caption center-align" style="z-index:3;position:relative;"><br/><br/><br/><br/>
+              <h3 class="primertitulo"><b class="boldbanner">Chemical Broker</b><br/></h3><b class="segundotitulo" style="font-size:26px;color:white">Cosmetica & Cuidado Personal </b>
+            </div>
+          <li>   <video width="100%" style="border-radius:10px;margin-top: -386px;" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
+                  <source class="mercadosimagen" src="VIDEO/COSMETICOS.mp4" type="video/mp4">
+                </video> 
+         
+          </li>
+        </ul>
+      </div>
     </div>
     <div class="container">
         <div class="row">
@@ -625,19 +627,46 @@
         </div>
     </div>
 
+    <div class="container">
+        <div class="row">
+            <div class="col s12 m12 l12 xl12">
+                <p class="Tipografia--general letranegro General--Cuerpo">La industria cosmética y del cuidado personal es un sector amplio y dinámico que abarca una variedad de productos diseñados para mejorar la apariencia, la higiene y el bienestar personal. Esta industria se centra en la fabricación y comercialización de productos como cosméticos, productos para el cuidado de la piel, el cabello, el cuerpo, fragancias, artículos de cuidado dental, entre otros.</p>
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Segmentos y Productos Principales</b></h2>
+                <ol style="margin-top:30px;">
+                    <li class="Elementos--Listas">Cosméticos: Incluye maquillaje como bases, sombras de ojos, labiales, esmaltes de uñas </li>
+                    <br>
+                    <li class="Elementos--Listas">Cuidado de la piel: Productos como cremas hidratantes, limpiadores faciales, protectores solares, tratamiento de envejecimeinto, etc.</li>
+                    <br>
+                    <li class="Elementos--Listas">Cuidado de cabello: Champus, acondicionadores, tintes para cabello, productos de estilizado, tratamientos capilares, etc.</li>
+                    <br>
+                    <li class="Elementos--Listas">Cuidado corporal: Geles de ducha, Lociones corporales, Desodorantes, Exfoliantes, etc.</li>
+                    <br>
+                    <li class="Elementos--Listas">Fragancias: Perfumes, Colonias y otros productos aromáticos.</li>
+                    <br>
+                    <li class="Elementos--Listas">Cuidado Dental: Pasta dental, Enjuagues bucales, Cepillos de dientes, etc.</li>
+                </ol>
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Funciones de los Cosméticos</b></h2>
+                <p class="Tipografia--general letranegro General--Cuerpo">Cada cosmético tiene su función. Algunas de estas funciones son: </p>
+                <ol style="margin-top:30px;">
+                    <li class="Elementos--Listas">Higiene: Ayudan a mantener el buen estado de la piel y el principio y el principio activo principal suele ser el detergente (Champus, Tonicos, Geles o espumas limpiadoras).</li>
+                    <br>
+                    <li class="Elementos--Listas">Protección: En este caso se busca resguardar la piel de aquellos agentes ambientales o químicos que puedan dañarla (protectores labiales, protectores solares).</li>
+                    <br>
+                    <li class="Elementos--Listas">Corrección: Se trata de productos destinados a corregir o aminorar imperfecciones de la piel donde los principios activos variaran en función de cada caso (antiarrugas, antiacné, antiseborreicos).</li>
+                    <br>
+                    <li class="Elementos--Listas">Decorativos: La función de los cosméticos decorativos es embellecer el cuerpo tratando de ocultar imperfecciones. El principal activo suele ser el pigmento (maquillajes, lápices de ojos y labios, esmaltes de uñas).</li>
+                    <br>
+                    <li class="Elementos--Listas">Perfumar: Aquí es donde encontramos aquellos productos que añaden aroma al cuerpo (desodorantes, antitranspirantes, perfumes, aguas perfumadas).</li>
+                    <br>
+                    <li class="Elementos--Listas">Conservantes: La principal función de los conservantes es prolongar su vida útil. Los cosméticos contienen agua e ingredientes vegetales, lo que favorece el crecimiento de microorganismos. </li>
+                </ol>
+            </div>
+        </div>
+    </div>
 
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
-                <p style="color:#3a2351;" class="Tipografia--General Elementos--Listas colornegro General--Cuerpo">La
-                    Industria Cosmética y del Cuidado Personal es una de las industrias más
-                    importantes para el ser humano, tiene un valor aproximado de 650,000 mil millones de dólares, debido
-                    a la estrecha relación que mantiene con la salud y la apariencia física, el verse bien es vivir
-                    bien,</p>
-
-                <h5 class="Tipografia--General Elementos--Listas center-align"
-                    style="color:#3a2351;font-size:30px;margin-top:50px;">Tu Cuidado es Nuestra Prioridad</h5>
-
                 <div class="col s12 m12 l6 xl6 mercados zoom" style="cursor:pointer;margin-top:50px;"><a href="Proximamente.php"
                         >
                         <div class="contenedor">
@@ -670,115 +699,8 @@
                     </a></div>
 
             </div>
-            <div class="col s12 m12 l6 xl6" style="margin-top:80px;">
-                <a href="Productos_news.php" class="btn" style="background-color:#000020;width:50%">Productos</a>
-            </div>
-            <div class="col s12 m12 l6 xl6" style="margin-top:50px;">
-                <div class="col s12 m12 l6 xl6">
-                    <span><i class="medium material-icons  right">assessment</i> 70% de las Compras de cosmeticos son via
-                        digital</span>
-                </div>
-                <div class="col s12 m12 l6 xl6">
-                    <span><i class="medium material-icons  right">attach_money</i>En 2021 la industria cosmetica vendio 51 millones de
-                        dolares</span>
-                </div>
-                <div class="col s12 m12 l6 xl6" style="margin-top:50px;">
-                    <span><i class="medium material-icons  right">people</i>La industria cosmetica genera 250 mil
-                        empleos</span>
-                </div>
-                <div class="col s12 m12 l6 xl6" style="margin-top:50px;">
-                    <span><i class="medium material-icons  right">location_on</i>México ocupa el 3° lugar en produccion
-                        de cosmeticos</span>
-                </div>
-            </div>
-            <div class="col s12 m12 l12 xl12" style="margin-top:50px;">
-                <h5 class="Tipografia--general letranegro Titulos"> <b>Productos </b></h5>
-            </div>
-            <div class="col s12 m12 l6 xl6">
-                <a href="Glycerins.php">
-                    <p class="Tipografia--general letranegro General--Cuerpo arrowblue">Glicerinas &nbsp<i
-                            class="fas fa-long-arrow-alt-right"></i></p>
-                </a>
-                <hr />
-            </div>
-            <div class="col s12 m12 l6 xl6"> <a href="Glycols.php">
-                    <p class="Tipografia--general letranegro General--Cuerpo arrowblue">Glicoles &nbsp <i
-                            class="fas fa-long-arrow-alt-right"></i></p>
-                </a>
-                <hr />
-            </div>
-            <div class="col s12 m12 l12 xl12" style="margin-top:50px;">
-                <h5 class="Tipografia--general letranegro Titulos" style="text-transform:none;"><b>Descargas</b></h5>
-            </div>
-            <div class="col s12 m12 l6 xl6">
-                <div class="card" style="border-radius:5px">
-                    <div class="card-content" style="color:black"><span
-                            class="card-title Tipografia--general letranegro General--Cuerpo"></span><a
-                            class="arroblue Tipografia--general Botones letranegro"
-                            href="PDF/CATALOGUES/CB_PRODUCT-PORTFOLIO_GLYCERINES_PETER-CREMER_V1.pdf"
-                            download="download" style="margin-top:30px;"> <b
-                                style="border-bottom:2px solid green">CB_PRODUCT-PORTFOLIO_GLYCERINES_PETER-CREMER.pdf</b></a>
-                        <p>PDF</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col s12 m12 l12 xl12 center-align"><a class="btn" href="Proximamente.php"
-                    style="background-color:#262137;text-transform: none;">Descargas</a></div>
-        </div>
+      
     </div>
-
-    <div class="container" style="border:1px solid black;margin-top:50px;border-radius:15px">
-    <form action="envio_correo">
-        <div class="row">
-            <div class="col s12 m12 l12 xl12">
-                <div class="col s12 m12 l12 xl12">
-                    <h5 class="Tipografia--general letranegro Titulos"></h5><b>Contacto</b>
-                    <p>Para mas informacion, por favor contacta con un experto.</p>
-                </div>
-                <form action="envio_correo_Mercados.php" method="POST">
-                    <div class="col s12 m12 l1 xl1">
-                        <p style="text-align:center"><b>De</b></p>
-                    </div>
-                    <div class="col s12 m12 l11 xl11">
-                        <input type="text" id="name" name="name" />
-                        <label for="name"><b>Nombre</b></label>
-                    </div>
-                    <div class="col s12 m12 l1 xl1">
-                        <p style="text-align:center"><b>Para</b></p>
-                    </div>
-                    <div class="col s12 m12 l11 xl11">
-                        <input type="text" id="email" name="email" />
-                        <label for="email"><b>E-mail</b></label>
-                    </div>
-                    <div class="col s12 m12 l1 xl1">
-                        <p style="text-align:center"><b>Asunto</b></p>
-                    </div>
-                    <div class="col s12 m12 l11 xl11">
-                        <input type="text" id="asunto" name="asunto" />
-                        <label for="asunto"><b>Asunto</b></label>
-                    </div>
-                    <div class="col s12 m12 l1 xl1">
-                        <p style="text-align:center"><b>Requerimiento</b></p>
-                    </div>
-                    <div class="col s12 m11 xl11">
-                        <input type="text" id="Solicitud" name="Solicitud" />
-                        <label for="Solicitud"></label><br />
-                    </div>
-                    <div class="col s12 m12 l12 xl12">
-                        <input type="text" id="spamkill" name="spamkill" style="display: none;">
-                    </div>
-            </div>
-        </div>
-    </div>
-    <div class="container">
-        <div class="row">
-            <div class="col s12 m12 l12 xl12 center-align" style="margin-top:30px;"><button class="btn waves-light"
-                    type="submit" name="Enviarinformacion" id="Enviarinformacion" class="Tipografia--general Botones"
-                    style="background-color: #262137;text-transform: none;"><span id="envioinformacion">Enviar
-                        Información</span></button>
-            </div>
-            </form>
-        </div>
     </div>
 
 

@@ -397,7 +397,7 @@
                                 class="material-icons right">arrow_drop_down</i></b></a>
                     <ul id="dropdown4" class="dropdown-content" tabindex="0">
                         <li tabindex="0"><a href="Cumplimiento.php"
-                                class="Tipografia--general letranegro Subtitulos">SGI</a></li>
+                                class="Tipografia--general letranegro Subtitulos">Sistema de Gestión Integral</a></li>
                         <li tabindex="0"><a href="Marco_Regulatorio.php"
                                 class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
                         <li tabindex="0"><a href="Certificaciones.php"
@@ -488,7 +488,7 @@
                                     </tr>
                                     <tr role="row" class="odd">
                                         <td class="border--hidden sorting_1"><a class="letranegro border--hidden"
-                                                href="Cumplimiento.php">Cumplimiento</a></td>
+                                                href="Cumplimiento.php">Sistema de Gestión Integral</a></td>
                                     </tr>
                                     <tr role="row" class="even">
                                         <td class="border--hidden sorting_1"><a class="letranegro border--hidden"
@@ -559,7 +559,7 @@
         <div class="divider"></div>
         <li> <a class="color--blanco" href="Cumplimiento.php"><i class="small material-icons right color--blanco"
                     style="margin-top:0px !important;">chevron_right</i>
-                <p style="color:white !important;">Cumplimiento </p>
+                <p style="color:white !important;">Sistema de Gestión Integral </p>
             </a></li>
         <div class="divider"></div>
         <li> <a class="color--blanco" href="Contact.php"><i class="small material-icons right color--blanco"
@@ -635,7 +635,7 @@
                                     <tr role="row" class="even">
                                         <td class="fondo--color--corporativo border--hidden sorting_1"><a
                                                 class="border--hidden color--blanco"
-                                                href="Cumplimiento.php">Cumplimiento </a></td>
+                                                href="Cumplimiento.php">Sistema de Gestión Integral </a></td>
                                     </tr>
                                     <tr role="row" class="odd">
                                         <td class="fondo--color--corporativo border--hidden sorting_1"><a

@@ -240,7 +240,7 @@
                           class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br /><a
                         class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca <i
                           class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br /><a
-                        class="arrowblue Tipografia--general Subtitulos" href="Valores.php">Valores <i
+                        class="arrowblue Tipografia--general Subtitulos" href="values.php">Valores <i
                           class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br /><a
                         class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas <i
                           class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br /><a
@@ -378,7 +378,7 @@
                   <td class="border--hidden"><a class="letranegro border--hidden" href="Marca.php">Marca</a></td>
                 </tr>
                 <tr>
-                  <td class="border--hidden"><a class="letranegro border--hidden" href="Valores.php">Valores</a></td>
+                  <td class="border--hidden"><a class="letranegro border--hidden" href="values.php">Valores</a></td>
                 </tr>
                 <tr>
                   <td class="border--hidden"><a class="letranegro border--hidden" href="Premisas.php">Premisas</a></td>
@@ -392,10 +392,10 @@
                       Conducta</a></td>
                 </tr>
                 <tr>
-                  <td class="border-hidden"><a class="letranegro border--hidden" href="Mercados.php">Mercados</a></td>
+                  <td class="border-hidden"><a class="letranegro border--hidden" href="../MARKETS/Mercados.php">Mercados</a></td>
                 </tr>
                 <tr>
-                  <td class="border-hidden"><a class="letranegro border-hidden" href="Servicios.php">Servicios</a></td>
+                  <td class="border-hidden"><a class="letranegro border-hidden" href="../SERVICES/Servicios.php">Servicios</a></td>
                 </tr>
                 <tr>
                   <td class="border--hidden"><a class="letranegro border--hidden"
@@ -480,7 +480,7 @@
                 </tr>
                 <tr>
                   <td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco"
-                      href="Valores.php">Valores </a></td>
+                      href="values.php">Valores </a></td>
                 </tr>
                 <tr>
                   <td class="fondo--color--corporativo border--hidden"><a class="color--blanco border--hidden"

@@ -257,7 +257,7 @@
                         &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a
                         class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca &nbsp<i
                           class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a
-                        class="arrowblue Tipografia--general Subtitulos" href="Valores.php">Valores &nbsp<i
+                        class="arrowblue Tipografia--general Subtitulos" href="values.php">Valores &nbsp<i
                           class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a
                         class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas &nbsp<i
                           class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a
@@ -415,7 +415,7 @@
                   </td>
                 </tr>
                 <tr>
-                  <td style="border:hidden"><a href="Valores.php"
+                  <td style="border:hidden"><a href="values.php"
                       style="color:black !important;border:hidden">Valores</a></td>
                 </tr>
                 <tr>
@@ -521,7 +521,7 @@
                   <td style="border:hidden;background-color:#262137;"><a href="Marca.php"></a></td>
                 </tr>
                 <tr>
-                  <td style="border:hidden;background-color:#262137"><a href="Valores.php"
+                  <td style="border:hidden;background-color:#262137"><a href="values.php"
                       style="color:white !important;border:hidden">Valores </a></td>
                 </tr>
                 <tr>

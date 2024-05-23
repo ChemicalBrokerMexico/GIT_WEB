@@ -336,7 +336,7 @@ recaptchaResponse.value = token;
             <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Servicios.php"><b>Servicios</b></a></li>
             <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i class="material-icons right">arrow_drop_down</i></b></a>
 <ul id="dropdown4" class="dropdown-content" tabindex="0">
-<li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Cumplimiento</a></li>
+<li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Sistema de Gestión Integral</a></li>
 <li tabindex="0"><a href="Marco_Regulatorio.php" class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
   <li tabindex="0"><a href="Certificaciones.php" class="Tipografia--general letranegro Subtitulos">Certificaciones</a></li>
 </ul></li>
@@ -420,7 +420,7 @@ recaptchaResponse.value = token;
                 </tr>
                 <tr>
                   <td class="border--hidden"><a class="letranegro border--hidden"
-                      href="Cumplimiento.php">Cumplimiento</a></td>
+                      href="Cumplimiento.php">Sistema de Gestión Integral</a></td>
                 </tr>
                 <tr>
                   <td class="border--hidden"><a class="letranegro" href="Contact.php" style="border:hidden">Contacto</a>
@@ -454,7 +454,7 @@ recaptchaResponse.value = token;
     <div class="divider"></div>
     <li> <a class="color--blanco" href="Cumplimiento.php"><i class="small material-icons right color--blanco"
           style="margin-top:0px !important;">chevron_right</i>
-        <p style="color:white !important;">Cumplimiento </p>
+        <p style="color:white !important;">Sistema de Gestión Integral </p>
       </a></li>
     <div class="divider"></div>
     <li> <a class="color--blanco" href="Contact.php"><i class="small material-icons right color--blanco"
@@ -525,7 +525,7 @@ recaptchaResponse.value = token;
                 </tr>
                 <tr>
                   <td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco"
-                      href="Cumplimiento.php">Cumplimiento </a></td>
+                      href="Cumplimiento.php">Sistema de Gestión Integral </a></td>
                 </tr>
                 <tr>
                   <td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco"
@@ -539,18 +539,20 @@ recaptchaResponse.value = token;
     </div>
   </ul>
   <div class="container-fluid">
-    <div class="slider slider-prueba" style="margin-top:0px">
-      <ul class="slides slides-pruea">
-        <li> <img class="bannerimage" src="img/FARMACEUTICA_CB.jpg" alt="" />
+      <div class="slider slider-prueba" style="margin-top:0px">
+        <ul class="slides slides-pruea">
+        <div class="caption center-align" style="z-index:3;position:relative;"><br><br><br><br>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker</b><br></h1><b class="segundotitulo" style="font-size:26px;color:white;">Farmaceutica </b>
+            </div>
+          <li> 
         
-          <div class="caption center-align"><br /><br /><br /><br />
-            <h1 class="primertitulo"><b class="boldbanner">Chemical Broker</b><br /></h1><b class="segundotitulo"
-              style="font-size:26px">Farmacéutica </b>
-          </div>
-        </li>
-      </ul>
-    </div>
-  </div>
+             <video width="100%" style="border-radius:10px;margin-top:-200px;" autoplay="autoplay" loop="loop" muted defaultMuted >
+                  <source class="mercadosimagen" src="../GIT_WEB/VIDEO/Farma.mp4" type="video/mp4">
+                </video> 
+           
+          </li>
+        </ul>
+      </div>
 
 
   <div class="container">

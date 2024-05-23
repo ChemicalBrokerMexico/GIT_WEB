@@ -339,7 +339,7 @@
               href="Servicios.php"><b>Servicios</b></a></li>
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i class="material-icons right">arrow_drop_down</i></b></a>
 <ul id="dropdown4" class="dropdown-content" tabindex="0">
-<li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Cumplimiento</a></li>
+<li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Sistema de Gestión Integral</a></li>
 <li tabindex="0"><a href="Marco_Regulatorio.php" class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
   <li tabindex="0"><a href="Certificaciones.php" class="Tipografia--general letranegro Subtitulos">Certificaciones</a></li>
 </ul></li>
@@ -432,7 +432,7 @@
                 </tr>
                 <tr>
                   <td style="border:hidden"><a href="Cumplimiento.php"
-                      style="color:black !important;border:hidden">Cumplimiento</a></td>
+                      style="color:black !important;border:hidden">Sistema de Gestión Integral</a></td>
                 </tr>
                 <tr>
                   <td style="border:hidden"><a href="Contact.php"

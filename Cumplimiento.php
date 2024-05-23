@@ -21,7 +21,7 @@
 <script type="text/javscript" src="js/materialize.min.js?n=1"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
     <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.js"></script>
-    <script type="text/javascript" charset="utf8" src="js/Buscador.js?n=1"></script>l
+    <script type="text/javascript" charset="utf8" src="js/Buscador.js?n=1"></script>
 
 <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/responsive/2.2.6/js/dataTables.responsive.js"></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
@@ -231,7 +231,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Servicios.php"><b>Servicios</b></a></li>
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i class="material-icons right">arrow_drop_down</i></b></a>
 <ul id="dropdown4" class="dropdown-content" tabindex="0">
-<li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Cumplimiento</a></li>
+<li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Sistema de Gestión Integral</a></li>
 <li tabindex="0"><a href="Marco_Regulatorio.php" class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
   <li tabindex="0"><a href="Certificaciones.php" class="Tipografia--general letranegro Subtitulos">Certificaciones</a></li>
 </ul></li>
@@ -283,7 +283,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 </tr><tr role="row" class="even">
 <td class="border--hidden sorting_1"><a class="letranegro" href="Contact.php" style="border:hidden">Contacto</a></td>
 </tr><tr role="row" class="odd">
-<td class="border--hidden sorting_1"><a class="letranegro border--hidden" href="Cumplimiento.php">Cumplimiento</a></td>
+<td class="border--hidden sorting_1"><a class="letranegro border--hidden" href="Cumplimiento.php">Sistema de Gestión Integral</a></td>
 </tr><tr role="row" class="even">
 <td class="border--hidden sorting_1"><a class="letranegro border--hidden" href="Historia_Hechos.php">Historia y Hechos</a></td>
 </tr><tr role="row" class="odd">
@@ -318,7 +318,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <p class="color--blanco">Servicios</p></a></li>
 <div class="divider"></div>
 <li> <a class="color--blanco" href="Cumplimiento.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
-<p style="color:white !important;">Cumplimiento </p></a></li>
+<p style="color:white !important;">Sistema de Gestión Integral </p></a></li>
 <div class="divider"></div>
 <li> <a class="color--blanco" href="Contact.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
 <p class="color--blanco">Contact</p></a></li>
@@ -360,7 +360,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 </tr><tr role="row" class="odd"> 
 <td class="fondo--color--corporativo border--hidden sorting_1"><a class="border--hidden color--blanco" href="Contact.php">Contacto    </a></td>
 </tr><tr role="row" class="even"> 
-<td class="fondo--color--corporativo border--hidden sorting_1"><a class="border--hidden color--blanco" href="Cumplimiento.php">Cumplimiento </a></td>
+<td class="fondo--color--corporativo border--hidden sorting_1"><a class="border--hidden color--blanco" href="Cumplimiento.php">Sistema de Gestión Integral </a></td>
 </tr><tr role="row" class="odd"> 
 <td class="fondo--color--corporativo border--hidden sorting_1"><a class="border--hidden color--blanco" href="Historia_Hechos.php">Historia y Hechos</a></td>
 </tr><tr role="row" class="even"> 
@@ -385,7 +385,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <ul class="slides slides-pruea" style="height: 400px;">
 <li class="active" style="opacity: 1;"><img class="mercadosimagen" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="height: 450px; margin-top: 0px; background-image: url(&quot;img/probar2.jpg&quot;);">
 <div class="caption center-align" style="opacity: 1; transform: translateX(0px) translateY(0px);"><br><br><br><br>
-<h3 class="primertitulo"><b class="boldbanner">Chemical Broker</b><br></h3><b class="seguntitulo" style="font-size:26px">Cumplimiento </b>
+<h3 class="primertitulo"><b class="boldbanner">Chemical Broker</b><br></h3><b class="seguntitulo" style="font-size:26px">Sistema de Gestión Integral </b>
 </div>
 </li>
 </ul>

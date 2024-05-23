@@ -229,7 +229,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
           <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Servicios.php"><b>Servicios</b></a></li>
        <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i class="material-icons right">arrow_drop_down</i></b></a>
 <ul id="dropdown4" class="dropdown-content" tabindex="0">
-<li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Cumplimiento</a></li>
+<li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Sistema de Gestión Integral</a></li>
 <li tabindex="0"><a href="Marco_Regulatorio.php" class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
   <li tabindex="0"><a href="Certificaciones.php" class="Tipografia--general letranegro Subtitulos">Certificaciones</a></li>
 </ul></li>
@@ -299,7 +299,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
                     <td style="border:hidden"><a href="Servicios.php" style="color:black !important;border:hidden">Servicios</a></td>
                   </tr>
                   <tr>
-                    <td style="border:hidden"><a href="Cumplimiento.php" style="color:black !important;border:hidden">Cumplimiento</a></td>
+                    <td style="border:hidden"><a href="Cumplimiento.php" style="color:black !important;border:hidden">Sistema de Gestión Integral</a></td>
                   </tr>
                   <tr>
                     <td style="border:hidden"><a href="Contact.php" style="color:black !important;border:hidden">Contacto</a></td>
@@ -324,7 +324,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
             <p class="color--blanco">Servicios</p></a></li>
         <div class="divider"></div>
         <li> <a href="Cumplimiento.php" class="color--blanco"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
-            <p class="color--blanco">Cumplimiento </p></a></li>
+            <p class="color--blanco">Sistema de Gestión Integral </p></a></li>
         <div class="divider"></div>
         <li> <a href="Contact.php" class="color--blanco"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
             <p class="color--blanco">Contact</p></a></li>
@@ -378,7 +378,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
                     <td  class="fondo--color--corporativo" style="border:hidden;"> <a href="Servicios.php" class="color--blanco" style="border:hidden">Servicios  </a></td>
                   </tr>
                   <tr> 
-                    <td  class="fondo--color--corporativo" style="border:hidden;"><a href="Cumplimiento.php" class="color--blanco" style="border:hidden">Cumplimiento </a></td>
+                    <td  class="fondo--color--corporativo" style="border:hidden;"><a href="Cumplimiento.php" class="color--blanco" style="border:hidden">Sistema de Gestión Integral </a></td>
                   </tr>
                   <tr> 
                     <td  class="fondo--color--corporativo" style="border:hidden;"><a href="Contact.php" class="color--blanco" style="border:hidden">Contacto    </a></td>

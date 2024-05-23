@@ -172,7 +172,7 @@
 <ul> 
 <p class="color--blanco"><b class="Tipografia--general Titulos">Compañia</b></p>
 <hr class="hr">
-<ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Nosotros <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Valores.php">Valores <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
+<ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Nosotros <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="values.php">Valores <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
 </ul>
 </section>
 </div>
@@ -238,7 +238,7 @@
 <li tabindex="0"><a href="../COMPLIANCE/Marco_Regulatorio.php" class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
   <li tabindex="0"><a href="../COMPLIANCE/Certificaciones.php" class="Tipografia--general letranegro Subtitulos">Certificaciones</a></li>
 </ul></li>
-<li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Contact.php"><b>Contacto </b></a></li>
+<li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="../CONTACT/Contact.php"><b>Contacto </b></a></li>
 </ul>
 </div>
 <div> 
@@ -277,28 +277,28 @@
 <td class="border--hidden"><a class="letranegro border--hidden" href="index.php" style="border-bottom:1px solid white;">Nosotros</a></td>
 </tr>
 <tr>
-<td class="border--hidden"><a class="letranegro border--hidden" href="Historia_Hechos.php" >Historia y Hechos</a></td>
+<td class="border--hidden"><a class="letranegro border--hidden" href="../General/Historia_Hechos.php" >Historia y Hechos</a></td>
 </tr>
 <tr>
-<td class="border--hidden"><a class="letranegro border--hidden" href="Marca.php" >Marca</a></td>
+<td class="border--hidden"><a class="letranegro border--hidden" href="../GENERAL/Marca.php" >Marca</a></td>
 </tr>
 <tr>
-<td class="border--hidden"><a class="letranegro border--hidden" href="Valores.php" >Valores</a></td>
+<td class="border--hidden"><a class="letranegro border--hidden" href="../GENERALES/values.php" >Valores</a></td>
 </tr>
 <tr>
-<td class="border--hidden"><a class="letranegro border--hidden" href="Premisas.php" >Premisas</a></td>
+<td class="border--hidden"><a class="letranegro border--hidden" href="../GENERALES/Premisas.php" >Premisas</a></td>
 </tr>
 <tr>
-<td class="border--hidden"><a class="letranegro border--hidden" href="Servicio_Total.php" >Servicio Integral</a></td>
+<td class="border--hidden"><a class="letranegro border--hidden" href="../GENERALES/Servicio_Total.php" >Servicio Integral</a></td>
 </tr>
 <tr>
-<td class="border-hidden"><a class="letranegro border--hidden" href="Code_of_Conduct.php" >Codigo de Conducta</a></td>
+<td class="border-hidden"><a class="letranegro border--hidden" href="../POLITICS/Code_of_Conduct.php" >Codigo de Conducta</a></td>
 </tr>
 <tr>
-<td class="border-hidden"><a class="letranegro border--hidden" href="Mercados.php">Mercados</a></td>
+<td class="border-hidden"><a class="letranegro border--hidden" href="../MARKETS/Mercados.php">Mercados</a></td>
 </tr>
 <tr>
-<td class="border-hidden"><a class="letranegro border-hidden" href="Servicios.php">Servicios</a></td>
+<td class="border-hidden"><a class="letranegro border-hidden" href="../SERVICES/Servicios.php">Servicios</a></td>
 </tr>
 <tr>
 <td class="border--hidden"><a class="letranegro border--hidden" href="Cumplimiento.php">Cumplimiento</a></td>
@@ -315,7 +315,7 @@
 </li>
 </ul>
 <ul class="sidenav fondo--color--corporativo" id="mobile-demo"> 
-<li> <a class="color--blanco" href="Mercados.php"> <i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
+<li> <a class="color--blanco" href="../MARKETS/Mercados.php"> <i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
 <p class="color--blanco">Mercados</p></a>
 <div class="divider"></div>
 </li>
@@ -330,13 +330,13 @@
 </div>
 </ul>
 <div class="divider"> </div>
-<li> <a class="color--blanco" href="Servicios.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
+<li> <a class="color--blanco" href="../SERVICES/Servicios.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
 <p class="color--blanco">Servicios</p></a></li>
 <div class="divider"></div>
-<li> <a class="color--blanco" href="Cumplimiento.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
+<li> <a class="color--blanco" href="../COMPLIANCE/Cumplimiento.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
 <p style="color:white !important;">Cumplimiento </p></a></li>
 <div class="divider"></div>
-<li> <a class="color--blanco" href="Contact.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
+<li> <a class="color--blanco" href="../CONTACT/Contact.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
 <p class="color--blanco">Contact</p></a></li>
 <div class="divider"></div>
 <li> <a class="sidenav-trigger color--blanco" href="#" data-target="mobile-search"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">search</i>
@@ -361,37 +361,37 @@
 </thead>
 <tbody class="center-align">
 <tr> 
-<td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="index.php"  style="border-bottom:1px solid white;">Nosotros</a></td>
+<td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="../GENERAL/index.php"  style="border-bottom:1px solid white;">Nosotros</a></td>
 </tr>
 <tr> 
-<td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="Historia_Hechos.php" style="border-bottom:1px solid white;">Historia y Hechos</a></td>
+<td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="../GENERAL/Historia_Hechos.php" style="border-bottom:1px solid white;">Historia y Hechos</a></td>
 </tr>
 <tr> 
-<td class="fondo--color--corporativo border--hidden"><a href="Marca.php" style="border-bottom:1px solid white;"></a></td>
+<td class="fondo--color--corporativo border--hidden"><a href="../GENERAL/Marca.php" style="border-bottom:1px solid white;"></a></td>
 </tr>
 <tr> 
-<td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="Valores.php" style="border-bottom:1px solid white;">Valores </a></td>
+<td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="../GENERAL/values.php" style="border-bottom:1px solid white;">Valores </a></td>
 </tr>
 <tr> 
 <td class="fondo--color--corporativo border--hidden"><a class="color--blanco border--hidden" href="Premisas.php" style="border-bottom:1px solid white;">Premisas    </a></td>
 </tr>
 <tr> 
-<td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="Servicio_Total.php" style="border-bottom:1px solid white;">Servicio Integral </a></td>
+<td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="../GENERAL/Servicio_Total.php" style="border-bottom:1px solid white;">Servicio Integral </a></td>
 </tr>
 <tr> 
-<td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="Code_of_Conduct.php" style="border-bottom:1px solid white;">Codigo de Conducta </a></td>
+<td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="../POLITICS/Code_of_Conduct.php" style="border-bottom:1px solid white;">Codigo de Conducta </a></td>
 </tr>
 <tr> 
-<td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="Mercados.php" style="border-bottom:1px solid white;">Mercados </a></td>
+<td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="../MARKETS/Mercados.php" style="border-bottom:1px solid white;"></a></td>
 </tr>
 <tr> 
-<td class="fondo--color--corporativo border--hidden"> <a class="border--hidden color--blanco" href="Servicios.php" style="border-bottom:1px solid white;">Servicios</a></td>
+<td class="fondo--color--corporativo border--hidden"> <a class="border--hidden color--blanco" href="../SERVICES/Servicios.php" style="border-bottom:1px solid white;">Servicios</a></td>
 </tr>
 <tr> 
-<td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="Cumplimiento.php" style="border-bottom:1px solid white;">Cumplimiento </a></td>
+<td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="../Compliance/Cumplimiento.php" style="border-bottom:1px solid white;">Cumplimiento </a></td>
 </tr>
 <tr> 
-<td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="Contact.php" style="border-bottom:1px solid white;">Contacto    </a></td>
+<td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="../CONTACT/Contact.php" style="border-bottom:1px solid white;">Contacto    </a></td>
 </tr>
 </tbody>
 </table>

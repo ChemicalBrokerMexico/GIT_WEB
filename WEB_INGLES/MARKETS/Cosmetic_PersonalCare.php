@@ -279,7 +279,7 @@
                                                 <i class="fas fa-long-arrow-alt-right desaparece"
                                                     id="aparece"></i></a><br /><a
                                                 class="arrowblue Tipografia--general Subtitulos"
-                                                href="Valores.php">Valores <i
+                                                href="values.php">Valores <i
                                                     class="fas fa-long-arrow-alt-right desaparece"
                                                     id="aparece"></i></a><br /><a
                                                 class="arrowblue Tipografia--general Subtitulos"
@@ -451,7 +451,7 @@
                                 </tr>
                                 <tr>
                                     <td class="border--hidden"><a class="letranegro border--hidden"
-                                            href="Valores.php">Valores</a></td>
+                                            href="values.php">Valores</a></td>
                                 </tr>
                                 <tr>
                                     <td class="border--hidden"><a class="letranegro border--hidden"
@@ -558,7 +558,7 @@
                                 </tr>
                                 <tr>
                                     <td class="fondo--color--corporativo border--hidden"><a
-                                            class="border--hidden color--blanco" href="Valores.php">Valores </a></td>
+                                            class="border--hidden color--blanco" href="values.php">Valores </a></td>
                                 </tr>
                                 <tr>
                                     <td class="fondo--color--corporativo border--hidden"><a

@@ -162,7 +162,7 @@
                     <ul> 
                       <p class="color--blanco"><b class="Tipografia--general Titulos">Compañia</b></p>
                       <hr class="hr">
-                      <ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Nosotros <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Valores.php">Valores <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
+                      <ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Nosotros <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="values.php">Valores <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
                     </ul>
                   </section>
                 </div>
@@ -238,7 +238,7 @@
 <li tabindex="0"><a href="../COMPLIANCE/Marco_Regulatorio.php" class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
   <li tabindex="0"><a href="../COMPLIANCE/Certificaciones.php" class="Tipografia--general letranegro Subtitulos">Certificaciones</a></li>
 </ul></li>
-          <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Contact.php"><b>Contacto </b></a></li>
+          <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="../CONTACT/Contact.php"><b>Contacto </b></a></li>
         </ul>
       </div>
       <div> 
@@ -284,7 +284,7 @@
                     <td class="border--hidden"><a class="letranegro border--hidden" href="Marca.php">Marca</a></td>
                   </tr>
                   <tr>
-                    <td class="border--hidden"><a class="letranegro border--hidden" href="Valores.php">Valores</a></td>
+                    <td class="border--hidden"><a class="letranegro border--hidden" href="values.php">Valores</a></td>
                   </tr>
                   <tr>
                     <td class="border--hidden"><a class="letranegro border--hidden" href="Premisas.php">Premisas</a></td>
@@ -296,10 +296,10 @@
                     <td class="border-hidden"><a class="letranegro border--hidden" href="Code_of_Conduct.php">Codigo de Conducta</a></td>
                   </tr>
                   <tr>
-                    <td class="border-hidden"><a class="letranegro border--hidden" href="Mercados.php">Mercados</a></td>
+                    <td class="border-hidden"><a class="letranegro border--hidden" href="../MARKETS/Mercados.php">Mercados</a></td>
                   </tr>
                   <tr>
-                    <td class="border-hidden"><a class="letranegro border-hidden" href="Servicios.php">Servicios</a></td>
+                    <td class="border-hidden"><a class="letranegro border-hidden" href="../SERVICES/Servicios.php">Servicios</a></td>
                   </tr>
                   <tr>
                     <td class="border--hidden"><a class="letranegro border--hidden" href="Cumplimiento.php">Cumplimiento</a></td>
@@ -316,20 +316,20 @@
       </li>
     </ul>
     <ul class="sidenav fondo--color--corporativo" id="mobile-demo"> 
-      <li> <a class="color--blanco" href="Mercados.php"> <i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
+      <li> <a class="color--blanco" href="../MARKETS/Mercados.php"> <i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
           <p class="color--blanco">Mercados</p></a>
         <div class="divider"></div>
       </li>
-      <li> <a class="color--blanco" href="Productos_news.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
+      <li> <a class="color--blanco" href="../PRODUCTS/Productos_news.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
           <p class="color--blanco">Productos </p></a>
         <div class="divider"> </div>
-        <li> <a class="color--blanco" href="Servicios.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
+        <li> <a class="color--blanco" href="../SERVICES/Servicios.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
             <p class="color--blanco">Servicios</p></a></li>
         <div class="divider"></div>
-        <li> <a class="color--blanco" href="Cumplimiento.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
+        <li> <a class="color--blanco" href="../COMPLIANCE/Cumplimiento.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
             <p style="color:white !important;">Cumplimiento </p></a></li>
         <div class="divider"></div>
-        <li> <a class="color--blanco" href="Contact.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
+        <li> <a class="color--blanco" href="../CONTACT/Contact.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
             <p class="color--blanco">Contact</p></a></li>
         <div class="divider"></div>
         <li> <a class="sidenav-trigger color--blanco" href="#" data-target="mobile-search"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">search</i>
@@ -363,7 +363,7 @@
                     <td class="fondo--color--corporativo border--hidden"><a href="Marca.php"></a></td>
                   </tr>
                   <tr> 
-                    <td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="Valores.php">Valores </a></td>
+                    <td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="values.php">Valores </a></td>
                   </tr>
                   <tr> 
                     <td class="fondo--color--corporativo border--hidden"><a class="color--blanco border--hidden" href="Premisas.php">Premisas    </a></td>
@@ -405,23 +405,24 @@
       </div>
     </div>
     <div class="container">
-      <section style="margin-top:125px;width:230px;"><a class="breditem active" href="index.php" style="color:#262137 !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="breditem active" href="Historia_Hechos.php"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Historia & Hechos</b></a></section>
+      <section style="margin-top:125px;width:230px;"><a class="breditem active" href="index.php" style="color:#262137 !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="breditem active" href="Historia_Hechos.php"><b class="Tipografia--general letranegro Subtitulos breadcrumb">History and Facts</b></a></section>
     </div>
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-          <h2 style="margin-top:0px"> <b class="Tipografia--general Subtitulos" style="color:#262137;border-bottom:1.5px solid #b12729;">Hechos </b></h2>
-          <p class="Tipografia--general General--Cuerpo  letranegro" style="text-align:justify">Al entender los problemas y dificultades que viven diariamente las empresas enfocadas en la producción de&nbsp<b style="color:#262137">ingredientes químicos</b> y productos terminados alrededor del mundo, por la obtención de <b style="color:#262137">materias primas&nbsp</b>debido a un servicio inadecuado y poco profesional de proveedores, así como por desconocimiento en temas de<b style="color:#262137">&nbspnegociación, adquisición, importación, exportación, Servicios&nbsp</b>y coberturas de seguros, se crea la firma:
+          <h2 style="margin-top:0px"> <b class="Tipografia--general Subtitulos" style="color:#262137;border-bottom:1.5px solid #b12729;">Facts</b></h2>
+          <p class="Tipografia--general General--Cuerpo  letranegro" style="text-align:justify">By understanding the problems and difficulties that companies focused on production face daily&nbsp<b style="color:#262137">Chemical Ingredients</b> and finished products around the world, in obtaining <b style="color:#262137">raw materials&nbsp</b>due to inadequate and unprofessional service from suppliers, as well as lack of knowledge in<b style="color:#262137">&nbspnegotiation, acquisition, importation, exportation, services&nbsp</b>and insurance coverage, the firm is created:
           </p>
-          <p class="Tipografia--general General--Cuerpo letranegro" style="text-align:justify;margin-top:50px"><b style="color:#262137">Chemical Broker </b>, una compañía creada en el año <b style="color:#262137">2014</b>, con un enfoque de negocios claro y definido, descrito a continuación:
+          <p class="Tipografia--general General--Cuerpo letranegro" style="text-align:justify;margin-top:50px"><b style="color:#262137">Chemical Broker </b>company created in the year<b style="color:#262137">2014</b>, with a clear and defined business focus, described below:
           </p>
-          <p class="Tipografia--general General--Cuerpo letranegro" style="text-align:justify;margin-top:50px"><b style="color:#262137">Facilitar</b> . – Los procesos de compra y venta de productos químicos a nuestros socios de negocios, por medio de negociaciones robustas y de largo plazo con los principales fabricantes y proveedores en el mundo permitiendo crear una mayor rentabilidad para <b style="color:#000020">Chemical Broker</b> y nuestros socios de negocios.
+          <p class="Tipografia--general General--Cuerpo letranegro" style="text-align:justify;margin-top:50px"><b style="color:#262137">Facilitating</b> . – 
+The processes of buying and selling chemical products to our business partners, through robust and long-term negotiations with the main manufacturers and suppliers worldwide, allowing for greater profitability. <b style="color:#000020">Chemical Broker</b> and our business partners
           </p>
-          <p class="Tipografia--general General--Cuerpo letranegro" style="text-align:justify;margin-top:50px"><b class="Tipografia--general General--Cuerpo letranegro" style="color:#262137">Negociar y Proveer </b>. – Productos químicos y servicios como Servicios, Comercio Internacional (Importaciones y Exportaciones) y Coberturas de Seguros para nuestros socios de negocios.
+          <p class="Tipografia--general General--Cuerpo letranegro" style="text-align:justify;margin-top:50px"><b class="Tipografia--general General--Cuerpo letranegro" style="color:#262137">Negotiate and Provide</b>. – Chemical products and services such as Services, International Trade (Imports and Exports), and Insurance Coverage for our business partners.
           </p>
-          <p class="Tipografia--general General--Cuerpo letranegro" style="text-align:justify;margin-top:50px"><b class="Tipografia--general General--Cuerpo letranegro" style="color:#262137">Calidad Mundial </b>– Solo vendemos productos y servicios de la más alta calidad certificados en las normas de calidad más exigentes a nivel mundial.
+          <p class="Tipografia--general General--Cuerpo letranegro" style="text-align:justify;margin-top:50px"><b class="Tipografia--general General--Cuerpo letranegro" style="color:#262137">World-Class Quality</b>– We only sell products and services of the highest quality, certified to the most demanding quality standards worldwide.
           </p>
-          <p class="Tipografia--general General--Cuerpo letranegro" style="tetx-align:justify;margin-top:50px"><b class="Tipografia--general General--Cuerpo letranegro" style="color:#262137">Competitividad</b>. - al entender los problemas y dificultades de las empresas enfocadas en la fabricación de productos químicos y productos terminados, así como de las empresas enfocadas en la distribución de ingredientes químicos, ofrecemos un Servicio Total, el cual tiene como objetivo generar soluciones adecuadas a las necesidades de nuestros socios de negocios en tiempo y forma.
+          <p class="Tipografia--general General--Cuerpo letranegro" style="tetx-align:justify;margin-top:50px"><b class="Tipografia--general General--Cuerpo letranegro" style="color:#262137">Competitiveness</b>. - By understanding the problems and difficulties faced by companies focused on manufacturing chemical products and finished goods, as well as those focused on distributing chemical ingredients, we offer a Total Service, aimed at providing appropriate solutions to the needs of our business partners in a timely manner.
           </p>
         </div>
       </div>
@@ -431,31 +432,32 @@
         <li class="in-view wow animate__animated animate__bounceInRight">
           <div>
             <h3 style="color:black;margin-top:-10px;text-align:justify;padding-top:25px"><b>2014</b><br><br></h3>
-            <p class="Tipografia--general General--Cuerpo letranegro" style="color:black;margin-top:-10px;text-align:justify;">El 10 de Julio de 2014 se funda la firma <b>Chemical Broker</b> enfocada en la venta de ingredientes químicos para las Industrias de Farmacéutica, Alimentos y Nutrición Humana, Cosméticos y Cuidado Personal y la Industria Química general con la venta de Oleo químicos; Glicerinas, Alcoholes y Ácidos Grasos.</p>
+            <p class="Tipografia--general General--Cuerpo letranegro" style="color:black;margin-top:-10px;text-align:justify;">On July 10, 2014, the firm was founded.<b>Chemical Broker</b>focused on the sale of chemical ingredients for the Pharmaceutical, Food and Human Nutrition, Cosmetics and Personal Care industries, and the general Chemical Industry with the sale of Oleochemicals; Glycerines, Alcohols, and Fatty Acids.</p>
           </div>
         </li>
         <li class="in-view wow animate__animated animate__bounceInLeft">
           <div> 
             <h3 style="color:black !important;"><b>2015</b><br><br></h3>
-            <p class="Tipografia--general General--Cuerpo letranegro" style="color:black;margin-top:-10px;text-align:justify">Se abren nuevas oportunidades de negocio con fabricantes a nivel mundial para la venta de diferentes productos Grado Farmacéutico, USP, FCC y Grado Cosmético con un amplio portafolio de productos enfocado a las Divisiones Farmacéutica, Alimento y Nutrición Humana y Cosméticos y Cuidado Personal.</p>
+            <p class="Tipografia--general General--Cuerpo letranegro" style="color:black;margin-top:-10px;text-align:justify">
+New business opportunities are opened with manufacturers worldwide for the sale of different products Pharmaceutical Grade, USP, FCC, and Cosmetic Grade with a wide portfolio of products focused on the Pharmaceutical, Food and Human Nutrition, and Cosmetics and Personal Care divisions.</p>
           </div>
         </li>
         <li class="in-view wow animate__animated animate__bounceInRight">
           <div> 
             <h3 style="color:black;margin-top:-10px;text-align:justify;padding-top:25px"><b>2016</b><br><br></h3>
-            <p class="Tipografia--general General--Cuerpo letranegro" style="color: black;margin-top:-10px;text-align: justify;">Se amplía nuestro enfoque de negocios con la venta de Ingredientes Químicos para la División de Agroquímicos, con un portafolio de productos enfocado a atender a los fabricantes de Reguladores de Crecimiento, Pesticidas y Fertilizantes, así como a empresas comercializadoras de materias primas para la industria de Agroquímicos.</p>
+            <p class="Tipografia--general General--Cuerpo letranegro" style="color: black;margin-top:-10px;text-align: justify;">Our business focus is expanded with the sale of Chemical Ingredients for the Agrochemicals Division, with a product portfolio focused on serving manufacturers of Growth Regulators, Pesticides, and Fertilizers, as well as trading companies of raw materials for the Agrochemicals industry.</p>
           </div>
         </li>
         <li class="in-view wow animate__animated animate__bounceInLeft">
           <div>
             <h3 style="color:black !important"><b>2017</b><br><br></h3>
-            <p class="Tipografia--general General--Cuerpo letranegro" style="color: black;margin-top:-10px;text-align: justify;">En la última década la concientización sobre el cuidado de los animales de compañía, así como el tipo de alimentación de los animales para consumo humano ha crecido impulsando a las empresas a generar productos alimenticios de mejor calidad. Bajo las circunstancias del momento <b style="color:#000020">Chemical Broker</b> crea su división de Pet & Feed con ingredientes químicos de la más alta calidad, certificados en Buenas Prácticas de Manufactura Grado Alimentos y con un enfoque especializado en la Industria de Alimentación y Nutrición Animal. </p>
+            <p class="Tipografia--general General--Cuerpo letranegro" style="color: black;margin-top:-10px;text-align: justify;">In the last decade, awareness about the care of companion animals, as well as the type of food for human consumption animals, has grown, prompting companies to produce higher-quality food products. Given the current circumstances, Chemical Broker creates its Pet & Feed division with the highest quality chemical ingredients, certified in Good Manufacturing Practices Food Grade, and with a specialized focus on the Animal Feed and Nutrition Industry.</p>
           </div>
         </li>
         <li class="in-view wow animate__animated animate__bounceInRight">
           <div>
             <h3 style="color:black !important"><b>2018</b><br><br></h3>
-            <p class="Tipografia--general General--Cuerpo letranegro" style="color: black;margin-top:-10px;text-align: justify;">Durante el año 2018 <b style="color:#000020">Chemical Broker</b> considera importante desarrollar su propia Unidad de Negocios de Tecnologías de la Información, con el propósito de impulsar la era digital dentro de la organización, para facilitar sus servicios dentro y fuera de ella.</p>
+            <p class="Tipografia--general General--Cuerpo letranegro" style="color: black;margin-top:-10px;text-align: justify;">During the year 2018, Chemical Broker considers it important to develop its own Information Technology Business Unit, with the purpose of driving the digital age within the organization, to facilitate its services both internally and externally.</p>
           </div>
         </li><br><br>
       </ul>
@@ -463,7 +465,7 @@
     <footer class="altofooter">
       <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""></div><br><br>
       <div class="container-fluid center-align" style="margin-top:-50px">
-        <p class="Tipografia--general letranegro center-align Pie--Pagina">© 2014 C&E | Chemical Broker Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto |&nbsp</a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad </a></p>
+        <p class="Tipografia--general letranegro center-align Pie--Pagina">© 2014 C&E | Chemical Broker. All Rights Reserved. | <a href="Contact.php" style="color:black !important;font-size:16px">Contact |&nbsp</a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Privacy Policy</a></p>
       </div>
     </footer>
     <script type="text/javascript" src="js/main.js"></script>

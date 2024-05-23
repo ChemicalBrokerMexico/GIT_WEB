@@ -6,7 +6,7 @@
     <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
     <title>Chemical Broker | Nuestros Valores Organizacionales</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="Somos una organización que se rige por valores universales, aplicables en todo momento y lugar, sin importar raza, credo, posición económica o cualquier otra distinción con el objetivo de aportar excelencia a nuestro mundo.">
-    <link rel="canonical" href="https://chemicalbroker.mx/Valores.php">
+    <link rel="canonical" href="https://chemicalbroker.mx/values.php">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="../css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
     <link href="../css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">
@@ -158,7 +158,7 @@
                     <ul> 
                       <p class="color--blanco"><b class="Tipografia--general Titulos">Compañia</b></p>
                       <hr class="hr">
-                      <ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Nosotros <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Valores.php">Valores <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
+                      <ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Nosotros <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="values.php">Valores <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
                     </ul>
                   </section>
                 </div>
@@ -234,7 +234,7 @@
 <li tabindex="0"><a href="../COMPLIANCE/Marco_Regulatorio.php" class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
   <li tabindex="0"><a href="../COMPLIANCE/Certificaciones.php" class="Tipografia--general letranegro Subtitulos">Certificaciones</a></li>
 </ul></li>
-          <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Contact.php"><b>Contacto </b></a></li>
+          <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="../CONTACT/Contact.php"><b>Contacto </b></a></li>
         </ul>
       </div>
       <div> 
@@ -278,7 +278,7 @@
                     <td class="border--hidden"><a class="letranegro border--hidden" href="Marca.php">Marca</a></td>
                   </tr>
                   <tr>
-                    <td class="border--hidden"><a class="letranegro border--hidden" href="Valores.php">Valores</a></td>
+                    <td class="border--hidden"><a class="letranegro border--hidden" href="values.php">Valores</a></td>
                   </tr>
                   <tr>
                     <td class="border--hidden"><a class="letranegro border--hidden" href="Premisas.php">Premisas</a></td>
@@ -290,10 +290,10 @@
                     <td class="border-hidden"><a class="letranegro border--hidden" href="Code_of_Conduct.php">Codigo de Conducta</a></td>
                   </tr>
                   <tr>
-                    <td class="border-hidden"><a class="letranegro border--hidden" href="Mercados.php">Mercados</a></td>
+                    <td class="border-hidden"><a class="letranegro border--hidden" href="../MARKETS/Mercados.php">Mercados</a></td>
                   </tr>
                   <tr>
-                    <td class="border-hidden"><a class="letranegro border-hidden" href="Servicios.php">Servicios</a></td>
+                    <td class="border-hidden"><a class="letranegro border-hidden" href="../SERVICES/Servicios.php">Servicios</a></td>
                   </tr>
                   <tr>
                     <td class="border--hidden"><a class="letranegro border--hidden" href="Cumplimiento.php">Cumplimiento</a></td>
@@ -310,20 +310,20 @@
       </li>
     </ul>
     <ul class="sidenav fondo--color--corporativo" id="mobile-demo"> 
-      <li> <a class="color--blanco" href="Mercados.php"> <i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
+      <li> <a class="color--blanco" href="../MARKETS/Mercados.php"> <i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
           <p class="color--blanco">Mercados</p></a>
         <div class="divider"></div>
       </li>
-      <li> <a class="color--blanco" href="Productos_news.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
+      <li> <a class="color--blanco" href="../PRODUCTS/Productos_news.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
           <p class="color--blanco">Productos </p></a>
         <div class="divider"> </div>
-        <li> <a class="color--blanco" href="Servicios.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
+        <li> <a class="color--blanco" href="../SERVICES/Servicios.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
             <p class="color--blanco">Servicios</p></a></li>
         <div class="divider"></div>
-        <li> <a class="color--blanco" href="Cumplimiento.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
+        <li> <a class="color--blanco" href="../COMPLIANCE/Cumplimiento.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
             <p style="color:white !important;">Cumplimiento </p></a></li>
         <div class="divider"></div>
-        <li> <a class="color--blanco" href="Contact.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
+        <li> <a class="color--blanco" href="../CONTACT/Contact.php"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
             <p class="color--blanco">Contact</p></a></li>
         <div class="divider"></div>
         <li> <a class="sidenav-trigger color--blanco" href="#" data-target="mobile-search"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">search</i>
@@ -357,7 +357,7 @@
                     <td class="fondo--color--corporativo border--hidden"><a href="Marca.php"></a></td>
                   </tr>
                   <tr> 
-                    <td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="Valores.php">Valores </a></td>
+                    <td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="values.php">Valores </a></td>
                   </tr>
                   <tr> 
                     <td class="fondo--color--corporativo border--hidden"><a class="color--blanco border--hidden" href="Premisas.php">Premisas    </a></td>
@@ -390,9 +390,9 @@
     <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li><img src="img/VALUES_040222.jpg" style="height:450px;" alt="">
+          <li><img src="../img/VALUES_040222.jpg" style="height:450px;" alt="">
             <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker</b><br></h1><b class="segundotitulo" style="font-size:26px">Valores</b>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker</b><br></h1><b class="segundotitulo" style="font-size:26px">Values</b>
             </div>
           </li>
         </ul>
@@ -400,17 +400,17 @@
     </div>
     
     <div class="container">
-      <section style="margin-top:125px;width:150px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Inicio&nbsp</b><b> >&nbsp</b></a><a class="Tipografia--general letranegro Subtitulos" href="Valores.php" style="color:#262137 !important;"><b class="Tipografia--general letranegro Subtitulos breadcrumb"> Valores</b></a></section>
+      <section style="margin-top:125px;width:150px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Inicio&nbsp</b><b> >&nbsp</b></a><a class="Tipografia--general letranegro Subtitulos" href="values.php" style="color:#262137 !important;"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Values</b></a></section>
     </div>
     <div class="container" style="margin-top:20px">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
           <h2 class="Tipografia--general letranegro General--Cuerpo"><b class="Tipografia--general letranegro General--Cuerpo" style="color:#262137;border-bottom:1.5px solid #b12729">Como Regimos Nuestro Actuar</b></h2>
-          <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><b style="color:#262137;">Chemical Broker</b> es una organización regida por <b style="color: #262137">valores universales</b>, aplicables en todo momento y lugar, sin importar raza, credo, posición económica o cualquier otro tipo de distinción entre seres vivos.
+          <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><b style="color:#262137;">Chemical Broker</b>it is an organization governed by<b style="color: #262137">universal values </b>, Applicable at all times and in all places, regardless of race, creed, economic status, or any other type of distinction among living beings."
           </p>
-          <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px">Los valores universales en los que creemos fortalecen las relaciones con nuestro &nbsp<b>equipo de trabajo</b> y nuestros<b>&nbspsocios de negocios </b>y describen claramente en que dirección queremos llevar nuestra organización.
+          <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px">The universal values in which we believe strengthen the relationships with our &nbsp<b>work team</b>and our<b>&nbspbusiness partners</b>and clearly describe the direction in which we want to take our organization.
           </p>
-          <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px"><b style="color:#262137">Chemical Broker </b>define 4 valores como universales, los cuales rigen el actuar de nuestra organización
+          <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px"><b style="color:#262137">Chemical Broker </b>Define 4 values as universal, which govern the actions of our organization.
           </p>
         </div>
       </div>
@@ -443,24 +443,24 @@
         <div class="col s12 m12 l6 xl6">
         <div class="card" style="border-radius:15px;">
     <div class="card-image waves-effect waves-block waves-light">
-      <img class="activator" src="img/EXCELENCIA_CB.jpg">
+      <img class="activator" src="../img/EXCELENCIA_CB.jpg">
     </div>
     <div class="card-content">
       <span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Excelencia<i class="material-icons right">arrow_upward</i></b></span>
     </div>
     <div class="card-reveal">
       <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
-      <h2 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios </i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Definición</b></h2>
-          <p class="Tipografia--general letranegro General--Cuerpo">Superior calidad o bondad que hace digna de aprecio y estima una cosa o a una persona.</p>
-          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px"> <i class="tiny material-icons">arrow_forward_ios</i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Etimología</b></h2>
-          <p class="Tipografia--general letranegro General--Cuerpo">La palabra excelencia viene del latín, Excellentia-ae, de ex y cella una raíz indoeuropea *kel- en griego kelo que significa lugar oculto o escondido, bodega, de ahí derivo la castellana celda y en alemán keller (sótano) y zelle (celda), por el cambio de la pronunciación de c como k en el latin clásico (keller) y la c como ts en el eclesiastico (zelle). excellentia, significaría salir de lo oculto, significando también superioridad, grandeza, elevarse, enorgullecerse, De esta palabra, salieron marcas como, por ejemplo. El programa para computadoras Excel.</p>
-          <h2 class="Tipografia--general letranegro Subtitulos" style="margin-top:50px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Excelencia para Chemical Broker</b></h2>
-          <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">Maximizar los Estándares determinados por <b style="color:#000020">Chemical Broker</b> para cada proceso:</p>
+      <h2 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios </i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Definition</b></h2>
+          <p class="Tipografia--general letranegro General--Cuerpo">Superior quality or goodness that makes something or someone worthy of appreciation and esteem</p>
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px"> <i class="tiny material-icons">arrow_forward_ios</i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Etymology</b></h2>
+          <p class="Tipografia--general letranegro General--Cuerpo">The word "excellence" comes from Latin, "Excellentia-ae," from "ex" and "cella," an Indo-European root *kel- in Greek "kelo" which means hidden or concealed place, cellar. From there comes the Spanish "celda" and in German "keller" (basement) and "zelle" (cell), due to the change of the pronunciation of 'c' as 'k' in classical Latin (keller) and 'c' as 'ts' in ecclesiastical Latin (zelle). "Excellentia" would mean to come out of the hidden, also meaning superiority, greatness, to rise, to be proud. From this word, brands emerged such as, for example, the computer program Excel.</p>
+          <h2 class="Tipografia--general letranegro Subtitulos" style="margin-top:50px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Excellence for Chemical Broker</b></h2>
+          <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">Maximizing the standards set by<b style="color:#000020">Chemical Broker</b>for each process</p>
           <ol class="Tipografia--general letranegro General--Cuerpo"> 
-            <li style="font-size:16px">Estándar de <b>Calidad</b></li>
-            <li style="font-size:16px">Estándar de <b>Cantidad</b></li>
-            <li style="font-size:16px">Estándar de <b>Tiempo</b></li>
-            <li style="font-size:16px">Estándar de <b>Costo</b></li>
+            <li style="font-size:16px">Quality Standart</li>
+            <li style="font-size:16px">Cuantity Standar</b></li>
+            <li style="font-size:16px">Time Standard</b></li>
+            <li style="font-size:16px">Cost Standart</li>
           </ol>
     </div>
   </div>
@@ -469,20 +469,20 @@
         <div class="col s12 m12 l6 xl6">
         <div class="card" style="border-radius:15px;">
     <div class="card-image waves-effect waves-block waves-light">
-      <img class="activator" src="img/CB_GOOD_CUSTOMER_130722.jpeg">
+      <img class="activator" src="../img/CB_GOOD_CUSTOMER_130722.jpeg">
     </div>
     <div class="card-content">
-      <span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Servicio<i class="material-icons right">arrow_upward</i></b></span>
+      <span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Services<i class="material-icons right">arrow_upward</i></b></span>
     </div>
     <div class="card-reveal">
       <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
-      <h2 class="Tipografia--general letranegro General--Cuerpo"> <i class="tiny material-icons">arrow_forward_ios </i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Definición</b></h2>
-          <p class="Tipografia--general letranegro General--Cuerpo">Acción o conjunto de actividades destinadas a satisfacer una determinada necesidad de nuestros socios de negocios, brindando un producto inmaterial y personalizado.</p>
-          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"> <i class="tiny material-icons">arrow_forward_ios</i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Etimología</b></h2>
-          <p class="Tipografia--general letranegro General--Cuerpo"><ol><li style="list-style-type: disc;">Viene del latín servitium compuesto con: la raíz de servitum. Supino del verbo servire (atender, cuidar, servir, ser esclavo, adaptarse a otro o a otra cosa)</ol></li></p>
+      <h2 class="Tipografia--general letranegro General--Cuerpo"> <i class="tiny material-icons">arrow_forward_ios </i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Definition</b></h2>
+          <p class="Tipografia--general letranegro General--Cuerpo">Action or set of activities aimed at meeting a specific need of our business partners, providing an intangible and personalized product.</p>
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"> <i class="tiny material-icons">arrow_forward_ios</i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Etymology</b></h2>
+          <p class="Tipografia--general letranegro General--Cuerpo"><ol><li style="list-style-type: disc;">It comes from the Latin 'servitium' composed with: the root of 'servitum,' supine of the verb 'servire' (to attend, to care for, to serve, to be a slave, to adapt to another or to something else).</ol></li></p>
           <p class="Tipografia--general letranegro General--Cuerpo"><ol><li style="list-style-type: disc;">Este vocablo en su etimología procede del latín (servitium) que quiere decir servidumbre.</ol></li></p>
-          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Servicio para Chemical Broker</b></h2>
-          <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">Dedicamos nuestros esfuerzos a la <b>satisfacción total </b>de Nuestros Socios de Negocios.
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Service for Chemical Broker</b></h2>
+          <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">We dedicate our efforts to <b>We dedicate our efforts to total satisfaction.</b>We dedicate our efforts to total satisfaction of our business partners.
           </p>
     </div>
   </div>
@@ -492,17 +492,18 @@
         <div class="col s12 m12 l6 xl6">
         <div class="card" style="border-radius:15px;">
     <div class="card-image waves-effect waves-block waves-light">
-      <img class="activator" src="img/COMPROMISO_CB.jpg">
+      <img class="activator" src="../img/COMPROMISO_CB.jpg">
     </div>
     <div class="card-content">
-      <span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Compromiso<i class="material-icons right">arrow_upward</i></b></span>
+      <span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Commitment<i class="material-icons right">arrow_upward</i></b></span>
     </div>
     <div class="card-reveal">
       <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
-      <h2 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios </i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Definición </b></h2>
-          <p class="Tipografia--general letranegro General--Cuerpo">Acuerdo formal al que llegan dos o más partes tras hacer concesiones entre ellas</p>
-          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"> <i class="tiny material-icons">arrow_forward_ios </i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Etimología</b></h2>
-          <p class="Tipografia--general letranegro General--Cuerpo">Viene del latín compromissum (un acuerdo para cumplir con la adjudicación de un árbitro)</p>
+      <h2 class="Tipografia--general letranegro General--Cuerpo"><i class="tiny material-icons">arrow_forward_ios </i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Definition</b></h2>
+          <p class="Tipografia--general letranegro General--Cuerpo">Formal agreement reached by two or more parties after making concessions among them</p>
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"> <i class="tiny material-icons">arrow_forward_ios </i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Etymology</b></h2>
+          <p class="Tipografia--general letranegro General--Cuerpo">Viene del latín compromissum (un acuerdo para cumplir con la adjudica
+            ción de un árbitro)</p>
           <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Compromiso para Chemical Broker </b></h2>
           <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">Brindar a nuestros socios de negocios un <b>Servicio Integral </b>y exclusivo para su completa satisfacción.
           </p>
@@ -514,7 +515,7 @@
         <div class="col s12 m12 l6 xl6">
         <div class="card" style="border-radius:15px;">
     <div class="card-image waves-effect waves-block waves-light">
-      <img class="activator" src="img/ETICA_CB.jpg">
+      <img class="activator" src="../img/ETICA_CB.jpg">
     </div>
     <div class="card-content">
       <span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Etica Empresarial<i class="material-icons right">arrow_upward</i></b></span>
