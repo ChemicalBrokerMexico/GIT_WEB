@@ -371,9 +371,9 @@
                         href="Mercados.php"><b>Mercados</b></a></li>
                 <ul id="dropdown3" class="dropdown-content">
                     <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">
-                            Familias</a></li>
+                            Ingredientes Quimímicos</a></li>
                     <li><a href="Product_List.php" class="Tipografia--general letranegro Subtitulos">Lista de
-                            Productos</a></li>
+                            Catalogos</a></li>
                 </ul>
                
                 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger"
