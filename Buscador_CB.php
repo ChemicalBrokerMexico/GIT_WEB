@@ -4,9 +4,10 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Pectinas del fabricante Cargill</title>
-    <meta name="description" content="Chemical Broker brinda a sus socios de negocio Pectinas de la mas alta calidad a nivel mundial del fabricante Cargill con el objetivo de satisfacer sus necesidades">
-    <link rel="canonical" href="https://chemicalbroker.mx/Pectinas.php">
+    <title>Chemical Broker | Terbutilhidroquinona (TBHQ)</title>
+    <meta name="description"
+        content="Es un producto petroquímico sólido, ceroso y sintético con propiedades antioxidantes que lo hacen útil como aditivo conservador en alimentos,">
+    <link rel="canonical" href="https://chemicalbroker.mx/BHA.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -103,7 +104,7 @@
                                     información</a></p>
                             <div class="row">
                                 <div class="col s12 m12 l12 xl12" style="margin-top:16px"><a
-                                        class="modal-close Tipografia--general Botones" href="#!"
+                                        class="modal-close Tipografia--general Botones"
                                         style="color:white;background-color:#262137 !important;padding:10px;float:left">Permitir
                                         Todo </a>
                                 </div>
@@ -209,11 +210,11 @@
                     </div>
                 </div>
                 <div class="col s12 m12 l4 xl4" style="margin-top:20px"><a
-                        class="close_hover letranegro Tipografia--general Botones" href="#!"
-                        onclick="denegarCookies();">No Estoy de
+                        class="close_hover letranegro Tipografia--general Botones" onclick="denegarCookies();">No Estoy
+                        de
                         Acuerdo </a></div>
                 <div class="col s12 m12 l4 xl4" style="margin-top:20px"><a
-                        class="modal-close close_hover letranegro Tipografia--general Botones" href="#!"
+                        class="modal-close close_hover letranegro Tipografia--general Botones"
                         onclick="aceptarCookies();">Estoy de Acuerdo</a></div>
             </div>
         </div>
@@ -300,8 +301,9 @@
                                     <ul>
                                         <p style="color:white;"><b class="Tipografia--general Titulos">Compañia</b></p>
                                         <hr class="hr">
-                                        <ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Acerca
-                                                de <i class="fas fa-long-arrow-alt-right desaparece"
+                                        <ul> <a class="arrowblue Tipografia--general Subtitulos"
+                                                href="index.php">Nosotros<i
+                                                    class="fas fa-long-arrow-alt-right desaparece"
                                                     id="aparece"></i></a><br><a
                                                 class="arrowblue Tipografia--general Subtitulos"
                                                 href="Historia_Hechos.php">Historia y Hechos
@@ -342,8 +344,16 @@
                                                     href="Politica_Calidad.php">Politica de Calidad &nbsp <i
                                                         class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
-                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                                            <li><a class="arrowblue Tipografia--general Subtitulos"
+                                                    href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf"
+                                                    download>Código de Conducta de Proveedores &nbsp <i
+                                                        class="fas fa-long-arrow-alt-right desaparece"
+                                                        id="aparece"></i></a></li>
+                                            <li><a class="arrowblue Tipografia--general Subtitulos"
+                                                    href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf"
+                                                    download>Código de Conducta de Clientes &nbsp <i
+                                                        class="fas fa-long-arrow-alt-right desaparece"
+                                                        id="aparece"></i></a></li>
                                         </p>
                                     </ul>
                                 </section>
@@ -361,13 +371,18 @@
                                     </ul>
                                 </section>
                                 <section>
-<ul> 
-<p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas y sugerencias</b>
-</p><hr class="hr">
-<li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-<p></p>
-</ul>
-</section>
+                                    <ul>
+                                        <p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas
+                                                y sugerencias</b>
+                                        </p>
+                                        <hr class="hr">
+                                        <li> <a class="arrowblue Tipografia--general Subtitulos"
+                                                href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y
+                                                sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece"
+                                                    id="aparece"></i></a></li>
+                                        <p></p>
+                                    </ul>
+                                </section>
                             </div>
                             <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                                 <section>
@@ -402,24 +417,34 @@
                 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
                         href="Mercados.php"><b>Mercados</b></a></li>
                 <ul id="dropdown3" class="dropdown-content">
-                    <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">
-                            Familias</a></li>
-                    <li><a href="Product_List.php" class="Tipografia--general letranegro Subtitulos">Lista de
-                            Productos</a></li>
-                            <li><a href="Catalogos_Productos" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
+                    <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Ingredientes
+                            Químicos</a>
+                    </li>
+
+                    
+
+                    <li><a href="Catalogos_Productos" class="Tipografia--general letranegro Subtitulos">Catalogos</a>
+                    </li>
+                    </li>
                 </ul>
-                <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!"
+                <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger"
                         data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a>
                 </li>
                 <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" <li><a
                             class="elemennav-secun Tipografia--general letranegro Subtitulos"
                             href="Servicios.php"><b>Servicios</b></a></li>
-<li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i class="material-icons right">arrow_drop_down</i></b></a>
-<ul id="dropdown4" class="dropdown-content" tabindex="0">
-<li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Sistema de Gestión Integral</a></li>
-<li tabindex="0"><a href="Marco_Regulatorio.php" class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
-  <li tabindex="0"><a href="Certificaciones.php" class="Tipografia--general letranegro Subtitulos">Certificaciones</a></li>
-</ul></li>
+                <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger"
+                        data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i
+                                class="material-icons right">arrow_drop_down</i></b></a>
+                    <ul id="dropdown4" class="dropdown-content" tabindex="0">
+                        <li tabindex="0"><a href="Cumplimiento.php"
+                                class="Tipografia--general letranegro Subtitulos">Sistema de Gestión Integral</a></li>
+                        <li tabindex="0"><a href="Marco_Regulatorio.php"
+                                class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
+                        <li tabindex="0"><a href="Certificaciones.php"
+                                class="Tipografia--general letranegro Subtitulos">Certificaciones</a></li>
+                    </ul>
+                </li>
                 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Contact.php"><b>Contacto
                         </b></a></li>
             </ul>
@@ -513,7 +538,8 @@
                                 </tr>
                                 <tr>
                                     <td style="border:hidden"><a href="Cumplimiento.php"
-                                            style="color:black !important;border:hidden">Sistema de Gestión Integral</a></td>
+                                            style="color:black !important;border:hidden">Sistema de Gestión Integral</a>
+                                    </td>
                                 </tr>
                                 <tr>
                                     <td style="border:hidden"><a href="Contact.php"
@@ -621,7 +647,8 @@
                                 </tr>
                                 <tr>
                                     <td style="border:hidden;background-color:#262137"><a href="Cumplimiento.php"
-                                            style="color:white !important;border:hidden">Cumplimiento </a></td>
+                                            style="color:white !important;border:hidden">Sistema de Gestión Integral
+                                        </a></td>
                                 </tr>
                                 <tr>
                                     <td style="border:hidden;background-color:#262137"><a href="Contact.php"
@@ -635,213 +662,54 @@
         </div>
     </ul>
 
+
     <div class="container-fluid">
         <div class="slider slider-prueba" style="margin-top:0px">
             <ul class="slides slides-pruea">
-                <li> <img src="img/MANZANA_VERDE_141222.jpg" alt="" style="height:800px;filter:brightness(0.9)">
+                <li> <img src="img/ANTIOXIDANTE_TBHQ.jpg" alt="" style="height:600px;filter:brightness(0.9);">
                     <div class="caption center-align"><br><br><br><br>
-                        <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b
-                            class="segundotitulo" style="font-size: 26px;">Pectinas</b>
+                        <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b
+                            class="segundotitulo" style="font-size: 26px;">Buscador</b>
                     </div>
                 </li>
             </ul>
         </div>
     </div>
 
-
-    <br>
     <div class="container" style="margin-top:80px;">
         <div class="row bread_mobile">
             <div class="col s12 m12 l12 xl12">
                 <section class="breditem--inicio"><a class="breditem active" href="index.php"
                         style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
-                        href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b>
+                        href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Buscador</b><b>
                             >
-                            &nbsp</b><a class="breditem active" href="Pectinas.php"
+                            &nbsp</b><a class="breditem active" href="Glycerins.php"
                             style="color:#262137 !important;margin-left:-2px"><b
-                                class="Tipografia--general letranegro Subtitulos breadcrumb">Pectinas</b></a></section>
+                                class="Tipografia--general letranegro Subtitulos breadcrumb">Terbutilhidroquinona (TBHQ)</b></a></section>
                 </section>
             </div>
         </div>
     </div>
 
-    <div class="container">
-        <div class="row">
-            <div class="col s12 m6 l12 XL12">
-                <h2 class="Tipografia--general letranegro Titulos"><b>Pectinas</b>
-                </h2>
-                <p class="Tipografia--general letranegro General--Cuerpo">Las pectinas son una mezcla de polímeros
-                    ácidos y neutros muy ramificados. Son hidrocoloides solubles en agua con funciones gelificantes y
-                    espesantes. Las pectinas tambien proporcionan superficies cargadas que regulan el pH y el balance
-                    ionico.</p>
 
-
-
-                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Las Pectinas tienen
-                    3
-                    dominios
-                    principales:</h2>
-
-
-                <ol>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">
-                        Homogalacturonanos</li>
-                    <br>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">
-                        Ramnogalacturonano I</li>
-                    <br>
-                    <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">
-                        Ramnogalacturonano II</li>
-                </ol>
-
-                <h2 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;"><b>Origen</b></h2>
-
-                <p class="Tipografia--general General--Cuerpo letranegro">La Pectina contiene principalmente ácidos
-                    galacturonicosparcialmente metoxilados. La pectina, un ingrediente versátil para texturas
-                    innovadoras La pectina es un ingrediente y un componente natural de las plantas. La pectina se
-                    encuentra en muchas frutas, pero es especialmente abundante en las manzanas y los cítricos. La
-                    pectina de la fruta está asociada a la celulosa en los tejidos vegetales, donde juega un papel
-                    fundamental en la determinación de sus propiedades mecánicas.</p>
-
-
-                <table style="width:50%;border:none;">
-                    <tr style="border:none;">
-                        <td style="width:40%;text-align:center;">
-                            <ol>
-                                <li
-                                    style="list-style-type: disc;float:left;background-color:#e0c540;padding:5px;width:200px;color:white;">
-                                    Lima</li>
-                            </ol>
-                        </td>
-                        <td style="width:50%;text-align:center;">
-                            <ol>
-                                <li
-                                    style="list-style-type: disc;float:left;background-color:#df354a;padding:5px;width:200px;color:white;">
-                                    Toronja</li>
-                            </ol>
-                        </td>
-                        <td style="width:50%;text-align:center;">
-                            <ol>
-                                <li
-                                    style="list-style-type: disc;float:left;background-color:#ffbd01;padding:5px;width:200px;color:white;">
-                                    Durazno</li>
-                            </ol>
-                        </td>
-                        <td style="width:50%;text-align:center;">
-                            <ol>
-                                <li
-                                    style="list-style-type: disc;float:left;background-color:#662931;padding:5px;width:200px;color:white;">
-                                    Cereza</li>
-                            </ol>
-                        </td>
-                        <td style="width:50%;text-align:center;">
-                            <ol>
-                                <li
-                                    style="list-style-type: disc;float:left;background-color:#fb8232;padding:5px;width:200px;color:white;">
-                                    Zanahoria</li>
-                            </ol>
-                        </td>
-                    </tr>
-                    <tr style="border:none;">
-                        <td style="width:50%;text-align:center;">
-                            <ol>
-                                <li
-                                    style="list-style-type: disc;float:left;background-color:#4d890f;padding:5px;width:200px;color:white;">
-                                    Limon</li>
-                            </ol>
-                        </td>
-                        <td style="width:50%;text-align:center;">
-                            <ol>
-                                <li
-                                    style="list-style-type: disc;float:left;background-color:#880817;padding:5px;width:200px;color:white;">
-                                    Manzana</li>
-                            </ol>
-                        </td>
-                        <td style="width:50%;text-align:center;">
-                            <ol>
-                                <li
-                                    style="list-style-type: disc;float:left;background-color:#a14d66;padding:5px;width:200px;color:white;">
-                                    Raiz de Remolacha</li>
-                            </ol>
-                        </td>
-                        <td style="width:50%;text-align:center;">
-                            <ol>
-                                <li
-                                    style="list-style-type: disc;float:left;background-color:#b70000;padding:5px;width:200px;color:white;">
-                                    Tomate</li>
-                            </ol>
-                        </td>
-                        <td style="width:50%;text-align:center;">
-                            <ol>
-                                <li
-                                    style="list-style-type: disc;float:left;background-color:#feb740;padding:5px;width:200px;color:white;">
-                                    Papaya</li>
-                            </ol>
-                        </td>
-                    </tr>
-                    <tr style="border:none;">
-                        <td style="width:50%;text-align:center;">
-                            <ol>
-                                <li
-                                    style="list-style-type: disc;float:left;background-color:#fbae00;padding:5px;width:200px;color:white;">
-                                    Naranja</li>
-                            </ol>
-                        </td>
-                        <td style="width:50%;text-align:center;">
-                            <ol>
-                                <li
-                                    style="list-style-type: disc;float:left;background-color:#bfc504;padding:5px;width:200px;color:white;">
-                                    Pera</li>
-                            </ol>
-                        </td>
-                        <td style="width:50%;text-align:center;">
-                            <ol>
-                                <li
-                                    style="list-style-type: disc;float:left;background-color:#121c28;padding:5px;width:200px;color:white;">
-                                    Frambueza</li>
-                            </ol>
-                        </td>
-                        <td style="width:50%;text-align:center;">
-                            <ol>
-                                <li
-                                    style="list-style-type: disc;float:left;background-color:#fdcc26;padding:5px;width:200px;color:white;">
-                                    Platano</li>
-                            </ol>
-                        </td>
-                        <!-- <td style="width:50%;text-align:center;"><ol><li style="list-style-type: disc;float:left;background-color:#262137;padding:5px;width:200px;color:white;"></li></ol></td> -->
-                    </tr>
-
-                </table>
-
-                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Ya sea que esté
-                    buscando una gelificación
-                    específica, velocidad de fraguado, viscosidad, sensación en la boca o estabilización, existe una
-                    solución de Pectina para usted, que se ha sometido a pruebas exhaustivas y ayudará a brindar un
-                    producto de consumo sobresaliente.</p>
-                <p class="Tipografia--general letranegro General--Cuerpo">Ofrecemos soluciones de pectina de frutas de
-                    origen natural de Alto y Bajo Metoxilo de alta calidad en una de las gamas de pectina más amplias
-                    disponibles en el mercado para las siguienets industrias:</p>
-
-                <ol>
-
-                    <li class="Tipografia--general General--Cuerpo"
-                        style="list-style-type:disc;color:rgba(2 146 238 /99%);"><a href="Nutricion_Humana_Pectinas.php"
-                            class="arrowblue Tipografia--general letranegro"
-                            style="color:rgba(2 146 238 /99%);">Nutricion Humana</a></li>
-                    <br>
-                    <li class="Tipografia--general General--Cuerpo"
-                        style="list-style-type:disc;color:rgba(2 146 238 /99%);"><a href="Pectinas_Farmaceutica.php"
-                            class="arrowblue Tipografia--general letranegro"
-                            style="color:rgba(2 146 238 /99%);">Farmaceutica</a></li>
-                </ol>
-
+            <div class="container">
+                <div class="row">
+                <div class="input-field col s12 m12 l12 xl12">
+          <input placeholder="Ingresa tu Nombre" id="Buscador_Principal" name="Buscador_Principal" type="text" class="validate"><i class="material-icons search-mobile-icon"
+                        style="width:0px">search</i>
+          <label for="first_name">First Name</label>
+                </div>
+                <div style="border: 1px solid black;">
+                    <div class="col s12 m12 l12 xl12" style="border:1px solid black;border-radius:15px;">
+                        <p>Glicerina al 99.7%</p>
+                    </div>
+                </div>
+                </div>
             </div>
-        </div>
     </div>
-    </div>
-    </div>
-
-</body>
+   
+                
+                </body>
 <footer style="margin-top:70px">
     <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png"
             alt=""></div><br><br>
