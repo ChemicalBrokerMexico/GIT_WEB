@@ -3,8 +3,8 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Fosfato Monosódico Monohidratado</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <meta name="description" content="El fosfato monosódico monohidratado, también conocido como fosfato de sodio monobásico monohidratado, es un compuesto químico con la fórmula NaH₂PO₄·H₂O. Este compuesto es la forma monohidratada del fosfato monosódico y se utiliza en diversas aplicaciones industriales y alimentarias.">
+    <title>Chemical Broker | Fosfato Tricálcico</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <meta name="description" content="Fosfato Tricálcico, también conocido como fosfato de calcio tribásico, es un compuesto químico con la fórmula Ca₃(PO₄)₂. Se encuentra en la naturaleza en forma de minerales como la apatita y es un componente importante del tejido óseo y dental en los seres humanos y otros animales">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">
@@ -420,7 +420,7 @@
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section><a class="active" href="#" style="color:white !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos ">Productos > </b> </a> <a class=" active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Fosfato Monosódico Monohidratado</b></a></section>
+<section><a class="active" href="#" style="color:white !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos ">Productos > </b> </a> <a class=" active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Fosfato Tricálcico</b></a></section>
 </div>
 </div>
 </div>
@@ -435,69 +435,75 @@
 
 <div class="row" style="margin-left:1000px;">
   <div class="col s12 m12 l12 xl12" style="background-color:orange;width:124%;">
-  <p class="Titulos General--Cuerpo" style="color:white;text-align: right;"><b>Fosfato Monosódico Monohidratado</b></p>
+  <p class="Titulos General--Cuerpo" style="color:white;text-align: right;"><b>Fosfato Tricálcico</b></p>
   </div>
 </div>
 
     <div class="row">
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El fosfato monosódico monohidratado, también conocido como fosfato de sodio monobásico monohidratado, es un compuesto químico con la fórmula NaH₂PO₄·H₂O. Este compuesto es la forma monohidratada del fosfato monosódico y se utiliza en diversas aplicaciones industriales y alimentarias.</p>
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Fosfato Tricálcico, también conocido como fosfato de calcio tribásico, es un compuesto químico con la fórmula Ca₃(PO₄)₂. Se encuentra en la naturaleza en forma de minerales como la apatita y es un componente importante del tejido óseo y dental en los seres humanos y otros animales. </p>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Características</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Propiedades</b></h5>
 
 <ol>
-    <li class="Elementos--Listas" style="margin-top:30px;">Fórmula química: NaH₂PO₄·H₂O.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">•	Apariencia: Se presenta generalmente como un polvo blanco cristalino.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">•	Solubilidad: Es soluble en agua.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">•	pH: En solución acuosa, tiene un pH ácido.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;Fórmula química: Ca₃(PO₄)₂</li>
+    <li class="Elementos--Listas" style="margin-top:30px;Peso molecular: 310.18 g/mol</li>
+    <li class="Elementos--Listas" style="margin-top:30px;Apariencia: Polvo blanco e inodoro</li>
+    <li class="Elementos--Listas" style="margin-top:30px;Solubilidad: Prácticamente insoluble en agua; soluble en ácidos diluidos</li>
 </ol>
 
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h5>
 
-<p class="Tipografia--general letranegro General--Cuerpo">El fosfato monosódico monohidratado tiene una amplia gama de aplicaciones en diversas industrias debido a sus propiedades químicas útiles. Aquí tienes algunas de sus aplicaciones más comunes:</p>
+<p class="Tipografia--general letranegro General--Cuerpo">El fosfato tricálcico (Ca₃(PO₄)₂) tiene una amplia variedad de aplicaciones en diferentes industrias debido a sus propiedades químicas y biológicas. A continuación, se detallan algunas de sus principales aplicaciones:</p>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria</b></h5>
 
 <ol>
-    <li class="Elementos--Listas" style="margin-top:30px;">•	Aditivo Alimentario: Se utiliza como regulador de la acidez (pH) en una variedad de productos alimenticios.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">•	Emulsionante: Actúa como agente emulsionante en productos como productos horneados, lácteos, aderezos para ensaladas y salsas.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Suplemento Mineral: Añadido a alimentos y bebidas para enriquecerlos con calcio y fósforo, esenciales para la salud ósea.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Agente Antiadherente: Utilizado en productos en polvo como harinas, leche en polvo y mezclas para evitar la aglomeración.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Aditivo Alimentario: Incluido en productos como cereales, productos de panadería y golosinas para mejorar su valor nutricional.</li>
 </ol>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Farmacéutica:</b></h5>
 
 <ol>
-    <li class="Elementos--Listas" style="margin-top:30px;">•	Formulación de Medicamentos: Se utiliza en la fabricación de ciertos medicamentos como suplemento mineral y para ajustar el pH de las formulaciones.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Excipiente: Utilizado en la fabricación de tabletas y cápsulas para proporcionar volumen y estabilidad a los medicamentos.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Suplementos Dietéticos: Forma parte de los suplementos de calcio, ayudando a prevenir deficiencias de este mineral en la dieta.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Laboratorio Químico:</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Medicina y Odontología:</b></h5>
 
 <ol>
-    <li class="Elementos--Listas" style="margin-top:30px;">Soluciones Tampón: Se utiliza para preparar soluciones tampón que mantienen un pH constante en una variedad de experimentos químicos y bioquímicos.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">Reactivo en Síntesis Química: Puede ser utilizado como reactivo en la síntesis de compuestos químicos orgánicos e inorgánicos.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;Material para Implantes: Utilizado en recubrimientos de implantes óseos y dentales debido a su biocompatibilidad y capacidad para promover la osteointegración.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;Sustituto Óseo: Empleado en procedimientos de injertos óseos para reparar defectos óseos.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Tratamiento de Agua:</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Cosmética y Cuidado Personal:</b></h5>
 
 <ol>
-    <li class="Elementos--Listas" style="margin-top:30px;">Prevención de Corrosión: Se utiliza en sistemas de tratamiento de agua para prevenir la corrosión de metales.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Pastas Dentales: Utilizado como abrasivo suave y fuente de calcio para fortalecer el esmalte dental.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Productos de Cuidado de la Piel: Añadido en algunos productos para sus propiedades minerales</li>
 </ol>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Agricultura:</b></h5>
 
 <ol>
-    <li class="Elementos--Listas" style="margin-top:30px;">Fertilizantes: A veces se incluye en fertilizantes para proporcionar fósforo a las plantas, que es un nutriente esencial para su crecimiento y desarrollo.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Fertilizantes: Componente de fertilizantes fosfatados, mejorando el contenido de fósforo en los suelos y promoviendo el crecimiento de las plantas.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Aditivo para Piensos: Utilizado en la alimentación animal para proporcionar una fuente de calcio y fósforo, mejorando la salud ósea y el rendimiento productivo de los animales.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Productos de Limpieza:</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Química:</b></h5>
 
 <ol>
-    <li class="Elementos--Listas" style="margin-top:30px;">A menudo se incluye en formulaciones de productos de limpieza y detergentes como agente para eliminar manchas y como regulador de pH.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Producción de Cerámicas: Utilizado en la fabricación de ciertos tipos de cerámicas y materiales refractarios.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Síntesis Química: Empleado como reactivo en varias reacciones químicas.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Cosmética:</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones Industriales:</b></h5>
 
 <ol>
-    <li class="Elementos--Listas" style="margin-top:30px;">En algunas formulaciones cosméticas, se utiliza como regulador de pH y estabilizador de emulsiones en cremas y lociones.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Producción de Vidrio: Utilizado en la fabricación de ciertos tipos de vidrio, donde actúa como un agente que mejora las propiedades del producto final.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Aditivo en Plásticos: En algunos casos, se utiliza como aditivo en plásticos para mejorar sus propiedades mecánicas./li>
 </ol>
       
 

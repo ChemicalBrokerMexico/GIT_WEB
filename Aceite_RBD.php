@@ -649,8 +649,8 @@
                         href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b>
                             >
                             &nbsp</b><a class="breditem active" href="Aceite_RBD.php"
-                            style="color:#262137 !important;margin-left:-2px"><b
-                                class="Tipografia--general letranegro Subtitulos breadcrumb">Aceite de Soya Refinado</b></a></section>
+                            style="color:red;margin-left:-2px"><b
+                                class="Tipografia--general Subtitulos ">Aceite de Soya Refinado</b></a></section>
                 </section>
             </div>
         </div>
@@ -664,9 +664,9 @@
         <p class="Tipografia--general letranegro General--Cuerpo">Es un tipo de aceite vegetal que se obtiene a partir de los granos de soya, este proceso de refinado implica varias etapas para eliminar impurezas y componentes no deseados del aceite crudo de soya.</p>
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Las etapas principales del proceso RBD son:</p>
         <ol style="margin-top:30px;">
-            <li class="Elementos--listas">Refinado. - El aceite crudo de soya se somete a un proceso de refinado para eliminar impurezas como sólidos, gomas y fosfolípidos. Este proceso generalmente involucra la neutralización del aceite con soda caustica o acido fosfórico, seguido de la separación de los compuestos no deseados.</li>
-            <li class="Elementos--listas" style="margin-top:50px;">Desodorizado. - Después del refinado, el aceite se somete a un proceso de desodorización para eliminar o reducir los compuestos que pueden darle un olor no deseado. La desodorización se realiza mediante calor y vació para eliminar los compuestos volátiles. </li>
-            <li class="Elementos--listas" style="margin-top:50px;">Blanqueado. - En esta etapa, el aceite se trata con arcillas absorbentes para eliminar cualquier color no deseado o pigmentos presentes en el aceite. El blanqueo también ayuda a eliminar algunas impurezas residuales.</li>
+            <li class="Elementos--Listas">Refinado. - El aceite crudo de soya se somete a un proceso de refinado para eliminar impurezas como sólidos, gomas y fosfolípidos. Este proceso generalmente involucra la neutralización del aceite con soda caustica o acido fosfórico, seguido de la separación de los compuestos no deseados.</li>
+            <li class="Elementos--Listas" style="margin-top:50px;">Desodorizado. - Después del refinado, el aceite se somete a un proceso de desodorización para eliminar o reducir los compuestos que pueden darle un olor no deseado. La desodorización se realiza mediante calor y vació para eliminar los compuestos volátiles. </li>
+            <li class="Elementos--Listas" style="margin-top:50px;">Blanqueado. - En esta etapa, el aceite se trata con arcillas absorbentes para eliminar cualquier color no deseado o pigmentos presentes en el aceite. El blanqueo también ayuda a eliminar algunas impurezas residuales.</li>
         </ol>
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Aceite de Soya Refinado, Blanqueado y Desodorizado (RBD)</b> es un aceite comestible muy utilizado en la cocina, tanto en la preparación de alimentos como en la producción de productos procesados. Es conocido por ser versátil y tener un alto punto de humo, lo que lo hace adecuado para freír y cocinar a altas temperaturas.</p>
     
@@ -729,7 +729,7 @@
 
         <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Fabricante</b></h2>
 
-<img src="img/Cargill-Logo_2.png" alt="" width="20%" style="margin-top:0px;">
+<img src="img/Cargill-Logo_2.png" alt="" width="30%" style="margin-top:0px;">
 
 <h2 class="Tipografia--general letranegro Titulos" style="margin-top:30px;margin-bottom:0px;" >Literatura Técnica</h2> 
 
