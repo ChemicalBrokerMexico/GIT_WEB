@@ -161,8 +161,8 @@ $(document).ready(function(){
                                     style="color:rgba(2 146 238 /99%);">Ver Más</a></p>
                         </td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><img src="img/JECFA_IMAGE.jpg" alt=""
-                                style="width:50%;"></td>
+                            style="width:33.33%;text-align:center"><img src="img/JEFCFA_NEW_LOGO.jpg" alt=""
+                                style="width:70%;"></td>
                     </tr>
 
                     <tr class="border_compliance_tabla">
@@ -182,7 +182,7 @@ $(document).ready(function(){
                                     href="https://www.pmda.go.jp/english/rs-sb-std/standards-development/jp/0029.html" style="color:rgba(2 146 238 /99%);">Ver Más</a></p>
                         </td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><img src="img/" alt="" style="width:50%;"></td>
+                            style="width:33.33%;text-align:center"><img src="img/JP_NEW_LOGO.jpg" alt="" style="width:80%;"></td>
                     </tr>
 
                     <tr class="border_compliance_tabla">
@@ -429,7 +429,7 @@ function filtroall(){
                                     style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
                         </td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><img src="img/JECFA_IMAGE.jpg" alt=""
+                            style="width:33.33%;text-align:center"><img src="img/JEFCFA_NEW_LOGO.jpg" alt=""
                                 style="width:50%;"></td>
                     </tr>
 
@@ -447,7 +447,7 @@ function filtroall(){
                                     href="https://www.pmda.go.jp/english/rs-sb-std/standards-development/jp/0029.html" style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
                         </td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><img src="img/" alt="" style="width:50%;"></td>
+                            style="width:33.33%;text-align:center"><img src="img/JP_NEW_LOGO.jpg" alt="" style="width:80%;"></td>
                     </tr>
 
                     <tr class="border_compliance_tabla">
@@ -840,7 +840,7 @@ function filtroj(){
                                     style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
                         </td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><img src="img/JECFA_IMAGE.jpg" alt=""
+                            style="width:33.33%;text-align:center"><img src="img/JEFCFA_NEW_LOGO.jpg" alt=""
                                 style="width:50%;"></td>
                     </tr>
 
@@ -858,7 +858,7 @@ function filtroj(){
                                     href="https://www.pmda.go.jp/english/rs-sb-std/standards-development/jp/0029.html" style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
                         </td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><img src="img/" alt="" style="width:50%;"></td>
+                            style="width:33.33%;text-align:center"><img src="img/JP_NEW_LOGO.jpg" alt="" style="width:50%;"></td>
                     </tr>
 
 

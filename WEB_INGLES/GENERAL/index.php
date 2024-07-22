@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <title>Chemical Broker | About Us</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <meta name="description" content="Conoce a Chemical Broker, un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos, de la mas alta calidad, brindando a sus socios de negocio un servicio de excelencia total.">
+    <meta name="description" content="Meet Chemical Broker, a global provider of brokerage, marketing, distribution, import and export services for chemical products of the highest quality, providing its business partners with a service of total excellence.">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="../css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
     <link href="../css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">
@@ -121,7 +121,7 @@
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l10 xl10 sections">
-<h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">US</h6>
+<h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">About Us</h6>
 <p class="Tipografia--general General--Cuerpo" style="color:#a7a7a7;">Chemical Broker is a global provider of chemical product brokerage, marketing, distribution, import and export services.</p>
 </div>
 </div>
@@ -163,7 +163,7 @@
 <ul> 
 <p class="color--blanco"><b class="Tipografia--general Titulos">Company</b></p>
 <hr class="hr">
-<ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Us <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="History_Facts.php">History & facts <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Brand <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="values.php">Values <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premises <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">integral service &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
+<ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Us <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="History_Facts.php">History & facts <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Brand.php">Brand <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="values.php">Values <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premises <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">integral service &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
 </ul>
 </section>
 </div>
@@ -279,7 +279,7 @@
 <td class="border--hidden"><a class="letranegro border--hidden" href="../General/Historia_Hechos.php" >History and Facts</a></td>
 </tr>
 <tr>
-<td class="border--hidden"><a class="letranegro border--hidden" href="../GENERAL/Marca.php" >Brand</a></td>
+<td class="border--hidden"><a class="letranegro border--hidden" href="../GENERAL/Brand.php" >Brand</a></td>
 </tr>
 <tr>
 <td class="border--hidden"><a class="letranegro border--hidden" href="../GENERALES/values.php" >Values</a></td>
@@ -366,7 +366,7 @@
 <td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="../GENERAL/Historia_Hechos.php" style="border-bottom:1px solid white;">History and Facts</a></td>
 </tr>
 <tr> 
-<td class="fondo--color--corporativo border--hidden"><a href="../GENERAL/Marca.php" style="border-bottom:1px solid white;">Brand</a></td></tr>
+<td class="fondo--color--corporativo border--hidden"><a href="../GENERAL/Brand.php" style="border-bottom:1px solid white;">Brand</a></td></tr>
 <tr> 
 <td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="../GENERAL/values.php" style="border-bottom:1px solid white;">Values </a></td>
 </tr>
@@ -403,7 +403,7 @@
 <ul class="slides">
 <li> <img src="../img/CB_QUIMICA.jpg" style="height:800px;" alt="Industria Quimica">
 <div class="caption center-align"><br><br><br><br>
-<h1 class="primertitulo"><b>Chemical Broker</b><br></h1><b class="segundotitulo">We</b>
+<h1 class="primertitulo"><b>Chemical Broker</b><br></h1><b class="segundotitulo">About Us</b>
 </div>
 </li>
 </ul>
@@ -412,7 +412,7 @@
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section style="margin-top:125px"><a class="breditem active" href="#" style="color:#262137 !important"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Inicio&nbsp</b><b class="Tipografia--general letranegro Subtitulos"> >&nbsp  </b></a><a class="breditem active" href="index.php" style="color:#262137 !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb">Nosotros</b></a></section>
+<section style="margin-top:125px"><a class="breditem active" href="#" style="color:#262137 !important"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Home&nbsp</b><b class="Tipografia--general letranegro Subtitulos"> >&nbsp  </b></a><a class="breditem active" href="index.php" style="color:#262137 !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb">We</b></a></section>
 </div>
 </div>
 </div>
@@ -420,7 +420,7 @@
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<h2 style="margin-top:-30px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;margin-top: -50px;">We</b></h2>
+<h2 style="margin-top:-30px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;margin-top: -50px;">About Us</b></h2>
 <p class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020;">Chemical Broker</b> It began more than 9 years ago, building on an even longer history of innovation and growth.</p>
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Today, we have become one of the largest distributors of oleochemicals; fatty acids, fatty alcohols, glycerines, triglycerides, palm derivatives, fatty acid distillates, glycols, oils and fats, preservatives, among others.</p>
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">We see ourselves as the bridge that connects suppliers in distant locations with customers. And as a distribution channel, bringing essential materials needed by thousands of manufacturers to create products that enhance the lives of millions of consumers worldwide.</p>

@@ -1,3 +1,11 @@
+<?php
+
+error_reporting(
+    0
+);
+
+?>
+
 <!DOCTYPE html>
 <html>
 
@@ -574,7 +582,7 @@
         <div class="divider"></div>
         <li> <a href="Cumplimiento.php" style="color:white !important"><i class="small material-icons right"
                     style="color:white !important;margin-top:0px !important;">chevron_right</i>
-                <p style="color:white !important;">Sistema de Gestión Integral </p>
+                <p style="color:white !important;">SGI</p>
             </a></li>
         <div class="divider"></div>
         <li> <a href="Contact.php" style="color:white !important"><i class="small material-icons right"
@@ -666,43 +674,41 @@
     <div class="container-fluid">
         <div class="slider slider-prueba" style="margin-top:0px">
             <ul class="slides slides-pruea">
-                <li> <img src="img/ANTIOXIDANTE_TBHQ.jpg" alt="" style="height:600px;filter:brightness(0.9);">
+                <li> <img src="img/FABRICA_280624.jpg" alt="" style="height:600px;filter:brightness(0.9);">
                     <div class="caption center-align"><br><br><br><br>
                         <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b
-                            class="segundotitulo" style="font-size: 26px;">Buscador</b>
+                            class="segundotitulo" style="font-size: 26px;">Busqueda</b>
+                            <div class="row bread_mobile">
+            <div class="col s12 m12 l12 xl12">
+                <section class="breditem--inicio"><a class="breditem active" href="index.php"
+                        style="color:white !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
+                        href="Productos_news.php" style="color:red !important;margin-left:-2px"><b>Buscador</b></a>
+                            
+                </section>
+            </div>
+        </div>
                     </div>
                 </li>
             </ul>
         </div>
     </div>
 
-    <div class="container" style="margin-top:80px;">
-        <div class="row bread_mobile">
-            <div class="col s12 m12 l12 xl12">
-                <section class="breditem--inicio"><a class="breditem active" href="index.php"
-                        style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
-                        href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Buscador</b><b>
-                            >
-                            &nbsp</b><a class="breditem active" href="Glycerins.php"
-                            style="color:#262137 !important;margin-left:-2px"><b
-                                class="Tipografia--general letranegro Subtitulos breadcrumb">Terbutilhidroquinona (TBHQ)</b></a></section>
-                </section>
-            </div>
-        </div>
-    </div>
+    
 
 
-            <div class="container">
+            <div class="container" style="margin-top:150px;">
                 <div class="row">
                 <div class="input-field col s12 m12 l12 xl12">
-          <input placeholder="Ingresa tu Nombre" id="Buscador_Principal" name="Buscador_Principal" type="text" class="validate"><i class="material-icons search-mobile-icon"
-                        style="width:0px">search</i>
-          <label for="first_name">First Name</label>
+          <input type="text" id="Buscador_Principal" name="Buscador_Principal" placeholder="Ingrese un Valor de Busqueda"><i class="material-icons search-mobile-icon"
+                        style="width:0px">search</i></input>
+          
                 </div>
-                <div style="border: 1px solid black;">
-                    <div class="col s12 m12 l12 xl12" style="border:1px solid black;border-radius:15px;">
-                        <p>Glicerina al 99.7%</p>
+
+              
+                    <div class="col s12 m12 l12 xl12" style="border-radius:10px;" id="caja_resultados" name="caja_resultados">
+                        
                     </div>
+                    
                 </div>
                 </div>
             </div>
@@ -721,8 +727,8 @@
                 style="color:black !important;font-size:16px">Politica de
                 Privacidad </a>
             <script type="text/javascript" src="js/main.js"></script></a></strong>
+            <script type="text/javascript" src="js/Buscador_General.js"></script>
         </p>
-        <script type="text/javascript" src="js/Products.js"></script>
     </div>
 </footer>
 

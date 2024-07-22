@@ -344,22 +344,12 @@ recaptchaResponse.value = token;
       </ul>
     </div>
     <div>
-      <ul>
-        <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;"
-          href="chemicalbroker.mx/Vista/Principal.php" id="LockBoton"><i
-            class="material-icons left icon-lock1 desaparecelock color--blanco"
-            style="margin-top:-24px;font-size:20px !important">lock</i><i
-            class="material-icons left icon-lock1 aparecelock color--blanco"
-            style="display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span
-            class="candadodesktop"></span>
-          <div style="display:flex;justify-content:center">
-            <p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
-          </div>
-        </a>
-        <li class="ul-independiente right"><a class="btn-search-desktop1" href="#" id="busquedaprueba"
-            onclick="abrirsearch();"><i class="material-icons left search-desktop-icon letranegro"
-              style="font-size:24px;font-weight:500;position:absolute;z-index:1">search</i></a></li>
-      </ul>
+    <ul><!--  <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="chemicalbroker.mx/Vista/Principal.php" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock color--blanco" style="margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock color--blanco" style="display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
+<div style="display:flex;justify-content:center"> 
+<p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
+</div></a> -->
+<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
+</ul>
       <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i
             class="material-icons search-mobile-icon" style="width:0px">search</i></a></div>
     </div>
@@ -545,7 +535,7 @@ recaptchaResponse.value = token;
             </div>
           <li> 
         
-             <video width="100%" style="border-radius:10px;margin-top:-350px;" autoplay="autoplay" loop="loop" muted defaultMuted >
+             <video class="videos_mercados" style="border-radius:10px;" autoplay="autoplay" loop="loop" muted defaultMuted >
                   <source class="mercadosimagen" src="VIDEO/Veterinaria.mp4" type="video/mp4">
                 </video> 
            
@@ -560,7 +550,7 @@ recaptchaResponse.value = token;
                 <section style="margin-top:125px"><a class="breditem active" href="index.php"
                         style="color:#262137 !important"><b>Inicio&nbsp </b><b> >&nbsp </b></a><a
                         class="breditem active" href="Mercados.php" style="color:#262137 !important"><b>Mercados&nbsp
-                        </b><b> >&nbsp </b></a><a class="breditem active" href="Alimentos.php"
+                        </b><b> >&nbsp </b></a><a class="breditem active" href="Veterinaria.php"
                         style="color:#262137 !important;margin-left:-2px"><b
                             class="Tipografia--general letranegro Subtitulos breadcrumb">Veterinaria </b></a></section>
             </div>
@@ -579,19 +569,19 @@ recaptchaResponse.value = token;
                 <p class="Tipografia--general General--Cuerpo">La industria farmacéutica se dedica al cuidado de la salud y bienestar de los animales. Este sector abarca diversas áreas, desde la atención clínica individual hasta la producción y comercialización de productos farmacéuticos y alimentos algunos aspectos clave en la industria farmacéutica.</p>
 
                 <ol>
-                    <li style="margin-top:50px;list-style-type:disc">Productos farmacéuticos veterinarios: Desarrollo y comercialización de medicamentos y productos farmacéuticos específicos para animales, incluyendo vacunas, antibióticos y tratamientos para enfermedades específicas.</li>
-                    <li style="margin-top:50px;list-style-type:disc">Vacunas: Las vacunas son esenciales para prevenir enfermedades en animales. La industria veterinaria desarrolla y produce vacunas para una variedad de enfermedades infecciosas, como la rabia la parvovirosis canina, la enfermedad de Newcastle en aves, entre otras</li>
-                    <li style="margin-top:50px;list-style-type:disc">Productos de cuidado animal: Además de los medicamentos y vacunas, la industria veterinaria fabrica una variedad de productos de cuidad animal, como suplementos nutricionales, productos para el cuidado de la piel y el pelaje, alimentos especiales para animales con necesidades dietéticas especificas y productos de higiene.</li>
+                    <li style="margin-top:50px;list-style-type:disc"><b style="color:#000020;">Productos farmacéuticos veterinarios:</b> Desarrollo y comercialización de medicamentos y productos farmacéuticos específicos para animales, incluyendo vacunas, antibióticos y tratamientos para enfermedades específicas.</li>
+                    <li style="margin-top:50px;list-style-type:disc"><b style="color:#000020;">Vacunas:</b> Las vacunas son esenciales para prevenir enfermedades en animales. La industria veterinaria desarrolla y produce vacunas para una variedad de enfermedades infecciosas, como la rabia la parvovirosis canina, la enfermedad de Newcastle en aves, entre otras</li>
+                    <li style="margin-top:50px;list-style-type:disc"><b style="color:#000020;">Productos de cuidado animal:</b> Además de los medicamentos y vacunas, la industria veterinaria fabrica una variedad de productos de cuidad animal, como suplementos nutricionales, productos para el cuidado de la piel y el pelaje, alimentos especiales para animales con necesidades dietéticas especificas y productos de higiene.</li>
                 </ol>
-                <h2 class="Tipografia--general General--Cuerpo letranegro"><b style="color:black;">Formas de Medicamentos farmaceuticos</b></h2>
+                <h2 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px"><b style="color:black;">Formas de Medicamentos farmaceuticos</b></h2>
                 <ol>
-                    <li style="list-style-type: disc;margin-top:30px;">Formas liquidas y semisólidas: Las suspensiones y las emulsiones son formas liquidas que permiten incorporar fármacos con propiedades fisicoquímicas muy diversas. Su ventaja reside en que permiten un ajuste cómodo y preciso de la dosis, de acuerdo con las necesidades de la especie y el peso del animal.</li>
-                    <li style="margin-top:50px;list-style-type:disc">Formas solidas: Los polvos y gránulos permiten un fácil ajuste de la dosis. En general, son mejor aceptados por los animales. Se administran en la parte lateral de la boca con ayuda de un dosificador</li>
-                    <li style="margin-top:50px;list-style-type:disc">Comprimidos de liberación inmediata y de liberación controlada se utilizan en perros y gatos.</li>
-                    <li style="margin-top:50px;list-style-type:disc">Premezclas medicamentosas: son formas liquidas, semisólidas y con mas frecuencia solidas que se administran a los animales con el pienso.</li>
+                    <li style="list-style-type: disc;margin-top:30px;"><b style="color:#000020;">Formas liquidas y semisólidas:</b> Las suspensiones y las emulsiones son formas liquidas que permiten incorporar fármacos con propiedades fisicoquímicas muy diversas. Su ventaja reside en que permiten un ajuste cómodo y preciso de la dosis, de acuerdo con las necesidades de la especie y el peso del animal.</li>
+                    <li style="margin-top:50px;list-style-type:disc"><b style="color:#000020;">Formas solidas:</b> Los polvos y gránulos permiten un fácil ajuste de la dosis. En general, son mejor aceptados por los animales. Se administran en la parte lateral de la boca con ayuda de un dosificador</li>
+                    <li style="margin-top:50px;list-style-type:disc"><b style="color:#000020;">Comprimidos de liberación inmediata y de liberación controlada:</b> se utilizan en perros y gatos.</li>
+                    <li style="margin-top:50px;list-style-type:disc"><b style="color:#000020;">Premezclas medicamentosas:</b> son formas liquidas, semisólidas y con mas frecuencia solidas que se administran a los animales con el pienso.</li>
                 </ol>
 
-                <p class="General--Cupero letranegro Tipografia--general"><h2 class="Tipografia--general General--Cuerpo letranegro"><b style="color:black;">Crecimiento de la Industria</b></h2></p>
+                <h2 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;"><b style="color:black;">Crecimiento de la Industria</b></h2>
                
                     <p style="margin-top:30px;" class="Tipografia--general letranegro General--Cuerpo">
                     El 50% del valor de este sector se debe a los animales de producción y a la ganadería en general, en una previsión de 5 años (2020) tendrá un valor de casi 55 mil millones de dólares (casi 51 mil millones de €)
@@ -610,49 +600,155 @@ recaptchaResponse.value = token;
     </p>
                    <p style="margin-top:50px;" class="Tipografia--general letranegro General--Cuerpo">La organización sin fines de lucro HealthforAnimals, ha llevado a cabo un estudio, que se realiza cada cinco años, con el propósito de examinar las interacciones entre la industria y los sistemas reguladores de productos veterinarios y, en particular, el impacto de las regulaciones en la capacidad de la industria de la salud animal para acceder a los mercados innovadores y continuar comercializando productos existentes. Para recabar información, se han recogido cuestionarios de distintas empresas de salud animal de todos los continentes.</p>
            
-                   <h2 class="Tipografia--general General--Cuerpo letranegro"><b style="color:black;">Productos veterinarios mas comunes</b></h2>
+                   <h2 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;"><b style="color:black;">Productos veterinarios mas comunes</b></h2>
 
-                   <ol>
+                   <!-- <ol>
                     <li style="margin-top:30px;list-style-type: disc;">
-                        Medicamentos Terapéuticos:
+                        <b>Medicamentos Terapéuticos:</b>
 
                         <p>Incluyen antibióticos, antiparasitarios, analgésicos, antiinflamatorios destinados a tratar infecciones, enfermedades, condiciones específicas.</p>
                     </li>
                     <li style="margin-top:50px;list-style-type: disc;">
-                    Vacunas: 
+                    <b>Vacunas:</b> 
 
                     <p>Desarrolladas para prevenir enfermedades mediante la estimulación del sistema inmunológico del animal, las vacunas son esenciales para el control de las enfermedades infecciosas. </p>
                     </li>
                     <li style="margin-top:50px;list-style-type: disc;">
-                    Suplementos Nutricionales:
+                    <b>Suplementos Nutricionales:</b>
 
                     <p>Productos diseñados para proporcionar nutrientes adicionales o corregir deficiencias en la dieta del animal, como suplementos de vitaminas, minerales y ácidos grasos.</p>
                     </li>
                     <li style="margin-top:50px;list-style-type: disc;">
-                    Productos dermatológicos: 
+                    <b>Productos dermatológicos:</b> 
 
                     <p>Shampoos, lociones y cremas para el tratamiento de condiciones cutáneas, alergias y otras afecciones dermatológicas en animales. </p>
                     </li>
                     <li style="margin-top:50px;list-style-type: disc;">
-                    Antiparasitarios:
+                    <b>Antiparasitarios:</b>
 
                     <p>Medicamentos que previenen o tratan infestaciones de parásitos internos (como lombrices) y externos (como pulgas y garrapatas)</p>
                     </li>
                     <li style="margin-top:50px;list-style-type: disc;">
-                    Anestésicos y Sedantes:
+                    <b>Anestésicos y Sedantes:</b>
 
                     <p>Utilizados para procedimientos médicos y quirúrgicos, asegurando el bienestar del animal durante intervenciones veterinarias</p>
                     </li>
                     <li style="margin-top:50px;list-style: disc;">
-                    Medicamentos de Prescripción: 
+                    <b>Medicamentos de Prescripción:</b> 
 
                     <p>Estos medicamentos son recetados por veterinarios para tratar enfermedades especificas en animales. Pueden incluir antibioticos, antiparasitarios, analgésicos, antiinflamatorios, y medicamentos para transtorno como afecciónes cardiacas</p>
                     </li>
                    </ol>
 
+                </div> -->
 
 
-                </div>
+                <div class="col s12 m12 l6 xl6 mercados  columna3"><a href="Medicamentos_Terapeuticos.php" style="cursor:pointer;">
+          <div class="contenedor">
+            <div class="transfo" id="overlay" style="border-radius:10px"></div>
+            <div class="centrado_sub" style="position:absolute;z-index:2">
+              <h2 class="titulo_submercado"></h2><b class="titulo_submercado"><span
+                  style="position:relative;z-index:2">Medicamentos<br>Terapeuticos</span></b><b> </b>
+              <hr class="animacion" />
+              <p> <b style="color:white !important">
+                  <p class="leer_mas_mercados center-align"> Leer Más</p>
+                </b></p>
+            </div><img class="mercadosimagen" src="img/MEDICANTOS_TERAPEUTICOS.jpg" alt=""
+              style="border-radius:10px" />
+          </div>
+        </a></div>
+
+        <div class="col s12 m12 l6 xl6 mercados  columna3"><a href="Vacunas.php" style="cursor:pointer;">
+          <div class="contenedor">
+            <div class="transfo" id="overlay" style="border-radius:10px"></div>
+            <div class="centrado_sub" style="position:absolute;z-index:2">
+              <h2 class="titulo_submercado"></h2><b class="titulo_submercado"> <span
+                  style="position:relative;z-index:2">Vacunas</span></b><b> </b>
+              <hr class="animacion" />
+              <p> <b style="color:white !important">
+                  <p class="leer_mas_mercados center-align"> Leer Más</p>
+                </b></p>
+            </div><img class="mercadosimagen" src="img/VACUNAS_VETERINARIA.jpg" alt=""
+              style="border-radius:10px" />
+          </div>
+        </a></div>
+
+
+        <div class="col s12 m12 l6 xl6 mercados  columna3"><a href="Suplementos_Nutricionales.php" style="cursor:pointer;">
+          <div class="contenedor">
+            <div class="transfo" id="overlay" style="border-radius:10px"></div>
+            <div class="centrado_sub" style="position:absolute;z-index:2">
+              <h2 class="titulo_submercado"></h2><b class="titulo_submercado"> <span
+                  style="position:relative;z-index:2">Suplementos<br>Nutricionales</span></b><b> </b>
+              <hr class="animacion" />
+              <p> <b style="color:white !important">
+                  <p class="leer_mas_mercados center-align"> Leer Más</p>
+                </b></p>
+            </div><img class="mercadosimagen" src="img/Suplementos_veterinaria.jpg" alt=""
+              style="border-radius:10px" />
+          </div>
+        </a></div>
+
+        <div class="col s12 m12 l6 xl6 mercados  columna3"><a href="Productos_Dermatologicos.php" style="cursor:pointer;">
+          <div class="contenedor">
+            <div class="transfo" id="overlay" style="border-radius:10px"></div>
+            <div class="centrado_sub" style="position:absolute;z-index:2">
+              <h2 class="titulo_submercado"></h2><b class="titulo_submercado"> <span
+                  style="position:relative;z-index:2">Productos<br>Dermatologicos</span></b><b> </b>
+              <hr class="animacion" />
+              <p> <b style="color:white !important">
+                  <p class="leer_mas_mercados center-align"> Leer Más</p>
+                </b></p>
+            </div><img class="mercadosimagen" src="img/Productos_dermatologicos_veterinaria.jpg" alt=""
+              style="border-radius:10px" />
+          </div>
+        </a></div>
+
+        <div class="col s12 m12 l6 xl6 mercados  columna3"><a href="Antiparasitarios.php" style="cursor:pointer;">
+          <div class="contenedor">
+            <div class="transfo" id="overlay" style="border-radius:10px"></div>
+            <div class="centrado_sub" style="position:absolute;z-index:2">
+              <h2 class="titulo_submercado"></h2><b class="titulo_submercado"> <span
+                  style="position:relative;z-index:2">Antiparasitarios</span></b><b> </b>
+              <hr class="animacion" />
+              <p> <b style="color:white !important">
+                  <p class="leer_mas_mercados center-align"> Leer Más</p>
+                </b></p>
+            </div><img class="mercadosimagen" src="img/antiparasitarios_veterinaria.jpg" alt=""
+              style="border-radius:10px" />
+          </div>
+        </a></div>
+
+
+        <div class="col s12 m12 l6 xl6 mercados  columna3"><a href="Anestesicos_Sedantes.php" style="cursor:pointer;">
+          <div class="contenedor">
+            <div class="transfo" id="overlay" style="border-radius:10px"></div>
+            <div class="centrado_sub" style="position:absolute;z-index:2">
+              <h2 class="titulo_submercado"></h2><b class="titulo_submercado"> <span
+                  style="position:relative;z-index:2">Anestesicos <br>y<br> Sedantes</span></b><b> </b>
+              <hr class="animacion" />
+              <p> <b style="color:white !important">
+                  <p class="leer_mas_mercados center-align"> Leer Más</p>
+                </b></p>
+            </div><img class="mercadosimagen" src="img/anestesia_veterinaria.jpg" alt=""
+              style="border-radius:10px" />
+          </div>
+        </a></div>
+
+        <div class="col s12 m12 l6 xl6 mercados  columna3"><a href="Medicamentos_Prescripcion.php" style="cursor:pointer;">
+          <div class="contenedor">
+            <div class="transfo" id="overlay" style="border-radius:10px"></div>
+            <div class="centrado_sub" style="position:absolute;z-index:2">
+              <h2 class="titulo_submercado"></h2><b class="titulo_submercado"> <span
+                  style="position:relative;z-index:2">Medicamentos <br>de<br> Prescripcion</span></b><b> </b>
+              <hr class="animacion" />
+              <p> <b style="color:white !important">
+                  <p class="leer_mas_mercados center-align"> Leer Más</p>
+                </b></p>
+            </div><img class="mercadosimagen" src="img/medicamento_prescripcion_210624.jpg" alt=""
+              style="border-radius:10px" />
+          </div>
+        </a></div>
             </div>
         </div>
 

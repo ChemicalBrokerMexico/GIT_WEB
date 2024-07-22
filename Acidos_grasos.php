@@ -356,21 +356,12 @@
       </ul>
     </div>
     <div>
-      <ul> <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href=""
-          id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock"
-            style="color:white !Important;margin-top:-24px;font-size:20px !important">lock</i><i
-            class="material-icons left icon-lock1 aparecelock"
-            style="color:white !Important;display:none;margin-top:-24px;font-size:20px !important"
-            id="unlock1">lock_open</i><span class="candadodesktop"></span>
-          <div style="display:flex;justify-content:center">
-            <p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
-          </div>
-        </a>
-        <li class="ul-independiente right"><a class="btn-search-desktop1" href="#" id="busquedaprueba"
-            onclick="abrirsearch();"><i class="material-icons left search-desktop-icon"
-              style="color:black !important;font-size:24px;font-weight:500;position:absolute;z-index:1">search</i></a>
-        </li>
-      </ul>
+    <ul><!--  <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="chemicalbroker.mx/Vista/Principal.php" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock color--blanco" style="margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock color--blanco" style="display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
+<div style="display:flex;justify-content:center"> 
+<p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
+</div></a> -->
+<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
+</ul>
       <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i
             class="material-icons search-mobile-icon" style="width:0px">search</i></a></div>
     </div>
@@ -569,25 +560,34 @@
             <!-- <video src="VIDEO/ACIDOS_GRASOS.mp4" autoplay height="1000px" width="100%"></video>  -->
           <div class="caption center-align"><br><br><br><br>
             <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1>
-          </div>
-        </li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="container" style="margin-top:80px;">
+            <div class="container" style="margin-top:-30px;">
     <div class="row bread_mobile">
-    <h5 class="Tipografia--general Cuerpo--General" style="margin-top:150px;background-color:#1F3864;text-align:center;color:white;padding:15px;font-size:35px">Ácidos Grasos</h5>
       <div class="col s12 m12 l12 xl12">
         <section class="breditem--inicio"><a class="breditem active" href="index.php"
-            style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
-            href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b> >
+            style="color:white !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
+            href="Productos_news.php" style="color:white !important;margin-left:-2px"><b>Productos</b><b> >
               &nbsp</b><a class="breditem active" href="Acidos_grasos.php"
               style="color:#262137 !important;margin-left:-2px"><b
                 class="Tipografia--general letranegro Subtitulos breadcrumb">Ácidos Grasos</b></a></section>
         </section>
       </div>
     </div>
+  </div>
+          </div>
+          
+        </li>
+      </ul>
+    </div>
+  </div>
+
+
+
+  <div class="container">
+<div class="row">
+  <div class="col s12 m12 l12 xl12">
+  <h5 class="Tipografia--general Cuerpo--General" style="margin-top:150px;background-color:#1F3864;text-align:center;color:white;padding:15px;font-size:35px">Ácidos Grasos</h5>
+  </div>
+</div>
   </div>
 
   <div class="container">
@@ -701,10 +701,1176 @@
           regionales. Las necesidades pueden ser ligeramente diferentes en todo el mundo para cumplir con las
           regulaciones locales y las demandas de los clientes. </p>
 
-          <h5 class="Tipografia--general Cuerpo--General" style="background-color:#1F3864;color:white;padding:15px;margin-top:50px;">Hidrogenado / Destilado</h5>
+          <h5 class="Tipografia--general Cuerpo--General" style="background-color:#1F3864;color:white;padding:15px;margin-top:50px;">Hidrogenado / Destilados</h5>
 
-          <h5 class="Tipografia--general Cuerpo--General" style="color:#1F3864;margin-top:50px;">Acidos Grasos | Base Aceite de Coco</h5>
+          <h5 class="Tipografia--general Cuerpo--General" style="color:#1F3864;margin-top:50px;"><b>Acidos Grasos | Base Aceite de Coco</b></h5>
 
+          <!-- Tabla para movil 1 -->
+
+          <table border="1" style="margin-top:50px;display:none" id="Agrasoscoco" name="Agrasoscoco">
+            <tr>
+              <td>FA C818D</td>
+            </tr>
+            <tr>
+              <td>
+                Tipo de Ácido Graso
+              </td>
+              <td>
+                Destilado   
+                         </td>
+            </tr>
+            <tr>
+              <td>Valor de Humedad (%KF)</td>
+              <td>0.3 Máx</td>
+            </tr>
+            <tr>
+              <td>Titer</td>
+              <td>NR</td>
+            </tr>
+            <tr>
+              <td>Índice de Yodo</td>
+              <td>1 Máx</td>
+            </tr>
+            <tr>
+              <td>Valor de Ácido</td>
+              <td>266-274</td>
+            </tr>
+            <tr>
+              <td>Valor de Saponificación</td>
+              <td>NR</td>
+            </tr>
+            <tr>
+              <td>Color, Lovibond</td>
+              <td>NR</td>
+            </tr>
+            <tr>
+              <td>% de Transmitancia a 440nm/550nm</td>
+              <td>75/90 Mín</td>
+            </tr>
+            <tr>
+              <td>Numero CAS</td>
+              <td>67701-05-7</td>
+            </tr>
+            <tr>
+              <td>Composiion de Ácidos Grasos en %</td>
+            </tr>
+            <tr>
+              <td>C8</td>
+              <td>9 Máx</td>
+            </tr>
+            <tr>
+            <td>C10</td>
+            <td>5-10</td>
+            </tr>
+            <tr>
+              <td>C12</td>
+              <td>46-58</td>
+            </tr>
+          </table>
+          
+        <!-- tabla para movil 2 -->
+
+        <table border="1" style="margin-top:50px;display:none" id="Agrasoscoco2" name="Agrasoscoco2">
+            <tr>
+              <td>FAC818H</td>
+            </tr>
+            <tr>
+              <td>
+                Tipo de Ácido Graso
+              </td>
+              <td>
+                Parcialmente Hidrogenado  
+                         </td>
+            </tr>
+            <tr>
+              <td>Valor de Humedad (%KF)</td>
+              <td>0.3 Máx</td>
+            </tr>
+            <tr>
+              <td>Titer</td>
+              <td>NR</td>
+            </tr>
+            <tr>
+              <td>Índice de Yodo</td>
+              <td>1 Máx</td>
+            </tr>
+            <tr>
+              <td>Valor de Ácido</td>
+              <td>266-274</td>
+            </tr>
+            <tr>
+              <td>Valor de Saponificación</td>
+              <td>NR</td>
+            </tr>
+            <tr>
+              <td>Color, Lovibond</td>
+              <td>NR</td>
+            </tr>
+            <tr>
+              <td>% de Transmitancia a 440nm/550nm</td>
+              <td>85/95 Mín</td>
+            </tr>
+            <tr>
+              <td>Numero CAS</td>
+              <td>67701-05-7</td>
+            </tr>
+            <tr>
+              <td>Composiion de Ácidos Grasos en %</td>
+            </tr>
+            <tr>
+              <td>C8</td>
+              <td>5-8.5</td>
+            </tr>
+            <tr>
+            <td>C10</td>
+            <td>5-10</td>
+            </tr>
+            <tr>
+              <td>C12</td>
+              <td>46-58</td>
+            </tr>
+          </table>
+
+          <!-- tabla para movil 3 -->
+          <table border="1" style="margin-top:50px;display:none" id="Agrasoscoco3" name="Agrasoscoco3">
+            <tr>
+              <td>FA C818DH</td>
+            </tr>
+            <tr>
+              <td>
+                Tipo de Ácido Graso
+              </td>
+              <td>
+                Totalmente Hidrogenado0  
+                         </td>
+            </tr>
+            <tr>
+              <td>Valor de Humedad (%KF)</td>
+              <td>0.3 Máx</td>
+            </tr>
+            <tr>
+              <td>Titer</td>
+              <td>23-29</td>
+            </tr>
+            <tr>
+              <td>Índice de Yodo</td>
+              <td>1 Máx</td>
+            </tr>
+            <tr>
+              <td>Valor de Ácido</td>
+              <td>260-275</td>
+            </tr>
+            <tr>
+              <td>Valor de Saponificación</td>
+              <td>261-277</td>
+            </tr>
+            <tr>
+              <td>Color, Lovibond</td>
+              <td>5.0/0.5 Máx</td>
+            </tr>
+            <tr>
+              <td>% de Transmitancia a 440nm/550nm</td>
+              <td>90/97 Mín</td>
+            </tr>
+            <tr>
+              <td>Numero CAS</td>
+              <td>67701-05-7</td>
+            </tr>
+            <tr>
+              <td>Composiion de Ácidos Grasos en %</td>
+            </tr>
+            <tr>
+              <td>C8</td>
+              <td>8.5 Máx</td>
+            </tr>
+            <tr>
+            <td>C10</td>
+            <td>5-9</td>
+            </tr>
+            <tr>
+              <td>C12</td>
+              <td>46-55</td>
+            </tr>
+          </table>
+
+          <!-- tabla para movil 4 -->
+
+          <table border="1" style="margin-top:50px;display:none" id="Agrasoscoco4" name="Agrasoscoco5">
+            <tr>
+              <td>FA C1218DH</td>
+            </tr>
+            <tr>
+              <td>
+                Tipo de Ácido Graso
+              </td>
+              <td>
+                Corte Superior de Hidrogeno Total 
+                         </td>
+            </tr>
+            <tr>
+              <td>Valor de Humedad (%KF)</td>
+              <td>0.3 Máx</td>
+            </tr>
+            <tr>
+              <td>Titer</td>
+              <td>NR</td>
+            </tr>
+            <tr>
+              <td>Índice de Yodo</td>
+              <td>1 Máx</td>
+            </tr>
+            <tr>
+              <td>Valor de Ácido</td>
+              <td>250-260</td>
+            </tr>
+            <tr>
+              <td>Valor de Saponificación</td>
+              <td>Reportar</td>
+            </tr>
+            <tr>
+              <td>Color, Lovibond</td>
+              <td>NR</td>
+            </tr>
+            <tr>
+              <td>% de Transmitancia a 440nm/550nm</td>
+              <td>90/95 Mín</td>
+            </tr>
+            <tr>
+              <td>Numero CAS</td>
+              <td>67701-05-7</td>
+            </tr>
+            <tr>
+              <td>Composiion de Ácidos Grasos en %</td>
+            </tr>
+            <tr>
+              <td>C8</td>
+              <td>1 Máx</td>
+            </tr>
+            <tr>
+            <td>C10</td>
+            <td>1 Máx</td>
+            </tr>
+            <tr>
+              <td>C12</td>
+              <td>50-65</td>
+            </tr>
+          </table>
+
+
+          <!-- tabla para movil 5 -->
+
+          <table border="1" style="margin-top:50px;display:none" id="Agrasoscoco" name="Agrasoscoco">
+            <tr>
+              <td>FA C818D</td>
+            </tr>
+            <tr>
+              <td>
+                Tipo de Ácido Graso
+              </td>
+              <td>
+                Destilado   
+                         </td>
+            </tr>
+            <tr>
+              <td>Valor de Humedad (%KF)</td>
+              <td>0.3 Máx</td>
+            </tr>
+            <tr>
+              <td>Titer</td>
+              <td>NR</td>
+            </tr>
+            <tr>
+              <td>Índice de Yodo</td>
+              <td>1 Máx</td>
+            </tr>
+            <tr>
+              <td>Valor de Ácido</td>
+              <td>266-274</td>
+            </tr>
+            <tr>
+              <td>Valor de Saponificación</td>
+              <td>NR</td>
+            </tr>
+            <tr>
+              <td>Color, Lovibond</td>
+              <td>NR</td>
+            </tr>
+            <tr>
+              <td>% de Transmitancia a 440nm/550nm</td>
+              <td>75/90 Mín</td>
+            </tr>
+            <tr>
+              <td>Numero CAS</td>
+              <td>67701-05-7</td>
+            </tr>
+            <tr>
+              <td>Composiion de Ácidos Grasos en %</td>
+            </tr>
+            <tr>
+              <td>C8</td>
+              <td>9 Máx</td>
+            </tr>
+            <tr>
+            <td>C10</td>
+            <td>5-10</td>
+            </tr>
+            <tr>
+              <td>C12</td>
+              <td>46-58</td>
+            </tr>
+          </table>
+
+          <!-- tabla para movil 6 -->
+
+          <table border="1" style="margin-top:50px;display:none" id="Agrasosfraccionados" name="Agrasosfraccionados">
+            <tr>
+              <td>LC 899</td>
+            </tr>
+            <tr>
+              <td>
+                Tipo de Ácido Graso
+              </td>
+              <td>
+                Ácido Caprílico   
+                         </td>
+            </tr>
+            <tr>
+              <td>Valor de Humedad (%KF)</td>
+              <td>NR</td>
+            </tr>
+            <tr>
+              <td>Titer</td>
+              <td>15-18</td>
+            </tr>
+            <tr>
+              <td>Índice de Yodo</td>
+              <td>0.5 Máx</td>
+            </tr>
+            <tr>
+              <td>Valor de Ácido</td>
+              <td>383-390</td>
+            </tr>
+            <tr>
+              <td>Valor de Saponificación</td>
+              <td>NR</td>
+            </tr>
+            <tr>
+              <td>Color, Lovibond</td>
+              <td>5.0/0.5 Máx</td>
+            </tr>
+            <tr>
+              <td>% de Transmitancia a 440nm/550nm</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Numero CAS</td>
+              <td>124-07-2</td>
+            </tr>
+            <tr>
+              <td>Composiion de Ácidos Grasos en %</td>
+            </tr>
+            <tr>
+              <td>C6</td>
+              <td>1 Máx</td>
+            </tr>
+            <tr>
+              <td>C8</td>
+              <td>99 Min</td>
+            </tr>
+            <tr>
+            <td>C10</td>
+            <td>1 Máx</td>
+            </tr>
+            <tr>
+              <td>C12</td>
+              <td>NR</td>
+            </tr>
+            <tr>
+              <td>C14</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>C16</td>
+              <td></td>
+            </tr>
+            
+            <tr>
+              <td>C18</td>
+              <td></td>
+            </tr>
+            
+            <tr>
+              <td>C18:1</td>
+              <td></td>
+            </tr>
+            
+            <tr>
+              <td>Otros Enlaces de Cadena</td>
+              <td></td>
+            </tr>
+            
+          </table>
+
+
+          <!-- tabla para movil 7 -->
+
+          <table border="1" style="margin-top:50px;display:none" id="Agrasosfraccionados2" name="Agrasosfraccionados2">
+            <tr>
+              <td>LC 810L</td>
+            </tr>
+            <tr>
+              <td>
+                Tipo de Ácido Graso
+              </td>
+              <td>
+                Ácido Caprílico / Caprílico   
+                         </td>
+            </tr>
+            <tr>
+              <td>Valor de Humedad (%KF)</td>
+              <td>0.2 Máx</td>
+            </tr>
+            <tr>
+              <td>Titer</td>
+              <td>7.0 Máx</td>
+            </tr>
+            <tr>
+              <td>Índice de Yodo</td>
+              <td>0.5 Máx</td>
+            </tr>
+            <tr>
+              <td>Valor de Ácido</td>
+              <td>352-365</td>
+            </tr>
+            <tr>
+              <td>Valor de Saponificación</td>
+              <td>354-367</td>
+            </tr>
+            <tr>
+              <td>Color, Lovibond</td>
+              <td>5.0/0.5 Máx</td>
+            </tr>
+            <tr>
+              <td>% de Transmitancia a 440nm/550nm</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Numero CAS</td>
+              <td>67762-36-1</td>
+            </tr>
+            <tr>
+              <td>Composiion de Ácidos Grasos en %</td>
+            </tr>
+            <tr>
+              <td>C6</td>
+              <td>0.5 Máx</td>
+            </tr>
+            <tr>
+              <td>C8</td>
+              <td>53 Min</td>
+            </tr>
+            <tr>
+            <td>C10</td>
+            <td>35-45</td>
+            </tr>
+            <tr>
+              <td>C12</td>
+              <td>1.5 Máx</td>
+            </tr>
+            <tr>
+              <td>C14</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>C16</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>C18</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>C18:1</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Otros Enlaces de Cadena</td>
+              <td></td>
+            </tr>
+          </table>
+
+
+          <!-- tabla para movil 8 -->
+
+          <table border="1" style="margin-top:50px;display:none" id="Agrasosfraccionados3" name="Agrasosfraccionados3">
+            <tr>
+              <td>LC 1099</td>
+            </tr>
+            <tr>
+              <td>
+                Tipo de Ácido Graso
+              </td>
+              <td>
+                Ácido Cáprico   
+                         </td>
+            </tr>
+            <tr>
+              <td>Valor de Humedad (%KF)</td>
+              <td>NR</td>
+            </tr>
+            <tr>
+              <td>Titer</td>
+              <td>30-32</td>
+            </tr>
+            <tr>
+              <td>Índice de Yodo</td>
+              <td>0.5 Máx</td>
+            </tr>
+            <tr>
+              <td>Valor de Ácido</td>
+              <td>321-329</td>
+            </tr>
+            <tr>
+              <td>Valor de Saponificación</td>
+              <td>321-330</td>
+            </tr>
+            <tr>
+              <td>Color, Lovibond</td>
+              <td>4.0 / 0.5 Máx</td>
+            </tr>
+            <tr>
+              <td>% de Transmitancia a 440nm/550nm</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Numero CAS</td>
+              <td>334-48-5</td>
+            </tr>
+            <tr>
+              <td>Composiion de Ácidos Grasos en %</td>
+            </tr>
+            <tr>
+              <td>C6</td>
+              <td>NR</td>
+            </tr>
+            <tr>
+              <td>C8</td>
+              <td>1.0 Máx</td>
+            </tr>
+            <tr>
+            <td>C10</td>
+            <td>99.0 Mín</td>
+            </tr>
+            <tr>
+              <td>C12</td>
+              <td>1 Máx</td>
+            </tr>
+            <tr>
+              <td>C14</td>
+              <td>1 Máx</td>
+            </tr>
+            <tr>
+              <td>C16</td>
+              <td>1 Máx</td>
+            </tr>
+            <tr>
+              <td>C18</td>
+              <td>1 Máx</td>
+            </tr>
+            <tr>
+              <td>C18:1</td>
+              <td>1 Máx</td>
+            </tr>
+            <tr>
+              <td>Otros enlaces de Cadena</td>
+              <td>1 Máx</td>
+            </tr>
+          </table>
+
+
+          <!-- tabla para movil 9 Continuar Aqui -->
+
+          <table border="1" style="margin-top:50px;display:none" id="Agrasosfraccionados4" name="Agrasosfraccionados4">
+            <tr>
+              <td>FA 1299</td>
+            </tr>
+            <tr>
+              <td>
+                Tipo de Ácido Graso
+              </td>
+              <td>
+                Láurico   
+                         </td>
+            </tr>
+            <tr>
+              <td>Valor de Humedad (%KF)</td>
+              <td>Reportar</td>
+            </tr>
+            <tr>
+              <td>Titer</td>
+              <td>42-44</td>
+            </tr>
+            <tr>
+              <td>Índice de Yodo</td>
+              <td>0.5 Max</td>
+            </tr>
+            <tr>
+              <td>Valor de Ácido</td>
+              <td>277-282</td>
+            </tr>
+            <tr>
+              <td>Valor de Saponificación</td>
+              <td>Reportar</td>
+            </tr>
+            <tr>
+              <td>Color, Lovibond</td>
+              <td>2.0/0.2 Max</td>
+            </tr>
+            <tr>
+              <td>% de Transmitancia a 440nm/550nm</td>
+              <td>90/98 Min</td>
+            </tr>
+            <tr>
+              <td>Numero CAS</td>
+              <td>143-07-7</td>
+            </tr>
+            <tr>
+              <td>Composiion de Ácidos Grasos en %</td>
+            </tr>
+            <tr>
+              <td>C8</td>
+              <td></td>
+            </tr>
+            <tr>
+            <td>C10</td>
+            <td>1 Máx</td>
+            </tr>
+            <tr>
+              <td>C12</td>
+              <td>98.5 Mín</td>
+            </tr>
+            <tr>
+              <td>C14</td>
+              <td>1.5 Máx</td>
+            </tr>
+            <tr>
+              <td>C16</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>C18</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>C18:1</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Otros Enlaces de Cadena</td>
+              <td></td>
+            </tr>
+          </table>
+
+
+            <!--tabla para movil 10  -->
+
+            <table border="1" style="margin-top:50px;display:none" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
+            <tr>
+              <td>FA 1498</td>
+            </tr>
+            <tr>
+              <td>
+                Tipo de Ácido Graso
+              </td>
+              <td>
+                Mirístico   
+                         </td>
+            </tr>
+            <tr>
+              <td>Valor de Humedad (%KF)</td>
+              <td>Reportar</td>
+            </tr>
+            <tr>
+              <td>Titer</td>
+              <td>58-63</td>
+            </tr>
+            <tr>
+              <td>Índice de Yodo</td>
+              <td>0.5 Máx</td>
+            </tr>
+            <tr>
+              <td>Valor de Ácido</td>
+              <td>244-248</td>
+            </tr>
+            <tr>
+              <td>Valor de Saponificación</td>
+              <td>245-249</td>
+            </tr>
+            <tr>
+              <td>Color, Lovibond</td>
+              <td>2.0/0.2 Máx</td>
+            </tr>
+            <tr>
+              <td>% de Transmitancia a 440nm/550nm</td>
+              <td>NR</td>
+            </tr>
+            <tr>
+              <td>Numero CAS</td>
+              <td>544-63-8</td>
+            </tr>
+            <tr>
+              <td>Composiion de Ácidos Grasos en %</td>
+            </tr>
+            <tr>
+              <td>C8</td>
+              <td></td>
+            </tr>
+            <tr>
+            <td>C10</td>
+            <td></td>
+            </tr>
+            <tr>
+              <td>C12</td>
+              <td>1 Máx</td>
+            </tr>
+            <tr>
+              <td>C14</td>
+              <td>98 Min</td>
+            </tr>
+            <tr>
+              <td>C16</td>
+              <td>2 Máx</td>
+            </tr>
+            <tr>
+              <td>C18</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>C18:1</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Otros Enlaces de Cadena</td>
+              <td></td>
+            </tr>
+          </table>
+
+          
+
+                      <!--tabla para movil 11  -->
+
+          <table border="1" style="margin-top:50px;display:none" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
+            <tr>
+              <td>FA 1695V</td>
+            </tr>
+            <tr>
+              <td>
+                Tipo de Ácido Graso
+              </td>
+              <td>
+                Ácido Palmítico
+                         </td>
+            </tr>
+            <tr>
+              <td>Valor de Humedad (%KF)</td>
+              <td>0.3 Máx</td>
+            </tr>
+            <tr>
+              <td>Titer</td>
+              <td>58-63</td>
+            </tr>
+            <tr>
+              <td>Índice de Yodo</td>
+              <td>0.5 Máx</td>
+            </tr>
+            <tr>
+              <td>Valor de Ácido</td>
+              <td>217-222</td>
+            </tr>
+            <tr>
+              <td>Valor de Saponificación</td>
+              <td>NR</td>
+            </tr>
+            <tr>
+              <td>Color, Lovibond</td>
+              <td>3.0/0.3 Máx</td>
+            </tr>
+            <tr>
+              <td>% de Transmitancia a 440nm/550nm</td>
+              <td>93 Mín</td>
+            </tr>
+            <tr>
+              <td>Numero CAS</td>
+              <td>57-10-3</td>
+            </tr>
+            <tr>
+              <td>Composiion de Ácidos Grasos en %</td>
+            </tr>
+            <tr>
+              <td>C8</td>
+              <td></td>
+            </tr>
+            <tr>
+            <td>C10</td>
+            <td></td>
+            </tr>
+            <tr>
+              <td>C12</td>
+              <td>5 Máx</td>
+            </tr>
+            <tr>
+              <td>C14</td>
+              <td>95 Mín</td>
+            </tr>
+            <tr>
+              <td>C16</td>
+              <td>95 Mín</td>
+            </tr>
+            <tr>
+              <td>C18</td>
+              <td>5 Máx</td>
+            </tr>
+            <tr>
+              <td>C18:1</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Otros Enlaces de Cadena</td>
+              <td>NR</td>
+            </tr>
+          </table>
+
+          <!-- Tabla de movil 12 -->
+
+          <table border="1" style="margin-top:50px;display:none" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
+            <tr>
+              <td>FA 1890V</td>
+            </tr>
+            <tr>
+              <td>
+                Tipo de Ácido Graso
+              </td>
+              <td>
+                Ácido Esteárico  
+                         </td>
+            </tr>
+            <tr>
+              <td>Valor de Humedad (%KF)</td>
+              <td>0.3 Máx</td>
+            </tr>
+            <tr>
+              <td>Titer</td>
+              <td>NR</td>
+            </tr>
+            <tr>
+              <td>Índice de Yodo</td>
+              <td>1.5 Máx</td>
+            </tr>
+            <tr>
+              <td>Valor de Ácido</td>
+              <td>195-203</td>
+            </tr>
+            <tr>
+              <td>Valor de Saponificación</td>
+              <td>NR</td>
+            </tr>
+            <tr>
+              <td>Color, Lovibond</td>
+              <td>5.0 / 0.5 Máx</td>
+            </tr>
+            <tr>
+              <td>% de Transmitancia a 440nm/550nm</td>
+              <td>80/95 Mín</td>
+            </tr>
+            <tr>
+              <td>Numero CAS</td>
+              <td>57-11-4</td>
+            </tr>
+            <tr>
+              <td>Composiion de Ácidos Grasos en %</td>
+            </tr>
+            <tr>
+              <td>C8</td>
+              <td></td>
+            </tr>
+            <tr>
+            <td>C10</td>
+            <td></td>
+            </tr>
+            <tr>
+              <td>C12</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>C14</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>C16</td>
+              <td>NR</td>
+            </tr>
+            <tr>
+              <td>C18</td>
+              <td>87 Mín</td>
+            </tr>
+            <tr>
+              <td>C18:1</td>
+              <td>2.0 Máx</td>
+            </tr>
+            <tr>
+              <td>Otros Enlaces de Cadena</td>
+              <td>NR</td>
+            </tr>
+          </table>
+
+          <!-- Tabla movil 13 -->
+
+          
+          <table border="1" style="margin-top:50px;display:none" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
+            <tr>
+              <td>FA 1498</td>
+            </tr>
+            <tr>
+              <td>
+                Tipo de Ácido Graso
+              </td>
+              <td>
+                Mirístico   
+                         </td>
+            </tr>
+            <tr>
+              <td>Valor de Humedad (%KF)</td>
+              <td>Reportar</td>
+            </tr>
+            <tr>
+              <td>Titer</td>
+              <td>58-63</td>
+            </tr>
+            <tr>
+              <td>Índice de Yodo</td>
+              <td>0.5 Máx</td>
+            </tr>
+            <tr>
+              <td>Valor de Ácido</td>
+              <td>244-248</td>
+            </tr>
+            <tr>
+              <td>Valor de Saponificación</td>
+              <td>245-249</td>
+            </tr>
+            <tr>
+              <td>Color, Lovibond</td>
+              <td>2.0/0.2 Máx</td>
+            </tr>
+            <tr>
+              <td>% de Transmitancia a 440nm/550nm</td>
+              <td>NR</td>
+            </tr>
+            <tr>
+              <td>Numero CAS</td>
+              <td>544-63-8</td>
+            </tr>
+            <tr>
+              <td>Composiion de Ácidos Grasos en %</td>
+            </tr>
+            <tr>
+              <td>C8</td>
+              <td></td>
+            </tr>
+            <tr>
+            <td>C10</td>
+            <td></td>
+            </tr>
+            <tr>
+              <td>C12</td>
+              <td>1 Máx</td>
+            </tr>
+            <tr>
+              <td>C14</td>
+              <td>98 Min</td>
+            </tr>
+            <tr>
+              <td>C16</td>
+              <td>2 Máx</td>
+            </tr>
+            <tr>
+              <td>C18</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>C18:1</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Otros Enlaces de Cadena</td>
+              <td></td>
+            </tr>
+          </table>
+
+          
+          <table border="1" style="margin-top:50px;display:none" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
+            <tr>
+              <td>FA 1498</td>
+            </tr>
+            <tr>
+              <td>
+                Tipo de Ácido Graso
+              </td>
+              <td>
+                Mirístico   
+                         </td>
+            </tr>
+            <tr>
+              <td>Valor de Humedad (%KF)</td>
+              <td>Reportar</td>
+            </tr>
+            <tr>
+              <td>Titer</td>
+              <td>58-63</td>
+            </tr>
+            <tr>
+              <td>Índice de Yodo</td>
+              <td>0.5 Máx</td>
+            </tr>
+            <tr>
+              <td>Valor de Ácido</td>
+              <td>244-248</td>
+            </tr>
+            <tr>
+              <td>Valor de Saponificación</td>
+              <td>245-249</td>
+            </tr>
+            <tr>
+              <td>Color, Lovibond</td>
+              <td>2.0/0.2 Máx</td>
+            </tr>
+            <tr>
+              <td>% de Transmitancia a 440nm/550nm</td>
+              <td>NR</td>
+            </tr>
+            <tr>
+              <td>Numero CAS</td>
+              <td>544-63-8</td>
+            </tr>
+            <tr>
+              <td>Composiion de Ácidos Grasos en %</td>
+            </tr>
+            <tr>
+              <td>C8</td>
+              <td></td>
+            </tr>
+            <tr>
+            <td>C10</td>
+            <td></td>
+            </tr>
+            <tr>
+              <td>C12</td>
+              <td>1 Máx</td>
+            </tr>
+            <tr>
+              <td>C14</td>
+              <td>98 Min</td>
+            </tr>
+            <tr>
+              <td>C16</td>
+              <td>2 Máx</td>
+            </tr>
+            <tr>
+              <td>C18</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>C18:1</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Otros Enlaces de Cadena</td>
+              <td></td>
+            </tr>
+          </table>
+
+          
+          <table border="1" style="margin-top:50px;display:none" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
+            <tr>
+              <td>FA 1498</td>
+            </tr>
+            <tr>
+              <td>
+                Tipo de Ácido Graso
+              </td>
+              <td>
+                Mirístico   
+                         </td>
+            </tr>
+            <tr>
+              <td>Valor de Humedad (%KF)</td>
+              <td>Reportar</td>
+            </tr>
+            <tr>
+              <td>Titer</td>
+              <td>58-63</td>
+            </tr>
+            <tr>
+              <td>Índice de Yodo</td>
+              <td>0.5 Máx</td>
+            </tr>
+            <tr>
+              <td>Valor de Ácido</td>
+              <td>244-248</td>
+            </tr>
+            <tr>
+              <td>Valor de Saponificación</td>
+              <td>245-249</td>
+            </tr>
+            <tr>
+              <td>Color, Lovibond</td>
+              <td>2.0/0.2 Máx</td>
+            </tr>
+            <tr>
+              <td>% de Transmitancia a 440nm/550nm</td>
+              <td>NR</td>
+            </tr>
+            <tr>
+              <td>Numero CAS</td>
+              <td>544-63-8</td>
+            </tr>
+            <tr>
+              <td>Composiion de Ácidos Grasos en %</td>
+            </tr>
+            <tr>
+              <td>C8</td>
+              <td></td>
+            </tr>
+            <tr>
+            <td>C10</td>
+            <td></td>
+            </tr>
+            <tr>
+              <td>C12</td>
+              <td>1 Máx</td>
+            </tr>
+            <tr>
+              <td>C14</td>
+              <td>98 Min</td>
+            </tr>
+            <tr>
+              <td>C16</td>
+              <td>2 Máx</td>
+            </tr>
+            <tr>
+              <td>C18</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>C18:1</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Otros Enlaces de Cadena</td>
+              <td></td>
+            </tr>
+          </table>
+        
   <table border="1" style="margin-top:50px;">
 
     <thead>

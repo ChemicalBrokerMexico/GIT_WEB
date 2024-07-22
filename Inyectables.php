@@ -239,12 +239,12 @@
         </ul>
       </div>
       <div> 
-        <ul> <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock" style="color:white !Important;margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock" style="color:white !Important;display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
-            <div style="display:flex;justify-content:center"> 
-              <p class="Botones Logindesktop Tipografia--general" style="aling-self:center"> <b>Iniciar Sesión</b></p>
-            </div></a>
-          <li class="ul-independiente right"><a class="btn-search-desktop1" href="#" id="busquedaprueba" onclick="abrirsearch();"><i class="material-icons left search-desktop-icon" style="color:black !important;font-size:24px;font-weight:500;position:absolute;z-index:1">search</i></a></li>
-        </ul>
+      <ul><!--  <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="chemicalbroker.mx/Vista/Principal.php" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock color--blanco" style="margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock color--blanco" style="display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
+<div style="display:flex;justify-content:center"> 
+<p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
+</div></a> -->
+<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
+</ul>
         <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i class="material-icons search-mobile-icon" style="width:0px">search</i></a></div>
       </div>
     </nav>
@@ -325,7 +325,7 @@
             <p style="color:white !important;">Servicios</p></a></li>
         <div class="divider"></div>
         <li> <a href="Cumplimiento.php" style="color:white !important"><i class="small material-icons right" style="color:white !important;margin-top:0px !important;">chevron_right</i>
-            <p style="color:white !important;">Sistema de Gestión Integral </p></a></li>
+            <p style="color:white !important;">SGI</p></a></li>
         <div class="divider"></div>
         <li> <a href="Contact.php" style="color:white !important"><i class="small material-icons right" style="color:white !important;margin-top:0px !important;">chevron_right</i>
             <p style="color:white !important;">Contact</p></a></li>
@@ -405,19 +405,28 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="pharmaceutical.php" style="color:#262137 !important;margin-left:-2px"><b>Farmaceutica</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Inyectables.php" style="color:#262137 !important;margin-left:-2px"><b>Inyectables</b></a></section></section>
+        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="pharmaceutical.php" style="color:#262137 !important;margin-left:-2px"><b>Farmaceutica</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Inyectables.php" style="color:red !important;margin-left:-2px"><b>Inyectables</b></a></section></section>
         </div>
       </div>
     </div>
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-          <p style="color: #858b92a4;"> Este tipo de fármacos pertenece al grupo de los medicamentos que se administran por vía parental entre las cuales se encuentran 
-          <ol>
-          <li style="font-size: 16px;">Intravenosa</li>
-          <li style="font-size: 16px;">Intradérmica</li>
-          <li style="font-size: 16px;">Subcutánea</li>
-          <li style="font-size: 16px;">Intramuscular</li>
+          <p class="Tipografia--general letranegro General--Cuerpo">Los medicamentos inyectables han crecido en cuanto a su uso se refiere, esto debido al uso de medicamentos de precisión y medicamentos biofarmacéuticos. Los (API) o principios activos farmacéuticos son cada vez más complicados de administrar a nivel terapéutico debido a cuestiones de biodisponibilidad.</p> 
+          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Crecimiento de la Industria</b></h5>
+          <p class="Tipografia--general letranegro General--Cuerpo">Se espera que el mercado de medicamentos inyectables este valorado en USD 510,32 millones en 2022, con una tasa compuesta anual de 7.88% durante el periodo de pronóstico.</p>
+          <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Debido a un numero creciente de enfermedades crónicas, como transtornos cardivasculares, diabetes, cancer, la demanda de medicamentos inyectados a crecido de manera significativa.</p>
+          <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Las jeringas precargadas han ganado una aceptación sustancial como sistemas de administración de fármacos inyectables y productos bilógicos en el tratamiento de enfermedades crónicas. Su facilidad de administración y mayor seguridad y eficacia aumentaron la competencia entre las principales empresas que ofrecen medicamentos inyectables. </p>
+          <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Con la necesidad de métodos de administración de medicamentos mas convenientes, las jeringas prellenadas se están convirtiendo en la opción de más rápido crecimiento para medicamentos de una dosis unitaria (minimizando el error de dosificación) para reducir el desperdicio de medicamentos y aumentar la vida útil del producto.</p>
+          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Tipos de inyectables</b></h5>
+          <ol style="margin-top:30px;list-style-type: disc;">
+          <li class="Elementos--Listas">Subcutáneo: Se aplica en el tejido adiposo, justo bajo la piel y resulta perfecta para la administración de algunos medicamentos anticoagulante, insulina y fármacos para la fecundidad.</li>
+          <br>
+          <li class="Elementos--Listas">intradérmica:  Es el tipo de inyección que se utiliza fundamentalmente, para suministrar medicamentos o pruebas diagnósticas.</li>
+          <br>
+          <li class="Elementos--Listas">Endovenosa: Se podría decir que es la forma de inyección con la que se administra un fármaco directo al torrente sanguíneo, lento y continuado, para obtener un efecto inmediato y máximo del fármaco.</li>
+          <br>
+          <li class="Elementos--Listas">Intramuscular: El medicamento se administra directamente en el musculo, pudiéndose aplicar en el hombro. </li>
           </ol>
           </p>
         </div>
@@ -426,7 +435,7 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-          <h5> <b style="color:#262137;">Productos</b></h5>
+          <h5 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#262137;">Productos</b></h5>
         </div>
       </div>
     </div>
@@ -434,8 +443,8 @@
       <div class="row">
         <div class="col s12 m12 l6 xl12">
         <ol>
-          <a href="Glycerins.php" style="color:#262137"><li class="arrowblue">Glicerinas</li></a>
-          <a href="Proximamente.php" style="color:#262137"><li class="arrowblue">Polietilenglicoles (PEG´S)</li></a>
+          <a href="Glycerins.php" style="color:#262137"><li class="arrowblue Elementos--Listas">Glicerinas</li></a>
+          <a href="Proximamente.php" style="color:#262137"><li class="arrowblue Elementos--Listas">Polietilenglicoles (PEG´S)</li></a>
         </ol>
         </div>
       </div>

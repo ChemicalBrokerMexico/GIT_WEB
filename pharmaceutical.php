@@ -345,22 +345,12 @@ recaptchaResponse.value = token;
       </ul>
     </div>
     <div>
-      <ul>
-        <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;"
-          href="chemicalbroker.mx/Vista/Principal.php" id="LockBoton"><i
-            class="material-icons left icon-lock1 desaparecelock color--blanco"
-            style="margin-top:-24px;font-size:20px !important">lock</i><i
-            class="material-icons left icon-lock1 aparecelock color--blanco"
-            style="display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span
-            class="candadodesktop"></span>
-          <div style="display:flex;justify-content:center">
-            <p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
-          </div>
-        </a>
-        <li class="ul-independiente right"><a class="btn-search-desktop1" href="#" id="busquedaprueba"
-            onclick="abrirsearch();"><i class="material-icons left search-desktop-icon letranegro"
-              style="font-size:24px;font-weight:500;position:absolute;z-index:1">search</i></a></li>
-      </ul>
+    <ul><!--  <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="chemicalbroker.mx/Vista/Principal.php" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock color--blanco" style="margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock color--blanco" style="display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
+<div style="display:flex;justify-content:center"> 
+<p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
+</div></a> -->
+<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
+</ul>
       <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i
             class="material-icons search-mobile-icon" style="width:0px">search</i></a></div>
     </div>
@@ -454,7 +444,7 @@ recaptchaResponse.value = token;
     <div class="divider"></div>
     <li> <a class="color--blanco" href="Cumplimiento.php"><i class="small material-icons right color--blanco"
           style="margin-top:0px !important;">chevron_right</i>
-        <p style="color:white !important;">Sistema de Gestión Integral </p>
+        <p style="color:white !important;">SGI</p>
       </a></li>
     <div class="divider"></div>
     <li> <a class="color--blanco" href="Contact.php"><i class="small material-icons right color--blanco"
@@ -546,7 +536,7 @@ recaptchaResponse.value = token;
             </div>
           <li> 
         
-             <video width="100%" style="border-radius:10px;margin-top:-200px;" autoplay="autoplay" loop="loop" muted defaultMuted >
+             <video class="videos_mercados" style="border-radius:10px;" autoplay="autoplay" loop="loop" muted defaultMuted >
                   <source class="mercadosimagen" src="../GIT_WEB/VIDEO/Farma.mp4" type="video/mp4">
                 </video> 
            
@@ -612,7 +602,7 @@ recaptchaResponse.value = token;
     <div class="row center-align">
       <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Spray_Nasal.php" style="cursor:pointer;">
           <div class="contenedor">
-            <div class="transfo" id="overlay" style="border-radius:0px"></div>
+            <div class="transfo" id="overlay" style="border-radius:10px"></div>
             <div class="centrado_sub" style="position:absolute;z-index:2">
               <h2 class="titulo_submercado"></h2><b class="titulo_submercado"> <span
                   style="position:relative;z-index:2">Sprays Nasales </span></b><b> </b>
@@ -620,14 +610,14 @@ recaptchaResponse.value = token;
               <p> <b style="color:white !important">
                   <p class="leer_mas_mercados center-align"> Leer Más</p>
                 </b></p>
-            </div><img class="mercadosimagen" src="img/SPRAY_NASAL.jpeg" alt=""  />
+            </div><img class="mercadosimagen" src="img/SPRAY_NASAL.jpeg" alt="" style="border-radius:10px" />
           
           </div>
           <!-- <div class="container" style="background-color:#000020;border-radius:15px;padding:5px;margin-top:-30px;width:100%;">
                 <p class="Tipografia--general letranegro General--Cuerpo center-align" style="color:white;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam excepturi possimus ab a debitis, ad iure nam deserunt eligendi quod aspernatur magni in hic, minima eos fuga, esse illum voluptatem. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Harum beatae, molestiae ab, in quam quibusdam, nam inventore iusto fugit architecto quaerat quos dolor laboriosam excepturi dicta. Minima necessitatibus consectetur possimus?</p>
             </div> -->
         </a></div>
-      <div class="col s12 m12 l6 xl6 mercados zoom "><a href="Proximamente.php" style="cursor:pointer;">
+      <div class="col s12 m12 l6 xl6 mercados zoom "><a href="Jarabes.php" style="cursor:pointer;">
           <div class="contenedor">
             <div class="transfo" id="overlay" style="border-radius:10px"></div>
             <div class="centrado_sub " style="position:absolute;z-index:2">
@@ -640,7 +630,7 @@ recaptchaResponse.value = token;
             </div><img class="mercadosimagen" src="img/SYRUP_280421.jpeg" alt="" style="border-radius:10px" />
           </div>
         </a></div>
-      <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Proximamente.php" style="cursor:pointer;">
+      <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Pomadas_Ungüentos.php" style="cursor:pointer;">
           <div class="contenedor">
             <div class="transfo" id="overlay" style="border-radius:10px"></div>
             <div class="centrado_sub" style="position:absolute;z-index:2">
@@ -653,7 +643,7 @@ recaptchaResponse.value = token;
             </div><img class="mercadosimagen" src="img/POMADA_100521.jpg" alt="" style="border-radius:10px" />
           </div>
         </a></div>
-      <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Proximamente.php" style="cursor:pointer;">
+      <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Tabletas_Duras.php" style="cursor:pointer;">
           <div class="contenedor">
             <div class="transfo" id="overlay" style="border-radius:10px"></div>
             <div class="centrado_sub" style="position:absolute;z-index:2">
@@ -666,7 +656,7 @@ recaptchaResponse.value = token;
             </div><img class="mercadosimagen" src="img/TABLETAS_DURAS_100521.jpg" alt="" style="border-radius:10px" />
           </div>
         </a></div>
-      <div class="col s12 m12 l6 xl6 mercados  columna3"><a href="Proximamente.php" style="cursor:pointer;">
+      <div class="col s12 m12 l6 xl6 mercados  columna3"><a href="Tabletas_Blandas.php" style="cursor:pointer;">
           <div class="contenedor">
             <div class="transfo" id="overlay" style="border-radius:10px"></div>
             <div class="centrado_sub" style="position:absolute;z-index:2">
@@ -693,7 +683,7 @@ recaptchaResponse.value = token;
             </div><img class="mercadosimagen" src="img/SUPOSITORIOS_100521.jpg" alt="" style="border-radius:10px" />
           </div>
         </a></div>
-      <div class="col s12 m12 l6 xl6 mercados zoom columna3"><a href="Proximamente.php" style="cursor:pointer;">
+      <div class="col s12 m12 l6 xl6 mercados zoom columna3"><a href="Inyectables.php" style="cursor:pointer;">
           <div class="contenedor">
             <div class="transfo" id="overlay" style="border-radius:10px"></div>
             <div class="centrado_sub" style="position:absolute;z-index:2">
@@ -706,7 +696,7 @@ recaptchaResponse.value = token;
             </div><img class="mercadosimagen" src="img/INJECTABLE_280421.jpeg" alt="" style="border-radius:10px" />
           </div>
         </a></div>
-      <div class="col s12 m12 l6 xl6 mercados zoom columna4"><a href="Proximamente.php" style="cursor:pointer;">
+      <div class="col s12 m12 l6 xl6 mercados zoom columna4"><a href="Suplementos_nutricionh.php" style="cursor:pointer;">
           <div class="contenedor">
             <div class="transfo" id="overlay" style="border-radius:10px"></div>
             <div class="centrado_sub" style="position:absolute;z-index:2">

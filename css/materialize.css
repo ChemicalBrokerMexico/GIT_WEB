@@ -2812,9 +2812,9 @@ video.responsive-video {
   display: none;
 }
 
-.breadcrumb:last-child {
+/* .breadcrumb:last-child {
   color: #b31c27;
-}
+} */
 
 .parallax-container {
   position: relative;

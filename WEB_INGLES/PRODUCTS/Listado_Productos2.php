@@ -174,7 +174,7 @@ new DataTable('#example');
 <ul> 
 <p class="color--blanco"><b class="Tipografia--general Titulos">Compañia</b></p>
 <hr class="hr">
-<ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Nosotros <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="values.php">Valores <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
+<ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Nosotros <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Brand.php">Marca <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="values.php">Valores <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
 </ul>
 </section>
 </div>
@@ -185,7 +185,7 @@ new DataTable('#example');
 <hr class="hr">
  <li> <a class="arrowblue Tipografia--general Subtitulos" href="../POLITICS/Code_of_Conduct.php">Codigo de Conducta Organizacional <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download>Politica de Privacidad <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-<li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
+<li><a class="arrowblue Tipografia--general Subtitulos" href="../Politics/Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
                                                         <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
@@ -282,7 +282,7 @@ new DataTable('#example');
 <td class="border--hidden"><a class="letranegro border--hidden" href="../General/Historia_Hechos.php" >Historia y Hechos</a></td>
 </tr>
 <tr>
-<td class="border--hidden"><a class="letranegro border--hidden" href="../GENERAL/Marca.php" >Marca</a></td>
+<td class="border--hidden"><a class="letranegro border--hidden" href="../GENERAL/Brand.php" >Marca</a></td>
 </tr>
 <tr>
 <td class="border--hidden"><a class="letranegro border--hidden" href="../GENERALES/values.php" >Valores</a></td>
@@ -369,7 +369,7 @@ new DataTable('#example');
 <td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="../GENERAL/Historia_Hechos.php" style="border-bottom:1px solid white;">Historia y Hechos</a></td>
 </tr>
 <tr> 
-<td class="fondo--color--corporativo border--hidden"><a href="../GENERAL/Marca.php" style="border-bottom:1px solid white;"></a></td>
+<td class="fondo--color--corporativo border--hidden"><a href="../GENERAL/Brand.php" style="border-bottom:1px solid white;"></a></td>
 </tr>
 <tr> 
 <td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="../GENERAL/values.php" style="border-bottom:1px solid white;">Valores </a></td>

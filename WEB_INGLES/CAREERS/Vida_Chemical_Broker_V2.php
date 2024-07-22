@@ -306,7 +306,7 @@
                                                 href="Historia_Hechos.php">Historia y Hechos
                                                 &nbsp<i class="fas fa-long-arrow-alt-right desaparece"
                                                     id="aparece"></i></a><br><a
-                                                class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca
+                                                class="arrowblue Tipografia--general Subtitulos" href="Brand.php">Marca
                                                 &nbsp<i class="fas fa-long-arrow-alt-right desaparece"
                                                     id="aparece"></i></a><br><a
                                                 class="arrowblue Tipografia--general Subtitulos"
@@ -463,7 +463,7 @@
                                             style="color:black !important;border:hidden">Historia y Hechos</a></td>
                                 </tr>
                                 <tr>
-                                    <td style="border:hidden"><a href="Marca.php"
+                                    <td style="border:hidden"><a href="Brand.php"
                                             style="color:black !important;border:hidden">Marca</a>
                                     </td>
                                 </tr>
@@ -573,7 +573,7 @@
                                             style="color:white !important;border:hidden">Historia y Hechos</a></td>
                                 </tr>
                                 <tr>
-                                    <td style="border:hidden;background-color:#262137;"><a href="Marca.php"></a></td>
+                                    <td style="border:hidden;background-color:#262137;"><a href="Brand.php"></a></td>
                                 </tr>
                                 <tr>
                                     <td style="border:hidden;background-color:#262137"><a href="values.php"

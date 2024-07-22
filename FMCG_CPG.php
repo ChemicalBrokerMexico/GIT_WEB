@@ -307,7 +307,7 @@
             <p style="color:white !important;">Servicios </p></a></li>
         <div class="divider"></div>
         <li> <a href="Cumplimiento.php" style="color:white !important"><i class="small material-icons right" style="color:white !important;margin-top:0px !important;">chevron_right</i>
-            <p style="color:white !important;">Sistema de Gestión Integral </p></a></li>
+            <p style="color:white !important;">SGI</p></a></li>
         <div class="divider"></div>
         <li> <a href="Contact.php" style="color:white !important"><i class="small material-icons right" style="color:white !important;margin-top:0px !important;">chevron_right</i>
             <p style="color:white !important;">Contact</p></a></li>

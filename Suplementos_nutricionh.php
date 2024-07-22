@@ -238,12 +238,12 @@
         </ul>
       </div>
       <div> 
-        <ul> <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock" style="color:white !Important;margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock" style="color:white !Important;display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
-            <div style="display:flex;justify-content:center"> 
-              <p class="Botones Logindesktop Tipografia--general" style="aling-self:center"> <b>Iniciar Sesión</b></p>
-            </div></a>
-          <li class="ul-independiente right"><a class="btn-search-desktop1" href="#" id="busquedaprueba" onclick="abrirsearch();"><i class="material-icons left search-desktop-icon" style="color:black !important;font-size:24px;font-weight:500;position:absolute;z-index:1">search</i></a></li>
-        </ul>
+      <ul><!--  <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="chemicalbroker.mx/Vista/Principal.php" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock color--blanco" style="margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock color--blanco" style="display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
+<div style="display:flex;justify-content:center"> 
+<p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
+</div></a> -->
+<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
+</ul>
         <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i class="material-icons search-mobile-icon" style="width:0px">search</i></a></div>
       </div>
     </nav>
@@ -324,7 +324,7 @@
             <p style="color:white !important;">Servicios</p></a></li>
         <div class="divider"></div>
         <li> <a href="Cumplimiento.php" style="color:white !important"><i class="small material-icons right" style="color:white !important;margin-top:0px !important;">chevron_right</i>
-            <p style="color:white !important;">Sistema de Gestión Integral </p></a></li>
+            <p style="color:white !important;">SGI</p></a></li>
         <div class="divider"></div>
         <li> <a href="Contact.php" style="color:white !important"><i class="small material-icons right" style="color:white !important;margin-top:0px !important;">chevron_right</i>
             <p style="color:white !important;">Contact</p></a></li>
@@ -412,32 +412,136 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <p style="color: orange;">Los suplementos alimenticios o dietéticos, como indica su nombre, son productos creados para complementar la alimentación o la dieta, y entre sus ingredientes contienen minerales, vitaminas, enzimas, ácidos grasos y aminoácidos.</p>
-        <p style="color: orange;">No son medicamentos, por lo que no pueden utilizarse como tales, aunque a veces se comercializan con indicaciones erróneas para aliviar síntomas o curar enfermedades. Tampoco pueden considerarse un sustituto de alimentos convencionales, su objetivo es aportar nutrientes que en momentos puntuales o por circunstancias especiales, no se estén consumiendo en cantidades suficientes.</p>
-        </div>
-
-        <div class="col s12 m12 l12 xl12">
-          <h5><b style="color: #262137;">Productos</b></h5>
-        </div>
-      </div>
-    </div>
-
-<div class="container" style="margin-top: -50px;">
-      <div class="row">
-        <div class="col s12 m12 l12 xl12">
-          <ol>
-          <a href="Proximamente.php" style="color: #262137;font-size: 18px;"><li style="font-size: 18px;" class="arrowblue desplazamiento_familias">Fosfatos</li></a>
-          <a href="Proximamente.php" style="color: #262137;font-size: 18px;"><li style="font-size: 18px;" class="arrowblue desplazamiento_familias">Sulfatos</li></a>
-          <a href="Proximamente.php" style="color: #262137;font-size: 18px;"><li style="font-size: 18px;" class="arrowblue desplazamiento_familias">Acidos</li></a>
-          <!-- <a href="#" style="color: #262137;font-size: 18px;"><li style="font-size: 18px;" class="arrowblue desplazamiento_familias">Gomas</li></a>
-          <a href="#" style="color: #262137;font-size: 18px;"><li style="font-size: 18px;" class="arrowblue desplazamiento_familias">Enzimas</li></a> -->
-          <!-- <a href="Calcium.php" style="color: #262137;font-size: 18px;"><li style="font-size: 18px;" class="arrowblue desplazamiento_familias">Calcios</li></a> -->
+          <p class="Tipografia--general letranegro General--Cuerpo">La industria de los suplementos alimenticios ha emergido como uno de los sectores mas dinámicos y en rápido crecimiento dentro del ámbito de la salud y el bienestar. Impulsada por una creciente conciencia sobre la importancia de la nutrición y la salud preservativa. Esta industria abarca una amplia gama de productos diseñados para complementar la dieta y proporcionar beneficios específicos para la salud.</p>
+          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Tipos de Suplementos Alimenticios</b></h5>
+          <ol style="margin-top:30px;">
+            <li class="Elementos--Listas Tipografia--general">Vitaminas y Minerales: Representan aproximadamente el 40% del mercado global de suplementos.</li>
+            <li class="Elementos--Listas Tipografia--general" style="margin-top:30px;">Proteínas y Aminoácidos: Constituyen alrededor del 25% del mercado</li>
+            <li class="Elementos--Listas Tipografia--general" style="margin-top:30px;">Productos Herbales y Botánicos: Aproximadamente el 15% del mercado</li>
+            <li class="Elementos--Listas Tipografia--general" style="margin-top:30px;">Ácidos Grasos y Omega: Cerca del 10% del mercado</li>
+            <li class="Elementos--Listas Tipografia--general" style="margin-top:30px;">Otros suplementos: Incluyen probióticos, antioxidantes y enzimas digestivas, que representan el 10% restante  </li>
           </ol>
+          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Ingredientes químicos presentes en los alimentos</b></h5>
+          <table style="margin-top:50px;">
+            <thead>
+              <th style="text-align:center;border: 1px solid black;background-color:#000020;color:white;border-right:1px solid white;">Ségmentacion por tipo de producto</th>
+              <th style="text-align:center;border: 1px solid black;background-color:#000020;color:white;border-right:1px solid white;">Ingredientes Químicos Comunes</th>
+              <th style="text-align:center;border: 1px solid black;background-color:#000020;color:white;border-right:1px solid white;">Uso especifico</th>
+            </thead>
+            <tbody>
+              <tr>
+                <td rowspan="7" style="text-align:center;border:1px solid black"><b>Vitaminas y Minerales</b></td>
+                <td style="text-align:center;border:1px solid black">Vitamina C (Acido Ascorbico)</td>
+                <td style="text-align:center;border:1px solid black">Antioxidante, Refuerzo del Sistema Inmunologico</td>
+              </tr>
+              <tr>
+                <td style="text-align:center;border:1px solid black">Vitamina D (Colecalciferol</td>
+                <td style="text-align:center;border:1px solid black">Mejora la Absorcion de Calcio, Salud Ósea</td>
+              </tr>
+              <tr>
+                <td style="text-align:center;border:1px solid black">Calcio (Carbonato de Calcio)</td>
+                <td style="text-align:center;border:1px solid black">Fortalecimiento de Huesos y Dientes</td>
+              </tr>
+              <tr>
+                <td style="text-align:center;border:1px solid black">Hierro (Sulfato Ferroso)</td>
+                <td style="text-align:center;border:1px solid black">Prevencion y Tratamiento de Anemia</td>
+              </tr>
+              <tr>
+                <td style="text-align:center;border:1px solid black;">Zinc (Gluconato de Zinc)</td>
+                <td style="text-align:center;border:1px solid black;">Refuerzo del Sistema Inmunologico, Curacion de Heridas</td>
+              </tr>
+              <tr>
+                <td style="text-align:center;border:1px solid black;">Magnesio (Oxido de Magnesio)</td>
+                <td style="text-align:center;border:1px solid black;">Funcion Muscular y Nerviosa, Regulacion de Azucar en la Sangre</td>
+              </tr>
+              <tr>
+                <td style="text-align:center;border:1px solid black">Vitamina B12 (Cianocobalamina)</td>
+                <td style="text-align:center;border:1px solid black">Produccion de Globulos Rojos, Funcion Neurologica</td>
+              </tr>
+              <tr>
+                <td rowspan="5" style="text-align:center;border:1px solid black"><b>Proteínas y Aminoácidos</b></td>
+                <td style="text-align:center;border:1px solid black">Proteína de Suero</td>
+                <td style="text-align:center;border:1px solid black">Aumento de la Masa Muscular, Recuperación postentrenamiento</td>
+              </tr>
+              <tr>
+                <td style="text-align:center;border:1px solid black">Caseina</td>
+                <td style="text-align:center;border:1px solid black">Liberación sostenida de aminoácidos, mantenimiento de masa muscular</td>
+              </tr>
+              <tr>
+                <td style="text-align:center;border:1px solid black;">Proteínas de Soja</td>
+                <td style="text-align:center;border:1px solid black;">Fuente Completa de Proteínas, beneficios para la salud cardiovascular</td>
+              </tr>
+              <tr>
+                <td style="text-align:center;border:1px solid black;">BCAAs (Leucemia, Isoleucina, Valina)</td>
+                <td style="text-align:center;border:1px solid black;">Prevención del Catabolismo Muscular, Mejora la Recuperación</td>
+              </tr>
+              <tr>
+                <td style="text-align:center;border:1px solid black;">Creatina (Monohidratado de Creatina)</td>
+                <td style="text-align:center;border:1px solid black;">Aumento de la Fuerza y el Rendimiento Durante Ejercicios de Alta Intensidad</td>
+              </tr>
+              <tr>
+                <td rowspan="4" style="text-align:center;border:1px solid black;"><b>Productos Herbales y Botánicos</b></td>
+                <td style="text-align:center;border:1px solid black;">Extracto de Tee Verde (Epigalocatequina)</td>
+                <td style="text-align:center;border:1px solid black;">Antioxidante, Apoyo en la Pérdida de Peso</td>
+              </tr>
+              <tr>
+                <td style="text-align:center;border:1px solid black;">Ginko Bilova</td>
+                <td style="text-align:center;border:1px solid black;">Mejora la circulación sanguínea y la funcion cognitiva</td>
+              </tr>
+              <tr>
+                <td style="text-align:center;border:1px solid black;">Curcuma</td>
+                <td style="text-align:center;border:1px solid black;">Propiedades Antiinflamatorias y Antioxidantes</td>
+              </tr>
+              <tr>
+                <td style="text-align:center;border:1px solid black;">Extracto de Arándano</td>
+                <td style="text-align:center;border:1px solid black;">Salud Ocular Propiedades Antioxidantes</td>
+              </tr>
+              <tr>
+                <td rowspan="4" style="text-align:center;border:1px solid black;"><b>Acidos Grasos y Omega 3</b></td>
+                <td style="text-align:center;border:1px solid black;">Aceite de Pescado (EPA Y DHA)</td>
+                <td style="text-align:center;border:1px solid black;">Salud Cardiovascular Reduccion de la Inflamación</td>
+              </tr>
+              <tr>
+                <td style="text-align:center;border:1px solid black;">Aceite de Linaza</td>
+                <td style="text-align:center;border:1px solid black;">Fuente Vegetal de Omega 3, Beneficios para la Salud del Corazón</td>
+              </tr>
+              <tr>
+                <td style="text-align:center;border:1px solid black;">Aceite de Kril</td>
+                <td style="text-align:center;border:1px solid black;">Fuente de Omega 3 con Fosfolipidos, Mejora la Absorción</td>
+              </tr>
+              <tr>
+                <td style="text-align:center;border:1px solid black;">Aceite de Chia</td>
+                <td style="text-align:center;border:1px solid black;">Alto en Omega 3 Beneficioso para la Salud</td>
+              </tr>
+              <tr>
+                <td rowspan="6" style="text-align:center;border:1px solid black;"><b>Otros Suplementos</b></td>
+                <td style="text-align:center;border:1px solid black;">Probióticos</td>
+                <td style="text-align:center;border:1px solid black;">Mejoran la Salud Digestiva, Fortalecimiento</td>
+              </tr>
+              <tr>
+                <td style="text-align:center;border:1px solid black;">Coenzima Q10</td>
+                <td style="text-align:center;border:1px solid black;">Soporte para la Salud Cardiovascular Producción de Energía Celular</td>
+              </tr>
+              <tr>
+                <td style="text-align:center;border:1px solid black;">Melatonina</td>
+                <td style="text-align:center;border:1px solid black;">Regulación del Sueño, Tratameinto de Transtornos del Sueño</td>
+              </tr>
+              <tr>
+                <td style="text-align:center;border:1px solid black;">Enzimas Digestivas</td>
+                <td style="text-align:center;border:1px solid black;">Mejora la Digestión, Apoyo en la Absorción de Nutrientes</td>
+              </tr>
+              <tr>
+                <td style="text-align:center;border:1px solid black;">Antioxidantes</td>
+                <td style="text-align:center;border:1px solid black;">Protección Contra el Daño Celular, Refuerzo del Sistema Inmunológico</td>
+              </tr>
+            </tbody>
+          </table>
+          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Crecimiento de la Industria</b></h5>
+          <p class="Tipografia--general letranegro General--Cuerpo">A nivel mundial, se estima que el crecimiento de esta industria ha ascendido de 100 mil millones de dólares a 120 mil millones de dólares desde 2017 a 2022, lo que representa una tasa de crecimiento anual del 5.6%</p>
+          <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El crecimiento de esta industria va relacionado a la difusión e interés de la salud por parte de la poblacion, tan es asi que, según expertos, en los próximos años la industria de los suplementos alimenticios tendrá mayor crecimiento (2.2%)</p>
+        </div>
       </div>
     </div>
-
-    </div>
-
 
 
   </body>

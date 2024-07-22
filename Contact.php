@@ -230,7 +230,7 @@ recaptchaResponse.value = token;
     <nav style="background-color:white;height:25px;margin-top:-19px">
       <div class="nav-wrapper flex"><a class="sidenav-trigger" href="#" data-target="mobile-demo"><i class="material-icons letranegro">menu</i></a><span class="Pmenu letranegro">Menu</span>
         <ul class="hide-on-med-and-down">
-        <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="index.php.php"><b>Nosotros</b></a></li>
+        <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="index.php"><b>Nosotros</b></a></li>
           <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Mercados.php"><b>Mercados</b></a></li>
           <ul id="dropdown3" class="dropdown-content" style="width:300px !important;">
                  <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Ingredientes Químicos</a>
@@ -254,9 +254,9 @@ recaptchaResponse.value = token;
             <div style="display:flex;justify-content:center"> 
               <p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
             </div></a> -->
-          <li class="ul-independiente right"><a class="btn-search-desktop1" href="#" id="busquedaprueba" onclick="abrirsearch();"><i class="material-icons left search-desktop-icon" style="color:black !important;font-size:24px;font-weight:500;position:absolute;z-index:1; margin-left: -111px;">search</i></a></li>
+          <li class="ul-independiente right"><a class="btn-search-desktop1" href="#" id="busquedaprueba" onclick="abrirsearch();"><i class="material-icons left search-desktop-icon" style="color:black !important;font-size:24px;font-weight:500;position:absolute;z-index:1; margin-left: 188px;">search</i></a></li>
         </ul>
-        <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i class="material-icons search-mobile-icon" style="width:0px;">search</i></a></div>
+        <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i class="material-icons search-mobile-icon" style="width:0px;margin-left:188px !important;">search</i></a></div>
       </div>
     </nav>
     <ul class="collapsible" id="search1" style="display:none">
@@ -336,7 +336,7 @@ recaptchaResponse.value = token;
             <p style="color:white !important;">Servicios</p></a></li>
         <div class="divider"></div>
         <li> <a href="Cumplimiento.php" style="color:white !important"><i class="small material-icons right" style="color:white !important;margin-top:0px !important;">chevron_right</i>
-            <p style="color:white !important;">Sistema de Gestión Integral </p></a></li>
+            <p style="color:white !important;">SGI</p></a></li>
         <div class="divider"></div>
         <li> <a href="Contact.php" style="color:white !important"><i class="small material-icons right" style="color:white !important;margin-top:0px !important;">chevron_right</i>
             <p style="color:white !important;">Contact</p></a></li>
@@ -405,7 +405,7 @@ recaptchaResponse.value = token;
     <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li> <img src="img/NEW_CONTACT.png" style="height:455px;margin-top:-54px">
+          <li> <img src="img/CB_CONTACTO_050624.jpg" style="height:592px;margin-top:-100px;filter: brightness(0.9);">
             <div class="caption center-align"><br><br><br><br>
               <h3 class="primertitulo"><b class="boldbanner">Chemical Broker</b><br></h3><b class="segundotitulo" style="font-size:26px">Contacta con Nuestro Equipo de Especialistas </b>
             </div>

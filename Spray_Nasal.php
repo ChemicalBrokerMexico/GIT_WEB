@@ -237,12 +237,12 @@
         </ul>
       </div>
       <div> 
-        <ul> <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock" style="color:white !Important;margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock" style="color:white !Important;display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
-            <div style="display:flex;justify-content:center"> 
-              <p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
-            </div></a>
-          <li class="ul-independiente right"><a class="btn-search-desktop1" href="#" id="busquedaprueba" onclick="abrirsearch();"><i class="material-icons left search-desktop-icon" style="color:black !important;font-size:24px;font-weight:500;position:absolute;z-index:1">search</i></a></li>
-        </ul>
+      <ul><!--  <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="chemicalbroker.mx/Vista/Principal.php" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock color--blanco" style="margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock color--blanco" style="display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
+<div style="display:flex;justify-content:center"> 
+<p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
+</div></a> -->
+<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
+</ul>
         <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i class="material-icons search-mobile-icon" style="width:0px">search</i></a></div>
       </div>
     </nav>
@@ -323,7 +323,7 @@
             <p style="color:white !important;">Servicios</p></a></li>
         <div class="divider"></div>
         <li> <a href="Cumplimiento.php" style="color:white !important"><i class="small material-icons right" style="color:white !important;margin-top:0px !important;">chevron_right</i>
-            <p style="color:white !important;">Sistema de Gestión Integral </p></a></li>
+            <p style="color:white !important;">SGI</p></a></li>
         <div class="divider"></div>
         <li> <a href="Contact.php" style="color:white !important"><i class="small material-icons right" style="color:white !important;margin-top:0px !important;">chevron_right</i>
             <p style="color:white !important;">Contact</p></a></li>
@@ -410,11 +410,26 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-          <p style="color: #262137;" class="Tipografia--general General--Cuerpo">Los aerosoles nasales son medicamentos líquidos que se rocían en la nariz. para aliviar la congestión y/o lubricación de la nariz.</p>
-          <p style="color: #262137;" class="Tipografia-general General--Cuerpo"> Cuando se desarrollan inhaladores aerosoles, el desarrollo de la formulación y el dispositivo van de la mano. Los cambios realizados para uno afectaran al otro, y viceversa. Por ejemplo, el diseño y la geometría de la boquilla de pulverización afectan el esfuerzo de la suspensión. Del mismo modo un cambio de excipiente puede afectar la viscosidad de la formulación y la eficiencia con la que se puede bombear a través de la boquilla de pulverización.</p>
+          <p class="Tipografia--general General--Cuerpo">El mercado de los sprays nasales es una parte importante del sector farmacéutico que aborda una variedad de necesidades de salud relacionadas con el tracto respiratorio superior. Estos productos están diseñados para administrar medicamentos directamente en la cavidad nasal, lo que los hace efectivos para tratar afecciones como congestión nasal, alergias, sinusitis, resfriados y rinitis entre otros.</p>
+          <!-- <p style="color: #262137;" class="Tipografia--general General--Cuerpo">Los aerosoles nasales son medicamentos líquidos que se rocían en la nariz. para aliviar la congestión y/o lubricación de la nariz.</p>
+          <p style="color: #262137;" class="Tipografia--general General--Cuerpo"> Cuando se desarrollan inhaladores aerosoles, el desarrollo de la formulación y el dispositivo van de la mano. Los cambios realizados para uno afectaran al otro, y viceversa. Por ejemplo, el diseño y la geometría de la boquilla de pulverización afectan el esfuerzo de la suspensión. Del mismo modo un cambio de excipiente puede afectar la viscosidad de la formulación y la eficiencia con la que se puede bombear a través de la boquilla de pulverización.</p>
           <p style="color:#262137" class="Tipografia--general General--Cuerpo">Actualmente se espera que el mercado de spray’s nasales tenga un crecimiento de mercado a una tasa del 6.51% en el periodo de 2022 a 2029. El informe de investigación de mercado de Data Bridge sobre el mercado de aerosol nasal proporciona análisis e información sobre los diversos factores que se espera que prevalezcan durante todo el período de pronóstico.</p>
-          <p style="color: #262137;margin-top:10px" class="Tipografia-general General--Cuerpo"><b style="color:#262137" class="Tipografia-general General--Cuerpo">Chemical Broker </b>cuenta con ingredientes de calidad mundial que permiten a nuestros socios de negocios desarrollar soluciones nasales idóneas para la sociedad.
-          </p>
+          <p style="color: #262137;margin-top:10px" class="Tipografia-general General--Cuerpo"><b style="color:#262137" class="Tipografia-general General--Cuerpo">Chemical Broker </b>cuenta con ingredientes de calidad mundial que permiten a nuestros socios de negocios desarrollar soluciones nasales idóneas para la sociedad. -->
+          <!-- </p> -->
+          <p class="Tipografia--general General--Cuerpo">Algunos de los puntos clave de este mercado son: </p>
+          <ol>
+            <li style="list-style-type:decimal;"><b style="color:#000020;">Crecimiento de mercado:</b> El mercado de los sprays nasales ha experimentado un crecimiento constante debido a factores como el aumento de la prevalencia de condiciones respiratorias, el envejecimiento de la población y una mayor conciencia sobre el autocuidado de la salud.</li>
+            <li style="list-style-type:decimal;margin-top:30px;"><b style="color:#000020;">innovación:</b> Las empresas farmacéuticas están en constantemente innovando en el desarrollo de nuevos productos y formulaciones para mejorar la eficacia, la comodidad y seguridad de los sprays nasales.</li>
+            <li style="list-style-type:decimal;margin-top:30px;"><b style="color:#000020;">Regulación:</b> Los sprays nasales están sujetos a regulaciones estrictas por parte de las agencias de salud en diferentes países para garantizar su seguridad y eficacia. Esto incluye requisitos de etiquetado claros, pruebas de seguridad y calidad.</li>
+          </ol>
+          <h5 class="Tipografia--general General--Cuerpo">Ingredientes químicos utilizados en los sprays nasales:</h5>
+          <ol>
+          <li style="list-style-type:decimal;"><b style="color:#000020;">Descongestionantes:</b> Los descongestionantes nasales son a menudo compuestos adrenérgicos, como la oximetazolina, la fenilefrina o la pseudoefedrina. Estos compuestos actúan sobre los receptores alfa- adrenérgicos en los vasos sanguíneos nasales causando construcción y reduciendo la congestión nasal.</li>
+            <li style="list-style-type:decimal;margin-top:30px;"><b style="color:#000020;">Antihistamínicos:</b> los antihistamínicos utilizados en los sprays nasales como la azelastina o la olopatadina bloquean los receptores de histamina en la mucosa nasal, lo que ayuda a reducir la inflamación y los síntomas asociados con la rinitis alérgica. </li>
+            <li style="list-style-type:decimal;margin-top:30px;"><b style="color:#000020;">Corticosteroides:</b> Los corticosteroides nasales, como la fluticasona, la budesónida o la mometasona, son potentes antiinflamatorios que reducen la inflamación y la hinchazón de la mucosa nasal al inhibir la liberación de los mediadores inflamatorios y la síntesis de citoquinas. </li>
+            <li style="list-style-type:decimal;margin-top:30px;"><b style="color:#000020;">Conservantes y estabilizadores:</b> Los conservantes y estabilizadores se utilizan para mantener la esterilidad y la estabilidad del producto durante su vida útil. Estos ingredientes pueden incluir conservantes como el cloruro de benzalconio o el cloruro de sodio, así como estabilizadores de pH y antioxidantes</li>
+          </ol>
+
         </div>
         <div class="col s12 m12 l12 xl12">
           <h5 class="Tipografia--general General--Cuerpo"><b style="color:#262137;"><b>Productos</b></b></h5>

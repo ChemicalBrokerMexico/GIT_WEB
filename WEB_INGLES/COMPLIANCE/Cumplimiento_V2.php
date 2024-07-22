@@ -263,7 +263,7 @@
                                                 href="Historia_Hechos.php">Historia y Hechos <i
                                                     class="fas fa-long-arrow-alt-right desaparece"
                                                     id="aparece"></i></a><br><a
-                                                class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca
+                                                class="arrowblue Tipografia--general Subtitulos" href="Brand.php">Marca
                                                 <i class="fas fa-long-arrow-alt-right desaparece"
                                                     id="aparece"></i></a><br><a
                                                 class="arrowblue Tipografia--general Subtitulos"
@@ -294,7 +294,7 @@
                                                     href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download>Politica de
                                                     Privacidad <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
-                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
+                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../Politics/Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
                                         </p>
                                     </ul>
@@ -416,7 +416,7 @@
                                 </tr>
                                 <tr>
                                     <td class="border--hidden"><a class="letranegro border--hidden"
-                                            href="Marca.php">Marca</a></td>
+                                            href="Brand.php">Marca</a></td>
                                 </tr>
                                 <tr>
                                     <td class="border--hidden"><a class="letranegro border--hidden"
@@ -523,7 +523,7 @@
                                             Hechos</a></td>
                                 </tr>
                                 <tr>
-                                    <td class="fondo--color--corporativo border--hidden"><a href="Marca.php"></a></td>
+                                    <td class="fondo--color--corporativo border--hidden"><a href="Brand.php"></a></td>
                                 </tr>
                                 <tr>
                                     <td class="fondo--color--corporativo border--hidden"><a

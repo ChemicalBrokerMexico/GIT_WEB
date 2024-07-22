@@ -319,7 +319,7 @@
         <li> <a class="sidenav-trigger color--blanco" href="#" data-target="mobile-search"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">search</i>
             <p class="color--blanco">Search</p></a></li>
         <div class="divider"></div>
-        <li> <a class="waves-effect waves-light color--blanco" href="VISTA/Principal.php" style="background-color:#c73e32;" id="LockBoton">Login<i class="material-icons right color--blanco" style="margin-top:-1px !important;">lock</i></a></li>
+        
       </li>
     </ul>
     <ul class="sidenav fondo--color--corporativo" id="mobile-search"> 

@@ -11,7 +11,7 @@
     <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection"/>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus"/>
     <link rel="stylesheet" href="css/History_Line.css"/>
-    <link rel="stylesheet" href="css/jquery.dataTables.min.css"/>
+    <link rel="stylesheet" href="../css/jquery.dataTables.min.css"/>
     <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css"/>
     <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="../js/materialize.js?n=1" type="text/javascript"></script>
@@ -158,7 +158,7 @@
                     <ul> 
                       <p style="color:white;"><b class="Tipografia--general Titulos">Compañia</b></p>
                       <hr class="hr">
-                      <ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Nosotros <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="values.php">Valores &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
+                      <ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Nosotros <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Brand.php">Marca &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="values.php">Valores &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
                     </ul>
                   </section>
                 </div>
@@ -169,7 +169,7 @@
                         <hr class="hr">
                         <li> <a class="arrowblue Tipografia--general Subtitulos" href="Code_of_Conduct.php">Codigo de conducta &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                         <li> <a class="arrowblue Tipogradia--general Subtitulos" href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download>Politica de Privacidad <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-                        <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
+                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../Politics/Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
                                                         <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
@@ -278,7 +278,7 @@
                     <td style="border:hidden"><a href="Historia_Hechos.php" style="color:black !important;border:hidden">Historia y Hechos</a></td>
                   </tr>
                   <tr>
-                    <td style="border:hidden"><a href="Marca.php" style="color:black !important;border:hidden">Marca</a></td>
+                    <td style="border:hidden"><a href="Brand.php" style="color:black !important;border:hidden">Marca</a></td>
                   </tr>
                   <tr>
                     <td style="border:hidden"><a href="values.php" style="color:black !important;border:hidden">Valores</a></td>
@@ -357,7 +357,7 @@
                     <td style="border:hidden;background-color:#262137;"><a href="Historia_Hechos.php" style="color:white !important;border:hidden">Historia y Hechos</a></td>
                   </tr>
                   <tr> 
-                    <td style="border:hidden:background-color:#262137;"><a href="Marca.php"></a></td>
+                    <td style="border:hidden:background-color:#262137;"><a href="Brand.php"></a></td>
                   </tr>
                   <tr> 
                     <td style="border:hidden;background-color:#262137"><a href="values.php" style="color:white !important;border:hidden">Valores </a></td>

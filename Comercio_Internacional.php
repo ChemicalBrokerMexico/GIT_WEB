@@ -339,21 +339,12 @@
       </ul>
     </div>
     <div>
-      <ul> <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href=""
-          id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock"
-            style="color:white !Important;margin-top:-24px;font-size:20px !important">lock</i><i
-            class="material-icons left icon-lock1 aparecelock"
-            style="color:white !Important;display:none;margin-top:-24px;font-size:20px !important"
-            id="unlock1">lock_open</i><span class="candadodesktop"></span>
-          <div style="display:flex;justify-content:center">
-            <p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
-          </div>
-        </a>
-        <li class="ul-independiente right"><a class="btn-search-desktop1" href="#" id="busquedaprueba"
-            onclick="abrirsearch();"><i class="material-icons left search-desktop-icon"
-              style="color:black !important;font-size:24px;font-weight:500;position:absolute;z-index:1">search</i></a>
-        </li>
-      </ul>
+    <ul><!--  <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="chemicalbroker.mx/Vista/Principal.php" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock color--blanco" style="margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock color--blanco" style="display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
+<div style="display:flex;justify-content:center"> 
+<p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
+</div></a> -->
+<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
+</ul>
       <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i
             class="material-icons search-mobile-icon" style="width:0px">search</i></a></div>
     </div>

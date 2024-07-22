@@ -165,7 +165,7 @@ $(document).ready(function(){
 <ul> 
 <p style="color:white;"><b class="Tipografia--general Titulos">Compañia</b></p>
 <hr class="hr">
-<ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Nosotros <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="values.php">Valores &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
+<ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Nosotros <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Brand.php">Marca &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="values.php">Valores &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
 </ul>
 </section>
 </div>
@@ -267,7 +267,7 @@ $(document).ready(function(){
 <td class="border--hidden"><a href="Historia_Hechos.php" class="letranegro border--hidden">Historia y Hechos</a></td>
 </tr>
 <tr>
-<td class="border--hidden"><a href="Marca.php" class="letranegro border--hidden">Marca</a></td>
+<td class="border--hidden"><a href="Brand.php" class="letranegro border--hidden">Marca</a></td>
 </tr>
 <tr>
 <td class="border--hidden"><a href="values.php" class="letranegro border--hidden">Valores</a></td>
@@ -346,7 +346,7 @@ $(document).ready(function(){
 <td class="border--hidden" style="background-color:#262137;"><a href="Historia_Hechos.php" class="border--hidden" style="color:white !important;">Historia y Hechos</a></td>
 </tr>
 <tr> 
-<td class="border--hidden" style="background-color:#262137;"><a href="Marca.php"></a></td>
+<td class="border--hidden" style="background-color:#262137;"><a href="Brand.php"></a></td>
 </tr>
 <tr> 
 <td class="border--hidden" style="background-color:#262137"><a href="values.php" class="border--hidden" style="color:white !important;">Valores </a></td>

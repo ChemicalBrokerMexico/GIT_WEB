@@ -159,7 +159,7 @@
                     <ul> 
                       <p style="color:white;"><b class="Tipografia--general Titulos">Compañia</b></p>
                       <hr class="hr">
-                      <ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Nosotros <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="values.php">Valores &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
+                      <ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Nosotros <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Brand.php">Marca &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="values.php">Valores &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
                     </ul>
                   </section>
                 </div>
@@ -170,7 +170,7 @@
                         <hr class="hr">
                         <li> <a class="arrowblue Tipografia--general Subtitulos" href="Code_of_Conduct.php">Codigo de conducta &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                         <li> <a class="arrowblue Tipogradia--general Subtitulos" href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download>Politica de Privacidad <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-                        <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
+                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../Politics/Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
                       </p>
                     </ul>
@@ -269,7 +269,7 @@
                     <td style="border:hidden"><a href="Historia_Hechos.php" style="color:black !important;border:hidden">Historia y Hechos</a></td>
                   </tr>
                   <tr>
-                    <td style="border:hidden"><a href="Marca.php" style="color:black !important;border:hidden">Marca</a></td>
+                    <td style="border:hidden"><a href="Brand.php" style="color:black !important;border:hidden">Marca</a></td>
                   </tr>
                   <tr>
                     <td style="border:hidden"><a href="values.php" style="color:black !important;border:hidden">Valores</a></td>
@@ -348,7 +348,7 @@
                     <td style="border:hidden;background-color:#262137;"><a href="Historia_Hechos.php" style="color:white !important;border:hidden">Historia y Hechos</a></td>
                   </tr>
                   <tr> 
-                    <td style="border:hidden:background-color:#262137;"><a href="Marca.php"></a></td>
+                    <td style="border:hidden:background-color:#262137;"><a href="Brand.php"></a></td>
                   </tr>
                   <tr> 
                     <td style="border:hidden;background-color:#262137"><a href="values.php" style="color:white !important;border:hidden">Valores </a></td>

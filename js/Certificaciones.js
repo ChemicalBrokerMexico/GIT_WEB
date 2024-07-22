@@ -103,7 +103,7 @@ $(document).ready(function(){
                                     style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
                         </td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><img src="img/GMO_IMAGE.jpg" alt=""
+                            style="width:33.33%;text-align:center"><img src="img/GMO_NEW_LOGO.jpg" alt=""
                                 style="width:50%;"></td>
                     </tr>
 
@@ -134,7 +134,7 @@ $(document).ready(function(){
                                     href="https://haccp-international.com/" style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
                         </td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><img src="img/HACCP_IMAGE.jpg" alt="" style="width:50%;"></td>
+                            style="width:33.33%;text-align:center"><img src="img/HACCP_NEW_LOGO.jpg" alt="" style="width:50%;"></td>
                     </tr>
 
                     <tr class="border_compliance_tabla">
@@ -397,7 +397,7 @@ function filtroall(){
                         style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
             </td>
             <td class="letranegro Tipografia--general General--Cuerpo"
-                style="width:33.33%;text-align:center"><img src="img/GMO_IMAGE.jpg" alt=""
+                style="width:33.33%;text-align:center"><img src="img/GMO_NEW_LOGO.jpg" alt=""
                     style="width:50%;"></td>
         </tr>
 
@@ -428,7 +428,7 @@ function filtroall(){
                         href="https://haccp-international.com/" style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
             </td>
             <td class="letranegro Tipografia--general General--Cuerpo"
-                style="width:33.33%;text-align:center"><img src="img/HACCP_IMAGE.jpg" alt="" style="width:50%;"></td>
+                style="width:33.33%;text-align:center"><img src="img/HACCP_NEW_LOGO.jpg" alt="" style="width:50%;"></td>
         </tr>
 
         <tr class="border_compliance_tabla">
@@ -807,7 +807,7 @@ function filtrog(){
                         style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
             </td>
             <td class="letranegro Tipografia--general General--Cuerpo"
-                style="width:33.33%;text-align:center"><img src="img/GMO_IMAGE.jpg" alt=""
+                style="width:33.33%;text-align:center"><img src="img/GMO_NEW_LOGO.jpg" alt=""
                     style="width:50%;"></td>
         </tr>
 
@@ -860,7 +860,7 @@ function filtroh(){
                             href="https://haccp-international.com/" style="color:rgba(2 146 238 /99%);">clic aquí</a></p>
                 </td>
                 <td class="letranegro Tipografia--general General--Cuerpo"
-                    style="width:33.33%;text-align:center"><img src="img/HACCP_IMAGE.jpg" alt="" style="width:50%;"></td>
+                    style="width:33.33%;text-align:center"><img src="img/HACCP_NEW_LOGO.jpg" alt="" style="width:50%;"></td>
             </tr>
     
             <tr class="border_compliance_tabla">

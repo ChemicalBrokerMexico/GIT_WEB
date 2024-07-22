@@ -314,6 +314,11 @@ li {
 
 
   
+    .videos_mercados{
+        width:200%;
+        margin-left: -149px;
+    }
+
 
     .divider_sections {
         background-color: white;
@@ -2025,6 +2030,12 @@ font-size: 12px;
 
     #TablaPresentacionDesktop{
         display: none;
+    }
+
+
+    .videos_mercados{
+        width:200%;
+        margin-left: -149px;
     }
 
 
@@ -5276,6 +5287,11 @@ margin-top:85px;
             display: table;
         }
 
+
+        .videos_mercados{
+            width:108%;
+            margin-top:-200px;
+        }
 
 }
 

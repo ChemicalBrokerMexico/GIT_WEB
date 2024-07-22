@@ -249,7 +249,7 @@ recaptchaResponse.value = token;
                           class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br /><a
                         class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos <i
                           class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br /><a
-                        class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca <i
+                        class="arrowblue Tipografia--general Subtitulos" href="Brand.php">Marca <i
                           class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br /><a
                         class="arrowblue Tipografia--general Subtitulos" href="values.php">Valores <i
                           class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br /><a
@@ -270,7 +270,7 @@ recaptchaResponse.value = token;
                       <li> <a class="arrowblue Tipografia--general Subtitulos"
                           href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download="download">Politica de Privacidad <i
                             class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-                            <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
+                            <li><a class="arrowblue Tipografia--general Subtitulos" href="../Politics/Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
                                                         <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
@@ -396,7 +396,7 @@ recaptchaResponse.value = token;
                       Hechos</a></td>
                 </tr>
                 <tr>
-                  <td class="border--hidden"><a class="letranegro border--hidden" href="Marca.php">Marca</a></td>
+                  <td class="border--hidden"><a class="letranegro border--hidden" href="Brand.php">Marca</a></td>
                 </tr>
                 <tr>
                   <td class="border--hidden"><a class="letranegro border--hidden" href="values.php">Valores</a></td>
@@ -497,7 +497,7 @@ recaptchaResponse.value = token;
                       href="Historia_Hechos.php">Historia y Hechos</a></td>
                 </tr>
                 <tr>
-                  <td class="fondo--color--corporativo border--hidden"><a href="Marca.php"></a></td>
+                  <td class="fondo--color--corporativo border--hidden"><a href="Brand.php"></a></td>
                 </tr>
                 <tr>
                   <td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco"

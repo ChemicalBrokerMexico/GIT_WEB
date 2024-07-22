@@ -268,7 +268,7 @@
                                                 href="Historia_Hechos.php">Historia y Hechos <i
                                                     class="fas fa-long-arrow-alt-right desaparece"
                                                     id="aparece"></i></a><br><a
-                                                class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca
+                                                class="arrowblue Tipografia--general Subtitulos" href="Brand.php">Marca
                                                 <i class="fas fa-long-arrow-alt-right desaparece"
                                                     id="aparece"></i></a><br><a
                                                 class="arrowblue Tipografia--general Subtitulos"
@@ -301,7 +301,7 @@
                                                 Privacidad <i class="fas fa-long-arrow-alt-right desaparece"
                                                     id="aparece"></i></a></li>
                                         <li><a class="arrowblue Tipografia--general Subtitulos"
-                                                href="Politica_Calidad.php">Politica de Calidad &nbsp <i
+                                                href="../Politics/Politica_Calidad.php">Politica de Calidad &nbsp <i
                                                     class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a>
                                         </li>
                                         <li><a class="arrowblue Tipografia--general Subtitulos"
@@ -496,7 +496,7 @@
                                     </tr>
                                     <tr role="row" class="odd">
                                         <td class="border--hidden sorting_1"><a class="letranegro border--hidden"
-                                                href="Marca.php">Marca</a></td>
+                                                href="Brand.php">Marca</a></td>
                                     </tr>
                                     <tr role="row" class="even">
                                         <td class="border-hidden sorting_1"><a class="letranegro border--hidden"
@@ -620,7 +620,7 @@
 
                                     <tr role="row" class="odd">
                                         <td class="fondo--color--corporativo border--hidden sorting_1"><a
-                                                href="Marca.php"></a></td>
+                                                href="Brand.php"></a></td>
                                     </tr>
                                     <tr role="row" class="even">
                                         <td class="fondo--color--corporativo border--hidden sorting_1"><a

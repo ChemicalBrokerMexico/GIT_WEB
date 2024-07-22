@@ -238,12 +238,12 @@
         </ul>
       </div>
       <div> 
-        <ul> <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock" style="color:white !Important;margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock" style="color:white !Important;display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
-            <div style="display:flex;justify-content:center"> 
-              <p class="Botones Logindesktop Tipografia--general" style="aling-self:center"> <b>Iniciar Sesión</b></p>
-            </div></a>
-          <li class="ul-independiente right"><a class="btn-search-desktop1" href="#" id="busquedaprueba" onclick="abrirsearch();"><i class="material-icons left search-desktop-icon" style="color:black !important;font-size:24px;font-weight:500;position:absolute;z-index:1">search</i></a></li>
-        </ul>
+      <ul><!--  <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="chemicalbroker.mx/Vista/Principal.php" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock color--blanco" style="margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock color--blanco" style="display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
+<div style="display:flex;justify-content:center"> 
+<p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
+</div></a> -->
+<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
+</ul>
         <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i class="material-icons search-mobile-icon" style="width:0px">search</i></a></div>
       </div>
     </nav>
@@ -324,7 +324,7 @@
             <p style="color:white !important;">Servicios</p></a></li>
         <div class="divider"></div>
         <li> <a href="Cumplimiento.php" style="color:white !important"><i class="small material-icons right" style="color:white !important;margin-top:0px !important;">chevron_right</i>
-            <p style="color:white !important;">Cumplimiento </p></a></li>
+            <p style="color:white !important;">SGI</p></a></li>
         <div class="divider"></div>
         <li> <a href="Contact.php" style="color:white !important"><i class="small material-icons right" style="color:white !important;margin-top:0px !important;">chevron_right</i>
             <p style="color:white !important;">Contact</p></a></li>
@@ -404,41 +404,76 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="pharmaceutical.php" style="color:#262137 !important;margin-left:-2px"><b>Farmaceutica</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Tabletas_Duras.php" style="color:#262137 !important;margin-left:-2px"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Tabletas Duras</b></a></section></section>
+        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="pharmaceutical.php" style="color:#262137 !important;margin-left:-2px"><b>Farmaceutica</b><b> > &nbsp</b></a><a class="breditem active" href="Tabletas_Duras.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Tabletas_Duras.php" style="color:#262137 !important;margin-left:-2px"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Tabletas Duras</b></a></section></section>
         </div>
       </div>
     </div>
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-          <p style="color: #858b92a4;"> Este tipo de excipiente se denomina como una forma farmacéutica sólida, que se administra por vía oral, se caracterizan por contener al fármaco
-          dentro del comprimido.
-          </p>
+          <p class="Tipografia--general General--Cuerpo letranegro">La industria de los medicamentos en tabletas es una parte esencial del sector farmacéutico caracterizado por constantes avances y adaptaciones. Las compañías farmacéuticas invierten en investigación y desarrollo para formular tabletas seguras y efectivas, abarcando una amplia variedad de medicamentos.</p>
+          <p class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;">El contenido de las píldoras por lo regular es el siguiente:</p>
+          <ol style="margin-top:30px;">
+            <li class="Elementos--Listas Tipografia--general">Glicerol</li>
+            <br>
+            <li class="Elementos--Listas Tipografia--general">Sorbitol</li>
+            <br>
+            <li class="Elementos--Listas Tipografia--general">Tensioactivos</li>
+            <br>
+            <li class="Elementos--Listas Tipografia--general">Conservantes Antimicrobianos</li>
+            <br>
+            <li class="Elementos--Listas Tipografia--general">Edulcorantes</li>
+            <br>
+            <li class="Elementos--Listas Tipografia--general">Colorantes Autorizados</li>
+            <br>
+            <li class="Elementos--Listas Tipografia--general">Aromatizantes</li>
+          </ol>
+          <p class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;">El contenido de las capsulas puede ser de consistencia sólida, liquida o pastosa. Esta constituido por uno o mas principios activos con o sin excipientes tales como disolventes, diluyentes, lubricantes, disgregantes, el contenido no causa deterioro en la cubierta.</p>
+
+          <h5 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;"><b style="color:#000020;">Tipos de comprimidos</b></h5>
+          <ol style="margin-top:30px;">
+            <li class="Elementos--Listas Tipografia--general">No recubiertos: Obtenidos por simple compresión. Están compuestos por el fármaco y el excipiente (diluyente, aglutinantes, disgregantes, lubricantes),</li>
+            <br>
+            <li class="Elementos--Listas Tipografia--general">Comprimidos de capas múltiples: Obtenidos por múltiples compresiones con lo que se obtienen varios núcleos superpuestos, con distinta compactación en cada uno de ellos. Este tipo de comprimidos se utilizan bien para administrar dos o más fármacos incompatibles entre sí, o bien para obtener una acción más prolongada de uno de ellos. </li>
+            <br>
+            <li class="Elementos--Listas Tipografia--general">Recubiertos o grageas: El recubrimiento sirve para proteger al fármaco de la humedad y del aire, así como para enmascarar sabores y olores desagradables.</li>
+            <br>
+            <li class="Elementos--Listas Tipografia--general">Comprimidos de liberación controlada: Son comprimidos que ejercen un control sobre la liberación del principio activo en el organismo.</li>
+            <br>
+            <li class="Elementos--Listas Tipografia--general">Comprimidos efervescentes: Se obtienen por compresión de un granulado de sales efervescentes, generalmente un ácido, como el ácido cítrico y un álcali como el bicarbonato de sodio.</li>
+            <br>
+            <li class="Elementos--Listas Tipografia--general">Comprimido Sublingual: Se mantienen bajo la lengua hasta su completa absorción.</li>
+            <br>
+            <li class="Elementos--Listas Tipografia--general">Se utiliza esta vía porque la absorción del principio activo es mas rápida o en algunos casos donde el principio activo se absorbe mal o degrada al intestino.</li>
+            <br>
+            <li class="Elementos--Listas Tipografia--general">Comprimido bucodispersable: Al colocarlos en la boca se deshacen rápidamente al entrar en contacto con la saliva, luego se tragan.</li>
+            <br>
+            <li class="Elementos--Listas Tipografia--general">Comprimido de liberación modificada: El objetivo de este tipo de comprimidos es modificar la velocidad, el momento o el lugar de liberación del principio activo </li>
+            <br>
+            <li class="Elementos--Listas Tipografia--general">Comprimido gastro-resistente: El objetivo es que resista los jugos gástricos y se puedan absorber en la zona intestinal. El motivo puede ser porque producen lesiones gástricas o por descomponerse en los jugos gástricos.</li>
+          </ol>
+          <h5 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;"><b style="color:#000020;">Caracteristicas</b></h5>
+          <ol style="margin-top:30px;">
+            <li class="Elementos--Listas Tipografia--general">Se encuentran preparadas solo deben de dosificarse,</li>
+            <br>
+            <li class="Elementos--Listas Tipografia--general">Dosificación de sustancias solidas (polvos, granulados, comprimidos),</li>
+            <br>
+            <li class="Elementos--Listas Tipografia--general">Un tipo de capsula gelatinosa dura apta para sustancias liquidas o semisólidas.</li>
+          </ol>
+
+          <h5 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;"><b>Ventajas de este tipo de capsulas</b></h5>
+          <ol style="margin-top:30px;">
+            <li class="Elementos--Listas Tipografia--general">Composición y elaboración sencilla,</li>
+            <br>
+            <li class="Elementos--Listas Tipografia--general">Protección del fármaco,</li>
+            <br>
+            <li class="Elementos--Listas Tipografia--general">Buenas Características Organolépticas.</li>
+          </ol>
         </div>
       </div>
     </div>
-    <div class="container">
-      <div class="row">
-        <div class="col s12 m12 l12 xl12">
-          <h5> <b style="color:#262137;">Productos</b></h5>
-        </div>
-      </div>
-    </div>
-    <div class="container" style="margin-top:-50px;">
-      <div class="row">
-        <div class="col s12 m12 l6 xl12">
-        <ol>
-          <a href="Proximamente.php" style="color:#262137"><li class="arrowblue">Antioxidantes</li></a>
-          <a href="Proximamente.php" style="color:#262137"><li class="arrowblue">Edulcorantes</li></a>
-          <a href="Proximamente.php" style="color:#262137"><li class="arrowblue">Carbomeros</li></a>
-          <a href="Proximamente.php" style="color:#262137"><li class="arrowblue">Fosfatos</li></a>
-          <a href="Proximamente.php" style="color:#262137"><li class="arrowblue">Polioles</li></a>
-          <a href="Proximamente.php" style="color:#262137"><li class="arrowblue">Pigmentos</li></a>
-          <a href="Proximamente.php" style="color:#262137"><li class="arrowblue">Acidos</li></a>
-        </ol>
-        </div>
-      </div>
-    </div>
+
+   
     <footer style="margin-top:70px">
       <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""></div><br><br>
       <div class="container-fluid" style="text-align:center;margin-top:-50px">

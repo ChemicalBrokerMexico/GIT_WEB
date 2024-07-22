@@ -238,12 +238,12 @@
         </ul>
       </div>
       <div> 
-        <ul> <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock" style="color:white !Important;margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock" style="color:white !Important;display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
-            <div style="display:flex;justify-content:center"> 
-              <p class="Botones Logindesktop Tipografia--general" style="aling-self:center"> <b>Iniciar Sesión</b></p>
-            </div></a>
-          <li class="ul-independiente right"><a class="btn-search-desktop1" href="#" id="busquedaprueba" onclick="abrirsearch();"><i class="material-icons left search-desktop-icon" style="color:black !important;font-size:24px;font-weight:500;position:absolute;z-index:1">search</i></a></li>
-        </ul>
+      <ul><!--  <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="chemicalbroker.mx/Vista/Principal.php" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock color--blanco" style="margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock color--blanco" style="display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
+<div style="display:flex;justify-content:center"> 
+<p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
+</div></a> -->
+<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
+</ul>
         <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i class="material-icons search-mobile-icon" style="width:0px">search</i></a></div>
       </div>
     </nav>
@@ -324,7 +324,7 @@
             <p style="color:white !important;">Servicios</p></a></li>
         <div class="divider"></div>
         <li> <a href="Cumplimiento.php" style="color:white !important"><i class="small material-icons right" style="color:white !important;margin-top:0px !important;">chevron_right</i>
-            <p style="color:white !important;">Sistema de Gestión Integral </p></a></li>
+            <p style="color:white !important;">SGI</p></a></li>
         <div class="divider"></div>
         <li> <a href="Contact.php" style="color:white !important"><i class="small material-icons right" style="color:white !important;margin-top:0px !important;">chevron_right</i>
             <p style="color:white !important;">Contact</p></a></li>
@@ -411,8 +411,25 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-          <p style="color: #858b92a4;"> Este tipo de capsula a diferencia de las tabletas duras son de pared gruesa y requieren ingredientes tales como la glicerina, para lograr su textura suave, Se adaptan perfectamente para la administración de líquidos, medios activos o nutrientes a base de aceite 
-          </p>
+          <p class="Tipografia--general letranegro General--Cuerpo">Son una forma de dosificación oral que consiste en una cubierta externa suave y flexible, generalmente hecha de gelatina o material polimerico, que contiene el medicamento líquido, semisólido o en forma de gel. Esta cubierta proporciona una barrera protectora para el medicamento y facilita su ingestión </p>
+          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Ventajas de las capsulas blandas</b></h5>
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Permiten la administración de formulaciones liquidas, semisólidas o viscosas que no se pueden comprimir en tabletas.</li>
+            <br>
+            <li class="Elementos--Listas">Son fáciles de tragar y tienen un tiempo de disolución más rápido en comparación con las tabletas.</li>
+            <br>
+            <li class="Elementos--Listas">Pueden contener dosis variables de medicamentos lo que permite una dosificación mas precisa </li>
+            <br>
+            <li class="Elementos--Listas">La cubierta externa proporciona protección contra la oxidación, la humedad y otros factores que podrían degradar el medicamento </li>
+          </ol>
+          <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Aplicaciones en la industria farmacéutica: Las capsulas blandas se utilizan para una amplia gama de medicamentos, incluidos analgésicos, vitaminas, suplementos dietéticos, aceites esenciales y productos farmacéuticos especializados. También son populares para medicamentos de venta libre y productos nutracéuticos.</p>
+          <ol style="margin-top:30px;">
+            <li class="Elementos--Listas">Contener fármacos sin que se perciba su olor</li>
+            <li class="Elementos--Listas">Tamaño de 5mm a 2cm</li>
+            <li class="Elementos--Listas">Dosificar líquidos o pastas que no disuelvan sus paredes</li>
+            <li class="Elementos--Listas">Dosificar sólidos, disueltos o dispersados en un excipiente adecuado</li>
+          </ol>
+
         </div>
       </div>
     </div>
@@ -427,7 +444,7 @@
       <div class="row">
         <div class="col s12 m12 l6 xl12">
         <ol>
-          <a href="Glycerins.php" style="color:#262137"><li class="arrowblue">Glicerinas</li></a>
+          <a href="Glycerins.php" style="color:#262137"><li class="arrowblue" style="list-style-type:disc;">Glicerinas</li></a>
         </ol>
         </div>
       </div>

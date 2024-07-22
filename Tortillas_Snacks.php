@@ -237,12 +237,12 @@
         </ul>
       </div>
       <div> 
-        <ul> <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock" style="color:white !Important;margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock" style="color:white !Important;display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
-            <div style="display:flex;justify-content:center"> 
-              <p class="Botones Logindesktop Tipografia--general" style="aling-self:center"> <b>Iniciar Sesión</b></p>
-            </div></a>
-          <li class="ul-independiente right"><a class="btn-search-desktop1" href="#" id="busquedaprueba" onclick="abrirsearch();"><i class="material-icons left search-desktop-icon" style="color:black !important;font-size:24px;font-weight:500;position:absolute;z-index:1">search</i></a></li>
-        </ul>
+      <ul><!--  <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="chemicalbroker.mx/Vista/Principal.php" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock color--blanco" style="margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock color--blanco" style="display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
+<div style="display:flex;justify-content:center"> 
+<p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
+</div></a> -->
+<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
+</ul>
         <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i class="material-icons search-mobile-icon" style="width:0px">search</i></a></div>
       </div>
     </nav>
@@ -323,7 +323,7 @@
             <p style="color:white !important;">Servicios</p></a></li>
         <div class="divider"></div>
         <li> <a href="Cumplimiento.php" style="color:white !important"><i class="small material-icons right" style="color:white !important;margin-top:0px !important;">chevron_right</i>
-            <p style="color:white !important;">Cumplimiento </p></a></li>
+            <p style="color:white !important;">SGI</p></a></li>
         <div class="divider"></div>
         <li> <a href="Contact.php" style="color:white !important"><i class="small material-icons right" style="color:white !important;margin-top:0px !important;">chevron_right</i>
             <p style="color:white !important;">Contact</p></a></li>
@@ -410,9 +410,12 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <p style="color:#262137">En México, de acuerdo con datos del INEGI (Instituto Nacional de Estadística y Geografía) los snacks fritos generan un mercado cuyo valor asciende a USD 3.232 millones y una producción de 22.558 toneladas
-        Dentro de los datos de la agencia de investigación de mercados Euromonitor Internacional, en la categoría de snacks han predominado los empaques individuales o mas pequeños,  
-          </p>
+        <p style="color:#262137" class="General--Cuerpo Tipografia--general letranegro">Los alimentos del tipo snack forman parte normal de los hábitos de consumo en la población mexicana y representa un mercado de gran dinamismo, sin embargo, este mercado no crece a pasos acelerados como podría ser el caso de otros, en México este mercado tiene un valor de USD 3.232 millones y una producción de 22.558 toneladas, Chemical Broker en conjunto con sus clientes se enfoca en la búsqueda de productos químicos, que resulten útiles en la fabricación de estos productos. </p>
+        <p class="General--Cuerpo Tipografia--general letranegro" style="margin-top:50px;"><b style="color:#000020;">¿Qué es un snack?</b> Papas fritas o papas, frutos secos, rosquilletas, triángulos de maíz tostados, generalmente se consumen por placer o para satisfacer temporalmente el hambre</p>
+        <p class="General--Cuerpo Tipografia--general letranegro" style="margin-top:50px;">Sin embargo en la actualidad un snack es mucho mas que eso y en muchos casos puede ser una de las 5 comidas diarias que debemos hacer</p>
+        <p class="General--Cuerpo Tipografia--general letranegro" style="margin-top:50px;">En muchos casos no tiene mucho o ningún valor nutricional y tienen importantes cantidades de edulcorantes, conservantes, saborizantes, sal y otros ingredientes que no contribuyen a cuidar la salud.</p>
+        <p class="General--Cuerpo Tipografia--general letranegro" style="margin-top:50px;">A día de hoy el concepto de snack esta cambiando hacia un producto mas sano, donde existe un equilibrio entre sabor y salud. Es decir, productos que cubren el placer que supone consumir un snack.</p>
+        <p class="General--Cuerpo Tipografia..general letranegro" style="margin-top:50px;">Además de responder a la pregunta de que es un snack debemos señalar que es un alimento que utilizamos para comer a media mañana o media tarde, que nos permite lograr un buen fraccionamiento, controlar el nivel de hambre o apetito y mantener el aparato digestivo ocupado y en actividad.</p>
         </div>
       </div>
     </div>

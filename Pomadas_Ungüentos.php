@@ -237,12 +237,12 @@
         </ul>
       </div>
       <div> 
-        <ul> <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock" style="color:white !Important;margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock" style="color:white !Important;display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
-            <div style="display:flex;justify-content:center"> 
-              <p class="Botones Logindesktop Tipografia--general" style="aling-self:center"> <b>Iniciar Sesión</b></p>
-            </div></a>
-          <li class="ul-independiente right"><a class="btn-search-desktop1" href="#" id="busquedaprueba" onclick="abrirsearch();"><i class="material-icons left search-desktop-icon" style="color:black !important;font-size:24px;font-weight:500;position:absolute;z-index:1">search</i></a></li>
-        </ul>
+      <ul><!--  <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="chemicalbroker.mx/Vista/Principal.php" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock color--blanco" style="margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock color--blanco" style="display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
+<div style="display:flex;justify-content:center"> 
+<p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
+</div></a> -->
+<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
+</ul>
         <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i class="material-icons search-mobile-icon" style="width:0px">search</i></a></div>
       </div>
     </nav>
@@ -323,7 +323,7 @@
             <p style="color:white !important;">Servicios</p></a></li>
         <div class="divider"></div>
         <li> <a href="Cumplimiento.php" style="color:white !important"><i class="small material-icons right" style="color:white !important;margin-top:0px !important;">chevron_right</i>
-            <p style="color:white !important;">Sistema de Gestión Integral </p></a></li>
+            <p style="color:white !important;">SGI</p></a></li>
         <div class="divider"></div>
         <li> <a href="Contact.php" style="color:white !important"><i class="small material-icons right" style="color:white !important;margin-top:0px !important;">chevron_right</i>
             <p style="color:white !important;">Contact</p></a></li>
@@ -410,15 +410,28 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-          <p style="color: #858b92a4;">Los ungüentos o pomadas son fármacos generados en consecuencia de la utilización de grasas o sustancias de propiedades similares, para aplicación de principios activos en la piel. Su diferencia fundamental con las cremas es la ausencia de agua en su composición
-          </p>
+          <p class="General--Cuerpo Tipografia--general colornegro">Las preparaciones farmacéuticas para el tratamiento de afecciones como; erupciones cutaeas, irritacion de la piel, picaduras, infecciones fungicas, son normalmente suministradas en forma de crema o pomada, ya que esto proporciona un medio eficaz para administrar el ingrediente activo, directamente en el área requerida, Chemical Broker en conjunto con sus clientes se encarga de la correcta distribución de ingredientes químicos adecuados para esta industria</p>
+          <p class="General--Cuerpo Tipografia--general colornegro" style="margin-top:50px;">Están constituidos por grasas o sustancias de parecidas características que presentan aspecto semisólido a 25°C. Es esta propiedad física lo que realmente las define ya que la composición química es enormemente variada.</p>
+          <h5 class="General--Cuerpo Tipografia--general colornegro" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones:</b></h5>
+          <p class="General--Cuerpo Tipografia--general colornegro" style="margin-top:0px;">Las pomadas se aplican para diversas finalidades, desde aliviar dolores musculares hasta tratar problemas de la piel. Su versatilidad las hace aptas para el cuidado terapéutico y estético.</p>
+          <h5 class="General--Cuerpo Tipografia--general colornegro" style="margin-top:50px;"><b style="color:#000020;">Crecimiento economico de la industria</b></h5>
+          <p class="General--Cuerpo Tipografia--general colornegro" style="margin-top:0px;">El crecimiento económico de la industria de las pomadas ha sido notable en los últimos años. Varios factores contribuyen a este aumento, incluyendo la creciente demanda de productos de cuidado personal y terapéuticos, asi como el interés en ingredientes naturales y orgánicos.</p>
+          <p class="General--Cuerpo Tipografia--general colornegro" style="margin-top:50px;">El mercado de las pomadas ha experimentado una expansión debido a la diversificación de aplicaciones, desde propiedades medicinales hasta enfoques mas estéticos. La innovación constante en formulaciones, con un énfasis en ingredientes de alta calidad ha impulsado la preferencia del consumidor.</p>
+          <h5 class="General--Cuerpo Tipografia--general colornegro" style="margin-top:50px;"><b style="color:#000020;">Proceso de fabricación típico</b></h5>
+          <ol style="margin-top:30px;">
+            <li class="Elementos--Listas" >Preparación de la fase oleosa: Los ingredientes en escamas o en polvo, a veces mezclados en seco por adelantado, se dispersan en aceite mineral o aceite de silicona.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Hidratación de ingredientes en fase acuosa: Los emulsionantes, espesantes y estabilizantes se dispersan en agua en un tanque separado.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Formado la emulsión: Las dos fases se mezclan bajo agitación vigorosa para formar la emulsión.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Dispersión de la ingresión activa: Los ingredientes activos solo constituyen una proporción pequeña de la formulación, pero deben dispersarse correctamente para maximizar el rendimiento.</li>
+          </ol>
+
         </div>
       </div>
     </div>
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-          <h5> <b style="color:#262137;">Productos</b></h5>
+          <h5 class="Tipografia--general General--Cuerpo letranegro"><b style="color:#262137;">Productos</b></h5>
         </div>
       </div>
     </div>
@@ -426,11 +439,11 @@
       <div class="row">
         <div class="col s12 m12 l6 xl12">
         <ol>
-          <a href="Proximamente.php" style="color:#262137"><li class="arrowblue">Antioxidantes</li></a>
-          <a href="Proximamente.php" style="color:#262137"><li class="arrowblue">Carbomeros</li></a>
-          <a href="Proximamente.php" style="color:#262137"><li class="arrowblue">Acidos Grasos Naturales</li></a>
-          <a href="Glycerins.php" style="color:#262137"><li class="arrowblue">Glicerinas</li></a>
-          <a href="Proximamente.php" style="color:#262137"><li class="arrowblue">Polioles</li></a>
+          <a href="Proximamente.php" style="color:#262137"><li class="arrowblue Elementos--Listas">Antioxidantes</li></a>
+          <a href="Proximamente.php" style="color:#262137"><li class="arrowblue Elementos--Listas" style="margin-top:30px;">Carbomeros</li></a>
+          <a href="Proximamente.php" style="color:#262137"><li class="arrowblue Elementos--Listas" style="margin-top:30px;">Acidos Grasos Naturales</li></a>
+          <a href="Glycerins.php" style="color:#262137"><li class="arrowblue Elementos--Listas" style="margin-top:30px;">Glicerinas</li></a>
+          <a href="Proximamente.php" style="color:#262137"><li class="arrowblue Elementos--Listas" style="margin-top:30px;">Polioles</li></a>
         </ol>
         </div>
       </div>
