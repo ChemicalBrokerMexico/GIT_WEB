@@ -1222,6 +1222,10 @@ font-size: 12px;
             display: none;
         }
 
+        .Agrasosmobile{
+            display: inline;
+        }
+
 }
 
 @media only screen and (min-width: 576px) {
@@ -2042,6 +2046,9 @@ font-size: 12px;
         width: 65%;
     }
 
+    .Agrasosmobile{
+        display: inline;
+    }
 
 }
 
@@ -3576,7 +3583,7 @@ margin-top:51px;
     }
 
     .General--Cuerpo{
-        font-size:13px;
+        font-size:18px;
     }
 
     .Botones{
@@ -5307,6 +5314,10 @@ margin-top:85px;
         .videos_mercados{
             width:108%;
             margin-top:-200px;
+        }
+
+        .Agrasosmobile{
+            display: none;
         }
 
 }

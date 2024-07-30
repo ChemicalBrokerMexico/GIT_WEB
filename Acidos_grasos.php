@@ -707,7 +707,7 @@
 
           <!-- Tabla para movil 1 -->
 
-          <table border="1" style="margin-top:50px;display:none" id="Agrasoscoco" name="Agrasoscoco">
+          <table border="1" style="margin-top:50px;" class="Agrasosmobile" id="Agrasoscoco" name="Agrasoscoco">
             <tr>
               <td>FA C818D</td>
             </tr>
@@ -770,7 +770,7 @@
           
         <!-- tabla para movil 2 -->
 
-        <table border="1" style="margin-top:50px;display:none" id="Agrasoscoco2" name="Agrasoscoco2">
+        <table border="1" style="margin-top:50px;" class="Agrasosmobile" id="Agrasoscoco2" name="Agrasoscoco2">
             <tr>
               <td>FAC818H</td>
             </tr>
@@ -832,7 +832,7 @@
           </table>
 
           <!-- tabla para movil 3 -->
-          <table border="1" style="margin-top:50px;display:none" id="Agrasoscoco3" name="Agrasoscoco3">
+          <table border="1" style="margin-top:50px;" class="Agrasosmobile" id="Agrasoscoco3" name="Agrasoscoco3">
             <tr>
               <td>FA C818DH</td>
             </tr>
@@ -895,7 +895,7 @@
 
           <!-- tabla para movil 4 -->
 
-          <table border="1" style="margin-top:50px;display:none" id="Agrasoscoco4" name="Agrasoscoco5">
+          <table border="1" style="margin-top:50px;"  class="Agrasosmobile" id="Agrasoscoco4" name="Agrasoscoco5">
             <tr>
               <td>FA C1218DH</td>
             </tr>
@@ -959,7 +959,7 @@
 
           <!-- tabla para movil 5 -->
 
-          <table border="1" style="margin-top:50px;display:none" id="Agrasoscoco" name="Agrasoscoco">
+          <table border="1" style="margin-top:50px;"  class="Agrasosmobile" id="Agrasoscoco" name="Agrasoscoco">
             <tr>
               <td>FA C818D</td>
             </tr>
@@ -1022,7 +1022,7 @@
 
           <!-- tabla para movil 6 -->
 
-          <table border="1" style="margin-top:50px;display:none" id="Agrasosfraccionados" name="Agrasosfraccionados">
+          <table border="1" style="margin-top:50px;"  class="Agrasosmobile" id="Agrasosfraccionados" name="Agrasosfraccionados">
             <tr>
               <td>LC 899</td>
             </tr>
@@ -1114,7 +1114,7 @@
 
           <!-- tabla para movil 7 -->
 
-          <table border="1" style="margin-top:50px;display:none" id="Agrasosfraccionados2" name="Agrasosfraccionados2">
+          <table border="1" style="margin-top:50px;" class="Agrasosmobile" id="Agrasosfraccionados2" name="Agrasosfraccionados2">
             <tr>
               <td>LC 810L</td>
             </tr>
@@ -1202,7 +1202,7 @@
 
           <!-- tabla para movil 8 -->
 
-          <table border="1" style="margin-top:50px;display:none" id="Agrasosfraccionados3" name="Agrasosfraccionados3">
+          <table border="1" style="margin-top:50px;" class="Agrasosmobile" id="Agrasosfraccionados3" name="Agrasosfraccionados3">
             <tr>
               <td>LC 1099</td>
             </tr>
@@ -1290,7 +1290,7 @@
 
           <!-- tabla para movil 9 Continuar Aqui -->
 
-          <table border="1" style="margin-top:50px;display:none" id="Agrasosfraccionados4" name="Agrasosfraccionados4">
+          <table border="1" style="margin-top:50px;" class="Agrasosmobile" id="Agrasosfraccionados4" name="Agrasosfraccionados4">
             <tr>
               <td>FA 1299</td>
             </tr>
@@ -1374,7 +1374,7 @@
 
             <!--tabla para movil 10  -->
 
-            <table border="1" style="margin-top:50px;display:none" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
+            <table border="1" style="margin-top:50px;" class="Agrasosmobile" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
             <tr>
               <td>FA 1498</td>
             </tr>
@@ -1459,7 +1459,7 @@
 
                       <!--tabla para movil 11  -->
 
-          <table border="1" style="margin-top:50px;display:none" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
+          <table border="1" style="margin-top:50px;" class="Agrasosmobile" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
             <tr>
               <td>FA 1695V</td>
             </tr>
@@ -1542,7 +1542,7 @@
 
           <!-- Tabla de movil 12 -->
 
-          <table border="1" style="margin-top:50px;display:none" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
+          <table border="1" style="margin-top:50px;" class="Agrasosmobile" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
             <tr>
               <td>FA 1890V</td>
             </tr>
@@ -1626,16 +1626,16 @@
           <!-- Tabla movil 13 -->
 
           
-          <table border="1" style="margin-top:50px;display:none" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
+          <table border="1" style="margin-top:50px;" class="Agrasosmobile" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
             <tr>
-              <td>FA 1498</td>
+              <td>FA 1655V</td>
             </tr>
             <tr>
               <td>
                 Tipo de Ácido Graso
               </td>
               <td>
-                Mirístico   
+                Triple Prensado  
                          </td>
             </tr>
             <tr>
@@ -1644,89 +1644,84 @@
             </tr>
             <tr>
               <td>Titer</td>
-              <td>58-63</td>
+              <td>54-57</td>
             </tr>
             <tr>
               <td>Índice de Yodo</td>
-              <td>0.5 Máx</td>
+              <td>0.5 Max</td>
             </tr>
             <tr>
               <td>Valor de Ácido</td>
-              <td>244-248</td>
+              <td>205-211</td>
             </tr>
             <tr>
               <td>Valor de Saponificación</td>
-              <td>245-249</td>
+              <td>206-211</td>
             </tr>
             <tr>
               <td>Color, Lovibond</td>
-              <td>2.0/0.2 Máx</td>
+              <td>5.0/0.5 Max</td>
             </tr>
             <tr>
               <td>% de Transmitancia a 440nm/550nm</td>
-              <td>NR</td>
+              <td>85/95 Max</td>
             </tr>
             <tr>
               <td>Numero CAS</td>
-              <td>544-63-8</td>
+              <td>67701-03-5</td>
             </tr>
             <tr>
               <td>Composiion de Ácidos Grasos en %</td>
             </tr>
             <tr>
-              <td>C8</td>
-              <td></td>
-            </tr>
-            <tr>
-            <td>C10</td>
-            <td></td>
-            </tr>
-            <tr>
               <td>C12</td>
-              <td>1 Máx</td>
+              <td>NR</td>
             </tr>
             <tr>
-              <td>C14</td>
-              <td>98 Min</td>
+            <td>C14</td>
+            <td>NR</td>
             </tr>
             <tr>
               <td>C16</td>
-              <td>2 Máx</td>
+              <td>50-56</td>
             </tr>
             <tr>
               <td>C18</td>
-              <td></td>
+              <td>44-50</td>
             </tr>
             <tr>
               <td>C18:1</td>
               <td></td>
             </tr>
             <tr>
-              <td>Otros Enlaces de Cadena</td>
+              <td>Other</td>
               <td></td>
             </tr>
           </table>
 
           
-          <table border="1" style="margin-top:50px;display:none" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
+          <!-- Tabla movil 14 -->
+
+
+          <table border="1" style="margin-top:50px;" class="Agrasosmobile" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
             <tr>
-              <td>FA 1498</td>
+              <td>FA 1855V</td>
             </tr>
             <tr>
               <td>
                 Tipo de Ácido Graso
               </td>
               <td>
-                Mirístico   
+                Double Pressed  
                          </td>
             </tr>
             <tr>
               <td>Valor de Humedad (%KF)</td>
-              <td>Reportar</td>
+              <td>0.3 Max</td>
             </tr>
             <tr>
               <td>Titer</td>
-              <td>58-63</td>
+              <td>(55)</td>
             </tr>
             <tr>
               <td>Índice de Yodo</td>
@@ -1734,142 +1729,63 @@
             </tr>
             <tr>
               <td>Valor de Ácido</td>
-              <td>244-248</td>
+              <td>205-211</td>
             </tr>
             <tr>
               <td>Valor de Saponificación</td>
-              <td>245-249</td>
-            </tr>
-            <tr>
-              <td>Color, Lovibond</td>
-              <td>2.0/0.2 Máx</td>
-            </tr>
-            <tr>
-              <td>% de Transmitancia a 440nm/550nm</td>
               <td>NR</td>
             </tr>
             <tr>
+              <td>Color, Lovibond</td>
+              <td>5.0/0.5 Max</td>
+            </tr>
+            <tr>
+              <td>% de Transmitancia a 440nm/550nm</td>
+              <td>85/95 Max</td>
+            </tr>
+            <tr>
               <td>Numero CAS</td>
-              <td>544-63-8</td>
+              <td>67701-03-5</td>
             </tr>
             <tr>
               <td>Composiion de Ácidos Grasos en %</td>
             </tr>
             <tr>
-              <td>C8</td>
-              <td></td>
-            </tr>
-            <tr>
-            <td>C10</td>
-            <td></td>
-            </tr>
-            <tr>
               <td>C12</td>
-              <td>1 Máx</td>
+              <td>1 Max</td>
             </tr>
             <tr>
-              <td>C14</td>
-              <td>98 Min</td>
+            <td>C14</td>
+            <td>2 Max</td>
             </tr>
             <tr>
               <td>C16</td>
-              <td>2 Máx</td>
+              <td>42-50</td>
             </tr>
             <tr>
               <td>C18</td>
-              <td></td>
+              <td>50-55</td>
+            </tr>
+            <tr>
+              <td>C16</td>
+              <td>42-50</td>
+            </tr>
+            <tr>
+              <td>C18</td>
+              <td>50-55</td>
             </tr>
             <tr>
               <td>C18:1</td>
-              <td></td>
+              <td>1 Max</td>
             </tr>
             <tr>
-              <td>Otros Enlaces de Cadena</td>
+              <td>Otros</td>
               <td></td>
             </tr>
           </table>
 
           
-          <table border="1" style="margin-top:50px;display:none" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
-            <tr>
-              <td>FA 1498</td>
-            </tr>
-            <tr>
-              <td>
-                Tipo de Ácido Graso
-              </td>
-              <td>
-                Mirístico   
-                         </td>
-            </tr>
-            <tr>
-              <td>Valor de Humedad (%KF)</td>
-              <td>Reportar</td>
-            </tr>
-            <tr>
-              <td>Titer</td>
-              <td>58-63</td>
-            </tr>
-            <tr>
-              <td>Índice de Yodo</td>
-              <td>0.5 Máx</td>
-            </tr>
-            <tr>
-              <td>Valor de Ácido</td>
-              <td>244-248</td>
-            </tr>
-            <tr>
-              <td>Valor de Saponificación</td>
-              <td>245-249</td>
-            </tr>
-            <tr>
-              <td>Color, Lovibond</td>
-              <td>2.0/0.2 Máx</td>
-            </tr>
-            <tr>
-              <td>% de Transmitancia a 440nm/550nm</td>
-              <td>NR</td>
-            </tr>
-            <tr>
-              <td>Numero CAS</td>
-              <td>544-63-8</td>
-            </tr>
-            <tr>
-              <td>Composiion de Ácidos Grasos en %</td>
-            </tr>
-            <tr>
-              <td>C8</td>
-              <td></td>
-            </tr>
-            <tr>
-            <td>C10</td>
-            <td></td>
-            </tr>
-            <tr>
-              <td>C12</td>
-              <td>1 Máx</td>
-            </tr>
-            <tr>
-              <td>C14</td>
-              <td>98 Min</td>
-            </tr>
-            <tr>
-              <td>C16</td>
-              <td>2 Máx</td>
-            </tr>
-            <tr>
-              <td>C18</td>
-              <td></td>
-            </tr>
-            <tr>
-              <td>C18:1</td>
-              <td></td>
-            </tr>
-            <tr>
-              <td>Otros Enlaces de Cadena</td>
-              <td></td>
-            </tr>
-          </table>
+      
         
   <table border="1" style="margin-top:50px;">
 

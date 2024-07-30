@@ -674,15 +674,15 @@
 
         <ol>
      
-            <li style="list-style-type:disc;margin-top:0px;" class="Elementos--listas">Cocción y Freír. - tiene un alto punto de humo, lo que lo hace adecuado para la cocción y freir a altas temperaturas. Su estabilidad térmica significa que puede soportar temperaturas elevadas sin descomponerse o producir humo.</li>
-            <li style="list-style-type:disc;margin-top:30px;" class="Elementos--listas">Sabor neutro. - El proceso de refinado y desodorización elimina gran parte del sabor y olor característicos de la soya, dejando un aceite con un sabor neutro. Esto hace que sea versátil y adecuado para una gran variedad de preparaciones culinarias sin afectar significativamente el sabor d ellos alimentos.</li>
-            <li style="list-style-type:disc;margin-top:30px;" class="Elementos--listas">Extensor de vida útil. - el proceso de refinado ayuda a eliminar impurezas y componentes que podrían hacer que el aceite se vuelva rancio más rápidamente. Como resultado tiene una vida útil más larga en comparación con los aceites crudos.</li>
-            <li style="list-style-type:disc;margin-top:30px" class="Elementos--listas">Textura y Emulsificación. - se utiliza en la fabricación de productos alimenticios para mejorar la textura y la boca. También se utiliza como agente emulsionante en productos como mayonesas y aderezos para ensaladas.</li>
+            <li style="list-style-type:disc;margin-top:0px;" class="Elementos--listas"><b>Cocción y Freír. -</b> tiene un alto punto de humo, lo que lo hace adecuado para la cocción y freir a altas temperaturas. Su estabilidad térmica significa que puede soportar temperaturas elevadas sin descomponerse o producir humo.</li>
+            <li style="list-style-type:disc;margin-top:30px;" class="Elementos--listas"><b>Sabor neutro. -</b> El proceso de refinado y desodorización elimina gran parte del sabor y olor característicos de la soya, dejando un aceite con un sabor neutro. Esto hace que sea versátil y adecuado para una gran variedad de preparaciones culinarias sin afectar significativamente el sabor d ellos alimentos.</li>
+            <li style="list-style-type:disc;margin-top:30px;" class="Elementos--listas"><b>Extensor de vida útil. -</b> el proceso de refinado ayuda a eliminar impurezas y componentes que podrían hacer que el aceite se vuelva rancio más rápidamente. Como resultado tiene una vida útil más larga en comparación con los aceites crudos.</li>
+            <li style="list-style-type:disc;margin-top:30px" class="Elementos--listas"><b>Textura y Emulsificación. -</b> se utiliza en la fabricación de productos alimenticios para mejorar la textura y la boca. También se utiliza como agente emulsionante en productos como mayonesas y aderezos para ensaladas.</li>
         </ol>
 
         <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Aplicaciones</b></h2>    
 
-        <h2 class="Tipografia--general letranegro Titulos" >Industria Alimentaria:</h2> 
+        <h2 class="Tipografia--general letranegro Titulos" ><b>Industria Alimentaria:</b></h2> 
 
         <ol>
         <li style="list-style-type:disc;margin-top:0px;" class="Elementos--listas">Panificación</li>
@@ -692,7 +692,7 @@
             <li style="list-style-type:disc;" class="Elementos--listas">Margarinas</li>
         </ol>
 
-        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;" >Industria Cosmética:</h2> 
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;" ><b>Industria Cosmética:</b></h2> 
 
         <ol>
         <li style="list-style-type:disc;margin-top:0px;" class="Elementos--listas">Cremas</li>
@@ -700,27 +700,27 @@
             <li style="list-style-type:disc;margin-top:;" class="Elementos--listas">Champús</li>
         </ol>
 
-        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;" >Industria Farmacéutica:</h2> 
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;" ><b>Industria Farmacéutica:</b></h2> 
 
         <ol>
         <li style="list-style-type:disc;margin-top:0px;" class="Elementos--listas">Excipiente en la fabricación de Productos farmacéuticos</li>
             <li style="list-style-type:disc;margin-top:;" class="Elementos--listas">Excipiente en la fabricación de Suplementos nutricionales</li>
         </ol>
 
-        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;" >Industria de Biocombustibles:</h2> 
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;" ><b>Industria de Biocombustibles:</b></h2> 
 
         <ol>
         <li style="list-style-type:disc;margin-top:0px;" class="Elementos--listas">Biodiesel</li>
         </ol>
 
-        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;" >Industria de Plásticos:</h2> 
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;" ><b>Industria de Plásticos:</b></h2> 
 
         <ol>
         <li style="list-style-type:disc;margin-top:0px;" class="Elementos--listas">Aditivo para mejorar la flexibilidad y maleabilidad</li>
         </ol>
 
 
-        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;" >Industria de Pinturas y Recubrimientos:</h2> 
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;" ><b>Industria de Pinturas y Recubrimientos:</b></h2> 
 
         <ol>
         <li style="list-style-type:disc;margin-top:0px;" class="Elementos--listas">Agente que proporciona fluidez</li>
