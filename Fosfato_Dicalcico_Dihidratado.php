@@ -510,7 +510,86 @@
         <li class="Elementos--Listas" style="margin-top:30px;">gente de Precipitación: Utilizado en el tratamiento de aguas residuales para precipitar iones metálicos y otros contaminantes, facilitando su eliminación.</li>
       </ol>
 
-      
+      <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:black;"><b>Específicaciones</b></h5>
+
+  <div style="background-color:#FF6600;">
+    <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:white;">Fosfato Di Cálcico Anhidro (FDCA) | Grado Alimentos</h5>
+  </div>
+
+  <table>
+    <tr>
+    <th style="color:#FF6600;" class="Tipografia--general General--Cuerpo"><b>Características</b></th>
+    <th style="color:#FF6600;" class="Tipografia--general General--Cuerpo"><b>Fosfato Di Cálcico Anhidro (FDCA)</b></th>
+    </tr>
+    <tr>
+      <td  class="Tipografia--general General--Cuerpo">Grado:</td>
+      <td  class="Tipografia--general General--Cuerpo">Alimentos</td>
+    </tr>
+    <tr>
+<td class="Tipografia--general General--Cuerpo">Certificaciones:</td>
+<td class="Tipografia--general General--Cuerpo">Kosher | Halal</td>
+    </tr>
+    <tr>
+<td class="Tipografia--general General--Cuerpo">CAS:</td>
+<td class="Tipografia--general General--Cuerpo">7757-93-9</td>
+    </tr>
+    <tr>
+<td class="Tipografia--general General--Cuerpo">EINECS:</td>
+<td class="Tipografia--general General--Cuerpo">231-826-1</td>
+    </tr>
+    <tr>
+<td class="Tipografia--general General--Cuerpo">Formula:</td>
+<td class="Tipografia--general General--Cuerpo">CaHO4P</td>
+    </tr>
+    <tr>
+<td class="Tipografia--general General--Cuerpo">Peso Molecular:</td>
+<td class="Tipografia--general General--Cuerpo">136.06</td>
+    </tr>
+    <tr>
+<td class="Tipografia--general General--Cuerpo">Apariencia:</td>
+<td class="Tipografia--general General--Cuerpo">Polvo Blanco</td>
+    </tr>
+    <tr>
+<td class="Tipografia--general General--Cuerpo">Contenido (CaHPO.2H20) (%):</td>
+<td class="Tipografia--general General--Cuerpo">98.0 - 105.0</td>
+    </tr>
+    <tr>
+<td class="Tipografia--general General--Cuerpo">Sustancia insoluble en Acido Clorhídrico (%):</td>
+<td class="Tipografia--general General--Cuerpo">< 0.05</td>
+    </tr>
+    <tr>
+<td class="Tipografia--general General--Cuerpo">Perdida por ignición (%):</td>
+<td class="Tipografia--general General--Cuerpo">24.5 - 26.5</td>
+    </tr>
+    <tr>
+<td class="Tipografia--general General--Cuerpo">Fluoruro (F) (mg/Kg):</td>
+<td class="Tipografia--general General--Cuerpo">< 10 </td>
+    </tr>
+    <tr>
+<td class="Tipografia--general General--Cuerpo">Metales Pesados (mg/Kg):</td>
+<td class="Tipografia--general General--Cuerpo">< 10</td>
+    </tr>
+    <tr>
+<td class="Tipografia--general General--Cuerpo">Plomo (PB (mg/Kg):</td>
+<td class="Tipografia--general General--Cuerpo">< 2</td>
+    </tr>
+    <tr>
+<td class="Tipografia--general General--Cuerpo">Arsénico (As) (mg/Kg):</td>
+<td class="Tipografia--general General--Cuerpo">< 2 </td>
+    </tr>
+    <tr>
+<td class="Tipografia--general General--Cuerpo">Presentación:</td>
+<td class="Tipografia--general General--Cuerpo">Sacos 25 Kg.</td>
+    </tr>
+    <tr>
+<td class="Tipografia--general General--Cuerpo">Vida de Anaquel:</td>
+<td class="Tipografia--general General--Cuerpo">24 meses</td>
+    </tr>
+    <tr>
+<td class="Tipografia--general General--Cuerpo">Aplicaciones:</td>
+<td class="Tipografia--general General--Cuerpo">Se utiliza como agente leudante de alimentos y potenciador de calcio, agente aromatizante de vino, promotor de fermentación, etc.</td>
+    </tr>
+  </table>
 
     </div>
 </div>

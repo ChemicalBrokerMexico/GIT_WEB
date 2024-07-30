@@ -729,12 +729,12 @@
 
         <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Fabricante</b></h2>
 
-<img src="img/Cargill-Logo_2.png" alt="" width="30%" style="margin-top:0px;">
+<img src="img/Cargill-Logo_2.png" alt="" style="margin-top:0px;" class="cargill-logo">
 
 <h2 class="Tipografia--general letranegro Titulos" style="margin-top:30px;margin-bottom:0px;" >Literatura Técnica</h2> 
 
 <ol>
-            <a href="PDF/CARGILL_HE_ACEITE-SOYA-RBD_CODIGO_100128986_120722.pdf"><li style="list-style-type:disc;color: rgba(2 146 238 /99%);" class="Elementos--Listas arrowblue">CARGILL_HE_ACEITE-SOYA-RBD_CODIGO_100128986_120722.pdf</li></a>
+            <a href="PDF/CARGILL_HE_ACEITE-SOYA-RBD_CODIGO_100128986_120722.pdf"><li style="list-style-type:disc;color: rgba(2 146 238 /99%);margin-left:-40px;" class="Elementos--Listas arrowblue">CARGILL_HE_ACEITE-SOYA-RBD_CODIGO_100128986_120722.pdf</li></a>
         </ol>
 
     </div>

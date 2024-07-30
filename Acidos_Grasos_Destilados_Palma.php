@@ -356,7 +356,7 @@
 <li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
 </ul>
       <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i
-            class="material-icons search-mobile-icon" style="width:0px">search</i></a></div>
+            class="material-icons search-mobile-icon" style="width:0px;margin-left:-10px;">search</i></a></div>
     </div>
   </nav>
   <ul class="collapsible" id="search1" style="display:none">
@@ -664,7 +664,7 @@
                     </ol>
                 </ol>
                 <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#000020;">Fabricante</b></h2>
-                <img src="img/Cargill-Logo_2.png" alt="" style="width:20%;">
+                <img src="img/Cargill-Logo_2.png" alt="" class="cargill-logo">
                 <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#000020;">Literatura Técnica</b></h2>
                 <ol>
                         <a href="PDF/CATALOGUES/CARGILL_HE_ACIDOS-GRASOS-DESTILADOS-PALMA_071221_V2.pdf" class="arrowblue letranegro" download><li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro">CARGILL_HE_ACIDOS-GRASOS-DESTILADOS-PALMA_071221_V2.pdf</li></a>

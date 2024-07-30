@@ -2038,6 +2038,10 @@ font-size: 12px;
         margin-left: -149px;
     }
 
+    .cargill-logo {
+        width: 65%;
+    }
+
 
 }
 
@@ -2131,6 +2135,10 @@ font-size: 12px;
         position: absolute;
         left: 10px;
         top: 100%;
+    }
+
+    .cargill-logo {
+        width:35%;
     }
 }
 
@@ -2402,6 +2410,10 @@ font-size: 12px;
     .PG_LOGO{
         width: 25%;
     }
+
+    .cargill-logo {
+        width:25%;
+    }
 }
 
 @media only screen and (min-width: 992px) {
@@ -2499,6 +2511,10 @@ margin-top: -44px;
 
 .logo_lecitinas_secundarias{
     width:25%;
+}
+
+.cargill-logo {
+    width:35%;
 }
 
 }

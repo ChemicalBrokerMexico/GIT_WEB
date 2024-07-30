@@ -3,7 +3,7 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Fosfato Dicálcico Anhidro</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <title>Chemical Broker | Pirofosfato Acido de Calcio</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="Los fosfatos se pueden definir como productos quimicos versatiles y multifuncionales que se comercializan ampliamente en diversas industiras debido a sus propiedades beneficiosas y aplicaciones variadas">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
@@ -420,7 +420,7 @@
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section><a class="active" href="#" style="color:white !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos ">Productos > </b> </a> <a class=" active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Fosfato Dicálcico Anhidro</b></a></section>
+<section><a class="active" href="#" style="color:white !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos ">Productos > </b> </a> <a class=" active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Pirofosfato Acido de Calcio</b></a></section>
 </div>
 </div>
 </div>
@@ -435,157 +435,80 @@
 
 <div class="row" style="margin-left:1000px;">
   <div class="col s12 m12 l12 xl12" style="background-color:orange;width:100%;">
-  <p class="Titulos General--Cuerpo" style="color:white;text-align: right;"><b>Fosfato Dicalcico Anhidro</b></p>
+  <p class="Titulos General--Cuerpo" style="color:white;text-align: right;"><b>Pirofosfato Acido de Calcio</b></p>
   </div>
 </div>
 
     <div class="row">
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Fosfato Dicálcico Anhidro, también conocido como fosfato dicálcico o DCP (por sus siglas en inglés: Dicalcium Phosphate), es un compuesto inorgánico con la fórmula química CaHPO₄. Es un polvo blanco, inodoro y casi insoluble en agua, pero soluble en ácidos. Es una forma anhidra, lo que significa que no contiene agua en su estructura cristalina.</p>
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El pirofosfato ácido de calcio, también conocido como fosfato dicálcico o CaHPO4·2H2O, es un compuesto químico utilizado en varias aplicaciones industriales, alimentarias y farmacéuticas. </p>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020">Propiedades fisicas y quimicas</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020">Propiedades Físicas y Químicas</b></h5>
 
       <ol>
-        <li class="Elementos--Listas" style="margin-top:30px;">Fórmula Química: CaHPO<sub>4</sub></li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Peso Molecular: 136.06 g/mol</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Densidad: Aproximadamente 2.92 g/cm</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Punto de Fusión: Se descompone antes de fundirse</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Solubilidad: Prácicamente insoluble en agua (0.02 g/100 mL a 25° C) pero soluble en ácidos diluidos</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Aspecto: Polvo blanco o cristalino.</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Solubilidad: Es moderadamente soluble en agua, pero su solubilidad aumenta en soluciones ácidas.</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">pH: Las soluciones acuosas tienen un pH ligeramente ácido.</li>
       </ol>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h5>
 
-      <p class="Tipografia--general letranegro General--Cuerpo">El fosfato dicálcico anhidro (CaHPO₄) tiene diversas aplicaciones en múltiples industrias debido a sus propiedades químicas y físicas. Aquí se detallan algunas de las principales aplicaciones:</p>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria</b></h5>
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El pirofosfato ácido de calcio, conocido también como fosfato dicálcico, es un compuesto que se utiliza en diversas aplicaciones debido a sus propiedades químicas y su contenido en calcio y fósforo. </p>
 
-      <ol>
-        <li class="Elementos--Listas">Aditivo Alimentario: Utilizado como agente leudante y emulsionante en productos de panadería y cereales.</li>
-        <li class="Elementos--Listas">Suplemento Nutricional: Añadido a alimentos para fortificar con calcio y fósforo, esenciales para la salud ósea y dental.</li>
-      </ol>
-
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Nutrición Animal</b></h5>
-      <ol>
-        <li class="Elementos--Listas" style="margin-top:30px;">Suplemento para Animales: Proporciona una fuente accesible de calcio y fósforo en la alimentación animal, esencial para el desarrollo de huesos y dientes en ganado, aves de corral y mascotas.</li>
-      </ol>
-
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Farmacéutica</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria:</b></h5>
 
       <ol>
-        <li class="Elementos--Listas" style="margin-top:30px;">Excipiente en Tabletas: Utilizado como agente de carga y aglutinante en la fabricación de tabletas farmacéuticas, ayudando a dar forma y estabilidad a las mismas.</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Suplementos Dietéticos: Integrado en suplementos dietéticos de calcio y fósforo.</li>
-      </ol>
-
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Producción de Fertilizantes</b></h5>
-
-      <ol>
-        <li class="Elementos--Listas" style="color:#000020;">Fertilizantes: Empleado en la formulación de fertilizantes para proporcionar fósforo, un nutriente esencial para el crecimiento de las plantas. Ayuda en el desarrollo de raíces fuertes y mejora la resistencia de las plantas.</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Agente antiaglomerante: Se utiliza para prevenir la formación de grumos en productos en polvo como la leche en polvo, las harinas y las mezclas para hornear.</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Estabilizante: Ayuda a mantener la textura y la consistencia de los productos alimenticios durante su almacenamiento y uso.</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Acondicionador de masa: En productos de panadería, mejora la fermentación y la calidad de la masa.</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Suplemento de calcio: Añadido a productos alimenticios para enriquecerlos con calcio, como en cereales, productos lácteos y bebidas.</li>
       </ol>
 
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Cuidado Dental</b></h5>
-
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Suplementos Dietéticos:</b></h5>
 
       <ol>
-        <li class="Elementos--Listas">Dentífricos y Polvos Dentales: Usado como abrasivo suave y fuente de calcio en pastas dentales, ayudando a pulir los dientes sin dañar el esmalte.</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Fuente de calcio y fósforo: Utilizado en suplementos nutricionales y vitamínicos para proporcionar estos minerales esenciales, especialmente en productos destinados a la salud ósea y dental.</li>
       </ol>
-
-
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Química</b></h5>
-
-      <ol>
-        <li class="Elementos--Listas">Producción de Otros Fosfatos: Actúa como materia prima en la fabricación de otros fosfatos utilizados en diversas aplicaciones industriales.
-</ol>
-
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Otros Usos</b></h5>
-
-      <ol>
-        <li class="Elementos--Listas">Industria del Plástico: Empleado como agente de relleno en ciertos plásticos y resinas.</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Purificación de Agua: Utilizado en algunos procesos de tratamiento de agua para precipitar impurezas.</li>
-</ol>
-
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:black;"><b>Específicaciones</b></h5>
-
-  <div style="background-color:#FF6600;">
-    <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:white;">Fosfato Di Cálcico Anhidro (FDCA) | Grado Alimentos</h5>
-  </div>
-
-
-
-        <table>
-          <tr>
-            <th style="color:#FF6600;" class="Tipografia--general General--Cuerpo"><b>Características</b></th>
-            <th style="color:#FF6600;" class="Tipografia--general General--Cuerpo"><b>Fosfato Di Cálcico Anhidro (FDCA)</b></th>
-          </tr>
-          <tr>
-            <td class="Tipografia--general General--Cuerpo">Grado:</td>
-            <td class="Tipografia--general General--Cuerpo">Alimentos</td>
-          </tr>
-          <tr>
-          <td class="Tipografia--general General--Cuerpo">Certificaciones:</td>
-            <td class="Tipografia--general General--Cuerpo">Kosher|Halal</td>
-          </tr>
-          <tr>
-          <td class="Tipografia--general General--Cuerpo">CAS:</td>
-            <td class="Tipografia--general General--Cuerpo">7757-93-9</td>
-          </tr>
-          <tr>
-          <td class="Tipografia--general General--Cuerpo">EINECS:</td>
-            <td class="Tipografia--general General--Cuerpo">231-826-1</td>
-          </tr>
-          <tr>
-          <td class="Tipografia--general General--Cuerpo">Formula:</td>
-            <td class="Tipografia--general General--Cuerpo">CaHO4P</td>
-          </tr>
-          <tr>
-          <td class="Tipografia--general General--Cuerpo">Peso Molecular:</td>
-            <td class="Tipografia--general General--Cuerpo">136.06</td>
-          </tr>
-          <tr>
-          <td class="Tipografia--general General--Cuerpo">Apariencia:</td>
-            <td class="Tipografia--general General--Cuerpo">Polvo Blanco o Blanquecino</td>
-          </tr>
-          <tr>
-          <td class="Tipografia--general General--Cuerpo">Contenido (CaHO4P) (%):</td>
-            <td class="Tipografia--general General--Cuerpo">98.0 - 105.0</td>
-          </tr>
-          <tr>
-          <td class="Tipografia--general General--Cuerpo">Sustencia insoluble en ácido clorhidrico (%):</td>
-            <td class="Tipografia--general General--Cuerpo">< 0.05</td>
-          </tr>
-          <tr>
-          <td class="Tipografia--general General--Cuerpo">Perdida por ignición (%):</td>
-            <td class="Tipografia--general General--Cuerpo">7.08 - 8.5</td>
-          </tr>
-          <tr>
-          <td class="Tipografia--general General--Cuerpo">Fluoruro (F) (mg/Kg):</td>
-            <td class="Tipografia--general General--Cuerpo">< 50 </td>
-          </tr>
-          <tr>
-          <td class="Tipografia--general General--Cuerpo">Metales Pesados (mg/Kg):</td>
-            <td class="Tipografia--general General--Cuerpo">< 10</td>
-          </tr>
-          <tr>
-          <td class="Tipografia--general General--Cuerpo">Plomo (Pb) (mg/Kg)</td>
-            <td class="Tipografia--general General--Cuerpo">< 2</td>
-          </tr>
-          <tr>
-          <td class="Tipografia--general General--Cuerpo">Arsénico (As) (mg/Kg):</td>
-          <td class="Tipografia--general General--Cuerpo">< 2</td>
-          </tr>
-          <tr>
-          <td class="Tipografia--general General--Cuerpo">Presentación:</td>
-            <td class="Tipografia--general General--Cuerpo">Sacos 25 Kg:</td>
-          </tr>
-          <tr>
-          <td class="Tipografia--general General--Cuerpo">Vida de Anaquel:</td>
-            <td class="Tipografia--general General--Cuerpo">24 Meses</td>
-          </tr>
-          <tr>
-          <td class="Tipografia--general General--Cuerpo">Aplicaciones:</td>
-            <td class="Tipografia--general General--Cuerpo">Se utiliza como agente leudante de alimentos y potenciador de calcio, agente aromatizante de vino, promotor de fermentación, etc.</td>
-          </tr>
-        </table>
+    
       
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Farmacéutica:</b></h5>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">Excipiente: Actúa como un material de relleno en tabletas y cápsulas, mejorando su estabilidad, estructura y liberación controlada de los ingredientes activos.</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Aglutinante: Ayuda a mantener los ingredientes en una tableta unidos entre sí.</li>
+      </ol>
+
+         
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Agrícola:</b></h5>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">Fertilizantes: Utilizado como fuente de fósforo en fertilizantes, contribuyendo al crecimiento y desarrollo de las plantas.</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Aditivo en alimentos para animales: Aporta calcio y fósforo en la dieta de los animales, mejorando su salud y productividad.</li>
+      </ol>
+
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Producción Industrial:</b></h5>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">Fabricación de productos de limpieza: Utilizado en algunos detergentes y productos de limpieza.</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Aditivo en cerámicas y materiales de construcción: Puede ser utilizado en la formulación de ciertos materiales cerámicos y productos de construcción.</li>
+      </ol>
+
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Cuidado Personal y Cosmética:</b></h5>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">Pasta de dientes: A veces se usa en productos dentales para proporcionar calcio y fósforo, que ayudan a fortalecer los dientes y prevenir la caries.</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Productos para el cuidado de la piel: Puede ser incluido en fórmulas para mejorar la textura y las propiedades del producto.</li>
+      </ol>
+
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Otras Aplicaciones</b></h5>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">Tratamiento de aguas: Se utiliza en el tratamiento de aguas para precipitar metales pesados y otras impurezas.</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Industria del papel: Empleado en ciertos procesos de fabricación de papel para mejorar la calidad del producto final.</li>
+      </ol>
+    
+   
 
     </div>
 </div>

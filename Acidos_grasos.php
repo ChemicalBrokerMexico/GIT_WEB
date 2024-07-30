@@ -566,9 +566,9 @@
         <section class="breditem--inicio"><a class="breditem active" href="index.php"
             style="color:white !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
             href="Productos_news.php" style="color:white !important;margin-left:-2px"><b>Productos</b><b> >
-              &nbsp</b><a class="breditem active" href="Acidos_grasos.php"
-              style="color:#262137 !important;margin-left:-2px"><b
-                class="Tipografia--general letranegro Subtitulos breadcrumb">Ácidos Grasos</b></a></section>
+              &nbsp</b><a class="" href="Acidos_grasos.php"
+              style="color:red !important;margin-left:-2px"><b
+                class="Tipografia--general Subtitulos">Ácidos Grasos</b></a></section>
         </section>
       </div>
     </div>
@@ -585,7 +585,7 @@
   <div class="container">
 <div class="row">
   <div class="col s12 m12 l12 xl12">
-  <h5 class="Tipografia--general Cuerpo--General" style="margin-top:150px;background-color:#1F3864;text-align:center;color:white;padding:15px;font-size:35px">Ácidos Grasos</h5>
+  <h5 class="Tipografia--general Cuerpo--General" style="margin-top:150px;background-color:#1F3864;text-align:center;color:white;padding:15px;font-size:35px;width:27%;float:inline-end;">Ácidos Grasos</h5>
   </div>
 </div>
   </div>
