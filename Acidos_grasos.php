@@ -1703,7 +1703,7 @@
           <!-- Tabla movil 14 -->
 
 
-          <table border="1" style="margin-top:50px;" class="Agrasosmobile" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
+          <table border="1" style="margin-top:50px;" class="" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
             <tr>
               <td>FA 1855V</td>
             </tr>
