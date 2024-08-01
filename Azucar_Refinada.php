@@ -3,7 +3,7 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Fosfato Monocálcico Anhidro</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <title>Chemical Broker | Azúcar Refinada</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="El fosfato disódico anhidro, también conocido como fosfato de disodio, es una sal inorgánica de sodio y ácido fosfórico.">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
@@ -414,13 +414,13 @@
 <div class="row">
 <div class="slider slider-prueba">
 <ul class="slides">
-<li> <img src="img/FOSFATOS_BANNER_110724.jpg" style="height:500px;" alt="Industria Quimica">
+<li> <img src="img/AZUCAR_BANNER_310724.jpg" style="height:500px;" alt="Industria Quimica">
 <div class="caption center-align"><br><br><br><br>
 <h1 class="primertitulo"><b>Chemical Broker</b><br></h1>
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section><a class="active" href="#" style="color:white !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos ">Productos > </b> </a> <a class=" active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Fosfato Monocálcico Anhidro</b></a></section>
+<section><a class="active" href="#" style="color:white !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos ">Productos > </b> </a> <a class=" active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Azúcar Refinada</b></a></section>
 </div>
 </div>
 </div>
@@ -433,158 +433,211 @@
 
 <div class="container" style="margin-top:150px;">
 
-<div class="row" style="margin-left:1000px;">
-  <div class="col s12 m12 l12 xl12" style="background-color:orange;width:124%;">
-  <p class="Titulos General--Cuerpo" style="color:white;text-align: right;"><b>Fosfato Monocálcico Anhidro</b></p>
+<div class="row colorazucar">
+  <div class="col s12 m12 l12 xl12" style="background-color:#660066;padding:-1px;height:40px;width:120%;float: right;">
+  <p class="Titulos General--Cuerpo" style="color:white;text-align: right;margin:0px;font-size:27px;"><b>Azúcar Refinada</b></p>
   </div>
 </div>
 
     <div class="row">
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El Fosfato Monocálcico Anhidro (conocido químicamente como Ca(H₂PO₄)₂) es una forma específica de fosfato de calcio que se utiliza comúnmente en diversas aplicaciones industriales y alimentarias. A continuación, se detallan algunos aspectos clave sobre este compuesto:</p>
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Azúcar refinada es un tipo de azúcar que ha sido procesada para eliminar las impurezas y el color. Se obtiene a partir de la caña de azúcar o la remolacha azucarera. </p>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Propiedades Químicas y Físicas</b></h5>
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El proceso de refinación implica varias etapas, incluyendo la trituración, la purificación con cal, la carbonatación, la filtración, la cristalización y finalmente, el secado. Este proceso produce un azúcar blanco, granulado y de alta pureza, que es el tipo de azúcar más comúnmente utilizado en la cocina y la repostería.</p>
 
-<ol>
-    <li class="Elementos--Listas" style="margin-top:30px;">Fórmula química: Ca(H₂PO₄)₂</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">Peso molecular: 234.05 g/mol</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">Apariencia: Es un polvo blanco cristalino.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">Solubilidad: Es soluble en agua, lo que lo hace útil en aplicaciones donde la solubilidad es crucial.</li>
-</ol>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#660066;"><b>Aplicaciones</b></b></h5>
+
+<p class="Tipografia--general letranegro General--Cuerpo">La azúcar refinada tiene una amplia gama de aplicaciones en la cocina y la industria alimentaria. Aquí hay algunas de sus principales aplicaciones:</p>
+
+    <ol>
+        <li class="Elementos--Listas"><b style="color:#660066;">Industria Alimentaria:</b></li>
+        <ol style="margin-top:30px;">
+            <li class="Elementos--Listas"><b style="color:#660066">Endulzante:</b> Es el uso más común, utilizado para endulzar bebidas, postres, y diversos platos.</li>
+            <br>
+            <li class="Elementos--Listas"><b style="color:#660066">Panadería y repostería:</b> Es un ingrediente clave en la elaboración de pasteles, galletas, panes, tartas, muffins y otros productos horneados.</li>
+            <br>
+            <li class="Elementos--Listas"><b style="color:#660066">Conservación:</b> Utilizado en la preparación de mermeladas, jaleas y conservas, ya que ayuda a inhibir el crecimiento bacteriano.</li>
+            <br>
+            <li class="Elementos--Listas"><b style="color:#660066">Caramelización:</b> La azúcar refinada se usa para hacer caramelo, aportando sabor y color a los postres.</li>
+            <br>
+            <li class="Elementos--Listas"><b style="color:#660066">Fermentación:</b> Es fundamental en la fermentación de productos como el vino, la cerveza y el pan, ya que alimenta a las levaduras y bacterias necesarias para el proceso.</li>
+            <br>
+            <li class="Elementos--Listas"><b style="color:#660066">Decoración:</b> Utilizado en formas de glaseado, fondant y azúcar glas para decorar pasteles y otros postres.</li>
+            <br>
+            <li class="Elementos--Listas"><b style="color:#660066">Condimentos y salsas:</b> Se usa para equilibrar sabores en salsas, aderezos y marinados.</li>
+            <br>
+            <li class="Elementos--Listas"><b style="color:#660066">Confitería:</b> Es esencial en la producción de dulces, caramelos, chocolates, gomitas y otros dulces.</li>
+            <br>
+            <li class="Elementos--Listas"><b style="color:#660066">Lácteos:</b> utilizada en la producción de bebidas saborizadas, helados, yogures, flanes y otros postres lácteos para mejorar el sabor y la textura.</li>
+            <br>
+            <li class="Elementos--Listas"><b style="color:#660066">Bebidas:</b> Endulzante para refrescos, jugos, tés, bebidas energéticas, isotónicas, cafés y bebidas alcohólicas como el vino y la cerveza.</li>
+        </ol>
+    </ol>
+
+    <ol style="margin-top:50px;">
+        <li class="Elementos--Listas"><b style="color:#660066;margin-top:50px;">Industria Farmacéutica:</b></li>
+        <ol style="margin-top:30px;">
+            <li class="Elementos--Listas"><b style="color:#660066">Medicamentos:</b>Utilizado como excipiente en jarabes, pildoras y comprimidos para mejorar el sabor.</li>
+            <br>
+            <li class="Elementos--Listas"><b style="color:#660066">Suplementos Nutricionales:</b>  A menudo incluido en la formulación de suplementos vitamínicos y minerales.</li>
+            <br>
+            
+        </ol>
+    </ol>
+
+    <ol style="margin-top:50px;">
+        <li class="Elementos--Listas"><b style="color:#660066;margin-top:50px;">Industria Cosmética:</b></li>
+        <ol style="margin-top:30px;">
+            <li class="Elementos--Listas"><b style="color:#660066">Exfoliantes:</b>Utilizado en productos exfoliantes para la piel debido a su textura granulada</li>
+            <br>
+            <li class="Elementos--Listas"><b style="color:#660066">Cremas y Lociones:</b>Utilizado para mejorar el sabor y la palatabilidad de los alimentos para mascotas.</li>
+            <br>
+            
+        </ol>
+    </ol>
+
+    <ol style="margin-top:50px;">
+        <li class="Elementos--Listas"><b style="color:#660066;margin-top:50px;">Industria Alimento Animal:</b></li>
+        <ol style="margin-top:30px;">
+            <li class="Elementos--Listas"><b style="color:#660066">Alimento para mascotas:</b>Utilizado para mejorar el sabor y la palatabilidad de los alimentos para mascotas.</li>
+        </ol>
+    </ol>
+
+    <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Estas aplicaciones muestran la versatilidad y la importancia de la azúcar refinada en diversas áreas.</p>
+
+    <h5 class="Tipografia--general letranegro General--Cuerpo" style="color:#660066;margin-top:50px;"><b>Especificaciones</b></h5>
+
+    <table style="margin-top:50px;">
+        <tr style="border-bottom:3px solid #660066;">
+            <th class="center-align" >Parámetro</th>
+            <th class="center-align" >Método</th>
+            <th class="center-align" >Especificación</th>
+        </tr>
+        <tr>
+            <td>Aspecto</td>
+            <td>SM-PR-420</td>
+            <td>Granulado Uniforme</td>
+        </tr>
+        <tr>
+            <td style="background-color:#f2f2f2;">Color</td>
+            <td style="background-color:#f2f2f2;">SM-PR-420</td>
+            <td style="background-color:#f2f2f2;">Blanco</td>
+        </tr>
+        <tr>
+            <td>Olor</td>
+            <td>SM-PR-420</td>
+            <td>Característico</td>
+        </tr>
+        <tr>
+            <td style="background-color:#f2f2f2;">Sabor</td>
+            <td style="background-color:#f2f2f2;">SM-PR-420</td>
+            <td style="background-color:#f2f2f2;">Característico</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="border-top:3px solid #660066;">
+            <td>Polarización</td>
+            <td>GS2/3-1 (2011)</td>
+            <td>≥ 99.9%</td>
+        </tr> 
+        <tr>
+<td style="background-color:#f2f2f2;">Color</td>
+<td style="background-color:#f2f2f2;">GS9/1/2/3-8 (2011)</td>
+<td style="background-color:#f2f2f2;">≤ 45 U.I.</td>
+        </tr>
+        <tr>
+<td>Cenizas</td>
+<td>GS2/3-17 (2011)</td>
+<td>≤ 0.04%</td>
+        </tr>
 
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Usos y Aplicaciones</b></h5>
 
-<p class="Tipografia--general letranegro General--Cuerpo">El fosfato disódico dodecahidratado tiene diversas aplicaciones en varios campos:</p>
+        <tr>
+<td style="background-color:#f2f2f2;">Humedad</td>
+<td style="background-color:#f2f2f2;">GS2/1/3/9-15 (2007)</td>
+<td style="background-color:#f2f2f2;">≤ 0.04%</td>
+        </tr>
+        <tr>
+<td>Material insoluble</td>
+<td>GS2/3/9-19(2007)</td>
+<td>< 10 mg/kg</td>
+        </tr>
+        <tr>
+<td style="background-color:#f2f2f2;">Sulfitos</td>
+<td style="background-color:#f2f2f2;">GS2/1//7/9-33 (2011)</td>
+<td style="background-color:#f2f2f2;">≤ 15 mg/kg</td>
+        </tr>
+        <tr>
+<td>Azucares reductores</td>
+<td>GS2/3/9-5 (2011)</td>
+<td>≤ 0.05%</td>
+        </tr>
+        <tr>
+<td style="background-color:#f2f2f2;">Fierro</td>
+<td style="background-color:#f2f2f2;">CON-PV-00006ICP-OES</td>
+<td style="background-color:#f2f2f2;">≤ 1 mg/kg</td>
+        </tr>
+        <tr>
+<td>Cobre</td>
+<td>CON-PV-00006ICP-OES</td>
+<td>≤ 1 mg/kg</td>
+        </tr>
+        <tr>
+<td  style="background-color:#f2f2f2;">Plomo</td>
+<td  style="background-color:#f2f2f2;">CON-PV-00508 GF-AAS</td>
+<td  style="background-color:#f2f2f2;">≤ 0.5 mg/kg</td>
+        </tr>
+        <tr>
+<td>Arsénico</td>
+<td>CON-PV-00508 GF-AAS</td>
+<td>≤ 1 mg/kg</td>
+        </tr>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria:</b></h5>
+        <tr>
+<td></td>
+<td></td>
+<td></td>
+        </tr>
+        <tr style="border-top:3px solid #660066;">
+<td >Mesófilos aeróbicos</td>
+<td>GS2/3-41 (2011)</td>
+<td>≤ 200 UFC/10 g</td>
+        </tr>
+        <tr>
+<td  style="background-color:#f2f2f2;">Hongos</td>
+<td  style="background-color:#f2f2f2;">GS2/3-47 (2015)</td>
+<td  style="background-color:#f2f2f2;">< 10 UFC/10 g.</td>
+        </tr>
+        <tr>
+<td>Levaduras</td>
+<td>GS2/3-47 (2015)</td>
+<td>< 10 UFC/10 g.</td>
+        </tr>
+        <tr>
+<td  style="background-color:#f2f2f2;">Salmonela</td>
+<td  style="background-color:#f2f2f2;">ISO 6579.2017-09</td>
+<td  style="background-color:#f2f2f2;">Ausente 25 g</td>
+        </tr>
+        <tr>
+<td>E. Coli</td>
+<td>M 0020.9513.10.4</td>
+<td>Ausente UFC/g</td>
+        </tr>
 
-<ol>
-    <li class="Elementos--Listas" style="margin-top:30px;">Aditivo Alimentario: Se utiliza como agente leudante en productos horneados, donde reacciona con bicarbonato de sodio para liberar dióxido de carbono, ayudando a que la masa suba.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">Suplemento de Fósforo: Añadido a alimentos fortificados y suplementos dietéticos para aportar fósforo, un mineral esencial para la salud ósea y dental.</li>
-</ol>
-
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Agricultura:</b></h5>
-
-<ol>
-    <li class="Elementos--Listas" style="margin-top:30px;">Fertilizante: Se usa como fuente de fósforo en fertilizantes agrícolas. El fósforo es un nutriente vital para el crecimiento de las plantas, y su forma soluble permite una absorción rápida y eficiente por las raíces de las plantas.</li>
-</ol>
-
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Química</b></h5>
-
-<ol>
-    <li class="Elementos--Listas" style="margin-top:30px;">Reactivo Químico: Utilizado en diversas síntesis químicas y procesos industriales debido a su capacidad para actuar como una fuente de fósforo</li>
-</ol>
-
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Seguridad y Manejo</b></h5>
-
-<ol>
-    <li class="Elementos--Listas" style="margin-top:30px;">Manipulación: Se debe manejar con cuidado para evitar la inhalación del polvo, que puede irritar el sistema respiratorio.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">Almacenamiento: Debe almacenarse en un lugar seco y fresco, alejado de materiales incompatibles como ácidos fuertes.</li>
-</ol>
-
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Beneficios</b></h5>
-
-<ol>
-    <li class="Elementos--Listas" style="margin-top:30px;">Solubilidad Alta: Su alta solubilidad en agua lo hace muy útil en aplicaciones donde se requiere una rápida disolución y disponibilidad.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">Eficiencia en Agricultura: Como fertilizante, mejora significativamente la disponibilidad de fósforo en el suelo, promoviendo un crecimiento saludable de las plantas.</li>
-</ol>
-
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Textil: </b></h5>
-
-<ol>
-    <li class="Elementos--Listas" style="margin-top:30px;">Se utiliza en el proceso de teñido textil como regulador de pH y agente de retención de color.</li>
-</ol>
-
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Agricultura: </b></h5>
-
-<ol>
-    <li class="Elementos--Listas" style="margin-top:30px;">A veces se utiliza en la agricultura como agente fertilizante para proporcionar fósforo a las plantas, ayudando en su crecimiento y desarrollo.</li>
-</ol>
-
-
-<div style="background-color:#FF6600;">
-    <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:white;">Fosfato Mono Cálcico Anhidro (MCP) | Grado Alimentos</h5>
-  </div>
-
-  <table>
-    <tr>
-    <th style="color:#FF6600;" class="Tipografia--general General--Cuerpo"><b>Características</b></th>
-    <th style="color:#FF6600;" class="Tipografia--general General--Cuerpo"><b>Fosfato Mono Cálcico Anhidro (MCP) | Grado Alimentos</b></th>
-    </tr>
-    <tr>
-      <td  class="Tipografia--general General--Cuerpo">Grado:</td>
-      <td  class="Tipografia--general General--Cuerpo">Alimentos</td>
-    </tr>
-    <tr>
-<td class="Tipografia--general General--Cuerpo">Certificaciones:</td>
-<td class="Tipografia--general General--Cuerpo">Kosher | Halal</td>
-    </tr>
-    <tr>
-<td class="Tipografia--general General--Cuerpo">CAS:</td>
-<td class="Tipografia--general General--Cuerpo">7558-79-4</td>
-    </tr>
-    <tr>
-<td class="Tipografia--general General--Cuerpo">EINECS:</td>
-<td class="Tipografia--general General--Cuerpo">231-448-7</td>
-    </tr>
-    <tr>
-<td class="Tipografia--general General--Cuerpo">Formula:</td>
-<td class="Tipografia--general General--Cuerpo">Na2HPO4</td>
-    </tr>
-    <tr>
-<td class="Tipografia--general General--Cuerpo">Peso Molecular:</td>
-<td class="Tipografia--general General--Cuerpo">142</td>
-    </tr>
-    <tr>
-<td class="Tipografia--general General--Cuerpo">Apariencia:</td>
-<td class="Tipografia--general General--Cuerpo">Polvo Blanco</td>
-    </tr>
-    <tr>
-<td class="Tipografia--general General--Cuerpo">Ensayo (K2HPO4) (%):</td>
-<td class="Tipografia--general General--Cuerpo">98.0 Min</td>
-    </tr>
-    <tr>
-<td class="Tipografia--general General--Cuerpo">Perdida por ignición (%):</td>
-<td class="Tipografia--general General--Cuerpo">5.0 Max.</td>
-    </tr>
-    <tr>
-<td class="Tipografia--general General--Cuerpo">Insoluble en Agua (%):</td>
-<td class="Tipografia--general General--Cuerpo">0.2 Max</td>
-    </tr>
-    <tr>
-<td class="Tipografia--general General--Cuerpo">pH (solución de 10 g/L):</td>
-<td class="Tipografia--general General--Cuerpo">8.8 – 9.4</td>
-    </tr>
-    <tr>
-<td class="Tipografia--general General--Cuerpo">Fluoruro (F) (ppm):</td>
-<td class="Tipografia--general General--Cuerpo">50 Max</td>
-    </tr>
-    <tr>
-<td class="Tipografia--general General--Cuerpo">Plomo (Pb) (ppm):</td>
-<td class="Tipografia--general General--Cuerpo">4 Max.</td>
-    </tr>
-    <tr>
-<td class="Tipografia--general General--Cuerpo">Arsénico (As) (ppm):</td>
-<td class="Tipografia--general General--Cuerpo">10 Max.</td>
-    </tr>
-    <tr>
-<td class="Tipografia--general General--Cuerpo">Metales Pesados (Pb) (ppm):</td>
-<td class="Tipografia--general General--Cuerpo">Sacos 25 Kg.</td>
-    </tr>
-    <tr>
-<td class="Tipografia--general General--Cuerpo">Presentación:</td>
-<td class="Tipografia--general General--Cuerpo">Sacos 25 Kg.</td>
-    </tr>
-    <tr>
-<td class="Tipografia--general General--Cuerpo">Vida de Anaquel:</td>
-<td class="Tipografia--general General--Cuerpo">24 meses</td>
-    </tr>
-    <tr>
-<td class="Tipografia--general General--Cuerpo">Aplicaciones:</td>
-<td class="Tipografia--general General--Cuerpo">Se utiliza como mejorador de la calidad, emulsionante, potenciador de la nutrición, coadyuvante de la fermentación y aglutinante en la industria alimentaria.</td>
-    </tr>
-  </table>
+    </table>
       
+    <h5 class="Tipografia--general letranegro General--Cuerpo" style="color:#660066;margin-top:50px;"><b>Presentación</b></h5>
+
+    <ol>
+        <li>Saco 25 Kg.</li>
+        <li>Super Saco 1,000 Kg.</li>
+    </ol>
+
+    <p class="Tipografia--general letranegro General--Cuerpo"></p>
+
 </div>
 </div>
 

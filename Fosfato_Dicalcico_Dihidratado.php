@@ -519,7 +519,7 @@
   <table>
     <tr>
     <th style="color:#FF6600;" class="Tipografia--general General--Cuerpo"><b>Características</b></th>
-    <th style="color:#FF6600;" class="Tipografia--general General--Cuerpo"><b>Fosfato Di Cálcico Anhidro (FDCA)</b></th>
+    <th style="color:#FF6600;" class="Tipografia--general General--Cuerpo"><b>Fosfato Di Cálcico Di Hidratado (FDCA)</b></th>
     </tr>
     <tr>
       <td  class="Tipografia--general General--Cuerpo">Grado:</td>
@@ -555,7 +555,7 @@
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Sustancia insoluble en Acido Clorhídrico (%):</td>
-<td class="Tipografia--general General--Cuerpo">< 0.05</td>
+<td class="Tipografia--general General--Cuerpo">≤ 0.05</td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Perdida por ignición (%):</td>
@@ -563,19 +563,19 @@
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Fluoruro (F) (mg/Kg):</td>
-<td class="Tipografia--general General--Cuerpo">< 10 </td>
+<td class="Tipografia--general General--Cuerpo">≤ 50 </td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Metales Pesados (mg/Kg):</td>
-<td class="Tipografia--general General--Cuerpo">< 10</td>
+<td class="Tipografia--general General--Cuerpo">≤ 10</td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Plomo (PB (mg/Kg):</td>
-<td class="Tipografia--general General--Cuerpo">< 2</td>
+<td class="Tipografia--general General--Cuerpo">≤ 2</td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Arsénico (As) (mg/Kg):</td>
-<td class="Tipografia--general General--Cuerpo">< 2 </td>
+<td class="Tipografia--general General--Cuerpo">≤ 2 </td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Presentación:</td>

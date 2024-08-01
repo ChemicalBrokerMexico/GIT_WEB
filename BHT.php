@@ -421,7 +421,7 @@
                             Químicos</a>
                     </li>
 
-                    <li><a href="Catalogos_Productos" class="Tipografia--general letranegro Subtitulos">Catalogos</a>
+                    <li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a>
                     </li>
                     </li>
                 </ul>

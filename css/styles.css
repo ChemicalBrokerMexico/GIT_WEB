@@ -1226,6 +1226,11 @@ font-size: 12px;
             display: inline;
         }
 
+        .colorazucar{
+            margin-left:130px;
+            height: 80px;
+        }
+
 }
 
 @media only screen and (min-width: 576px) {
@@ -2048,6 +2053,11 @@ font-size: 12px;
 
     .Agrasosmobile{
         display: inline;
+    }
+
+    .colorazucar{
+        margin-left:130px;
+        height: 80px;
     }
 
 }
@@ -5318,6 +5328,11 @@ margin-top:85px;
 
         .Agrasosmobile{
             display: none;
+        }
+
+        .colorazucar{
+            margin-left:1000px;
+          
         }
 
 }

@@ -228,7 +228,7 @@
 <ul id="dropdown3" class="dropdown-content" style="width:300px !important;">
   <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos" style="width:200px;">Familias</a></li>
   <li><a href="Product_List.php" class="Tipografia--general letranegro Subtitulos" style="width:200px;">Lista de Productos</a></li>
-  <li><a href="Catalogos_Productos" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
+  <li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
 </ul>
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!" data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a></li>
 <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Servicios.php"><b>Servicios</b></a></li>

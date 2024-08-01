@@ -384,7 +384,7 @@
                         <li tabindex="0"><a href="Productos_news.php"
                                 class="Tipografia--general letranegro Subtitulos">Ingredientes Químicos</a></li>
                       
-                        <li><a href="Catalogos_Productos"
+                        <li><a href="Catalogos_Productos.php"
                                 class="Tipografia--general letranegro Subtitulos">Catalogos</a></li>
                     </ul>
                 </li>

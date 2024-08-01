@@ -502,6 +502,10 @@
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">A veces se utiliza en la agricultura como agente fertilizante para proporcionar fósforo a las plantas, ayudando en su crecimiento y desarrollo.</li>
 </ol>
+
+
+
+
       
 </div>
 </div>

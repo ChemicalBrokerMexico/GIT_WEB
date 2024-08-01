@@ -501,6 +501,90 @@ El fosfato disódico anhidro, como una sal inorgánica, exhibe varias propiedade
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Puede encontrarse en aplicaciones en la industria cosmética, en la fabricación de productos para el cuidado personal, en la industria del papel y en la producción de productos químicos diversos.</li>
 </ol>
+
+
+<div style="background-color:#FF6600;">
+    <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:white;">Fosfato Di Cálcico Anhidro (FDCA) | Grado Alimentos</h5>
+  </div>
+
+  <table>
+    <tr>
+    <th style="color:#FF6600;" class="Tipografia--general General--Cuerpo"><b>Características</b></th>
+    <th style="color:#FF6600;" class="Tipografia--general General--Cuerpo"><b>Fosfato Disódico Anhidro (DSP) | Grado Alimentos</b></th>
+    </tr>
+    <tr>
+      <td  class="Tipografia--general General--Cuerpo">Grado:</td>
+      <td  class="Tipografia--general General--Cuerpo">Alimentos</td>
+    </tr>
+    <tr>
+<td class="Tipografia--general General--Cuerpo">Certificaciones:</td>
+<td class="Tipografia--general General--Cuerpo">Kosher | Halal</td>
+    </tr>
+    <tr>
+<td class="Tipografia--general General--Cuerpo">CAS:</td>
+<td class="Tipografia--general General--Cuerpo">7758-79-4</td>
+    </tr>
+    <tr>
+<td class="Tipografia--general General--Cuerpo">EINECS:</td>
+<td class="Tipografia--general General--Cuerpo">231-448-7</td>
+    </tr>
+    <tr>
+<td class="Tipografia--general General--Cuerpo">Formula:</td>
+<td class="Tipografia--general General--Cuerpo">Na2HPO4</td>
+    </tr>
+    <tr>
+<td class="Tipografia--general General--Cuerpo">Peso Molecular:</td>
+<td class="Tipografia--general General--Cuerpo">142</td>
+    </tr>
+    <tr>
+<td class="Tipografia--general General--Cuerpo">Apariencia:</td>
+<td class="Tipografia--general General--Cuerpo">Polvo Blanco</td>
+    </tr>
+    <tr>
+<td class="Tipografia--general General--Cuerpo">Ensayo (K2HPO4) (%):</td>
+<td class="Tipografia--general General--Cuerpo">98.0 Min</td>
+    </tr>
+    <tr>
+<td class="Tipografia--general General--Cuerpo">Perdida por ignición (%):</td>
+<td class="Tipografia--general General--Cuerpo">5.0 Max</td>
+    </tr>
+    <tr>
+<td class="Tipografia--general General--Cuerpo">Insoluble en Agua (%):</td>
+<td class="Tipografia--general General--Cuerpo">0.2 Max.</td>
+    </tr>
+    <tr>
+<td class="Tipografia--general General--Cuerpo">pH (solución de 10 g/L):</td>
+<td class="Tipografia--general General--Cuerpo">8.8 – 9.4</td>
+    </tr>
+    <tr>
+<td class="Tipografia--general General--Cuerpo">Fluoruro (F) (ppm):</td>
+<td class="Tipografia--general General--Cuerpo">50 Max.</td>
+    </tr>
+    <tr>
+<td class="Tipografia--general General--Cuerpo">Plomo (Pb) (ppm):</td>
+<td class="Tipografia--general General--Cuerpo">4 Max.</td>
+    </tr>
+    <tr>
+<td class="Tipografia--general General--Cuerpo">Arsénico (As) (ppm):</td>
+<td class="Tipografia--general General--Cuerpo">3 Max.</td>
+    </tr>
+    <tr>
+<td class="Tipografia--general General--Cuerpo">Metales Pesados (Pb) (ppm):</td>
+<td class="Tipografia--general General--Cuerpo">10 Max.</td>
+    </tr>
+    <tr>
+<td class="Tipografia--general General--Cuerpo">Presentación:</td>
+<td class="Tipografia--general General--Cuerpo">Sacos 25 Kg.</td>
+    </tr>
+    <tr>
+<td class="Tipografia--general General--Cuerpo">Vida de Anaquel:</td>
+<td class="Tipografia--general General--Cuerpo">24 meses</td>
+    </tr>
+    <tr>
+<td class="Tipografia--general General--Cuerpo">Aplicaciones:</td>
+<td class="Tipografia--general General--Cuerpo">Se utiliza como mejorador de la calidad, emulsionante, potenciador de la nutrición, coadyuvante de la fermentación y aglutinante en la industria alimentaria.</td>
+    </tr>
+  </table>
       
 </div>
 </div>

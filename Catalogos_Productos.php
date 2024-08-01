@@ -651,8 +651,8 @@
                         href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b>
                             >
                             &nbsp</b><a class="breditem active" href="Catalogos_Productos.php"
-                            style="color:#262137 !important;margin-left:-2px"><b
-                                class="Tipografia--general letranegro Subtitulos breadcrumb">Catalogos</b></a>
+                            style="color:red !important;margin-left:-2px"><b
+                                class="Tipografia--general  Subtitulos ">Catalogos</b></a>
                 </section>
                 </section>
             </div>
@@ -663,11 +663,12 @@
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
-                <p class="Tipografia--general letranegro General--Cuerpo">Chemical Broker enfoca sus negocios a nivel global en la venta de Ingredientes químicos para las industrias de Farmacéutica, Veterinaria, Alimentaria y Nutrición Humana, Alimento y Nutrición Animal, Cosmética y Cuidado Personal, Agroquímicos, Detergentes y Cuidado del Hogar e Industria Quimica.</p>
-                <p class="Tipografia--general letranegro General--Cuerpo">A través de nuestros Catálogos de Productos por Industrias usted podrá encontrar una gran variedad de ingredientes químicos enfocados al segmento de mercado deseado y en cumplimiento a los estándares de calidad correspondientes:</p>
-                <h5 class="Tipografia--general Titulos"><b>Catálogos</b></h5>
+                <p class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020;">Chemical Broker</b> enfoca sus negocios a nivel global en la venta de Ingredientes químicos para las industrias de Farmacéutica, Veterinaria, Alimentaria y Nutrición Humana, Alimento y Nutrición Animal, Cosmética y Cuidado Personal, Agroquímicos, Detergentes y Cuidado del Hogar e Industria Quimica.</p>
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">A través de nuestros Catálogos de Productos por Industrias usted podrá encontrar una gran variedad de ingredientes químicos enfocados al segmento de mercado deseado y en cumplimiento a los estándares de calidad correspondientes:</p>
+                <h5 class="Tipografia--general Titulos" style="margin-top:50px;"><b>Catálogos</b></h5>
+
                 <!-- <a href="PDF/CHEMICAL-BROKER_CATALOGO-PRODUCTOS_290424.pdf" class="Tipografia--general Subtitulos" style="color:rgba(2 146 238 /99%);margin-top:50px;" download>CHEMICAL-BROKER_CATALOGO-PRODUCTOS_290424.pdf</a> -->
-                <a href="PDF/CHEMICAL-BROKER_CATALOGO-PRODUCTOS_010424.pdf" class="Tipografia--general Subtitulos" style="color:rgba(2 146 238 /99%);margin-top:50px;cursor: pointer;" download>CHEMICAL-BROKER_CATALOGO-PRODUCTOS_010424.pdf</a>
+                <a href="PDF/CHEMICAL-BROKER_CATALOGO-PRODUCTOS_010424.pdf" class="Tipografia--general Subtitulos" style="color:rgba(2 146 238 /99%);cursor: pointer;margin-top:50px;" download>CHEMICAL-BROKER_CATALOGO-PRODUCTOS_010424.pdf</a>
                 <br>
                 <br>
                 <a href="PDF/CHEMICAL-BROKER_OLEOCHEMICALS-PORTFOLIO.pdf" class="Tipografia--general Subtitulos" style="color:rgba(2 146 238 /99%);margin-top:50px;cursor: pointer;" download>CHEMICAL-BROKER_OLEOCHEMICALS-PORTFOLIO.pdf</a>

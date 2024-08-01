@@ -333,7 +333,7 @@
                     <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">
                             Ingredientes Químicos</a></li>
            
-                            <li><a href="Catalogos_Productos" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
+                            <li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
                 </ul>
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!" data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a></li>
         <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos"
@@ -564,8 +564,8 @@
             style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
             href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b> >
               &nbsp</b><a class="breditem active" href="Nitruro_Boro.php"
-              style="color:#262137 !important;margin-left:-2px"><b
-                class="Tipografia--general letranegro Subtitulos breadcrumb">Nitruro de Boro</b></a></section>
+              style="color:red !important;margin-left:-2px"><b
+                class="Tipografia--general  Subtitulos ">Nitruro de Boro</b></a></section>
         </section>
       </div>
     </div>
@@ -595,7 +595,7 @@
 <div class="col s12 m12 l12 xl12">
 
 <div style="background-color:#FF0066;height:50px;width:35%;float:right;">
-<span style="color:white;font-size:33px;padding:10px;"><b>Nitruro de Boro |</b><span style="color:black;"> <b>Powder Solutions</b></span></span>
+<span style="color:white;font-size:33px;padding:10px;"><b style="font-weight:bold;">Nitruro de Boro |</b><span style="color:black;"> Powder Solutions</span></span>
 </div>
 
   </div>
