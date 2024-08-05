@@ -1229,6 +1229,15 @@ font-size: 12px;
         .colorazucar{
             margin-left:130px;
             height: 80px;
+            width:195px;
+        }
+
+        .breadtop{
+            margin-top:130px;
+        }
+
+        .widthgrass{
+            width:260px;
         }
 
 }
@@ -2059,6 +2068,17 @@ font-size: 12px;
         margin-left:130px;
         height: 80px;
     }
+
+
+
+    .breadtop{
+    margin-top:130px;
+    }
+
+    .widthgrass{
+        width:260px;
+    }
+   
 
 }
 
@@ -3598,6 +3618,11 @@ margin-top:51px;
 
     .Botones{
         font-size:13px;
+    }
+
+
+    .search-desktop-icon{
+        margin-left:60px;
     }
 
 }
@@ -5333,6 +5358,14 @@ margin-top:85px;
         .colorazucar{
             margin-left:1000px;
           
+        }
+
+        .bread_mobile{
+            margin-top:80px;
+        }
+
+        .search-desktop-icon{
+            margin-left:188px;
         }
 
 }

@@ -552,25 +552,28 @@
           <div class="caption center-align"><br><br><br><br>
             <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo"
               style="font-size: 26px;">Ácidos Grasos Destilados de Palma</b>
-          </div>
-        </li>
-      </ul>
-    </div>
-  </div>
 
-  <div class="container" style="margin-top:80px;">
+              
+  <div class="container" style="margin-top:;">
     <div class="row bread_mobile">
       <div class="col s12 m12 l12 xl12">
         <section class="breditem--inicio"><a class="breditem active" href="index.php"
             style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
             href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b> >
               &nbsp</b><a class="breditem active" href="Acidos_Grasos_Destilados_Palma.php"
-              style="color:#262137 !important;margin-left:-2px"><b
-                class="Tipografia--general letranegro Subtitulos breadcrumb">Ácidos Grasos Destilados de Palma</b></a></section>
+              style="color:red !important;margin-left:-2px"><b
+                class="Tipografia--general  Subtitulos ">Ácidos Grasos Destilados de Palma</b></a></section>
         </section>
       </div>
     </div>
   </div>
+          </div>
+          
+        </li>
+      </ul>
+    </div>
+  </div>
+
 
 
     <div class="container">

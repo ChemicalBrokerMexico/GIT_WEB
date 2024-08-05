@@ -557,23 +557,21 @@
       <ul class="slides slides-pruea">
         <li> <img src="img/COCOS_FRESCOS_030524.jpg" alt="" style="height:400px;filter: brightness(0.9);"
             class="img_acidos_grasos img_acidos_grasos_desktop">
-            <!-- <video src="VIDEO/ACIDOS_GRASOS.mp4" autoplay height="1000px" width="100%"></video>  -->
+           
           <div class="caption center-align"><br><br><br><br>
             <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1>
-            <div class="container" style="margin-top:-30px;">
-    <div class="row bread_mobile">
-      <div class="col s12 m12 l12 xl12">
-        <section class="breditem--inicio"><a class="breditem active" href="index.php"
-            style="color:white !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
-            href="Productos_news.php" style="color:white !important;margin-left:-2px"><b>Productos</b><b> >
-              &nbsp</b><a class="" href="Acidos_grasos.php"
-              style="color:red !important;margin-left:-2px"><b
-                class="Tipografia--general Subtitulos">Ácidos Grasos</b></a></section>
-        </section>
-      </div>
-    </div>
+            <div class="container">
+
+            <div class="container">
+<div class="row">
+<div class="col s12 m12 l12 xl12">
+<section><a class="active" href="#" style="color:white !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos ">Productos > </b> </a> <a class=" active" href="Acidos_grasos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Ácidos Grasos</b></a></section>
+</div>
+</div>
+</div>
+
   </div>
-          </div>
+          
           
         </li>
       </ul>
@@ -585,7 +583,7 @@
   <div class="container">
 <div class="row">
   <div class="col s12 m12 l12 xl12">
-  <h5 class="Tipografia--general Cuerpo--General" style="margin-top:150px;background-color:#1F3864;text-align:center;color:white;padding:15px;font-size:35px;width:27%;float:inline-end;">Ácidos Grasos</h5>
+  <h5 class="Tipografia--general Cuerpo--General widthgrass" style="margin-top:150px;background-color:#1F3864;text-align:center;color:white;padding:15px;font-size:35px;float:inline-end;">Ácidos Grasos</h5>
   </div>
 </div>
   </div>
@@ -767,6 +765,9 @@
               <td>46-58</td>
             </tr>
           </table>
+
+          <br>
+          <br>
           
         <!-- tabla para movil 2 -->
 
@@ -831,6 +832,10 @@
             </tr>
           </table>
 
+
+          <br>
+          <br>
+
           <!-- tabla para movil 3 -->
           <table border="1" style="margin-top:50px;" class="Agrasosmobile" id="Agrasoscoco3" name="Agrasoscoco3">
             <tr>
@@ -892,6 +897,9 @@
               <td>46-55</td>
             </tr>
           </table>
+
+          <br>
+          <br>
 
           <!-- tabla para movil 4 -->
 
@@ -955,6 +963,8 @@
               <td>50-65</td>
             </tr>
           </table>
+
+          <!-- fin de primera seccion -->
 
 
           <!-- tabla para movil 5 -->
@@ -1703,7 +1713,7 @@
           <!-- Tabla movil 14 -->
 
 
-          <table border="1" style="margin-top:50px;" class="Agrasosmobile" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
+          <table border="1" style="margin-top:50px;" class="cmd" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
             <tr>
               <td>FA 1855V</td>
             </tr>

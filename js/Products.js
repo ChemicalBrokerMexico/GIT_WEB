@@ -96,6 +96,22 @@ $(document).ready(function(){
     </div>
 
 
+    <div class="row" style="margin-top:150px;">
+    <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img/AZUCAR_BANNER_310724.jpg" alt=""  class="zoom IMG_Seccion_Prod">
+    </div>
+    <div class="col s12 m12 l12 xl6 columnas_antioxidantes div-textoprod" style="position:relative;">
+    <h5 class="Tipografia--general Titulos"><b>Azucar Refinada</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">Azúcar refinada es un tipo de azúcar que ha sido procesada para eliminar las impurezas y el color. Se obtiene a partir de la caña de azúcar o la remolacha azucarera. </p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El proceso de refinación implica varias etapas, incluyendo la trituración, la purificación con cal, la carbonatación, la filtración, la cristalización y finalmente, el secado. Este proceso produce un azúcar blanco, granulado y de alta pureza, que es el tipo de azúcar más comúnmente utilizado en la cocina y la repostería.</p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Azucar_Refinada.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </p>
+    </div>
+    </div>
+
+
+
 
     <div class="row" style="margin-top:150px"> 
     <div class="col s12 m12 l12 xl6 center-align">
@@ -541,6 +557,20 @@ function filtroall(){
     </div>
     </div>
 
+    <div class="row" style="margin-top:150px;">
+    <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img/AZUCAR_BANNER_310724.jpg" alt=""  class="zoom IMG_Seccion_Prod">
+    </div>
+    <div class="col s12 m12 l12 xl6 columnas_antioxidantes div-textoprod" style="position:relative;">
+    <h5 class="Tipografia--general Titulos"><b>Azúcar Refinada</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">Azúcar refinada es un tipo de azúcar que ha sido procesada para eliminar las impurezas y el color. Se obtiene a partir de la caña de azúcar o la remolacha azucarera. </p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El proceso de refinación implica varias etapas, incluyendo la trituración, la purificación con cal, la carbonatación, la filtración, la cristalización y finalmente, el secado. Este proceso produce un azúcar blanco, granulado y de alta pureza, que es el tipo de azúcar más comúnmente utilizado en la cocina y la repostería.</p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Azucar_Refinada.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </p>
+    </div>
+    </div>
+
 
 
     <div class="row" style="margin-top:150px"> 
@@ -969,6 +999,25 @@ function filtroa(){
     
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Antioxidantes.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
 
+    </p>
+
+ 
+
+    </div>
+
+    </div>
+
+    
+    <div class="row" style="margin-top:150px;">
+    <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img/AZUCAR_BANNER_310724.jpg" alt=""  class="zoom IMG_Seccion_Prod">
+    </div>
+    <div class="col s12 m12 l12 xl6 columnas_antioxidantes div-textoprod" style="position:relative;">
+    <h5 class="Tipografia--general Titulos"><b>Azúcar Refinada</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">Azúcar refinada es un tipo de azúcar que ha sido procesada para eliminar las impurezas y el color. Se obtiene a partir de la caña de azúcar o la remolacha azucarera. </p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El proceso de refinación implica varias etapas, incluyendo la trituración, la purificación con cal, la carbonatación, la filtración, la cristalización y finalmente, el secado. Este proceso produce un azúcar blanco, granulado y de alta pureza, que es el tipo de azúcar más comúnmente utilizado en la cocina y la repostería.</p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Azucar_Refinada.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </p>
     </div>
     </div>
