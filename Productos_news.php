@@ -438,7 +438,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="W"><b>W</b></li>
 <li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="X"><b>X</b></li>
 <li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="Y"><b>Y</b></li>
-<li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="Z"><b>Z</b></li>
+
 </ul>
 </div>
 </div>
