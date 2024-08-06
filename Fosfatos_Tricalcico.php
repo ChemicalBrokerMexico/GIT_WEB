@@ -445,10 +445,10 @@
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Propiedades</b></h5>
 
 <ol>
-    <li class="Elementos--Listas" style="margin-top:30px;Fórmula química: Ca₃(PO₄)₂</li>
-    <li class="Elementos--Listas" style="margin-top:30px;Peso molecular: 310.18 g/mol</li>
-    <li class="Elementos--Listas" style="margin-top:30px;Apariencia: Polvo blanco e inodoro</li>
-    <li class="Elementos--Listas" style="margin-top:30px;Solubilidad: Prácticamente insoluble en agua; soluble en ácidos diluidos</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Fórmula química: Ca₃(PO₄)₂</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Peso molecular: 310.18 g/mol</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Apariencia: Polvo blanco e inodoro</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Solubilidad: Prácticamente insoluble en agua; soluble en ácidos diluidos</li>
 </ol>
 
 
@@ -522,6 +522,88 @@
     <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:white;">Fosfato Tricálcico (TCP) | Grado Alimentos</h5>
   </div>
 
+  <table>
+    <tr>
+      <th style="color:#FF6600;" class="Tipografia--general General--Cuerpo">Características</th>
+      <th style="color:#FF6600;" class="Tipografia--general General--Cuerpo">Fosfato Tricálcico (TCP)</th>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">Grado:</td>
+      <td class="Tipografia--general General--Cuerpo">Alimentos</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">Certificaciones:</td>
+      <td class="Tipografia--general General--Cuerpo">Kosher | Halal</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">CAS:</td>
+      <td class="Tipografia--general General--Cuerpo">7758-87-4</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">EINECS:</td>
+      <td class="Tipografia--general General--Cuerpo">231-840-8</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">Formula:</td>
+      <td class="Tipografia--general General--Cuerpo">Ca3O8P2</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">Peso Molecular:</td>
+      <td class="Tipografia--general General--Cuerpo">310.18</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">Apariencia:</td>
+      <td class="Tipografia--general General--Cuerpo">Polvo Blanco</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">Color:</td>
+      <td class="Tipografia--general General--Cuerpo">Blanco</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">Contenido (Ca3(PO4) (%):</td>
+      <td class="Tipografia--general General--Cuerpo">≥ 96</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">Total de Calcio (Ca) (%):</td>
+      <td class="Tipografia--general General--Cuerpo">34.0 – 40.0</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">Perdida por secado (%)</td>
+      <td class="Tipografia--general General--Cuerpo">≤ 10</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">Fluoruro (F) (mg/kg):</td>
+      <td class="Tipografia--general General--Cuerpo">≤ 75.0</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">Plomo (Pb) (mg/kg):</td>
+      <td class="Tipografia--general General--Cuerpo">≤ 2.0</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">Arsénico (As) (mg/kg):</td>
+      <td class="Tipografia--general General--Cuerpo">≤ 3.0</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">Metales Pesados (Pb) (mg/kg):</td>
+      <td class="Tipografia--general General--Cuerpo">≤ 10</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">Claridad:</td>
+      <td class="Tipografia--general General--Cuerpo">Pasa la prueba</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">Presentación:</td>
+      <td class="Tipografia--general General--Cuerpo">Sacos 25 Kg.</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">Vida de Anaquel:</td>
+      <td class="Tipografia--general General--Cuerpo">24 meses</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">Aplicaciones:</td>
+      <td class="Tipografia--general General--Cuerpo">- Utilizado en la industria alimentaria como agente anti aglomerante, suplemento nutritivo, potenciador de fragancia, tampón y regulador de pH..</td>
+    </tr>
+  </table>
 
 </div>
 </div>
