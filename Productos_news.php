@@ -438,7 +438,17 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="W"><b>W</b></li>
 <li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="X"><b>X</b></li>
 <li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="Y"><b>Y</b></li>
-
+<li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="Z"><b>Z</b></li>
+<li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="Y"><b>1</b></li>
+<li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="Y"><b>2</b></li>
+<li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="Y"><b>3</b></li>
+<li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="Y"><b>4</b></li>
+<li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="Y"><b>5</b></li>
+<li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="Y"><b>6</b></li>
+<li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="Y"><b>7</b></li>
+<li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="Y"><b>8</b></li>
+<li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="Y"><b>9</b></li>
+<li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="Y"><b>10</b></li>
 </ul>
 </div>
 </div>
