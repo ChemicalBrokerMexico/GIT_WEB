@@ -515,6 +515,14 @@
 </ol>
 
 
+
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:black;"><b>Específicaciones</b></h5>
+
+  <div style="background-color:#FF6600;">
+    <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:white;">Fosfato Tricálcico (TCP) | Grado Alimentos</h5>
+  </div>
+
+
 </div>
 </div>
 

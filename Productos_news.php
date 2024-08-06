@@ -403,7 +403,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section class="breadcumb--general"><a class="breditem active color--corporativo" href="index.php"><b>Inicio&nbsp </b><b>  >&nbsp </b></a><a class="breditem active color--corporativo" href="Productos_news.php"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Productos&nbsp </b></a></section>
+<section class="breadcumb--general"><a class="breditem active color--corporativo" href="index.php"><b>Inicio&nbsp </b><b>  >&nbsp </b></a><a class="breditem active color--corporativo" href="Productos_news.php"><b class="Tipografia--general letranegro Subtitulos ">Productos&nbsp </b></a></section>
 </div>
 </div>
 </div>
@@ -439,16 +439,6 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="X"><b>X</b></li>
 <li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="Y"><b>Y</b></li>
 <li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="Z"><b>Z</b></li>
-<li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="Z"><b>1</b></li>
-<li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="Z"><b>2</b></li>
-<li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="Z"><b>3</b></li>
-<li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="Z"><b>4</b></li>
-<li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="Z"><b>5</b></li>
-<li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="Z"><b>6</b></li>
-<li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="Z"><b>7</b></li>
-<li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="Z"><b>8</b></li>
-<li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="Z"><b>9</b></li>
-<li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="Z"><b>10</b></li>
 </ul>
 </div>
 </div>
