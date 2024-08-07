@@ -507,6 +507,89 @@
         <li class="Elementos--Listas" style="margin-top:30px;">Tratamiento de aguas: Se utiliza en el tratamiento de aguas para precipitar metales pesados y otras impurezas.</li>
         <li class="Elementos--Listas" style="margin-top:30px;">Industria del papel: Empleado en ciertos procesos de fabricación de papel para mejorar la calidad del producto final.</li>
       </ol>
+
+      <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:black;margin-top:50px;"><b>Específicaciones</b></h5>
+
+  <div style="background-color:#FF6600;">
+    <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:white;">Piro Fosfato Acido de Calcio (CAPP) | Grado Alimentos</h5>
+  </div>
+
+  <table>
+    <tr>
+      <th style="color:#FF6600;" class="Tipografia--general General--Cuerpo">Caracteristicas:</th>
+      <th style="color:#FF6600;" class="Tipografia--general General--Cuerpo">Piro Fosfato Acido de Calcio (CAPP)</th>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">Grado:</td>
+      <td class="Tipografia--general General--Cuerpo">Alimentos</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">Certificaciones:</td>
+      <td class="Tipografia--general General--Cuerpo">Kosher | Halal</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">CAS:</td>
+      <td class="Tipografia--general General--Cuerpo">34405-51-7</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">EINECS:</td>
+      <td class="Tipografia--general General--Cuerpo">232-221-5</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">Formula:</td>
+      <td class="Tipografia--general General--Cuerpo">Ca2P2O7</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">Peso Molecular:</td>
+      <td class="Tipografia--general General--Cuerpo">254.10</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">Apariencia:</td>
+      <td class="Tipografia--general General--Cuerpo">Polvo Blanco</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">Contenido (Ca2P2O7) (%):</td>
+      <td class="Tipografia--general General--Cuerpo">95.0 – 100.5</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">Identificación A + B:</td>
+      <td class="Tipografia--general General--Cuerpo">Pasa la prueba</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">Arsénico (As) (ppm):</td>
+      <td class="Tipografia--general General--Cuerpo">≤ 3</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">Fluoruro (F) (ppm):</td>
+      <td class="Tipografia--general General--Cuerpo">≤ 50</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">Metales Pesados (Pb) (ppm):</td>
+      <td class="Tipografia--general General--Cuerpo">≤ 10</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">Plomo (Pb) (ppm):</td>
+      <td class="Tipografia--general General--Cuerpo">≤ 2</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">Perdida por ignición (%):</td>
+      <td class="Tipografia--general General--Cuerpo">10</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">Presentación:</td>
+      <td class="Tipografia--general General--Cuerpo">Sacos 25 Kg.</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">Vida de Anaquel:</td>
+      <td class="Tipografia--general General--Cuerpo">24 meses</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general General--Cuerpo">Aplicaciones:</td>
+      <td class="Tipografia--general General--Cuerpo">- Utilizado como agente de retención de humedad en la industria procesadora de alimentos.
+        - Se utiliza en colorantes, galletas y levadura en polvo. Como bebida sólida, harina de trigo, agente desmoldante de queso, tampón, acondicionador de masa, etc.
+</td>
+    </tr>
+  </table>
     
    
 
