@@ -556,15 +556,15 @@
     </div>
   </div>
 
-  <div class="container" style="margin-top:80px;">
+  <div class="container breadbha">
     <div class="row bread_mobile">
       <div class="col s12 m12 l12 xl12">
         <section class="breditem--inicio"><a class="breditem active" href="index.php"
             style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
             href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b> >
               &nbsp</b><a class="breditem active" href="Glycerins.php"
-              style="color:#262137 !important;margin-left:-2px"><b
-                class="Tipografia--general letranegro Subtitulos breadcrumb">BHA (Butilhidroxianisol)</b></a></section>
+              style="color:red !important;margin-left:-2px"><b
+                class="Tipografia--general Subtitulos">BHA (Butilhidroxianisol)</b></a></section>
         </section>
       </div>
     </div>
@@ -845,7 +845,7 @@
         <table>
           <tr style="border:none;">
             <td>
-              <img src="img/CAMLIN_LOGO.png" alt="Solvery Logo" class="SOLVEY_LOGO" style="margin-top:30px;width:30%;">
+              <img src="img/CAMLIN_LOGO.png" alt="Solvery Logo" class="SOLVEY_LOGO" style="margin-top:30px;">
             </td>
           </tr>
 

@@ -557,7 +557,7 @@
   </div>
 
 
-  <div class="container" style="margin-top:80px;">
+  <div class="container breadalcoholsgrass">
     <div class="row bread_mobile">
       <div class="col s12 m12 l12 xl12">
         <section class="breditem--inicio"><a class="breditem active" href="index.php"
@@ -565,13 +565,13 @@
             href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b> >
               &nbsp</b><a class="breditem active" href="Alcoholes_Grasos.php"
               style="color:#262137 !important;margin-left:-2px"><b
-                class="Tipografia--general letranegro Subtitulos breadcrumb">Alcoholes Grasos</b></a></section>
+                class="Tipografia--general Subtitulos" style="color:red;">Alcoholes Grasos</b></a></section>
         </section>
       </div>
     </div>
   </div>
 
-  <div class="container">
+  <div class="container ">
     <div class="row">
       <div class="col s12 m12 l12 xl12">
         <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Alcoholes Grasos</b></h2>

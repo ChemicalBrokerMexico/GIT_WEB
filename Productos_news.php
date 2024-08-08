@@ -403,7 +403,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section class="breadcumb--general"><a class="breditem active color--corporativo" href="index.php"><b>Inicio&nbsp </b><b>  >&nbsp </b></a><a class="breditem active color--corporativo" href="Productos_news.php"><b class="Tipografia--general letranegro Subtitulos ">Productos&nbsp </b></a></section>
+<section class="breadcumb--general"><a class="breditem active color--corporativo" href="index.php"><b>Inicio&nbsp </b><b>  >&nbsp </b></a><a class="breditem active" href="Productos_news.php"><b class="Tipografia--general Subtitulos" style="color:red;">Productos&nbsp </b></a></section>
 </div>
 </div>
 </div>
