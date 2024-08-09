@@ -710,9 +710,12 @@
     </div>
   </div>
 
+<div class="container">
+
 
   <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:black;"><b>Específicaciones</b>
   </h5>
+
 
   <div style="background-color:#FF6600;">
     <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:white;">Piro Fosfato Acido de
@@ -727,188 +730,211 @@
 
     <tr>
       <td class="Tipografia--general letranegro General--Cuerpo">
-
+      Grado:
       </td>
       <td class="Tipografia--general letranegro General--Cuerpo">
-
-      </td>
-    </tr>
-    <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">
-
-      </td>
-      <td class="Tipografia--general letranegro General--Cuerpo">
-
+      Alimentos
       </td>
     </tr>
     <tr>
       <td class="Tipografia--general letranegro General--Cuerpo">
-
+      Certificaciones:
       </td>
       <td class="Tipografia--general letranegro General--Cuerpo">
-
-      </td>
-    </tr>
-    <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">
-
-      </td>
-      <td class="Tipografia--general letranegro General--Cuerpo">
-
+      Kosher | Halal
       </td>
     </tr>
     <tr>
       <td class="Tipografia--general letranegro General--Cuerpo">
+      CAS:
       </td>
       <td class="Tipografia--general letranegro General--Cuerpo">
-
-      </td>
-    </tr>
-    <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">
-
-      </td>
-      <td class="Tipografia--general letranegro General--Cuerpo">
-
+      7758-16-9
       </td>
     </tr>
     <tr>
       <td class="Tipografia--general letranegro General--Cuerpo">
-
+      EINECS:
       </td>
       <td class="Tipografia--general letranegro General--Cuerpo">
-
-      </td>
-    </tr>
-    <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">
-
-      </td>
-      <td class="Tipografia--general letranegro General--Cuerpo">
-
+      231-835-0
       </td>
     </tr>
     <tr>
       <td class="Tipografia--general letranegro General--Cuerpo">
-
       </td>
       <td class="Tipografia--general letranegro General--Cuerpo">
-
-      </td>
-    </tr>
-    <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">
-
-      </td>
-      <td class="Tipografia--general letranegro General--Cuerpo">
-
+      Formula:
       </td>
     </tr>
     <tr>
       <td class="Tipografia--general letranegro General--Cuerpo">
-
+      Na2H2P2O7
+      </td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
+      Peso Molecular:
+      </td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general letranegro General--Cuerpo">
+      201.97
+      </td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
+      Apariencia:
+      </td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general letranegro General--Cuerpo">
+      Polvo Blanco
+      </td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
+      Contenido (Na2H2P2O7) (%):
+      </td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general letranegro General--Cuerpo">
+      ≥ 95
+      </td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
+      Pentóxido de Fosforo (P2O5):
+      </td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general letranegro General--Cuerpo">
+      63.0 – 64.5
+      </td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
+      pH de la solución al 1%:
+      </td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general letranegro General--Cuerpo">
+      3.5 – 5.0
       </td>
       <td>
-
+      Perdida por secado (%):
       </td>
     </tr>
     <tr>
       <td>
-
+      Insoluble en Agua (%):
       </td>
       <td>
-
-      </td>
-    </tr>
-    <tr>
-      <td>
-
-      </td>
-      <td>
-
+      ≤ 0.5
       </td>
     </tr>
     <tr>
       <td>
-
+      Fluoruro (F) (ppm):
       </td>
       <td>
-
-      </td>
-    </tr>
-    <tr>
-      <td>
-
-      </td>
-      <td>
-
+      ≤ 10
       </td>
     </tr>
     <tr>
       <td>
-
+      Metales Pesados (Pb) (ppm):
       </td>
       <td>
-
-      </td>
-    </tr>
-    <tr>
-      <td>
-
-      </td>
-      <td>
-
+      ≤ 10
       </td>
     </tr>
     <tr>
       <td>
-
+      Arsénico (As) (ppm):
       </td>
       <td>
-
-      </td>
-    </tr>
-    <tr>
-      <td>
-
-      </td>
-      <td>
-
+      ≤ 1
       </td>
     </tr>
     <tr>
       <td>
-
+      Plomo (ppm):
       </td>
       <td>
-
-      </td>
-    </tr>
-    <tr>
-      <td>
-
-      </td>
-      <td>
-
+      ≤ 1
       </td>
     </tr>
     <tr>
       <td>
-
+      Mercurio (ppm):
       </td>
       <td>
-
+      ≤ 1
       </td>
     </tr>
     <tr>
       <td>
-
+      Cadmio (ppm):
       </td>
       <td>
+      ≤ 1
+      </td>
+    </tr>
+    <tr>
+      <td>
+      Aluminio (ppm):
+      </td>
+      <td>
+      ≤ 200
+      </td>
+    </tr>
+    <tr>
+      <td>
+      Densidad a granel (g/L):
+      </td>
+      <td>
+      800 - 1050
+      </td>
+    </tr>
+    <tr>
+      <td>
+      ROR:
+      </td>
+      <td>
+      15, 28, 40
+      </td>
+    </tr>
+    <tr>
+      <td>
+      A través de malla 100 (%):
+      </td>
+      <td>
+      ≥ 95
+      </td>
+    </tr>
+    <tr>
+      <td>
+      A través de malla 200 (%):
+      </td>
+      <td>
+      ≥ 85
+      </td>
 
+      <tr>
+      <td>
+      Presentación:
+      </td>
+      <td>
+      Sacos 25 Kg.
+      </td>
+      <tr>
+      <td>
+      Vida de Anaquel:
+      </td>
+      <td>
+      24 meses
+      </td>
+      <tr>
+      <td>
+      Aplicaciones:
+      </td>
+      <td>
+      - Se utiliza como levadura rápida, agente de retención de humedad, mejorador de calidad para pan, galletas y otros alimentos horneados y carne, producto acuático.
       </td>
     </tr>
   </table>
+  </div>
 
   <footer class="altofooter">
     <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png"
