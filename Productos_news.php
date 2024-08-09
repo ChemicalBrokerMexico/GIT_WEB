@@ -439,8 +439,9 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="X"><b>X</b></li>
 <li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="Y"><b>Y</b></li>
 <li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="Z"><b>Z</b></li>
+<br>
 <li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="Y"><b>1</b></li>
-<li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="Y"><b>2</b></li>
+<li class="no--opacidad Tipogradia--general" id="2" onclick="filtro2()"><b>2</b></li>
 <li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="Y"><b>3</b></li>
 <li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="Y"><b>4</b></li>
 <li class="opacity--menor Tipogradia--general tooltipped" data-position="bottom" data-tooltip="Proximamente" id="Y"><b>5</b></li>

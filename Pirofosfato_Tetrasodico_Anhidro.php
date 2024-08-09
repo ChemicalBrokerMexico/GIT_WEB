@@ -521,6 +521,109 @@
  
 </ol
     
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:black;"><b>Específicaciones</b>
+  </h5>
+
+
+  <div style="background-color:#FF6600;">
+    <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:white;">Piro Fosfato Acido de
+      Sodio (SAPP) | Grado Alimentos</h5>
+  </div>
+
+  <table>
+    <tr>
+      <th class="Tipografia--general letranegro General--Cuerpo" style="color:#FF6600">Caracteriticas:</th>
+      <th class="Tipografia--general letranegro General--Cuerpo" style="color:#FF6600">Piro Fosfato Tetra Sódico (TSPP)</th>
+    </tr>
+    <tr>
+      <td class="Tipografia--general letranegro General--Cuerpo">Grado:</td>
+      <td class="Tipografia--general letranegro General--Cuerpo">Alimentos</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general letranegro General--Cuerpo">Certificaciones:</td>
+      <td class="Tipografia--general letranegro General--Cuerpo">Kosher | Halal</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general letranegro General--Cuerpo">CAS:</td>
+      <td class="Tipografia--general letranegro General--Cuerpo">7722-88-5</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general letranegro General--Cuerpo">EINECS:</td>
+      <td class="Tipografia--general letranegro General--Cuerpo">231-767-1</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general letranegro General--Cuerpo">Formula:</td>
+      <td class="Tipografia--general letranegro General--Cuerpo">Na4P2O7</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general letranegro General--Cuerpo">Peso Molecular:</td>
+      <td class="Tipografia--general letranegro General--Cuerpo">265.90</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general letranegro General--Cuerpo">Apariencia:</td>
+      <td class="Tipografia--general letranegro General--Cuerpo">Polvo Blanco</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general letranegro General--Cuerpo">Ensayo en base seca (%):</td>
+      <td class="Tipografia--general letranegro General--Cuerpo">≥ 95.0</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general letranegro General--Cuerpo">Sodio:</td>
+      <td class="Tipografia--general letranegro General--Cuerpo">/</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general letranegro General--Cuerpo">Fosfatos:</td>
+      <td class="Tipografia--general letranegro General--Cuerpo">/</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general letranegro General--Cuerpo">Solubilidad:</td>
+      <td class="Tipografia--general letranegro General--Cuerpo">/</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general letranegro General--Cuerpo">Insoluble en agua (%):</td>
+      <td class="Tipografia--general letranegro General--Cuerpo">≤ 0.2</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general letranegro General--Cuerpo">pH:</td>
+      <td class="Tipografia--general letranegro General--Cuerpo">9.8 – 10.8</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general letranegro General--Cuerpo">Perdida por secado 105° (%):</td>
+      <td class="Tipografia--general letranegro General--Cuerpo">≤ 0.5/td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general letranegro General--Cuerpo">Fluoruro, expresado como Flúor (ppm):</td>
+      <td class="Tipografia--general letranegro General--Cuerpo">≤ 10</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general letranegro General--Cuerpo">Arsénico (As) (ppm):</td>
+      <td class="Tipografia--general letranegro General--Cuerpo">≤ 1</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general letranegro General--Cuerpo">Cadmio (Cd) (ppm):</td>
+      <td class="Tipografia--general letranegro General--Cuerpo">≤ 1</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general letranegro General--Cuerpo">Plomo (Pb) (ppm):</td>
+      <td class="Tipografia--general letranegro General--Cuerpo">≤ 1</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general letranegro General--Cuerpo">Mercurio (ppm):</td>
+      <td class="Tipografia--general letranegro General--Cuerpo">≤ 1</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general letranegro General--Cuerpo">Presentación:</td>
+      <td class="Tipografia--general letranegro General--Cuerpo">Sacos 25 Kg. | Super Sacos 1,000 Kg.</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general letranegro General--Cuerpo">Vida de Anaquel:</td>
+      <td class="Tipografia--general letranegro General--Cuerpo">24 meses</td>
+    </tr>
+    <tr>
+      <td class="Tipografia--general letranegro General--Cuerpo">Aplicaciones:</td>
+      <td class="Tipografia--general letranegro General--Cuerpo">- Aditivo alimentario, utilizado como humectantes, emulsionantes en productos cárnicos, carnes y mariscos enlatados, instantáneos fideos de arroz (trigo), diversas leches y lácteos, helados, bebidas de proteínas vegetales, zumos de frutas (verduras) y Bebidas, bebidas de té, etc.</td>
+    </tr>
+  </table>
    
 
     </div>

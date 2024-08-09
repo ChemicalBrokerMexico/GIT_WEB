@@ -811,125 +811,125 @@
       <td class="Tipografia--general letranegro General--Cuerpo">
       3.5 – 5.0
       </td>
-      <td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
       Perdida por secado (%):
       </td>
     </tr>
     <tr>
-      <td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
       Insoluble en Agua (%):
       </td>
-      <td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
       ≤ 0.5
       </td>
     </tr>
     <tr>
-      <td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
       Fluoruro (F) (ppm):
       </td>
-      <td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
       ≤ 10
       </td>
     </tr>
     <tr>
-      <td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
       Metales Pesados (Pb) (ppm):
       </td>
-      <td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
       ≤ 10
       </td>
     </tr>
     <tr>
-      <td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
       Arsénico (As) (ppm):
       </td>
-      <td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
       ≤ 1
       </td>
     </tr>
     <tr>
-      <td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
       Plomo (ppm):
       </td>
-      <td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
       ≤ 1
       </td>
     </tr>
     <tr>
-      <td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
       Mercurio (ppm):
       </td>
-      <td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
       ≤ 1
       </td>
     </tr>
     <tr>
-      <td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
       Cadmio (ppm):
       </td>
-      <td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
       ≤ 1
       </td>
     </tr>
     <tr>
-      <td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
       Aluminio (ppm):
       </td>
-      <td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
       ≤ 200
       </td>
     </tr>
     <tr>
-      <td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
       Densidad a granel (g/L):
       </td>
-      <td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
       800 - 1050
       </td>
     </tr>
     <tr>
-      <td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
       ROR:
       </td>
-      <td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
       15, 28, 40
       </td>
     </tr>
     <tr>
-      <td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
       A través de malla 100 (%):
       </td>
-      <td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
       ≥ 95
       </td>
     </tr>
     <tr>
-      <td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
       A través de malla 200 (%):
       </td>
-      <td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
       ≥ 85
       </td>
 
       <tr>
-      <td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
       Presentación:
       </td>
-      <td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
       Sacos 25 Kg.
       </td>
       <tr>
-      <td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
       Vida de Anaquel:
       </td>
-      <td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
       24 meses
       </td>
       <tr>
-      <td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
       Aplicaciones:
       </td>
-      <td>
+      <td class="Tipografia--general letranegro General--Cuerpo">
       - Se utiliza como levadura rápida, agente de retención de humedad, mejorador de calidad para pan, galletas y otros alimentos horneados y carne, producto acuático.
       </td>
     </tr>
