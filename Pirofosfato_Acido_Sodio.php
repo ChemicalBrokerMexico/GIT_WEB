@@ -835,7 +835,7 @@
       <td class="Tipografia--general letranegro General--Cuerpo">
       Metales Pesados (Pb) (ppm):
       </td>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td>
       ≤ 10
       </td>
     </tr>
