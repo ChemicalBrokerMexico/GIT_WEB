@@ -671,9 +671,9 @@
                         style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
                         href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b>
                             >
-                            &nbsp</b><a class="breditem active" href="Glycerins.php"
-                            style="color:#262137 !important;margin-left:-2px"><b
-                                class="Tipografia--general letranegro Subtitulos breadcrumb">BHT (Butilhidroxitolueno)</b></a></section>
+                            &nbsp</b><a class="breditem active" href="BHT.php"
+                            style="color:red !important;margin-left:-2px"><b
+                                class="Tipografia--general Subtitulos">BHT (Butilhidroxitolueno)</b></a></section>
                 </section>
             </div>
         </div>
@@ -690,6 +690,126 @@
                     prevenir la oxidación mediana por radicales libres en fluidos y otros materiales, lo que ha llevado
                     a su uso en pequeñas cantidades como aditivo alimentario.</p>
 
+                
+                <table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 5px;border:none;display:none">
+
+                <tr>
+                    <td class="Elementos--Listas" style="background-color:#FFCCCC;text-align: center;"><b>Descripción Química:</b></td>
+                </tr>
+                <tr>
+                    <td class="Elementos--Listas" style="border:none;text-align:center;">Butil Hidroxi Tolueno</td>
+                </tr>
+                <tr>
+                    <td class="Elementos--Listas" style="background-color:#FFCCCC;text-align:center;"><b>Formula Química:</b></td>
+                </tr>
+                <tr>
+                    <td class="Elementos--Listas" style="border:none;text-align:center;"><img src="img/CBMX_FORMULA-QUIMICA_BUTILHIDROXITOLUENO.png" alt="" width="50%"></td>
+                </tr>
+                <tr>
+                    <td class="Elementos--Listas" style="background-color:#FFCCCC;text-align:center;"><b>Nombre IUPAC:</b></td>
+                </tr>
+                <tr>
+                    <td class="Elementos--Listas" style="border:none;text-align:center;">2, 6-bis(1, 1-dimetiletil)-9-4-metilfenol</td>
+                </tr>
+                <tr>
+                    <td class="Elementos--Listas" style="background-color:#FFCCCC;text-align:center"><b>Sinonimos</b></td>
+                </tr>
+                <tr>
+                    <td class="Elementos--Listas" style="border:none;text-align:center;"><ol>
+                        <li>Dobutilhidroxitolueno</li>
+                        <li>Hidroxitolueno Butilado</li>
+                    </ol></td>
+                </tr>
+                <tr>
+                    <td class="Elementos--Listas" style="background-color:#FFCCCC;text-align:center;"><b>Formula Semidesarrollada</b></td>
+                </tr>
+                <tr>
+                    <td class="Elementos--Listas" style="border:none;text-align: center;">C<sub>15</sub>H<sub>24</sub>O</td>
+                </tr>
+                <tr>
+                    <td class="Elementos--Listas" style="background-color:#FFCCCC;text-align:center"><b>Formula Estructural</b></td>
+                </tr>
+                <tr>
+                    <td class="Elementos--Listas" style="border:none;text-align: center;"><img src="img/CBMX_FORMULA-ESTRUCTURAL_BUTILHIDROXITOLUENO.png" alt="" width="50%"></td>
+                </tr>
+                <tr>
+                    <td class="Elementos--Listas" style="background-color:#FFCCCC;text-align:center;"><b>Numero CAS:</b></td>
+                </tr>
+                <tr>
+                    <td class="Elementos--Listas" style="border:none;text-align: center;">128-37-0</td>
+                </tr>
+                <tr>
+                    <td class="Elementos--Listas" style="background-color:#FFCCCC;text-align:center;"><b>Numero EINECS:</b></td>
+                </tr>
+                <tr>
+                    <td class="Elementos--Listas" style="border:none;text-align: center;">204-881-4</td>
+                </tr>
+                <tr>
+                    <td class="Elementos--Listas" style="background-color:#FFCCCC;text-align:center;"><b>Numero RTECS:</b></td>
+                </tr>
+                <tr>
+                    <td class="Elementos--Listas" style="border:none;text-align:center;">GO7875000</td>
+                </tr>
+                <tr>
+                    <td class="Elementos--Listas" style="background-color:#FFCCCC;text-align:center;"><b>CHEBI:</b></td>
+                </tr>
+                <tr>
+                    <td class="Elementos--Listas" style="border:none;text-align: center;">34247</td>
+                </tr>
+                <tr>    
+                    <td class="Elementos--Listas" style="background-color:#FFCCCC;text-align:center;"><b>CHEMBL</b></td>
+                </tr>
+                <tr>
+                    <td class="Elementos--Listas" style="border:none;text-align:center;">CHEMBL147</td>
+                </tr>
+                <tr>
+                    <td class="Elementos--Listas" style="background-color:#FFCCCC;text-align:center;"><b>PubChem</b></td>
+                </tr>
+                <tr>
+                    <td class="Elementos--Listas" style="border:none;text-align: center;">31404</td>
+                </tr>
+                <tr>
+                    <td class="Elementos--Listas" style="background-color:#FFCCCC;text-align: center;"><b>UNII:</b></td>
+                </tr>
+                <tr>
+                    <td class="Elementos--Listas" style="border:none;text-align: center;">1P9D0Z171K</td>
+                </tr>
+                <tr>
+                    <td class="Elementos--Listas" style="background-color:#FFCCCC;text-align: center;"><b>KEGG:</b></td>
+                </tr>
+                <tr>
+                    <td class="Elementos--Listas" style="border:none;text-align: center;">C14693D02413C14639</td>
+                </tr>
+                <tr>
+                    <td class="Elementos--Listas" style="background-color:#FFCCCC;text-align: center;"><b>Densidad:</b></td>
+                </tr>
+                <tr>
+                    <td class="Elementos--Listas" style="border:none;text-align: center;">1,048 Kg./m</td>
+                </tr>
+                <tr>
+                    <td class="Elementos--Listas" style="background-color:#FFCCCC;text-align:center"><b>Masa Molecular:</b></td>
+                </tr>
+                <tr>
+                    <td class="Elementos--Listas" style="border:none;text-align: center;">220,35 g/mol</td>
+                </tr>
+                <tr>
+                    <td class="Elementos--Listas" style="background-color:#FFCCCC;text-align: center;"><b>Punto de Fusión</b></td>
+                </tr>
+                <tr>
+                    <td class="Elementos--Listas" style="border:none;text-align: center;"><ol>
+                        <li>343,15 K (70 °C)</li>
+                        <li>346,15 K (73 °C)</li>
+                    </ol></td>
+                </tr>
+                <tr>
+                    <td class="Elementos--Listas" style="background-color:#FFCCCC;text-align: center;"><b>Punto de Ebullición:</b></td>
+                </tr>
+                <tr>
+                    <td class="Elementos--Listas" style="border:none;text-align: center;">538 K (265 °C)</td>
+                </tr>
+
+                </table>
+
                 <table class="display" id="table_id2" name="table_id2"
                     style="width:100%;border-spacing:2px 5px;border:none;margin:30px 0px 0px 0px">
                     <tr class="Tipografia--general General--Cuerpo"
@@ -698,7 +818,7 @@
                             class="table_bha_mobile">
                             <b>Descripción Química</b>
                         </td>
-                        <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;text-align:center;"
+                        <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;"
                             class="table_bha_mobile">Butil Hidroxi Tolueno</td>
                     </tr>
 

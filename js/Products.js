@@ -217,18 +217,6 @@ $(document).ready(function(){
     </div>
     </div>
 
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_2_ETHYLHEXANOL_050923.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>2-Etilhexanol (2-EH)</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El 2-etilhexanol (abreviado 2-EH) es un alcohol graso ramificado, un compuesto orgánico de ocho átomos de carbono con un grupo alcohol. Es un líquido incoloro que es poco soluble en agua, pero soluble en la mayoría de los disolventes orgánicos. </p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="2-Etilhexanol.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
 
     <div class="row" style="margin-top:150px;"> 
     <div class="col s12 m12 l12 xl6 center-align">
@@ -450,6 +438,19 @@ $(document).ready(function(){
     <p class="Tipografia--general General--Cuerpo letranegro">Los sulfossucinatos son una clase de surfactantes aniónicos utilizados en una variedad de aplicaciones industriales y de cuidado personal. Estos compuestos se derivan del acido succínico y se caracterizan por tener grupos sulfonato como grupos funcionales principales.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Introducimos nuestros sulfosuccinatos de alta calidad, agentes tensoactivos de ultima generación diseñados para ofrecer resultados superiores en una amplia gama de aplicaciones industriales y de cuidado personal.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas" style="position:absolute:left:10px;bottom:-30px"><b><a href="Sulfosuccinatos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
+
+    <div class="row" style="margin-top:150px;"> 
+    <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img/CB_2_ETHYLHEXANOL_050923.jpg" alt="" class="zoom IMG_Seccion_Prod">
+    </div>
+    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
+    <h5 class="Tipografia--general Titulos aceite_1024"><b>2-Etilhexanol</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">El 2-etilhexanol (abreviado 2-EH) es un alcohol graso ramificado, un compuesto orgánico de ocho átomos de carbono con un grupo alcohol. Es un líquido incoloro que es poco soluble en agua, pero soluble en la mayoría de los disolventes orgánicos. </p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="e-Etilhexanol.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
     
@@ -688,10 +689,6 @@ function filtroall(){
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Ferrazone.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
-
-
-   
-    
     
     <div class="row" style="margin-top:70px;display:none">
     <div class="col s12 m12 l12 xl6 center-align">
@@ -892,6 +889,18 @@ function filtroall(){
     <p class="Tipografia--general General--Cuerpo letranegro">Los sulfossucinatos son una clase de surfactantes aniónicos utilizados en una variedad de aplicaciones industriales y de cuidado personal. Estos compuestos se derivan del acido succínico y se caracterizan por tener grupos sulfonato como grupos funcionales principales.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Introducimos nuestros sulfosuccinatos de alta calidad, agentes tensoactivos de ultima generación diseñados para ofrecer resultados superiores en una amplia gama de aplicaciones industriales y de cuidado personal.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas" style="position:absolute:left:10px;bottom:-30px"><b><a href="Sulfosuccinatos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
+    <div class="row" style="margin-top:150px;"> 
+    <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img/CB_2_ETHYLHEXANOL_050923.jpg" alt="" class="zoom IMG_Seccion_Prod">
+    </div>
+    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
+    <h5 class="Tipografia--general Titulos aceite_1024"><b>2-Etilhexanol</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">El 2-etilhexanol (abreviado 2-EH) es un alcohol graso ramificado, un compuesto orgánico de ocho átomos de carbono con un grupo alcohol. Es un líquido incoloro que es poco soluble en agua, pero soluble en la mayoría de los disolventes orgánicos. </p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="e-Etilhexanol.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
     
@@ -1817,6 +1826,87 @@ function filtroz(){
     
     `
 }
+
+
+function filtro1(){
+
+}
+
+function filtro2(){
+
+
+    document.getElementById("contenedorletrap").innerHTML = `
+    <div class="divfooter2" style="text-align:center;"><span style="font-size:55px;border-bottom:3px solid #262137;"><b>2</b></span></div><br><br></div>
+    `
+    document.getElementById("contenedorliteral").innerHTML = `
+
+    <div class="row" style="margin-top:-10px;"> 
+    <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img/CB_2_ETHYLHEXANOL_050923.jpg" alt="" class="zoom IMG_Seccion_Prod">
+    </div>
+    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
+    <h5 class="Tipografia--general Titulos aceite_1024"><b>2-Etilhexanol</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">El 2-etilhexanol (abreviado 2-EH) es un alcohol graso ramificado, un compuesto orgánico de ocho átomos de carbono con un grupo alcohol. Es un líquido incoloro que es poco soluble en agua, pero soluble en la mayoría de los disolventes orgánicos. </p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="e-Etilhexanol.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
+    
+
+ 
+
+    
+    
+    
+
+
+   
+
+    `    
+
+
+}
+
+function filtro3(){
+
+}
+
+
+function filtro4(){
+
+}
+
+
+function filtro5(){
+
+}
+
+
+function filtro6(){
+
+}
+
+
+function filtro7(){
+
+}
+
+
+function filtro8(){
+
+}
+
+
+function filtro9(){
+
+}
+
+
+function filtro10(){
+
+}
+
 
 function mostrartexto(){
     
