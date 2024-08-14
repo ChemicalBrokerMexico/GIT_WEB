@@ -450,7 +450,7 @@ $(document).ready(function(){
     <h5 class="Tipografia--general Titulos aceite_1024"><b>2-Etilhexanol</b></h5>
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro">El 2-etilhexanol (abreviado 2-EH) es un alcohol graso ramificado, un compuesto orgánico de ocho átomos de carbono con un grupo alcohol. Es un líquido incoloro que es poco soluble en agua, pero soluble en la mayoría de los disolventes orgánicos. </p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="e-Etilhexanol.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="2-Etilhexanol.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
     
@@ -900,7 +900,7 @@ function filtroall(){
     <h5 class="Tipografia--general Titulos aceite_1024"><b>2-Etilhexanol</b></h5>
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro">El 2-etilhexanol (abreviado 2-EH) es un alcohol graso ramificado, un compuesto orgánico de ocho átomos de carbono con un grupo alcohol. Es un líquido incoloro que es poco soluble en agua, pero soluble en la mayoría de los disolventes orgánicos. </p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="e-Etilhexanol.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="2-Etilhexanol.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
     
@@ -1848,7 +1848,7 @@ function filtro2(){
     <h5 class="Tipografia--general Titulos aceite_1024"><b>2-Etilhexanol</b></h5>
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro">El 2-etilhexanol (abreviado 2-EH) es un alcohol graso ramificado, un compuesto orgánico de ocho átomos de carbono con un grupo alcohol. Es un líquido incoloro que es poco soluble en agua, pero soluble en la mayoría de los disolventes orgánicos. </p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="e-Etilhexanol.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="2-Etilhexanol.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
 

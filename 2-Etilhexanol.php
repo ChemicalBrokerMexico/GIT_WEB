@@ -727,21 +727,21 @@
                 <br>
                 <li style="list-style-type:disc;">Otros plastificantes que se pueden obtener del 2-Etilhexanol son los correspondientes ésteres de:
                     <ol style="margin-top:25px;">
-                        <li style="list-style-type:disc;">ácido adipico</li>
+                        <li style="list-style-type:disc;">Ácido adipico</li>
                         <br>
-                        <li style="list-style-type:disc;">ácido para-hidroxibenzoico</li>
+                        <li style="list-style-type:disc;">Ácido para-hidroxibenzoico</li>
                         <br>
-                        <li style="list-style-type:disc;">ácido sebácico</li>
+                        <li style="list-style-type:disc;">Ácido sebácico</li>
                         <br>
-                        <li style="list-style-type:disc;">ácido azelaico</li>
+                        <li style="list-style-type:disc;">Ácido azelaico</li>
                         <br>
-                        <li style="list-style-type:disc;">ácido trimelítico</li>
+                        <li style="list-style-type:disc;">Ácido trimelítico</li>
                         <br>
-                        <li style="list-style-type:disc;">ácido esteárico</li>
+                        <li style="list-style-type:disc;">Ácido esteárico</li>
                         <br>
-                        <li style="list-style-type:disc;">ácido tereftálico</li>
+                        <li style="list-style-type:disc;">Ácido tereftálico</li>
                         <br>
-                        <li style="list-style-type:disc;">ácido fosfórico, etc.</li>
+                        <li style="list-style-type:disc;">Ácido fosfórico, etc.</li>
                     </ol>
                 </li>
                 <br>

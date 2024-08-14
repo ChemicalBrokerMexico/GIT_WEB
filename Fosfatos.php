@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <title>Chemical Broker | Fosfatos</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <meta name="description" content="Los fosfatos se pueden definir como productos quimicos versatiles y multifuncionales que se comercializan ampliamente en diversas industiras debido a sus propiedades beneficiosas y aplicaciones variadas">
+    <meta name="description" content="Los Fosfatos se pueden definir como productos quimicos versatiles y multifuncionales que se comercializan ampliamente en diversas industiras debido a sus propiedades beneficiosas y aplicaciones variadas">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">
@@ -414,7 +414,7 @@
 <div class="row">
 <div class="slider slider-prueba">
 <ul class="slides">
-<li> <img src="img/FOSFATOS_BANNER_110724.jpg" style="height:500px;" alt="Industria Quimica">
+<li> <img src="img/COLLAGE_FOSFATOS_140824.jpg" style="height:500px;" alt="Industria Quimica">
 <div class="caption center-align"><br><br><br><br>
 <h1 class="primertitulo"><b>Chemical Broker</b><br></h1>
 <div class="container">
@@ -434,10 +434,10 @@
 <div class="container" style="margin-top:150px;">
     <div class="row">
         <div class="col s12 m12 l12 xl12">
-            <h5 class="Tipografia--general letranegro General--Cuerpo" style="background-color:orange;padding:15px;color:white;margin-left:800px;font-size:35px;border-radius:10px">Fosfatos</h5>
+            <h5 class="Tipografia--general letranegro General--Cuerpo" style="background-color:#FF6600;padding:15px;color:white;margin-left:800px;font-size:35px;border-radius:10px"><b>Fosfatos</b></h5>
             
-            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Los fosfatos se pueden definir como productos químicos versátiles y multifuncionales que se comercializan ampliamente en diversas industrias debido a sus propiedades beneficiosas y aplicaciones variadas.</p>
-            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Los fosfatos son un grupo de sustancias químicas que contienen el ion fosfato, PO₄³⁻. Estos compuestos se derivan del ácido fosfórico (H₃PO₄) y se utilizan en una amplia variedad de aplicaciones. A continuación, se ofrece una descripción detallada de los ingredientes y tipos de fosfatos, junto con sus usos y funciones:</p>
+            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Los <b style="color:#FF6600;">Fosfatos</b> se pueden definir como productos químicos versátiles y multifuncionales que se comercializan ampliamente en diversas industrias debido a sus propiedades beneficiosas y aplicaciones variadas.</p>
+            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Los <b style="color:#FF6600;">Fosfatos</b> son un grupo de sustancias químicas que contienen el ion fosfato, PO₄³⁻. Estos compuestos se derivan del ácido fosfórico (H₃PO₄) y se utilizan en una amplia variedad de aplicaciones. A continuación, se ofrece una descripción detallada de los ingredientes y tipos de <b style="color:$FF6600;">Fosfatos</b>, junto con sus usos y funciones:</p>
             <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones:</b></h5>
             <ol>
                 <li class="ipografia--general letranegro General--Cuerpo Elementos--Listas">Industria Alimentaria:</li>
@@ -449,15 +449,15 @@
             <ol>
                 <li style="margin-top:50px;" class="Elementos--Listas">Industria Agrícola:</li>
                 <ol>
-                    <li style="margin-top:30px;" class="Elementos--Listas">Fertilizantes: Los fosfatos son componentes clave de los fertilizantes, proporcionando fósforo necesario para el crecimiento de las plantas y la producción de cultivos.Tratamiento de agua:</li>
-                    <li style="margin-top:30px;" class="Elementos--Listas">Coagulantes y floculantes: Los fosfatos se utilizan en plantas de tratamiento de agua para ayudar en la eliminación de contaminantes al actuar como coagulantes y floculantes.</li>
+                    <li style="margin-top:30px;" class="Elementos--Listas">Fertilizantes: Los <b style="color:#FF6600;">Fosfatos</b> son componentes clave de los fertilizantes, proporcionando fósforo necesario para el crecimiento de las plantas y la producción de cultivos.Tratamiento de agua:</li>
+                    <li style="margin-top:30px;" class="Elementos--Listas">Coagulantes y floculantes: Los <b style="color:#FF6600;">Fosfatos</b> se utilizan en plantas de tratamiento de agua para ayudar en la eliminación de contaminantes al actuar como coagulantes y floculantes.</li>
                 </ol>
             </ol>
             <ol>
                 <li style="margin-top:50px;" class="Elementos--Listas">Industria Química:</li>
                 <ol>
                     <li style="margin-top:30px;" class="Elementos--Listas">Productos de limpieza: Se utilizan en detergentes y limpiadores como agentes secuestrantes y para mejorar la eficacia de limpieza.</li>
-                    <li style="margin-top:30px;" class="Elementos--Listas">Industria de pinturas y recubrimientos: Los fosfatos se utilizan como inhibidores de corrosión en recubrimientos metálicos y como aditivos en la fabricación de pinturas.</li>
+                    <li style="margin-top:30px;" class="Elementos--Listas">Industria de pinturas y recubrimientos: Los <b style="color:#FF6600;">Fosfatos</b> se utilizan como inhibidores de corrosión en recubrimientos metálicos y como aditivos en la fabricación de pinturas.</li>
                 </ol>
             </ol>
             <ol>
@@ -468,38 +468,39 @@
             </ol>
             <ol>
                 <li style="margin-top:50px;" class="Elementos--Listas">Industria Metalúrgica:</li>
+                <br>
                 <ol>
-                    <l style="margin-top:30px;" class="Elementos--Listas">Procesamiento de metales: Los fosfatos se utilizan en el tratamiento de superficies metálicas para mejorar la resistencia a la corrosión y como agentes de limpieza en procesos de galvanizado.</li>
+                    <l style="margin-top:30px;" class="Elementos--Listas">Procesamiento de metales: Los <b style="color:#FF6600;">Fosfatos</b> se utilizan en el tratamiento de superficies metálicas para mejorar la resistencia a la corrosión y como agentes de limpieza en procesos de galvanizado.</li>
                     <li style="margin-top:30px;" class="Elementos--Listas">Suplementos nutricionales: Aportan minerales esenciales como fósforo y calcio.</li>
                 </ol>
             </ol>
             <ol>
                 <li style="margin-top:50px;" class="Elementos--Listas">Agricultura:</li>
                 <ol>
-                    <li style="margin-top:30px;" class="Elementos--Listas">Fertilizantes: Los fosfatos son un ingrediente clave en muchos fertilizantes y proporcionan nutrientes esenciales para el crecimiento de las plantas, particularmente fósforo, que es crucial para el desarrollo de las raíces y la floración.</li>
+                    <li style="margin-top:30px;" class="Elementos--Listas">Fertilizantes: Los <b style="color:#FF6600;">Fosfatos</b> son un ingrediente clave en muchos fertilizantes y proporcionan nutrientes esenciales para el crecimiento de las plantas, particularmente fósforo, que es crucial para el desarrollo de las raíces y la floración.</li>
                 </ol>
             </ol>
             <ol>
                 <li style="margin-top:50px;" class="Elementos--Listas">Usos Industriales:</li>
                 <ol>
                     <li style="margin-top:30px;" class="Elementos--Listas">Agentes de Limpieza: TSP es un potente agente de limpieza que se utiliza en varios productos de limpieza.</li>
-                    <li style="margin-top:30px;" class="Elementos--Listas">Tratamiento del Agua: Tratamiento del agua: los fosfatos ayudan a prevenir la corrosión y la formación de incrustaciones en los sistemas de agua.</li>
+                    <li style="margin-top:30px;" class="Elementos--Listas">Tratamiento del Agua: Tratamiento del agua: los <b style="color:#FF6600;">Fosfatos</b> ayudan a prevenir la corrosión y la formación de incrustaciones en los sistemas de agua.</li>
                     <li style="margin-top:30px;" class="Elementos--Listas">Retardante de Llama:Retardantes de llama: Ciertos compuestos de fosfato se utilizan para mejorar la resistencia al fuego de los materiales.</li>
                 </ol>
             </ol>
             <ol>
                 <li style="margin-top:50px;" class="Elementos--Listas">Farmacéutica y Medicina:</li>
                 <ol>
-                    <li style="margin-top:30px;" class="Elementos--Listas">Medicamentos: los fosfatos se utilizan en diversas formulaciones farmacéuticas.</li>
+                    <li style="margin-top:30px;" class="Elementos--Listas">Medicamentos: los <b style="color:#FF6600;">Fosfatos</b> se utilizan en diversas formulaciones farmacéuticas.</li>
                     <li style="margin-top:30px;" class="Elementos--Listas">Suplementos Nutricionales: Se utilizan para tratar o prevenir las deficiencias de fosfato.</li>
                 </ol>
             </ol>
             <ol>
                 <li style="margin-top:50px;" class="Elementos--Listas">Funciones:</li>
                 <ol>
-                    <li style="margin-top:30px;" class="Elementos--Listas">Amortiguador: Los fosfatos ayudan a mantener niveles de pH estables en varios productos.</li>
+                    <li style="margin-top:30px;" class="Elementos--Listas">Amortiguador: Los <b style="color:#FF6600;">Fosfatos</b> ayudan a mantener niveles de pH estables en varios productos.</li>
                     <li style="margin-top:30px;" class="Elementos--Listas">Estabilizantes: Ayudan a estabilizar la textura y consistencia de los alimentos y otros productos.</li>
-                    <li style="margin-top:30px;" class="Elementos--Listas">Secuestro: Los fosfatos pueden unirse y eliminar iones metálicos, lo que puede mejorar la calidad y estabilidad de los productos.</li>
+                    <li style="margin-top:30px;" class="Elementos--Listas">Secuestro: Los <b style="color:#FF6600;">Fosfatos</b> pueden unirse y eliminar iones metálicos, lo que puede mejorar la calidad y estabilidad de los productos.</li>
                     <li style="margin-top:30px;" class="Elementos--Listas">Aporte de Nutrientes: Aportan nutrientes esenciales como fósforo y calcio.</li>
                 </ol>
             </ol>
