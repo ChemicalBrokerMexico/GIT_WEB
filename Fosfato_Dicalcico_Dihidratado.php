@@ -414,13 +414,13 @@
 <div class="row">
 <div class="slider slider-prueba">
 <ul class="slides">
-<li> <img src="img/FOSFATOS_BANNER_110724.jpg" style="height:500px;" alt="Industria Quimica">
+<li> <img src="img/CB_PANADERIA_150824.jpg" style="height:500px;" alt="Industria Quimica">
 <div class="caption center-align"><br><br><br><br>
 <h1 class="primertitulo"><b>Chemical Broker</b><br></h1>
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section><a class="breditem active" href="#" style="color:white !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos ">Productos > </b> </a> <a class="breditem active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Fosfato Dihidratado</b></a></section>
+<section><a class="breditem active" href="#" style="color:white !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos ">Productos > </b> </a> <a class="breditem active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Fosfato Dicalcico Dihidratado</b></a></section>
 </div>
 </div>
 </div>
@@ -440,7 +440,7 @@
 </div>
 
     <div class="row">
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El Fosfato Dicálcico Dihidratado es un compuesto químico inorgánico con la fórmula CaHPO4·2H2O. Es un tipo de fosfato de calcio que se presenta en forma de cristales blancos o polvo. </p>
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b>Fosfato Dicálcico Dihidratado</b> es un compuesto químico inorgánico con la fórmula CaHPO4·2H2O. Es un tipo de fosfato de calcio que se presenta en forma de cristales blancos o polvo. </p>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general"><b>Caracteristicas</b></h5>
 
@@ -453,7 +453,7 @@
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b>Aplicaciones</b></h5>
 
-      <p class="Tipografia--general letranegro General--Cuerpo">El Fosfato Dicálcico Dihidratado (CaHPO4·2H2O) tiene una amplia gama de aplicaciones en diversas industrias debido a sus propiedades químicas y físicas. A continuación, se detallan sus principales aplicaciones:</p>
+      <p class="Tipografia--general letranegro General--Cuerpo">El <b>Fosfato Dicálcico Dihidratado</b> (CaHPO4·2H2O) tiene una amplia gama de aplicaciones en diversas industrias debido a sus propiedades químicas y físicas. A continuación, se detallan sus principales aplicaciones:</p>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria</b></h5>
 
@@ -510,84 +510,84 @@
         <li class="Elementos--Listas" style="margin-top:30px;">gente de Precipitación: Utilizado en el tratamiento de aguas residuales para precipitar iones metálicos y otros contaminantes, facilitando su eliminación.</li>
       </ol>
 
-      <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:black;"><b>Específicaciones</b></h5>
+      <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:black;margin-top:50px;"><b>Específicaciones</b></h5>
 
-  <div style="background-color:#FF6600;">
-    <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:white;">Fosfato Di Cálcico Anhidro (FDCA) | Grado Alimentos</h5>
+  <div style="background-color:#FF6600;margin-top:50px;">
+    <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:white;margin-top:30px;"><b>Fosfato Di Cálcico Anhidro (FDCA) | Grado Alimentos</b></h5>
   </div>
 
   <table>
     <tr>
-    <th style="color:#FF6600;" class="Tipografia--general General--Cuerpo"><b>Características</b></th>
-    <th style="color:#FF6600;" class="Tipografia--general General--Cuerpo"><b>Fosfato Di Cálcico Di Hidratado (FDCA)</b></th>
+    <th style="color:#FF6600;text-align:center" class="Tipografia--general General--Cuerpo"><b>Características</b></th>
+    <th style="color:#FF6600;text-align:center" class="Tipografia--general General--Cuerpo"><b>Fosfato Di Cálcico Di Hidratado (FDCA)</b></th>
     </tr>
     <tr>
       <td  class="Tipografia--general General--Cuerpo">Grado:</td>
-      <td  class="Tipografia--general General--Cuerpo">Alimentos</td>
+      <td  class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Alimentos</b></td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Certificaciones:</td>
-<td class="Tipografia--general General--Cuerpo">Kosher | Halal</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Kosher | Halal</b></td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">CAS:</td>
-<td class="Tipografia--general General--Cuerpo">7757-93-9</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>7757-93-9</b></td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">EINECS:</td>
-<td class="Tipografia--general General--Cuerpo">231-826-1</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>231-826-1</b></td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Formula:</td>
-<td class="Tipografia--general General--Cuerpo">CaHO4P</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>CaHO4P</b></td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Peso Molecular:</td>
-<td class="Tipografia--general General--Cuerpo">136.06</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>136.06</b></td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Apariencia:</td>
-<td class="Tipografia--general General--Cuerpo">Polvo Blanco</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Polvo Blanco</b></td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Contenido (CaHPO.2H20) (%):</td>
-<td class="Tipografia--general General--Cuerpo">98.0 - 105.0</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>98.0 - 105.0</b></td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Sustancia insoluble en Acido Clorhídrico (%):</td>
-<td class="Tipografia--general General--Cuerpo">≤ 0.05</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>≤ 0.05</b></td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Perdida por ignición (%):</td>
-<td class="Tipografia--general General--Cuerpo">24.5 - 26.5</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>24.5 - 26.5</b></td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Fluoruro (F) (mg/Kg):</td>
-<td class="Tipografia--general General--Cuerpo">≤ 50 </td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>≤ 50</b> </td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Metales Pesados (mg/Kg):</td>
-<td class="Tipografia--general General--Cuerpo">≤ 10</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>≤ 10</b></td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Plomo (PB (mg/Kg):</td>
-<td class="Tipografia--general General--Cuerpo">≤ 2</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>≤ 2</b></td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Arsénico (As) (mg/Kg):</td>
-<td class="Tipografia--general General--Cuerpo">≤ 2 </td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>≤ 2</b> </td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Presentación:</td>
-<td class="Tipografia--general General--Cuerpo">Sacos 25 Kg.</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Sacos 25 Kg.</b></td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Vida de Anaquel:</td>
-<td class="Tipografia--general General--Cuerpo">24 meses</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>24 meses</b></td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Aplicaciones:</td>
-<td class="Tipografia--general General--Cuerpo">Se utiliza como agente leudante de alimentos y potenciador de calcio, agente aromatizante de vino, promotor de fermentación, etc.</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Se utiliza como agente leudante de alimentos y potenciador de calcio, agente aromatizante de vino, promotor de fermentación, etc.</b></td>
     </tr>
   </table>
 

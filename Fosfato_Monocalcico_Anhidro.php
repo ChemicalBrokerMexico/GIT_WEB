@@ -440,7 +440,7 @@
 </div>
 
     <div class="row">
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El Fosfato Monocálcico Anhidro (conocido químicamente como Ca(H₂PO₄)₂) es una forma específica de fosfato de calcio que se utiliza comúnmente en diversas aplicaciones industriales y alimentarias. A continuación, se detallan algunos aspectos clave sobre este compuesto:</p>
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b>Fosfato Monocálcico Anhidro</b> (conocido químicamente como Ca(H₂PO₄)₂) es una forma específica de fosfato de calcio que se utiliza comúnmente en diversas aplicaciones industriales y alimentarias. A continuación, se detallan algunos aspectos clave sobre este compuesto:</p>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Propiedades Químicas y Físicas</b></h5>
 
@@ -454,7 +454,7 @@
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Usos y Aplicaciones</b></h5>
 
-<p class="Tipografia--general letranegro General--Cuerpo">El fosfato disódico dodecahidratado tiene diversas aplicaciones en varios campos:</p>
+<p class="Tipografia--general letranegro General--Cuerpo">El <b>Fosfato Disódico</b> dodecahidratado tiene diversas aplicaciones en varios campos:</p>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria:</b></h5>
 
@@ -501,87 +501,93 @@
     <li class="Elementos--Listas" style="margin-top:30px;">A veces se utiliza en la agricultura como agente fertilizante para proporcionar fósforo a las plantas, ayudando en su crecimiento y desarrollo.</li>
 </ol>
 
+<br>
+
+
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:0px;"><b style="color:#000020;">Caracteristicas:</b></h5>
 
 <div style="background-color:#FF6600;">
-    <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:white;">Fosfato Mono Cálcico Anhidro (MCP) | Grado Alimentos</h5>
+    <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:white;"><b>Fosfato Mono Cálcico Anhidro (MCP) | Grado Alimentos</b></h5>
   </div>
+
+<br>
 
   <table>
     <tr>
-    <th style="color:#FF6600;" class="Tipografia--general General--Cuerpo"><b>Características</b></th>
-    <th style="color:#FF6600;" class="Tipografia--general General--Cuerpo"><b>Fosfato Mono Cálcico Anhidro (MCP) | Grado Alimentos</b></th>
+    <th style="color:#FF6600;text-align:center;" class="Tipografia--general General--Cuerpo"><b>Características</b></th>
+    <th style="color:#FF6600;text-align:center;" class="Tipografia--general General--Cuerpo"><b>Fosfato Mono Cálcico Anhidro (MCP) | Grado Alimentos</b></th>
     </tr>
     <tr>
       <td  class="Tipografia--general General--Cuerpo">Grado:</td>
-      <td  class="Tipografia--general General--Cuerpo">Alimentos</td>
+      <td  class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Alimentos</b></td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Certificaciones:</td>
-<td class="Tipografia--general General--Cuerpo">Kosher | Halal</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Kosher | Halal</b></td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">CAS:</td>
-<td class="Tipografia--general General--Cuerpo">7558-79-4</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>7558-79-4</b></td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">EINECS:</td>
-<td class="Tipografia--general General--Cuerpo">231-448-7</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>231-448-7</b></td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Formula:</td>
-<td class="Tipografia--general General--Cuerpo">Na2HPO4</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Na2HPO4</b></td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Peso Molecular:</td>
-<td class="Tipografia--general General--Cuerpo">142</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>142</b></td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Apariencia:</td>
-<td class="Tipografia--general General--Cuerpo">Polvo Blanco</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Polvo Blanco</b></td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Ensayo (K2HPO4) (%):</td>
-<td class="Tipografia--general General--Cuerpo">98.0 Min</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>98.0 Min</b></td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Perdida por ignición (%):</td>
-<td class="Tipografia--general General--Cuerpo">5.0 Max.</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>5.0 Max.</b></td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Insoluble en Agua (%):</td>
-<td class="Tipografia--general General--Cuerpo">0.2 Max</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>0.2 Max</b></td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">pH (solución de 10 g/L):</td>
-<td class="Tipografia--general General--Cuerpo">8.8 – 9.4</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>8.8 – 9.4</b></td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Fluoruro (F) (ppm):</td>
-<td class="Tipografia--general General--Cuerpo">50 Max</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>50 Max</b></td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Plomo (Pb) (ppm):</td>
-<td class="Tipografia--general General--Cuerpo">4 Max.</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>4 Max.</b></td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Arsénico (As) (ppm):</td>
-<td class="Tipografia--general General--Cuerpo">10 Max.</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>10 Max.</b></td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Metales Pesados (Pb) (ppm):</td>
-<td class="Tipografia--general General--Cuerpo">Sacos 25 Kg.</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Sacos 25 Kg.</b></td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Presentación:</td>
-<td class="Tipografia--general General--Cuerpo">Sacos 25 Kg.</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Sacos 25 Kg.</b></td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Vida de Anaquel:</td>
-<td class="Tipografia--general General--Cuerpo">24 meses</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>24 meses</b></td>
     </tr>
     <tr>
 <td class="Tipografia--general General--Cuerpo">Aplicaciones:</td>
-<td class="Tipografia--general General--Cuerpo">Se utiliza como mejorador de la calidad, emulsionante, potenciador de la nutrición, coadyuvante de la fermentación y aglutinante en la industria alimentaria.</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Se utiliza como mejorador de la calidad, emulsionante, potenciador de la nutrición, coadyuvante de la fermentación y aglutinante en la industria alimentaria.</b></td>
     </tr>
   </table>
       

@@ -686,7 +686,7 @@
         <div class="row">
             <div class="col s12 m12 l12 xl12">
                 <!-- <h5 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Butil Hidroxi Tolueno (BHT)</b></h5> -->
-                <p class="Tipografia--general letranegro General--Cuerpo">La terc-butilhidroquinona (TBHQ, butilhidroquinona terciaria) es un compuesto orgánico aromático sintético que es un tipo de fenol. Es un derivado de la hidroquinona, sustituido con un grupo terc-butilo.</p>
+                <p class="Tipografia--general letranegro General--Cuerpo">La Ter-Butilhidroquinona (TBHQ, butilhidroquinona terciaria) es un compuesto orgánico aromático sintético que es un tipo de fenol. Es un derivado de la hidroquinona, sustituido con un grupo terc-butilo.</p>
 
                 <table class="display" id="table_id2" name="table_id2"
                     style="width:100%;border-spacing:2px 5px;border:none;margin:30px 0px 0px 0px">

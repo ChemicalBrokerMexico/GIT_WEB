@@ -414,13 +414,13 @@
 <div class="row">
 <div class="slider slider-prueba">
 <ul class="slides">
-<li> <img src="img/FOSFATOS_BANNER_110724.jpg" style="height:500px;" alt="Industria Quimica">
+<li> <img src="img/CB_CEREALES_150824.jpg" style="height:500px;" alt="Industria Quimica">
 <div class="caption center-align"><br><br><br><br>
 <h1 class="primertitulo"><b>Chemical Broker</b><br></h1>
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section><a class="active" href="#" style="color:white !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos ">Productos > </b> </a> <a class=" active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Fosfato Dicálcico Anhidro</b></a></section>
+<section><a class="active" href="#" style="color:white !important"><b class="Tipografia--general  Subtitulos">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos ">Productos > </b> </a> <a class=" active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Fosfato Dicálcico Anhidro</b></a></section>
 </div>
 </div>
 </div>
@@ -440,7 +440,7 @@
 </div>
 
     <div class="row">
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Fosfato Dicálcico Anhidro, también conocido como fosfato dicálcico o DCP (por sus siglas en inglés: Dicalcium Phosphate), es un compuesto inorgánico con la fórmula química CaHPO₄. Es un polvo blanco, inodoro y casi insoluble en agua, pero soluble en ácidos. Es una forma anhidra, lo que significa que no contiene agua en su estructura cristalina.</p>
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Fosfato Dicálcico Anhidro</b>, también conocido como fosfato dicálcico o DCP (por sus siglas en inglés: <b>Dicalcium Phosphate</b>), es un compuesto inorgánico con la fórmula química CaHPO₄. Es un polvo blanco, inodoro y casi insoluble en agua, pero soluble en ácidos. Es una forma anhidra, lo que significa que no contiene agua en su estructura cristalina.</p>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020">Propiedades fisicas y quimicas</b></h5>
 
@@ -454,13 +454,14 @@
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h5>
 
-      <p class="Tipografia--general letranegro General--Cuerpo">El fosfato dicálcico anhidro (CaHPO₄) tiene diversas aplicaciones en múltiples industrias debido a sus propiedades químicas y físicas. Aquí se detallan algunas de las principales aplicaciones:</p>
+      <p class="Tipografia--general letranegro General--Cuerpo"><b>El fosfato dicálcico anhidro</b> (CaHPO₄) tiene diversas aplicaciones en múltiples industrias debido a sus propiedades químicas y físicas. Aquí se detallan algunas de las principales aplicaciones:</p>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria</b></h5>
 
       <ol>
-        <li class="Elementos--Listas">Aditivo Alimentario: Utilizado como agente leudante y emulsionante en productos de panadería y cereales.</li>
-        <li class="Elementos--Listas">Suplemento Nutricional: Añadido a alimentos para fortificar con calcio y fósforo, esenciales para la salud ósea y dental.</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Aditivo Alimentario: Utilizado como agente leudante y emulsionante en productos de panadería y cereales.</li>
+        <br>
+        <li class="Elementos--Listas" style="margin-top:30px;">Suplemento Nutricional: Añadido a alimentos para fortificar con calcio y fósforo, esenciales para la salud ósea y dental.</li>
       </ol>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Nutrición Animal</b></h5>
@@ -486,14 +487,14 @@
 
 
       <ol>
-        <li class="Elementos--Listas">Dentífricos y Polvos Dentales: Usado como abrasivo suave y fuente de calcio en pastas dentales, ayudando a pulir los dientes sin dañar el esmalte.</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Dentífricos y Polvos Dentales: Usado como abrasivo suave y fuente de calcio en pastas dentales, ayudando a pulir los dientes sin dañar el esmalte.</li>
       </ol>
 
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Química</b></h5>
 
       <ol>
-        <li class="Elementos--Listas">Producción de Otros Fosfatos: Actúa como materia prima en la fabricación de otros fosfatos utilizados en diversas aplicaciones industriales.
+        <li class="Elementos--Listas" style="margin-top:30px;">Producción de Otros Fosfatos: Actúa como materia prima en la fabricación de otros fosfatos utilizados en diversas aplicaciones industriales.
 </ol>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Otros Usos</b></h5>
@@ -503,86 +504,86 @@
         <li class="Elementos--Listas" style="margin-top:30px;">Purificación de Agua: Utilizado en algunos procesos de tratamiento de agua para precipitar impurezas.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:black;"><b>Específicaciones</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:black;margin-top:50px;"><b>Específicaciones</b></h5>
 
   <div style="background-color:#FF6600;">
-    <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:white;">Fosfato Di Cálcico Anhidro (FDCA) | Grado Alimentos</h5>
+    <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:white;"><b>Fosfato Di Cálcico Anhidro (FDCA) | Grado Alimentos</b></h5>
   </div>
 
 
 
-        <table>
+        <table style="margin-top:30px;">
           <tr>
-            <th style="color:#FF6600;" class="Tipografia--general General--Cuerpo"><b>Características</b></th>
-            <th style="color:#FF6600;" class="Tipografia--general General--Cuerpo"><b>Fosfato Di Cálcico Anhidro (FDCA)</b></th>
+            <th style="color:#FF6600;text-align:center;" class="Tipografia--general General--Cuerpo"><b>Características</b></th>
+            <th style="color:#FF6600;text-align:center;" class="Tipografia--general General--Cuerpo"><b>Fosfato Di Cálcico Anhidro (FDCA)</b></th>
           </tr>
           <tr>
-            <td class="Tipografia--general General--Cuerpo">Grado:</td>
-            <td class="Tipografia--general General--Cuerpo">Alimentos</td>
+            <td class="Tipografia--general General--Cuerpo" style="text-align:center;">Grado:</td>
+            <td class="Tipografia--general General--Cuerpo" style="text-align:center;"><b>Alimentos</b></td>
           </tr>
           <tr>
-          <td class="Tipografia--general General--Cuerpo">Certificaciones:</td>
-            <td class="Tipografia--general General--Cuerpo">Kosher|Halal</td>
+          <td class="Tipografia--general General--Cuerpo" style="text-align:center;">Certificaciones:</td>
+          <td class="Tipografia--general General--Cuerpo" style="text-align:center;"><b>Kosher | Halal</b></td>
           </tr>
           <tr>
-          <td class="Tipografia--general General--Cuerpo">CAS:</td>
-            <td class="Tipografia--general General--Cuerpo">7757-93-9</td>
+          <td class="Tipografia--general General--Cuerpo" style="text-align: center;">CAS:</td>
+            <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>7757-93-9</b></td>
           </tr>
           <tr>
-          <td class="Tipografia--general General--Cuerpo">EINECS:</td>
-            <td class="Tipografia--general General--Cuerpo">231-826-1</td>
+          <td class="Tipografia--general General--Cuerpo" style="text-align: center;">EINECS:</td>
+            <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>231-826-1</b></td>
           </tr>
           <tr>
-          <td class="Tipografia--general General--Cuerpo">Formula:</td>
-            <td class="Tipografia--general General--Cuerpo">CaHO4P</td>
+          <td class="Tipografia--general General--Cuerpo" style="text-align: center;">Formula:</td>
+            <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>CaHO4P</b></td>
           </tr>
           <tr>
-          <td class="Tipografia--general General--Cuerpo">Peso Molecular:</td>
-            <td class="Tipografia--general General--Cuerpo">136.06</td>
+          <td class="Tipografia--general General--Cuerpo" style="text-align: center;">Peso Molecular:</td>
+            <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>136.06</b></td>
           </tr>
           <tr>
-          <td class="Tipografia--general General--Cuerpo">Apariencia:</td>
-            <td class="Tipografia--general General--Cuerpo">Polvo Blanco o Blanquecino</td>
+          <td class="Tipografia--general General--Cuerpo" style="text-align: center;">Apariencia:</td>
+            <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Polvo Blanco o Blanquecino</b></td>
           </tr>
           <tr>
-          <td class="Tipografia--general General--Cuerpo">Contenido (CaHO4P) (%):</td>
-            <td class="Tipografia--general General--Cuerpo">98.0 - 105.0</td>
+          <td class="Tipografia--general General--Cuerpo" style="text-align: center;">Contenido (CaHO4P) (%):</td>
+            <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>98.0 - 105.0</b></td>
           </tr>
           <tr>
-          <td class="Tipografia--general General--Cuerpo">Sustencia insoluble en ácido clorhidrico (%):</td>
-            <td class="Tipografia--general General--Cuerpo">< 0.05</td>
+          <td class="Tipografia--general General--Cuerpo" style="text-align: center;">Sustencia insoluble en ácido clorhidrico (%):</td>
+            <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>< 0.05</b></td>
           </tr>
           <tr>
-          <td class="Tipografia--general General--Cuerpo">Perdida por ignición (%):</td>
-            <td class="Tipografia--general General--Cuerpo">7.08 - 8.5</td>
+          <td class="Tipografia--general General--Cuerpo" style="text-align: center;">Perdida por ignición (%):</td>
+            <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>7.08 - 8.5</b></td>
           </tr>
           <tr>
-          <td class="Tipografia--general General--Cuerpo">Fluoruro (F) (mg/Kg):</td>
-            <td class="Tipografia--general General--Cuerpo">< 50 </td>
+          <td class="Tipografia--general General--Cuerpo" style="text-align: center;">Fluoruro (F) (mg/Kg):</td>
+            <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>< 50</b> </td>
           </tr>
           <tr>
-          <td class="Tipografia--general General--Cuerpo">Metales Pesados (mg/Kg):</td>
-            <td class="Tipografia--general General--Cuerpo">< 10</td>
+          <td class="Tipografia--general General--Cuerpo" style="text-align: center;">Metales Pesados (mg/Kg):</td>
+            <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>< 10</b></td>
           </tr>
           <tr>
-          <td class="Tipografia--general General--Cuerpo">Plomo (Pb) (mg/Kg)</td>
-            <td class="Tipografia--general General--Cuerpo">< 2</td>
+          <td class="Tipografia--general General--Cuerpo" style="text-align: center;">Plomo (Pb) (mg/Kg)</td>
+            <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>< 2</b></td>
           </tr>
           <tr>
-          <td class="Tipografia--general General--Cuerpo">Arsénico (As) (mg/Kg):</td>
-          <td class="Tipografia--general General--Cuerpo">< 2</td>
+          <td class="Tipografia--general General--Cuerpo" style="text-align: center;">Arsénico (As) (mg/Kg):</td>
+          <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>< 2</b></td>
           </tr>
           <tr>
-          <td class="Tipografia--general General--Cuerpo">Presentación:</td>
-            <td class="Tipografia--general General--Cuerpo">Sacos 25 Kg:</td>
+          <td class="Tipografia--general General--Cuerpo" style="text-align: center;">Presentación:</td>
+            <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Sacos 25 Kg:</b></td>
           </tr>
           <tr>
-          <td class="Tipografia--general General--Cuerpo">Vida de Anaquel:</td>
-            <td class="Tipografia--general General--Cuerpo">24 Meses</td>
+          <td class="Tipografia--general General--Cuerpo" style="text-align: center;">Vida de Anaquel:</td>
+            <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>24 Meses</b></td>
           </tr>
           <tr>
-          <td class="Tipografia--general General--Cuerpo">Aplicaciones:</td>
-            <td class="Tipografia--general General--Cuerpo">Se utiliza como agente leudante de alimentos y potenciador de calcio, agente aromatizante de vino, promotor de fermentación, etc.</td>
+          <td class="Tipografia--general General--Cuerpo" style="text-align: center;">Aplicaciones:</td>
+            <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Se utiliza como agente leudante de alimentos y potenciador de calcio, agente aromatizante de vino, promotor de fermentación, etc.</b></td>
           </tr>
         </table>
       

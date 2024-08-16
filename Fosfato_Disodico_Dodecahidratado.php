@@ -414,7 +414,7 @@
 <div class="row">
 <div class="slider slider-prueba">
 <ul class="slides">
-<li> <img src="img/FOSFATOS_BANNER_110724.jpg" style="height:500px;" alt="Industria Quimica">
+<li> <img src="img/CB_TRATAMEINTO_AGUA.jpg" style="height:500px;" alt="Industria Quimica">
 <div class="caption center-align"><br><br><br><br>
 <h1 class="primertitulo"><b>Chemical Broker</b><br></h1>
 <div class="container">
@@ -440,11 +440,11 @@
 </div>
 
     <div class="row">
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El fosfato disódico dodecahidratado es una sal inorgánica con la fórmula química Na2HPO4·12H2O. Se utiliza en una variedad de aplicaciones industriales y en productos de consumo. Por ejemplo, se utiliza en la industria alimentaria como regulador de pH y agente fermentativo. También se encuentra en productos de cuidado personal y en productos de limpieza como agente quelante y suavizante de agua. Además, tiene aplicaciones en la industria farmacéutica y en procesos de tratamiento de aguas.</p>
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b>Fosfato Disódico Dodecahidratado</b> es una sal inorgánica con la fórmula química Na2HPO4·12H2O. Se utiliza en una variedad de aplicaciones industriales y en productos de consumo. Por ejemplo, se utiliza en la industria alimentaria como regulador de pH y agente fermentativo. También se encuentra en productos de cuidado personal y en productos de limpieza como agente quelante y suavizante de agua. Además, tiene aplicaciones en la industria farmacéutica y en procesos de tratamiento de aguas.</p>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Propiedades</b></h5>
 
-<p class="Tipografia--general letranegro General--Cuerpo">El fosfato disódico dodecahidratado tiene varias propiedades importantes:</p>
+<p class="Tipografia--general letranegro General--Cuerpo">El <b>Fosfato Disódico Dodecahidratado</b> tiene varias propiedades importantes:</p>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Solubilidad: Es altamente soluble en agua, lo que lo hace fácil de usar en soluciones acuosas.</li>
@@ -459,7 +459,7 @@
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h5>
 
-<p class="Tipografia--general letranegro General--Cuerpo">El fosfato disódico dodecahidratado tiene diversas aplicaciones en varios campos:</p>
+<p class="Tipografia--general letranegro General--Cuerpo">El <b>Fosfato Disódico Dodecahidratado</b> tiene diversas aplicaciones en varios campos:</p>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria:</b></h5>
 

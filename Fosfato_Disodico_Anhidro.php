@@ -414,7 +414,7 @@
 <div class="row">
 <div class="slider slider-prueba">
 <ul class="slides">
-<li> <img src="img/FOSFATOS_BANNER_110724.jpg" style="height:500px;" alt="Industria Quimica">
+<li> <img src="img/CB_CARNE_PROCESADA_150824.jpg" style="height:500px;" alt="Industria Quimica">
 <div class="caption center-align"><br><br><br><br>
 <h1 class="primertitulo"><b>Chemical Broker</b><br></h1>
 <div class="container">
@@ -440,34 +440,33 @@
 </div>
 
     <div class="row">
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El fosfato disódico anhidro, también conocido como fosfato de disodio, es una sal inorgánica de sodio y ácido fosfórico. Se presenta como un polvo blanco o cristales incoloros. Es ampliamente utilizado en la industria alimentaria como aditivo alimentario (E339) con diversas funciones, como regulador de la acidez, agente emulsionante, agente antiaglomerante y estabilizador. También se utiliza en productos farmacéuticos y en aplicaciones industriales, como en la fabricación de detergentes y productos de limpieza. En la industria alimentaria, se emplea principalmente para ajustar el pH y mejorar la textura de los alimentos, así como para aumentar la estabilidad y la vida útil de los productos.
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b>Fosfato Disódico Anhidro</b>, también conocido como fosfato de disodio, es una sal inorgánica de sodio y ácido fosfórico. Se presenta como un polvo blanco o cristales incoloros. Es ampliamente utilizado en la industria alimentaria como aditivo alimentario (E339) con diversas funciones, como regulador de la acidez, agente emulsionante, agente antiaglomerante y estabilizador. También se utiliza en productos farmacéuticos y en aplicaciones industriales, como en la fabricación de detergentes y productos de limpieza. En la industria alimentaria, se emplea principalmente para ajustar el pH y mejorar la textura de los alimentos, así como para aumentar la estabilidad y la vida útil de los productos.
 
 </p>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Propiedades</b></h5>
 
-<p class="Tipografia--general letranegro General--Cuerpo">
-El fosfato disódico anhidro, como una sal inorgánica, exhibe varias propiedades físicas y químicas importantes que son relevantes para sus diversas aplicaciones. Aquí hay algunas de sus propiedades más destacadas:</p>
+<p class="Tipografia--general letranegro General--Cuerpo">El <b>Fosfato Disódico Anhidro</b>, como una sal inorgánica, exhibe varias propiedades físicas y químicas importantes que son relevantes para sus diversas aplicaciones. Aquí hay algunas de sus propiedades más destacadas:</p>
 
 <ol>
-    <li class="Elementos--Listas" style="margin-top:30px;">Solubilidad:El fosfato disódico anhidro es soluble en agua, lo que significa que puede disolverse fácilmente en este disolvente para formar una solución acuosa. La solubilidad en agua facilita su uso en una variedad de aplicaciones, especialmente en la industria alimentaria y el tratamiento de aguas.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">pH:Como un fosfato, el fosfato disódico anhidro puede actuar como un regulador de pH. Tiene un carácter básico y puede utilizarse para aumentar el pH de una solución, lo que lo hace útil en el tratamiento de aguas y como aditivo alimentario para ajustar el pH de los alimentos procesados.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">Estabilidad Térmica:El fosfato disódico anhidro es estable a temperaturas moderadas y altas. Esta estabilidad térmica es importante en aplicaciones donde se requiere procesamiento a altas temperaturas, como en la fabricación de alimentos procesados y productos químicos.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">Capacidad de Formación de Complejos: El fosfato disódico anhidro puede formar complejos con iones metálicos, lo que lo hace útil como agente secuestrante de metales en aplicaciones de tratamiento de agua y en la fabricación de detergentes.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">Seguridad: En general, el fosfato disódico anhidro se considera seguro para su uso en las aplicaciones y cantidades recomendadas. Sin embargo, como con cualquier sustancia química, es importante seguir las pautas de seguridad y manejo adecuadas para evitar riesgos para la salud y el medio ambiente.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">Cristalinidad: En su forma sólida, el fosfato disódico anhidro puede presentarse como un polvo blanco o cristales incoloros, dependiendo de las condiciones de fabricación y almacenamiento.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Solubilidad: El <b>Fosfato Disódico Anhidro</b> es soluble en agua, lo que significa que puede disolverse fácilmente en este disolvente para formar una solución acuosa. La solubilidad en agua facilita su uso en una variedad de aplicaciones, especialmente en la industria alimentaria y el tratamiento de aguas.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">pH: Como un fosfato, el <b>Fosfato Disódico Anhidro</b> puede actuar como un regulador de pH. Tiene un carácter básico y puede utilizarse para aumentar el pH de una solución, lo que lo hace útil en el tratamiento de aguas y como aditivo alimentario para ajustar el pH de los alimentos procesados.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Estabilidad Térmica: El Fosfato Disódico Anhidro es estable a temperaturas moderadas y altas. Esta estabilidad térmica es importante en aplicaciones donde se requiere procesamiento a altas temperaturas, como en la fabricación de alimentos procesados y productos químicos.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Capacidad de Formación de Complejos: El <b>Fosfato Disódico Anhidro</b> puede formar complejos con iones metálicos, lo que lo hace útil como agente secuestrante de metales en aplicaciones de tratamiento de agua y en la fabricación de detergentes.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Seguridad: En general, el <b>Fosfato Disódico Anhidro</b> se considera seguro para su uso en las aplicaciones y cantidades recomendadas. Sin embargo, como con cualquier sustancia química, es importante seguir las pautas de seguridad y manejo adecuadas para evitar riesgos para la salud y el medio ambiente.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Cristalinidad: En su forma sólida, el <b>Fosfato Disódico Anhidro</b> puede presentarse como un polvo blanco o cristales incoloros, dependiendo de las condiciones de fabricación y almacenamiento.</li>
 </ol>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h5>
 
-<p class="Tipografia--general letranegro General--Cuerpo">El fosfato disódico anhidro, también conocido como fosfato de disodio, tiene una amplia variedad de aplicaciones en varias industrias debido a sus propiedades como agente regulador de pH, emulsionante, antiaglomerante y estabilizador. Aquí hay algunas de sus aplicaciones más comunes:</p>
+<p class="Tipografia--general letranegro General--Cuerpo">El <b>Fosfato Disódico Anhidro</b>, también conocido como fosfato de disodio, tiene una amplia variedad de aplicaciones en varias industrias debido a sus propiedades como agente regulador de pH, emulsionante, antiaglomerante y estabilizador. Aquí hay algunas de sus aplicaciones más comunes:</p>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria:</b></h5>
 
 <ol>
-    <li class="Elementos--Listas" style="margin-top:30px;">Regulador de acidez: Regulador de acidez: Se utiliza para ajustar y mantener el pH en una amplia gama de productos alimenticios, como productos lácteos, carnes procesadas, bebidas, productos de panadería y confitería.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">Estabilizador: Estabilizador: Ayuda a mantener la consistencia y la textura de los alimentos, especialmente en productos como salsas, aderezos y productos horneados.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">Agente Antiaglomerante: Agente antiaglomerante: Se agrega a productos en polvo para prevenir la formación de grumos y mejorar la fluidez del polvo</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Regulador de acidez: Se utiliza para ajustar y mantener el pH en una amplia gama de productos alimenticios, como productos lácteos, carnes procesadas, bebidas, productos de panadería y confitería.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Estabilizador: Ayuda a mantener la consistencia y la textura de los alimentos, especialmente en productos como salsas, aderezos y productos horneados.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Agente antiaglomerante: Se agrega a productos en polvo para prevenir la formación de grumos y mejorar la fluidez del polvo</li>
 </ol>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Farmacéutica:</b></h5>
@@ -503,86 +502,86 @@ El fosfato disódico anhidro, como una sal inorgánica, exhibe varias propiedade
 </ol>
 
 
-<div style="background-color:#FF6600;">
+<div style="background-color:#FF6600;margin-top:50px;">
     <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:white;">Fosfato Di Cálcico Anhidro (FDCA) | Grado Alimentos</h5>
   </div>
 
-  <table>
+  <table style="margin-top:30px style="text-align:center";">
     <tr>
-    <th style="color:#FF6600;" class="Tipografia--general General--Cuerpo"><b>Características</b></th>
-    <th style="color:#FF6600;" class="Tipografia--general General--Cuerpo"><b>Fosfato Disódico Anhidro (DSP) | Grado Alimentos</b></th>
+    <th style="color:#FF6600;text-align: center;" class="Tipografia--general General--Cuerpo"><b>Características</b></th>
+    <th style="color:#FF6600;text-align: center;" class="Tipografia--general General--Cuerpo"><b>Fosfato Disódico Anhidro (DSP) | Grado Alimentos</b></th>
     </tr>
     <tr>
-      <td  class="Tipografia--general General--Cuerpo">Grado:</td>
-      <td  class="Tipografia--general General--Cuerpo">Alimentos</td>
+      <td  class="Tipografia--general General--Cuerpo" style="text-align:center">Grado:</td>
+      <td  class="Tipografia--general General--Cuerpo" style="text-align:center"><b>Alimentos</td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Certificaciones:</td>
-<td class="Tipografia--general General--Cuerpo">Kosher | Halal</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center">Certificaciones:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center"><b>Kosher | Halal</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">CAS:</td>
-<td class="Tipografia--general General--Cuerpo">7758-79-4</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center">CAS:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center"><b>7758-79-4</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">EINECS:</td>
-<td class="Tipografia--general General--Cuerpo">231-448-7</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center">EINECS:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center"><b>231-448-7</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Formula:</td>
-<td class="Tipografia--general General--Cuerpo">Na2HPO4</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center">Formula:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center"><b>Na2HPO4</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Peso Molecular:</td>
-<td class="Tipografia--general General--Cuerpo">142</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center">Peso Molecular:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center"><b>142</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Apariencia:</td>
-<td class="Tipografia--general General--Cuerpo">Polvo Blanco</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center">Apariencia:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center"><b>Polvo Blanco</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Ensayo (K2HPO4) (%):</td>
-<td class="Tipografia--general General--Cuerpo">98.0 Min</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center">Ensayo (K2HPO4) (%):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center"><b>98.0 Min</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Perdida por ignición (%):</td>
-<td class="Tipografia--general General--Cuerpo">5.0 Max</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center">Perdida por ignición (%):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center"><b>5.0 Max</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Insoluble en Agua (%):</td>
-<td class="Tipografia--general General--Cuerpo">0.2 Max.</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center">Insoluble en Agua (%):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center"><b>0.2 Max.</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">pH (solución de 10 g/L):</td>
-<td class="Tipografia--general General--Cuerpo">8.8 – 9.4</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center">pH (solución de 10 g/L):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center"><b>8.8 – 9.4</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Fluoruro (F) (ppm):</td>
-<td class="Tipografia--general General--Cuerpo">50 Max.</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center">Fluoruro (F) (ppm):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center"><b>50 Max.</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Plomo (Pb) (ppm):</td>
-<td class="Tipografia--general General--Cuerpo">4 Max.</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center">Plomo (Pb) (ppm):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center"><b>4 Max.</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Arsénico (As) (ppm):</td>
-<td class="Tipografia--general General--Cuerpo">3 Max.</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center">Arsénico (As) (ppm):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center"><b>3 Max.</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Metales Pesados (Pb) (ppm):</td>
-<td class="Tipografia--general General--Cuerpo">10 Max.</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center">Metales Pesados (Pb) (ppm):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center"><b>10 Max.</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Presentación:</td>
-<td class="Tipografia--general General--Cuerpo">Sacos 25 Kg.</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center">Presentación:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center"><b>Sacos 25 Kg.</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Vida de Anaquel:</td>
-<td class="Tipografia--general General--Cuerpo">24 meses</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center">Vida de Anaquel:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center"><b>24 meses</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Aplicaciones:</td>
-<td class="Tipografia--general General--Cuerpo">Se utiliza como mejorador de la calidad, emulsionante, potenciador de la nutrición, coadyuvante de la fermentación y aglutinante en la industria alimentaria.</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center">Aplicaciones:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center"><b>Se utiliza como mejorador de la calidad, emulsionante, potenciador de la nutrición, coadyuvante de la fermentación y aglutinante en la industria alimentaria.</b></td>
     </tr>
   </table>
       
