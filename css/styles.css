@@ -1244,6 +1244,10 @@ font-size: 12px;
             margin-top:140px;
         }
 
+        .sides-sugar{
+           margin-left: -30px !important
+        }
+
 }
 
 @media only screen and (min-width: 576px) {
@@ -2095,6 +2099,10 @@ font-size: 12px;
         margin-top:140px;
     }
 
+
+    .sides-sugar{
+        margin-left: -66px !important
+     }
    
 
 }
@@ -2472,6 +2480,10 @@ font-size: 12px;
     .cargill-logo {
         width:25%;
     }
+
+    .sides-sugar{
+        margin-left: -80px !important
+     }
 }
 
 @media only screen and (min-width: 992px) {

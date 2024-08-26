@@ -432,7 +432,7 @@
             </ul>
             <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#"
                     data-target="mobile-search"><i class="material-icons search-mobile-icon search-top-mobile"
-                        style="width:0px">search</i></a></div>
+                        style="width:0px;margin-left:-20px;">search</i></a></div>
         </div>
     </nav>
     <ul class="collapsible" id="search1" style="display:none">
@@ -664,8 +664,7 @@
     <div class="container" style="margin-top:150px;">
 
         <div class="row colorazucar">
-            <div class="col s12 m12 l12 xl12"
-                style="background-color:#660066;padding:-1px;height:40px;width:120%;float: right;">
+            <div class="col s12 m12 l12 xl12 sides-sugar" style="background-color:#660066;padding:-1px;height:40px;width:120%;">
                 <p class="Titulos General--Cuerpo" style="color:white;text-align: right;margin:0px;font-size:27px;">
                     <b>Azúcar Refinada</b></p>
             </div>
@@ -894,12 +893,13 @@
 
             </table>
 
+
             <h5 class="Tipografia--general letranegro General--Cuerpo" style="color:#660066;margin-top:50px;">
                 <b>Presentación</b></h5>
 
             <ol>
-                <li>Saco 25 Kg.</li>
-                <li>Super Saco 1,000 Kg.</li>
+                <li style="list-style-type:disc;">Saco 25 Kg.</li>
+                <li style="list-style-type:disc;">Super Saco 1,000 Kg.</li>
             </ol>
 
             <p class="Tipografia--general letranegro General--Cuerpo"></p>

@@ -434,7 +434,7 @@
 <div class="container" style="margin-top:150px;">
 
 <div class="row" style="margin-left:1000px;">
-  <div class="col s12 m12 l12 xl12" style="background-color:orange;width:124%;">
+  <div class="col s12 m12 l12 xl12" style="background-color:orange;width:133%;">
   <p class="Titulos General--Cuerpo" style="color:white;text-align: right;"><b>Fosfato Monocálcico Monohidratado</b></p>
   </div>
 </div>
@@ -488,7 +488,7 @@
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Tratamiento de Aguas</b></h5>
 
 <ol>
-    <li class="Elementos--Listas" style="margin-top:30px;">•	Acondicionador de Agua: Puede utilizarse en el tratamiento de aguas para ajustar el pH y para precipitar iones metálicos, ayudando a mantener la calidad del agua en sistemas industriales y municipales.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Acondicionador de Agua: Puede utilizarse en el tratamiento de aguas para ajustar el pH y para precipitar iones metálicos, ayudando a mantener la calidad del agua en sistemas industriales y municipales.</li>
 </ol>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones Farmacéuticas</b></h5>
@@ -504,6 +504,88 @@
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Fabricación de Vidrio y Cerámicas: Puede ser utilizado en la fabricación de ciertos tipos de vidrio y productos cerámicos, mejorando las propiedades de los materiales finales.</li>
 </ol>
+
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:0px;"><b style="color:#000020;">Caracteristicas:</b></h5>
+
+<div style="background-color:#FF6600;">
+    <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:white;"><b>Fosfato Mono Cálcico Anhidro (MCP) | Grado Alimentos</b></h5>
+  </div>
+
+<br>
+
+<table>
+
+  <tr>
+    <th style="color:#FF6600;text-align:center;" class="Tipografia--general General--Cuerpo"><b>Características:</b></th>
+    <th style="color:#FF6600;text-align:center;" class="Tipografia--general General--Cuerpo"><b>Fosfato Mono Cálcico Mono Hidratado (MCP)</b></th>
+  </tr>
+
+  <tr>
+    <td class="Tipografia--general General--Cuerpo">Grado:</td>
+    <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Alimentos</b></td>
+</tr>
+  <tr>
+    <td class="Tipografia--general General--Cuerpo">Certificaciones:</td>
+    <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Kosher | Halal</b></td>
+</tr>
+  <tr>
+    <td class="Tipografia--general General--Cuerpo">CAS:</td>
+    <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>7758-23-8</b></td>
+</tr>
+  <tr>
+    <td class="Tipografia--general General--Cuerpo">EINECS:</td>
+    <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>231-837-1</b></td>
+</tr>
+  <tr>
+    <td class="Tipografia--general General--Cuerpo">Formula:</td>
+    <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Ca(H2PO4)2</b></td>
+</tr>
+  <tr>
+    <td class="Tipografia--general General--Cuerpo">Peso Molecular:</td>
+    <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>234.05</b></td>
+</tr>
+  <tr>
+    <td class="Tipografia--general General--Cuerpo">Apariencia:</td>
+    <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Polvo Cristalino Blanco</b></td>
+</tr>
+  <tr>
+    <td class="Tipografia--general General--Cuerpo">Contenido Ca(H2PO4)2.H2O As Ca (%):</td>
+    <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>15.9 – 17.7</b></td>
+</tr>
+  <tr>
+    <td class="Tipografia--general General--Cuerpo">Humedad (al 60 °C):</td>
+    <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>≤1.0</b></td>
+</tr>
+  <tr>
+    <td class="Tipografia--general General--Cuerpo">Fluoruro (F) (mg/kg):</td>
+    <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>≤50</b></td>
+</tr>
+  <tr>
+    <td class="Tipografia--general General--Cuerpo">Metales Pesados (Pb) (mg/kg):</td>
+    <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>≤10</b></td>
+  </tr>
+  <tr>
+    <td class="Tipografia--general General--Cuerpo">Arsénico (As) (mg/kg):</td>
+    <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>≤3</b></td>
+</tr>
+  <tr>
+    <td class="Tipografia--general General--Cuerpo">Plomo (Pb) (mg/kg):</td>
+    <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>≤2</b></td>
+</tr>
+  <tr>
+    <td class="Tipografia--general General--Cuerpo">Presentación:</td>
+    <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Sacos 25 Kg.</b></td>
+</tr>
+  <tr>
+    <td class="Tipografia--general General--Cuerpo">Vida de Anaquel:</td>
+    <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>24 meses</b></td> 
+</tr>
+  <tr>
+    <td class="Tipografia--general General--Cuerpo">Aplicaciones:</td>
+    <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>- Se utiliza como agente leudante y potenciador del calcio para los alimentos, agente aromatizante para el vino y promotor de la fermentación.</b></td>
+</tr>
+
+</table>
 
 
 </div>

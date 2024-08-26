@@ -504,7 +504,9 @@
 <br>
 
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:0px;"><b style="color:#000020;">Caracteristicas:</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Caracteristicas:</b></h5>
+
+
 
 <div style="background-color:#FF6600;">
     <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:white;"><b>Fosfato Mono Cálcico Anhidro (MCP) | Grado Alimentos</b></h5>
