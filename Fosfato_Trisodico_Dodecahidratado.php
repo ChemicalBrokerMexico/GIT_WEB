@@ -414,7 +414,7 @@
 <div class="row">
 <div class="slider slider-prueba">
 <ul class="slides">
-<li> <img src="img/FOSFATOS_BANNER_110724.jpg" style="height:500px;" alt="Industria Quimica">
+<li> <img src="img/CARNICOS_280824.jpg" style="height:500px;" alt="Industria Quimica">
 <div class="caption center-align"><br><br><br><br>
 <h1 class="primertitulo"><b>Chemical Broker</b><br></h1>
 <div class="container">
@@ -434,13 +434,13 @@
 <div class="container" style="margin-top:150px;">
 
 <div class="row" style="margin-left:1000px;">
-  <div class="col s12 m12 l12 xl12" style="background-color:orange;width:100%;">
+  <div class="col s12 m12 l12 xl12" style="background-color:orange;width:126%;">
   <p class="Titulos General--Cuerpo" style="color:white;text-align: right;"><b>Fosfato Trisodico Dodecahidratado</b></p>
   </div>
 </div>
 
     <div class="row">
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El fosfato trisódico dodecahidratado, con la fórmula química Na₃PO₄·12H₂O, es un compuesto inorgánico que se presenta como cristales blancos o polvo blanco y es altamente soluble en agua. Es conocido por sus numerosas aplicaciones en distintas industrias gracias a sus propiedades alcalinas y su capacidad para actuar como agente de limpieza, regulador de pH y dispersante.</p>
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El Fosfato Trisódico Dodecahidratado, con la fórmula química Na₃PO₄·12H₂O, es un compuesto inorgánico que se presenta como cristales blancos o polvo blanco y es altamente soluble en agua. Es conocido por sus numerosas aplicaciones en distintas industrias gracias a sus propiedades alcalinas y su capacidad para actuar como agente de limpieza, regulador de pH y dispersante.</p>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020">Propiedades Físicas</b></h5>
 
@@ -456,16 +456,19 @@
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Propiedades Funcionales</b></h5>
 
       <ol>
-        <li>Agente Secuestrante: Capaz de ablandar el agua mediante la precipitación de cationes como calcio y magnesio.</li>
-        <li>Dispersante: Ayuda a dispersar partículas finas en soluciones, previniendo la formación de grumos.</li>
-        <li>Desengrasante: Eficaz para la emulsificación y eliminación de grasas y aceites.</li>
-        <li>Estabilizador de pH: Utilizado para mantener un pH alcalino en soluciones.</li>
+        <li class="Elementos--Listas">Agente Secuestrante: Capaz de ablandar el agua mediante la precipitación de cationes como calcio y magnesio.</li>
+        <br>
+        <li class="Elementos--Listas">Dispersante: Ayuda a dispersar partículas finas en soluciones, previniendo la formación de grumos.</li>
+        <br>
+        <li class="Elementos--Listas">Desengrasante: Eficaz para la emulsificación y eliminación de grasas y aceites.</li>
+        <br>
+        <li class="Elementos--Listas">Estabilizador de pH: Utilizado para mantener un pH alcalino en soluciones.</li>
       </ol>
 
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h5>
 
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El fosfato trisódico dodecahidratado (Na₃PO₄·12H₂O) tiene una amplia variedad de aplicaciones en diferentes industrias debido a sus propiedades químicas y físicas. </p>
+      <p class="Tipografia--general letranegro General--Cuerpo">El fosfato trisódico dodecahidratado (Na₃PO₄·12H₂O) tiene una amplia variedad de aplicaciones en diferentes industrias debido a sus propiedades químicas y físicas. </p>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Detergentes y Productos de Limpieza:</b></h5>
 

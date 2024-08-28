@@ -504,6 +504,87 @@
 </ol>
 
 
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:0px;"><b style="color:#000020;">Caracteristicas:</b></h5>
+
+<div style="background-color:#7F7F7F;">
+    <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:white;"><b>Fosfato Mono Sódico Anhidro (MSPA) | Grado Alimentos</b></h5>
+</div>
+
+<table>
+  <tr>
+    <th style="text-align:center;" class="Tipografia--general General--Cuerpo">Características</th>
+    <th style="text-align:center;" class="Tipografia--general General--Cuerpo">Fosfato Disódico Dodecahidratado (DSP)</th>
+  </tr>
+
+  <tr>
+    <td class="Tipografia--general General--Cuerpo" style="text-align: center;">Grado:</td>
+    <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Técnico</b></td>
+  </tr>
+  <tr>
+  <td class="Tipografia--general General--Cuerpo" style="text-align: center;">CAS:</td>
+  <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>10039-32-4</b></td>
+  </tr>
+  <tr>
+  <td class="Tipografia--general General--Cuerpo" style="text-align: center;">EINECS:</td>
+  <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>600-088-6</b></td>
+  </tr>
+  <tr>
+  <td class="Tipografia--general General--Cuerpo" style="text-align: center;">Formula:</td>
+  <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Na2HPO4.12H2O</b></td>
+  </tr>
+  <tr>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;">Peso Molecular:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>358.14</b></td>
+  </tr>
+  <tr>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;">Apariencia:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Polvo cristalino blanco</b></td>
+  </tr>
+  <tr>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;">Contenido (Na2HPO4.12H2O) (%):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>97.0 Min.</b></td>
+  </tr>
+  <tr>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;">Sulfatos (SO42-) (%):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>0.7 Max.</b></td>
+  </tr>
+  <tr>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;">Cloruro (CL-) (%):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>0.05 Max.</b></td>
+  </tr>
+  <tr>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;">Materia insoluble en agua (%):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>0.05 Max.</b></td>
+  </tr>
+  <tr>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;">Fluoruros (como F) (%):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>0.05 Max.</b></td>
+  </tr>
+  <tr>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;">Arsénico (AS) (%):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>0.005 Max.</b></td>
+  </tr>
+  <tr>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;">pH (solución 10 g/L):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>8.8 – 9.2 Max.</b></td>
+  </tr>
+  <tr>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;">Presentación:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Sacos 25 Kg.</b></td>
+  </tr>
+  <tr>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;">Vida de Anaquel:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>24 meses</b></td>
+  </tr>
+  <tr>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;">Aplicaciones:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>- Se utiliza como tratamiento y suavizante de agua. Agentes ignífugos para tejidos, madera y papel.
+<br>
+    -	Produce otros productos a base de fosfato</b>
+</td>
+  </tr>
+
+</table>
 
 
       

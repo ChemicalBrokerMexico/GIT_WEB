@@ -514,6 +514,97 @@
     <li class="Elementos--Listas" style="margin-top:30px;">Fabricación de Vidrio y Cerámica: Utilizado como componente en algunas formulaciones de vidrio y cerámica para mejorar la calidad y las propiedades del producto final.</li>
 </ol>
 
+<br>
+
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:0px;"><b style="color:#000020;">Caracteristicas:</b></h5>
+
+<div style="background-color:#FF6600;">
+    <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:white;"><b>Fosfato Mono Sódico Anhidro (MSPA) | Grado Alimentos</b></h5>
+  </div>
+
+<table>
+
+  <tr>
+    <th style="color:#FF6600;text-align:center;" class="Tipografia--general General--Cuerpo">Características:</th>
+    <th style="color:#FF6600;text-align:center;" class="Tipografia--general General--Cuerpo">Fosfato Mono Sódico Anhidro (MSPA)</th>
+  </tr>
+
+  <tr>
+    <td class="Tipografia--general General--Cuerpo" style="text-align:center;">Grado:</td>
+    <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Alimentos</b></td>
+  </tr>
+  <tr>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center;">Certificaciones:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Kosher | Halal</b></td>
+  </tr>
+  <tr>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center;">CAS:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>7558-80-7</b></td>
+  </tr>
+  <tr>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center;">EINECS:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>231-442-2</b></td>
+  </tr>
+  <tr>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center;">Formula:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>NaH2PO4</b></td>
+  </tr>
+  <tr>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center;">Peso Molecular:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>120</b></td>
+  </tr>
+  <tr>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center;">Apariencia:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Polvo Cristalino Blanco</b></td>
+  </tr>
+  <tr>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center;">Contenido (NaH2PO4) (%):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>98.0 – 103</b></td>
+  </tr>
+  <tr>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center;">Perdida por secado (%):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>2.0 Max.</b></td>
+  </tr>
+  <tr>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center;">Materia insoluble en Agua (%):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>0.20 Max.</b></td>
+  </tr>
+  <tr>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center;">pH (solución de 10 g/L):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>4.1 – 4.7</b></td>
+  </tr>
+  <tr>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center;">Fluoruro (F) (ppm):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>30 Max.</b></td>
+  </tr>
+  <tr>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center;">Plomo (Pb) (ppm):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>4 Max.</b></td>
+  </tr>
+  <tr>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center;">Arsénico (As) (ppm):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>3 Max.</b></td>
+  </tr>
+  <tr>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center;">Metales Pesados (Pb) (ppm):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>10 Max.</b></td>
+  </tr>
+  <tr>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center;">Presentación:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Sacos 25 Kg. | Super Sacos 1,000 Kg.</b></td>
+  </tr>
+  <tr>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center;">Vida de Anaquel:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>24 meses</b></td>
+  </tr>
+  <tr>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center;">Aplicaciones:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>- Se utiliza como amortiguador, emulsionante y como complemento nutricional en alimentos y bebidas.</b></td>
+  </tr>
+
+</table>
+
+
 
 </div>
 </div>

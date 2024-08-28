@@ -414,7 +414,7 @@
 <div class="row">
 <div class="slider slider-prueba">
 <ul class="slides">
-<li> <img src="img/FOSFATOS_BANNER_110724.jpg" style="height:500px;" alt="Industria Quimica">
+<li> <img src="img/LACTEOS_280824.jpg" style="height:500px;" alt="Industria Quimica">
 <div class="caption center-align"><br><br><br><br>
 <h1 class="primertitulo"><b>Chemical Broker</b><br></h1>
 <div class="container">
@@ -434,39 +434,39 @@
 <div class="container" style="margin-top:150px;">
 
 <div class="row" style="margin-left:1000px;">
-  <div class="col s12 m12 l12 xl12" style="background-color:orange;width:124%;">
+  <div class="col s12 m12 l12 xl12" style="background-color:orange;width:132%;">
   <p class="Titulos General--Cuerpo" style="color:white;text-align: right;"><b>Fosfato Monosódico Monohidratado</b></p>
   </div>
 </div>
 
     <div class="row">
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El fosfato monosódico monohidratado, también conocido como fosfato de sodio monobásico monohidratado, es un compuesto químico con la fórmula NaH₂PO₄·H₂O. Este compuesto es la forma monohidratada del fosfato monosódico y se utiliza en diversas aplicaciones industriales y alimentarias.</p>
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El Fosfato Monosódico Monohidratado, también conocido como Fosfato de Sodio Monobásico Monohidratado, es un compuesto químico con la fórmula NaH₂PO₄·H₂O. Este compuesto es la forma monohidratada del fosfato monosódico y se utiliza en diversas aplicaciones industriales y alimentarias.</p>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Características</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Fórmula química: NaH₂PO₄·H₂O.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">•	Apariencia: Se presenta generalmente como un polvo blanco cristalino.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">•	Solubilidad: Es soluble en agua.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">•	pH: En solución acuosa, tiene un pH ácido.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Apariencia: Se presenta generalmente como un polvo blanco cristalino.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Solubilidad: Es soluble en agua.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">pH: En solución acuosa, tiene un pH ácido.</li>
 </ol>
 
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h5>
 
-<p class="Tipografia--general letranegro General--Cuerpo">El fosfato monosódico monohidratado tiene una amplia gama de aplicaciones en diversas industrias debido a sus propiedades químicas útiles. Aquí tienes algunas de sus aplicaciones más comunes:</p>
+<p class="Tipografia--general letranegro General--Cuerpo">El Fosfato Monosódico Monohidratado tiene una amplia gama de aplicaciones en diversas industrias debido a sus propiedades químicas útiles. Aquí tienes algunas de sus aplicaciones más comunes:</p>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria</b></h5>
 
 <ol>
-    <li class="Elementos--Listas" style="margin-top:30px;">•	Aditivo Alimentario: Se utiliza como regulador de la acidez (pH) en una variedad de productos alimenticios.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">•	Emulsionante: Actúa como agente emulsionante en productos como productos horneados, lácteos, aderezos para ensaladas y salsas.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Aditivo Alimentario: Se utiliza como regulador de la acidez (pH) en una variedad de productos alimenticios.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Emulsionante: Actúa como agente emulsionante en productos como productos horneados, lácteos, aderezos para ensaladas y salsas.</li>
 </ol>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Farmacéutica:</b></h5>
 
 <ol>
-    <li class="Elementos--Listas" style="margin-top:30px;">•	Formulación de Medicamentos: Se utiliza en la fabricación de ciertos medicamentos como suplemento mineral y para ajustar el pH de las formulaciones.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Formulación de Medicamentos: Se utiliza en la fabricación de ciertos medicamentos como suplemento mineral y para ajustar el pH de las formulaciones.</li>
 </ol>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Laboratorio Químico:</b></h5>

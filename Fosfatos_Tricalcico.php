@@ -514,7 +514,7 @@
     <li class="Elementos--Listas" style="margin-top:30px;">Se utiliza en el proceso de fabricación de papel como aditivo para mejorar la adhesión de las fibras y el rendimiento de la pasta de papel.</li>
 </ol>
 
-
+<br>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:black;"><b>Específicaciones</b></h5>
 
@@ -524,84 +524,84 @@
 
   <table>
     <tr>
-      <th style="color:#FF6600;" class="Tipografia--general General--Cuerpo">Características</th>
-      <th style="color:#FF6600;" class="Tipografia--general General--Cuerpo">Fosfato Tricálcico (TCP)</th>
+      <th style="color:#FF6600;text-align:center;" class="Tipografia--general General--Cuerpo">Características</th>
+      <th style="color:#FF6600;text-align:center;" class="Tipografia--general General--Cuerpo">Fosfato Tricálcico (TCP)</th>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo">Grado:</td>
-      <td class="Tipografia--general General--Cuerpo">Alimentos</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;">Grado:</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;"><b>Alimentos</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo">Certificaciones:</td>
-      <td class="Tipografia--general General--Cuerpo">Kosher | Halal</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;">Certificaciones:</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;"><b>Kosher | Halal</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo">CAS:</td>
-      <td class="Tipografia--general General--Cuerpo">7758-87-4</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;">CAS:</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;"><b>7758-87-4</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo">EINECS:</td>
-      <td class="Tipografia--general General--Cuerpo">231-840-8</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;">EINECS:</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;"><b>231-840-8</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo">Formula:</td>
-      <td class="Tipografia--general General--Cuerpo">Ca3O8P2</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;">Formula:</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;"><b>Ca3O8P2</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo">Peso Molecular:</td>
-      <td class="Tipografia--general General--Cuerpo">310.18</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;">Peso Molecular:</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;"><b>310.18</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo">Apariencia:</td>
-      <td class="Tipografia--general General--Cuerpo">Polvo Blanco</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;">Apariencia:</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;"><b>Polvo Blanco</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo">Color:</td>
-      <td class="Tipografia--general General--Cuerpo">Blanco</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;">Color:</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;"><b>Blanco</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo">Contenido (Ca3(PO4) (%):</td>
-      <td class="Tipografia--general General--Cuerpo">≥ 96</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;">Contenido (Ca3(PO4) (%):</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;"><b>≥ 96</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo">Total de Calcio (Ca) (%):</td>
-      <td class="Tipografia--general General--Cuerpo">34.0 – 40.0</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;">Total de Calcio (Ca) (%):</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;"><b>34.0 – 40.0</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo">Perdida por secado (%)</td>
-      <td class="Tipografia--general General--Cuerpo">≤ 10</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;">Perdida por secado (%)</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;"><b>≤ 10</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo">Fluoruro (F) (mg/kg):</td>
-      <td class="Tipografia--general General--Cuerpo">≤ 75.0</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;">Fluoruro (F) (mg/kg):</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;"><b>≤ 75.0</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo">Plomo (Pb) (mg/kg):</td>
-      <td class="Tipografia--general General--Cuerpo">≤ 2.0</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;">Plomo (Pb) (mg/kg):</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;"><b>≤ 2.0</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo">Arsénico (As) (mg/kg):</td>
-      <td class="Tipografia--general General--Cuerpo">≤ 3.0</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;">Arsénico (As) (mg/kg):</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;"><b>≤ 3.0</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo">Metales Pesados (Pb) (mg/kg):</td>
-      <td class="Tipografia--general General--Cuerpo">≤ 10</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;">Metales Pesados (Pb) (mg/kg):</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;"><b>≤ 10</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo">Claridad:</td>
-      <td class="Tipografia--general General--Cuerpo">Pasa la prueba</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;">Claridad:</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;"><b>Pasa la prueba</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo">Presentación:</td>
-      <td class="Tipografia--general General--Cuerpo">Sacos 25 Kg.</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;">Presentación:</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;"><b>Sacos 25 Kg.</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo">Vida de Anaquel:</td>
-      <td class="Tipografia--general General--Cuerpo">24 meses</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;">Vida de Anaquel:</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;"><b>24 meses</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo">Aplicaciones:</td>
-      <td class="Tipografia--general General--Cuerpo">- Utilizado en la industria alimentaria como agente anti aglomerante, suplemento nutritivo, potenciador de fragancia, tampón y regulador de pH..</td>
+      <td class="Tipografia--general General--Cuerpo"  style="text-align:center;">Aplicaciones:</td>
+      <td class="Tipografia--general General--Cuerpo " style="text-align:center;"><b>- Utilizado en la industria alimentaria como agente anti aglomerante, suplemento nutritivo, potenciador de fragancia, tampón y regulador de pH.</b></td>
     </tr>
   </table>
 

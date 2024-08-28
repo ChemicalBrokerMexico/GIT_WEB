@@ -522,71 +522,71 @@
     <th style="color:#FF6600;text-align:center" class="Tipografia--general General--Cuerpo"><b>Fosfato Di Cálcico Di Hidratado (FDCA)</b></th>
     </tr>
     <tr>
-      <td  class="Tipografia--general General--Cuerpo">Grado:</td>
+      <td  class="Tipografia--general General--Cuerpo" style="text-align:center">Grado:</td>
       <td  class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Alimentos</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Certificaciones:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center">Certificaciones:</td>
 <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Kosher | Halal</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">CAS:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center">CAS:</td>
 <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>7757-93-9</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">EINECS:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center">EINECS:</td>
 <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>231-826-1</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Formula:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center">Formula:</td>
 <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>CaHO4P</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Peso Molecular:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center">Peso Molecular:</td>
 <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>136.06</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Apariencia:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center">Apariencia:</td>
 <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Polvo Blanco</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Contenido (CaHPO.2H20) (%):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center">Contenido (CaHPO.2H20) (%):</td>
 <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>98.0 - 105.0</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Sustancia insoluble en Acido Clorhídrico (%):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center">Sustancia insoluble en Acido Clorhídrico (%):</td>
 <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>≤ 0.05</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Perdida por ignición (%):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center">Perdida por ignición (%):</td>
 <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>24.5 - 26.5</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Fluoruro (F) (mg/Kg):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center">Fluoruro (F) (mg/Kg):</td>
 <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>≤ 50</b> </td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Metales Pesados (mg/Kg):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center">Metales Pesados (mg/Kg):</td>
 <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>≤ 10</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Plomo (PB (mg/Kg):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center">Plomo (PB (mg/Kg):</td>
 <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>≤ 2</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Arsénico (As) (mg/Kg):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center">Arsénico (As) (mg/Kg):</td>
 <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>≤ 2</b> </td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Presentación:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center">Presentación:</td>
 <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Sacos 25 Kg.</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Vida de Anaquel:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center">Vida de Anaquel:</td>
 <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>24 meses</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Aplicaciones:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center">Aplicaciones:</td>
 <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Se utiliza como agente leudante de alimentos y potenciador de calcio, agente aromatizante de vino, promotor de fermentación, etc.</b></td>
     </tr>
   </table>

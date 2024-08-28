@@ -414,7 +414,7 @@
 <div class="row">
 <div class="slider slider-prueba">
 <ul class="slides">
-<li> <img src="img/FOSFATOS_BANNER_110724.jpg" style="height:500px;" alt="Industria Quimica">
+<li> <img src="img/SUPLEMENTO_ANIMALES_280824.jpg" style="height:500px;" alt="Industria Quimica">
 <div class="caption center-align"><br><br><br><br>
 <h1 class="primertitulo"><b>Chemical Broker</b><br></h1>
 <div class="container">
@@ -521,67 +521,67 @@
   </tr>
 
   <tr>
-    <td class="Tipografia--general General--Cuerpo">Grado:</td>
+    <td class="Tipografia--general General--Cuerpo" style="text-align:center;">Grado:</td>
     <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Alimentos</b></td>
 </tr>
   <tr>
-    <td class="Tipografia--general General--Cuerpo">Certificaciones:</td>
+    <td class="Tipografia--general General--Cuerpo" style="text-align:center;">Certificaciones:</td>
     <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Kosher | Halal</b></td>
 </tr>
   <tr>
-    <td class="Tipografia--general General--Cuerpo">CAS:</td>
+    <td class="Tipografia--general General--Cuerpo" style="text-align:center;">CAS:</td>
     <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>7758-23-8</b></td>
 </tr>
   <tr>
-    <td class="Tipografia--general General--Cuerpo">EINECS:</td>
+    <td class="Tipografia--general General--Cuerpo" style="text-align:center;">EINECS:</td>
     <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>231-837-1</b></td>
 </tr>
   <tr>
-    <td class="Tipografia--general General--Cuerpo">Formula:</td>
+    <td class="Tipografia--general General--Cuerpo" style="text-align:center;">Formula:</td>
     <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Ca(H2PO4)2</b></td>
 </tr>
   <tr>
-    <td class="Tipografia--general General--Cuerpo">Peso Molecular:</td>
+    <td class="Tipografia--general General--Cuerpo" style="text-align:center;">Peso Molecular:</td>
     <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>234.05</b></td>
 </tr>
   <tr>
-    <td class="Tipografia--general General--Cuerpo">Apariencia:</td>
+    <td class="Tipografia--general General--Cuerpo" style="text-align:center;">Apariencia:</td>
     <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Polvo Cristalino Blanco</b></td>
 </tr>
   <tr>
-    <td class="Tipografia--general General--Cuerpo">Contenido Ca(H2PO4)2.H2O As Ca (%):</td>
+    <td class="Tipografia--general General--Cuerpo" style="text-align:center;">Contenido Ca(H2PO4)2.H2O As Ca (%):</td>
     <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>15.9 – 17.7</b></td>
 </tr>
   <tr>
-    <td class="Tipografia--general General--Cuerpo">Humedad (al 60 °C):</td>
+    <td class="Tipografia--general General--Cuerpo" style="text-align:center;">Humedad (al 60 °C):</td>
     <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>≤1.0</b></td>
 </tr>
   <tr>
-    <td class="Tipografia--general General--Cuerpo">Fluoruro (F) (mg/kg):</td>
+    <td class="Tipografia--general General--Cuerpo" style="text-align:center;">Fluoruro (F) (mg/kg):</td>
     <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>≤50</b></td>
 </tr>
   <tr>
-    <td class="Tipografia--general General--Cuerpo">Metales Pesados (Pb) (mg/kg):</td>
+    <td class="Tipografia--general General--Cuerpo" style="text-align:center;">Metales Pesados (Pb) (mg/kg):</td>
     <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>≤10</b></td>
   </tr>
   <tr>
-    <td class="Tipografia--general General--Cuerpo">Arsénico (As) (mg/kg):</td>
+    <td class="Tipografia--general General--Cuerpo" style="text-align:center;">Arsénico (As) (mg/kg):</td>
     <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>≤3</b></td>
 </tr>
   <tr>
-    <td class="Tipografia--general General--Cuerpo">Plomo (Pb) (mg/kg):</td>
+    <td class="Tipografia--general General--Cuerpo" style="text-align:center;">Plomo (Pb) (mg/kg):</td>
     <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>≤2</b></td>
 </tr>
   <tr>
-    <td class="Tipografia--general General--Cuerpo">Presentación:</td>
+    <td class="Tipografia--general General--Cuerpo" style="text-align:center;">Presentación:</td>
     <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Sacos 25 Kg.</b></td>
 </tr>
   <tr>
-    <td class="Tipografia--general General--Cuerpo">Vida de Anaquel:</td>
+    <td class="Tipografia--general General--Cuerpo" style="text-align:center;">Vida de Anaquel:</td>
     <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>24 meses</b></td> 
 </tr>
   <tr>
-    <td class="Tipografia--general General--Cuerpo">Aplicaciones:</td>
+    <td class="Tipografia--general General--Cuerpo" style="text-align:center;">Aplicaciones:</td>
     <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>- Se utiliza como agente leudante y potenciador del calcio para los alimentos, agente aromatizante para el vino y promotor de la fermentación.</b></td>
 </tr>
 
