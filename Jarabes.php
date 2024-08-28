@@ -647,7 +647,7 @@
                             >
                             &nbsp</b><a class="breditem active" href="Jarabe_Maiz.php"
                             style="color:#262137 !important;margin-left:-2px"><b
-                                class="Tipografia--general letranegro Subtitulos breadcrumb">Jarabes</b></a></section>
+                                class="Tipografia--general Subtitulos" style="color:red;">Jarabes</b></a></section>
                 </section>
             </div>
         </div>

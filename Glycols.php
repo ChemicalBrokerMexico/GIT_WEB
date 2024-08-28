@@ -414,7 +414,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <div class="container" style="margin-top:80px">
 <div class="row bread_mobile">
 <div class="col s12 m12 l12 xl12">
-<section class="breditem--inicio"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b>   > &nbsp</b><a class="breditem active" href="Glycols.php" style="color:#262137 !important;margin-left:-2px"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Glicoles</b></a></section></section>
+<section class="breditem--inicio"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b>   > &nbsp</b><a class="breditem active" href="Glycols.php" style="color:red !important;margin-left:-2px"><b class="Tipografia--general Subtitulos">Glicoles</b></a></section></section>
 </div>
 </div>
 </div>

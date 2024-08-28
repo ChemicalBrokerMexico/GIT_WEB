@@ -562,8 +562,8 @@
             style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
             href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b> >
               &nbsp</b><a class="breditem active" href="Glycerins.php"
-              style="color:#262137 !important;margin-left:-2px"><b
-                class="Tipografia--general letranegro Subtitulos breadcrumb">Glicerinas</b></a></section>
+              style="color:red !important;margin-left:-2px"><b
+                class="Tipografia--general Subtitulos">Glicerinas</b></a></section>
         </section>
       </div>
     </div>

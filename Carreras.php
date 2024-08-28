@@ -559,7 +559,7 @@
       <div class="col s12 m12 l12 xl12">
         <section style="margin-top:125px"><a class="breditem active" href="index.php"
             style="color:#262137 !important"><b>Inicio&nbsp </b><b> >&nbsp </b></a><a class="breditem active"
-            href="Carreras.php" style="color:#262137 !important"><b class="breadcrumb">Carreras</a></b></section>
+            href="Carreras.php" style="color:#262137 !important"><b style="color:red;">Carreras</a></b></section>
       </div>
     </div>
   </div>

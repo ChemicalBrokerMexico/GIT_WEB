@@ -416,7 +416,7 @@ recaptchaResponse.value = token;
     <div class="container">
       <div class="row">
         <div class="vcol s12 m12 l12 xl12">
-          <section style="margin-top:125px;width:150px"><a class="breditem active" href="index.php" style="color: #000020 !important;"><b>Inicio &nbsp</b><b>  >&nbsp</b></a><a class="breditem active" href="Contact.php" style="color: #000020 !important;margin-left: -2px;"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Contacto</b></a></section>
+          <section style="margin-top:125px;width:150px"><a class="breditem active" href="index.php" style="color: #000020 !important;"><b>Inicio &nbsp</b><b>  >&nbsp</b></a><a class="breditem active" href="Contact.php" style="color:red !important;margin-left: -2px;"><b class="Tipografia--general Subtitulos">Contacto</b></a></section>
         </div>
       </div>
     </div>

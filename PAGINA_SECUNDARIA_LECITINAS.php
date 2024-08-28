@@ -646,8 +646,8 @@
                             &nbsp</b><a href="Sorbitoles.php" style="color:#262137 !important;margin-left:-2px"><b
                                 class="Tipografia--general letranegro Subtitulos">Lecitinas</b></a><b> >
                         </b>
-                        <a href="Sorbitoles.php" style="color:#262137 !important;margin-left:-2px"><b
-                                class="Tipografia--general letranegro Subtitulos breadcrumb">Cargill</b></a>
+                        <a href="Sorbitoles.php" style="color:red !important;margin-left:-2px"><b
+                                class="Tipografia--general Subtitulos">Cargill</b></a>
                 </section>
                 </section>
             </div>

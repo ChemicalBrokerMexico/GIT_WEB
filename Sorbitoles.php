@@ -569,7 +569,7 @@
         <section class="breditem--inicio"><a href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b> >
               &nbsp</b></a><a href="Productos_news.php"
             style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b> >
-              &nbsp</b><a href="Sorbitoles.php" style="color:#262137 !important;margin-left:-2px"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Sorbitoles</b></a>
+              &nbsp</b><a href="Sorbitoles.php" style="color:red !important;margin-left:-2px"><b class="Tipografia--general Subtitulos">Sorbitoles</b></a>
         </section>
         </section>
       </div>

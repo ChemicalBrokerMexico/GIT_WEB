@@ -644,8 +644,8 @@
                         href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b>
                             >
                             &nbsp</b><a class="breditem active" href="Glycerins.php"
-                            style="color:#262137 !important;margin-left:-2px"><b
-                                class="Tipografia--general letranegro Subtitulos breadcrumb">BICAR® USP</b></a>
+                            style="color:red !important;margin-left:-2px"><b
+                                class="Tipografia--general Subtitulos">BICAR® USP</b></a>
                 </section>
                 </section>
             </div>

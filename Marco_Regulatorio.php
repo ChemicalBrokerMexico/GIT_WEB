@@ -31,7 +31,7 @@
         src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
     <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.js">
     </script>
-    <script type="text/javascript" charset="utf8" src="js/Buscador.js?n=1"></script>l
+    <script type="text/javascript" charset="utf8" src="js/Buscador.js?n=1"></script>
 
     <script type="text/javascript" charset="utf8"
         src="https://cdn.datatables.net/responsive/2.2.6/js/dataTables.responsive.js"></script>
@@ -697,8 +697,8 @@
                 <section style="margin-top:125px"><a class="breditem active" href="index.php"
                         style="color:#262137 !important"><b>Inicio&nbsp;</b><b> &gt;&nbsp;</b></a><a
                         class="breditem active" href="Marco_Regulatorio.php"
-                        style="color:#262137 !important;margin-left:-2px"><a href="Cumplimiento.php" style="color:black;"><b>Cumplimiento</b> > </a><b
-                            class="Tipografia--general letranegro Subtitulos breadcrumb">&nbsp;Marca Regulatorio</b></a>
+                        style="color:red !important;margin-left:-2px"><a href="Cumplimiento.php" style="color:black;"><b>Cumplimiento</b> > </a><b
+                            class="Tipografia--general Subtitulos" style="color:red;">&nbsp;Marca Regulatorio</b></a>
                 </section>
             </div>
         </div>

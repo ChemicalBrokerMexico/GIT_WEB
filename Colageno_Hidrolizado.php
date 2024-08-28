@@ -563,8 +563,8 @@
             style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
             href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b> >
               &nbsp</b><a class="breditem active" href="Colageno_Hidrolizado.php"
-              style="color:#262137 !important;margin-left:-2px"><b
-                class="Tipografia--general letranegro Subtitulos breadcrumb">Colágeno Hidrolizado</b></a></section>
+              style="color:red !important;margin-left:-2px"><b
+                class="Tipografia--general Subtitulos">Colágeno Hidrolizado</b></a></section>
         </section>
       </div>
     </div>

@@ -551,8 +551,8 @@ recaptchaResponse.value = token;
         <section style="margin-top:125px"><a class="breditem active" href="index.php"
             style="color:#262137 !important"><b>Inicio&nbsp </b><b> >&nbsp </b></a><a class="breditem active"
             href="Mercados.php" style="color:#262137 !important"><b>Mercados&nbsp </b><b>>&nbsp </b></a><a
-            class="breditem active" href="pharmaceutical.php" style="color:#262137 !important;margin-left:-2px"><b
-              class="Tipografia--general letranegro Subtitulos breadcrumb">Farmacéutica </b></a></section>
+            class="breditem active" href="pharmaceutical.php" style="color:red !important;margin-left:-2px"><b
+              class="Tipografia--general Subtitulos">Farmacéutica </b></a></section>
       </div>
     </div>
   </div>

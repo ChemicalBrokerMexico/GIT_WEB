@@ -400,7 +400,7 @@
     </div>
     
     <div class="container">
-      <section style="margin-top:125px;width:150px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Inicio&nbsp</b><b> >&nbsp</b></a><a class="Tipografia--general letranegro Subtitulos" href="Valores.php" style="color:#262137 !important;"><b class="Tipografia--general letranegro Subtitulos breadcrumb"> Valores</b></a></section>
+      <section style="margin-top:125px;width:150px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Inicio&nbsp</b><b> >&nbsp</b></a><a class="Tipografia--general letranegro Subtitulos" href="Valores.php" style="color:red !important;"><b class="Tipografia--general Subtitulos"> Valores</b></a></section>
     </div>
     <div class="container" style="margin-top:20px">
       <div class="row">

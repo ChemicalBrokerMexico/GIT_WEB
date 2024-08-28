@@ -647,8 +647,8 @@
                         href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b>
                             >
                             &nbsp</b><a class="breditem active" href="Pasta_Soya.php"
-                            style="color:#262137 !important;margin-left:-2px"><b
-                                class="Tipografia--general letranegro Subtitulos breadcrumb">Pasta de Soya</b></a>
+                            style="color:red !important;margin-left:-2px"><b
+                                class="Tipografia--general Subtitulos">Pasta de Soya</b></a>
                 </section>
                 </section>
             </div>

@@ -645,8 +645,8 @@
                         href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b>
                             >
                             &nbsp</b><a class="breditem active" href="Lauril_Sulfato_Sodio-94.php"
-                            style="color:#262137 !important;margin-left:-2px"><b
-                                class="Tipografia--general letranegro Subtitulos breadcrumb">Lauril Sulfato de Sodio
+                            style="color:red !important;margin-left:-2px"><b
+                                class="Tipografia--general Subtitulos">Lauril Sulfato de Sodio
                                 94%</b></a></section>
                 </section>
             </div>

@@ -403,7 +403,7 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-          <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"> <b>Inicio&nbsp </b><b>  >&nbsp </b></a><a href="Mercados.php" class="breditem active" style="color:#262137 !important"><b>Mercados ></b></a> <a href="pharmaceutical.php" class="breditem active" style="color:#262137 !important"><b>Farmacéutica ></b></a> <a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Spray Nasal </b></a></section>
+          <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"> <b>Inicio&nbsp </b><b>  >&nbsp </b></a><a href="Mercados.php" class="breditem active" style="color:#262137 !important"><b>Mercados ></b></a> <a href="pharmaceutical.php" class="breditem active" style="color:#262137 !important"><b>Farmacéutica ></b></a> <a class="breditem active" href="Spray_Nasal.php" style="color:red !important;margin-left:-2px"><b class="Tipografia--general Subtitulos">Spray Nasal </b></a></section>
         </div>
       </div>
     </div>

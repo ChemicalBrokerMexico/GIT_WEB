@@ -405,7 +405,7 @@
       </div>
     </div>
     <div class="container">
-      <section style="margin-top:125px;width:230px;"><a class="breditem active" href="index.php" style="color:#262137 !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="breditem active" href="Historia_Hechos.php"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Historia & Hechos</b></a></section>
+      <section style="margin-top:125px;width:230px;"><a class="breditem active" href="index.php" style="color:#262137 !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="breditem active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Historia & Hechos</b></a></section>
     </div>
     <div class="container">
       <div class="row">

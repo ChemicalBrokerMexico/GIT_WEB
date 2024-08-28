@@ -647,8 +647,8 @@
                         href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b>
                             >
                             &nbsp</b><a class="breditem active" href="Jarabe_Maiz.php"
-                            style="color:#262137 !important;margin-left:-2px"><b
-                                class="Tipografia--general letranegro Subtitulos breadcrumb">Jarabe de Maíz</b></a></section>
+                            style="color:red !important;margin-left:-2px"><b
+                                class="Tipografia--general Subtitulos">Jarabe de Maíz</b></a></section>
                 </section>
             </div>
         </div>

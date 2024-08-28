@@ -650,8 +650,8 @@
                         href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b>
                             >
                             &nbsp</b><a class="breditem active" href="ALCOHOL_ISOPROPILICO_INDUSTRIAL.php"
-                            style="color:#262137 !important;margin-left:-2px"><b
-                                class="Tipografia--general letranegro Subtitulos breadcrumb">Alcohol Isopropilico Grado Industrial</b></a></section>
+                            style="color:red !important;margin-left:-2px"><b
+                                class="Tipografia--general Subtitulos">Alcohol Isopropilico Grado Industrial</b></a></section>
                 </section>
             </div>
         </div>
