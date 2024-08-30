@@ -958,7 +958,7 @@ function filtroa(){
     <img src="img/ACIDOS_GRASOS_PALMA.jpg" alt=""  class="zoom IMG_Seccion_Prod">
     </div>
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;>
-    <h5 class="Tipografia--general Titulos"><b>Ácidos Grasos Destilados de Palma</b></h5>
+    <h5 class="Tipografia--general Titulos" style="font-family: Arial !important;font-size:18px !important"><b style="font-family: Arial !important;font-size:18px !important">Ácidos Grasos Destilados de Palma</b></h5>
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro">Los Ácidos Grasos Destilados de Palma se obtienen por desdoblamiento y posterior destilación al vacío del aceite de palma. El producto obtenido es un sólido blanco opaco a temperatura ambiente, con un punto de fusión sobre los 45 °C. Es rico en acido palmítico y esteárico.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Acidos_Grasos_Destilados_Palma.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
@@ -1159,17 +1159,7 @@ function filtroe(){
     </div>
 
     
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align " >
-    <img src="img/CB_2_ETHYLHEXANOL_050923.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;>
-    <h5 class="Tipografia--general Titulos"><b>2-Etilhexanol (2-EH)</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El 2-etilhexanol (abreviado 2-EH) es un alcohol graso ramificado, un compuesto orgánico de ocho átomos de carbono con un grupo alcohol. Es un líquido incoloro que es poco soluble en agua, pero soluble en la mayoría de los disolventes orgánicos. </p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="2-Etilhexanol.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
+
     `;
     
 }
@@ -1354,7 +1344,7 @@ function filtrol(){
     <img src="img/LECITINAS_4.jpg" alt="" style="width:100%;border-radius:5px">
     </div>
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative">
-    <h5 class="Titulos Tipografia--general" style="margin-top:40px"><b>Lecitinas</b></h5>
+    <h5 class="Titulos Tipografia--general" style="margin-top:12px"><b>Lecitinas</b></h5>
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro">La lecitina es una sustancia organica abundante en las membranas de las celulas vegetales y animales, especialmente en las del tejido nervioso; se obtiene de las grasas animales, la yema de huevo, algunas semillas y se emplea en la elaboracion de ciertos alimentos, como la margarina o el chocolate tambien se aplica en otras industrias como farmaceutica y cosmetica. </p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Lecitinas.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>

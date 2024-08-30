@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
   <title>Chemical Broker | Estearina de Palma</title>
   <meta name="description"
-    content="Chemical Broker distribuye mundialmente Glicerina de la mas alta Pureza y Calidad para las formulaciones de nuestros clientes.">
+    content="Descubre nuestra esterina de palma hidrogenada de alta calidad, ideal para aplicaciones en la industria alimentaria y cosmética. Ofrecemos un producto confiable que mejora la estabilidad y textura de tus formulaciones. ¡Opta por nuestra esterina de palma para resultados consistentes y rendimiento superior en tus procesos!">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">

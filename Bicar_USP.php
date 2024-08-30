@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <title>Chemical Broker | Bicar USP de Solvay</title>
-    <meta name="description" content="El bicarbonato de sodio (también llamado bicarbonato sódico, hidrogenocarbonato de sodio,​carbonato ácido de sodio o bicarbonato de soda) es un compuesto sólido cristalino de color blanco soluble en agua, con un ligero sabor alcalino parecido al del carbonato de sodio (aunque menos fuerte y más salado que este último), de fórmula NaHCO3. Se puede encontrar como mineral en la naturaleza o se puede producir artificialmente.">
+    <meta name="description" content="Ofrecemos bicarbonato de sodio de alta pureza, ideal para aplicaciones alimentarias, de limpieza y en diversas industrias. Versátil y efectivo, nuestro producto garantiza resultados óptimos en cada uso. ¡Elige nuestro bicarbonato de sodio para calidad y rendimiento superior en tus procesos!">
     <link rel="canonical" href=https://chemicalbroker.mx/Bicar_USP.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">

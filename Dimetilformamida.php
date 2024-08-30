@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
 <title>Chemical Broker | Dimetilformamida del Fabricante Basf</title>
-<meta name="description" content="La N, N-Dimetilformamida (Dimetilformamida), comunmente abreviado como DMF, es un compuesto organico, es un liquido incoloro miscible en aguay en la mayoria de componentes organicos.">
+<meta name="description" content="Adquiere dimetilformamida (DMF) de alta pureza para aplicaciones industriales y químicas. Este solvente versátil y eficaz es ideal para procesos de síntesis y fabricación. Asegura la calidad y rendimiento de tus productos con nuestra dimetilformamida confiable y de calidad superior.">
 <link rel="canonical" href="https://chemicalbroker.mx/Dimetilformamida.php">
 <link rel="shortcut icon" href="img/CB_ICON.ico" />
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">

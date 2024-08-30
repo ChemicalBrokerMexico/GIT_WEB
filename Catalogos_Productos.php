@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <title>Chemical Broker | Acido Miristico</title>
-    <meta name="description" content="El ácido mirístico o ácido tetradecanoico es un ácido graso común saturado. Un miristato es la sal o éster del ácido mirístico.">
+    <meta name="description" content="Explora nuestro catálogo de materias primas de alta calidad, diseñado para satisfacer las necesidades de diversas industrias. Encuentra soluciones versátiles y eficientes que mejoran tus procesos productivos. ¡Descubre la gama completa de productos que impulsarán el éxito de tu negocio!">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link rel="canonical" href="https://chemicalbroker.mx/Catalogos_Productos.php">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -405,13 +405,11 @@
             <ul class="hide-on-med-and-down">
                 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
                         href="Mercados.php"><b>Mercados</b></a></li>
-                <ul id="dropdown3" class="dropdown-content">
-                         <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Ingredientes Químicos</a>
-          </li>
-      
-          
-<li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
-                </ul>
+                        <ul id="dropdown3" class="dropdown-content" style="width:300px !important;">
+  <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos" style="width:200px;">Ingredientes Químicos</a></li>
+  <!-- <li><a href="Product_List.php" class="Tipografia--general letranegro Subtitulos" style="width:200px;">Lista de Productos</a></li> -->
+  <li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
+</ul> 
                 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!"
                         data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a>
                 </li>

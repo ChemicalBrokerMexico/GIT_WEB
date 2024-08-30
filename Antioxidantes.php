@@ -5,7 +5,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
   <title>Chemical Broker | Antioxidantes del Fabricante Camlin</title>
-  <meta name="description" content="Los antioxidantes son importantes en cualquier cadena de suministro ya que preservan los alimentos y evitan su oxidacion">
+  <meta name="description" content="Descubre nuestros antioxidantes de alta calidad, diseñados para proteger y prolongar la vida útil de tus productos. Ideales para diversas industrias, ofrecemos soluciones confiables y eficientes que mejoran la estabilidad y el rendimiento de tus formulaciones. ¡Opta por nuestra gama de antioxidantes para un valor añadido en tus procesos!">
   <link rel="canonical" href="https://chemicalbroker.mx/Antioxidantes.php">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">

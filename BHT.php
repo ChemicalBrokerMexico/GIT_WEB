@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <title>Chemical Broker | Butil Hidroxi Tolueno (BHT)</title>
     <meta name="description"
-        content="Es un producto petroquímico sólido, ceroso y sintético con propiedades antioxidantes que lo hacen útil como aditivo conservador en alimentos,">
+        content="Descubre BHT (butilhidroxitolueno) de alta calidad, un antioxidante esencial para prolongar la vida útil de alimentos, cosméticos y productos industriales. Protege tus formulaciones contra la degradación y mantiene la frescura y estabilidad de tus productos. ¡Confía en nuestra solución eficiente y segura!">
     <link rel="canonical" href="https://chemicalbroker.mx/BHA.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -818,7 +818,7 @@
                             class="table_bha_mobile">
                             <b>Descripción Química</b>
                         </td>
-                        <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;"
+                        <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;l"
                             class="table_bha_mobile">Butil Hidroxi Tolueno</td>
                     </tr>
 

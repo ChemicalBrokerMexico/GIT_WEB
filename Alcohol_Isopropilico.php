@@ -671,10 +671,10 @@
           style="width:100%;border-spacing:2px 5px;border:none;margin:30px 0px 0px 0px">
           <tr class="Tipografia--general General--Cuerpo"
             style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile ">
+            <td style="font-size:18px !important;color: black;" class="table_bha_mobile ">
               <b>Descripción Química:</b>
             </td>
-            <td style="font-size:18px !important;border-bottom:1px solid black;width:50%;color:black;" class="table_bha_mobile">Alcohol Isopropilico</td>
+            <td style="font-size:18px !important;width:50%;color:black;" class="table_bha_mobile">Alcohol Isopropilico</td>
           </tr>
 
 
@@ -682,19 +682,19 @@
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-              style="font-size:18px !important;border-bottom:1px solid black" class="table_bha_mobile"
+              style="font-size:18px !important;" class="table_bha_mobile"
               >
               <b>Formula Estructural:</b>
             </td>
-            <td style="font-size:18px;border-bottom:1px solid black;color:white;"  class="table_bha_mobile">
+            <td style="font-size:18px;color:white;"  class="table_bha_mobile">
               <img src="img/CB_FORMULA-ESTRUCTURAL_ALCOHOL-ISOPROPILICO.png" alt="" style="width:30%;" >
             </td>
           </tr>
 
           <tr class="Tipografia--general General--Cuerpo"
-            style="padding:10px;font-size:15px !important;width:150px;border-bottom:1px solid black">
+            style="padding:10px;font-size:15px !important;width:150px;">
             <td
-              style="font-size:18px !important;border-bottom:1px solid black;width:50%;color:black;" class="table_bha_mobile"
+              style="font-size:18px !important;width:50%;color:black;" class="table_bha_mobile"
               >
               <b>Fórmula Química:</b>
             </td>

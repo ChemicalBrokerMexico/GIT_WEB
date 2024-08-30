@@ -5,7 +5,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
   <title>Chemical Broker | Dextrosas</title>
-  <meta name="description" content="Los azúcares son una fuente importante de energía, esencial para que nuestro cuerpo y cerebro funcionen de manera óptima. La dextrosa es un azúcar que se encuentra ampliamente en la naturaleza.">
+  <meta name="description" content="Compra dextrosas de alta calidad para tus necesidades industriales y alimentarias. Nuestra dextrosa garantiza pureza y rendimiento óptimo, ideal para mejorar la textura, sabor y valor nutritivo de tus productos. ¡Opta por nuestra dextrosa para una solución efectiva y confiable en tus formulaciones!">
   <link rel="canonical" href="https://chemicalbroker.mx/Dextrosas.php">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">

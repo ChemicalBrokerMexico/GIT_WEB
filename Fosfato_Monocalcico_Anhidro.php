@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <title>Chemical Broker | Fosfato Monocálcico Anhidro</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <meta name="description" content="El fosfato disódico anhidro, también conocido como fosfato de disodio, es una sal inorgánica de sodio y ácido fosfórico.">
+    <meta name="description" content="Fosfato Monocalcico anhidro de grado premium, perfecto para aplicaciones en la industria alimentaria y agropecuaria. Ofrecemos productos de alta pureza con entregas rapidas y precios competitivos para maximizar la eficiencia de la producción.">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">

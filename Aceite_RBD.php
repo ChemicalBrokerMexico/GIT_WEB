@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <title>Chemical Broker | Aceite RBD de Cargill</title>
-    <meta name="description" content="Chemical Broker Distribuye Aceite RBD de la mas alta Pureza y Calidad para las formulaciones de nuestros socios de negocios.">
+    <meta name="description" content="Descubre nuestro aceite RBD (Refinado, Blanqueado y Desodorizado) de alta calidad, perfecto para la industria alimentaria y cosmetica. Ideal para la produccion de alimentos, productos de cuidado personal y mas. Garantiza pureza y consistencia en cada lote con nuestro suministro confiable.">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link rel="canonical" href="https://chemicalbroker.mx/Aceite_RBD.php">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -644,7 +644,7 @@
     <div class="container breadtop">
         <div class="row bread_mobile">
             <div class="col s12 m12 l12 xl12">
-                <section class="breditem--inicio"><a class="breditem active" href="index.php"
+                <section style="margin-top:20px;"><a class="breditem active" href="index.php"
                         style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
                         href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b>
                             >

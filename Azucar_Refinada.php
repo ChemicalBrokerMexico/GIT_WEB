@@ -7,7 +7,7 @@
     <title>Chemical Broker | Azúcar Refinada</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description"
-        content="El fosfato disódico anhidro, también conocido como fosfato de disodio, es una sal inorgánica de sodio y ácido fosfórico.">
+        content="Ofrecemos azúcar refinada de alta pureza, perfecta para la industria alimentaria y diversas aplicaciones. Garantiza el sabor y la calidad de tus productos con nuestro azúcar de primera categoría. ¡Aporta dulzura y consistencia a tus creaciones con nuestra oferta confiable y de calidad!.">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">

@@ -4,8 +4,8 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | 2-Etilhexanol de Basf</title>
-  <meta name="description" content="Chemical Broker distribuye mundialmente Glicerina de la mas alta Pureza y Calidad para las formulaciones de nuestros clientes."> 
+  <title>Chemical Broker | 2-Etilhexanol del Fabricante BASF</title>
+  <meta name="description" content="Compra 2-Etilhexanol de alta calidad para aplicaciones industriales y quimicas. Ideal para la produccion de plastificantes, solventes y productos quimicos especializados. Obten soluciones eficientes y confiables con nuestro suministro seguro y puntual."> 
   <link rel="canonical" href="https://chemicalbroker.mx/2-Etilhexanol.php">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">

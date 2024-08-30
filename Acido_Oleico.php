@@ -5,6 +5,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
   <title>Chemical Broker | Acido Oleico de Peter Cremer</title>
+  <meta name="description" content="Adquiere acido oleico de alta pureza, ideal para aplicaciones en la industria cosmetica, alimentaria y farmaceutica. Perfecto para la formulacion de productos para el cuidado de piel, aceites comestibles y mas. Confia en nuestro suministro seguro y de calidad constante">
   <link rel="canonical" href="https://chemicalbroker.mx/Acido_Oleico.php">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">

@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <title>Chemical Broker | Fosfato Dicálcico Dihidratado</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <meta name="description" content="Los fosfatos se pueden definir como productos quimicos versatiles y multifuncionales que se comercializan ampliamente en diversas industiras debido a sus propiedades beneficiosas y aplicaciones variadas">
+    <meta name="description" content="Optimiza tus formulaciones con fosfato dicálcico dihidratado, un ingrediente clave para la industria alimentaria, farmacéutica y de suplementos. Este compuesto proporciona una excelente fuente de calcio y fósforo, esenciales para la salud ósea y dental. Su forma dihidratada asegura una alta solubilidad y estabilidad, facilitando su integración en una amplia gama de productos, desde suplementos vitamínicos hasta alimentos enriquecidos. Mejora la eficacia y la calidad de tus productos con fosfato dicálcico dihidratado, garantizando beneficios óptimos para tus clientes.">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">

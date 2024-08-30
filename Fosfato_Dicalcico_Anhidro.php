@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <title>Chemical Broker | Fosfato Dicálcico Anhidro</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <meta name="description" content="Los fosfatos se pueden definir como productos quimicos versatiles y multifuncionales que se comercializan ampliamente en diversas industiras debido a sus propiedades beneficiosas y aplicaciones variadas">
+    <meta name="description" content="Descubre las ventajas del fosfato dicálcico anhidro, un ingrediente esencial para tus formulaciones en la industria alimentaria, farmacéutica y de suplementos. Este compuesto ofrece una alta biodisponibilidad de calcio y fósforo, favoreciendo una óptima salud ósea y dental. Su pureza y estabilidad garantizan una integración eficaz en una amplia variedad de productos, desde vitaminas y minerales hasta alimentos funcionales. Asegura la calidad y la efectividad de tus productos con fosfato dicálcico anhidro, la solución ideal para tus necesidades de fortificación y suplementación.">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">

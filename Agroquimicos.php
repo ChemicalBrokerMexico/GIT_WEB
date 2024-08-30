@@ -5,7 +5,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0" />
   <title>Chemical Broker | Mercado Agroquimicos</title>
-  <meta name="description" content="Calidad en cada ingrediente; en Chemical Broker contamos con un amplio portafolio de ingredientes farmaceuticos los cuales cumplen con las mejores certificaciones a nivel global con el objetivo de brindar la mayor calida a nuestros socios de negocios.">
+  <meta name="description" content="Explora nuestras materias primas químicas de alta calidad, diseñadas para impulsar la eficiencia en la industria agroquímica. Ofrecemos soluciones innovadoras y sostenibles que optimizan la producción y potencian el rendimiento de tus productos. ¡Transforma tu negocio con nuestras aplicaciones avanzadas!">
   <link rel="canonical" href="https://chemicalbroker.mx/pharmaceutical.php">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />

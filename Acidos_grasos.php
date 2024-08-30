@@ -766,8 +766,8 @@
             </tr>
           </table>
 
-          <br>
-          <br>
+          <br class="Agrasosmobile">
+          <br class="Agrasosmobile">
           
         <!-- tabla para movil 2 -->
 
@@ -833,8 +833,8 @@
           </table>
 
 
-          <br>
-          <br>
+          <br class="Agrasosmobile">
+          <br class="Agrasosmobile">
 
           <!-- tabla para movil 3 -->
           <table border="1" style="margin-top:50px;" class="Agrasosmobile" id="Agrasoscoco3" name="Agrasoscoco3">
@@ -898,8 +898,8 @@
             </tr>
           </table>
 
-          <br>
-          <br>
+          <br class="Agrasosmobile">
+          <br class="Agrasosmobile">
 
           <!-- tabla para movil 4 -->
 
@@ -1713,7 +1713,7 @@
           <!-- Tabla movil 14 -->
 
 
-          <table border="1" style="margin-top:50px;" class="cmd" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
+          <table border="1" style="margin-top:50px;" class="Agrasosmobile" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
             <tr>
               <td>FA 1855V</td>
             </tr>
