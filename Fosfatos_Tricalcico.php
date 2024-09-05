@@ -414,7 +414,7 @@
 <div class="row">
 <div class="slider slider-prueba">
 <ul class="slides">
-<li> <img src="img/FOSFATOS_BANNER_110724.jpg" style="height:500px;" alt="Industria Quimica">
+<li> <img src="img/PASTA_DENTAL_FOSFATOS_030924.jpg" style="height:500px;" alt="Industria Quimica">
 <div class="caption center-align"><br><br><br><br>
 <h1 class="primertitulo"><b>Chemical Broker</b><br></h1>
 <div class="container">
@@ -434,7 +434,7 @@
 <div class="container" style="margin-top:150px;">
 
 <div class="row" style="margin-left:1000px;">
-  <div class="col s12 m12 l12 xl12" style="background-color:orange;width:124%;">
+  <div class="col s12 m12 l12 xl12" style="background-color:#FF6600;width:124%;">
   <p class="Titulos General--Cuerpo" style="color:white;text-align: right;"><b>Fosfato Tricálcico</b></p>
   </div>
 </div>

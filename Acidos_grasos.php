@@ -707,7 +707,7 @@
 
           <table border="1" style="margin-top:50px;" class="Agrasosmobile" id="Agrasoscoco" name="Agrasoscoco">
             <tr>
-              <td>FA C818D</td>
+              <td style="text-align:center" colspan="2">FA C818D</td>
             </tr>
             <tr>
               <td>
@@ -967,7 +967,7 @@
           <!-- fin de primera seccion -->
 
 
-          <!-- tabla para movil 5 -->
+          <!-- tabla para movil 5 revisar porque se encuentra como espacio desperdiciado -->
 
           <table border="1" style="margin-top:50px;"  class="Agrasosmobile" id="Agrasoscoco" name="Agrasoscoco">
             <tr>
@@ -1794,111 +1794,200 @@
             </tr>
           </table>
 
+          <!-- Tabla mobil 15 -->
+
           
+          <h5 class="Tipografia--general Cuerpo--General Agrasosmobile" style="background-color:#1F3864;color:white;padding:15px;margin-top:50px;">Ácido Oleico</h5>
+
+          <table border="1" style="margin-top:50px;" class="Agrasosmobile" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
+            <tr>
+              <td>Caracteristicas</td>
+              <td>OLS 70</td>
+            </tr>
+            <tr>
+              <td>
+                Tipo de ácido graso
+              </td>
+              <td>
+                Destilado Simple 
+                         </td>
+            </tr>
+            <tr>
+              <td>Valor de Humedad (%KF)</td>
+              <td>0.3 Max</td>
+            </tr>
+            <tr>
+              <td>Titer (C)</td>
+              <td>9 Max</td>
+            </tr>
+            <tr>
+              <td>Índice de Yodo</td>
+              <td>0.5 Máx</td>
+            </tr>
+            <tr>
+              <td>Valor de Ácido</td>
+              <td>195-205</td>
+            </tr>
+            <tr>
+              <td>Valor de Saponificación</td>
+              <td>NR</td>
+            </tr>
+            <tr>
+              <td>Color, Lovibond</td>
+              <td>10/1 Max</td>
+            </tr>
+            <tr>
+              <td>% de Transmitancia a 440nm/550nm</td>
+              <td>NR</td>
+            </tr>
+            <tr>
+              <td>Numero CAS</td>
+              <td>67701-08-0</td>
+            </tr>
+            <tr>
+              <td>Composiion de Ácidos Grasos en %</td>
+            </tr>
+            <tr>
+              <td>C12</td>
+              <td>2 Max</td>
+            </tr>
+            <tr>
+            <td>C14</td>
+            <td>2 Max</td>
+            </tr>
+            <tr>
+              <td>C16</td>
+              <td>7 Max</td>
+            </tr>
+            <tr>
+              <td>C18</td>
+              <td>2 Max</td>
+            </tr>
+            <tr>
+              <td>C18:1</td>
+              <td>75 Min</td>
+            </tr>
+            <tr>
+              <td>C18:2</td>
+              <td>14 Max</td>
+            </tr>
+            <tr>
+              <td>C18:3</td>
+              <td>NR</td>
+            </tr>
+            <tr>
+              <td>C20</td>
+              <td>NR</td>
+            </tr>
+            <tr>
+              <td>Otros</td>
+              <td>1.5 Max</td>
+            </tr>
+          </table>
       
         
-  <table border="1" style="margin-top:50px;">
+  <table border="1" style="margin-top:50px;" class="Acidnomobile">
 
     <thead>
         <tr>
-            <th style="color:#1F3864;">Características</th>
-            <th style="color:#1F3864;text-align:center;">FA C818D</th>
-            <th style="color:#1F3864;text-align:center;">FA C818H</th>
-            <th style="color:#1F3864;text-align:center;">FA C818DH</th>
-            <th style="color:#1F3864;text-align:center;">FA C1218DH</th>
+            <th style="color:#1F3864;"  class="Tipografia--general letranegro General--Cuerpo">Características</th>
+            <th style="color:#1F3864;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">FA C818D</th>
+            <th style="color:#1F3864;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">FA C818H</th>
+            <th style="color:#1F3864;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">FA C818DH</th>
+            <th style="color:#1F3864;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">FA C1218DH</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td style="color:#595959;">Tipo de Ácido Graso</td>
-            <td style="color:#595959;text-align:center;">Destilado</td>
-            <td style="color:#595959;text-align:center;">Parcialmente Hidrogenado</td>
-            <td style="color:#595959;text-align:center;">Totalmente Hidrogenado</td>
-            <td style="color:#595959;text-align:center;">Corte Superior de Hidrogeno Total</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Tipo de Ácido Graso</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">Destilado</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">Parcialmente Hidrogenado</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">Totalmente Hidrogenado</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">Corte Superior de Hidrogeno Total</td>
         </tr>
         <tr>
-            <td style="color:#595959;">Valor de Humedad (%KF)</td>
-            <td style="color:#595959;text-align:center;">0.3 Máx</td>
-            <td style="color:#595959;text-align:center;">0.3 Máx</td>
-            <td style="color:#595959;text-align:center;">0.3 Máx</td>
-            <td style="color:#595959;text-align:center;">0.3 Máx</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Valor de Humedad (%KF)</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">0.3 Máx</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">0.3 Máx</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">0.3 Máx</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">0.3 Máx</td>
         </tr>
         <tr>
-            <td style="color:#595959;">Titer</td>
-            <td style="color:#595959;text-align:center;">NR</td>
-            <td style="color:#595959;text-align:center;">NR</td>
-            <td style="color:#595959;text-align:center;">23-29</td>
-            <td style="color:#595959;text-align:center;">NR</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Titer</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">NR</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">NR</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">23-29</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">NR</td>
         </tr>
         <tr>
-            <td style="color:#595959;">Índice de Yodo</td>
-            <td style="color:#595959;text-align:center;">1 Máx</td>
-            <td style="color:#595959;text-align:center;">1 Máx</td>
-            <td style="color:#595959;text-align:center;">1 Máx</td>
-            <td style="color:#595959;text-align:center;">1 Máx</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Índice de Yodo</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">1 Máx</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">1 Máx</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">1 Máx</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">1 Máx</td>
         </tr>
         <tr>
-            <td style="color:#595959">Valor de Ácido</td>
-            <td style="color:#595959;text-align:center;">266-274</td>
-            <td style="color:#595959;text-align:center;">266-274</td>
-            <td style="color:#595959;text-align:center;">260-275</td>
-            <td style="color:#595959;text-align:center;">250-260</td>
+            <td style="color:#595959" class="Tipografia--general letranegro General--Cuerpo">Valor de Ácido</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">266-274</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">266-274</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">260-275</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">250-260</td>
         </tr>
         <tr>
-            <td style="color:#595959">Valor de Saponificación</td>
-            <td style="color:#595959;text-align:center;">NR</td>
-            <td style="color:#595959;text-align:center;">NR</td>
-            <td style="color:#595959;text-align:center;">261-277</td>
-            <td style="color:#595959;text-align:center;">Reportar</td>
+            <td style="color:#595959" class="Tipografia--general letranegro General--Cuerpo">Valor de Saponificación</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">NR</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">NR</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">261-277</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">Reportar</td>
         </tr>
         <tr>
-            <td style="color:#595959">Color, Lovibond</td>
-            <td style="color:#595959;text-align:center;">NR</td>
-            <td style="color:#595959;text-align:center;">NR</td>
-            <td style="color:#595959;text-align:center;">5.0/0.5 Máx</td>
-            <td style="color:#595959;text-align:center;">NR</td>
+            <td style="color:#595959" class="Tipografia--general letranegro General--Cuerpo">Color, Lovibond</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">NR</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">NR</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">5.0/0.5 Máx</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">NR</td>
         </tr>
         <tr>
-            <td style="color:#595959">% de Transmitancia a 440nm/550nm</td>
-            <td style="color:#595959;text-align:center;">75/90 Mín</td>
-            <td style="color:#595959;text-align:center;">85/95 Mín</td>
-            <td style="color:#595959;text-align:center;">90/97 Mín</td>
-            <td style="color:#595959;text-align:center;">90/95 Mín</td>
+            <td style="color:#595959" class="Tipografia--general letranegro General--Cuerpo">% de Transmitancia a 440nm/550nm</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">75/90 Mín</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">85/95 Mín</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">90/97 Mín</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">90/95 Mín</td>
         </tr>
         <tr>
-            <td style="color:#595959">Número CAS</td>
-            <td style="color:#595959;text-align:center;">67701-05-7</td>
-            <td style="color:#595959;text-align:center;">67701-05-7</td>
-            <td style="color:#595959;text-align:center;">67701-05-7</td>
-            <td style="color:#595959;text-align:center;">67701-05-7</td>
+            <td style="color:#595959" class="Tipografia--general letranegro General--Cuerpo">Número CAS</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">67701-05-7</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">67701-05-7</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">67701-05-7</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">67701-05-7</td>
         </tr>
         <tr>
-            <td style="color:#595959"><b style="color:#595959">Composición de Ácidos Grasos en %</b></td>
-            <td style="color:#595959;text-align:center;"></td>
-            <td style="color:#595959;text-align:center;"></td>
-            <td style="color:#595959;text-align:center;"></td>
-            <td style="color:#595959;text-align:center;"></td>
+            <td style="color:#595959" class="Tipografia--general letranegro General--Cuerpo"><b style="color:#595959">Composición de Ácidos Grasos en %</b></td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo"></td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo"></td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo"></td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo"></td>
         </tr>
         <tr>
-            <td style="color:#595959">C8</td>
-            <td style="color:#595959;text-align:center;">9 Máx</td>
-            <td style="color:#595959;text-align:center;">5-8.5</td>
-            <td style="color:#595959;text-align:center;">8.5 Máx</td>
-            <td style="color:#595959;text-align:center;">1 Máx</td>
+            <td style="color:#595959" class="Tipografia--general letranegro General--Cuerpo">C8</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">9 Máx</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">5-8.5</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">8.5 Máx</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">1 Máx</td>
         </tr>
         <tr>
-            <td style="color:#595959">C10</td>
-            <td style="color:#595959;text-align:center;">5-10</td>
-            <td style="color:#595959;text-align:center;">5-10</td>
-            <td style="color:#595959;text-align:center;">5-9</td>
-            <td style="color:#595959;text-align:center;">1 Máx</td>
+            <td style="color:#595959" class="Tipografia--general letranegro General--Cuerpo">C10</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">5-10</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">5-10</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">5-9</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">1 Máx</td>
         </tr>
         <tr>
-            <td style="color:#595959">C12</td>
-            <td style="color:#595959;text-align:center;">46-58</td>
-            <td style="color:#595959;text-align:center;">46-58</td>
-            <td style="color:#595959;text-align:center;">46-55</td>
-            <td style="color:#595959;text-align:center;">50-65</td>
+            <td style="color:#595959" class="Tipografia--general letranegro General--Cuerpo">C12</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">46-58</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">46-58</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">46-55</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">50-65</td>
         </tr>
     </tbody>
   </table>
@@ -2055,85 +2144,85 @@
 
 <h5 class="Tipografia--general Cuerpo--General" style="color:#1F3864;margin-top:50px;">Acidos Grasos | Base Soya</h5>
 
-<table border="1" style="margin-top:50px;">
+<table border="1" style="margin-top:50px;" class="Acidnomobile">
     <thead>
         <tr>
-            <th style="color:#1F3864;">Características</th>
-            <th style="color:#1F3864;text-align:center;">FA S1884</th>
+            <th style="color:#1F3864;" class="Tipografia--general letranegro General--Cuerpo">Características</th>
+            <th style="color:#1F3864;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">FA S1884</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td style="color:#595959;">Tipo de Ácido Graso</td>
-            <td style="color:#595959;text-align:center;">Destilado</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Tipo de Ácido Graso</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">Destilado</td>
         </tr>
         <tr>
-            <td style="color:#595959;">Valor de Humedad (%KF)</td>
-            <td style="color:#595959;text-align:center;">0.3 Máx</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Valor de Humedad (%KF)</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">0.3 Máx</td>
         </tr>
         <tr>
-            <td style="color:#595959;">Titer</td>
-            <td style="color:#595959;text-align:center;">NR</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Titer</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">NR</td>
         </tr>
         <tr>
-            <td style="color:#595959;">Índice de Yodo</td>
-            <td style="color:#595959;text-align:center;">127 Mín</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Índice de Yodo</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">127 Mín</td>
         </tr>
         <tr>
-            <td style="color:#595959">Valor de Ácido</td>
-            <td style="color:#595959;text-align:center;">197-203</td>
+            <td style="color:#595959" class="Tipografia--general letranegro General--Cuerpo">Valor de Ácido</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">197-203</td>
         </tr>
         <tr>
             <td style="color:#595959">Valor de Saponificación</td>
             <td style="color:#595959;text-align:center;">Reportar</td>
         </tr>
         <tr>
-            <td style="color:#595959">Color, Lovibond</td>
-            <td style="color:#595959;text-align:center;">NR</td>
+            <td style="color:#595959" class="Tipografia--general letranegro General--Cuerpo">Color, Lovibond</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">NR</td>
         </tr>
         <tr>
-            <td style="color:#595959">% de Transmitancia a 440nm/550nm</td>
-            <td style="color:#595959;text-align:center;">NR</td>
+            <td style="color:#595959" class="Tipografia--general letranegro General--Cuerpo">% de Transmitancia a 440nm/550nm</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">NR</td>
         </tr>
         <tr>
-            <td style="color:#595959">Número CAS</td>
-            <td style="color:#595959;text-align:center;">67701-08-0</td>
+            <td style="color:#595959" class="Tipografia--general letranegro General--Cuerpo">Número CAS</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">67701-08-0</td>
         </tr>
         <tr>
-            <td style="color:#595959"><b style="color:#595959">Composición de Ácidos Grasos en %</b></td>
-            <td style="color:#595959;text-align:center;"></td>
+            <td style="color:#595959"><b style="color:#595959" class="Tipografia--general letranegro General--Cuerpo">Composición de Ácidos Grasos en %</b></td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo"></td>
         </tr>
         <tr>
-            <td style="color:#595959">C12</td>
-            <td style="color:#595959;text-align:center;">NR</td>
+            <td style="color:#595959" class="Tipografia--general letranegro General--Cuerpo">C12</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">NR</td>
         </tr>
         <tr>
-            <td style="color:#595959">C14</td>
-            <td style="color:#595959;text-align:center;">NR</td>
+            <td style="color:#595959" class="Tipografia--general letranegro General--Cuerpo">C14</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">NR</td>
         </tr>
         <tr>
-            <td style="color:#595959">C16</td>
-            <td style="color:#595959;text-align:center;">(11)</td>
+            <td style="color:#595959" class="Tipografia--general letranegro General--Cuerpo">C16</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">(11)</td>
         </tr>
         <tr>
-            <td style="color:#595959">C18</td>
-            <td style="color:#595959;text-align:center;">(4)</td>
+            <td style="color:#595959" class="Tipografia--general letranegro General--Cuerpo">C18</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">(4)</td>
         </tr>
         <tr>
-            <td style="color:#595959">C18:1</td>
-            <td style="color:#595959;text-align:center;">(24)</td>
+            <td style="color:#595959" class="Tipografia--general letranegro General--Cuerpo">C18:1</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">(24)</td>
         </tr>
         <tr>
-            <td style="color:#595959">C18:2</td>
-            <td style="color:#595959;text-align:center;">(52)</td>
+            <td style="color:#595959" class="Tipografia--general letranegro General--Cuerpo">C18:2</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">(52)</td>
         </tr>
         <tr>
-            <td style="color:#595959">C18:3</td>
-            <td style="color:#595959;text-align:center;">(8)</td>
+            <td style="color:#595959" class="Tipografia--general letranegro General--Cuerpo">C18:3</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">(8)</td>
         </tr>
         <tr>
-            <td style="color:#595959">C20</td>
-            <td style="color:#595959;text-align:center;">(0.3)</td>
+            <td style="color:#595959" class="Tipografia--general letranegro General--Cuerpo">C20</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">(0.3)</td>
         </tr>
     </tbody>
 </table>
@@ -2141,209 +2230,209 @@
 <h5 class="Tipografia--general Cuerpo--General" style="background-color:#1F3864;color:white;padding:15px;margin-top:50px;">Ácidos Grasos Fraccionados</h5>
 
 
-<table border="1" style="margin-top:50px;">
+<table border="1" style="margin-top:50px;"  class="Acidnomobile">
     <thead>
         <tr>
-            <th style="color: #1F3864;">Características</th>
-            <th style="color: #1F3864;text-align:center;">LC 899</th>
-            <th style="color: #1F3864;text-align:center;">LC 810L</th>
-            <th style="color: #1F3864;text-align:center;">LC 1099</th>
-            <th style="color: #1F3864;text-align:center;">FA 1299</th>
-            <th style="color: #1F3864;text-align:center;">FA 1498</th>
-            <th style="color: #1F3864;text-align:center;">FA 1695V</th>
-            <th style="color: #1F3864;text-align:center;">FA 1890V</th>
+            <th style="color: #1F3864;" class="Tipografia--general letranegro General--Cuerpo">Características</th>
+            <th style="color: #1F3864;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">LC 899</th>
+            <th style="color: #1F3864;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">LC 810L</th>
+            <th style="color: #1F3864;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">LC 1099</th>
+            <th style="color: #1F3864;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">FA 1299</th>
+            <th style="color: #1F3864;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">FA 1498</th>
+            <th style="color: #1F3864;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">FA 1695V</th>
+            <th style="color: #1F3864;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">FA 1890V</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><b style="color:#595959;">Tipo de Ácido Graso</b></td>
-            <td style="text-align:center;color:#595959;">Ácido Caprílico</td>
-            <td style="text-align:center;color:#595959;">Ácido Caprílico/Caprílico</td>
-            <td style="text-align:center;color:#595959;">Ácido Cáprico</td>
-            <td style="text-align:center;color:#595959;">Láurico</td>
-            <td style="text-align:center;color:#595959;">Mirístico</td>
-            <td style="text-align:center;color:#595959;">Ácido Palmítico</td>
-            <td style="text-align:center;color:#595959;">Ácido Esteárico</td>
+            <td><b style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Tipo de Ácido Graso</b></td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Ácido Caprílico</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Ácido Caprílico/Caprílico</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Ácido Cáprico</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Láurico</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Mirístico</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Ácido Palmítico</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Ácido Esteárico</td>
         </tr>
         <tr>
-            <td>Valor de Humedad (%KF)</td>
-            <td style="text-align:center;color:#595959;">NR</td>
-            <td style="text-align:center;color:#595959;">0.2 Máx</td>
-            <td style="text-align:center;color:#595959;">NR</td>
-            <td style="text-align:center;color:#595959;">Reportar</td>
-            <td style="text-align:center;color:#595959;">Reportar</td>
-            <td style="text-align:center;color:#595959;">0.3 Máx</td>
-            <td style="text-align:center;color:#595959;">0.3 Máx</td>
+            <td class="Tipografia--general letranegro General--Cuerpo">Valor de Humedad (%KF)</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">NR</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">0.2 Máx</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">NR</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Reportar</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Reportar</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">0.3 Máx</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">0.3 Máx</td>
         </tr>
         <tr>
-            <td>Titer</td>
-            <td style="text-align:center;color:#595959;">15-18</td>
-            <td style="text-align:center;color:#595959;">7.0 Máx</td>
-            <td style="text-align:center;color:#595959;">30-32</td>
-            <td style="text-align:center;color:#595959;">42-44</td>
-            <td style="text-align:center;color:#595959;">53-55</td>
-            <td style="text-align:center;color:#595959;">58-63</td>
-            <td style="text-align:center;color:#595959;">NR</td>
+            <td class="Tipografia--general letranegro General--Cuerpo">Titer</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">15-18</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">7.0 Máx</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">30-32</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">42-44</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">53-55</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">58-63</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">NR</td>
         </tr>
         <tr>
-            <td>Índice de Yodo</td>
-            <td style="text-align:center;color:#595959;">0.5 Máx</td>
-            <td style="text-align:center;color:#595959;">0.5 Máx</td>
-            <td style="text-align:center;color:#595959;">0.5 Máx</td>
-            <td style="text-align:center;color:#595959;">0.5 Máx</td>
-            <td style="text-align:center;color:#595959;">0.5 Máx</td>
-            <td style="text-align:center;color:#595959;">0.5 Máx</td>
-            <td style="text-align:center;color:#595959;">1.5 Máx</td>
+            <td class="Tipografia--general letranegro General--Cuerpo">Índice de Yodo</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">0.5 Máx</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">0.5 Máx</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">0.5 Máx</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">0.5 Máx</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">0.5 Máx</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">0.5 Máx</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">1.5 Máx</td>
         </tr>
         <tr>
-            <td>Valor de Ácido</td>
-            <td style="text-align:center;color:#595959;">383-390</td>
-            <td style="text-align:center;color:#595959;">352-365</td>
-            <td style="text-align:center;color:#595959;">321-329</td>
-            <td style="text-align:center;color:#595959;">277-282</td>
-            <td style="text-align:center;color:#595959;">244-248</td>
-            <td style="text-align:center;color:#595959;">217-222</td>
-            <td style="text-align:center;color:#595959;">195-203</td>
+            <td class="Tipografia--general letranegro General--Cuerpo">Valor de Ácido</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">383-390</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">352-365</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">321-329</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">277-282</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">244-248</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">217-222</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">195-203</td>
         </tr>
         <tr>
-            <td>Valor de Saponificación</td>
-            <td style="text-align:center;color:#595959;">NR</td>
-            <td style="text-align:center;color:#595959;">354-367</td>
-            <td style="text-align:center;color:#595959;">321-330</td>
-            <td style="text-align:center;color:#595959;">Reportar</td>
-            <td style="text-align:center;color:#595959;">245-249</td>
-            <td style="text-align:center;color:#595959;">NR</td>
-            <td style="text-align:center;color:#595959;">NR</td>
+            <td class="Tipografia--general letranegro General--Cuerpo">Valor de Saponificación</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">NR</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">354-367</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">321-330</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Reportar</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">245-249</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">NR</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">NR</td>
         </tr>
         <tr>
-            <td>Color, Lovibond</td>
-            <td style="text-align:center;color:#595959;">5.0/0.5 Máx</td>
-            <td style="text-align:center;color:#595959;">5.0/0.5 Máx</td>
-            <td style="text-align:center;color:#595959;">4.0/0.5 Máx</td>
-            <td style="text-align:center;color:#595959;">2.0/0.2 Máx</td>
-            <td style="text-align:center;color:#595959;">2.0/0.2 Máx</td>
-            <td style="text-align:center;color:#595959;">3.0/0.3 Máx</td>
-            <td style="text-align:center;color:#595959;">5.0/0.5 Máx</td>
+            <td class="Tipografia--general letranegro General--Cuerpo">Color, Lovibond</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">5.0/0.5 Máx</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">5.0/0.5 Máx</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">4.0/0.5 Máx</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">2.0/0.2 Máx</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">2.0/0.2 Máx</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">3.0/0.3 Máx</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">5.0/0.5 Máx</td>
         </tr>
         <tr>
-            <td>% de Transmitancia a 440nm/550nm</td>
+            <td class="Tipografia--general letranegro General--Cuerpo">% de Transmitancia a 440nm/550nm</td>
             <td></td>
             <td></td>
             <td></td>
-            <td style="text-align:center;color:#595959;">90/98 Mín</td>
-            <td style="text-align:center;color:#595959;">NR</td>
-            <td style="text-align:center;color:#595959;">93 Mín</td>
-            <td style="text-align:center;color:#595959;">80/95 Mín</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">90/98 Mín</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">NR</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">93 Mín</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">80/95 Mín</td>
         </tr>
         <tr>
-            <td style="color:#595959;">Número CAS</td>
-            <td style="text-align:center;color:#595959;">124-07-2</td>
-            <td style="text-align:center;color:#595959;">67762-36-1</td>
-            <td style="text-align:center;color:#595959;">334-48-5</td>
-            <td style="text-align:center;color:#595959;">143-07-7</td>
-            <td style="text-align:center;color:#595959;">544-63-8</td>
-            <td style="text-align:center;color:#595959;">57-10-3</td>
-            <td style="text-align:center;color:#595959;">57-11-4</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Número CAS</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">124-07-2</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">67762-36-1</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">334-48-5</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">143-07-7</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">544-63-8</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">57-10-3</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">57-11-4</td>
         </tr>
         <tr>
-            <td style="color:#595959"><b style="color:#595959">Composición de Ácidos Grasos en %</b></td>
+            <td style="color:#595959" class="Tipografia--general letranegro General--Cuerpo"><b style="color:#595959">Composición de Ácidos Grasos en %</b></td>
             <td></td>
             <td></td>
             <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>C6</td>
-            <td style="text-align:center;color:#595959;">1 Máx</td>
-            <td style="text-align:center;color:#595959;">0.5 Máx</td>
-            <td style="text-align:center;color:#595959;">NR</td>
             <td></td>
             <td></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>C8</td>
-            <td style="text-align:center;color:#595959;">99 Mín</td>
-            <td style="text-align:center;color:#595959;">53 Mín</td>
-            <td style="text-align:center;color:#595959;">1.0 Máx</td>
+            <td class="Tipografia--general letranegro General--Cuerpo">C6</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">1 Máx</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">0.5 Máx</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">NR</td>
             <td></td>
             <td></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>C10</td>
-            <td style="text-align:center;color:#595959;">1 Máx</td>
-            <td style="text-align:center;color:#595959;">35-45</td>
-            <td style="text-align:center;color:#595959;">99.0 Mín</td>
-            <td style="text-align:center;color:#595959;">1 Máx</td>
+            <td class="Tipografia--general letranegro General--Cuerpo">C8</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">99 Mín</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">53 Mín</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">1.0 Máx</td>
+            <td></td>
             <td></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>C12</td>
-            <td style="text-align:center;color:#595959;">NR</td>
-            <td style="text-align:center;color:#595959;">1.5 Máx</td>
-            <td style="text-align:center;color:#595959;">1 Máx</td>
-            <td style="text-align:center;color:#595959;">98.5 Mín</td>
-            <td style="text-align:center;color:#595959;">1 Máx</td>
-            <td style="text-align:center;color:#595959;">1 Máx</td>
+            <td class="Tipografia--general letranegro General--Cuerpo">C10</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">1 Máx</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">35-45</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">99.0 Mín</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">1 Máx</td>
+            <td></td>
+            <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>C14</td>
-            <td></td>
-            <td></td>
-            <td style="text-align:center;color:#595959;"></td>
-            <td style="text-align:center;color:#595959;">1.5 Máx</td>
-            <td style="text-align:center;color:#595959;">98 Mín</td>
-            <td>5 Máx</td>
+            <td class="Tipografia--general letranegro General--Cuerpo">C12</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">NR</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">1.5 Máx</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">1 Máx</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">98.5 Mín</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">1 Máx</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">1 Máx</td>
             <td></td>
         </tr>
         <tr>
-            <td style="color:#595959;">C16</td>
+            <td class="Tipografia--general letranegro General--Cuerpo">C14</td>
             <td></td>
             <td></td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo"></td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">1.5 Máx</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">98 Mín</td>
+            <td class="Tipografia--general letranegro General--Cuerpo">5 Máx</td>
             <td></td>
-            <td style="text-align:center;color:#595959;"></td>
-            <td style="text-align:center;color:#595959;">2 Máx</td>
-            <td style="text-align:center;color:#595959;">95 Mín</td>
-            <td style="text-align:center;color:#595959;">NR</td>
         </tr>
         <tr>
-            <td>C18</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">C16</td>
             <td></td>
             <td></td>
             <td></td>
-            <td></td>
-            <td></td>
-            <td style="text-align:center;color:#595959;">5 Máx</td>
-            <td style="text-align:center;color:#595959;">87 Mín</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo"></td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">2 Máx</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">95 Mín</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">NR</td>
         </tr>
         <tr>
-            <td>C18:1</td>
+            <td class="Tipografia--general letranegro General--Cuerpo">C18</td>
             <td></td>
             <td></td>
             <td></td>
             <td></td>
             <td></td>
-            <td style="text-align:center;color:#595959;"></td>
-            <td style="text-align:center;color:#595959;">2.0 Máx</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">5 Máx</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">87 Mín</td>
         </tr>
         <tr>
-            <td>Otros Enlaces de Cadena</td>
+            <td class="Tipografia--general letranegro General--Cuerpo">C18:1</td>
             <td></td>
             <td></td>
-            <td style="text-align:center;color:#595959;"></td>
-            <td style="text-align:center;color:#595959;"></td>
             <td></td>
-            <td style="text-align:center;color:#595959;">NR</td>
-            <td style="text-align:center;color:#595959;">NR</td>
+            <td></td>
+            <td></td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo"></td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">2.0 Máx</td>
+        </tr>
+        <tr>
+            <td class="Tipografia--general letranegro General--Cuerpo">Otros Enlaces de Cadena</td>
+            <td></td>
+            <td></td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo"></td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo"></td>
+            <td></td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">NR</td>
+            <td style="text-align:center;color:#595959;" class="Tipografia--general letranegro General--Cuerpo">NR</td>
         </tr>
     </tbody>
 </table>
@@ -2352,54 +2441,54 @@
 <h5 class="Tipografia--general Cuerpo--General" style="background-color:#1F3864;color:white;padding:15px;margin-top:50px;">Acido Estearico</h5>
 
 
-<table border="1" style="margin-top:50px;">
+<table border="1" style="margin-top:50px;"  class="Acidnomobile">
     <thead>
         <tr>
-            <th style="color: #1F3864;">Características</th>
-            <th style="color: #1F3864;text-align:center;">FA 1655V</th>
-            <th style="color: #1F3864;text-align:center;">FA 1855V</th>
+            <th style="color: #1F3864;" class="Tipografia--general letranegro General--Cuerpo">Características</th>
+            <th style="color: #1F3864;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">FA 1655V</th>
+            <th style="color: #1F3864;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">FA 1855V</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td style="color:#595959;">Tipo de Ácido Graso</td>
-            <td style="color:#595959;text-align:center;">Triple Prensado</td>
-            <td style="color:#595959;text-align:center;">Doble Prensado</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Tipo de Ácido Graso</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">Triple Prensado</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">Doble Prensado</td>
         </tr>
         <tr>
-            <td style="color:#595959;">Valor de Humedad (%KF)</td>
-            <td style="color:#595959;text-align:center;">Reportar</td>
-            <td style="color:#595959;text-align:center;">0.3 Máx</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Valor de Humedad (%KF)</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">Reportar</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">0.3 Máx</td>
         </tr>
         <tr>
-            <td style="color:#595959;">Titer</td>
-            <td style="color:#595959;text-align:center;">54-57</td>
-            <td style="color:#595959;text-align:center;">(55)</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Titer</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">54-57</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">(55)</td>
         </tr>
         <tr>
-            <td style="color:#595959;">Índice de Yodo</td>
-            <td style="color:#595959;text-align:center;">0.5 Máx</td>
-            <td style="color:#595959;text-align:center;">0.5 Máx</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Índice de Yodo</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">0.5 Máx</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">0.5 Máx</td>
         </tr>
         <tr>
-            <td style="color:#595959;">Valor de Ácido</td>
-            <td style="color:#595959;text-align:center;">205-211</td>
-            <td style="color:#595959;text-align:center;">205-211</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Valor de Ácido</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">205-211</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">205-211</td>
         </tr>
         <tr>
-            <td style="color:#595959;">Valor de Saponificación</td>
-            <td style="color:#595959;text-align:center;">206-211</td>
-            <td style="color:#595959;text-align:center;">NR</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Valor de Saponificación</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">206-211</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">NR</td>
         </tr>
         <tr>
-            <td style="color:#595959;">Color, Lovibond</td>
-            <td style="color:#595959;text-align:center;">5.0/0.5 Máx</td>
-            <td style="color:#595959;text-align:center;">5.0/0.5 Máx</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Color, Lovibond</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">5.0/0.5 Máx</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">5.0/0.5 Máx</td>
         </tr>
         <tr>
-            <td style="color:#595959;">% de Transmitancia a 440nm/550nm</td>
-            <td style="color:#595959;text-align:center;">85/95 Máx</td>
-            <td style="color:#595959;text-align:center;">85/95 Máx</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">% de Transmitancia a 440nm/550nm</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">85/95 Máx</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">85/95 Máx</td>
         </tr>
         <tr>
             <td style="color:#595959;">Número CAS</td>
@@ -2407,39 +2496,39 @@
             <td style="color:#595959;text-align:center;">67701-03-5</td>
         </tr>
         <tr>
-            <td style="color:#595959;"><b style="color:#595959;">Composición de Ácidos Grasos en %</b></td>
-            <td style="color:#595959;text-align:center;"></td>
-            <td style="color:#595959;text-align:center;"></td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo"><b style="color:#595959;">Composición de Ácidos Grasos en %</b></td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo"></td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo"></td>
         </tr>
         <tr>
-            <td style="color:#595959;">C12</td>
-            <td style="color:#595959;text-align:center;">NR</td>
-            <td style="color:#595959;text-align:center;">1 Máx</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">C12</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">NR</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">1 Máx</td>
         </tr>
         <tr>
-            <td style="color:#595959;">C14</td>
-            <td style="color:#595959;text-align:center;">NR</td>
-            <td style="color:#595959;text-align:center;">2 Máx</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">C14</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">NR</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">2 Máx</td>
         </tr>
         <tr>
-            <td style="color:#595959;">C16</td>
-            <td style="color:#595959;text-align:center;">50-56</td>
-            <td style="color:#595959;text-align:center;">42-50</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">C16</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">50-56</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">42-50</td>
         </tr>
         <tr>
-            <td style="color:#595959;">C18</td>
-            <td style="color:#595959;text-align:center;">44-50</td>
-            <td style="color:#595959;text-align:center;">50-55</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">C18</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">44-50</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">50-55</td>
         </tr>
         <tr>
-            <td style="color:#595959;">C18:1</td>
-            <td style="color:#595959;text-align:center;"></td>
-            <td style="color:#595959;text-align:center;">1 Máx</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">C18:1</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo"></td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">1 Máx</td>
         </tr>
         <tr>
-            <td style="color:#595959;">Otros</td>
-            <td style="color:#595959;text-align:center;"></td>
-            <td style="color:#595959;text-align:center;">NR</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Otros</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo"></td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">NR</td>
         </tr>
     </tbody>
 </table>
@@ -2448,89 +2537,89 @@
 <h5 class="Tipografia--general Cuerpo--General" style="background-color:#1F3864;color:white;padding:15px;margin-top:50px;">Acido Oleico</h5>
 
 
-<table border="1" style="margin-top:50px;">
+<table border="1" style="margin-top:50px;"  class="Acidnomobile">
     <thead>
         <tr>
-            <th style="color:#1F3864;">Características</th>
-            <th style="color:#1F3864;text-align:center;">OLS 70</th>
+            <th style="color:#1F3864;" class="Tipografia--general letranegro General--Cuerpo">Características</th>
+            <th style="color:#1F3864;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">OLS 70</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td style="color:#595959;">Tipo de Ácido Graso</td>
-            <td style="color:#595959;text-align:center;">Destilado Simple</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Tipo de Ácido Graso</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">Destilado Simple</td>
         </tr>
         <tr>
-            <td style="color:#595959;">Valor de Humedad (%KF)</td>
-            <td style="color:#595959;text-align:center;">0.3 Máx</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Valor de Humedad (%KF)</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">0.3 Máx</td>
         </tr>
         <tr>
-            <td style="color:#595959;">Titer</td>
-            <td style="color:#595959;text-align:center;">9 Máx</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Titer</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">9 Máx</td>
         </tr>
         <tr>
-            <td style="color:#595959;">Índice de Yodo</td>
-            <td style="color:#595959;text-align:center;">90 Mín</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Índice de Yodo</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">90 Mín</td>
         </tr>
         <tr>
-            <td style="color:#595959;">Valor de Ácido</td>
-            <td style="color:#595959;text-align:center;">195-205</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Valor de Ácido</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">195-205</td>
         </tr>
         <tr>
-            <td style="color:#595959;">Valor de Saponificación</td>
-            <td style="color:#595959;text-align:center;">NR</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Valor de Saponificación</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">NR</td>
         </tr>
         <tr>
-            <td style="color:#595959;">Color, Lovibond</td>
-            <td style="color:#595959;text-align:center;">10/1 Máx</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Color, Lovibond</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">10/1 Máx</td>
         </tr>
         <tr>
-            <td style="color:#595959;">% de Transmitancia a 440nm/550nm</td>
-            <td style="color:#595959;text-align:center;">NR</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">% de Transmitancia a 440nm/550nm</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">NR</td>
         </tr>
         <tr>
-            <td style="color:#595959;">Número CAS</td>
-            <td style="color:#595959;text-align:center;">67701-08-0</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Número CAS</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">67701-08-0</td>
         </tr>
         <tr>
-            <td><b style="color:#595959;">Composición de Ácidos Grasos en %</b></td>
-            <td style="color:#595959;text-align:center;"></td>
+            <td><b style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Composición de Ácidos Grasos en %</b></td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo"></td>
         </tr>
         <tr>
-            <td style="color:#595959;">C12</td>
-            <td style="color:#595959;text-align:center;">2 Máx</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">C12</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">2 Máx</td>
         </tr>
         <tr>
-            <td style="color:#595959;">C14</td>
-            <td style="color:#595959;text-align:center;">2 Máx</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">C14</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">2 Máx</td>
         </tr>
         <tr>
-            <td style="color:#595959;">C16</td>
-            <td style="color:#595959;text-align:center;">7 Máx</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">C16</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">7 Máx</td>
         </tr>
         <tr>
-            <td style="color:#595959;">C18</td>
-            <td style="color:#595959;text-align:center;">2 Máx</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">C18</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">2 Máx</td>
         </tr>
         <tr>
-            <td style="color:#595959;">C18:1</td>
-            <td style="color:#595959;text-align:center;">75 Mín</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">C18:1</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">75 Mín</td>
         </tr>
         <tr>
-            <td style="color:#595959;">C18:2</td>
-            <td style="color:#595959;text-align:center;">14 Máx</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">C18:2</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">14 Máx</td>
         </tr>
         <tr>
-            <td style="color:#595959;">C18:3</td>
-            <td style="color:#595959;text-align:center;">NR</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">C18:3</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">NR</td>
         </tr>
         <tr>
-            <td style="color:#595959;">C20</td>
-            <td style="color:#595959;text-align:center;">NR</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">C20</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">NR</td>
         </tr>
         <tr>
-            <td style="color:#595959;">Otros</td>
-            <td style="color:#595959;text-align:center;">1.5 Máx</td>
+            <td style="color:#595959;" class="Tipografia--general letranegro General--Cuerpo">Otros</td>
+            <td style="color:#595959;text-align:center;" class="Tipografia--general letranegro General--Cuerpo">1.5 Máx</td>
         </tr>
     </tbody>
 </table>

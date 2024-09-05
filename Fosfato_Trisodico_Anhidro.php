@@ -414,7 +414,7 @@
 <div class="row">
 <div class="slider slider-prueba">
 <ul class="slides">
-<li> <img src="img/FOSFATOS_BANNER_110724.jpg" style="height:500px;" alt="Industria Quimica">
+<li> <img src="img/TRISODICO_ANHIDRO_030924.jpg" style="height:500px;" alt="Industria Quimica">
 <div class="caption center-align"><br><br><br><br>
 <h1 class="primertitulo"><b>Chemical Broker</b><br></h1>
 <div class="container">
@@ -434,7 +434,7 @@
 <div class="container" style="margin-top:150px;">
 
 <div class="row" style="margin-left:1000px;">
-  <div class="col s12 m12 l12 xl12" style="background-color:orange;width:100%;">
+  <div class="col s12 m12 l12 xl12" style="background-color:#FF6600;width:100%;">
   <p class="Titulos General--Cuerpo" style="color:white;text-align: right;"><b>Fosfato Trisódico Anhidro</b></p>
   </div>
 </div>
@@ -455,21 +455,26 @@
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Propiedades Químicas</b></h5>
 
       <ol>
-        <li>pH: Soluciones acuosas de fosfato trisódico son fuertemente alcalinas, con un pH típicamente entre 11 y 12.</li>
-        <li>Reactividad:
+        <li style="list-style-type:disc" class="Elementos--Listas">pH: Soluciones acuosas de fosfato trisódico son fuertemente alcalinas, con un pH típicamente entre 11 y 12.</li>
+        <br>
+        <li style="list-style-type:disc" class="Elementos--Listas">Reactividad:
+        <br>
             <ol>
-                <li>Con ácidos: Reacciona con ácidos fuertes formando fosfato dihidrógeno de sodio (NaH₂PO₄) o fosfato monosódico (Na₂HPO₄), liberando dióxido de carbono en el proceso.</li>
-                <li>Con bases fuertes: Estable en soluciones fuertemente alcalinas.</li>
+                <li style="list-style-type:disc" class="Elementos--Listas">Con ácidos: Reacciona con ácidos fuertes formando fosfato dihidrógeno de sodio (NaH₂PO₄) o fosfato monosódico (Na₂HPO₄), liberando dióxido de carbono en el proceso.</li>
+                <br>
+                <li style="list-style-type:disc" class="Elementos--Listas">Con bases fuertes: Estable en soluciones fuertemente alcalinas.</li>
             </ol>
         </li>
-        <li>Estabilidad: Es estable bajo condiciones normales de almacenamiento y uso.</li>
-        <li>Higroscopicidad: Puede absorber humedad del aire, formando hidratos.</li>
+        <br>
+        <li style="list-style-type:disc">Estabilidad: Es estable bajo condiciones normales de almacenamiento y uso.</li>
+        <br>
+        <li style="list-style-type:disc">Higroscopicidad: Puede absorber humedad del aire, formando hidratos.</li>
       </ol>
 
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h5>
 
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El fosfato trisódico anhidro (Na₃PO₄) tiene una amplia gama de aplicaciones en diversas industrias debido a sus propiedades químicas y físicas.</p>
+      <p class="Tipografia--general letranegro General--Cuerpo">El fosfato trisódico anhidro (Na₃PO₄) tiene una amplia gama de aplicaciones en diversas industrias debido a sus propiedades químicas y físicas.</p>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria de Detergentes y Limpieza:</b></h5>
 
@@ -537,7 +542,7 @@
 
 <ol>
   <li class="Elementos--Listas" style="margin-top:30px;">Desengrasante: Utilizado en la formulación de desengrasantes industriales.</li>
-  <li class="Elementos--Listas" style="margin-top:30px;">•	Fabricación de Cerámica: Ayuda en la preparación de mezclas cerámicas y en el control del pH durante la producción.</li>
+  <li class="Elementos--Listas" style="margin-top:30px;">Fabricación de Cerámica: Ayuda en la preparación de mezclas cerámicas y en el control del pH durante la producción.</li>
 </ol>
 
     </div>
