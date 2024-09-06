@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
@@ -667,62 +666,75 @@
             <p class="Tipografia--general General--Cuerpo letranegra">Cuando este alcohol se oxida se convierte en acetona, ya que los alcoholes secundarios se convierten en cetonas; a diferencia de los alcoholes primarios que se convierten en aldehídos.</p>
             <p class="Tipografia--general General--Cuerpo letranegra">Se utiliza en la fabricación de una amplia variedad de productos químicos industriales y domésticos y es un ingrediente común en productos como antisépticos, desinfectantes y detergentes.</p>
 
-            <table class="display" id="table_id2" name="table_id2"
-          style="width:100%;border-spacing:2px 5px;border:none;margin:30px 0px 0px 0px">
+            <table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 5px;border:none;margin:30px 0px 0px 0px">
           <tr class="Tipografia--general General--Cuerpo"
             style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:18px !important;color: black;" class="table_bha_mobile ">
+            <td style="font-size:18px !important;color: black;background-color:#000020;color:white" class="table_bha_mobile ">
               <b>Descripción Química:</b>
             </td>
-            <td style="font-size:18px !important;width:50%;color:black;" class="table_bha_mobile">Alcohol Isopropilico</td>
           </tr>
+        <tr>
+        <td style="font-size:18px !important;width:50%;color:black;" class="table_bha_mobile">Alcohol Isopropilico</td>
+        </tr>
 
+        <tr>
+            <td style="background-color:#f2f2f2"></td>
+        </tr>
 
-
-          <tr class="Tipografia--general General--Cuerpo"
-            style="padding:10px;font-size:15px !important;width:150px;">
-            <td
-              style="font-size:18px !important;" class="table_bha_mobile"
-              >
+          <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
+            <td style="font-size:18px !important;background-color:#000020;color:white" class="table_bha_mobile">
               <b>Formula Estructural:</b>
             </td>
-            <td style="font-size:18px;color:white;"  class="table_bha_mobile">
+          </tr>
+
+          <tr>
+          <td style="font-size:18px;color:white;"  class="table_bha_mobile">
               <img src="img/CB_FORMULA-ESTRUCTURAL_ALCOHOL-ISOPROPILICO.png" alt="" style="width:30%;" >
             </td>
           </tr>
 
-          <tr class="Tipografia--general General--Cuerpo"
-            style="padding:10px;font-size:15px !important;width:150px;">
-            <td
-              style="font-size:18px !important;width:50%;color:black;" class="table_bha_mobile"
-              >
+          <tr>
+            <td style="background-color:#f2f2f2"></td>
+        </tr>
+
+          <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
+            <td style="font-size:18px !important;width:50%;color:white;background-color:#000020" class="table_bha_mobile">
               <b>Fórmula Química:</b>
             </td>
-            <td style="font-size:18px !important;border-bottom:1px solid black;width:50%;color:black;" class="table_bha_mobile"
-              >
-              -(CH<sub>3</sub>)CH(OH) CH<sub>3</sub></td>
           </tr>
 
+          <tr>
+          <td style="font-size:18px !important;border-bottom:1px solid black;width:50%;color:black;" class="table_bha_mobile">-(CH<sub>3</sub>)CH(OH) CH<sub>3</sub></td>
+          </tr>
 
+          <tr>
+            <td style="background-color:#f2f2f2"></td>
+        </tr>
 
-          <tr class="Tipografia--general General--Cuerpo"
-          style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile ">
-            <td
-            style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile" class="table_bha_mobile">
+          <tr class="Tipografia--general General--Cuerpo" style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile ">
+            <td style="font-size:18px !important;color: white; border-bottom:1px solid black;background-color: #000020" class="table_bha_mobile" class="table_bha_mobile">
               <b>Formula Molecular</b>
             </td>
-            <td style="font-size:18px !important;border-bottom:1px solid #C0C0C0;width:50%;" class="table_bha_mobile">-C<sub>3</sub>H<sub>8</sub>O</td>
           </tr>
 
+          <tr>
+          <td style="font-size:18px !important;border-bottom:1px solid #C0C0C0;width:50%;" class="table_bha_mobile">-C<sub>3</sub>H<sub>8</sub>O</td>
+          </tr>
 
+          <tr>
+            <td style="background-color:#f2f2f2"></td>
+        </tr>
 
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-            style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile">
+            style="font-size:18px !important;color: white; border-bottom:1px solid black;background-color:#000020" class="table_bha_mobile">
               <b>Nombre IUPAC:</b>
             </td>
-            <td style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile">
+          </tr>
+
+          <tr>
+          <td style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile">
               -Propan-2-ol
             </td>
           </tr>
