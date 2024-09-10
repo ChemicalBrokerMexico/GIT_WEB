@@ -5,7 +5,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
   <title>Chemical Broker | Butilhidroxianisol</title>
-  <meta name="description" content="Es un producto petroquímico sólido, ceroso y sintético con propiedades antioxidantes que lo hacen útil como aditivo conservador en alimentos,">
+  <meta name="description" content="Compra BHA (butilhidroxianisol) de alta calidad, un antioxidante eficaz para la conservación de alimentos, cosméticos y productos farmacéuticos. Protege tus formulaciones contra la oxidación y garantiza la frescura y estabilidad de tus productos. ¡Elige nuestra solución confiable para una conservación superior!">
   <link rel="canonical" href="https://chemicalbroker.mx/BHA.php">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -469,10 +469,10 @@
         <p style="color:white !important">Search</p>
       </a></li>
     <div class="divider"></div>
-    <li> <a class="waves-effect waves-light" href="VISTA/Principal.php" style="background-color:#c73e32;color: white"
+    <!-- <li> <a class="waves-effect waves-light" href="VISTA/Principal.php" style="background-color:#c73e32;color: white"
         id="LockBoton">Login<i class="material-icons right"
           style="color:white !important;margin-top:-1px !important;">lock</i></a></li>
-    </li>
+    </li> -->
   </ul>
   <ul class="sidenav" id="mobile-search" style="background-color:#262137">
     <div class="container grid-search-mobile">

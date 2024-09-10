@@ -753,6 +753,10 @@ recaptchaResponse.value = token;
         </div>
 
 
+        </div>
+</div>
+
+
     <footer class="altofooter">
         <div class="divfooter" style="text-align:center;"><img class="imglogoCE"
                 src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt="" /></div><br /><br />
@@ -762,6 +766,8 @@ recaptchaResponse.value = token;
                     |&nbsp</a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download="download"
                     style="color:black !important;font-size:16px">Politica de Privacidad </a></p>
         </div>
+
+
     </footer>
     <script type="text/javascript" src="js/main.js"> </script>
 </body>

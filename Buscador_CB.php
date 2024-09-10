@@ -458,7 +458,7 @@ error_reporting(
             </ul>
         </div>
         <div>
-            <ul> <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;"
+           <ul>  <!-- <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;"
                     href="" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock"
                         style="color:white !Important;margin-top:-24px;font-size:20px !important">lock</i><i
                         class="material-icons left icon-lock1 aparecelock"
@@ -468,7 +468,7 @@ error_reporting(
                         <p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar
                                 Sesión</b></p>
                     </div>
-                </a>
+                </a> -->
                 <li class="ul-independiente right"><a class="btn-search-desktop1" href="#" id="busquedaprueba"
                         onclick="abrirsearch();"><i class="material-icons left search-desktop-icon"
                             style="color:black !important;font-size:24px;font-weight:500;position:absolute;z-index:1">search</i></a>
@@ -701,7 +701,6 @@ error_reporting(
                 <div class="input-field col s12 m12 l12 xl12">
           <input type="text" id="Buscador_Principal" name="Buscador_Principal" placeholder="Ingrese un Valor de Busqueda"><i class="material-icons search-mobile-icon"
                         style="width:0px">search</i></input>
-          
                 </div>
 
               

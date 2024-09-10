@@ -6,7 +6,7 @@ function buscar_datos(consulta){
     
 
     $.ajax({
-        url: './php_funtions/buscar.php', //Ubicacion del archivo en el cual se encuentra la consulta SQL
+        url: '../php_funtions/buscar.php', //Ubicacion del archivo en el cual se encuentra la consulta SQL
         type: 'POST', //Metodo a traves del cual se envia la informacion desde la url correspondiente
         dataType: 'html', //Tipo de datos que seran recepcionados posterior a la consulta con sql
         data: {consulta: consulta}, //Informacion que se desea enviar al archivo php

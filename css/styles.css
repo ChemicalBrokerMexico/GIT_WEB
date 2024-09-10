@@ -1248,6 +1248,11 @@ font-size: 12px;
            margin-left: -30px !important
         }
 
+        .Acidnomobile{
+            display:none
+        }
+
+
 }
 
 @media only screen and (min-width: 576px) {
@@ -2104,6 +2109,10 @@ font-size: 12px;
         margin-left: -66px !important
      }
    
+
+     .Acidnomobile{
+        display:none
+    }
 
 }
 
@@ -4833,6 +4842,10 @@ margin-top:85px;
 
     .Botones{
         font-size:16px;
+    }
+
+    .Acidnomobile{
+        display:inline-table;
     }
     
 }

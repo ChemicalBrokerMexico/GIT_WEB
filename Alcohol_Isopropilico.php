@@ -553,10 +553,10 @@
                 <p style="color:white !important">Search</p>
             </a></li>
         <div class="divider"></div>
-        <li> <a class="waves-effect waves-light" href="VISTA/Principal.php"
+        <!-- <li> <a class="waves-effect waves-light" href="VISTA/Principal.php"
                 style="background-color:#c73e32;color: white" id="LockBoton">Login<i class="material-icons right"
                     style="color:white !important;margin-top:-1px !important;">lock</i></a></li>
-        </li>
+        </li> -->
     </ul>
     <ul class="sidenav" id="mobile-search" style="background-color:#262137">
         <div class="container grid-search-mobile">
@@ -669,12 +669,12 @@
             <table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 5px;border:none;margin:30px 0px 0px 0px">
           <tr class="Tipografia--general General--Cuerpo"
             style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:18px !important;color: black;background-color:#000020;color:white" class="table_bha_mobile ">
+            <td style="font-size:18px !important;color: black;background-color:#000020;color:white;text-align:center" class="table_bha_mobile ">
               <b>Descripción Química:</b>
             </td>
           </tr>
         <tr>
-        <td style="font-size:18px !important;width:50%;color:black;" class="table_bha_mobile">Alcohol Isopropilico</td>
+        <td style="font-size:18px !important;width:50%;color:black;text-align:center" class="table_bha_mobile">Alcohol Isopropilico</td>
         </tr>
 
         <tr>
@@ -682,13 +682,13 @@
         </tr>
 
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:18px !important;background-color:#000020;color:white" class="table_bha_mobile">
+            <td style="font-size:18px !important;background-color:#000020;color:white;text-align:center" class="table_bha_mobile">
               <b>Formula Estructural:</b>
             </td>
           </tr>
 
           <tr>
-          <td style="font-size:18px;color:white;"  class="table_bha_mobile">
+          <td style="font-size:18px;color:white;text-align:center"  class="table_bha_mobile">
               <img src="img/CB_FORMULA-ESTRUCTURAL_ALCOHOL-ISOPROPILICO.png" alt="" style="width:30%;" >
             </td>
           </tr>
@@ -698,13 +698,13 @@
         </tr>
 
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:18px !important;width:50%;color:white;background-color:#000020" class="table_bha_mobile">
+            <td style="font-size:18px !important;width:50%;color:white;background-color:#000020;text-align:center" class="table_bha_mobile">
               <b>Fórmula Química:</b>
             </td>
           </tr>
 
           <tr>
-          <td style="font-size:18px !important;border-bottom:1px solid black;width:50%;color:black;" class="table_bha_mobile">-(CH<sub>3</sub>)CH(OH) CH<sub>3</sub></td>
+          <td style="font-size:18px !important;border-bottom:1px solid black;width:50%;color:black;text-align:center" class="table_bha_mobile">-(CH<sub>3</sub>)CH(OH) CH<sub>3</sub></td>
           </tr>
 
           <tr>
@@ -712,13 +712,13 @@
         </tr>
 
           <tr class="Tipografia--general General--Cuerpo" style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile ">
-            <td style="font-size:18px !important;color: white; border-bottom:1px solid black;background-color: #000020" class="table_bha_mobile" class="table_bha_mobile">
+            <td style="font-size:18px !important;color: white; border-bottom:1px solid black;background-color: #000020;text-align:center" class="table_bha_mobile" class="table_bha_mobile">
               <b>Formula Molecular</b>
             </td>
           </tr>
 
           <tr>
-          <td style="font-size:18px !important;border-bottom:1px solid #C0C0C0;width:50%;" class="table_bha_mobile">-C<sub>3</sub>H<sub>8</sub>O</td>
+          <td style="font-size:18px !important;border-bottom:1px solid #C0C0C0;width:50%;text-align:center" class="table_bha_mobile">-C<sub>3</sub>H<sub>8</sub>O</td>
           </tr>
 
           <tr>
@@ -728,24 +728,30 @@
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-            style="font-size:18px !important;color: white; border-bottom:1px solid black;background-color:#000020" class="table_bha_mobile">
+            style="font-size:18px !important;color: white; border-bottom:1px solid black;background-color:#000020;text-align:center" class="table_bha_mobile">
               <b>Nombre IUPAC:</b>
             </td>
           </tr>
 
           <tr>
-          <td style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile">
+          <td style="font-size:18px !important;color: black; border-bottom:1px solid black;text-align:center" class="table_bha_mobile">
               -Propan-2-ol
             </td>
           </tr>
 
-          <tr class="Tipografia--general General--Cuerpo"
-            style="padding:10px;font-size:15px !important;width:150px;">
-            <td
-            style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile">
+          
+          <tr>
+            <td style="background-color:#f2f2f2"></td>
+        </tr>
+
+          <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
+            <td style="font-size:18px !important;color: white; border-bottom:1px solid black;background-color:#000020;text-align:center" class="table_bha_mobile">
               <b>Sinónimos</b>
             </td>
-            <td style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile"
+          </tr>
+
+          <tr>
+          <td style="font-size:18px !important;color: black; border-bottom:1px solid black;text-align:center" class="table_bha_mobile"
         ><ol>
             <li style="list-style-type:disc;">-2-propanol</li>
             <li style="list-style-type:disc;">-Isopropanol</li>
@@ -759,182 +765,293 @@
         </ol></td>
           </tr>
 
-          <tr class="Tipografia--general General--Cuerpo"
-            style="padding:10px;font-size:15px !important;width:150px;">
-            <td
-            style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile"
-              >
+            
+        
+
+          <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
+            <td style="font-size:18px !important;color: white; border-bottom:1px solid black;background-color:#000020;text-align:center" class="table_bha_mobile">
               <b>Formula Semidesarrollada</b>
             </td>
-            <td style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile"
+            </tr>
+
+            <tr>
+            <td style="font-size:18px !important;color: black; border-bottom:1px solid black;text-align:center" class="table_bha_mobile"
               >-</td>
-          </tr>
+            </tr>
 
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-            style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile"
+            style="font-size:18px !important;color: white; border-bottom:1px solid black;background-color:#000020;text-align:center" class="table_bha_mobile"
               >
               <b>Numero CAS:</b>
             </td>
-            <td style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile"
+          </tr>
+
+          <tr>
+          <td style="font-size:18px !important;color: black; border-bottom:1px solid black;text-align:center" class="table_bha_mobile"
               >67-63-0</td>
           </tr>
 
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-            style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile"
+            style="font-size:18px !important;color: white; border-bottom:1px solid black;background-color:#000020;text-align:center" class="table_bha_mobile"
               >
               <b>Numero EINECS</b>
             </td>
-            <td style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile"
-              >-</td>
           </tr>
+
+        <tr>
+        <td style="font-size:18px !important;color: black; border-bottom:1px solid black;text-align:center" class="table_bha_mobile"
+              >-</td>
+        </tr>
+
+
+        <tr>
+            <td style="background-color:#f2f2f2"></td>
+        </tr>
 
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-            style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile"
+            style="font-size:18px !important;color: white; border-bottom:1px solid black;background-color:#000020;text-align:center" class="table_bha_mobile"
               >
               <b>Numero RTECS:</b>
             </td>
-            <td style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile"
+          </tr>
+
+          <tr>
+          <td style="font-size:18px !important;color: black; border-bottom:1px solid black;text-align:center" class="table_bha_mobile"
               >C15469</td>
           </tr>
 
 
+          <tr>
+            <td style="background-color:#f2f2f2"></td>
+        </tr>
+
+
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-            style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile"
+            style="font-size:18px !important;color: white; border-bottom:1px solid black;background-color:#000020;text-align:center" class="table_bha_mobile"
               >
               <b>Numero ChEBI:</b>
             </td>
-            <td style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile"
+          </tr>
+
+          <tr>
+          <td style="font-size:18px !important;color: black; border-bottom:1px solid black;text-align:center" class="table_bha_mobile"
               >17824</td>
           </tr>
+
+          
+          <tr>
+            <td style="background-color:#f2f2f2"></td>
+        </tr>
+
           
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-            style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile"
+            style="font-size:18px !important;color: white; border-bottom:1px solid black;background-color:#000020;text-align:center" class="table_bha_mobile"
               >
               <b>ChEMBL:</b>
             </td>
-            <td style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile"
+
+            <tr>
+            <td style="font-size:18px !important;color: black; border-bottom:1px solid black;text-align:center" class="table_bha_mobile"
               >ChEMLBL582</td>
+         
           </tr>
+
+          <tr>
+            <td style="background-color:#f2f2f2"></td>
+        </tr>
+
 
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-            style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile"
+            style="font-size:18px !important;color: white; border-bottom:1px solid black;background-color:#000020;text-align:center" class="table_bha_mobile"
               >
               <b>ChemSpider:</b>
             </td>
-            <td style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile"
+          </tr>
+
+          <tr>
+          <td style="font-size:18px !important;color: black; border-bottom:1px solid black;text-align:center" class="table_bha_mobile"
               >3644</td>
           </tr>
+
+          <tr>
+            <td style="background-color:#f2f2f2"></td>
+        </tr>
+
 
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-            style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile"
+            style="font-size:18px !important;color:white; border-bottom:1px solid black;background-color:#000020;text-align:center" class="table_bha_mobile"
               >
               <b>Drug-Bank:</b>
             </td>
-            <td style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile"
+          </tr>
+
+          <tr>
+          <td style="font-size:18px !important;color: black; border-bottom:1px solid black;text-align:center" class="table_bha_mobile"
               >-</td>
           </tr>
 
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-            style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile"
+            style="font-size:18px !important;color: white; border-bottom:1px solid black;background-color:#000020;text-align:center" class="table_bha_mobile"
               >
               <b>PubChem:</b>
             </td>
-            <td style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile"
+          </tr>
+
+          <tr>
+          <td style="font-size:18px !important;color: black; border-bottom:1px solid black;text-align:center" class="table_bha_mobile"
               >3776</td>
           </tr>
 
+          <tr>
+            <td style="background-color:#f2f2f2"></td>
+        </tr>
+
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-            style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile"
+            style="font-size:18px !important;color: white; border-bottom:1px solid black;background-color:#000020;text-align:center" class="table_bha_mobile"
               >
               <b>UNII:</b>
             </td>
-            <td style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile"
-              >ND2M416302</td>
           </tr>
+
+        <tr>
+        <td style="font-size:18px !important;color: black; border-bottom:1px solid black;text-align:center" class="table_bha_mobile"
+              >ND2M416302</td>
+        </tr>
+
+        
+        <tr>
+            <td style="background-color:#f2f2f2"></td>
+        </tr>
 
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-            style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile"
+            style="font-size:18px !important;color: white; border-bottom:1px solid black;background-color:#000020;text-align:center" class="table_bha_mobile"
               >
               <b>UN No.:</b>
             </td>
-            <td style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile"
+        
+          </tr>
+
+          <tr>
+          <td style="font-size:18px !important;color: black; border-bottom:1px solid black;text-align:center" class="table_bha_mobile"
               >1219</td>
           </tr>
 
+          <tr>
+            <td style="background-color:#f2f2f2"></td>
+        </tr>
+
+
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-            style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile"
+            style="font-size:18px !important;color: white; border-bottom:1px solid black;background-color:#000020;text-align:center" class="table_bha_mobile"
               >
               <b>KEGG:</b>
             </td>
-            <td style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile"
+          </tr>
+
+          <tr>
+          <td style="font-size:18px !important;color: black; border-bottom:1px solid black;text-align:center" class="table_bha_mobile"
               >D00137</td>
           </tr>
 
+          <tr>
+            <td style="background-color:#f2f2f2"></td>
+        </tr>
+
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-            style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile"
+            style="font-size:18px !important;color: white; border-bottom:1px solid black;background-color:#000020;text-align:center" class="table_bha_mobile"
               >
               <b>Densidad:</b>
             </td>
-            <td style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile"
+          </tr>
+
+          <tr>
+          <td style="font-size:18px !important;color: black; border-bottom:1px solid black;text-align:center" class="table_bha_mobile"
               >0.786 g/cm3 (20 °C)</td>
           </tr>
 
+          <tr>
+            <td style="background-color:#f2f2f2"></td>
+        </tr>
+
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-            style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile"
+            style="font-size:18px !important;color: white; border-bottom:1px solid black;background-color:#000020;text-align:center" class="table_bha_mobile"
               >
               <b>Masa Molecular:</b>
             </td>
-            <td style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile"
+          </tr>
+
+
+          <tr>
+          <td style="font-size:18px !important;color: black; border-bottom:1px solid black;text-align:center" class="table_bha_mobile"
               >60.096 g/mol</td>
           </tr>
 
-          <tr class="Tipografia--general General--Cuerpo"
-            style="padding:10px;font-size:15px !important;width:150px;">
-            <td
-            style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile"
-              >
-              <b>Punto de fusión</b>
-            </td>
-            <td style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile"
-              >184 K (-89 °C)</td>
-          </tr>
+          <tr>
+            <td style="background-color:#f2f2f2"></td>
+        </tr>
 
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
-            style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile"
+            style="font-size:18px !important;color: white; border-bottom:1px solid black;background-color:#000020;text-align:center" class="table_bha_mobile"
+              >
+              <b>Punto de fusión</b>
+            </td>
+            
+          </tr>
+
+          <tr>
+          <td style="font-size:18px !important;color: black; border-bottom:1px solid black;text-align:center" class="table_bha_mobile"
+              >184 K (-89 °C)</td>
+          </tr>
+
+          <tr>
+            <td style="background-color:#f2f2f2"></td>
+        </tr>
+
+          <tr class="Tipografia--general General--Cuerpo"
+            style="padding:10px;font-size:15px !important;width:150px;">
+            <td
+            style="font-size:18px !important;color: white; border-bottom:1px solid black;background-color:#000020;text-align:center" class="table_bha_mobile"
               >
               <b>Punto de ebullición:</b>
             </td>
-            <td style="font-size:18px !important;color: black; border-bottom:1px solid black;" class="table_bha_mobile"
+          </tr>
+
+          <tr>
+          <td style="font-size:18px !important;color: black; border-bottom:1px solid black;text-align:center" class="table_bha_mobile"
               >355,8 K (83 °C)</td>
           </tr>
+
+          <tr>
+            <td style="background-color:#f2f2f2"></td>
+        </tr>
 
         </table>
         </div>
