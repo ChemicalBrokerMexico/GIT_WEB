@@ -779,7 +779,7 @@
           
         <!-- tabla para movil 2 -->
 
-        <table border="1" style="margin-top:50px;" class="Agrasosmobile" id="Agrasoscoco2" name="Agrasoscoco2">
+        <table border="1" style="margin-top:50px;display:inline-table" class="Agrasosmobile" id="Agrasoscoco2" name="Agrasoscoco2">
             <tr>
               <td style="text-align:center;background-color:#1F3864;color:white" colspan="2" class="Tipografia--general letranegro General--Cuerpo" >FAC818H</td>
             </tr>
@@ -845,7 +845,7 @@
           <br class="Agrasosmobile">
 
           <!-- tabla para movil 3 -->
-          <table border="1" style="margin-top:50px;" class="Agrasosmobile" id="Agrasoscoco3" name="Agrasoscoco3">
+          <table border="1" style="margin-top:50px;display:inline-table" class="Agrasosmobile" id="Agrasoscoco3" name="Agrasoscoco3">
             <tr>
               <td style="text-align:center;background-color:#1F3864;color:white" class="Tipografia--general letranegro General--Cuerpo" colspan="2">FA C818DH</td>
             </tr>
@@ -911,7 +911,7 @@
 
           <!-- tabla para movil 4 -->
 
-          <table border="1" style="margin-top:50px;" class="Agrasosmobile" id="Agrasoscoco4" name="Agrasoscoco5">
+          <table border="1" style="margin-top:50px;display:inline-table" class="Agrasosmobile" id="Agrasoscoco4" name="Agrasoscoco5">
             <tr>
               <td style="text-align:center;background-color:#1F3864;color:white" class="Tipografia--general letranegro General--Cuerpo" colspan="2">FA C1218DH</td>
             </tr>
@@ -982,7 +982,7 @@
 
           <!-- tabla para movil 5 revisar porque se encuentra como espacio desperdiciado -->
 
-          <table border="1" style="margin-top:30px;display:inline-block"  class="Agrasosmobile" id="Agrasoscoco" name="Agrasoscoco">
+          <table border="1" style="margin-top:30px;display:inline-table"  class="Agrasosmobile" id="Agrasoscoco" name="Agrasoscoco">
             <tr>
               <td style="text-align:center;background-color:#1F3864;color:white;" class="Tipografia--general letranegro General--Cuerpo" colspan="2">FA S1884</td>
             </tr>
@@ -1163,7 +1163,7 @@
 
           <!-- tabla para movil 7 -->
 
-          <table border="1" style="margin-top:50px;" class="Agrasosmobile" id="Agrasosfraccionados2" name="Agrasosfraccionados2">
+          <table border="1" style="margin-top:50px;display:inline-table" class="Agrasosmobile" id="Agrasosfraccionados2" name="Agrasosfraccionados2">
             <tr>
               <td style="text-align:center;background-color:#1F3864;color:white;" class="Tipografia--general letranegro General--Cuerpo" colspan="2">LC 810L</td>
             </tr>
@@ -1251,7 +1251,7 @@
 
           <!-- tabla para movil 8 -->
 
-          <table border="1" style="margin-top:50px;display:inline-block;" class="Agrasosmobile" id="Agrasosfraccionados3" name="Agrasosfraccionados3">
+          <table border="1" style="margin-top:50px;display:inline-table;" class="Agrasosmobile" id="Agrasosfraccionados3" name="Agrasosfraccionados3">
             <tr>
               <td style="text-align:center;background-color:#1F3864;color:white;" class="Tipografia--general letranegro General--Cuerpo" colspan="2">LC 1099</td>
             </tr>
