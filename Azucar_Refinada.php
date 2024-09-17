@@ -769,93 +769,93 @@
 
             <table style="margin-top:50px;">
                 <tr style="border-bottom:3px solid #660066;">
-                    <th class="center-align">Parámetro</th>
-                    <th class="center-align">Método</th>
-                    <th class="center-align">Especificación</th>
+                    <th class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">Parámetro</th>
+                    <th class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">Método</th>
+                    <th class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">Especificación</th>
                 </tr>
                 <tr>
-                    <td>Aspecto</td>
-                    <td>SM-PR-420</td>
-                    <td>Granulado Uniforme</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">Aspecto</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">SM-PR-420</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">Granulado Uniforme</td>
                 </tr>
                 <tr>
-                    <td style="background-color:#f2f2f2;">Color</td>
-                    <td style="background-color:#f2f2f2;">SM-PR-420</td>
-                    <td style="background-color:#f2f2f2;">Blanco</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="background-color:#f2f2f2;text-align:center;">Color</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="background-color:#f2f2f2;text-align:center;">SM-PR-420</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="background-color:#f2f2f2;text-align:center;">Blanco</td>
                 </tr>
                 <tr>
-                    <td>Olor</td>
-                    <td>SM-PR-420</td>
-                    <td>Característico</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">Olor</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">SM-PR-420</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">Característico</td>
                 </tr>
                 <tr>
-                    <td style="background-color:#f2f2f2;">Sabor</td>
-                    <td style="background-color:#f2f2f2;">SM-PR-420</td>
-                    <td style="background-color:#f2f2f2;">Característico</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="background-color:#f2f2f2;text-align: center;">Sabor</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="background-color:#f2f2f2;text-align: center;">SM-PR-420</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="background-color:#f2f2f2;text-align: center;">Característico</td>
                 </tr>
                 <tr>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align"></td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align"></td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align"></td>
                 </tr>
                 <tr style="border-top:3px solid #660066;">
-                    <td>Polarización</td>
-                    <td>GS2/3-1 (2011)</td>
-                    <td>≥ 99.9%</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">Polarización</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">GS2/3-1 (2011)</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">≥ 99.9%</td>
                 </tr>
                 <tr>
-                    <td style="background-color:#f2f2f2;">Color</td>
-                    <td style="background-color:#f2f2f2;">GS9/1/2/3-8 (2011)</td>
-                    <td style="background-color:#f2f2f2;">≤ 45 U.I.</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="background-color:#f2f2f2;text-align:center;">Color</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="background-color:#f2f2f2;text-align:center;">GS9/1/2/3-8 (2011)</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="background-color:#f2f2f2;text-align:center;">≤ 45 U.I.</td>
                 </tr>
                 <tr>
-                    <td>Cenizas</td>
-                    <td>GS2/3-17 (2011)</td>
-                    <td>≤ 0.04%</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">Cenizas</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">GS2/3-17 (2011)</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">≤ 0.04%</td>
                 </tr>
 
 
 
                 <tr>
-                    <td style="background-color:#f2f2f2;">Humedad</td>
-                    <td style="background-color:#f2f2f2;">GS2/1/3/9-15 (2007)</td>
-                    <td style="background-color:#f2f2f2;">≤ 0.04%</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="background-color:#f2f2f2;text-align: center;">Humedad</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="background-color:#f2f2f2;text-align: center;">GS2/1/3/9-15 (2007)</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="background-color:#f2f2f2;text-align: center;">≤ 0.04%</td>
                 </tr>
                 <tr>
-                    <td>Material insoluble</td>
-                    <td>GS2/3/9-19(2007)</td>
-                    <td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">Material insoluble</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">GS2/3/9-19(2007)</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">
                         < 10 mg/kg</td>
                 </tr>
                 <tr>
-                    <td style="background-color:#f2f2f2;">Sulfitos</td>
-                    <td style="background-color:#f2f2f2;">GS2/1//7/9-33 (2011)</td>
-                    <td style="background-color:#f2f2f2;">≤ 15 mg/kg</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="background-color:#f2f2f2;text-align:center;">Sulfitos</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="background-color:#f2f2f2;text-align:center;">GS2/1//7/9-33 (2011)</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="background-color:#f2f2f2;text-align:center;">≤ 15 mg/kg</td>
                 </tr>
                 <tr>
-                    <td>Azucares reductores</td>
-                    <td>GS2/3/9-5 (2011)</td>
-                    <td>≤ 0.05%</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">Azucares reductores</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">GS2/3/9-5 (2011)</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">≤ 0.05%</td>
                 </tr>
                 <tr>
-                    <td style="background-color:#f2f2f2;">Fierro</td>
-                    <td style="background-color:#f2f2f2;">CON-PV-00006ICP-OES</td>
-                    <td style="background-color:#f2f2f2;">≤ 1 mg/kg</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="background-color:#f2f2f2;text-align:center;">Fierro</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="background-color:#f2f2f2;text-align:center;">CON-PV-00006ICP-OES</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="background-color:#f2f2f2;text-align:center;">≤ 1 mg/kg</td>
                 </tr>
                 <tr>
-                    <td>Cobre</td>
-                    <td>CON-PV-00006ICP-OES</td>
-                    <td>≤ 1 mg/kg</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">Cobre</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">CON-PV-00006ICP-OES</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">≤ 1 mg/kg</td>
                 </tr>
                 <tr>
-                    <td style="background-color:#f2f2f2;">Plomo</td>
-                    <td style="background-color:#f2f2f2;">CON-PV-00508 GF-AAS</td>
-                    <td style="background-color:#f2f2f2;">≤ 0.5 mg/kg</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="background-color:#f2f2f2;text-align: center;">Plomo</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="background-color:#f2f2f2;text-align: center;">CON-PV-00508 GF-AAS</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="background-color:#f2f2f2;text-align: center;">≤ 0.5 mg/kg</td>
                 </tr>
                 <tr>
-                    <td>Arsénico</td>
-                    <td>CON-PV-00508 GF-AAS</td>
-                    <td>≤ 1 mg/kg</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">Arsénico</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">CON-PV-00508 GF-AAS</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">≤ 1 mg/kg</td>
                 </tr>
 
                 <tr>
@@ -864,31 +864,31 @@
                     <td></td>
                 </tr>
                 <tr style="border-top:3px solid #660066;">
-                    <td>Mesófilos aeróbicos</td>
-                    <td>GS2/3-41 (2011)</td>
-                    <td>≤ 200 UFC/10 g</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">Mesófilos aeróbicos</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">GS2/3-41 (2011)</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">≤ 200 UFC/10 g</td>
                 </tr>
                 <tr>
-                    <td style="background-color:#f2f2f2;">Hongos</td>
-                    <td style="background-color:#f2f2f2;">GS2/3-47 (2015)</td>
-                    <td style="background-color:#f2f2f2;">
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="background-color:#f2f2f2;text-align: center;">Hongos</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="background-color:#f2f2f2;text-align: center;">GS2/3-47 (2015)</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="background-color:#f2f2f2;text-align: center;">
                         < 10 UFC/10 g.</td>
                 </tr>
                 <tr>
-                    <td>Levaduras</td>
-                    <td>GS2/3-47 (2015)</td>
-                    <td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">Levaduras</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">GS2/3-47 (2015)</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">
                         < 10 UFC/10 g.</td>
                 </tr>
                 <tr>
-                    <td style="background-color:#f2f2f2;">Salmonela</td>
-                    <td style="background-color:#f2f2f2;">ISO 6579.2017-09</td>
-                    <td style="background-color:#f2f2f2;">Ausente 25 g</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="background-color:#f2f2f2;text-align: center;">Salmonela</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="background-color:#f2f2f2;text-align: center;">ISO 6579.2017-09</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="background-color:#f2f2f2;text-align: center;">Ausente 25 g</td>
                 </tr>
                 <tr>
-                    <td>E. Coli</td>
-                    <td>M 0020.9513.10.4</td>
-                    <td>Ausente UFC/g</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">E. Coli</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">M 0020.9513.10.4</td>
+                    <td class="Tipografia--general letranegro General--Cuerpo center-align" style="text-align:center;">Ausente UFC/g</td>
                 </tr>
 
             </table>

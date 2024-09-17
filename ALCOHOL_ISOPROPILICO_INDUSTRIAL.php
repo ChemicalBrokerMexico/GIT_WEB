@@ -636,16 +636,11 @@
                     <div class="caption center-align"><br><br><br><br>
                         <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b
                             class="segundotitulo" style="font-size: 26px;">Alcohol Isopropilico Grado Industrial</b>
-                    </div>
-                </li>
-            </ul>
-        </div>
-    </div>
 
-    <div class="container" style="margin-top:80px;">
-        <div class="row bread_mobile">
+            <div class="container" style="margin-top:30px;">
+        <div class="row">
             <div class="col s12 m12 l12 xl12">
-                <section class="breditem--inicio"><a class="breditem active" href="index.php"
+                <section class=""><a class="breditem active" href="index.php"
                         style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
                         href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b>
                             >
@@ -657,7 +652,14 @@
         </div>
     </div>
 
-        <div class="container">
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+  
+        <div class="container" style="margin-top:130px;">
             <div class="row">
                 <div class="col s12 m12 l12 xl12">
                     <p class="Tipografia--general letranegro General--Cuerpo">El Alcohol Isopropílico Grado Industrial o Técnico es una forma de isopropanol que se utiliza en aplicaciones industriales y técnicas, pero que no cumple con los estándares de pureza requeridos para ciertas aplicaciones mas especializadas, como en la industria farmacéutica o de alimentos. </p>

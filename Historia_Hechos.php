@@ -223,36 +223,36 @@
       </nav>
     </div>
     <nav style="background-color:white;height:25px;margin-top:-19px">
-      <div class="nav-wrapper flex"><a class="sidenav-trigger" href="#" data-target="mobile-demo"><i class="material-icons letranegro">menu</i></a><span class="Pmenu letranegro">Menu</span>
-        <ul class="hide-on-med-and-down">
-          <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Mercados.php"><b>Mercados</b></a></li>
-          <ul id="dropdown3" class="dropdown-content" style="width:300px !important;">
-                 <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Ingredientes Químicos</a>
-          </li>
-          
-<li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
-</ul>
+<div class="nav-wrapper flex"><a class="sidenav-trigger" href="#" data-target="mobile-demo"><i class="material-icons letranegro">menu</i></a><span class="Pmenu letranegro">Menu</span>
+<ul class="hide-on-med-and-down">
+<li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="index.php"><b>Nosotros</b></a></li>
+<li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Mercados.php"><b>Mercados</b></a></li>
+<ul id="dropdown3" class="dropdown-content" style="width:300px !important;">
+  <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos" style="width:200px;">Ingredientes Químicos</a></li>
+  <!-- <li><a href="Product_List.php" class="Tipografia--general letranegro Subtitulos" style="width:200px;">Lista de Productos</a></li> -->
+  <li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
+</ul> 
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!" data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a></li>
-          <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Servicios.php"><b>Servicios</b></a></li>
-       <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i class="material-icons right">arrow_drop_down</i></b></a>
+<li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Servicios.php"><b>Servicios</b></a></li>
+<li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i class="material-icons right">arrow_drop_down</i></b></a>
 <ul id="dropdown4" class="dropdown-content" tabindex="0">
 <li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Sistema de Gestión Integral</a></li>
 <li tabindex="0"><a href="Marco_Regulatorio.php" class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
   <li tabindex="0"><a href="Certificaciones.php" class="Tipografia--general letranegro Subtitulos">Certificaciones</a></li>
 </ul></li>
-          <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Contact.php"><b>Contacto </b></a></li>
-        </ul>
-      </div>
-      <div> 
-      <ul><!--  <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="chemicalbroker.mx/Vista/Principal.php" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock color--blanco" style="margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock color--blanco" style="display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
+<li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Contact.php"><b>Contacto </b></a></li>
+</ul>
+</div>
+<div> 
+<ul><!--  <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="chemicalbroker.mx/Vista/Principal.php" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock color--blanco" style="margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock color--blanco" style="display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
 <div style="display:flex;justify-content:center"> 
 <p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
 </div></a> -->
 <li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
 </ul>
-        <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i class="material-icons search-mobile-icon" style="width:0px">search</i></a></div>
-      </div>
-    </nav>
+<div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i class="material-icons search-mobile-icon search-top-mobile" style="width:0px">search</i></a></div>
+</div>
+</nav>
     <ul class="collapsible" id="search1" style="display:none">
       <li> 
         <div class="collapsible-header">

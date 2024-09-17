@@ -388,15 +388,20 @@
     </ul>
     <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
-        <ul class="slides slides-pruea" style="height:400px">
-          <li> <img src="img/probar.jpg" style="height:400px;"/>
-            <div class="caption center-align"><br/><br/><br/><br/>
-              <h3 class="primertitulo"><b class="boldbanner">Chemical Broker</b><br/></h3><b class="segundotitulo" style="font-size:26px">Servicios</b>
+        <ul class="slides slides-pruea">
+        <div class="caption center-align" style="z-index:3;position:relative;"><br><br><br><br>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker</b><br></h1><b class="segundotitulo" style="font-size:26px;color:white;">Servicios </b>
             </div>
+          <li> 
+        
+             <video class="videos_mercados" style="border-radius:10px;" autoplay="autoplay" loop="loop" muted defaultMuted >
+                  <source class="mercadosimagen" src="../GIT_WEB/VIDEO/SERVICIOS_CB.mp4" type="video/mp4">
+                </video> 
+           
           </li>
         </ul>
       </div>
-    </div>
+
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
