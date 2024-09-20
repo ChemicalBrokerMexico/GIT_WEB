@@ -352,7 +352,7 @@ li {
     }
 
     .search-mobile-icon {
-        margin-left: -54px;
+        margin-left: -10px;
         margin-top: -41px
     }
 
@@ -1252,6 +1252,21 @@ font-size: 12px;
             display:none
         }
 
+        .breadgrasaciddestil{
+            margin-top:-20px;
+        }
+    
+        .margin-left-search-mobile-icon{
+            margin-left: -10px;
+        }
+
+        .Solvay_Bicar_Pharma{
+            width: 50%;
+        }
+
+        .HalavetLogo{
+            width:70%;
+        }
 
 }
 
@@ -1290,7 +1305,7 @@ font-size: 12px;
     }
 
     .search-mobile-icon {
-        margin-left: -54px;
+        margin-left: -10px;
         margin-top: -40px
     }
 
@@ -2112,6 +2127,18 @@ font-size: 12px;
 
      .Acidnomobile{
         display:none
+    }
+
+    .margin-left-search-mobile-icon{
+        margin-left: -10px;
+    }
+
+    .Solvay_Bicar_Pharma{
+        width: 50%;
+    }
+
+    .HalavetLogo{
+        width:70%;
     }
 
 }
@@ -4848,6 +4875,9 @@ margin-top:85px;
         display:inline-table;
     }
     
+    .HalavetLogo{
+        width:30%;
+    }
 }
 
 @media only screen and (min-width: 1750px) {
@@ -5952,7 +5982,14 @@ margin-top:85px;
         .breadbha{
             margin-top:80px;
         }
+
+        .breadgrasaciddestil{
+            margin-top:20px;
+        }
     
+        .Solvay_Bicar_Pharma{
+            width: 15%;
+        }
 
 }
 

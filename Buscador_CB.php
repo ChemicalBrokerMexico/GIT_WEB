@@ -475,7 +475,7 @@ error_reporting(
                 </li>
             </ul>
             <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#"
-                    data-target="mobile-search"><i class="material-icons search-mobile-icon"
+                    data-target="mobile-search"><i class="material-icons search-mobile-icon margin-left-search-mobile-icon"
                         style="width:0px">search</i></a></div>
         </div>
     </nav>
@@ -699,7 +699,7 @@ error_reporting(
             <div class="container" style="margin-top:150px;">
                 <div class="row">
                 <div class="input-field col s12 m12 l12 xl12">
-          <input type="text" id="Buscador_Principal" name="Buscador_Principal" placeholder="Ingrese un Valor de Busqueda"><i class="material-icons search-mobile-icon"
+          <input type="text" id="Buscador_Principal" name="Buscador_Principal" placeholder="Ingrese un Valor de Busqueda"><i class="material-icons search-mobile-icon margin-left-search-mobile-icon"
                         style="width:0px">search</i></input>
                 </div>
 

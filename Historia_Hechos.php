@@ -250,7 +250,7 @@
 </div></a> -->
 <li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
 </ul>
-<div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i class="material-icons search-mobile-icon search-top-mobile" style="width:0px">search</i></a></div>
+<div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i class="material-icons search-mobile-icon search-top-mobile" style="width:0px;margin-left:-10px">search</i></a></div>
 </div>
 </nav>
     <ul class="collapsible" id="search1" style="display:none">
@@ -399,15 +399,16 @@
           <li><img src="img/HISTORY.jpg" style="height:800px;" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
               <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Historia y Hechos</b>
+              <div class="container">
+      <section style="margin-top:30px;width:230px;"><a class="active" href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Historia & Hechos</b></a></section>
+    </div>
             </div>
           </li>
         </ul>
       </div>
     </div>
-    <div class="container">
-      <section style="margin-top:125px;width:230px;"><a class="breditem active" href="index.php" style="color:#262137 !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="breditem active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Historia & Hechos</b></a></section>
-    </div>
-    <div class="container">
+  
+    <div class="container" style="margin-top:120px;">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
           <h2 style="margin-top:0px"> <b class="Tipografia--general Subtitulos" style="color:#262137;border-bottom:1.5px solid #b12729;">Hechos </b></h2>

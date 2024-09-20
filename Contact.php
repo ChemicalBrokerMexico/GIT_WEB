@@ -256,7 +256,7 @@ recaptchaResponse.value = token;
             </div></a> -->
           <li class="ul-independiente right"><a class="btn-search-desktop1" href="#" id="busquedaprueba" onclick="abrirsearch();"><i class="material-icons left search-desktop-icon" style="color:black !important;font-size:24px;font-weight:500;position:absolute;z-index:1; margin-left: 188px;">search</i></a></li>
         </ul>
-        <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i class="material-icons search-mobile-icon" style="width:0px;margin-left:188px !important;">search</i></a></div>
+        <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i class="material-icons search-mobile-icon margin-left-search-mobile-icon" style="width:0px;margin-left:188px !important;">search</i></a></div>
       </div>
     </nav>
     <ul class="collapsible" id="search1" style="display:none">

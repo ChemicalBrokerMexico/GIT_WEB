@@ -259,7 +259,7 @@
 </div></a> -->
 <li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
 </ul>
-<div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i class="material-icons search-mobile-icon search-top-mobile" style="width:0px">search</i></a></div>
+<div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i class="material-icons search-mobile-icon search-top-mobile" style="width:0px;margin-left:-10px">search</i></a></div>
 </div>
 </nav>
 <ul class="collapsible" id="search1" style="display:none">
@@ -417,20 +417,23 @@
 <li> <img src="img/CB_QUIMICA.jpg" style="height:800px;" alt="Industria Quimica">
 <div class="caption center-align"><br><br><br><br>
 <h1 class="primertitulo"><b>Chemical Broker</b><br></h1><b class="segundotitulo">Nosotros</b>
+
+<div class="container" style="margin-top:-100px;">
+<div class="row">
+<div class="col s12 m12 l12 xl12">
+<section style="margin-top:125px"><a class="active" href="#" style="color:white !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:white;"> >&nbsp  </b></a><a class="breditem active" href="index.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Nosotros</b></a></section>
+</div>
+</div>
+</div>
+
+
 </div>
 </li>
 </ul>
 </div>
 </div>
-<div class="container">
-<div class="row">
-<div class="col s12 m12 l12 xl12">
-<section style="margin-top:125px"><a class="breditem active" href="#" style="color:#262137 !important"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Inicio&nbsp</b><b class="Tipografia--general letranegro Subtitulos"> >&nbsp  </b></a><a class="breditem active" href="index.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Nosotros</b></a></section>
-</div>
-</div>
-</div>
 
-<div class="container">
+<div class="container" style="margin-top:80px">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
 <h2 style="margin-top:-30px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;">Nosotros</b></h2>
@@ -441,7 +444,7 @@
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Y tal vez eso es realmente lo que nos diferencia. Porque para todos en <b style="color:#000020;">Chemical Broker</b>, se trata de más que simplemente lo que hacemos, se trata de la forma en como lo hacemos: una empresa, guiada por principios e impulsada por la pasión de servir mejor a nuestros proveedores y clientes, todos los días.</p>
 <h2 style="margin-top:50px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;margin-top:50px;">Enfoque de Negocios</b></h6>
 <p class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020">Chemical Broker</b> es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de ingredientes químicos.</p>
-<h2 style="margin-top:50px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;margin-top:50px;">Negocios</b></h6>
+<h2 style="margin-top:50px;"><b class="Tippxografia--general letranegro Titulos" style="color:#262137;margin-top:50px;">Negocios</b></h6>
 <p class="Tipografia--general letranegro General--Cuerpo">Nuestros negocios brindan servicio a la Industrias Farmacéutica, Alimentaria y Nutrición Humana, Cosmética y del Cuidado Personal, Veterinaria, Alimento y Nutrición Animal, Agroquímicos, Detergentes y Cuidado del Hogar y la Industria Química en general.</p>
 <h2 style="margin-top:50px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;">Proceso de Negocios:</b></h6>
 

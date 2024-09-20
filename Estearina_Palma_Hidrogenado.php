@@ -183,16 +183,7 @@
         <div class="collapsible-header Carreras_altura" style="background-color:black;color:white;border:none;padding:0;margin-right:15px;float:right;height:0px;">
           <span style="margin-left:15px"><b class="Tipografia--general Desplegables"> <a href="Carreras.php">Carreras
               </a></b></span>
-              <p>
-      <label>
-        <input type="checkbox" class="checkspanish"/>
-        <span style="margin-top:20px;" class="es">Spanish</span>
-      </label>
-      <label style="margin-right:25px;" class="en">
-        <input type="checkbox" class="checkenglish"/>
-        <span>English</span>
-      </label>
-    </p>
+             
         </div>
         <div class="collapsible-body" style="background-color:black;margin-left:-1px;margin-right:-1px">
           <div class="row">
@@ -363,7 +354,7 @@
 <li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
 </ul>
       <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i
-            class="material-icons search-mobile-icon" style="width:0px">search</i></a></div>
+            class="material-icons search-mobile-icon margin-left-search-mobile-icon" style="width:0px">search</i></a></div>
     </div>
   </nav>
   <ul class="collapsible" id="search1" style="display:none">

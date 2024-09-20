@@ -399,7 +399,7 @@
                 </li>
             </ul>
             <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#"
-                    data-target="mobile-search"><i class="material-icons search-mobile-icon"
+                    data-target="mobile-search"><i class="material-icons search-mobile-icon margin-left-search-mobile-icon"
                         style="width:0px">search</i></a></div>
         </div>
     </nav>

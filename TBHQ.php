@@ -7,7 +7,7 @@
     <title>Chemical Broker | Terbutilhidroquinona (TBHQ)</title>
     <meta name="description"
         content="Es un producto petroquímico sólido, ceroso y sintético con propiedades antioxidantes que lo hacen útil como aditivo conservador en alimentos,">
-    <link rel="canonical" href="https://chemicalbroker.mx/BHA.php">
+    <link rel="canonical" href="https://chemicalbroker.mx/TBHQ.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -457,7 +457,7 @@
 <li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
 </ul>
             <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#"
-                    data-target="mobile-search"><i class="material-icons search-mobile-icon"
+                    data-target="mobile-search"><i class="material-icons search-mobile-icon margin-left-search-mobile-icon"
                         style="width:0px">search</i></a></div>
         </div>
     </nav>

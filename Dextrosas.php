@@ -354,7 +354,7 @@
 <li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
 </ul>
       <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i
-            class="material-icons search-mobile-icon" style="width:0px">search</i></a></div>
+            class="material-icons search-mobile-icon margin-left-search-mobile-icon" style="width:0px">search</i></a></div>
     </div>
   </nav>
   <ul class="collapsible" id="search1" style="display:none">
@@ -581,44 +581,93 @@
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La Dextrosa, que se deriva del almidón de maíz, se ha convertido en un ingrediente vital en una amplia gama de aplicaciones de alimentos y bebidas, gracias a sus propiedades funcionales, sensoriales y nutricionales. Usada a menudo en combinación con azúcar u otros edulcorantes, acorta la percepción del dulzor y realza los sabores originales de alimentos y bebidas.</p>
       <table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
         <tr>
-          <td style="border:1px solid #c0c0c0;background-color:#000020;width:50%;color:white;font-size:18px"><b>Descripción Química:</b></td>
-          <td style="border:1px solid #c0c0c0;font-size:18px">Dextrosas</td>
+          <td style="border:1px solid #c0c0c0;background-color:#000020;width:;color:white;font-size:18px;text-align: center;"><b>Descripción Química:</b></td>
+         
         </tr>
+
+
         <tr>
-          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px"><b>Formula Estructural:</b></td>
-          <td style="border:1px solid #c0c0c0;" class="center-align">
+        <td style="border:1px solid #c0c0c0;font-size:18px;text-align: center;">Dextrosas</td>
+        </tr>
+
+        <tr>
+          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px;text-align: center;"><b>Formula Estructural:</b></td>
+         
+        </tr>
+
+        <tr>
+        <td style="border:1px solid #c0c0c0;" class="center-align">
             <div class="col s12 m12 l12 xl12"><img src="img/CB_DEXTROSA_ESTRUCTURA1_130323.png" alt="" style="width:20%;"></div>
             <div class="col s12 m12 l12 xl12"><img src="img/CB_DEXTROSA_ESTRUCTURA2_130323.png" alt="" style="width:20%;"></div>
           </td>
         </tr>
+
         <tr>
-          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px"><b>Formula Molecular:</b></td>
-          <td style="border:1px solid #c0c0c0;font-size:18px">C<sub>6</sub>H<sub>12</sub>O<sub>6</sub></td>
+          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px;text-align: center;"><b>Formula Molecular:</b></td>
+     
         </tr>
+
         <tr>
-          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px"><b>CAS No.:</b></td>
-          <td style="border:1px solid #c0c0c0;font-size:18px">50-99-7</td>
+        <td style="border:1px solid #c0c0c0;font-size:18px;text-align: center;">C<sub>6</sub>H<sub>12</sub>O<sub>6</sub></td>
         </tr>
+
+
         <tr>
-          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px"><b>ChEBI:</b></td>
-          <td style="border:1px solid #c0c0c0;font-size:18px">4167</td>
+          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px;text-align: center;"><b>CAS No.:</b></td>
+        
         </tr>
+
         <tr>
-          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px"><b>ChemSpider:</b></td>
-          <td style="border:1px solid #c0c0c0;font-size:18px">5589</td>
+        <td style="border:1px solid #c0c0c0;font-size:18px;text-align: center;">50-99-7</td>
         </tr>
+
         <tr>
-          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px"><b>PubChem:</b></td>
-          <td style="border:1px solid #c0c0c0;font-size:18px">5793</td>
+          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px;text-align: center;"><b>ChEBI:</b></td>
+       
         </tr>
+
         <tr>
-          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px"><b>UNII:</b></td>
-          <td style="border:1px solid #c0c0c0;font-size:18px">5SL0G7R0OK</td>
+        <td style="border:1px solid #c0c0c0;font-size:18px;text-align: center;">4167</td>
         </tr>
+
         <tr>
-          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px"><b>KEGG:</b></td>
-          <td style="border:1px solid #c0c0c0;font-size:18px">C00031</td>
+          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px;text-align: center;"><b>ChemSpider:</b></td>
         </tr>
+
+
+        <tr>
+        <td style="border:1px solid #c0c0c0;font-size:18px;text-align: center;">5589</td>
+        </tr>
+
+        <tr>
+          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px;text-align:center;"><b>PubChem:</b></td>
+      
+        </tr>
+
+
+        <tr>
+        <td style="border:1px solid #c0c0c0;font-size:18px;text-align:center;">5793</td>
+        </tr>
+
+        <tr>
+          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px;text-align:center;"><b>UNII:</b></td>
+    
+        </tr>
+
+
+        <tr>
+        <td style="border:1px solid #c0c0c0;font-size:18px;text-align:center;">5SL0G7R0OK</td>
+        </tr>
+
+        <tr>
+          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px;text-align:center;"><b>KEGG:</b></td>
+ 
+        </tr>
+
+        <tr>
+        <td style="border:1px solid #c0c0c0;font-size:18px;text-align:center;">C00031</td>
+        </tr>
+
       </table>
 
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La dextrosa cristalina está disponible como polvo en forma monohidratada o anhidra. Es un ingrediente muy utilizado para preparaciones de medio cultivo. El polvo de dextrosa también se puede utilizar como vehículo para la granulación de productos de fermentación.</p>

@@ -354,7 +354,7 @@
 <li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
 </ul>
       <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i
-            class="material-icons search-mobile-icon" style="width:0px">search</i></a></div>
+            class="material-icons search-mobile-icon margin-left-search-mobile-icon" style="width:0px">search</i></a></div>
     </div>
   </nav>
   <ul class="collapsible" id="search1" style="display:none">
@@ -575,14 +575,16 @@
   <div class="container">
     <div class="row">
         <div class="col s12 m12 l12 xl12">
-            <h2 class="letranegro Tipografia--general Titulos"><b style="color:#000020;">Bicarbonato de Sodio (Ingrediente Farmacéutico Activo)</b></h2>
+            <h2 class="letranegro Tipografia--general Titulos" style="width:294px;"><b style="color:#000020;">Bicarbonato de Sodio (Ingrediente Farmacéutico Activo)</b></h2>
         </div>
         <div class="col s12 m12 l4 xl4">
 <img src="img/bicar1.jpg" alt="" style="width:100%;border-radius:10px;">
         </div>
+        <br>
         <div class="col s12 m12 l4 xl4">
 <img src="img/bicar2.jpeg" alt="" style="width:100%;border-radius:10px;">
         </div>
+        <br>
         <div class="col s12 m12 l4 xl4">
 <img src="img/bicar3.jpg" alt="" style="width:100%;border-radius:10px;">
         </div>
@@ -595,7 +597,7 @@
             <p class="Tipografia--general letranegro General--Cuerpo"><b>Tratamiento de la acidosis.</b> - En situaciones medicas específicas, como la acidosis metabólica, el bicarbonato de sodio puede ser administrado como parte del tratamiento para corregir el desequilibrio acido -base en el cuerpo</b></p>
             <p class="Tipografia--general letranegro General--Cuerpo"><b>Alcalinización de la orina. -</b> En ciertos casos clínicos, el bicarbonato de sodio puede ser utilizado para alcalinizar la orina y ayudar en el tratamiento de ciertas condiciones médicas.</b></p>
             <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Fabricante</b></h2>
-            <img src="img/LOGO_SOLVAY.jpg" alt="" width="15%">
+            <img src="img/LOGO_SOLVAY.jpg" alt="" class="Solvay_Bicar_Pharma">
             <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Descargas</b></h2>
             <div class="col s12 m12 l6 xl6">
             <div style="border:1px solid #000020;border-radius:15px;height:500px;">

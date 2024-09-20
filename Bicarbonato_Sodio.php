@@ -355,7 +355,7 @@
 <li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
 </ul>
       <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i
-            class="material-icons search-mobile-icon" style="width:0px">search</i></a></div>
+            class="material-icons search-mobile-icon margin-left-search-mobile-icon" style="width:0px">search</i></a></div>
     </div>
   </nav>
   <ul class="collapsible" id="search1" style="display:none">
@@ -561,7 +561,7 @@
   <div class="container" style="margin-top:80px;">
     <div class="row bread_mobile">
       <div class="col s12 m12 l12 xl12">
-        <section class="breditem--inicio" style="width:350px;"><a class="breditem active" href="index.php"
+        <section class="breditem--inicio" style="width:343px;"><a class="breditem active" href="index.php"
             style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
             href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b> >
               &nbsp</b><a class="breditem active" href="Bicarbonato_Sodio.php"
@@ -584,10 +584,10 @@
           moderadamente fuerte, se descompone produciendo dióxido de carbono y agua, con una característica
           efervescencia. La reacción es la siguiente:</p>
         <ol style="margin-bottom:0px;margin-top:50px;">
-          <li style="list-style-type:disc;margin-left:-23px;width:307px;" class="Elementos--Listas"><b>NaHCO<sub>3</sub> + HCl → NaCl +
+          <li style="list-style-type:disc;margin-left:-23px;width:301px;" class="Elementos--Listas"><b>NaHCO<sub>3</sub> + HCl → NaCl +
             H<sub>2</sub>O + CO<sub>2</sub> (gas)</b></li>
             <br>
-          <li style="list-style-type:disc;margin-left:-23px;width:307px;" class="Elementos--Listas"><b>NaHCO<sub>3</sub> +
+          <li style="list-style-type:disc;margin-left:-23px;width:301px;" class="Elementos--Listas"><b>NaHCO<sub>3</sub> +
             CH<sub>3</sub>COOH → NaCH<sub>3</sub>COO + H<sub>2</sub>O + CO<sub>2</sub> (gas)</b></li>
         </ol>
         <p class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;margin-bottom:0px;">Su numero E
@@ -604,31 +604,44 @@
 
           <tr class="Tipografia--general General--Cuerpo"
             style="text-align:center;padding:10px;font-size:15px !important;">
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;text-align: center;"
               class="Tablas_Bicarsodio_Mobile">
               <b>Descripción Química:</b>
             </td>
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
+          </tr>
+
+          <tr>
+          <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9;text-align: center;"
               class="Tablas_Bicarsodio_Mobile">Bicarbonato de Sodio</td>
           </tr>
 
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;text-align: center;"
               class="Tablas_Bicarsodio_Mobile">
               <b>IUPAC:</b>
             </td>
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
+           
+          </tr>
+
+          <tr>
+          <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9;text-align: center;"
               class="Tablas_Bicarsodio_Mobile">
               Hidrogenocarbonato (IV) de Sodio</td>
           </tr>
 
+
+
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
             <td
-              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
+              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;;text-align: center;"
               class="Tablas_Bicarsodio_Mobile">
              <b>Sinónimos:</b>
             </td>
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
+          </tr>
+
+
+          <tr>
+          <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9;text-align: center;"
               class="Tablas_Bicarsodio_Mobile">
               <ol>
                 <li class="Elementos--Listas" style="list-style-type:disc;margin-left:-20px">Bicarbonato sódico</li>
@@ -638,96 +651,153 @@
               </ol>
             </td>
           </tr>
+
+
+
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;;text-align: center;"
               class="Tablas_Bicarsodio_Mobile">
               <b>Fórmula Estructural:</b>
             </td>
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
+           
+          </tr>
+
+
+          <tr>
+          <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9;text-align: center;"
               class="Tablas_Bicarsodio_Mobile center-align"><img src="img/BICARBONATOS_FORMULA-ESTRUCTURAL.png" alt=""
                 style="width:50%;"></td>
           </tr>
+
+
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;text-align: center;"
               class="Tablas_Bicarsodio_Mobile">
               <b>Fórmula Molecular</b>
             </td>
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
+    
+          </tr>
+
+          <tr>
+          <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9;text-align: center;"
               class="Tablas_Bicarsodio_Mobile">NaHCO<sub>3</sub></td>
           </tr>
 
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;text-align: center;"
               class="Tablas_Bicarsodio_Mobile">
               <b>CAS No.:</b>
             </td>
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
+        
+          </tr>
+
+
+          <tr>
+          <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9;text-align: center;"
               class="Tablas_Bicarsodio_Mobile">144-55-8</td>
           </tr>
 
 
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;text-align: center;"
               class="Tablas_Bicarsodio_Mobile">
               <b>ChEMBI:</b>
             </td>
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
+          
+          </tr>
+
+          <tr>
+          <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9;text-align: center;"
               class="Tablas_Bicarsodio_Mobile">32139</td>
           </tr>
 
+
+
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;text-align: center;"
               class="Tablas_Bicarsodio_Mobile">
               <b>ChEMBL:</b>
             </td>
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
+          </tr>
+
+          <tr>
+          <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9;text-align: center;"
               class="Tablas_Bicarsodio_Mobile">CHEMBL1353</td>
           </tr>
 
+          
+
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;">
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;text-align: center;"
               class="Tablas_Bicarsodio_Mobile">
               <b>ChemSpider:</b>
             </td>
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
+       
+          </tr>
+
+
+          <tr>
+          <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9;text-align: center;"
               class="Tablas_Bicarsodio_Mobile">8609</td>
           </tr>
 
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;;text-align: center;"
               class="Tablas_Bicarsodio_Mobile">
               <b>DrugBank:</b>
             </td>
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
+          
+          </tr>
+
+
+
+          <tr>
+          <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9;text-align: center;"
               class="Tablas_Bicarsodio_Mobile">01390</td>
           </tr>
 
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;text-align: center;"
               class="Tablas_Bicarsodio_Mobile">
               <b>PubChem:</b>
             </td>
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
+       
+          </tr>
+
+
+          <tr>
+          <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9;text-align: center;"
               class="Tablas_Bicarsodio_Mobile">516892</td>
           </tr>
 
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;text-align: center;"
               class="Tablas_Bicarsodio_Mobile">
               <b>UNII:</b>
             </td>
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9"
+           
+          </tr>
+
+
+          <tr>
+          <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9;text-align: center;"
               class="Tablas_Bicarsodio_Mobile">8MDF5V39QO</td>
           </tr>
 
           <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;"
+            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;text-align: center;"
               class="Tablas_Bicarsodio_Mobile">
               <b>KEGG:</b>
             </td>
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9;margin-bottom:0px;"
+          
+          </tr>
+
+
+          <tr>
+          <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9;margin-bottom:0px;text-align: center;"
               class="Tablas_Bicarsodio_Mobile">D01203 C12603, D01203</td>
           </tr>
+
         </table>
 
         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Obtención</b></h2>
@@ -741,11 +811,22 @@
 
           
 
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Cloruro de sodio (NaCl) + Amoníaco (NH<sub>3</sub>) +
-          Dióxido de carbono (CO<sub>2</sub>) + Agua (H<sub>2</sub>O) En la cual precipita el <b style="color:#000020;">bicarbonato de sodio</b> debido a la capacidad del
-          <b style="color:#000020;">bicarbonato de sodio</b> de liberar dióxido de carbono se usa junto con compuestos acídicos.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">El proceso Solvay es un metodo industrial ampliamente utilizado para la produccion de carbonato de sodio (soda ash), a partir del cual se obtiene bicarboanto de sodio (NAHCO<sub>3</sub>) mediante una etapa adicional, aqui se observa un resumen para obtener bicarbonato de sodio:</p>
 
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">Debido a la capacidad del bicarbonato de sodio de liberar dióxido de carbono se usa junto con compuestos acídicos y tiene diversas funciones y aplicaciones:</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">1: Reaccion inicial: Formación de bicarbonato de amonio</p>
+
+        <ol>
+          <li class="Elementos--Listas colornegro">El proceso comienza con la introducción de amoníanco (NH<sub>3</sub>) y dioxido de carbono (CO<sub>2</sub>) en una solución de salmuera (cloruro de sodio, NaCI). Se producen las siguientes reacciones:</li>
+          <br>
+          <ol>
+            <li class="Elementos--Listas">CO<sub>2</sub> se disuelve en agua, formando ácido carbónico.</li>
+            <li class="Elementos--Listas">Amoníaco reacciona con el ácido carbónico para formar bicarbonato de amonio (NH<SUB>4</SUB>HCO<sub>3)</sub></li>
+          </ol>
+        </ol>
+
+        <p class="Tipografia--general letranegro General--Cuerpo">Reacción:</p>
+
+        <span class="Tipografia--general letranegro General--Cuerpo">NH<sub>4</sub>HCO<sub>3</sub> + NaCL -> NaHCO<sub>3</sub> + NH<sub>4CL</sub></span>
 
         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Funciones:</b></h2>
 
@@ -780,15 +861,23 @@
 
         <ol>
           <li class="Elementos--Listas">Excipiente</li>
+          <br>
           <ol>
             <li class="Elementos--Listas">Tablas Efervescentes</li>
+            <br>
             <li class="Elementos--Listas">En hemodialisis para proporcionar electrolitos y estabilizar el pH</li>
           </ol>
+          <br>
           <li class="Elementos--Listas">Activo farmacéutico</li>
+          <br>
           <li class="Elementos--Listas">Hiperacidez gástrica</li>
+          <br>
           <li class="Elementos--Listas">Acidosis metabólica</li>
+          <br>
           <li class="Elementos--Listas">Alcalinizante urinario</li>
+          <br>
           <li class="Elementos--Listas">Antiácidos</li>
+          <br>
           <li class="Elementos--Listas">Neutralizador de olores</li>
         </ol>
 
@@ -796,9 +885,13 @@
 
        <ol>
         <li class="Tipografia--general letranegro Elementos--Listas">Leudante de pan . - Se utiliza como agente leudante en productos horneados como pan, pasteles y galletas</li>
+        <br>
         <li class="Tipografia--general letranegro Elementos--Listas">Regulador de pH. - Ayuda a mantener el pH adecuado en alimentos preparados y bebidas</li>
+        <br>
         <li class="Tipografia--general letranegro Elementos--Listas">Ternura de carne . - Puede usarse para ablandar carne</li>
+        <br>
         <li class="Tipografia--general letranegro Elementos--Listas">Gasificante para productos horneados</li>
+        <br>
         <li class="Tipografia--general letranegro Elementos--Listas">Fuente de dioxido de carbono para bebidas efervecentes</li>
        </ol>
 
@@ -809,11 +902,17 @@
 
         <ol>
           <li class="Tipografia--general letranegro Elementos--Listas">Exfoliante facial y corporal. - el bicarbonato de sodio se utiliza en productos exfoliantes, como limpiadores faciales o pastas de dientes, debido a su textura fina y suave, que puede ayudar a eliminar las células muertas de la piel y promover la renovación celular.</li>
+          <br>
           <li class="Tipografia--general letranegro Elementos--Listas">Shampoos en seco. - algunas personas utilizan bicarbonato de sodio para absorber el exceso de grasa en el cabello, actúa	</li>
+          <br>
           <li class="Tipografia--general letranegro Elementos--Listas">Pastas dentales. - se encuentra en algunas pastas de dientes naturales debido a sus propiedades para eliminar manchas y neutralizar olores.</li>
+          <br>
           <li class="Tipografia--general letranegro Elementos--Listas">Jabón de tocador</li>
+          <br>
           <li class="Tipografia--general letranegro Elementos--Listas">Desodorantes naturales. - se emplea en desodorantes para neutralizar los olores corporales.</li>
+          <br>
           <li class="Tipografia--general letranegro Elementos--Listas">Exfoliantes faciales y corporales. - ayuda a eliminar células muertas de la piel y a suavizarla.</li>
+          <br>
           <li class="Tipografia--general letranegro Elementos--Listas">Tratamiento de afecciones cutáneas. - el bicarbonato de sodio a menudo se utiliza en baños de inmersión para aliviar ciertas afecciones cutáneas, como la picazón y las irritaciones leves. Puede proporcionar alivio temporal.</li>
         </ol>
 

@@ -354,7 +354,7 @@
 <li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
 </ul>
       <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i
-            class="material-icons search-mobile-icon" style="width:0px">search</i></a></div>
+            class="material-icons search-mobile-icon margin-left-search-mobile-icon" style="width:0px">search</i></a></div>
     </div>
   </nav>
   <ul class="collapsible" id="search1" style="display:none">
@@ -622,62 +622,101 @@
         <h2 class="letranegro Tipografia--general Titulos"><b style="color:#000020;">Funciones:</b></h2>
         <ol style="list-style-type:disc;margin-bottom:0px;">
             <li class="Tipografia--general letranegro Elementos--Listas">Antioxidante,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Antihipertensivo,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Antidiabético,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Hipolipemiante,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Inmunomodulador,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Anticongelante,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Antimicrobiano,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Quelante,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Formador de film.</li>
         </ol>
         <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#000020;">Beneficios:</b></h2>
         <ol style="list-style-type:disc;margin-bottom:0px;">
             <li class="Tipografia--general letranegro Elementos--Listas">Mejora la firmeza y elasticidad de la piel,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Previene la aparición de arrugas, estrías y celulitis,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Fortalece las uñas y el cabello,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Previene y trata los síntomas de osteoporosis ayudando a la reparación de los huesos,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Previene el envejecimiento precoz,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Previene la aparición de úlceras gástricas,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Mejora el control de la tensión arterial debido a que ayuda a la reparación de los vasos sanguíneos,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Cuida de la articulaciones, tendones y ligamentos, sobre todo en aquellas personas que padecen artritis, lesiones de rodillas, sobre todo en deportistas, reumatismo e incluso en personas con exceso de peso</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Acelera el proceso de recuperación de las lesiones,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Mantiene la densidad de los huesos,</li>
         </ol>
         <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones:</b></h2>
         <ol style="list-style-type:disc;margin-bottom:0px;">
             <li class="Tipografia--general letranegro Elementos--Listas">Barras energéticas,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Barras proteínicas,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Sustituto de comida,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Barras de merienda,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Premixes,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Mezclas de sabores,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Aperitivos,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Panadería,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Postres,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Sopas,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Bebidas carbonatadas base agua,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Yogurt,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Bebidas Alcohólicas,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Mezclas de polvo seco,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Galletas,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Chicles.</li>
         </ol>
         <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#FF9999;font-size:25px;" class="Titulos"><center>¿Por qué utilizar Colágeno Hidrolizado?<center></b></h2>
         <ol style="list-style-type:disc;margin-bottom:0px;">
             <li class="Tipografia--general letranegro Elementos--Listas">Proceso de producción tecnológica,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Excelente solubilidad,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Termo estabilidad,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Estabilidad a los ácidos alimentarios,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Claridad perfecta,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Preparación de solución ideal en aplicaciones líquidas,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Baja viscosidad,</li>
+            <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Sabor y Olor neutro.</li>
         </ol>
         </div>
         <div class="col s12 m12 l12 xl12">
         <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#000020;" class="Titulos">Fabricante</b></h2>
-        <img src="img/HALAVET_LOGO_280723.png" alt="" width="30%">
+        <img src="img/HALAVET_LOGO_280723.png" alt=""  class="HalavetLogo">
         <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#000020;" class="Titulos">Literatura Técnica</b></h2>
         <ol style="list-style-type:disc;margin-bottom:0px;">
             <a href="PDF/CATALOGUES/HALAVET_PS_PROFIN-COLLAGEN-FINE-POWDER_010123_V02.pdf"><li class="arrowblue Tipografia--general letranegro Elementos--Listas" download>HALAVET_PS_PROFIN-COLLAGEN-FINE-POWDER_010123_V02.pdf</li></a>
