@@ -392,22 +392,20 @@
     <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li><img src="img/TORTILLAS_SNACKS_210521.jpg" alt="" style="height:400px">
+          <li><img src="img/TORTILLAS_SNACKS_210521.jpg" style="height:400px;" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">Tortillas & Snacks</b>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Tortillas & Snacks</b>
+              <div class="container">
+      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Tortillas_Snacks.php"><b class="Tipografia--general Subtitulos" style="color:red;">Tortillas & Snacks</b></a></section>
+    </div>
             </div>
           </li>
         </ul>
       </div>
     </div>
-    <div class="container">
-      <div class="row">
-        <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Tortillas_Snacks.php" style="color:red !important;margin-left:-2px"><b class="Tipografia--general Subtitulos">Tortillas & Snack</b></a></section></section>
-        </div>
-      </div>
-    </div>
-    <div class="container">
+
+
+    <div class="container" style="margin-top:120px;">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
         <p style="color:#262137" class="General--Cuerpo Tipografia--general letranegro">Los alimentos del tipo snack forman parte normal de los hábitos de consumo en la población mexicana y representa un mercado de gran dinamismo, sin embargo, este mercado no crece a pasos acelerados como podría ser el caso de otros, en México este mercado tiene un valor de USD 3.232 millones y una producción de 22.558 toneladas, Chemical Broker en conjunto con sus clientes se enfoca en la búsqueda de productos químicos, que resulten útiles en la fabricación de estos productos. </p>

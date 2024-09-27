@@ -555,8 +555,8 @@
     <div class="row ">
       <div class="col s12 m12 l12 xl12">
         <section class=""><a class="breditem active" href="index.php"
-            style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
-            href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b> >
+            style="color:white !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
+            href="Productos_news.php" style="color:white !important;margin-left:-2px"><b>Productos</b><b> >
               &nbsp</b><a class="breditem active" href="Alcoholes_Grasos.php"
               style="color:#262137 !important;margin-left:-2px"><b
                 class="Tipografia--general Subtitulos" style="color:red;">Alcoholes Grasos</b></a></section>
@@ -731,6 +731,14 @@
       </div>
 
     </div>
+
+    <a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
+
+<i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
+
+</a>
+
+
   </div>
 
 </body>

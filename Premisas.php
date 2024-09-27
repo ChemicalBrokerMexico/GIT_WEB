@@ -389,25 +389,22 @@
       </div>
     </ul>
     <div class="container-fluid">
-      <div class="slider slider-prueba" style="margin-top:0px;">
+      <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li> <img src="img/premisas.jpg" style="height:600px;filter:brightness(0.9);"/>
-            <div class="caption center-align"><br/><br/><br/><br/>
-              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker</b><br/></h1><b class="segundotitulo" style="font-size:26px;">Premisas </b>
+          <li><img src="img/premisas.jpg" style="height:800px;" alt="Historia Ascendente">
+            <div class="caption center-align"><br><br><br><br>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Premisas</b>
+              <div class="container">
+      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Premisas.php"><b class="Tipografia--general Subtitulos" style="color:red;">Premisas</b></a></section>
+    </div>
             </div>
           </li>
         </ul>
       </div>
     </div>
     
-    <div class="container">
-      <div class="row">
-        <div class="col s12 m12 l12 xl12">
-          <section style="margin-top:125px;"><a class="breditem active" href="index.php" style="color: #262137 !important;"><b>Inicio&nbsp </b><b> >&nbsp</b></a><a class="breditem active" href="Premisas.php" style="color:red !important;margin-left: -2px;"><b class="Tipografia--general Subtitulos"> Premisas   </b></a></section>
-        </div>
-      </div>
-    </div>
-    <div class="container" style="margin-top:50px">
+   
+    <div class="container" style="margin-top:150px">
       <p class="Tipografia--general letranegro General--Cuerpo">Las Premisas para <b style="color:#262137">Chemical Broker </b>son el núcleo de nuestro pensamiento organizacional, permitiéndonos actuar de igual forma con nuestros socios de negocios, así como mejorar constantemente nuestros procesos productivos y de negocios.
       </p>
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px"><b style="color:#262137">Chemical Broker </b>basa su actuar en 3 premisas morales o bases fundamentales, las cuales establecen la directriz a seguir para nuestra Organización.

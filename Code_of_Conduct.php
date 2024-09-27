@@ -391,21 +391,18 @@
     <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li style="background:cover !important;"><img src="img/CB_RULES_080223.jpg" style="height:434px;background: cover !important;" alt="Codigo de Conducta"/>
-            <div class="caption center-align"><br/><br/><br/><br/>
-              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br/></h1><b class="seguntitulo" style="font-size:26px">Codigo de Conducta</b>
+          <li><img src="img/CB_RULES_080223.jpg" style="height:434px;" alt="Historia Ascendente">
+            <div class="caption center-align"><br><br><br><br>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Codigo de Conducta</b>
+              <div class="container">
+      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Code_of_Conduct.php"><b class="Tipografia--general Subtitulos" style="color:red;">Codigo de Conducta</b></a></section>
+    </div>
             </div>
           </li>
         </ul>
       </div>
     </div>
-    <div class="container">
-      <div class="row">
-        <div class="col s12 m12 l12 xl12">
-          <section style="margin-top:125px;"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp</b><b>  >&nbsp</b><a class="breditem active" href="Code_of_Conduct.php" style="margin-left:-2px;"> <b class="Tipografia--general Subtitulos" style="color:red;">Codigo de Conducta</b></a></a></section>
-        </div>
-      </div>
-    </div>
+ 
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">

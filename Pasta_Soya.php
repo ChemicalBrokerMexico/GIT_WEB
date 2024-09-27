@@ -625,16 +625,18 @@
     </ul>
 
     <div class="container-fluid">
-        <div class="slider slider-prueba" style="margin-top:0px">
-            <ul class="slides slides-pruea">
-                <li> <img src="img/CB_PASTA_SOYA_280223.jpg" alt="" style="height:400px;">
-                    <div class="caption center-align"><br><br><br><br>
-                        <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b
-                            class="segundotitulo" style="font-size: 26px;">Pasta de Soya</b>
-                    </div>
-                </li>
-            </ul>
-        </div>
+      <div class="slider slider-prueba" style="margin-top:0px">
+        <ul class="slides slides-pruea">
+          <li><img src="img/CB_PASTA_SOYA_280223.jpg" style="height:400px;" alt="Historia Ascendente">
+            <div class="caption center-align"><br><br><br><br>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Pasta de Soya</b>
+              <div class="container">
+      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Pasta_Soya.php"><b class="Tipografia--general Subtitulos" style="color:red;">Pasta de Soya</b></a></section>
+    </div>
+            </div>
+          </li>
+        </ul>
+      </div>
     </div>
 
 
@@ -784,6 +786,14 @@
                         </a>
                     </ol>
             </div>
+
+            <a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
+
+<i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
+
+</a>
+
+
         </div>
     </div>
 

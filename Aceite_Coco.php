@@ -544,33 +544,23 @@
 
 
   <div class="container-fluid">
-    <div class="slider slider-prueba" style="margin-top:0px">
-      <ul class="slides slides-pruea">
-        <li> <img src="img/CB_ACEITE_COCO2.jpg" alt="" style="height:754px;margin-top:-350px;filter:brightness(0.9);">
-          <div class="caption center-align"><br><br><br><br>
-            <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo"
-              style="font-size: 26px;">Aceite de Coco</b>
-          </div>
-        </li>
-      </ul>
+      <div class="slider slider-prueba" style="margin-top:0px">
+        <ul class="slides slides-pruea">
+          <li><img src="img/CB_ACEITE_COCO2.jpg" style="height:400px;" alt="Historia Ascendente">
+            <div class="caption center-align"><br><br><br><br>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px"></b>
+              <div class="container">
+      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Aceite de Coco</b></a></section>
     </div>
-  </div>
-
-  <div class="container breadtop">
-    <div class="row bread_mobile">
-      <div class="col s12 m12 l12 xl12">
-        <section class="breditem--inicio"><a class="breditem active" href="index.php"
-            style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
-            href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b> >
-              &nbsp</b><a class=" active" href="Glycerins.php"
-              style="color:red !important;margin-left:-2px"><b
-                class="Tipografia--general Subtitulos">Aceite de Coco</b></a></section>
-        </section>
+            </div>
+          </li>
+        </ul>
       </div>
     </div>
-  </div>
 
-    <div class="container">
+
+
+    <div class="container" style="margin-top:140px;">
         <div class="row">
             <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020;">Aceite de Coco</b></h2>
             <p class="Tipografia--general letranegro General--Cuerpo">El Aceite de coco es un aceite vegetal derivado de la pulpa del coco (Cocos nucifera). Se obtiene mediante procesos de prensado en frio o extracción con calor de la carne blanca o la copra del coco. Es conocido por su alta concentración de ácidos grasos saturados de cadena media, especialmente acido láurico.</p>
@@ -604,8 +594,15 @@
                 <li class="Elementos--Listas" style="list-style-type:disc;">El aceite de coco se envía en contenedores, bolsas flexibles o isotanques.</li>
             </ol>
         </div>
+        <a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
+
+<i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
+
+</a>
+
     </div>
   
+    
 
 </body>
 <footer style="margin-top:70px">

@@ -401,9 +401,12 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li> <img src="img/JARABE_300524.png" alt="" style="height:655px;filter: brightness(0.9);margin-top:-254px;">
+          <li><img src="img/JARABE_300524.jpg" style="height:800px;" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size: 26px;">Glicoles</b>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Glicoles</b>
+              <div class="container">
+      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Glycols.php"><b class="Tipografia--general Subtitulos" style="color:red;">Glicoles</b></a></section>
+    </div>
             </div>
           </li>
         </ul>
@@ -411,15 +414,9 @@ gtag('config', 'G-SGJQ8FDDJ6');
     </div>
 
 
-<div class="container" style="margin-top:80px">
-<div class="row bread_mobile">
-<div class="col s12 m12 l12 xl12">
-<section class="breditem--inicio"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b>   > &nbsp</b><a class="breditem active" href="Glycols.php" style="color:red !important;margin-left:-2px"><b class="Tipografia--general Subtitulos">Glicoles</b></a></section></section>
-</div>
-</div>
-</div>
 
-<div class="container">
+
+<div class="container" style="margin-top:130px;">
     <div class="row" style="margin-bottom:0px;">
         <div class="col s12 m12 l12 xl12">
         <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Glicoles</b></h2>
@@ -514,8 +511,21 @@ Pub Chem:
             </ol>
 </div>
 </div>
+
+<a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
+
+<i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
+
+</a>
+
+
 </div>
+
+
   </div>
+
+  
+
   </div>
 
 

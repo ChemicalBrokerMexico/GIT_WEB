@@ -552,33 +552,25 @@
   </ul>
 
 
-  <div class="container-fluid">
+  </ul>
+    <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li> <img src="img/LECITINAS_4.jpg" alt="" style="height:800px;">
+          <li><img src="img/LECITINAS_4.jpg" style="height:800px;" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size: 26px;">Lecitinas</b>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Lecitinas</b>
+              <div class="container">
+      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Lecitinas</b></a></section>
+    </div>
             </div>
           </li>
         </ul>
       </div>
     </div>
 
-  <div class="container" style="margin-top:80px;">
-    <div class="row">
-      <div class="col s12 m12 l12 xl12">
-        <section class="breditem--inicio"><a class="breditem active" href="index.php"
-            style="color:#262137 !important"><b>Inicio&nbsp </b><b> > &nbsp</b></a><a class="breditem active"
-            href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b> >
-              &nbsp</b><a class="breditem active" href="Lecitinas.php"
-              style="color:red !important;margin-left:-2px"><b
-                class="Tipografia--general Subtitulos">Lecitinas</b></a></section>
-        </section>
-      </div>
-    </div>
-  </div>
 
-  <div class="container">
+
+  <div class="container" style="margin-top:120px;">
     <div class="row">
       <!-- <div class="col s12 m12 l12 xl12">
 <h5><b class="Tipografia--general letranegro Titulos">Lecitinas</b></h5>
@@ -663,6 +655,14 @@
         </ol>
 
   </div>
+
+  <a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
+
+<i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
+
+</a>
+
+
     </div>
   </div>
 

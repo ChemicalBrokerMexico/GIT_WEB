@@ -607,7 +607,7 @@
                 <ol>
                     <li style="list-style-type:disc;">Hoja Técnica de Producto</li>
                     <ol>
-                       <a href="PDF/SOLVAY_PDS_BICARPHARMA-APL_010416.pdf" download><li style="list-style-type:circle;color:#000020" class="arrowblue"">SOLVAY_PDS_BICARPHARMA-APL_010416.pdf</li></a>
+                       <a href="PDF/SOLVAY_PDS_BICARPHARMA-API_010416.pdf" download><li style="list-style-type:circle;color:#000020" class="arrowblue"">SOLVAY_PDS_BICARPHARMA-APL_010416.pdf</li></a>
                     </ol>
                 </ol>
             </div>
@@ -644,6 +644,16 @@
             
         </div>
     </div>
+
+    <br>
+
+    <a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
+
+<i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
+
+</a>
+
+
   </div>
 
  

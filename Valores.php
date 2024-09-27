@@ -390,18 +390,19 @@
     <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li><img src="img/VALUES_040222.jpg" style="height:450px;" alt="">
+          <li><img src="img/VALUES_040222.jpg" style="height:800px;" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker</b><br></h1><b class="segundotitulo" style="font-size:26px">Valores</b>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Valores</b>
+              <div class="container">
+      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Valores.php"><b class="Tipografia--general Subtitulos" style="color:red;">Valores</b></a></section>
+    </div>
             </div>
           </li>
         </ul>
       </div>
     </div>
     
-    <div class="container">
-      <section style="margin-top:125px;width:150px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Inicio&nbsp</b><b> >&nbsp</b></a><a class="Tipografia--general letranegro Subtitulos" href="Valores.php" style="color:red !important;"><b class="Tipografia--general Subtitulos"> Valores</b></a></section>
-    </div>
+   
     <div class="container" style="margin-top:20px">
       <div class="row">
         <div class="col s12 m12 l12 xl12">

@@ -542,36 +542,25 @@
     </div>
   </ul>
 
-
   <div class="container-fluid">
-    <div class="slider slider-prueba" style="margin-top:0px">
-      <ul class="slides slides-pruea">
-        <li> <img src="img/CB_BHA_291222.jpg" alt="" style="height:600px;">
-          <div class="caption center-align"><br><br><br><br>
-            <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo"
-              style="font-size: 26px;">BHA (Butilhidroxianisol)</b>
-          </div>
-        </li>
-      </ul>
+      <div class="slider slider-prueba" style="margin-top:0px">
+        <ul class="slides slides-pruea">
+          <li><img src="img/CB_BHA_291222.jpg" style="height:400px;" alt="Historia Ascendente">
+            <div class="caption center-align"><br><br><br><br>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">BHA (Butilhidroxianisol)</b>
+              <div class="container">
+      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Butilhidroxianisol</b></a></section>
     </div>
-  </div>
-
-  <div class="container breadbha">
-    <div class="row bread_mobile">
-      <div class="col s12 m12 l12 xl12">
-        <section class="breditem--inicio"><a class="breditem active" href="index.php"
-            style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
-            href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b> >
-              &nbsp</b><a class="breditem active" href="Glycerins.php"
-              style="color:red !important;margin-left:-2px"><b
-                class="Tipografia--general Subtitulos">BHA (Butilhidroxianisol)</b></a></section>
-        </section>
+            </div>
+          </li>
+        </ul>
       </div>
     </div>
-  </div>
 
 
-  <div class="container">
+
+
+  <div class="container" style="margin-top:130px;">
     <div class="row">
       <div class="col s12 m12 l12 xl12">
         <h5 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>BHA (Butilhidroxianisol)</b></h5>
@@ -597,6 +586,10 @@
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px">El BHA es soluble en grasa,
           puede combinarse bien con productos que contienen grasas vegetales o animales e impide la formación de espuma.
         </p>
+
+        <br>
+
+        <h5 class="Tipografia--general letranegro General--Cuerpo Titulos"><b>Especificaciones</b></h5>
 
         <table class="display" id="table_id2" name="table_id2"
           style="width:100%;border-spacing:2px 5px;border:none;margin:30px 0px 0px 0px">
@@ -890,6 +883,14 @@
 
       </div>
     </div>
+
+    <a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
+
+<i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
+
+</a>
+
+
   </div>
 
 </body>

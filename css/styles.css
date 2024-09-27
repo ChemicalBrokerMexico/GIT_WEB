@@ -1223,7 +1223,7 @@ font-size: 12px;
         }
 
         .Agrasosmobile{
-            display: inline-block;
+            display: inline-table;
         }
 
         .colorazucar{
@@ -2089,7 +2089,7 @@ font-size: 12px;
     }
 
     .Agrasosmobile{
-        display: inline-block;
+        display: inline-table;
     }
 
     .colorazucar{

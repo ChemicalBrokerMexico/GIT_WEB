@@ -713,7 +713,7 @@
 
           <!-- Tabla para movil 1 -->
 
-          <table border="1" style="margin-top:30px;display:inline-table" class="Agrasosmobile" id="Agrasoscoco" name="Agrasoscoco">
+          <table border="1" style="margin-top:30px;" class="Agrasosmobile" id="Agrasoscoco" name="Agrasoscoco">
             <tr>
               <td style="text-align:center;background-color:#1F3864;color: white;" class="Tipografia--general letranegro General--Cuerpo" colspan="2">FA C818D</td>
             </tr>
@@ -779,7 +779,7 @@
           
         <!-- tabla para movil 2 -->
 
-        <table border="1" style="margin-top:50px;display:inline-table" class="Agrasosmobile" id="Agrasoscoco2" name="Agrasoscoco2">
+        <table border="1" style="margin-top:50px;" class="Agrasosmobile" id="Agrasoscoco2" name="Agrasoscoco2">
             <tr>
               <td style="text-align:center;background-color:#1F3864;color:white" colspan="2" class="Tipografia--general letranegro General--Cuerpo" >FAC818H</td>
             </tr>
@@ -845,7 +845,7 @@
           <br class="Agrasosmobile">
 
           <!-- tabla para movil 3 -->
-          <table border="1" style="margin-top:50px;display:inline-table" class="Agrasosmobile" id="Agrasoscoco3" name="Agrasoscoco3">
+          <table border="1" style="margin-top:50px;" class="Agrasosmobile" id="Agrasoscoco3" name="Agrasoscoco3">
             <tr>
               <td style="text-align:center;background-color:#1F3864;color:white" class="Tipografia--general letranegro General--Cuerpo" colspan="2">FA C818DH</td>
             </tr>
@@ -911,7 +911,7 @@
 
           <!-- tabla para movil 4 -->
 
-          <table border="1" style="margin-top:50px;display:inline-table" class="Agrasosmobile" id="Agrasoscoco4" name="Agrasoscoco5">
+          <table border="1" style="margin-top:50px;" class="Agrasosmobile" id="Agrasoscoco4" name="Agrasoscoco5">
             <tr>
               <td style="text-align:center;background-color:#1F3864;color:white" class="Tipografia--general letranegro General--Cuerpo" colspan="2">FA C1218DH</td>
             </tr>
@@ -982,7 +982,7 @@
 
           <!-- tabla para movil 5 revisar porque se encuentra como espacio desperdiciado -->
 
-          <table border="1" style="margin-top:30px;display:inline-table"  class="Agrasosmobile" id="Agrasoscoco" name="Agrasoscoco">
+          <table border="1" style="margin-top:30px;"  class="Agrasosmobile" id="Agrasoscoco" name="Agrasoscoco">
             <tr>
               <td style="text-align:center;background-color:#1F3864;color:white;" class="Tipografia--general letranegro General--Cuerpo" colspan="2">FA S1884</td>
             </tr>
@@ -1071,7 +1071,7 @@
 
           <h5 class="Tipografia--general Cuerpo--General Agrasosmobile" style="color:#1F3864;margin-top:30px;width:103%;"><b>Acidos Grasos | Base Soya</b></h5>
 
-          <table border="1" style="margin-top:30px;display:inline-table;"  class="Agrasosmobile" id="Agrasosfraccionados" name="Agrasosfraccionados">
+          <table border="1" style="margin-top:30px;"  class="Agrasosmobile" id="Agrasosfraccionados" name="Agrasosfraccionados">
             <tr>
               <td style="text-align:center;background-color:#1F3864;color:white;" class="Tipografia--general letranegro General--Cuerpo" colspan="2">LC 899</td>
             </tr>
@@ -1163,7 +1163,7 @@
 
           <!-- tabla para movil 7 -->
 
-          <table border="1" style="margin-top:50px;display:inline-table" class="Agrasosmobile" id="Agrasosfraccionados2" name="Agrasosfraccionados2">
+          <table border="1" style="margin-top:50px;" class="Agrasosmobile" id="Agrasosfraccionados2" name="Agrasosfraccionados2">
             <tr>
               <td style="text-align:center;background-color:#1F3864;color:white;" class="Tipografia--general letranegro General--Cuerpo" colspan="2">LC 810L</td>
             </tr>
@@ -1251,7 +1251,7 @@
 
           <!-- tabla para movil 8 -->
 
-          <table border="1" style="margin-top:50px;display:inline-table;" class="Agrasosmobile" id="Agrasosfraccionados3" name="Agrasosfraccionados3">
+          <table border="1" style="margin-top:50px;" class="Agrasosmobile" id="Agrasosfraccionados3" name="Agrasosfraccionados3">
             <tr>
               <td style="text-align:center;background-color:#1F3864;color:white;" class="Tipografia--general letranegro General--Cuerpo" colspan="2">LC 1099</td>
             </tr>
@@ -1339,7 +1339,7 @@
 
           <!-- tabla para movil 9 Continuar Aqui -->
 
-          <table border="1" style="margin-top:50px;display:inline-table;" class="Agrasosmobile" id="Agrasosfraccionados4" name="Agrasosfraccionados4">
+          <table border="1" style="margin-top:50px;" class="Agrasosmobile" id="Agrasosfraccionados4" name="Agrasosfraccionados4">
             <tr>
               <td style="text-align:center;background-color:#1F3864;color:white" class="Tipografia--general letranegro General--Cuerpo" colspan="2">FA 1299</td>
             </tr>
@@ -1423,7 +1423,7 @@
 
             <!--tabla para movil 10  -->
 
-            <table border="1" style="margin-top:50px;display:inline-table;" class="Agrasosmobile" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
+            <table border="1" style="margin-top:50px;" class="Agrasosmobile" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
             <tr>
               <td style="text-align:center;background-color:#1F3864;color:white;" class="Tipografia--general letranegro General--Cuerpo" colspan="2">FA 1498</td>
             </tr>
@@ -1508,7 +1508,7 @@
 
                       <!--tabla para movil 11  -->
 
-          <table border="1" style="margin-top:50px;display:inline-table;" class="Agrasosmobile" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
+          <table border="1" style="margin-top:50px;" class="Agrasosmobile" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
             <tr>
               <td style="text-align:center;background-color:#1F3864;color:white" class="Tipografia--general letranegro General--Cuerpo" colspan="2">FA 1695V</td>
             </tr>
@@ -1590,7 +1590,7 @@
 
           <!-- Tabla de movil 12 -->
 
-          <table border="1" style="margin-top:50px;display:inline-table;" class="Agrasosmobile" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
+          <table border="1" style="margin-top:50px;" class="Agrasosmobile" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
             <tr>
               <td style="text-align:center;background-color:#1F3864;color:white" class="Tipografia--general letranegro General--Cuerpo" colspan="2">FA 1890V</td>
             </tr>
@@ -1674,7 +1674,7 @@
           <!-- Tabla movil 13 -->
 
           
-          <table border="1" style="margin-top:50px;display:inline-table;" class="Agrasosmobile" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
+          <table border="1" style="margin-top:50px;" class="Agrasosmobile" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
             <tr>
               <td style="text-align:center;background-color:#1F3864;color:white" class="Tipografia--general letranegro General--Cuerpo" colspan="2">FA 1655V</td>
             </tr>
@@ -1751,7 +1751,7 @@
           <!-- Tabla movil 14 -->
 
 
-          <table border="1" style="margin-top:50px;display:inline-table;" class="Agrasosmobile" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
+          <table border="1" style="margin-top:50px;" class="Agrasosmobile" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
             <tr>
               <td style="text-align:center;background-color:#1F3864;color:white" class="Tipografia--general letranegro General--Cuerpo" colspan="2">FA 1855V</td>
             </tr>
@@ -1837,7 +1837,7 @@
           
           <h5 class="Tipografia--general Cuerpo--General Agrasosmobile" style="background-color:#1F3864;color:white;padding:15px;margin-top:50px;" colspan="2">Ácido Oleico</h5>
 
-          <table border="1" style="margin-top:50px;display:inline-table;" class="Agrasosmobile" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
+          <table border="1" style="margin-top:50px;" class="Agrasosmobile" id="Agrasosfraccionados5" name="Agrasosfraccionados5">
             <tr>
               <td style="text-align:center;background-color:#1F3864;color:white" colspan="2" class="Tipografia--general letranegro General--Cuerpo">OLS 70</td>
             </tr>
@@ -3535,6 +3535,14 @@
       </div>
 
     </div>
+
+    <a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
+
+<i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
+
+</a>
+
+
   </div>
 
 </body>

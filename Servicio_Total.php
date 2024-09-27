@@ -391,22 +391,19 @@
     <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li> <img src="img/proyectoproyect_principal.jpg" style="height:750px;"/>
-            <div class="caption center-align"><br/><br/><br/><br/>
-              <h1 class="primertitulo"><b class="bolbanner">Chemica Broker</b><br/></h1><b class="seguntitulo" style="font-size:26px">Servicio Integral</b>
+          <li><img src="img/proyectoproyect_principal.jpg" style="height:800px;" alt="Historia Ascendente">
+            <div class="caption center-align"><br><br><br><br>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Servicio Intengral</b>
+              <div class="container">
+      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Servicio Integral</b></a></section>
+    </div>
             </div>
           </li>
         </ul>
       </div>
     </div>
-    <div class="container">
-      <div class="row">
-        <div class="col s12 m12 l12 xl12">
-          <section style="margin-top:125px;"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp</b><b>  >&nbsp</b></a><a class="breditem active" href="Servicio_Total.php" style="margin-left:-2px"><b class="Tipografia--general Subtitulos" style="color:red;"> Servicio Integral</b></a></section>
-        </div>
-      </div>
-    </div>
-    <div class="container">
+  
+    <div class="container" style="margin-top:150px;">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
           <p class="Tipografia--general letranegro General--Cuerpo"><b class="Tipografia--general letranegro General--Cuerpo" style="color:#262137">Chemical Broker</b> se distingue por la excelencia en sus negocios a nivel global, por medio de un <b style="color:#262137">“Servicio Integral”&nbsp</b>dirigido a nuestros socios de negocios, en la Venta de Productos Químicos, al considerar los siguientes fundamentos: 

@@ -879,6 +879,14 @@ recaptchaResponse.value = token;
        <!-- Modal Trigger -->
 
 
+       <!-- Boton de whatsapp -->
+
+       <a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
+
+       <i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
+
+       </a>
+
 <!-- Modal Structure -->
 <div id="modalContact" class="modal" style="border-radius: 10px;">
   <div class="modal-content">

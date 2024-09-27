@@ -393,22 +393,19 @@
     <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li><img src="img/CAPSULAS_BLANDAS_280421.jpeg" alt="" style="height:650px">
+          <li><img src="img/CAPSULAS_BLANDAS_280421.jpeg" style="height:800px;" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">Tabletas Blandas </b>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Tabletas Blandas</b>
+              <div class="container">
+      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Tabletas_Blandas.php"><b class="Tipografia--general Subtitulos" style="color:red;">Tabletas Blandas</b></a></section>
+    </div>
             </div>
           </li>
         </ul>
       </div>
     </div>
-    <div class="container">
-      <div class="row">
-        <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="pharmaceutical.php" style="color:#262137 !important;margin-left:-2px"><b>Farmaceutica</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Tabletas_Blandas.php" style="color:red !important;margin-left:-2px"><b class="Tipografia--general Subtitulos">Tabletas Blandas</b></a></section></section>
-        </div>
-      </div>
-    </div>
-    <div class="container">
+
+    <div class="container" style="margin-top:130px;">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
           <p class="Tipografia--general letranegro General--Cuerpo">Son una forma de dosificación oral que consiste en una cubierta externa suave y flexible, generalmente hecha de gelatina o material polimerico, que contiene el medicamento líquido, semisólido o en forma de gel. Esta cubierta proporciona una barrera protectora para el medicamento y facilita su ingestión </p>
@@ -425,8 +422,11 @@
           <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Aplicaciones en la industria farmacéutica: Las capsulas blandas se utilizan para una amplia gama de medicamentos, incluidos analgésicos, vitaminas, suplementos dietéticos, aceites esenciales y productos farmacéuticos especializados. También son populares para medicamentos de venta libre y productos nutracéuticos.</p>
           <ol style="margin-top:30px;">
             <li class="Elementos--Listas">Contener fármacos sin que se perciba su olor</li>
+            <br>
             <li class="Elementos--Listas">Tamaño de 5mm a 2cm</li>
+            <br>
             <li class="Elementos--Listas">Dosificar líquidos o pastas que no disuelvan sus paredes</li>
+            <br>
             <li class="Elementos--Listas">Dosificar sólidos, disueltos o dispersados en un excipiente adecuado</li>
           </ol>
 
