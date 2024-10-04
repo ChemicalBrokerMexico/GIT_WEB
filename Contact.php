@@ -405,22 +405,19 @@ recaptchaResponse.value = token;
     <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li> <img src="img/CB_CONTACTO_050624.jpg" style="height:592px;margin-top:-100px;filter: brightness(0.9);">
+          <li><img src="img/CB_CONTACTO_050624.jpg" style="height:400px;filter:brightness(0.8);" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h3 class="primertitulo"><b class="boldbanner">Chemical Broker</b><br></h3><b class="segundotitulo" style="font-size:26px">Contacta con Nuestro Equipo de Especialistas </b>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Contacta con un Especialista</b>
+              <div class="container">
+      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Contacto</b></a></section>
+    </div>
             </div>
           </li>
         </ul>
       </div>
     </div>
-    <div class="container">
-      <div class="row">
-        <div class="vcol s12 m12 l12 xl12">
-          <section style="margin-top:125px;width:150px"><a class="breditem active" href="index.php" style="color: #000020 !important;"><b>Inicio &nbsp</b><b>  >&nbsp</b></a><a class="breditem active" href="Contact.php" style="color:red !important;margin-left: -2px;"><b class="Tipografia--general Subtitulos">Contacto</b></a></section>
-        </div>
-      </div>
-    </div>
-    <div class="container">
+
+    <div class="container" style="margin-top:130px;">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
           <p class="Tipografia--general letranegro General--Cuerpo ">Bienvenido a <b style="color: #000020;">Chemical Broker</b>, para solicitar información sobre nuestros productos o servicios, por favor contáctenos vía: 

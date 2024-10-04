@@ -673,38 +673,23 @@
             </div>
         </div>
     </ul>
+  
     <div class="container-fluid">
-        <div class="slider slider-prueba" style="margin-top: 0px; height: 440px;">
-            <ul class="slides slides-pruea" style="height: 400px;">
-                <li class="active" style="opacity: 1;"><img class="mercadosimagen"
-                        src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
-                        style="height: 450px; margin-top: 0px; background-image: url(&quot;img/probar2.jpg&quot;);">
-                    <div class="caption center-align" style="opacity: 1; transform: translateX(0px) translateY(0px);">
-                        <br><br><br><br>
-                        <h3 class="primertitulo"><b class="boldbanner">Chemical Broker</b><br></h3><b
-                            class="seguntitulo" style="font-size:26px">Certificaciones</b>
-                    </div>
-                </li>
-            </ul>
-            <ul class="indicators">
-                <li class="indicator-item active"></li>
-            </ul>
-        </div>
+      <div class="slider slider-prueba" style="margin-top:0px">
+        <ul class="slides slides-pruea">
+          <li><img src="img/probar2.jpg" style="height:800px;" alt="Historia Ascendente">
+            <div class="caption center-align"><br><br><br><br>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Certificaciones</b>
+              <div class="container">
+      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Cumplimiento.php"><b class="Tipografia--general Subtitulos" style="color:white;">Cumplimiento > </b></a><a class="active" href="Marco_Regulatorio.php"><b class="Tipografia--general Subtitulos" style="color:red;">Certificaciones</b></a></section>
     </div>
-    <div class="container">
-        <div class="row">
-            <div class="col s12 m12 l12 xl12">
-                <section style="margin-top:125px"><a class="breditem active" href="index.php"
-                        style="color:#262137 !important"><b>Inicio&nbsp; </b><b> &gt;&nbsp;</b></a><a
-                        class="breditem active" href="Certificaciones.php"
-                        style="color:red !important;margin-left:-2px"><b
-                            class="Tipografia--general Subtitulos">&nbsp;Certificaciones</b></a>
-                </section>
             </div>
-        </div>
+          </li>
+        </ul>
+      </div>
     </div>
 
-    <div class="container center-align" style="width:93% !important;">
+    <div class="container center-align" style="width:93% !important;margin-top:130px;">
         <div class="row">
             <div class="col s12 m12 l12 xl12;center-align">
                 <ul class="Tipografia--general;center-align">

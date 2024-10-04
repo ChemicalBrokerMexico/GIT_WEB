@@ -586,35 +586,26 @@
     </div>
   </ul>
 
-  <div class="row">
-<div class="slider slider-prueba">
-<ul class="slides">
-<li> <img src="img/CADENA_SUMINISTRO_BANNER_040123.jpg" style="height:600px;" alt="Industria Quimica">
-<div class="caption center-align"><br><br><br><br>
-<h3 class="primertitulo"><b>Chemical Broker</b><br></h3><b class="segundotitulo">Cadena de Suministro</b>
-</div>
-</li>
-</ul>
-</div>
-</div>
-
-
-
-
-
-  <div class="container">
-    <div class="row">
-      <div class="col s12 m12 l12 xl12">
-        <section class="breadcumb--general-cadena_suministro"><a class="breditem active" href="index.php"
-            style="color:#262137 !important"><b>Inicio&nbsp </b><b> >&nbsp </b></a><a class="breditem active"
-            href="Servicios.php" style="color:#262137 !important"><b>Servicios&nbsp </b><b> >&nbsp </b></a><a
-            class="breditem active" href="CADENA_SUMINISTRO.php" style="color:#262137 !important"><b
-              class="breadcrumb">Cadena de Suministro</b></a></section>
+  <div class="container-fluid">
+      <div class="slider slider-prueba" style="margin-top:0px">
+        <ul class="slides slides-pruea">
+          <li><img src="img/CADENA_SUMINISTRO_BANNER_040123.jpg" style="height:800px;" alt="Historia Ascendente">
+            <div class="caption center-align"><br><br><br><br>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Cadena de Suministro</b>
+              <div class="container">
+      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Servicios.php"><b class="Tipografia--general Subtitulos" style="color:white;">Servicios > </b></a><a class="active" href="Cadena_Suministro.php"><b class="Tipografia--general Subtitulos" style="color:red;">Cadena de Suministro</b></a></section>
+    </div>
+            </div>
+          </li>
+        </ul>
       </div>
     </div>
-  </div>
 
-  <div class="container">
+
+
+
+
+  <div class="container" style="margin-top:130px;">
     <div class="row">
       <div class="col s12 m12 l12 xl12">
         <!-- <h5 class="colornegro Tipografia--general General--Cuerpo" style="text-align:center;font-size:24px"><b
