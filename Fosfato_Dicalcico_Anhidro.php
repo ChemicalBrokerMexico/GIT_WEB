@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">
-    <link rel="canonical" href="https://chemicalbroker.mx/index.php">
+    <link rel="canonical" href="https://chemicalbroker.mx/Fosfato_Dicalcico_Anhidro.php">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
     <link rel="stylesheet" href="css/History_Line.css?n=1">
     <link rel="stylesheet" href="css/jquery.dataTables.min.css">
@@ -454,7 +454,7 @@
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h5>
 
-      <p class="Tipografia--general letranegro General--Cuerpo"><b>El fosfato dicálcico anhidro</b> (CaHPO₄) tiene diversas aplicaciones en múltiples industrias debido a sus propiedades químicas y físicas. Aquí se detallan algunas de las principales aplicaciones:</p>
+      <p class="Tipografia--general letranegro General--Cuerpo"><b>El Fosfato Dicálcico Anhidro</b> (CaHPO₄) tiene diversas aplicaciones en múltiples industrias debido a sus propiedades químicas y físicas. Aquí se detallan algunas de las principales aplicaciones:</p>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria</b></h5>
 
@@ -506,7 +506,7 @@
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:black;margin-top:50px;"><b>Específicaciones</b></h5>
 
-  <div style="background-color:#FF6600;">
+  <div style="background-color:#FF6600;margin-top:50px;">
     <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:white;"><b>Fosfato Di Cálcico Anhidro (FDCA) | Grado Alimentos</b></h5>
   </div>
 

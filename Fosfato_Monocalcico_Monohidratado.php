@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">
-    <link rel="canonical" href="https://chemicalbroker.mx/index.php">
+    <link rel="canonical" href="https://chemicalbroker.mx/Fosfato_Monocalcico_Monohidratado.php">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
     <link rel="stylesheet" href="css/History_Line.css?n=1">
     <link rel="stylesheet" href="css/jquery.dataTables.min.css">
@@ -440,7 +440,7 @@
 </div>
 
     <div class="row">
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El Fosfato Monocálcico Monohidratado (MCP, por sus siglas en inglés) es una forma de fosfato de calcio con la fórmula química Ca(H₂PO₄)₂·H₂O. Se utiliza ampliamente en diversas aplicaciones debido a sus propiedades químicas y físicas. Aquí hay algunos detalles sobre este compuesto:</p>
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b style="color:#000020;">Fosfato Monocálcico Monohidratado</b> (MCP, por sus siglas en inglés) es una forma de fosfato de calcio con la fórmula química Ca(H₂PO₄)₂·H₂O. Se utiliza ampliamente en diversas aplicaciones debido a sus propiedades químicas y físicas. Aquí hay algunos detalles sobre este compuesto:</p>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Caracteristicas y Propiedades</b></h5>
 
@@ -453,7 +453,7 @@
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h5>
 
-<p class="Tipografia--general letranegro General--Cuerpo">El fosfato monocálcico monohidratado (MCP) tiene una amplia gama de aplicaciones en diferentes industrias debido a sus propiedades químicas y su solubilidad en agua. A continuación, se detallan las principales aplicaciones de este compuesto:</p>
+<p class="Tipografia--general letranegro General--Cuerpo">El Fosfato Monocálcico Monohidratado (MCP) tiene una amplia gama de aplicaciones en diferentes industrias debido a sus propiedades químicas y su solubilidad en agua. A continuación, se detallan las principales aplicaciones de este compuesto:</p>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria</b></h5>
 
@@ -505,9 +505,9 @@
     <li class="Elementos--Listas" style="margin-top:30px;">Fabricación de Vidrio y Cerámicas: Puede ser utilizado en la fabricación de ciertos tipos de vidrio y productos cerámicos, mejorando las propiedades de los materiales finales.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:0px;"><b style="color:#000020;">Caracteristicas:</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Caracteristicas:</b></h5>
 
-<div style="background-color:#FF6600;">
+<div style="background-color:#FF6600;margin-top:50px;">
     <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:white;"><b>Fosfato Mono Cálcico Anhidro (MCP) | Grado Alimentos</b></h5>
   </div>
 

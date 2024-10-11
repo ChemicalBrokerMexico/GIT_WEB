@@ -561,7 +561,7 @@ recaptchaResponse.value = token;
   <div class="container">
     <div class="row">
       <div class="col s12 m12 l12 xl12">
-        <center><h2 class="Tipografia--general" style="color:#2279dfa4;font-size:30px"><b>“Calidad en cada ingrediente; Nuestro compromiso con la excelencia farmacéutica”</b></h2></center>
+        <center><h2 class="Tipografia--general-slogans" style="color:#2279dfa4;"><b>“Calidad en cada ingrediente; Nuestro compromiso con la excelencia farmacéutica”</b></h2></center>
         <p class="Tipografia--general General--Cuerpo" style="color:#262137;margin-top:50px;margin-bottom:0px;">La Industria <b style="color:#000020;">Farmacéutica</b> provee al mundo
           soluciones que permiten preservar la salud humana y mejorar su calidad de vida.</p>
         <p class="Tipografia--general General--Cuerpo" style="color:#262137;margin-top:50px;margin-bottom:0px;"><b style="color:#000020;">Chemical Broker</b> ofrece un amplio
@@ -571,7 +571,7 @@ recaptchaResponse.value = token;
         <p class="Tipografia--general General--Cuerpo" style="color:#262137;margin-bottom:0px;">En la fabricación de medicamentos para
           una mejor calidad de vida, los Excipientes, son las sustancias responsables de que los Activos cumplan con su
           cometido al ser mezclados entre sí y pueden constituir el 90% de la composición total de un medicamento:</p>
-        <h2 class="Tipografia--general center-align" style="color:#262137;margin-top: 50px;margin-bottom:0px;font-size:30px"><b style="font-size:30px;margin-top: 30px;color:#2279dfa4;">Los excipientes
+        <h2 class="Tipografia--general-slogans center-align" style="color:#262137;margin-top: 50px;margin-bottom:0px;"><b style="margin-top: 30px;color:#2279dfa4;">Los excipientes
             funcionan como vehículo para darle cuerpo, textura, forma y conservación al principio activo, facilitando su
             ingesta y regulando su actividad en el organismo.</b></h2>
 
@@ -649,7 +649,7 @@ recaptchaResponse.value = token;
             <div class="transfo" id="overlay" style="border-radius:10px"></div>
             <div class="centrado_sub" style="position:absolute;z-index:2">
               <h2 class="titulo_submercado"></h2><b class="titulo_submercado"> <span
-                  style="position:relative;z-index:2">Tabletas Duras </span></b><b> </b>
+                  style="position:relative;z-index:2">Tabletas<br>Duras </span></b><b> </b>
               <hr class="animacion" />
               <p> <b style="color:white !important">
                   <p class="leer_mas_mercados center-align"> Leer Más</p>
@@ -662,7 +662,7 @@ recaptchaResponse.value = token;
             <div class="transfo" id="overlay" style="border-radius:10px"></div>
             <div class="centrado_sub" style="position:absolute;z-index:2">
               <h2 class="titulo_submercado"></h2><b class="titulo_submercado"> <span
-                  style="position:relative;z-index:2">Tabletas Blandas </span></b><b> </b>
+                  style="position:relative;z-index:2">Tabletas<br>Blandas </span></b><b> </b>
               <hr class="animacion" />
               <p> <b style="color:white !important">
                   <p class="leer_mas_mercados center-align"> Leer Más</p>
@@ -702,7 +702,7 @@ recaptchaResponse.value = token;
             <div class="transfo" id="overlay" style="border-radius:10px"></div>
             <div class="centrado_sub" style="position:absolute;z-index:2">
               <h2 class="titulo_submercado"></h2><b class="titulo_submercado"> <span
-                  style="position:relative;z-index:2">Suplementos Alimenticios</span></b><b> </b>
+                  style="position:relative;z-index:2">Suplementos<br>Alimenticios</span></b><b> </b>
               <hr class="animacion" />
               <p> <b style="color:white !important">
                   <p class="leer_mas_mercados center-align"> Leer Más </p>
@@ -852,7 +852,7 @@ recaptchaResponse.value = token;
     </div>
   </div> -->
   <footer class="altofooter">
-    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png"
+    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
         alt="" /></div><br /><br />
     <div class="container-fluid center-align" style="margin-top:-50px">
       <p class="Tipografia--general letranegro center-align Pie--Pagina">© 2014 C&E | Chemical Broker Todos los Derechos

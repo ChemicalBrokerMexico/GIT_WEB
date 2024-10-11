@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">
-    <link rel="canonical" href="https://chemicalbroker.mx/index.php">
+    <link rel="canonical" href="https://chemicalbroker.mx/Fosfato_Monocalcico_Anhidro.php">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
     <link rel="stylesheet" href="css/History_Line.css?n=1">
     <link rel="stylesheet" href="css/jquery.dataTables.min.css">
@@ -508,7 +508,7 @@
 
 
 
-<div style="background-color:#FF6600;">
+<div style="background-color:#FF6600;margin-top:30px;">
     <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:white;"><b>Fosfato Mono Cálcico Anhidro (MCP) | Grado Alimentos</b></h5>
   </div>
 
@@ -520,75 +520,75 @@
     <th style="color:#FF6600;text-align:center;" class="Tipografia--general General--Cuerpo"><b>Fosfato Mono Cálcico Anhidro (MCP) | Grado Alimentos</b></th>
     </tr>
     <tr>
-      <td  class="Tipografia--general General--Cuerpo">Grado:</td>
+      <td  class="Tipografia--general General--Cuerpo" style="text-align:center;">Grado:</td>
       <td  class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Alimentos</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Certificaciones:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center;">Certificaciones:</td>
 <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Kosher | Halal</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">CAS:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center;">CAS:</td>
 <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>7558-79-4</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">EINECS:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center;">EINECS:</td>
 <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>231-448-7</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Formula:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center;">Formula:</td>
 <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Na2HPO4</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Peso Molecular:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center;">Peso Molecular:</td>
 <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>142</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Apariencia:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center;">Apariencia:</td>
 <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Polvo Blanco</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Ensayo (K2HPO4) (%):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center;">Ensayo (K2HPO4) (%):</td>
 <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>98.0 Min</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Perdida por ignición (%):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center;">Perdida por ignición (%):</td>
 <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>5.0 Max.</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Insoluble en Agua (%):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center;">Insoluble en Agua (%):</td>
 <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>0.2 Max</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">pH (solución de 10 g/L):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center;">pH (solución de 10 g/L):</td>
 <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>8.8 – 9.4</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Fluoruro (F) (ppm):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center;">Fluoruro (F) (ppm):</td>
 <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>50 Max</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Plomo (Pb) (ppm):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center;">Plomo (Pb) (ppm):</td>
 <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>4 Max.</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Arsénico (As) (ppm):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center;">Arsénico (As) (ppm):</td>
 <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>10 Max.</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Metales Pesados (Pb) (ppm):</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center;">Metales Pesados (Pb) (ppm):</td>
 <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Sacos 25 Kg.</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Presentación:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center;">Presentación:</td>
 <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Sacos 25 Kg.</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Vida de Anaquel:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center;">Vida de Anaquel:</td>
 <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>24 meses</b></td>
     </tr>
     <tr>
-<td class="Tipografia--general General--Cuerpo">Aplicaciones:</td>
+<td class="Tipografia--general General--Cuerpo" style="text-align:center;">Aplicaciones:</td>
 <td class="Tipografia--general General--Cuerpo" style="text-align: center;"><b>Se utiliza como mejorador de la calidad, emulsionante, potenciador de la nutrición, coadyuvante de la fermentación y aglutinante en la industria alimentaria.</b></td>
     </tr>
   </table>

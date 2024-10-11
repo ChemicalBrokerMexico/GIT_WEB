@@ -382,38 +382,48 @@
         </div>
       </div>
     </ul>
-    <div class="container-fluid">
-      <div class="slider slider-prueba" style="margin-top:0px">
-        <ul class="slides slides-pruea">
-          <li> <img src="img/CB_QUALITY_090223.jpg" alt="" style="height:400px;filter:brightness(0.9)">
-            <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size: 26px;">Política de Calidad</b>
-            </div>
-          </li>
-        </ul>
-      </div>
-    </div>
-    <div class="container">
-      <div class="row">
-        <div class="col s12 m12 l12 xl12">
-          <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   >&nbsp</b></a><a class="breditem active" href="Antioxidantes.html" style="color:red !important;margin-left:-2px"><b class="Tipografia--general Subtitulos ">Política de Calidad</b></a></section></section>
-        </div>
-      </div>
-    </div>
+   <div class="row">
+<div class="slider slider-prueba">
+<ul class="slides">
+<li> <img src="img/CB_QUALITY_090223.jpg" style="height:400px;" alt="Industria Quimica">
+<div class="caption center-align"><br><br><br><br>
+<h1 class="primertitulo"><b>Chemical Broker</b><br></h1><b class="segundotitulo">Política de Calidad</b>
+
+<div class="container" style="margin-top:-100px;">
+<div class="row">
+<div class="col s12 m12 l12 xl12">
+<section style="margin-top:125px"><a class="active" href="#" style="color:white !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:white;"> >&nbsp  </b></a><a class="breditem active" href="Política_Calidad.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Política de Caidad</b></a></section>
+</div>
+</div>
+</div>
+
+
+</div>
+</li>
+</ul>
+</div>
+</div>
+
     
-    <div class="container">
+    <div class="container" style="margin-top:130px;">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
                 <h2 class="Tipografia--general Titulos top--lecitinas center-align"><b style="color:#000020;font-size:22px;">Política de Calidad</b></h2>
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Para <b style="color:#000020;font-size:16px">Camacho & Elizondo S.A de C.V.</b> nuestro compromiso es lograr la satisfacción de las necesidades de nuestros socios de negocios y su desarrollo a través de la comercialización de ingredientes químicos, para las industrias: Farmacéutica, Nutrición Humana, Veterinaria, Nutrición Animal, Cosmética, Cuidado Personal, Agroquímicos, Detergentes, Cuidado del Hogar e Industria Química en general, para cumplir con el marco regulatorio, normas y políticas aplicables, con el principal objetivo de lograr la mejora continua de nuestros procesos y nuestro Sistema de Gestión Integral.</p>
-                <h2 class="Tipografia--general Titulos top--lecitinas center-align"><b style="color:#000020;font-size:22px;">Objetivos de Calidad</b></h2>
+                <h2 class="Tipografia--general Titulos top--lecitinas center-align" style="margin-top:50px;"><b style="color:#000020;font-size:22px;">Objetivos de Calidad</b></h2>
                 <ol style="list-style-type: disc;margin-top:50px;margin-bottom:0px;">
                     <li class="Tipografia--general letranegro" style="list-style-type:disc;">Mantener la satisfacción del Cliente.</li>
+                    <br>
                     <li class="Tipografia--general letranegro" style="list-style-type:disc;">Mantener la rentabilidad del negocio.</li>
+                    <br>
                     <li class="Tipografia--general letranegro" style="list-style-type:disc;">Crecimiento en ventas anuales.</li>
+                    <br>
                     <li class="Tipografia--general letranegro" style="list-style-type:disc;">Mejorar continuamente el resultado de nuestros procesos de nuestro Sistema de Gestión Integral.</li>
+                    <br>
                     <li class="Tipografia--general letranegro" style="list-style-type:disc;">Promover el desarrollo personal y profesional de los  miembros de la Organización.</li>
+                    <br>
                     <li class="Tipografia--general letranegro" style="list-style-type:disc;">Mejora continua del Sistema de Gestión Integrado.</li>
+                    <br>
                     <li class="Tipografia--general letranegro" style="list-style-type:disc;">Cumplir con el marco legal regulatorio; normas y políticas aplicables. </li>
                 </ol>
             </div>
@@ -423,7 +433,7 @@
     </div>
   </body>
   <footer style="margin-top:70px">
-    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""></div><br><br>
+    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg" alt=""></div><br><br>
     <div class="container-fluid" style="text-align:center;margin-top:-50px">
       <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad  </a>
             <script type="text/javascript" src="js/main.js"></script></a></strong></p>

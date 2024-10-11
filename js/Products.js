@@ -229,6 +229,18 @@ $(document).ready(function(){
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Ferrazone.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
+
+    <div class="row" style="margin-top:150px;"> 
+    <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img/COLLAGE_FOSFATOS_140824.jpg" alt="" class="zoom IMG_Seccion_Prod" style="100%">
+    </div>
+    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
+    <h5 class="Tipografia--general Titulos"><b>Fosfatos</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">Los Fosfatos son un grupo de sustancias químicas que contienen el ion fosfato, PO₄³⁻. Estos compuestos se derivan del ácido fosfórico (H₃PO₄) y se utilizan en una amplia variedad de aplicaciones. A continuación, se ofrece una descripción detallada de los ingredientes y tipos de Fosfatos, junto con sus usos y funciones:</p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Fosfatos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
     
     
     <div class="row" style="margin-top:70px;display:none">
@@ -687,6 +699,18 @@ function filtroall(){
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro">El Ferrazone® (Ácido Etilendiaminotetraacético (EDTA) Férrico y de Sodio) es apto para uso alimentario y ha sido recomendado por la Organización Mundial de la Salud como el único suplemento de hierro adecuado para la fortificación masiva de harinas de cereales con alto contenido de fitatos y también se recomienda para condimentos como salsa de soja y salsa de pescado. Ferrazone® se utiliza en iniciativas de enriquecimiento de alimentos a gran escala en África, América Latina, Asia y Medio Oriente.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Ferrazone.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
+    <div class="row" style="margin-top:150px;"> 
+    <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img/COLLAGE_FOSFATOS_140824.jpg" alt="" class="zoom IMG_Seccion_Prod" style="100%">
+    </div>
+    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
+    <h5 class="Tipografia--general Titulos"><b>Fosfatos</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">Los Fosfatos son un grupo de sustancias químicas que contienen el ion fosfato, PO₄³⁻. Estos compuestos se derivan del ácido fosfórico (H₃PO₄) y se utilizan en una amplia variedad de aplicaciones. A continuación, se ofrece una descripción detallada de los ingredientes y tipos de Fosfatos, junto con sus usos y funciones:</p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Fosfatos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
     
@@ -1184,6 +1208,20 @@ function filtrof(){
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Ferrazone.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
+
+
+    <div class="row" style="margin-top:150px;"> 
+    <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img/COLLAGE_FOSFATOS_140824.jpg" alt="" class="zoom IMG_Seccion_Prod" style="100%">
+    </div>
+    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
+    <h5 class="Tipografia--general Titulos"><b>Fosfatos</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">Los Fosfatos son un grupo de sustancias químicas que contienen el ion fosfato, PO₄³⁻. Estos compuestos se derivan del ácido fosfórico (H₃PO₄) y se utilizan en una amplia variedad de aplicaciones. A continuación, se ofrece una descripción detallada de los ingredientes y tipos de Fosfatos, junto con sus usos y funciones:</p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Fosfatos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
     `;
 }
 

@@ -562,12 +562,12 @@
   <div class="container" style="margin-top:130px;">
     <div class="row">
       <div class="col s12 m12 l12 xl12">
-        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Glicerinas</b></h2>
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b style="border-bottom:3px solid red;">Glicerinas</b></h2>
 
         <p class="Tipografia--general letranegro General--Cuerpo"><b>Chemical Broker</b> distribuye mundialmente
           Glicerina de la más alta Pureza y Calidad para las formulaciones de nuestros clientes.</p>
 
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Hoy en dia nuestra oferta incluye glicerina en
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Hoy en dia nuestra oferta incluye Glicerina en
           cumplimiento a <b style="color:#000020;">GMP´s, Kosher, Halal, GFSI, FCC, USP, RSPO Mass Balance.</b></p>
 
           <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>¿Que es la Glicerina?</b></h5>
@@ -577,13 +577,13 @@
           saponificados, hidrolizados o transesterificados. Al recuperarse en estado crudo, se refina mediante
           destilación.</p>
 
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Cualidades Fisicas</b>.- Físicamente, la glicerina
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Cualidades Fisicas</b>.- Físicamente, la Glicerina
           es
           soluble en agua, transparente, incolora e inodora, de sabor dulce y líquido viscoso con un alto punto de
           ebullición.</p>
 
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Cualidades Químicas</b>.- quimicamente, la
-          glicerina es un
+          Glicerina es un
           alcohol trihídrico capaz de ser reaccionado pero estable en la mayoría de las condiciones.</p>
 
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La <b>Glicerina</b>, también conocida como
@@ -596,15 +596,14 @@
           higroscópico e inodoro. Posee un coeficiente de viscosidad alto y tiene un sabor dulce como otros
           polialcoholes.</p>
 
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La glicerina es una de las sustancias que intervienen
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La Glicerina es una de las sustancias que intervienen
           en los procesos de transferencia de tejido adiposo y glucosa entre diversos aparatos del organismo y que
           forman parte de las membranas celulares. Es un compuesto químico dulce y viscoso – cuya fórmula es C₃H₈O₃ que
           ha sido utilizado desde la antigüedad como ingrediente fundamental del jabón.</p>
 
         <blockquote class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">(1) El <b>ciclo de
             Krebs</b> (<b>ciclo del ácido cítrico o ciclo de los ácidos tricarboxílicos</b>), es una ruta metabólica, es
-          decir, una
-          sucesión de reacciones químicas, que forma parte de la respiración celular en todas las células aeróbicas.
+          decir, una sucesión de reacciones químicas, que forma parte de la respiración celular en todas las células aeróbicas.
         </blockquote>
 
         <h2 class="Tipografia--general letranegro General--Cuerpo Titulos" style="margin-top:50px;"><b>Información Técnica Glicerina</b></h2>
@@ -779,7 +778,6 @@
           <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;text-align:center;" class="Tablas_Productos_Glicerina">09462</td>
           </tr>
 
-
           <tr class="Tipografia--general General--Cuerpo"
             style="padding:10px;font-size:15px !important;width:150px;">
             <td
@@ -828,28 +826,28 @@
       </div>
       <div class="col s12 m12 l12 xl12">
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Debido a estas propiedades, a su buena compatibilidad
-          con muchas otras sustancias y su facilidad de procesamiento, la glicerina se utiliza en muchas áreas.</p>
+          con muchas otras sustancias y su facilidad de procesamiento, la Glicerina se utiliza en muchas áreas.</p>
       </div>
       <div class="col s12 m12 l12 xl12">
-      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Presencia en Ácidos Grasos</b>
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Presencia de la Glicerina en Ácidos Grasos</b>
         </h2>
 
         <ol style="list-style-type: disc;margin-bottom:0px">
 
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">El glicerol está presente en todos los aceites,
-            grasas animales y vegetales en forma combinada, es decir, vinculado a los ácidos grasos como el ácido
-            esteárico, ácido oleico, ácido palmítico y ácido láurico para formar una molécula de triglicéridos. </li>
+          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">El Glicerol está presente en todos los aceites,
+            grasas animales y vegetales en forma combinada, es decir, vinculado a los Ácidos Grasos como el Ácido
+            Esteárico, Ácido Oleico, Ácido Palmítico y Ácido Láurico para formar una molécula de Triglicéridos. </li>
 
           <br>
 
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Los aceites de coco y de palma contienen una
-            cantidad elevada (70% - 80%) de ácidos grasos de cadena de carbono 6 a 14 átomos de carbono.</li>
+          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Los Aceites de Coco y de Palma contienen una
+            cantidad elevada (70% - 80%) de Ácidos Grasos de cadena de carbono 6 a 14 átomos de carbono.</li>
 
           <br>
 
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Estos producen más moléculas de glicerol en los
-            aceites que contienen ácidos grasos de 16 a 18 átomos de carbono, como las grasas, el aceite de semilla de
-            algodón, el aceite de soya, el aceite de oliva y el aceite de palma. </li>
+          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Estos producen más moléculas de Glicerol en los
+            aceites que contienen Ácidos grasos de 16 a 18 átomos de carbono, como las grasas, el Aceite de Semilla de
+            Algodón, el Aceite de Soya, el Aceite de Oliva y el Aceite de Palma. </li>
 
         </ol>
         
@@ -857,12 +855,12 @@
       <div class="col s12 m12 l12 xl12">
       <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Presencia en células</b></h2>
         <ol style="list-style-type:disc;margin-bottom:0px;">
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">El glicerol combinado también está presente en
+          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">El Glicerol combinado también está presente en
             todas las células animales y vegetales como parte de su membrana celular en forma de fosfolípidos.</li>
         </ol>
       </div>
       <div class="col s12 m12 l12 xl12">
-      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Tipos de glicerinas</b></h2>
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Tipos de Glicerinas</b></h2>
         <ol style="list-style-type:disc;margin-bottom:0px;">
           <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Glicerina Líquida:</b> Su función principal es
             la de

@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">
-    <link rel="canonical" href="https://chemicalbroker.mx/index.php">
+    <link rel="canonical" href="https://chemicalbroker.mx/Fosfato_Trisodico_Anhidro.php">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
     <link rel="stylesheet" href="css/History_Line.css?n=1">
     <link rel="stylesheet" href="css/jquery.dataTables.min.css">
@@ -434,13 +434,13 @@
 <div class="container" style="margin-top:150px;">
 
 <div class="row" style="margin-left:1000px;">
-  <div class="col s12 m12 l12 xl12" style="background-color:#FF6600;width:100%;">
+  <div class="col s12 m12 l12 xl12" style="background-color:orange;width:100%;">
   <p class="Titulos General--Cuerpo" style="color:white;text-align: right;"><b>Fosfato Trisódico Anhidro</b></p>
   </div>
 </div>
 
     <div class="row">
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El Fosfato Trisódico Anhidro (Na₃PO₄) es un compuesto químico inorgánico que pertenece a la categoría de los fosfatos de sodio. Se presenta como un sólido cristalino blanco, que es altamente soluble en agua y tiene propiedades alcalinas. "Anhidro" significa que el compuesto está en su forma seca, sin agua asociada</p>
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b style="color:#000020;">Fosfato Trisódico Anhidro</b> (Na₃PO₄) es un compuesto químico inorgánico que pertenece a la categoría de los fosfatos de sodio. Se presenta como un sólido cristalino blanco, que es altamente soluble en agua y tiene propiedades alcalinas. "Anhidro" significa que el compuesto está en su forma seca, sin agua asociada</p>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020">Características Principales</b></h5>
 
@@ -455,12 +455,12 @@
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Propiedades Químicas</b></h5>
 
       <ol>
-        <li style="list-style-type:disc" class="Elementos--Listas">pH: Soluciones acuosas de fosfato trisódico son fuertemente alcalinas, con un pH típicamente entre 11 y 12.</li>
+        <li style="list-style-type:disc" class="Elementos--Listas">pH: Soluciones acuosas de Fosfato Trisódico son fuertemente alcalinas, con un pH típicamente entre 11 y 12.</li>
         <br>
         <li style="list-style-type:disc" class="Elementos--Listas">Reactividad:
         <br>
             <ol>
-                <li style="list-style-type:disc" class="Elementos--Listas">Con ácidos: Reacciona con ácidos fuertes formando fosfato dihidrógeno de sodio (NaH₂PO₄) o fosfato monosódico (Na₂HPO₄), liberando dióxido de carbono en el proceso.</li>
+                <li style="list-style-type:disc;margin-top:30px" class="Elementos--Listas">Con ácidos: Reacciona con ácidos fuertes formando fosfato dihidrógeno de sodio (NaH₂PO₄) o fosfato monosódico (Na₂HPO₄), liberando dióxido de carbono en el proceso.</li>
                 <br>
                 <li style="list-style-type:disc" class="Elementos--Listas">Con bases fuertes: Estable en soluciones fuertemente alcalinas.</li>
             </ol>
@@ -474,7 +474,7 @@
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h5>
 
-      <p class="Tipografia--general letranegro General--Cuerpo">El fosfato trisódico anhidro (Na₃PO₄) tiene una amplia gama de aplicaciones en diversas industrias debido a sus propiedades químicas y físicas.</p>
+      <p class="Tipografia--general letranegro General--Cuerpo">El Fosfato Trisódico Anhidro (Na₃PO₄) tiene una amplia gama de aplicaciones en diversas industrias debido a sus propiedades químicas y físicas.</p>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria de Detergentes y Limpieza:</b></h5>
 
@@ -544,6 +544,80 @@
   <li class="Elementos--Listas" style="margin-top:30px;">Desengrasante: Utilizado en la formulación de desengrasantes industriales.</li>
   <li class="Elementos--Listas" style="margin-top:30px;">Fabricación de Cerámica: Ayuda en la preparación de mezclas cerámicas y en el control del pH durante la producción.</li>
 </ol>
+
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Caracteristicas:</b></h5>
+
+<div style="background-color:#7F7F7F;margin-top:50px;">
+    <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:white;"><b>Fosfato Mono Sódico Anhidro (MSPA) | Grado Alimentos</b></h5>
+</div>
+
+<table style="margin-top:50px;">
+  <tr>
+    <th class="Tipografia--general letranegro Elementos--Listas" style="text-align:center;color:#7F7F7F">Características:</th>
+    <th class="Tipografia--general letranegro Elementos--Listas" style="text-align:center;color:#7F7F7F">Fosfato Trisódico Anhidro (TSP)</th>
+  </tr>
+  <tr>
+    <td class="Tipografia--general letranegro Elementos--Listas" style="text-align:center;">Grado:</td>
+    <td class="Tipografia--general letranegro Elementos--Listas" style="text-align:center;"><b>Fosfato Trisódico Anhidro(TSP)</b></td>
+</tr>
+  <tr>
+    <td class="Tipografia--general letranegro Elementos--Listas" style="text-align:center;">CAS:</td>
+    <td class="Tipografia--general letranegro Elementos--Listas" style="text-align:center;"><b>10101-89-0</b></td>
+</tr>
+  <tr>
+    <td class="Tipografia--general letranegro Elementos--Listas" style="text-align:center;">EINECS:</td>
+    <td class="Tipografia--general letranegro Elementos--Listas" style="text-align:center;"><b>231-509-8</b></td>
+</tr>
+  <tr>
+    <td class="Tipografia--general letranegro Elementos--Listas" style="text-align:center;">Formula: </td>
+    <td class="Tipografia--general letranegro Elementos--Listas" style="text-align:center;"><b>NA<sub>3</sub>PO<sub>4</sub></b></td>
+</tr>
+  <tr>
+    <td class="Tipografia--general letranegro Elementos--Listas" style="text-align:center;">Peso Molecular:</td>
+    <td class="Tipografia--general letranegro Elementos--Listas" style="text-align:center;"><b>380.124</b></td>
+</tr>
+  <tr>
+    <td class="Tipografia--general letranegro Elementos--Listas" style="text-align:center;">Apariencia:</td>
+    <td class="Tipografia--general letranegro Elementos--Listas" style="text-align:center;"><b>Polvo de Cristal Blanco</b></td>
+</tr>
+  <tr>
+    <td class="Tipografia--general letranegro Elementos--Listas" style="text-align:center;">Contenido (Na<sub>3</sub>PO<sub>4) (%)</sub></td>
+    <td class="Tipografia--general letranegro Elementos--Listas" style="text-align:center;"><b>68.0 Min</b></td>
+</tr>
+  <tr>
+    <td class="Tipografia--general letranegro Elementos--Listas" style="text-align:center;">Fluoruros (como F) (%)</td>
+    <td class="Tipografia--general letranegro Elementos--Listas" style="text-align:center;"><b>Insolubilidad en agua (%)</b></td>
+</tr>
+  <tr>
+    <td class="Tipografia--general letranegro Elementos--Listas" style="text-align:center;">Insolubilidad en agua (%):</td>
+    <td class="Tipografia--general letranegro Elementos--Listas" style="text-align:center;"><b>0<br>0.05 Max.</b></td>
+</tr>
+  <tr>
+    <td class="Tipografia--general letranegro Elementos--Listas" style="text-align:center;">Hierro (FE) (%)</td>
+    <td class="Tipografia--general letranegro Elementos--Listas" style="text-align:center;"><b>0.05 Max</b></td>
+</tr>
+  <tr>
+    <td class="Tipografia--general letranegro Elementos--Listas" style="text-align:center;">Valor de pH (%)</td>
+    <td class="Tipografia--general letranegro Elementos--Listas" style="text-align:center;"><b>5.8 - 7.3 Max</b></td>
+</tr>
+  <tr>
+    <td class="Tipografia--general letranegro Elementos--Listas" style="text-align:center;">Observaciones:</td>
+    <td class="Tipografia--general letranegro Elementos--Listas" style="text-align:center;"><b>1) Alcalinidad del naranja de metilo: 37.1%<br>P<sub>2</sub>05: 42.5%</b></td>
+</tr>
+  <tr>
+    <td class="Tipografia--general letranegro Elementos--Listas" style="text-align:center;">Presentación</td>
+    <td class="Tipografia--general letranegro Elementos--Listas" style="text-align:center;"><b>Sacos 25 Kg.</b></td>
+</tr>
+  <tr>
+    <td class="Tipografia--general letranegro Elementos--Listas" style="text-align:center;">Vida de Anaquel:</td>
+    <td class="Tipografia--general letranegro Elementos--Listas" style="text-align:center;"><b>24 Meses</b></td>
+</tr>
+  <tr>
+    <td style="text-align:center;" class="Tipografia--general letranegro Elementos--Listas">Aplicaciones:</td>
+    <td style="text-align:center;" class="Tipografia--general letranegro Elementos--Listas"><b>-Se aplica en la industria como agente suavizante de agua, agente de limpieza en galvanoplastia, fijador de color en teñido de telas y fundente en la fabricacion de articulos esmaltados, etc.</b></td>
+</tr>
+</table>
+
 
     </div>
 </div>

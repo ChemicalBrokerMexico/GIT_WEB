@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">
-    <link rel="canonical" href="https://chemicalbroker.mx/index.php">
+    <link rel="canonical" href="https://chemicalbroker.mx/Fosfatos_Tricalcico.php">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
     <link rel="stylesheet" href="css/History_Line.css?n=1">
     <link rel="stylesheet" href="css/jquery.dataTables.min.css">
@@ -434,13 +434,13 @@
 <div class="container" style="margin-top:150px;">
 
 <div class="row" style="margin-left:1000px;">
-  <div class="col s12 m12 l12 xl12" style="background-color:#FF6600;width:124%;">
+  <div class="col s12 m12 l12 xl12" style="background-color:orange;width:124%;">
   <p class="Titulos General--Cuerpo" style="color:white;text-align: right;"><b>Fosfato Tricálcico</b></p>
   </div>
 </div>
 
     <div class="row">
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Fosfato Tricálcico, también conocido como fosfato de calcio tribásico, es un compuesto químico con la fórmula Ca₃(PO₄)₂. Se encuentra en la naturaleza en forma de minerales como la apatita y es un componente importante del tejido óseo y dental en los seres humanos y otros animales. </p>
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Fosfato Tricálcico</b>, también conocido como fosfato de calcio tribásico, es un compuesto químico con la fórmula Ca₃(PO₄)₂. Se encuentra en la naturaleza en forma de minerales como la apatita y es un componente importante del tejido óseo y dental en los seres humanos y otros animales. </p>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Propiedades</b></h5>
 
@@ -454,7 +454,7 @@
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h5>
 
-<p class="Tipografia--general letranegro General--Cuerpo">El fosfato tricálcico (Ca₃(PO₄)₂) tiene una amplia variedad de aplicaciones en diferentes industrias debido a sus propiedades químicas y biológicas. A continuación, se detallan algunas de sus principales aplicaciones:</p>
+<p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#000020;">Fosfato Tricálcico</b> (Ca₃(PO₄)₂) tiene una amplia variedad de aplicaciones en diferentes industrias debido a sus propiedades químicas y biológicas. A continuación, se detallan algunas de sus principales aplicaciones:</p>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria</b></h5>
 
@@ -518,7 +518,7 @@
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:black;"><b>Específicaciones</b></h5>
 
-  <div style="background-color:#FF6600;">
+  <div style="background-color:#FF6600;margin-top:50px;">
     <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:white;">Fosfato Tricálcico (TCP) | Grado Alimentos</h5>
   </div>
 

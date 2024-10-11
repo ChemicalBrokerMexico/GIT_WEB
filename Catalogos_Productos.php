@@ -666,7 +666,7 @@
                 <h5 class="Tipografia--general Titulos" style="margin-top:50px;"><b>Catálogos</b></h5>
 
                 <!-- <a href="PDF/CHEMICAL-BROKER_CATALOGO-PRODUCTOS_290424.pdf" class="Tipografia--general Subtitulos" style="color:rgba(2 146 238 /99%);margin-top:50px;" download>CHEMICAL-BROKER_CATALOGO-PRODUCTOS_290424.pdf</a> -->
-                <a href="PDF/CHEMICAL-BROKER_CATALOGO-PRODUCTOS_010424.pdf" class="Tipografia--general Subtitulos" style="color:rgba(2 146 238 /99%);cursor: pointer;margin-top:50px;" download>CHEMICAL-BROKER_CATALOGO-PRODUCTOS_010424.pdf</a>
+                <a href="PDF/CHEMICAL-BROKER_CATALOGO-PRODUCTOS_091024.pdf" class="Tipografia--general Subtitulos" style="color:rgba(2 146 238 /99%);cursor: pointer;margin-top:50px;" download>CHEMICAL-BROKER_CATALOGO-PRODUCTOS_091024.pdf</a>
                 <br>
                 <br>
                 <a href="PDF/CHEMICAL-BROKER_OLEOCHEMICALS-PORTFOLIO.pdf" class="Tipografia--general Subtitulos" style="color:rgba(2 146 238 /99%);margin-top:50px;cursor: pointer;" download>CHEMICAL-BROKER_OLEOCHEMICALS-PORTFOLIO.pdf</a>

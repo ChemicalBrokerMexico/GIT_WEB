@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">
-    <link rel="canonical" href="https://chemicalbroker.mx/index.php">
+    <link rel="canonical" href="https://chemicalbroker.mx/Fosfato_Dicalcico_Dihidratado.php">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
     <link rel="stylesheet" href="css/History_Line.css?n=1">
     <link rel="stylesheet" href="css/jquery.dataTables.min.css">
@@ -442,7 +442,7 @@
     <div class="row">
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b>Fosfato Dicálcico Dihidratado</b> es un compuesto químico inorgánico con la fórmula CaHPO4·2H2O. Es un tipo de fosfato de calcio que se presenta en forma de cristales blancos o polvo. </p>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general"><b>Caracteristicas</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b>Caracteristicas</b></h5>
 
       <ol>
         <li style="margin-top:30px;" class="Elementos--Listas">Fórmula Química: CaHPO4 2H2O</li>

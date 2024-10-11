@@ -401,7 +401,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li><img src="img/JARABE_300524.jpg" style="height:800px;" alt="Historia Ascendente">
+          <li><img src="img/CB_JARABE_021024.jpg" style="height:400px;" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
               <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Glicoles</b>
               <div class="container">

@@ -314,8 +314,13 @@ li {
 
 
   
+    .Tipografia--general-slogans{
+        font-family: Arial;
+        font-size: 22px;
+    }
+
     .videos_mercados{
-        width:200%;
+        width:223%;
         margin-left: -149px;
     }
 
@@ -1272,6 +1277,13 @@ font-size: 12px;
 
 @media only screen and (min-width: 576px) {
 
+  
+    .Tipografia--general-slogans{
+        font-family: Arial;
+        font-size: 22px;
+    }
+
+
     .compliance_tab{
         display: none;
     }
@@ -2080,7 +2092,7 @@ font-size: 12px;
 
 
     .videos_mercados{
-        width:200%;
+        width:223%;
         margin-left: -149px;
     }
 
@@ -2144,6 +2156,12 @@ font-size: 12px;
 }
 
 @media only screen and (min-width:639px) and (max-width:640px) {
+    
+    .videos_mercados{
+        width:108%;
+        margin-top:-200px;
+    }
+    
     .search-mobile-icon {
         margin-left: -54px;
         margin-top: -44px
@@ -2245,6 +2263,14 @@ font-size: 12px;
 }
 
 @media only screen and (min-width: 768px) and (max-width:991px) {
+    
+    .videos_mercados{
+        width:139%;
+        margin-top:-200px;
+    }
+    
+    
+
     .imglogoCE {
         width: 15% !important;
     }
@@ -2523,6 +2549,13 @@ font-size: 12px;
 }
 
 @media only screen and (min-width: 992px) {
+   
+    .videos_mercados{
+        width:115%;
+        margin-top:-200px;
+    }
+   
+   
     .imglogoCE {
         width: 12% !important;
     }
@@ -2634,6 +2667,13 @@ margin-top: -44px;
 }
 
 @media only screen and (min-width: 1025px) {
+    
+    .videos_mercados{
+        width:108%;
+        margin-top:-200px;
+    }
+    
+    
     .divider_sections {
         background-color: white;
         width: 86%;
@@ -2736,6 +2776,12 @@ margin-top: -44px;
 
 @media only screen and (min-width: 1097px){
 
+    .videos_mercados{
+        width:108%;
+        margin-top:-200px;
+    }
+    
+    
     .divfooter2:before,
     .divfooter2:after {
         background-color: black;
@@ -4558,6 +4604,13 @@ margin-top:85px;
 }
 
 @media only screen and (min-width: 1745px){
+
+   
+    .Tipografia--general-slogans{
+        font-family: Arial;
+        font-size: 30px;
+    }
+   
 
     .Leeracidgrass{
         margin-top:73px;

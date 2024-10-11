@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">
-    <link rel="canonical" href="https://chemicalbroker.mx/index.php">
+    <link rel="canonical" href="https://chemicalbroker.mx/Fosfatos.php">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
     <link rel="stylesheet" href="css/History_Line.css?n=1">
     <link rel="stylesheet" href="css/jquery.dataTables.min.css">
@@ -420,7 +420,7 @@
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section><a class="breditem active" href="#" style="color:white !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class="breditem active" href="Products_news.php" style="color:white !important;margin-left:-2px"><b class="Tipografia-general  Subtitulos ">Productos > </b> </a> <a class="breditem active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos ">Fosfatos</b></a></section>
+<section><a class="breditem active" href="#" style="color:white !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class="breditem active" href="Productos_news.php" style="color:white !important;margin-left:-2px"><b class="Tipografia-general  Subtitulos ">Productos > </b> </a> <a class="breditem active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos ">Fosfatos</b></a></section>
 </div>
 </div>
 </div>
@@ -549,20 +549,20 @@
         </div>
         <div class="card-content" style="border:1px solid #f2f2f2;">
         <ol>
-            <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo">Fosfato Monocalcico Anhidro</li>
-            <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo">Fosfato Monocalcico Monohidratado</li>
-            <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo">Fosfato Dicalcico Anhidro</li>
-            <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo">Fosfato Dicalcico Dihidratado</li>
-            <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo">Fosfato Tricalcico</li>
+            <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo"><a href="Fosfato_Monocalcico_Anhidro.php" style="color: blue;">Fosfato Monocalcico Anhidro</a></li>
+            <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo"><a href="Fosfato_Monocalcico_Monohidratado.php" style="color: blue;">Fosfato Monocalcico Monohidratado</a></li>
+            <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo"><a href="Fosfato_Dicalcico_Anhidro.php" style="color: blue;">Fosfato Dicalcico Anhidro</a></li>
+            <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo"><a href="Fosfato_Dicalcico_Dihidratado.php" style="color: blue;">Fosfato Dicalcico Dihidratado</a></li>
+            <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo"><a href="Fosfatos_Tricalcico.php" style="color: blue;">Fosfato Tricalcico</a></li>
             <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo">Pirofosfato Acido de Calcio</li>
-            <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo">Fosfato Monosodico Anhidro</li>
-            <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo">Fosfato Monosodico Monohidratado</li>
-            <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo">Fosfato Disodico Anhidro</li>
-            <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo">Fosfato Disodico Dodecahidratado</li>
-            <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo">Fosfato Trisodico Anhidro</li>
-            <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo">Fosfato Trisodico Dodecahidratado</li>
-            <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo">Pirofosfato Tetrasodico Anhidro</li>
-            <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo">Pirofosfato Acido de Sodio</li>
+            <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo"><a href="Fosfato_Monosodico_Anhidro.php" style="color: blue;">Fosfato Monosodico Anhidro</a></li>
+            <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo"><a href="Fosfato_Monosodico_Monohidratado.php" style="color: blue;">Fosfato Monosodico Monohidratado</a></li>
+            <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo"><a href="Fosfato_Disodico_Anhidro.php" style="color: blue;">Fosfato Disodico Anhidro</a></li>
+            <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo"><a href="Fosfato_Disodico_Dodecahidratado.php" style="color: blue;">Fosfato Disodico Dodecahidratado</a></li>
+            <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo"><a href="Fosfato_Trisodico_Anhidro.php" style="color: blue;">Fosfato Trisodico Anhidro</a></li>
+            <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo"><a href="Fosfato_Trisodico_Dodecahidratado.php" style="color: blue;">Fosfato Trisodico Dodecahidratado</a></li>
+            <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo"><a href="Pirofosfato_Tetrasodico_Anhidro.php" style="color: blue;">Pirofosfato Tetrasodico Anhidro</a></li>
+            <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo"><a href="Pirofosfato_Acido_Sodio.php" style="color: blue;">Pirofosfato Acido de Sodio</a></li>
             <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo">Tripolifosfato de Sodio</li>
             <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo">Hexametafosfato de Sodio</li>
             <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo">Trimetafosfato de Sodio</li>

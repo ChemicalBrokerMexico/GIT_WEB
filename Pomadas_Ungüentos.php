@@ -446,7 +446,7 @@
       </div>
     </div>
     <footer style="margin-top:70px">
-      <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""></div><br><br>
+      <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg" alt=""></div><br><br>
       <div class="container-fluid" style="text-align:center;margin-top:-50px">
         <p style="color:black;text-align:center">© 2014 C&E | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important">Politica de Privacidad  </a><a href="#" style="color:black !important">Productos
               <script type="text/javascript" src="js/main.js"></script></a></strong></p>
