@@ -1,44 +1,40 @@
-<!DOCTYPE html>
+<!DOCTYPE html >
 <html lang="es"> 
   <head> 
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Historia y Hechos</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <meta name="description" content="Al entender las dificultades que viven diariamente las empresas enfocadas en la produccion de ingredientes quimicos, nace en el año 2014 Chemical Broker">
-    <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link rel="canonical" href="https://chemicalbroker.mx/Historia_Hechos.php">
-    <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
-    <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
-    <link rel="stylesheet" href="css/History_Line.css?n=1">
-    <link rel="stylesheet" href="css/jquery.dataTables.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
+    <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos.">
+    <title>Chemical Broker | Marca</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <meta name="description" content="Algunas organizaciones buscan vender mas, nosotros buscamos crecer en conjunto con nuestros socios de negocios, conoce nuestra marca.">
+    <link rel="canonical" href="https://chemicalbroker.mx/Marca.php">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
+    <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen"/>
+    <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen"/>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus"/>
+    <link rel="stylesheet" href="css/History_Line.css?n=1"/>
+    <link rel="stylesheet" href="css/jquery.dataTables.min.css"/>
+    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
     <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="js/materialize.js?n=1" type="text/javascript"></script>
     <script src="js/init.js?n=1"></script>
     <script src="js/wow.js"></script>
     <script>new WOW().init();</script>
-    
+    <script type="text/javscript" src="js/materialize.min.js?n=1"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+        <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.js"></script>
     <script type="text/javascript" charset="utf8" src="js/Buscador.js?n=1"></script>
-    <link rel="stylesheet" href="css/jquery.dataTables.min.css">
-<link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
-    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.js"></script>
-   
-<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/responsive/2.2.6/js/dataTables.responsive.js"></script>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
-    <link rel="stylesheet" href="css/History_Line.css?n=1">
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/responsive/2.2.6/js/dataTables.responsive.js"></script>
+    <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
       gtag('config', 'G-SGJQ8FDDJ6');
     </script>
- 
   </head>
   <body> 
-    <div class="modal overflow-y" id="modal1">
+    <div class="modal" id="modal1" style="overflow-y:auto">
       <div class="modal-content" style="overflow-y:auto">
         <h6 class="letranegro"> <b class="tipografia--general Titulos letranegro">Respetamos tu Privacidad</b></h6>
         <p class="General--Cuerpo Tipografia--general letranegro">Este sitio web utiliza cookies. Con la ayuda de las cookies, podemos mejorar el rendimiento de nuestro sitio web, analizar la navegacion del sitio web, respaldar nuestras actividades de marketing en internet y ampliar la funcionalidad del sitio web. Decida que cookies podemos utilizar para procesar sus datos personales y compartir los datos con terceros. Tenga en cuenta que las cookies técnicamente necesarias deben establecerse para mantener la funcionalidad de nuestro sitio web. Si hace clic en 'Acepto', acepta el almacenamiento de cookies en su dispositivo y el procesamiento y transferencia de datos a terceros. Puede revocar su concentimiento en cualquier momento, administrar su configuración de cookies y obtener más información sobre nuestro uso de cookies en 'Configuracion de cookies'. Puede encontrar más información en nuestra <a class="Tipografia--general" href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" style="color:rgba(2 146 238 /99%)">Política de Privacidad.</a></p>
@@ -54,12 +50,12 @@
                 <div class="row">
                   <div class="col s12 m12 l12 xl12" style="margin-top:16px"><a class="modal-close color--blanco fondo--color--corporativo Tipografia--general Botones" href="#!" style="padding:10px;float:left">Permitir Todo </a></div>
                 </div>
-                <h6 class="letranegro"><b class="Tipografia--general letranegro Subtitulos" style="float:left;">Administrar las preferencias de consentimiento</b><br></h6>
+                <h6 class="letranegro"><b class="Tipografia--general letranegro Subtitulos" style="float:left;">Administrar las preferencias de consentimiento</b><br/></h6>
                 <ul class="collapsible elementos--cookies">
                   <li> 
                     <div class="collapsible-header letranegro Tipografia--general Botones">Cookies estrictamente necesarias
                       <label>
-                        <input class="filled-in float-right" type="checkbox" checked="checked" disabled><span class="letranegro"> </span>
+                        <input class="filled-in float-right" type="checkbox" checked="checked" disabled="disabled"/><span class="letranegro"> </span>
                       </label>
                     </div>
                     <div class="collapsible-body">
@@ -69,7 +65,7 @@
                   <li> 
                     <div class="collapsible-header Tipografia--general Botones letranegro">Cookies de rendimiento
                       <label>
-                        <input class="filled-in float-right" type="checkbox" disabled><span class="letranegro"> </span>
+                        <input class="filled-in float-right" type="checkbox" disabled="disabled"/><span class="letranegro"> </span>
                       </label>
                     </div>
                     <div class="collapsible-body">
@@ -79,7 +75,7 @@
                   <li> 
                     <div class="collapsible-header Tipografia--general letranegro Botones">Cookies de funcionalidad 
                       <label>
-                        <input class="filled-in float-right" type="checkbox" disabled><span class="letranegro"> </span>
+                        <input class="filled-in float-right" type="checkbox" disabled="disabled"/><span class="letranegro"> </span>
                       </label>
                     </div>
                     <div class="collapsible-body">
@@ -89,7 +85,7 @@
                   <li>
                     <div class="collapsible-header Tipografia--general letranegro  Botones">Cookies dirigidas 
                       <label>
-                        <input class="filled-in float-right" type="checkbox" disabled><span class="letranegro"> </span>
+                        <input class="filled-in float-right" type="checkbox" disabled="disabled"/><span class="letranegro"> </span>
                       </label>
                     </div>
                     <div class="collapsible-body">
@@ -163,8 +159,8 @@
                   <section> 
                     <ul> 
                       <p class="color--blanco"><b class="Tipografia--general Titulos">Compañia</b></p>
-                      <hr class="hr">
-                      <ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Nosotros <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Valores.php">Valores <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
+                      <hr class="hr"/>
+                      <ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Nosotros <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br/><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br/><a class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br/><a class="arrowblue Tipografia--general Subtitulos" href="Valores.php">Valores <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br/><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br/><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
                     </ul>
                   </section>
                 </div>
@@ -172,9 +168,9 @@
                   <section> 
                     <ul> 
                       <p class="color--blanco"><b class="Tipografia--general Titulos">Politicas </b>
-                        <hr class="hr">
+                        <hr class="hr"/>
                         <li> <a class="arrowblue Tipografia--general Subtitulos" href="Code_of_Conduct.php">Codigo de Conducta Organizacional <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-                        <li> <a class="arrowblue Tipografia--general Subtitulos" href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download>Politica de Privacidad <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                        <li> <a class="arrowblue Tipografia--general Subtitulos" href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download="download">Politica de Privacidad <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                         <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
                                                         <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
@@ -187,7 +183,7 @@
                   <section>
                     <ul> 
                       <p class="color--blanco"><b class="Tipografia--general Titulos">Empleados </b>
-                        <hr class="hr">
+                        <hr class="hr"/>
                         <li> <a class="arrowblue Tipografia--general Subtitulos" href="VISTA/Principal.php">Intranet&nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                       </p>
                     </ul>
@@ -205,7 +201,7 @@
                   <section>
                     <ul> 
                       <p class="color--blanco"><b class="Tipografia--general Titulos">Carreras </b>
-                        <hr class="hr">
+                        <hr class="hr"/>
                         <li> <a class="arrowblue Tipografia--general Subtitulos" href="Carreras.php">Carreras <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"> </i></a></li>
                       </p>
                     </ul>
@@ -219,40 +215,40 @@
     </div>
     <div class="row">  
       <nav class="fondo--color--corporativo" style="height:137px;margin-top:-35px" role="navigation">
-        <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo"></div>
+        <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo"/></div>
       </nav>
     </div>
     <nav style="background-color:white;height:25px;margin-top:-19px">
-<div class="nav-wrapper flex"><a class="sidenav-trigger" href="#" data-target="mobile-demo"><i class="material-icons letranegro">menu</i></a><span class="Pmenu letranegro">Menu</span>
-<ul class="hide-on-med-and-down">
-<li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="index.php"><b>Nosotros</b></a></li>
-<li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Mercados.php"><b>Mercados</b></a></li>
-<ul id="dropdown3" class="dropdown-content" style="width:300px !important;">
-  <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos" style="width:200px;">Ingredientes Químicos</a></li>
-  <!-- <li><a href="Product_List.php" class="Tipografia--general letranegro Subtitulos" style="width:200px;">Lista de Productos</a></li> -->
-  <li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
-</ul> 
+      <div class="nav-wrapper flex"><a class="sidenav-trigger" href="#" data-target="mobile-demo"><i class="material-icons letranegro">menu</i></a><span class="Pmenu letranegro">Menu</span>
+        <ul class="hide-on-med-and-down">
+          <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Mercados.php"><b>Mercados</b></a></li>
+          <ul id="dropdown3" class="dropdown-content" style="width:300px !important;">
+                 <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Ingredientes Químicos</a>
+          </li>
+          
+<li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
+</ul>
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!" data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a></li>
-<li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Servicios.php"><b>Servicios</b></a></li>
-<li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i class="material-icons right">arrow_drop_down</i></b></a>
+          <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Servicios.php"><b>Servicios</b></a></li>
+       <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i class="material-icons right">arrow_drop_down</i></b></a>
 <ul id="dropdown4" class="dropdown-content" tabindex="0">
 <li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Sistema de Gestión Integral</a></li>
 <li tabindex="0"><a href="Marco_Regulatorio.php" class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
   <li tabindex="0"><a href="Certificaciones.php" class="Tipografia--general letranegro Subtitulos">Certificaciones</a></li>
 </ul></li>
-<li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Contact.php"><b>Contacto </b></a></li>
-</ul>
-</div>
-<div> 
-<ul><!--  <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="chemicalbroker.mx/Vista/Principal.php" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock color--blanco" style="margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock color--blanco" style="display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
+          <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Contact.php"><b>Contacto </b></a></li>
+        </ul>
+      </div>
+      <div> 
+      <ul><!--  <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="chemicalbroker.mx/Vista/Principal.php" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock color--blanco" style="margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock color--blanco" style="display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
 <div style="display:flex;justify-content:center"> 
 <p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
 </div></a> -->
 <li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
 </ul>
-<div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i class="material-icons search-mobile-icon search-top-mobile" style="width:0px;margin-left:-10px">search</i></a></div>
-</div>
-</nav>
+        <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i class="material-icons search-mobile-icon margin-left-search-mobile-icon" style="width:0px;margin-left:-10px">search</i></a></div>
+      </div>
+    </nav>
     <ul class="collapsible" id="search1" style="display:none">
       <li> 
         <div class="collapsible-header">
@@ -260,10 +256,10 @@
             <div class="row">
               <div class="col s12 m12 l12 xl12">
                 <p> Search <i class="small material-icons left ico-Search">chevron_right</i></p>
-                <hr class="letranegro color--fondo--negro">
+                <hr class="letranegro color--fondo--negro"/>
               </div>
               <div class="col s12 m12 l12 xl12"><a href="#" style="margin-left:13px"><i class="material-icons left icon-menu-search letranegro">search</i></a>
-                <input class="txt-menu-search" type="search" id="inputBusqueda" placeholder=" Buscar contenido dentro del sitio">
+                <input class="txt-menu-search" type="search" id="inputBusqueda" placeholder=" Buscar contenido dentro del sitio"/>
               </div>
             </div>
             <div class="col s12 m12 l12 xl12 search" id="search">
@@ -341,8 +337,8 @@
     <ul class="sidenav fondo--color--corporativo" id="mobile-search"> 
       <div class="container grid-search-mobile">
         <p class="color--blanco">Search<i class="small material-icons right ico-Search color--blanco">search</i></p>
-        <hr class="letranegro color--fondo--negro">
-        <input type="text" style="border: 1px solid black;background-color:#e9e9e9" id="Busqueda_mobile" placeholder=" Buscar contenido">
+        <hr class="letranegro color--fondo--negro"/>
+        <input type="text" style="border: 1px solid black;background-color:#e9e9e9" id="Busqueda_mobile" placeholder=" Buscar contenido"/>
         <div class="container">
           <div class="row">
             <div class="col s12 m12 l12 xl12 search" id="search2">
@@ -369,7 +365,7 @@
                     <td class="fondo--color--corporativo border--hidden"><a class="color--blanco border--hidden" href="Premisas.php">Premisas    </a></td>
                   </tr>
                   <tr> 
-                    <td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="Servicio_Total.php">Servicio Integral</a></td>
+                    <td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="Servicio_Total.php">Servicio Integral </a></td>
                   </tr>
                   <tr> 
                     <td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="Code_of_Conduct.php">Codigo de Conducta </a></td>
@@ -378,7 +374,7 @@
                     <td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="Mercados.php">Mercados </a></td>
                   </tr>
                   <tr> 
-                    <td class="fondo--color--corporativo border--hidden"> <a class="border--hidden color--blanco" href="Servicios.php">Servicios  </a></td>
+                    <td class="fondo--color--corporativo border--hidden"> <a class="border--hidden color--blanco" href="Servicios.php">Servicios</a></td>
                   </tr>
                   <tr> 
                     <td class="fondo--color--corporativo border--hidden"><a class="border--hidden color--blanco" href="Cumplimiento.php">Sistema de Gestión Integral </a></td>
