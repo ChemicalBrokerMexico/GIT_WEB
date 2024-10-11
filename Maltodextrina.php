@@ -761,7 +761,7 @@
 
 </body>
 <footer style="margin-top:70px">
-    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png"
+    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
             alt=""></div><br><br>
     <div class="container-fluid" style="text-align:center;margin-top:-50px">
         <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos

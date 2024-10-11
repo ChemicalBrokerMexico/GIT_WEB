@@ -610,7 +610,7 @@
 </div>
 
 <footer class="altofooter">
-<div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt="ESCUDO DE C&E"></div><br><br>
+<div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg" alt="ESCUDO DE C&E"></div><br><br>
 <div class="container-fluid center-align" style="margin-top:-50px">
 <p class="Tipografia--general letranegro center-align Pie--Pagina">© 2014 C&E | Chemical Broker Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto |&nbsp</a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad </a></p>
 </div>

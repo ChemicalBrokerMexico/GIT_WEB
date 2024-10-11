@@ -434,7 +434,7 @@
 <li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
 </ul>
             <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#"
-                    data-target="mobile-search"><i class="material-icons search-mobile-icon"
+                    data-target="mobile-search"><i class="material-icons search-mobile-icon margin-left-search-mobile-icon"
                         style="width:0px">search</i></a></div>
         </div>
     </nav>
@@ -641,8 +641,8 @@
         <div class="row">
             <div class="col s12 m12 l12 xl12">
                 <section class=""><a class="breditem active" href="index.php"
-                        style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
-                        href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b>
+                        style="color:white !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
+                        href="Productos_news.php" style="color:white !important;margin-left:-2px"><b>Productos</b><b>
                             >
                             &nbsp</b><a class="breditem active" href="ALCOHOL_ISOPROPILICO_INDUSTRIAL.php"
                             style="color:red !important;margin-left:-2px"><b
@@ -745,7 +745,7 @@
 
 </body>
 <footer style="margin-top:70px">
-    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png"
+    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
             alt=""></div><br><br>
     <div class="container-fluid" style="text-align:center;margin-top:-50px">
         <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos
