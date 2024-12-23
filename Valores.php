@@ -178,7 +178,7 @@
                   </section>
                 </div>
                 <div class="col s12 m12 l12 xl8">
-                  <section>
+                  <!-- <section>
                     <ul> 
                       <p class="color--blanco"><b class="Tipografia--general Titulos">Empleados </b>
                         <hr class="hr">
@@ -193,7 +193,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
                 </div>
                 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                   <section>
@@ -390,7 +390,7 @@
     <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li><img src="img/VALUES_040222.jpg" style="height:800px;" alt="Historia Ascendente">
+          <li><img src="img/VALUES_040222.jpg" style="height:400px;" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
               <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Valores</b>
               <div class="container">

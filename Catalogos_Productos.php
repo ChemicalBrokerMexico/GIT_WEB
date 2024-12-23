@@ -353,7 +353,7 @@
                                 </section>
                             </div>
                             <div class="col s12 m12 l12 xl8">
-                                <section>
+                                <!-- <section>
                                     <ul>
                                         <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                                             <hr class="hr">
@@ -371,7 +371,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
                             </div>
                             <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                                 <section>
@@ -676,7 +676,7 @@
 
 </body>
 <footer style="margin-top:70px">
-    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png"
+    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
             alt=""></div><br><br>
     <div class="container-fluid" style="text-align:center;margin-top:-50px">
         <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos
@@ -690,5 +690,4 @@
         <script type="text/javascript" src="js/Products.js"></script>
     </div>
 </footer>
-
 </html>

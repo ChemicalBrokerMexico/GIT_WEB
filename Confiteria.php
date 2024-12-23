@@ -178,7 +178,7 @@
                   </section>
                 </div>
                 <div class="col s12 m12 l12 xl8">
-                  <section>
+                  <!-- <section>
                     <ul> 
                       <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                         <hr class="hr">
@@ -194,7 +194,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
                 </div>
                 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                   <section>
@@ -398,9 +398,9 @@
         <ul class="slides slides-pruea">
           <li><img src="img/CONFITERIA.jpg" style="height:800px;" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Confiteria</b>
+              <h1 class="primertitulo"><b class="boldbanner">Confiteria</b><br></h1>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Confiteria.php"><b class="Tipografia--general Subtitulos" style="color:red;">Confiteria</b></a></section>
+    
     </div>
             </div>
           </li>
@@ -412,6 +412,8 @@
     <div class="container" style="margin-top:130px;">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
+          
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Confiteria.php"><b class="Tipografia--general Subtitulos" style="color:red;">Confiteria</b></a></section>
         <p style="color:#262137" class="Tipografia--general letranegro General--Cuerpo"> México es el segundo país que consume la mayor cantidad de dulces de america latina, solo por detras de brazil, esto de acuerdo con datos de la Camara de la Industria Alimenticia.
         Al año un mexicano consume alrededor de 4.5 Kg de dulces 
           </p>
@@ -420,7 +422,7 @@
     </div>
     <div class="container">
       <div class="row center-align">
-        <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Proximamente.php" style="cursor:pointer;">
+        <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Dulces_Duros.php" style="cursor:pointer;">
             <div class="contenedor">
               <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
               <div class="centrado_sub" style="position:absolute;z-index:2">
@@ -431,7 +433,7 @@
                 </h5>
               </div><img class="mercadosimagen " src="img/CB_HARD_CANDY_200521.jpg" alt="" style="border-radius: 10px;"/>
             </div></a></div>
-            <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Proximamente.php" style="cursor:pointer;">
+            <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Gomitas.php" style="cursor:pointer;">
             <div class="contenedor">
               <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
               <div class="centrado_sub" style="position:absolute;z-index:2">
@@ -445,7 +447,7 @@
    
        
        
-            <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Proximamente.php" style="cursor:pointer;">
+            <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Bombones.php" style="cursor:pointer;">
             
             <div class="contenedor">
             <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
@@ -460,7 +462,7 @@
           </a>
 
             </div>
-            <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Proximamente.php" style="cursor:pointer;">
+            <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Goma_Mascar.php" style="cursor:pointer;">
             
             <div class="contenedor">
             <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>

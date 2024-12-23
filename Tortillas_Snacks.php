@@ -177,7 +177,7 @@
                   </section>
                 </div>
                 <div class="col s12 m12 l12 xl8">
-                  <section>
+                  <!-- <section>
                     <ul> 
                       <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                         <hr class="hr">
@@ -192,7 +192,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
                 </div>
                 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                   <section>
@@ -396,7 +396,6 @@
             <div class="caption center-align"><br><br><br><br>
               <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Tortillas & Snacks</b>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Tortillas_Snacks.php"><b class="Tipografia--general Subtitulos" style="color:red;">Tortillas & Snacks</b></a></section>
     </div>
             </div>
           </li>
@@ -408,6 +407,9 @@
     <div class="container" style="margin-top:120px;">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
+
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Tortillas_Snacks.php"><b class="Tipografia--general Subtitulos" style="color:red;">Tortillas & Snacks</b></a></section>
+
         <p style="color:#262137" class="General--Cuerpo Tipografia--general letranegro">Los alimentos del tipo snack forman parte normal de los hábitos de consumo en la población mexicana y representa un mercado de gran dinamismo, sin embargo, este mercado no crece a pasos acelerados como podría ser el caso de otros, en México este mercado tiene un valor de USD 3.232 millones y una producción de 22.558 toneladas, Chemical Broker en conjunto con sus clientes se enfoca en la búsqueda de productos químicos, que resulten útiles en la fabricación de estos productos. </p>
         <p class="General--Cuerpo Tipografia--general letranegro" style="margin-top:50px;"><b style="color:#000020;">¿Qué es un snack?</b> Papas fritas o papas, frutos secos, rosquilletas, triángulos de maíz tostados, generalmente se consumen por placer o para satisfacer temporalmente el hambre</p>
         <p class="General--Cuerpo Tipografia--general letranegro" style="margin-top:50px;">Sin embargo en la actualidad un snack es mucho mas que eso y en muchos casos puede ser una de las 5 comidas diarias que debemos hacer</p>
@@ -419,7 +421,7 @@
     </div>
     <div class="container">
       <div class="row center-align">
-        <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Proximamente.php" style="cursor:pointer;">
+        <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Tortillas.php" style="cursor:pointer;">
             <div class="contenedor">
               <div class="transfo" id="overlayalimentos" style="border-radius: 10px;" style="border-radius: 10px;"></div>
               <div class="centrado_sub" style="position:absolute;z-index:2">
@@ -430,7 +432,7 @@
                 </h5>
               </div><img class="mercadosimagen " src="img/CB_TORTILLAS_210521.jpeg" alt="" style="border-radius: 10px;"/>
             </div></a></div>
-            <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Proximamente.php" style="cursor:pointer;">
+            <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Totopos.php" style="cursor:pointer;">
             <div class="contenedor">
               <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
               <div class="centrado_sub" style="position:absolute;z-index:2">
@@ -444,7 +446,7 @@
      
        
        
-            <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Proximamente.php" style="cursor:pointer;">
+            <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Papas.php" style="cursor:pointer;">
             
             <div class="contenedor">
             <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>

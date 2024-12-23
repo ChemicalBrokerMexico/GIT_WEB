@@ -7,12 +7,11 @@
   <title>Chemical Broker | Colágeno Hidrolizado de Halavet</title>
   <meta name="description" content="Descubre nuestro colágeno hidrolizado de alta pureza, ideal para la industria alimentaria, cosmética y de suplementos. Mejora la salud y la belleza de tus productos con una proteína de alta biodisponibilidad y eficacia comprobada. ¡Potencia tus formulaciones con nuestro colágeno hidrolizado y ofrece lo mejor a tus clientes!"> 
   <link rel="canonical" href="https://chemicalbroker.mx/Colageno_Hidrolizado.php">
-  <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-    integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="css/History_Line.css">
   <link rel="stylesheet" href="css/jquery.dataTables.min.css">
   <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
@@ -277,7 +276,7 @@
                 </section>
               </div>
               <div class="col s12 m12 l12 xl8">
-                <section>
+                <!-- <section>
                   <ul>
                     <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                       <hr class="hr">
@@ -293,7 +292,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
               </div>
               <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                 <section>
@@ -548,9 +547,8 @@
         <ul class="slides slides-pruea">
           <li><img src="img/CB_COLLAGEN_280723.jpg" style="height:400px;" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Colágeno Hidrolizado</b>
+              <h1 class="primertitulo"><b class="boldbanner">Colágeno Hidrolizado</b><br></h1>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Colageno_Hidrolizado.php"><b class="Tipografia--general Subtitulos" style="color:red;">Colágeno Hidrolizado</b></a></section>
     </div>
             </div>
           </li>
@@ -563,22 +561,26 @@
   <div class="container" style="margin-top:140px;">
     <div class="row">
         <div class="col s12 m12 l12 xl12">
-            <img src="img/CB_COLLAGEN2_280723.jpg" alt="Colageno" style="width:100%;">
+
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Colageno_Hidrolizado.php"><b class="Tipografia--general Subtitulos" style="color:red;">Colágeno Hidrolizado</b></a></section>
+
+            <img src="img/CB_COLLAGEN2_280723.jpg" alt="Colageno" style="width:100%;margin-top:50px;">
         </div>
         <div class="col s12 m12 l12 xl12">
+
             <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b>Colágeno</b></h2>
-            <p class="letranegro Tipografia--general General--Cuerpo">El colágeno es una molécula proteica o proteína que forma fibras, las fibras colágenas. Estas se encuentran en todos los animales. Son secretadas por las células del tejido conjuntivo como los fibroblastos, así como por otros tipos celulares. Es el componente más abundante de la piel y de los huesos, cubriendo un 25% de la masa total de proteínas en los mamíferos.</p>
-            <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;">El colágeno es una especie de pegamento que une todas las células; es el componente básico de la piel, los huesos, los dientes, los tendones, los cartílagos o la córnea del ojo.</p>
-            <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;">El colágeno está formado por tres cadenas polipeptídicas, que juntas forman una hélice llamada triple hélice, conocida como colágeno. Se han identificado muchos tipos de colágeno que difieren en estructura y funcionalidad.</p>
+            <p class="letranegro Tipografia--general General--Cuerpo">El Colágeno es una molécula proteica o proteína que forma fibras, las fibras colágenas. Estas se encuentran en todos los animales. Son secretadas por las células del tejido conjuntivo como los fibroblastos, así como por otros tipos celulares. Es el componente más abundante de la piel y de los huesos, cubriendo un 25% de la masa total de proteínas en los mamíferos.</p>
+            <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;">El Colágeno es una especie de pegamento que une todas las células; es el componente básico de la piel, los huesos, los dientes, los tendones, los cartílagos o la córnea del ojo.</p>
+            <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;">El Colágeno está formado por tres cadenas polipeptídicas, que juntas forman una hélice llamada triple hélice, conocida como Colágeno. Se han identificado muchos tipos de colágeno que difieren en estructura y funcionalidad.</p>
         </div>
         <div class="col s12 m12 l12 xl12">
             <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#000020;">Diferencia entre Colágeno y Colágeno Hidrolizado</b></h2>
-            <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;">El colágeno es una proteína compuesta por fibras que se encuentra en todas las estructuras importantes de nuestro cuerpo como en los huesos, tendones y ligamentos. También forma parte de los tejidos y es el responsable de dar firmeza a la piel. Su estructura es compleja, proporciona fuerza y mantiene la flexibilidad de la piel, huesos, articulaciones, uñas, cabello, etc.</p>
-            <p class="letrangro Tipografia--general General--Cuerpo" style="margin-top:50px;">Mediante un proceso de hidroxilación, a partir del colágeno natural, se rompen las grandes cadenas de colágeno para, así, obtener moléculas de este péptido, mucho más pequeñas este formándose así el Colágeno Hidrolizado. De esta manera, el colágeno, es absorbido rápidamente y en su totalidad por el cuerpo, gracias a que pueden atravesar, sin problema, la barrera intestinal y llegar a los tejidos donde cumplen su misión. Por lo tanto, el colágeno hidrolizado se absorbe mejor.</p>
+            <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;">El Colágeno es una proteína compuesta por fibras que se encuentra en todas las estructuras importantes de nuestro cuerpo como en los huesos, tendones y ligamentos. También forma parte de los tejidos y es el responsable de dar firmeza a la piel. Su estructura es compleja, proporciona fuerza y mantiene la flexibilidad de la piel, huesos, articulaciones, uñas, cabello, etc.</p>
+            <p class="letrangro Tipografia--general General--Cuerpo" style="margin-top:50px;">Mediante un proceso de hidroxilación, a partir del Colágeno natural, se rompen las grandes cadenas de colágeno para, así, obtener moléculas de este péptido, mucho más pequeñas este formándose así el Colágeno Hidrolizado. De esta manera, el colágeno, es absorbido rápidamente y en su totalidad por el cuerpo, gracias a que pueden atravesar, sin problema, la barrera intestinal y llegar a los tejidos donde cumplen su misión. Por lo tanto, el colágeno hidrolizado se absorbe mejor.</p>
         </div>
         <div class="col s12 m12 l12 xl12" >
         <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#000020;">Colágeno Hidrolizado</b></h2>
-        <p class="letranegro Tipografia--general General--Cuerpo">El colágeno hidrolizado (CH); también llamado gelatina hidrolizada o péptidos de colágeno, es la forma más asimilable de proteína de colágeno, un nutriente proteico formado por péptidos de colágeno de bajo peso molecular (PM medio inferior a 6.000 Dalton), que, tras su digestión y absorción intestinal, pasan a la sangre en forma de aminoácidos, dipéptidos y tripéptidos. Existen estudios que apuntan que los derivados de la ingesta de CH presentan distintas actividades biológicas; péptidos bioactivos y dan lugar a la percepción de efectos beneficiosos de salud cuando se realiza la toma continuada de una dosis diaria eficaz.</p>
+        <p class="letranegro Tipografia--general General--Cuerpo">El Colágeno Hidrolizado (CH); también llamado gelatina hidrolizada o péptidos de colágeno, es la forma más asimilable de proteína de colágeno, un nutriente proteico formado por péptidos de colágeno de bajo peso molecular (PM medio inferior a 6.000 Dalton), que, tras su digestión y absorción intestinal, pasan a la sangre en forma de aminoácidos, dipéptidos y tripéptidos. Existen estudios que apuntan que los derivados de la ingesta de CH presentan distintas actividades biológicas; péptidos bioactivos y dan lugar a la percepción de efectos beneficiosos de salud cuando se realiza la toma continuada de una dosis diaria eficaz.</p>
         <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;">Al mostrar propiedades de salud que trascienden a su valor nutricional, el CH entra en la categoría de los nutracéuticos, termino que combina la palabra nutrición y farmacéutico y se aplica a aquellos ingredientes bioactivos, habitualmente contenidos en alimentos funcionales, que, adecuadamente presentados, dosificados y suplementados en la dieta, son capaces de actuar de forma sostenible como coadyuvantes en la prevención y tratamiento de ciertas enfermedades por su ausencia de efectos secundarios adversos.</p>
         <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;">Estudios y revisiones realizadas hasta la fecha apuntan que los efectos beneficiosos de toma de CH se producen principalmente en aquellas afecciones patológicas derivadas de la perdida y deterioro de la proteína de colágeno, un proceso que ocurre progresivamente de modo natural al envejecer, y que puede acelerarse en determinadas circunstancias, dando lugar a consecuencias muy diversas como el desgaste articular, la pérdida de masa ósea y en envejecimiento dérmico. E este caso la función básica atribuida al Ches la mejora del estado de los tejidos conectivos y la ralentización de su deterioro.</p>
         </div>
@@ -732,6 +734,12 @@
 </a>
 
   </div>
+
+  <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
+
+
 
 </body>
 <footer style="margin-top:70px">

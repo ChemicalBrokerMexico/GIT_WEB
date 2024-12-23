@@ -2,20 +2,20 @@
 <html>
 
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Aceite RBD de Cargill</title>
-    <meta name="description" content="Descubre nuestro aceite RBD (Refinado, Blanqueado y Desodorizado) de alta calidad, perfecto para la industria alimentaria y cosmetica. Ideal para la produccion de alimentos, productos de cuidado personal y mas. Garantiza pureza y consistencia en cada lote con nuestro suministro confiable.">
-    <link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <link rel="canonical" href="https://chemicalbroker.mx/Aceite_RBD.php">
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
-    <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-        integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
-    <link rel="stylesheet" href="css/History_Line.css">
-    <link rel="stylesheet" href="css/jquery.dataTables.min.css">
-    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
+  <title>Chemical Broker | Aceite de Coco del Fabricante Vantage</title>
+  <meta name="description" content="Descubre los beneficios del aceite de coco puro y natural. Ideal para cocinar, Cuidar la piel y el Cabello, Compra ahora y disfruta de un producto versatil y saludable para tu bienestar diario."> 
+  <link rel="shortcut icon" href="img/CB_ICON.ico" />
+  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/History_Line.css">
+  <link rel="stylesheet" href="css/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
     <script src="https://code.jquery.com/jquery-3.5.1.js"
         integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="js/materialize.js" type="text/javascript"></script>
@@ -350,7 +350,7 @@
                                 </section>
                             </div>
                             <div class="col s12 m12 l12 xl8">
-                                <section>
+                                <!-- <section>
                                     <ul>
                                         <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                                             <hr class="hr">
@@ -360,15 +360,15 @@
                                                         id="aparece"></i></a></li>
                                         </p>
                                     </ul>
-                                </section>
-                                <section>
+                                </section> -->
+                                <!-- <section>
 <ul> 
 <p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas y sugerencias</b>
 </p><hr class="hr">
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
                             </div>
                             <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                                 <section>
@@ -632,10 +632,8 @@
         <ul class="slides slides-pruea">
           <li><img src="img/ACEITE_RBD_211223.jpg" style="height:400px;" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Aceite de Soya Refinado</b>
-              <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Aceite de Soya Refinado</b></a></section>
-    </div>
+              <h1 class="primertitulo"><b class="boldbanner">Aceite de Soya Refinado</b><br></h1>
+           
             </div>
           </li>
         </ul>
@@ -648,7 +646,12 @@
    <div class="container" style="margin-top:150px">
     <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:0px;"><b>Aceite de Soya Refinado, Blanqueado y Desodorizado (RBD)</b></h2>
+
+
+      <section style="margin-top:0px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Aceite de Soya Refinado</b></a></section>
+
+
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Aceite de Soya Refinado, Blanqueado y Desodorizado (RBD)</b></h2>
         <p class="Tipografia--general letranegro General--Cuerpo">Es un tipo de aceite vegetal que se obtiene a partir de los granos de soya, este proceso de refinado implica varias etapas para eliminar impurezas y componentes no deseados del aceite crudo de soya.</p>
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Las etapas principales del proceso RBD son:</p>
         <ol style="margin-top:30px;">
@@ -663,7 +666,7 @@
         <ol>
      
             <li style="list-style-type:disc;margin-top:0px;" class="Elementos--listas"><b>Cocción y Freír. -</b> tiene un alto punto de humo, lo que lo hace adecuado para la cocción y freir a altas temperaturas. Su estabilidad térmica significa que puede soportar temperaturas elevadas sin descomponerse o producir humo.</li>
-            <li style="list-style-type:disc;margin-top:30px;" class="Elementos--listas"><b>Sabor neutro. -</b> El proceso de refinado y desodorización elimina gran parte del sabor y olor característicos de la soya, dejando un aceite con un sabor neutro. Esto hace que sea versátil y adecuado para una gran variedad de preparaciones culinarias sin afectar significativamente el sabor d ellos alimentos.</li>
+            <li style="list-style-type:disc;margin-top:30px;" class="Elementos--listas"><b>Sabor neutro. -</b> El proceso de refinado y desodorización elimina gran parte del sabor y olor característicos de la soya, dejando un aceite con un sabor neutro. Esto hace que sea versátil y adecuado para una gran variedad de preparaciones culinarias sin afectar significativamente el sabor de ellos alimentos.</li>
             <li style="list-style-type:disc;margin-top:30px;" class="Elementos--listas"><b>Extensor de vida útil. -</b> el proceso de refinado ayuda a eliminar impurezas y componentes que podrían hacer que el aceite se vuelva rancio más rápidamente. Como resultado tiene una vida útil más larga en comparación con los aceites crudos.</li>
             <li style="list-style-type:disc;margin-top:30px" class="Elementos--listas"><b>Textura y Emulsificación. -</b> se utiliza en la fabricación de productos alimenticios para mejorar la textura y la boca. También se utiliza como agente emulsionante en productos como mayonesas y aderezos para ensaladas.</li>
         </ol>
@@ -728,14 +731,15 @@
     </div>
     </div>
 
-    <a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
-
-<i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
-
-</a>
+ 
 
 
    </div>
+
+   
+   <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
 
 
 

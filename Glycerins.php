@@ -275,7 +275,7 @@
                 </section>
               </div>
               <div class="col s12 m12 l12 xl8">
-                <section>
+                <!-- <section>
                   <ul>
                     <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                       <hr class="hr">
@@ -291,7 +291,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
               </div>
               <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                 <section>
@@ -546,9 +546,9 @@
         <ul class="slides slides-pruea">
           <li><img src="img/CB_GLICERINAS_030823.jpg" style="height:800px;" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Glicerina</b>
+              <h1 class="primertitulo"><b class="boldbanner">Glicerina</b><br></h1>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Glycerins.php"><b class="Tipografia--general Subtitulos" style="color:red;">Glicerina</b></a></section>
+      
     </div>
             </div>
           </li>
@@ -562,6 +562,8 @@
   <div class="container" style="margin-top:130px;">
     <div class="row">
       <div class="col s12 m12 l12 xl12">
+
+      <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Glycerins.php"><b class="Tipografia--general Subtitulos" style="color:red;">Glicerina</b></a></section>
         <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b style="border-bottom:3px solid red;">Glicerinas</b></h2>
 
         <p class="Tipografia--general letranegro General--Cuerpo"><b>Chemical Broker</b> distribuye mundialmente

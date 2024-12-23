@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
-    <title>Chemical Broker</title>
+    <title>Chemical Broker | Pan de Caja</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -178,7 +178,7 @@
                   </section>
                 </div>
                 <div class="col s12 m12 l12 xl8">
-                  <section>
+                  <!-- <section>
                     <ul> 
                       <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                         <hr class="hr">
@@ -193,7 +193,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
                 </div>
                 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                   <section>
@@ -390,46 +390,112 @@
         </div>
       </div>
     </ul>
+
     <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li> <img src="img/CB_PANCAJA_190521.jpg" alt="" style="height:650px">
+          <li><img src="img/CB_PANCAJA_190521.jpg" style="height:400px;" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">Pan de Caja</b>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Pan de Caja</b>
+              <div class="container">
+      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Pan_Caja.php"><b class="Tipografia--general Subtitulos" style="color:white;">Mercados ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:white;">Alimentos ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:white;">Panificacion ></b> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:red;">Pan de Caja</b></a></a></section>
+    </div>
             </div>
           </li>
         </ul>
       </div>
     </div>
-    <div class="container">
+
+    <div class="container" style="margin-top:130px;">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Panificacion.php" style="color:#262137 !important;margin-left:-2px"><b>Panificacion  ></b></a> <a href="Pan_Caja.php" class="breitem active" style="color:#262137 !important"><b>Pan de Caja</b></a> </section></section>
+          <p class="Tippografia--general letranegro General--Cuerpo">La industria del pan de caja (tambien conocido como pan de molde o pan empacado) es un segmento significativo dentro del sector de productos de panificacion. Este tipo de pan, caracterizado por su presentacion rectangular y en rebanadas uniformes, se han consolidado como un alimento como un alimento basico en muchas culturas debido a su conveniencia, durabilidad y versatilidad.</p>
+          <h5 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020;">Innovacion y tendencias</b></h5>
+          <ol>
+            <li style="list-style-type:disc;margin-top:30px;">Ingredientes funcionales: Cada vez más, los fabricantes incluyen ingredientes como fibra, semillas, proteínas, y fortificaciones vitamínicas para satisfacer la demanda de productos más saludables</li>
+            <li style="list-style-type:disc;margin-top:30px;">Etiquetas Limpias: Los consumidores buscan opciones sin conservantes, colorantes artificiales y aditivos químicos</li>
+            <li style="list-style-type:disc;margin-top:30px;">Opciones dietéticas: El crecimiento de dietas específicas a impulsado la oferta de panes sin gluten, bajos en carbohidratos y veganos</li>
+            <li style="list-style-type:disc;margin-top:30px;">Sostenibilidad: Las marcas están apostando por empaques biodegradables y prácticas de producción sostenibles para reducir su impacto ambiental</li>
+          </ol>
+          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Perspectivas futuras:</b></h5>
+          <ol>
+            <li style="margin-top:30px;" class="Elementos--Listas">Crecimiento en mercado emergentes: El aumento en el poder adquisitivo y los cambios de los habitos alimenticios en regiones como Asia y África están generando nuevas oportunidades</li>
+            <li style="margin-top:30px;" class="Elementos--Listas">Difgitalización: Las ventas de pan de caja a través de plataformas de comercio electrónico están creciendo rápidamente, especialmente después de la pandemia.</li>
+            <li style="margin-top:30px;" class="Elementos--Listas">Mayor personalización: Se espera un aumento en opcines hechas a medida para consumidores con necesidades dietéticas específicas.</li>
+          </ol>
+          
+          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Ingredientes Quimicos utilizados</b></h5>
+
+          <ol>
+            <li class="Elementos--Listas">Conservadores: Estos prolongan la vida útil para el pan al prevenir el desarrollo de mohos y bacterias:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Propionato de calcio o sodio: Inhibe el crecimiento de moho y bacterias</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Ácido sórbico y sorbatos (como el sorbato de potasio): Se usan para evitar el crecimiento de moho</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Ácido acético (vinagre en forma comercial): Actúa como conservador y mejora el sabor</li>
+              </ol>
+            </li>
+            <li class="Elementos--Listas" style="margin-top:50px;">Emulsionantes: Mejoran la textura y prolongan la frescura al evitar que el pan se endurezca:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Mono y diglicéridos: Ayudan a estabilizar la mezcla de agua y grasa en la masa</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Ésteres de ácido tartárico y mono y diglicériodos (DATEM): Mejoran la elasticidad y estructura de la miga</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Lecitina: Facilita la mezcla de ingredientes y mejora la textura</li>
+              </ol>
+            </li>
+            <li class="Elementos--Listas" style="margin-top:50px;">Mejoradores de panificación
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Ácido ascórbico (Vitamina C): Actúa como oxidante y mejora la resistencia de la masa</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Peróxido de calcio: Se usa como agente blanqueador en la harina</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Cisteína: Reduce la elasticidad de la masa para facilitar su manejo</li>
+              </ol>
+            </li>
+            <li class="Elementos--Listas" style="margin-top:50px;"> Estabilizadores y espesantes: Proveen consistente a la masa y mejora la textura del pan
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Goma guar y Goma xantana: Ayudan a mantener la estructura y a retener la humedad</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Carboximetilcelulosa (CMC): Mejora la estabilidad y da una sensacion más suave en boca</li>
+              </ol>
+            </li>
+            <li class="Elementos--Listas" style="margin-top:50px;">Azúcares y agentes edulcorantes: Aporta dulzura, mejoran la fermentacion y prolonga la frescura:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Jarabe de maíz de alta fructosa o glucosa: Aumenta la dulzura y la conservación</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Sucralosa o estevia (en panes bajos en calorías): proveen dulzura sin calorias</li>
+              </ol>
+            </li>
+            <li class="Elementos--Listas" style="margin-top:50px;"> Blanqueador de harina: En algunas regiones, se utilizan para darle un color más blanco: 
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Dióxido de cloro: blanquea la harina y mejora su fuerza</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Peróxidos: Se usan como agentes de maduración de la harina</li>
+              </ol>
+            </li>
+            <li class="Elementos--Listas" style="margin-top:50px;"> Agentes de fermentación: Mejoran la capacidad de la masa para elevarse:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Levadura química (bicarbonato de sodio y polvo para hornear): Aumenta el volumen del pan</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Sales de fosfato: Ajustan la acidez y ayudan en la fermentación</li>
+              </ol>
+            </li>
+            <li class="Elementos--Listas" style="margin-top:50px;"> Colorantes y mejoradores visuales: Aunque son menos comunes en pan de caja, algunos productos utilizan: 
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Color caramelo: En panes integrales o de centeno</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Beta-carotenos: Para dar un tono dorado natural</li>
+              </ol>
+            </li>
+          </ol>
         </div>
       </div>
     </div>
+
+    
    
 
 
-<div class="container">
-  <div class="row">
-    <div class="col s12 m12 l12 xl12">
-   <p style="color: orange;">La industria necesitaba un pan que se mantuviera fresco por más tiempo que el pan artesanal, es así como surgió el pan de caja, este pan se caracteriza por su textura blanda, </p>
-    </div>
-    <div class="col s12 m12 l12 xl12">
-      <h5><b style="color: #262137;">Productos</b></h5>
-    </div>
-  </div>
-</div>
 
 
 
 </body>
-  <footer style="margin-top:70px">
-    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""></div><br><br>
+<footer style="margin-top:70px">
+    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg" alt=""/></div><br/><br/>
     <div class="container-fluid" style="text-align:center;margin-top:-50px">
-      <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad  </a>
-            <script type="text/javascript" src="js/main.js"></script></a></strong></p>
+      <p style="color:black;text-align:center;font-size:16px"><strong>© 2014 C&E | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download="download" style="color:black !important;font-size:16px">Politica de Privacidad  </a>
+            <script type="text/javascript" src="js/main.js">   </script></a></strong></p>
     </div>
   </footer>
 </html>

@@ -179,7 +179,7 @@
                   </section>
                 </div>
                 <div class="col s12 m12 l12 xl8">
-                  <section>
+                  <!-- <section>
                     <ul> 
                       <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                         <hr class="hr">
@@ -194,7 +194,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
                 </div>
                 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                   <section>
@@ -394,7 +394,7 @@
     <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li> <img src="img/" alt="" style="height:650px">
+          <li> <img src="img/CB_CHIPS.jpg" alt="" style="height:650px">
             <div class="caption center-align"><br><br><br><br>
               <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">Papas</b>
             </div>
@@ -405,12 +405,144 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Carbonatadas.php" style="color:#262137 !important;margin-left:-2px"><b>Tortillas & Snacks  ></b></a> <a class="breditem active" href="Tortillas.php" style="color:#262137 !important;margin-left:-2px"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Papas  </b></a> </section></section>
+        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Carbonatadas.php" style="color:#262137 !important;margin-left:-2px"><b>Tortillas & Snacks  ></b></a> <a class="breditem active" href="Tortillas.php" style="color:#262137 !important;margin-left:-2px"><b class="Tipografia--general letranegro Subtitulos breadcrumb" style="color:red;">Papas  </b></a> </section></section>
         </div>
       </div>
     </div>
    
+    <div class="container">
+      <div class="row">
+        <div class="col s12 m12 l12 xl12">
+          <h2 class="Tipografia--general letranegro General--Cuerpo"><b>La industria de las papas</b></h2>
 
+          <p class="Tipografia--general letranegro General--Cuerpo">La industria de las papas es un sector global que incluye la producción, procesamiento y comercialización de una amplia variedad de productos a base de papa. Desde papas frescas hasta alimentos procesados como papas fritas, puré instantáneo y chips, esta industria abarca tanto el consumo doméstico como el mercado de alimentos preparados.</p>
+
+         <ol>
+          <li class="Elementos--Listas" style="margin-top:30px;"> Importancia económica y cultural
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;">Cultivo global: La papa es el cuarto cultivo alimenticio más importante del mundo después del maíz, el trigo y el arroz. Países como China, India, Rusia y Estados Unidos lideran la producción.</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Consumo global: La versatilidad de la papa la hace popular en casi todas las culturas culinarias, desde guarniciones básicas hasta snacks procesados.</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Industria diversificada: Abarca mercados frescos, congelados, deshidratados y procesados.</li>
+            </ol>
+          </li>
+         </ol>
+
+         <ol>
+          <li class="Elementos--Listas" style="margin-top:30px;"> Segmentación del mercado
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;">Por tipo de producto
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Papas frescas: Vendidas directamente para consumo o procesadas.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Productos congelados: Papas fritas (fries), gajos y otras variedades listas para cocinar.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Snacks: Papas fritas en bolsa, papas saborizadas y productos horneados.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Procesados deshidratados: Puré instantáneo, hojuelas de papa y almidón de papa.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Productos gourmet: Chips artesanales, orgánicas o con ingredientes especiales.</li>
+                </ol>
+              </li>
+            </ol>
+          </li>
+         </ol>
+
+         <ol>
+          <li class="Elementos--Listas" style="margin-top:30px;">Por canal de distribución
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;">Retail: Supermercados, tiendas de conveniencia.</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Food service: Restaurantes, cadenas de comida rápida y catering.</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Mercado gourmet: Marcas premium y productos artesanales.</li>
+            </ol>
+          </li>
+         </ol>
+
+         <ol>
+          <li class="Elementos--Listas" style="margin-top:30px;"> Proceso de producción
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;">Selección de variedades de papa:
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Variedades específicas para chips, papas fritas o puré (ej., Russet, Yukon Gold, Kennebec).</li>
+                </ol>
+              </li>
+            </ol>
+          </li>
+         </ol>
+
+         <ol>
+          <li class="Elementos--Listas" style="margin-top:30px;">Lavado y pelado: Remoción de suciedad y piel con sistemas automatizados.</li>
+         </ol>
+
+         <ol>
+          <li class="Elementos--Listas" style="margin-top:30px;">Corte y conformado:
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;">Chips: Rebanadas finas.</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Papas fritas: Corte en bastones o formas específicas.</li>
+            </ol>
+          </li>
+         </ol>
+
+         <ol>
+          <li class="Elementos--Listas" style="margin-top:30px;">Cocción:
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;">Fritura: En aceites vegetales (freído profundo).</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Horneado: Para opciones saludables.</li>
+            </ol>
+          </li>
+         </ol>
+
+         <ol>
+          <li class="Elementos--Listas" style="margin-top:30px;">Sazonado: Adición de sal, especias y saborizantes.</li>
+         </ol>
+
+         <ol>
+          <li class="Elementos--Listas" style="margin-top:30px;">Empaque: Utilizando materiales que preserven frescura y textura.</li>
+         </ol>
+
+         <ol>
+          <li class="Elementos--Listas" style="margin-top:30px;">Ingredientes químicos comunes</li>
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Conservadores
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Antioxidantes: TBHQ, BHA o tocoferoles (evitan el enranciamiento en productos fritos).</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Acidulantes: Ácido cítrico, para estabilizar el sabor y prevenir la oxidación.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Metabisulfito de sodio: Evita el pardeamiento en papas frescas y procesadas.</li>
+              </ol>
+            </li>
+          </ol>
+         </ol>
+
+         <ol>
+          <li class="Elementos--Listas" style="margin-top:30px;">Sazonadores y aditivos
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;">Cloruro de sodio (sal común): Para sazonar.</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Glutamato monosódico (MSG): Potenciador de sabor.</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Colorantes: Naturales (cúrcuma, pimentón) o artificiales (amarillo #5)</li>
+            </ol>
+          </li>
+         </ol>
+
+
+         <ol>
+          <li class="Elementos--Listas" style="margin-top:30px;">Estabilizantes y texturizantes
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;">Almidón modificado: Mejora la textura en productos como puré instantáneo.</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Goma xantana y goma guar: Usadas en productos deshidratados o congelados.</li>
+            </ol>
+          </li>
+         </ol>
+
+         <ol>
+          <li class="Elementos--Listas" style="margin-top:30px;">Tendencias actuales
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;">Productos saludables: Papas horneadas, bajas en sodio, sin gluten o con grasas saludables.</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Snacks gourmet: Chips artesanales, con sabores únicos o elaborados con variedades de papa especiales.</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Sostenibilidad: Producción orgánica, uso de energías limpias y empaques biodegradables.</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Sabores innovadores: Combinaciones como trufa, chile-limón, wasabi, o hierbas exóticas.</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Procesos limpios: Etiquetas transparentes con menos aditivos artificiales.</li>
+            </ol>
+          </li>
+         </ol>
+
+        </div>
+      </div>
+    </div>
 
 
 

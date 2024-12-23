@@ -178,7 +178,7 @@
                   </section>
                 </div>
                 <div class="col s12 m12 l12 xl8">
-                  <section>
+                  <!-- <section>
                     <ul> 
                       <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                         <hr class="hr">
@@ -193,7 +193,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
                 </div>
                 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                   <section>
@@ -404,32 +404,109 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Lacteos.php" style="color:#262137 !important;margin-left:-2px"><b>Lacteos  ></b></a> <a href="Leche_Saborizada.php" class="breitem active" style="color:#262137 !important"><b>Leche Saborizada</b></a> </section></section>
+        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Lacteos.php" style="color:#262137 !important;margin-left:-2px"><b>Lacteos  ></b></a> <a href="Leche_Saborizada.php" class="breitem active" style="color:red !important"><b>Leche Saborizada</b></a> </section></section>
         </div>
       </div>
     </div>
    
 
-<div class="container">
-  <div class="row">
-    <div class="col s12 m12 l12 xl12">
-    <p style="color: orange;">El consumo de este producto está incrementando de manera sostenida en los últimos años en el mercado mexicano, debido a las condiciones de salud que otorga al consumidor.</p>
-    </div>
-    <div class="col s12 m12 l12 xl12">
-      <h5><b style="color: #262137;">Productos</b></h5>
-    </div>
-  </div>
-</div>
+      <div class="container">
+        <div class="row">
+          <div class="col s12 m12 l12 xl12">
+            <p class="letranegro General--Cuerpo Tipografia--general">La industria de la leche saborizada es una categoria en crecimiento dentro del sector lacteo que combina leche líquida con sabores, edulcorantes y otros ingredientes para atraer a diferentes segmentos del mercado, especialmente niños y adolescentes. Este sector es popular debido a su combinación de valores nutricionales de la leche con sabores agradables, como chocolate, fresa, vainilla y variedades mas innovadoras.</p>
+
+            <h2 class="letranegro General--Cuerpo Tipografia--general"><b style="color:#000020;">Características principales</b></h2>
+
+            <ol>
+              <li class="Elementos--Listas">Producto base: Utiliza leche entera, semidescremada o descremada como base</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Variedad de sabores: Chocolate, fresa y vainilla son los más comunes, aunque se han introducido opciones cini caramelo, café, mango y especias</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Mercado objetivo: Principalmente niños, adolescentes y consumidores que buscan bebidas nutritivas y de sabor agradable</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Presentaciones: Disponible en formatos listos para beber (RTD) concentrados líquidos o en polvo para mezclar con agua o leche</li>
+            </ol>
+
+            
+            <h2 class="letranegro General--Cuerpo Tipografia--general"><b style="color:#000020;">Proceso de Produccion</b></h2>
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;">Recepcion y pasteurización: La leche cruda es pasteurizada para eliminar microorganismos</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Homogeneización: Se asegura la distribucion uniforme de la grasa en la leche para una textura suave</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Adición de saborizantes: Se incorporan edulcorantes, sabores artificiales o naturales y colorantes</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Tratamiento térmico adicional: Muchos productos se someten a procesos como ultra pasteurizacion (UHT) para extender su vida util</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Envasado: En botellas, cartones o envases individuales, a menudo diseñados para ser atrativos para los consumidores jovenes</li>
+            </ol>
+
+            <h2 class="letranegro General--Cuerpo Tipografia--general"><b style="color:#000020;">Ingredientes Comunes</b></h2>
+
+            <ol>
+              <li class="Elementos--Listas">Saborizantes
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Naturales: Extracto de vainilla, cacao, concentrado de frutas</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Artificiales: Aromas diseñados para replicar sabores naturales de frutas o chocolates</li>
+                </ol>
+              </li>
+            </ol>
+            </ol>
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:50px;">Edulcorantes
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Azúcar (sacarosa): Es el edulcorante más común</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Jarabe de maíz de alta fructosa: Utilizada en algunas versiones económicas</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Edulcorantes artificiales: Aspartame, sucralosa o acesulfame - K en versiones bajas en calorias</li>
+                </ol>
+              </li>
+            </ol>
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:50px;"> Colorantes
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Naturales: Betalaínas, cúrcuma, antocianinas (de frutas y verduras)</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Artificiales: Colorantes como el rojo 40 o el maarillo 5 segun la normativa local</li>
+                </ol>
+              </li>
+            </ol>
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:50px;"> Estabilizantes y espesantes
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Carragenina, goma guar o goma xantana: Aseguran una textura uniforme y evitan la sedimentacion</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Fosfatos: Ayudan a mantener la emulsion de grasa y agua</li>
+                </ol>
+              </li>
+            </ol>
+            
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:50px;">Fortificantes
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Vitaminas (A,D,B12): Comunes para compensar la pérdida durante el procesamiento</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Minerales (calcio, hierro): fortalecen el perfil nutricional</li>
+                </ol>
+              </li>
+            </ol>
+
+
+
+          </div>
+        </div>
+      </div>
 
 
 
 
 </body>
-  <footer style="margin-top:70px">
-    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""></div><br><br>
+<footer style="margin-top:70px">
+    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
+            alt=""></div><br><br>
     <div class="container-fluid" style="text-align:center;margin-top:-50px">
-      <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad  </a>
-            <script type="text/javascript" src="js/main.js"></script></a></strong></p>
+        <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos
+            Reservados.
+            | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
+                href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download
+                style="color:black !important;font-size:16px">Politica de
+                Privacidad </a>
+            <script type="text/javascript" src="js/main.js"></script></a></strong>
+        </p>
+        <script type="text/javascript" src="js/Products.js"></script>
     </div>
-  </footer>
+</footer>
 </html>

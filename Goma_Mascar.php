@@ -5,14 +5,14 @@
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
     <title>Chemical Broker</title>
-    <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
-    <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
-    <link rel="stylesheet" href="css/History_Line.css">
-    <link rel="stylesheet" href="css/jquery.dataTables.min.css">
-    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/History_Line.css">
+  <link rel="stylesheet" href="css/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
     <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="js/materialize.js" type="text/javascript"></script>
     <script src="js/init.js"></script>
@@ -178,7 +178,7 @@
                   </section>
                 </div>
                 <div class="col s12 m12 l12 xl8">
-                  <section>
+                  <!-- <section>
                     <ul> 
                       <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                         <hr class="hr">
@@ -193,7 +193,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
                 </div>
                 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                   <section>
@@ -408,19 +408,150 @@
         </div>
       </div>
     </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col s12 m12 l12 xl12">
+          <p class="Tipografia--general letranegro General--Cuerpo">La industria de las gomas de mascar es un segmento importante del mercado de confitería, conocido por su carácter lúdico y funcional. Las gomas de mascar, también llamadas chicles, son productos elásticos y masticables, desarrollados a partir de bases naturales o sintéticas, con sabores variados. Aquí te doy un panorama de esta industria:</p>
+
+          <h2 class="Tipografia--general letranegro Titulos"><b>Historia y Evolución</b></h2>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Orígenes naturales: Los primeros chicles fueron hechos con chicle de sapodilla, un látex natural conocido como chicle, usado por los mayas y aztecas.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Desarrollo industrial: En el siglo XIX, empresas como Wrigley revolucionaron el mercado al usar bases sintéticas y agregar saborizantes, consolidando el chicle como producto de masas.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Actualidad: La industria ha evolucionado hacia productos funcionales (sin azúcar, con beneficios dentales) y con menor impacto ambiental.</li>
+          </ol>
+
+          <h2 class="Tipografia--general letranegro Titulos"><b>Segmentación del mercado</b></h2>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Por tipo de producto
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Tradicional: Chicles con azúcar, en presentaciones clásicas.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Sin azúcar: Con edulcorantes como xilitol, enfocados en la salud bucal.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Funcionales: Gomas de mascar con beneficios adicionales como blanqueadores dentales, nicotina para dejar de fumar, o suplementos vitamínicos.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Especializados: Gomas energéticas, relajantes (con CBD), o con sabores inusuales.</li>
+              </ol>
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Por formato
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Barras o tabletas: Más rígidas y con larga duración.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Pelotas o esferas: Generalmente más dulces, populares entre niños.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Chicles rellenos: Con centros líquidos o polvos</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">En polvo o gránulos: Innovadores y prácticos.</li>
+                  </ol>
+                </li>
+              </ol>
+            </li>
+          </ol>
+
+          <h2 class="Tipografia--general letranegro Titulos">Principales actores</h2>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;"> Marcas globales:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Wrigley (Mars, Inc.): Productora de Orbit, Extra y 5 Gum.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Perfetti Van Melle: Con marcas como Mentos Gum y Happydent.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Mondelez International: Con Trident y Clorets.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Lotte: Importante en mercados asiáticos.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;"> Proceso de producción
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Creación de la base: Mezcla de polímeros, resinas y elastómeros, naturales o sintéticos.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Añadido de edulcorantes: Azúcar o alternativas como xilitol o sorbitol.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Incorporación de saborizantes y colorantes: Naturales o sintéticos, para dar sabor y atractivo visual.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Formado y enfriado: La masa se moldea en tiras, tabletas o pelotas y se enfría</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Empaque: Diseñado para preservar frescura y facilitar el transporte.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <h2 class="Tipografia--general letranegro Titulos">Ingredientes Quimicos Utilizados</h2>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;"> Base de goma
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Polímeros sintéticos: Como acetato de polivinilo (PVA) y caucho estireno-butadieno (SBR).</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Gomas naturales: Chicle (de sapodilla) o goma jelutong.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Resinas: Ayudan a mantener la elasticidad.</li>
+                <li  class="Elementos--Listas" style="margin-top:30px;">Plastificantes y emolientes: Como glicerol, para suavizar la textura.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Edulcorantes
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Con azúcar: Sacarosa, jarabe de glucosa.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Sin azúcar: Xilitol, sorbitol, maltitol, o sucralosa.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Intensos: Aspartame, acesulfame K.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Saborizantes
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Naturales: Aceites esenciales de menta, hierbabuena, frutas.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Artificiales: Compuestos químicos que reproducen sabores intensos y duraderos.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;"> Colorantes
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Naturales: Curcumina, betalaínas, antocianinas.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Artificiales: Azul brillante (E133), tartrazina (E102), rojo allura (E129).</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;"> Recubrimientos
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Ceras: Cera de carnauba para dar brillo.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Polietilenglicol (PEG): Mejora la textura de la superficie.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Agentes funcionales
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Xilitol: Antibacteriano, favorece la salud bucal.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Flúor: En gomas dentales</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Cafeína, CBD o nicotina: En productos funcionales.</li>
+              </ol>
+            </li>
+          </ol>
+
+        </div>
+      </div>
+    </div>
    
 
-
+    <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
 
 
 
 
 </body>
-  <footer style="margin-top:70px">
-    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""></div><br><br>
-    <div class="container-fluid" style="text-align:center;margin-top:-50px">
-      <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad  </a>
-            <script type="text/javascript" src="js/main.js"></script></a></strong></p>
-    </div>
-  </footer>
+ 
+<footer class="altofooter">
+        <div class="divfooter" style="text-align:center;"><img class="imglogoCE"
+                src="img/CB_IMAGOTIPO_LEON.jpg" alt="ESCUDO DE C&E"></div><br><br>
+        <div class="container-fluid center-align" style="margin-top:-50px">
+            <p class="Tipografia--general letranegro center-align Pie--Pagina">© 2014 C&E | Chemical Broker Todos los
+                Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto
+                    |&nbsp</a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download
+                    style="color:black !important;font-size:16px">Politica de Privacidad </a></p>
+        </div>
+    </footer>
 </html>

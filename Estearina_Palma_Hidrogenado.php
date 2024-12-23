@@ -16,6 +16,8 @@
   <link rel="stylesheet" href="css/History_Line.css">
   <link rel="stylesheet" href="css/jquery.dataTables.min.css">
   <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
   <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
     crossorigin="anonymous"></script>
   <script src="js/materialize.js" type="text/javascript"></script>
@@ -277,7 +279,7 @@
                 </section>
               </div>
               <div class="col s12 m12 l12 xl8">
-                <section>
+                <!-- <section>
                   <ul>
                     <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                       <hr class="hr">
@@ -293,7 +295,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
               </div>
               <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                 <section>
@@ -546,11 +548,11 @@
   <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li><img src="img/CB_ESTEARINA_PALMA_281223.png" style="height:820px;margin-top:-420px;" alt="Historia Ascendente">
+          <li><img src="img/CB_ESTEARINA_PALMA_281223.png" style="height:820px;margin-top:-420px;filter:brightness(0.9)" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Estearina de Palma</b>
+              <h1 class="primertitulo"><b class="boldbanner">Estearina de Palma (RBD) Alto Hidrogenado</b><br></h1>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Estearina de Palma</b></a></section>
+      
     </div>
             </div>
           </li>
@@ -561,23 +563,26 @@
   <div class="container" style="margin-top:130px;">
     <div class="row">
       <div class="col s12 m12 l12 xl12">
-        <p class="Tipografia--general letranegro General--Cuerpo">La estearina de palma refinada, blanqueada y
-          desodorizada (RBD) es una grasa vegetal derivada del aceite de palma. La estearina de palma RBD es una
+
+      <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Estearina de Palma (RBD) Alto Hidrogenado</b></a></section>
+
+        <p class="Tipografia--general letranegro General--Cuerpo">La Estearina de Palma Refinada, Blanqueada y
+          Desodorizada (RBD) es una grasa vegetal derivada del aceite de palma. La Estearina de Palma RBD es una
           fracción sólida del aceite de palma RBD, obtenida por fraccionamiento mediante procesos simples de
-          cristalización y separación a temperatura controlada. Las propiedades físicas de la estearina de palma RBD
-          difieren ampliamente de las del aceite de palma RBD. La estearina de palma RBD está disponible en una gama más
+          cristalización y separación a temperatura controlada. Las propiedades físicas de la Estearina de Palma RBD
+          difieren ampliamente de las del aceite de palma RBD. La Estearina de Palma RBD está disponible en una gama más
           amplia de puntos de fusión y valores de yodo.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La estearina de palma RBD no
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La Estearina de Palma RBD no
           contiene colesterol y tiene un efecto anticoagulante, lo que ayuda a prevenir enfermedades del corazón. La
-          estearina de palma RBD contiene vitamina E, vitamina D y una proporción aproximadamente igual de ácidos grasos
-          saturados e insaturados. La estearina de palma RBD es altamente estable frente a la oxidación debido a la
+          Estearina de Palma RBD contiene vitamina E, vitamina D y una proporción aproximadamente igual de ácidos grasos
+          saturados e insaturados. La Estearina de Palma RBD es altamente estable frente a la oxidación debido a la
           presencia de tocoferoles, que actúan como un antioxidante natural y se oxidan antes que la oxidación de la
-          estearina de palma RBD.</p>
+          Estearina de Palma RBD.</p>
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La Estearina de Palma RBD
-          hidrogenada, es producto de la hidrogenación del aceite, es una cera sólida blanca o ligeramente amarilla a
+          Hidrogenada, es producto de la hidrogenación del aceite, es una cera sólida blanca o ligeramente amarilla a
           temperatura normal, insoluble en agua, difícilmente soluble en alcohol etílico, soluble en acetona, éter
-          dietílico, cloroformo, benceno, etc., propiedades químicas estables. La estearina de palma RBD hidrogenada se
-          puede usar para hacer ácido esteárico, estearato, también se puede usar en jabón, pasta de pulir, industria de
+          dietílico, cloroformo, benceno, etc., propiedades químicas estables. La Estearina de Palma RBD Alto Hidrogenada se
+          puede usar para hacer Ácido Esteárico, Estearato, también se puede usar en jabón, pasta de pulir, industria de
           velas, industria de alimentos y piensos.</p>
 
 
@@ -718,12 +723,12 @@
           <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b
               style="color:#000020;">Origen</b></h5>
           <p class="letranegro General--Cuerpo Tipografia--general"><b style="color:#000020;">Indonesia</b> es el más
-            grande del mundo Productor y Exportador de Aceite de Palma. La producción de aceite de palma es importante
+            grande del mundo Productor y Exportador de Aceite de Palma. La producción de Aceite de Palma es importante
             para la economía de Indonesia, ya que el país es el mayor productor y exportador mundial de este producto.
             Indonesia proporciona más de la mitad del suministro mundial de aceite de palma.</p>
-          <p class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;">Producción y exportaciones de aceite de palma de
-            Indonesia representa actualmente el 55% de la producción mundial de aceite de palma y el 60% de las
-            exportaciones mundiales. Toda la producción de aceite de palma se deriva de la selva tropical de Indonesia,
+          <p class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;">Producción y exportaciones de Aceite de Palma de
+            Indonesia representa actualmente el 55% de la producción mundial de Aceite de Palma y el 60% de las
+            exportaciones mundiales. Toda la producción de Aceite de Palma se deriva de la selva tropical de Indonesia,
             que ocupa el tercer lugar en el mundo, los otros dos se encuentran en las cuencas del Amazonas y el Congo.
           </p>
         </div>
@@ -752,12 +757,12 @@
         </div>
         <div class="col s12 m12 l12 xl12">
           <p class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;">Malasia es la segunda más grande del mundo Productor
-            y Exportador de Aceite de Palma. La producción de aceite de palma es vital para la economía de Malasia, que
+            y Exportador de Aceite de Palma. La producción de Aceite de Palma es vital para la economía de Malasia, que
             es el segundo mayor productor mundial de este producto después de Indonesia. Malasia tiene un papel
             importante que desempeñar para satisfacer la creciente necesidad mundial de aceites y grasas de manera
             sostenible.</p>
-          <p class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;">Producción y exportaciones de aceite de palma de
-            Malasia representa actualmente el 35% de la producción mundial de aceite de palma y el 40% de las
+          <p class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;">Producción y exportaciones de Aceite de Palma de
+            Malasia representa actualmente el 35% de la producción mundial de Aceite de Palma y el 40% de las
             exportaciones mundiales. Si se tienen en cuenta otros aceites y grasas producidos en el país, Malasia
             representa el 15% y el 30% de la producción y exportación total mundial de aceites y grasas.</p>
         </div>
@@ -799,14 +804,15 @@
       </div>
     </div>
 
-    <a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
-
-<i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
-
-</a>
+  
 
     
   </div>
+
+  <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
+  
 
 
 </body>

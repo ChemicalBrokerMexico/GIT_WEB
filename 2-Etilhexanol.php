@@ -278,7 +278,7 @@
                 </section>
               </div>
               <div class="col s12 m12 l12 xl8">
-                <section>
+                <!-- <section>
                   <ul>
                     <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                       <hr class="hr">
@@ -286,15 +286,15 @@
                           &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                     </p>
                   </ul>
-                </section>
-                <section>
+                </section> -->
+                <!-- <section>
 <ul> 
 <p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas y sugerencias</b>
 </p><hr class="hr">
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
               </div>
               <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                 <section>
@@ -549,9 +549,8 @@
         <ul class="slides slides-pruea">
           <li><img src="img/CB_2_ETHYLHEXANOL_050923.jpg" style="height:400px;" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">2-Etilhexanol</b>
+              <h1 class="primertitulo"><b class="boldbanner">2-Etilhexanol</b><br></h1>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="2-Etilhexanol.php"><b class="Tipografia--general Subtitulos" style="color:red;">2-Etilhexanol</b></a></section>
     </div>
             </div>
           </li>
@@ -564,6 +563,9 @@
   <div class="container" style="margin-top:130px;">
     <div class="row">
         <div class="col s12 m12 l12 xl12">
+
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="2-Etilhexanol.php"><b class="Tipografia--general Subtitulos" style="color:red;">2-Etilhexanol</b></a></section>
+
             <p class="Tipografia--general letranegro General--Cuerpo">El 2-etilhexanol (abreviado 2-EH) es un compuesto orgánico con fórmula C8H18O. Es un alcohol quiral ramificado de ocho carbonos. Es un líquido incoloro que es poco soluble en agua, pero soluble en la mayoría de los solventes orgánicos. Se produce a gran escala (>2 000 000 000 kg/año) para su uso en numerosas aplicaciones, como solventes, sabores y fragancias, y especialmente como precursor para la producción de otros productos químicos, como emolientes y plastificantes. Se encuentra en las fragancias naturales de la planta, y el olor ha sido reportado como terroso, y ligeramente floral para el enantiómero R y ligero y una fragancia floral dulce y ligera para el enantiómero S.</p>
 
             
@@ -814,7 +816,7 @@
 
 </body>
 <footer style="margin-top:70px">
-  <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png"
+  <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
       alt=""></div><br><br>
   <div class="container-fluid" style="text-align:center;margin-top:-50px">
     <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos Reservados.

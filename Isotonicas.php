@@ -178,7 +178,7 @@
                   </section>
                 </div>
                 <div class="col s12 m12 l12 xl8">
-                  <section>
+                  <!-- <section>
                     <ul> 
                       <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                         <hr class="hr">
@@ -193,7 +193,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
                 </div>
                 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                   <section>
@@ -404,21 +404,150 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Carbonatadas.php" style="color:#262137 !important;margin-left:-2px"><b>Bebidas  ></b></a> <a class="breditem active" href="Isotonicas.php.php" style="color:#262137 !important;margin-left:-2px"><b>Isotonicas  </b></a> </section></section>
+        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Carbonatadas.php" style="color:#262137 !important;margin-left:-2px"><b>Bebidas  ></b></a> <a class="breditem active" href="Isotonicas.php.php" style="color:red !important;margin-left:-2px"><b style="color:red;">Isotonicas  </b></a> </section></section>
         </div>
       </div>
     </div>
    
 
-<div class="container">
-<div class="row">
-<div class="col s12 m12 l12 xl12">
-<p style="color: orange;">Las bebidas isotónicas o hidratantes son aquellas que reponen el agua y electrolitos que pierde el organismo cuando hay un desgaste físico. Este tipo de producto contiene glucosa y electrolitos (sodio, magnesio, potasio y calcio), los cuales se pierden por hacer ejercicio más de una hora o realizar actividades físicas en ambientes con alta temperatura.</p>
+    <div class="container">
+
+
+    <div class="row">
+
+      <div class="col s12 m12 l12 xl12">
+
+      <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Bebidas Isotonicas</b></h2>
+
+      <p class="Tipografia--general letranegro General--Cuerpo">La industria de las bebidas isotónicas es una rama del mercado de bebidas funcionales, diseñada para satisfacer las necesidades de hidratación y reposición de electrolitos durante y después de la actividad física. Estas bebidas son populares entre atletas, personas activas y, cada vez más, en el consumo general, debido a su posicionamiento como una opción saludable.</p>
+
+      <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>¿Que son las bebidas isotónicas?</b></h2>
+
+      <p class="Tipografia--general letranegro General--Cuerpo">Las bebidas isotónicas son soluciones que contienen concentraciones similares de electrolitos y carbohidratos que los fluidos corporales. Están diseñadas para:</p>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">Las bebidas isotónicas son soluciones que contienen concentraciones similares de electrolitos y carbohidratos que los fluidos corporales. Están diseñadas para:</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Restaurar electrolitos como sodio, potasio, magnesio y calcio.</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Proveer energía rápida mediante carbohidratos de fácil absorción.</li>
+      </ol>
+
+      <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Mercado Global</b></h2>
+
+      <p class="Tipografia--general letranegro General--Cuerpo">El mercado de bebidas isotónicas ha experimentado un crecimiento constante, estimado en $7,000 millones USD en 2023, con previsiones de expansión debido a la mayor conciencia sobre la salud y la actividad física. Las regiones clave son:</p>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">América del Norte: Principal consumidor, liderado por EE. UU.</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Asia-Pacífico: Mercados emergentes con alta demanda debido a la urbanización y el interés en el deporte</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Europa: Enfocado en productos funcionales y saludables.</li>
+      </ol>
+
+      <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Tendencias y desarrollo</b></h2>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">Fórmulas más saludables
+          <li class="Elementos--Listas" style="margin-top:30px;">Reducción de azúcar y uso de edulcorantes naturales como estevia o eritritol.</li>
+          <li class="Elementos--Listas" style="margin-top:30px;">Inclusión de ingredientes orgánicos o "limpios".</li>
+        </li>
+
+        <li class="Elementos--Listas" style="margin-top:30px;">Innovaciones en el producto
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Bebidas isotónicas en polvo o tabletas efervescentes, más prácticas y sostenibles.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Enriquecimiento con proteínas, colágeno, aminoácidos o probióticos para añadir beneficios adicionales.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Bebidas funcionales para nichos específicos, como la hidratación durante el embarazo o para adultos mayores.</li>
+          </ol>
+        </li>
+      </ol>
+
+
+      <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Ingredientes Quimicos utilizados</b></h2>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">Electrolitos: Los electrolitos son esenciales para la hidratacion y la función muscular y son químicos claves en las bebidas isotónicas:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Cloruro de sodio (NaCl): Fuente de sodio y cloro, ayuda a retener agua en el cuerpo y a reponer sales perdidas por el sudor.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Cloruro de potasio (KCl): Proporciona potasio, necesario para la función muscular y el equilibrio hídrico.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Citrato de sodio (Na₃C₆H₅O₇): Regula la acidez y actúa como una fuente de sodio adicional.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Fosfato de magnesio (Mg₃(PO₄)₂): Fuente de magnesio para prevenir calambres musculares.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Citrato de calcio (Ca₃(C₆H₅O₇)₂): Fuente de calcio, esencial para contracciones musculares y la salud ósea.</li>
+          </ol>
+        </li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Carbohidratos: Proveen energía rápida y mejoran el sabor:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Glucosa: Carbohidrato simple de rápida absorción.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Fructosa: Endulzante natural que también aporta energía.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Maltodextrina: Carbohidrato complejo derivado del almidón, se digiere fácilmente.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Jarabe de glucosa-fructosa: Mezcla líquida que combina glucosa y fructosa, utilizada en bebidas isotónicas comerciales.</li>
+          </ol>
+        </li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Acidulantes: Regulan el pH, mejoran el sabor y actúan como conservantes:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Ácido cítrico (C₆H₈O₇): Da un sabor refrescante y ácido, además de estabilizar el pH.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Ácido málico (C₄H₆O₅): Intensifica los sabores frutales.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Ácido fosfórico (H₃PO₄): Ocasionalmente usado para ajustar la acidez, aunque es más común en otras bebidas.</li>
+          </ol>
+        </li>
+
+        <li class="Elementos--Listas" style="margin-top:30px;">Edulcorantes: Endulzan las bebidas para hacerlas más atractivas:
+
+        <ol>
+          <li class="Elementos--Listas" style="margin-top:30px;">Sucralosa: Edulcorante artificial de alta intensidad, sin calorías.</li>
+          <li class="Elementos--Listas" style="margin-top:30px;">Acesulfamo-K: Edulcorante no calórico, utilizado en combinación con otros para mejorar el sabor.</li>
+          <li class="Elementos--Listas" style="margin-top:30px;">Estevia: Edulcorante natural extraído de la planta Stevia rebaudiana.</li>
+          <li class="Elementos--Listas" style="margin-top:30px;">Eritritol: Polioli natural con bajo impacto en la glucosa sanguínea.</li>
+        </ol>
+        </li>
+
+        <li class="Elementos--Listas" style="margin-top:30px;">Conservantes: Prolongan la vida útil de las bebidas y evitan el crecimiento microbiano:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Benzoato de sodio (C₆H₅COONa): Previene la proliferación de levaduras y mohos.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Sorbato de potasio (C₆H₇KO₂): Inhibe el crecimiento microbiano en condiciones ácidas.</li>
+          </ol>
+        </li>
+
+        <li class="Elementos--Listas" style="margin-top:30px;">Colorantes: Se añaden para hacer las bebidas más atractivas:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Naturales
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Carotenoides (E160a): Tonos amarillos o naranjas.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Antocianinas (E163): Colores rojizos o púrpuras, derivados de frutas.</li>
+              </ol>
+            </li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Artificiales
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Azul brillante FCF (E133): Para tonos azulados.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Tartrazina (E102): Usado en bebidas amarillas o verdes.</li>
+              </ol>
+            </li>
+          </ol>
+        </li>
+
+        <li class="Elementos--Listas" style="margin-top:30px;">Aromatizantes: Proporcionan sabores agradables, que pueden ser:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Naturales: Extractos de frutas (limón, naranja, mango) y aceites esenciales.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Artificiales: Compuestos sintéticos que replican sabores naturales</li>
+          </ol>
+        </li>
+
+        <li class="Elementos--Listas" style="margin-top:30px;">Vitaminas y antioxidantes 
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Ácido ascórbico (C₆H₈O₆): Vitamina C, que también actúa como antioxidante.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Tocoferoles (E306): Derivados de la vitamina E, ayudan a evitar la oxidación.</li>
+          </ol>
+        </li>
+
+        <li class="Elementos--Listas" style="margin-top:30px;">Agentes espesantes o estabilizantes: Se utilizan para mejorar la textura y prevenir la separación de ingredientes:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Goma arábiga (E414): Mejora la estabilidad de la bebida.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Goma xantana (E415): Espesante que también actúa como estabilizante.</li>
+          </ol>
+        </li>
+      </ol>
+
+      </div>
+
+
 </div>
-<div class="col s12 m12 l12 xl12">
-<h5><b style="color: #262137;">Productos</b></h5>
-</div>
-</div>
+
 </div>
 
 

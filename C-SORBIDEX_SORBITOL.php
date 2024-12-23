@@ -332,7 +332,7 @@
                                 </section>
                             </div>
                             <div class="col s12 m12 l12 xl8">
-                                <section>
+                                <!-- <section>
                                     <ul>
                                         <p class="color--blanco"><b class="Tipografia--general Titulos"
                                                 style="margin-top:0px">Empleados </b>
@@ -356,7 +356,7 @@
                                                     id="aparece"></i></a></li>
                                         <p></p>
                                     </ul>
-                                </section>
+                                </section> -->
                             </div>
                             <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2 Carreras_menu_principal">
                                 <section class="Carreras_menu_principal">
@@ -638,19 +638,11 @@
             <ul class="slides">
                 <li> <img src="img/DONUTS_281221.jpg" style="height:400px;" alt="Industria Quimica">
                     <div class="caption center-align"><br><br><br><br>
-                        <h1 class="primertitulo"><b>Chemical Broker</b><br></h1>
+                        <h1 class="primertitulo"><b>C-Sorbidex Sorbitol</b><br></h1>
                         <div class="container">
                             <div class="row">
                                 <div class="col s12 m12 l12 xl12">
-                                    <section><a class="active" href="#" style="color:white !important"><b
-                                                class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b
-                                                class="Tipografia--general  Subtitulos"> >&nbsp </b></a><a
-                                            class=" active" href="Products_news.php" style="margin-left:-2px"><b
-                                                class="Tipografia-general  Subtitulos ">Productos > </b> </a> <a
-                                            class=" active" href="C-SORBIDEX_SORBITOL"
-                                            style="color:red !important;margin-left:-2px"><b
-                                                class="Tipografia-general letranegro Subtitulos breadcrumb"
-                                                style="color:red;">C-Sorbidex Sorbitol</b></a></section>
+                                  
                                 </div>
                             </div>
                         </div>
@@ -667,6 +659,15 @@
 <div class="container" style="margin-top:130px;">
 <div class="row">
 <div class="col s12 m12 l12 xl12" style="margin-top:6px;">
+<section><a class="active" href="#" style="color:black !important"><b
+                                                class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b
+                                                class="Tipografia--general  Subtitulos"> >&nbsp </b></a><a
+                                            class=" active" href="Products_news.php" style="margin-left:-2px"><b
+                                                class="Tipografia-general  Subtitulos" style="color:black;">Productos > </b> </a> <a
+                                            class=" active" href="C-SORBIDEX_SORBITOL"
+                                            style="color:red !important;margin-left:-2px"><b
+                                                class="Tipografia-general letranegro Subtitulos breadcrumb"
+                                                style="color:red;">C-Sorbidex Sorbitol</b></a></section>
 <h5><b class="Tipografia--general letranegro Titulos" style="border-bottom: 3px solid #00e2f8;color:#262137;">C-Sorbidex Sorbitol</b></h5>
 <p class="Tipografia--general letranegro General--Cuerpo"><b>C-Sorbidex™</b>, sorbitol, es un poliol derivado de la hidrogenación de azúcares, del almidón de maíz o trigo, es el poliol más utilizado. Ofrece una solución rentable al reducir las calorías y agregar algo de volumen a las formulaciones. También equilibra la sensación en boca y la elasticidad a la vez que ofrece un buen control de la humedad y la humedad. Se suma al disfrute sensorial ya que tiene un sabor agradable y un aroma dulce parecido a la dextrosa. Reducción de azúcar.</p>
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>C-Sorbidex™</b> tiene un valor energético de 2,4 kcal / g, en comparación con las 4 kcal / g de edulcorantes de calorías completas. Control de humedad y humedad.</p>
@@ -968,12 +969,11 @@ Germany
 </div>
 </div>
 </body>
-<footer style="margin-top:70px">
-<div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""></div><br><br>
-<div class="container-fluid" style="text-align:center;margin-top:-50px">
-<p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad  </a>
-<script type="text/javascript" src="js/main.js"></script></a></strong></p>
-<script type="text/javascript" src="js/Products.js"></script>
+<footer class="altofooter">
+<div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg" alt="ESCUDO DE C&E"></div><br><br>
+<div class="container-fluid center-align" style="margin-top:-50px">
+<p class="Tipografia--general letranegro center-align Pie--Pagina">© 2014 C&E | Chemical Broker Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto |&nbsp</a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad </a></p>
 </div>
 </footer>
+
 </html>

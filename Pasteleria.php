@@ -177,7 +177,7 @@
                   </section>
                 </div>
                 <div class="col s12 m12 l12 xl8">
-                  <section>
+                  <!-- <section>
                     <ul> 
                       <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                         <hr class="hr">
@@ -192,7 +192,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
                 </div>
                 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                   <section>
@@ -389,32 +389,106 @@
         </div>
       </div>
     </ul>
+
     <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li> <img src="img/PASTEL_280421.jpeg" alt="" style="height:650px">
+          <li><img src="img/PASTEL_280421.jpeg" style="height:700px;" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">Pasteleria</b>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Pasteleria</b>
+              <div class="container">
+      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:white;">Mercados ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:white;">Alimentos ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:white;">Panificacion ></b> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:red;">Pasteleria</b></a></a></section>
+    </div>
             </div>
           </li>
         </ul>
       </div>
     </div>
-    <div class="container">
-      <div class="row">
-        <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Panificacion.php" style="color:#262137 !important;margin-left:-2px"><b>Panificacion  ></b></a> <a href="Pasteleria.php" class="breitem active" style="color:#262137 !important"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Pasteleria</b></a> </section></section>
-        </div>
-      </div>
-    </div>
+
+
+   
    
 
-<div class="container">
+<div class="container" style="margin-top:130px">
   <div class="col s12 m12 l12 xl12">
-    <p style="color: orange;">Dentro de la industria de la pastelería al año se consumen más de 11 millones de toneladas, esta cifra continua en crecimiento, a su vez los consumidores se encuentran interesados cada vez más en los ingredientes con los que se elaboran estos productos, buscando la correcta preservación de su salud.</p>
+    <p style="color: orange;"></p>
   </div>
   <div class="col s12 m12 l12 xl12">
-    <h5><b style="color: #262137;">Productos</b></h5>
+
+    <p class="Tipografia--general letranegro General--Cuerpo">La industria de la pasteleria es un sector amplio y versatil que abarca la produccion de productos dulces, como pasteles, tartas, bizcochos, magdalenas, postres individuales y decoraciones elaboradas.</p>
+    <h5 style="margin-top:50px;"><b style="color: #262137;margin-top:50px;">Caracteristicas de la industria de la pasteleria</b></h5>
+    <ol>
+      <li class="Elementos--Listas">Producción artesanal: Se enfoca en técnicas tradicionales, productos frescos y decoraciones personalizadas. Es comun en pequeñas pastelerías y negocios locales</li>
+      <li class="Elementos--Listas" style="margin-top:30px;">Producción industrial: Enfocada en la producción masiva, busca eficiencia, uniformidad, larga vida util y precios competitivos. Los productos suelen ser precongelados o envasados para distribucion a gran escala</li>
+      <li class="Elementos--Listas" style="margin-top:30px;">Segmentación de mercado: Va desde pasteles basicos para consumo diario hasta productos premium para ocasiones especiales, como bodas y eventos</li>
+      <li class="Elementos--Listas" style="margin-top:30px;">Creatividad e innovacióin: La pasteleria se asocia con el arte culinario, especialmente en decoraciones, diseño de sabores y combinaciones novedosas</li>
+    </ol>
+    <h5 style="margin-top:50px;"><b style="color: #262137;margin-top:50px;">Ingredientes clave en la pastelería</b></h5>
+    <ol>
+      <li class="Elementos--Listas">Harinas
+        <ol>
+          <li style="list-style-type: disc;margin-top:30px;" class="Elementos--Listas">Harina de trigo refinada: Base de la mayoria de los productos. Proporciona estructura y textura</li>
+          <li style="list-style-type: disc;margin-top:30px;" class="Elementos--Listas">Harinas alternativas: De almendra, coco o avena, utilizadas en productos sin gluten o saludables.</li>
+        </ol>
+      </li>
+      <li class="Elementos--Listas" style="margin-top:30px;">Azúcares y endulzantes
+        <ol>
+          <li style="list-style-type: disc;margin-top:30px;" class="Elementos--Listas">Azúcar refinado: Predomina en recetas tradicionales e industriales</li>
+          <li style="list-style-type: disc;margin-top:30px;" class="Elementos--Listas">Edulcorantes: Como stevia, eritritol o jarabes de maíz alto en fructosa, utilizados en productos dieteticos o bajos en azúcar.</li>
+        </ol>
+      </li>
+      <li class="Elementos--Listas" style="margin-top:30px;">Grasas
+        <ol>
+        <li style="list-style-type: disc;margin-top:30px;" class="Elementos--Listas">Mantequilla: Fundamental en productos de alta gama y recetas artesanales</li>
+        <li style="list-style-type: disc;margin-top:30px;" class="Elementos--Listas">Margarina o aceites vegetales: Comunes en la producción industrial por su estabilidad y bajo costo</li>
+        <li style="list-style-type: disc;margin-top:30px;" class="Elementos--Listas">Aceite de palma: Utilizado en la industria, aunque controvertido por su impacto ambiental</li>
+      </ol></li>
+      <li class="Elementos--Listas" style="margin-top:30px;">Levaduras y agentes leudantes
+        <ol>
+        <li style="list-style-type: disc;margin-top:30px;" class="Elementos--Listas">Polvo de hornear y bicarbonato de sodio: Proporcionan volumen y textura esponjosa</li>
+        <li style="list-style-type: disc;margin-top:30px;" class="Elementos--Listas">Levadura fresca o seca: Utilizada en pasteles y masas enrriquecidas, como brioches</li>
+        </ol>
+      </li>
+      <li class="Elementos--Listas" style="margin-top:30px;">Aditivos y quimicos en pasteleria industrial
+        <ol>
+          <li style="list-style-type: disc;margin-top:30px;" class="Elementos--Listas">Conservantes: Propionato de calcio (E282) para prolongar la vida util</li>
+          <li style="list-style-type: disc;margin-top:30px;" class="Elementos--Listas">Emulsionantes: Mono y digliceridos (E471) para mejorar la textura y prolongar la frescura</li>
+          <li style="list-style-type: disc;margin-top:30px;" class="Elementos--Listas">Colorantes: Naturales (caramelo y remolacha) y artificiales (E102, E110) para hacer los productos más atractivos</li>
+          <li style="list-style-type: disc;margin-top:30px;" class="Elementos--Listas">Estabilizantes: Goma guar (E412) o Goma xantana (E415) para evitar que las cremas y mezclas se separen</li>
+        </ol>
+      </li>
+    </ol>
+
+    <h5 style="margin-top:50px;"><b style="color: #262137;margin-top:50px;">Retos de la industria</b></h5>
+
+    <ol>
+      <li class="Elementos--Listas">Adaptacion a nuevas tendencias:
+        <ol>
+          <li class="Elementos--Listas" style="margin-top:30px;">Cambios en las preferencias de los consumidores hacia productos mas saludables y naturales, como la reduccion de azúcares, grasas y aditivos</li>
+        </ol>
+      </li>
+    </ol>
+    <ol>
+      <li class="Elementos--Listas">Competencia entre lo artesanal e industrial:
+        <ol>
+          <li class="Elementos--Listas" style="margin-top:30px;">Las pastelerias artesanales destacan por su personalizacion y calidad, mientras que las industriales compiten en precio y accesibilidad</li>
+        </ol>
+      </li>
+    </ol>
+    <ol>
+      <li class="Elementos--Listas">Sostenibilidad
+        <ol>
+          <li class="Elementos--Listas" style="margin-top:30px;">En el sector industrial, la reduccion del uso de plástico en empaques y la obtencion etica de materias primas, como cacao o aceite de palma, son prioridades</li>
+        </ol>
+      </li>
+    </ol>
+    <ol>
+      <li class="Elementos--Listas">Innovación Tecnológica:
+        <ol>
+          <li class="Elementos--Listas" style="margin-top:30px;">Implementacion de tecnica de impresión 3D y decoraciones automatizadas para crear productos mas atractivos y personalizados</li>
+        </ol>
+      </li>
+    </ol>
   </div>
 </div>
 
@@ -422,11 +496,11 @@
 
 
 </body>
-  <footer style="margin-top:70px">
-    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""></div><br><br>
+<footer style="margin-top:70px">
+    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg" alt=""/></div><br/><br/>
     <div class="container-fluid" style="text-align:center;margin-top:-50px">
-      <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad  </a>
-            <script type="text/javascript" src="js/main.js"></script></a></strong></p>
+      <p style="color:black;text-align:center;font-size:16px"><strong>© 2014 C&E | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download="download" style="color:black !important;font-size:16px">Politica de Privacidad  </a>
+            <script type="text/javascript" src="js/main.js">   </script></a></strong></p>
     </div>
   </footer>
 </html>

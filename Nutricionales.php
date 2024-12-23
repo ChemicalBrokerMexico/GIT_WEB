@@ -178,7 +178,7 @@
                   </section>
                 </div>
                 <div class="col s12 m12 l12 xl8">
-                  <section>
+                  <!-- <section>
                     <ul> 
                       <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                         <hr class="hr">
@@ -193,7 +193,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
                 </div>
                 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                   <section>
@@ -395,7 +395,7 @@
         <ul class="slides slides-pruea">
           <li> <img src="img/CB_HEAL_200521.jpg" alt="" style="height:650px">
             <div class="caption center-align"><br><br><br><br>
-              <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">Nutricionales</b>
+              <h3 class="primertitulo"><b class="boldbanner">Nutricionales</b><br></h3>
             </div>
           </li>
         </ul>
@@ -404,23 +404,340 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Carbonatadas.php" style="color:#262137 !important;margin-left:-2px"><b>Bebidas  ></b></a> <a class="breditem active" href="Nutricionales.php" style="color:#262137 !important;margin-left:-2px"><b>Nutricionales  </b></a> </section></section>
+        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Carbonatadas.php" style="color:#262137 !important;margin-left:-2px"><b>Bebidas  ></b></a> <a class="breditem active" href="Nutricionales.php" style="color:#262137 !important;margin-left:-2px"><b style="color:red;">Nutricionales  </b></a> </section></section>
         </div>
       </div>
     </div>
    
+      <div class="container">
+        <div class="row">
+          <div class="col s12 m12 l12 xl12">
+            <p class="Tipografia--general letranegro General--Cuerpo">La industria de las bebidas nutricionales es un sector en constante crecimiento impulsado por el interés de los consumidores en la salud, la conveniencia y el bienestar. Estas bebidas incluyen tanto productos ya preparados como mezclas en polvo que se reconstituyen con líquidos. Se utilizan para satisfacer diversas necesidades dietéticas y de estilo de vida, como el soporte para el ejercicio, la pérdida de peso, la recuperación, y el fortalecimiento inmunológico.</p>
+            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Segmentos principales de la industria</b></h2>
+            <ol>
+              <li style="margin-top:30px;" class="Elementos--Listas"> Bebidas nutricionales listas para consumir (RTD, por sus siglas en inglés):
+                <ol>
+                  <li style="margin-top:30px;" class="Elementos--Listas">Productos listos para beber, diseñados para ser convenientes y portátiles.</li>
+                  <li style="margin-top:30px;" class="Elementos--Listas">Ejemplos: batidos proteicos, bebidas de reemplazo de comidas, fórmulas para recuperación deportiva, y bebidas con suplementos vitamínicos o minerales.</li>
+                </ol>
+              </li>
+            </ol>
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;">Mezclas en polvo:
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Productos en forma de polvo que el consumidor mezcla con agua, leche o jugos.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Ejemplos: polvos proteicos, fórmulas de suplementos nutricionales, y bebidas energéticas o de hidratación.</li>
+                </ol>
+              </li>
+            </ol>
 
+
+            <h2 class="Tipografia--general letranegro Titulos" style="margin-top: 50px;"><b>Tendencias Actuales</b></h2>
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;">Aumento en el uso de proteínas vegetales:
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">La demanda por productos veganos ha llevado a un incremento en el uso de guisante, cáñamo, y soja como fuentes proteicas.</li>
+                </ol>
+              </li>
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Productos personalizados:
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Fórmulas diseñadas para objetivos específicos como aumentar la masa muscular, mejorar la salud del cerebro, o reforzar la inmunidad.</li>
+                  </ol>
+                </li>
+              </ol>
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Enfoque en la sostenibilidad:
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Uso de envases reciclables y producción de ingredientes con menor impacto ambiental.</li>
+                  </ol>
+                </li>
+              </ol>
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Sin aditivos artificiales:
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Creciente preferencia por opciones "limpias", sin colorantes, conservantes ni endulzantes artificiales.</li>
+                  </ol>
+                </li>
+              </ol>
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;"> Crecimiento del mercado digital:
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Las ventas de bebidas nutricionales en línea, incluyendo suscripciones, son cada vez más populares.</li>
+                  </ol>
+                </li>
+              </ol>
+            </ol>
+
+
+            <h2 class="Titulos Tipografia--general letranegro" style="margin-top:50px;"><b style="color:black;">Ingredientes Quimicos Utilizados</b></h2>
+
+            <p class="Tipografia--general letranegro General--Cuerpo">En la industria de las bebidas nutricionales, tanto en las listas para beber (RTD) como en las mezclas en polvo, se utilizan diversos compuestos químicos y aditivos que desempeñan funciones clave en la formulación, estabilidad, sabor y seguridad de los productos. A continuación, se detallan los principales tipos de químicos utilizados:</p>
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;"> Proteínas y aminoácidos: Estos compuestos, aunque son nutrientes naturales, también pueden considerarse "químicos" debido a su procesamiento y aislamiento.
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Proteínas aisladas y concentradas:
+                      <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Aislado de suero (whey isolate), caseína, aislado de soja, proteínas de guisante.</li>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Producidos mediante procesos químicos como ultrafiltración y extracción por solventes.</li>
+                      </ol>
+                    </li>
+                  </ol>
+
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Aminoácidos esenciales y ramificados (BCAA):
+                      <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Leucina, isoleucina, valina, lisina.</li>
+                        <li class="Elementos--Listas" style="margin-top:30px;">A menudo sintetizados químicamente o derivados de procesos de fermentación.</li>
+                      </ol>
+                    </li>
+                  </ol>
+
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Vitaminas y Minerales: Enriquecen las bebidas para cumplir funciones específicas (energía, inmunidad, salud ósea, etc.).
+                      <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Vitaminas sintéticas:
+                          <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Vitamina C (ácido ascórbico), vitamina D3 (colecalciferol), complejo B (riboflavina, niacina).</li>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Producidas químicamente para garantizar estabilidad y biodisponibilidad.</li>
+                          </ol>
+                        </li>
+                      </ol>
+
+                      <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Minerales y sales
+                          <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Hierro (fumarato ferroso, sulfato ferroso), zinc (óxido de zinc, gluconato de zinc), calcio (carbonato de calcio, citrato de calcio).</li>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Estos compuestos son esenciales para la fortificación y pueden estar quelados para mejorar su absorción.</li>
+                          </ol>
+                        </li>
+                      </ol>
+
+                      <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;"> Endulzantes: Para mejorar el sabor, especialmente en productos bajos en calorías.
+                          <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;"> Naturales:
+                              <ol>
+                                <li class="Elementos--Listas" style="margin-top:30px;">Stevia (rebaudiósidos), miel, azúcar de coco.</li>
+                              </ol>
+                            </li>
+                          </ol>
+                          <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;"> Artificiales:
+                              <ol>
+                                <li class="Elementos--Listas" style="margin-top:30px;">Aspartame, sucralosa, acesulfame-K.</li>
+                                <li class="Elementos--Listas" style="margin-top:30px;">Estos compuestos son producidos químicamente y ofrecen dulzura sin calorías significativas.</li>
+                              </ol>
+                            </li>
+                          </ol>
+                          <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Polialcoholes:
+                              <ol>
+                                <li class="Elementos--Listas" style="margin-top:30px;">Eritritol, maltitol, xilitol.</li>
+                                <li class="Elementos--Listas" style="margin-top:30px;">Utilizados en bebidas bajas en azúcar por su bajo índice glucémico.</li>
+                              </ol>
+                            </li>
+                          </ol>
+                        </li>
+                      </ol>
+
+                      <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Emulsionantes y estabilizantes: Aseguran una textura uniforme y evitan la separación de los ingredientes.
+                          <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Gomas naturales:
+                              <ol>
+                                <li class="Elementos--Listas" style="margin-top:30px;">Goma guar, goma xantana, goma arábiga.</li>
+                              </ol>
+                            </li>
+                          </ol>
+                          <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Lecitinas:
+                              <ol>
+                                <li class="Elementos--Listas" style="margin-top:30px;">Derivadas de soja o girasol, utilizadas para estabilizar emulsiones.</li>
+                              </ol>
+                            </li>
+                          </ol>
+                          <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Carragenanos y pectinas
+                              <ol>
+                                <li class="Elementos--Listas" style="margin-top:30px;">Agentes espesantes que mejoran la textura de las bebidas RTD.</li>
+                              </ol>
+                            </li>
+                          </ol>
+                        </li>
+                      </ol>
+
+                    </li>
+                  </ol>
+
+                  <ol>
+                      <li class="Elementos--Listas" style="margin-top:30px;">Conservantes: Prolongan la vida útil al evitar el deterioro microbiano y oxidativo
+                        <ol>
+                              <li class="Elementos--Listas" style="margin-top:30px;">Ácido benzoico y benzoato de sodio:
+                                <ol>
+                                  <li class="Elementos--Listas" style="margin-top:30px;">Conservantes antimicrobianos comunes en bebidas listas para beber.</li>
+                                </ol>
+                              </li>
+                        </ol>
+                        <ol>
+                          <li class="Elementos--Listas" style="margin-top:30px;">Ácido sórbico y sorbato de potasio:
+                            <ol>
+                              <li class="Elementos--Listas" style="margin-top:30px;">Previenen el crecimiento de hongos y levaduras.</li>
+                            </ol>
+                          </li>
+                        </ol>
+                        <ol>
+                          <li class="Elementos--Listas" style="margin-top:30px;">Dióxido de azufre (SO₂):
+                            <ol>
+                              <li class="Elementos--Listas" style="margin-top:30px;">Usado en pequeñas cantidades para estabilizar ciertas mezclas en polvo.</li>
+                            </ol>
+                          </li>
+                        </ol>
+                      </li>
+                  </ol>
+                    <ol>
+                      <li class="Elementos--Listas" style="margin-top:30px;">Reguladores de acidez: Mantienen el pH adecuado para mejorar el sabor, la estabilidad y la biodisponibilidad de nutrientes.
+                        <ol>
+                          <li class="Elementos--Listas" style="margin-top:30px;">Ácidos orgánicos:
+                            <ol>
+                              <li class="Elementos--Listas" style="margin-top:30px;">Ácido cítrico, ácido málico, ácido láctico.</li>
+                            </ol>
+                          </li>
+                        </ol>
+                        <ol>
+                          <li class="Elementos--Listas" style="margin-top:30px;">Compuestos alcalinos:
+                            <ol>
+                              <li class="Elementos--Listas" style="margin-top:30px;">Hidróxido de potasio, bicarbonato de sodio, carbonato de calcio.</li>
+                            </ol>
+                          </li>
+                        </ol>
+                      </li>
+                    </ol>
+              </li>
+            </ol>
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;">Antioxidantes: Protegen los ingredientes sensibles, como grasas y vitaminas, de la oxidación.
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Compuestos naturales:
+                    <ol>
+                      <li class="Elementos--Listas" style="margin-top:30px;">Tocoferoles (vitamina E), extractos de té verde.</li>
+                    </ol>
+                  </li>
+                </ol>
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Sintéticos:
+                    <ol>
+                      <li class="Elementos--Listas" style="margin-top:30px;">BHA (butilhidroxianisol), BHT (butilhidroxitolueno).</li>
+                    </ol>
+                  </li>
+                </ol>
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Ácido ascórbico y sus derivados:
+                    <ol>
+                      <li class="Elementos--Listas" style="margin-top:30px;">Funciona como antioxidante y potenciador de la estabilidad.</li>
+                    </ol>
+                  </li>
+                </ol>
+              </li>
+            </ol>
+
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;">Agentes de mezcla y antiaglomerantes: Evitan la formación de grumos en mezclas en polvo y mejoran la solubilidad.
+                <ol>
+                      <li class="Elementos--Listas" style="margin-top:30px;">Sílice coloidal:
+                        <ol>
+                          <li class="Elementos--Listas" style="margin-top:30px;">Usado como antiaglomerante en polvos.</li>
+                        </ol>
+                      </li>
+                </ol>
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Fosfatos de calcio:
+                    <ol>
+                      <li class="Elementos--Listas" style="margin-top:30px;">Mejoran la fluidez del polvo.</li>
+                    </ol>
+                  </li>
+                </ol>
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Lecitina:
+                    <ol>
+                      <li class="Elementos--Listas" style="margin-top:30px;">Facilita la dispersión de polvos en líquidos.</li>
+                    </ol>
+                  </li>
+                </ol>
+              </li>
+            </ol>
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;">  Aromas y colorantes: Mejoran la aceptación sensorial del producto.
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Aromas naturales y artificiales:
+                    <ol>
+                      <li class="Elementos--Listas" style="margin-top:30px;">Extractos de vainilla, cacao, cítricos; aromas sintéticos para frutas o postres.</li>
+                    </ol>
+                  </li>
+                </ol>
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Colorantes:
+                    <ol>
+                      <li class="Elementos--Listas" style="margin-top:30px;">Naturales: beta-caroteno, clorofila, extractos de cúrcuma.</li>
+                      <li class="Elementos--Listas" style="margin-top:30px;">Artificiales: amarillo 5 (tartrazina), rojo 40, azul 1.</li>
+                    </ol>
+                  </li>
+                </ol>
+              </li>
+            </ol>
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;">Ingredientes funcionales avanzados: Proporcionan beneficios específicos más allá de la nutrición básica.
+                    <ol>
+                      <li class="Elementos--Listas" style="margin-top:30px;">Probioticos:
+                        <ol>
+                          <li class="Elementos--Listas" style="margin-top:30px;">Lactobacillus, Bifidobacterium, estabilizados para sobrevivir al almacenamiento.</li>
+                        </ol>
+                      </li>
+                    </ol>
+                    <ol>
+                      <li class="Elementos--Listas" style="margin-top:30px;">Prebióticos:
+                        <ol>
+                          <li class="Elementos--Listas" style="margin-top:30px;">Inulina, oligosacáridos para fomentar la salud intestinal.</li>
+                        </ol>
+                      </li>
+                    </ol>
+                    <ol>
+                      <li class="Elementos--Listas" style="margin-top:30px;">Adaptógenos y extractos botánicos:
+                        <ol>
+                          <li class="Elementos--Listas" style="margin-top:30px;">Ashwagandha, maca, ginseng, té verde.</li>
+                        </ol>
+                      </li>
+                    </ol>
+                    <ol>
+                      <li class="Elementos--Listas" style="margin-top:30px;">Compuestos bioactivos:
+                        <ol>
+                          <li class="Elementos--Listas" style="margin-top:30px;">Glutatión, CoQ10, colágeno hidrolizado.</li>
+                        </ol>
+                      </li>
+                    </ol>
+              </li>
+            </ol>
+
+          </div>
+        </div>
+      </div>
 
 
 
 
 
 </body>
-  <footer style="margin-top:70px">
-    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""></div><br><br>
+<footer style="margin-top:70px">
+    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg" alt=""/></div><br/><br/>
     <div class="container-fluid" style="text-align:center;margin-top:-50px">
-      <p style="color:black;text-align:center;font-size:16px"><strong>© 2014 C&E | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:14px">Politica de Privacidad  </a>
-            <script type="text/javascript" src="js/main.js"></script></a></strong></p>
+      <p style="color:black;text-align:center;font-size:16px"><strong>© 2014 C&E | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download="download" style="color:black !important;font-size:16px">Politica de Privacidad  </a>
+            <script type="text/javascript" src="js/main.js">   </script></a></strong></p>
     </div>
   </footer>
 </html>

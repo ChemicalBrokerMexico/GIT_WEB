@@ -177,7 +177,7 @@
                   </section>
                 </div>
                 <div class="col s12 m12 l12 xl8">
-                  <section>
+                  <!-- <section>
                     <ul> 
                       <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                         <hr class="hr">
@@ -192,7 +192,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
                 </div>
                 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                   <section>
@@ -400,35 +400,202 @@
         </ul>
       </div>
     </div>
+
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Lacteos.php" style="color:#262137 !important;margin-left:-2px"><b>Lacteos  ></b></a> <a href="Yogurt.php" class="breitem active" style="color:#262137 !important"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Yogurts</b></a> </section></section>
+        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Lacteos.php" style="color:#262137 !important;margin-left:-2px"><b>Lacteos  ></b></a> <a href="Yogurt.php" class="breitem active" style="color:red !important"><b class="Tipografia--general Subtitulos breadcrumb" style="color:red">Yogurts</b></a> </section></section>
         </div>
       </div>
     </div>
    
-<div class="container">
-  <div class="row">
-    <div class="col s12 m12 l12 xl12">
-    <p style="color: orange;">El consumo de este lácteo genera salud y una buena nutrición, por esta razón las grandes compañías lanzan al mercado nuevos productos que permitan a los consumidores mantener una buena alimentación.</p>
-    </div>
-    <div class="col s12 m12 l12 xl12">
-      <h5><b style="color: #262137;">Producto</b></h5>
-    </div>
-  </div>
-</div>
+    <div class="container">
+      <div class="row">
+        <div class="col s12 m12 l12 xl12">
+          <p class="General--Cuerpo Tipografia--general letranegro">La industria del yogur es una de las más importantes dentro del sector lácteo, conocida por su versatilidad, valor nutricional y atractivo para un público amplio. El yogur se produce fermentando leche con bacterias específicas que transforman la lactosa en ácido láctico, dándole su textura y sabor característicos. Este producto tiene una enorme diversidad de formatos y aplicaciones, desde postres y meriendas hasta productos funcionales y dietéticos.</p>
 
+          <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020;">Caracteristicas del Yogur</b></h2>
+
+          <ol>
+            <li class="Elementos--Listas">Producto base: Se utiliza leche entera, semidescremada o descremada como base.</li>
+          </ol>
+
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Tipos de Yogur</b></h2>
+
+            <ol>
+              <li class="Elementos--Listas">Yogur natural (sin azúcar o saborizantes).</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Yogur saborizado (fresa, vainilla, mango, etc.).</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Yogur griego (más espeso, con mayor contenido proteico).</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Yogures bebibles</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Yogures funcionales (con prebióticos o probióticos).</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Yogures veganos (hechos con leches vegetales).</li>
+            </ol>
+
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Proceso de Producción</b></h2>
+
+            <p class="Tipografia--general letranegro General--Cuerpo">El proceso de fabricación del yogur involucra varias etapas clave:</p>
+
+            <ol>
+            <li class="Elementos--Listas" style="margin-top:50px;">El proceso de fabricación del yogur involucra varias etapas clave</li>
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px">La leche es pasteurizada para eliminar microorganismos no deseados.</li>
+                  <li class="Elementos--Listas" style="margin-top: 30px;">Puede ajustarse el cotenido de grasa y proteínas según el tipo de yogur.</li>
+                </ol>
+              </li>
+            </ol>
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:50px;">Inpoculación de cultivos bacterianos:
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Se añaden bacterias como lactobacillus delbrueckii subsp, bulgaricus y strepcoccus que fermentan la leche</li>
+                </ol>
+              </li>
+            </ol>
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:50px;">Fermentacion
+                <ol>
+                  <li style="margin-top:30px;" class="Elementos--Listas">La mezcla se mantiene a una temperatura controlada (42-45°C) hasta alcanzar la acidez y textura deseadas.</li>
+                </ol>
+              </li>
+            </ol>
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:50px;">Enfriamiento y mezcla:
+                <ol>
+                  <li class="Elementos--Listas"  style="margin-top: 30px;">Se enfría rápidamente para detener la fermentación.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">En esta etapa se añaden frutas, edulcorantes, saborizantes o probióticos, según el producto.</li>
+                </ol>
+              </li>
+            </ol>
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:50px;">Envasado:
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Se empaqueta en recipientes individuales o en grandes volúmenes, dependiendo del mercado.</li>
+                </ol>
+              </li>
+            </ol>
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;">Almacenamiento y distribución:
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">El yogur se conserva refrigerado para mantener su frescura y vida útil.</li>
+                </ol>
+              </li>
+            </ol>
+
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Ingredientes Quimicos Utilizados</h2>
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;"> Estabilizantes y espesantes: Mejoran la textura y evitan la separación del suero:
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Gomas naturales:
+                    <ol>
+                      <li class="Elementos--Listas" style="margin-top:30px;">Goma guar y goma xantana: Espesan y estabilizan el yogur.</li>
+                      <li class="Elementos--Listas" style="margin-top:30px;">Goma de algarrobo (carboximetilcelulosa): Utilizada en yogures bebibles.</li>
+                    </ol>
+                  </li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Carragenina: Derivada de algas marinas, se usa para mantener la estructura.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Pectina: Extraída de frutas, ayuda a estabilizar yogures con frutas.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Almidones modificados: Como el almidón de maíz o papa, para dar una textura más cremosa.</li>
+                </ol>
+              </li>
+            </ol>
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:50px;"> Edulcorantes
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Azúcares naturales
+                    <ol>
+                      <li class="Elementos--Listas" style="margin-top:30px;">Sacarosa (azúcar de mesa) y glucosa.</li>
+                      <li class="Elementos--Listas" style="margin-top:30px;">Jarabe de maíz de alta fructosa (en algunos productos).</li>
+                    </ol>
+                  </li>
+                </ol>
+              </li>
+            </ol>
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:50px">Edulcorantes artificiales:
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Aspartame, sucralosa y acesulfame-K (en productos bajos en calorías).</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Estevia y eritritol (edulcorantes naturales en yogures "saludables").</li>
+                </ol>
+              </li>
+            </ol>
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:50px">Colorantes
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Naturales:
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Antocianinas (de frutas rojas y moradas).</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Curcumina (derivada de la cúrcuma, color amarillo).</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Betalaínas (extraídas del betabel).</li>
+                  </ol>
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px"> Artificiales:
+                      <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Amarillo 5, rojo 40 o azul brillante, según las normativas locales.</li>
+                      </ol>
+                    </li>
+                  </ol>
+                </li>
+              </ol>
+              </li>
+            </ol>
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:50px;">Emulsionantes
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Mono y diglicéridos de ácidos grasos: Facilitan la mezcla de grasas y agua.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Lecitina de soya o girasol: Emulsionante común en productos lácteos.</li>
+                </ol>
+              </li>
+            </ol>
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:50px;">Conservadores
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Sorbato de potasio: Inhibe el crecimiento de mohos y levaduras.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Benzoato de sodio: Utilizado en ciertos productos lácteos con frutas.</li>
+                </ol>
+              </li>
+            </ol>
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:50px;"> Reguladores de acidez
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Ácido cítrico: Se añade para ajustar la acidez.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Fosfato de sodio o citrato de sodio: Ayudan a mantener el equilibrio de pH</li>
+                </ol>
+              </li>
+            </ol>
+
+
+
+        </div>
+      </div>
+    </div>
 
 
 
 
 </body>
-  <footer style="margin-top:70px">
-    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""></div><br><br>
+<footer style="margin-top:70px">
+    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
+            alt=""></div><br><br>
     <div class="container-fluid" style="text-align:center;margin-top:-50px">
-      <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad  </a>
-            <script type="text/javascript" src="js/main.js"></script></a></strong></p>
+        <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos
+            Reservados.
+            | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
+                href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download
+                style="color:black !important;font-size:16px">Politica de
+                Privacidad </a>
+            <script type="text/javascript" src="js/main.js"></script></a></strong>
+        </p>
+        <script type="text/javascript" src="js/Products.js"></script>
     </div>
-  </footer>
+</footer>
 </html>

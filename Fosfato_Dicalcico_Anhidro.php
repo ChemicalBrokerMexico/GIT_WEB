@@ -9,11 +9,14 @@
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">
     <link rel="canonical" href="https://chemicalbroker.mx/Fosfato_Dicalcico_Anhidro.php">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
-    <link rel="stylesheet" href="css/History_Line.css?n=1">
-    <link rel="stylesheet" href="css/jquery.dataTables.min.css">
-    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/History_Line.css">
+  <link rel="stylesheet" href="css/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
     <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="js/materialize.js?n=1" type="text/javascript"></script>
     <script src="js/init.js?n=1"></script>
@@ -193,7 +196,7 @@
 </section>
 </div>
 <div class="col s12 m12 l12 xl8">
-<section>
+<!-- <section>
 <ul> 
 <p class="color--blanco"><b class="Tipografia--general Titulos" style="margin-top:0px">Empleados </b>
 <hr class="hr">
@@ -208,7 +211,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
 </div>
 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2 Carreras_menu_principal">
 <section class="Carreras_menu_principal">
@@ -440,7 +443,7 @@
 </div>
 
     <div class="row">
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Fosfato Dicálcico Anhidro</b>, también conocido como fosfato dicálcico o DCP (por sus siglas en inglés: <b>Dicalcium Phosphate</b>), es un compuesto inorgánico con la fórmula química CaHPO₄. Es un polvo blanco, inodoro y casi insoluble en agua, pero soluble en ácidos. Es una forma anhidra, lo que significa que no contiene agua en su estructura cristalina.</p>
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Fosfato Dicálcico Anhidro</b>, también conocido como Fosfato Dicálcico o DCP (por sus siglas en inglés: <b>Dicalcium Phosphate</b>), es un compuesto inorgánico con la fórmula química CaHPO₄. Es un polvo blanco, inodoro y casi insoluble en agua, pero soluble en ácidos. Es una forma anhidra, lo que significa que no contiene agua en su estructura cristalina.</p>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020">Propiedades fisicas y quimicas</b></h5>
 
@@ -591,6 +594,10 @@
     </div>
 </div>
 
+
+<a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
 
 <footer class="altofooter">
 <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg" alt="ESCUDO DE C&E"></div><br><br>

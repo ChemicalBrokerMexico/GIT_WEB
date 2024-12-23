@@ -180,7 +180,7 @@
                   </section>
                 </div>
                 <div class="col s12 m12 l12 xl8">
-                  <section>
+                  <!-- <section>
                     <ul> 
                       <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                         <hr class="hr">
@@ -195,7 +195,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
                 </div>
                 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                   <section>
@@ -266,7 +266,7 @@
               </div>
             </div>
             <div class="col s12 m12 l12 xl12 search" id="search">
-              <table class="search-table" id="searchTable" style="width:100%">
+              <table class="search-table" id="" style="width:100%">
                 <thead> 
                   <tr>
                     <td> </td>
@@ -345,7 +345,7 @@
         <div class="container">
           <div class="row">
             <div class="col s12 m12 l12 xl12 search" id="search2">
-              <table class="search-table" id="searchTable2" style="width:100%;">
+              <table class="search-table" id="" style="width:100%;">
                 <thead> 
                   <tr> 
                     <td> </td>
@@ -423,7 +423,7 @@
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12 search" id="search2">
-<table class="search-table" id="searchTable2" style="width:100%;">
+<table class="search-table" id="" style="width:100%;">
 <thead>
 <tr>
 <td>
@@ -497,7 +497,7 @@
 </div>
 <div class="container">
 <div class="row center-align">
-<div class="col s12 m12 l6 xl6 mercados zoom"><a href="Proximamente.php" style="cursor:pointer;">
+<div class="col s12 m12 l6 xl6 mercados zoom"><a href="Vacuno.php" style="cursor:pointer;">
 <div class="contenedor">
 <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
 <div class="centrado_sub" style="position:absolute;z-index:2">

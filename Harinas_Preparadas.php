@@ -178,7 +178,7 @@
                   </section>
                 </div>
                 <div class="col s12 m12 l12 xl8">
-                  <section>
+                  <!-- <section>
                     <ul> 
                       <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                         <hr class="hr">
@@ -193,7 +193,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
                 </div>
                 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                   <section>
@@ -390,40 +390,197 @@
         </div>
       </div>
     </ul>
+
     <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li> <img src="img/CB-MUFFIN_010621.jpg" alt="" style="height:650px">
+          <li><img src="img/CB-MUFFIN_010621.jpg" style="height:800px;" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">Harinas Preparadas</b>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Harinas Preparadas</b>
+              <div class="container">
+      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:white;">Mercados ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:white;">Alimentos ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:white;">Panificacion ></b> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:red;">Harinas Preparadas</b></a></a></section>
+    </div>
             </div>
           </li>
         </ul>
       </div>
     </div>
-    <div class="container">
-      <div class="row">
-        <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Panificacion.php" style="color:#262137 !important;margin-left:-2px"><b>Panificacion  ></b></a> <a href="Harinas_Preparadas.php" class="breitem active" style="color:#262137 !important"><b>Harinas Preparadas</b></a> </section></section>
-        </div>
-        
-      </div>
-    </div>
+
+
+   
+ 
     
-   <div class="container">
+   <div class="container" style="margin-top:130px;">
      <div class="row">
        <div class="col s12 m12 l12 xl12">
-         <p style="color: orange;">La harina preparada facilita la elaboración de bizcochos y distintos postres, consiguiendo que la levadura se levante más rápido, esto ofrece un mejor resultado en menor tiempo, 
+         <p style="color: black;" class="Tipografia--general letranegro General--Cuerpo">Las <b style="color:#000020;">Harinas Preparadas</b>, o "harinas compuestas", son mezclas de harina de trigo u otros cereales que incluyen ingredientes adicionales para facilitar el proceso de preparacion y mejorar las propiedades del producto final.</p>
+         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Estos ingredientes quimicos son esenciales para proporcionar sabor, textura y estabilidad y pueden variar dependiendo del tipo de <b style="color:#000020;">Harina Preparada</b>, como harinas de pan, reposteria o productos especificos como tortillas o bases de pizza</p>
 
-</p>
+         <ol>
+          <li style="margin-top:50px;list-style:disc;"><b style="color:#000020;">Leudantes (Agentes de fermentacion)</b>
+            <ol>
+              <li style="margin-top:30px;list-style-type:disc;">Bicarbonato de Sodio: Un agente leudante que, al mezclarse con un acido, libera dioxido de carbonon, causando que la masa suba</li>
+              <li style="margin-top:30px;list-style-type:disc;">Polvo de hornea: Contiene bicarbonato de sodio y un acido que se activa al mezclar con liquidos o calor, idean para obtener una textura esponjosa</li>
+              <li style="margin-top:30px;list-style-type:disc;">Fosfatos: Los fosfatos de calcio y sodio son estabilizantes en el polvo de hornear y ayudan a controlar la velocidad de liberacion del gas</li>
+            </ol>
+          </li>
+         </ol>
+
+         <ol>
+          <li style="list-style-type:disc;margin-top:50px;"><b style="color:#000020;">Emulsionantes</b>
+            <ol style="margin-top:30px;">
+              <li style="margin-top:30px;list-style-type: disc;">Mono y Digliceridos: Estos compuestos ayudan a integrar las grasas y el agua en la mezcla, mejorando la consistencia y manteniendo la frescura de la masa</li>
+              <li style="margin-top:30px;list-style-type: disc;">Lecitina: Proveniente de la soya o de huevos, ayuda a mejorar la mezcla y la estabilidad de la masa</li>
+            </ol>
+          </li>
+         </ol>
+
+         <ol>
+          <li style="list-style-type: disc;margin-top:50px;"><b style="color:#000020;">Mejoradores de panificacion</b>
+            <ol style="margin-top:30px;">
+              <li style="margin-top:30px;list-style-type:disc">Acido ascorbico (Vitamina C): Actua como oxidante y fortalece el gluten de la harina, mejorando la estructura y el volumen</li>
+              <li style="margin-top:30px;list-style-type:disc">Enzimas (amilasas y proteasas):Ayudan a romper las moleculas de almidon y proteinas, haciendo la masa mas manejable y mejorando la textura del producto final</li>
+            </ol>
+          </li>
+         </ol>
+        <ol>
+          <li style="list-style-type: disc;margin-top:50px;"><b style="color:#000020;">Conservadores</b>
+            <ol style="margin-top:30px;">
+              <li style="margin-top:30px;list-style-type: disc;">Propionato de calcio o sorbato de potasio: Usados para inhibir el crecimiento de moho y bacterias, ayudando a prolongar la vida util del producto</li>
+              <li style="margin-top:30px;list-style-type: disc;">Acido ascorbico: Efectivo contra hongos y moho y comun en productos de reposteria</li>
+            </ol>
+          </li>
+        </ol>
+        <ol>
+          <li style="list-style-type: disc;margin-top:50px;"><b style="color:#000020;">Estabilizantes y espesantes</b>
+            <ol style="margin-top:30px;">
+              <li style="margin-top:30px;list-style-type: disc;">Gomar guar y goma xantana: Se utilizan para mejorar la retencion de agua y estabilidad de la masa, dando una textura uniforme</li>
+              <li style="margin-top:30px;list-style-type: disc;">Carragenida y Celulosa: Proveen una textura mas suave y mejora la estabilidad de productos horneados</li>
+            </ol>
+          </li>
+        </ol>
+        <ol>
+          <li style="margin-top:50px;list-style-type: disc;"><b style="color:#000020;">Agentes Blanqueadores</b></li>
+          <ol>
+            <li style="margin-top:30px;list-style-type: disc;">Peroxido de benzoilo y azodicarbonamida (ADA): Estos quimicos se usan para blanquear la harina, especialmente en paises donde se prefieren harinas blancas y de aspecto uniforme</li>
+          </ol>
+        </ol>
+        <ol>
+          <li style="margin-top:50px;list-style-type:disc"><b style="color:#000020;">Sales y azúcares</b>
+            <ol>
+              <li style="margin-top:30px;list-style-type: disc;">Cloruro de sodio (sal comun): Mejora el sabor y refuerza la estructura del gluten, tambien actua como conservador en cierta medida</li>
+              <li style="margin-top:30px;list-style-type: disc;">Sacarosa y dextrosa: Ademas de aportar sabor, ayudan a alimentar la levadura en productos fermentados</li>
+            </ol>
+          </li>
+        </ol>
+
+        <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Valor de Mercado</b></h5>
+
+        <p class="Tipografia--general letranegro General--Cuerpo">La industria de las harinas preparadas, que incluye productos como mezclas para panes, pasteles, tortillas y otros alimentos, es un segmento significativo dentro del mercado de alimentos procesados. Este sector ha demostrado un crecimiento constante debido a factores como el aumento de la demanda de alimentos convenientes. El cambio de patrones de consumo y la creciente popularidad en la cocina del hogar</p>
+
+        <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Valor del Mercado Global</b></h5>
+
+        <p class="Tipografia--general letranegro General--Cuerpo">Tamaño del mercado: En 2023, se estimo que el mercado global de harinas preparadas alcanzaba un valor de varios miles de millones de dolares y se proyecta que continue creciendo a una tasa compuesta anual del 4 - 6% durante los proximos años.</p>
+
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Impulsores del crecimiento:</p>
+
+        <ol style="margin-top:30px;">
+          <li style="margin-top:30px;list-style-type: disc;">Cambios en el estilo de vida, con consumidores buscando soluciones rapidas y faciles para cocinar.</li>
+          <li style="margin-top:30px;list-style-type: disc;">Mayor adopcion de dietas especializadas, como opciones sin gluten, organicas y con alto contenido proteico, lo que impulsa la innovacion en el sector</li>
+          <li style="margin-top:30px;list-style-type: disc;">Expansion de mercados emergentes como Asia y America Latina, donde la urbanizacion y los ingresos crecientes favorecen el consumo de productos procesados</li>
+        </ol>
+
+        <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Segmentación del Mercado</b></h5>
+
+        <ol>
+          <li style="margin-top:30px;list-style-type: disc;">Por tipo de Producto
+            <ol>
+              <li style="margin-top:30px;list-style-type: disc;">Mezclas para reposteria: Incluyen productos para pasteles, galletas y muffins</li>
+              <li style="margin-top:30px;list-style-type: disc;">Mezclas para panes: Panes tradicionales, integrales, especiales (como sin gluten)</li>
+              <li style="margin-top:30px;list-style-type: disc;">Harinas especiales: Incluyen opciones adaptadas a dietas especificas, como las harinas keto o de almendra</li>
+            </ol>
+          </li>
+        </ol>
+
+        <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Tendencias Clave</b></h5>
+
+        <ol>
+          <li style="margin-top:30px;list-style-type:disc">Sostenibilidad; Los consumidores buscan productos con ingredientes responsables y procesos amigables con el medio ambiente</li>
+          <li style="margin-top:30px;list-style-type:disc">Personalizacion: Aumento de opciones que atienden alergias, preferencias dieteticas y sabores locales</li>
+          <li style="margin-top:30px;list-style-type:disc">Innovacion Tecnologica: Uso de tecnología avanzada en procesos de molienda y mezclado para mejorar la calidad y el valor nutricional</li>
+        </ol>
+
        </div>
        <div class="col s12 m12 l12 xl12">
-          <h5><b style="color: #262137;">Productos</b></h5>
+          <h5 style="margin-top:50px;"><b style="color: #262137;">Productos</b></h5>
+
+          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Aditivos para el blanqueo de la harina:</b></h5>
+
+          <ol>
+            <li style="margin-top:30px;list-style-type: disc;list-style-type: disc;">Peróxido de benzoilo (C<sub>6</sub>H<sub>5</sub>CO<sub>3</suib>H: Se utiliza para blanquear la harina, dandole un color mas blanco. Este proceso es especialmente comun en harias para pasteleria</li>
+            <li style="margin-top:30px;list-style-type: disc;list-style-type: disc;">Oxido de cloro(Cl<sub>2</sub>): Se emplean en algunos paises para el blanqueo de la harina</li>
+            <li style="margin-top:30px;list-style-type: disc;list-style-type: disc;">Ácido ascórbico (vitamina C, C<sub>6</sub>H<sub>8</sub>O<sub>6</sub>: Aunque su funcion principal es como antioxidante, tambien se utiliza como mejorador de la harina ya que ayuda a mejorar la calidad del gluten y la capacidad de retener gas en la masa</li>
+          </ol>
+
+          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Aditivos para mejorar la calidad del gluten:</b></h5>
+
+          <ol>
+            <li style="margin-top:30px;list-style-type: disc;">Ácido ascórbico (C₆H₈O₆): Tambien conocido como "mejorador de panaderia", mejora la formacion y la fuerza del gluten, lo que es crucial para la elaboracion de pan.</li>
+            <li style="margin-top:30px;list-style-type: disc;">Azodicabonamida (C₂H₄N₄O₂): Es un blanqueador y meorador de la masa que se usa en algunas harinas, aunque su uso es controvertido y esta limtiado a algunos paises</li>
+          </ol>
+
+          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Emulsionantes y estabilizantes</b></h5>
+
+          <ol>
+            <li style="margin-top:30px;list-style-type: disc;">Lecitina de soja (C₇₉H₁₁₃NO₁₃P): Se utiliza como emulsionante para mejorar la textura y aumentar la vida útil de los productos horneados elaborados con harina.</li>
+            <li style="margin-top:30px;list-style-type: disc;">Mono- y diglicéridos de ácidos grasos (C₁₈H₃₆O₂): Emulsionantes que se añaden para mejorar la estabilidad de las masas y la textura de los productos horneados</li>
+          </ol>
+
+          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Conservantes:</b></h5>
+
+
+          <ol>
+            <li style="margin-top:30px;list-style-type: disc;">Propionato de calcio (Ca(C₆H₅CO₂)₂): Utilizado como conservante para prevenir el crecimiento de hongos en los productos horneados.</li>
+            <li style="margin-top:30px;list-style-type: disc;">Ácido sórbico (C₆H₈O₂) y sorbato de potasio: Son conservantes que también se pueden usar en productos elaborados con harina para prolongar su vida útil.</li>
+          </ol>
+
+
+          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Aditivos para la fermentación:</b></h5>
+
+          <ol>
+            <li style="margin-top:30px;list-style-type: disc;">Levadura (Saccharomyces cerevisiae): Aunque no es un "producto químico" en el sentido estricto, la levadura es esencial en la fabricación de harinas para productos como pan, ya que produce gas durante la fermentación que hace que la masa suba.</li>
+            <li style="margin-top:30px;list-style-type: disc;">Mejoradores de panificación: Combinaciones de diversos químicos que ayudan a mejorar la textura, el volumen y la frescura del pan.</li>
+          </ol>
+
+          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Acidificantes:</b></h5>
+
+          <ol>
+            <li style="margin-top:30px;list-style-type: disc;">Ácido tartárico (C₄H₆O₆) y bitartrato de potasio: Estos compuestos se utilizan en ocasiones en la producción de harinas para mejorar el proceso de leudado, especialmente en productos como galletas y pasteles.</li>
+          </ol>
+
+
+          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Aditivos para la fortificación:</b></h5>
+
+
+          <ol>
+            <li style="margin-top:30px;list-style-type: disc;">Ácido fólico (vitamina B₉): En muchos países, las harinas se fortifican con vitaminas y minerales como el ácido fólico, hierro, y yodo para mejorar la nutrición de la población.</li>
+            <li style="margin-top:30px;list-style-type: disc;">Tiamina (vitamina B₁), riboflavina (vitamina B₂), y niacina (vitamina B₃): Se añaden a la harina en algunos lugares como parte de un programa de fortificación para prevenir deficiencias nutricionales.</li>
+          </ol>
+
+
+          
+          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Antioxidantes:</b></h5>
+
+
+          <ol>
+            <li style="list-style-type:disc;margin-top:30px;">Tocoferoles (vitamina E): Actúan como antioxidantes para evitar la oxidación de las grasas en la harina y prolongar su vida útil..</li>
+          </ol>
+
         </div>
      </div>
    </div>
 
-    <div class="container" style="margin-top: -50px;">
+    <!-- <div class="container" style="margin-top: -50px;">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
           <ol>
@@ -437,7 +594,7 @@
       </div>
     </div>
 
-    </div>
+    </div> -->
 
 
 

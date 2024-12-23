@@ -178,7 +178,7 @@
                   </section>
                 </div>
                 <div class="col s12 m12 l12 xl8">
-                  <section>
+                  <!-- <section>
                     <ul> 
                       <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                         <hr class="hr">
@@ -193,7 +193,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
                 </div>
                 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                   <section>
@@ -440,7 +440,7 @@
 
     <div class="container">
       <div class="row center-align">
-        <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Proximamente.php" style="cursor:pointer;">
+        <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Leche.php" style="cursor:pointer;">
             <div class="contenedor">
               <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
               <div class="centrado_sub" style="position:absolute;z-index:2">
@@ -464,7 +464,7 @@
             </div></a></div>
       
    
-        <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Proximamente.php" style="cursor:pointer;">
+        <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Leche_Saborizada.php" style="cursor:pointer;">
             <div class="contenedor">
               <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
               <div class="centrado_sub" style="position:absolute;z-index:2">
@@ -475,7 +475,7 @@
                 </h5>
               </div><img class="mercadosimagen " src="img/CB_SABORIZADA_190521.jpeg" alt="" style="border-radius: 10px;"/>
             </div></a></div>
-        <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Proximamente.php" style="cursor:pointer;">
+        <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Quesos.php" style="cursor:pointer;">
             <div class="contenedor">
               <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
               <div class="centrado_sub" style="position:absolute;z-index:2">
@@ -489,7 +489,7 @@
        
 
          
-              <div class="col s12 m12 l6 xl6 mercados zoom columna3"><a href="Proximamente.php" style="cursor:pointer;">
+              <div class="col s12 m12 l6 xl6 mercados zoom columna3"><a href="Yogurt.php" style="cursor:pointer;">
             
               <div class="contenedor">
               <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
@@ -504,7 +504,7 @@
             </a>
 
               </div>
-              <div class="col s12 m12 l6 xl6 mercados zoom columna3"><a href="Proximamente.php" style="cursor:pointer;">
+              <div class="col s12 m12 l6 xl6 mercados zoom columna3"><a href="Helado.php" style="cursor:pointer;">
             
             <div class="contenedor">
             <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>

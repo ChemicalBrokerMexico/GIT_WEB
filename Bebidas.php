@@ -178,7 +178,7 @@
                   </section>
                 </div>
                 <div class="col s12 m12 l12 xl8">
-                  <section>
+                  <!-- <section>
                     <ul> 
                       <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                         <hr class="hr">
@@ -193,7 +193,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
                 </div>
                 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                   <section>
@@ -417,7 +417,7 @@
     </div>
     <div class="container">
       <div class="row center-align">
-        <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Proximamente.php" style="cursor:pointer;">
+        <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Carbonatadas.php" style="cursor:pointer;">
             <div class="contenedor">
               <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
               <div class="centrado_sub" style="position:absolute;z-index:2">
@@ -428,7 +428,7 @@
                 </h5>
               </div><img class="mercadosimagen " src="img/CB_CARBONATE_200521.jpg" alt="" style="border-radius: 10px;"/>
             </div></a></div>
-            <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Proximamente.php" style="cursor:pointer;">
+            <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Isotonicas.php" style="cursor:pointer;">
             <div class="contenedor">
               <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
               <div class="centrado_sub" style="position:absolute;z-index:2">
@@ -441,7 +441,7 @@
             </div></a></div>
     
        
-        <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Proximamente.php" style="cursor:pointer;">
+        <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Jugos.php" style="cursor:pointer;">
             <div class="contenedor">
               <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
               <div class="centrado_sub" style="position:absolute;z-index:2">
@@ -452,7 +452,7 @@
                 </h5>
               </div><img class="mercadosimagen " src="img/CB_JUGO_200521.jpg" alt="" style="border-radius: 10px;"/>
             </div></a></div>
-            <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Proximamente.php" style="cursor:pointer;">
+            <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Alcoholicas.php" style="cursor:pointer;">
             
             <div class="contenedor">
             <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
@@ -471,7 +471,7 @@
 
          
            
-              <div class="col s12 m12 l6 xl6 mercados zoom columna3"><a href="Proximamente.php" style="cursor:pointer;">
+              <div class="col s12 m12 l6 xl6 mercados zoom columna3"><a href="Nutricionales.php" style="cursor:pointer;">
             
             <div class="contenedor">
             <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
@@ -493,11 +493,19 @@
  
     
     <footer style="margin-top:70px">
-      <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg" alt=""></div><br><br>
-      <div class="container-fluid" style="text-align:center;margin-top:-50px">
-        <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad  </a>
-              <script type="text/javascript" src="js/main.js"></script></a></strong></p>
-      </div>
-    </footer>
+    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
+            alt=""></div><br><br>
+    <div class="container-fluid" style="text-align:center;margin-top:-50px">
+        <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos
+            Reservados.
+            | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
+                href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download
+                style="color:black !important;font-size:16px">Politica de
+                Privacidad </a>
+            <script type="text/javascript" src="js/main.js"></script></a></strong>
+        </p>
+        <script type="text/javascript" src="js/Products.js"></script>
+    </div>
+</footer>
   </body>
 </html>

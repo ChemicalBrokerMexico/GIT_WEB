@@ -12,10 +12,61 @@ $(document).ready(function(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Coco</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El Aceite de coco es un aceite vegetal derivado de la pulpa del coco (Cocos nucifera). Se obtiene mediante procesos de prensado en frio o extracción con calor de la carne blanca o la copra del coco. Es conocido por su alta concentración de ácidos grasos saturados de cadena media, especialmente acido láurico.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b style="color:#000020">Aceite de coco</b> es un aceite vegetal derivado de la pulpa del coco (Cocos nucifera). Se obtiene mediante procesos de prensado en frio o extracción con calor de la carne blanca o la copra del coco. Es conocido por su alta concentración de ácidos grasos saturados de cadena media, especialmente acido láurico.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Coco.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
+
+    <div class="row" style="margin-top:150px;"> 
+    <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img/ACEITE_COCO_RBD.jpg" alt="" class="zoom IMG_Seccion_Prod">
+    </div>
+    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
+    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Coco RBD</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Aceite de Coco RBD</b> (Refinado, Blanqueado, Desodorizado) es un tipo de aceite de coco que ha pasado por un proceso de refinacion para eliminar impurezas, olores y sabores fuertes. Este tipo de aceite es ideal para aplicaciones culinarias y cosméticas donde se prefiere un producto neutro en olor y sabor.</p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Coco_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
+
+    <div class="row" style="margin-top:150px;"> 
+    <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img/CBM_IMAGEN_NO_1_ACEITE-MAIZ-RBD.jpg" alt="" class="zoom IMG_Seccion_Prod">
+    </div>
+    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
+    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Maiz</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">El Aceite de Maíz RBD (Refinado, Blanqueado y Desodorizado), es un tipo de aceite vegetal que se obtiene del maíz mediante un proceso de refinamiento. Este proceso implica eliminar impurezas, olores y sabores no deseados del aceite crudo de maíz.</p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Maiz.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
+
+    <div class="row" style="margin-top:150px;"> 
+    <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img/Palma_Aceite_281124.jpg" alt="" class="zoom IMG_Seccion_Prod">
+    </div>
+    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
+    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Palma RBD</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">El aceite de palma RBD (Refinado, Blanqueado y Desodorizado) es una forma procesada del aceite de palma crudo, ampliamente utilizado en la industria alimentaria, cosmética y química debido a sus características versátiles.</p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Palma_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
+    <div class="row" style="margin-top:150px;"> 
+    <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img/PALMISTE_RBD.jpg" alt="" class="zoom IMG_Seccion_Prod">
+    </div>
+    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
+    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Palmiste RBD</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">El aceite de palmiste RBD (Refinado, Blanqueado y Desodorizado) es un aceite vegetal obtenido a partir de la semilla o núcleo de la palma de aceite (Elaeis guineensis). Este aceite es diferente al aceite de palma, que se extrae de la pulpa del fruto. El término RBD indica que ha pasado por procesos de refinado, blanqueado y desodorizado para eliminar impurezas, colores y olores, haciéndolo más adecuado para aplicaciones industriales y alimenticias.</p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Palmiste_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
     
     <div class="row" style="margin-top:150px;"> 
     <div class="col s12 m12 l12 xl6 center-align">
@@ -197,9 +248,9 @@ $(document).ready(function(){
     <img src="img/CB_ESTEARINA_PALMA_281223.png" alt="" class="zoom IMG_Seccion_Prod">
     </div>
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Estearina de palma</b></h5>
+    <h5 class="Tipografia--general Titulos"><b>Estearina de Palma (RBD)</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La Estearina de Palma refinada, blanqueada y desodorizada (RBD) es una grasa vegetal derivada del aceite de palma. La estearina de palma RBD es una fracción sólida del aceite de palma RBD, obtenida por fraccionamiento mediante procesos simples de cristalización y separación a temperatura controlada. Las propiedades físicas de la estearina de palma RBD difieren ampliamente de las del aceite de palma RBD. La estearina de palma RBD está disponible en una gama más amplia de puntos de fusión y valores de yodo. </p>
+    <p class="Tipografia--general General--Cuerpo letranegro">La Estearina de Palma refinada, blanqueada y desodorizada (RBD) es una grasa vegetal derivada del aceite de palma. La Estearina de Palma RBD es una fracción sólida del aceite de palma RBD, obtenida por fraccionamiento mediante procesos simples de cristalización y separación a temperatura controlada. Las propiedades físicas de la Estearina de Palma RBD difieren ampliamente de las del aceite de palma RBD. La Estearina de Palma RBD está disponible en una gama más amplia de puntos de fusión y valores de yodo. </p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Estearina_Palma_Hidrogenado.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -232,7 +283,7 @@ $(document).ready(function(){
 
     <div class="row" style="margin-top:150px;"> 
     <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/COLLAGE_FOSFATOS_140824.jpg" alt="" class="zoom IMG_Seccion_Prod" style="100%">
+    <img src="img/ALIMENTOS_FOSFORO_280824.jpg" alt="" class="zoom IMG_Seccion_Prod" style="100%">
     </div>
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Fosfatos</b></h5>
@@ -480,15 +531,64 @@ function filtroall(){
     `
     document.getElementById("contenedorliteral").innerHTML = `
 
-    <div class="row" style="margin-top:-30px;"> 
+    <div class="row" style="margin-top:-10px;"> 
     <div class="col s12 m12 l12 xl6 center-align">
     <img src="img/CB_ACEITE_COCO2.jpg" alt="" class="zoom IMG_Seccion_Prod">
     </div>
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Coco</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El Aceite de coco es un aceite vegetal derivado de la pulpa del coco (Cocos nucifera). Se obtiene mediante procesos de prensado en frio o extracción con calor de la carne blanca o la copra del coco. Es conocido por su alta concentración de ácidos grasos saturados de cadena media, especialmente acido láurico.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b style="color:#000020">Aceite de coco</b> es un aceite vegetal derivado de la pulpa del coco (Cocos nucifera). Se obtiene mediante procesos de prensado en frio o extracción con calor de la carne blanca o la copra del coco. Es conocido por su alta concentración de ácidos grasos saturados de cadena media, especialmente acido láurico.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Coco.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
+    <div class="row" style="margin-top:150px;"> 
+    <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img/ACEITE_COCO_RBD.jpg" alt="" class="zoom IMG_Seccion_Prod">
+    </div>
+    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
+    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Coco RBD</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">El Aceite de Coco RBD (Refinado, Blanqueado, Desodorizado) es un tipo de aceite de coco que ha pasado por un proceso de refinacion para eliminar impurezas, olores y sabores fuertes. Este tipo de aceite es ideal para aplicaciones culinarias y cosméticas donde se prefiere un producto neutro en olor y sabor.</p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Coco_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
+    <div class="row" style="margin-top:150px;"> 
+    <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img/CBM_IMAGEN_NO_1_ACEITE-MAIZ-RBD.jpg" alt="" class="zoom IMG_Seccion_Prod">
+    </div>
+    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
+    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Maiz</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">El Aceite de Maíz RBD (Refinado, Blanqueado y Desodorizado), es un tipo de aceite vegetal que se obtiene del maíz mediante un proceso de refinamiento. Este proceso implica eliminar impurezas, olores y sabores no deseados del aceite crudo de maíz.</p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Maiz.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
+
+    <div class="row" style="margin-top:150px;"> 
+    <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img/Palma_Aceite_281124.jpg" alt="" class="zoom IMG_Seccion_Prod">
+    </div>
+    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
+    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Palma RBD</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">El aceite de palma RBD (Refinado, Blanqueado y Desodorizado) es una forma procesada del aceite de palma crudo, ampliamente utilizado en la industria alimentaria, cosmética y química debido a sus características versátiles.</p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Palma_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
+    <div class="row" style="margin-top:150px;"> 
+    <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img/PALMISTE_RBD.jpg" alt="" class="zoom IMG_Seccion_Prod">
+    </div>
+    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
+    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Palmiste RBD</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">El aceite de palmiste RBD (Refinado, Blanqueado y Desodorizado) es un aceite vegetal obtenido a partir de la semilla o núcleo de la palma de aceite (Elaeis guineensis). Este aceite es diferente al aceite de palma, que se extrae de la pulpa del fruto. El término RBD indica que ha pasado por procesos de refinado, blanqueado y desodorizado para eliminar impurezas, colores y olores, haciéndolo más adecuado para aplicaciones industriales y alimenticias.</p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Palmiste_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
     
@@ -670,9 +770,9 @@ function filtroall(){
     <img src="img/CB_ESTEARINA_PALMA_281223.png" alt="" class="zoom IMG_Seccion_Prod">
     </div>
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Estearina de palma</b></h5>
+    <h5 class="Tipografia--general Titulos"><b>Estearina de Palma</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La Estearina de Palma refinada, blanqueada y desodorizada (RBD) es una grasa vegetal derivada del aceite de palma. La estearina de palma RBD es una fracción sólida del aceite de palma RBD, obtenida por fraccionamiento mediante procesos simples de cristalización y separación a temperatura controlada. Las propiedades físicas de la estearina de palma RBD difieren ampliamente de las del aceite de palma RBD. La estearina de palma RBD está disponible en una gama más amplia de puntos de fusión y valores de yodo. </p>
+    <p class="Tipografia--general General--Cuerpo letranegro">La Estearina de Palma refinada, blanqueada y desodorizada (RBD) es una grasa vegetal derivada del aceite de palma. La Estearina de Palma RBD es una fracción sólida del aceite de palma RBD, obtenida por fraccionamiento mediante procesos simples de cristalización y separación a temperatura controlada. Las propiedades físicas de la Estearina de Palma RBD difieren ampliamente de las del aceite de palma RBD. La Estearina de Palma RBD está disponible en una gama más amplia de puntos de fusión y valores de yodo. </p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Estearina_Palma_Hidrogenado.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -704,7 +804,7 @@ function filtroall(){
 
     <div class="row" style="margin-top:150px;"> 
     <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/COLLAGE_FOSFATOS_140824.jpg" alt="" class="zoom IMG_Seccion_Prod" style="100%">
+    <img src="img/ALIMENTOS_FOSFORO_280824.jpg" alt="" class="zoom IMG_Seccion_Prod" style="100%">
     </div>
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Fosfatos</b></h5>
@@ -947,8 +1047,56 @@ function filtroa(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Coco</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El Aceite de coco es un aceite vegetal derivado de la pulpa del coco (Cocos nucifera). Se obtiene mediante procesos de prensado en frio o extracción con calor de la carne blanca o la copra del coco. Es conocido por su alta concentración de ácidos grasos saturados de cadena media, especialmente acido láurico.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b style="color:#000020">Aceite de coco</b> es un aceite vegetal derivado de la pulpa del coco (Cocos nucifera). Se obtiene mediante procesos de prensado en frio o extracción con calor de la carne blanca o la copra del coco. Es conocido por su alta concentración de ácidos grasos saturados de cadena media, especialmente acido láurico.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Coco.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
+    <div class="row" style="margin-top:150px;"> 
+    <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img/ACEITE_COCO_RBD.jpg" alt="" class="zoom IMG_Seccion_Prod">
+    </div>
+    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
+    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Coco RBD</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">El Aceite de Coco RBD (Refinado, Blanqueado, Desodorizado) es un tipo de aceite de coco que ha pasado por un proceso de refinacion para eliminar impurezas, olores y sabores fuertes. Este tipo de aceite es ideal para aplicaciones culinarias y cosméticas donde se prefiere un producto neutro en olor y sabor.</p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Coco_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
+    <div class="row" style="margin-top:150px;"> 
+    <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img/CBM_IMAGEN_NO_1_ACEITE-MAIZ-RBD.jpg" alt="" class="zoom IMG_Seccion_Prod">
+    </div>
+    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
+    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Maiz</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">El Aceite de Maíz RBD (Refinado, Blanqueado y Desodorizado), es un tipo de aceite vegetal que se obtiene del maíz mediante un proceso de refinamiento. Este proceso implica eliminar impurezas, olores y sabores no deseados del aceite crudo de maíz.</p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Maiz.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
+    <div class="row" style="margin-top:150px;"> 
+    <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img/Palma_Aceite_281124.jpg" alt="" class="zoom IMG_Seccion_Prod">
+    </div>
+    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
+    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Palma RBD</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">El aceite de palma RBD (Refinado, Blanqueado y Desodorizado) es una forma procesada del aceite de palma crudo, ampliamente utilizado en la industria alimentaria, cosmética y química debido a sus características versátiles.</p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Palma_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
+    <div class="row" style="margin-top:150px;"> 
+    <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img/PALMISTE_RBD.jpg" alt="" class="zoom IMG_Seccion_Prod">
+    </div>
+    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
+    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Palmiste RBD</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">El aceite de palmiste RBD (Refinado, Blanqueado y Desodorizado) es un aceite vegetal obtenido a partir de la semilla o núcleo de la palma de aceite (Elaeis guineensis). Este aceite es diferente al aceite de palma, que se extrae de la pulpa del fruto. El término RBD indica que ha pasado por procesos de refinado, blanqueado y desodorizado para eliminar impurezas, colores y olores, haciéndolo más adecuado para aplicaciones industriales y alimenticias.</p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Palmiste_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
 
@@ -1165,7 +1313,7 @@ function filtroe(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Estearina de Palma</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La Estearina de Palma refinada, blanqueada y desodorizada (RBD) es una grasa vegetal derivada del aceite de palma. La estearina de palma RBD es una fracción sólida del aceite de palma RBD, obtenida por fraccionamiento mediante procesos simples de cristalización y separación a temperatura controlada. Las propiedades físicas de la estearina de palma RBD difieren ampliamente de las del aceite de palma RBD. La estearina de palma RBD está disponible en una gama más amplia de puntos de fusión y valores de yodo. </p>
+    <p class="Tipografia--general General--Cuerpo letranegro">La Estearina de Palma refinada, blanqueada y desodorizada (RBD) es una grasa vegetal derivada del aceite de palma. La Estearina de Palma RBD es una fracción sólida del aceite de palma RBD, obtenida por fraccionamiento mediante procesos simples de cristalización y separación a temperatura controlada. Las propiedades físicas de la Estearina de Palma RBD difieren ampliamente de las del aceite de palma RBD. La Estearina de Palma RBD está disponible en una gama más amplia de puntos de fusión y valores de yodo. </p>
     <p class="Tipografia--general Botones letranegro btn_leerMas" style="position:absolute;left:10px;bottom:-30px"><b><a href="Estearina_Palma_Hidrogenado.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -1212,7 +1360,7 @@ function filtrof(){
 
     <div class="row" style="margin-top:150px;"> 
     <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/COLLAGE_FOSFATOS_140824.jpg" alt="" class="zoom IMG_Seccion_Prod" style="100%">
+    <img src="img/ALIMENTOS_FOSFORO_280824.jpg" alt="" class="zoom IMG_Seccion_Prod" style="100%">
     </div>
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Fosfatos</b></h5>

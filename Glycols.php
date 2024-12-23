@@ -185,7 +185,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 </section>
 </div>
 <div class="col s12 m12 l12 xl8">
-<section>
+<!-- <section>
 <ul> 
 <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
 <hr class="hr">
@@ -200,7 +200,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
 </div>
 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
 <section>
@@ -270,7 +270,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 </div>
 </div>
 <div class="col s12 m12 l12 xl12 search" id="search">
-<table class="search-table" id="searchTable" style="width:100%">
+<table class="search-table" id="" style="width:100%">
 <thead> 
 <tr>
 <td> </td>
@@ -349,7 +349,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12 search" id="search2">
-<table class="search-table" id="searchTable2" style="width:100%;">
+<table class="search-table" id="" style="width:100%;">
 <thead> 
 <tr> 
 <td> </td>
@@ -403,9 +403,9 @@ gtag('config', 'G-SGJQ8FDDJ6');
         <ul class="slides slides-pruea">
           <li><img src="img/CB_JARABE_021024.jpg" style="height:400px;" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Glicoles</b>
+              <h1 class="primertitulo"><b class="boldbanner">Glicoles</b><br></h1>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Glycols.php"><b class="Tipografia--general Subtitulos" style="color:red;">Glicoles</b></a></section>
+      
     </div>
             </div>
           </li>
@@ -419,13 +419,16 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <div class="container" style="margin-top:130px;">
     <div class="row" style="margin-bottom:0px;">
         <div class="col s12 m12 l12 xl12">
+
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Glycols.php"><b class="Tipografia--general Subtitulos" style="color:red;">Glicoles</b></a></section>
+
         <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Glicoles</b></h2>
   <p class="Tipografia--general letranegro General--Cuerpo">Los Glicoles son un tipo de compuesto químico orgánico que contiene dos grupos hidroxilos (grupos -OH) que resultan de la reacción del agua con el óxido de etileno.
   Científicamente se denominan dioles (alcoholes bivalentes), que se desvían del etilenglicol (denominados 1,2-dioles, dioles vecinales o alcanos). Los derivados de etilenglicol cuyos grupos hidroxilos no están ordenados de forma vecinal se denominan glicoles. Los glicoles se encuentran con frecuencia en refrigerantes y anticongelantes, así como en productos de descongelación, ya que el punto de fusión de −10 a −15 °C (concentrado) está por debajo del punto de fusión del agua. En combinación con el agua (mezcla de glicol con agua), el punto de fusión es todavía muy inferior y, dependiendo de la proporción de la mezcla, puede alcanzar hasta los -55 °C.</p>
   <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Todos los glicoles se presentan en forma de líquido claro, transparente, inodoro y de baja volatilidad. Los glicoles de poco peso molecular son totalmente miscibles en agua y la mayoría cuentan con una gran capacidad para disolverse en casi todos los compuestos orgánicos.</p>
     <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Información Técnica Glicoles</b></h2>
 
-        <table class="display" id="table_id2"  style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
+        <table class="display" id=""  style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
 <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
 <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tabla_productos_glicoles">
 Fórmula Estructural:

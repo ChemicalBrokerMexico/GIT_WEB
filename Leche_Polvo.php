@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
-    <title>Chemical Broker</title>
+    <title>Chemical Broker | Leche en Polvo</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -178,7 +178,7 @@
                   </section>
                 </div>
                 <div class="col s12 m12 l12 xl8">
-                  <section>
+                  <!-- <section>
                     <ul> 
                       <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                         <hr class="hr">
@@ -193,7 +193,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
                 </div>
                 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                   <section>
@@ -390,47 +390,181 @@
         </div>
       </div>
     </ul>
+
+
     <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li> <img src="img/CB_POLV_190521.jpg" alt="" style="height:650px">
+          <li><img src="img/CB_POLV_190521.jpg" style="height:400px;filter:brightness(0.9);" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">Leche en Polvo</b>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Leche en Polvo</b>
+              <div class="container">
+      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:white;">Mercados ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:white;">Alimentos ></b></a> <a class="active" href="Lacteos.php"><b class="Tipografia--general Subtitulos" style="color:white;">Lacteos ></b> <a class="active" href="Leche.php"><b class="Tipografia--general Subtitulos" style="color:red;">Leche en Polvo</b></a></a></section>
+    </div>
             </div>
           </li>
         </ul>
       </div>
     </div>
-    <div class="container">
+
+
+    <div class="container" style="margin-top:130px;">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Lacteos.php" style="color:#262137 !important;margin-left:-2px"><b>Lacteos  ></b></a> <a href="Leche_Polvo.php" class="breitem active" style="color:#262137 !important"><b>Leche en Polvo</b></a> </section></section>
+          <p class="Tipografia--general letranegro General--Cuerpo">La industria de la leche en polvo es una rama importante del sector lacteo que transforma la leche liquida en un producto seco, ligero y de larga duracion. Este formato es especialmente relevante en regiones con acceso limitado a productos frescos, en la produccion de alimentos procesados y como ingrediente en diversas industrias</p>
+
+          <h5 class="Tipografia--general letranegro General--Cuerpo">Caracteristicas de la leche en polvo</h5>
+
+          <ol>
+            <li class="Elementos--Listas">Se obtiene eliminando casi toda el agua de la leche liquida mediante metodos como la evaporacion y el secado por atomizacion</li>
+            <li class="Elementos--Listas">Leche entera en polvo: Contiene grasas natuales con un sabor mas rico pero una vital util menor debido a la oxidacion de grasas</li>
+            <li class="Elementos--Listas">Leche desmecramada el polvo: Baja en grasa, con mayor duracion y versatilidad.</li>
+          </ol>
+
+          <h5 class="Tipografia--general letranegro General--Cuerpo">Proceso de Producción</h5>
+
+          <p>El proceso involucra varias etapas clave:</p>
+
+          <ol>
+            <li>Recoleccion y pasteurización: La leche cruda se pasteuriza para eliminar microorganismos y garantizar su seguridad</li>
+            <li>Concentración: Se reduce el contenido de agua mediante evaporacion al vacio</li>
+            <li>Secado por atomización: La leche concentrada se pulveriza en una cámara de aire caliente, donde el agua restante se evapora rápidamente, dejando partículas secas</li>
+            <li>Enfriado y empaquetado: El polvo se enfría para evitar la formacion de grumos y se empaca en condiciones herméticas para prevenir la contaminacion y la humedad</li>
+          </ol>
+
+          <h5 class="Tipografia--general letranegro General--Cuerpo">Usos de la leche en polvo</h5>
+
+          <ol>
+            <li>Consumo directo: Mezclada con agua para reconstituirla como leche líquida</li>
+            <li>Industria Alimentaria: Ingrediente en productos como pan, pasteles, chocolates, helados, sopas instantaneas y salsas</li>
+            <li>Nutrición infantil: Base para la formula láctea de bebés</li>
+            <li>Aplicaciones Industriales: En alimentos procesados y en nutricion animal</li>
+          </ol>
+
+          <h5 class="Tipografia--general letranegro General--Cuerpo">Retos de la industria</h5>
+          
+          <ol>
+            <li>Fluctuaciín de precios: Los precios de la leche en polvo están sujetos a variaciones en los costos de materias primas, transporte y regulaciones internacionales</li>
+            <li>Impacto Ambiental: La produccion de leche (liquida y en polvo) genera preocupaciones por su huella hídrica y de carbono</li>
+            <li>Competencia con alternativas vegetales: Las bebidas en polvo a base de soya, avena y almendra están ganando popularidad entre los consumidores conscientes del medio ambiente y la salud</li>
+            <li>Regulaciones estrictas: Las normas de calidad y seguridad alimentaria son exigentes, especialmente para formulas infantiles</li>
+          </ol>
+
+          <h5 class="Tipografia--general letranegro General--Cuerpo">Ingredientes Quimicos</h5>
+
+          <ol>
+            <li>Agentes Antioxidantes: Evitan la oxidacion de las grasas, especialmente en la leche entera de polvo, prolongando su vida util:
+              <ol>
+                <li>Tocoferoles (Vitamina E): Se usan como antixiodantes naturales</li>
+                <li>Ácido Ascorbico Vitamina (C): Ayuda a prevenir la oxidacion</li>
+                <li>Palmitato de ascorbilo: Una forma de vitamina C más estable utilizada como antioxidantes</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li>Emulsionantes: Mejoran la disolucion de la leche en polvo cuando se reconstituye y ayudan a estabilizar las grasas:
+              <ol>
+                <li>Mono y diglicéridos de ácidos grasos: Facilitan la mezcla de las grasas con el agua al preparar la leche líquida</li>
+                <li>Lecitina de soya o girasol: Ayuda a que el polvo se mezcla facilmente con agua</li>
+                <li>Ésteres de ácido tartárico y mono y diglicéridos (DATEM): Usados para mejorar la dispersión</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li> Estabilizantes: Proporcionan uniformidad y evitan la formacion de grumos:
+              <ol>
+                <li>Fosfatos (fosfato de sodio, fosfato de potasio): Mantienen la estabilidad y mejoran la solubilidad del polvo </li>
+                <li>Citratos (citrato de sodio o de potasio): Evitan la coagulación durante el proceso de secado</li>
+              </ol>
+            </li>
+          </ol>
+
+            <ol>
+              <li> Fortificantes Nutricionales: Se añaden para aumentar el valor nutricional del producto, especialmente en fórmulas infantiles y leche en polvo fortificada:
+                <ol>
+                  <li>Vitaminas A y D: Fortifican el producto para compensar las pérdidas durante el procesamiento</li>
+                  <li>Calcio adicional (carbonato de calcio, fosfato tricálcico): Mejora el contenido de minerales</li>
+                  <li>Hierro (fumarato ferroso, sulfato ferroso): Común en fórmulas infantiles</li>
+                  <li>Ácidos grasos omega - 3: Para la fortificación en productos premium</li>
+                </ol>
+              </li>
+            </ol>
+
+            <ol>
+              <li> Reguladores de acidez: Controlan el pH durante el proceso de producción y mejoran la estabilidad del producto:
+                <ol>
+                  <li>Bicarbonato de sodio: Se usa para neutralizar la acidez</li>
+                  <li>Hidróxido de calcio: Ajusta el pH en ciertos procesos</li>
+                  <li>Ácido cítrico: Utilizado para estabilizar en productos acidificados o con sabores</li>
+                </ol>
+              </li>
+            </ol>
+
+            <ol>
+              <li> Agentes aglomerantes: Evitan que las particulas de leche en polvo se peguen entre si y aseguran una textura uniforme:
+                <ol>
+                  <li>Silicato de calcio: Actúa como agente de flujo para mantener el polvo seco y suelto</li>
+                  <li>Dióxido de silicio: Comúnmente utilizado como antiaglomerante en productos en polvo</li>
+                </ol>
+              </li>
+            </ol>
+
+            <ol>
+              <li> Edulcorantes (opcional): En productos especificos, como leche en polvo saborizada o fórmulas infantiles:
+                <ol>
+                  <li>Azúcar (sacarosa): Para productos saborizados</li>
+                  <li>Lactosa: Para mejorar la palatabilidad</li>
+                  <li>Edulcorantes artificiales (aspartame, acesulfame-K): Usados en productos bajos en calorias</li>
+                </ol>
+              </li>
+            </ol>
+
+
+            <ol>
+              <li> Conservadores: La leche en polvo tiene una vida util prolongada debido a la baja actividad de agua, por lo que los conservadores son poco comunes.
+                <ol>
+                  <li>Sorbato de potasio: Puede usarse en mezclas de leche en polvo con otros ingredientes</li>
+                </ol>
+              </li>
+            </ol>
+
+            <ol>
+              <li> Colorantes: En productos saborizados o especializados:
+                <ol>
+                  <li>Beta-caroteno: Proporciona un color amarillo natural</li>
+                  <li>Annato: Se utiliza en productos especificos para realzar el color</li>
+                </ol>
+              </li>
+            </ol>
+
+            <ol>
+              <li> Ingredientes especificos para fórmulas infantiles
+                <ol>
+                  <li>Lactosa: Como fuente de carbohidratos</li>
+                  <li>Aceites vegetales: Fuentes de grasas esenciales (como aceite de palma, canola, coco, entre otros)</li>
+                  <li>Ácidos grasos DHA y ARA: Para el desarrollo cerebral y visual</li>
+                </ol>
+              </li>
+            </ol>
         </div>
       </div>
     </div>
    
-
-<div class="container">
-  <div class="row">
-    <div class="col s12 m12 l12 xl12">
+  
 
 
-    </div>
-    <div class="col s12 m12 l12 xl12">
-      
-    </div>
-  </div>
-</div>
 
 
 
 
 </body>
-  <footer style="margin-top:70px">
-    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""></div><br><br>
+<footer style="margin-top:70px">
+    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg" alt=""/></div><br/><br/>
     <div class="container-fluid" style="text-align:center;margin-top:-50px">
-      <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad  </a>
-            <script type="text/javascript" src="js/main.js"></script></a></strong></p>
+      <p style="color:black;text-align:center;font-size:16px"><strong>© 2014 C&E | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download="download" style="color:black !important;font-size:16px">Politica de Privacidad  </a>
+            <script type="text/javascript" src="js/main.js">   </script></a></strong></p>
     </div>
   </footer>
 </html>

@@ -9,11 +9,14 @@
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">
     <link rel="canonical" href="https://chemicalbroker.mx/Fosfato_Trisodico_Dodecahidratado.php">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
-    <link rel="stylesheet" href="css/History_Line.css?n=1">
-    <link rel="stylesheet" href="css/jquery.dataTables.min.css">
-    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/History_Line.css">
+  <link rel="stylesheet" href="css/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
     <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="js/materialize.js?n=1" type="text/javascript"></script>
     <script src="js/init.js?n=1"></script>
@@ -193,7 +196,7 @@
 </section>
 </div>
 <div class="col s12 m12 l12 xl8">
-<section>
+<!-- <section>
 <ul> 
 <p class="color--blanco"><b class="Tipografia--general Titulos" style="margin-top:0px">Empleados </b>
 <hr class="hr">
@@ -208,7 +211,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
 </div>
 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2 Carreras_menu_principal">
 <section class="Carreras_menu_principal">
@@ -420,7 +423,7 @@
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section><a class="active" href="#" style="color:white !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos ">Productos > </b> </a> <a class=" active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Fosfato Trisodico Dodecahidratado</b></a></section>
+
 </div>
 </div>
 </div>
@@ -440,6 +443,10 @@
 </div>
 
     <div class="row">
+
+
+    <section><a class="active" href="#" style="color:black !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos " style="color:black;">Productos > </b> </a> <a class=" active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Fosfato Trisodico Dodecahidratado</b></a></section>
+
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El Fosfato Trisódico Dodecahidratado, con la fórmula química Na₃PO₄·12H₂O, es un compuesto inorgánico que se presenta como cristales blancos o polvo blanco y es altamente soluble en agua. Es conocido por sus numerosas aplicaciones en distintas industrias gracias a sus propiedades alcalinas y su capacidad para actuar como agente de limpieza, regulador de pH y dispersante.</p>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020">Propiedades Físicas</b></h5>
@@ -529,6 +536,11 @@
 
     </div>
 </div>
+
+
+<a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
 
 
 <footer class="altofooter">

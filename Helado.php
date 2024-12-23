@@ -178,7 +178,7 @@
                   </section>
                 </div>
                 <div class="col s12 m12 l12 xl8">
-                  <section>
+                  <!-- <section>
                     <ul> 
                       <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                         <hr class="hr">
@@ -193,7 +193,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
                 </div>
                 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                   <section>
@@ -404,31 +404,133 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Lacteos.php" style="color:#262137 !important;margin-left:-2px"><b>Lacteos  ></b></a> <a href="Helado.php" class="breitem active" style="color:#262137 !important"><b>Helado</b></a> </section></section>
+        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Lacteos.php" style="color:#262137 !important;margin-left:-2px"><b>Lacteos  ></b></a> <a href="Helado.php" class="breitem active" style="color:red !important"><b style="color:red !important">Helado</b></a> </section></section>
         </div>
       </div>
     </div>
    
 
+     <div class="container">
+      <div class="row">
+        <div class="col s12 m12 l12 xl12">
+          <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Helados</b></h2>
+          <p class="Tipografia--general letranegro General--Cuerpo">La industria de los helados es un sector dinámico y global que abarca desde pequeñas heladerías artesanales hasta grandes corporaciones internacionales. Este mercado combina innovación, tendencias de consumo y un fuerte componente estacional, ya que los helados suelen ser más populares en climas cálidos o durante el verano.</p>
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Aspectos clave de la industria de los helados</b></h2>
+          <ol>
+            <li class="Elementos--Listas"><b>Tipos de helados:</b>
+              <ol>
+                <li style="margin-top:30px;" class="Elementos--Listas">Industriales: Producidos en masa y distribuidos a gran escala. incluyen marcas reconocidas como Häagen-Dazs, Ben & Jerry’s o Magnum.</li>
+                <li style="margin-top:30px;" class="Elementos--Listas">Artesanales: Producidos localmente, con técnicas tradicionales y énfasis en ingredientes frescos y de calidad. Son populares en heladerías boutique.</li>
+                <li style="margin-top:30px;" class="Elementos--Listas">Alternativos: Incluyen helados veganos, sin lactosa, bajos en azúcar o sin gluten, adaptados a consumidores con restricciones alimenticias o preferencias específicas.</li>
+                <li style="margin-top:30px;" class="Elementos--Listas">Soft Serve: Helado suave servido directamente desde máquinas en restaurantes, puestos de comida rápida o heladerías.</li>
+              </ol>
+            </li>
+          </ol>
 
-<div class="container">
-  <div class="row">
-    <div class="col s12 m12 l12 xl12">
-      <p style="color: orange;">La industria del helado alcanzo un valor de 908 millones de dólares anuales en el mercado nacional, equivalente a más de 18 mil millones de pesos y se pronostica que para el año 2021 alcance un crecimiento de 4.61%.</p>
-      <p style="color: orange;">El consumo de este producto fue de alrededor de 2 litros por persona, en los últimos años su crecimiento a sido de 1.4% anual y solo en el año 2019 tuvo un crecimiento aproximado del 8%.</p>
-    </div>
-    <div class="col s12 m12 l12 xl12"><h5><b style="color: #262137;">Productos</b></h5></div>
-  </div>
-</div>
+          <ol>
+            <li style="margin-top:50px;" class="Elementos--Listas"><b>Tendencias actuales:</b>
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Sostenibilidad: Los consumidores demandan envases biodegradables y prácticas de producción responsables.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Ingredientes naturales: Aumenta la preferencia por helados con menos aditivos y sabores naturales.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Innovación en sabores: Combinaciones exóticas (como helado de té matcha, cúrcuma o lavanda) y adaptaciones a gustos locales.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Helados funcionales: Productos con beneficios añadidos, como proteínas, probióticos o vitaminas.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li style="margin-top:50px;" class="Elementos--Listas"><b>Canales de distribución:</b>
+              <ol>
+                <li style="margin-top:30px;" class="Elementos--Listas">Minoristas: Supermercados, tiendas de conveniencia y gasolineras venden helados empaquetados.</li>
+                <li style="margin-top:30px;" class="Elementos--Listas">Directo al consumidor: Las heladerías y tiendas especializadas ofrecen helados al momento.</li>
+                <li style="margin-top:30px;" class="Elementos--Listas">Delivery: El crecimiento de las aplicaciones de entrega ha aumentado la disponibilidad de helados a domicilio.</li>
+              </ol>
+            </li>
+          </ol>
+
+           <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Ingredientes Quimicos Utilizados</b></h2>
+
+           <ol>
+            <li class="Elementos--Listas" style="margin-top:50px;">Emulsionantes: Los emulsionantes ayudan a mezclar y estabilizar los componentes grasos y acuosos, evitando la separacion de fases y mejorando la textura cremosa del helado.
+              <ol>
+                <li style="margin-top:30px;" class="Elementos--Listas">Lecitina (natural, de huevo o soya).</li>
+                <li style="margin-top:30px;" class="Elementos--Listas">Mono y diglicéridos de ácidos grasos.</li>
+                <li style="margin-top:30px;" class="Elementos--Listas">Polisorbato 80: Facilita la integración de aire, contribuyendo a una textura suave.</li>
+              </ol>
+            </li>
+           </ol>
+
+           <ol>
+            <li class="Elementos--Listas" style="margin-top:50px;">Estabilizantes: Estos compuestos evitan la formación de grandes cristales de hielo y ayudan a mantener la textura del helado durante el almacenamiento
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Goma guar: Espesante derivado de plantas.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Goma xantana: Producida por fermentación bacteriana.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Carragenina: Derivado de algas marinas.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Alginato de sodio: Otro estabilizante proveniente de algas.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">CMC (Carboximetilcelulosa): Mejora la estabilidad y previene la formación de cristales.</li>
+              </ol>
+            </li>
+           </ol>
+
+           <ol>
+            <li class="Elementos--Listas" style="margin-top:50px;">Endulzantes: Ademas del azúcar tradicional, se usan edulcorantes para reducir las calorias o lograr sabores especificos.
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Jarabe de maíz alto en fructosa: Proporciona dulzura y mejora la textura.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Sacarina, sucralosa o aspartamo: Utilizados en versiones light o dietéticas.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Alcoholes de azúcar (como el maltitol o el eritritol): Son endulzantes bajos en calorías que no cristalizan fácilmente.</li>
+              </ol>
+            </li>
+           </ol>
+
+           <ol>
+            <li class="Elementos--Listas" style="margin-top:50px;">Conservantes: Prolongan la vida util del producto, aunque su uso es limitado debido a las bajas temperaturas que por sí solas ayudan a preservar el helado
+              <ol>
+                <li style="margin-top:50px;" class="Elementos--Listas">Sorbato de potasio: Inhibe el crecimiento de moho y levaduras.</li>
+                <li style="margin-top:50px;" class="Elementos--Listas">Benzoato de sodio: Común en productos con frutas.</li>
+              </ol>
+            </li>
+           </ol>
+
+           <ol>
+            <li class="Elementos--Listas" style="margin-top:50px;">Colorantes: Los colorantes, naturales o sintéticos, se emplean para hacer el helado visualmente atractivo
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Naturales: Como carmín (de insectos), cúrcuma o clorofila.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Artificiales: Como tartrazina (amarillo) o azul brillante FCF.</li>
+              </ol>
+            </li>
+           </ol>
+
+           <ol>
+            <li class="Elementos--Listas" style="margin-top:50px;">Sabores y aromatizantes
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Naturales: Extractos como vainilla, menta o frutas.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Artificiales: Moléculas químicas diseñadas para replicar sabores naturales (como etilvainillina para la vainilla).</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Potenciadores de sabor: Por ejemplo, el glutamato monosódico (poco común en helados, pero posible en algunas mezclas).</li>
+              </ol>
+            </li>
+           </ol>
+
+        </div>
+      </div>
+     </div>
+
 
 
 
 </body>
-  <footer style="margin-top:70px">
-    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""></div><br><br>
+<footer style="margin-top:70px">
+    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
+            alt=""></div><br><br>
     <div class="container-fluid" style="text-align:center;margin-top:-50px">
-      <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad  </a>
-            <script type="text/javascript" src="js/main.js"></script></a></strong></p>
+        <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos
+            Reservados.
+            | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
+                href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download
+                style="color:black !important;font-size:16px">Politica de
+                Privacidad </a>
+            <script type="text/javascript" src="js/main.js"></script></a></strong>
+        </p>
+        <script type="text/javascript" src="js/Products.js"></script>
     </div>
-  </footer>
+</footer>
 </html>

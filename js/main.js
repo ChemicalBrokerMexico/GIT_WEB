@@ -107,21 +107,20 @@ function limpiar() {
 
 //FUNCION 11
 function Validarcampos() {
-  var titulo = document.getElementById("titulo").value;
+  // var titulo = document.getElementById("titulo").value;
   var nombre_apellido = document.getElementById("nombre").value;
   var organizacion = document.getElementById("organizacion").value;
   var puesto = document.getElementById("puesto").value;
   var email = document.getElementById("email").value;
-  var callen = document.getElementById("calleN").value;
-  var colonia = document.getElementById("colonia").value;
-  var codigop = document.getElementById("codigop").value;
-  var ciudad = document.getElementById("ciudad").value;
-  var pais = document.getElementById("pais").value;
-  var estado = document.getElementById("estado").value;
-  var numtel = document.getElementById("numtel").value;
-  var textarea1 = document.getElementById("textarea1").value;
-  if (titulo == "" || nombre_apellido == "" || organizacion == "" || puesto == "" || email == "" || callen == "" || colonia == "" || codigop == "" ||
-  ciudad == "" || pais == "" || estado == "" || numtel == "" || textarea1 == "" && spamkill != "") {
+  // var callen = document.getElementById("calleN").value;
+  // var colonia = document.getElementById("colonia").value;
+  // var codigop = document.getElementById("codigop").value;
+  // var ciudad = document.getElementById("ciudad").value;
+  // var pais = document.getElementById("pais").value;
+  // var estado = document.getElementById("estado").value;
+  var numtel = document.getElementById("Tipoempresa").value;
+  // var textarea1 = document.getElementById("textarea1").value;
+  if (titulo == "" || nombre_apellido == "" || organizacion == "" || puesto == "" || email == "" || Tipoempresa == "" && spamkill != "") {
     alert("Revisa los campos, Existen campos vacios");
     document.getElementById('Enviarinformacion').style.color = "red"
     document.getElementById('Enviarinformacion').textContent = "Informacion no enviada";

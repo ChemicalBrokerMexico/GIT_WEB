@@ -12,12 +12,14 @@
   <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
   <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">
   <link rel="canonical" href="https://chemicalbroker.mx/index.php">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-    integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
-  <link rel="stylesheet" href="css/History_Line.css?n=1">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/History_Line.css">
   <link rel="stylesheet" href="css/jquery.dataTables.min.css">
   <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
   <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
     crossorigin="anonymous"></script>
   <script src="js/materialize.js?n=1" type="text/javascript"></script>
@@ -288,7 +290,7 @@
                 </section>
               </div>
               <div class="col s12 m12 l12 xl8">
-                <section>
+                <!-- <section>
                   <ul>
                     <p class="color--blanco"><b class="Tipografia--general Titulos" style="margin-top:0px">Empleados
                       </b>
@@ -308,7 +310,7 @@
                           class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                     <p></p>
                   </ul>
-                </section>
+                </section> -->
               </div>
               <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2 Carreras_menu_principal">
                 <section class="Carreras_menu_principal">
@@ -573,14 +575,7 @@
             <div class="container">
               <div class="row">
                 <div class="col s12 m12 l12 xl12">
-                  <section><a class="active" href="#" style="color:white !important"><b
-                        class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b
-                        class="Tipografia--general  Subtitulos"> >&nbsp </b></a><a class=" active"
-                      href="Products_news.php" style="margin-left:-2px"><b
-                        class="Tipografia-general  Subtitulos ">Productos > </b> </a> <a class=" active"
-                      href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b
-                        class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Pirofosfato Acido
-                        de Sodio</b></a></section>
+                 
                 </div>
               </div>
             </div>
@@ -600,6 +595,16 @@
     </div>
 
     <div class="row">
+
+    <section><a class="active" href="#" style="color:black !important"><b
+                        class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b
+                        class="Tipografia--general  Subtitulos"> >&nbsp </b></a><a class=" active"
+                      href="Products_news.php" style="margin-left:-2px"><b
+                        class="Tipografia-general  Subtitulos " style="color:black;">Productos > </b> </a> <a class=" active"
+                      href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b
+                        class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Pirofosfato Acido
+                        de Sodio</b></a></section>
+
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El pirofosfato ácido de sodio,
         también conocido como pirofosfato de disodio, es un compuesto químico inorgánico con la fórmula Na₂H₂P₂O₇. Este
         compuesto se utiliza en una amplia variedad de aplicaciones debido a sus propiedades químicas específicas.</p>
@@ -936,16 +941,25 @@
   </table>
   </div>
 
-  <footer class="altofooter">
-    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png"
-        alt="ESCUDO DE C&E"></div><br><br>
-    <div class="container-fluid center-align" style="margin-top:-50px">
-      <p class="Tipografia--general letranegro center-align Pie--Pagina">© 2014 C&E | Chemical Broker Todos los Derechos
-        Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto |&nbsp</a><a
-          href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica
-          de Privacidad </a></p>
+  <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
+
+  <footer style="margin-top:70px">
+    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
+            alt=""></div><br><br>
+    <div class="container-fluid" style="text-align:center;margin-top:-50px">
+        <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos
+            Reservados.
+            | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
+                href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download
+                style="color:black !important;font-size:16px">Politica de
+                Privacidad </a>
+            <script type="text/javascript" src="js/main.js"></script></a></strong>
+        </p>
+        <script type="text/javascript" src="js/Products.js"></script>
     </div>
-  </footer>
+</footer>
 
 
   <!-- Start of HubSpot Embed Code -->

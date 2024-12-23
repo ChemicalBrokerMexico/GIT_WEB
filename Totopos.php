@@ -178,7 +178,7 @@
                   </section>
                 </div>
                 <div class="col s12 m12 l12 xl8">
-                  <section>
+                  <!-- <section>
                     <ul> 
                       <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                         <hr class="hr">
@@ -193,7 +193,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
                 </div>
                 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                   <section>
@@ -393,7 +393,7 @@
     <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li> <img src="img/" alt="" style="height:650px">
+          <li> <img src="img/CB_TOTOPOS_210521.jpeg" alt="" style="height:650px">
             <div class="caption center-align"><br><br><br><br>
               <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">Totopos</b>
             </div>
@@ -404,12 +404,241 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Carbonatadas.php" style="color:#262137 !important;margin-left:-2px"><b>Tortillas & Snacks  ></b></a> <a class="breditem active" href="Totopos.php" style="color:#262137 !important;margin-left:-2px"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Totopos  </b></a> </section></section>
+        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Carbonatadas.php" style="color:#262137 !important;margin-left:-2px"><b>Tortillas & Snacks  ></b></a> <a class="breditem active" href="Totopos.php" style="color:#262137 !important;margin-left:-2px"><b class="Tipografia--general letranegro Subtitulos breadcrumb" style="color:red;">Totopos  </b></a> </section></section>
         </div>
       </div>
     </div>
    
+      <div class="container">
+        <div class="row">
+          <div class="col s12 m12 l12 xl12">
+            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>La industria de los totopos</b></h2>
+            <p class="Tipografia--general letranegro General--Cuerpo">La industria de los totopos, también conocidos como chips de maíz o nachos, es un segmento clave dentro del mercado de snacks salados. Su popularidad se debe a su versatilidad, sabor, textura crujiente y capacidad de combinar con una variedad de salsas y guarniciones, como guacamole, queso o frijoles. Este producto tradicional mexicano ha evolucionado para convertirse en un alimento de consumo masivo en todo el mundo.</p>
 
+            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Segmentación del mercado</b></h2>
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;">Por tipo de producto
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Tradicionales: Elaborados con maíz blanco, amarillo o azul.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Saborizados: Con ingredientes añadidos como queso, chile, limón, o especias.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Saludables: Totopos horneados, bajos en sodio, orgánicos o con ingredientes alternativos como maíz no transgénico.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">De nicho: Totopos elaborados con harinas alternativas (nopal, linaza, quinoa) para consumidores con dietas específicas.</li>
+                </ol>
+              </li>
+            </ol>
+            
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;">Por canal de distribución
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Retail: Supermercados y tiendas de conveniencia.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Sector food service: Restaurantes, cadenas de comida rápida y eventos.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Mercado gourmet: Tiendas especializadas con productos premium.</li>
+                </ol>
+              </li>
+            </ol>
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;">Proceso de producción
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Selección de maíz: Se elige maíz blanco, amarillo o azul, dependiendo del producto final.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Nixtamalización: Proceso tradicional mexicano donde el maíz se cuece con cal para mejorar su sabor, digestibilidad y valor nutricional.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Formado: La masa se convierte en tortillas, que luego se cortan en triángulos.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Cocción</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Sazonado: Se añaden sabores, sal o especias según la variedad.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Empaque: Se usan envases que preservan la frescura y textura crujiente.</li>
+                </ol>
+              </li>
+            </ol>
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;">Tendencias actuales
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Totopos saludables: Productos horneados, con menos sal, grasas saludables o alto contenido de fibra.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Innovación en ingredientes: Uso de maíces nativos, harinas alternativas y superalimentos como chía o cúrcuma.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Sabores globales: Combinaciones únicas como jalapeño-limón, barbecue o especias asiáticas.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Sostenibilidad: Empaques reciclables y producción ética.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Producción artesanal: Revalorización de métodos tradicionales para capturar mercados gourmet.</li>
+                </ol>
+              </li>
+            </ol>
+
+            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Ingredientes químicos en la inudstria de los totopos</b></h2>
+
+            <p class="Tipografia--general letranegro General--Cuerpo">La producción de totopos implica tanto ingredientes naturales como aditivos químicos que mejoran su sabor, textura, frescura y estabilidad durante su almacenamiento. Aunque la base principal es el maíz, otros componentes químicos desempeñan un papel esencial en el proceso de fabricación y en las características del producto final.</p>
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;">Ingredientes principales
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Ingredientes principales
+                    <ol>
+                      <li class="Elementos--Listas" style="margin-top:30px;">Harina de maíz nixtamalizada: Obtenida del proceso de cocción del maíz con agua y cal (hidróxido de calcio), que mejora la textura, sabor y valor nutricional.</li>
+                    </ol>
+                  </li>
+                </ol>
+              </li>
+            </ol>
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;"> Aceites para freír o hornear
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Aceites vegetales:
+                    <ol>
+                      <li class="Elementos--Listas" style="margin-top:30px;">Comúnmente: Aceite de maíz, canola, soya o girasol.</li>
+                      <li class="Elementos--Listas" style="margin-top:30px;">En productos premium: Aceite de aguacate o coco.</li>
+                    </ol>
+                  </li>
+                </ol>
+              </li>
+            </ol>
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;">Antioxidantes:
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">TBHQ (terc-butilhidroquinona) y BHT (butilhidroxitolueno): Evitan la oxidación del aceite y prolongan la vida útil</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Ácido cítrico: En aceites para prevenir el enranciamiento.</li>
+                </ol>
+              </li>
+            </ol>
+
+           <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Sazonadores y saborizantes
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Sal y potenciadores del sabor
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Cloruro de sodio (sal común): Usado para sazonar.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Glutamato monosódico (MSG): Potenciador del sabor umami en totopos saborizados.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Extractos de levadura: Fuente natural de glutamatos.</li>
+                  </ol>
+                </li>
+              </ol>
+            </li>
+           </ol>
+
+           <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Saborizantes artificiales y naturales
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Compuestos químicos de sabores:
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Queso cheddar: Diacetilo, acetato de etilo.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Chile: Capsaicina, oleorresinas de pimentón.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Limón: Ácido cítrico, citral y limoneno.</li>
+                  </ol>
+                </li>
+              </ol>
+              <li class="Elementos--Listas" style="margin-top:30px;">Aceites esenciales: Por ejemplo, aceite de limón o ajo.</li>
+            </li>
+           </ol>
+
+           <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Especias y colorantes
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Colorantes naturales:
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Cúrcuma (curcumina), pimentón (capsantina), carbón vegetal.</li>
+                  </ol>
+                </li>
+              </ol>
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Colorantes artificiales:
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Amarillo #5 (tartrazina), amarillo #6, rojo #40</li>
+                  </ol>
+                </li>
+              </ol>
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Oleorresinas: Extractos concentrados de especias como el pimentón, que aportan color y sabor.</li>
+              </ol>
+            </li>
+           </ol>
+
+           <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Aditivos funcionales
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Estabilizantes y texturizantes
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Gomas:
+                      <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Goma guar y goma xantana: Mejoran la textura en las masas.</li>
+                      </ol>
+                    </li>
+                  </ol>
+                </li>
+              </ol>
+            </li>
+           </ol>
+
+           <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Agentes espesantes:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Almidón modificado: Incrementa la viscosidad en procesos de nixtamalización o recubrimiento de sabores.</li>
+              </ol>
+            </li>
+           </ol>
+
+           <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Agentes emulsificantes
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Lecitina de soya: Facilita la mezcla de agua y aceite en procesos industriales.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Mono y diglicéridos: Previenen la separación de grasas.</li>
+              </ol>
+            </li>
+           </ol>
+
+           <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Conservadores
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Contra la oxidación
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">TBHQ y BHA (butilhidroxianisol): Protegen los aceites contra el enranciamiento.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Tocoferoles: Antioxidantes naturales derivados de la vitamina E.</li>
+                  </ol>
+                </li>
+              </ol>
+            </li>
+           </ol>
+
+           <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Contra microorganismos
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Sorbato de potasio y benzoato de sodio: Conservadores antimicrobianos que prolongan la frescura.</li>
+              </ol>
+            </li>
+           </ol>
+
+           <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Endulzantes (opcional): En variedades saborizadas (como totopos con miel o caramelo):
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Azúcar: Sacarosa o jarabe de maíz.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Edulcorantes artificiales: Sucralosa, aspartame (en versiones bajas en calorías).</li>
+              </ol>
+            </li>
+           </ol>
+
+           <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Ingredientes en productos saludables o innovadores
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Harinas alternativas: Harina de nopal, quinoa, linaza, o legumbres.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Fibra añadida: Inulina, fibra de avena o salvado para mejorar el perfil nutricional.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Proteínas: Polvo de proteína de chícharo o soya para crear totopos altos en proteína.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Reductores de sodio: Cloruro de potasio para sustituir parcialmente la sal.</li>
+              </ol>
+            </li>
+           </ol>
+
+           <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Ingredientes químicos en empaques: Aunque no forman parte del producto, los empaques juegan un papel crítico en la preservación:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Absorbedores de oxígeno: Bolsitas que eliminan el oxígeno dentro del empaque para evitar oxidación.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Recubrimientos interiores: Polietileno o polipropileno metalizado que protege de la humedad y la luz.</li>
+              </ol>
+            </li>
+           </ol>
+
+          </div>
+        </div>
+      </div>
 
 
 

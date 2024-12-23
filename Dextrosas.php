@@ -7,12 +7,11 @@
   <title>Chemical Broker | Dextrosas</title>
   <meta name="description" content="Compra dextrosas de alta calidad para tus necesidades industriales y alimentarias. Nuestra dextrosa garantiza pureza y rendimiento óptimo, ideal para mejorar la textura, sabor y valor nutritivo de tus productos. ¡Opta por nuestra dextrosa para una solución efectiva y confiable en tus formulaciones!">
   <link rel="canonical" href="https://chemicalbroker.mx/Dextrosas.php">
-  <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-    integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="css/History_Line.css">
   <link rel="stylesheet" href="css/jquery.dataTables.min.css">
   <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
@@ -277,7 +276,7 @@
                 </section>
               </div>
               <div class="col s12 m12 l12 xl8">
-                <section>
+                <!-- <section>
                   <ul>
                     <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                       <hr class="hr">
@@ -293,7 +292,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
               </div>
               <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                 <section>
@@ -548,9 +547,9 @@
         <ul class="slides slides-pruea">
           <li><img src="img/CB_DEXTROSAS_130323.jpg" style="height:800px;" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Dextrosa</b>
+              <h1 class="primertitulo"><b class="boldbanner">Dextrosa</b><br></h1>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Dextrosas.php"><b class="Tipografia--general Subtitulos" style="color:red;">Dextrosa</b></a></section>
+    
     </div>
             </div>
           </li>
@@ -563,9 +562,12 @@
   <div class="container" style="margin-top:130px;">
     <div class="row">
       <div class="col s12 m12 l12 xl12">
+
+      <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Dextrosas.php"><b class="Tipografia--general Subtitulos" style="color:red;">Dextrosa</b></a></section>
+
       <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Dextrosa</b></h2>
 
-      <p class="Tipografia--general letranegro General--Cuerpo">Los azúcares son una fuente importante de energía, esencial para que nuestro cuerpo y cerebro funcionen de manera óptima. La dextrosa es un azúcar que se encuentra ampliamente en la naturaleza, por ejemplo, en la miel y muchas frutas. Como componente de la celulosa, el almidón y el glucógeno, se encuentra en todas las plantas y animales y también se conoce como "azúcar de uva" o "azúcar en la sangre".</p>
+      <p class="Tipografia--general letranegro General--Cuerpo">Los azúcares son una fuente importante de energía, esencial para que nuestro cuerpo y cerebro funcionen de manera óptima. La Dextrosa es un azúcar que se encuentra ampliamente en la naturaleza, por ejemplo, en la miel y muchas frutas. Como componente de la celulosa, el almidón y el glucógeno, se encuentra en todas las plantas y animales y también se conoce como "azúcar de uva" o "azúcar en la sangre".</p>
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La Dextrosa, que se deriva del almidón de maíz, se ha convertido en un ingrediente vital en una amplia gama de aplicaciones de alimentos y bebidas, gracias a sus propiedades funcionales, sensoriales y nutricionales. Usada a menudo en combinación con azúcar u otros edulcorantes, acorta la percepción del dulzor y realza los sabores originales de alimentos y bebidas.</p>
 
       
@@ -664,12 +666,12 @@
 
       </table>
 
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La dextrosa cristalina está disponible como polvo en forma monohidratada o anhidra. Es un ingrediente muy utilizado para preparaciones de medio cultivo. El polvo de dextrosa también se puede utilizar como vehículo para la granulación de productos de fermentación.</p>
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La dextrosa cristalina, también conocida como glucosa, es el monómero fundamental de todos los productos ricos en almidón. Permite a nuestros clientes de la industria química producir las estructuras químicas que necesitan a partir de recursos renovables. Su alta pureza lo convierte en una valiosa fuente de carbono para nuestros clientes de Fermentación.</p>
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La dextrosa cristalina está disponible como polvo en forma monohidratada o anhidra. Los polvos de dextrosa están disponibles en varias granulometrías y estructuras cristalinas, adaptados a las necesidades específicas del cliente. La dextrosa de alta pureza también está disponible en forma líquida; para obtener más información, consulte "jarabes de glucosa".</p>
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La Dextrosa Cristalina está disponible como polvo en forma monohidratada o anhidra. Es un ingrediente muy utilizado para preparaciones de medio cultivo. El polvo de Dextrosa también se puede utilizar como vehículo para la granulación de productos de fermentación.</p>
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La Dextrosa Cristalina, también conocida como glucosa, es el monómero fundamental de todos los productos ricos en almidón. Permite a nuestros clientes de la industria química producir las estructuras químicas que necesitan a partir de recursos renovables. Su alta pureza lo convierte en una valiosa fuente de carbono para nuestros clientes de Fermentación.</p>
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La Dextrosa Cristalina está disponible como polvo en forma monohidratada o anhidra. Los polvos de dextrosa están disponibles en varias granulometrías y estructuras cristalinas, adaptados a las necesidades específicas del cliente. La dextrosa de alta pureza también está disponible en forma líquida; para obtener más información, consulte "jarabes de glucosa".</p>
 
       <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Propiedades nutricionales</b></h5>
-      <p class="Tipografia--general letranegro General--Cuerpo">La dextrosa, al igual que la sacarosa y otros edulcorantes calóricos completos, tiene un valor calórico de 4 Kcal/g, lo que produce una respuesta glucémica rápida. Proporciona una fuente inmediata de energía para los órganos, los músculos y el cerebro.</p>
+      <p class="Tipografia--general letranegro General--Cuerpo">La Dextrosa, al igual que la sacarosa y otros edulcorantes calóricos completos, tiene un valor calórico de 4 Kcal/g, lo que produce una respuesta glucémica rápida. Proporciona una fuente inmediata de energía para los órganos, los músculos y el cerebro.</p>
 
       <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Propiedades edulcorantes</b></h2>
       <p class="Tipografia--general letranegro General--Cuerpo">Con una dulzura relativa que oscila entre 70 y 80 frente a la sacarosa es uno de los edulcorantes a base de almidón más dulces.</p>
@@ -691,7 +693,7 @@
         <br>
         <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;">Reducir azúcar</li>
         <br>
-        <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;">buena solubilidad</li>
+        <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;">Buena solubilidad</li>
         <br>
         <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;">Bajo peso molecular</li>
       </ol>
@@ -700,7 +702,7 @@
       <p class="Tipografia--general letranegro General--Cuerpo">Dextrosa es sinónimo de D-glucosa y se refiere al monosacárido cristalino puro obtenido tras una hidrólisis total del almidón de maíz. Existe en 2 formas, monohidrato de dextrosa que contiene una molécula de agua cristalina en contraste con la dextrosa anhidra, que no contiene nada. Ambas formas están disponibles como un polvo cristalino blanco de alta pureza.</p>
 
       <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Etiquetado y Legislación</b></h2>
-      <p class="Tipografia--general letranegro General--Cuerpo">La dextrosa está regulada por la Directiva CE 2001/111/CE relativa a determinados azúcares destinados al consumo humano.</p>
+      <p class="Tipografia--general letranegro General--Cuerpo">La Dextrosa está regulada por la Directiva CE 2001/111/CE relativa a determinados azúcares destinados al consumo humano.</p>
       <p class="Tipografia--general letranegro General--Cuerpo">Recomendamos incluir 'monohidrato de dextrosa' y 'dextrosa anhidra' como "dextrosa" en la declaración de ingredientes en las etiquetas de alimentos y bebidas terminados.</p>
 
       <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Certificaciones:</b></h2>
@@ -753,7 +755,9 @@
 
   </div>
 
-
+  <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
 
 </body>
 <footer style="margin-top:70px">

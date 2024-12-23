@@ -6,14 +6,14 @@
     <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
     <title>Chemical Broker</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
-    <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
-    <link rel="stylesheet" href="css/History_Line.css">
-    <link rel="stylesheet" href="css/jquery.dataTables.min.css">
-    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/History_Line.css">
+  <link rel="stylesheet" href="css/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
     <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="js/materialize.js" type="text/javascript"></script>
     <script src="js/init.js"></script>
@@ -178,7 +178,7 @@
                   </section>
                 </div>
                 <div class="col s12 m12 l12 xl8">
-                  <section>
+                  <!-- <section>
                     <ul> 
                       <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                         <hr class="hr">
@@ -193,7 +193,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
                 </div>
                 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                   <section>
@@ -393,7 +393,7 @@
     <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li> <img src="img/" alt="" style="height:650px">
+          <li> <img src="img/CB_TORTILLAS_210521.jpeg" alt="" style="height:650px">
             <div class="caption center-align"><br><br><br><br>
               <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">Tortillas</b>
             </div>
@@ -404,23 +404,287 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Carbonatadas.php" style="color:#262137 !important;margin-left:-2px"><b>Tortillas & Snacks  ></b></a> <a class="breditem active" href="Tortillas.php" style="color:#262137 !important;margin-left:-2px"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Tortillas  </b></a> </section></section>
+        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Carbonatadas.php" style="color:#262137 !important;margin-left:-2px"><b>Tortillas & Snacks  ></b></a> <a class="breditem active" href="Tortillas.php" style="color:#262137 !important;margin-left:-2px"><b class="Tipografia--general letranegro Subtitulos breadcrumb" style="color:red;">Tortillas  </b></a> </section></section>
         </div>
       </div>
     </div>
    
 
+    <div class="container">
+      <div class="row">
+        <div class="col s12 m12 l12 xl12">
+          
+        <p class="Tipografia--general letranegro General--Cuerpo">La industria de las tortillas es una de las más importantes dentro del sector alimenticio, especialmente en países de América Latina como México, donde la tortilla es un alimento básico y parte esencial de la dieta diaria. Esta industria abarca la producción, distribución y comercialización de tortillas de maíz y trigo, y está compuesta por grandes empresas, medianos negocios y pequeños productores locales.</p>
 
 
+        <ol>
+          <li class="Elementos--Listas" style="margin-top:30px;">Materias primas principales:
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;">Maíz: El ingrediente principal para las tortillas de maíz. En México, el maíz nixtamalizado es esencial para obtener la textura y sabor característicos.</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Trigo: Utilizado principalmente en las tortillas de harina, populares en el norte de México y en países como Estados Unidos.</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Aditivos y conservadores: Utilizados en la producción industrial para prolongar la vida útil de las tortillas.</li>
+            </ol>
+          </li>
+        </ol>
+
+        <ol>
+          <li class="Elementos--Listas" style="margin-top:30px;">Procesos productivos:
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;">Nixtamalización: Proceso químico que convierte los granos de maíz en masa para tortillas mediante la cocción en agua con cal.</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Molienda: El maíz cocido se muele para formar una masa homogénea.</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Producción mecanizada: En grandes fábricas, máquinas especializadas producen, cocinan y empacan las tortillas.</li>
+            </ol>
+          </li>
+        </ol>
+
+        <ol>
+          <li class="Elementos--Listas" style="margin-top:30px;">Escala de producción:
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;">Artesanal: Pequeños productores que elaboran tortillas a mano o con máquinas básicas.</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Industrial: Grandes empresas con capacidad para producir toneladas diarias, destinadas al mercado nacional e internacional.</li>
+            </ol>
+          </li>
+        </ol>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">Mercado de la Industria
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Demanda:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">En países como México, la tortilla es uno de los alimentos más consumidos, con un consumo per cápita de aproximadamente 70 kg anuales por persona.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">En Estados Unidos y otros países, el consumo ha crecido gracias a la población latina y la adopción de platillos como tacos y burritos.</li>
+              </ol>
+            </li>
+          </ol>
+        </li>
+      </ol>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">Competencia:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Empresas grandes: Dominan el mercado industrial, con marcas como Maseca, Gruma y Mission.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Tortillerías locales: Competencia directa, especialmente en zonas urbanas y rurales.</li>
+          </ol>
+        </li>
+      </ol>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">Exportación:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">La tortilla es un producto cada vez más popular a nivel global, exportándose a mercados como Europa, Asia y América del Norte.</li>
+          </ol>
+        </li>
+      </ol>
+
+      <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"endencias y Oportunidades</h2>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">Innovación en productos:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Tortillas de sabores (espinaca, betabel, cúrcuma).</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Tortillas sin gluten o con ingredientes funcionales (alto contenido en fibra, bajas en carbohidratos).</li>
+          </ol>
+        </li>
+      </ol>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">Crecimiento en mercados internacionales:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">La comida mexicana se ha internacionalizado, aumentando la demanda de tortillas en todo el mundo.</li>
+          </ol>
+        </li>
+      </ol>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">Tecnología:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Incorporación de maquinaria más eficiente y sustentable para reducir costos y huella ambiental.</li>
+          </ol>
+        </li>
+      </ol>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">Marketing y diferenciación:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Foco en la autenticidad, tradición y calidad del producto para atraer a consumidores interesados en alimentos más saludables y artesanales.</li>
+          </ol>
+        </li>
+      </ol>
+
+      <h2 class="Tipografia--general letranegro General--Cuerpo">Ingredientes Quimicos Utilizados</h2>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;"> Hidróxido de Calcio (Cal Viva)
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Función:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Esencial en el proceso de nixtamalización, donde se mezcla con agua y maíz para ablandar los granos y mejorar la digestibilidad del almidón.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Mejora la textura y el sabor de las tortillas.</li>
+              </ol>
+            </li>
+          </ol>
+        </li>
+      </ol>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">Importancia:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">También enriquece las tortillas con calcio, lo que las convierte en una fuente adicional de este mineral.</li>
+          </ol>
+        </li>
+      </ol>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">Conservadores: Para prolongar la vida útil de las tortillas, especialmente en la producción industrial, se emplean varios conservadores:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Propionato de Calcio o Sodio:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Inhibe el crecimiento de hongos y moho</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Común en tortillas empaquetadas de larga duración.</li>
+              </ol>
+            </li>
+          </ol>
+        </li>
+      </ol>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">Ácido Sórbico:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Protege contra el crecimiento de levaduras y bacterias.</li>
+          </ol>
+        </li>
+      </ol>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">Sorbato de Potasio:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Usado para mantener la frescura del producto durante el almacenamiento.</li>
+          </ol>
+        </li>
+      </ol>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">Emulsionantes
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Función:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Mejoran la consistencia y elasticidad de la masa.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Evitan que las tortillas se rompan al doblarse o enrollarse.</li>
+              </ol>
+            </li>
+          </ol>
+        </li>
+      </ol>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">Ejemplos:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Mono y diglicéridos: Ayudan a mantener la estabilidad de la masa.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Lecitina de soya: Usada para mejorar la textura.</li>
+          </ol>
+        </li>
+      </ol>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">Reguladores de Acidez
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Función:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Ajustan el pH de la masa para evitar el deterioro del producto.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Mejoran el sabor y la interacción con otros ingredientes.</li>
+              </ol>
+            </li>
+          </ol>
+        </li>
+      </ol>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">Ejemplos:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Ácido cítrico: Controla el pH y actúa como conservador natural.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Ácido láctico: Mejora la fermentación en productos específicos.</li>
+          </ol>
+        </li>
+      </ol>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">Aditivos para Mejorar la Textura
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Metabisulfito de Sodio:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Actúa como acondicionador de masa en las tortillas de harina.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Facilita el manejo y moldeo de la masa.</li>
+              </ol>
+            </li>
+          </ol>
+        </li>
+      </ol>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">Almidón Modificado:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Aumenta la suavidad y flexibilidad de las tortillas.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Reduce la pegajosidad durante el proceso de cocción.</li>
+          </ol>
+        </li>
+      </ol>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">Mejoradores de Color
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Dióxido de Titanio:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Usado en tortillas de harina para darles un color blanco uniforme.</li>
+              </ol>
+            </li>
+          </ol>
+          <ol>
+            <l class="Elementos--Listas" style="margin-top:30px;">Annato o Cúrcuma:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Agentes naturales usados para ajustar el color en tortillas especiales.</li>
+              </ol>
+            </li>
+          </ol>
+        </li>
+      </ol>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">Antioxidantes
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Función: Previenen la oxidación de las grasas en las tortillas de harina, lo que evita que se vuelvan rancias.</li>
+          </ol>
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Ejemplos:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Tocoferoles (vitamina E): Protegen los aceites naturales del envejecimiento prematuro.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Ácido ascórbico (vitamina C): Retarda la oxidación de la masa.</li>
+              </ol>
+            </li>
+          </ol>
+        </li>
+      </ol>
+
+
+        </div>
+      </div>
+    </div>
+
+
+    <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
 
 
 
 </body>
-  <footer style="margin-top:70px">
-    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""></div><br><br>
-    <div class="container-fluid" style="text-align:center;margin-top:-50px">
-      <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad  </a>
-            <script type="text/javascript" src="js/main.js"></script></a></strong></p>
-    </div>
-  </footer>
+<footer class="altofooter">
+        <div class="divfooter" style="text-align:center;"><img class="imglogoCE"
+                src="img/CB_IMAGOTIPO_LEON.jpg" alt="ESCUDO DE C&E"></div><br><br>
+        <div class="container-fluid center-align" style="margin-top:-50px">
+            <p class="Tipografia--general letranegro center-align Pie--Pagina">© 2014 C&E | Chemical Broker Todos los
+                Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto
+                    |&nbsp</a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download
+                    style="color:black !important;font-size:16px">Politica de Privacidad </a></p>
+        </div>
+    </footer>
 </html>

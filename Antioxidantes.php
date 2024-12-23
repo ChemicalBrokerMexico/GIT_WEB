@@ -4,15 +4,15 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Antioxidantes del Fabricante Camlin</title>
-  <meta name="description" content="Descubre nuestros antioxidantes de alta calidad, diseñados para proteger y prolongar la vida útil de tus productos. Ideales para diversas industrias, ofrecemos soluciones confiables y eficientes que mejoran la estabilidad y el rendimiento de tus formulaciones. ¡Opta por nuestra gama de antioxidantes para un valor añadido en tus procesos!">
-  <link rel="canonical" href="https://chemicalbroker.mx/Antioxidantes.php">
+  <title>Chemical Broker | Aceite de Coco del Fabricante Vantage</title>
+  <meta name="description" content="Descubre los beneficios del aceite de coco puro y natural. Ideal para cocinar, Cuidar la piel y el Cabello, Compra ahora y disfruta de un producto versatil y saludable para tu bienestar diario."> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
+  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-    integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="css/History_Line.css">
   <link rel="stylesheet" href="css/jquery.dataTables.min.css">
   <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
@@ -277,7 +277,7 @@
                 </section>
               </div>
               <div class="col s12 m12 l12 xl8">
-                <section>
+                <!-- <section>
                   <ul>
                     <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                       <hr class="hr">
@@ -293,7 +293,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
               </div>
               <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                 <section>
@@ -553,9 +553,9 @@
         <ul class="slides slides-pruea">
           <li><img src="img/ANTIOXIDANTES_020823.jpg" style="height:800px;" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Antioxidantes</b>
+              <h1 class="primertitulo"><b class="boldbanner">Antioxidantes</b><br></h1>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Antioxidantes.php"><b class="Tipografia--general Subtitulos" style="color:red;">Antioxidantes</b></a></section>
+
     </div>
             </div>
           </li>
@@ -569,6 +569,9 @@
   <div class="container" style="margin-top:130px;">
     <div class="row">
       <div class="col s12 m12 l12 xl12">
+
+      <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Antioxidantes.php"><b class="Tipografia--general Subtitulos" style="color:red;">Antioxidantes</b></a></section>
+
         <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Antioxidantes</b></h2>
 
         <p class="Tipografia--general letranegro General--Cuerpo">Los <b>Antioxidantes</b> son moléculas capaces de
@@ -609,11 +612,10 @@
       </div>
     </div>
 
-    <a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
-
-<i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
-
+    <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
 </a>
+  
 
 
   </div>

@@ -178,7 +178,7 @@
                   </section>
                 </div>
                 <div class="col s12 m12 l12 xl8">
-                  <section>
+                  <!-- <section>
                     <ul> 
                       <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                         <hr class="hr">
@@ -193,7 +193,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
                 </div>
                 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                   <section>
@@ -395,7 +395,7 @@
         <ul class="slides slides-pruea">
           <li> <img src="img/CB_HARD_CANDY_200521.jpg" alt="" style="height:650px">
             <div class="caption center-align"><br><br><br><br>
-              <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">Dulces Duros</b>
+              <h3 class="primertitulo"><b class="boldbanner">Dulces Duros</b><br></h3>
             </div>
           </li>
         </ul>
@@ -404,23 +404,351 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Confiteria.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Confiteria</b><b> > &nbsp</b></a><a class="breditem active" href="Dulces_Duros.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Carbonatadas.php" style="color:#262137 !important;margin-left:-2px"><b>Dulces Duros </b></a> </section></section>
+        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Confiteria.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Confiteria</b><b> > &nbsp</b></a><a class="breditem active" href="Dulces_Duros.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Carbonatadas.php" style="color:red !important;margin-left:-2px"><b>Dulces Duros </b></a> </section></section>
         </div>
       </div>
     </div>
    
+    <div class="container">
+      <div class="row">
+        <div class="col s12 m12 l12 xl12">
+          <p class="Tipografia--general letranegro General--Cuerpo">La industria de los caramelos duros es un sector importante dentro del mercado de confitería, caracterizado por la producción de dulces sólidos y cristalinos que se fabrican principalmente a partir de azúcar o jarabe de glucosa. Estos caramelos tienen una larga historia y un atractivo global, con una amplia variedad de sabores, colores, formas y usos. Desde los caramelos tradicionales hasta los funcionales (como caramelos medicados), este segmento sigue evolucionando para satisfacer las demandas de los consumidores.</p>
 
+          <h2 class="Tipografia--general lentranegro General--Cuerpo"><b>Principales características de los caramelos duros</b></h2>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Composición básica:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Se elaboran a partir de una mezcla de azúcar y jarabe de glucosa, que se calienta a temperaturas altas (alrededor de 150-160 °C) para formar una masa vítrea que se enfría y solidifica.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Opcionalmente, se agregan colorantes, sabores y otros aditivos.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Variedades comunes:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Caramelos de sabores frutales: Son los más populares y pueden incluir sabores naturales o artificiales.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Caramelos rellenos: Contienen líquidos, cremas o chicles en el centro.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Caramelos medicados: Incorporan ingredientes activos como mentol, eucalipto o vitaminas.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Caramelos transparentes o translúcidos: Famosos por su apariencia vítrea y brillante.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Larga vida útil:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Debido a su bajo contenido de agua, los caramelos duros tienen una alta estabilidad microbiológica.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <h2 class="Tipografia--general lentranegro General--Cuerpo">Proceso de Producción</h2>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Preparación del jarabe:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Mezcla de azúcar, jarabe de glucosa y agua, calentada hasta alcanzar la temperatura de caramelización.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Aromatización y coloración:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Se añaden sabores, colores y ácidos una vez que el jarabe alcanza la temperatura deseada.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Moldeo y enfriamiento:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">La mezcla caliente se vierte en moldes o se forma mediante técnicas como extrusión, estirado o laminado.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Empaque:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Los caramelos se enfrían completamente antes de ser envueltos individualmente o empaquetados a granel.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <h2 class="Tipografia--general lentranegro General--Cuerpo">Tendencias actuales en la industria</h2>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Productos funcionales:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Aumento de caramelos con beneficios para la salud, como fortalecer el sistema inmunológico o aliviar dolores de garganta.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Ingredientes naturales:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Creciente demanda por caramelos sin colorantes ni sabores artificiales.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Opciones sin azúcar:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Uso de edulcorantes como estevia o eritritol para atraer a consumidores preocupados por la salud dental o la ingesta calórica.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Personalización:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Creación de caramelos con diseños únicos, personalizados para eventos, marcas o celebraciones.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Sostenibilidad:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Uso de empaques reciclables y reducción del impacto ambiental en los procesos de fabricación.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Ingredientes Quimicos Utilizados</b></h2>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">La industria de los caramelos duros utiliza diversos ingredientes químicos para garantizar su sabor, textura, estabilidad y atractivo visual. Aunque muchos de estos ingredientes tienen origen natural, a menudo se procesan químicamente o se sintetizan para su uso en formulaciones estandarizadas. Aquí están los principales compuestos químicos empleados en esta industria:</p>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Azúcares y edulcorantes
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Sacarosa (C₁₂H₂₂O₁₁):
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Principal ingrediente base, aporta dulzura y estructura cristalina.</li>
+                  </ol>
+                </li>
+              </ol>
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Jarabe de glucosa (mezcla de glucosa, maltosa y oligosacáridos):
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Evita la cristalización de la sacarosa y proporciona elasticidad.</li>
+                  </ol>
+                </li>
+              </ol>
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Fructosa (C₆H₁₂O₆):
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Utilizada en formulaciones específicas para intensificar la dulzura.</li>
+                  </ol>
+                </li>
+              </ol>
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Isomalta (C₁₂H₂₄O₁₁):
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Edulcorante bajo en calorías utilizado en caramelos sin azúcar.</li>
+                  </ol>
+                </li>
+              </ol>
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Sorbitol (C₆H₁₄O₆) y maltitol (C₁₂H₂₄O₁₁):
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Polialcoholes usados para reducir calorías y prevenir la cristalización en caramelos sin azúcar.</li>
+                  </ol>
+                </li>
+              </ol>
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Edulcorantes intensos
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Sucralosa (C₁₂H₁₉Cl₃O₈), aspartame (C₁₄H₁₈N₂O₅), y estevia (glucósidos de esteviol) para opciones bajas en calorías.</li>
+                  </ol>
+                </li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Ácidos y reguladores de acidez
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Ácido cítrico (C₆H₈O₇):
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Proporciona acidez y mejora los sabores frutales.</li>
+                  </ol>
+                </li>
+              </ol>
+            <ol>
+              
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Ácido málico (C₄H₆O₅):
+                    <ol>
+                      <li class="Elementos--Listas" style="margin-top:30px;">Usado para dar un sabor ácido más prolongado, típico en caramelos ácidos.</li>
+                    </ol>
+                  </li>
+                </ol>
+              
+            </ol>
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;">Ácido tartárico (C₄H₆O₆):
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Agrega una acidez fuerte en algunas formulaciones.</li>
+                </ol>
+              </li>
+            </ol>
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;">Bicarbonato de sodio (NaHCO₃):
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Puede usarse para equilibrar el pH o generar efervescencia en caramelos especiales.</li>
+                </ol>
+              </li>
+            </ol>
+            </li>
+          </ol>
+
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Colorantes
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Naturales:
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Beta-caroteno (C₄₀H₅₆): Proporciona colores amarillos o anaranjados.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Cúrcuma (curcuminoides): Amarillo natural.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Carmín (ácido carmínico): Para colores rojos.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Clorofila (C₅₅H₇₂MgN₄O₅): Color verde.</li>
+                  </ol>
+                </li>
+              </ol>
+              
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Artificiales:
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Rojo 40 (Allura Red AC, C₁₈H₁₄N₂Na₂O₈S₂): Color rojo brillante.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Amarillo 5 (Tartrazina, C₁₆H₉N₄Na₃O₉S₂): Color amarillo vibrante.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Azul 1 (Brillante Blue FCF, C₃₇H₃₄N₂Na₂O₉S₃): Color azul intenso.</li>
+                  </ol>
+                </li>
+              </ol>
+            </li>
+          </ol>
+
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Sabores
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Sabores naturales:
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Aceites esenciales como mentol (C₁₀H₂₀O), limoneno (C₁₀H₁₆), y vainillina (C₈H₈O₃).</li>
+                  </ol>
+                </li>
+              </ol>
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Sabores artificiales:
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Ésteres como acetato de isoamilo (C₇H₁₄O₂, sabor a plátano) o butirato de etilo (C₆H₁₂O₂, sabor a piña).</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Aromas químicos recreados en laboratorio para perfiles específicos.</li>
+                  </ol>
+                </li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;"> Agentes de textura
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Jarabes y estabilizantes:
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Goma arábiga: Mejora la elasticidad y retención de sabor.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Goma xantana: Asegura uniformidad en la mezcla.</li>
+                  </ol>
+                </li>
+              </ol>
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Anticristalizantes:
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Fosfato de sodio (Na₃PO₄) y ácido polifosfórico: Evitan la cristalización del azúcar.</li>
+                  </ol>
+                </li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Conservantes
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Sorbato de potasio (C₆H₇KO₂):
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Inhibe el crecimiento de moho y levaduras.</li>
+                  </ol>
+                </li>
+              </ol>
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Ácido benzoico (C₇H₆O₂) y benzoato de sodio (C₇H₅NaO₂):
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Conservantes antimicrobianos.</li>
+                  </ol>
+                </li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;"> Antioxidantes
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Ácido ascórbico (C₆H₈O₆):
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Previene la oxidación de sabores y colores sensibles.</li>
+                  </ol>
+                </li>
+              </ol>
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;"> BHA (Butilhidroxianisol, C₁₁H₁₆O₂) y BHT (Butilhidroxitolueno, C₁₅H₂₄O):
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Prolongan la vida útil protegiendo los ingredientes grasos del enranciamiento.</li>
+                  </ol>
+                </li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;"> Antiaglomerantes
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Sílice coloidal (SiO₂):
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Previene la formación de grumos en mezclas en polvo o en caramelos con recubrimiento.</li>
+                  </ol>
+                </li>
+              </ol>
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Estearato de calcio (C₁₈H₃₅CaO₂):
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Mejora la fluidez del producto en procesos de fabricación.</li>
+                  </ol>
+                </li>
+              </ol>
+            </li>
+          </ol>
+          
+
+
+        </div>
+      </div>
+    </div>
 
 
 
 
 
 </body>
-  <footer style="margin-top:70px">
-    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""></div><br><br>
+<footer style="margin-top:70px">
+    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg" alt=""/></div><br/><br/>
     <div class="container-fluid" style="text-align:center;margin-top:-50px">
-      <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad  </a>
-            <script type="text/javascript" src="js/main.js"></script></a></strong></p>
+      <p style="color:black;text-align:center;font-size:16px"><strong>© 2014 C&E | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download="download" style="color:black !important;font-size:16px">Politica de Privacidad  </a>
+            <script type="text/javascript" src="js/main.js">   </script></a></strong></p>
     </div>
   </footer>
 </html>

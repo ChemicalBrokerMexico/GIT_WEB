@@ -189,7 +189,7 @@ recaptchaResponse.value = token;
                   </section>
                 </div>
                 <div class="col s12 m12 l12 xl8">
-                  <section>
+                  <!-- <section>
                     <ul> 
                       <p class="color--blanco"><b class="Tipografia--general Titulos">Empleados </b>
                         <hr class="hr"/>
@@ -204,7 +204,7 @@ recaptchaResponse.value = token;
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
                 </div>
                 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                   <section>
@@ -476,55 +476,7 @@ recaptchaResponse.value = token;
     </div>
 
 
-    <div class="container" style="border:1px solid black;margin-top:50px;border-radius:15px">
-      <div class="row">
-        <div class="col s12 m12 l12 xl12">
-          <div class="col s12 m12 l12 xl12">
-            <h5 class="Tipografia--general letranegro Titulos"></h5><b>Contacto</b>
-            <p>Para mas informacion, por favor contacta con un experto.</p>
-          </div>
-          <form action="envio_correo_Pharmaceutical.php" method="POST">
-          <div class="col s12 m12 l1 xl1">
-            <p style="text-align:center"><b>De</b></p>
-          </div>
-          <div class="col s12 m12 l11 xl11">
-            <input type="text" id="name" name="name"/>
-            <label for="name"><b>Nombre</b></label>
-          </div>
-          <div class="col s12 m12 l1 xl1">
-            <p style="text-align:center"><b>Para</b></p>
-          </div>
-          <div class="col s12 m12 l11 xl11"> 
-            <input type="text" id="email" name="email"/>
-            <label for="email"><b>E-mail</b></label>
-          </div>
-          <div class="col s12 m12 l1 xl1">
-            <p style="text-align:center"><b>Asunto</b></p>
-          </div>
-          <div class="col s12 m12 l11 xl11">
-            <input type="text" id="asunto" name="asunto"/>
-            <label for="asunto"><b>Asunto</b></label>
-          </div>
-          <div class="col s12 m12 l1 xl1">
-            <p style="text-align:center"><b>Requerimiento</b></p>
-          </div>
-          <div class="col s12 m11 xl11"> 
-            <input type="text" id="Solicitud" name="Solicitud"/>
-            <label for="Solicitud"></label><br/>
-          </div>
-          <div class="col s12 m12 l12 xl12">
-            <input type="text" id="spamkill" name="spamkill" style="display: none;">
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="container">
-      <div class="row">
-        <div class="col s12 m12 l12 xl12 center-align" style="margin-top:30px;"><button class="btn waves-light" type="submit" name="Enviarinformacion" id="Enviarinformacion" class="Tipografia--general Botones" style="background-color: #262137;text-transform: none;"><span id="envioinformacion">Enviar Información</span></button>
-      </div>
-      </form>
-      </div>
-    </div>
+   
     <footer class="altofooter">
       <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg" alt=""/></div><br/><br/>
       <div class="container-fluid center-align" style="margin-top:-50px">

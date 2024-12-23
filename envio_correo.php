@@ -20,6 +20,10 @@ if(isset($_POST["email"])){
     $Email = $_POST["email"];    
 }
 
+if(isset($_POST["Tipoempresa"])){
+    $Tipoempresa = $_POST["Tipoempresa"];
+}
+
 // if(isset($_POST["calleN"])){
 //     $Callen = $_POST["calleN"];
 // }
@@ -36,21 +40,21 @@ if(isset($_POST["email"])){
 //     $Ciudad = $_POST["ciudad"];
 // }
 
-if(isset($_POST["pais"])){
-    $Pais = $_POST["pais"];
-}
+// if(isset($_POST["pais"])){
+//     $Pais = $_POST["pais"];
+// }
 
 // if(isset($_POST["estado"])){
 //     $Estado = $_POST["estado"];
 // }
 
-if(isset($_POST["numtel"])){
-    $Numtel = $_POST["numtel"];
-}
+// if(isset($_POST["numtel"])){
+//     $Numtel = $_POST["numtel"];
+// }
 
-if(isset($_POST["textarea1"])){
-    $Textarea = $_POST["textarea1"];
-}
+// if(isset($_POST["textarea1"])){
+//     $Textarea = $_POST["textarea1"];
+// }
 
 
  $recaptcha_url = 'https://www.google.com/recaptcha/api/siteverify'; 
@@ -67,8 +71,8 @@ if(isset($_POST["textarea1"])){
     $mensaje .= "Con Correo Electronico: " . $Email . "\r\n";
     $mensaje .= " de la Empresa " . $Organizacion . "\r\n";
     $mensaje .= "Puesto de Contacto: " . $Puesto . "\r\n";
-    $mensaje .= "Numero Telefonico de Contacto: " .  $Numtel . "\r\n";
-    $mensaje .= " De la Ciudad de " . $Ciudad . "\r\n"; 
+    $mensaje .= "Empresa de tipo: " .  $Tipoempresa . "\r\n";
+    // $mensaje .= " De la Ciudad de " . $Ciudad . "\r\n"; 
     $mensaje .= " "  . "\r\n";
     // $mensaje .= "Relacionado a la siguiente Industria:" . " \r\n ";
     $para = 'it@chemicalbroker.mx';

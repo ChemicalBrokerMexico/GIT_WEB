@@ -310,6 +310,22 @@ li {
     margin-top: 50px;
 }
 
+
+    .float-wa{
+        position:fixed;
+        width:60px;
+        height:60px;
+        bottom:40px;
+        left:40px;
+        background-color:#25d366;
+        color:#FFF;
+        border-radius:50px;
+        text-align:center;
+        font-size:30px;
+        z-index:100;
+    }
+
+
 @media only screen and (max-width: 576px) {
 
 
@@ -3824,7 +3840,7 @@ margin-top:51px;
     }
 
     .btn-search-desktop1 {
-        margin-left: -101px;
+        margin-left: -229px;
         margin-top: -41px;
     }
 

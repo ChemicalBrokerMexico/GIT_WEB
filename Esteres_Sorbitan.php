@@ -8,14 +8,16 @@
   <meta name="description" content="Descubre la calidad superior de nuestros ésteres de sorbitán, ideales para aplicaciones en la industria cosmética, farmacéutica y alimentaria. Nuestros productos garantizan una excelente estabilidad y rendimiento en emulsiones y formulaciones. Perfectos para mejorar la textura y la compatibilidad de tus productos, nuestros ésteres de sorbitán son la elección confiable para profesionales que buscan innovación y eficacia. ¡Potencia tus fórmulas con nuestros ésteres de sorbitán y marca la diferencia en tu sector!"> 
   <link rel="canonical" href="https://chemicalbroker.mx/Esteres_Sorbitan.php">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
+  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-    integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="css/History_Line.css">
   <link rel="stylesheet" href="css/jquery.dataTables.min.css">
   <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.js"
   <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
     crossorigin="anonymous"></script>
   <script src="js/materialize.js" type="text/javascript"></script>
@@ -277,7 +279,7 @@
                 </section>
               </div>
               <div class="col s12 m12 l12 xl8">
-                <section>
+                <!-- <section>
                   <ul>
                     <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                       <hr class="hr">
@@ -293,7 +295,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
               </div>
               <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                 <section>
@@ -548,9 +550,8 @@
         <ul class="slides slides-pruea">
           <li><img src="img/ESTERES_SORBITAN_140923.jpg" style="height:700px;" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Esteres de Sorbitan</b>
+              <h1 class="primertitulo"><b class="boldbanner">Esteres de Sorbitan</b><br></h1>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Esteres de Sorbitan</b></a></section>
     </div>
             </div>
           </li>
@@ -564,6 +565,9 @@
   <div class="container" style="margin-top:130px;">
     <div class="row">
         <div class="col s12 m12 l12 xl12">
+
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Esteres de Sorbitan</b></a></section>
+
         <h5 class="letranegro Tipografia--general Titulos"><b style="color:#0033CC;">Ésteres de Sorbitán</b></h5>
         <p class="letranegro Tipografia--general General--Cuerpo" style="margin-bottom:0px;">Los <b style="color:#000020;">ésteres de ácidos grasos de sorbitano, </b> o,  <b style="color:#000020;">ésteres de sorbitano</b> se conocen comercialmente con el nombre de <b style="color:#000020;">Spans</b>. Todos tienen en común la estructura del sorbitano (anhídrido de 1,4-D-sorbitol), que se esterifica con uno o varios ácidos grasos.</p>
         <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;margin-bottom: 0px;">La producción industrial se lleva a cabo a aproximadamente a 250 °C con sorbitol y el ácido graso correspondiente. Estos ácidos grasos pueden venir de fuentes animales, pero por lo general se usan los obtenidos a partir de grasas vegetales, al ser más baratos.  También es posible utilizar una mezcla de ácidos grasos (ácido esteárico, ácido láurico, ácido oleico y ácido palmítico), la cual forma una mezcla compleja de diferentes ésteres de ácidos grasos de sorbitano, que también tiene las propiedades químicas deseadas.</p>
@@ -699,15 +703,12 @@
 
 </div>
 
-<a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
-
-<i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
-
-</a>
-
 
   </div>
 
+  <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
 
 </body>
 <footer style="margin-top:70px">

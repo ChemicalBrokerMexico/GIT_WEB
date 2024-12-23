@@ -2,21 +2,20 @@
 <html>
 
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Butil Hidroxi Tolueno (BHT)</title>
-    <meta name="description"
-        content="Descubre BHT (butilhidroxitolueno) de alta calidad, un antioxidante esencial para prolongar la vida útil de alimentos, cosméticos y productos industriales. Protege tus formulaciones contra la degradación y mantiene la frescura y estabilidad de tus productos. ¡Confía en nuestra solución eficiente y segura!">
-    <link rel="canonical" href="https://chemicalbroker.mx/BHA.php">
-    <link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
-    <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-        integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
-    <link rel="stylesheet" href="css/History_Line.css">
-    <link rel="stylesheet" href="css/jquery.dataTables.min.css">
-    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
+  <title>Chemical Broker | Aceite de Coco del Fabricante Vantage</title>
+  <meta name="description" content="Descubre los beneficios del aceite de coco puro y natural. Ideal para cocinar, Cuidar la piel y el Cabello, Compra ahora y disfruta de un producto versatil y saludable para tu bienestar diario."> 
+  <link rel="shortcut icon" href="img/CB_ICON.ico" />
+  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/History_Line.css">
+  <link rel="stylesheet" href="css/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
     <script src="https://code.jquery.com/jquery-3.5.1.js"
         integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="js/materialize.js" type="text/javascript"></script>
@@ -359,7 +358,7 @@
                                 </section>
                             </div>
                             <div class="col s12 m12 l12 xl8">
-                                <section>
+                                <!-- <section>
                                     <ul>
                                         <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                                             <hr class="hr">
@@ -382,7 +381,7 @@
                                                     id="aparece"></i></a></li>
                                         <p></p>
                                     </ul>
-                                </section>
+                                </section> -->
                             </div>
                             <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                                 <section>
@@ -656,9 +655,9 @@
         <ul class="slides slides-pruea">
           <li><img src="img/CB_BHT_230524.jpg" style="height:800px;" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">BHT (Butilhidroxitolueno)</b>
+              <h1 class="primertitulo"><b class="boldbanner">BHT (Butilhidroxitolueno)</b><br></h1>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="BHT.php"><b class="Tipografia--general Subtitulos" style="color:red;">BHT (Butilhidroxitolueno)</b></a></section>
+
     </div>
             </div>
           </li>
@@ -669,9 +668,12 @@
     <div class="container" style="margin-top:130px;">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
+
+            <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="BHT.php"><b class="Tipografia--general Subtitulos" style="color:red;">BHT (Butilhidroxitolueno)</b></a></section>
+
                 <!-- <h5 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Butil Hidroxi Tolueno (BHT)</b></h5> -->
                 <p class="Tipografia--general letranegro General--Cuerpo">El Butil Hidroxi Tolueno o BHT, es también
-                    conocido como dibutilhidroxitolueno o hidroxitolueno es un compuesto orgánico lipofílico, química un
+                    conocido como Dibutilhidroxitolueno o Hidroxitolueno es un compuesto orgánico lipofílico, química un
                     derivado del fenol, que es útil por sus propiedades antioxidantes. El BHT se usa ampliamente para
                     prevenir la oxidación mediana por radicales libres en fluidos y otros materiales, lo que ha llevado
                     a su uso en pequeñas cantidades como aditivo alimentario.</p>
@@ -1085,14 +1087,15 @@
             </div>
         </div>
 
-        <a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
-
-<i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
-
-</a>
-
+        
 
     </div>
+
+
+    <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
+  
                 
                 </body>
 <footer style="margin-top:70px">

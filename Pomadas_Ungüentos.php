@@ -177,7 +177,7 @@
                   </section>
                 </div>
                 <div class="col s12 m12 l12 xl8">
-                  <section>
+                  <!-- <section>
                     <ul> 
                       <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                         <hr class="hr">
@@ -192,7 +192,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
                 </div>
                 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                   <section>
@@ -393,7 +393,7 @@
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
           <li><img src="img/POMADA_100521.jpg" style="height:800px;" alt="Historia Ascendente">
-            <div class="caption center-align"><br><br><br><br>
+            <div class="caption center-align" style="margin-top:-60px;"><br><br><br><br>
               <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Pomadas & Ungüentos </b>
               <div class="container">
       <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Pomadas_Ungüentos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Pomadas & Ungüentos</b></a></section>
@@ -404,7 +404,7 @@
       </div>
     </div>
  
-    <div class="container">
+    <div class="container" style="margin-top:120px;">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
           <p class="General--Cuerpo Tipografia--general colornegro">Las preparaciones farmacéuticas para el tratamiento de afecciones como; erupciones cutaeas, irritacion de la piel, picaduras, infecciones fungicas, son normalmente suministradas en forma de crema o pomada, ya que esto proporciona un medio eficaz para administrar el ingrediente activo, directamente en el área requerida, Chemical Broker en conjunto con sus clientes se encarga de la correcta distribución de ingredientes químicos adecuados para esta industria</p>

@@ -351,7 +351,7 @@
                                 </section>
                             </div>
                             <div class="col s12 m12 l12 xl8">
-                                <section>
+                                <!-- <section>
                                     <ul>
                                         <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                                             <hr class="hr">
@@ -361,15 +361,15 @@
                                                         id="aparece"></i></a></li>
                                         </p>
                                     </ul>
-                                </section>
-                                <section>
+                                </section> -->
+                                <!-- <section>
 <ul> 
 <p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas y sugerencias</b>
 </p><hr class="hr">
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
                             </div>
                             <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                                 <section>
@@ -634,19 +634,12 @@
                 <li> <img src="img/CB_ALCOHOL_ISOPROPILICO_INDUSTRIAL.jpg"
                         style="filter:brightness(0.9);margin-top:-34px;height:460px;">
                     <div class="caption center-align"><br><br><br><br>
-                        <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b
-                            class="segundotitulo" style="font-size: 26px;">Alcohol Isopropilico Grado Industrial</b>
+                        <h1 class="primertitulo"><b class="boldbanner">Alcohol Isoprilico Grado Industrial</b><br></h1>
 
             <div class="container" style="margin-top:30px;">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
-                <section class=""><a class="breditem active" href="index.php"
-                        style="color:white !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
-                        href="Productos_news.php" style="color:white !important;margin-left:-2px"><b>Productos</b><b>
-                            >
-                            &nbsp</b><a class="breditem active" href="ALCOHOL_ISOPROPILICO_INDUSTRIAL.php"
-                            style="color:red !important;margin-left:-2px"><b
-                                class="Tipografia--general Subtitulos">Alcohol Isopropilico Grado Industrial</b></a></section>
+               
                 </section>
             </div>
         </div>
@@ -662,6 +655,14 @@
         <div class="container" style="margin-top:130px;">
             <div class="row">
                 <div class="col s12 m12 l12 xl12">
+                <section class=""><a class="breditem active" href="index.php"
+                        style="color:black !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
+                        href="Productos_news.php" style="color:black !important;margin-left:-2px"><b>Productos</b><b>
+                            >
+                            &nbsp</b><a class="breditem active" href="ALCOHOL_ISOPROPILICO_INDUSTRIAL.php"
+                            style="color:red !important;margin-left:-2px"><b
+                                class="Tipografia--general Subtitulos">Alcohol Isopropilico Grado Industrial</b></a></section>
+
                     <p class="Tipografia--general letranegro General--Cuerpo">El Alcohol Isopropílico Grado Industrial o Técnico es una forma de isopropanol que se utiliza en aplicaciones industriales y técnicas, pero que no cumple con los estándares de pureza requeridos para ciertas aplicaciones mas especializadas, como en la industria farmacéutica o de alimentos. </p>
                     <h2 class="Tipografia--general letranegro Titulos"><b>Aplicaciones</b></h2>
                     <ol>

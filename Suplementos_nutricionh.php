@@ -178,7 +178,7 @@
                   </section>
                 </div>
                 <div class="col s12 m12 l12 xl8">
-                  <section>
+                  <!-- <section>
                     <ul> 
                       <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                         <hr class="hr">
@@ -193,7 +193,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
                 </div>
                 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                   <section>
@@ -394,10 +394,10 @@
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
           <li><img src="img/SUPLEMENTS_040521.jpeg" style="height:800px;" alt="Historia Ascendente">
-            <div class="caption center-align"><br><br><br><br>
+            <div class="caption center-align" style="margin-top:-60px;"><br><br><br><br>
               <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Suplementos Alimenticios</b>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Suplementos_nutricionh.php"><b class="Tipografia--general Subtitulos" style="color:red;">Suplementos Alimenticios</b></a></section>
+      
     </div>
             </div>
           </li>
@@ -409,13 +409,16 @@
     <div class="container" style="margin-top:120px;">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
+
+
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Suplementos_nutricionh.php"><b class="Tipografia--general Subtitulos" style="color:red;">Suplementos Alimenticios</b></a></section>
           <p class="Tipografia--general letranegro General--Cuerpo">La industria de los suplementos alimenticios ha emergido como uno de los sectores mas dinámicos y en rápido crecimiento dentro del ámbito de la salud y el bienestar. Impulsada por una creciente conciencia sobre la importancia de la nutrición y la salud preservativa. Esta industria abarca una amplia gama de productos diseñados para complementar la dieta y proporcionar beneficios específicos para la salud.</p>
           <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Tipos de Suplementos Alimenticios</b></h5>
           <ol style="margin-top:30px;">
             <li class="Elementos--Listas Tipografia--general">Vitaminas y Minerales: Representan aproximadamente el 40% del mercado global de suplementos.</li>
             <li class="Elementos--Listas Tipografia--general" style="margin-top:30px;">Proteínas y Aminoácidos: Constituyen alrededor del 25% del mercado</li>
             <li class="Elementos--Listas Tipografia--general" style="margin-top:30px;">Productos Herbales y Botánicos: Aproximadamente el 15% del mercado</li>
-            <li class="Elementos--Listas Tipografia--general" style="margin-top:30px;">Ácidos Grasos y Omega: Cerca del 10% del mercado</li>
+            <li class="Elementos--Listas Tipografia--general" style="margin-top:30px;">ÁcidoWWs Grasos y Omega: Cerca del 10% del mercado</li>
             <li class="Elementos--Listas Tipografia--general" style="margin-top:30px;">Otros suplementos: Incluyen probióticos, antioxidantes y enzimas digestivas, que representan el 10% restante  </li>
           </ol>
           <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Ingredientes químicos presentes en los alimentos</b></h5>

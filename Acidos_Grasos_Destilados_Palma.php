@@ -4,15 +4,15 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Acidos Grasos Destilados de Palma de Cargill</title>
-  <meta name="description" content="Chemical Broker distribuye mundialmente Acidos Grasos Destilados de Palma de la mas alta calidad probada a nivel mundial"> 
-  <link rel="canonical" href="https://chemicalbroker.mx/Acidos_Grasos_Destilados_Palma.php">
+  <title>Chemical Broker | Aceite de Coco del Fabricante Vantage</title>
+  <meta name="description" content="Descubre los beneficios del aceite de coco puro y natural. Ideal para cocinar, Cuidar la piel y el Cabello, Compra ahora y disfruta de un producto versatil y saludable para tu bienestar diario."> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
+  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-    integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="css/History_Line.css">
   <link rel="stylesheet" href="css/jquery.dataTables.min.css">
   <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
@@ -278,7 +278,7 @@
                 </section>
               </div>
               <div class="col s12 m12 l12 xl8">
-                <section>
+                <!-- <section>
                   <ul>
                     <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                       <hr class="hr">
@@ -286,15 +286,15 @@
                           &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                     </p>
                   </ul>
-                </section>
-                <section>
+                </section> -->
+                <!-- <section>
 <ul> 
 <p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas y sugerencias</b>
 </p><hr class="hr">
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
               </div>
               <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                 <section>
@@ -550,20 +550,13 @@
       <ul class="slides slides-pruea">
         <li> <img src="img/ACIDOS_GRASOS_PALMA.jpg" alt="" class="Banner_Grasos_Palma" style="height:800px;filter:brightness(0.9);">
           <div class="caption center-align"><br><br><br><br>
-            <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo"
-              style="font-size: 26px;">Ácidos Grasos Destilados de Palma</b>
+            <h1 class="primertitulo"><b class="boldbanner">Ácidos Grasos Destilados de Palma</b><br></h1>
 
               
   <div class="container breadgrasaciddestil">
     <div class="row ">
       <div class="col s12 m12 l12 xl12">
-        <section class=""><a class="breditem active" href="index.php"
-            style="color:white !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
-            href="Productos_news.php" style="color:white !important;margin-left:-2px"><b>Productos</b><b> >
-              &nbsp</b><a class="breditem active" href="Acidos_Grasos_Destilados_Palma.php"
-              style="color:red !important;margin-left:-2px"><b
-                class="Tipografia--general  Subtitulos ">Ácidos Grasos Destilados de Palma</b></a></section>
-        </section>
+     
       </div>
     </div>
   </div>
@@ -581,8 +574,17 @@
     <div class="container" style="margin-top:150px;">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
+
+            <section class=""><a class="breditem active" href="index.php"
+            style="color:black !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
+            href="Productos_news.php" style="color:black !important;margin-left:-2px"><b>Productos</b><b> >
+              &nbsp</b><a class="breditem active" href="Acidos_Grasos_Destilados_Palma.php"
+              style="color:red !important;margin-left:-2px"><b
+                class="Tipografia--general  Subtitulos ">Ácidos Grasos Destilados de Palma</b></a></section>
+        </section>
+
                 <h2 class="letranegro Tipografia--general Titulos"><b style="color:#000020;">Ácidos Grasos Destilados de Palma</b></h2>
-                <p class="letranegro Tipografia--general General--Cuerpo" style="margin-bottom:0px;">Los ácidos grasos se obtienen a partir de la hidrólisis a alta presión y temperatura de grasas y aceites de origen animal y vegetal. Después son destilados, obteniéndose un producto de aspecto blanco y tacto jabonoso.</p>
+                <p class="letranegro Tipografia--general General--Cuerpo" style="margin-bottom:0px;">Los Ácidos Grasos se obtienen a partir de la hidrólisis a alta presión y temperatura de grasas y aceites de origen animal y vegetal. Después son destilados, obteniéndose un producto de aspecto blanco y tacto jabonoso.</p>
                 <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Tienen un punto de fusión que va desde los 25ºC del coco a los 50-55ºC de los ácidos grasos que provienen de la palma y el sebo. Este punto de fusión relativamente bajo les permite funcionar como emulgentes en muchas formulaciones o como recubrimiento de diferentes aplicaciones.</p>
                 <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;margin-bottom:0px;"><b style="color:#000020">Los Ácidos Grasos Destilados de Palma</b> se obtienen por desdoblamiento y posterior destilación al vacío del aceite de palma. El producto obtenido es un sólido blanco opaco a temperatura ambiente, con un punto de fusión sobre los 45 °C. Es rico en ácido palmítico y esteárico. Los ácidos grasos predominantes en el aceite de palma son el oleico, el palmítico y el esteárico. Los ácidos grasos se obtienen a partir de la hidrólisis a alta presión y temperatura de grasas y aceites de origen animal y vegetal.</p>
                 <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#000020;">Especificaciones</b></h2>
@@ -679,14 +681,15 @@
             </div>
         </div>
 
-        <a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
-
-<i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
-
-</a>
+ 
 
 
     </div>
+
+    <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
+  
 
 </body>
 <footer style="margin-top:70px">

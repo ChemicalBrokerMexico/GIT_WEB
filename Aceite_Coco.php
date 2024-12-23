@@ -11,8 +11,8 @@
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-    integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="css/History_Line.css">
   <link rel="stylesheet" href="css/jquery.dataTables.min.css">
   <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
@@ -277,7 +277,7 @@
                 </section>
               </div>
               <div class="col s12 m12 l12 xl8">
-                <section>
+                <!-- <section>
                   <ul>
                     <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                       <hr class="hr">
@@ -285,15 +285,15 @@
                           &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                     </p>
                   </ul>
-                </section>
-                <section>
+                </section> -->
+                <!-- <section>
 <ul> 
 <p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas y sugerencias</b>
 </p><hr class="hr">
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
               </div>
               <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                 <section>
@@ -548,30 +548,36 @@
         <ul class="slides slides-pruea">
           <li><img src="img/CB_ACEITE_COCO2.jpg" style="height:400px;" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px"></b>
-              <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Aceite de Coco</b></a></section>
-    </div>
+              <h1 class="primertitulo"><b class="boldbanner">Aceite de Coco</b><br></h1><b class="segundotitulo" style="font-size:26px"></b>
+         
             </div>
           </li>
         </ul>
       </div>
     </div>
 
+    
+
 
 
     <div class="container" style="margin-top:140px;">
+
+    
         <div class="row">
+        
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Aceite de Coco</b></a></section>
+    
+
             <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020;">Aceite de Coco</b></h2>
-            <p class="Tipografia--general letranegro General--Cuerpo">El Aceite de coco es un aceite vegetal derivado de la pulpa del coco (Cocos nucifera). Se obtiene mediante procesos de prensado en frio o extracción con calor de la carne blanca o la copra del coco. Es conocido por su alta concentración de ácidos grasos saturados de cadena media, especialmente acido láurico.</p>
+            <p class="Tipografia--general letranegro General--Cuerpo">El <b>Aceite de Coco</b> es un aceite vegetal derivado de la pulpa del coco (Cocos nucifera). Se obtiene mediante procesos de prensado en frio o extracción con calor de la carne blanca o la copra del coco. Es conocido por su alta concentración de ácidos grasos saturados de cadena media, especialmente acido láurico.</p>
             <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Características y Propiedades</b></h2>
             <ol>
-                <li class="Elementos--Listas"><b>Ácidos grasos saturados. -</b> El aceite de coco es una de las fuentes vegetales más ricas en ácidos grasos saturados, con alrededor del 90% de su contenido graso compuesto por estos ácidos, principalmente acido láurico.</li>
+                <li class="Elementos--Listas"><b>Ácidos grasos saturados. -</b> El Aceite de Coco es una de las fuentes vegetales más ricas en ácidos grasos saturados, con alrededor del 90% de su contenido graso compuesto por estos ácidos, principalmente acido láurico.</li>
                 <li class="Elementos--Listas" style="margin-top:30px;"><b>Punto de humo alto. -</b> Es adecuado para cocinar a altas temperaturas debido a su alto punto de humo, lo que lo hace popular para freír y hornear.</li>
-                <li class="Elementos--Listas" style="margin-top:30px;"><b>Textura. -</b> A temperatura ambiente, el aceite de coco tiene una textura sólida, similar a la manteca. Sin embargo, se derrite fácilmente a temperaturas mas altas y se convierte en líquido.</li>
-                <li class="Elementos--Listas" style="margin-top:30px;"><b>Usos versátiles. -</b> Además de uso en la cocina, el aceite de coco se utiliza en una variedad de productos de cuidado personal y belleza, como cremas hidratantes, acondicionadores para el cabello, lociones corporales y bálsamos labiales.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;"><b>Textura. -</b> A temperatura ambiente, el Aceite de Coco tiene una textura sólida, similar a la manteca. Sin embargo, se derrite fácilmente a temperaturas mas altas y se convierte en líquido.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;"><b>Usos versátiles. -</b> Además de uso en la cocina, el Aceite de Coco se utiliza en una variedad de productos de cuidado personal y belleza, como cremas hidratantes, acondicionadores para el cabello, lociones corporales y bálsamos labiales.</li>
                 <li class="Elementos--Listas" style="margin-top:30px;"><b>Beneficios potenciales para la salud. -</b> Se ha investigado su posible papel en la mejora de los niveles de colesterol, el apoyo a la salud cerebral y la función metabólica. Sin embargo, la evidencia científica es mixta y se necesita más investigación para confirmar estos beneficios.</li>
-                <li class="Elementos--Listas" style="margin-top:30px;"><b>Sabor y aroma. -</b> El aceite de coco tiene un sabor y aroma característicos a coco, lo que da un toque tropical a los platos y productos en los que se utiliza.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;"><b>Sabor y aroma. -</b> El Aceite de Coco tiene un sabor y aroma característicos a coco, lo que da un toque tropical a los platos y productos en los que se utiliza.</li>
             </ol>
             <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones:</b></h2>
             <ol>
@@ -591,16 +597,16 @@
             </ol>
             <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Envio:</b></h2>
             <ol>
-                <li class="Elementos--Listas" style="list-style-type:disc;">El aceite de coco se envía en contenedores, bolsas flexibles o isotanques.</li>
+                <li class="Elementos--Listas" style="list-style-type:disc;">El Aceite de Coco se envía en contenedores, bolsas flexibles o isotanques.</li>
             </ol>
         </div>
-        <a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
-
-<i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
-
-</a>
+       
 
     </div>
+
+    <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
   
     
 

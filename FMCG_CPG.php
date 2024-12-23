@@ -177,7 +177,7 @@
                   </section>
                 </div>
                 <div class="col s12 m12 l12 xl12">
-                  <section>
+                  <!-- <section>
                     <ul> 
                       <p style="color: white"><b>Empleados</b>
                         <hr class="hr">
@@ -194,7 +194,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
                 </div>
               </div>
             </div>

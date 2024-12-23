@@ -278,7 +278,7 @@
                 </section>
               </div>
               <div class="col s12 m12 l12 xl8">
-                <section>
+                <!-- <section>
                   <ul>
                     <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                       <hr class="hr">
@@ -294,7 +294,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
               </div>
               <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                 <section>
@@ -549,9 +549,9 @@
         <ul class="slides slides-pruea">
           <li><img src="img/CB_SEBO_ALTO_HIDROGENADO.jpg" style="height:800px;" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Estearina de Palma Alto Hidrogenado</b>
+              <h1 class="primertitulo"><b class="boldbanner">Estearina de Palma Alto Hidrogenado</b><br></h1>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Sebo_Alto_Hidrogenaado.php"><b class="Tipografia--general Subtitulos" style="color:red;">Estearina de Palma Alto Hidrogenado</b></a></section>
+      
     </div>
             </div>
           </li>
@@ -564,6 +564,9 @@
     <div class="container" style="margin-top:130px;">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
+            
+            <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Sebo_Alto_Hidrogenaado.php"><b class="Tipografia--general Subtitulos" style="color:red;">Estearina de Palma Alto Hidrogenado</b></a></section>
+
                 <p class="Tipografia--general letranegro General--Cuerpo">El ácido graso de sebo hidrogenado (HTFA, por sus siglas en inglés) se deriva de fuentes animales como la grasa de res procesada o el cordero. La hidrogenación de ácidos grasos se refiere a un proceso químico en el que se agrega hidrógeno para lograr la saturación</p>
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La hidrogenación consta de tres componentes: el ácido graso de sebo insaturado, la fuente de hidrógeno y un catalizador que estimula la reacción deseada, normalmente un metal como el níquel o el paladio. La hidrogenación del ácido de sebo puede ser parcial o completa, según el uso al que se destine. La destilación es el paso final en el proceso de hidrogenación de ácidos grasos</p>
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El ácido graso de sebo hidrogenado es de color blanco a amarillo claro a temperatura ambiente, aunque el color variará según el tipo y la extensión del proceso de hidrogenación. El ácido graso de sebo hidrogenado (HFTA) también emite un ligero olor. Los Ácidos Grasos de Sebo Hidrogenados tienen un punto de congelación de entre 45 - 55 °C durante la hidrogenación parcial y de 57 - 60 °C cuando se produce la hidrogenación total. El ácido graso de sebo hidrogenado (HFTA) generalmente se considera un material seguro: es poco probable que cause problemas de salud cuando se inhala o cuando entra en contacto con la piel, aunque la ingestión podría causar una ligera irritación del tracto digestivo.</p>
@@ -676,7 +679,7 @@
 
 </body>
 <footer style="margin-top:70px">
-  <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png"
+  <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
       alt=""></div><br><br>
   <div class="container-fluid" style="text-align:center;margin-top:-50px">
     <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos Reservados.

@@ -342,7 +342,7 @@
                                 </section>
                             </div>
                             <div class="col s12 m12 l12 xl8">
-                                <section>
+                                <!-- <section>
                                     <ul>
                                         <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                                             <hr class="hr">
@@ -352,7 +352,7 @@
                                                         id="aparece"></i></a></li>
                                         </p>
                                     </ul>
-                                </section>
+                                </section> -->
                             </div>
                             <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                                 <section>

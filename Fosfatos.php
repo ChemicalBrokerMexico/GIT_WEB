@@ -9,11 +9,15 @@
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">
     <link rel="canonical" href="https://chemicalbroker.mx/Fosfatos.php">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
-    <link rel="stylesheet" href="css/History_Line.css?n=1">
-    <link rel="stylesheet" href="css/jquery.dataTables.min.css">
-    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/History_Line.css">
+  <link rel="stylesheet" href="css/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.js"
     <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="js/materialize.js?n=1" type="text/javascript"></script>
     <script src="js/init.js?n=1"></script>
@@ -193,7 +197,7 @@
 </section>
 </div>
 <div class="col s12 m12 l12 xl8">
-<section>
+<!-- <section>
 <ul> 
 <p class="color--blanco"><b class="Tipografia--general Titulos" style="margin-top:0px">Empleados </b>
 <hr class="hr">
@@ -208,7 +212,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
 </div>
 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2 Carreras_menu_principal">
 <section class="Carreras_menu_principal">
@@ -414,13 +418,13 @@
 <div class="row">
 <div class="slider slider-prueba">
 <ul class="slides">
-<li> <img src="img/COLLAGE_FOSFATOS_140824.jpg" style="height:500px;" alt="Industria Quimica">
+<li> <img src="img/ALIMENTOS_FOSFORO_280824.jpg" style="height:500px;" alt="Industria Quimica">
 <div class="caption center-align"><br><br><br><br>
-<h1 class="primertitulo"><b>Chemical Broker</b><br></h1>
+<h1 class="primertitulo"><b>Fosfatos</b><br></h1>
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section><a class="breditem active" href="#" style="color:white !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class="breditem active" href="Productos_news.php" style="color:white !important;margin-left:-2px"><b class="Tipografia-general  Subtitulos ">Productos > </b> </a> <a class="breditem active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos ">Fosfatos</b></a></section>
+
 </div>
 </div>
 </div>
@@ -434,6 +438,9 @@
 <div class="container" style="margin-top:150px;">
     <div class="row">
         <div class="col s12 m12 l12 xl12">
+
+        <section><a class="breditem active" href="#" style="color:black !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class="breditem active" href="Productos_news.php" style="color:black !important;margin-left:-2px"><b class="Tipografia-general  Subtitulos ">Productos > </b> </a> <a class="breditem active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos ">Fosfatos</b></a></section>
+
             <h5 class="Tipografia--general letranegro General--Cuerpo" style="background-color:#FF6600;padding:15px;color:white;margin-left:800px;font-size:35px;border-radius:10px"><b>Fosfatos</b></h5>
             
             <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Los <b style="color:#FF6600;">Fosfatos</b> se pueden definir como productos químicos versátiles y multifuncionales que se comercializan ampliamente en diversas industrias debido a sus propiedades beneficiosas y aplicaciones variadas.</p>
@@ -442,36 +449,36 @@
             <ol>
                 <li class="ipografia--general letranegro General--Cuerpo Elementos--Listas">Industria Alimentaria:</li>
                 <ol>
-                    <li style="margin-top:30px;" class="Elementos--Listas">Aditivos alimentarios: Se utilizan como estabilizadores, emulsionantes, y agentes espesantes en una amplia gama de productos alimenticios como productos cárnicos procesados, productos lácteos, bebidas y panadería.</li>
-                    <li style="margin-top:30px;" class="Elementos--Listas">Fortificación de alimentos: Se añaden a ciertos alimentos para enriquecerlos con fósforo y otros nutrientes esenciales.</li>
+                    <li style="margin-top:30px;" class="Elementos--Listas">Aditivos Alimentarios: Se utilizan como estabilizadores, emulsionantes, y agentes espesantes en una amplia gama de productos alimenticios como productos cárnicos procesados, productos lácteos, bebidas y panadería.</li>
+                    <li style="margin-top:30px;" class="Elementos--Listas">Fortificación de Alimentos: Se añaden a ciertos alimentos para enriquecerlos con fósforo y otros nutrientes esenciales.</li>
                 </ol>
             </ol>
             <ol>
                 <li style="margin-top:50px;" class="Elementos--Listas">Industria Agrícola:</li>
                 <ol>
                     <li style="margin-top:30px;" class="Elementos--Listas">Fertilizantes: Los <b style="color:#FF6600;">Fosfatos</b> son componentes clave de los fertilizantes, proporcionando fósforo necesario para el crecimiento de las plantas y la producción de cultivos.Tratamiento de agua:</li>
-                    <li style="margin-top:30px;" class="Elementos--Listas">Coagulantes y floculantes: Los <b style="color:#FF6600;">Fosfatos</b> se utilizan en plantas de tratamiento de agua para ayudar en la eliminación de contaminantes al actuar como coagulantes y floculantes.</li>
+                    <li style="margin-top:30px;" class="Elementos--Listas">Coagulantes y Floculantes: Los <b style="color:#FF6600;">Fosfatos</b> se utilizan en plantas de tratamiento de agua para ayudar en la eliminación de contaminantes al actuar como coagulantes y floculantes.</li>
                 </ol>
             </ol>
             <ol>
                 <li style="margin-top:50px;" class="Elementos--Listas">Industria Química:</li>
                 <ol>
-                    <li style="margin-top:30px;" class="Elementos--Listas">Productos de limpieza: Se utilizan en detergentes y limpiadores como agentes secuestrantes y para mejorar la eficacia de limpieza.</li>
-                    <li style="margin-top:30px;" class="Elementos--Listas">Industria de pinturas y recubrimientos: Los <b style="color:#FF6600;">Fosfatos</b> se utilizan como inhibidores de corrosión en recubrimientos metálicos y como aditivos en la fabricación de pinturas.</li>
+                    <li style="margin-top:30px;" class="Elementos--Listas">Productos de Limpieza: Se utilizan en detergentes y limpiadores como agentes secuestrantes y para mejorar la eficacia de limpieza.</li>
+                    <li style="margin-top:30px;" class="Elementos--Listas">Industria de Pinturas y Recubrimientos: Los <b style="color:#FF6600;">Fosfatos</b> se utilizan como inhibidores de corrosión en recubrimientos metálicos y como aditivos en la fabricación de pinturas.</li>
                 </ol>
             </ol>
             <ol>
                 <li style="margin-top:50px;" class="Elementos--Listas">Industria Farmacéutica:</li>
                 <ol>
-                    <li style="margin-top:30px;" class="Elementos--Listas">Productos farmacéuticos: Se utilizan en la fabricación de medicamentos como reguladores de pH y como excipientes en formulaciones farmacéuticas.</li>
+                    <li style="margin-top:30px;" class="Elementos--Listas">Productos Farmacéuticos: Se utilizan en la fabricación de medicamentos como reguladores de pH y como excipientes en formulaciones farmacéuticas.</li>
                 </ol>
             </ol>
             <ol>
                 <li style="margin-top:50px;" class="Elementos--Listas">Industria Metalúrgica:</li>
                 <br>
                 <ol>
-                    <l style="margin-top:30px;" class="Elementos--Listas">Procesamiento de metales: Los <b style="color:#FF6600;">Fosfatos</b> se utilizan en el tratamiento de superficies metálicas para mejorar la resistencia a la corrosión y como agentes de limpieza en procesos de galvanizado.</li>
-                    <li style="margin-top:30px;" class="Elementos--Listas">Suplementos nutricionales: Aportan minerales esenciales como fósforo y calcio.</li>
+                    <l style="margin-top:30px;" class="Elementos--Listas">Procesamiento de Metales: Los <b style="color:#FF6600;">Fosfatos</b> se utilizan en el tratamiento de superficies metálicas para mejorar la resistencia a la corrosión y como agentes de limpieza en procesos de galvanizado.</li>
+                    <li style="margin-top:30px;" class="Elementos--Listas">Suplementos Nutricionales: Aportan minerales esenciales como fósforo y calcio.</li>
                 </ol>
             </ol>
             <ol>
@@ -587,6 +594,11 @@
     </div>
 </div>
 
+
+
+<a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
 
 <footer class="altofooter">
 <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg" alt="ESCUDO DE C&E"></div><br><br>

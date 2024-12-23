@@ -7,12 +7,11 @@
   <title>Chemical Broker | Bicarbonato de Sodio de Solvay</title>
   <meta name="description" content="Ofrecemos bicarbonato de sodio de alta pureza, ideal para aplicaciones alimentarias, de limpieza y en diversas industrias. Versátil y efectivo, nuestro producto garantiza resultados óptimos en cada uso. ¡Elige nuestro bicarbonato de sodio para calidad y rendimiento superior en tus procesos!">
   <link rel="canonical" href="https://chemicalbroker.mx/Bicarbonato_Sodio.php">
-  <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-    integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="css/History_Line.css">
   <link rel="stylesheet" href="css/jquery.dataTables.min.css">
   <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
@@ -278,7 +277,7 @@
                 </section>
               </div>
               <div class="col s12 m12 l12 xl8">
-                <section>
+                <!-- <section>
                   <ul>
                     <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                       <hr class="hr">
@@ -294,7 +293,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
               </div>
               <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                 <section>
@@ -547,12 +546,11 @@
   <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li><img src="img/CB_BICARBONATO_SODIO_271222.jpg" style="height:400px;" alt="Historia Ascendente">
+          <li><img src="img/CB_BICARBONATO_SODIO_271222.jpg" style="height:400px;filter: brightness(0.9);" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Bicarbonato de Sodio</b>
+              <h1 class="primertitulo"><b class="boldbanner">Bicarbonato de Sodio</b><br></h1>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Bicarbonato de Sodio</b></a></section>
-    </div>
+            </div>
             </div>
           </li>
         </ul>
@@ -562,7 +560,10 @@
 
   <div class="container">
     <div class="row">
-      <div class="col s12 m12 l12 xl12">
+      <div class="col s12 m12 l12 xl12" style="margin-top:130px;">
+
+      <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Bicarbonato de Sodio</b></a></section>
+
         <p class="Tipografia--general General--Cuerpo letranegro" style="margin-bottom:0px;"><b>El Bicarbonato de
             Sodio</b> es un compuesto sólido cristalino de color blanco soluble en agua, con un ligero sabor alcalino
           parecido al del carbonato de sodio (menos fuerte y más salado) Se puede encontrar como mineral en la
@@ -637,7 +638,7 @@
           <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9;text-align: center;"
               class="Tablas_Bicarsodio_Mobile">
               <ol>
-                <li class="Elementos--Listas" style="list-style-type:disc;margin-left:-20px">Bicarbonato sódico</li>
+                <li class="Elementos--Listas" style="list-style-type:disc;margin-left:-20px">Bicarbonato Sódico</li>
                 <li class="Elementos--Listas" style="list-style-type:disc;margin-left:-20px">Hidrogenocarbonato de Sodio</li>
                 <li class="Elementos--Listas" style="list-style-type:disc;margin-left:-20px">Carbonato Acido de Sodio</li>
                 <li class="Elementos--Listas" style="list-style-type:disc;margin-left:-20px">Bicarbonato de Soda</li>
@@ -796,7 +797,7 @@
         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Obtención</b></h2>
 
         <p class="Tipografia--general letranegro General--Cuerpo">Se obtiene Mediante el proceso Solvay. Aunque es utilizado para
-          obtener Na2CO3, es posible obtener en una de las reacciones intermedias bicarbonato sódico. El proceso
+          obtener Na2CO3, es posible obtener en una de las reacciones intermedias Bicarbonato Sódico. El proceso
           consiste en la siguiente reacción:</p>
 
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;"><b>NaCl + NH<b><sub>3</sub></b> + CO<b><sub>2</sub></b> +
@@ -804,7 +805,7 @@
 
           
 
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">El proceso Solvay es un metodo industrial ampliamente utilizado para la produccion de carbonato de sodio (soda ash), a partir del cual se obtiene bicarboanto de sodio (NAHCO<sub>3</sub>) mediante una etapa adicional, aqui se observa un resumen para obtener bicarbonato de sodio:</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">El proceso Solvay es un metodo industrial ampliamente utilizado para la produccion de Carbonato de Sodio (soda ash), a partir del cual se obtiene Bicarboanto de Sodio (NAHCO<sub>3</sub>) mediante una etapa adicional, aqui se observa un resumen para obtener Bicarbonato de Sodio:</p>
 
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">1: Reaccion inicial: Formación de bicarbonato de amonio</p>
 
@@ -812,8 +813,8 @@
           <li class="Elementos--Listas colornegro">El proceso comienza con la introducción de amoníanco (NH<sub>3</sub>) y dioxido de carbono (CO<sub>2</sub>) en una solución de salmuera (cloruro de sodio, NaCI). Se producen las siguientes reacciones:</li>
           <br>
           <ol>
-            <li class="Elementos--Listas">CO<sub>2</sub> se disuelve en agua, formando ácido carbónico.</li>
-            <li class="Elementos--Listas">Amoníaco reacciona con el ácido carbónico para formar bicarbonato de amonio (NH<SUB>4</SUB>HCO<sub>3)</sub></li>
+            <li class="Elementos--Listas">CO<sub>2</sub> se disuelve en agua, formando Ácido Carbónico.</li>
+            <li class="Elementos--Listas">Amoníaco reacciona con el Ácido Carbónico para formar Bicarbonato de Amonio (NH<SUB>4</SUB>HCO<sub>3)</sub></li>
           </ol>
         </ol>
 
@@ -894,9 +895,9 @@
           <b>Cuidado Personal:</b></h2>
 
         <ol>
-          <li class="Tipografia--general letranegro Elementos--Listas">Exfoliante facial y corporal. - el bicarbonato de sodio se utiliza en productos exfoliantes, como limpiadores faciales o pastas de dientes, debido a su textura fina y suave, que puede ayudar a eliminar las células muertas de la piel y promover la renovación celular.</li>
+          <li class="Tipografia--general letranegro Elementos--Listas">Exfoliante facial y corporal. - el Bicarbonato de Sodio se utiliza en productos exfoliantes, como limpiadores faciales o pastas de dientes, debido a su textura fina y suave, que puede ayudar a eliminar las células muertas de la piel y promover la renovación celular.</li>
           <br>
-          <li class="Tipografia--general letranegro Elementos--Listas">Shampoos en seco. - algunas personas utilizan bicarbonato de sodio para absorber el exceso de grasa en el cabello, actúa	</li>
+          <li class="Tipografia--general letranegro Elementos--Listas">Shampoos en seco. - algunas personas utilizan Bicarbonato de Sodio para absorber el exceso de grasa en el cabello, actúa	</li>
           <br>
           <li class="Tipografia--general letranegro Elementos--Listas">Pastas dentales. - se encuentra en algunas pastas de dientes naturales debido a sus propiedades para eliminar manchas y neutralizar olores.</li>
           <br>
@@ -906,7 +907,7 @@
           <br>
           <li class="Tipografia--general letranegro Elementos--Listas">Exfoliantes faciales y corporales. - ayuda a eliminar células muertas de la piel y a suavizarla.</li>
           <br>
-          <li class="Tipografia--general letranegro Elementos--Listas">Tratamiento de afecciones cutáneas. - el bicarbonato de sodio a menudo se utiliza en baños de inmersión para aliviar ciertas afecciones cutáneas, como la picazón y las irritaciones leves. Puede proporcionar alivio temporal.</li>
+          <li class="Tipografia--general letranegro Elementos--Listas">Tratamiento de afecciones cutáneas. - el Bicarbonato de Sodio a menudo se utiliza en baños de inmersión para aliviar ciertas afecciones cutáneas, como la picazón y las irritaciones leves. Puede proporcionar alivio temporal.</li>
         </ol>
 
         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Detergentes y Cuidado del
@@ -921,11 +922,11 @@
 
 
         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Pet y Nutrición Animal</b></h2>
-        <p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#000020;">bicarbonato de sodio</b> ofrece una gama de soluciones
+        <p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#000020;">Bicarbonato de Sodio</b> ofrece una gama de soluciones
           eficaces para la nutrición, la higiene y la calidad de los piensos.</p>
         <p class="Tipografia--general letranegro General--Cuerpo">Es un complemento alimenticio para rumiantes, cerdos y
           aves, esencial y de alto valor para mejorar el bienestar y el rendimiento del ganado. </p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">El <b style="color:#000020;">bicarbonato de sodio</b> es
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">El <b style="color:#000020;">Bicarbonato de Sodio</b> es
           un ingrediente con potencial benéfico en la alimentación de pollos debido a su efecto sobre el balance
           electrolítico y adicionalmente por mejorar la digestibilidad proteica y el rendimiento de los mismos.</p>
 
@@ -933,8 +934,8 @@
         <p class="Tipografia--general letranegro General--Cuerpo">En las plantas de producción de biogás, se puede
           utilizar como medida preventiva o curativa en caso de acidosis para estabilizar el pH en el digestor y
           asegurar una producción optima de biogás.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">La adición de <b style="color:#000020;">bicarbonato
-          de sodio</b> al sustrato puede aumentar el volumen de biogás producido cada día en 115 m3, es decir, en un 1.8%.
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">La adición de <b style="color:#000020;">Bicarbonato
+          de Sodio</b> al sustrato puede aumentar el volumen de biogás producido cada día en 115 m3, es decir, en un 1.8%.
         </p>
 
         <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;">
@@ -995,6 +996,11 @@
   
 
   </div>
+
+  <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
+
 </body>
 <footer style="margin-top:70px">
   <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"

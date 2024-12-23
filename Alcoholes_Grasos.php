@@ -4,15 +4,15 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Alcoholes Grasos de Peter Cremer</title>
-  <meta name="description" content="Chemical Broker ofrece Alcoholes Grasos de la mejor calidad a nivel mundial, Ven y conoce nuestra linea de Alcoholes Grasos de Peter Cremer.">
-  <link rel="canonical" href="https://chemicalbroker.mx/Alcoholes_Grasos.php">
+  <title>Chemical Broker | Aceite de Coco del Fabricante Vantage</title>
+  <meta name="description" content="Descubre los beneficios del aceite de coco puro y natural. Ideal para cocinar, Cuidar la piel y el Cabello, Compra ahora y disfruta de un producto versatil y saludable para tu bienestar diario."> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
+  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-    integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="css/History_Line.css">
   <link rel="stylesheet" href="css/jquery.dataTables.min.css">
   <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
@@ -278,7 +278,7 @@
                 </section>
               </div>
               <div class="col s12 m12 l12 xl8">
-                <section>
+                <!-- <section>
                   <ul>
                     <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                       <hr class="hr">
@@ -294,7 +294,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
               </div>
               <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                 <section>
@@ -548,18 +548,12 @@
       <ul class="slides slides-pruea">
         <li> <img src="img/ALCOHOLES-GRASOS_IMAGEN-1.jpg" alt="" style="height:103%;">
           <div class="caption center-align"><br><br><br><br>
-            <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo"
-              style="font-size: 26px;">Alcoholes Grasos</b>
+            <h1 class="primertitulo"><b class="boldbanner">Alcoholes Grasos</b><br></h1>
 
               <div class="container " style="margin-top:30px;">
     <div class="row ">
       <div class="col s12 m12 l12 xl12">
-        <section class=""><a class="breditem active" href="index.php"
-            style="color:white !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
-            href="Productos_news.php" style="color:white !important;margin-left:-2px"><b>Productos</b><b> >
-              &nbsp</b><a class="breditem active" href="Alcoholes_Grasos.php"
-              style="color:#262137 !important;margin-left:-2px"><b
-                class="Tipografia--general Subtitulos" style="color:red;">Alcoholes Grasos</b></a></section>
+      
         </section>
       </div>
     </div>
@@ -573,9 +567,16 @@
 
  
 
-  <div class="container ">
+  <div class="container" style="margin-top:130px;">
     <div class="row">
       <div class="col s12 m12 l12 xl12">
+      <section class=""><a class="breditem active" href="index.php"
+            style="color:black !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
+            href="Productos_news.php" style="color:black !important;margin-left:-2px"><b>Productos</b><b> >
+              &nbsp</b><a class="breditem active" href="Alcoholes_Grasos.php"
+              style="color:#262137 !important;margin-left:-2px"><b
+                class="Tipografia--general Subtitulos" style="color:red;">Alcoholes Grasos</b></a></section>
+
         <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Alcoholes Grasos</b></h2>
 
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;"><b style="color:#262137">Chemical Broker</b> ofrece
@@ -586,14 +587,14 @@
           fabricantes en América, Europa y Asia brindan capacidad de respuesta y garantía de suministro en todo el
           mundo.</p>
 
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;"><b>Los alcoholes grasos</b> (o alcoholes de cadena
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;"><b>Los Alcoholes Grasos</b> (o alcoholes de cadena
           larga) son generalmente de alto peso molecular, alcoholes primarios de cadena lineal, pero también pueden
           variar desde tan poco como 4-6 átomos de carbono a tantos como 22-26, derivados de grasas y aceites naturales.
           La longitud exacta de la cadena alifática varía con la fuente.</p>
 
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Algunos alcoholes grasos comercialmente importantes
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Algunos Alcoholes Grasos comercialmente importantes
           son el Alcohol Estearílico y Alcohol Oleico. Son sólidos cerosos incoloros, aunque las muestras impuras pueden
-          aparecer de color amarillo. Los alcoholes grasos generalmente tienen un número par de átomos de carbono y un
+          aparecer de color amarillo. Los Alcoholes Grasos generalmente tienen un número par de átomos de carbono y un
           solo grupo de alcohol (-OH) unido al carbono terminal.</p>
 
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;margin-top:50px;">Algunos Alcoholes Grasos son insaturados y algunos
@@ -732,14 +733,14 @@
 
     </div>
 
-    <a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
-
-<i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
-
-</a>
 
 
   </div>
+
+  <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
+  
 
 </body>
 <footer style="margin-top:70px">

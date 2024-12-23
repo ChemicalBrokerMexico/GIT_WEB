@@ -1,23 +1,21 @@
 <!DOCTYPE html>
-<html lang="es">
+<html>
 
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Azúcar Refinada</title>
-    <link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <meta name="description"
-        content="Ofrecemos azúcar refinada de alta pureza, perfecta para la industria alimentaria y diversas aplicaciones. Garantiza el sabor y la calidad de tus productos con nuestro azúcar de primera categoría. ¡Aporta dulzura y consistencia a tus creaciones con nuestra oferta confiable y de calidad!.">
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
-    <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">
-    <link rel="canonical" href="https://chemicalbroker.mx/Azucar_Refinada.php">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-        integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
-    <link rel="stylesheet" href="css/History_Line.css?n=1">
-    <link rel="stylesheet" href="css/jquery.dataTables.min.css">
-    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
+  <title>Chemical Broker | Aceite de Coco del Fabricante Vantage</title>
+  <meta name="description" content="Descubre los beneficios del aceite de coco puro y natural. Ideal para cocinar, Cuidar la piel y el Cabello, Compra ahora y disfruta de un producto versatil y saludable para tu bienestar diario."> 
+  <link rel="shortcut icon" href="img/CB_ICON.ico" />
+  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/History_Line.css">
+  <link rel="stylesheet" href="css/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
     <script src="https://code.jquery.com/jquery-3.5.1.js"
         integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="js/materialize.js?n=1" type="text/javascript"></script>
@@ -332,7 +330,7 @@
                                 </section>
                             </div>
                             <div class="col s12 m12 l12 xl8">
-                                <section>
+                                <!-- <section>
                                     <ul>
                                         <p class="color--blanco"><b class="Tipografia--general Titulos"
                                                 style="margin-top:0px">Empleados </b>
@@ -356,7 +354,7 @@
                                                     id="aparece"></i></a></li>
                                         <p></p>
                                     </ul>
-                                </section>
+                                </section> -->
                             </div>
                             <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2 Carreras_menu_principal">
                                 <section class="Carreras_menu_principal">
@@ -638,19 +636,11 @@
             <ul class="slides">
                 <li> <img src="img/AZUCAR_BANNER_310724.jpg" style="height:500px;" alt="Industria Quimica">
                     <div class="caption center-align"><br><br><br><br>
-                        <h1 class="primertitulo"><b>Chemical Broker</b><br></h1>
+                        <h1 class="primertitulo"><b>Azucar Refinada</b><br></h1>
                         <div class="container">
                             <div class="row">
                                 <div class="col s12 m12 l12 xl12">
-                                    <section><a class="active" href="#" style="color:white !important"><b
-                                                class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b
-                                                class="Tipografia--general  Subtitulos"> >&nbsp </b></a><a
-                                            class=" active" href="Products_news.php" style="margin-left:-2px"><b
-                                                class="Tipografia-general  Subtitulos ">Productos > </b> </a> <a
-                                            class=" active" href="Fosfatos.php"
-                                            style="color:red !important;margin-left:-2px"><b
-                                                class="Tipografia-general letranegro Subtitulos breadcrumb"
-                                                style="color:red;">Azúcar Refinada</b></a></section>
+                          
                                 </div>
                             </div>
                         </div>
@@ -665,13 +655,27 @@
 
         <div class="row colorazucar">
             <div class="col s12 m12 l12 xl12 sides-sugar" style="background-color:#660066;padding:-1px;height:40px;width:120%;">
+
+        
+
                 <p class="Titulos General--Cuerpo" style="color:white;text-align: right;margin:0px;font-size:27px;">
                     <b>Azúcar Refinada</b></p>
             </div>
         </div>
 
         <div class="row">
-            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:;">Azúcar refinada es un
+
+        <section><a class="active" href="#" style="color:black !important"><b
+                                                class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b
+                                                class="Tipografia--general  Subtitulos"> >&nbsp </b></a><a
+                                            class=" active" href="Products_news.php" style="margin-left:-2px"><b
+                                                class="Tipografia-general  Subtitulos " style="color:black;">Productos > </b> </a> <a
+                                            class=" active" href="Fosfatos.php"
+                                            style="color:red !important;margin-left:-2px"><b
+                                                class="Tipografia-general letranegro Subtitulos breadcrumb"
+                                                style="color:red;">Azúcar Refinada</b></a></section>
+
+            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:;">La Azúcar Refinada es un
                 tipo de azúcar que ha sido procesada para eliminar las impurezas y el color. Se obtiene a partir de la
                 caña de azúcar o la remolacha azucarera. </p>
 
@@ -683,7 +687,7 @@
             <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b
                     style="color:#660066;"><b>Aplicaciones</b></b></h5>
 
-            <p class="Tipografia--general letranegro General--Cuerpo">La azúcar refinada tiene una amplia gama de
+            <p class="Tipografia--general letranegro General--Cuerpo">La Azúcar Refinada tiene una amplia gama de
                 aplicaciones en la cocina y la industria alimentaria. Aquí hay algunas de sus principales aplicaciones:
             </p>
 
@@ -700,7 +704,7 @@
                     <li class="Elementos--Listas"><b style="color:#660066">Conservación:</b> Utilizado en la preparación
                         de mermeladas, jaleas y conservas, ya que ayuda a inhibir el crecimiento bacteriano.</li>
                     <br>
-                    <li class="Elementos--Listas"><b style="color:#660066">Caramelización:</b> La azúcar refinada se usa
+                    <li class="Elementos--Listas"><b style="color:#660066">Caramelización:</b> La Azúcar Refinada se usa
                         para hacer caramelo, aportando sabor y color a los postres.</li>
                     <br>
                     <li class="Elementos--Listas"><b style="color:#660066">Fermentación:</b> Es fundamental en la
@@ -906,14 +910,14 @@
 
         </div>
 
-        <a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
-
-<i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
-
-</a>
+     
 
 
     </div>
+
+    <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
 
     <footer class="altofooter">
         <div class="divfooter" style="text-align:center;"><img class="imglogoCE"

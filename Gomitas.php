@@ -179,7 +179,7 @@
                   </section>
                 </div>
                 <div class="col s12 m12 l12 xl8">
-                  <section>
+                  <!-- <section>
                     <ul> 
                       <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                         <hr class="hr">
@@ -194,7 +194,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
                 </div>
                 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                   <section>
@@ -396,7 +396,7 @@
         <ul class="slides slides-pruea">
           <li> <img src="img/CB_GUMMY_200521.jpg" alt="" style="height:650px">
             <div class="caption center-align"><br><br><br><br>
-              <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">Gomitas</b>
+              <h3 class="primertitulo"><b class="boldbanner">Gomitas</b><br></h3>
             </div>
           </li>
         </ul>
@@ -405,23 +405,222 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Confiteria.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Confiteria</b><b> > &nbsp</b></a><a class="breditem active" href="Gomitas.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Gomitas.php" style="color:#262137 !important;margin-left:-2px"><b>Gomitas</b></a> </section></section>
+        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Confiteria.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Confiteria</b><b> > &nbsp</b></a><a class="breditem active" href="Gomitas.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Gomitas.php" style="color:red !important;margin-left:-2px"><b>Gomitas</b></a> </section></section>
         </div>
       </div>
     </div>
    
 
 
+    <div class="container">
+      <div class="row">
+        <div class="col s12 m12 l12 xl12">
+          <p class="Tipografia--general letranegro General--Cuerpo">La industria de las gomitas es un segmento importante y dinámico dentro del mercado de confitería. Las gomitas, conocidas también como dulces de gelatina o gummies, son productos elaborados principalmente a partir de gelatina, azúcar, jarabe de glucosa y colorantes, y suelen tener una textura masticable y formas variadas. Aquí hay un panorama de la industria:</p>
+
+          <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Historia y evolución</b></h2>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Las gomitas tienen su origen en Alemania, donde Hans Riegel, fundador de Haribo, creó los primeros "ositos de goma" en la década de 1920.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Desde entonces, se han diversificado enormemente, adoptando formas, sabores, texturas y colores variados.</li>
+          </ol>
+
+          <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Segmentación del mercado</b></h2>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Por tipo de producto
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Clásicas: Ositos, gusanos, frutas, etc.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Vitaminas y suplementos: Gomitas enriquecidas con nutrientes como vitamina C, colágeno, omega-3, entre otros.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Veganas: Elaboradas sin gelatina animal, usando alternativas como agar-agar o pectina.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Funcionales: Con ingredientes añadidos para promover la salud, como melatonina para dormir o probióticos para la digestión.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Por consumidores
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Niños: Tradicionalmente el público principal, atraído por colores y formas llamativas.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Adultos: A través de gomitas funcionales, vitaminas y opciones más sofisticadas.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;"> Factores clave de crecimiento
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Innovación en sabores y formatos: Desde combinaciones exóticas hasta texturas mixtas (gomitas con relleno líquido o crujiente).</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Mayor conciencia sobre la salud: La demanda de productos bajos en azúcar, veganos y con beneficios funcionales está en aumento.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Mercado de suplementos: Las gomitas vitamínicas están revolucionando la forma en que las personas consumen nutrientes.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Exportación y globalización: Empresas de países como Alemania, Estados Unidos y Japón dominan los mercados globales.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Tendencias actuales
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Enfoque en la sostenibilidad: Uso de ingredientes naturales y empaques reciclables</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Personalización: Gomitas hechas a medida para eventos o preferencias específicas.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Tecnología en producción: Métodos más eficientes para mantener frescura y mejorar la calidad.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <h2 class="Tipografia--general letranegro Titulos"><b>Ingredientes Quimicos Utilizados</b></h2>
+
+          <p class="letranegro General--Cuerpo Tipografia--general">La industria de las gomitas utiliza una amplia variedad de ingredientes químicos y compuestos, tanto naturales como sintéticos, que desempeñan funciones específicas en la formulación del producto. Estos ingredientes son clave para lograr la textura, sabor, color y estabilidad deseados. A continuación, se describen los principales ingredientes químicos utilizados:</p>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Agentes de textura
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Gelificantes
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Gelatina: Proteína derivada del colágeno animal, es el gelificante más común en las gomitas tradicionales, responsable de su textura masticable.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Pectina: Fibra vegetal derivada de frutas cítricas o manzanas, utilizada en gomitas veganas o con menor firmeza.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Agar-agar: Gelificante extraído de algas marinas, también común en productos veganos.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Carragenina: Otro compuesto derivado de algas, usado para modificar la textura y mejorar la elasticidad.</li>
+                  </ol>
+                </li>
+              </ol>
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Almidones modificados
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Utilizados para mejorar la consistencia y reducir costos, estos son almidones tratados químicamente para ajustar sus propiedades.</li>
+                  </ol>
+                </li>
+              </ol>
+            </li>
+          </ol>
+
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Edulcorantes
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Naturales
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Sacarosa (azúcar de mesa): Proporciona dulzura y volumen.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Jarabe de glucosa: Derivado del almidón, evita la cristalización y contribuye a la textura suave.</li>
+                  </ol>
+                </li>
+              </ol>
+            </li>
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;">Artificiales y reducidos en calorías
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Sorbitol: Alcohol de azúcar que actúa como edulcorante y humectante, común en gomitas sin azúcar.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Maltitol, xilitol y eritritol: Alternativas de bajo índice glucémico.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Aspartamo o sucralosa: Usados en menor proporción como edulcorantes intensos.</li>
+                </ol>
+              </li>
+            </ol>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Ácidos y reguladores de pH
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Ácido cítrico: Derivado de frutas cítricas, aporta acidez y potencia los sabores frutales.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Ácido málico: Mejora los sabores agrios, como en gomitas de manzana o frutas tropicales.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Ácido tartárico: Común en gomitas con sabor a uva o vinos.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Citrato de sodio: Actúa como regulador de pH y mejora la estabilidad del producto</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px"">Saborizantes
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px"">Naturales
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px"">Aceites esenciales y extractos de frutas (limón, naranja, fresa, etc.) para lograr sabores auténticos.</li>
+                  </ol>
+                </li>
+              </ol>
+            </li>
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px""> Artificiales
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px"">Ésteres y compuestos sintéticos que reproducen sabores específicos, más económicos y duraderos.</li>
+                </ol>
+              </li>
+            </ol>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px"">Colorantes
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px"">Naturales
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px"">Antocianinas: Derivadas de frutas y vegetales como uvas o arándanos.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px"">Curcumina: Extraída de la cúrcuma, da un color amarillo.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px"">Betalaínas: Provenientes de la remolacha, aportan tonos rojos y púrpuras.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px"">Clorofilina: Usada para tonos verdes.</li>
+                  </ol>
+                </li>
+              </ol>
+            </li>
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px"">Artificiales
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px"">Tartrazina (E102): Amarillo.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px"">Azorrubina (E122): Rojo</li>
+                  <li class="Elementos--Listas" style="margin-top:30px"">Azul brillante (E133): Azul.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px"">Los colorantes artificiales son más estables, aunque enfrentan críticas por posibles efectos en la salud.</li>
+                </ol>
+              </li>
+            </ol>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px"">Agentes de brillo y recubrimiento
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px"">Cera de carnauba: Proporciona brillo y evita que las gomitas se peguen.</li>
+                <li class="Elementos--Listas" style="margin-top:30px"">Aceite mineral: Utilizado en menor medida con fines similares.</li>
+                <li class="Elementos--Listas" style="margin-top:30px"">Polietilenglicol (PEG): Mejora el recubrimiento y la textura exterior.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px"">Conservantes
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px"">Sorbato de potasio y benzoato de sodio: Inhiben el crecimiento de moho y bacterias.</li>
+                <li class="Elementos--Listas" style="margin-top:30px"">Ácido ascórbico (vitamina C): A veces usado como antioxidante natural.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px"">Emulsionantes y estabilizantes
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px"">Lecitina: Asegura una distribución uniforme de los sabores y colores.</li>
+                <li class="Elementos--Listas" style="margin-top:30px"">Glicerina: Actúa como humectante, previniendo la resequedad.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px"">Otros ingredientes funcionales
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px"">Melatonina, colágeno, vitaminas y minerales: Añadidos en gomitas funcionales y suplementos.</li>
+                <li class="Elementos--Listas" style="margin-top:30px"">Proporciones de THC o CBD: Usados en gomitas destinadas a mercados medicinales o recreativos.</li>
+              </ol>
+            </li>
+          </ol>
+
+        </div>
+      </div>
+    </div>
 
 
 
 
 </body>
-  <footer style="margin-top:70px">
-    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""></div><br><br>
+<footer style="margin-top:70px">
+    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg" alt=""/></div><br/><br/>
     <div class="container-fluid" style="text-align:center;margin-top:-50px">
-      <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad  </a>
-            <script type="text/javascript" src="js/main.js"></script></a></strong></p>
+      <p style="color:black;text-align:center;font-size:16px"><strong>© 2014 C&E | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download="download" style="color:black !important;font-size:16px">Politica de Privacidad  </a>
+            <script type="text/javascript" src="js/main.js">   </script></a></strong></p>
     </div>
   </footer>
 </html>

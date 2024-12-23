@@ -178,7 +178,7 @@
                   </section>
                 </div>
                 <div class="col s12 m12 l12 xl8">
-                  <section>
+                  <!-- <section>
                     <ul> 
                       <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                         <hr class="hr">
@@ -193,7 +193,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
                 </div>
                 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                   <section>
@@ -398,32 +398,121 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Lacteos.php" style="color:#262137 !important;margin-left:-2px"><b>Lacteos  ></b></a> <a href="Quesos.php" class="breitem active" style="color:#262137 !important"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Quesos</b></a> </section></section>
+        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Lacteos.php" style="color:#262137 !important;margin-left:-2px"><b>Lacteos  ></b></a> <a href="Quesos.php" class="breitem active" style="color:red !important"><b style="color:red;" class="Tipografia--general  Subtitulos breadcrumb">Quesos</b></a> </section></section>
         </div>
       </div>
     </div>
    
 
-<div class="container">
-  <div class="row">
+    <div class="container">
+    <div class="row">
     <div class="col s12 m12 l12 xl12">
-    <p style="color: orange;">En esta industria se realizan pruebas de calidad rigurosas en todos los sentidos, con el objetivo de que el consumidor pueda disfrutar de un producto totalmente fresco y no sea mantenido durante un tiempo considerable en un refrigerador. </p>
+<!-- 
+    <h2 class="Elementos--Listas letranegro General--Cuerpo"></h2>
+       -->
+
+
+       <p class="Elementos--listas letranegro General--Cuerpo">La industria de los quesos es una parte fundamental del sector agroalimentario, destacandose como una de las principales áreas de produccion y consumo de productos lácteos a nivel mundial.</p>
+
+       <h2 class="Elementos--listas letranegro General--Cuerpo"><b style="color:#000020;">Clasificación de los quesos</b></h2>
+
+       <p class="Elementos--listas letranegro General--Cuerpo">Los quesos se clasifican segun diferentes criterios:</p>
+
+       <ol>
+        <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;">Por su maduración: frescos (sin maduración), semi-maduros y maduros.</li>
+        <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:30px;">Por su textura: Blandos, Semiduros, Duros.</li>
+        <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:30px;">Por su método de producción: Procesados, de pasta hilada, con mohos, entre otros.</li>
+        <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:30px;">Por el tipo de leche: Oveja, cabra, búfalo o mezclas</li>
+       </ol>
+
+       <h2 class="Elementos--listas letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Proceso de elaboración</b></h2>
+
+       <p class="Elementos--listas letranegro General--Cuerpo">El queso se produce a partir de la coagulación de la leche, ya sea por acidificación o mediante la adición de cuajo. Los procesos son:</p>
+
+       <ol>
+        <li class="Elementos--listas" style="list-style-type: disc;">Pasteurización: Para eliminar microorganismos no deseados</li>
+        <li class="Elementos--listas" style="list-style-type: disc;margin-top:50px;">Coagulación y corte: Para separar el suero de la cuajada</li>
+        <li class="Elementos--listas" style="list-style-type: disc;margin-top:50px;">Prensado y salado: Para moldear y dar sabor</li>
+        <li class="Elementos--listas" style="list-style-type: disc;margin-top:50px;">Maduración: Esencial para desarrollar textura y sabor en ciertos tipos de quesos</li>
+       </ol>
+
+       <h2 class="Elementos--listas letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Ingredientes Quimicos utilizados</b></h2>
+
+       <ol>
+        <li class="Elementos--listas" style="list-style-type:disc;margin-top:30px;">Sales y estabilizantes
+          <li class="Elementos--listas" style="list-style-type:disc;margin-top:30px;">Cloruro de calcio (CaCI<sub>2</sub>: Mejora la coagulación en leche pasteurizada al reequilibrar los niveles de calcio</li>
+          <li class="Elementos--listas" style="list-style-type:disc;margin-top:30px;">Sales Emulsifonantes: Como fosfatos y citraticos, se usan en quesos procesados para mejorar la textura y evitar la separacion de grasa</li>
+          <li class="Elementos--listas" style="list-style-type:disc;margin-top:30px;">Sulfato de magnesio y potasio: A veces empleados en pequeñas cantidades para ajustar propiedades funcionales</li>
+        </li>
+       </ol>
+
+       <ol>
+        <li class="Elementos--Listas" style="margin-top:50px;list-style-type:disc;"> Conservadores
+          <li class="Elementos--Listas" style="list-style-type:disc;margin-top:30px;">Nitratos (nitrato de potasio o sodio): Previnen el crecimiento de bacterias no deseadas, como clostridium tyrobutyricum, que puede causar hinchazon en el queso.</li>
+          <li class="Elementos--Listas" style="list-style-type:disc;margin-top:30px;">Lisozima: Una enzima antimicrobiana, comumente usada en quesos con leche cruda</li>
+          <li class="Elementos--Listas" style="list-style-type:disc;margin-top:30px;">Sorbatos (de potasio o sodio): Inhiben mohos y levaduras en la superficie de ciertos quesos</li>
+        </li>
+       </ol>
+
+       <ol>
+        <li class="Elementos--Listas" style="margin-top:50px;"> Colorantes y aditivos sensoriales
+          <ol>
+            <li class="Elementos--Listas" style="list-style-type:disc;margin-top:30px;">Annato: Colorante natural que proporciona el caracteritico tono amarillo-naranja en quesos como el cheddar</li>
+            <li class="Elementos--Listas" style="list-style-type:disc;margin-top:30px;">Beta-caroteno: Otra opcion para añadir color de forma natural</li>
+            <li class="Elementos--Listas" style="list-style-type:disc;margin-top:30px;">Aromas: En quesos procesados, se puede añadir extractos o compuestos aromáticos para realzar el sabor</li>
+          </ol>
+        </li>
+       </ol>
+
+       <ol>
+        <li class="Elementos--Listas" style="margin-top:50px;">Reguladores de pH
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Ácido láctico: Presentes naturalmente o añadido para controlar el pH</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Acido cítrico y ácido acético: Se emplean en quesos frescos o procesados para ajustar el pH rápidamente</li>
+          </ol>
+        </li>
+       </ol>
+
+       <ol>
+        <li style="margin-top:50px;" class="Elementos--Listas"> Agentes texturizantes
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px">Carragenina y goma guar: Usados en quesos procesados para mejorar la textura y estabilidad</li>
+            <li class="Elementos--Listas" style="margin-top:30px">Fosfato de sodio: Mejora la uniformidad de los quesos procesados</li>
+          </ol>
+        </li>
+       </ol>
+
+
+       <ol>
+        <li style="margin-top:50px;" class="Elementos--Listas"> Conservación y recubrimientos
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Cera para quesos: Utilizada como barrera protectora durante la maduración</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Plasticos y recubrimientos antimicrobianos: Algunos recubrimientos incluyen sorbatos o natamicina para prevenir el crecimiento de mohos y levaduras</li>
+          </ol>
+        </li>
+       </ol>
+
     </div>
-    <div class="col s12 m12 l12 xl12">
-      <h5><b style="color: #262137;">Productos</b></h5>
     </div>
-  </div>
-</div>
+    </div>
 
 
 
 
 </body>
-  <footer style="margin-top:70px">
-    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""></div><br><br>
+<footer style="margin-top:70px">
+    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
+            alt=""></div><br><br>
     <div class="container-fluid" style="text-align:center;margin-top:-50px">
-      <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad  </a>
-            <script type="text/javascript" src="js/main.js"></script></a></strong></p>
+        <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos
+            Reservados.
+            | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
+                href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download
+                style="color:black !important;font-size:16px">Politica de
+                Privacidad </a>
+            <script type="text/javascript" src="js/main.js"></script></a></strong>
+        </p>
+        <script type="text/javascript" src="js/Products.js"></script>
     </div>
-  </footer>
+</footer>
 </html>

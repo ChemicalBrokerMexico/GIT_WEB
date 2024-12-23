@@ -332,7 +332,7 @@
                                 </section>
                             </div>
                             <div class="col s12 m12 l12 xl8">
-                                <section>
+                                <!-- <section>
                                     <ul>
                                         <p class="color--blanco"><b class="Tipografia--general Titulos"
                                                 style="margin-top:0px">Empleados </b>
@@ -356,7 +356,7 @@
                                                     id="aparece"></i></a></li>
                                         <p></p>
                                     </ul>
-                                </section>
+                                </section> -->
                             </div>
                             <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2 Carreras_menu_principal">
                                 <section class="Carreras_menu_principal">
@@ -638,19 +638,11 @@
             <ul class="slides">
                 <li> <img src="img/CB_JARABE_021024.jpg" style="height:400px;" alt="Industria Quimica">
                     <div class="caption center-align"><br><br><br><br>
-                        <h1 class="primertitulo"><b>Chemical Broker</b><br></h1>
+                        <h1 class="primertitulo"><b>C-Pharm Sorbidex Sorbitol</b><br></h1>
                         <div class="container">
                             <div class="row">
                                 <div class="col s12 m12 l12 xl12">
-                                    <section><a class="active" href="#" style="color:white !important"><b
-                                                class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b
-                                                class="Tipografia--general  Subtitulos"> >&nbsp </b></a><a
-                                            class=" active" href="Products_news.php" style="margin-left:-2px"><b
-                                                class="Tipografia-general  Subtitulos ">Productos > </b> </a> <a
-                                            class=" active" href="C-PHARM_SORBIDEX_SORBITOL.php.php"
-                                            style="color:red !important;margin-left:-2px"><b
-                                                class="Tipografia-general letranegro Subtitulos breadcrumb"
-                                                style="color:red;">C-Pharm Sorbidex Sorbitol</b></a></section>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -667,6 +659,15 @@
 <div class="container" style="margin-top:130px;">
 <div class="row">
 <div class="col s12 m12 l12 xl12" style="margin-top:6px;">
+<section><a class="active" href="#" style="color:black !important"><b
+                                                class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b
+                                                class="Tipografia--general  Subtitulos"> >&nbsp </b></a><a
+                                            class=" active" href="Products_news.php" style="margin-left:-2px"><b
+                                                class="Tipografia-general  Subtitulos " style="color:black;">Productos > </b> </a> <a
+                                            class=" active" href="C-PHARM_SORBIDEX_SORBITOL.php.php"
+                                            style="color:red !important;margin-left:-2px"><b
+                                                class="Tipografia-general letranegro Subtitulos breadcrumb"
+                                                style="color:red;">C-Pharm Sorbidex Sorbitol</b></a></section>
 <h5><b class="Tipografia--general letranegro Titulos" style="border-bottom: 3px solid #00e2f8;color:#262137;">C-PHARM™ SORBIDEX SORBITOL</b></h5>
 <p class="Tipografia--general letranegro General--Cuerpo">El sorbitol se produce mediante la hidrogenación catalítica de D-glucosa y está disponible como un polvo cristalino de flujo libre y como soluciones acuosas.</p>
 <p class="Tipografia--general letranegro General--Cuerpo">Nuestro sorbitol cristalino es un excipiente único para la compresión directa de comprimidos. El sorbitol tiene excelentes propiedades de flujo, lo que garantiza una mezcla uniforme y un peso de tableta constante. Se han desarrollado grados especiales de polvo de sorbitol con respecto a la distribución del tamaño de partículas, las propiedades de flujo y la minimización de la fuerza de compresión necesaria para aplicaciones de compresión directa.</p>
@@ -1111,12 +1112,10 @@ Germany
 
 
 </body>
-<footer style="margin-top:70px">
-<div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""></div><br><br>
-<div class="container-fluid" style="text-align:center;margin-top:-50px">
-<p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad  </a>
-<script type="text/javascript" src="js/main.js"></script></a></strong></p>
-<script type="text/javascript" src="js/Products.js"></script>
+<footer class="altofooter">
+<div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg" alt="ESCUDO DE C&E"></div><br><br>
+<div class="container-fluid center-align" style="margin-top:-50px">
+<p class="Tipografia--general letranegro center-align Pie--Pagina">© 2014 C&E | Chemical Broker Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto |&nbsp</a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad </a></p>
 </div>
 </footer>
 </html>

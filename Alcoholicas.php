@@ -179,7 +179,7 @@
                   </section>
                 </div>
                 <div class="col s12 m12 l12 xl8">
-                  <section>
+                  <!-- <section>
                     <ul> 
                       <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                         <hr class="hr">
@@ -194,7 +194,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
                 </div>
                 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                   <section>
@@ -405,23 +405,302 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Carbonatadas.php" style="color:#262137 !important;margin-left:-2px"><b>Bebidas  ></b></a> <a class="breditem active" href="Alcoholicas.php" style="color:#262137 !important;margin-left:-2px"><b>Alcoholicas  </b></a> </section></section>
+        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Carbonatadas.php" style="color:#262137 !important;margin-left:-2px"><b>Bebidas  ></b></a> <a class="breditem active" href="Alcoholicas.php" style="color:red !important;margin-left:-2px"><b>Alcoholicas  </b></a> </section></section>
         </div>
       </div>
     </div>
    
 
+    <div class="container">
+      <div class="row">
+        <div class="col s12 m12 l12 xl12">
+          <p class="General--Cuerpo Tipografia--general letranegro">La industria de las bebidas alcohólicas es un sector dinámico y globalizado que abarca la producción, distribución y venta de diversas categorías de bebidas que contienen alcohol. Es una de las industrias más antiguas del mundo, con raíces en prácticas culturales y religiosas milenarias. A continuación, se detallan sus principales aspectos:</p>
+
+          <h2 class="Tipografia--general letranegro Titulos"><b>Principales Categorías de Bebidas Alcohólicas</b></h2>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Cerveza:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Es la bebida alcohólica más consumida globalmente.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Producida a partir de la fermentación de granos (principalmente cebada) con agua, lúpulo y levadura.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Grandes empresas (como AB InBev y Heineken) dominan el mercado, pero las cervezas artesanales han ganado popularidad.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Vino:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Elaborado a partir de la fermentación de uvas.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Se clasifica en tinto, blanco, rosado, espumoso y fortificado.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Francia, Italia y España lideran la producción mundial, mientras que países como Argentina, Chile y Australia se destacan en la exportación.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Espirituosos (destilados):
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Incluyen whisky, vodka, ron, tequila, ginebra y brandy, entre otros.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Son bebidas con mayor contenido de alcohol, obtenidas mediante destilación.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Marcas premium y super premium han crecido, impulsadas por consumidores que buscan experiencias exclusivas.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;"> Bebidas listas para beber (RTD):
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Incluyen cocteles preparados y hard seltzers.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Han experimentado un rápido crecimiento, especialmente entre consumidores jóvenes.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <h2 class="Tipografia--general letranegro Titulos"><b>Tendencias Actuales</b></h2>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Innovación en productos:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Desarrollo de opciones bajas o sin alcohol (cervezas y vinos sin alcohol, mocktails).</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Uso de ingredientes naturales y sabores innovadores.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;"> Sostenibilidad:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Implementación de prácticas ecológicas en la producción y el empaque.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Reducción del uso de agua y emisiones de carbono en bodegas y cervecerías.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;"> Consumo consciente:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Aumento en la demanda de bebidas con menor contenido de alcohol o libres de él.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Campañas que promueven un consumo responsable.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;"> Mercados emergentes:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Asia-Pacífico y América Latina están experimentando un crecimiento acelerado.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Mayor adopción de bebidas premium debido al aumento del poder adquisitivo.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;"> Digitalización:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Crecimiento de las ventas en línea y marketing digital.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Apps y servicios de entrega han facilitado el acceso a bebidas alcohólicas.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <h2 class="Tipografia--general Titulos letranegro" style="margin-top:50px;"><b>Ingredientes Quimicos</b></h2>
+
+          <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:0px;">En la industria de las bebidas alcohólicas, los ingredientes químicos y aditivos utilizados tienen propósitos específicos, como mejorar el sabor, la estabilidad, la apariencia o la conservación del producto. Aunque muchas de estas bebidas se producen con ingredientes naturales, los químicos se emplean para optimizar la calidad y la seguridad. A continuación, se describen los principales tipos de ingredientes químicos empleados:</p>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:50px;">Ingredientes básicos para la fermentacion
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Levaduras (Saccharomyces cerevisiae):
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Microorganismos responsables de convertir los azúcares en alcohol y dióxido de carbono.</li>
+                  </ol>
+                </li>
+              </ol>
+            </li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Nutrientes para levaduras:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Sulfato de amonio y fosfato de diamonio: Se añaden para estimular la actividad de las levaduras y garantizar una fermentación adecuada.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Conservantes
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Dióxido de azufre (SO<sub>2</sub>) y sulfitos:
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Evitan la oxidación y el crecimiento de microorganismos no deseados, especialmente en vinos y sidras.</li>
+                </ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Benzoato de sodio y sorbato de potasio:
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Conservantes utilizados en bebidas listas para beber (RTD) y vinos dulces para prevenir la fermentación secundaria.</li>
+                  </ol>
+                </li>
+                </li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Reguladores de acidez
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Ácido tartárico:
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Utilizado en el vino para ajustar la acidez natural y estabilizar el sabor.</li>
+                  </ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Ácido cítrico:</li>
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Usado en cocteles enlatados, cervezas y vinos para equilibrar el pH y mejorar el perfil de sabor.</li>
+                  </ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Ácido láctico:
+                    <ol>
+                      <li class="Elementos--Listas" style="margin-top:30px;">Generado naturalmente en algunos procesos como la fermentación maloláctica en el vino; también se añade en algunas cervezas para lograr un perfil ácido.</li>
+                    </ol>
+                  </li>
+                </li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Estabilizantes y clarificantes
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Bentonita (arcilla)
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Ayuda a eliminar proteínas en suspensión que podrían causar turbidez en vinos y cervezas.</li>
+                  </ol>
+                </li>
+              </ol>
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Gelatina y caseína:
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Se emplean para clarificar bebidas, especialmente vinos.</li>
+                  </ol>
+                </li>
+              </ol>
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Polivinilpolipirrolidona (PVPP):
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Utilizada para eliminar polifenoles que causan turbidez o sabores no deseados en cervezas y vinos.</li>
+                  </ol>
+                </li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;"> Mejora de color y apariencia
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Caramelo (E150):
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Un colorante comúnmente utilizado en bebidas como whisky, ron y algunas cervezas oscuras.</li>
+                  </ol>
+                </li>
+              </ol>
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Dióxido de carbono (CO₂):
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Para carbonatar cervezas, sidras y otras bebidas espumosas.</li>
+                  </ol>
+                </li>
+              </ol>
+                </ol>
+
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Edulcorantes
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Azúcares fermentables:
+                      <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Glucosa, fructosa y sacarosa para aumentar el contenido de alcohol o ajustar el dulzor.</li>
+                      </ol>
+                    </li>
+                  </ol>
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;"> Edulcorantes artificiales:
+                      <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Como aspartame o sucralosa en bebidas bajas en calorías o RTD.</li>
+                      </ol>
+                    </li>
+                  </ol>
+                </li>
+              </ol>
+
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Aromatizantes y compuestos volátiles
+                      <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Ésteres y aldehídos:
+                          <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Generados naturalmente durante la fermentación y responsables de muchos aromas y sabores característicos.</li>
+                          </ol>
+                        </li>
+                      </ol>
+                      <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;"> Aromas artificiales:
+                          <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Utilizados en bebidas saborizadas, como cocteles enlatados o licores.</li>
+                          </ol>
+                        </li>
+                      </ol>
+                    </li>
+                  </ol>
+
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Enzimas
+                      <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Amilasas:
+                          <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Rompen los almidones en azúcares fermentables, especialmente en la producción de cervezas y whiskys.</li>
+                          </ol>
+                        </li>
+                      </ol>
+                      <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Proteasas:
+                          <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Reducen las proteínas que causan turbidez en cervezas durante el almacenamiento.</li>
+                          </ol>  
+                        </li>
+                      </ol>
+                    </li>
+                  </ol>
+
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Otros ingredientes químicos específicos
+                          <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Glicerol:
+                              <ol>
+                                <li class="Elementos--Listas" style="margin-top:30px;">Añade cuerpo y dulzor a algunas bebidas.</li>
+                              </ol>
+                            </li>
+                          </ol>
+                    </li>
+                    <ol>
+                      <li class="Elementos--Listas" style="margin-top:30px;">Tiamina (vitamina B1):
+                        <ol>
+                          <li class="Elementos--Listas" style="margin-top:30px;">A veces añadida para prevenir la formación de sulfuros no deseados en vinos.</li>
+                        </ol>
+                      </li>
+                    </ol>
+                  </ol>
+
+              
+         
+         
+
+        </div>
+      </div>
+    </div>
 
 
 
 
 
 </body>
-  <footer style="margin-top:70px">
-    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""></div><br><br>
+<footer style="margin-top:70px">
+    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg" alt=""/></div><br/><br/>
     <div class="container-fluid" style="text-align:center;margin-top:-50px">
-      <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad  </a>
-      <script type="text/javascript" src="js/main.js"></script></a></strong></p>
+      <p style="color:black;text-align:center;font-size:16px"><strong>© 2014 C&E | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download="download" style="color:black !important;font-size:16px">Politica de Privacidad  </a>
+            <script type="text/javascript" src="js/main.js">   </script></a></strong></p>
     </div>
   </footer>
 </html>

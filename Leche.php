@@ -178,7 +178,7 @@
                   </section>
                 </div>
                 <div class="col s12 m12 l12 xl8">
-                  <section>
+                  <!-- <section>
                     <ul> 
                       <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                         <hr class="hr">
@@ -193,7 +193,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
                 </div>
                 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                   <section>
@@ -390,33 +390,49 @@
         </div>
       </div>
     </ul>
+
+
     <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li> <img src="img/CB_MILK_190521.jpg" alt="" style="height:650px">
+          <li><img src="img/CB_MILK_190521.jpg" style="height:400px;filter:brightness(0.9);" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">Leche</b>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Leche</b>
+              <div class="container">
+      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:white;">Mercados ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:white;">Alimentos ></b></a> <a class="active" href="Lacteos.php"><b class="Tipografia--general Subtitulos" style="color:white;">Lacteos ></b> <a class="active" href="Leche.php"><b class="Tipografia--general Subtitulos" style="color:red;">Leche</b></a></a></section>
+    </div>
             </div>
           </li>
         </ul>
       </div>
     </div>
-    <div class="container">
-      <div class="row">
-        <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Lacteos.php" style="color:#262137 !important;margin-left:-2px"><b>Lacteos  ></b></a> <a href="Leche.php" class="breitem active" style="color:#262137 !important"><b>Leche</b></a> </section></section>
-        </div>
-      </div>
-    </div>
-   
 
-<div class="container">
+ 
+
+<div class="container" style="margin-top:130px">
   <div class="row">
-    <div class="col s12 m12 l12-xl12">
-      <p style="color: orange;">El consumo de este producto está incrementando de manera sostenida en los últimos años en el mercado mexicano, debido a las condiciones de salud que otorga al consumidor.</p>
-    </div>
     <div class="col s12 m12 l12 xl12">
-      <h5><b style="color: #262137;">Produtos</b></h5>
+      <p class="Tipografia--general letranegro General--Cuerpo">La industria de la leche es un sector clave dentro de la industria alimentaria, dado su papel como fuente de nutricion basica y sus multiples derivados</p>
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La industria de la leche abarca la producción, procesamiento, distribucion y comercializacion de leche y productos lácteos. Es una de las industrias agroalimentarias mas importantes en términos de empleo y valor económico y volumen de consumo</p>
+      <ol>
+        <li class="Elementos--Listas">Productos principales: Leche liquida (entera, semidescremada, descremada), leche en polvo, quesos, yogures, mantequilla, crema y productos ultrafiltrados como la leche UHT</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Principales mercados: India, Estados Unidos, La union Europea, Nueva zelanda lideran tanto en produccion como en consumo.</li>
+      </ol>
+      <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Innovacion y tendencias</b></h5>
+      <ol>
+        <li class="Elementos--Listas">Leche vegetal como competencia: Las alternativas a la leche, como las de almendra, soya, avena y coco, han generado popularidad, impulsadas por preocupaciones ambientables, eticas y de salud</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Fortificación y funcionalidad: Muchas marcas enriquecen sus productos con calcio, vitamina D, omega-3 y probióticos para atraer a consumidores conscientes de la salud</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Tecnología en procesamiento: Métodos como microfiltracion y ultrafiltración permiten mejorar la calidad y vida útil de la leche sin afectar su sabor o nutrientes</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Envases sostenibles: El uso de envases reciclables y biodegradables está en auge debido a la creciente preocupacion ambiental</li>
+      </ol>
+      <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Regulaciones</b></h5>
+      <p class="Tipografia--general letranegro General--Cuerpo">La industria está estrictamente regulada para garatizar la seguridad y la calidad del producto. Estas normas incluyen:</p>
+      <ol>
+        <li class="Elementos--Listas">Normas de pasteurización: Para eliminar microorganismos patógenos</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Etiquetado: Información clara sobre contenido nutricional, alergenos y origen</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Normas de bienestar animal: Reglamentaciones sobre como se debe tratar al ganado para cumplir con los estandares eticos</li>
+      </ol>
+
     </div>
   </div>
 </div>
@@ -425,11 +441,11 @@
 
 
 </body>
-  <footer style="margin-top:70px">
-    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""></div><br><br>
+<footer style="margin-top:70px">
+    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg" alt=""/></div><br/><br/>
     <div class="container-fluid" style="text-align:center;margin-top:-50px">
-      <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad  </a>
-            <script type="text/javascript" src="js/main.js"></script></a></strong></p>
+      <p style="color:black;text-align:center;font-size:16px"><strong>© 2014 C&E | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download="download" style="color:black !important;font-size:16px">Politica de Privacidad  </a>
+            <script type="text/javascript" src="js/main.js">   </script></a></strong></p>
     </div>
   </footer>
 </html>

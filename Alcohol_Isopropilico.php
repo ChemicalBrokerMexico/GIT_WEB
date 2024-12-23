@@ -1,21 +1,21 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Alcohol Isopropílico de Lyondell Basell</title>
-    <meta name="description"
-        content="Chemical Broker Distribuye Alcohol Isopropilico de la mas alta calidad del fabricante Lyondell Basell, Ingresa y Contactanos.">
-        <link rel="canonical" href="https://chemicalbroker.mx/Alcohol_Isopropilico.php">
-    <link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
-    <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-        integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
-    <link rel="stylesheet" href="css/History_Line.css">
-    <link rel="stylesheet" href="css/jquery.dataTables.min.css">
-    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
+  <title>Chemical Broker | Aceite de Coco del Fabricante Vantage</title>
+  <meta name="description" content="Descubre los beneficios del aceite de coco puro y natural. Ideal para cocinar, Cuidar la piel y el Cabello, Compra ahora y disfruta de un producto versatil y saludable para tu bienestar diario."> 
+  <link rel="shortcut icon" href="img/CB_ICON.ico" />
+  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/History_Line.css">
+  <link rel="stylesheet" href="css/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
     <script src="https://code.jquery.com/jquery-3.5.1.js"
         integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="js/materialize.js" type="text/javascript"></script>
@@ -350,7 +350,7 @@
                                 </section>
                             </div>
                             <div class="col s12 m12 l12 xl8">
-                                <section>
+                                <!-- <section>
                                     <ul>
                                         <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                                             <hr class="hr">
@@ -368,7 +368,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
                             </div>
                             <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                                 <section>
@@ -633,20 +633,12 @@
                 <li> <img src="img/chipset.jpg" alt="" class="Collagen_Banner"
                         style="filter:brightness(0.9);margin-top:-99px;height:691px;">
                     <div class="caption center-align"><br><br><br><br>
-                        <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b
-                            class="segundotitulo" style="font-size: 26px;">Alcohol Isopropílico</b>
+                        <h1 class="primertitulo"><b class="boldbanner">Alcohol Isopropilico</b><br></h1>
 
                             <div class="container" style="margin-top:80px;">
         <div class="row" style="margin-top:-60px;">
             <div class="col s12 m12 l12 xl12">
-                <section class="" style=""><a class="breditem active" href="index.php"
-                        style="color:white !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
-                        href="Productos_news.php" style="color:white !important;margin-left:-2px"><b>Productos</b><b>
-                            >
-                            &nbsp</b><a class="breditem active" href="Alcohol_Isopropilico.php"
-                            style="color:#262137 !important;margin-left:-2px"><b
-                                class="Tipografia--general Subtitulos" style="color:red;">Alcohol
-                                Isopropílico</b></a></section>
+             
                 </section>
             </div>
         </div>
@@ -660,10 +652,20 @@
  
 
 
-    <div class="container" style="margin-top:120px;">
+    <div class="container" style="margin-top:130px;">
         <div class="row">
           
         <div class="col s12 m12 l12 xl12">
+
+        <section class="" style=""><a class="breditem active" href="index.php"
+                        style="color:black !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
+                        href="Productos_news.php" style="color:black !important;margin-left:-2px"><b>Productos</b><b>
+                            >
+                            &nbsp</b><a class="breditem active" href="Alcohol_Isopropilico.php"
+                            style="color:#262137 !important;margin-left:-2px"><b
+                                class="Tipografia--general Subtitulos" style="color:red;">Alcohol
+                                Isopropílico</b></a></section>
+
             <p class="Tipografia--general General--Cuerpo letranegra">El Alcohol Isopropilico (propan-2-ol, Isopropanol o 2-propanol), es un compuesto orgánico incoloro e inflamable con un olor a alcohol acre. Como grupo isoporpilico unido a un grupo de hidroxilo (formula química ((CH3)2CHOH), es el ejemplo mas simple de un alcohol secundario, donde el átomo de carbono del alcohol esta unido a otros dos átomos de carbono. Es un isómero estructural de propan-1-ol y etil metil eter.</p>
             <p class="Tipografia--general General--Cuerpo letranegra">Cuando este alcohol se oxida se convierte en acetona, ya que los alcoholes secundarios se convierten en cetonas; a diferencia de los alcoholes primarios que se convierten en aldehídos.</p>
             <p class="Tipografia--general General--Cuerpo letranegra">Se utiliza en la fabricación de una amplia variedad de productos químicos industriales y domésticos y es un ingrediente común en productos como antisépticos, desinfectantes y detergentes.</p>
@@ -1080,16 +1082,14 @@
         </div>
         <br>
 
-        <a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
-
-<i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
-
-</a>
-
+   
 
     </div>
 
-
+    <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
+  
 
 
 </body>

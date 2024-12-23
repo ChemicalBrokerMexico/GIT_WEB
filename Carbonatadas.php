@@ -179,7 +179,7 @@
                   </section>
                 </div>
                 <div class="col s12 m12 l12 xl8">
-                  <section>
+                  <!-- <section>
                     <ul> 
                       <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                         <hr class="hr">
@@ -194,7 +194,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
                 </div>
                 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                   <section>
@@ -405,32 +405,191 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Carbonatadas.php" style="color:#262137 !important;margin-left:-2px"><b>Bebidas  ></b></a> <a class="breditem active" href="Carbonatadas.php" style="color:#262137 !important;margin-left:-2px"><b>Carbonatadas  </b></a> </section></section>
+        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Carbonatadas.php" style="color:#262137 !important;margin-left:-2px"><b>Bebidas  ></b></a> <a class="breditem active" href="Carbonatadas.php" style="color:red !important;margin-left:-2px"><b>Carbonatadas</b></a> </section></section>
         </div>
       </div>
     </div>
    
-<div class="container">
-<div class="row">
-<div class="col s12 m12 l12 xl12">
-<p style="color: orange;">El mercado de bebidas carbonatadas en México suma 18,000 millones de dólares anuales, México tiene el mayor consumo per capita de bebidas carbonatadas cerca de 161 litros anuales. Durante el año 2015 la venta de este tipo de producto alcanzo una venta total de aproximadamente 18,000 millones de dólares, con un volumen de 19,400 millones de litros.</p>
-</div>
-<div class="col s12 m12 l12 xl12">
-<h5><b style="color: #262137;">Productos</b></h5>
-</div>
-</div>
-</div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col s12 m12 l12 xl12">
+          <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Bebidas Carbonatadas</b></h2>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">La industria de las bebidas carbonatadas es un sector global de gran relevancia en el mercado de alimentos y bebidas, caracterizado por su innovación constante, estrategias de marketing agresivas y amplia distribución. Las bebidas carbonatadas incluyen refrescos, agua con gas, bebidas energéticas y mixers (como tonicas y gaseosas para cócteles).</p>
+
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Aspectos clave de la industria de las bebidas carbonatadas</b></h2>
+
+          <ol>
+            <li style="margin-top:30px;" class="Elementos--Listas"> Principales categorías de productos
+              <ol>
+                <li style="margin-top:30px;" class="Elementos--Listas">Refrescos tradicionales: Bebidas azucaradas con sabores frutales, cola, cítricos o especiados (como el jengibre).
+                  <ol>
+                    <li style="margin-top:30px;" class="Elementos--Listas">Ejemplos: Coca-Cola, Pepsi, Sprite, Fanta.</li>
+                  </ol>
+                </li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li style="margin-top:30px;" class="Elementos--Listas">Aguas carbonatadas: Con o sin sabor. Incluyen marcas como Perrier y San Pellegrino</li>
+          </ol>
+
+          <li style="margin-top:30px;" class="Elementos--Listas">Bebidas energéticas: Combinan carbonatación con cafeína, taurina y vitaminas.
+            <ol>
+              <li style="margin-top:30px;" class="Elementos--Listas">Ejemplos: Red Bull, Monster.</li>
+            </ol>
+            <li style="margin-top:30px;" class="Elementos--Listas">Mixers: Como tónica, ginger ale y club soda, diseñados para acompañar bebidas alcohólicas.</li>
+          </li>
+
+          <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Innovaciones y tendencias</b></h2>
+
+          <ol>
+            <li class="Elementos--Listas">Reducción de azúcar: Impulsada por las preocupaciones sobre la salud y los impuestos al azúcar en varios países.
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Refrescos dietéticos y zero-calorías, endulzados con estevia o eritritol.</li>
+              </ol>
+              <li class="Elementos--Listas" style="margin-top:30px;">Sostenibilidad: Uso de envases reciclables y reducción del plástico en botellas.</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Sabores exóticos: Combinaciones novedosas para atraer a consumidores jóvenes.</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Funcionalidad: Bebidas con beneficios adicionales, como vitaminas, probióticos o electrolitos.</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Packaging innovador: Latas estilizadas, botellas reutilizables y formatos para consumo individual.</li>
+            </li>
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;">Impactos de la industria
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Generación de residuos plásticos.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Huella de carbono del transporte y la producción.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Uso intensivo de agua en el proceso de fabricación.</li>
+                </ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Impacto en la salud:
+                    <ol>
+                      <li class="Elementos--Listas" style="margin-top:30px;">Asociada con obesidad, diabetes y problemas dentales debido al alto contenido de azúcar.</li>
+                      <li class="Elementos--Listas" style="margin-top:30px;">Las versiones dietéticas generan debates sobre el impacto de los edulcorantes artificiales.</li>
+                    </ol>
+                </li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Desafíos regulatorios:
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Impuestos al azúcar en países como México, Reino Unido y Sudáfrica.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Restricciones en publicidad dirigida a niños.</li>
+                  </ol>
+                </li>
+              </li>
+            </ol>
+          </ol>
+
+          <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Ingredientes químicos comunes en las bebidas carbonatadas</b></h2>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Agua carbonatada
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Dióxido de carbono (CO₂): Se utiliza para carbonatar el agua y proporcionar las burbujas características. También actúa como conservante natural al reducir el pH.</li>
+              </ol>
+            </li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Edulcorantes artificiales
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Aspartamo (E951): Utilizado en bebidas bajas en calorías o dietéticas.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Sucralosa (E955): No calórica, resistente a altas temperatura</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Acesulfamo-K (E950): Se combina con otros edulcorantes para mejorar el sabor.</li>
+              </ol>
+            </li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Edulcorantes naturales:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Estevia (E960): Extraída de la planta Stevia rebaudiana, es popular en bebidas saludables.</li>
+              </ol>
+            </li>
+
+            <li class="Elementos--Listas" style="margin-top:30px;">
+            Acidulantes: Los acidulantes mejoran el sabor y prolongan la vida útil de las bebidas.
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;">Ácido fosfórico (E338): Común en bebidas de cola. Proporciona un sabor característico y regula el pH.</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Ácido cítrico (E330): Amplia aceptación por su sabor fresco y natural. Se encuentra en refrescos frutales</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Ácido málico (E296): Se usa para intensificar sabores ácidos en bebidas específicas.</li>
+            </ol>
+            </li>
+
+            <li class="Elementos--Listas" style="margin-top:30px;">Conservantes: Previenen el crecimiento de microorganismos y aumentan la vida útil
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Benzoato de sodio (E211): Inhibe el crecimiento de levaduras y mohos.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Sorbato de potasio (E202): Se utiliza en combinación con otros conservantes para mayor efectividad.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Ácido ascórbico (E300): Vitamina C que también actúa como antioxidante para prevenir cambios en el sabor.</li>
+                </ol>
+            </li>
+
+            <li class="Elementos--Listas" style="margin-top:30px;"> Colorantes: Aportan colores atractivos y distintivos a las bebidas.
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;"> Colorantes naturales
+                  <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Caramelo (E150): Usado en bebidas de cola.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Antocianinas (E163): Derivadas de frutas como uvas y moras.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Betacaroteno (E160a): Da tonos anaranjados.</li>
+                  </ol>
+                </li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Colorantes artificiales:
+                    <ol>
+                      <li class="Elementos--Listas" style="margin-top:30px;">Tartrazina (E102): Amarillo brillante, común en bebidas de cítricos.</li>
+                      <li class="Elementos--Listas" style="margin-top:30px;">Azul brillante FCF (E133): Usado para tonos azulados o verdes.</li>
+                      <li class="Elementos--Listas" style="margin-top:30px;">Rojo allura AC (E129): Rojo brillante.</li>
+                    </ol>
+                  </li>
+
+                  <li class="Elementos--Listas" style="margin-top:30px;">Sabores y aromatizantes: Los sabores pueden ser naturales o artificiales
+                      <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Naturales: Extractos de frutas, aceites cítricos, vainilla, especias.</li>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Artificiales: Sustancias químicas diseñadas para replicar sabores naturales, como el acetato de isoamilo para el sabor a plátano.</li>
+                      </ol>
+                  </li>
+
+                  <li class="Elementos--Listas" style="margin-top:30px;"> Espesantes y estabilizantes: Se usan para mejorar la textura y evitar la separacion de ingredientes
+                    <ol>
+                      <li class="Elementos--Listas" style="margin-top:30px;">Goma arábiga (E414): Común en bebidas de frutas.</li>
+                      <li class="Elementos--Listas" style="margin-top:30px;">Glicerol éster de resina de madera (E445): Estabiliza los aceites aromáticos en bebidas cítricas.</li>
+                      <li class="Elementos--Listas" style="margin-top:30px;">Carboximetilcelulosa (CMC, E466): Proporciona una textura suave.</li>
+                    </ol>
+                  </li>
+
+                  <li class="Elementos--Listas" style="margin-top:30px;"> Cafeina
+                    <ol>
+                      <li class="Elementos--Listas" style="margin-top:30px;">Añadida en bebidas de cola y energéticas como estimulante. Puede ser natural (extraída de granos de café o guaraná) o sintética.</li>
+                    </ol>
+                  </li>
+
+                  <li class="Elementos--Listas" style="margin-top:30px;">Antioxidantes
+                    <ol>
+                      <li class="Elementos--Listas" style="margin-top:30px;">Ácido ascórbico (E300): Previene la oxidación de ingredientes sensibles.</li>
+                      <li class="Elementos--Listas" style="margin-top:30px;">Tocoferoles (E306-E309): Actúan como antioxidantes naturales derivados de la vitamina E.</li>
+                    </ol>
+                  </li>
+
+              </ol>
+            </li>
+
+
+          </ol>
+
+        </div>
+      </div>
+    </div>
 
 
 
 
 
 </body>
-  <footer style="margin-top:70px">
-    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""></div><br><br>
+<footer style="margin-top:70px">
+    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
+            alt=""></div><br><br>
     <div class="container-fluid" style="text-align:center;margin-top:-50px">
-      <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad  </a>
-            <script type="text/javascript" src="js/main.js"></script></a></strong></p>
+        <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos
+            Reservados.
+            | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
+                href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download
+                style="color:black !important;font-size:16px">Politica de
+                Privacidad </a>
+            <script type="text/javascript" src="js/main.js"></script></a></strong>
+        </p>
+        <script type="text/javascript" src="js/Products.js"></script>
     </div>
-  </footer>
+</footer>
 </html>

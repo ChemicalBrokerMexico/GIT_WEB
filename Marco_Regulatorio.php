@@ -318,7 +318,7 @@
                                 </section>
                             </div>
                             <div class="col s12 m12 l12 xl8">
-                                <section>
+                                <!-- <section>
                                     <ul>
                                         <p class="color--blanco"><b class="Tipografia--general Titulos">Empleados </b>
                                         </p>
@@ -329,9 +329,9 @@
                                         </li>
                                         <p></p>
                                     </ul>
-                                </section>
+                                </section> -->
 
-                                <section>
+                                <!-- <section>
                                     <ul>
                                         <p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas
                                                 y sugerencias</b>
@@ -343,7 +343,7 @@
                                                     id="aparece"></i></a></li>
                                         <p></p>
                                     </ul>
-                                </section>
+                                </section> -->
                             </div>
                             <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                                 <section>
@@ -753,7 +753,7 @@
 
     <footer class="altofooter">
         <div class="divfooter" style="text-align:center;"><img class="imglogoCE"
-                src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""></div><br><br>
+                src="img/CB_IMAGOTIPO_LEON.jpg" alt=""></div><br><br>
         <div class="container-fluid center-align" style="margin-top:-50px">
             <p class="Tipografia--general letranegro center-align Pie--Pagina">© 2014 C&amp;E | Chemical Broker Todos
                 los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto

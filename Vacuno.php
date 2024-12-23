@@ -178,22 +178,7 @@
                   </section>
                 </div>
                 <div class="col s12 m12 l12 xl8">
-                  <section>
-                    <ul> 
-                      <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
-                        <hr class="hr">
-                        <li> <a class="arrowblue Tipografia--general Subtitulos" href="VISTA/Principal.php">Intranet &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-                      </p>
-                    </ul>
-                  </section>
-                  <section>
-<ul> 
-<p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas y sugerencias</b>
-</p><hr class="hr">
-<li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-<p></p>
-</ul>
-</section>
+                
                 </div>
                 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                   <section>
@@ -404,32 +389,147 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Lacteos.php" style="color:#262137 !important;margin-left:-2px"><b>Carnicos  ></b></a> <a href="Vacuno.php" class="breitem active" style="color:#262137 !important"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Vacuno</b></a> </section></section>
+        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Lacteos.php" style="color:#262137 !important;margin-left:-2px"><b>Carnicos  ></b></a> <a href="Vacuno.php" class="breitem active" style="color:#262137 !important"><b class="Tipografia--general Subtitulos breadcrumb" style="color:red;">Vacuno</b></a> </section></section>
         </div>
       </div>
     </div>
    
 
 <div class="container">
-<div class="row">
-<div class="col s12 m12 l12 xl12">
-<p style="color: orange;">En México, la carne de bovino ocupa el primer lugar en el valor de la producción de las cadenas pecuarias, por volumen de producción ocupa el cuarto sitio. En 2018 se produjeron en el país 1.98 millones de toneladas de carne en canal de bovino, con un valor de 134,453 millones de pesos. Chemical Broker contribuye en la distribución de ingredientes químicos, que permiten mantener la carne con una buena calidad.</p>
-</div>
-<div class="col s12 m12 l12 xl12">
-<h5><b style="color: #262137;">Productos</b></h5>
-</div>
-</div>
-</div>
+  <div class="row">
+    <div class="col s12 m12 l12 xl12">
+      <h2 class="Tipografia--general letranegro Titulos"><b>Ganado Vacuno</b></h2>
+      <p class="General--Cuerpo letranegro Tipografia--general">La industria del ganado vacuno es una de las más importantes en el sector agropecuario, ya que provee carne, leche y productos derivados esenciales para la alimentación humana, además de subproductos como cuero y fertilizantes. Este sector es complejo, involucra aspectos económicos, sociales, ambientales y culturales, y varía significativamente según la región y el sistema de producción.</p>
 
+      <h2 class="Elementos--Listas letranegro Titulos" style="margin-top:50px;"><b>Aspectos clave de la industria del ganado vacuno</b></h2>
+
+      <ol>
+        <li class="Elementos--Listas">Tipos de Producción: La cria de ganado vacuno se divide en varias categorías principales, segun el objetivo del sistema productivo:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px">Producción de carne: Incluye la cría, engorde y sacrificio de bovinos para obtener carne de res. Es la base de la industria cárnica.</li>
+            <li class="Elementos--Listas" style="margin-top:30px">Producción de leche: Se centra en razas lecheras que producen grandes volúmenes de leche, como Holstein, Jersey o Guernsey.</li>
+            <li class="Elementos--Listas"style="margin-top:30px">Producción mixta: Algunos sistemas combinan la producción de carne y leche, especialmente en pequeñas explotaciones.</li>
+            <li class="Elementos--Listas" style="margin-top:30px">Ganadería de trabajo: En ciertas regiones, el ganado también se utiliza para labores agrícolas.</li>
+          </ol>
+        </li>
+      </ol>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:50px;">Sistemas de manejo
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Extensivo: El ganado se cría en grandes áreas de pastoreo natural o semi-natural, común en regiones como América Latina y Australia.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Intensivo: Incluye sistemas como los feedlots, donde el ganado se alimenta en corrales con dietas controladas para maximizar el engorde en menor tiempo. Es común en EE. UU. y otros países desarrollados.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Orgánico: Se enfoca en prácticas sostenibles y sin el uso de hormonas ni antibióticos, atendiendo a la creciente demanda de productos ecológicos.</li>
+          </ol>
+        </li>
+      </ol>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:50px;"> Producción global
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Líderes en carne: Estados Unidos, Brasil, China, India y Australia.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Líderes en leche: India, Estados Unidos, China, Alemania y Rusia.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Mercados emergentes: Países como Argentina, México y Uruguay destacan por su calidad en carne, mientras que Nueva Zelanda es reconocido por su producción lechera sostenible.</li>
+          </ol>
+        </li>
+      </ol>
+
+      <h2 class="Elementos--Listas letranegro Titulos" style="margin-top:50px;"><b>Tendencias y Desafios</b></h2>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">Bienestar animal: Crece la demanda por prácticas éticas en la cría y el sacrificio de animales.</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Ganadería regenerativa: Un enfoque emergente que busca restaurar suelos y capturar carbono mediante el manejo sostenible del pastoreo.</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Alternativas a la carne tradicional: El desarrollo de carne cultivada en laboratorio y alternativas basadas en plantas representa un desafío competitivo para la industria</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Resistencia antimicrobiana: La reducción del uso de antibióticos en la cría intensiva es una prioridad global.</li>
+      </ol>
+
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Ingredientes Quimicos Utilizados</b></h2>
+
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">En la industria ganadera, los productos químicos y aditivos desempeñan un papel crucial en la nutrición, salud y productividad del ganado vacuno. Estos productos pueden estar presentes en los alimentos, suplementos, tratamientos médicos y otros insumos utilizados en el manejo de los animales.
+
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:50px;"> Aditivos para mejorar la nutrición
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Vitaminas y minerales
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Vitamina A, D y E.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Minerales como calcio, fósforo, magnesio, cobre, zinc y selenio.</li>
+              </ol>
+            </li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Premezclas: Son mezclas comerciales de vitaminas y minerales diseñadas para equilibrar las dietas.</li>
+          </ol>
+        </li>
+      </ol>
+
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:50px;">Suplementos para mejorar la digestión
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:50px;">Promotores de la fermentación ruminal:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Bicarbonato de sodio: Actúa como un amortiguador, estabilizando el pH del rumen.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Óxidos de magnesio: Previenen la acidosis ruminal.</li>
+              </ol>
+            </li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Enzimas digestivas: Ayudan a descomponer fibras o almidones difíciles de digerir.</li>
+          </ol>
+        </li>
+      </ol>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:50px;">Aditivos para mejorar la eficiencia alimenticia
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:50px;">Ionóforos:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Como la monensina y la lasalocida, que mejoran la eficiencia del metabolismo energético y reducen el riesgo de acidosis.</li>
+              </ol>
+            </li>
+          </ol>
+        </li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Beta-agonistas:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Sustancias como el zilpaterol o el ractopamina que aumentan el crecimiento muscular y la conversión alimenticia en ganado de engorde.</li>
+          </ol>
+        </li>
+      </ol>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">Mejora de la calidad del forraje
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Conservantes y ensiladores:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Ácido propiónico o ácido láctico: Ayudan a preservar el ensilaje y previenen la proliferación de mohos y levaduras.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Inoculantes biológicos: Contienen bacterias beneficiosas que mejoran la fermentación del forraje.</li>
+              </ol>
+            </li>
+          </ol>
+        </li>
+      </ol>
+
+
+</p>
+ 
+    </div>
+  </div>
+</div>
 
 
 
 </body>
-  <footer style="margin-top:70px">
-    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""></div><br><br>
+<footer style="margin-top:70px">
+    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
+            alt=""></div><br><br>
     <div class="container-fluid" style="text-align:center;margin-top:-50px">
-      <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad  </a>
-            <script type="text/javascript" src="js/main.js"></script></a></strong></p>
+        <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos
+            Reservados.
+            | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
+                href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download
+                style="color:black !important;font-size:16px">Politica de
+                Privacidad </a>
+            <script type="text/javascript" src="js/main.js"></script></a></strong>
+        </p>
+        <script type="text/javascript" src="js/Products.js"></script>
     </div>
-  </footer>
+</footer>
 </html>

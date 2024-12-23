@@ -282,7 +282,7 @@
                 </section>
               </div>
               <div class="col s12 m12 l12 xl8">
-                <section>
+                <!-- <section>
                   <ul>
                     <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                       <hr class="hr">
@@ -298,7 +298,7 @@
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="https://forms.gle/5n6TRNdamEHYYrFw8">Canal de denuncias, quejas y sugerencias&nbsp; <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <p></p>
 </ul>
-</section>
+</section> -->
               </div>
               <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                 <section>
@@ -548,11 +548,11 @@
   <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li><img src="img/NITRURO-BORO-FOTO.jpg" style="height:800px;" alt="Historia Ascendente">
+          <li><img src="img/NITRURO-BORO-FOTO.jpg" style="height:800px;filter:brightness(0.9)" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Nitruro de Boro</b>
+              <h1 class="primertitulo"><b class="boldbanner">Nitruro de Boro</b><br></h1>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Nitruro_Boro.php"><b class="Tipografia--general Subtitulos" style="color:red;">Nitruro de Boro</b></a></section>
+      
     </div>
             </div>
           </li>
@@ -596,6 +596,7 @@
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
+<section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Nitruro_Boro.php"><b class="Tipografia--general Subtitulos" style="color:red;">Nitruro de Boro</b></a></section>
 <p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#ff0066">Nitruro de Boro</b> es un compuesto quimico formado por atomos de boro y nitrogeno. Su formula quimica es BN. Este material tiene propiedades interesantes y se utiliza en diversas aplicaciones.</p>
 <h5 class="Tipografia--general letranegro Titulos" style="color:#ff0066;margin-top:50px"><b>Estructura Cristilina:</b></h5>
 <p class="Tipografia--general letranegro General--Cuerpo">El Nitruro de Boro puede existir en varias formas, pero las dos principales son el Nitruro de Boro Hexagonal (h-BN) y el Nitruro de Boro Cubico (c-BN).</p>

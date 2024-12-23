@@ -177,7 +177,7 @@
                   </section>
                 </div>
                 <div class="col s12 m12 l12 xl8">
-                  <section>
+                  <!-- <section>
                     <ul> 
                       <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                         <hr class="hr">
@@ -194,7 +194,7 @@
                         <li> <a class="arrowblue Tipografia--general Subtitulos" href="Carreras.php">Carreras <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"> </i></a></li>
                       </p>
                     </ul>
-                  </section>
+                  </section> -->
                 </div>
               </div>
             </div>
@@ -255,7 +255,7 @@
               </div>
             </div>
             <div class="col s12 m12 l12 xl12 search" id="search">
-              <table class="search-table" id="searchTable" style="width:100%">
+              <table class="search-table"  style="width:100%">
                 <thead> 
                   <tr>
                     <td> </td>
@@ -334,7 +334,7 @@
         <div class="container">
           <div class="row">
             <div class="col s12 m12 l12 xl12 search" id="search2">
-              <table class="search-table" id="searchTable2" style="width:100%;">
+              <table class="search-table" style="width:100%;">
                 <thead> 
                   <tr> 
                     <td> </td>
@@ -384,9 +384,12 @@
     <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li> <img src="img/HARINA_PREPARADA_290421.jpeg" alt="" style="height:650px">
+          <li><img src="img/HARINA_PREPARADA_290421.jpeg" style="height:800px;" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">Harinas</b>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Harinas</b>
+              <div class="container">
+      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:white;">Mercados ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:white;">Alimentos ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:white;">Panificacion ></b> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:red;">Harinas</b></a></a></section>
+    </div>
             </div>
           </li>
         </ul>
@@ -394,47 +397,70 @@
     </div>
 
 
-<div class="container">
-<div class="row">
-<div class="col s12 m12 l12 xl12">
-<section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Panificacion.php" style="color:#262137 !important;margin-left:-2px"><b>Panificacion  ></b></a> <a href="Harinas.php" class="breitem active" style="color:#262137 !important"><b>Harinas</b></a> </section></section>
-</div>
-</div>
-</div>
 
 
-<div class="container">
+<div class="container" style="margin-top:120px;">
     <div class="row">
         <div class="col s12 m12 l12 xl12">
-            <p style="color: orange;">La harina siempre es el resultado de la molienda de un alimento, principalmente de origen vegetal, es un ingrediente esencial en la alimentación humana; por ser una de las fuentes principales de energía para el organismo, se espera que el valor de la fabricación de harina alcance un total de ventas por 245,820 mil millones de dólares.</p>
+            <p style="color: black;" class="letranegro General--Cuerpo Tipografia--general">La industria de las harinas es un sector esencial en la produccion de alimentos, ya que provee uno de los ingredientres base en una amplia variedad de productos alimenticios. La produccion de harina se cenra principalmente en la molioenda de cereales, como el trigo, el maiz y el arroz, transformandolos en polvo fino que se utiliza en la elaboracion de productos como pan, pasteles, galletas y pasta. En este proceso, la industria busca no solo mantener la calidad y seguridad alimentaria, si no tambien mejorar la textura, el color y la durabilidad y la estabilidad del producto final. Para lograrlo, se suelen emplear productos quimicos especificos que optimizan ciertas propiedades de la harina</p>
+            <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color: #262137;">Productos Quimicos utilizados en la industria de las harinas y su función</b></h5>
+            <p class="letranegro General--Cuerpo Tipografia--general"><b style="color:black;">1. Mejoradores de la harina:</b> Como el acido ascorbico (vitamina C) y el bromato de potasio (aunque esta restringido en varios países) se emplean para fortalecer la red de gluten y mejorar la elastiidad y extensibilidad de la masa. Esto permite que los productos horneados tengan una mejor estructura y volumen</p>
+            <p class="letranegro General--Cuerpo Tipografia--general" style="margin-top:30px;"><b style="color:black;">2. Blanqueadores:</b> Peróxido de benzoilo y el dioxido de cloro son compuestos que ayudan a mejorar el color de la harina, eliminando la coloracion natural amarillenta que algunos cereales pueden tener. Este proceso de blanqueo tambien acelera el envejecimiento de la harina, haciendola mas estable y mejor para la coccion</p>
+            <p class="letranegro General--Cuerpo Tipografia--general" style="margin-top:30px;"><b style="color:black;">3. Emulsionantes:</b> Tales como la lecitina y los monogliceridos, que mejoran la cohesion y estabilidad de la masa. Facilitan la retencion de gases durante el horneado, lo que resulta en productos mas esponjosos y suaves</p>
+            <p class="letranegro General--Cuerpo Tipografia--general" style="margin-top:30px;"><b style="color:black;">4. Enzimas:</b> Amilasas y proteasas, entre otras, que se añaden para modificar la estructura de los carbohidratos y proteinas de la harina, mejorando la textura de la masa y el tiempo de fermentacion. </p>
+            <p class="letranegro General--Cuerpo Tipografia--general" style="margin-top:30px;"><b style="color:black;">5. Conservadores:</b> Como el propionato de calcio y el acido sorbico, que se agregan para extender la vida util de los productos elaborados con harina, evitando el crecimiento de moho y otros microorganismos</p>
+
+            <p class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"> Estos aditivos son cuidadosamente regulados en la industria, garantizando que se utilicen en cantidades seguras para el consumo humano y que se obtengan las caracteristicas deseadas en los productos finales.</p>
+
+            <p class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"> El crecimiento de la industria de las harinas en los ultimos tres años ha sido impulsado por varios factores clave, incluyendo el aumento en la demanda de productos de panaderia y reposteria, el crecimiento de alimentos preparados y la diversificacion en tipos de harinas alternativas.</p>
+
+            <p class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:black;"> 1. Demanda de harinas alternativas</b></p>
+
+            <p class="letranegro General--Cuerpo Tipografia--general"> ° La conciencia sobre la salud y el aumento de dietas libres de gluten o bajas en carbohidratos impulsaron la demanda de harinas alternativas como las de almendras, coco garbanzo y avena. Esto ha permitido una expansion en el mercado y la entrada de nuevas empresas qye atienden estas necesidades, abriendo nuevas oportunidades y nichos de mercado.</p>
+
+            <p class="letranegro General--Cuerpo Tipografia--general" style="margin-top:30px;"><b style="color:black;">2. Aumento del consumo de alimentos preparados</b></p>
+
+            <p class="letranegro General--Cuerpo Tipografia--general">° Los cambios en el estilo de vida y la preferencia por alimentos de rapida preparacion, como pan, galletas y tortillas, impulsaron la demanda de harina de trigo y otros cereales en productos empaquetados. Los consumidores buscan alimentos listos para consumir y de facil preparacion, lo que favorecio el crecimiento de la industria en las lineas de produccion masiva</p>
+
+            <p class="letranegro General--Cuerpo Tipografia--general" style="margin-top:30px;"><b style="color:black;">3. Crecimiento del mercado de panaderia y reposteria casera</b></p>
+
+            <p class="letranegro General--Cuerpo Tipografia--general">° Durante la pandemia, muchos consumidores comenzaron a cocinar y hornear en casa, generando un incremento en la demanda de harinas de diferentes tipos. Esta tendencia continuo, con personas que descubrieron interes en la resposteria y panaderia casera, manteniendo niveles de consumo elevados incluso despues del confinamiento</p>
+
+            <p class="letranegro General--Cuerpo Tipografia--general" style="margin-top:30px;"><b style="color:black;">4. Expansion de mercados emergentes</b></p>
+
+            <p class="letranegro General--Cuerpo Tipografia--general">Paises de America Latina, Asia y Africa han experimentado un crecimiento en el consumo de productos horneados debido a cambios en los patrones alimenticios y el aumento en el ingreso per capita. Este crecimiento en los mercados emergentes ha impulsado las exportaciones de harina y ha motivado a empresas a invertir en infraestructura y capacidad de produccion en estos lugares</p>
+
+            <p class="letranegro General--Cuerpo Tipografia--general" style="margin-top:30px;"><b style="color:black;">5. Subida en los precios de los granos</b></p>
+
+            <p class="letranegro General--Cuerpo Tipografia--general">° La inflacion de materias primas, particularmente en los precios del trigo y el maiz, ha afectado los costos de produccion de harina. Sin embargo, la demanda ha mantenido el crecimeinto en la industria, y las empresas han tenido que ajustar sus precios y buscar estrategias de optimizacion de costos para mantener la competitividad</p>
+
+            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Productos Ofrecidos para la Elaboracion de Harinas</b></h2>
+
+            <ol>
+              <li style="list-style-type:disc;"><a href="Lecitinas.php" class="arrowblue" style="color: black;" >Lecitina de Soya</a></li>
+              <li style="list-style-type:disc;"><a href="Proximamente.php" class="arrowblue" style="color: black;">Propionato de Calcio</a></li>
+              <li style="list-style-type:disc;"><a href="Proximamente.php" class="arrowblue" style="color: black;">Goma Guar</a></li>
+              <li style="list-style-type:disc;"><a href="Proximamente.php" class="arrowblue" style="color: black;">Goma Xantana</a></li>
+            </ol>
+
         </div>
-        <div class="col s12 m12 l12 xl12">
-            <h5><b style="color: #262137;">Productos</b></h5>
-        </div>
-    </div>
-</div>
 
-<div class="container" style="margin-top: -50px;">
-<div class="row">
-    <div class="col s12 m12 l12 xl12">
-        <ol>
-            <a href="#" style="color:#262137;font-size: 18px;"><li style="font-size: 18px;" class="arrowblue desplazamiento_familias">Sales</li></a>
-        </ol>
-    </div>
+    
+
+
+
+
 </div>
 </div>
-
-
-
 
 </body>
 <footer style="margin-top:70px">
-<div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""></div><br><br>
-<div class="container-fluid" style="text-align:center;margin-top:-50px">
-<p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad  </a>
-<script type="text/javascript" src="js/main.js"></script></a></strong></p>
-</div>
-</footer>
+    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg" alt=""/></div><br/><br/>
+    <div class="container-fluid" style="text-align:center;margin-top:-50px">
+      <p style="color:black;text-align:center;font-size:16px"><strong>© 2014 C&E | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download="download" style="color:black !important;font-size:16px">Politica de Privacidad  </a>
+            <script type="text/javascript" src="js/main.js">   </script></a></strong></p>
+    </div>
+  </footer>
 <?php
 
 ?>
