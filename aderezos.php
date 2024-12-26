@@ -3,8 +3,8 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <meta name="description" content="Descubre todo sobre el guacamole: origen, beneficios, ingredientes clave y tendencias. Aprende cómo se procesa y qué lo hace un alimento saludable y versátil. Ideal para amantes de la comida natural y saludable."> 
-    <title>Chemical Broker</title>
+    <meta name="description" content="Descubre cómo nuestra empresa, líder en la distribución de ingredientes químicos, ofrece soluciones de alta calidad para la fabricación de aderezos. Desde emulsionantes hasta conservadores, proporcionamos los ingredientes esenciales para crear aderezos sabrosos, estables y de larga duración. ¡Potencia la calidad de tus productos con nuestros ingredientes especializados!"> 
+    <title>Chemical Broker | Aderezos</title>
     <link rel="canonical" href="https://chemicalbroker.mx/Guacamole.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -394,9 +394,9 @@
     <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li> <img src="img/CB_SALSAS.jpg" alt="" style="height:650px">
+          <li> <img src="img/CB_DRESSEDS_180621.jpg" alt="" style="height:650px">
           <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Salsas</b>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Aderezos</b>
             </div>
           </li>
         </ul>
@@ -408,313 +408,110 @@
         <div class="row">
             <div class="col s12 m12 l12 xl12">
 
-            <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Salsas.php"><b class="Tipografia--general Subtitulos" style="color:red;">Salsas</b></a></section>
+            <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Salsas.php"><b class="Tipografia--general Subtitulos" style="color:red;">Aderezos</b></a></section>
+
+            </div>
+        </div>
+    </div>
+
+
+    <div class="containe">
+        <div class="row">
+            <div class="col s12 m12 l12 xl12">
+                <h2 class="Tipografia--general letranegro Titulos">Industria de los Aderezos: Ingredientes Químicos y Tendencias</h2>
+
+                <p class="Tipoografia--general letranegro General--Cuerpo">La industria de los aderezos, que incluye productos como mayonesas, vinagretas, aderezos para ensaladas, salsas cremosas y mostazas, es clave en el sector alimentario, ya que no solo mejora el sabor y la textura de los platillos, sino que también está en constante evolución para satisfacer las demandas de los consumidores. Estos productos requieren una combinación específica de ingredientes químicos para garantizar su sabor, estabilidad, seguridad y vida útil.</p>
+
+                <ol>
+                    <li> Importancia de los Aderezos en la Industria Alimentaria
+                        <ol>
+                            <li>Versatilidad: Los aderezos se utilizan en una amplia variedad de aplicaciones, desde ensaladas hasta sándwiches, y en la industria de la comida rápida y de servicios de catering.</li>
+                            <li>Demanda creciente: Con la mayor conciencia sobre la salud y el bienestar, los consumidores buscan opciones más saludables, bajas en grasas y sin aditivos artificiales.</li>
+                            <li>Innovación constante: Los fabricantes de aderezos continúan innovando con nuevos sabores, texturas y formulaciones que atraen a un público cada vez más diverso.</li>
+                        </ol>
+                    </li>
+                </ol>
+
+                <ol>
+                    <li> Principales Tipos de Aderezos: Los aderezos se pueden clasificar en diferentes tipos, cada uno con ingredientes químicos específicos para optimizar su rendimiento:
+                        <ol>
+                            <li> Aderezos cremosos (Mayonesa, ranch, césar, etc.):
+                                <ol>
+                                    <li>Base de aceite: Suelen requerir emulsionantes para evitar la separación de ingredientes (agua y aceite).</li>
+                                    <li>Textura densa y suave: Se necesitan espesantes y estabilizantes para mantener una consistencia cremosa.</li>
+                                </ol>
+                            </li>
+                        </ol>
+                    </li>
+                </ol>
+
+                <ol>
+                    <li> Vinagretas y aderezos líquidos (Balsámico, mostaza, etc.):
+                        <ol>
+                            <li>Emulsiones simples: En este tipo, se emplean emulsionantes más ligeros.</li>
+                            <li>Ingredientes ácidos: Como vinagre o jugo de limón, para darle frescura y balancear los sabores.</li>
+                        </ol>
+                    </li>
+                </ol>
+
+                <ol>
+                    <li> Aderezos a base de yogurt y lácteos (Aderezos cremosos saludables):
+                        <ol>
+                            <li>Requieren conservadores y estabilizantes adicionales para prolongar su vida útil y mantener la textura cremosa.</li>
+                        </ol>
+                    </li>
+                </ol>
+
+                <ol>
+                    <li>Aderezos en polvo:
+                        <ol>
+                            <li>Se comercializan para disolver en agua o aceites, y contienen ingredientes como maltodextrina, conservadores y saborizantes para dar una textura ideal y facilitar su almacenamiento.</li>
+                        </ol>
+                    </li>
+                </ol>
+
+                <h2 class="Tipofrafia--general letranegro Titulos">Ingredientes Químicos en la producción de aderezos</h2>
+
+                <p class="Tipografia--general letranegro General--Cuerpo">La elaboración de aderezos requiere de una variedad de ingredientes químicos para lograr la mezcla perfecta en cuanto a sabor, textura, estabilidad y durabilidad. A continuación, te describo los más utilizados:</p>
+
+
+                <ol>
+                    <li> Conservadores y Antioxidantes: Los aderezos suelen contener ingredientes para preservar su frescura y evitar la proliferación bacteriana.
+                        <ol>
+                            <li>Benzoato de sodio: Conservante común en aderezos comerciales que ayuda a evitar el crecimiento de hongos y bacterias.</li>
+                            <li>Sorbato de potasio: Evita la contaminación microbiana, especialmente en aderezos cremosos y de mayonesa.</li>
+                            <li>Ácido acético (vinagre): Conservante natural que también actúa como saborizante en vinagretas y aderezos a base de mostaza.</li>
+                            <li>Ácido ascórbico (vitamina C): Ayuda a prevenir la oxidación y mantener la frescura del aceite en los aderezos.</li>
+                        </ol>
+                    </li>
+                </ol>
+
+            <ol>
+                <li> Emulsionantes y Estabilizantes: Estos ingredientes son esenciales para evitar que los aderezos se separen y para mantener una textura homogénea.
+                    <ol>
+                        <li>Lecitina de soja: Un emulsionante clave que estabiliza las emulsiones de aceite y agua, esencial para productos como mayonesa y aderezos cremosos.</li>
+                        <li>Mono- y diglicéridos de ácidos grasos: Se utilizan para mantener la emulsión estable en productos como la mayonesa y salsas cremosas.</li>
+                        <li>Goma xantana: Se utiliza para espesar aderezos líquidos y asegurar que no se separen los componentes.</li>
+                        <li>Goma guar: Similar a la goma xantana, usada para mejorar la viscosidad y la textura de los aderezos, especialmente en productos sin gluten.</li>
+                    </ol>
+                </li>
+            </ol>
+
+            <ol>
+                <li> Ácidos y Reguladores de pH: El control del pH es crucial en la fabricación de aderezos, ya que puede afectar la seguridad del producto y la experiencia del consumidor.
+                    <ol>
+                        <li>Ácido cítrico: Un regulador de pH muy utilizado para ajustar la acidez de aderezos líquidos y vinagretas.</li>
+                        <li>Ácido tartárico: Se usa en algunos aderezos para ajustar la acidez y proporcionar un sabor balanceado, especialmente en aderezos a base de frutas.</li>
+                        <li>Ácido láctico: Además de regular la acidez, se utiliza en aderezos cremosos o aquellos que incluyen productos lácteos, como aderezos de crema agria o yogurt.</li>
+                    </ol>
+                </li>
+            </ol>
 
             </div>
         </div>
     </div>
     
-<div class="container">
-    <div class="row">
-        <div class="col s12 m12 l12 xl12">
-            <h2 class="Tipografia--general letranegro Titulos"><b>La industria de las salsas</b></h2>
 
-            <p class="Tipografia--general letranegra General--Cuerpo">La industria de las salsas es un sector global en constante crecimiento, impulsado por la diversidad culinaria y la demanda de sabores únicos. Desde salsas tradicionales hasta opciones innovadoras, esta industria abarca una amplia gama de productos utilizados en hogares, restaurantes y la industria alimentaria.</p>
-
-            <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;">Importancia económica y cultural
-                    <ol>
-                        <li class="Elementos--Listas" style="margin-top:30px;">Diversidad de productos: Incluye salsas picantes, dulces, ácidas, a base de tomate, crema, aceite y más</li>
-                        <li class="Elementos--Listas" style="margin-top:30px;">Mercado Global: Países como Estados Unidos, México, India, China e Italia destacan por su contribución a esta industria.</li>
-                        <li class="Elementos--Listas" style="margin-top:30px;">Consumo creciente: El cambio hacia alimentos preparados y convenientes ha aumentado la demanda de salsas listas para usar.</li>
-                    </ol>
-                </li>
-            </ol>
-
-            <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;">Segmentación del mercado
-                    <ol>
-                        <li class="Elementos--Listas" style="margin-top:30px;"> Por tipo de producto
-                            <ol>
-                                <li class="Elementos--Listas" style="margin-top:30px;">Salsas tradicionales:
-                                    <ol>
-                                        <li class="Elementos--Listas" style="margin-top:30px;">Salsas mexicanas (guacamole, salsa roja, verde).</li>
-                                        <li class="Elementos--Listas" style="margin-top:30px;">Salsas italianas (pomodoro, pesto).</li>
-                                        <li class="Elementos--Listas" style="margin-top:30px;">Salsas asiáticas (soja, teriyaki, tamarindo, curry).</li>
-                                    </ol>
-                                </li>
-                            </ol>
-                        </li>
-                    </ol>
-                </li>
-            </ol>
-
-            <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;">Salsas para pasta:
-                    <ol>
-                        <li class="Elementos--Listas" style="margin-top:30px;">A base de tomate, queso, crema o hierbas.</li>
-                    </ol>
-                </li>
-            </ol>
-
-            <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;">Salsas picantes:
-                    <ol>
-                        <li class="Elementos--Listas" style="margin-top:30px;">Variedades como Tabasco, Sriracha, y productos artesanales.</li>
-                    </ol>
-                </li>
-            </ol>
-
-            <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;"> Salsas dulces y agridulces:
-                    <ol>
-                        <li class="Elementos--Listas" style="margin-top:30px;">Usadas en marinados y acompañamientos (ej., salsa de arándano, BBQ).</li>
-                    </ol>
-                </li>
-            </ol>
-
-            <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;">Salsas funcionales:
-                    <ol>
-                        <li class="Elementos--Listas" style="margin-top:30px;">Enriquecidas con proteínas, vitaminas o bajas en calorías.</li>
-                    </ol>
-                </li>
-            </ol>
-
-            <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;">Por canal de distribución
-                    <ol>
-                        <li class="Elementos--Listas" style="margin-top:30px;">Retail: Supermercados, tiendas especializadas.</li>
-                        <li class="Elementos--Listas" style="margin-top:30px;">Food service: Restaurantes, cadenas de comida rápida, catering.</li>
-                        <li class="Elementos--Listas" style="margin-top:30px;">Mercado gourmet: Productos premium o artesanales.</li>
-                    </ol>
-                </li>
-            </ol>
-
-            <ol>
-              <li class="Elementos--Listas" style="margin-top:30px;"> Proceso de producción
-                <ol>
-                  <li class="Elementos--Listas" style="margin-top:30px;"> Selección de ingredientes:
-                    <ol>
-                      <li class="Elementos--Listas" style="margin-top:30px;">Vegetales frescos (tomates, chiles, hierbas, ajo).</li>
-                      <li class="Elementos--Listas" style="margin-top:30px;">Especias y condimentos.</li>
-                    </ol>
-                  </li>
-                </ol>
-              </li>
-            </ol>
-
-            <ol>
-              <li class="Elementos--Listas" style="margin-top:30px;"> Preparación:
-                <ol>
-                  <li class="Elementos--Listas" style="margin-top:30px;">Lavado, pelado, picado o trituración de los ingredientes.</li>
-                </ol>
-              </li>
-            </ol>
-
-            <ol>
-              <li class="Elementos--Listas" style="margin-top:30px;">Cocción y mezclado:
-                <ol>
-                  <li class="Elementos--Listas" style="margin-top:30px;">Se combinan los ingredientes para desarrollar sabores, seguido de un tratamiento térmico.</li>
-                </ol>
-              </li>
-            </ol>
-
-            <ol>
-              <li class="Elementos--Listas" style="margin-top:30px;">Envasado y conservación:
-                <ol>
-                  <li class="Elementos--Listas" style="margin-top:30px;">Uso de envases herméticos para prolongar la vida útil.</li>
-                  <li class="Elementos--Listas" style="margin-top:30px;">Aplicación de técnicas como pasteurización o atmósfera modificada.</li>
-                </ol>
-              </li>
-            </ol>
-
-            <ol>
-              <li class="Elementos--Listas" style="margin-top:30px;"> Ingredientes clave y aditivos químicos
-                <ol>
-                  <li class="Elementos--Listas" style="margin-top:30px;">Base de las salsas
-                    <ol>
-                      <li class="Elementos--Listas" style="margin-top:30px;">Tomate: Base principal en salsas como ketchup, marinara y BBQ.</li>
-                      <li class="Elementos--Listas" style="margin-top:30px;"> class="Elementos--Listas" style="margin-top:30px;"Aceites vegetales: Para salsas cremosas y emulsiones.</li>
-                      <li class="Elementos--Listas" style="margin-top:30px;">Chiles y especias: Proveen sabor y picor en salsas picantes.</li>
-                    </ol>
-                  </li>
-                </ol>
-              </li>
-            </ol>
-
-            <ol>
-              <li class="Elementos--Listas" style="margin-top:30px;"> Aditivos comunes
-                <ol>
-                  <li class="Elementos--Listas" style="margin-top:30px;"> Conservadores:
-                    <ol>
-                      <li class="Elementos--Listas" style="margin-top:30px;">Benzoato de sodio, sorbato de potasio.</li>
-                      <li class="Elementos--Listas" style="margin-top:30px;">Ácido acético o vinagre (natural o químico).</li>
-                    </ol>
-                  </li>
-                </ol>
-              </li>
-            </ol>
-
-            <ol>
-              <li class="Elementos--Listas" style="margin-top:30px;">Espesantes y estabilizantes:
-                <ol>
-                  <li class="Elementos--Listas" style="margin-top:30px;">Goma xantana, almidón modificado, carragenina.</li>
-                </ol>
-              </li>
-            </ol>
-
-            <ol>
-              <li class="Elementos--Listas" style="margin-top:30px;"> Colorantes:
-                <ol>
-                  <li class="Elementos--Listas" style="margin-top:30px;">Naturales (paprika, cúrcuma) o artificiales (tartrazina, rojo #40).</li>
-                </ol>
-              </li>
-            </ol>
-
-            <ol>
-              <li class="Elementos--Listas" style="margin-top:30px;"> Antioxidantes:
-                <ol>
-                  <li class="Elementos--Listas" style="margin-top:30px;">Ácido cítrico, ácido ascórbico, extracto de romero.</li>
-                </ol>
-              </li>
-            </ol>
-
-            <ol>
-              <li class="Elementos--Listas" style="margin-top:30px;">Tendencias actuales
-                <ol>
-                  <li class="Elementos--Listas" style="margin-top:30px;">Salsas saludables:
-                    <ol>
-                      <li class="Elementos--Listas" style="margin-top:30px;">Bajas en sodio, sin azúcar añadido, sin gluten o veganas.</li>
-                    </ol>
-                  </li>
-                </ol>
-              </li>
-            </ol>
-
-            <ol>
-              <li class="Elementos--Listas" style="margin-top:30px;"> Sabores étnicos y exóticos:
-                <ol>
-                  <li class="Elementos--Listas" style="margin-top:30px;">Inspirados en cocinas de Asia, América Latina y Medio Oriente.</li>
-                </ol>
-              </li>
-            </ol>
-
-            <ol>
-              <li class="Elementos--Listas" style="margin-top:30px;"> Productos orgánicos y gourmet:
-                <ol>
-                  <li class="Elementos--Listas" style="margin-top:30px;">Ingredientes naturales y procesos artesanales.</li>
-                </ol>
-              </li>
-            </ol>
-
-            <ol>
-              <li class="Elementos--Listas" style="margin-top:30px;"> Envases sostenibles:
-                <ol>
-                  <li class="Elementos--Listas" style="margin-top:30px;">Reciclables, biodegradables o reutilizables.</li>
-                </ol>
-              </li>
-            </ol>
-
-            <ol>
-              <li class="Elementos--Listas" style="margin-top:30px;"> Innovación en textura y funcionalidad:
-                <ol>
-                  <li class="Elementos--Listas" style="margin-top:30px;">Salsas para untar, rociar o cocinar.</li>
-                </ol>
-              </li>
-            </ol>
-
-            <h2 class="Tipografia--general letranegro Titulos"><b>Ingredientes Quimicos Utilizados</b></h2>
-
-            <p class="Tipografia--general letranegro General--Cuerpo">En la producción de salsas, se utilizan diversos ingredientes químicos y aditivos para asegurar la textura, sabor, estabilidad y vida útil del producto. Los ingredientes químicos son esenciales para mantener la calidad del producto durante su almacenamiento, distribución y consumo. A continuación, te detallo los más comunes.</p>
-
-            <ol>
-              <li class="Elementos--Listas" style="margin-top:30px;">Conservadores: Los conservadores se utilizan para evitar el crecimiento de bacterias, mohos y levaduras, y prolongar la vida útil de las salsas, especialmente las que se venden en grandes volúmenes o en formatos comerciales.
-                <ol>
-                  <li class="Elementos--Listas" style="margin-top:30px;">Benzoato de sodio: Un conservador común utilizado en salsas a base de tomate, salsas de soja y otras salsas. Ayuda a prevenir el crecimiento de bacterias y hongos.</li>
-                  <li class="Elementos--Listas" style="margin-top:30px;">Sorbato de potasio: También utilizado para prevenir el deterioro microbiano, especialmente en salsas como ketchup, salsas picantes y aderezos.</li>
-                  <li class="Elementos--Listas" style="margin-top:30px;">Ácido acético: Usado principalmente en vinagretas y salsas agridulces. Es el componente principal del vinagre y actúa como conservante natural.</li>
-                  <li class="Elementos--Listas" style="margin-top:30px;">Ácido cítrico: Un conservante natural que también ayuda a mantener el pH bajo, inhibiendo el crecimiento bacteriano y ayudando a la preservación de los ingredientes.</li>
-                </ol>
-              </li>
-            </ol>
-
-
-            <ol>
-              <li class="Elementos--Listas" style="margin-top:30px;"> Antioxidantes: Los antioxidantes son esenciales para prevenir la oxidación, que puede afectar tanto el color como el sabor de la salsa, especialmente en productos a base de tomates y aceites.              
-                    <ol>
-                      <li class="Elementos--Listas" style="margin-top:30px;">Ácido ascórbico (vitamina C): Se usa para prevenir el pardeamiento de los ingredientes y también actúa como antioxidante, protegiendo los aceites en las salsas.</li>
-                      <li class="Elementos--Listas" style="margin-top:30px;">Tocoferoles (vitamina E): Utilizados principalmente en salsas con alto contenido de aceite (como la mayonesa o algunas salsas cremosas), para evitar la rancidez.</li>
-                      <li class="Elementos--Listas" style="margin-top:30px;">Extracto de romero: Un antioxidante natural que se emplea para mejorar la estabilidad de salsas y aceites, prolongando su vida útil.</li>
-                    </ol>
-              </li>
-            </ol>
-
-            <ol>
-              <li class="Elementos--Listas" style="margin-top:30px;"> Espesantes y estabilizantes: Los espesantes y estabilizantes mejoran la textura y la consistencia de las salsas, evitando que se separen sus componentes o se alteren durante el almacenamiento.
-                    <ol>
-                      <li class="Elementos--Listas" style="margin-top:30px;">Goma xantana: Un espesante natural que se utiliza para dar viscosidad y evitar la separación de ingredientes, especialmente en salsas como el aderezo ranch o mayonesas.</li>
-                      <li class="Elementos--Listas" style="margin-top:30px;">Goma guar: Similar a la goma xantana, se utiliza para mejorar la textura de las salsas, especialmente en salsas y aderezos sin gluten.</li>
-                      <li class="Elementos--Listas" style="margin-top:30px;">Carragenina: Se utiliza para estabilizar las emulsiones en salsas como las cremosas o las de mayonesa.</li>
-                      <li class="Elementos--Listas" style="margin-top:30px;">Almidón modificado: Usado en salsas y sopas para espesar y mejorar la consistencia, como en las salsas BBQ o salsas de pasta.</li>
-                    </ol>
-              </li>
-            </ol>
-
-            <ol>
-              <li class="Elementos--Listas" style="margin-top:30px;"> Ácidos y reguladores de pH: El control del pH es crucial en la producción de salsas para garantizar la seguridad del producto, evitar la proliferación bacteriana y mejorar el sabor.
-                <ol>
-                  <li class="Elementos--Listas" style="margin-top:30px;">Ácido cítrico: Usado tanto como antioxidante como para regular la acidez, en salsas como el ketchup, las salsas de tomate y aderezos.</li>
-                  <li class="Elementos--Listas" style="margin-top:30px;">Ácido láctico: Se usa para ajustar el pH y mejorar la seguridad microbiana en salsas, especialmente en salsas a base de lácteos.</li>
-                  <li class="Elementos--Listas" style="margin-top:30px;">Ácido tartárico: Utilizado en algunas salsas y aderezos para controlar la acidez y estabilizar las emulsiones.</li>
-                </ol>
-              </li>
-            </ol>
-
-            <ol>
-              <li class="Elementos--Listas" style="margin-top:30px;"> Emulsionantes: Los emulsionantes ayudan a mezclar ingredientes que normalmente no se combinan bien, como agua y aceite. Esto es esencial en la producción de salsas cremosas y mayonesas.
-                <ol>
-                  <li class="Elementos--Listas" style="margin-top:30px;">Lecitina: Un emulsionante natural que se utiliza para mejorar la consistencia y evitar la separación de aceites y líquidos en salsas como mayonesa, aderezos y salsas cremosas.</li>
-                  <li class="Elementos--Listas" style="margin-top:30px;">Estearato de sodio: Emulsionante usado en la fabricación de salsas que contienen grasas y líquidos (como aderezos para ensaladas).</li>
-                  <li class="Elementos--Listas" style="margin-top:30px;">Polysorbato 80: Usado en salsas para mantener la estabilidad de la mezcla y evitar la separación.</li>
-                </ol>
-              </li>
-            </ol>
-
-            <ol>
-              <li class="Elementos--Listas" style="margin-top:30px;"> Saborizantes y potenciadores de sabor: Para mejorar el perfil de sabor y hacer que las salsas sean más sabrosas, se utilizan diversos potenciadores de sabor, saborizantes y condimentos.
-                <ol>
-                  <li class="Elementos--Listas" style="margin-top:30px;">Glutamato monosódico (MSG): Un potenciador de sabor común en salsas de soja, salsas asiáticas y salsas comerciales para dar un sabor umami más pronunciado.</li>
-                  <li class="Elementos--Listas" style="margin-top:30px;">Extractos de levadura: Utilizados como potenciadores de sabor, especialmente en salsas de tomate y salsas picantes.</li>
-                  <li class="Elementos--Listas" style="margin-top:30px;">Ácido láctico: Además de regular el pH, también se usa para proporcionar un sabor ácido en salsas como las de mostaza o mayonesa.</li>
-                  <li class="Elementos--Listas" style="margin-top:30px;">Especias y extractos naturales: Condimentos como el ajo en polvo, cebolla en polvo, paprika, cilantro y extractos de chile se usan para mejorar el sabor sin necesidad de aditivos artificiales.</li>
-                </ol>
-              </li>
-            </ol>
-
-            <ol>
-              <li class="Elementos--Listas" style="margin-top:30px;"> Colorantes: Los colorantes se utilizan para mejorar la apariencia de las salsas, haciéndolas más atractivas visualmente.
-                <ol>
-                  <li class="Elementos--Listas" style="margin-top:30px;">Colorantes naturales: Como el extracto de pimentón (paprika) para dar color rojo a las salsas, o el colorante natural de cúrcuma para salsas amarillas.</li>
-                  <li class="Elementos--Listas" style="margin-top:30px;">Colorantes artificiales: Como el amarillo #5 o rojo #40, aunque estos son menos utilizados en productos "limpios" y orgánicos.</li>
-                </ol>
-              </li>
-            </ol>
-
-            <ol>
-              <li class="Elementos--Listas" style="margin-top:30px;"> Agentes antimicrobianos: Para evitar la proliferación de microorganismos que podrían alterar el sabor o la seguridad del producto:
-                <ol>
-                  <li class="Elementos--Listas" style="margin-top:30px;">Nisina: Un antibiótico natural utilizado en salsas para prevenir el crecimiento de bacterias, especialmente en productos de larga duración.</li>
-                  <li class="Elementos--Listas" style="margin-top:30px;">Dióxido de cloro: Usado ocasionalmente para reducir la carga microbiana en algunos productos procesados.</li>
-                </ol>
-              </li>
-            </ol>
-
-
-
-        </div>
-    </div>
-</div>
 
 </body>
 <footer style="margin-top:70px">
