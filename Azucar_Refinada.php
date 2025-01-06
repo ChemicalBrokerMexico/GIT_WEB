@@ -675,7 +675,7 @@
                                                 class="Tipografia-general letranegro Subtitulos breadcrumb"
                                                 style="color:red;">Azúcar Refinada</b></a></section>
 
-            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:;">La Azúcar Refinada es un
+            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:;">La <b>Azúcar Refinada</b> es un
                 tipo de azúcar que ha sido procesada para eliminar las impurezas y el color. Se obtiene a partir de la
                 caña de azúcar o la remolacha azucarera. </p>
 
@@ -687,7 +687,7 @@
             <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b
                     style="color:#660066;"><b>Aplicaciones</b></b></h5>
 
-            <p class="Tipografia--general letranegro General--Cuerpo">La Azúcar Refinada tiene una amplia gama de
+            <p class="Tipografia--general letranegro General--Cuerpo">La <b>Azúcar Refinada</b> tiene una amplia gama de
                 aplicaciones en la cocina y la industria alimentaria. Aquí hay algunas de sus principales aplicaciones:
             </p>
 
@@ -704,7 +704,7 @@
                     <li class="Elementos--Listas"><b style="color:#660066">Conservación:</b> Utilizado en la preparación
                         de mermeladas, jaleas y conservas, ya que ayuda a inhibir el crecimiento bacteriano.</li>
                     <br>
-                    <li class="Elementos--Listas"><b style="color:#660066">Caramelización:</b> La Azúcar Refinada se usa
+                    <li class="Elementos--Listas"><b style="color:#660066">Caramelización:</b> La <b>Azúcar Refinada</b> se usa
                         para hacer caramelo, aportando sabor y color a los postres.</li>
                     <br>
                     <li class="Elementos--Listas"><b style="color:#660066">Fermentación:</b> Es fundamental en la
@@ -743,7 +743,7 @@
                 </ol>
             </ol>
 
-            <ol style="margin-top:50px;">
+            <ol style="margin-top:0px;">
                 <li class="Elementos--Listas"><b style="color:#660066;margin-top:50px;">Industria Cosmética:</b></li>
                 <ol style="margin-top:30px;">
                     <li class="Elementos--Listas"><b style="color:#660066">Exfoliantes:</b>Utilizado en productos
@@ -756,7 +756,7 @@
                 </ol>
             </ol>
 
-            <ol style="margin-top:50px;">
+            <ol style="margin-top:0px;">
                 <li class="Elementos--Listas"><b style="color:#660066;margin-top:50px;">Industria Alimento Animal:</b>
                 </li>
                 <ol style="margin-top:30px;">
@@ -766,7 +766,7 @@
             </ol>
 
             <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Estas aplicaciones
-                muestran la versatilidad y la importancia de la azúcar refinada en diversas áreas.</p>
+                muestran la versatilidad y la importancia de la <b>Azúcar Refinada</b> en diversas áreas.</p>
 
             <h5 class="Tipografia--general letranegro General--Cuerpo" style="color:#660066;margin-top:50px;">
                 <b>Especificaciones</b></h5>
@@ -923,7 +923,7 @@
         <div class="divfooter" style="text-align:center;"><img class="imglogoCE"
                 src="img/CB_IMAGOTIPO_LEON.jpg" alt="ESCUDO DE C&E"></div><br><br>
         <div class="container-fluid center-align" style="margin-top:-50px">
-            <p class="Tipografia--general letranegro center-align Pie--Pagina">© 2014 C&E | Chemical Broker Todos los
+            <p class="Tipografia--general letranegro center-align Pie--Pagina">© 2014 | Chemical Broker Todos los
                 Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto
                     |&nbsp</a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download
                     style="color:black !important;font-size:16px">Politica de Privacidad </a></p>

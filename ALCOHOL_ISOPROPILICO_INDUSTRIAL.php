@@ -663,27 +663,27 @@
                             style="color:red !important;margin-left:-2px"><b
                                 class="Tipografia--general Subtitulos">Alcohol Isopropilico Grado Industrial</b></a></section>
 
-                    <p class="Tipografia--general letranegro General--Cuerpo">El Alcohol Isopropílico Grado Industrial o Técnico es una forma de isopropanol que se utiliza en aplicaciones industriales y técnicas, pero que no cumple con los estándares de pureza requeridos para ciertas aplicaciones mas especializadas, como en la industria farmacéutica o de alimentos. </p>
+                    <p class="Tipografia--general letranegro General--Cuerpo">El <b>Alcohol Isopropílico Grado Industrial o Técnico</b> es una forma de isopropanol que se utiliza en aplicaciones industriales y técnicas, pero que no cumple con los estándares de pureza requeridos para ciertas aplicaciones mas especializadas, como en la industria farmacéutica o de alimentos. </p>
                     <h2 class="Tipografia--general letranegro Titulos"><b>Aplicaciones</b></h2>
                     <ol>
                         <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Electronica</li>
                         <ol>
                             <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;margin-top:20px;">Limpieza de componentes electrónicos y placas de circuito</li>
-                            <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Eliminacion de flux y residuos de soldadura</li>
+                            <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;margin-top:30px;">Eliminacion de flux y residuos de soldadura</li>
                         </ol>
                     </ol>
                     <ol>
                         <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Automotriz</li>
                         <ol>
                             <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;margin-top:20px;">Limpieza de piezas metalicas y motores</li>
-                            <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Eliminacion de adhesivos y residuos de pintura</li>
+                            <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;margin-top:30px;">Eliminacion de adhesivos y residuos de pintura</li>
                         </ol>
                     </ol>
                     <ol>
                         <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Artes Gráficas</li>
                         <ol>
                             <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;margin-top:20px;">Limpieza de impresoras y componentes</li>
-                            <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;margin-top:0px;">Eliminación de tinta y restos de papel</li>
+                            <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;margin-top:30px;">Eliminación de tinta y restos de papel</li>
                         </ol>
                     </ol>
                     <ol>
@@ -695,30 +695,30 @@
                     <ol>
                         <li style="list-style-type:disc;margin-top:20px;">Informática</li>
                         <ol>
-                            <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;margin-top:20px;">Limpieza de teclados, pantallas y otros dispositivos electrónicos.</li>
-                            <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;margin-top:0px;">Uso en la construcción de sistemas informáticos para mejorar la conductividad térmica.</li>
-                            <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;margin-top:0px;">Limpieza de conectores y placas de circuito en teléfonos y dispositivos electrónicos.</li>
+                            <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;margin-top:30px;">Limpieza de teclados, pantallas y otros dispositivos electrónicos.</li>
+                            <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;margin-top:30px;">Uso en la construcción de sistemas informáticos para mejorar la conductividad térmica.</li>
+                            <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;margin-top:30px;">Limpieza de conectores y placas de circuito en teléfonos y dispositivos electrónicos.</li>
                         </ol>
                     </ol>
                     <ol>
                         <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;margin-top:20px;">Pintura y Revestimientos:</li>
                         <ol>
-                            <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;margin-top:20px;">Preparación de superficies antes de pintar para mejorar la adherencia.</li>
-                            <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;margin-top:0px;">Limpieza de pinceles y herramientas de pintura.</li>
+                            <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;margin-top:30px;">Preparación de superficies antes de pintar para mejorar la adherencia.</li>
+                            <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;margin-top:30px;">Limpieza de pinceles y herramientas de pintura.</li>
                         </ol>
                     </ol>
                     <ol>
                         <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;margin-top:20px;">Hogar</li>
                         <ol>
-                            <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;margin-top:20px;">Eliminación de manchas de tinta, marcadores y otros residuos.</li>
-                            <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;margin-top:0px;">Limpieza de gafas, pantallas de dispositivos y joyería.</li>
+                            <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;margin-top:30px;">Eliminación de manchas de tinta, marcadores y otros residuos.</li>
+                            <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;margin-top:30px;">Limpieza de gafas, pantallas de dispositivos y joyería.</li>
                         </ol>
                     </ol>
                     <ol>
                         <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;margin-top:20px;">Salud y Cuidado Personal</li>
                         <ol>
-                            <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;margin-top:20px;">Limpieza y desinfección de utensilios de belleza, como brochas de maquillaje.</li>
-                            <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;margin-top:0px;">Desinfección de termómetros y otros dispositivos médicos no críticos.</li>
+                            <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;margin-top:30px;">Limpieza y desinfección de utensilios de belleza, como brochas de maquillaje.</li>
+                            <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;margin-top:30px;">Desinfección de termómetros y otros dispositivos médicos no críticos.</li>
                         </ol>
                     </ol>
                     <ol>
@@ -749,7 +749,7 @@
     <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
             alt=""></div><br><br>
     <div class="container-fluid" style="text-align:center;margin-top:-50px">
-        <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos
+        <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos
             Reservados.
             | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
                 href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download

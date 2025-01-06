@@ -507,6 +507,39 @@
                 </li>
             </ol>
 
+
+            <ol>
+              <li>Saborizantes y Potenciadores de Sabor: Los aderezos se caracterizan por sus complejos perfiles de sabor, que dependen de los ingredientes adicionales.
+                <ol>
+                  <li>Glutamato monosódico (MSG): Un potenciador de sabor común en aderezos comerciales que mejora el umami, especialmente en productos como los aderezos de soja o mostaza.</li>
+                  <li>Extracto de levadura: Usado para aumentar el sabor en aderezos sin añadir sal, proporcionando un sabor más profundo y sabroso.</li>
+                  <li>Ajo en polvo, cebolla en polvo y especias: Son ingredientes esenciales en muchos aderezos, como el ranch o el aderezo César, que aportan sabor y complejidad.</li>
+                </ol>
+              </li>
+            </ol>
+
+            <ol>
+              <li>Colorantes y Otros Aditivos: Los colorantes se añaden para mejorar el atractivo visual de los aderezos.
+                <ol>
+                  <li>Colorante natural de cúrcuma: Utilizado para dar un color amarillo vibrante a productos como la mayonesa o aderezos mostaza.</li>
+                  <li>Colorante paprika: Usado para dar un tono rojo o anaranjado a los aderezos a base de tomate o salsas cremosas.</li>
+                  <li>Carboximetilcelulosa (CMC): Un aditivo utilizado para dar una textura suave y consistente a los aderezos sin necesidad de usar grandes cantidades de grasa.</li>
+                </ol>
+              </li>
+            </ol>
+
+            <ol>
+              <li>Retos y Tendencias en la Industria de los Aderezos: La industria de los aderezos enfrenta varios retos y, al mismo tiempo, tiene tendencias emergentes que marcan su evolución:
+                <ol>
+                  <li>Tendencias de salud: Hay una creciente demanda por aderezos más saludables, con menos grasas saturadas, sin conservantes artificiales y más ingredientes naturales.</li>
+                  <li>Sostenibilidad: Los consumidores están cada vez más interesados en productos que sean ecológicos y fabricados con procesos sostenibles. Esto incluye la reducción del uso de plásticos y la adopción de ingredientes orgánicos.</li>
+                  <li>Personalización y nuevos sabores: Se está apostando por sabores exóticos e innovadores, como aderezos a base de hierbas, frutas, especias y superalimentos, que buscan atraer a los consumidores interesados en explorar nuevos gustos.</li>
+                </ol>
+              </li>
+            </ol>
+
+            
+
             </div>
         </div>
     </div>
@@ -518,7 +551,7 @@
     <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
             alt=""></div><br><br>
     <div class="container-fluid" style="text-align:center;margin-top:-50px">
-        <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos
+        <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos
             Reservados.
             | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
                 href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download

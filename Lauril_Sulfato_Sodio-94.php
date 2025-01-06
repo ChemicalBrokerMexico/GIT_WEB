@@ -942,66 +942,9 @@
          
 
                 </div>
-                <div class="col s12 m12 l12 xl12">
-                <h2 class="General--Cuerpo letranegro Tipografia--general" style="margin-top:50px;"><b>Fabricante:</b></h2>
-            <img src="img/LAURIL-SULFATO-SODIO-94_PICTURE_2.jpg" alt="Logo de Cargill" class="LOGO_KLK_OLEO">
-                </div>
-                <div class="col s12 m12 l12 xl12">
-                <h2 class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;"><b>Literatura Tecnica</b></h2>
-                <ol>
-                    <li style="list-style-type:disc"><a
-                            href="PDF/CATALOGUES/KLK-OLEO-TENSACHEM_TDS_TENSOPOL-USP94_290615_V15.pdf"
-                            style="color:rgba(2 146 238 /99%) !important;"
-                            download><b>KLK-OLEO-TENSACHEM_TDS_TENSOPOL-USP94_290615_V15.pdf</b><span
-                                class="arrowblue desaparece">Descargar...</span></a></li>
-                </ol>
-                <h2 class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;"><b>Cartas Declaratorias</b></h2>
-                <ol>
-                    <li style="list-style-type:disc"><a
-                            href="PDF/CATALOGUES/KLK-OLEO-TENSACHEM_ALLERGENS-STATEMENT_TENSOPOL-USP94_050116.pdf"
-                            style="color:rgba(2 146 238 /99%) !important;"
-                            download><b>KLK-OLEO-TENSACHEM_ALLERGENS-STATEMENT_TENSOPOL-USP94_050116.pdf</b><span
-                                class="arrowblue desaparece">Descargar...</span></a></li>
-                    <li style="list-style-type:disc"><a
-                            href="PDF/CATALOGUES/KLK-OLEO-TENSACHEM_GMO-STATEMENT_TENSOPOL-USP94_050116.pdf"
-                            style="color:rgba(2 146 238 /99%) !important;"
-                            download><b>KLK-OLEO-TENSACHEM_GMO-STATEMENT_TENSOPOL-USP94_050116.pdf</b><span
-                                class="arrowblue desaparece">Descargar...</span></a></li>
-                    <li style="list-style-type:disc"><a
-                            href="PDF/CATALOGUES/KLK-OLEO-TENSACHEM_MICROBIOLOGY-STATEMENT_TENSOPOL-USP94_050116.pdf"
-                            style="color:rgba(2 146 238 /99%) !important;"
-                            download><b>KLK-OLEO-TENSACHEM_MICROBIOLOGY-STATEMENT_TENSOPOL-USP94_050116.pdf</b><span
-                                class="arrowblue desaparece">Descargar...</span></a></li>
-                    <li style="list-style-type:disc"><a
-                            href="PDF/CATALOGUES/KLK-OLEO-TENSACHEM_RESIDUAL-SOLVENT-STATEMENT_TENSOPOL-USP94_050116.pdf"
-                            style="color:rgba(2 146 238 /99%) !important;"
-                            download><b>KLK-OLEO-TENSACHEM_RESIDUAL-SOLVENT-STATEMENT_TENSOPOL-USP94_050116.pdf</b><span
-                                class="arrowblue desaparece">Descargar...</span></a></li>
-                    <li style="list-style-type:disc"><a
-                            href="PDF/CATALOGUES/KLK-OLEO-TENSACHEM_COUNTRY-OF-MANUFACTURE_TENSOPOL-USP94_050116.pdf"
-                            style="color:rgba(2 146 238 /99%) !important;"
-                            download><b>KLK-OLEO-TENSACHEM_COUNTRY-OF-MANUFACTURE_TENSOPOL-USP94_050116.pdf</b><span
-                                class="arrowblue desaparece">Descargar...</span></a></li>
-                </ol>
-                <h2 class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;"><b>Certificaciones</b></h2>
-                <ol>
-                    <li style="list-style-type:disc"><a
-                            href="PDF/CATALOGUES/BIR_KOSHER-CERTIFICATE_BY-KLK-TENSACHEM_240123.pdf"
-                            style="color:rgba(2 146 238 /99%) !important;"
-                            download><b>BIR_KOSHER-CERTIFICATE_BY-KLK-TENSACHEM_240123.pdf</b><span
-                                class="arrowblue desaparece">Descargar...</span></a></li>
-                </ol>
-                </div>
-        </div>
+       
 
-        <a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
-
-<i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
-
-</a>
-
-    </div>
-    
+      
     
 
     </div>
@@ -1013,7 +956,7 @@
     <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
             alt=""></div><br><br>
     <div class="container-fluid" style="text-align:center;margin-top:-50px">
-        <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos
+        <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos
             Reservados.
             | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
                 href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download

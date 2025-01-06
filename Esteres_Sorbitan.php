@@ -569,8 +569,8 @@
         <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Esteres de Sorbitan</b></a></section>
 
         <h5 class="letranegro Tipografia--general Titulos"><b style="color:#0033CC;">Ésteres de Sorbitán</b></h5>
-        <p class="letranegro Tipografia--general General--Cuerpo" style="margin-bottom:0px;">Los <b style="color:#000020;">ésteres de ácidos grasos de sorbitano, </b> o,  <b style="color:#000020;">ésteres de sorbitano</b> se conocen comercialmente con el nombre de <b style="color:#000020;">Spans</b>. Todos tienen en común la estructura del sorbitano (anhídrido de 1,4-D-sorbitol), que se esterifica con uno o varios ácidos grasos.</p>
-        <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;margin-bottom: 0px;">La producción industrial se lleva a cabo a aproximadamente a 250 °C con sorbitol y el ácido graso correspondiente. Estos ácidos grasos pueden venir de fuentes animales, pero por lo general se usan los obtenidos a partir de grasas vegetales, al ser más baratos.  También es posible utilizar una mezcla de ácidos grasos (ácido esteárico, ácido láurico, ácido oleico y ácido palmítico), la cual forma una mezcla compleja de diferentes ésteres de ácidos grasos de sorbitano, que también tiene las propiedades químicas deseadas.</p>
+        <p class="letranegro Tipografia--general General--Cuerpo" style="margin-bottom:0px;">Los <b style="color:#000020;">Ésteres de Acidos Grasos de Sorbitano, </b> o,  <b style="color:#000020;">Ésteres de Sorbitano</b> se conocen comercialmente con el nombre de <b style="color:#000020;">Spans</b>. Todos tienen en común la estructura del Sorbitano (anhídrido de 1,4-D-sorbitol), que se esterifica con uno o varios Ácidos Grasos.</p>
+        <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;margin-bottom: 0px;">La producción industrial se lleva a cabo a aproximadamente a 250 °C con Sorbitol y el Ácido Graso correspondiente. Estos Ácidos Grasos pueden venir de fuentes animales, pero por lo general se usan los obtenidos a partir de grasas vegetales, al ser más baratos.  También es posible utilizar una mezcla de Ácidos Grasos (Ácido Esteárico, Ácido Láurico, Ácido Oleico y Ácido Palmítico), la cual forma una mezcla compleja de diferentes Ésteres de Ácidos Grasos de Sorbitano, que también tiene las propiedades químicas deseadas.</p>
 
         
         <br>
@@ -593,9 +593,9 @@
         </table>
         <div class="col s12 m12 l12 xl12">
         <h5 class="letranegro Tipografia--general Titulos" style="margin-top:50px;margin-bottom:0px;"><b style="color:#000020;">Propiedades</b></h5>
-        <p class="letranegro Tipografia--general General--Cuerpo" style="margin-bottom:0px;">Los <b style="color:#0033CC;">Ésteres de Sorbitán</b> son sustancias orgánicas de alto punto de ebullición, cerosos y/o viscosos, que contienen elementos estructurales hidrófilos (afín al agua) y lipófilos (afín a las grasas). Debido a esto son tensioactivos y actúan como emulsionantes. Sirven para la estabilización de las estructuras cristalinas en grasas, como agentes de formación de espuma y mejoran la fluidez de la margarina líquida y otras emulsiones grasas. Los ésteres de sorbitano están autorizados en la UE como aditivos alimentarios: E 491, E 492, E 493, E 494 y E 495, y se utilizan en ciertos alimentos, cada uno con un límite máximo fijo.</p>
-        <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;margin-bottom:0px">Son compuestos químicos utilizados comúnmente en la industria alimentaria y cosmética como emulsionantes, estabilizadores y agentes acondicionadores. Estan relacionados con el sorbitol, que es un polialcohol derivado del azúcar, y se obtienen mediante esterificación de sorbitol con ácidos grasos. </p>
-        <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;margin-bottom:0px">Los Ésteres de sorbitán tienen la capacidad de mezclar aceites y agua, lo que los hace útiles en la preparación de emulsiones; como cremas y lociones, así como en alimentos procesados.</p>
+        <p class="letranegro Tipografia--general General--Cuerpo" style="margin-bottom:0px;">Los <b style="color:#0033CC;">Ésteres de Sorbitán</b> son sustancias orgánicas de alto punto de ebullición, cerosos y/o viscosos, que contienen elementos estructurales hidrófilos (afín al agua) y lipófilos (afín a las grasas). Debido a esto son tensioactivos y actúan como emulsionantes. Sirven para la estabilización de las estructuras cristalinas en grasas, como agentes de formación de espuma y mejoran la fluidez de la margarina líquida y otras emulsiones grasas. Los Ésteres de Sorbitano están autorizados en la UE como aditivos alimentarios: E 491, E 492, E 493, E 494 y E 495, y se utilizan en ciertos alimentos, cada uno con un límite máximo fijo.</p>
+        <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;margin-bottom:0px">Son compuestos químicos utilizados comúnmente en la industria alimentaria y cosmética como emulsionantes, estabilizadores y agentes acondicionadores. Estan relacionados con el Sorbitol, que es un polialcohol derivado del azúcar, y se obtienen mediante esterificación de Sorbitol con Ácidos Grasos. </p>
+        <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;margin-bottom:0px">Los Ésteres de Sorbitán tienen la capacidad de mezclar aceites y agua, lo que los hace útiles en la preparación de emulsiones; como cremas y lociones, así como en alimentos procesados.</p>
         <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;margin-bottom:0px">Algunos ejemplos de Ésteres de Sorbitán incluyen:</p>
         <ol>
             <li style="list-style-type:disc;"><b style="color:#000020;">Sorbitán Trioleato (Span 85).-</b> Se utiliza en aplicaciones alimentarias y cosméticas como emulsionante y acondicionador.</li>
@@ -604,11 +604,11 @@
             <br>
             <li style="list-style-type:disc;"><b style="color:#000020;">Sorbitán Tristearato (Span 65).-</b> Se utiliza principalmente en la industria de alimentos, como emulsionante en productos de panadería y productos de confitería.</li>
             <br>
-            <li style="list-style-type:disc;"><b style="color:#000020;">Sorbitán Mono Estearato (Span 60).-</b> El monoestearato de sorbitano se utiliza como emulsionante y como surfactante no iónico. Se utiliza en cosméticos, productos farmacéuticos y preparación de alimentos.</li>
+            <li style="list-style-type:disc;"><b style="color:#000020;">Sorbitán Mono Estearato (Span 60).-</b> El Monoestearato de Sorbitano se utiliza como emulsionante y como surfactante no iónico. Se utiliza en cosméticos, productos farmacéuticos y preparación de alimentos.</li>
             <br>
             <li style="list-style-type:disc;"><b style="color:#000020;">Sorbitán Mono Palmitato (Span 40).-</b> Se utiliza en la fabricación de productos de panadería, productos lácteos y en aplicaciones de emulsión y acondicionamiento en la industria cosmética.</li>
             <br>
-            <li style="list-style-type:disc;"><b style="color:#000020;">Sorbitán Mono Laurato (Span 20).-</b> Es una mezcla de ésteres formados a partir del ácido graso de 12 átomos de carbono, llamado ácido láurico y polioles derivados del sorbitol, sorbitano e isosorbida. Se utiliza como aditivo alimentario, y se designa con el número E E493.</li>
+            <li style="list-style-type:disc;"><b style="color:#000020;">Sorbitán Mono Laurato (Span 20).-</b> Es una mezcla de Ésteres formados a partir del Ácido Graso de 12 átomos de Carbono, llamado Ácido Láurico y Polioles derivados del Sorbitol, Sorbitano e Isosorbida. Se utiliza como aditivo alimentario, y se designa con el número E E493.</li>
         </ol>
         <p class="letranegro Tipografia--general General--Cuerpo " style="margin-top:50px;color:#0033CC;text-align: center;margin-bottom:0px;font-size:30px;"><b>“Los Ésteres de Sorbitán son seguros para el consumo humano cuando se utilizan dentro de los límites establecidos por las regulaciones alimentarias y cosméticas. Ayudan a mejorar la textura, la estabilidad y la vida util de diversos productos y son comunes en la formulación de alimentos procesados, productos de cuidado personal y productos farmacéuticos.”</b></p>
         <h5 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#000020;">Fabricante</b></h5>
@@ -715,7 +715,7 @@
   <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
       alt=""></div><br><br>
   <div class="container-fluid" style="text-align:center;margin-top:-50px">
-    <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos Reservados.
+    <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos Reservados.
       | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
         href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de
         Privacidad </a>

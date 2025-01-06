@@ -12,7 +12,7 @@ $(document).ready(function(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Coco</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b style="color:#000020">Aceite de coco</b> es un aceite vegetal derivado de la pulpa del coco (Cocos nucifera). Se obtiene mediante procesos de prensado en frio o extracción con calor de la carne blanca o la copra del coco. Es conocido por su alta concentración de ácidos grasos saturados de cadena media, especialmente acido láurico.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b style="color:#000020">Aceite de Coco</b> es un aceite vegetal derivado de la pulpa del coco (Cocos nucifera). Se obtiene mediante procesos de prensado en frio o extracción con calor de la carne blanca o la copra del coco. Es conocido por su alta concentración de ácidos grasos saturados de cadena media, especialmente acido láurico.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Coco.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -24,7 +24,7 @@ $(document).ready(function(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Coco RBD</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Aceite de Coco RBD</b> (Refinado, Blanqueado, Desodorizado) es un tipo de aceite de coco que ha pasado por un proceso de refinacion para eliminar impurezas, olores y sabores fuertes. Este tipo de aceite es ideal para aplicaciones culinarias y cosméticas donde se prefiere un producto neutro en olor y sabor.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Aceite de Coco Refinado, Blanqueado, Desodorizado (RBD)</b> es un tipo de aceite de coco que ha pasado por un proceso de refinacion para eliminar impurezas, olores y sabores fuertes. Este tipo de aceite es ideal para aplicaciones culinarias y cosméticas donde se prefiere un producto neutro en olor y sabor.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Coco_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -35,9 +35,9 @@ $(document).ready(function(){
     <img src="img/CBM_IMAGEN_NO_1_ACEITE-MAIZ-RBD.jpg" alt="" class="zoom IMG_Seccion_Prod">
     </div>
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Maiz</b></h5>
+    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Maiz RBD</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El Aceite de Maíz RBD (Refinado, Blanqueado y Desodorizado), es un tipo de aceite vegetal que se obtiene del maíz mediante un proceso de refinamiento. Este proceso implica eliminar impurezas, olores y sabores no deseados del aceite crudo de maíz.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Aceite de Maíz Refinado, Blanqueado y Desodorizado (RBD)</b>, es un tipo de aceite vegetal que se obtiene del maíz mediante un proceso de refinamiento. Este proceso implica eliminar impurezas, olores y sabores no deseados del aceite crudo de maíz.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Maiz.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -50,7 +50,7 @@ $(document).ready(function(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Palma RBD</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El aceite de palma RBD (Refinado, Blanqueado y Desodorizado) es una forma procesada del aceite de palma crudo, ampliamente utilizado en la industria alimentaria, cosmética y química debido a sus características versátiles.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Aceite de Palma Refinado, Blanqueado y Desodorizado (RBD)</b> es una forma procesada del aceite de palma crudo, ampliamente utilizado en la industria alimentaria, cosmética y química debido a sus características versátiles.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Palma_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -62,7 +62,7 @@ $(document).ready(function(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Palmiste RBD</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El aceite de palmiste RBD (Refinado, Blanqueado y Desodorizado) es un aceite vegetal obtenido a partir de la semilla o núcleo de la palma de aceite (Elaeis guineensis). Este aceite es diferente al aceite de palma, que se extrae de la pulpa del fruto. El término RBD indica que ha pasado por procesos de refinado, blanqueado y desodorizado para eliminar impurezas, colores y olores, haciéndolo más adecuado para aplicaciones industriales y alimenticias.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Aceite de Palmiste Refinado, Blanqueado y Desodorizado (RBD)</b> es un aceite vegetal obtenido a partir de la semilla o núcleo de la palma de aceite (Elaeis guineensis). Este aceite es diferente al aceite de palma, que se extrae de la pulpa del fruto. El término RBD indica que ha pasado por procesos de refinado, blanqueado y desodorizado para eliminar impurezas, colores y olores, haciéndolo más adecuado para aplicaciones industriales y alimenticias.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Palmiste_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -73,9 +73,9 @@ $(document).ready(function(){
     <img src="img/ACEITE_RBD_211223.jpg" alt="" class="zoom IMG_Seccion_Prod">
     </div>
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Soya Refinado</b></h5>
+    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Soya RBD</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Aceite de Soya Refinado, Blanqueado y Desodorizado (RBD) es un aceite comestible muy utilizado en la cocina, tanto en la preparación de alimentos como en la producción de productos procesados. Es conocido por ser versátil y tener un alto punto de humo, lo que lo hace adecuado para freír y cocinar a altas temperaturas.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Aceite de Soya Refinado, Blanqueado y Desodorizado (RBD)</b> es un aceite comestible muy utilizado en la cocina, tanto en la preparación de alimentos como en la producción de productos procesados. Es conocido por ser versátil y tener un alto punto de humo, lo que lo hace adecuado para freír y cocinar a altas temperaturas.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -87,7 +87,7 @@ $(document).ready(function(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Ácidos Grasos</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los ácidos grasos se derivan de grasas y aceites animales como el sebo de res y de aceites vegetales tales como aceite de soja, aceite de colza, aceite de coco y de palmiste, aceite de palma aceite, entre otros.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Ácidos Grasos</b> se derivan de grasas y aceites animales como el sebo de res y de aceites vegetales tales como aceite de soja, aceite de colza, aceite de coco y de palmiste, aceite de palma aceite, entre otros.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Chemical Broker ofrece una amplia gama de Ácidos Grasos de cadena corta, cadena media y cadena larga. Nuestras relaciones de negocios con nuestros fabricantes en America, Europa y Asia brindan capacidad de respuesta y garantía de suministro en todo el mundo.
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Acidos_grasos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
@@ -100,7 +100,7 @@ $(document).ready(function(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Ácidos Grasos Destilados de Palma</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los Ácidos Grasos Destilados de Palma se obtienen por desdoblamiento y posterior destilación al vacío del aceite de palma. El producto obtenido es un sólido blanco opaco a temperatura ambiente, con un punto de fusión sobre los 45 °C. Es rico en acido palmítico y esteárico.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Ácidos Grasos Destilados de Palma</b> se obtienen por desdoblamiento y posterior destilación al vacío del aceite de palma. El producto obtenido es un sólido blanco opaco a temperatura ambiente, con un punto de fusión sobre los 45 °C. Es rico en acido palmítico y esteárico.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Acidos_Grasos_Destilados_Palma.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -113,7 +113,7 @@ $(document).ready(function(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Alcoholes Grasos</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Chemical Broker ofrece una amplia gama de Alcoholes Grasos de fracción media y fracción pesada a partir de materias primas naturales sostenibles. </p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Alcoholes Grasos</b> de fracción media y fracción pesada a partir de materias primas naturales sostenibles. </p>
     <p class="Tipografia--general General--Cuerpo letranegro">Nuestras relaciones de negocios con nuestros fabricantes en America, Europa y Asia brindan capacidad de respuesta y garantía de suministro en todo el mundo.
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Alcoholes_Grasos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
@@ -126,7 +126,7 @@ $(document).ready(function(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Alcohol Isopropilico</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El Alcohol Isopropilico (propan-2-ol, Isopropanol o 2-propanol), es un compuesto orgánico incoloro e inflamable con un olor a alcohol acre.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Alcohol Isopropilico</b> (propan-2-ol, Isopropanol o 2-propanol), es un compuesto orgánico incoloro e inflamable con un olor a alcohol acre.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Se utiliza en la fabricación de una amplia variedad de productos químicos industriales y domésticos y es un ingrediente común en productos como antisépticos, desinfectantes y detergentes.
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Alcohol_Isopropilico.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
@@ -139,7 +139,7 @@ $(document).ready(function(){
     <div class="col s12 m12 l12 xl6 columnas_antioxidantes div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Antioxidantes</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los Antioxidantes son moléculas capaces de retardar o prevenir la oxidación de otras moléculas y alargar la vida útil de los productos.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Antioxidantes</b> son moléculas capaces de retardar o prevenir la oxidación de otras moléculas y alargar la vida útil de los productos.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Los antioxidantes son muy importantes para la industria alimentaria humana y animal, así como para la industria farmacéutica, veterinaria y cosmética ya que logran que los productos conserven sus propiedades y sus niveles de calidad.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Antioxidantes.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </p>
@@ -152,9 +152,9 @@ $(document).ready(function(){
     <img src="img/AZUCAR_BANNER_310724.jpg" alt=""  class="zoom IMG_Seccion_Prod">
     </div>
     <div class="col s12 m12 l12 xl6 columnas_antioxidantes div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Azucar Refinada</b></h5>
+    <h5 class="Tipografia--general Titulos"><b>Azúcar Refinada</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Azúcar refinada es un tipo de azúcar que ha sido procesada para eliminar las impurezas y el color. Se obtiene a partir de la caña de azúcar o la remolacha azucarera. </p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Azúcar Refinada</b> es un tipo de azúcar que ha sido procesada para eliminar las impurezas y el color. Se obtiene a partir de la caña de azúcar o la remolacha azucarera. </p>
     <p class="Tipografia--general General--Cuerpo letranegro">El proceso de refinación implica varias etapas, incluyendo la trituración, la purificación con cal, la carbonatación, la filtración, la cristalización y finalmente, el secado. Este proceso produce un azúcar blanco, granulado y de alta pureza, que es el tipo de azúcar más comúnmente utilizado en la cocina y la repostería.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Azucar_Refinada.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </p>
@@ -171,7 +171,7 @@ $(document).ready(function(){
     <div class= "col s12 m12 l12 xl6 columnas_bicarbonato_sodio div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Bicarbonato de Sodio</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El Bicarbonato de Sodio es un compuesto sólido cristalino de color blanco soluble en agua, con un ligero sabor alcalino parecido al del carbonato de sodio (menos fuerte y más salado) Se puede encontrar como mineral en la naturaleza o se puede producir artificialmente.  La forma mineral natural es nahcolita. Es un componente del mineral natrón y se encuentra disuelto en muchos manantiales minerales.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Bicarbonato de Sodio</b> es un compuesto sólido cristalino de color blanco soluble en agua, con un ligero sabor alcalino parecido al del carbonato de sodio (menos fuerte y más salado) Se puede encontrar como mineral en la naturaleza o se puede producir artificialmente.  La forma mineral natural es nahcolita. Es un componente del mineral natrón y se encuentra disuelto en muchos manantiales minerales.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Bicarbonato_Sodio.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -184,7 +184,7 @@ $(document).ready(function(){
     <div class="col s12 m12 l12 xl6 columnas_dextrosas div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Colágeno Hidrolizado</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Es un producto proteico natural, obtenido por hidrólisis enzimática de material rico en colágeno de origen bovino. Tiene un olor y sabor muy neutro y es adecuado para aplicaciones de mezclas de polvo seco, bebidas, barras, galletas y chicles.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Colágeno Hidrolizado</b> es un producto proteico natural, obtenido por hidrólisis enzimática de material rico en colágeno de origen bovino. Tiene un olor y sabor muy neutro y es adecuado para aplicaciones de mezclas de polvo seco, bebidas, barras, galletas y chicles.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Colageno_Hidrolizado.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -236,9 +236,9 @@ $(document).ready(function(){
     <img src="img/CB_DEXTROSAS_130323.jpg" alt="Dextrosas"  class="zoom IMG_Seccion_Prod">
     </div>
     <div class="col s12 m12 l12 xl6 columnas_dextrosas div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Dextrosa</b></h5>
+    <h5 class="Tipografia--general Titulos"><b>Dextrosas</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La Dextrosa es un azúcar que se encuentra ampliamente en la naturaleza, por ejemplo, en la miel y muchas frutas. Como componente de la celulosa, el almidón y el glucógeno, se encuentra en todas las plantas y animales y también se conoce como "azúcar de uva" o "azúcar en la sangre".</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Las <b>Dextrosas</b> es un azúcar que se encuentra ampliamente en la naturaleza, por ejemplo, en la miel y muchas frutas. Como componente de la celulosa, el almidón y el glucógeno, se encuentra en todas las plantas y animales y también se conoce como "azúcar de uva" o "azúcar en la sangre".</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Dextrosas.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -248,9 +248,9 @@ $(document).ready(function(){
     <img src="img/CB_ESTEARINA_PALMA_281223.png" alt="" class="zoom IMG_Seccion_Prod">
     </div>
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Estearina de Palma (RBD)</b></h5>
+    <h5 class="Tipografia--general Titulos"><b>Estearina de Palma Alto Hidrogenado RBD</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La Estearina de Palma refinada, blanqueada y desodorizada (RBD) es una grasa vegetal derivada del aceite de palma. La Estearina de Palma RBD es una fracción sólida del aceite de palma RBD, obtenida por fraccionamiento mediante procesos simples de cristalización y separación a temperatura controlada. Las propiedades físicas de la Estearina de Palma RBD difieren ampliamente de las del aceite de palma RBD. La Estearina de Palma RBD está disponible en una gama más amplia de puntos de fusión y valores de yodo. </p>
+    <p class="Tipografia--general General--Cuerpo letranegro">La <b>Estearina de Palma Refinada, Blanqueada y Desodorizada (RBD)</b> es una grasa vegetal derivada del aceite de palma. La Estearina de Palma RBD es una fracción sólida del aceite de palma RBD, obtenida por fraccionamiento mediante procesos simples de cristalización y separación a temperatura controlada. Las propiedades físicas de la Estearina de Palma RBD difieren ampliamente de las del aceite de palma RBD. La Estearina de Palma RBD está disponible en una gama más amplia de puntos de fusión y valores de yodo. </p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Estearina_Palma_Hidrogenado.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -263,7 +263,7 @@ $(document).ready(function(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Esteres de sorbitan </b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">En Chemical Broker, nos enorgullece ser tu proveedor de confianza de Esteres de Sorbitan de la más alta calidad. Con años de experiencia en la industria y un compromiso inquebrantable con la excelencia, estamos aquí para satisfacer tus necesidades en el mercado de emulsionantes y estabilizadores. </p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Esteres de Sorbitan</b> de la más alta calidad. Con años de experiencia en la industria y un compromiso inquebrantable con la excelencia, estamos aquí para satisfacer tus necesidades en el mercado de emulsionantes y estabilizadores. </p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Esteres_Sorbitan.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -276,7 +276,7 @@ $(document).ready(function(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Ferrazone®</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El Ferrazone® (Ácido Etilendiaminotetraacético (EDTA) Férrico y de Sodio) es apto para uso alimentario y ha sido recomendado por la Organización Mundial de la Salud como el único suplemento de hierro adecuado para la fortificación masiva de harinas de cereales con alto contenido de fitatos y también se recomienda para condimentos como salsa de soja y salsa de pescado. Ferrazone® se utiliza en iniciativas de enriquecimiento de alimentos a gran escala en África, América Latina, Asia y Medio Oriente.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Ferrazone® (Ácido Etilendiaminotetraacético (EDTA) Férrico y de Sodio)</b> es apto para uso alimentario y ha sido recomendado por la Organización Mundial de la Salud como el único suplemento de hierro adecuado para la fortificación masiva de harinas de cereales con alto contenido de fitatos y también se recomienda para condimentos como salsa de soja y salsa de pescado. Ferrazone® se utiliza en iniciativas de enriquecimiento de alimentos a gran escala en África, América Latina, Asia y Medio Oriente.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Ferrazone.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -288,7 +288,7 @@ $(document).ready(function(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Fosfatos</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los Fosfatos son un grupo de sustancias químicas que contienen el ion fosfato, PO₄³⁻. Estos compuestos se derivan del ácido fosfórico (H₃PO₄) y se utilizan en una amplia variedad de aplicaciones. A continuación, se ofrece una descripción detallada de los ingredientes y tipos de Fosfatos, junto con sus usos y funciones:</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Fosfatos</b> son un grupo de sustancias químicas que contienen el ion fosfato, PO₄³⁻. Estos compuestos se derivan del ácido fosfórico (H₃PO₄) y se utilizan en una amplia variedad de aplicaciones. A continuación, se ofrece una descripción detallada de los ingredientes y tipos de Fosfatos, junto con sus usos y funciones:</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Fosfatos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -310,12 +310,12 @@ $(document).ready(function(){
     
     <div class="row" style="margin-top:150px;"> 
     <div class = "col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_GLICERINAS_030823.jpg" alt=""  class="zoom IMG_Seccion_Prod">
+    <img src="img/BANNER_PRINCIPAL.jpg" alt=""  class="zoom IMG_Seccion_Prod">
     </div>
     <div class= "col s12 m12 l12 xl6 columnas_glicerinas  div-textoprod" style="position:relative;">
     <h5 class="Titulos Tipografia--general"><b>Glicerinas</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Chemical Broker distribuye mundialmente Glicerina de la mas alta Pureza y Calidad para las formulaciones de nuestros clientes.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">La <b>Glicerina</b> de la mas alta Pureza y Calidad para las formulaciones de nuestros clientes.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Hoy en dia nuestra oferta incluye glicerina en cumplimiento a GMP´s, Kosher, Halal, GFSI, FCC, USP, RSPO Mass Balance. 
     <p class="Tipografia--general General--Cuerpo letranegro btn_leerMas"><b><a href="Glycerins.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </p>
@@ -330,7 +330,7 @@ $(document).ready(function(){
     <div class="col s12 m12 l12 xl6 columnas_glicoles  div-textoprod" style="position:relative;">
     <h5 class="Titulos Tipografia--general"><b>Glicoles</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los Glicoles son un tipo de compuestos líquidos densos con sabor dulce y acre, son compuestos químicos orgánicos creados a partir de una estructura de hidrocarburo alifático y dos grupos hidroxilo; grupos -OH) que resultan de la reacción del agua con el óxido de etileno.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Glicoles</b> son un tipo de compuestos líquidos densos con sabor dulce y acre, son compuestos químicos orgánicos creados a partir de una estructura de hidrocarburo alifático y dos grupos hidroxilo; grupos -OH) que resultan de la reacción del agua con el óxido de etileno.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Todos los glicoles se presentan en forma de líquido claro, transparente, inodoro y de baja volatilidad. Los glicoles de poco peso molecular son totalmente miscibles en agua y la mayoría cuentan con una gran capacidad para disolverse en casi todos los compuestos orgánicos.</p>
     <p class="Tipografia--general Botones btn_leerMas"><b><a href="Glycols.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
@@ -344,7 +344,7 @@ $(document).ready(function(){
     <div class="col s12 m12 l12 xl6 columnas_jarabe_maiz div-textoprod" style="position:relative;">
     <h5 class="Titulos Tipografia--general"><b>Jarabe de Maíz</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El jarabe de maíz es un edulcorante líquido, creado a partir del almidón o fécula de maíz.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Jarabe de Maíz</b> es un edulcorante líquido, creado a partir del almidón o fécula de maíz.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Con un rango de jarabes carbón-refinados, desmineralizados y de conversión enzimática los ingredientes <span style="color:orange">Clearsweet®</span> Jarabes de Maíz y <span style="color:green">Cleardex®</span> Jarabe de Maíz pueden ayudar a alcanzar la textura justa y sabor característico de sus requerimientos </p>
     <p class="Tipografia--general Botones btn_leerMas" ><b><a href="Jarabe_Maiz.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
@@ -358,7 +358,7 @@ $(document).ready(function(){
     <div class= "col s12 m12 l12 xl6 columnas_lauril_sulfato div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Lauril Sulfato de Sodio 94%</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El Lauril Sulfato de Sodio 94% es un alquilsulfato en forma de polvo. El producto pertenece a los tensoactivos de naturaleza aniónica con un alto contenido en sustancia activa de al menos el 94%.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Lauril Sulfato de Sodio 94%</b> es un alquilsulfato en forma de polvo. El producto pertenece a los tensoactivos de naturaleza aniónica con un alto contenido en sustancia activa de al menos el 94%.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Es un surfactante anionico con alto poder detergente, espumante y humectante. Las características principales de este producto incluyen una excelente capacidad de emulsión, humectabilidad y, lo que es más importante, fuertes propiedades de formación de espuma: este producto produce una espuma alta y muy estable.</p>
     <p class="Tipografia--general Botones btn_leerMas" ><b><a href="Lauril_Sulfato_Sodio-94.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
@@ -372,7 +372,7 @@ $(document).ready(function(){
     <div class= "col s12 m12 l12 xl6 columnas_lecitinas  div-textoprod" style="position:relative">
     <h5 class="Tipografia--general Titulos"><b>Lecitinas</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La lecitina es una sustancia organica abundante en las membranas de las celulas vegetales y animales, especialmente en las del tejido nervioso; se obtiene de las grasas animales, la yema de huevo, algunas semillas y se emplea en la elaboracion de ciertos alimentos, como la margarina o el chocolate tambien se aplica en otras industrias como farmaceutica y cosmetica. </p>
+    <p class="Tipografia--general General--Cuerpo letranegro">La <b>Lecitina</b> es una sustancia organica abundante en las membranas de las celulas vegetales y animales, especialmente en las del tejido nervioso; se obtiene de las grasas animales, la yema de huevo, algunas semillas y se emplea en la elaboracion de ciertos alimentos, como la margarina o el chocolate tambien se aplica en otras industrias como farmaceutica y cosmetica. </p>
     <p class="Tipografia--general Botones btn_leerMas"><b><a href="Lecitinas.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -385,7 +385,7 @@ $(document).ready(function(){
     <div class= "col s12 m12 l12 xl6 columnas_maltodextrina div-textoprod" style="position:relative">
     <h5 class="Tipografia--general Titulos"><b>Maltrodextrina</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La Maltodextrina es una mezcla de polímeros de glucosa que aparecen como resultado de la hidrolisis del almidón. </p>
+    <p class="Tipografia--general General--Cuerpo letranegro">La <b>Maltodextrina</b> es una mezcla de polímeros de glucosa que aparecen como resultado de la hidrolisis del almidón. </p>
     <p class="Tipografia--general Botones btn_leerMas"><b><a href="Maltodextrina.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -397,7 +397,7 @@ $(document).ready(function(){
     <div class= "col s12 m12 l12 xl6 columnas_dimetilformamida div-textoprod" style="position:relative">
     <h5 class="Tipografia--general Titulos"><b>N, N-Dimetilformamida</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La N, N-Dimetilformamida (Dimetilformamida), comunmente abreviado como DMF, es un compuesto organico, es un liquido incoloro miscible en aguay en la mayoria de componentes organicos.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">La <b>N, N-Dimetilformamida (Dimetilformamida)</b>, comunmente abreviado como DMF, es un compuesto organico, es un liquido incoloro miscible en aguay en la mayoria de componentes organicos.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Dimetilformamida.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -410,7 +410,7 @@ $(document).ready(function(){
     <div class= "col s12 m12 l12 xl6 columnas_nitruro_boro div-textoprod" style="position:relative">
     <h5 class="Tipografia--general Titulos"><b>Nitruro de Boro</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El Nitruro de Boro es un compuesto quimico formado por atomos de boro y nitrogeno. Su formula quimica es BN. Este material tiene propiedades interesantes y se utiliza en diversas aplicaciones.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Nitruro de Boro</b> es un compuesto quimico formado por atomos de boro y nitrogeno. Su formula quimica es BN. Este material tiene propiedades interesantes y se utiliza en diversas aplicaciones.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Las soluciones en polvo de Nitruro de Boro fusionan las propiedades clave del Nitruro de Boro Hexagonal (HBN) con una variedad de formas y tamaños de particulas.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Las soluciones em polvo del Nitruro de Boro permiten a nuestros Clientes maximizar los beneficios en una amplia gama de mercados y aplicaciones.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Nitruro_Boro.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
@@ -424,7 +424,7 @@ $(document).ready(function(){
     <div class= "col s12 m12 l12 xl6 columnas_metilpirrolidona div-textoprod" style="position:relative">
     <h5 class="Tipografia--general Titulos"><b>N-Metilpirrolidona</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La N-Metilpirrolidona es un disolvente organico aprotico altamente polar con un contenido reducido de aminas libres y un bajo contenido de agua, se utiliza principalmente en la industria farmaceutica en la sistensis de péptidos y para que los fabricantes de membranas proporcionen altos rendimientos, alta eficiencia y mayores tasas de reciclaje que los grados convencionales.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">La <b>N-Metilpirrolidona</b> es un disolvente organico aprotico altamente polar con un contenido reducido de aminas libres y un bajo contenido de agua, se utiliza principalmente en la industria farmaceutica en la sistensis de péptidos y para que los fabricantes de membranas proporcionen altos rendimientos, alta eficiencia y mayores tasas de reciclaje que los grados convencionales.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="N-Metilpirrolidona.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -437,7 +437,7 @@ $(document).ready(function(){
     <div class= "col s12 m12 l12 xl6 columnas_pasta_soya div-textoprod" style="position:relative">
     <h5 class="Tipografia--general Titulos"><b>Pasta de Soya</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La Pasta de Soya es la fuente de proteína más importante utilizada en la alimentación humana y del ganado. La pasta de soya es la fuente natural más concentrada de proteína, aminoácidos y energía. Debido a esto en la actualidad es el ingrediente más utilizado por nutriólogos en la elaboración de alimentos balanceados para cualquier tipo de animal.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">La <b>Pasta de Soya</b> es la fuente de proteína más importante utilizada en la alimentación humana y del ganado. La pasta de soya es la fuente natural más concentrada de proteína, aminoácidos y energía. Debido a esto en la actualidad es el ingrediente más utilizado por nutriólogos en la elaboración de alimentos balanceados para cualquier tipo de animal.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Pasta_Soya.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -449,9 +449,9 @@ $(document).ready(function(){
     <div class= "col s12 m12 l12 xl6 columnas_pectinas" style="position:relative">
     <h5 class="Tipografia--general Titulos"><b>Pectinas</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Las Pectinas son una mezcla de polimeros ácidos y neutros muy ramificados.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Las pectinas son hidrocoloides solubles en agua con funciones gelificantes y espesantes.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Las pectinas tambien proporcionan superficies cargadas que regulan el pH y el balance ionico.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Las <b>Pectinas</b> son una mezcla de polimeros ácidos y neutros muy ramificados.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Las Pectinas son hidrocoloides solubles en agua con funciones gelificantes y espesantes.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Las Pectinas tambien proporcionan superficies cargadas que regulan el pH y el balance ionico.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">La Pectina contiene principalmente ácidos galacturonicosparcialmente metoxilados. La pectina, un ingrediente versátil para texturas innovadoras La pectina es un ingrediente y un componente natural de las plantas. La pectina se encuentra en muchas frutas, pero es especialmente abundante en las manzanas y los cítricos. La pectina de la fruta está asociada a la celulosa en los tejidos vegetales, donde juega un papel fundamental en la determinación de sus propiedades mecánicas.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas" style="margin-top:30px"><b><a href="Pectinas.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
@@ -469,7 +469,7 @@ $(document).ready(function(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative">
     <h5 class="Tipografia--general Titulos"><b>Sebo Alto Hidrogenado</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El Sebo Alto Hidrogenado (HFTA),por sus siglas en ingles, es conocido por su notable versatilidad, lo que lo convierte en un aditivo común en una amplia gama de productos. El ácido graso de sebo hidrogenado (HFTA) se utiliza como intermediario en lubricantes y aceites para laminación, como emoliente en productos para el cuidado personal y como emulsionante en una variedad de aplicaciones.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Sebo Alto Hidrogenado (HFTA)</b>,por sus siglas en ingles, es conocido por su notable versatilidad, lo que lo convierte en un aditivo común en una amplia gama de productos. El ácido graso de sebo hidrogenado (HFTA) se utiliza como intermediario en lubricantes y aceites para laminación, como emoliente en productos para el cuidado personal y como emulsionante en una variedad de aplicaciones.</p>
     
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Sebo_Alto_Hidrogeno.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
@@ -484,7 +484,7 @@ $(document).ready(function(){
     <div class= "col s12 m12 l12 xl6 columnas_sorbitoles div-textoprod" style="position:relative">
     <h5 class="Tipografia--general Titulos"><b>Sorbitoles</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El sorbitol es un polialcohol, alcohol polihidrico alditol de azucar, industrialmente se obtiene por reduccion mediante hidrogenacion catalítica del monosacárido mas comun, “la glucosa”. </p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Sorbitol</b> es un polialcohol, alcohol polihidrico alditol de azucar, industrialmente se obtiene por reduccion mediante hidrogenacion catalítica del monosacárido mas comun, “la glucosa”. </p>
     <p class="Tipografia--general General--Cuerpo letranegro">En la naturaleza el sorbitol es uno de los tres glucidos (sacarosa, almidon y sorbitol), principales producidos por la fotosintesis en las hojas adultas de ciertas plantas de la familia Rosaceae y Plantaginaceae, se ecuentran en cantidades apreciables en algas rojas, peras, manzanas, cerezas, duraznos.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas" style="position:absolute:left:10px;bottom:-30px"><b><a href="Sorbitoles.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
@@ -498,7 +498,7 @@ $(document).ready(function(){
     <div class= "col s12 m12 l12 xl6 columnas_sorbitoles div-textoprod" style="position:relative">
     <h5 class="Tipografia--general Titulos"><b>Sulfosuccinatos</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los sulfossucinatos son una clase de surfactantes aniónicos utilizados en una variedad de aplicaciones industriales y de cuidado personal. Estos compuestos se derivan del acido succínico y se caracterizan por tener grupos sulfonato como grupos funcionales principales.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Sulfossucinatos</b> son una clase de surfactantes aniónicos utilizados en una variedad de aplicaciones industriales y de cuidado personal. Estos compuestos se derivan del acido succínico y se caracterizan por tener grupos sulfonato como grupos funcionales principales.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Introducimos nuestros sulfosuccinatos de alta calidad, agentes tensoactivos de ultima generación diseñados para ofrecer resultados superiores en una amplia gama de aplicaciones industriales y de cuidado personal.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas" style="position:absolute:left:10px;bottom:-30px"><b><a href="Sulfosuccinatos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
@@ -512,7 +512,7 @@ $(document).ready(function(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos aceite_1024"><b>2-Etilhexanol</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El 2-etilhexanol (abreviado 2-EH) es un alcohol graso ramificado, un compuesto orgánico de ocho átomos de carbono con un grupo alcohol. Es un líquido incoloro que es poco soluble en agua, pero soluble en la mayoría de los disolventes orgánicos. </p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>2-etilhexanol (abreviado 2-EH)</b> es un alcohol graso ramificado, un compuesto orgánico de ocho átomos de carbono con un grupo alcohol. Es un líquido incoloro que es poco soluble en agua, pero soluble en la mayoría de los disolventes orgánicos. </p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="2-Etilhexanol.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -550,7 +550,7 @@ function filtroall(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Coco RBD</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El Aceite de Coco RBD (Refinado, Blanqueado, Desodorizado) es un tipo de aceite de coco que ha pasado por un proceso de refinacion para eliminar impurezas, olores y sabores fuertes. Este tipo de aceite es ideal para aplicaciones culinarias y cosméticas donde se prefiere un producto neutro en olor y sabor.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El >El <b>Aceite de Coco Refinado, Blanqueado, Desodorizado (RBD)</b> es un tipo de aceite de coco que ha pasado por un proceso de refinacion para eliminar impurezas, olores y sabores fuertes. Este tipo de aceite es ideal para aplicaciones culinarias y cosméticas donde se prefiere un producto neutro en olor y sabor.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Coco_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -562,7 +562,7 @@ function filtroall(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Maiz</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El Aceite de Maíz RBD (Refinado, Blanqueado y Desodorizado), es un tipo de aceite vegetal que se obtiene del maíz mediante un proceso de refinamiento. Este proceso implica eliminar impurezas, olores y sabores no deseados del aceite crudo de maíz.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">>El <b>Aceite de Coco Refinado, Blanqueado, Desodorizado (RBD)</b>, es un tipo de aceite vegetal que se obtiene del maíz mediante un proceso de refinamiento. Este proceso implica eliminar impurezas, olores y sabores no deseados del aceite crudo de maíz.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Maiz.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -575,7 +575,7 @@ function filtroall(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Palma RBD</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El aceite de palma RBD (Refinado, Blanqueado y Desodorizado) es una forma procesada del aceite de palma crudo, ampliamente utilizado en la industria alimentaria, cosmética y química debido a sus características versátiles.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Aceite de Palma Refinado, Blanqueado y Desodorizado (RBD)</b> es una forma procesada del aceite de palma crudo, ampliamente utilizado en la industria alimentaria, cosmética y química debido a sus características versátiles.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Palma_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -587,7 +587,7 @@ function filtroall(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Palmiste RBD</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El aceite de palmiste RBD (Refinado, Blanqueado y Desodorizado) es un aceite vegetal obtenido a partir de la semilla o núcleo de la palma de aceite (Elaeis guineensis). Este aceite es diferente al aceite de palma, que se extrae de la pulpa del fruto. El término RBD indica que ha pasado por procesos de refinado, blanqueado y desodorizado para eliminar impurezas, colores y olores, haciéndolo más adecuado para aplicaciones industriales y alimenticias.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Aceite de Palmiste Refinado, Blanqueado y Desodorizado (RBD)</b> es un aceite vegetal obtenido a partir de la semilla o núcleo de la palma de aceite (Elaeis guineensis). Este aceite es diferente al aceite de palma, que se extrae de la pulpa del fruto. El término RBD indica que ha pasado por procesos de refinado, blanqueado y desodorizado para eliminar impurezas, colores y olores, haciéndolo más adecuado para aplicaciones industriales y alimenticias.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Palmiste_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -597,9 +597,9 @@ function filtroall(){
     <img src="img/ACEITE_RBD_211223.jpg" alt="" class="zoom IMG_Seccion_Prod">
     </div>
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Soya Refinado</b></h5>
+    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Soya RBD</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Aceite de Soya Refinado, Blanqueado y Desodorizado (RBD) es un aceite comestible muy utilizado en la cocina, tanto en la preparación de alimentos como en la producción de productos procesados. Es conocido por ser versátil y tener un alto punto de humo, lo que lo hace adecuado para freír y cocinar a altas temperaturas.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Aceite de Soya Refinado, Blanqueado y Desodorizado (RBD)</b> es un aceite comestible muy utilizado en la cocina, tanto en la preparación de alimentos como en la producción de productos procesados. Es conocido por ser versátil y tener un alto punto de humo, lo que lo hace adecuado para freír y cocinar a altas temperaturas.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -611,7 +611,7 @@ function filtroall(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Ácidos Grasos</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los ácidos grasos se derivan de grasas y aceites animales como el sebo de res y de aceites vegetales tales como aceite de soja, aceite de colza, aceite de coco y de palmiste, aceite de palma aceite, entre otros.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Ácidos Grasos</b> se derivan de grasas y aceites animales como el sebo de res y de aceites vegetales tales como aceite de soja, aceite de colza, aceite de coco y de palmiste, aceite de palma aceite, entre otros.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Chemical Broker ofrece una amplia gama de Ácidos Grasos de cadena corta, cadena media y cadena larga. Nuestras relaciones de negocios con nuestros fabricantes en America, Europa y Asia brindan capacidad de respuesta y garantía de suministro en todo el mundo.
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Acidos_grasos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
@@ -624,7 +624,7 @@ function filtroall(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Ácidos Grasos Destilados de Palma</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los Ácidos Grasos Destilados de Palma se obtienen por desdoblamiento y posterior destilación al vacío del aceite de palma. El producto obtenido es un sólido blanco opaco a temperatura ambiente, con un punto de fusión sobre los 45 °C. Es rico en acido palmítico y esteárico.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Ácidos Grasos Destilados de Palma</b> se obtienen por desdoblamiento y posterior destilación al vacío del aceite de palma. El producto obtenido es un sólido blanco opaco a temperatura ambiente, con un punto de fusión sobre los 45 °C. Es rico en acido palmítico y esteárico.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Acidos_Grasos_Destilados_Palma.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -637,7 +637,7 @@ function filtroall(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Alcoholes Grasos</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Chemical Broker ofrece una amplia gama de Alcoholes Grasos de fracción media y fracción pesada a partir de materias primas naturales sostenibles. </p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Alcoholes Grasos</b> de fracción media y fracción pesada a partir de materias primas naturales sostenibles. </p>
     <p class="Tipografia--general General--Cuerpo letranegro">Nuestras relaciones de negocios con nuestros fabricantes en America, Europa y Asia brindan capacidad de respuesta y garantía de suministro en todo el mundo.
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Alcoholes_Grasos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
@@ -650,7 +650,7 @@ function filtroall(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Alcohol Isopropilico</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El Alcohol Isopropilico (propan-2-ol, Isopropanol o 2-propanol), es un compuesto orgánico incoloro e inflamable con un olor a alcohol acre.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Alcohol Isopropilico</b> (propan-2-ol, Isopropanol o 2-propanol), es un compuesto orgánico incoloro e inflamable con un olor a alcohol acre.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Se utiliza en la fabricación de una amplia variedad de productos químicos industriales y domésticos y es un ingrediente común en productos como antisépticos, desinfectantes y detergentes.
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Alcohol_Isopropilico.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
@@ -663,7 +663,7 @@ function filtroall(){
     <div class="col s12 m12 l12 xl6 columnas_antioxidantes div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Antioxidantes</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los Antioxidantes son moléculas capaces de retardar o prevenir la oxidación de otras moléculas y alargar la vida útil de los productos.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Antioxidantes</b> son moléculas capaces de retardar o prevenir la oxidación de otras moléculas y alargar la vida útil de los productos.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Los antioxidantes son muy importantes para la industria alimentaria humana y animal, así como para la industria farmacéutica, veterinaria y cosmética ya que logran que los productos conserven sus propiedades y sus niveles de calidad.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Antioxidantes.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </p>
@@ -677,7 +677,7 @@ function filtroall(){
     <div class="col s12 m12 l12 xl6 columnas_antioxidantes div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Azúcar Refinada</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Azúcar refinada es un tipo de azúcar que ha sido procesada para eliminar las impurezas y el color. Se obtiene a partir de la caña de azúcar o la remolacha azucarera. </p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Azúcar refinada</b> es un tipo de azúcar que ha sido procesada para eliminar las impurezas y el color. Se obtiene a partir de la caña de azúcar o la remolacha azucarera. </p>
     <p class="Tipografia--general General--Cuerpo letranegro">El proceso de refinación implica varias etapas, incluyendo la trituración, la purificación con cal, la carbonatación, la filtración, la cristalización y finalmente, el secado. Este proceso produce un azúcar blanco, granulado y de alta pureza, que es el tipo de azúcar más comúnmente utilizado en la cocina y la repostería.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Azucar_Refinada.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </p>
@@ -693,7 +693,7 @@ function filtroall(){
     <div class= "col s12 m12 l12 xl6 columnas_bicarbonato_sodio div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Bicarbonato de Sodio</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El Bicarbonato de Sodio es un compuesto sólido cristalino de color blanco soluble en agua, con un ligero sabor alcalino parecido al del carbonato de sodio (menos fuerte y más salado) Se puede encontrar como mineral en la naturaleza o se puede producir artificialmente.  La forma mineral natural es nahcolita. Es un componente del mineral natrón y se encuentra disuelto en muchos manantiales minerales.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Bicarbonato de Sodio</b> es un compuesto sólido cristalino de color blanco soluble en agua, con un ligero sabor alcalino parecido al del carbonato de sodio (menos fuerte y más salado) Se puede encontrar como mineral en la naturaleza o se puede producir artificialmente.  La forma mineral natural es nahcolita. Es un componente del mineral natrón y se encuentra disuelto en muchos manantiales minerales.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Bicarbonato_Sodio.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -706,7 +706,7 @@ function filtroall(){
     <div class="col s12 m12 l12 xl6 columnas_dextrosas div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Colágeno Hidrolizado</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Es un producto proteico natural, obtenido por hidrólisis enzimática de material rico en colágeno de origen bovino. Tiene un olor y sabor muy neutro y es adecuado para aplicaciones de mezclas de polvo seco, bebidas, barras, galletas y chicles.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Colágeno Hidrolizado</b> es un producto proteico natural, obtenido por hidrólisis enzimática de material rico en colágeno de origen bovino. Tiene un olor y sabor muy neutro y es adecuado para aplicaciones de mezclas de polvo seco, bebidas, barras, galletas y chicles.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Colageno_Hidrolizado.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -758,9 +758,9 @@ function filtroall(){
     <img src="img/CB_DEXTROSAS_130323.jpg" alt="Dextrosas"  class="zoom IMG_Seccion_Prod">
     </div>
     <div class="col s12 m12 l12 xl6 columnas_dextrosas div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Dextrosa</b></h5>
+    <h5 class="Tipografia--general Titulos"><b>Dextrosas</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La Dextrosa es un azúcar que se encuentra ampliamente en la naturaleza, por ejemplo, en la miel y muchas frutas. Como componente de la celulosa, el almidón y el glucógeno, se encuentra en todas las plantas y animales y también se conoce como "azúcar de uva" o "azúcar en la sangre".</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Las <b>Dextrosas</b> es un azúcar que se encuentra ampliamente en la naturaleza, por ejemplo, en la miel y muchas frutas. Como componente de la celulosa, el almidón y el glucógeno, se encuentra en todas las plantas y animales y también se conoce como "azúcar de uva" o "azúcar en la sangre".</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Dextrosas.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -770,9 +770,9 @@ function filtroall(){
     <img src="img/CB_ESTEARINA_PALMA_281223.png" alt="" class="zoom IMG_Seccion_Prod">
     </div>
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Estearina de Palma</b></h5>
+    <h5 class="Tipografia--general Titulos"><b>Estearina de Palma Alto Hidrogenado RBD</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La Estearina de Palma refinada, blanqueada y desodorizada (RBD) es una grasa vegetal derivada del aceite de palma. La Estearina de Palma RBD es una fracción sólida del aceite de palma RBD, obtenida por fraccionamiento mediante procesos simples de cristalización y separación a temperatura controlada. Las propiedades físicas de la Estearina de Palma RBD difieren ampliamente de las del aceite de palma RBD. La Estearina de Palma RBD está disponible en una gama más amplia de puntos de fusión y valores de yodo. </p>
+    <p class="Tipografia--general General--Cuerpo letranegro">La <b>Estearina de Palma refinada, blanqueada y desodorizada (RBD)</b> es una grasa vegetal derivada del aceite de palma. La Estearina de Palma RBD es una fracción sólida del aceite de palma RBD, obtenida por fraccionamiento mediante procesos simples de cristalización y separación a temperatura controlada. Las propiedades físicas de la Estearina de Palma RBD difieren ampliamente de las del aceite de palma RBD. La Estearina de Palma RBD está disponible en una gama más amplia de puntos de fusión y valores de yodo. </p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Estearina_Palma_Hidrogenado.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -783,9 +783,9 @@ function filtroall(){
     <img src="img/ESTERES_SORBITAN_140923.jpg" alt="" class="zoom IMG_Seccion_Prod">
     </div>
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Esteres de sorbitan </b></h5>
+    <h5 class="Tipografia--general Titulos"><b>Esteres de sorbitan</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">En Chemical Broker, nos enorgullece ser tu proveedor de confianza de Esteres de Sorbitan de la más alta calidad. Con años de experiencia en la industria y un compromiso inquebrantable con la excelencia, estamos aquí para satisfacer tus necesidades en el mercado de emulsionantes y estabilizadores. </p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Esteres de Sorbitan</b> de la más alta calidad. Con años de experiencia en la industria y un compromiso inquebrantable con la excelencia, estamos aquí para satisfacer tus necesidades en el mercado de emulsionantes y estabilizadores. </p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Esteres_Sorbitan.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -797,7 +797,7 @@ function filtroall(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Ferrazone®</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El Ferrazone® (Ácido Etilendiaminotetraacético (EDTA) Férrico y de Sodio) es apto para uso alimentario y ha sido recomendado por la Organización Mundial de la Salud como el único suplemento de hierro adecuado para la fortificación masiva de harinas de cereales con alto contenido de fitatos y también se recomienda para condimentos como salsa de soja y salsa de pescado. Ferrazone® se utiliza en iniciativas de enriquecimiento de alimentos a gran escala en África, América Latina, Asia y Medio Oriente.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Ferrazone® (Ácido Etilendiaminotetraacético (EDTA) Férrico y de Sodio)</b> es apto para uso alimentario y ha sido recomendado por la Organización Mundial de la Salud como el único suplemento de hierro adecuado para la fortificación masiva de harinas de cereales con alto contenido de fitatos y también se recomienda para condimentos como salsa de soja y salsa de pescado. Ferrazone® se utiliza en iniciativas de enriquecimiento de alimentos a gran escala en África, América Latina, Asia y Medio Oriente.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Ferrazone.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -809,7 +809,7 @@ function filtroall(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Fosfatos</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los Fosfatos son un grupo de sustancias químicas que contienen el ion fosfato, PO₄³⁻. Estos compuestos se derivan del ácido fosfórico (H₃PO₄) y se utilizan en una amplia variedad de aplicaciones. A continuación, se ofrece una descripción detallada de los ingredientes y tipos de Fosfatos, junto con sus usos y funciones:</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Fosfatos</b> son un grupo de sustancias químicas que contienen el ion fosfato, PO₄³⁻. Estos compuestos se derivan del ácido fosfórico (H₃PO₄) y se utilizan en una amplia variedad de aplicaciones. A continuación, se ofrece una descripción detallada de los ingredientes y tipos de Fosfatos, junto con sus usos y funciones:</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Fosfatos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -830,12 +830,12 @@ function filtroall(){
     
     <div class="row" style="margin-top:150px;"> 
     <div class = "col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_GLICERINAS_030823.jpg" alt=""  class="zoom IMG_Seccion_Prod">
+    <img src="img/BANNER_PRINCIPAL.jpg" alt=""  class="zoom IMG_Seccion_Prod">
     </div>
     <div class= "col s12 m12 l12 xl6 columnas_glicerinas  div-textoprod" style="position:relative;">
     <h5 class="Titulos Tipografia--general"><b>Glicerinas</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Chemical Broker distribuye mundialmente Glicerina de la mas alta Pureza y Calidad para las formulaciones de nuestros clientes.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">La <b>Glicerina</b> de la mas alta Pureza y Calidad para las formulaciones de nuestros clientes.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Hoy en dia nuestra oferta incluye glicerina en cumplimiento a GMP´s, Kosher, Halal, GFSI, FCC, USP, RSPO Mass Balance. 
     <p class="Tipografia--general General--Cuerpo letranegro btn_leerMas"><b><a href="Glycerins.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </p>
@@ -850,7 +850,7 @@ function filtroall(){
     <div class="col s12 m12 l12 xl6 columnas_glicoles  div-textoprod" style="position:relative;">
     <h5 class="Titulos Tipografia--general"><b>Glicoles</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los Glicoles son un tipo de compuestos líquidos densos con sabor dulce y acre, son compuestos químicos orgánicos creados a partir de una estructura de hidrocarburo alifático y dos grupos hidroxilo; grupos -OH) que resultan de la reacción del agua con el óxido de etileno.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Glicoles</b> son un tipo de compuestos líquidos densos con sabor dulce y acre, son compuestos químicos orgánicos creados a partir de una estructura de hidrocarburo alifático y dos grupos hidroxilo; grupos -OH) que resultan de la reacción del agua con el óxido de etileno.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Todos los glicoles se presentan en forma de líquido claro, transparente, inodoro y de baja volatilidad. Los glicoles de poco peso molecular son totalmente miscibles en agua y la mayoría cuentan con una gran capacidad para disolverse en casi todos los compuestos orgánicos.</p>
     <p class="Tipografia--general Botones btn_leerMas"><b><a href="Glycols.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
@@ -864,7 +864,7 @@ function filtroall(){
     <div class="col s12 m12 l12 xl6 columnas_jarabe_maiz div-textoprod" style="position:relative;">
     <h5 class="Titulos Tipografia--general"><b>Jarabe de Maíz</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El jarabe de maíz es un edulcorante líquido, creado a partir del almidón o fécula de maíz.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Jarabe de Maíz</b> es un edulcorante líquido, creado a partir del almidón o fécula de maíz.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Con un rango de jarabes carbón-refinados, desmineralizados y de conversión enzimática los ingredientes <span style="color:orange">Clearsweet®</span> Jarabes de Maíz y <span style="color:green">Cleardex®</span> Jarabe de Maíz pueden ayudar a alcanzar la textura justa y sabor característico de sus requerimientos </p>
     <p class="Tipografia--general Botones btn_leerMas" ><b><a href="Jarabe_Maiz.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
@@ -892,7 +892,7 @@ function filtroall(){
     <div class= "col s12 m12 l12 xl6 columnas_lecitinas  div-textoprod" style="position:relative">
     <h5 class="Tipografia--general Titulos"><b>Lecitinas</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La lecitina es una sustancia organica abundante en las membranas de las celulas vegetales y animales, especialmente en las del tejido nervioso; se obtiene de las grasas animales, la yema de huevo, algunas semillas y se emplea en la elaboracion de ciertos alimentos, como la margarina o el chocolate tambien se aplica en otras industrias como farmaceutica y cosmetica. </p>
+    <p class="Tipografia--general General--Cuerpo letranegro">La <b>Lecitina</b> es una sustancia organica abundante en las membranas de las celulas vegetales y animales, especialmente en las del tejido nervioso; se obtiene de las grasas animales, la yema de huevo, algunas semillas y se emplea en la elaboracion de ciertos alimentos, como la margarina o el chocolate tambien se aplica en otras industrias como farmaceutica y cosmetica. </p>
     <p class="Tipografia--general Botones btn_leerMas"><b><a href="Lecitinas.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -905,7 +905,7 @@ function filtroall(){
     <div class= "col s12 m12 l12 xl6 columnas_maltodextrina div-textoprod" style="position:relative">
     <h5 class="Tipografia--general Titulos"><b>Maltrodextrina</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La Maltodextrina es una mezcla de polímeros de glucosa que aparecen como resultado de la hidrolisis del almidón. </p>
+    <p class="Tipografia--general General--Cuerpo letranegro">La <b>Maltodextrina</b> es una mezcla de polímeros de glucosa que aparecen como resultado de la hidrolisis del almidón. </p>
     <p class="Tipografia--general Botones btn_leerMas"><b><a href="Maltodextrina.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -917,7 +917,7 @@ function filtroall(){
     <div class= "col s12 m12 l12 xl6 columnas_dimetilformamida div-textoprod" style="position:relative">
     <h5 class="Tipografia--general Titulos"><b>N, N-Dimetilformamida</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La N, N-Dimetilformamida (Dimetilformamida), comunmente abreviado como DMF, es un compuesto organico, es un liquido incoloro miscible en aguay en la mayoria de componentes organicos.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">La <b>N, N-Dimetilformamida (Dimetilformamida)</b>, comunmente abreviado como DMF, es un compuesto organico, es un liquido incoloro miscible en aguay en la mayoria de componentes organicos.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Dimetilformamida.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -930,7 +930,7 @@ function filtroall(){
     <div class= "col s12 m12 l12 xl6 columnas_nitruro_boro div-textoprod" style="position:relative">
     <h5 class="Tipografia--general Titulos"><b>Nitruro de Boro</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El Nitruro de Boro es un compuesto quimico formado por atomos de boro y nitrogeno. Su formula quimica es BN. Este material tiene propiedades interesantes y se utiliza en diversas aplicaciones.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Nitruro de Boro</b> es un compuesto quimico formado por atomos de boro y nitrogeno. Su formula quimica es BN. Este material tiene propiedades interesantes y se utiliza en diversas aplicaciones.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Las soluciones en polvo de Nitruro de Boro fusionan las propiedades clave del Nitruro de Boro Hexagonal (HBN) con una variedad de formas y tamaños de particulas.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Las soluciones em polvo del Nitruro de Boro permiten a nuestros Clientes maximizar los beneficios en una amplia gama de mercados y aplicaciones.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Nitruro_Boro.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
@@ -944,7 +944,7 @@ function filtroall(){
     <div class= "col s12 m12 l12 xl6 columnas_metilpirrolidona div-textoprod" style="position:relative">
     <h5 class="Tipografia--general Titulos"><b>N-Metilpirrolidona</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La N-Metilpirrolidona es un disolvente organico aprotico altamente polar con un contenido reducido de aminas libres y un bajo contenido de agua, se utiliza principalmente en la industria farmaceutica en la sistensis de péptidos y para que los fabricantes de membranas proporcionen altos rendimientos, alta eficiencia y mayores tasas de reciclaje que los grados convencionales.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">La <b>N-Metilpirrolidona</b> es un disolvente organico aprotico altamente polar con un contenido reducido de aminas libres y un bajo contenido de agua, se utiliza principalmente en la industria farmaceutica en la sistensis de péptidos y para que los fabricantes de membranas proporcionen altos rendimientos, alta eficiencia y mayores tasas de reciclaje que los grados convencionales.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="N-Metilpirrolidona.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -957,7 +957,7 @@ function filtroall(){
     <div class= "col s12 m12 l12 xl6 columnas_pasta_soya div-textoprod" style="position:relative">
     <h5 class="Tipografia--general Titulos"><b>Pasta de Soya</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La Pasta de Soya es la fuente de proteína más importante utilizada en la alimentación humana y del ganado. La pasta de soya es la fuente natural más concentrada de proteína, aminoácidos y energía. Debido a esto en la actualidad es el ingrediente más utilizado por nutriólogos en la elaboración de alimentos balanceados para cualquier tipo de animal.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">La <b>Pasta de Soya</b> es la fuente de proteína más importante utilizada en la alimentación humana y del ganado. La pasta de soya es la fuente natural más concentrada de proteína, aminoácidos y energía. Debido a esto en la actualidad es el ingrediente más utilizado por nutriólogos en la elaboración de alimentos balanceados para cualquier tipo de animal.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Pasta_Soya.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -969,7 +969,7 @@ function filtroall(){
     <div class= "col s12 m12 l12 xl6 columnas_pectinas" style="position:relative">
     <h5 class="Tipografia--general Titulos"><b>Pectinas</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Las Pectinas son una mezcla de polimeros ácidos y neutros muy ramificados.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Las <b>Pectinas</b> son una mezcla de polimeros ácidos y neutros muy ramificados.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Las pectinas son hidrocoloides solubles en agua con funciones gelificantes y espesantes.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Las pectinas tambien proporcionan superficies cargadas que regulan el pH y el balance ionico.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">La Pectina contiene principalmente ácidos galacturonicosparcialmente metoxilados. La pectina, un ingrediente versátil para texturas innovadoras La pectina es un ingrediente y un componente natural de las plantas. La pectina se encuentra en muchas frutas, pero es especialmente abundante en las manzanas y los cítricos. La pectina de la fruta está asociada a la celulosa en los tejidos vegetales, donde juega un papel fundamental en la determinación de sus propiedades mecánicas.</p>
@@ -984,7 +984,7 @@ function filtroall(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative">
     <h5 class="Tipografia--general Titulos"><b>Sebo Alto Hidrogenado</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El Sebo Alto Hidrogenado (HFTA),por sus siglas en ingles, es conocido por su notable versatilidad, lo que lo convierte en un aditivo común en una amplia gama de productos. El ácido graso de sebo hidrogenado (HFTA) se utiliza como intermediario en lubricantes y aceites para laminación, como emoliente en productos para el cuidado personal y como emulsionante en una variedad de aplicaciones.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Sebo Alto Hidrogenado (HFTA)</b>,por sus siglas en ingles, es conocido por su notable versatilidad, lo que lo convierte en un aditivo común en una amplia gama de productos. El ácido graso de sebo hidrogenado (HFTA) se utiliza como intermediario en lubricantes y aceites para laminación, como emoliente en productos para el cuidado personal y como emulsionante en una variedad de aplicaciones.</p>
     
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Sebo_Alto_Hidrogeno.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
@@ -997,7 +997,7 @@ function filtroall(){
     <div class= "col s12 m12 l12 xl6 columnas_sorbitoles div-textoprod" style="position:relative">
     <h5 class="Tipografia--general Titulos"><b>Sorbitoles</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El sorbitol es un polialcohol, alcohol polihidrico alditol de azucar, industrialmente se obtiene por reduccion mediante hidrogenacion catalítica del monosacárido mas comun, “la glucosa”. </p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Sorbitol</b> es un polialcohol, alcohol polihidrico alditol de azucar, industrialmente se obtiene por reduccion mediante hidrogenacion catalítica del monosacárido mas comun, “la glucosa”. </p>
     <p class="Tipografia--general General--Cuerpo letranegro">En la naturaleza el sorbitol es uno de los tres glucidos (sacarosa, almidon y sorbitol), principales producidos por la fotosintesis en las hojas adultas de ciertas plantas de la familia Rosaceae y Plantaginaceae, se ecuentran en cantidades apreciables en algas rojas, peras, manzanas, cerezas, duraznos.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas" style="position:absolute:left:10px;bottom:-30px"><b><a href="Sorbitoles.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
@@ -1010,7 +1010,7 @@ function filtroall(){
     <div class= "col s12 m12 l12 xl6 columnas_sorbitoles div-textoprod" style="position:relative">
     <h5 class="Tipografia--general Titulos"><b>Sulfosuccinatos</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los sulfossucinatos son una clase de surfactantes aniónicos utilizados en una variedad de aplicaciones industriales y de cuidado personal. Estos compuestos se derivan del acido succínico y se caracterizan por tener grupos sulfonato como grupos funcionales principales.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Sulfossucinatos</b> son una clase de surfactantes aniónicos utilizados en una variedad de aplicaciones industriales y de cuidado personal. Estos compuestos se derivan del acido succínico y se caracterizan por tener grupos sulfonato como grupos funcionales principales.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Introducimos nuestros sulfosuccinatos de alta calidad, agentes tensoactivos de ultima generación diseñados para ofrecer resultados superiores en una amplia gama de aplicaciones industriales y de cuidado personal.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas" style="position:absolute:left:10px;bottom:-30px"><b><a href="Sulfosuccinatos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
@@ -1023,7 +1023,7 @@ function filtroall(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos aceite_1024"><b>2-Etilhexanol</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El 2-etilhexanol (abreviado 2-EH) es un alcohol graso ramificado, un compuesto orgánico de ocho átomos de carbono con un grupo alcohol. Es un líquido incoloro que es poco soluble en agua, pero soluble en la mayoría de los disolventes orgánicos. </p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>2-etilhexanol (abreviado 2-EH)</b> es un alcohol graso ramificado, un compuesto orgánico de ocho átomos de carbono con un grupo alcohol. Es un líquido incoloro que es poco soluble en agua, pero soluble en la mayoría de los disolventes orgánicos. </p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="2-Etilhexanol.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -1059,7 +1059,7 @@ function filtroa(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Coco RBD</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El Aceite de Coco RBD (Refinado, Blanqueado, Desodorizado) es un tipo de aceite de coco que ha pasado por un proceso de refinacion para eliminar impurezas, olores y sabores fuertes. Este tipo de aceite es ideal para aplicaciones culinarias y cosméticas donde se prefiere un producto neutro en olor y sabor.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El >El <b>Aceite de Coco Refinado, Blanqueado, Desodorizado (RBD)</b> es un tipo de aceite de coco que ha pasado por un proceso de refinacion para eliminar impurezas, olores y sabores fuertes. Este tipo de aceite es ideal para aplicaciones culinarias y cosméticas donde se prefiere un producto neutro en olor y sabor.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Coco_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -1071,7 +1071,7 @@ function filtroa(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Maiz</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El Aceite de Maíz RBD (Refinado, Blanqueado y Desodorizado), es un tipo de aceite vegetal que se obtiene del maíz mediante un proceso de refinamiento. Este proceso implica eliminar impurezas, olores y sabores no deseados del aceite crudo de maíz.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">>El <b>Aceite de Coco Refinado, Blanqueado, Desodorizado (RBD)</b>, es un tipo de aceite vegetal que se obtiene del maíz mediante un proceso de refinamiento. Este proceso implica eliminar impurezas, olores y sabores no deseados del aceite crudo de maíz.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Maiz.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -1083,7 +1083,7 @@ function filtroa(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Palma RBD</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El aceite de palma RBD (Refinado, Blanqueado y Desodorizado) es una forma procesada del aceite de palma crudo, ampliamente utilizado en la industria alimentaria, cosmética y química debido a sus características versátiles.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Aceite de Palma Refinado, Blanqueado y Desodorizado (RBD)</b> es una forma procesada del aceite de palma crudo, ampliamente utilizado en la industria alimentaria, cosmética y química debido a sus características versátiles.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Palma_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -1095,7 +1095,7 @@ function filtroa(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Palmiste RBD</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El aceite de palmiste RBD (Refinado, Blanqueado y Desodorizado) es un aceite vegetal obtenido a partir de la semilla o núcleo de la palma de aceite (Elaeis guineensis). Este aceite es diferente al aceite de palma, que se extrae de la pulpa del fruto. El término RBD indica que ha pasado por procesos de refinado, blanqueado y desodorizado para eliminar impurezas, colores y olores, haciéndolo más adecuado para aplicaciones industriales y alimenticias.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Aceite de Palmiste Refinado, Blanqueado y Desodorizado (RBD)</b> es un aceite vegetal obtenido a partir de la semilla o núcleo de la palma de aceite (Elaeis guineensis). Este aceite es diferente al aceite de palma, que se extrae de la pulpa del fruto. El término RBD indica que ha pasado por procesos de refinado, blanqueado y desodorizado para eliminar impurezas, colores y olores, haciéndolo más adecuado para aplicaciones industriales y alimenticias.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Palmiste_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -1105,9 +1105,9 @@ function filtroa(){
     <img src="img/ACEITE_RBD_211223.jpg" alt=""  class="zoom IMG_Seccion_Prod">
     </div>
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Aceite de Soya Refinado</b></h5>
+    <h5 class="Tipografia--general Titulos"><b>Aceite de Soya RBD</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Aceite de Soya Refinado, Blanqueado y Desodorizado (RBD) es un aceite comestible muy utilizado en la cocina, tanto en la preparación de alimentos como en la producción de productos procesados. Es conocido por ser versátil y tener un alto punto de humo, lo que lo hace adecuado para freír y cocinar a altas temperaturas.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Aceite de Soya Refinado, Blanqueado y Desodorizado (RBD)</b> es un aceite comestible muy utilizado en la cocina, tanto en la preparación de alimentos como en la producción de productos procesados. Es conocido por ser versátil y tener un alto punto de humo, lo que lo hace adecuado para freír y cocinar a altas temperaturas.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -1119,7 +1119,7 @@ function filtroa(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative">
     <h5 class="Tipografia--general Titulos"><b>Ácidos Grasos</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los ácidos grasos se derivan de grasas y aceites animales como el sebo de res y de aceites vegetales tales como aceite de soja, aceite de colza, aceite de coco y de palmiste, aceite de palma aceite, entre otros.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Ácidos Grasos</b> se derivan de grasas y aceites animales como el sebo de res y de aceites vegetales tales como aceite de soja, aceite de colza, aceite de coco y de palmiste, aceite de palma aceite, entre otros.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Chemical Broker ofrece una amplia gama de Ácidos Grasos de cadena corta, cadena media y cadena larga. Nuestras relaciones de negocios con nuestros fabricantes en America, Europa y Asia brindan capacidad de respuesta y garantía de suministro en todo el mundo.
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Acidos_grasos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
@@ -1132,7 +1132,7 @@ function filtroa(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;>
     <h5 class="Tipografia--general Titulos" style="font-family: Arial !important;font-size:18px !important"><b style="font-family: Arial !important;font-size:18px !important">Ácidos Grasos Destilados de Palma</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los Ácidos Grasos Destilados de Palma se obtienen por desdoblamiento y posterior destilación al vacío del aceite de palma. El producto obtenido es un sólido blanco opaco a temperatura ambiente, con un punto de fusión sobre los 45 °C. Es rico en acido palmítico y esteárico.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Ácidos Grasos Destilados de Palma</b> se obtienen por desdoblamiento y posterior destilación al vacío del aceite de palma. El producto obtenido es un sólido blanco opaco a temperatura ambiente, con un punto de fusión sobre los 45 °C. Es rico en acido palmítico y esteárico.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Acidos_Grasos_Destilados_Palma.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -1145,7 +1145,7 @@ function filtroa(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative">
     <h5 class="Tipografia--general Titulos"><b>Alcoholes Grasos</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Chemical Broker ofrece una amplia gama de Alcoholes Grasos de fracción media y fracción pesada a partir de materias primas naturales sostenibles. </p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Alcoholes Grasos</b> de fracción media y fracción pesada a partir de materias primas naturales sostenibles. </p>
     <p class="Tipografia--general General--Cuerpo letranegro">Nuestras relaciones de negocios con nuestros fabricantes en America, Europa y Asia brindan capacidad de respuesta y garantía de suministro en todo el mundo.
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Alcoholes_Grasos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
@@ -1158,7 +1158,7 @@ function filtroa(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Alcohol Isopropilico</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El Alcohol Isopropilico (propan-2-ol, Isopropanol o 2-propanol), es un compuesto orgánico incoloro e inflamable con un olor a alcohol acre.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Alcohol Isopropilico</b> (propan-2-ol, Isopropanol o 2-propanol), es un compuesto orgánico incoloro e inflamable con un olor a alcohol acre.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Se utiliza en la fabricación de una amplia variedad de productos químicos industriales y domésticos y es un ingrediente común en productos como antisépticos, desinfectantes y detergentes.
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Alcohol_Isopropilico.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
@@ -1175,7 +1175,7 @@ function filtroa(){
     <div class="col s12 m12 l12 xl6 columnas_antioxidantes div-textoprod" style="position:relative">
     <h5 class="Tipografia--general Titulos"><b>Antioxidantes</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los Antioxidantes son moléculas capaces de retardar o prevenir la oxidación de otras moléculas y alargar la vida útil de los productos.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Antioxidantes</b> son moléculas capaces de retardar o prevenir la oxidación de otras moléculas y alargar la vida útil de los productos.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Los antioxidantes son muy importantes para la industria alimentaria humana y animal, así como para la industria farmacéutica, veterinaria y cosmética ya que logran que los productos conserven sus propiedades y sus niveles de calidad.</p>
     
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Antioxidantes.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
@@ -1196,7 +1196,7 @@ function filtroa(){
     <div class="col s12 m12 l12 xl6 columnas_antioxidantes div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Azúcar Refinada</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Azúcar refinada es un tipo de azúcar que ha sido procesada para eliminar las impurezas y el color. Se obtiene a partir de la caña de azúcar o la remolacha azucarera. </p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Azúcar refinada</b> es un tipo de azúcar que ha sido procesada para eliminar las impurezas y el color. Se obtiene a partir de la caña de azúcar o la remolacha azucarera. </p>
     <p class="Tipografia--general General--Cuerpo letranegro">El proceso de refinación implica varias etapas, incluyendo la trituración, la purificación con cal, la carbonatación, la filtración, la cristalización y finalmente, el secado. Este proceso produce un azúcar blanco, granulado y de alta pureza, que es el tipo de azúcar más comúnmente utilizado en la cocina y la repostería.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Azucar_Refinada.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </p>
@@ -1225,7 +1225,7 @@ function filtrob(){
     <div class= "col s12 m12 l12 xl6 columnas_bicarbonato_sodio div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Bicarbonato de Sodio</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El Bicarbonato de Sodio es un compuesto sólido cristalino de color blanco soluble en agua, con un ligero sabor alcalino parecido al del carbonato de sodio (menos fuerte y más salado) Se puede encontrar como mineral en la naturaleza o se puede producir artificialmente.  La forma mineral natural es nahcolita. Es un componente del mineral natrón y se encuentra disuelto en muchos manantiales minerales.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Bicarbonato de Sodio</b> es un compuesto sólido cristalino de color blanco soluble en agua, con un ligero sabor alcalino parecido al del carbonato de sodio (menos fuerte y más salado) Se puede encontrar como mineral en la naturaleza o se puede producir artificialmente.  La forma mineral natural es nahcolita. Es un componente del mineral natrón y se encuentra disuelto en muchos manantiales minerales.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Bicarbonato_Sodio.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -1250,7 +1250,7 @@ function filtroc(){
     <div class="col s12 m12 l12 xl6 columnas_dextrosas div-textoprod" style="position:relative">
     <h5 class="Tipografia--general Titulos"><b>Colágeno Hidrolizado</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Es un producto proteico natural, obtenido por hidrólisis enzimática de material rico en colágeno de origen bovino. Tiene un olor y sabor muy neutro y es adecuado para aplicaciones de mezclas de polvo seco, bebidas, barras, galletas y chicles.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Colageno Hidrolizado</b> es un producto proteico natural, obtenido por hidrólisis enzimática de material rico en colágeno de origen bovino. Tiene un olor y sabor muy neutro y es adecuado para aplicaciones de mezclas de polvo seco, bebidas, barras, galletas y chicles.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Colageno_Hidrolizado.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -1273,9 +1273,9 @@ function filtrod(){
     </div>
     
     <div class="col s12 m12 l12 xl6 columnas_acidos_grasos  div-textoprod" style="position:relative">
-    <h5 class="Tipografia--general Titulos" ><b>Dextrosa</b></h5>
+    <h5 class="Tipografia--general Titulos" ><b>Dextrosas</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La Dextrosa es un azúcar que se encuentra ampliamente en la naturaleza, por ejemplo, en la miel y muchas frutas. Como componente de la celulosa, el almidón y el glucógeno, se encuentra en todas las plantas y animales y también se conoce como "azúcar de uva" o "azúcar en la sangre".</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Las <b>Dextrosas</b> es un azúcar que se encuentra ampliamente en la naturaleza, por ejemplo, en la miel y muchas frutas. Como componente de la celulosa, el almidón y el glucógeno, se encuentra en todas las plantas y animales y también se conoce como "azúcar de uva" o "azúcar en la sangre".</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Dextrosas.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -1287,7 +1287,7 @@ function filtrod(){
     <div class= "col s12 m12 l12 xl6 columnas_dimetilformamida div-textoprod" style="position:relative">
     <h5 class="Tipografia--general Titulos"><b>N, N-Dimetilformamida</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La N, N-Dimetilformamida (Dimetilformamida), comunmente abreviado como DMF, es un compuesto organico, es un liquido incoloro miscible en aguay en la mayoria de componentes organicos.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">La <b>N, N-Dimetilformamida (Dimetilformamida)</b>, comunmente abreviado como DMF, es un compuesto organico, es un liquido incoloro miscible en aguay en la mayoria de componentes organicos.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Dimetilformamida.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -1311,9 +1311,9 @@ function filtroe(){
     <img src="img/CB_ESTEARINA_PALMA_281223.png" alt=""  class="zoom IMG_Seccion_Prod">
     </div>
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Estearina de Palma</b></h5>
+    <h5 class="Tipografia--general Titulos"><b>Estearina de Palma Alto Hidrogenado RBD</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La Estearina de Palma refinada, blanqueada y desodorizada (RBD) es una grasa vegetal derivada del aceite de palma. La Estearina de Palma RBD es una fracción sólida del aceite de palma RBD, obtenida por fraccionamiento mediante procesos simples de cristalización y separación a temperatura controlada. Las propiedades físicas de la Estearina de Palma RBD difieren ampliamente de las del aceite de palma RBD. La Estearina de Palma RBD está disponible en una gama más amplia de puntos de fusión y valores de yodo. </p>
+    <p class="Tipografia--general General--Cuerpo letranegro">La <b>Estearina de Palma Refinada, Blanqueada y Desodorizada (RBD)</b> es una grasa vegetal derivada del aceite de palma. La Estearina de Palma RBD es una fracción sólida del aceite de palma RBD, obtenida por fraccionamiento mediante procesos simples de cristalización y separación a temperatura controlada. Las propiedades físicas de la Estearina de Palma RBD difieren ampliamente de las del aceite de palma RBD. La Estearina de Palma RBD está disponible en una gama más amplia de puntos de fusión y valores de yodo. </p>
     <p class="Tipografia--general Botones letranegro btn_leerMas" style="position:absolute;left:10px;bottom:-30px"><b><a href="Estearina_Palma_Hidrogenado.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -1325,7 +1325,7 @@ function filtroe(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Esteres de sorbitan </b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">En Chemical Broker, nos enorgullece ser tu proveedor de confianza de Esteres de Sorbitan de la más alta calidad. Con años de experiencia en la industria y un compromiso inquebrantable con la excelencia, estamos aquí para satisfacer tus necesidades en el mercado de emulsionantes y estabilizadores. </p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Esteres de Sorbitan</b> de la más alta calidad. Con años de experiencia en la industria y un compromiso inquebrantable con la excelencia, estamos aquí para satisfacer tus necesidades en el mercado de emulsionantes y estabilizadores. </p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Esteres_Sorbitan.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -1352,7 +1352,7 @@ function filtrof(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Ferrazone®</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El Ferrazone® (Ácido Etilendiaminotetraacético (EDTA) Férrico y de Sodio) es apto para uso alimentario y ha sido recomendado por la Organización Mundial de la Salud como el único suplemento de hierro adecuado para la fortificación masiva de harinas de cereales con alto contenido de fitatos y también se recomienda para condimentos como salsa de soja y salsa de pescado. Ferrazone® se utiliza en iniciativas de enriquecimiento de alimentos a gran escala en África, América Latina, Asia y Medio Oriente.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Ferrazone® (Ácido Etilendiaminotetraacético (EDTA) Férrico y de Sodio)</b> es apto para uso alimentario y ha sido recomendado por la Organización Mundial de la Salud como el único suplemento de hierro adecuado para la fortificación masiva de harinas de cereales con alto contenido de fitatos y también se recomienda para condimentos como salsa de soja y salsa de pescado. Ferrazone® se utiliza en iniciativas de enriquecimiento de alimentos a gran escala en África, América Latina, Asia y Medio Oriente.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Ferrazone.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -1365,7 +1365,7 @@ function filtrof(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Fosfatos</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los Fosfatos son un grupo de sustancias químicas que contienen el ion fosfato, PO₄³⁻. Estos compuestos se derivan del ácido fosfórico (H₃PO₄) y se utilizan en una amplia variedad de aplicaciones. A continuación, se ofrece una descripción detallada de los ingredientes y tipos de Fosfatos, junto con sus usos y funciones:</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Fosfatos</b> son un grupo de sustancias químicas que contienen el ion fosfato, PO₄³⁻. Estos compuestos se derivan del ácido fosfórico (H₃PO₄) y se utilizan en una amplia variedad de aplicaciones. A continuación, se ofrece una descripción detallada de los ingredientes y tipos de Fosfatos, junto con sus usos y funciones:</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Fosfatos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -1384,13 +1384,13 @@ function filtrog(){
     
     <div class="row"> 
     <div class = "col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_GLICERINAS_030823.jpg" alt=""  class="zoom IMG_Seccion_Prod">
+    <img src="img/BANNER_PRINCIPAL.jpg" alt=""  class="zoom IMG_Seccion_Prod">
     </div>
 
     <div class= "col s12 m12 l12 xl6 columnas_glicerinas div-textoprod" style="position:relative">
     <h5 class="Titulos Tipografia--general"><b>Glicerinas</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Chemical Broker distribuye mundialmente Glicerina de la mas alta Pureza y Calidad para las formulaciones de nuestros clientes.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">La <b>Glicerina</b> de la mas alta Pureza y Calidad para las formulaciones de nuestros clientes.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Hoy en dia nuestra oferta incluye glicerina en cumplimiento a GMP´s, Kosher, Halal, GFSI, FCC, USP, RSPO Mass Balance. </p>
     
     <p class="Tipografia--general General--Cuerpo letranegro btn_leerMas"><b><a href="Glycerins.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
@@ -1408,7 +1408,7 @@ function filtrog(){
     <div class="col s12 m12 l12 xl6 columnas_glicoles div-textoprod" style="position:relative">
     <h5 class="Titulos Tipografia--general"><b>Glicoles</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los Glicoles son un tipo de compuestos líquidos densos con sabor dulce y acre, son compuestos químicos orgánicos creados a partir de una estructura de hidrocarburo alifático y dos grupos hidroxilo; grupos -OH) que resultan de la reacción del agua con el óxido de etileno.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Glicoles</b> son un tipo de compuestos líquidos densos con sabor dulce y acre, son compuestos químicos orgánicos creados a partir de una estructura de hidrocarburo alifático y dos grupos hidroxilo; grupos -OH) que resultan de la reacción del agua con el óxido de etileno.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Todos los glicoles se presentan en forma de líquido claro, transparente, inodoro y de baja volatilidad. Los glicoles de poco peso molecular son totalmente miscibles en agua y la mayoría cuentan con una gran capacidad para disolverse en casi todos los compuestos orgánicos.</p>
     <p class="Tipografia--general General--Cuerpo letranegro btn_leerMas"><b><a href="Glycols.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
@@ -1478,7 +1478,7 @@ function filtroj(){
     
     <h5 class="Titulos Tipografia--general"><b>Jarabe de Maíz</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El jarabe de maíz es un edulcorante líquido, creado a partir del almidón o fécula de maíz.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Jarabe de Maíz</b> es un edulcorante líquido, creado a partir del almidón o fécula de maíz.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Con un rango de jarabes carbón-refinados, desmineralizados y de conversión enzimática los ingredientes <span style="color:orange">Clearsweet®</span> Jarabes de Maíz y <span style="color:green">Cleardex®</span> Jarabe de Maíz pueden ayudar a alcanzar la textura justa y sabor característico de sus requerimientos </p>
     <p class="Tipografia--general Botones btn_leerMas" ><b><a href="Jarabe_Maiz.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
@@ -1519,7 +1519,7 @@ function filtrol(){
     <div class= "col s12 m12 l12 xl6 columnas_lauril_sulfato div-textoprod" style="position:relative">
     <h5 class="Tipografia--general Titulos"><b>Lauril Sulfato de Sodio 94%</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El Lauril Sulfato de Sodio 94% es un alquilsulfato en forma de polvo. El producto pertenece a los tensoactivos de naturaleza aniónica con un alto contenido en sustancia activa de al menos el 94%.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Lauril Sulfato de Sodio 94%</b> es un alquilsulfato en forma de polvo. El producto pertenece a los tensoactivos de naturaleza aniónica con un alto contenido en sustancia activa de al menos el 94%.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Es un surfactante anionico con alto poder detergente, espumante y humectante. Las características principales de este producto incluyen una excelente capacidad de emulsión, humectabilidad y, lo que es más importante, fuertes propiedades de formación de espuma: este producto produce una espuma alta y muy estable.</p>
     <p class="Tipografia--general Botones btn_leerMas"><b><a href="Lauril_Sulfato_Sodio-94.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
@@ -1532,7 +1532,7 @@ function filtrol(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative">
     <h5 class="Titulos Tipografia--general" style="margin-top:12px"><b>Lecitinas</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La lecitina es una sustancia organica abundante en las membranas de las celulas vegetales y animales, especialmente en las del tejido nervioso; se obtiene de las grasas animales, la yema de huevo, algunas semillas y se emplea en la elaboracion de ciertos alimentos, como la margarina o el chocolate tambien se aplica en otras industrias como farmaceutica y cosmetica. </p>
+    <p class="Tipografia--general General--Cuerpo letranegro">La <b>Lecitina</b> es una sustancia organica abundante en las membranas de las celulas vegetales y animales, especialmente en las del tejido nervioso; se obtiene de las grasas animales, la yema de huevo, algunas semillas y se emplea en la elaboracion de ciertos alimentos, como la margarina o el chocolate tambien se aplica en otras industrias como farmaceutica y cosmetica. </p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Lecitinas.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     `;
@@ -1554,7 +1554,7 @@ function filtrom(){
     <div class= "col s12 m12 l12 xl6 columnas_maltodextrina div-textoprod" style="position:relative">
     <h5 class="Tipografia--general Titulos"><b>Maltrodextrina</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La Maltodextrina es una mezcla de polímeros de glucosa que aparecen como resultado de la hidrolisis del almidón. </p>
+    <p class="Tipografia--general General--Cuerpo letranegro">La <b>Maltodextrina</b> es una mezcla de polímeros de glucosa que aparecen como resultado de la hidrolisis del almidón. </p>
     <p class="Tipografia--general Botones btn_leerMas"><b><a href="Maltodextrina.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -1576,7 +1576,7 @@ function filtron(){
     <div class= "col s12 m12 l12 xl6 columnas_nitruro_boro div-textoprod" style="position:relative">
     <h5 class="Titulos Tipografia--general Titulos"><b>Nitruro de Boro</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El Nitruro de Boro es un compuesto quimico formado por atomos de boro y nitrogeno. Su formula quimica es BN. Este material tiene propiedades interesantes y se utiliza en diversas aplicaciones.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Nitruro de Boro</b> es un compuesto quimico formado por atomos de boro y nitrogeno. Su formula quimica es BN. Este material tiene propiedades interesantes y se utiliza en diversas aplicaciones.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Las soluciones en polvo de Nitruro de Boro fusionan las propiedades clave del Nitruro de Boro Hexagonal (HBN) con una variedad de formas y tamaños de particulas.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Las soluciones em polvo del Nitruro de Boro permiten a nuestros Clientes maximizar los beneficios en una amplia gama de mercados y aplicaciones.</p>
     <p class="Tipografia--general General--Cuerpo letranegro btn_leerMas"><b><a href="Nitruro_Boro.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
@@ -1594,7 +1594,7 @@ function filtron(){
     <div class= "col s12 m12 l12 xl6 columnas_metilpirrolidona div-textoprod" style="position:relative">
     <h5 class="Tipografia--general Titulos"><b>N-Metilpirrolidona</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La N-Metilpirrolidona es un disolvente organico aprotico altamente polar con un contenido reducido de aminas libres y un bajo contenido de agua, se utiliza principalmente en la industria farmaceutica en la sistensis de péptidos y para que los fabricantes de membranas proporcionen altos rendimientos, alta eficiencia y mayores tasas de reciclaje que los grados convencionales.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">La <b>N-Metilpirrolidona</b> es un disolvente organico aprotico altamente polar con un contenido reducido de aminas libres y un bajo contenido de agua, se utiliza principalmente en la industria farmaceutica en la sistensis de péptidos y para que los fabricantes de membranas proporcionen altos rendimientos, alta eficiencia y mayores tasas de reciclaje que los grados convencionales.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="N-Metilpirrolidona.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -1631,7 +1631,7 @@ function filtrop(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative">
     <h5 class="Tipografia--general Titulos"><b>Pasta de Soya</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La Pasta de Soya es la fuente de proteína más importante utilizada en la alimentación humana y del ganado. La pasta de soya es la fuente natural más concentrada de proteína, aminoácidos y energía. Debido a esto en la actualidad es el ingrediente más utilizado por nutriólogos en la elaboración de alimentos balanceados para cualquier tipo de animal.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">La <b>Pasta de Soya</b> es la fuente de proteína más importante utilizada en la alimentación humana y del ganado. La pasta de soya es la fuente natural más concentrada de proteína, aminoácidos y energía. Debido a esto en la actualidad es el ingrediente más utilizado por nutriólogos en la elaboración de alimentos balanceados para cualquier tipo de animal.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Pasta_Soya.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -1643,9 +1643,9 @@ function filtrop(){
     <div class= "col s12 m12 l12 xl6 " style="margin-top:-32px">
     <h5 class="Tipografia--general Titulos"><b>Pectinas</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Las Pectinas son una mezcla de polimeros ácidos y neutros muy ramificados.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Las pectinas son hidrocoloides solubles en agua con funciones gelificantes y espesantes.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Las pectinas tambien proporcionan superficies cargadas que regulan el pH y el balance ionico.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Las <b>Pectinas</b> son una mezcla de polimeros ácidos y neutros muy ramificados.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Las Pectinas son hidrocoloides solubles en agua con funciones gelificantes y espesantes.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Las Pectinas tambien proporcionan superficies cargadas que regulan el pH y el balance ionico.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">La Pectina contiene principalmente ácidos galacturonicosparcialmente metoxilados. La pectina, un ingrediente versátil para texturas innovadoras La pectina es un ingrediente y un componente natural de las plantas. La pectina se encuentra en muchas frutas, pero es especialmente abundante en las manzanas y los cítricos. La pectina de la fruta está asociada a la celulosa en los tejidos vegetales, donde juega un papel fundamental en la determinación de sus propiedades mecánicas.</p>
     <p class="Tipografia--general Botones letranegro Leerpectina"><b><a href="Pectinas.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
@@ -1704,7 +1704,7 @@ function filtros(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Sebo Alto Hidrogenado</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El Sebo Alto Hidrogenado (HFTA),por sus siglas en ingles, es conocido por su notable versatilidad, lo que lo convierte en un aditivo común en una amplia gama de productos. El ácido graso de sebo hidrogenado (HFTA) se utiliza como intermediario en lubricantes y aceites para laminación, como emoliente en productos para el cuidado personal y como emulsionante en una variedad de aplicaciones.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Sebo Alto Hidrogenado (HFTA)</b>,por sus siglas en ingles, es conocido por su notable versatilidad, lo que lo convierte en un aditivo común en una amplia gama de productos. El ácido graso de sebo hidrogenado (HFTA) se utiliza como intermediario en lubricantes y aceites para laminación, como emoliente en productos para el cuidado personal y como emulsionante en una variedad de aplicaciones.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas" style="position:absolute;left:10px;bottom:-30px"><b><a href="Sebo_Alto_Hidrogeno.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -1718,7 +1718,7 @@ function filtros(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative">
     <h5 class="Tipografia--general Titulos"><b>Sorbitoles</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El sorbitol es un polialcohol, alcohol polihidrico alditol de azucar, industrialmente se obtiene por reduccion mediante hidrogenacion catalítica del monosacárido mas comun, “la glucosa”. </p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Sorbitol</b> es un polialcohol, alcohol polihidrico alditol de azucar, industrialmente se obtiene por reduccion mediante hidrogenacion catalítica del monosacárido mas comun, “la glucosa”. </p>
     <p class="Tipografia--general General--Cuerpo letranegro">En la naturaleza el sorbitol es uno de los tres glucidos (sacarosa, almidon y sorbitol), principales producidos por la fotosintesis en las hojas adultas de ciertas plantas de la familia Rosaceae y Plantaginaceae, se ecuentran en cantidades apreciables en algas rojas, peras, manzanas, cerezas, duraznos.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Sorbitoles.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
@@ -1732,7 +1732,7 @@ function filtros(){
     <div class= "col s12 m12 l12 xl6 columnas_sorbitoles div-textoprod" style="position:relative">
     <h5 class="Tipografia--general Titulos"><b>Sulfosuccinatos</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los sulfossucinatos son una clase de surfactantes aniónicos utilizados en una variedad de aplicaciones industriales y de cuidado personal. Estos compuestos se derivan del acido succínico y se caracterizan por tener grupos sulfonato como grupos funcionales principales.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Sulfossucinatos</b> son una clase de surfactantes aniónicos utilizados en una variedad de aplicaciones industriales y de cuidado personal. Estos compuestos se derivan del acido succínico y se caracterizan por tener grupos sulfonato como grupos funcionales principales.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Introducimos nuestros sulfosuccinatos de alta calidad, agentes tensoactivos de ultima generación diseñados para ofrecer resultados superiores en una amplia gama de aplicaciones industriales y de cuidado personal.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas" style="position:absolute:left:10px;bottom:-30px"><b><a href="Sulfosuccinatos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
@@ -2023,7 +2023,7 @@ function filtro2(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos aceite_1024"><b>2-Etilhexanol</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El 2-etilhexanol (abreviado 2-EH) es un alcohol graso ramificado, un compuesto orgánico de ocho átomos de carbono con un grupo alcohol. Es un líquido incoloro que es poco soluble en agua, pero soluble en la mayoría de los disolventes orgánicos. </p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>2-etilhexanol (abreviado 2-EH)</b> es un alcohol graso ramificado, un compuesto orgánico de ocho átomos de carbono con un grupo alcohol. Es un líquido incoloro que es poco soluble en agua, pero soluble en la mayoría de los disolventes orgánicos. </p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="2-Etilhexanol.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>

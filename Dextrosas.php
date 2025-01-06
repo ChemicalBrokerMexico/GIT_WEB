@@ -666,9 +666,9 @@
 
       </table>
 
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La Dextrosa Cristalina está disponible como polvo en forma monohidratada o anhidra. Es un ingrediente muy utilizado para preparaciones de medio cultivo. El polvo de Dextrosa también se puede utilizar como vehículo para la granulación de productos de fermentación.</p>
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La Dextrosa Cristalina está disponible como polvo en forma Monohidratada o Anhidra. Es un ingrediente muy utilizado para preparaciones de medio cultivo. El polvo de Dextrosa también se puede utilizar como vehículo para la granulación de productos de fermentación.</p>
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La Dextrosa Cristalina, también conocida como glucosa, es el monómero fundamental de todos los productos ricos en almidón. Permite a nuestros clientes de la industria química producir las estructuras químicas que necesitan a partir de recursos renovables. Su alta pureza lo convierte en una valiosa fuente de carbono para nuestros clientes de Fermentación.</p>
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La Dextrosa Cristalina está disponible como polvo en forma monohidratada o anhidra. Los polvos de dextrosa están disponibles en varias granulometrías y estructuras cristalinas, adaptados a las necesidades específicas del cliente. La dextrosa de alta pureza también está disponible en forma líquida; para obtener más información, consulte "jarabes de glucosa".</p>
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La Dextrosa Cristalina está disponible como polvo en forma Monohidratada o Anhidra. Los polvos de Dextrosa están disponibles en varias granulometrías y estructuras cristalinas, adaptados a las necesidades específicas del cliente. La Dextrosa de alta pureza también está disponible en forma líquida; para obtener más información, consulte "Jarabes de Glucosa".</p>
 
       <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Propiedades nutricionales</b></h5>
       <p class="Tipografia--general letranegro General--Cuerpo">La Dextrosa, al igual que la sacarosa y otros edulcorantes calóricos completos, tiene un valor calórico de 4 Kcal/g, lo que produce una respuesta glucémica rápida. Proporciona una fuente inmediata de energía para los órganos, los músculos y el cerebro.</p>
@@ -677,7 +677,7 @@
       <p class="Tipografia--general letranegro General--Cuerpo">Con una dulzura relativa que oscila entre 70 y 80 frente a la sacarosa es uno de los edulcorantes a base de almidón más dulces.</p>
 
       <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Propiedades funcionales</b></h2>
-      <p class="Tipografia--general letranegro General--Cuerpo">La dextrosa es uno de los edulcorantes más versátiles y se usa para reducir el punto de congelación en helados, dorar pan y galletas, mejorar el sabor en bebidas con leche chocolatada, dispersabilidad en mezclas en polvo y optimizar la textura, entre otros.</p>
+      <p class="Tipografia--general letranegro General--Cuerpo">La Dextrosa es uno de los edulcorantes más versátiles y se usa para reducir el punto de congelación en helados, dorar pan y galletas, mejorar el sabor en bebidas con leche chocolatada, dispersabilidad en mezclas en polvo y optimizar la textura, entre otros.</p>
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Chemical Broker ofrece Dextrosa Anhidra y Monohidratada, disponibles en una variedad de distribuciones de tamaño de partícula y granulometría para brindar facilidad y estabilidad de mezcla, para satisfacer sus necesidades. Además de grado alimenticio, </p>
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Chemical Broker también ofrece Dextrosa Monohidratada Grado Farmacéutico y para piensos.</p>
 
@@ -703,7 +703,7 @@
 
       <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Etiquetado y Legislación</b></h2>
       <p class="Tipografia--general letranegro General--Cuerpo">La Dextrosa está regulada por la Directiva CE 2001/111/CE relativa a determinados azúcares destinados al consumo humano.</p>
-      <p class="Tipografia--general letranegro General--Cuerpo">Recomendamos incluir 'monohidrato de dextrosa' y 'dextrosa anhidra' como "dextrosa" en la declaración de ingredientes en las etiquetas de alimentos y bebidas terminados.</p>
+      <p class="Tipografia--general letranegro General--Cuerpo">Recomendamos incluir 'Monohidrato de Dextrosa' y 'Dextrosa Anhidra' como "Dextrosa" en la declaración de ingredientes en las etiquetas de alimentos y bebidas terminados.</p>
 
       <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Certificaciones:</b></h2>
       <ol>
@@ -746,11 +746,6 @@
     </div>
     </div>
 
-    <a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
-
-<i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
-
-</a>
 
 
   </div>
@@ -764,7 +759,7 @@
   <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
       alt=""></div><br><br>
   <div class="container-fluid" style="text-align:center;margin-top:-50px">
-    <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos Reservados.
+    <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos Reservados.
       | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
         href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de
         Privacidad </a>

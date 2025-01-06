@@ -497,7 +497,7 @@
 <footer class="altofooter">
 <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="../img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt="ESCUDO DE C&E"></div><br><br>
 <div class="container-fluid center-align" style="margin-top:-50px">
-<p class="Tipografia--general letranegro center-align Pie--Pagina">© 2014 C&E | Chemical Broker. All Rights Reserved. | <a href="Contact.php" style="color:black !important;font-size:16px">Contact |&nbsp</a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Privacy Policy</a></p>
+<p class="Tipografia--general letranegro center-align Pie--Pagina">© 2014 | Chemical Broker. All Rights Reserved. | <a href="Contact.php" style="color:black !important;font-size:16px">Contact |&nbsp</a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Privacy Policy</a></p>
 </div>
 </footer>
 <!-- Start of HubSpot Embed Code -->

@@ -544,7 +544,7 @@
   <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li><img src="img/CB_GLICERINAS_030823.jpg" style="height:800px;" alt="Historia Ascendente">
+          <li><img src="img/BANNER_PRINCIPAL.jpg" style="height:400px;" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
               <h1 class="primertitulo"><b class="boldbanner">Glicerina</b><br></h1>
               <div class="container">
@@ -564,805 +564,311 @@
       <div class="col s12 m12 l12 xl12">
 
       <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Glycerins.php"><b class="Tipografia--general Subtitulos" style="color:red;">Glicerina</b></a></section>
-        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b style="border-bottom:3px solid red;">Glicerinas</b></h2>
-
-        <p class="Tipografia--general letranegro General--Cuerpo"><b>Chemical Broker</b> distribuye mundialmente
-          Glicerina de la más alta Pureza y Calidad para las formulaciones de nuestros clientes.</p>
-
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Hoy en dia nuestra oferta incluye Glicerina en
-          cumplimiento a <b style="color:#000020;">GMP´s, Kosher, Halal, GFSI, FCC, USP, RSPO Mass Balance.</b></p>
-
-          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>¿Que es la Glicerina?</b></h5>
-
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:5px;">La Glicerina es un subproducto de grasas y
-          aceites
-          saponificados, hidrolizados o transesterificados. Al recuperarse en estado crudo, se refina mediante
-          destilación.</p>
-
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Cualidades Fisicas</b>.- Físicamente, la Glicerina
-          es
-          soluble en agua, transparente, incolora e inodora, de sabor dulce y líquido viscoso con un alto punto de
-          ebullición.</p>
-
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Cualidades Químicas</b>.- quimicamente, la
-          Glicerina es un
-          alcohol trihídrico capaz de ser reaccionado pero estable en la mayoría de las condiciones.</p>
-
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La <b>Glicerina</b>, también conocida como
-          <b>Glicerol</b>, es un
-          alcohol en cuya composición están presentes tres hidroxilos. Los hidroxilos se forman de un átomo de oxígeno y
-          un átomo de hidrógeno. Se trata de uno de los principales productos de la degradación digestiva de los
-          lípidos, paso previo para el ciclo de Krebs(1) y también aparece como un producto intermedio de la
-          fermentación alcohólica. Además, junto con los ácidos grasos, es uno de los componentes de lípidos como los
-          triglicéridos y los fosfolípidos. Se presenta en forma de líquido a una temperatura ambiental de 25 °C y es
-          higroscópico e inodoro. Posee un coeficiente de viscosidad alto y tiene un sabor dulce como otros
-          polialcoholes.</p>
-
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La Glicerina es una de las sustancias que intervienen
-          en los procesos de transferencia de tejido adiposo y glucosa entre diversos aparatos del organismo y que
-          forman parte de las membranas celulares. Es un compuesto químico dulce y viscoso – cuya fórmula es C₃H₈O₃ que
-          ha sido utilizado desde la antigüedad como ingrediente fundamental del jabón.</p>
-
-        <blockquote class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">(1) El <b>ciclo de
-            Krebs</b> (<b>ciclo del ácido cítrico o ciclo de los ácidos tricarboxílicos</b>), es una ruta metabólica, es
-          decir, una sucesión de reacciones químicas, que forma parte de la respiración celular en todas las células aeróbicas.
-        </blockquote>
-
-        <h2 class="Tipografia--general letranegro General--Cuerpo Titulos" style="margin-top:50px;"><b>Información Técnica Glicerina</b></h2>
-
-        <table class="display" id="table_id2" name="table_id2"
-          style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:-10px;margin-right:0px;">
-          <tr class="Tipografia--general General--Cuerpo"
-            style="padding:10px;font-size:15px !important;width:150px;">
-            <td
-              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;text-align:center;" class="Tablas_Productos_Glicerina">
-              Fórmula Estructural:
-            </td>
-            </tr>
-
-            <tr class="Tipografoa--general General--Cuerpo">
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;text-align:center;width:50%;" class="Tablas_Productos_Glicerina"><img
-                src="./img/1920px-Glycerin_Skelett2.svg.png" alt="" class="Estructural_Glicerina"></td>
-            </tr>
-
-           
-          
-
-          <tr class="Tipografia--general General--Cuerpo"
-            style="padding:10px;font-size:15px !important;width:150px;">
-            <td
-              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;text-align:center" class="Tablas_Productos_Glicerina">
-              Fórmula:
-            </td>
-          
-          </tr>
-
-
-          <tr>
-          <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;text-align:center" class="Tablas_Productos_Glicerina">
-              HOCH<sub>2</sub>-CHOH-</td>
-          </tr>
-
-          <tr class="Tipografia--general General--Cuerpo"
-            style="padding:10px;font-size:15px !important;width:150px;">
-            <td
-              style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#262137;color:white;text-align:center;" class="Tablas_Productos_Glicerina">
-              Fórmula Molecular:
-            </td>
-         
-          </tr>
-
-
-          <tr class="Tipografia--general General--Cuerpo">
-          <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;text-align:center;" class="Tablas_Productos_Glicerina">
-              C<sub>3</sub>H<sub>8</sub>O<sub>3</sub></td>
-          </tr>
-
-
-
-          <tr class="Tipografia--general General--Cuerpo"
-            style="padding:10px;font-size:15px !important;width:150px;">
-            <td
-              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;text-align:center" class="Tablas_Productos_Glicerina">
-              Nombre IUPAC:
-            </td>
-           
-          </tr>
-
-          <tr class="Tipografia--general General--Cuerpo">
-          <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;text-align:center" class="Tablas_Productos_Glicerina">1, 2, 3 -
-              Propanotriol</td>
-          </tr>
-
-
-
-          <tr class="Tipografia--general General--Cuerpo"
-            style="padding:10px;font-size:18px !important;width:150px;">
-            <td
-              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;text-align: center;" class="Tablas_Productos_Glicerina">
-              Sinónimos:
-            </td>
-            
-          </tr>
-
-          <tr class="Tipografia--general General--Cuerpo">
-          <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;text-align: center;" class="Tablas_Productos_Glicerina">
-              <ol>
-                <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">Glicerol</li>
-                <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro">Glicerina</li>
-                <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro">Propanotriol
-                </li>
-                <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro">
-                  1,2,3-Trihidroxipropano</li>
-              </ol>
-            </td>
-          </tr>
-
-          <tr class="Tipografia--general General--Cuerpo"
-            style="padding:10px;font-size:15px !important;width:150px;">
-            <td
-              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;text-align:center;" class="Tablas_Productos_Glicerina">
-              CAS #:
-            </td>
-            
-          </tr>
-
-          <tr>
-          <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;text-align:center;" class="Tablas_Productos_Glicerina">56-81-5</td>
-          </tr>
-
-
-          <tr class="Tipografia--general General--Cuerpo"
-            style="padding:10px;font-size:18px !important;width:150px;">
-            <td
-              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;text-align: center;" class="Tablas_Productos_Glicerina">
-              EINECS #:
-            </td>
-           
-          </tr>
-
-          <tr>
-          <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;text-align:center;" class="Tablas_Productos_Glicerina">200-289-5</td>
-          </tr>
-
-          <tr class="Tipografia--general General--Cuerpo"
-            style="padding:10px;font-size:15px !important;width:150px;text-align: center;">
-            <td
-              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;text-align: center;" class="Tablas_Productos_Glicerina">
-              ChEBI:
-            </td>
-       
-          </tr>
-
-          <tr>
-          <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;text-align:center" class="Tablas_Productos_Glicerina">17754</td>
-          </tr>
-
-          <tr class="Tipografia--general General--Cuerpo"
-            style="padding:10px;font-size:15px !important;width:150px;">
-            <td
-              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;text-align: center;" class="Tablas_Productos_Glicerina">
-              ChEMBL:
-            </td>
-            
-          </tr>
-
-          <tr class="Tipografia--general General--Cuerpo">
-          <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;text-align:center" class="Tablas_Productos_Glicerina">CHEMBL692</td>
-          </tr>
-
-          <tr class="Tipografia--general General--Cuerpo"
-            style="padding:10px;font-size:15px !important;width:150px;">
-            <td
-              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;text-align: center;" class="Tablas_Productos_Glicerina">
-              ChemSpider:
-            </td>
-          
-          </tr>
-
-
-          <tr>
-          <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;text-align:center;" class="Tablas_Productos_Glicerina">733</td>
-          </tr>
-
-
-          <tr class="Tipografia--general General--Cuerpo"
-            style="padding:10px;font-size:15px !important;width:150px;">
-            <td
-              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;text-align: center;" class="Tablas_Productos_Glicerina">
-              DrugBank:
-            </td>
-            
-          </tr>
-
-
-          <tr class="Tipografia--general General--Cuerpo">
-          <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;text-align:center;" class="Tablas_Productos_Glicerina">09462</td>
-          </tr>
-
-          <tr class="Tipografia--general General--Cuerpo"
-            style="padding:10px;font-size:15px !important;width:150px;">
-            <td
-              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;text-align:center;" class="Tablas_Productos_Glicerina">
-              Pub Chem:
-            </td>
-           
-          </tr>
-
-          <tr class="Tipografia--general General--Cuerpo">
-          <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;text-align:center;" class="Tablas_Productos_Glicerina">753</td>
-          </tr>
-
-          <tr class="Tipografia--general General--Cuerpo"
-            style="padding:10px;font-size:15px !important;width:150px;">
-            <td
-              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;text-align:center" class="Tablas_Productos_Glicerina">
-              UNII:
-            </td>
-         
-          </tr>
-
-          <tr>
-          <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;text-align:center" class="Tablas_Productos_Glicerina">PDC6A3C0OX</td>
-          </tr>
-
-          <tr class="Tipografia--general General--Cuerpo"
-            style="padding:10px;font-size:15px !important;width:150px;">
-            <td
-              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;text-align: center;" class="Tablas_Productos_Glicerina">
-              KEGG:
-            </td>
-       
-          </tr>
-
-          <tr class="Tipografia--general General--Cuerpo">
-          <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;text-align:center" class="Tablas_Productos_Glicerina">C00116 D00028,
-              C00116</td>
-          </tr>
-
-
-        </table>
-
 
 
       </div>
+  </div>
+  </div>
+
+  <div class="container">
+    <div class="row">
       <div class="col s12 m12 l12 xl12">
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Debido a estas propiedades, a su buena compatibilidad
-          con muchas otras sustancias y su facilidad de procesamiento, la Glicerina se utiliza en muchas áreas.</p>
+      
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b style="border-bottom:3px solid red;">Glicerinas</b></h2>
+
+        <p class="Tipografia--general letranegro General--Cuerpo">La <b>Glicerina</b>, también conocida como glicerol, es un compuesto orgánico natural que pertenece al grupo de los alcoholes. Tiene una consistencia espesa, es incolora, inodora y tiene un sabor ligeramente dulce. Es soluble en agua y tiene propiedades higroscópicas, lo que significa que puede absorber agua del ambiente.</p>
+
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Propiedades</b></h2>
+
+        <p class="Tipografia--general letranegro General--Cuerpo">La <b>Glicerina</b> tiene varias propiedades físicas y químicas que la hacen útil en diferentes industrias y aplicaciones.</p>
+
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Propiedades Físicas</b></h2>
+
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Estado físico. -</b> Es un líquido viscoso, incoloro, inodoro y con un sabor ligeramente dulce.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Solubilidad. -</b> Es completamente soluble en agua, lo que la hace útil en muchas formulaciones acuosas. También es miscible con alcohol y otros disolventes polares.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Viscosidad. -</b> Tiene una alta viscosidad, lo que le da una consistencia espesa. Esto es útil en productos cosméticos y farmacéuticos, ya que ayuda a que las fórmulas se adhieran mejor a la piel o se mantengan estables.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Punto de congelación. -</b> La glicerina tiene un punto de congelación relativamente bajo, aproximadamente -38.8°C, lo que le permite mantenerse líquida a temperaturas más bajas que el agua.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Punto de ebullición. -</b> Su punto de ebullición es de 290°C, lo que la hace estable a altas temperaturas sin descomponerse.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Densidad. -</b> Su densidad es de aproximadamente 1.26 g/cm³ a 20°C, lo que la hace más densa que el agua.</p>
+
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Propiedades Químicas</b></h2>
+
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Higroscopicidad. -</b> La glicerina es muy higroscópica, lo que significa que tiene la capacidad de atraer y retener la humedad del ambiente. Esto la convierte en un excelente humectante para productos cosméticos y farmacéuticos.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Propiedades antibacterianas. -</b> Aunque no es un antiséptico fuerte, la glicerina tiene propiedades bacteriostáticas, lo que significa que puede inhibir el crecimiento de algunas bacterias en concentraciones altas.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Estabilidad química. -</b> Es bastante estable y no se descompone fácilmente bajo condiciones normales. Sin embargo, cuando se mezcla con algunos reactivos, como ciertos ácidos fuertes, puede descomponerse en glicerina y otros compuestos, como el dióxido de carbono.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Reactividad. -</b> La glicerina es un alcohol trihidroxilado, lo que significa que puede formar enlaces de hidrógeno con otras moléculas, aumentando su capacidad para disolver o interaccionar con otras sustancias polares.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Formación de ésteres. -</b> La glicerina puede reaccionar con ácidos grasos para formar ésteres, conocidos como triglicéridos, que son una forma común de almacenamiento de energía en los seres vivos.</p>
+
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Propiedades Biológicas</b></h2>
+
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Hidratante. -</b> Es conocida por sus propiedades hidratantes, lo que la convierte en un ingrediente clave en productos para el cuidado de la piel. Ayuda a prevenir la deshidratación de la piel y la mantiene suave.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Seguridad. -</b> Es generalmente segura para su uso en productos cosméticos y alimentos, aunque su ingestión en grandes cantidades puede causar malestar estomacal. Además, es utilizada en medicamentos como un humectante o laxante suave.</p>
+
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Funciones</b></h2>
+
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Hidratante. -</b> La glicerina es un humectante, lo que significa que tiene la capacidad de atraer agua desde el ambiente hacia la piel. Esto ayuda a mantener la piel hidratada, evitando que se seque. Al aplicar glicerina sobre la piel, esta atrae y retiene la humedad, lo que la mantiene suave y flexible.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Emoliente. -</b> Como emoliente, la glicerina ayuda a suavizar y suavizar la piel, formando una barrera que evita la pérdida de humedad y mejora la textura de la piel. Esto la hace ideal para pieles secas y deshidratadas, ya que proporciona una capa protectora que ayuda a mantener la piel en buen estado.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Retenedor de Humedad.-</b> La Glicerina es eficaz debido a su capacidad para atraer y retener agua en la piel. Este efecto se debe a sus propiedades humectantes, lo que significa que actúa como un imán para el agua.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Texturizantes. -</b> mejora la consistencia y la suavidad de las formulaciones</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Excipiente</b></p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Vehículo. -</b La glicerina actúa como una sustancia que facilita la disolución, diseminación o transporte de otros ingredientes activos en una formulación, debido a su capacidad para disolver muchas sustancias solubles en agua y su naturaleza no tóxica.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Laxante. -</b> La glicerina también se utiliza como laxante en algunos tratamientos para aliviar el estreñimiento. Su uso como laxante se debe principalmente a sus propiedades osmóticas y su capacidad para lubricar el tracto intestinal.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Humectante. -</b> La glicerina es un excelente humectante, lo que significa que tiene la capacidad de atraer y retener la humedad. Esto se debe a que es higroscópica, lo que significa que puede atraer agua del ambiente y retenerla en la piel, evitando la deshidratación.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Estabilizante. -</b> La glicerina también actúa como estabilizante en diversas formulaciones, principalmente en productos cosméticos y farmacéuticos. Su capacidad para retener agua y evitar que otros ingredientes se descompongan debido a la exposición a la humedad la convierte en un ingrediente útil en la estabilización de emulsiones y geles.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>En productos alimentarios</b>, la glicerina puede ayudar a prevenir la cristalización del azúcar, como en la producción de jarabes o gomitas, lo que contribuye a mantener una textura suave y estable.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Edulcorante. -</b> Aunque tiene un sabor ligeramente dulce, la glicerina se usa en algunos productos como edulcorante bajo en calorías.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Conservante. -</b> Debido a sus propiedades antimicrobianas, se usa para aumentar la vida útil de algunos productos alimenticios.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Suavizante de tejidos</b></p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Aglutinante. -</b> Su capacidad para actuar como aglutinante proviene de sus propiedades físicas y químicas, como su naturaleza viscosa, su capacidad de retener humedad y su compatibilidad con una amplia gama de materiales.</p>
       </div>
-      <div class="col s12 m12 l12 xl12">
-      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Presencia de la Glicerina en Ácidos Grasos</b>
-        </h2>
-
-        <ol style="list-style-type: disc;margin-bottom:0px">
-
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">El Glicerol está presente en todos los aceites,
-            grasas animales y vegetales en forma combinada, es decir, vinculado a los Ácidos Grasos como el Ácido
-            Esteárico, Ácido Oleico, Ácido Palmítico y Ácido Láurico para formar una molécula de Triglicéridos. </li>
-
-          <br>
-
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Los Aceites de Coco y de Palma contienen una
-            cantidad elevada (70% - 80%) de Ácidos Grasos de cadena de carbono 6 a 14 átomos de carbono.</li>
-
-          <br>
-
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Estos producen más moléculas de Glicerol en los
-            aceites que contienen Ácidos grasos de 16 a 18 átomos de carbono, como las grasas, el Aceite de Semilla de
-            Algodón, el Aceite de Soya, el Aceite de Oliva y el Aceite de Palma. </li>
-
-        </ol>
-        
-      </div>
-      <div class="col s12 m12 l12 xl12">
-      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Presencia en células</b></h2>
-        <ol style="list-style-type:disc;margin-bottom:0px;">
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">El Glicerol combinado también está presente en
-            todas las células animales y vegetales como parte de su membrana celular en forma de fosfolípidos.</li>
-        </ol>
-      </div>
-      <div class="col s12 m12 l12 xl12">
-      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Tipos de Glicerinas</b></h2>
-        <ol style="list-style-type:disc;margin-bottom:0px;">
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Glicerina Líquida:</b> Su función principal es
-            la de
-            espesar y mantener la humedad, se encuentra de manera habitual en productos de cosmética por su capacidad
-            hidratante.</li>
-          <br>
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Glicerina Pura:</b> Suele venir presentada en
-            formato
-            de granel, preparada para ser diluida y posteriormente aplicar sobre la piel. También se conoce como
-            glicerina vegetal, debido a su extracción a partir de aceites vegetales.</li>
-          <br>
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Glicerina Vegetal:</b> La glicerina vegetal es
-            un
-            tipo de glicerina que se refina exclusivamente a partir de grasas 100% vegetales. Es una opción muy buena
-            para aquellos que busquen jabones con bases veganas más respetuosas con el medio ambiente. </li>
-          <br>
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Glicerina en forma sintética y natural:</b> La
-            glicerina se halla de forma sintética y natural, por eso es importante informarse detalladamente sobre sus
-            propiedades y usos, para evitar contraindicaciones, especialmente cuando el consumidor es quien se ocupara
-            de crear la mezcla muchos productos, tanto cosméticos como comestibles, contienen glicerina en su
-            composición.
-
-          </li>
-        </ol>
-      </div>
-      <!-- <div class="col s12 m12 l12 xl12">
-      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Origen</b></h2>
-
-        <p class="Tipografia--general letranegro General--Cuerpo">Todo el glicerol producido en el mundo hasta 1949,
-          provenía de la industria del jabón. Actualmente, el mayor productor de glicerol en bruto es Indonesia,3 y
-          proviene de los glicéridos (grasas y aceites naturales), y el resto de la producción de glicerina sintética
-          (subproducto del propileno), la producción de ácidos grasos y ésteres de ácidos grasos (biodiésel).</p>
-
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Se puede producir mediante saponificación de las
-          grasas, como un subproducto de la fabricación del jabón.</p>
-
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">También puede obtenerse como un subproducto durante la
-          producción del biodiésel mediante transesterificación. Los triglicéridos reaccionan con un alcohol como el
-          etanol con un catalizador para proporcionar ésteres etílicos de ácidos grasos y glicerol.</p>
-
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">El glicerol puede producirse también por diferentes
-          caminos desde el propileno.</p>
-
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;margin-top:50px;">El glicerol se empieza a ebullir a los 290 °C, Se
-          empieza a inflamar a los 160 ºC y la temperatura de autoignición empieza a los 350 ºC.</p>
-
-      </div> -->
-      <div class="col s12 m12 l12 xl12">
-     <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Propiedades</b></h2>
-
-        <ol style="list-style-type: disc;margin-bottom:0px">
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Agente Humectante.- </b> Tensoactivo que,
-            agregado al agua, reduce su tensión superficial y promueve la humectación haciendo que el agua penetre en
-            otro material.</li>
-
-          <br>
-
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Anticongelante.- </b> Compuestos que se añaden
-            a los líquidos para reducir su punto de solidificación, logrando de esta forma que la mezcla resultante se
-            congele a una temperatura más baja.</li>
-
-          <br>
-
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Conservador.- </b> Sustancia o mezcla de
-            sustancias que previene, retarda o detiene la fermentación, el enmohecimiento, la putrefacción, la
-            acidificación u otra alteración de los productos causados por algunos microrganismos y por algunas enzimas.
-          </li>
-
-          <br>
-
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Edulcorante.- </b> Sustancia química que se
-            añade a un alimento o medicamento para darle sabor dulce.</li>
-
-          <br>
-
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Emulsionante.- </b> Producto que facilita o
-            estabiliza la emulsión.</li>
-
-          <br>
-
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Espesante.- </b> Sustancia que se añade a una
-            solución líquida para hacerla más espesa.</li>
-
-          <br>
-
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Lubricante.- </b> Sustancia grasa o aceitosa
-            que se aplica a las piezas de un engranaje para que el rozamiento sea menor o más suave.</li>
-
-          <br>
-
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Plastificante.- </b> Aditivo que suaviza los
-            materiales.</li>
-
-          <br>
-
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Solvente.- </b> Sustancia en la que se diluye
-            un sólido, líquido o gas químicamente diferente, se aplica en adhesivos, componentes en las pinturas,
-            productos farmacéuticos, elaboración de materiales sintéticos, etc.</li>
-
-          <br>
-
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Dispersante.- </b> Es un aditivo que se
-            utiliza
-            para lograr que un soluto tenga distribución y dispersión en un disolvente.</li>
-
-          <br>
-
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Emoliente.- </b> La glicerina ayuda a
-            hidratar, suavizar y calmar la piel. Además de la suavidad general que aporta, es capaz de alisar la
-            superficie de la piel, llegando a reducir levemente la profundidad de pequeñas arrugas. Reduce la sensación
-            áspera ocasionada por la deshidratación. Favorece la absorción cutánea y la dispersión de emulsiones.</li>
-
-          <br>
-
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Laxante.- </b> Al atraer agua del cuerpo al
-            sistema digestivo, con la finalidad de estimular los movimientos intestinales.</li>
-
-          <br>
-
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Antiséptico.- </b> Se aplica de forma tópica
-            sobre tejidos vivos, como pueden ser la piel intacta, las mucosas o las heridas, sin afectar de forma
-            sensible a estos tejidos, con la intención de eliminar o reducir la población de microorganismos vivos.</li>
-
-        </ol>
-
-      </div>
-      <div class="col s12 m12 l12 xl12">
-      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Industrias y Funciones</b>
-        </h2>
-        <ol style="list-style-type:disc;" class="margin60_escritorio margin_movil">
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Farmacéutica:</b></li>
-          <ol style="list-style-type: disc;margin-top:15px;">
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Excipiente,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Humectante,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Lubricante,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Suavizante.</li>
-          </ol>
-        </ol>
-
-        <ol style="list-style-type: disc;margin-top:50px;">
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Nutrición Humana:</b></li>
-          <ol style="list-style-type: disc;" class="margin60_escritorio margin_movil">
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Conservador,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Edulcorante,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Emulsificante,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Filtro en productos alimenticios bajos en
-              grasas,</li>
-              <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Humectante,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Plastificante,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Solvente,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Suavizante.</li>
-          </ol>
-        </ol>
-
-        <ol style="list-style-type: disc;margin-top:50px;margin-bottom:0px;">
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Cosméticos y Cuidado Personal:</b></li>
-          <ol style="list-style-type: disc;" class="margin60_escritorio margin_movil">
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Emoliente,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Excipiente,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Humectante,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Lubricante,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Solvente.</li>
-          </ol>
-        </ol>
-
-        <ol style="list-style-type: disc;margin-top:50px;margin-bottom:0px;">
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Agroquímicos:</b></li>
-          <ol style="list-style-type: disc;" class="margin60_escritorio margin_movil">
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Vehiculo,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Disolvente,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Humectante,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Anticongelante.</li>
-          </ol>
-        </ol>
-
-        <ol style="list-style-type: disc;margin-top:50px;margin-bottom:0px;">
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Detergentes y Cuidado del Hogar:</b></li>
-          <ol style="list-style-type: disc;" class="margin60_escritorio margin_movil">
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Suavizantes,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Plastificante,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;margin-bottom:0px;">Lubricante.</li>
-          </ol>
-        </ol>
-      </div>
-      <div class="col s12 m12 l12 xl12">
-      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Aplicaciones e Industrias</b>
-        </h2>
-        <ol style="list-style-type:disc;" class="margin60_escritorio margin_movil">
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Farmacéutica:</b></li>
-          <ol style="list-style-type: disc;margin-top:15px;">
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Anestésicos,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Antisépticos,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Capsulas de gel,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Cremas,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Descongestión nasal,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Disolvente de Alcaloides,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Disolvente de Bromo,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Disolvente de Cloruro de Mercurio,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Disolvente de Fenol,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Disolvente de Iodo,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Disolvente de Timol,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Elixires,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Expectorantes,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Jarabes para la tos,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Grajeas,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Humectantes Oftalmológicos,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Inhidores de cambios enzimaticos (Proceso de
-              fermentación de cremas, ungüentos y pastas,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Laxante,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Pastas,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Pastillas,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Preparaciones médicas y farmacéuticas,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Productos para combatir la infección de oído,
-            </li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Productos para desinfectar,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Supositorios para estreñimiento,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Ungüentos.</li>
-          </ol>
-        </ol>
-
-        <ol style="list-style-type: disc;margin-top:50px;">
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Nutrición Humana:</b></li>
-          <ol style="list-style-type: disc;" class="margin60_escritorio margin_movil">
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Barras nutrimentales,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Bebidas sin alcohol, como aditivo para aumentar
-              la calidad,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Café,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Champagne,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Extractos de Té,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Fragancias y aromas para cocinar,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Frutos secos,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Galletas,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Helados,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Pasteles,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Vinos y Vinos Espumosos,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Sustituto de agua para humectación,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Saborizantes,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Colorantes,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Fabricacion de esteres de poli glicerol en
-              mantecas y margarinas,</li>
-              <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Galletas; como filtro en productos alimenticios
-              bajos en grasas,</li>
-              <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Confiteria,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Alta Reposteria; pasteles,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Tripas para carne,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Quesos.</li>
-          </ol>
-        </ol>
-
-        <ol style="list-style-type: disc;margin-top:50px;margin-bottom:0px;">
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Cosméticos y Cuidado Personal:</b></li>
-          <ol style="list-style-type: disc;" class="margin60_escritorio margin_movil">
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Acondicionador,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Cremas de afeitar,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Cremas emolientes,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Enjuague Bucal,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Gel antibacterial,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Jabon de Tocador,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Lociones para la piel,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Pasta Dentrifica,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Shampoo,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Gel para cabello.</li>
-          </ol>
-        </ol>
-
-        <ol style="list-style-type: disc;margin-top:50px;margin-bottom:0px;">
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Tabacalera:</b></li>
-        </ol>
-
-        <ol style="list-style-type: disc;margin-top:50px;margin-bottom:0px;">
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Barnices, Pinturas y Recubrimientos:</b></li>
-          <br>
-          <ol style="list-style-type:disc" class="margin60_escritorio margin_movil">
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Revestimientos y superficies de pinturas.</li>
-          </ol>
-        </ol>
-
-        <ol style="list-style-type: disc;margin-top:50px;margin-bottom:0px;">
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Mineria:</b></li>
-          <ol style="list-style-type:disc" class="margin60_escritorio margin_movil">
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Riesgo de tierra para evitar el levantamiento
-              de polvo.</li>
-
-          </ol>
-        </ol>
-
-        <ol style="list-style-type: disc;margin-top:50px;margin-bottom:0px;">
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Celulosa y Papel:</b></li>
-          <ol style="list-style-type:disc" class="margin60_escritorio margin_movil">
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Peliculas de celulosas,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Fabricacion de papel como plastificante,
-              humectante y lubricante.</li>
-          </ol>
-        </ol>
-
-        <ol style="list-style-type: disc;margin-top:50px;margin-bottom:0px;">
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Textil:</b></li>
-          <ol style="list-style-type:disc" class="margin60_escritorio margin_movil">
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Utilizado para lubricar, encolar y suavizar
-              hilo y tela.</li>
-          </ol>
-        </ol>
-
-        <ol style="list-style-type: disc;margin-top:50px;margin-bottom:0px;">
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Industrial:</b></li>
-          <ol style="list-style-type:disc" class="margin60_escritorio margin_movil">
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Fluidos anticongelantes,</li>
-            <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Principal materia prima en la produccion de
-              polioles para espumas flexibles,</li>
-              <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Utilizado en combinacion con propilenglicol e
-              etilenglicol para fluidos que requieren puntos de congelacion bajos y baja viscocidad, producccion de
-              epiclorhidrina,</li>
-              <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Utilizado en la fabricación de lubricantes.
-            </li>
-          </ol>
-        </ol>
-
-
-        <ol style="list-style-type: disc;margin-top:50px;margin-bottom:0px;">
-          <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;"><b>Industria Química:</b></li>
-          <ol style="list-style-type:disc" class="margin60_escritorio margin_movil">
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">Utilizado como suavizante y plastificante en la
-              fabricación de polioles,</li>
-              <br>
-            <li class="Tipografia--general letranegro Elementos--Listas" style="margin-left:-23px;">La glicerina es el iniciador al que se le
-              agrega oxido de propileno / óxido de etileno.</li>
-          </ol>
-        </ol>
-      </div>
-      <div class="col s12 m12 l12 xl12">
-      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;"><b>Proveedores:</b></h2>
-      </div>
-
-      <!-- <table style="margin-top:30px;">
-          <tr style="border:none;">
-            <td>
-              <img src="img/OLEON_LOGO_270422.jpg" alt="Oleon Logo" class="OLEON_LOGO">
-            </td>
-          </tr>
-          <tr style="border:none;">
-            <td>
-              <h5 class="Tipografia--general letranegro Titulos">
-                <b>Portafolios de Productos:</b></h5>
-            </td>
-          </tr>
-          <tr style="border:none;">
-            <td>
-              <ol>
-                <a href="Proximamente.php">
-                  <li class="Tipografia--general letranegro Elementos--Listas"
-                    style="list-style-type:disc;color:rgba(2 146 238 /99%);margin-left:-23px;">Bicar® Pharma</li>
-                </a>
-                <a href="Proximamente.php">
-                  <li class="Tipografia--general letranegro Elementos--Listas"
-                    style="list-style-type:disc;color:rgba(2 146 238 /99%);margin-left:-23px;">Bicar® Food</li>
-                </a>
-                <a href="Bicar_USP.php">
-                  <li class="Tipografia--general letranegro Elementos--Listas"
-                    style="list-style-type:disc;color:rgba(2 146 238 /99%);margin-left:-23px;">Bicar® USP</li>
-                </a>
-                <a href="Proximamente.php">
-                  <li class="Tipografia--general letranegro Elementos--Listas"
-                    style="list-style-type:disc;color:rgba(2 146 238 /99%);margin-left:-23px;">Bicar® Z</li>
-                </a>
-
-
-              </ol>
-
-            </td>
-          </tr>
-        </table> -->
-
-
-
-
-
-      <div class="col s12 m12 l12 xl12">
-      <img src="img/OLEON_LOGO_270422.jpg" alt="OLEON-LOGO" class="OLEON_LOGO"
-          style="margin-top:30px;">
-      </div>
-      <div class="col s12 m12 l12 xl12">
-      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Portafolio de Productos:</b></h2>
-        <a href="PDF/CATALOGUES/OLEON_OLEOCHEMICALS-BROCHURE_2022.pdf"
-          class="arrowblue Tipografia--general Botones letranegro" download
-          style="margin-top: 30px;color:rgba(2 146 238 /99%)">OLEON_OLEOCHEMICALS-BROCHURE_2022.pdf &nbsp<span
-            class="arrowblue desaparece"></span></a>
-        <br>
-      </div>
-      <div class="col s12 l12 xl12"><img src="img/LOGO_CREMER3_010922.png" alt="CREMER-LOGO" class="CREMER_LOGO"
-          style="margin-top:80px;"></div>
-      <div class="col s12 m12 l12 xl12" style="margin-top:50px;">
-        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:0px;"><b>Portafolio de Productos:</b></h2>
-        <a href="PDF/CATALOGUES/CREMER_OLEOCHEMICALS-BROCHURE_2022.pdf"
-          class="arrowblue Tipografia--general Botones letranegro" download
-          style="margin-top: 30px;color:rgba(2 146 238 /99%)">CREMER_OLEOCHEMICALS-BROCHURE_2022.pdf &nbsp<span
-            class="arrowblue desaparece"></span></a>
-        <br>
-      </div>
-      <div class="col s12 l12 xl12"><img src="img/P&G-CHEMICALS_LOGO_010922.png" alt="P&G-LOGO" class="PG_LOGO"
-          style="margin-top:80px;"></div>
-          <div class="col s12 m12 l12 xl12" style="margin-top:50px;">
-        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:0px;"><b>Portafolio de Productos:</b></h2>
-        <a href="PDF/CATALOGUES/P&GC_GLYCEROLS-BRAND-MATRIX_2022.pdf"
-          class="arrowblue Tipografia--general Botones letranegro" download
-          style="margin-top: 30px;color:rgba(2 146 238 /99%)">P&GC_GLYCEROLS-BRAND-MATRIX_2022.pdf&nbsp<span
-            class="arrowblue desaparece"></span></a>
-        <br>
-      </div>
-
+    </div>
+  </div>
+
+  <div class="container" style="margin-top:50px;display:flex;justify-content:center;align-items:center;">
+    <div class="row">
+    
+    <div class="col s12 m12 l12 xl12">
+    <h2 class="Tipografia--general letranegro Titulos" style="margin-top:0px;"><b>Aplicaciones</b></h2>
     </div>
 
-    <a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
-
-<i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
-
-</a>
-
+    <div class="col s12 m6 l6 xl6">
+    <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Cosmética y Cuidado Personal:</b></h2>
+    <ol>
+        <li class="Elementos--Listas">Cremas</li>
+        <br>
+        <li class="Elementos--Listas">Lociones</li>
+        <br>
+        <li class="Elementos--Listas">Geles</li>
+        <br>
+        <li class="Elementos--Listas">Jabones</li>
+        <br>
+        <li class="Elementos--Listas">Shampoos</li>
+        <br>
+        <li class="Elementos--Listas">Acondicionadores</li>
+        <br>
+        <li class="Elementos--Listas">Mascarillas capilares</li>
+        <br>
+        <li class="Elementos--Listas">Maquillaje</li>
+        <br>
+        <li class="Elementos--Listas">Delineadores</li>
+        <br>
+        <li class="Elementos--Listas">Mascarillas</li>
+      </ol>
+    </div>
+    <div class="col s12 m6 l6 xl6">
+    <img src="img/DELINEADOR.jpg" alt="" width="100%" style="margin-top:10px;border-radius:10px;">
+    </div>
+    </div>
   </div>
+
+  <div class="container" style="margin-top:50px;display:flex;justify-items:center;align-items:center;">
+    <div class="row">
+      <div class="col s12 m6 l6 xl6">
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Farmacéutica:</b></h2>
+      <ol>
+        <li class="Elementos--Listas"><b>Jarabes y suspensiones</b></li>
+        <br>
+        <li class="Elementos--Listas">Supositorios</li>
+        <br>
+        <li class="Elementos--Listas">Ungüentos</li>
+        <br>
+        <li class="Elementos--Listas">Cremas</li>
+      </ol>
+      </div>
+      <div class="col s12 m6 l6 xl6">
+        <img src="img/FARMACEUTICA.jpg" alt="" width="100%" style="border-radius:10px;">
+      </div>
+    </div>
+  </div>
+
+  <div class="container" style="margin-top:50px;display:flex;justify-content:center;align-items:center;">
+  <div class="row">
+    <div class="col s12 m6 l6 xl6">
+    <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Alimentaria | Aditivo Alimentario (E422):</b></h2>
+
+<ol>
+  <li class="Elementos--Listas">Caramelos</li>
+  <br>
+  <li class="Elementos--Listas">Pasteles</li>
+  <br>
+  <li class="Elementos--Listas">Galletas</li>
+  <br>
+  <li class="Elementos--Listas">Helados</li>
+  <br>
+  <li class="Elementos--Listas">Barras nutrimentales</li>
+</ol>
+    </div>
+    <div class="col s12 m6 l6 xl6">
+    <img src="img/BARRA_NUTRIMENTAL.jpg" alt="" width="100%" style="border-radius:10px;">
+    </div>
+  </div>
+  </div>
+
+  <div class="container" style="margin-top:50px;display: flex;justify-content: center;align-items: center;">
+    <div class="row">
+      <div class="col s12 m6 l6 xl6">
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Detergentes y Limpiadores:</b></h2>
+        <ol>
+          <li class="Elementos--Listas"><b>Detergentes</b></li>
+          <br>
+          <li class="Elementos--Listas">Limpiadores</li>
+        </ol>
+      </div>
+      <div class="col s12 m6 l6 xl6">
+<img src="img/DETERGENTES.jpg" alt="" width="100%" style="border-radius:10px;">
+      </div>
+    </div>
+  </div>
+
+  <div class="container" style="margin-top:50px;">
+    <div class="row">
+      <div class="col s12 m6 l6 xl6">
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Quimica:</b></h2>
+        <ol>
+        <li class="Elementos--Listas">Nitroglicerina</li>
+        </ol>
+      </div>
+      <div class="col s12 m6 l6 xl6">
+      <img src="img/Quimico.jpg" alt="" width="100%" style="border-radius:10px;margin-top:50px;display:flex;justify-content:center;align-items:center;">
+      </div>
+    </div>
+  </div>
+
+  <div class="container" style="margin-top:50px;display: flex;justify-content: center;align-items: center;">
+    <div class="row">
+      <div class="col s12 m6 l6 xl6">
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Polímeros:</b></h2>
+        <ol>
+        <li class="Elementos--Listas"><b>Poliuretanos</b></li>
+        <br>
+        <li class="Elementos--Listas">Resinas</li>
+        <br>
+        <li class="Elementos--Listas">Plásticos</li>
+        </ol>
+      </div>
+      <div class="col s12 m6 l6 xl6">
+<img src="img/ESPONJAS.jpg" alt="" width="100%" style="border-radius:10px;">
+      </div>
+    </div>
+  </div>
+
+  <div class="container" style="margin-top:50px;display: flex;justify-content: center;align-items: center;">
+    <div class="row">
+      <div class="col s12 m6 l6 xl6">
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Textil:</b></h2>
+        <ol>
+          <li class="Elementos--Listas">Ropa o Textiles</li>
+          <br>
+          <li class="Elementos--Listas">Tratamiento de Pieles</li>
+        </ol>
+      </div>
+      <div class="col s12 m6 l6 xl6">
+<img src="img/TEXTILES.jpg" alt="" width="100%" style="border-radius:10px;">
+      </div>
+    </div>
+  </div>
+
+  <div class="container" style="margin-top:50px;margin-top:50px;display:flex;justify-content:center;align-items:center;">
+    <div class="row">
+      <div class="col s12 m6 l6 xl6">
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Energía:</b></h2>
+        <ol>
+          <li class="Elementos--Listas">Propilenglicol</li>
+        </ol>
+      </div>
+      <div class="col s12 m6 l6 xl6">
+<img src="img/ENERGIA.jpg" alt="" width="100%">
+      </div>
+    </div>
+  </div>
+
+  <div class="container" style="margin-top:50px;display: flex;justify-content: center;align-items: center;">
+    <div class="row">
+      <div class="col s12 m6 l6 xl6">
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Agroquímicos:</b></h2>
+        <ol>
+          <li class="Elementos--Listas">Conservante de Semillas</li>
+          <br>
+          <li class="Elementos--Listas">Pesticidas</li>
+          <br>
+          <li class="Elementos--Listas">Fertilizantes</li>
+        </ol>
+      </div>
+      <div class="col s12 m6 l6 xl6">
+<img src="img/AGROQUIMICOS.jpg" alt="" width="100%" style="border-radius:10px;">
+      </div>
+    </div>
+  </div>
+
+  <div class="container" style="margin-top:50px;margin-top:50px;display:flex;justify-content:center;align-items:center;">
+    <div class="row">
+      <div class="col s12 m6 l6 xl6">
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Pintura:</b></h2>
+        <ol>
+          <li class="Elementos--Listas">Pinturas</li>
+          <br>
+          <li class="Elementos--Listas">Tintes</li>
+        </ol>
+      </div>
+      <div class="col s12 m6 l6 xl6">
+<img src="img/PINTURA.jpg" alt="" width="100%">
+      </div>
+    </div>
+  </div>
+
+  <div class="container" style="margin-top:50px;margin-top:50px;display:flex;justify-content:center;align-items:center;">
+    <div class="row">
+      <div class="col s12 m6 l6 xl6">
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Industria Automotriz:</b></h2>
+        <ol>
+        <li class="Elementos--Listas">Lubricantes</li>
+        <br>
+        <li class="Elementos--Listas">Fluidos Hidraulicos</li>
+        </ol>
+      </div>
+      <div class="col s12 m6 l6 xl6">
+<img src="img/AUTOMOTRIZ.jpg" alt="" width="100%">
+      </div>
+    </div>
+  </div>
+
+  <div class="container" style="margin-top:50px;display: flex;justify-content: center;align-items: center;">
+    <div class="row">
+      <div class="col s12 m6 l6 xl6">
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Minería:</b></h2>
+        <ol>
+          <li class="Elementos--Listas"><b>Riego de Tierra</b></li>
+        </ol>
+      </div>
+      <div class="col s12 m6 l6 xl6">
+<img src="img/MINERIA.jpg" alt="" width="100%" style="border-radius:10px;">
+      </div>
+    </div>
+  </div>
+
+  <div class="container" style="margin-top:50px;display: flex;justify-content: center;align-items: center;">
+    <div class="row">
+      <div class="col s12 m6 l6 xl6">
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Tabaco:</b></h2>
+        <ol>
+          <li class="Elementos--Listas">Fabricación de cigarros</li>
+          <br>
+          <li class="Elementos--Listas">Cigarros electrónicos</li>
+        </ol>
+      </div>
+      <div class="col s12 m6 l6 xl6">
+<img src="img/TABACO.jpg" alt="" width="100%" style="border-radius:10px;">
+      </div>
+    </div>
+  </div>
+        
 
 </body>
 <footer style="margin-top:70px">
   <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
       alt=""></div><br><br>
   <div class="container-fluid" style="text-align:center;margin-top:-50px">
-    <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos Reservados.
+    <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos Reservados.
       | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
         href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de
         Privacidad </a>

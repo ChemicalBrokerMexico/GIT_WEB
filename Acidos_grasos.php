@@ -591,9 +591,9 @@
       <section><a class="active" href="#" style="color:black !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos " style=color:black>Productos > </b> </a> <a class=" active" href="Acidos_grasos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Ácidos Grasos</b></a></section>
 
         <h2 class="Tipografia--general letranegro Titulos"><b>Ácidos Grasos</b></h2>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px">Los <b style="color:#262137;">ácidos grasos</b> se
-          derivan de grasas y aceites animales como el sebo de res y de aceites vegetales tales como aceite de soja,
-          aceite de colza, aceite de coco y de palmiste, aceite de palma aceite, entre otros.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px">Los <b style="color:#262137;">Ácidos Grasos</b> se
+          derivan de grasas y aceites animales como el Sebo de Res y de Aceites Vegetales tales como Aceite de Soja,
+          Aceite de Colza, Aceite de Coco y de Palmiste, Aceite de Palma, entre otros.</p>
 
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;"><b>Chemical
             Broker</b>
@@ -602,7 +602,7 @@
           suministro en todo el mundo.</p>
 
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Un <b
-            style="color:#262137;">ácido graso</b> es una biomolécula de naturaleza lipídica formada por una larga
+            style="color:#262137;">Ácido Graso</b> es una biomolécula de naturaleza lipídica formada por una larga
           cadena hidrocarbonada lineal, de diferente longitud o número de átomos de carbono, en cuyo extremo hay un
           grupo carboxilo, es decir, un oxígeno enlazado doblemente con el carbono y un grupo hidroxilo (OH) enlazado
           con el mismo. Esto le da condición de ácido a la molécula. Cada átomo de carbono se une al siguiente y al
@@ -618,8 +618,8 @@
           como R-COOH, donde R es la cadena hidrocarbonada que identifica al ácido en particular. </p>
         </p>
 
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Los <b>ácidos
-          grasos</b> forman parte de los fosfolípidos y
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Los <b>Ácidos
+          Grasos</b> forman parte de los fosfolípidos y
           glucolípidos, moléculas que constituyen la bicapa lipídica de todas las membranas celulares. En los mamíferos,
           incluido el ser humano, la mayoría de los ácidos grasos se encuentran en forma de triglicéridos, moléculas
           donde los extremos carboxílico (-COOH) de tres ácidos grasos se esterifican con cada uno de los grupos
@@ -3177,7 +3177,7 @@
             <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Bebidas,</li>
             <br>
-            <li class="Tipografia--general letranegro Elementos--Listas">Bebidas deportivas,</li>
+            <li class="Tipografia--general letranegro Elementos--Listas">Bebidas Deportivas,</li>
             <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Fórmula infantil y de continuación,</li>
             <br>
@@ -3218,10 +3218,10 @@
           <li class="Tipografia--general letranegro Elementos--Listas"><b>Household, Industrial & Institutional:</b>
           </li>
           <ol style="list-style-type:disc" class="margin60_escritorio margin_movil">
-            <li class="Tipografia--general letranegro Elementos--Listas">Inhibidores de corrosión para anticongelantes,
+            <li class="Tipografia--general letranegro Elementos--Listas">Inhibidores de Corrosión para Anticongelantes,
             </li>
             <br>
-            <li>Flotación de minerales de fosfato,</li>
+            <li>Flotación de Minerales de Fosfato,</li>
             <br>
             <li>Producción de Alcoholes Plastificantes.</li>
           </ol>
@@ -3230,35 +3230,35 @@
         <ol style="list-style-type: disc;margin-top:50px;margin-bottom:0px;margin-left:-25px;">
           <li class="Tipografia--general letranegro Elementos--Listas"><b>Agroquímicos:</b></li>
           <ol style="list-style-type:disc" class="margin60_escritorio margin_movil">
-            <li class="Tipografia--general letranegro Elementos--Listas">Riesgo de tierra para evitar el levantamiento
-              de polvo.</li>
+            <li class="Tipografia--general letranegro Elementos--Listas">Riesgo de Tierra para Evitar el Levantamiento
+              de Polvo.</li>
               <br>
-            <li class="Tipografia--general letranegro Elementos--Listas">Cloruros de alquilo,</li>
+            <li class="Tipografia--general letranegro Elementos--Listas">Cloruros de Alquilo,</li>
             <br>
-            <li class="Tipografia--general letranegro Elementos--Listas">Amidas para productos agrícolas,</li>
+            <li class="Tipografia--general letranegro Elementos--Listas">Amidas para Productos Agrícolas,</li>
             <br>
             <li class="Tipografia--general letranegro Elementos--Listas">Fungicidas,</li>
             <br>
-            <li class="Tipografia--general letranegro Elementos--Listas">Intermedios reactivos.</li>
+            <li class="Tipografia--general letranegro Elementos--Listas">Intermedios Reactivos.</li>
           </ol>
         </ol>
 
         <ol style="list-style-type: disc;margin-top:50px;margin-bottom:0px;margin-left:-25px;">
           <li class="Tipografia--general letranegro Elementos--Listas"><b>Lubricantes:</b></li>
           <ol style="list-style-type:disc" class="margin60_escritorio margin_movil">
-            <li class="Tipografia--general letranegro Elementos--Listas">Lubricantes sintéticos,</li>
+            <li class="Tipografia--general letranegro Elementos--Listas">Lubricantes Sintéticos,</li>
             <br>
-            <li class="Tipografia--general letranegro Elementos--Listas">Lubricantes de refrigeración,</li>
+            <li class="Tipografia--general letranegro Elementos--Listas">Lubricantes de Refrigeración,</li>
             <br>
-            <li class="Tipografia--general letranegro Elementos--Listas">Fluidos hidráulicos resistentes al fuego,</li>
+            <li class="Tipografia--general letranegro Elementos--Listas">Fluidos Hidráulicos Resistentes al Fuego,</li>
             <br>
-            <li class="Tipografia--general letranegro Elementos--Listas">Lubricantes de aviación,</li>
+            <li class="Tipografia--general letranegro Elementos--Listas">Lubricantes de Aviación,</li>
             <br>
-            <li class="Tipografia--general letranegro Elementos--Listas">Aplicación en campos petrolíferos,</li>
+            <li class="Tipografia--general letranegro Elementos--Listas">Aplicación en Campos Petrolíferos,</li>
             <br>
-            <li class="Tipografia--general letranegro Elementos--Listas">Aditivos poliméricos,</li>
+            <li class="Tipografia--general letranegro Elementos--Listas">Aditivos Poliméricos,</li>
             <br>
-            <li class="Tipografia--general letranegro Elementos--Listas">Inhibidores de corrosión.</li>
+            <li class="Tipografia--general letranegro Elementos--Listas">Inhibidores de Corrosión.</li>
           </ol>
         </ol>
 
@@ -3548,7 +3548,7 @@
   <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
       alt=""></div><br><br>
   <div class="container-fluid" style="text-align:center;margin-top:-50px">
-    <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos Reservados.
+    <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos Reservados.
       | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
         href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de
         Privacidad </a>

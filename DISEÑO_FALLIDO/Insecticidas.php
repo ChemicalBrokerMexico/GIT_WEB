@@ -651,7 +651,7 @@
         <div class="divfooter" style="text-align:center;"><img class="imglogoCE"
                 src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""></div><br><br>
         <div class="container-fluid" style="text-align:center;margin-top:-50px">
-            <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos
+            <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos
                 Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
                     href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download
                     style="color:black !important;font-size:16px">Politica de Privacidad </a>

@@ -6,16 +6,16 @@
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <title>Chemical Broker | Bicar USP de Solvay</title>
     <meta name="description" content="Ofrecemos bicarbonato de sodio de alta pureza, ideal para aplicaciones alimentarias, de limpieza y en diversas industrias. Versátil y efectivo, nuestro producto garantiza resultados óptimos en cada uso. ¡Elige nuestro bicarbonato de sodio para calidad y rendimiento superior en tus procesos!">
-    <link rel="canonical" href=https://chemicalbroker.mx/Bicar_USP.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
-    <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-        integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
-    <link rel="stylesheet" href="css/History_Line.css">
-    <link rel="stylesheet" href="css/jquery.dataTables.min.css">
-    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
+  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/History_Line.css">
+  <link rel="stylesheet" href="css/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
     <script src="https://code.jquery.com/jquery-3.5.1.js"
         integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="js/materialize.js" type="text/javascript"></script>
@@ -656,15 +656,12 @@
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
-
-
-
                 <p class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020;">BICAR® USP</b> Grado 1 es apto para uso
                     alimentario. Más comúnmente utilizado como agente leudante en aplicaciones alimentarias. Cumple con
-                    los estándares de la Monografía de <b style="color:#000020;">bicarbonato de sodio (USP)</b> y el Codex de productos químicos
-                    alimentarios (FCC) de la Farmacopea de los Estados Unidos.</p>
-                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;color:red;">Este producto no está
-                    diseñado para uso farmacéutico. </p>
+                    los estándares de la Monografía de <b style="color:#000020;">Bicarbonato de Sodio (USP)</b> y el Codex de Productos Químicos
+                    Alimentarios (FCC) de la Farmacopea de los Estados Unidos.</p>
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;color:red;"><b>Este producto no está
+                    diseñado para uso Farmacéutico.</b></p>
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Certificaciones
                     aplicables: NSF 60, Kosher y Kosher Passover</p>
 
@@ -764,13 +761,13 @@
                                 <b>Distribucion de Tamaño de Particula</b></td>
                             <td colspan="2"
                                 style="text-align:center;background-color:#000020;color:white;padding:5px;border:1px solid #d9d9d9;font-size:18px">
-                                <b>% Acumulativo retenido</b></td>
+                                <b>% Acumulativo Retenido</b></td>
                         </tr>
                     </thead>
                     <tr>
                         <td
                             style="text-align:center;background-color:#d9d9d9;border:1px solid #d9d9d9;text-align:center;border:1px solid #d9d9d9;border:1px solid white;font-size:18px">
-                            <b>Tamiz estandar de EE.UU.</b></td>
+                            <b>Tamiz Estandar de EE.UU.</b></td>
                         <td
                             style="text-align:center;background-color:#d9d9d9;border:1px solid #d9d9d9;text-align:center;border:1px solid #d9d9d9;border:1px solid white;font-size:18px">
                             <b>Micron</b></td>
@@ -859,9 +856,9 @@
                     <br>
                     <li class="Elementos--Listas" style="list-style-type:disc;">Regulador de pH,</li>
                     <br>
-                    <li class="Elementos--Listas" style="list-style-type:disc;">Agente alcalinizante,</li>
+                    <li class="Elementos--Listas" style="list-style-type:disc;">Agente Alcalinizante,</li>
                     <br>
-                    <li class="Elementos--Listas" style="list-style-type:disc;">Anti aglutinante,</li>
+                    <li class="Elementos--Listas" style="list-style-type:disc;">Anti Aglutinante,</li>
                     <br>
                     <li class="Elementos--Listas" style="list-style-type:disc;">Estabilizante,</li>
                 </ol>
@@ -913,7 +910,7 @@
                             <br>
                             <li class="Elementos--Listas" style="list-style-type:disc;">Mantequillas,</li>
                             <br>
-                            <li class="Elementos--Listas" style="list-style-type:disc;">Fórmulas lácteas,</li>
+                            <li class="Elementos--Listas" style="list-style-type:disc;">Fórmulas Lácteas,</li>
                         </ol>
                     </li>
                 </ol>
@@ -925,8 +922,8 @@
 
                 </ol>
                 <ol style="margin-top:50px;margin-bottom:0px;">
-                    <li class="Elementos--Listas" style="list-style-type:disc;margin-top:15px;">Alimentos deshidratados
-                        o en polvo</li>
+                    <li class="Elementos--Listas" style="list-style-type:disc;margin-top:15px;">Alimentos Deshidratados
+                        o en Polvo</li>
                 </ol>
 
                 <ol style="margin-top:50px;margin-bottom:0px;">
@@ -938,7 +935,7 @@
                         <ol style="margin-top:15px;">
                             <li class="Elementos--Listas" style="list-style-type:disc;">Abrasivos,</li>
                             <br>
-                            <li class="Elementos--Listas" style="list-style-type:disc;">Detergentes líquidos,</li>
+                            <li class="Elementos--Listas" style="list-style-type:disc;">Detergentes Líquidos,</li>
                             <br>
                         </ol>
                     </li>
@@ -984,13 +981,13 @@
                 <ol style="margin-bottom:0px;">
                     <li class="Elementos--Listas" style="margin-top:50px;list-style-type:disc;"><b style="color:#000020;">Papel</b>
                         <ol style="margin-top:15px;">
-                            <li class="Elementos--Listas" style="list-style-type:disc">Fabricación de pasta papelera,
+                            <li class="Elementos--Listas" style="list-style-type:disc">Fabricación de Pasta Papelera,
                             </li>
                             <br>
-                            <li class="Elementos--Listas" style="list-style-type:disc">Fabricación de papel y artículos
+                            <li class="Elementos--Listas" style="list-style-type:disc">Fabricación de Papel y Artículos
                                 de papel,</li>
                             <br>
-                            <li class="Elementos--Listas" style="list-style-type:disc">Agente de granallado.</li>
+                            <li class="Elementos--Listas" style="list-style-type:disc">Agente de Granallado.</li>
                         </ol>
                     </li>
                 </ol>
@@ -1045,10 +1042,9 @@
             </div>
         </div>
 
-        <a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
-
-<i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
-
+     
+  <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
 </a>
 
     </div>
@@ -1058,7 +1054,7 @@
     <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
             alt=""></div><br><br>
     <div class="container-fluid" style="text-align:center;margin-top:-50px">
-        <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos
+        <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos
             Reservados.
             | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
                 href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download

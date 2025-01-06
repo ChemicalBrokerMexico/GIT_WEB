@@ -632,7 +632,7 @@
         <ul class="slides slides-pruea">
           <li><img src="img/ACEITE_RBD_211223.jpg" style="height:400px;" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Aceite de Soya Refinado</b><br></h1>
+              <h1 class="primertitulo"><b class="boldbanner">Aceite de Soya RBD</b><br></h1>
            
             </div>
           </li>
@@ -648,7 +648,7 @@
         <div class="col s12 m12 l12 xl12">
 
 
-      <section style="margin-top:0px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Aceite de Soya Refinado</b></a></section>
+      <section style="margin-top:0px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Aceite de Soya RBD</b></a></section>
 
 
         <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Aceite de Soya Refinado, Blanqueado y Desodorizado (RBD)</b></h2>
@@ -676,26 +676,26 @@
         <h2 class="Tipografia--general letranegro Titulos" ><b>Industria Alimentaria:</b></h2> 
 
         <ol>
-        <li style="list-style-type:disc;margin-top:0px;" class="Elementos--listas">Panificación</li>
-            <li style="list-style-type:disc;margin-top:;" class="Elementos--listas">Galletas</li>
-            <li style="list-style-type:disc;margin-top:;" class="Elementos--listas">Frituras y Snacks</li>
-            <li style="list-style-type:disc;" class="Elementos--listas">Aderezos, Salsas y Marinadas</li>
-            <li style="list-style-type:disc;" class="Elementos--listas">Margarinas</li>
+        <li style="list-style-type:disc;margin-top:30px;" class="Elementos--listas">Panificación</li>
+            <li style="list-style-type:disc;margin-top:30px;" class="Elementos--listas">Galletas</li>
+            <li style="list-style-type:disc;margin-top:30px;" class="Elementos--listas">Frituras y Snacks</li>
+            <li style="list-style-type:disc;margin-top:30px;" class="Elementos--listas">Aderezos, Salsas y Marinadas</li>
+            <li style="list-style-type:disc;margin-top:30px;" class="Elementos--listas">Margarinas</li>
         </ol>
 
         <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;" ><b>Industria Cosmética:</b></h2> 
 
         <ol>
-        <li style="list-style-type:disc;margin-top:0px;" class="Elementos--listas">Cremas</li>
-            <li style="list-style-type:disc;margin-top:;" class="Elementos--listas">Lociones</li>
-            <li style="list-style-type:disc;margin-top:;" class="Elementos--listas">Champús</li>
+        <li style="list-style-type:disc;margin-top:30px;" class="Elementos--listas">Cremas</li>
+            <li style="list-style-type:disc;margin-top:30px;" class="Elementos--listas">Lociones</li>
+            <li style="list-style-type:disc;margin-top:30px;" class="Elementos--listas">Champús</li>
         </ol>
 
         <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;" ><b>Industria Farmacéutica:</b></h2> 
 
         <ol>
-        <li style="list-style-type:disc;margin-top:0px;" class="Elementos--listas">Excipiente en la fabricación de Productos farmacéuticos</li>
-            <li style="list-style-type:disc;margin-top:;" class="Elementos--listas">Excipiente en la fabricación de Suplementos nutricionales</li>
+        <li style="list-style-type:disc;margin-top:30px;" class="Elementos--listas">Excipiente en la Fabricación de Productos Farmacéuticos</li>
+            <li style="list-style-type:disc;margin-top:30px;" class="Elementos--listas">Excipiente en la Fabricación de Suplementos Nutricionales</li>
         </ol>
 
         <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;" ><b>Industria de Biocombustibles:</b></h2> 
@@ -707,14 +707,14 @@
         <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;" ><b>Industria de Plásticos:</b></h2> 
 
         <ol>
-        <li style="list-style-type:disc;margin-top:0px;" class="Elementos--listas">Aditivo para mejorar la flexibilidad y maleabilidad</li>
+        <li style="list-style-type:disc;margin-top:0px;" class="Elementos--listas">Aditivo para Mejorar la Flexibilidad y Maleabilidad</li>
         </ol>
 
 
         <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;" ><b>Industria de Pinturas y Recubrimientos:</b></h2> 
 
         <ol>
-        <li style="list-style-type:disc;margin-top:0px;" class="Elementos--listas">Agente que proporciona fluidez</li>
+        <li style="list-style-type:disc;margin-top:0px;" class="Elementos--listas">Agente que Proporciona Fluidez</li>
         </ol>
 
 
@@ -748,7 +748,7 @@
     <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
             alt=""></div><br><br>
     <div class="container-fluid" style="text-align:center;margin-top:-50px">
-        <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos
+        <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos
             Reservados.
             | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
                 href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download

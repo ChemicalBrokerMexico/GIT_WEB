@@ -6,12 +6,12 @@
   <title>Chemical Broker | Bicarbonato de Sodio de Solvay</title>
   <meta name="description" content="Ofrecemos bicarbonato de sodio de alta pureza, ideal para aplicaciones alimentarias, de limpieza y en diversas industrias. Versátil y efectivo, nuestro producto garantiza resultados óptimos en cada uso. ¡Elige nuestro bicarbonato de sodio para calidad y rendimiento superior en tus procesos!.">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
-  <link rel="canonical" href="https://chemicalbroker.mx/Bicar-Pharma-API.php">
+  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-    integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="css/History_Line.css">
   <link rel="stylesheet" href="css/jquery.dataTables.min.css">
   <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
@@ -575,7 +575,7 @@
   <div class="container">
     <div class="row">
         <div class="col s12 m12 l12 xl12">
-            <h2 class="letranegro Tipografia--general Titulos" style="width:294px;"><b style="color:#000020;">Bicarbonato de Sodio (Ingrediente Farmacéutico Activo)</b></h2>
+            <h2 class="letranegro Tipografia--general Titulos" style="width:535px;"><b style="color:#000020;">Bicarbonato de Sodio (Ingrediente Farmacéutico Activo)</b></h2>
         </div>
         <div class="col s12 m12 l4 xl4">
 <img src="img/bicar1.jpg" alt="" style="width:100%;border-radius:10px;">
@@ -589,13 +589,13 @@
 <img src="img/bicar3.jpg" alt="" style="width:100%;border-radius:10px;">
         </div>
         <div class="col s12 m12 l12 xl12">
-            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El Bicarbonato de Sodio (NaHCO3) es un compuesto químico que tiene propiedades alcalinas y puede actuar como un tampón en soluciones, ayudando a mantener el equilibrio del pH.</p>
-            <p class="Tipografia--general letranegro General--Cuerpo">En algunas circunstancias el Bicarbonato de Sodio se utiliza como Ingrediente Farmacéutico Activo (API); por sus siglas en inglés, en la formulación de ciertos medicamentos.</p>
-            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">El Bicarbonato de Sodio ICH Q7 cumple con la normatividad y pautas establecidas por la Buenas Prácticas de manufactura y la Conferencia Internacional de Armonización para su uso en aplicaciones farmacéuticas como Ingrediente Farmacéutico Activo.</b></p>
+            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b>Bicarbonato de Sodio (NaHCO3)</b> es un compuesto químico que tiene propiedades alcalinas y puede actuar como un tampón en soluciones, ayudando a mantener el equilibrio del pH.</p>
+            <p class="Tipografia--general letranegro General--Cuerpo">En algunas circunstancias el <b>Bicarbonato de Sodio</b> se utiliza como Ingrediente Farmacéutico Activo (API); por sus siglas en inglés, en la formulación de ciertos medicamentos.</p>
+            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">El Bicarbonato de Sodio ICH Q7</b> cumple con la normatividad y pautas establecidas por la Buenas Prácticas de manufactura y la Conferencia Internacional de Armonización para su uso en aplicaciones farmacéuticas como Ingrediente Farmacéutico Activo.</b></p>
             <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Aplicaciones Farmacéuticas</b></h2>
-            <p class="Tipografia--general letranegro General--Cuerpo"><b>Antiácidos. -</b> El Bicarbonato de Sodio se utiliza a veces como ingrediente en productos antiácidos para aliviar la acidez estomacal y la indigestión. Al reaccionar con el ácido estomacal, puede ayudar a neutralizar el exceso de ácido.</b></p>
-            <p class="Tipografia--general letranegro General--Cuerpo"><b>Tratamiento de la acidosis.</b> - En situaciones medicas específicas, como la acidosis metabólica, el bicarbonato de sodio puede ser administrado como parte del tratamiento para corregir el desequilibrio acido -base en el cuerpo</b></p>
-            <p class="Tipografia--general letranegro General--Cuerpo"><b>Alcalinización de la orina. -</b> En ciertos casos clínicos, el bicarbonato de sodio puede ser utilizado para alcalinizar la orina y ayudar en el tratamiento de ciertas condiciones médicas.</b></p>
+            <p class="Tipografia--general letranegro General--Cuerpo"><b>Antiácidos. -</b> El <b>Bicarbonato de Sodio</b> se utiliza a veces como ingrediente en productos antiácidos para aliviar la acidez estomacal y la indigestión. Al reaccionar con el ácido estomacal, puede ayudar a neutralizar el exceso de ácido.</b></p>
+            <p class="Tipografia--general letranegro General--Cuerpo"><b>Tratamiento de la acidosis.</b> - En situaciones medicas específicas, como la acidosis metabólica, el <b>Bicarbonato de Sodio</b> puede ser administrado como parte del tratamiento para corregir el desequilibrio acido - base en el cuerpo</b></p>
+            <p class="Tipografia--general letranegro General--Cuerpo"><b>Alcalinización de la orina. -</b> En ciertos casos clínicos, el <b>Bicarbonato de Sodio</b> puede ser utilizado para alcalinizar la orina y ayudar en el tratamiento de ciertas condiciones médicas.</b></p>
             <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Fabricante</b></h2>
             <img src="img/LOGO_SOLVAY.jpg" alt="" class="Solvay_Bicar_Pharma">
             <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Descargas</b></h2>
@@ -629,7 +629,7 @@
             </div>
 <div class="col s12 m12 l12 xl12" style="margin-top:50px;">
     <div style="background-color:#678de0;border-radius:15px;padding:15px">
-        <p class="letranegro Tipografia--general General--Cuerpo" style="color:white;">Chemical Broker ofrece ingredientes farmacéuticos cumpliendo con altos estándares de calidad como:</p>
+        <p class="letranegro Tipografia--general General--Cuerpo" style="color:white;"><b>Chemical Broker</b> ofrece ingredientes farmacéuticos cumpliendo con altos estándares de calidad como:</p>
         <ol style="list-style-type:none;">
             <li class="Elementos--Listas letranegro" style="color:white;">a)	Calidad superior y constante con un perfil de pureza muy alto</li>
             <li class="Elementos--Listas letranegro" style="color:white;">b)	Fiabilidad y disponibilidad del producto gracias a una presencia mundial</li>
@@ -638,7 +638,7 @@
             <li class="Elementos--Listas letranegro" style="color:white;">e)	Estándares de calidad (CEP disponible)</li>
             <li class="Elementos--Listas letranegro" style="color:white;">f)	Construir y superar estándares de certificación GMP ICH Q7 y GMP IPEC-PQG</li>
         </ol>
-        <p class="letranegro Tipografia--general General--Cuerpo" style="color:white;">Podemos proporcionarle el grado adecuado de Bicarbonato de Sodio. Además, podemos brindar un sólido soporte para cumplir con las especificaciones y requisitos regulatorios del mercado.</p>
+        <p class="letranegro Tipografia--general General--Cuerpo" style="color:white;">Podemos proporcionarle el grado adecuado de <b>Bicarbonato de Sodio</b>. Además, podemos brindar un sólido soporte para cumplir con las especificaciones y requisitos regulatorios del mercado.</p>
     </div>
 </div>
             
@@ -647,10 +647,9 @@
 
     <br>
 
-    <a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
-
-<i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
-
+  
+    <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
 </a>
 
 
@@ -663,7 +662,7 @@
   <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
       alt=""></div><br><br>
   <div class="container-fluid" style="text-align:center;margin-top:-50px">
-    <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos Reservados.
+    <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos Reservados.
       | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
         href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de
         Privacidad </a>

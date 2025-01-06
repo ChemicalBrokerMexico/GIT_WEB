@@ -565,26 +565,26 @@
       <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Butilhidroxianisol</b></a></section>
 
         <h5 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>BHA (Butilhidroxianisol)</b></h5>
-        <p class="Tipografia--general letranegro General--Cuerpo"><b>Butilhidroxianisol</b>, también conocido como BHA es un
+        <p class="Tipografia--general letranegro General--Cuerpo"><b>Butilhidroxianisol</b>, también conocido como <b>BHA</b> es un
           compuesto químico que se utiliza como conservante en alimentos, productos farmacéuticos y productos de cuidado
-          personal. Se produce sintéticamente y se usa como alternativa a los conservantes naturales como el ácido
-          cítrico.</p>
+          personal. Se produce sintéticamente y se usa como alternativa a los conservantes naturales como el Ácido
+          Cítrico.</p>
 
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El Butilhidroxianisol es una
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b>Butilhidroxianisol</b> es una
           mezcla de dos isómeros de compuestos orgánicos; 2-tert-butil-4-hidroxianisol y 3-tert-butil-4-hidroxianisol.
-          El anillo aromático conjugado del BHA es capaz de estabilizar a un radical libre, secuestrándolo. Al actuar
+          El anillo aromático conjugado del <b>BHA</b> es capaz de estabilizar a un radical libre, secuestrándolo. Al actuar
           como un agente secuestrante, se evitan posteriores reacciones de radicales libres. </p>
 
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Se prepara a partir de
           4-metoxifenol e isobutileno. Es un sólido ceroso que exhibe propiedades antioxidantes.</p>
 
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El BHA es un conservante
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b>BHA</b> es un conservante
           eficaz que ayuda a prevenir la oxidación de los productos y a prolongar su vida útil. Se añade a los productos
           para evitar la contaminación por hongos y bacterias y para evitar que los aceites y grasas se rancifiquen.
           También se utiliza como antioxidante para proteger los productos que contienen aceites y grasas sensibles al
           oxígeno.</p>
 
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px">El BHA es soluble en grasa,
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px">El <b>BHA</b> es soluble en grasa,
           puede combinarse bien con productos que contienen grasas vegetales o animales e impide la formación de espuma.
         </p>
 
@@ -899,7 +899,7 @@
   <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
       alt=""></div><br><br>
   <div class="container-fluid" style="text-align:center;margin-top:-50px">
-    <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos Reservados.
+    <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos Reservados.
       | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
         href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de
         Privacidad </a>

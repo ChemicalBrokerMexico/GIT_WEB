@@ -566,7 +566,7 @@
 
         <p class="Tipografia--general General--Cuerpo letranegro" style="margin-bottom:0px;"><b>El Bicarbonato de
             Sodio</b> es un compuesto sólido cristalino de color blanco soluble en agua, con un ligero sabor alcalino
-          parecido al del carbonato de sodio (menos fuerte y más salado) Se puede encontrar como mineral en la
+          parecido al del Carbonato de Sodio (menos fuerte y más salado) Se puede encontrar como mineral en la
           naturaleza o se puede producir artificialmente. La forma mineral natural es nahcolita. Es un componente del
           mineral natrón y se encuentra disuelto en muchos manantiales minerales.</p>
         <p class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;margin-bottom:0px;">Cuando se expone a un ácido
@@ -582,11 +582,11 @@
         <p class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;margin-bottom:0px;">Su numero E
           como código de aditivo alimentario es E500.</p>
         <p class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;margin-bottom:0px;">El prefijo
-          bi en bicarbonato proviene de un sistema de nomenclatura obsoleto anterior al conocimiento molecular en
-          referencia a los dos equivalentes molares de dióxido de carbono (conocido como ácido carbónico en lenguaje
-          químico en la antigüedad) que libera hidrocarbonato/bicarbonato de potasio al descomponerse en carbonato de
+          bi en Bicarbonato proviene de un sistema de nomenclatura obsoleto anterior al conocimiento molecular en
+          referencia a los dos equivalentes molares de Dióxido de Carbono (conocido como ácido carbónico en lenguaje
+          químico en la antigüedad) que libera Hidrocarbonato/Bicarbonato de potasio al descomponerse en carbonato de
           (di)potasio y en óxido de potasio (potasa). Las fórmulas químicas modernas de estos compuestos ahora expresan
-          sus composiciones químicas precisas que se desconocían cuando se acuñó el nombre "bicarbonato de potasa".</p>
+          sus composiciones químicas precisas que se desconocían cuando se acuñó el nombre "Bicarbonato de Potasa".</p>
 
 
           
@@ -805,9 +805,9 @@
 
           
 
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">El proceso Solvay es un metodo industrial ampliamente utilizado para la produccion de Carbonato de Sodio (soda ash), a partir del cual se obtiene Bicarboanto de Sodio (NAHCO<sub>3</sub>) mediante una etapa adicional, aqui se observa un resumen para obtener Bicarbonato de Sodio:</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">El proceso Solvay es un metodo industrial ampliamente utilizado para la produccion de <b>Carbonato de Sodio</b> (soda ash), a partir del cual se obtiene <b>Bicarboanto de Sodio (NAHCO<sub>3</sub>)</b> mediante una etapa adicional, aqui se observa un resumen para obtener <b>Bicarbonato de Sodio:</b></p>
 
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">1: Reaccion inicial: Formación de bicarbonato de amonio</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">1: Reaccion inicial: Formación de Bicarbonato de Amonio</p>
 
         <ol>
           <li class="Elementos--Listas colornegro">El proceso comienza con la introducción de amoníanco (NH<sub>3</sub>) y dioxido de carbono (CO<sub>2</sub>) en una solución de salmuera (cloruro de sodio, NaCI). Se producen las siguientes reacciones:</li>
@@ -818,7 +818,7 @@
           </ol>
         </ol>
 
-        <p class="Tipografia--general letranegro General--Cuerpo">Reacción:</p>
+        <p class="Tipografia--general letranegro General--Cuerpo"><b>Reacción:</b></p>
 
         <span class="Tipografia--general letranegro General--Cuerpo">NH<sub>4</sub>HCO<sub>3</sub> + NaCL -> NaHCO<sub>3</sub> + NH<sub>4CL</sub></span>
 
@@ -895,19 +895,19 @@
           <b>Cuidado Personal:</b></h2>
 
         <ol>
-          <li class="Tipografia--general letranegro Elementos--Listas">Exfoliante facial y corporal. - el Bicarbonato de Sodio se utiliza en productos exfoliantes, como limpiadores faciales o pastas de dientes, debido a su textura fina y suave, que puede ayudar a eliminar las células muertas de la piel y promover la renovación celular.</li>
+          <li class="Tipografia--general letranegro Elementos--Listas">Exfoliante facial y corporal. - El <b>Bicarbonato de Sodio</b> se utiliza en productos exfoliantes, como limpiadores faciales o pastas de dientes, debido a su textura fina y suave, que puede ayudar a eliminar las células muertas de la piel y promover la renovación celular.</li>
           <br>
-          <li class="Tipografia--general letranegro Elementos--Listas">Shampoos en seco. - algunas personas utilizan Bicarbonato de Sodio para absorber el exceso de grasa en el cabello, actúa	</li>
+          <li class="Tipografia--general letranegro Elementos--Listas">Shampoos en seco. - Algunas personas utilizan <b>Bicarbonato de Sodio</b> para absorber el exceso de grasa en el cabello, actúa	</li>
           <br>
-          <li class="Tipografia--general letranegro Elementos--Listas">Pastas dentales. - se encuentra en algunas pastas de dientes naturales debido a sus propiedades para eliminar manchas y neutralizar olores.</li>
+          <li class="Tipografia--general letranegro Elementos--Listas">Pastas dentales. - Se encuentra en algunas pastas de dientes naturales debido a sus propiedades para eliminar manchas y neutralizar olores.</li>
           <br>
-          <li class="Tipografia--general letranegro Elementos--Listas">Jabón de tocador</li>
+          <li class="Tipografia--general letranegro Elementos--Listas">Jabón de Tocador</li>
           <br>
-          <li class="Tipografia--general letranegro Elementos--Listas">Desodorantes naturales. - se emplea en desodorantes para neutralizar los olores corporales.</li>
+          <li class="Tipografia--general letranegro Elementos--Listas">Desodorantes Naturales. - Se emplea en desodorantes para neutralizar los olores corporales.</li>
           <br>
-          <li class="Tipografia--general letranegro Elementos--Listas">Exfoliantes faciales y corporales. - ayuda a eliminar células muertas de la piel y a suavizarla.</li>
+          <li class="Tipografia--general letranegro Elementos--Listas">Exfoliantes Faciales y Corporales. - Ayuda a eliminar células muertas de la piel y a suavizarla.</li>
           <br>
-          <li class="Tipografia--general letranegro Elementos--Listas">Tratamiento de afecciones cutáneas. - el Bicarbonato de Sodio a menudo se utiliza en baños de inmersión para aliviar ciertas afecciones cutáneas, como la picazón y las irritaciones leves. Puede proporcionar alivio temporal.</li>
+          <li class="Tipografia--general letranegro Elementos--Listas">Tratamiento de Afecciones Cutáneas. - El Bicarbonato de Sodio a menudo se utiliza en baños de inmersión para aliviar ciertas afecciones cutáneas, como la picazón y las irritaciones leves. Puede proporcionar alivio temporal.</li>
         </ol>
 
         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Detergentes y Cuidado del
@@ -984,13 +984,6 @@
 
       </div>
     </div>
-
-    <a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
-
-<i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
-
-</a>
-
   </div>
 
   
@@ -1006,7 +999,7 @@
   <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
       alt=""></div><br><br>
   <div class="container-fluid" style="text-align:center;margin-top:-50px">
-    <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos Reservados.
+    <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos Reservados.
       | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
         href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de
         Privacidad </a>

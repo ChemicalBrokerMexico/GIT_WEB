@@ -761,7 +761,7 @@ recaptchaResponse.value = token;
         <div class="divfooter" style="text-align:center;"><img class="imglogoCE"
                 src="img/CB_IMAGOTIPO_LEON.jpg" alt="" /></div><br /><br />
         <div class="container-fluid center-align" style="margin-top:-50px">
-            <p class="Tipografia--general letranegro center-align Pie--Pagina">© 2014 C&E | Chemical Broker Todos los
+            <p class="Tipografia--general letranegro center-align Pie--Pagina">© 2014 | Chemical Broker Todos los
                 Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto
                     |&nbsp</a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download="download"
                     style="color:black !important;font-size:16px">Politica de Privacidad </a></p>

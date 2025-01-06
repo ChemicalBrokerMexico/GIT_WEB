@@ -563,14 +563,14 @@
 
       <section style="margin-top:0px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Aceite de Palmiste RBD</b></a></section>
 
-                <p class="Tipografia--general letranegro General--Cuerpo">El Aceite de Palmiste RBD (Refinado, Blanqueado y Desodorizado) es un aceite vegetal obtenido a partir de la semilla o núcleo de la palma de aceite (Elaeis guineensis). Este aceite es diferente al aceite de palma, que se extrae de la pulpa del fruto. El término RBD indica que ha pasado por procesos de refinado, blanqueado y desodorizado para eliminar impurezas, colores y olores, haciéndolo más adecuado para aplicaciones industriales y alimenticias.</p>
+                <p class="Tipografia--general letranegro General--Cuerpo">El <b>Aceite de Palmiste RBD (Refinado, Blanqueado y Desodorizado)</b> es un aceite vegetal obtenido a partir de la semilla o núcleo de la palma de aceite (Elaeis guineensis). Este aceite es diferente al aceite de palma, que se extrae de la pulpa del fruto. El término RBD indica que ha pasado por procesos de refinado, blanqueado y desodorizado para eliminar impurezas, colores y olores, haciéndolo más adecuado para aplicaciones industriales y alimenticias.</p>
 
                 <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020;">Características</b></h2>
 
                 <ol>
                     <li class="Elementos--Listas">Aspecto: Líquido o semisólido a temperatura ambiente, dependiendo de las condiciones climáticas.</li>
                     <li class="Elementos--Listas" style="margin-top:30px;">Color: Claro, debido al proceso de blanqueo.</li>
-                    <li class="Elementos--Listas" style="margin-top:30px;">Composición: Rico en ácidos grasos saturados, principalmente ácido láurico y mirístico.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Composición: Rico en Ácidos Grasos Saturados, principalmente Ácido Láurico y Mirístico.</li>
                     <li class="Elementos--Listas" style="margin-top:30px;">Estabilidad: Muy estable a altas temperaturas, lo que lo hace ideal para freír.</li>
                 </ol>
 
@@ -584,45 +584,45 @@
 
                 <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Funciones</b></h2>
 
-                <p class="Tipografia--general letranegro General--Cuerpo">El Aceite de Palmiste RBD tiene diversas funciones debido a su composición química rica en ácidos grasos saturados y su estabilidad térmica. Estas funciones varían según el sector en el que se utilice. </p>
+                <p class="Tipografia--general letranegro General--Cuerpo">El <b>Aceite de Palmiste RBD</b> tiene diversas funciones debido a su composición química rica en Ácidos Grasos Saturados y su estabilidad térmica. Estas funciones varían según el sector en el que se utilice. </p>
 
                 <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Alimentación:</b></h2>
 
                 <ol>
-                    <li class="Elementos--Listas">Base de grasas vegetales: Se utiliza para elaborar margarinas, cremas y productos de repostería.</li>
-                    <li class="Elementos--Listas" style="margin-top:30px;">Estabilizador térmico: Por su resistencia a altas temperaturas, es ideal para freír.</li>
-                    <li class="Elementos--Listas" style="margin-top:30px;">Mejorador de texturas: Ayuda a dar una textura cremosa o crujiente en alimentos procesados.</li>
+                    <li class="Elementos--Listas">Base de Grasas Vegetales: Se utiliza para elaborar margarinas, cremas y productos de repostería.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Estabilizador Térmico: Por su resistencia a altas temperaturas, es ideal para freír.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Mejorador de Texturas: Ayuda a dar una textura cremosa o crujiente en alimentos procesados.</li>
                 </ol>
 
                 <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Cosmética y Cuidado Personal:</b></h2>
 
                 <ol>
-                    <li class="Elementos--Listas">Agente hidratante: Contribuye a suavizar y nutrir la piel y el cabello.</li>
-                    <li class="Elementos--Listas" style="margin-top:30px;">Base para jabones y detergentes: La alta presencia de ácido láurico facilita la formación de espuma.</li>
-                    <li class="Elementos--Listas" style="margin-top:30px;">Mejorador de consistencia: Da estabilidad y firmeza a cremas, bálsamos y ungüentos.</li>
+                    <li class="Elementos--Listas">Agente Hidratante: Contribuye a suavizar y nutrir la piel y el cabello.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Base para Jabones y Detergentes: La alta presencia de Ácido Láurico facilita la formación de espuma.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Mejorador de Consistencia: Da estabilidad y firmeza a cremas, bálsamos y ungüentos.</li>
                 </ol>
 
-                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Química e industrial:</b></h2>
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Química e Industrial:</b></h2>
 
                 <ol>
-                    <li class="Elementos--Listas">Producción de biodiésel: Sirve como materia prima para biocombustibles debido a su contenido graso.</li>
-                    <li class="Elementos--Listas" style="margin-top:30px;">Fabricación de lubricantes: Su estabilidad térmica lo hace útil en la creación de grasas industriales.</li>
-                    <li class="Elementos--Listas" style="margin-top:30px;">Materia prima para surfactantes: Los ácidos grasos que contiene son esenciales en la síntesis de detergentes y emulsificantes.</li>
+                    <li class="Elementos--Listas">Producción de Biodiésel: Sirve como materia prima para biocombustibles debido a su contenido graso.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Fabricación de Lubricantes: Su estabilidad térmica lo hace útil en la creación de grasas industriales.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Materia Prima para Surfactantes: Los Ácidos Grasos que contiene son esenciales en la síntesis de detergentes y emulsificantes.</li>
                 </ol>
 
                 <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Farmacéutica:</b></h2>
 
                 <ol>
-                    <li class="Elementos--Listas">Excipiente en medicamentos: Se usa como base en cápsulas y pomadas.</li>
-                    <li class="Elementos--Listas" style="margin-top:30px;">Agente portador: Facilita la disolución y estabilidad de ciertos principios activos.</li>
+                    <li class="Elementos--Listas">Excipiente en Medicamentos: Se usa como base en cápsulas y pomadas.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Agente Portador: Facilita la disolución y estabilidad de ciertos principios activos.</li>
                 </ol>
 
 
-                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Medio ambiente y sostenibilidad:</b></h2>
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Medio Ambiente y Sostenibilidad:</b></h2>
 
                 <ol>
                     <li class="Elementos--Listas">Biodegradable: Se utiliza en productos ecológicos como alternativa a derivados del petróleo.</li>
-                    <li class="Elementos--Listas" style="margin-top:30px;">Reducción de huella de carbono: En aplicaciones de biocombustibles y químicos sostenibles.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Reducción de Huella de Carbono: En aplicaciones de biocombustibles y químicos sostenibles.</li>
                 </ol>
 
                 <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones:</b></h2>
@@ -630,49 +630,49 @@
                 <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020;">Industria Alimentaria:</b></h2>
 
                 <ol>
-                    <li class="Elementos--Listas">Fabricación de margarinas y grasas para panadería: Por su textura y estabilidad, es ideal para productos como galletas, pasteles y hojaldres.</li>
-                    <li class="Elementos--Listas" style="margin-top:30px;">Frituras industriales: Su resistencia a la oxidación y altas temperaturas lo convierte en una opción popular para aceites de cocina.</li>
-                    <li class="Elementos--Listas" style="margin-top:30px;">Productos procesados: Se utiliza como base en rellenos, coberturas y glaseados, mejorando la textura y prolongando la vida útil.</li>
+                    <li class="Elementos--Listas">Fabricación de Margarinas y Grasas para panadería: Por su textura y estabilidad, es ideal para productos como galletas, pasteles y hojaldres.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Frituras Industriales: Su resistencia a la oxidación y altas temperaturas lo convierte en una opción popular para aceites de cocina.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Productos Procesados: Se utiliza como base en rellenos, coberturas y glaseados, mejorando la textura y prolongando la vida útil.</li>
                 </ol>
 
                 <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Cosmética y Cuidado Personal:</b></h2>
 
                 <ol>
-                    <li class="Elementos--Listas">Producción de jabones: El alto contenido de ácido láurico favorece la formación de espuma y aporta propiedades limpiadoras.</li>
-                    <li class="Elementos--Listas" style="margin-top:30px;">Cremas y lociones: Se emplea como emoliente para suavizar y nutrir la piel.</li>
-                    <li class="Elementos--Listas" style="margin-top:30px;">Champús y acondicionadores: Ayuda a hidratar el cabello, aportándole suavidad y brillo.</li>
-                    <li class="Elementos--Listas" style="margin-top:30px;">Bálsamos y labiales: Proporciona una textura suave y firme a productos cosméticos.</li>
+                    <li class="Elementos--Listas">Producción de Jabones: El alto contenido de ácido láurico favorece la formación de espuma y aporta propiedades limpiadoras.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Cremas y Lociones: Se emplea como emoliente para suavizar y nutrir la piel.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Champús y Acondicionadores: Ayuda a hidratar el cabello, aportándole suavidad y brillo.</li>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Bálsamos y Labiales: Proporciona una textura suave y firme a productos cosméticos.</li>
                 </ol>
 
 
          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Química:</b></h2>
 
          <ol>
-            <li class="Elementos--Listas">Producción de biodiésel: Es una materia prima clave para combustibles alternativos debido a su contenido graso.</li>
-            <li class="Elementos--Listas" style="margin-top:30px;">Fabricación de lubricantes: Su estabilidad química lo hace adecuado para aplicaciones industriales.</li>
-            <li class="Elementos--Listas" style="margin-top:30px;">Surfactantes y detergentes: Base para producir agentes limpiadores y emulsificantes.</li>
-            <li class="Elementos--Listas" style="margin-top:30px;">Velas y productos de cera: Se emplea para elaborar ceras con alta estabilidad y buena textura.</li>
+            <li class="Elementos--Listas">Producción de Biodiésel: Es una materia prima clave para combustibles alternativos debido a su contenido graso.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Fabricación de Lubricantes: Su estabilidad química lo hace adecuado para aplicaciones industriales.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Surfactantes y Detergentes: Base para producir agentes limpiadores y emulsificantes.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Velas y Productos de Cera: Se emplea para elaborar ceras con alta estabilidad y buena textura.</li>
          </ol>
          
          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Farmacéutica:</b></h2>
 
          <ol>
-            <li class="Elementos--Listas">Excipiente en medicamentos: Se utiliza como portador de principios activos, especialmente en cápsulas de gel y pomadas.</li>
-            <li class="Elementos--Listas" style="margin-top:30px;">Base en ungüentos y cremas terapéuticas: Por su capacidad de hidratar y proteger la piel.</li>
+            <li class="Elementos--Listas">Excipiente en Medicamentos: Se utiliza como portador de principios activos, especialmente en cápsulas de gel y pomadas.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Base en Ungüentos y Cremas Terapéuticas: Por su capacidad de hidratar y proteger la piel.</li>
          </ol>
 
-         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Agroindustria y productos ecológicos:</b></h2>
+         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Agroindustria y Productos Ecológicos:</b></h2>
 
             <ol>
-                <li class="Elementos--Listas">Formulación de fertilizantes y plaguicidas: Actúa como portador en productos orgánicos.</li>
+                <li class="Elementos--Listas">Formulación de Fertilizantes y Plaguicidas: Actúa como portador en productos orgánicos.</li>
                 <li class="Elementos--Listas" style="margin-top:30px;">Productos biodegradables: Alternativa a compuestos derivados del petróleo en plásticos y productos sostenibles.</li>
             </ol>
 
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Otras aplicaciones industriales:</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Otras Aplicaciones Industriales:</b></h2>
 
             <ol>
-                <li class="Elementos--Listas">Adhesivos y recubrimientos: Utilizado en la formulación de pegamentos y revestimientos protectores.</li>
-                <li class="Elementos--Listas" style="margin-top:30px;">Tintas y pinturas: Sirve como componente para mejorar la textura y la durabilidad.</li>
+                <li class="Elementos--Listas">Adhesivos y Recubrimientos: Utilizado en la formulación de pegamentos y revestimientos protectores.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Tintas y Pinturas: Sirve como componente para mejorar la textura y la durabilidad.</li>
             </ol>
 
                 
@@ -694,7 +694,7 @@
   <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
       alt=""></div><br><br>
   <div class="container-fluid" style="text-align:center;margin-top:-50px">
-    <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos Reservados.
+    <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos Reservados.
       | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
         href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de
         Privacidad </a>

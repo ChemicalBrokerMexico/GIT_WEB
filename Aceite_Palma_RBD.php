@@ -566,7 +566,7 @@
     
 
             <h2 class="Tipografia--general letranegro Titulos"><b style="color:#000020;">Aceite de Palma RBD</b></h2>
-            <p class="Tipografia--general letranegro General--Cuerpo">El Aceite de Palma RBD (Refinado, Blanqueado y Desodorizado) es una forma procesada del aceite de palma crudo, ampliamente utilizado en la industria alimentaria, cosmética y química debido a sus características versátiles.</p>
+            <p class="Tipografia--general letranegro General--Cuerpo">El <b>Aceite de Palma RBD (Refinado, Blanqueado y Desodorizado)</b> es una forma procesada del aceite de palma crudo, ampliamente utilizado en la industria alimentaria, cosmética y química debido a sus características versátiles.</p>
 
 
             <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px"><b style="color:#000020;">Proceso de producción</b></h2>
@@ -582,23 +582,23 @@
             <ol>
               <li class="Elementos--Listas" style="margin-top:30px;">Color: Líquido claro o amarrillo pálido</li>
               <li class="Elementos--Listas" style="margin-top:30px;">Sabor: Neutro, adecuado para aplicaciones donde se requiere un aceite sin sabor predominante</li>
-              <li class="Elementos--Listas" style="margin-top:30px;">Punto de fusión: Relativamente alto (24-30 °C), lo que lo hace sólido a temperatura ambiente en climas más fríos</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Punto de Fusión: Relativamente alto (24-30 °C), lo que lo hace sólido a temperatura ambiente en climas más fríos</li>
               <li class="Elementos--Listas" style="margin-top:30px;">Estabilidad: Alta estabilidad oxidativa, útil para freír y alimenticios procesados</li>
             </ol>
 
             <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Funciones</b></h2>
 
             <ol>
-              <li style="margin-top:30px;" class="Elementos--Listas">Fuente de energía calórica</li>
+              <li style="margin-top:30px;" class="Elementos--Listas">Fuente de Energía Calórica</li>
               <li style="margin-top:30px;" class="Elementos--Listas">Texturizante</li>
-              <li style="margin-top:30px;" class="Elementos--Listas">Mejorador de estabilidad</li>
+              <li style="margin-top:30px;" class="Elementos--Listas">Mejorador de Estabilidad</li>
               <li style="margin-top:30px;" class="Elementos--Listas">Emulsionante</li>
-              <li style="margin-top:30px;" class="Elementos--Listas">Portador de sabor y olor</li>
-              <li style="margin-top:30px;" class="Elementos--Listas">Conservante natural</li>
-              <li style="margin-top:30px;" class="Elementos--Listas">Base en producción de jabones y cosmeticos</li>
-              <li style="margin-top:30px;" class="Elementos--Listas">Agente hidratante</li>
+              <li style="margin-top:30px;" class="Elementos--Listas">Portador de Sabor y Olor</li>
+              <li style="margin-top:30px;" class="Elementos--Listas">Conservante Natural</li>
+              <li style="margin-top:30px;" class="Elementos--Listas">Base en Producción de Jabones y Cosmeticos</li>
+              <li style="margin-top:30px;" class="Elementos--Listas">Agente Hidratante</li>
               <li style="margin-top:30px;" class="Elementos--Listas">Combustible</li>
-              <li style="margin-top:30px;" class="Elementos--Listas">Vehículo para ingredientes activos</li>
+              <li style="margin-top:30px;" class="Elementos--Listas">Vehículo para Ingredientes Activos</li>
             </ol>
 
 
@@ -606,27 +606,27 @@
 
             <h2 class="Tipografia--general letranegro Titulos"><b style="color:#000020;">Industria Alimentaria</b></h2>
 
-            <p class="Elementos--Listas Tipografia--general colonegro">El Aceite de Palma RBD es una de las grasas más utilizadas en productos procesados gracias a su estabilidad y bajo costo:</p>
+            <p class="Elementos--Listas Tipografia--general colonegro">El <b>Aceite de Palma RBD</b> es una de las grasas más utilizadas en productos procesados gracias a su estabilidad y bajo costo:</p>
 
             <ol>
               <li style="margin-top:30px;" class="Elementos--Listas">Frituras: Usado en papas fritas, pollo y otros alimentos debido a su alta resistencia al calor y oxidacion</li>
-              <li style="margin-top:30px;" class="Elementos--Listas">Margarinas y mantecas: Aporta textura y consistencia, ademas de mejorar la vida útil</li>
-              <li style="margin-top:30px;" class="Elementos--Listas">Panaderia y repostería: Galletas, pasteles, panes industriales, rellenos de cremas y cobertura de glaseado</li>
-              <li style="margin-top:30px;" class="Elementos--Listas">Alimentos procesados: Snacks como galletitas, cereales y barras energéticas.</li>
-              <li style="margin-top:30px;" class="Elementos--Listas">Productos congelados y precocinados.</li>
-              <li style="margin-top:30px;" class="Elementos--Listas">Helados y confitería: En la fabricación de recubrimientos y rellenos de chocolates.</li>
-              <li style="margin-top:30px;" class="Elementos--Listas">Aceites y grasas de cocina: Por su estabilidad, es ideal para freír y saltear alimentos</li>
+              <li style="margin-top:30px;" class="Elementos--Listas">Margarinas y Mantecas: Aporta textura y consistencia, ademas de mejorar la vida útil</li>
+              <li style="margin-top:30px;" class="Elementos--Listas">Panaderia y Repostería: Galletas, pasteles, panes industriales, rellenos de cremas y cobertura de glaseado</li>
+              <li style="margin-top:30px;" class="Elementos--Listas">Alimentos Procesados: Snacks como galletitas, cereales y barras energéticas.</li>
+              <li style="margin-top:30px;" class="Elementos--Listas">Productos Congelados y precocinados.</li>
+              <li style="margin-top:30px;" class="Elementos--Listas">Helados y Confitería: En la fabricación de recubrimientos y rellenos de chocolates.</li>
+              <li style="margin-top:30px;" class="Elementos--Listas">Aceites y Grasas de Cocina: Por su estabilidad, es ideal para freír y saltear alimentos</li>
             </ol>
 
             <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Industria Cosmética</b></h2>
 
-            <p class="General--Cuerpo letranegro Tipografia--general">El Aceite de Palma RBD es ampliamente utilizado en productos de cuidado personal y cosméticos debido a su capacidad para emulsionar y proporcionar suavidad:</p>
+            <p class="General--Cuerpo letranegro Tipografia--general">El <b>Aceite de Palma RBD</b> es ampliamente utilizado en productos de cuidado personal y cosméticos debido a su capacidad para emulsionar y proporcionar suavidad:</p>
 
             <ol>
               <li class="Elementos--Listas" style="margin-top:30px">Jabones: Actúa como base para jabones sólidos y líquidos, aportando dureza y espuma.</li>
-              <li class="Elementos--Listas" style="margin-top:30px">Cremas y lociones: Empleado como emoliente que hidrata y suaviza la piel.</li>
-              <li class="Elementos--Listas" style="margin-top:30px">Shampoos y acondicionadores: Aporta suavidad y textura cremosa.</li>
-              <li class="Elementos--Listas" style="margin-top:30px">Productos de maquillaje: Usado en bases, labiales y bálsamos debido a su textura homogénea y duradera.</li>
+              <li class="Elementos--Listas" style="margin-top:30px">Cremas y Lociones: Empleado como emoliente que hidrata y suaviza la piel.</li>
+              <li class="Elementos--Listas" style="margin-top:30px">Shampoos y Acondicionadores: Aporta suavidad y textura cremosa.</li>
+              <li class="Elementos--Listas" style="margin-top:30px">Productos de Maquillaje: Usado en bases, labiales y bálsamos debido a su textura homogénea y duradera.</li>
             </ol>
 
             <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Industria Química e Industrial:</b></h2>
@@ -635,16 +635,16 @@
             <p class="General--Cuerpo letranegro Tipografia--general">Por su versatilidad química, el Aceite de Palma RBD es clave en varias aplicaciones industriales:</p>
 
             <ol>
-              <li class="Elementos--Listas" style="margin-top:30px">Producción de biodiésel: Transformado en ésteres metílicos de palma para combustibles.</li>
-              <li class="Elementos--Listas" style="margin-top:30px">Velas y ceras: Como base grasa que da consistencia y durabilidad.</li>
-              <li class="Elementos--Listas" style="margin-top:30px">Lubricantes industriales: Alternativa sostenible en ciertos procesos industriales.</li>
-              <li class="Elementos--Listas" style="margin-top:30px">Materiales de limpieza: Ingrediente en detergentes y productos de limpieza ecológica.</li>
+              <li class="Elementos--Listas" style="margin-top:30px">Producción de Biodiésel: Transformado en ésteres metílicos de palma para combustibles.</li>
+              <li class="Elementos--Listas" style="margin-top:30px">Velas y Ceras: Como base grasa que da consistencia y durabilidad.</li>
+              <li class="Elementos--Listas" style="margin-top:30px">Lubricantes Industriales: Alternativa sostenible en ciertos procesos industriales.</li>
+              <li class="Elementos--Listas" style="margin-top:30px">Materiales de Limpieza: Ingrediente en detergentes y productos de limpieza ecológica.</li>
             </ol>
 
             <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Farmacéutica:</b></h2>
 
             <ol>
-              <li>Usado en la formulación de cápsulas blandas y ciertos excipientes debido a su estabilidad y capacidad para portar principios activos.</li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Usado en la formulación de cápsulas blandas y ciertos excipientes debido a su estabilidad y capacidad para portar principios activos.</li>
             </ol>
 
 
@@ -672,7 +672,7 @@
   <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
       alt=""></div><br><br>
   <div class="container-fluid" style="text-align:center;margin-top:-50px">
-    <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos Reservados.
+    <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos Reservados.
       | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
         href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de
         Privacidad </a>

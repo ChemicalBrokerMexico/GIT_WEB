@@ -672,9 +672,9 @@
             <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="BHT.php"><b class="Tipografia--general Subtitulos" style="color:red;">BHT (Butilhidroxitolueno)</b></a></section>
 
                 <!-- <h5 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Butil Hidroxi Tolueno (BHT)</b></h5> -->
-                <p class="Tipografia--general letranegro General--Cuerpo">El Butil Hidroxi Tolueno o BHT, es también
-                    conocido como Dibutilhidroxitolueno o Hidroxitolueno es un compuesto orgánico lipofílico, química un
-                    derivado del fenol, que es útil por sus propiedades antioxidantes. El BHT se usa ampliamente para
+                <p class="Tipografia--general letranegro General--Cuerpo">El <b>Butil Hidroxi Tolueno o BHT</b>, es también
+                    conocido como <b>Dibutilhidroxitolueno</b> o <b>Hidroxitolueno</b> es un compuesto orgánico lipofílico, química un
+                    derivado del fenol, que es útil por sus propiedades antioxidantes. El <b>BHT</b> se usa ampliamente para
                     prevenir la oxidación mediana por radicales libres en fluidos y otros materiales, lo que ha llevado
                     a su uso en pequeñas cantidades como aditivo alimentario.</p>
 
@@ -1016,37 +1016,37 @@
 
                 <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Comportamiento</b></h5>
 
-                <p class="Tipografia--general letranegro General--Cuerpo">Se comporta como un análogo sintético de la vitamina E, actuando principalmente como un agente de terminación que suprime la autooxidación, un proceso mediante el cual los compuestos orgánicos insaturados (generalmente) son atacados por el oxígeno atmosférico. El BHT detiene esta reacción autocatalítica al convertir los radicales peroxi en hidroperóxidos. Efectúa esta función donando un átomo de hidrógeno:</p>
+                <p class="Tipografia--general letranegro General--Cuerpo">Se comporta como un análogo sintético de la vitamina E, actuando principalmente como un agente de terminación que suprime la autooxidación, un proceso mediante el cual los compuestos orgánicos insaturados (generalmente) son atacados por el oxígeno atmosférico. El <b>BHT</b> detiene esta reacción autocatalítica al convertir los radicales peroxi en hidroperóxidos. Efectúa esta función donando un átomo de hidrógeno:</p>
 
                     <ol>
                         <li class="Elementos--Listas">R9<sub>2 ° + </sub>ArOH -> ROOH + ArO °</li>
                         <li class="Elementos--Listas">RO <sub>2°+</sub>ArO ° -> Productos no Radicales</li>
                     </ol>
 
-                    <p class="Tipografia--general letranegro General--Cuerpo">Donde R es alquilo o arilo, y donde ArOH es BHT o antioxidantes fenólicos relacionados. Cada BHT consume dos radicales peroxi</p>
+                    <p class="Tipografia--general letranegro General--Cuerpo">Donde R es alquilo o arilo, y donde ArOH es BHT o antioxidantes fenólicos relacionados.</p>
                
                     <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Aditivo Alimentario</b></h5>
 
-                    <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:0px;">El BHT se utiliza principalmente como un aditivo alimentario antioxidante. Esto lo hace útil como ingrediente conservante en alimentos. Con este uso, el BHT mantiene la frescura o evita el deterioro; se puede usar para disminuir la velocidad a la que cambia la textura, el color o el sabor de los alimentos.</p>
+                    <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:0px;">El <b>BHT</b> se utiliza principalmente como un aditivo alimentario antioxidante. Esto lo hace útil como ingrediente conservante en alimentos. Con este uso, el <b>BHT</b> mantiene la frescura o evita el deterioro; se puede usar para disminuir la velocidad a la que cambia la textura, el color o el sabor de los alimentos.</p>
 
                     <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">En los Estados Unidos, la FDA lo clasifica como "generalmente reconocido como seguro" (GRAS por sus siglas en inglés) lo cual ha sido confirmado por un estudio del Instituto Nacional del Cáncer de EE.UU.. La FDA en su CFR permite por ejemplo el uso de BHT hasta 0.0033% por peso en "arroz enriquecido", o hasta un 0,01% en aves de corral "por contenido de grasa".</p>
 
                     <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Su uso está permitido en la Unión Europea bajo el código E321. </p>
 
-                    <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Algunas empresas de alimentos han eliminado voluntariamente el BHT de sus productos o han anunciado que lo eliminarán gradualmente en respuesta a las preocupaciones sociales sobre su uso. </p>
+                    <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Algunas empresas de alimentos han eliminado voluntariamente el <b>BHT</b> de sus productos o han anunciado que lo eliminarán gradualmente en respuesta a las preocupaciones sociales sobre su uso. </p>
 
                 
                     <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Uso Farmacéutico</b></h5>
                 
-                    <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:0px;">Basándose en diversos informes de investigación primaria dispares, se ha sugerido que el BHT puede tener actividad antiviral. Sin embargo, los resultados de los estudios científicos no presentan un consenso científico a favor del potencial antiviral general del BHT cuando se dosifica en humanos. Además, hasta marzo de 2020, ninguna guía de ninguna de las asociaciones de especialistas en enfermedades infecciosas reconocidas internacionalmente había recomendado el uso de productos con BHT como terapia antiviral o profiláctica.</p>
-                    <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Hay estudios que describen la inactivación del virus, donde el tratamiento con el químico da como resultado partículas de virus alteradas o inactivadas. La acción de BHT en estos es similar a la acción de muchos otros compuestos orgánicos, por ejemplo, compuestos de amonio cuaternario, fenólicos y detergentes, que trastornan al virus mediante la inserción de la sustancia química en la membrana viral, la cubierta u otra estructura del virus, los cuales son métodos establecidos de desinfección viral secundarios a los métodos de oxidación química e irradiación UV.</p>
-                    <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Además, existe un informe sobre el uso de BHT, por vía tópica contra las lesiones de herpes genital, un informe sobre la actividad inhibitoria in vitro contra la pseudorrabia (en cultivo celular), y dos estudios, en contextos veterinarios, del uso de BHT para intentar proteger contra la exposición al virus (pseudorrabia en ratones y cerdos, y Newcastle en pollos). La relevancia de otros informes, con respecto a la influenza en ratones, no es fácil de discernir.</p>
+                    <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:0px;">Basándose en diversos informes de investigación primaria dispares, se ha sugerido que el <b>BHT</b> puede tener actividad antiviral. Sin embargo, los resultados de los estudios científicos no presentan un consenso científico a favor del potencial antiviral general del <b>BHT</b> cuando se dosifica en humanos. Además, hasta marzo de 2020, ninguna guía de ninguna de las asociaciones de especialistas en enfermedades infecciosas reconocidas internacionalmente había recomendado el uso de productos con <b>BHT</b> como terapia antiviral o profiláctica.</p>
+                    <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Hay estudios que describen la inactivación del virus, donde el tratamiento con el químico da como resultado partículas de virus alteradas o inactivadas. La acción de <b>BHT</b> en estos es similar a la acción de muchos otros compuestos orgánicos, por ejemplo, compuestos de amonio cuaternario, fenólicos y detergentes, que trastornan al virus mediante la inserción de la sustancia química en la membrana viral, la cubierta u otra estructura del virus, los cuales son métodos establecidos de desinfección viral secundarios a los métodos de oxidación química e irradiación UV.</p>
+                    <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Además, existe un informe sobre el uso de <b>BHT</b>, por vía tópica contra las lesiones de herpes genital, un informe sobre la actividad inhibitoria in vitro contra la pseudorrabia (en cultivo celular), y dos estudios, en contextos veterinarios, del uso de <b>BHT</b> para intentar proteger contra la exposición al virus (pseudorrabia en ratones y cerdos, y Newcastle en pollos). La relevancia de otros informes, con respecto a la influenza en ratones, no es fácil de discernir.</p>
 
                     <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Funciones</b></h5>
 
                     <ol>
                         <li class="Elementos--Listas" style="margin-top:30px;">Inhibidor</li>
-                        <li class="Elementos--Listas" style="margin-top:0px;">Antioxidante</li>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Antioxidante</li>
                     </ol>
 
                     <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Aplicaciones</b></h5>
@@ -1055,28 +1055,28 @@
 
                     <ol>
                         <li class="Elementos--Listas" style="margin-top:30px;">Cereales</li>
-                        <li class="Elementos--Listas">Chocolate en polvo (para leche saborizada)</li>
-                        <li class="Elementos--Listas">Helados</li>
-                        <li class="Elementos--Listas">Sopas instantáneas</li>
-                        <li class="Elementos--Listas">Crema de cacahuate</li>
-                        <li class="Elementos--Listas">Goma de mascar</li>
-                        <li class="Elementos--Listas">Galletas y dulces</li>
-                        <li class="Elementos--Listas">Pizza</li>
-                        <li class="Elementos--Listas">Botanas</li>
-                        <li class="Elementos--Listas">Barras energéticas</li>
-                        <li class="Elementos--Listas">Concentrados para bebidas</li>
-                        <li class="Elementos--Listas">Productos de panificación</li>
-                        <li class="Elementos--Listas">Mantecas vegetales</li>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Chocolate en polvo (para leche saborizada)</li>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Helados</li>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Sopas instantáneas</li>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Crema de cacahuate</li>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Goma de mascar</li>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Galletas y dulces</li>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Pizza</li>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Botanas</li>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Barras energéticas</li>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Concentrados para bebidas</li>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Productos de panificación</li>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Mantecas vegetales</li>
                     </ol>
 
                     <h5 class="Tipografia--general General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Cosméticos y Cuidado Personal:</b></h5>
 
                     <ol style="margin-top:30px;">
-                        <li class="Elementos--Listas">Desodorantes</li>
-                        <li class="Elementos--Listas">Jabones de barra</li>
-                        <li class="Elementos--Listas">Protectores labiales</li>
-                        <li class="Elementos--Listas">Bloqueador solar</li>
-                        <li class="Elementos--Listas">Cremas faciales</li>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Desodorantes</li>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Jabones de barra</li>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Protectores labiales</li>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Bloqueador solar</li>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Cremas faciales</li>
                     </ol>
 
                     <h5 class="Tipografia--general General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Farmacéutica</b></h5>
@@ -1102,7 +1102,7 @@
     <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
             alt=""></div><br><br>
     <div class="container-fluid" style="text-align:center;margin-top:-50px">
-        <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos
+        <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos
             Reservados.
             | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
                 href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download

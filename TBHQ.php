@@ -675,7 +675,7 @@
             <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="TBHQ.php"><b class="Tipografia--general Subtitulos" style="color:red;">Terbutilhidroquinona (TBHQ)</b></a></section>
 
                 <!-- <h5 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Butil Hidroxi Tolueno (BHT)</b></h5> -->
-                <p class="Tipografia--general letranegro General--Cuerpo">La Ter-Butilhidroquinona (TBHQ, butilhidroquinona terciaria) es un compuesto orgánico aromático sintético que es un tipo de fenol. Es un derivado de la hidroquinona, sustituido con un grupo terc-butilo.</p>
+                <p class="Tipografia--general letranegro General--Cuerpo">La <b>Ter-Butilhidroquinona (TBHQ, butilhidroquinona terciaria)</b> es un compuesto orgánico aromático sintético que es un tipo de fenol. Es un derivado de la hidroquinona, sustituido con un grupo terc-butilo.</p>
 
 
                 
@@ -863,21 +863,21 @@
                           <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Funciones</b></h5>
 
                           <ol style="margin: top 30px;">
-                            <li class="Elementos--Listas">Estabilizante</li>
-                            <li class="Elementos--Listas">Antioxidante</li>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Estabilizante</li>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Antioxidante</li>
     
                             <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Uso en la industria alimentaria:</b></h5>
                             
                             <ol style="margin-top:30px;">
-                                <li class="Elementos--Listas">Alimentos procesados: El TBHQ se encuentra comúnmente en una variedad de alimentos procesados, incluyendo productos horneados, cereales para desayuno, bocadillos, alimentos fritos y margarinas, aderezos para ensalada y productos cárnicos procesados.</li>
-                                <li class="Elementos--Listas">Aceites comestibles: Se añade TBHQ a los aceites comestibles, como el aceite de soja y el aceite de maíz para protegerlos contra la oxidación y prolongar su vida útil</li>
+                                <li class="Elementos--Listas" style="margin-top:30px;">Alimentos procesados: El <b>TBHQ</b> se encuentra comúnmente en una variedad de alimentos procesados, incluyendo productos horneados, cereales para desayuno, bocadillos, alimentos fritos y margarinas, aderezos para ensalada y productos cárnicos procesados.</li>
+                                <li class="Elementos--Listas" style="margin-top:30px;">Aceites comestibles: Se añade <b>TBHQ</b> a los aceites comestibles, como el aceite de soja y el aceite de maíz para protegerlos contra la oxidación y prolongar su vida útil</li>
                             </ol>
 
                             <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Seguridad y Regulación</b></h5>
 
-                            <p class="Tipografia--general letranegro General--Cuerpo">Autorización: El TBHQ esta autorizado para su uso como aditivo alimentario en muchos países, incluidos estados unidos, la unión europea y otros países en todo el mundo. Este aprobado por agencias reguladoras como la administración de alimentos y medicamentos de los estados unidos y la autoridad europea de seguridad alimentaria.</p>
-                            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Limites de uso: Las agencias reguladoras establecen limites de uso para el TBHQ en alimentos, lo que significa que solo se permite su uso en cantidades pequeñas y seguras. Estos límites </p>
-                            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">están diseñados para garantizar que el consumo de TBHQ no represente riesgo para la salud humana.</p>
+                            <p class="Tipografia--general letranegro General--Cuerpo">Autorización: El <b>TBHQ</b> esta autorizado para su uso como aditivo alimentario en muchos países, incluidos estados unidos, la unión europea y otros países en todo el mundo. Este aprobado por agencias reguladoras como la administración de alimentos y medicamentos de los estados unidos y la autoridad europea de seguridad alimentaria.</p>
+                            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Limites de uso: Las agencias reguladoras establecen limites de uso para el <b>TBHQ</b> en alimentos, lo que significa que solo se permite su uso en cantidades pequeñas y seguras. Estos límites </p>
+                            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">están diseñados para garantizar que el consumo de <b>TBHQ</b> no represente riesgo para la salud humana.</p>
 
 
                             <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h5>
@@ -885,12 +885,12 @@
                             <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Alimentaria y Nutrición Humana</b></h5>
                             
                             <ol style="margin-top:30px;">
-                                <li class="Elementos--Listas">Grasas y Aceites</li>
-                                <li class="Elementos--Listas">Alimentos Congelados Prefabricados</li>
-                                <li class="Elementos--Listas">Rosquillas</li>
-                                <li class="Elementos--Listas">Algunos panes</li>
-                                <li class="Elementos--Listas">Palomitas de Maíz</li>
-                                <li class="Elementos--Listas">Cenas Empaquetadas</li>
+                                <li class="Elementos--Listas" style="margin-top:30px;">Grasas y Aceites</li>
+                                <li class="Elementos--Listas" style="margin-top:30px;">Alimentos Congelados Prefabricados</li>
+                                <li class="Elementos--Listas" style="margin-top:30px;">Rosquillas</li>
+                                <li class="Elementos--Listas" style="margin-top:30px;">Algunos panes</li>
+                                <li class="Elementos--Listas" style="margin-top:30px;">Palomitas de Maíz</li>
+                                <li class="Elementos--Listas" style="margin-top:30px;">Cenas Empaquetadas</li>
                             </ol>
 
                             <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Sabores & Fragancias</b></h5>
@@ -902,18 +902,18 @@
                             <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;color:#000020;"><b style="color:#000020;">Industrial</b></h5>
                             
                             <ol style="margin-top:30px;">
-                                <li class="Elementos--Listas">Estabilizador para inhibir la auto polimerización de peróxidos orgánicos</li>
-                                <li class="Elementos--Listas">Antioxidante en biodiesel</li>
-                                <li class="Elementos--Listas">Barnices</li>
-                                <li class="Elementos--Listas">Lacas</li>
-                                <li class="Elementos--Listas">Yacimientos petrolíferos</li>
+                                <li class="Elementos--Listas" style="margin-top:30px;">Estabilizador para inhibir la auto polimerización de peróxidos orgánicos</li>
+                                <li class="Elementos--Listas" style="margin-top:30px;">Antioxidante en biodiesel</li>
+                                <li class="Elementos--Listas" style="margin-top:30px;">Barnices</li>
+                                <li class="Elementos--Listas" style="margin-top:30px;">Lacas</li>
+                                <li class="Elementos--Listas" style="margin-top:30px;">Yacimientos petrolíferos</li>
                             </ol>
 
-                            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Alimentos Grasos: Se utiliza en una variedad de alimentos grasos para prevenir la oxidación y el enransamiento. Esto incluye productos como aceites comestibles (por ejemplo, aceite de soja, aceite de maíz, aceite de girasol) margarinas, mantequillas y aderezos para ensaladas.</p>
-                            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Alimentos Fritos: En alimentos como papas fritas,aros de cebolla, nugguets de pollo y otros alimentos empanizados, el TBHQ se utiliza para mantener la frescura y prolongar la vida útil del producto.</p>
-                            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Cereales para desayuno: Se agrega a los cereales para desayuno, especialmente aquellos que contiene grasas y aceites para evitar la oxidación y mantener la calidad del producto durante el almacenamiento.</p>
-                            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Productos Horneados: En productos horneados como galletas, pasteles, panes y productos de panadería, el TBHQ se utiliza como antioxidante para proteger contra la oxidación las grasas y los aceites.</p>
-                            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Bocadillos y aperitivos: Se utiliza en una variedad de bocadillos y aperitivos procesados, como chips de maíz, palomitas de maíz, pretzels y otros bocadillos salados.</p>
+                            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Alimentos Grasos:</b> Se utiliza en una variedad de alimentos grasos para prevenir la oxidación y el enransamiento. Esto incluye productos como aceites comestibles (por ejemplo, aceite de soja, aceite de maíz, aceite de girasol) margarinas, mantequillas y aderezos para ensaladas.</p>
+                            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Alimentos Fritos:</b> En alimentos como papas fritas,aros de cebolla, nugguets de pollo y otros alimentos empanizados, el <b>TBHQ</b> se utiliza para mantener la frescura y prolongar la vida útil del producto.</p>
+                            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Cereales para desayuno:</b> Se agrega a los cereales para desayuno, especialmente aquellos que contiene grasas y aceites para evitar la oxidación y mantener la calidad del producto durante el almacenamiento.</p>
+                            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Productos Horneados:</b> En productos horneados como galletas, pasteles, panes y productos de panadería, el <b>TBHQ</b> se utiliza como antioxidante para proteger contra la oxidación las grasas y los aceites.</p>
+                            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Bocadillos y aperitivos:</b> Se utiliza en una variedad de bocadillos y aperitivos procesados, como chips de maíz, palomitas de maíz, pretzels y otros bocadillos salados.</p>
           
             </div>
 
@@ -933,7 +933,7 @@
     <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
             alt=""></div><br><br>
     <div class="container-fluid" style="text-align:center;margin-top:-50px">
-        <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos
+        <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos
             Reservados.
             | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
                 href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download

@@ -428,7 +428,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
   <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Todos los glicoles se presentan en forma de líquido claro, transparente, inodoro y de baja volatilidad. Los glicoles de poco peso molecular son totalmente miscibles en agua y la mayoría cuentan con una gran capacidad para disolverse en casi todos los compuestos orgánicos.</p>
     <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Información Técnica Glicoles</b></h2>
 
-        <table class="display" id=""  style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
+        <table class="display" id="<"  style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
 <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
 <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tabla_productos_glicoles">
 Fórmula Estructural:
@@ -536,7 +536,7 @@ Pub Chem:
 <footer style="margin-top:70px">
 <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg" alt=""></div><br><br>
 <div class="container-fluid" style="text-align:center;margin-top:-50px">
-<p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad  </a>
+<p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad  </a>
 <script type="text/javascript" src="js/main.js"></script></a></strong></p>
 <script type="text/javascript" src="js/Products.js"></script>
 </div>

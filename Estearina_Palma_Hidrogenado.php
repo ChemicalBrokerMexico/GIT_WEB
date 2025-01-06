@@ -550,7 +550,7 @@
         <ul class="slides slides-pruea">
           <li><img src="img/CB_ESTEARINA_PALMA_281223.png" style="height:820px;margin-top:-420px;filter:brightness(0.9)" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Estearina de Palma (RBD) Alto Hidrogenado</b><br></h1>
+              <h1 class="primertitulo"><b class="boldbanner">Estearina de Palma Alto Hidrogenado RBD</b><br></h1>
               <div class="container">
       
     </div>
@@ -564,24 +564,24 @@
     <div class="row">
       <div class="col s12 m12 l12 xl12">
 
-      <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Estearina de Palma (RBD) Alto Hidrogenado</b></a></section>
+      <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Estearina de Palma Alto Hidrogenado (RBD)</b></a></section>
 
-        <p class="Tipografia--general letranegro General--Cuerpo">La Estearina de Palma Refinada, Blanqueada y
-          Desodorizada (RBD) es una grasa vegetal derivada del aceite de palma. La Estearina de Palma RBD es una
-          fracción sólida del aceite de palma RBD, obtenida por fraccionamiento mediante procesos simples de
+        <p class="Tipografia--general letranegro General--Cuerpo">La <b>Estearina de Palma Refinada, Blanqueada y
+          Desodorizada (RBD)</b> es una grasa vegetal derivada del Aceite de Palma. La Estearina de Palma RBD es una
+          fracción sólida del Aceite de Palma RBD, obtenida por fraccionamiento mediante procesos simples de
           cristalización y separación a temperatura controlada. Las propiedades físicas de la Estearina de Palma RBD
-          difieren ampliamente de las del aceite de palma RBD. La Estearina de Palma RBD está disponible en una gama más
+          difieren ampliamente de las del Aceite de Palma RBD. La Estearina de Palma RBD está disponible en una gama más
           amplia de puntos de fusión y valores de yodo.</p>
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La Estearina de Palma RBD no
           contiene colesterol y tiene un efecto anticoagulante, lo que ayuda a prevenir enfermedades del corazón. La
-          Estearina de Palma RBD contiene vitamina E, vitamina D y una proporción aproximadamente igual de ácidos grasos
-          saturados e insaturados. La Estearina de Palma RBD es altamente estable frente a la oxidación debido a la
+          Estearina de Palma RBD contiene vitamina E, vitamina D y una proporción aproximadamente igual de Ácidos Grasos
+          saturados e insaturados. La <b>Estearina de Palma RBD</b> es altamente estable frente a la oxidación debido a la
           presencia de tocoferoles, que actúan como un antioxidante natural y se oxidan antes que la oxidación de la
-          Estearina de Palma RBD.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La Estearina de Palma RBD
-          Hidrogenada, es producto de la hidrogenación del aceite, es una cera sólida blanca o ligeramente amarilla a
+          <b>Estearina de Palma RBD</b>.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La <b>Estearina de Palma RBD
+          Hidrogenada</b>, es producto de la hidrogenación del aceite, es una cera sólida blanca o ligeramente amarilla a
           temperatura normal, insoluble en agua, difícilmente soluble en alcohol etílico, soluble en acetona, éter
-          dietílico, cloroformo, benceno, etc., propiedades químicas estables. La Estearina de Palma RBD Alto Hidrogenada se
+          dietílico, cloroformo, benceno, etc., propiedades químicas estables. La <b>Estearina de Palma RBD Alto Hidrogenada</b> se
           puede usar para hacer Ácido Esteárico, Estearato, también se puede usar en jabón, pasta de pulir, industria de
           velas, industria de alimentos y piensos.</p>
 
@@ -671,7 +671,7 @@
             <br>
             <li class="Elementos--Listas" style="list-style-type:disc;">Emulsificantes</li>
             <br>
-            <li class="Elementos--Listas" style="list-style-type:disc;">Control de viscocidad</li>
+            <li class="Elementos--Listas" style="list-style-type:disc;">Control de Viscocidad</li>
           </ol>
           <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b
               style="color:#000020;">Aplicaciones</b></h5>
@@ -686,18 +686,18 @@
             <li style="list-style-type:disc;">Química:</li>
             <br>
             <ol>
-              <li style="list-style-type:disc;">Fabricación de emulsificantes</li>
+              <li style="list-style-type:disc;">Fabricación de Emulsificantes</li>
             </ol>
           </ol>
           <ol>
             <li style="list-style-type:disc;">Industria Alimentaria y Nutrición Humana:</li>
             <br>
             <ol>
-              <li style="list-style-type:disc;">Manteca vegetal </li>
+              <li style="list-style-type:disc;">Manteca Vegetal </li>
               <br>
               <li style="list-style-type:disc;">Margarinas </li>
               <br>
-              <li style="list-style-type:disc;">Grasas solidas para panificación; reemplazo para manteca de cerdo. </li>
+              <li style="list-style-type:disc;">Grasas Solidas para Panificación; Reemplazo para Manteca de Cerdo. </li>
             </ol>
           </ol>
           <ol>
@@ -725,7 +725,7 @@
           <p class="letranegro General--Cuerpo Tipografia--general"><b style="color:#000020;">Indonesia</b> es el más
             grande del mundo Productor y Exportador de Aceite de Palma. La producción de Aceite de Palma es importante
             para la economía de Indonesia, ya que el país es el mayor productor y exportador mundial de este producto.
-            Indonesia proporciona más de la mitad del suministro mundial de aceite de palma.</p>
+            Indonesia proporciona más de la mitad del suministro mundial de Aceite de palma.</p>
           <p class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;">Producción y exportaciones de Aceite de Palma de
             Indonesia representa actualmente el 55% de la producción mundial de Aceite de Palma y el 60% de las
             exportaciones mundiales. Toda la producción de Aceite de Palma se deriva de la selva tropical de Indonesia,
@@ -820,7 +820,7 @@
   <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
       alt=""></div><br><br>
   <div class="container-fluid" style="text-align:center;margin-top:-50px">
-    <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos Reservados.
+    <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos Reservados.
       | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
         href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de
         Privacidad </a>

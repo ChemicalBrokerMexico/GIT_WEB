@@ -581,19 +581,19 @@
         <!-- <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Hoy en dÍa nuestra oferta
           incluye glicerina en cumplimiento a GMP´s, Kosher, Halal, GFSI, FCC, USP, RSPO Mass Balance.</p> -->
 
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Los antioxidantes terminan
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Los <b>Antioxidantes</b> terminan
           estas reacciones quitando intermedios del radical e inhiben otras reacciones de oxidación, oxidándose ellos
           mismos. Debido a esto es que los antioxidantes son a menudo agentes reductores tales como tioles o
           polifenoles.</p>
 
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Los antioxidantes son muy
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Los <b>Antioxidantes</b> son muy
           importantes para la industria alimentaria; humana y animal, así como para la industria farmacéutica,
           veterinaria y cosmética debido a que logran que los productos conserven sus propiedades y sus niveles de calidad.
         </p>
 
         <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Tipos de Antioxidantes</b></h2>
 
-        <p class="Tipografia--general letranegro General--Cuerpo">Los Antioxidantes se clasifican en dos tipos;
+        <p class="Tipografia--general letranegro General--Cuerpo">Los <b>Antioxidantes</b> se clasifican en dos tipos;
           Naturales son obtenidos íntegramente de fuentes naturales y los Antioxidantes sintéticos creados a partir de
           procesos químicos.</p>
 
@@ -625,7 +625,7 @@
   <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
       alt=""></div><br><br>
   <div class="container-fluid" style="text-align:center;margin-top:-50px">
-    <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos Reservados.
+    <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos Reservados.
       | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
         href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de
         Privacidad </a>

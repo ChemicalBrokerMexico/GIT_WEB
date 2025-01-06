@@ -569,10 +569,10 @@
     
 
             <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020;">Aceite de Coco</b></h2>
-            <p class="Tipografia--general letranegro General--Cuerpo">El <b>Aceite de Coco</b> es un aceite vegetal derivado de la pulpa del coco (Cocos nucifera). Se obtiene mediante procesos de prensado en frio o extracción con calor de la carne blanca o la copra del coco. Es conocido por su alta concentración de ácidos grasos saturados de cadena media, especialmente acido láurico.</p>
+            <p class="Tipografia--general letranegro General--Cuerpo">El <b>Aceite de Coco</b> es un Aceite Vegetal derivado de la pulpa del coco (Cocos nucifera). Se obtiene mediante procesos de prensado en frio o extracción con calor de la carne blanca o la copra del coco. Es conocido por su alta concentración de Ácidos Grasos Saturados de cadena media, especialmente Ácido Láurico.</p>
             <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Características y Propiedades</b></h2>
             <ol>
-                <li class="Elementos--Listas"><b>Ácidos grasos saturados. -</b> El Aceite de Coco es una de las fuentes vegetales más ricas en ácidos grasos saturados, con alrededor del 90% de su contenido graso compuesto por estos ácidos, principalmente acido láurico.</li>
+                <li class="Elementos--Listas"><b>Ácidos Grasos Saturados. -</b> El Aceite de Coco es una de las fuentes vegetales más ricas en Ácidos Grasos Saturados, con alrededor del 90% de su contenido graso compuesto por estos Ácidos, principalmente Ácido Láurico.</li>
                 <li class="Elementos--Listas" style="margin-top:30px;"><b>Punto de humo alto. -</b> Es adecuado para cocinar a altas temperaturas debido a su alto punto de humo, lo que lo hace popular para freír y hornear.</li>
                 <li class="Elementos--Listas" style="margin-top:30px;"><b>Textura. -</b> A temperatura ambiente, el Aceite de Coco tiene una textura sólida, similar a la manteca. Sin embargo, se derrite fácilmente a temperaturas mas altas y se convierte en líquido.</li>
                 <li class="Elementos--Listas" style="margin-top:30px;"><b>Usos versátiles. -</b> Además de uso en la cocina, el Aceite de Coco se utiliza en una variedad de productos de cuidado personal y belleza, como cremas hidratantes, acondicionadores para el cabello, lociones corporales y bálsamos labiales.</li>
@@ -588,7 +588,7 @@
             </ol>
             <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Embalaje:</b></h2>
             <ol>
-                <li class="Elementos--Listas" style="list-style-type:disc;">Tambores de 180kg o 190kg netos.</li>
+                <li class="Elementos--Listas" style="list-style-type:disc;">Tambores de 180kg o 190 Kg netos.</li>
                 <li class="Elementos--Listas" style="list-style-type:disc;margin-top:30px;">Flexibag o ISO Tanque de 20,000 Kg.</li>
             </ol>
             <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Almacenamiento:</b></h2>
@@ -615,7 +615,7 @@
   <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
       alt=""></div><br><br>
   <div class="container-fluid" style="text-align:center;margin-top:-50px">
-    <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos Reservados.
+    <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos Reservados.
       | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
         href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de
         Privacidad </a>

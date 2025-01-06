@@ -584,9 +584,9 @@
         </section>
 
                 <h2 class="letranegro Tipografia--general Titulos"><b style="color:#000020;">Ácidos Grasos Destilados de Palma</b></h2>
-                <p class="letranegro Tipografia--general General--Cuerpo" style="margin-bottom:0px;">Los Ácidos Grasos se obtienen a partir de la hidrólisis a alta presión y temperatura de grasas y aceites de origen animal y vegetal. Después son destilados, obteniéndose un producto de aspecto blanco y tacto jabonoso.</p>
+                <p class="letranegro Tipografia--general General--Cuerpo" style="margin-bottom:0px;">Los <b>Ácidos Grasos</b> se obtienen a partir de la hidrólisis a alta presión y temperatura de grasas y aceites de origen animal y vegetal. Después son destilados, obteniéndose un producto de aspecto blanco y tacto jabonoso.</p>
                 <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Tienen un punto de fusión que va desde los 25ºC del coco a los 50-55ºC de los ácidos grasos que provienen de la palma y el sebo. Este punto de fusión relativamente bajo les permite funcionar como emulgentes en muchas formulaciones o como recubrimiento de diferentes aplicaciones.</p>
-                <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;margin-bottom:0px;"><b style="color:#000020">Los Ácidos Grasos Destilados de Palma</b> se obtienen por desdoblamiento y posterior destilación al vacío del aceite de palma. El producto obtenido es un sólido blanco opaco a temperatura ambiente, con un punto de fusión sobre los 45 °C. Es rico en ácido palmítico y esteárico. Los ácidos grasos predominantes en el aceite de palma son el oleico, el palmítico y el esteárico. Los ácidos grasos se obtienen a partir de la hidrólisis a alta presión y temperatura de grasas y aceites de origen animal y vegetal.</p>
+                <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;margin-bottom:0px;"><b style="color:#000020">Los Ácidos Grasos Destilados de Palma</b> se obtienen por desdoblamiento y posterior destilación al vacío del Aceite de Palma. El producto obtenido es un sólido blanco opaco a temperatura ambiente, con un punto de fusión sobre los 45 °C. Es rico en Acido Palmítico y Esteárico. Los Ácidos Grasos predominantes en el Aceite de Palma son el Oleico, el Palmítico y el Esteárico. Los Ácidos Grasos se obtienen a partir de la Hidrólisis a alta presión y temperatura de grasas y aceites de origen animal y vegetal.</p>
                 <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#000020;">Especificaciones</b></h2>
                 <table style="margin-top:50px;border:1px solid black">
                 <thead>
@@ -634,40 +634,40 @@
                     <li  style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">Tensoactivo</li>
                 </ol>
                 <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#000020;">Aplicación</b></h2>
-                <ol>
-                    <li  style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">Animales y Piensos</li>
-                    <ol>
+                <ol style="margin-top:30px;">
+                    <li  style="list-style-type:disc;margin-top:30px;" class="Tipografia General Elementos--Listas colornegro ">Animales y Piensos</li>
+                    <ol style="margin-top:30px;">
                         <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro">Fuente de proteína y fibra</li>
                         <li style="list-style-type:disc;margin-top:30px" class="Tipografia General Elementos--Listas colornegro">Cosméticos & Cuidado Personal</li>
                     </ol>
                 </ol>
                 <ol>
                     <li  style="list-style-type:disc;margin-top: 30px;" class="Tipografia General Elementos--Listas colornegro ">Quimica</li>
-                    <ol>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro">Esteres</li>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro">Oleo Químicos</li>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro">Tensoactivos</li>
+                    <ol style="margin-top:30px;">
+                        <li style="list-style-type:disc;margin-top:30px;" class="Tipografia General Elementos--Listas colornegro">Esteres</li>
+                        <li style="list-style-type:disc;margin-top:30px;" class="Tipografia General Elementos--Listas colornegro">Oleo Químicos</li>
+                        <li style="list-style-type:disc;margin-top:30px;" class="Tipografia General Elementos--Listas colornegro">Tensoactivos</li>
                     </ol>
                 </ol>
                 <ol>
                     <li  style="list-style-type:disc;margin-top: 30px;" class="Tipografia General Elementos--Listas colornegro ">Detergentes</li>
-                    <ol>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro">Jabones</li>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro">Esterquats</li>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro">Tensoactivos</li>
+                    <ol style="margin-top:30px;">
+                        <li style="list-style-type:disc;margin-top:30px;" class="Tipografia General Elementos--Listas colornegro">Jabones</li>
+                        <li style="list-style-type:disc;margin-top:30px;" class="Tipografia General Elementos--Listas colornegro">Esterquats</li>
+                        <li style="list-style-type:disc;margin-top:30px;" class="Tipografia General Elementos--Listas colornegro">Tensoactivos</li>
                     </ol>
                 </ol>
                 <ol>
                     <li  style="list-style-type:disc;margin-top: 30px;" class="Tipografia General Elementos--Listas colornegro ">Otros</li>
-                    <ol>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro">Lubricantes</li>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro">Fitosanitarios</li>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro">Resinas</li>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro">Velas y Parafinas</li>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro">Textil, Fibras y Cuero</li>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro">Recubrimiento</li>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro">Formulaciones de Pastas</li>
-                        <li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro">Ceras</li>
+                    <ol style="margin-top:30px">
+                        <li style="list-style-type:disc;margin-top:30px;" class="Tipografia General Elementos--Listas colornegro">Lubricantes</li>
+                        <li style="list-style-type:disc;margin-top:30px;" class="Tipografia General Elementos--Listas colornegro">Fitosanitarios</li>
+                        <li style="list-style-type:disc;margin-top:30px;" class="Tipografia General Elementos--Listas colornegro">Resinas</li>
+                        <li style="list-style-type:disc;margin-top:30px;" class="Tipografia General Elementos--Listas colornegro">Velas y Parafinas</li>
+                        <li style="list-style-type:disc;margin-top:30px;" class="Tipografia General Elementos--Listas colornegro">Textil, Fibras y Cuero</li>
+                        <li style="list-style-type:disc;margin-top:30px;" class="Tipografia General Elementos--Listas colornegro">Recubrimiento</li>
+                        <li style="list-style-type:disc;margin-top:30px;" class="Tipografia General Elementos--Listas colornegro">Formulaciones de Pastas</li>
+                        <li style="list-style-type:disc;margin-top:30px;" class="Tipografia General Elementos--Listas colornegro">Ceras</li>
                     </ol>
                 </ol>
                 <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#000020;">Fabricante</b></h2>
@@ -696,7 +696,7 @@
   <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
       alt=""></div><br><br>
   <div class="container-fluid" style="text-align:center;margin-top:-50px">
-    <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos Reservados.
+    <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos Reservados.
       | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
         href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de
         Privacidad </a>

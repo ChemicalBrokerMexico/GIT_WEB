@@ -567,11 +567,11 @@
 
 
             <h2 class="Tipografia--general letranegro Titulos"><b style="color:#000020;">Aceite de Maiz</b></h2>
-            <p class="Tipografia--general letranegro General--Cuerpo">El Aceite de Maíz RBD (Refinado, Blanqueado y Desodorizado), es un tipo de aceite vegetal que se obtiene del maíz mediante un proceso de refinamiento. Este proceso implica eliminar impurezas, olores y sabores no deseados del aceite crudo de maíz.</p>
+            <p class="Tipografia--general letranegro General--Cuerpo">El <b>Aceite de Maíz RBD (Refinado, Blanqueado y Desodorizado)</b>, es un tipo de Aceite Vegetal que se obtiene del maíz mediante un proceso de refinamiento. Este proceso implica eliminar impurezas, olores y sabores no deseados del aceite crudo de maíz.</p>
             <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Cualidades</b></h2>
 
             <ol>
-                <li style="list-style-type:disc;">Refinado, Blanqueado y Desodorizado (RBD). - Estos tres terminos describen el proceso al que se somete el aceite para mejorar su calidad
+                <li style="list-style-type:disc;"><b>Refinado, Blanqueado y Desodorizado (RBD).</b> - Estos tres terminos describen el proceso al que se somete el aceite para mejorar su calidad
                     <ol>
                         <li style="margin-top:30px;list-style-type:disc;" class="Elmentos--Listas">Refinado.- Elimina impurezas y particulas no deseadas</li>
                         <li style="margin-top:30px;list-style-type:disc;" class="Elmentos--Listas">Blanqueado.- Elimina pigmentos y otros compuestos que podría afectar el color del aceite.</li>
@@ -581,7 +581,7 @@
             </ol>
 
             <ol style="margin-top:50px;">
-                <li class="Elementos--Listas">Color.- EL Aceite de Maiz RBD es generalmente claro y tiene un color amarillo palido</li>
+                <li class="Elementos--Listas">Color.- El <b>Aceite de Maiz RBD</b> es generalmente claro y tiene un color amarillo palido</li>
             </ol>
 
             <ol style="margin-top:50px;">
@@ -589,7 +589,7 @@
             </ol>
 
             <ol style="margin-top:50px;">
-                <li class="Elementos--Listas">Punto de humo.- El Aceite de Maíz tiene un punto de humo relativamente alto, lo que significa que puede soportar temperaturas mas altas sin descomponerse. Esto lo hace adecuado para freir y cocinar a altas temperaturas</li>
+                <li class="Elementos--Listas">Punto de humo.- El <b>Aceite de Maíz</b> tiene un punto de humo relativamente alto, lo que significa que puede soportar temperaturas mas altas sin descomponerse. Esto lo hace adecuado para freir y cocinar a altas temperaturas</li>
             </ol>
 
             <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Funciones</b></h2>
@@ -606,11 +606,11 @@
             <ol>
                 <li class="Elementos--Listas"> Industria Alimentaria: 
                     <ol>
-                        <li class="Elementos--Listas" style="margin-top:30px;">Cocina domestica: Se utiliza en la preparación de alimentos, como freír, saltear y hornear debido a su punto de humo alto y su sabor neutro.</li>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Cocina Domestica: Se utiliza en la preparación de alimentos, como freír, saltear y hornear debido a su punto de humo alto y su sabor neutro.</li>
                         <li class="Elementos--Listas" style="margin-top:30px;">Productos Procesados: En snack, galletas, panes, aderezos, margarinas, mayonesas y aderezos para ensaladas.</li>
                         <li class="Elementos--Listas" style="margin-top:30px;">Frituras Industriales: por su punto de humo elevado y su estabilidad frente a la oxidación.</li>
                         <li class="Elementos--Listas" style="margin-top:30px;">Panificación: sirve como ingrediente para productos horneados, aportando humedad y suavidad.</li>
-                        <li class="Elementos--Listas" style="margin-top:30px;">Ingredientes alimenticios: En emulsiones y mezclas de aceites vegetales.</li>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Ingredientes Alimenticios: En emulsiones y mezclas de aceites vegetales.</li>
                     </ol>
                 </li>
             </ol>
@@ -629,8 +629,8 @@
                 <li style="margin-top:50px;" class="Elementos--Listas">Industria Farmacéutica
                     <ol>
                         <li class="Elementos--Listas" style="margin-top:30px;">Vehículo de Medicamentos: Se utiliza como base en productos farmacéuticos, especialmente en soluciones orales y tópicas.</li>
-                        <li class="Elementos--Listas" style="margin-top:30px;">Complemento nutricional: Por su contenido de acido linoleico, contribuye a una dieta saludable.</li>
-                        <li class="Elementos--Listas" style="margin-top:30px;">Producción de vitaminas: Es una fuente de ácidos grasos esenciales que pueden emplearse en suplementos alimenticios.</li>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Complemento Nutricional: Por su contenido de acido linoleico, contribuye a una dieta saludable.</li>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Producción de Vitaminas: Es una fuente de Ácidos Grasos Esenciales que pueden emplearse en suplementos alimenticios.</li>
                     </ol>
                 </li>
             </ol>
@@ -638,10 +638,10 @@
             <ol>
                 <li style="margin-top:50px;" class="Elementos--Listas">Industria Quimica y Biotecnología: 
                     <ol>
-                        <li class="Elementos--Listas" style="margin-top:30px;">Producción de biodiesel: Como materia prima en procesos de transesterificación.</li>
-                        <li class="Elementos--Listas" style="margin-top:30px;">Fabricación de jabones y detergentes: por sus propiedades emolientes.</li>
-                        <li class="Elementos--Listas" style="margin-top:30px;">Plásticos y biopolímeros: como plastificante en ciertos procesos.</li>
-                        <li class="Elementos--Listas" style="margin-top:30px;">Producción de lubricantes: Se utiliza en algunos productos lubricantes industriales y domésticos debido a sus propiedades deslizantes.</li>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Producción de Biodiesel: Como materia prima en procesos de transesterificación.</li>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Fabricación de Jabones y Detergentes: por sus propiedades emolientes.</li>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Plásticos y Biopolímeros: como plastificante en ciertos procesos.</li>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Producción de Lubricantes: Se utiliza en algunos productos lubricantes industriales y domésticos debido a sus propiedades deslizantes.</li>
                     </ol>
                 </li>
             </ol>
@@ -649,8 +649,8 @@
             <ol style="margin-top:50px;">
                 <li class="Elementos--Listas">Alimentación Animal:
                     <ol>
-                        <li class="Elementos--Listas" style="margin-top:30px;">Alimentación animal: Se incorpora en alimentos balanceados para animales por su soporte calórico y ácidos grasos beneficiosos para la salud animal.</li>
-                        <li class="Elementos--Listas" style="margin-top:30px;">Productos tópicos: Se utiliza en bálsamos y cremas para el cuidado de la piel de animales.</li>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Alimentación Animal: Se incorpora en alimentos balanceados para animales por su soporte calórico y ácidos grasos beneficiosos para la salud animal.</li>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Productos Tópicos: Se utiliza en bálsamos y cremas para el cuidado de la piel de animales.</li>
                     </ol>
                 </li>
             </ol>
@@ -671,7 +671,7 @@
   <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
       alt=""></div><br><br>
   <div class="container-fluid" style="text-align:center;margin-top:-50px">
-    <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos Reservados.
+    <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos Reservados.
       | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
         href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de
         Privacidad </a>

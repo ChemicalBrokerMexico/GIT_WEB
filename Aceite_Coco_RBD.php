@@ -566,9 +566,9 @@
       <section style="margin-top:0px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Aceite de Coco RBD</b></a></section>
 
 
-        <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020;">Aceite de coco RBD</b></h2>
+        <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020;">Aceite de Coco RBD</b></h2>
     
-    <p class="Tipografia--general letranegro General--Cuerpo">El Aceite de Coco RBD (Refinado, Blanqueado, Desodorizado) es un tipo de aceite de coco que ha pasado por un proceso de refinacion para eliminar impurezas, olores y sabores fuertes. Este tipo de aceite es ideal para aplicaciones culinarias y cosméticas donde se prefiere un producto neutro en olor y sabor. </p>
+    <p class="Tipografia--general letranegro General--Cuerpo">El <b>Aceite de Coco RBD (Refinado, Blanqueado, Desodorizado)</b> es un tipo de Aceite de Coco que ha pasado por un proceso de refinacion para eliminar impurezas, olores y sabores fuertes. Este tipo de aceite es ideal para aplicaciones culinarias y cosméticas donde se prefiere un producto neutro en olor y sabor. </p>
     
     <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Características:</b></h2>
     
@@ -583,8 +583,8 @@
     <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Cocina: Es ideal para cocinar a altas temperaturas debido a su alto punto de humo (~230 °C) y su sabor neutro.</li>
         <li class="Elementos--Listas" style="margin-top:30px;">Cosmética: Se usa como base en cremas, jabones y otros productos de cuidado personal.</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Industria alimentaria: Como ingrediente en productos procesados y para frituras.</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Productos para el cabello y piel: Por su capacidad hidratante, aunque no conserva los mismos antioxidantes que el Aceite de Coco virgen.</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Industria Alimentaria: Como ingrediente en productos procesados y para frituras.</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Productos para el Cabello y Piel: Por su capacidad hidratante, aunque no conserva los mismos antioxidantes que el Aceite de Coco virgen.</li>
     </ol>
     
     
@@ -603,7 +603,7 @@
                 <li class="Elementos--Listas" style="margin-top:30px;">Aspecto: Líquido transparente a altas temperaturas (>24 °C) y sólido blanco a temperatura ambiente.</li>
                 <li class="Elementos--Listas" style="margin-top:30px;">Punto de fusión: 23-26 °C, lo que lo hace ideal para aplicaciones que requieren solidez a temperatura ambiente.</li>
                 <li class="Elementos--Listas" style="margin-top:30px;">Punto de humo: Alrededor de 230 °C, lo que permite su uso seguro en cocción a altas temperaturas.</li>
-                <li class="Elementos--Listas" style="margin-top:30px;">Textura: Suave y cremosa cuando está sólido, lo que facilita su aplicación en productos cosméticos y alimenticios.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Textura: Suave y Cremosa cuando está sólido, lo que facilita su aplicación en productos cosméticos y alimenticios.</li>
                 <li class="Elementos--Listas" style="margin-top:30px;">Sabor y olor: Neutro, ya que el proceso de refinado elimina el aroma y el sabor característicos del coco.</li>
             </ol>
     </ol>
@@ -611,14 +611,14 @@
     <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color: #000020;">Propiedades Químicas:</b></h2>
     
     <ol>
-        <li class="Elementos--Listas">Composición de ácidos grasos:
+        <li class="Elementos--Listas">Composición de Ácidos Grasos:
             <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;">Rico en ácidos grasos saturados (aproximadamente 90%), especialmente:</li>
-                <li class="Elementos--Listas" style="margin-top:30px;">Ácido láurico (C12): 40-50% del contenido total, conocido por sus propiedades antimicrobianas y energéticas.</li>
-                <li class="Elementos--Listas" style="margin-top:30px;">Ácido mirístico, palmítico y cáprico: Contribuyen a su estabilidad y beneficios funcionales.</li>
-                <li class="Elementos--Listas" style="margin-top:30px;">Ácidos grasos de cadena media (MCT): Favorecen una rápida conversión en energía en el cuerpo.</li>
-                <li class="Elementos--Listas" style="margin-top:30px;">Estabilidad oxidativa: Alta, debido al predominio de grasas saturadas, lo que prolonga su vida útil.</li>
-                <li class="Elementos--Listas" style="margin-top:30px;">Ausencia de compuestos no deseados: Libre de olores, pigmentos y contaminantes tras el proceso de refinado.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Rico en Ácidos Grasos Saturados (aproximadamente 90%), especialmente:</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Ácido Láurico (C12): 40-50% del contenido total, conocido por sus propiedades antimicrobianas y energéticas.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Ácido Mirístico, Palmítico y Cáprico: Contribuyen a su estabilidad y beneficios funcionales.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Ácidos Grasos de Cadena Media (MCT): Favorecen una rápida conversión en energía en el cuerpo.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Estabilidad Oxidativa: Alta, debido al predominio de grasas saturadas, lo que prolonga su vida útil.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Ausencia de Compuestos no Deseados: Libre de olores, pigmentos y contaminantes tras el proceso de refinado.</li>
             </ol>
         </li>
     </ol>
@@ -626,18 +626,18 @@
     <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Propiedades Funcionales</b></h2>
     
     <ol>
-        <li class="Elementos--Listas">Alta estabilidad térmica: Resiste la descomposición bajo calor, ideal para frituras y horneados.</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Hidratante natural: Retiene humedad en la piel y el cabello, favoreciendo su uso en productos cosméticos.</li>
+        <li class="Elementos--Listas">Alta Estabilidad Térmica: Resiste la descomposición bajo calor, ideal para frituras y horneados.</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Hidratante   Natural: Retiene humedad en la piel y el cabello, favoreciendo su uso en productos cosméticos.</li>
         <li class="Elementos--Listas" style="margin-top:30px;">Versatilidad: Compatible con diferentes formulaciones, tanto alimenticias como industriales y cosméticas.</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Capacidad de solidificación: Solidifica rápidamente, útil en la elaboración de recubrimientos alimenticios y velas.</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Capacidad de Solidificación: Solidifica rápidamente, útil en la elaboración de recubrimientos alimenticios y velas.</li>
     </ol>
     
     <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Propiedades Nutricionales:</b></h2>
     
     <ol>
-        <li class="Elementos--Listas">Fuente de energía rápida: Los MCT se metabolizan fácilmente, proporcionando energía sin almacenarse como grasa corporal</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Bajo en colesterol: Aunque es una grasa saturada, no contiene colesterol al ser de origen vegetal.</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Carece de grasas trans: Opción más saludable frente a aceites hidrogenados.</li>
+        <li class="Elementos--Listas">Fuente de Energía Rápida: Los MCT se metabolizan fácilmente, proporcionando energía sin almacenarse como grasa corporal</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Bajo en Colesterol: Aunque es una grasa saturada, no contiene colesterol al ser de origen vegetal.</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Carece de Grasas Trans: Opción más saludable frente a aceites hidrogenados.</li>
     </ol>
     
     
@@ -645,16 +645,16 @@
     
     <ol>
     <li class="Elementos--Listas">Humectante: Penetra fácilmente en la piel, dejándola suave y nutrida.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">No comedogénico: Baja tendencia a obstruir los poros, adecuado para pieles sensibles.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">Protector capilar: Reduce el daño causado por factores externos, como el sol o el calor.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">No Comedogénico: Baja tendencia a obstruir los poros, adecuado para pieles sensibles.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Protector Capilar: Reduce el daño causado por factores externos, como el sol o el calor.</li>
     </ol>
     
     
     <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Propiedades Industriales:</b></h2>
     
     <ol>
-    <li class="Elementos--Listas">Compatibilidad química: Funciona como materia prima en la fabricación de surfactantes y emulsionantes.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">Larga vida útil: Su estabilidad lo hace ideal para almacenamiento prolongado en productos procesados.</li>
+    <li class="Elementos--Listas">Compatibilidad Química: Funciona como materia prima en la fabricación de surfactantes y emulsionantes.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Larga Vida Útil: Su estabilidad lo hace ideal para almacenamiento prolongado en productos procesados.</li>
     </ol>
     
     <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color: #000020;">Aplicaciones</b></h2>
@@ -662,35 +662,35 @@
     <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria</b></h2>
     
     <ol>
-    <li class="Elementos--Listas">Cocina y fritura: Perfecto para cocinar a altas temperaturas sin descomponerse gracias a su alto punto de humo (~230 °C).</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">Panadería y repostería: Como ingrediente en masas, galletas, y pasteles por su textura sólida a temperatura ambiente.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">Sustituto de grasas trans: Se utiliza en productos procesados como alternativa más saludable.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">Coberturas y glaseados: Ideal para preparar recubrimientos de chocolates o dulces, ya que solidifica fácilmente.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">Leches y cremas vegetales: Base para productos lácteos veganos, como leche o crema de coco.</li>
+    <li class="Elementos--Listas">Cocina y Fritura: Perfecto para cocinar a altas temperaturas sin descomponerse gracias a su alto punto de humo (~230 °C).</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Panadería y Repostería: Como ingrediente en masas, galletas, y pasteles por su textura sólida a temperatura ambiente.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Sustituto de Grasas Trans: Se utiliza en productos procesados como alternativa más saludable.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Coberturas y Glaseados: Ideal para preparar recubrimientos de chocolates o dulces, ya que solidifica fácilmente.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Leches y Cremas Vegetales: Base para productos lácteos veganos, como leche o crema de coco.</li>
     </ol>
     
     <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#000020;margin-top:50px;"><b style="color:#000020;">Industria Cosmética y de Cuidado Personal:</b></h2>
     
     <ol>
-    <li class="Elementos--Listas">Hidratantes para la piel: Usado como ingrediente en lociones y cremas por su capacidad de mantener la piel suave y nutrida.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">Productos para el cabello: Incluido en champús, acondicionadores y mascarillas por sus propiedades fortalecedoras e hidratantes.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">Jabones y detergentes: Base común para fabricar jabones de alta calidad y productos de limpieza facial y corporal</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">Aceite portador: Utilizado en aromaterapia como vehículo para aceites esenciales.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">Bálsamos labiales: Componente clave para hidratar y proteger los labios.</li>
+    <li class="Elementos--Listas">Hidratantes para la Piel: Usado como ingrediente en lociones y cremas por su capacidad de mantener la piel suave y nutrida.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Productos para el Cabello: Incluido en champús, acondicionadores y mascarillas por sus propiedades fortalecedoras e hidratantes.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Jabones y Detergentes: Base común para fabricar jabones de alta calidad y productos de limpieza facial y corporal</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Aceite Portador: Utilizado en aromaterapia como vehículo para Aceites Esenciales.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Bálsamos Labiales: Componente clave para hidratar y proteger los labios.</li>
     </ol>
     
     <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Farmacéutica</b></h2>
     <ol>
-    <li class="Elementos--Listas">Vehículo de medicamentos: Actúa como base en cremas medicinales, ungüentos y suplementos en cápsulas.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">Formulaciones dietéticas: Presente en productos especializados para dietas cetogénicas o terapéuticas, por su alto contenido de ácidos grasos de cadena media (MCT).</li>
+    <li class="Elementos--Listas">Vehículo de Medicamentos: Actúa como base en cremas medicinales, ungüentos y suplementos en cápsulas.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Formulaciones Dietéticas: Presente en productos especializados para dietas cetogénicas o terapéuticas, por su alto contenido de Ácidos Grasos de Cadena Media (MCT).</li>
     </ol>
     
     <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Química e Industrial:</b></h2>
     
     <ol>
-    <li class="Elementos--Listas">Producción de biodiésel: Fuente de lípidos para fabricar biocombustibles.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">Fabricación de velas: Aporta estabilidad y brillo a las velas, con una combustión limpia.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">Surfactantes y detergentes: Ingrediente clave para crear agentes espumantes y limpiadores en productos industriales.</li>
+    <li class="Elementos--Listas">Producción de Biodiésel: Fuente de lípidos para fabricar biocombustibles.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Fabricación de Velas: Aporta estabilidad y brillo a las velas, con una combustión limpia.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Surfactantes y Detergentes: Ingrediente clave para crear agentes espumantes y limpiadores en productos industriales.</li>
     </ol>
     
     
@@ -698,17 +698,17 @@
     
     
     <ol>
-    <li class="Elementos--Listas">Hidratante casero: Usado directamente sobre la piel como un emoliente natural.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">Tratamiento capilar: Aplicado en el cabello para reducir el frizz y mejorar su salud.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">Cuidado de muebles y cuero: Actúa como un acondicionador natural para proteger superficies de madera o cuero.</li>
+    <li class="Elementos--Listas">Hidratante Casero: Usado directamente sobre la piel como un emoliente natural.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Tratamiento Capilar: Aplicado en el cabello para reducir el frizz y mejorar su salud.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Cuidado de Muebles y Cuero: Actúa como un acondicionador natural para proteger superficies de madera o cuero.</li>
     </ol>
     
     
-    <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Uso en la agroindustria</b></h2>
+    <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Uso en la Agroindustria</b></h2>
     
     <ol>
-    <li class="Elementos--Listas">Alimentos para animales: Aporta energía rápida y mejora la calidad del pelaje en mascotas y ganado.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">Control de plagas: Utilizado como base en formulaciones naturales para repeler insectos.</li>
+    <li class="Elementos--Listas">Alimentos para Animales: Aporta energía rápida y mejora la calidad del pelaje en mascotas y ganado.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Control de Plagas: Utilizado como base en formulaciones naturales para repeler insectos.</li>
     </ol>
 
     
@@ -734,7 +734,7 @@
   <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
       alt=""></div><br><br>
   <div class="container-fluid" style="text-align:center;margin-top:-50px">
-    <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos Reservados.
+    <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos Reservados.
       | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
         href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de
         Privacidad </a>

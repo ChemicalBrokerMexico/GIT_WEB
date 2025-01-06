@@ -667,18 +667,18 @@
                                 Isopropílico USP</b></a></section>
 
         <h2 class="Tipografia--general letranegro Titulos"><b>Alcohol Isopropilico USP</b></h2>
-        <p class="Tipografia--general letranegro General--Cuerpo">El alcohol isopropílico, también conocido como isopropanol o alcohol isopropílico, es un disolvente y desinfectante de uso común.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo">El <b>Alcohol Isopropílico</b>, también conocido como Isopropanol o Alcohol Isopropílico, es un disolvente y desinfectante de uso común.</p>
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El término "USP" significa Farmacopea de los Estados Unidos, que es un conjunto de estándares de calidad para medicamentos y otros productos sanitarios en los Estados Unidos.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Cuando el alcohol isopropílico está etiquetado como "USP", significa que cumple con las especificaciones descritas en la Farmacopea de los Estados Unidos en cuanto a pureza y calidad. Esta designación es importante, especialmente cuando el alcohol está destinado a aplicaciones médicas, farmacéuticas o cosméticas. La USP establece estándares para la identidad, potencia, calidad, pureza, envasado y etiquetado de sustancias que se utilizan en la práctica de la medicina.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El alcohol isopropílico USP se utiliza normalmente para diversos fines, entre ellos:</p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El alcohol isopropílico se utiliza habitualmente como desinfectante para la piel y las superficies. A menudo se aplica sobre la piel antes de las inyecciones para reducir el riesgo de infección.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Cuando el <b>Alcohol Isopropílico</b> está etiquetado como "USP", significa que cumple con las especificaciones descritas en la Farmacopea de los Estados Unidos en cuanto a pureza y calidad. Esta designación es importante, especialmente cuando el alcohol está destinado a aplicaciones médicas, farmacéuticas o cosméticas. La USP establece estándares para la identidad, potencia, calidad, pureza, envasado y etiquetado de sustancias que se utilizan en la práctica de la medicina.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b>Alcohol Isopropílico USP</b> se utiliza normalmente para diversos fines, entre ellos:</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b>Alcohol Isopropílico</b> se utiliza habitualmente como desinfectante para la piel y las superficies. A menudo se aplica sobre la piel antes de las inyecciones para reducir el riesgo de infección.</p>
 
 
         <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Funciones</b></h2>
 
         <ol>
-            <li style="list-style-type:disc;" class="Elementos--listas"><b>Disolvente. -</b> es un buen disolvente en muchas sustancias, por lo que se utiliza en la fabricación de productos farmacéuticos, cosméticos y otros productos químicos.</li>
-            <li style="list-style-type:disc;margin-top:50px;" class="Elementos--listas"><b>Desinfectante. -</b> se usa comúnmente como desinfectante para limpiar y desinfectar superficies. Es eficaz para matar bacterias y virus. </li>
+            <li style="list-style-type:disc;" class="Elementos--listas"><b>Disolvente. -</b> Es un buen disolvente en muchas sustancias, por lo que se utiliza en la fabricación de productos farmacéuticos, cosméticos y otros productos químicos.</li>
+            <li style="list-style-type:disc;margin-top:50px;" class="Elementos--listas"><b>Desinfectante. -</b> Se usa comúnmente como desinfectante para limpiar y desinfectar superficies. Es eficaz para matar bacterias y virus. </li>
             <li style="list-style-type:disc;margin-top:50px;" class="Elementos--listas"><b>Agente Limpiador</b></li>
         </ol>
 
@@ -689,20 +689,20 @@
         <ol>
             <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Desinfección de superficies. -  Se utiliza para desinfectar superficies en entornos farmacéuticos, como laboratorios y salas de producción, para mantener un ambiente estéril.</li>
             <li style="list-style-type:disc;margin-top:50px;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Desinfección de equipos. - Se emplea para desinfectar equipos y utensilios utilizados en la fabricación de productos farmacéuticos, asegurando la eliminación de microorganismos y la prevención de contaminación.</ul>
-            <li style="list-style-type:disc;margin-top:50px;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Limpieza de instrumentos quirúrgicos. - antes de procedimientos médicos o en la fabricación de instrumentos quirúrgicos, el alcohol isopropílico se utiliza para limpiar y desinfectar</li>
-            <li style="list-style-type:disc;margin-top:50px;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Producción de medicamentos. - como disolvente se utiliza en la fabricación de medicamentos para ayudar a disolver y homogeneizar los ingredientes activos y excipientes.</li>
-            <li style="list-style-type:disc;margin-top:50px;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Limpieza de áreas controladas. - en entornos farmacéuticos y laboratorios, se utiliza para limpiar y desinfectar áreas controladas, como salas limpias, donde se requiere un alto nivel de higiene.</li>
-            <li style="list-style-type:disc;margin-top:50px;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Limpieza de reactores y equipos de producción. - se utiliza para limpiar y desinfectar reactores, tanques y equipos utilizados en la síntesis y producción de ingredientes farmacéuticos activos (API´s).</li>
-            <li style="list-style-type:disc;margin-top:50px;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Limpieza de material de embalaje. - en la preparación y envasado de productos farmacéuticos, se utiliza para limpiar y desinfectar utensilios de laboratorio, como pipetas, matraces y tubos de ensayo.</li>
-            <li style="list-style-type:disc;margin-top:50px;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Control de contaminación cruzada. - contribuye a prevenir la contaminación cruzada al desinfectar equipos y áreas en la producción de diferentes productos farmacéuticos.</li>
+            <li style="list-style-type:disc;margin-top:50px;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Limpieza de instrumentos Quirúrgicos. - Antes de procedimientos médicos o en la fabricación de instrumentos quirúrgicos, el alcohol isopropílico se utiliza para limpiar y desinfectar</li>
+            <li style="list-style-type:disc;margin-top:50px;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Producción de Medicamentos. - Como disolvente se utiliza en la fabricación de medicamentos para ayudar a disolver y homogeneizar los ingredientes activos y excipientes.</li>
+            <li style="list-style-type:disc;margin-top:50px;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Limpieza de Áreas Controladas. - En entornos farmacéuticos y laboratorios, se utiliza para limpiar y desinfectar áreas controladas, como salas limpias, donde se requiere un alto nivel de higiene.</li>
+            <li style="list-style-type:disc;margin-top:50px;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Limpieza de Reactores y Equipos de Producción. - Se utiliza para limpiar y desinfectar reactores, tanques y equipos utilizados en la síntesis y producción de ingredientes farmacéuticos activos (API´s).</li>
+            <li style="list-style-type:disc;margin-top:50px;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Limpieza de Material de Embalaje. - En la preparación y envasado de productos farmacéuticos, se utiliza para limpiar y desinfectar utensilios de laboratorio, como pipetas, matraces y tubos de ensayo.</li>
+            <li style="list-style-type:disc;margin-top:50px;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Control de contaminación cruzada. - Contribuye a prevenir la contaminación cruzada al desinfectar equipos y áreas en la producción de diferentes productos farmacéuticos.</li>
         </ol>
 
         <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Alimentos:</b></h2>
 
         <ol>
-            <li style="list-style-type:disc;margin-top:;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Limpieza de superficies. -  en áreas de procesamiento de alimentos, cocinas industriales y otras instalaciones relacionadas con la administración.</li>
-            <li style="list-style-type:disc;margin-top:50px;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Desinfección de equipos y superficies</li>
-            <li style="list-style-type:disc;margin-top:50px;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Desinfección de Superficies en la industria de las bebidas</li>
+            <li style="list-style-type:disc;margin-top:;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Limpieza de Superficies. -  En áreas de procesamiento de alimentos, cocinas industriales y otras instalaciones relacionadas con la administración.</li>
+            <li style="list-style-type:disc;margin-top:50px;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Desinfección de Equipos y Superficies</li>
+            <li style="list-style-type:disc;margin-top:50px;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Desinfección de Superficies en la Industria de las Bebidas</li>
             <li style="list-style-type:disc;margin-top:50px;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Desinfección de Procesos de Envasado</li>
         </ol>
 
@@ -715,12 +715,12 @@
             <li style="list-style-type:disc;margin-top:50px;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Lociones Antibacteriales.</li>
             <li style="list-style-type:disc;margin-top:50px;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Soluciones Salinas.</li>
             <li style="list-style-type:disc;margin-top:50px;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Toallas Húmedas (Wipes).</li>
-            <li style="list-style-type:disc;margin-top:50px;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Espuma de baño.</li>
+            <li style="list-style-type:disc;margin-top:50px;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Espuma de Baño.</li>
             <li style="list-style-type:disc;margin-top:50px;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Shampoos.</li>
-            <li style="list-style-type:disc;margin-top:50px;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Lubricante intimo genital.</li>
+            <li style="list-style-type:disc;margin-top:50px;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Lubricante Intimo Genital.</li>
             <li style="list-style-type:disc;margin-top:50px;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Quitaesmalte.</li>
             <li style="list-style-type:disc;margin-top:50px;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Astrigente.</li>
-            <li style="list-style-type:disc;margin-top:50px;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Cuidado de la piel.</li>
+            <li style="list-style-type:disc;margin-top:50px;" class="Tipografia--general letranegro General--Cuerpo Elementos--Listas">Cuidado de la Piel.</li>
         </ol>
 
         <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Certificaciones</b></h2>
@@ -767,7 +767,7 @@
     <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
             alt=""></div><br><br>
     <div class="container-fluid" style="text-align:center;margin-top:-50px">
-        <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos
+        <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos
             Reservados.
             | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
                 href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download

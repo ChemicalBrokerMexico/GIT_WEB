@@ -666,7 +666,7 @@
                                 class="Tipografia--general Subtitulos" style="color:red;">Alcohol
                                 Isopropílico</b></a></section>
 
-            <p class="Tipografia--general General--Cuerpo letranegra">El Alcohol Isopropilico (propan-2-ol, Isopropanol o 2-propanol), es un compuesto orgánico incoloro e inflamable con un olor a alcohol acre. Como grupo isoporpilico unido a un grupo de hidroxilo (formula química ((CH3)2CHOH), es el ejemplo mas simple de un alcohol secundario, donde el átomo de carbono del alcohol esta unido a otros dos átomos de carbono. Es un isómero estructural de propan-1-ol y etil metil eter.</p>
+            <p class="Tipografia--general General--Cuerpo letranegra">El <b>Alcohol Isopropilico (propan-2-ol, Isopropanol o 2-propanol)</b>, es un compuesto orgánico incoloro e inflamable con un olor a alcohol acre. Como grupo isopropilico unido a un grupo de hidroxilo (formula química ((CH3)2CHOH), es el ejemplo mas simple de un alcohol secundario, donde el átomo de carbono del alcohol esta unido a otros dos átomos de carbono. Es un isómero estructural de propan-1-ol y etil metil eter.</p>
             <p class="Tipografia--general General--Cuerpo letranegra">Cuando este alcohol se oxida se convierte en acetona, ya que los alcoholes secundarios se convierten en cetonas; a diferencia de los alcoholes primarios que se convierten en aldehídos.</p>
             <p class="Tipografia--general General--Cuerpo letranegra">Se utiliza en la fabricación de una amplia variedad de productos químicos industriales y domésticos y es un ingrediente común en productos como antisépticos, desinfectantes y detergentes.</p>
 
@@ -1064,10 +1064,10 @@
 
         <div class="col s12 m12 l12 xl12">
             <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Funciones</b></h2>
-            <p class="Tipografoa--general letranegro General--Cuerpo"><b>Desinfectante. -</b> se utiliza para limpiar y desinfectar superficies. Es eficaz para matar microorganismos como bacterias y virus, lo que lo hace útil en entornos médicos, cosméticos y de limpieza general.</p>
+            <p class="Tipografoa--general letranegro General--Cuerpo"><b>Desinfectante. -</b> Se utiliza para limpiar y desinfectar superficies. Es eficaz para matar microorganismos como bacterias y virus, lo que lo hace útil en entornos médicos, cosméticos y de limpieza general.</p>
             <p class="Tipografoa--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Disolvente. -</b> Actúa como un disolvente efectivo para muchas sustancias, como grasas, aceites, resinas y tintas. Por lo tanto, se utiliza en la fabricación de productos químicos, tintas y barnices.</p>
-            <p class="Tipografoa--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Desengrasante. -</b> debido a su capacidad para disolver grasas, el alcohol isopropílico se utiliza como desengrasante en aplicaciones industriales, como la limpieza de piezas metálicas y maquinaria.</p>
-            <p class="Tipografoa--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Limpieza. -</b> se utiliza para limpiar y desinfectar superficies, instrumentos y maquinaria.</p>
+            <p class="Tipografoa--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Desengrasante. -</b> Debido a su capacidad para disolver grasas, el alcohol isopropílico se utiliza como desengrasante en aplicaciones industriales, como la limpieza de piezas metálicas y maquinaria.</p>
+            <p class="Tipografoa--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Limpieza. -</b> Se utiliza para limpiar y desinfectar superficies, instrumentos y maquinaria.</p>
             <p class="Tipografoa--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Eliminación de pegamento. -</b> Puede ayudar a disolver y eliminar residuos de pegamento, adhesivos y etiquetas.</p>
             <p class="Tipografoa--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Control de Olores. -</b> Se utiliza a veces para disolver olores en entornos específicos, ya que se evapora rápidamente y no deja residuos olorosos.</p>
             <p class="Tipografoa--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Descongelante. -</b> Debido a su bajo punto de congelación, el alcohol isopropílico se puede usar para descongelar parabrisas y cerraduras congeladas.</p>
@@ -1097,7 +1097,7 @@
     <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
             alt=""></div><br><br>
     <div class="container-fluid" style="text-align:center;margin-top:-50px">
-        <p style="color:black;text-align:center;font-size:16px">© 2014 C&E | Chemical Broker Todos los Derechos
+        <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos
             Reservados.
             | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
                 href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download
