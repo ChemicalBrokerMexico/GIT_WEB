@@ -567,12 +567,12 @@
             
             <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Sebo_Alto_Hidrogenaado.php"><b class="Tipografia--general Subtitulos" style="color:red;">Estearina de Palma Alto Hidrogenado</b></a></section>
 
-                <p class="Tipografia--general letranegro General--Cuerpo">El ácido graso de sebo hidrogenado (HTFA, por sus siglas en inglés) se deriva de fuentes animales como la grasa de res procesada o el cordero. La hidrogenación de ácidos grasos se refiere a un proceso químico en el que se agrega hidrógeno para lograr la saturación</p>
-                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La hidrogenación consta de tres componentes: el ácido graso de sebo insaturado, la fuente de hidrógeno y un catalizador que estimula la reacción deseada, normalmente un metal como el níquel o el paladio. La hidrogenación del ácido de sebo puede ser parcial o completa, según el uso al que se destine. La destilación es el paso final en el proceso de hidrogenación de ácidos grasos</p>
-                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El ácido graso de sebo hidrogenado es de color blanco a amarillo claro a temperatura ambiente, aunque el color variará según el tipo y la extensión del proceso de hidrogenación. El ácido graso de sebo hidrogenado (HFTA) también emite un ligero olor. Los Ácidos Grasos de Sebo Hidrogenados tienen un punto de congelación de entre 45 - 55 °C durante la hidrogenación parcial y de 57 - 60 °C cuando se produce la hidrogenación total. El ácido graso de sebo hidrogenado (HFTA) generalmente se considera un material seguro: es poco probable que cause problemas de salud cuando se inhala o cuando entra en contacto con la piel, aunque la ingestión podría causar una ligera irritación del tracto digestivo.</p>
-                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El ácido graso de sebo hidrogenado es conocido por su notable versatilidad, lo que lo convierte en un aditivo común en una amplia gama de productos. El ácido graso de sebo hidrogenado (HFTA) se utiliza como intermediario en lubricantes y aceites para laminación, como emoliente en productos para el cuidado personal y como emulsionante en una variedad de aplicaciones. Se usa comúnmente como estabilizador en plásticos, agente espesante en ceras y como aglutinante en varios compuestos de pulido.</p>
-                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Chemical Broker ofrece ácido graso de sebo hidrogenado en forma de sebo, escamas o líquido en una variedad de opciones de empaque. Como uno de los principales proveedores de productos oleoquímicos en el mundo con más de 9 años de experiencia, puede contar con nosotros para brindarle productos como el ácido graso de sebo hidrogenado (HFTA), confiables y rentables que lo ayudarán a alcanzar sus objetivos de fabricación específicos.</p>
-                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Estamos orgullosos de atender las necesidades de las empresas en industrias como Farmaceutica, Alimentaria, Cosmeticos y Cuidado Personaldetergencia y Cuidado del Hogar y muchas otras.</p> 
+                <p class="Tipografia--general letranegro General--Cuerpo">El <b>Ácido Graso de Sebo Hidrogenado</b> (HTFA, por sus siglas en inglés) se deriva de fuentes animales como la grasa de res procesada o el cordero. La hidrogenación de Ácidos Grasos se refiere a un proceso químico en el que se agrega hidrógeno para lograr la saturación</p>
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La hidrogenación consta de tres componentes: el Ácido Graso de sebo insaturado, la fuente de hidrógeno y un catalizador que estimula la reacción deseada, normalmente un metal como el níquel o el paladio. La hidrogenación del ácido de sebo puede ser parcial o completa, según el uso al que se destine. La destilación es el paso final en el proceso de hidrogenación de Ácidos Grasos</p>
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El Ácido Graso de sebo hidrogenado es de color blanco a amarillo claro a temperatura ambiente, aunque el color variará según el tipo y la extensión del proceso de hidrogenación. El Ácido Graso de sebo hidrogenado (HFTA) también emite un ligero olor. Los Ácidos Grasos de Sebo Hidrogenados tienen un punto de congelación de entre 45 - 55 °C durante la hidrogenación parcial y de 57 - 60 °C cuando se produce la hidrogenación total. El ácido graso de sebo hidrogenado (HFTA) generalmente se considera un material seguro: es poco probable que cause problemas de salud cuando se inhala o cuando entra en contacto con la piel, aunque la ingestión podría causar una ligera irritación del tracto digestivo.</p>
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El Ácido Graso de sebo hidrogenado es conocido por su notable versatilidad, lo que lo convierte en un aditivo común en una amplia gama de productos. El Ácido Graso de Sebo Hidrogenado (HFTA) se utiliza como intermediario en lubricantes y aceites para laminación, como emoliente en productos para el cuidado personal y como emulsionante en una variedad de aplicaciones. Se usa comúnmente como estabilizador en plásticos, agente espesante en ceras y como aglutinante en varios compuestos de pulido.</p>
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Chemical Broker ofrece Ácido Graso de Sebo Hidrogenado en forma de sebo, escamas o líquido en una variedad de opciones de empaque. Como uno de los principales proveedores de productos oleoquímicos en el mundo con más de 9 años de experiencia, puede contar con nosotros para brindarle productos como el Ácido Graso de Sebo Hidrogenado (HFTA), confiables y rentables que lo ayudarán a alcanzar sus objetivos de fabricación específicos.</p>
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Estamos orgullosos de atender las necesidades de las empresas en industrias como Farmaceutica, Alimentaria, Cosmeticos y Cuidado Personal, Detergencia y Cuidado del Hogar y muchas otras.</p> 
                 <h5 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;"><b style="color:#000020;">Usos</b></h5>
                 <ol>
                     <li class="Elementos--Listas" style="list-style-type:disc;">Aditivo</li>
@@ -599,7 +599,7 @@
                     <ol>
                         <li class="Elementos--Listas" style="list-style:disc;">Jabones</li>
                         <br>
-                        <li class="Elementos--Listas" style="list-style:disc;">Cremas para afeitar</li>
+                        <li class="Elementos--Listas" style="list-style:disc;">Cremas para Afeitar</li>
                     </ol>
                 </ol>
                 <ol>
@@ -610,7 +610,7 @@
                         <br>
                         <li class="Elementos--Listas" style="list-style-type:disc;">Grasas</li>
                         <br>
-                        <li class="Elementos--Listas" style="list-style-type:disc;">Aceites para laminación</li>
+                        <li class="Elementos--Listas" style="list-style-type:disc;">Aceites para Laminación</li>
                     </ol>
                 </ol>
 
@@ -628,7 +628,7 @@
                         <br>
                         <li class="Elementos--Listas" style="list-style-type:disc">Muebles</li>
                         <br>
-                        <li class="Elementos--Listas" style="list-style-type:disc">otros productos</li>
+                        <li class="Elementos--Listas" style="list-style-type:disc">Otros Productos</li>
                     </ol>
                 </ol>
 

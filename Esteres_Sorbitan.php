@@ -598,22 +598,22 @@
         <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;margin-bottom:0px">Los Ésteres de Sorbitán tienen la capacidad de mezclar aceites y agua, lo que los hace útiles en la preparación de emulsiones; como cremas y lociones, así como en alimentos procesados.</p>
         <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;margin-bottom:0px">Algunos ejemplos de Ésteres de Sorbitán incluyen:</p>
         <ol>
-            <li style="list-style-type:disc;"><b style="color:#000020;">Sorbitán Trioleato (Span 85).-</b> Se utiliza en aplicaciones alimentarias y cosméticas como emulsionante y acondicionador.</li>
+            <li style="list-style-type:disc;margin-top:30px;"><b style="color:#000020;">Sorbitán Trioleato (Span 85).-</b> Se utiliza en aplicaciones alimentarias y cosméticas como emulsionante y acondicionador.</li>
             <br>
             <li style="list-style-type:disc;"><b style="color:#000020;">Sorbitán Mono Oleato (Span 80).-</b> se utiliza como emulsionante y estabilizador en productos alimentarios como helados y en aplicaciones farmacéuticas y cosméticas.</li>
             <br>
             <li style="list-style-type:disc;"><b style="color:#000020;">Sorbitán Tristearato (Span 65).-</b> Se utiliza principalmente en la industria de alimentos, como emulsionante en productos de panadería y productos de confitería.</li>
             <br>
-            <li style="list-style-type:disc;"><b style="color:#000020;">Sorbitán Mono Estearato (Span 60).-</b> El Monoestearato de Sorbitano se utiliza como emulsionante y como surfactante no iónico. Se utiliza en cosméticos, productos farmacéuticos y preparación de alimentos.</li>
+            <li style="list-style-type:disc;"><b style="color:#000020;">Sorbitán Mono Estearato (Span 60).-</b> El Monoestearato de Sorbitan se utiliza como emulsionante y como surfactante no iónico. Se utiliza en cosméticos, productos farmacéuticos y preparación de alimentos.</li>
             <br>
             <li style="list-style-type:disc;"><b style="color:#000020;">Sorbitán Mono Palmitato (Span 40).-</b> Se utiliza en la fabricación de productos de panadería, productos lácteos y en aplicaciones de emulsión y acondicionamiento en la industria cosmética.</li>
             <br>
-            <li style="list-style-type:disc;"><b style="color:#000020;">Sorbitán Mono Laurato (Span 20).-</b> Es una mezcla de Ésteres formados a partir del Ácido Graso de 12 átomos de Carbono, llamado Ácido Láurico y Polioles derivados del Sorbitol, Sorbitano e Isosorbida. Se utiliza como aditivo alimentario, y se designa con el número E E493.</li>
+            <li style="list-style-type:disc;"><b style="color:#000020;">Sorbitán Mono Laurato (Span 20).-</b> Es una mezcla de Ésteres formados a partir del Ácido Graso de 12 átomos de Carbono, llamado Ácido Láurico y Polioles derivados del Sorbitol, Sorbitan e Isosorbida. Se utiliza como aditivo alimentario, y se designa con el número E E493.</li>
         </ol>
         <p class="letranegro Tipografia--general General--Cuerpo " style="margin-top:50px;color:#0033CC;text-align: center;margin-bottom:0px;font-size:30px;"><b>“Los Ésteres de Sorbitán son seguros para el consumo humano cuando se utilizan dentro de los límites establecidos por las regulaciones alimentarias y cosméticas. Ayudan a mejorar la textura, la estabilidad y la vida util de diversos productos y son comunes en la formulación de alimentos procesados, productos de cuidado personal y productos farmacéuticos.”</b></p>
         <h5 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#000020;">Fabricante</b></h5>
         <img src="img/ENFOQUE-QUIMICO_LOGO.jpg" alt="" style="width:25%;">
-        <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;">¿Por qué Elegirnos como tu Proveedor de Ésteres de Sorbitán?</p>
+        <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;">¿Por qué Elegirnos como tu Proveedor de <b>Ésteres de Sorbitán?</b></p>
         <ol style="margin-bottom:0px;">
             <li class="Tipografia--general letranegro General--Cuerpo Elementos--Listas" style="list-style-type:disc;"><b style="color:#0033CC;">Calidad Inigualable:</b> Nuestros productos cumplen con los estándares más rigurosos de calidad y seguiridad alimentaria. Trabajamos con los mejores Fabricantes y Procesos para garantizar que nuestros Ésteres de Sorbitan sean de la más alta calidad.</li>
             <br>

@@ -419,7 +419,7 @@
 <ul class="slides">
 <li> <img src="img/FOSFATOS_BANNER_110724.jpg" style="height:500px;" alt="Industria Quimica">
 <div class="caption center-align"><br><br><br><br>
-<h1 class="primertitulo"><b>Chemical Broker</b><br></h1>
+<h1 class="primertitulo"><b>Pirofosfato tetrasodico anhidro</b><br></h1>
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
@@ -446,7 +446,7 @@
 
     <section><a class="active" href="#" style="color:black !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos " style="color:black;">Productos > </b> </a> <a class=" active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Pirofosfato Tetrasodico Anhidro</b></a></section>
 
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El pirofosfato ácido de sodio, también conocido como pirofosfato de disodio, es un compuesto químico inorgánico con la fórmula Na₂H₂P₂O₇. Este compuesto se utiliza en una amplia variedad de aplicaciones debido a sus propiedades químicas específicas.</p>
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b>Pirofosfato ácido de sodio</b>, también conocido como <b>Pirofosfato de Disodio</b>, es un compuesto químico inorgánico con la fórmula Na₂H₂P₂O₇. Este compuesto se utiliza en una amplia variedad de aplicaciones debido a sus propiedades químicas específicas.</p>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020">Propiedades Químicas</b></h5>
 
@@ -463,7 +463,7 @@
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h5>
 
 
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El pirofosfato tetrasódico anhidro (Na4P2O7) es un compuesto químico inorgánico con diversas aplicaciones en diferentes industrias debido a sus propiedades únicas. </p>
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b>Pirofosfato Tetrasódico Anhidro (Na4P2O7)</b> es un compuesto químico inorgánico con diversas aplicaciones en diferentes industrias debido a sus propiedades únicas. </p>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria:</b></h5>
 

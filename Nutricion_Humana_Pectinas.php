@@ -627,13 +627,11 @@
 <div class="slider slider-prueba">
 <ul class="slides">
 <li> <img src="img/CB_PECTINAS_ALIMENTOS_121222.jpg" style="height:400px;" alt="Industria Quimica">
-<div class="caption center-align"><br><br><br><br>
-<h1 class="primertitulo"><b>Chemical Broker</b><br></h1><b class="segundotitulo">Pectinas - Nutricion Humana</b>
+<div class="caption center-align"><br><br><br><br><br><br><b class="segundotitulo">Pectinas - Nutricion Humana</b>
 
 <div class="container" style="margin-top:-100px;">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section style="margin-top:125px"><a class="active" href="#" style="color:white !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:white;"> >&nbsp  </b></a><a class="breditem active" href="Productos_news.php" style="color:white !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Productos ></b></a> <a class="breditem active" href="Pectinas.php" style="color:white !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Pectinas ></b></a>    <a class="breditem active" href="Nutricion_Humana_Pectinas.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Pectinas - Nutricion Humana</b></a></section>
 </div>
 </div>
 </div>
@@ -647,9 +645,12 @@
 
 
    
-    <div class="container" style="margin-top:130px;">
+    <div class="container" style="margin-top:50px;">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
+
+            <section style="margin-top:125px"><a class="active" href="#" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Productos_news.php" style="color:white !important;margin-left:-2px"><b class="Tipografia-general Subtitulos" style="color:black;">Productos ></b></a> <a class="breditem active" href="Pectinas.php" style="color:white !important;margin-left:-2px"><b class="Tipografia-general Subtitulos" style="color:black;">Pectinas ></b></a>    <a class="breditem active" href="Nutricion_Humana_Pectinas.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Pectinas - Nutricion Humana</b></a></section>
+            
                 <h5 class="colornegro Tipografia--general General--Cuerpo"><b>Nutrición Humana:</b></h5>
                 <p class="colornegro Tipografia--general General--Cuerpo">La pectina, como producto derivado de la
                     naturaleza, tiene una gran demanda en la industria de alimentos y bebidas, donde constantemente se
@@ -682,11 +683,10 @@
                 <ol style="margin-bottom:0px;margin-top:50px;">
                     <li class="Listas_disc">Postres a base de frutas:
                         <ol>
-                            <br>
-                            <li class="Listas_disc">Postres a base de cremas de frutas,</li>
-                            <li class="Listas_disc">Gelatinas de agua,</li>
-                            <li class="Listas_disc">Compotas,</li>
-                            <li class="Listas_disc">Postres afrutados.</li>
+                            <li class="Listas_disc" style="margin-top:30px;">Postres a base de cremas de frutas,</li>
+                            <li class="Listas_disc" style="margin-top:30px;">Gelatinas de agua,</li>
+                            <li class="Listas_disc" style="margin-top:30px;">Compotas,</li>
+                            <li class="Listas_disc" style="margin-top:30px;">Postres afrutados.</li>
                         </ol>
 
                     </li>
@@ -715,10 +715,9 @@
                 <ol style="margin-bottom:0px;margin-top:50px;">
                     <li class="Listas_disc">Bebidas Lácteas y No Lácteas:
                         <ol>
-                            <br>
-                            <li class="Listas_disc">Bebidas lácteas acidas,</li>
-                            <li class="Listas_disc">Bebidas de yogurt,</li>
-                            <li class="Listas_disc">Bebidas a base de plantas.</li>
+                            <li class="Listas_disc" style="margin-top:30px;">Bebidas lácteas acidas,</li>
+                            <li class="Listas_disc" style="margin-top:30px;">Bebidas de yogurt,</li>
+                            <li class="Listas_disc" style="margin-top:30px;">Bebidas a base de plantas.</li>
                         </ol>
 
                     </li>
@@ -728,8 +727,8 @@
                     <li class="Listas_disc">Postres Lácteos y No Lácteos:
                         <ol>
                             <br>
-                            <li class="Listas_disc">Postres lácteos,</li>
-                            <li class="Listas_disc">Postres a base de plantas.o Postres a base de plantas.</li>
+                            <li class="Listas_disc" style="margin-top:30px;">Postres lácteos,</li>
+                            <li class="Listas_disc" style="margin-top:30px;">Postres a base de plantas.o Postres a base de plantas.</li>
                         </ol>
 
                     </li>
@@ -739,11 +738,11 @@
                     <li class="Listas_disc">Confitería:
                         <ol>
                             <br>
-                            <li class="Listas_disc">Pasta de frutas,</li>
-                            <li class="Listas_disc">Artículos gelificados,</li>
-                            <li class="Listas_disc">Rellenos,</li>
-                            <li class="Listas_disc">Frutos reformados,</li>
-                            <li class="Listas_disc">Bocadillos de fruta.</li>
+                            <li class="Listas_disc" style="margin-top:30px;">Pasta de frutas,</li>
+                            <li class="Listas_disc" style="margin-top:30px;">Artículos gelificados,</li>
+                            <li class="Listas_disc" style="margin-top:30px;">Rellenos,</li>
+                            <li class="Listas_disc" style="margin-top:30px;">Frutos reformados,</li>
+                            <li class="Listas_disc" style="margin-top:30px;">Bocadillos de fruta.</li>
                         </ol>
 
                     </li>
@@ -754,13 +753,13 @@
 
                         <ol>
                             <br>
-                            <li class="Listas_disc">Jugos suaves,</li>
-                            <li class="Listas_disc">Jugos de frutas,</li>
-                            <li class="Listas_disc">Jugos dietéticos,</li>
-                            <li class="Listas_disc">Concentrados de bebidas de jugo,</li>
-                            <li class="Listas_disc">Bebidas con gas,</li>
-                            <li class="Listas_disc">Bebidas nutritivas de frutas,</li>
-                            <li class="Listas_disc">Aguas aromatizadas.</li>
+                            <li class="Listas_disc" style="margin-top:30px;">Jugos suaves,</li>
+                            <li class="Listas_disc" style="margin-top:30px;">Jugos de frutas,</li>
+                            <li class="Listas_disc" style="margin-top:30px;">Jugos dietéticos,</li>
+                            <li class="Listas_disc" style="margin-top:30px;">Concentrados de bebidas de jugo,</li>
+                            <li class="Listas_disc" style="margin-top:30px;">Bebidas con gas,</li>
+                            <li class="Listas_disc" style="margin-top:30px;">Bebidas nutritivas de frutas,</li>
+                            <li class="Listas_disc" style="margin-top:30px;">Aguas aromatizadas.</li>
                         </ol>
                     </li>
                 </ol>
@@ -769,11 +768,11 @@
 
                         <ol>
                             <br>
-                            <li class="Listas_disc">Alimentos en polvo,</li>
-                            <li class="Listas_disc">Bebidas en polvo,</li>
-                            <li class="Listas_disc">Salsas de tomate,</li>
-                            <li class="Listas_disc">Aderezos y Salsas emulsionadas, marinadas,</li>
-                            <li class="Listas_disc">Margarinas y pastas para untar.</li>
+                            <li class="Listas_disc" style="margin-top:30px;">Alimentos en polvo,</li>
+                            <li class="Listas_disc" style="margin-top:30px;">Bebidas en polvo,</li>
+                            <li class="Listas_disc" style="margin-top:30px;">Salsas de tomate,</li>
+                            <li class="Listas_disc" style="margin-top:30px;">Aderezos y Salsas emulsionadas, marinadas,</li>
+                            <li class="Listas_disc" style="margin-top:30px;">Margarinas y pastas para untar.</li>
                         </ol>
                     </li>
                 </ol>

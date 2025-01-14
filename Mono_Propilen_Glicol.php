@@ -8,14 +8,15 @@
     <link rel="canonical" href="https://chemicalbroker.mx/Mono_Propilen_Glicol.php">
     <title>Chemical Broker | Mono Propilen Glicol del Fabricante Lyondell Basell</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
-    <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-        integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
-    <link rel="stylesheet" href="css/History_Line.css">
-    <link rel="stylesheet" href="css/jquery.dataTables.min.css">
-    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
+  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/History_Line.css">
+  <link rel="stylesheet" href="css/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
     <script src="https://code.jquery.com/jquery-3.5.1.js"
         integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="js/materialize.js" type="text/javascript"></script>
@@ -584,10 +585,9 @@
     <div class="container-fluid">
         <div class="slider slider-prueba" style="margin-top:0px">
             <ul class="slides slides-pruea">
-                <li> <img src="img/CB_GLYCOLS_080223.jpg" alt="" style="height:400px;opacity:0.8;">
-                    <div class="caption center-align"><br><br><br><br>
-                        <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b
-                            class="segundotitulo" style="font-size: 26px;">Mono Propilen Glicol</b>
+                <li> <img src="img/BANNER_PRINCIPAL_GLICOLES.jpg" alt="" style="height:400px;opacity:0.8;">
+                    <div class="caption center-align"><br><br><br><br><br><br>
+                      <b class="segundotitulo" style="font-size: 26px;">Mono Propilen Glicol USP</b>
                     </div>
                 </li>
             </ul>
@@ -603,8 +603,8 @@
                         style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b> > &nbsp</b><a
                             class="breditem active" href="Glycols.php"
                             style="color:#262137 !important;margin-left:-2px"><b
-                                class="Tipografia--general letranegro Subtitulos breadcrumb">Mono Propilen
-                                Glicol</b></a></section>
+                                class="Tipografia--general Subtitulos breadcrumb" style="color:red;">Mono Propilen
+                                Glicol USP</b></a></section>
                 </section>
             </div>
         </div>
@@ -613,549 +613,224 @@
 
     <div class="container">
         <div class="row">
-            <div class="col s12 m12 l12 xl12" style="margin-top:6px;">
-                <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b
-                        >Mono Propilen Glicol</b></h2>
-                <p class="Tipografia--general letranegro General--Cuerpo">Es un líquido claro y transparente,
-                    prácticamente inodoro y con baja volatilidad. Es totalmente soluble en agua y en la mayoría de los
-                    disolventes orgánicos. Además, todos los glicoles propilénicos tienen una gran capacidad para
-                    disolver numerosos compuestos orgánicos lo que les va a permitir servir como vehículos portadores de
-                    aromas, sabores, colorantes y humedad.</p>
-            </div>
             <div class="col s12 m12 l12 xl12">
-                <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Tipos de
-                        propilenglicol</b></h2>
-                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">Es importante saber que en el mercado están
-                    disponibles dos
-                    tipos de Propilenglicol, el primero de Grado Técnico, dirigido al sector industrial y el
-                    Propilenglicol Grado USP o Grado Farmacéutico, el cual es el único que puede utilizarse en
-                    aplicaciones que tengan contacto directo con los seres humanos.</p>
+                <h1 class="Tipografia--general letranegro General--Cuerpo"><b>Mono Propilenglicol USP</b></h1>
+
+                <p class="Tipografia--general letranegro General--Cuerpo">El <b>Mono Propilenglicol USP</b> (United States Pharmacopeia) es un compuesto químico versátil que se utiliza ampliamente en diversas industrias. Su fórmula química es C₃H₈O₂, y es un líquido incoloro, inodoro y ligeramente viscoso, soluble en agua y en otros solventes polares.</p>
+
+                <h2 class="Tipografia--general letranegro General--Cuerpo">Características</h2>
+
+                <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px"> Propiedades físicas y químicas:
+                        <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Fórmula química: C₃H₈O₂</li>
+                            <li class="Elementos--Listas">Peso molecular: 76,09 g/mol</li>
+                            <li class="Elementos--Listas">Apariencia: Líquido transparente, incoloro y ligeramente viscoso.</li>
+                            <li class="Elementos--Listas">Olor: Prácticamente inodoro.</li>
+                            <li class="Elementos--Listas">Punto de ebullición: 188-189 °C.</li>
+                            <li class="Elementos--Listas">Punto de congelación: -59 °C.</li>
+                            <li class="Elementos--Listas">Densidad: ~1,036 g/cm³ (a 20 °C).</li>
+                            <li class="Elementos--Listas">Solubilidad: Totalmente miscible en agua, etanol y acetona.</li>
+                            <li class="Elementos--Listas">Viscosidad: Aproximadamente 60 mPa·s (a 25 °C).</li>
+                        </ol>
+                    </li>
+                </ol>
+
+                <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;"> Grado USP:
+                        <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Garantiza un nivel alto de pureza para su uso en aplicaciones alimentarias, cosméticas y farmacéuticas.</li>
+                            <li class="Elementos--Listas">Cumple con los estándares de calidad de la United States Pharmacopeia (USP).</li>
+                        </ol>
+                    </li>
+                </ol>
+
+                <ol>
+                    <li class="Elementos--Listas"> Propiedades funcionales:
+                        <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Humectante: Retiene la humedad en alimentos, productos cosméticos y farmacéuticos.</li>
+                            <li class="Elementos--Listas">Solvente: Disuelve una amplia gama de sustancias, incluidos sabores, fragancias y principios activos.</li>
+                            <li class="Elementos--Listas">Estabilizador: Mejora la estabilidad de las formulaciones al evitar la cristalización de componentes.</li>
+                            <li class="Elementos--Listas">No volátil: Su baja presión de vapor minimiza la evaporación.</li>
+                            <li class="Elementos--Listas">Anticongelante: Reduce el punto de congelación en sistemas cerrados.</li>
+                        </ol>
+                    </li>
+                </ol>
+
+                <ol>
+                    <li class="Elementos--Listas"> Seguridad:
+                        <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;">No tóxico: En aplicaciones aprobadas y concentraciones adecuadas, es seguro para uso humano.</li>
+                            <li class="Elementos--Listas">Biodegradable: Tiene bajo impacto ambiental cuando se elimina correctamente.</li>
+                            <li class="Elementos--Listas">Irritante leve: En su forma pura, puede causar irritación leve en piel y ojos.</li>
+                        </ol>
+                    </li>
+                </ol>
+
+                <ol>
+                    <li class="Elementos--Listas"> Compatibilidad:
+                        <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Compatible con una amplia gama de ingredientes en alimentos, medicamentos y cosméticos.</li>
+                            <li class="Elementos--Listas">Funciona bien junto a la glicerina vegetal y otros disolventes polares.</li>
+                        </ol>
+                    </li>
+                </ol>
+
+                <h2 class="Tipografia--general letranegro General--Cuerpo">Aplicaciones</h2>
+
+                <ol>
+                    <li class="Elementos--Listas"> Industria Alimentaria
+                        <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Aditivo alimentario (E1520):
+                                <ol>
+                                    <li class="Elementos--Listas" style="margin-top:30px;">Utilizado como solvente para colorantes, sabores y aromas.</li>
+                                    <li class="Elementos--Listas">Humectante en alimentos horneados, productos congelados y procesados.</li>
+                                    <li class="Elementos--Listas">Mejora la estabilidad de emulsiones alimentarias.</li>
+                                </ol>
+                            </li>
+                        </ol>
+                        <ol>
+                            <li style="margin-top:30px;" class="Elementos--Listas">Conservante:
+                                <ol>
+                                    <li class="Elementos--Listas" style="margin-top:30px;">Ayuda a evitar el crecimiento de microorganismos, prolongando la vida útil de los productos.</li>
+                                </ol>
+                            </li>
+                        </ol>
+                        <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Estabilizador de texturas:
+                                <ol>
+                                    <li class="Elementos--Listas" style="margin-top:30px;">Mantiene la textura en helados y otros productos a bajas temperaturas.</li>
+                                </ol>
+                            </li>
+                        </ol>
+                    </li>
+                </ol>
+
+                <ol>
+                    <li class="Elementos--Listas"> Industria Farmacéutica
+                        <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Excipiente en medicamentos:
+                                <ol>
+                                    <li class="Elementos--Listas" style="margin-top:30px;">Solvente para principios activos en formulaciones orales, tópicas e inyectables.</li>
+                                    <li class="Elementos--Listas">Facilita la absorción de medicamentos al mejorar su biodisponibilidad.</li>
+                                </ol>
+                            </li>
+                        </ol>
+                        <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;"> Base en productos tópicos:
+                                <ol>
+                                    <li class="Elementos--Listas" style="margin-top:30px;">Utilizado en cremas, pomadas y geles.</li>
+                                </ol>
+                            </li>
+                        </ol>
+                        <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Agente humectante:
+                                <ol>
+                                    <li class="Elementos--Listas" style="margin-top:30px;">Previene el resecamiento en formulaciones líquidas y sólidas.</li>
+                                </ol>
+                            </li>
+                        </ol>
+                    </li>
+                </ol>
+
+                <ol>
+                    <li class="Elementos--Listas"> Cosmética y Cuidado Personal
+                        <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Cremas y lociones:
+                                <ol>
+                                    <li class="Elementos--Listas" style="margin-top:30px;">Funciona como humectante y emoliente, mejorando la textura y la hidratación.</li>
+                                </ol>
+                            </li>
+                        </ol>
+                        <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;"> Maquillaje:
+                                <ol>
+                                    <li class="Elementos--Listas" style="margin-top:30px;">Usado como base para fórmulas líquidas y cremosas.</li>
+                                    <li class="Elementos--Listas">Champús y acondicionadores:</li>
+                                    <li class="Elementos--Listas">Aporta suavidad y retiene humedad en el cabello.</li>
+                                    <li class="Elementos--Listas">Desodorantes y productos en spray:</li>
+                                    <li class="Elementos--Listas">Facilita la mezcla de fragancias y otros ingredientes activos.</li>
+                                </ol>
+                            </li>
+                        </ol>
+                        <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Pasta dental y enjuagues bucales:
+                                <ol>
+                                    <li class="Elementos--Listas" style="margin-top:30px;">Humectante que evita que los productos se sequen.</li>
+                                </ol>
+                            </li>
+                        </ol>
+                    </li>
+                </ol>
+
+                <ol>
+                    <li class="Elementos--Listas">Industria del Vapeo
+                        <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Líquidos para cigarrillos electrónicos:
+                                <ol>
+                                    <li class="Elementos--Listas" style="margin-top:30px;">Es uno de los componentes base (junto con la glicerina vegetal) para transportar aromas y generar vapor. Su baja toxicidad y capacidad de disolución lo hacen ideal para este uso.</li>
+                                </ol>
+                            </li>
+                        </ol>
+                    </li>
+                </ol>
+
+                <ol>
+                    <li class="Elementos--Listas"> Industria Química
+                        <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Anticongelantes y fluidos hidráulicos:
+                                <ol>
+                                    <li class="Elementos--Listas" style="margin-top:30px;">Usado en sistemas cerrados donde se requiere un anticongelante no tóxico.</li>
+                                </ol>
+                            </li>
+                        </ol>
+                        <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;"> Producción de polímeros y resinas:
+                                <ol>
+                                    <li class="Elementos--Listas" style="margin-top:30px;">Materia prima en la fabricación de poliésteres y otros plásticos.</li>
+                                </ol>
+                            </li>
+                        </ol>
+                        <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Lubricantes y refrigerantes:
+                                <ol>
+                                    <li class="Elementos--Listas" style="margin-top:30px;">Se utiliza en aplicaciones industriales debido a su estabilidad térmica.</li>
+                                </ol>
+                            </li>
+                        </ol>
+                    </li>
+                </ol>
+
+                <ol>
+                    <li class="Elementos--Listas"> Otros Usos
+                        <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Fabricación de humo artificial:</li>
+                            <li class="Elementos--Listas">Componente en máquinas de humo para efectos especiales en teatro y cine.</li>
+                            <li class="Elementos--Listas">Agricultura:</li>
+                            <li class="Elementos--Listas">Usado en soluciones para el tratamiento de cultivos, debido a su capacidad de mezclarse con otros químicos.</li>
+                        </ol>
+                    </li>
+                </ol>
+
+                <ol>
+                    <li class="Elementos--Listas"> Productos para animales:
+                        <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Incluido en algunos suplementos alimenticios y medicamentos veterinarios.</li>
+                        </ol>
+                    </li>
+                </ol>
+
+
+
             </div>
-            <div class="col s12 m12 l12 xl12">
-                <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Grado Técnico</b></h2>
-                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">El Propilenglicol de Grado Técnico es un
-                    coproducto de alta
-                    pureza obtenido a partir de la fabricación de óxido de propileno mediante el proceso de peróxido de
-                    hidrógeno. Se trata de un producto destilado con una especificación de pureza superior a 99.5%. Se
-                    recomienda la utilización de Propilenglicol Grado Técnico exclusivamente para aplicaciones
-                    industriales.</p>
-            </div>
-            <div class="col s12 m12 l12 xl12">
-                <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Grado USP o Grado
-                        Farmacéutico</b></h2>
-                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">Para aplicaciones en la industria
-                    farmacológica, higiene y cuidado personal, cosmética y alimentos solo se debe utilizar el
-                    Propilenglicol USP.</p>
-            </div>
-            <div class="col s12 m12 l12 xl12">
-                <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Farmacéutica</b></h2>
-                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">El Propilenglicol está presente en ámbitos tan
-                    variados como el de perfumería, cosmética, alimentación y farmacia. Para utilizarlo en estos
-                    sectores el Propilenglicol debe ser Grado USP o Grado Farmacéutico, debe cumplir la estricta
-                    normativa USP (United States Pharmacopeia) y la EP ( European Pharmacopoeia). El Propilenglicol USP
-                    / EP está calificado y aprobado para su uso como excipiente en aplicaciones farmacéuticas, ya que
-                    actúa como disolvente y agente de extracción para una amplia gama de ingredientes activos, además de
-                    su capacidad dispersante que proporciona una distribución equitativa del principio activo.</p>
-            </div>
-            <div class="col s12 m12 l12 xl12">
-                <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Alimentos</b></h2>
-                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">El Propilenglicol USP es el único apropiado
-                    para su aplicación en alimentos, debido que es incoloro, inodoro y carece de sabor propio se ha
-                    convertido en el portador ideal de sabores distintivos de una gran variedad de alimentos habituales
-                    en nuestro día a día. </p>
-                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">Además, el Propilenglicol USP está aprobado
-                    para ser utilizado como aditivo alimentario con el número E1520 con un límite máximo estricto de 1 g
-                    por cada kg en alimentos humanos. </p>
-                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">También se utiliza el Propilenglicol USP en la
-                    alimentación animal por su propiedad inherente de atraer el agua, ayudando a mantener los piensos
-                    húmedos, frescos, y masticables, haciéndolos más fáciles de digerir para nuestros perros y también
-                    para el ganado. </p>
-            </div>
-            <div class="col s12 m12 l12 xl12">
-                <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Propiedades</b></h2>
-                <ol style="margin-bottom:0px;">
-                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-left:-15px;"><b>Baja
-                            Toxicidad. -</b> La baja toxicidad del Propilenglicol USP/EP es única entre los glicoles y
-                        permite su utilización como aditivo directo en alimentos y fármacos,</li>
-
-                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:50px;margin-left:-15px;"><b>Baja
-                            volatilidad. -</b> La presión del vapor del propilenglicol es de 0,08 mmHg a 20°C. La baja
-                        volatilidad es una ventaja deseable en la elaboración de productos que deben cumplir con las
-                        normas de baja Volatilidad de Compuestos Orgánicos (VOC),</li>
-                    
-                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:50px;margin-left:-15px;">
-                        <b>Humectante. -</b> El Propilenglicol USP/EP tiene la capacidad de atraer y retener agua en un
-                        producto. Es uno de los materiales más eficaces aprobados como humectante para alimentos y su
-                        capacidad para retener agua es superior a la de otros compuestos como sorbitol, manitol y
-                        glicerina,</li>
-                    
-                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:50px;margin-left:-15px;"><b>Olor y
-                            Color. -</b> El Propilenglicol USP/EP es incoloro e inodoro. Estas propiedades facilitan su
-                        uso en la elaboración de productos porque puede llevar a cabo su función sin alterar otras
-                        características del producto,</li>
-                    
-                    <li class="Tipografia--general letranegro General Cuerpo" style="list-style-type:disc;margin-top:50px;margin-left:-15px;">
-                        <b>Plastificante y Suavizador. -</b> El Propilenglicol USP/EP puede suavizar o plastificar
-                        algunos materiales. Esto es posible debido a su moderada viscosidad, propiedades humectantes,
-                        baja volatilidad y compatibilidad con muchos otros compuestos,</li>
-                    
-                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:50px;margin-left:-15px;">
-                        <b>Solvente. -</b> El Propilenglicol USP/EP es completamente miscible con agua y con muchas
-                        otras materias orgánicas, tales como alcoholes, ésteres, éteres, aldehídos, así como muchos
-                        aceites y grasas vegetales y animales. Esta propiedad es de mucha utilidad para solubilizar y
-                        estabilizar productos cosméticos y alimenticios,</li>
-                
-                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:50px;margin-left:-15px;">
-                        <b>Modificador de cristalización,</b></li>
-                    
-                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:50px;margin-left:-15px;">
-                        <b>Controlador de viscosidad,</b></li>
-                    
-                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:50px;margin-left:-15px;"><b>Auxiliar
-                            en la rehidratación,</b></li>
-                    
-                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:50px;margin-left:-15px;"><b>Aditivo
-                            Alimenticio. -</b> El propilenglicol, aunque más caro, es el compuesto que debe ser
-                        utilizado en aplicaciones alimentarias, cosméticas y farmacéuticas, ya que es un glicol de
-                        calidad USP, normado por la USP-NF para su aplicación en dichas áreas,</li>
-                    
-                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:50px;margin-left:-15px;">
-                        <b>Lubricante,</b></li>
-                    
-                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:50px;margin-left:-15px;">
-                        <b>Plastificante,</b></li>
-                    
-                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:50px;margin-left:-15px;">
-                        <b>Excipiente,</b></li>
-                    
-                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:50px;margin-left:-15px;">
-                        <b>Disolvente,</b></li>
-                    
-                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:50px;margin-left:-15px;">
-                        <b>Conservante,</b></li>
-                    
-                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:50px;margin-left:-15px;">
-                        <b>Temporizador de secado,</b></li>
-                    
-                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:50px;margin-left:-15px;">
-                        <b>Estabilizador,</b></li>
-                    
-                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:50px;margin-left:-15px;">
-                        <b>Anticongelante. -</b> Los anticongelantes son aditivos que se agregan a sustancias líquidas
-                        para reducir su punto de congelación y así poder mantener sus propiedades como fluidos, incluso
-                        a temperaturas extremas.
-                        <p class="Tipografia--general letranegro General--Cuerpo">Tanto el Etilenglicol como el
-                            propilenglicol se usan para elaborar anticongelantes y la eficacia de ambos depende de la
-                            contrancion. Ambos tienen ventajas sobre el otro: El etilenglicol es más económico que el
-                            propilenglicol*, pero mucho mas toxico</p>
-                        <p class="Tipografia--general letranegro General--Cuerpo">*Este producto es considerado seguro
-                            por la Food and Drug Administration (FDA); por sus siglas en ingles. De manera que en
-                            aplicaciones que involucran un posible contacto incidental con algún tipo de alimento, se
-                            prefiere el propilenglicol sobre el etilenglicol, el cual es un producto fuertemente tóxico,
-                        </p>
-                    </li>
-                    <li class="Tipografia--general letranegro General--Cuerpo"
-                        style="list-style-type:disc;margin-top:50px;margin-left:-15px;"><b>Refrigerante. -</b> Los refrigerantes son
-                        aditivos que se agregan a fluidos con el fin de otorgarle propiedades como transmisores de
-                        calor; de esta forma, dentro de cámaras frigoríficas, estos fluidos son capaces de absorber
-                        calor a bajas temperaturas y presiones, y liberar calor a altas temperaturas y presiones,
-                        Al igual que en el caso de los anticongelantes, el Etilenglicol y Propilenglicol son compuestos
-                        relevantes en la elaboración de los refrigerantes.
-                    </li>
-                </ol>
-            </div>
-            <div class="col s12 m12 l12 xl12">
-            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px"><b>Industrias y
-                        Aplicaciones</b></h2>
-                <ol style="margin-bottom:0px;">
-                    <li class="Tipografia--general letranegro" style="list-style-type:disc">
-                        <b>Farmacéutica:</b>
-                    </li>
-                    <br>
-                    <ol style="margin-bottom:0px;">
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-23px;">
-                            Excipiente,</li>
-                        <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-23px;">
-                            Humectante,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-23px;">
-                            Lubricante,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-23px;">
-                            Solvente,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-23px;">
-                            Lágrimas Artificiales,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-23px;">Pomadas
-                            para tratar quemaduras,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-23px;">Cremas
-                            para cicatrización,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-23px;">
-                            Lubricantes para mucosas genitales,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-23px;">
-                            Portador de ingredientes activos en vacunas,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-23px;">
-                            Elaboración de medicamento oral, tópico, o inyectable,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-23px;">Jarabes
-                            para la tos,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-23px;">
-                            Cápsulas de gel.</li>
-                    </ol>
-                </ol>
-
-                <ol style="margin-bottom:0px;">
-                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:50px;">
-                        <b>Nutrición Humana:</b>
-                    </li>
-                    <br>
-                    <ol style="margin-top:0px;">
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Aderezos,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">Aditivo
-                            Alimentario,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">Agente
-                            espesante,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Estabilizante en cervezas,</li>
-                           <br> 
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">Fluido
-                            para transferencia de calor en procesos de enfriamiento,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Solvente y transportador de colores y sabores para galletas,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">Agente
-                            saborizante,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Coloración de alimentos,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Anticongelante para alimentos,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">Te
-                            helado,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Controlador de viscosidad,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Auxiliar en la rehidratación de los alimentos,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Disolvente de colorantes,</li>
-                            
-                    </ol>
-                </ol>
-
-                <ol style="margin-bottom:0px;">
-                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:50px;">
-                        <b>Nutrición Animal:</b>
-                    </li>
-                    <br>
-                    <ol style="margin-bottom:0px;">
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Humectante. - Atrae el agua, ayudando a mantener los piensos húmedos, frescos y masticables
-                            facilitando la digestión en los animales.*
-                            <p class="Tipografia--general letranegro" style="margin-bottom:0px"> el propilenglicol se
-                                reclasificó como material de alimentación animal según el Reglamento de la UE 767/2009 /
-                                CE, derogando la lista anterior como aditivo para piensos con el número E490.</p>
-                        </li>
-                        <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Disolvente, Estabilizante y Conservador. - mantiene la alimentación adecuada para un uso
-                            prolongado,</li>
-                        <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Aditivo. - para aumentar la provisión de energía,</li>
-                        <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Energéticos,</li>
-                        <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Humectante,</li>
-                        <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">Retiene
-                            el sabor y la humedad,</li>
-                    </ol>
-                </ol>
-
-                <ol style="margin-bottom:0px;">
-                    <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-top:50px">
-                        <b>Cosmética y Cuidado Personal:</b>
-                    </li>
-                    <br>
-                    <ol style="margin-bottom:0px;">
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">Agente
-                            dispersante,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Antisépticos,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Antitranspirantes y desodorantes,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">Cremas
-                            de afeitar,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">Cremas
-                            de protección solar,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">Cremas
-                            Humectantes,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Disolvente,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Enjuague Bucal,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Fragancias,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">Gel
-                            para cabello,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Humectante,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Jabones,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">Lápiz
-                            labial,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">Pasta
-                            Dental,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Shampoos y Acondicionadores,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">Toallas
-                            Húmedas para bebes,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Transportador,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Desinfectante de manos,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Lociones antibacterianas, solución Salina,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">Espuma
-                            de baño,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Mascarillas,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Lociones Corporales,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">Rímel,
-                        </li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Fijadores,</li>
-
-                    </ol>
-                </ol>
-
-
-                <ol style="margin-bottom:0px;">
-                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:50px">
-                        <b>Tabacalera:</b>
-                    </li>
-                    <br> 
-                    <ol style="margin-bottom:0px;">
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left: -15px;">
-                            Lubricante,</li>
-<br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left: -15px;">
-                            Cigarillos electrónicos,</li>
-<br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left: -15px;">
-                            Compuesto principal del líquido utilizado en los llamados cigarrillos electrónicos o
-                            Vapeadores, producto de gran popularidad que simula al tabaco y supuestamente ayuda a que
-                            los fumadores puedan dejar de fumar tabaco,</li>
-<br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left: -15px;">Como
-                            humectante, para regular la humedad en los cigarros.</li>
-                    </ol>
-                </ol>
-
-
-                <ol style="margin-bottom:0px;">
-                    <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-top:50px;">
-                        <b>Automotriz:</b>
-                    </li>
-                    <br>
-                    <ol style="margin-bottom:0px;">
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Anticongelante,</li>
-<br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">Fluido
-                            Hidráulico para Maquinas,</li>
-<br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">Aditivo
-                            para la Elaboración de Lubricantes.</li>
-                    </ol>
-                </ol>
-
-                <ol style="margin-bottom:0px;">
-                    <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-top:50px;margin-left:-15px;">
-                        <b>Industria Petroquímica:</b></li>
-                    <br>
-                    <ol style="margin-bottom:0px;">
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Fabricación de resinas de poliester.</li>
-                    </ol>
-                </ol>
-
-
-                <ol style="margin-bottom:0px;">
-                    <li class="Tipografia--general letranegro" style="list-style-type: disc;margin-top:50px;">
-                        <b>Mecánica:</b>
-                    </li>
-                    <br>
-                    <ol style="margin-bottom:0px;">
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">Como el
-                            Propilenglicol es un líquido viscoso, debido a su estructura química que es muy parecida a
-                            la del aceite, es un excelente aditivo para la elaboración de lubricantes que facilitan el
-                            deslizamiento de partes mecánicas de maquinarias pesadas y vehículos particulares.</li>
-                    </ol>
-
-                </ol>
-
-
-                <ol style="margin-bottom:0px;">
-                    <li class="Tipografia--general letranegro  General--Cuerpo" style="list-style-type:disc;margin-top:50px;">
-                        <b>Pinturas y Recubrimientos:</b>
-                    </li>
-                    <br>
-                    <ol style="margin-bottom:0px;">
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">Agente
-                            emulsificante para pinturas,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Resinas,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Protección de pinturas,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">Como
-                            ingrediente primario de la pintura que se utiliza en las bolas de pintura de “paintball”.
-                        </li>
-                    </ol>
-                </ol>
-
-                <ol style="margin-bottom:0px;">
-                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:50px">
-                        <b>Textil:</b></li>
-                    <br>
-                    <ol style="margin-bottom:0px;">
-                        <li class="Tipografia--general" style="list-style-type:disc;margin-left:-15px;">Permite la fabricación de
-                            Poliéster.</li>
-                    </ol>
-                </ol>
-
-                <ol style="margin-bottom:0px;">
-                    <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-top:50px">
-                        <b>Industria en General:</b></li>
-                    <br>
-                    <ol style="margin-bottom:0px;">
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px">
-                            Protección contra las explosiones de presión,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px">
-                            Protección contra corrosión,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px">Control
-                            de viscosidad,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Anticongelante de aeronaves,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Solvente en tinturas para impresiones,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Elaboración de plásticos maleables,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Cubiertas sintéticas de mármol,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Revestimiento de pisos y paredes,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Producto intermedio en la fabricacion de poliuretanos,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">Se
-                            utiliza principalmente en compuestos de fibra de vidrio a base de resina,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">Como
-                            refrigerante en motores de forma sumergible,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">Como
-                            lubricante para el tendido de cables,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">Como
-                            vehículo serigráfico en la industria cerámica,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">Fluidos
-                            para deshielo,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Formulación de adhesivos secos,</li>
-                            <br>
-                        <li class="Tipografia--general letranegro" style="list-style-type:disc;margin-left:-15px;">
-                            Plastificantes.</li>
-                    </ol>
-                </ol>
-            </div>
-            <div class="col s12 m12 l12 xl12">
-            <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Fabricante:</b></h5>
-
-            <table>
-          <tr style="border:none;">
-            <td>
-              <img src="img/LYONDELLBASELL-LOGO_V2.png" alt="Lyondell Logo" class="logo_lyondell_secundario">
-            </td>
-          </tr>
-
-          <tr style="border:none;">
-            <td>
-              <h2 class="Tipografia--general letranegro Titulos" style="margin-top:30px;margin-bottom:0px"><b>Portafolios de Productos</b></h2>
-            </td>
-          </tr>
-
-
-          <tr style="border:none;">
-            <td>
-              <h2 class="Tipografia--general letranegro General--Cuerpo"><a
-                  href="PDF/CATALOGUES/CB_PRODUCT-PORTFOLIO_GLYCOLS_LYONDELLBASELL_270622.pdf"
-                  class="arrowblue Tipografia--general letranegro" download
-                  style="margin-top:30px;color:rgba(2 146 238 /99%);">CB_PRODUCT-PORTFOLIO_GLYCOLS_LYONDELLBASELL_270622.pdf</li></a></h2>
-            </td>
-          </tr>
-        </table>
-
-              
-            </div>
+        </div>
     </div>
-    </div>
+
+
+    <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
+
 
 </body>
 <footer style="margin-top:70px">

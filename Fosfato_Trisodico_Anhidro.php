@@ -480,7 +480,7 @@
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h5>
 
-      <p class="Tipografia--general letranegro General--Cuerpo">El Fosfato Trisódico Anhidro (Na₃PO₄) tiene una amplia gama de aplicaciones en diversas industrias debido a sus propiedades químicas y físicas.</p>
+      <p class="Tipografia--general letranegro General--Cuerpo">El <b>Fosfato Trisódico Anhidro</b> (Na₃PO₄) tiene una amplia gama de aplicaciones en diversas industrias debido a sus propiedades químicas y físicas.</p>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria de Detergentes y Limpieza:</b></h5>
 

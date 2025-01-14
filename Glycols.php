@@ -7,13 +7,15 @@
 <title>Chemical Broker | Glicoles de la mas alta calidad del Fabricante Lyondell Basell</title>
 <meta name="description" content="Los Glicoles son un tipo de compuesto químico orgánico que contiene dos grupos hidroxilos (grupos -OH) que resultan de la reacción del agua con el óxido de etileno.">
 <link rel="shortcut icon" href="img/CB_ICON.ico" />
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-<link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
-<link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
-<link rel="stylesheet" href="css/History_Line.css">
-<link rel="stylesheet" href="css/jquery.dataTables.min.css">
-<link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
+  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/History_Line.css">
+  <link rel="stylesheet" href="css/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
 <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
 <script src="js/materialize.js" type="text/javascript"></script>
 <script src="js/init.js"></script>
@@ -401,7 +403,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li><img src="img/CB_JARABE_021024.jpg" style="height:400px;" alt="Historia Ascendente">
+          <li><img src="img/GLICOLES_BANNER_140425.jpg" style="height:800px;margin-top:-400px;" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
               <h1 class="primertitulo"><b class="boldbanner">Glicoles</b><br></h1>
               <div class="container">
@@ -413,123 +415,125 @@ gtag('config', 'G-SGJQ8FDDJ6');
       </div>
     </div>
 
-
-
-
-<div class="container" style="margin-top:130px;">
-    <div class="row" style="margin-bottom:0px;">
+    <div class="container" style="margin-top:120px;">
+      <div class="row">
         <div class="col s12 m12 l12 xl12">
+          <h1 class="Tipografia--general letranegro Titulos"><b>Glicoles</b></h1>
 
-        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Glycols.php"><b class="Tipografia--general Subtitulos" style="color:red;">Glicoles</b></a></section>
+          <p class="Tipografia--general letranegro General--Cuerpo">Los <b>Glicoles</b> son una clase de compuestos químicos pertenecientes a los alcoholes. Se caracterizan por tener dos grupos hidroxilo (-OH) en su estructura química. Por esta razón, se les denomina dioles. El Glicol más común es el Etilenglicol (C₂H₆O₂), que se utiliza ampliamente como anticongelante en sistemas de refrigeración y como materia prima en la fabricación de plásticos, como el PET (tereftalato de polietileno).</p>
 
-        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Glicoles</b></h2>
-  <p class="Tipografia--general letranegro General--Cuerpo">Los Glicoles son un tipo de compuesto químico orgánico que contiene dos grupos hidroxilos (grupos -OH) que resultan de la reacción del agua con el óxido de etileno.
-  Científicamente se denominan dioles (alcoholes bivalentes), que se desvían del etilenglicol (denominados 1,2-dioles, dioles vecinales o alcanos). Los derivados de etilenglicol cuyos grupos hidroxilos no están ordenados de forma vecinal se denominan glicoles. Los glicoles se encuentran con frecuencia en refrigerantes y anticongelantes, así como en productos de descongelación, ya que el punto de fusión de −10 a −15 °C (concentrado) está por debajo del punto de fusión del agua. En combinación con el agua (mezcla de glicol con agua), el punto de fusión es todavía muy inferior y, dependiendo de la proporción de la mezcla, puede alcanzar hasta los -55 °C.</p>
-  <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Todos los glicoles se presentan en forma de líquido claro, transparente, inodoro y de baja volatilidad. Los glicoles de poco peso molecular son totalmente miscibles en agua y la mayoría cuentan con una gran capacidad para disolverse en casi todos los compuestos orgánicos.</p>
-    <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Información Técnica Glicoles</b></h2>
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Tipos de Glicoles más comunes:</b></h2>
 
-        <table class="display" id="<"  style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
-<tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tabla_productos_glicoles">
-Fórmula Estructural:
-</td>
-<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;" class="Tabla_productos_glicoles">HO-CH2 CH2 -OH</td>
-</tr>
+          <ol>
+            <li class="Elementos--Listas">Etilenglicol (EG):
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Fórmula: C<sub>2</sub>H<sub>6</sub>O<sub>2</sub></li>
+                <li class="Elementos--Listas">Usos: Anticongelantes, líquidos hidráulicos, y producción de poliésteres.</li>
+                <li class="Elementos--Listas">Propiedades: Líquido viscoso, incoloro y soluble en agua. Es tóxico si se ingiere.</li>
+              </ol>
+            </li>
+          </ol>
 
+          <ol style="margin-top:50px;">
+            <li class="Elementos--Listas">Propilenglicol (PG):
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Formula: C<sub>3</sub>H<sub>8</sub>O<sub>2</sub></li>
+                <li class="Elementos--Listas">Usos: Industria alimentaria (como aditivo), farmacéutica, cosmética y como disolvente en productos no tóxicos.</li>
+                <li class="Elementos--Listas">Propiedades: Menos tóxico que el etilenglicol, por lo que se usa en aplicaciones más seguras.</li>
+              </ol>
+            </li>
+          </ol>
 
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:50px;">Dietilenglicol (DEG):
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Fórmula: C<sub>4</sub>H<sub>10</sub>O<sub>3</sub></li>
+                <li class="Elementos--Listas">Usos: Solventes, plastificantes y como intermedio químico en la fabricación de poliuretanos y resinas.</li>
+                <li class="Elementos--Listas">Propiedades: Tóxico y menos volátil que el etilenglicol.</li>
+              </ol>
+            </li>
+          </ol>
 
-<tr class="Tipografia--general General--Cuerpo"  style="padding:10px;font-size:15px !important;width:150px;">
-<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tabla_productos_glicoles">
-Nombre IUPAC:
-</td>
-<td style="text-align:center;font-size:18px !important;border:1px solid #C0C0C0;" class="Tabla_productos_glicoles">(2S,3R,4R,5R)-Hexano-1,2,3,4,5,6-hexol</td>
-</tr>
+          <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Propiedades generales de los glicoles:</b></h2>
 
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Altamente solubles en agua debido a la presencia de los grupos -OH.</li>
+            <li class="Elementos--Listas" >Actúan como agentes humectantes y disolventes.</li>
+            <li class="Elementos--Listas" >Pueden formar enlaces de hidrógeno, lo que les confiere propiedades anticongelantes.</li>
+            <li class="Elementos--Listas" >Tóxicos en distintas concentraciones dependiendo del tipo de glicol.</li>
+          </ol>
 
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Características:</b></h2>
 
-<tr class="Tipografia--general General--Cuerpo"  style="padding:10px;font-size:15px !important;width:150px;">
-<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tabla_productos_glicoles">
-Fórmula:
-</td>
-<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;" class="Tabla_productos_glicoles">C<sub>2</sub>H<sub>6</sub>O<sub>2</sub></td>
-</tr>
-<tr class="Tipografia--general General--Cuerpo"  style="padding:10px;font-size:15px !important;" >
-<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tabla_productos_glicoles">
-CAS#:
-</td>
-<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;" class="Tabla_productos_glicoles">107-21-1</td>
-</tr>
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Composición química: Los glicoles son dioles, lo que significa que tienen dos grupos funcionales hidroxilo (-OH) en su estructura molecular, lo que les otorga propiedades únicas como alcoholes polihídricos.</li>
+            <li class="Elementos--Listas">Estado físico: A temperatura ambiente, los glicoles son líquidos viscosos, incoloros e higroscópicos (absorben humedad del ambiente). <br> Ejemplo: Etilenglicol y propilenglicol.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Solubilidad:
+              <ol>
+                <li class="Elementos--Listas">Altamente solubles en agua debido a los enlaces de hidrógeno que pueden formar entre los grupos -OH y las moléculas de agua.</li>
+                <li class="Elementos--Listas">También son miscibles con muchos solventes orgánicos como el alcohol y la acetona.</li>
+              </ol>
+            </li>
+          </ol>
 
-<tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:18px !important;width:150px;">
-<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tabla_productos_glicoles">
-EINECS #:
-</td>
-<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;" class="Tabla_productos_glicoles">203-474-3</td>
-</tr>
+          <ol>
+            <li class="Elementos--Listas">Punto de ebullición elevado: Debido a los enlaces de hidrógeno entre las moléculas de glicoles, tienen puntos de ebullición relativamente altos comparados con otros compuestos de masa molecular similar.</li>
+          </ol>
 
+          <ol>
+            <li class="Elementos--Listas">Punto de congelación bajo: Su capacidad de disminuir el punto de congelación del agua los hace ideales para aplicaciones en anticongelantes y refrigerantes.</li>
+          </ol>
 
+          <ol>
+            <li class="Elementos--Listas"> Viscosidad:
+              <ol>
+                <li class="Elementos--Listas">Son líquidos viscosos debido a las interacciones intermoleculares que los grupos -OH facilitan.</li>
+                <li class="Elementos--Listas">La viscosidad varía según la longitud de la cadena y el tipo de glicol.</li>
+              </ol>
+            </li>
+          </ol>
 
-<tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:18px !important;width:150px;">
-<td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#262137;color:white;" class="Tabla_productos_glicoles">
-Pub Chem:
-</td>
-<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;" class="Tabla_productos_glicoles">174</td>
-</tr>
+          <ol>
+            <li class="Elementos--Listas"> Toxicidad:
+              <ol>
+                <li class="Elementos--Listas">Etilenglicol: Altamente tóxico si se ingiere, ya que se metaboliza en compuestos dañinos como el ácido oxálico, que puede causar insuficiencia renal.</li>
+                <li class="Elementos--Listas">Propilenglicol: Considerado seguro en bajas concentraciones; se usa en alimentos, cosméticos y fármacos.</li>
+              </ol>
+            </li>
+          </ol>
 
-</table>
-        </div>
-    </div>
-</div>
+          <ol>
+            <li class="Elementos--Listas">Inflamabilidad: La mayoría de los glicoles son inflamables en estado puro, pero tienen un punto de inflamación alto, lo que reduce el riesgo de combustión en condiciones normales.</li>
+          </ol>
 
+          <ol>
+            <li class="Elementos--Listas">Propiedades anticorrosivas: Se usan como aditivos para prevenir la corrosión en sistemas de refrigeración y calefacción.</li>
+          </ol>
 
-<div class="container">
-    <div class="row">
-        <div class="col s12 m12 l12 xl12">
-            <h2 class="Tipografia--general General--Cuerpo" style="margin-top:50px;"><b>Clasificacion</b></h2>
-            <p class="Tipografia--general General--Cuerpo" style="margin-bottom:50px;">El término <b>Glicol</b> alude a compuestos líquidos densos con sabor dulce y acre, teniendo en cuenta su composición, podemos clasificar los glicoles de menor a mayor complejidad.</p>
-            <p class="Tipografia--general General--Cuerpo" style="margin-top:0px;">Los <b>Glicoles</b> se clasifican acorde a su complejidad de menor a mayor:</p>
-            <ol>
-                <li class="Tipografia--general General--Cuerpo" style="list-style-type:disc;"><b>Monoetilenglicol (MEG):</b> Se obtiene por la reacción de un mol de agua con un mol de óxido de etileno,</li>
-                <br>
-                <li class="Tipografia--general General--Cuerpo" style="list-style-type:disc;"><b>Dietilenglicol (DEG):</b> Se obtiene de la reacción del Monoetilenglicol con un mol de óxido de etileno,</li>
-                <br>
-                <li class="Tipografia--general General--Cuerpo" style="list-style-type:disc;"><b>Trietilenglicol (TEG):</b> Se obtiene de la reacción del Dietilenglicol con un mol de óxido de etileno.</li>
-            </ol>
-        </div>
-        <div class="col s12 m12 l12 xl12">
-          
-        </div>
-    </div>
-</div>
+          <ol>
+            <li class="Elementos--Listas">Usos específicos:
+              <ol>
+                <li class="Elementos--Listas">Etilenglicol: Anticongelantes, líquidos hidráulicos, y síntesis de polímeros.</li>
+                <li class="Elementos--Listas">Propilenglicol: Cosméticos, alimentos y fármacos (menos tóxico).</li>
+                <li class="Elementos--Listas">Dietilenglicol: Solventes y plastificantes.</li>
+              </ol>
+            </li>
+          </ol>
 
-<div class="container">
-<div class="row">
-<div class="col s12 m12 l12 xl12">
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Productos:</b></h2>
 
-<h2 class="Tipografia--general General--Cuerpo" style="margin-top:0px;"><b>Tipos de Glicoles</b></h2>
-            <ol>
-                <li class="Tipografia--general General--Cuerpo" style="list-style-type:disc;color:rgba(2 146 238 /99%);"><a href="Mono_Propilen_Glicol.php" class="arrowblue Tipografia--general letranegro" style="color:rgba(2 146 238 /99%);"><b>Mono Propilen Glicol</b></a></li>
-                <br>
-                <li class="Tipografia--general General--Cuerpo" style="list-style-type:disc;color:rgba(2 146 238 /99%);"><a href="Proximamente.php" class="arrowblue Tipografia--general letranegro" style="color:rgba(2 146 238 /99%);"><b>Di Propilen Glicol</b></a></li>
-            </ol>
-</div>
-</div>
+          <ol>
+            <li class="Elementos--Listas"><a href="Mono_Propilen_Glicol.php" class="arrowblue Elementos--Listas" style="color:black;">Mono Propilen Glicol USP</a></li>
+            <li class="Elementos--Listas"><a href="Di_Propilen_Glicol.php" class="arrowblue Elementos--Listas" style="color:black;">Di Propilen Glicol Grado Fragancia</a></li>
+          </ol>
 
-<a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
-
-<i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
-
+          <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
 </a>
 
-
-</div>
-
-
-  </div>
-
-  
-
-  </div>
+        </div>
+      </div>
+    </div>
 
 
 </body>

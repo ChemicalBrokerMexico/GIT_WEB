@@ -419,7 +419,7 @@
 <ul class="slides">
 <li> <img src="img/CB_TRATAMEINTO_AGUA.jpg" style="height:500px;" alt="Industria Quimica">
 <div class="caption center-align"><br><br><br><br>
-<h1 class="primertitulo"><b>Chemical Broker</b><br></h1>
+<h1 class="primertitulo"><b>Fosfato Disódico Dodecahidratado</b><br></h1>
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
@@ -435,7 +435,6 @@
 </div>
 
 <div class="container" style="margin-top:150px;">
-
 <div class="row" style="margin-left:1000px;">
   <div class="col s12 m12 l12 xl12" style="background-color:orange;width:124%;">
   <p class="Titulos General--Cuerpo" style="color:white;text-align: right;"><b>Fosfato Disódico Dodecahidratado</b></p>

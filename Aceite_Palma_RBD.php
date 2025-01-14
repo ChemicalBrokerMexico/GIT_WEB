@@ -572,7 +572,7 @@
             <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px"><b style="color:#000020;">Proceso de producción</b></h2>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;">Refinado: Elimina impurezas, ácidos grasos libres y residuos no deseados presentes en el aceite de palma crudo.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Refinado: Elimina impurezas, Ácidos Grasos Libres y residuos no deseados presentes en el Aceite de Palma Crudo.</li>
                 <li class="Elementos--Listas" style="margin-top:30px;">Blanqueado: Usa arcillas o tierras blanqueadoras para eliminar los pigmentos, como el caroteno, que otorgan el color rojizo característico del aceite crudo.</li>
                 <li class="Elementos--Listas" style="margin-top:30px;">Desodorizado: A través de un proceso de destilación al vapor, elimina olores y sabores fuertes, resultando en un producto neutro.</li>
             </ol>

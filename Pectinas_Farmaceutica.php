@@ -625,14 +625,14 @@
     <div class="row">
 <div class="slider slider-prueba">
 <ul class="slides">
-<li> <img src="img/CB_PECTINAS_ALIMENTOS_121222.jpg" style="height:400px;" alt="Industria Quimica">
-<div class="caption center-align"><br><br><br><br>
-<h1 class="primertitulo"><b>Chemical Broker</b><br></h1><b class="segundotitulo">Pectinas - Nutricion Humana</b>
+<li> <img src="img/PECTINAS_FARMACEUTICA.jpg" style="height:400px;" alt="Industria Quimica">
+<div class="caption center-align"><br><br><br><br><br><br>
+<b class="segundotitulo">Pectinas - Farmaceutica</b>
 
 <div class="container" style="margin-top:-100px;">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section style="margin-top:125px"><a class="active" href="#" style="color:white !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:white;"> >&nbsp  </b></a><a class="breditem active" href="Productos_news.php" style="color:white !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Productos ></b></a> <a class="breditem active" href="Pectinas.php" style="color:white !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Pectinas ></b></a>    <a class="breditem active" href="Nutricion_Humana_Pectinas.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Pectinas - Nutricion Humana</b></a></section>
+
 </div>
 </div>
 </div>
@@ -648,17 +648,7 @@
     <div class="container" style="margin-top:80px;">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
-                <section class="breditem--inicio"><a class="breditem active" href="index.php"
-                        style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
-                        href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b>
-                            >
-                            &nbsp</b><a class="breditem active" href="Pectinas.php"
-                            style="color:#262137 !important;margin-left:-2px"><b
-                                class="Tipografia--general letranegro Subtitulos ">Pectinas</b></a> > &nbsp
-                                <a class="breditem active" href="Pectinas_Farmaceutica.php"
-                            style="color:#262137 !important;margin-left:-2px"><b
-                                class="Tipografia--general letranegro Subtitulos breadcrumb">Pectinas - Farmacéutica</b></a></section>
-                </section>
+            <section style="margin-top:50px"><a class="active" href="#" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Productos_news.php" style="color:white !important;margin-left:-2px"><b class="Tipografia-general Subtitulos" style="color:black;">Productos ></b></a> <a class="breditem active" href="Pectinas.php" style="color:white !important;margin-left:-2px"><b class="Tipografia-general Subtitulos" style="color:black;">Pectinas ></b></a>    <a class="breditem active" href="Pectinas_Farmaceutica.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Pectinas - Farmaceutica</b></a></section>
             </div>
         </div>
     </div>
@@ -666,26 +656,26 @@
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
-                <p class="colornegro Tipografia--general General--Cuerpo">Las <b>Pectinas</b> son una mezcla compleja de polisacáridos de origen vegetal que posee excelentes características de gelificación, y biocompatibilidad, por lo que ha sido ampliamente estudiada como excipiente en diversas formas farmacéuticas para modular la liberación de moléculas activas. La pectina permanece intacta en la parte alta del tracto gastrointestinal, y sólo es degradada por la microflora del colon. Por tal motivo, se ha incluido en esta revisión el desarrollo de diferentes formulaciones de liberación colónica de fármacos basadas en este polisacárido para tratar afecciones locales como el cáncer de colon y la enfermedad de Crohn. También se incluyen diversos estudios Nosotrosaplicaciones terapéuticas de la pectina como coadyuvante en diferentes patologías digestivas como el reflujo gastroesofágico y la diarrea persistente. El efecto que, sobre los niveles de glucosa, insulina y lípidos en plasma, puede tener una dieta rica en pectina es así mismo analizado.</p>
-                <p class="colornegro Tipografia--general General--Cuerpo" style="margin-top:50px;">La pectina se encuentra inscrita en la FDA como un aditivo seguro sin límites de consumo diario, por lo que es ampliamente utilizada como excipiente en la formulación de comprimidos matriciales, geles, cubiertas de formas farmacéuticas, etc.</p>
+                <p class="colornegro Tipografia--general General--Cuerpo">Las <b>Pectinas</b> son una mezcla compleja de polisacáridos de origen vegetal que posee excelentes características de gelificación, y biocompatibilidad, por lo que ha sido ampliamente estudiada como excipiente en diversas formas farmacéuticas para modular la liberación de moléculas activas. La <b>Pectina</b> permanece intacta en la parte alta del tracto gastrointestinal, y sólo es degradada por la microflora del colon. Por tal motivo, se ha incluido en esta revisión el desarrollo de diferentes formulaciones de liberación colónica de fármacos basadas en este polisacárido para tratar afecciones locales como el cáncer de colon y la enfermedad de Crohn. También se incluyen diversos estudios Nosotros aplicaciones terapéuticas de la <b>Pectina</b> como coadyuvante en diferentes patologías digestivas como el reflujo gastroesofágico y la diarrea persistente. El efecto que, sobre los niveles de glucosa, insulina y lípidos en plasma, puede tener una dieta rica en pectina es así mismo analizado.</p>
+                <p class="colornegro Tipografia--general General--Cuerpo" style="margin-top:50px;">La <b>Pectina</b> se encuentra inscrita en la FDA como un aditivo seguro sin límites de consumo diario, por lo que es ampliamente utilizada como excipiente en la formulación de comprimidos matriciales, geles, cubiertas de formas farmacéuticas, etc.</p>
                 <h5 class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;"><b>Funciones</b></h5>
                 <ol style="margin-bottom:0px;">
                     <li class="Listas_disc Elementos--Listas">Espesante</li>
                     <li class="Listas_disc Elementos--Listas">Gelificante</li>
-                    <li class="Listas_disc Elementos--Listas">Estabilizante coloidal</li>
+                    <li class="Listas_disc Elementos--Listas">Estabilizante Coloidal</li>
                     <li class="Listas_disc Elementos--Listas">Texturizante</li>
                     <li class="Listas_disc Elementos--Listas" style="margin-bottom:0px;">Emulsificante</li>
                 </ol>
                 <h5 class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;"><b>Aplicaciones</b></h5>
                 <ol style="margin-bottom:0px;">
-                    <li class="Listas_disc Elementos--Listas">Dispositivos y accesorios para ostomía</li>
-                    <li class="Listas_disc Elementos--Listas">Gasas de heridas</li>
-                    <li class="Listas_disc Elementos--Listas">Pastillas para la garganta</li>
-                    <li class="Listas_disc Elementos--Listas">Capsulas blandas</li>
-                    <li class="Listas_disc Elementos--Listas">Suspensiones orales</li>
-                    <li class="Listas_disc Elementos--Listas">Fármacos en terapia de cáncer de colon</li>
-                    <li class="Listas_disc Elementos--Listas">Vehículo en sistemas de transferencia génica no viral</li>
-                    <li class="Listas_disc Elementos--Listas">Comprimidos matriciales de pectinato de calcio para curación colonica de fármacos insolubles</li>
+                    <li class="Listas_disc Elementos--Listas">Dispositivos y Accesorios para ostomía</li>
+                    <li class="Listas_disc Elementos--Listas">Gasas de Heridas</li>
+                    <li class="Listas_disc Elementos--Listas">Pastillas para la Garganta</li>
+                    <li class="Listas_disc Elementos--Listas">Capsulas Blandas</li>
+                    <li class="Listas_disc Elementos--Listas">Suspensiones Orales</li>
+                    <li class="Listas_disc Elementos--Listas">Fármacos en Terapia de Cáncer de Colon</li>
+                    <li class="Listas_disc Elementos--Listas">Vehículo en Sistemas de Transferencia Génetica no Viral</li>
+                    <li class="Listas_disc Elementos--Listas">Comprimidos Matriciales de Pectinato de Calcio para Curación Colonica de Fármacos Insolubles</li>
                     <li class="Listas_disc Elementos--Listas">Comprimidos</li>
                     <li class="Listas_disc Elementos--Listas">Geles de Pectina</li>
                 </ol>

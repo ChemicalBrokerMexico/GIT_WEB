@@ -571,7 +571,7 @@
       <ul class="slides">
         <li> <img src="img/FOSFATOS_BANNER_110724.jpg" style="height:500px;" alt="Industria Quimica">
           <div class="caption center-align"><br><br><br><br>
-            <h1 class="primertitulo"><b>Chemical Broker</b><br></h1>
+            <h1 class="primertitulo"><b>Pirofosfato Acido de Sodio</b><br></h1>
             <div class="container">
               <div class="row">
                 <div class="col s12 m12 l12 xl12">
@@ -605,8 +605,8 @@
                         class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Pirofosfato Acido
                         de Sodio</b></a></section>
 
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El pirofosfato ácido de sodio,
-        también conocido como pirofosfato de disodio, es un compuesto químico inorgánico con la fórmula Na₂H₂P₂O₇. Este
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b>Pirofosfato Ácido de Sodio</b>,
+        también conocido como <b>Pirofosfato de Disodio</b>, es un compuesto químico inorgánico con la fórmula Na₂H₂P₂O₇. Este
         compuesto se utiliza en una amplia variedad de aplicaciones debido a sus propiedades químicas específicas.</p>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b
@@ -629,9 +629,9 @@
           style="color:#000020;">Aplicaciones</b></h5>
 
 
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El pirofosfato ácido de sodio
-        (Na₂H₂P₂O₇), también conocido como pirofosfato de disodio, tiene una amplia gama de aplicaciones debido a sus
-        propiedades químicas únicas. </p>
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:0px;">El <b>Pirofosfato Ácido de Sodio</b>
+        (Na₂H₂P₂O₇), también conocido como <b>Pirofosfato de Disodio</b>, tiene una amplia gama de aplicaciones debido a sus
+        propiedades químicas únicas.</p>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b
           style="color:#000020;">Industria Alimentaria:</b></h5>
@@ -729,115 +729,115 @@
 
   <table>
     <tr>
-      <th class="Tipografia--general letranegro General--Cuerpo">Características</th>
-      <th class="Tipografia--general letranegro General--Cuerpo">Piro Fosfato Acido de Sodio</th>
+      <th class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">Características</th>
+      <th class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">Piro Fosfato Acido de Sodio</th>
     </tr>
 
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       Grado:
       </td>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       Alimentos
       </td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       Certificaciones:
       </td>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       Kosher | Halal
       </td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       CAS:
       </td>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       7758-16-9
       </td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       EINECS:
       </td>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       231-835-0
       </td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       </td>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       Formula:
       </td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       Na2H2P2O7
       </td>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       Peso Molecular:
       </td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       201.97
       </td>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       Apariencia:
       </td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       Polvo Blanco
       </td>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       Contenido (Na2H2P2O7) (%):
       </td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       ≥ 95
       </td>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       Pentóxido de Fosforo (P2O5):
       </td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       63.0 – 64.5
       </td>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       pH de la solución al 1%:
       </td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       3.5 – 5.0
       </td>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       Perdida por secado (%):
       </td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       Insoluble en Agua (%):
       </td>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       ≤ 0.5
       </td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       Fluoruro (F) (ppm):
       </td>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       ≤ 10
       </td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       Metales Pesados (Pb) (ppm):
       </td>
       <td>
@@ -845,96 +845,96 @@
       </td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       Arsénico (As) (ppm):
       </td>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       ≤ 1
       </td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       Plomo (ppm):
       </td>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       ≤ 1
       </td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       Mercurio (ppm):
       </td>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       ≤ 1
       </td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       Cadmio (ppm):
       </td>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       ≤ 1
       </td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       Aluminio (ppm):
       </td>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       ≤ 200
       </td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       Densidad a granel (g/L):
       </td>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       800 - 1050
       </td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       ROR:
       </td>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       15, 28, 40
       </td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       A través de malla 100 (%):
       </td>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       ≥ 95
       </td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       A través de malla 200 (%):
       </td>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       ≥ 85
       </td>
 
       <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       Presentación:
       </td>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       Sacos 25 Kg.
       </td>
       <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       Vida de Anaquel:
       </td>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       24 meses
       </td>
       <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       Aplicaciones:
       </td>
-      <td class="Tipografia--general letranegro General--Cuerpo">
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       - Se utiliza como levadura rápida, agente de retención de humedad, mejorador de calidad para pan, galletas y otros alimentos horneados y carne, producto acuático.
       </td>
     </tr>

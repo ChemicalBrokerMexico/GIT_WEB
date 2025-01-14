@@ -829,7 +829,7 @@
 
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">El JECFA ha declarado que la IDA máxima
                     (Ingesta diaria admisible) de EDTA es 1,9 mg/día/ kg de peso corporal (pc), lo que equivale a
-                    Ferrazone® será de 2,8 mg/día/kg de peso corporal.</p>
+                    <b style="color:#C00000;">Ferrazone®</b> será de 2,8 mg/día/kg de peso corporal.</p>
 
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">El EDTA férrico y
                     sódico es al menos 2 o 3 veces más biodisponible que fuentes comparables de hierro como el sulfato

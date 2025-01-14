@@ -6,16 +6,16 @@
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <title>Chemical Broker | Pectinas del fabricante Cargill</title>
     <meta name="description" content="Chemical Broker brinda a sus socios de negocio Pectinas de la mas alta calidad a nivel mundial del fabricante Cargill con el objetivo de satisfacer sus necesidades">
-    <link rel="canonical" href="https://chemicalbroker.mx/Pectinas.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
-    <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-        integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
-    <link rel="stylesheet" href="css/History_Line.css">
-    <link rel="stylesheet" href="css/jquery.dataTables.min.css">
-    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
+  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/History_Line.css">
+  <link rel="stylesheet" href="css/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
     <script src="https://code.jquery.com/jquery-3.5.1.js"
         integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="js/materialize.js" type="text/javascript"></script>
@@ -643,17 +643,17 @@
     <div class="container" style="margin-top:130px;">
         <div class="row">
             <div class="col s12 m6 l12 XL12">
-            <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Pectinas.php"><b class="Tipografia--general Subtitulos" style="color:red;">Pectinas</b></a></section>
+            <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a href="Products_news.php"><b class="Tipografia--general Subtitulos" style="color:black;">Productos ></b></a><a class="active" href="Pectinas.php"><b class="Tipografia--general Subtitulos" style="color:red;">Pectinas</b></a></section>
                 <h2 class="Tipografia--general letranegro Titulos"><b>Pectinas</b>
                 </h2>
-                <p class="Tipografia--general letranegro General--Cuerpo">Las pectinas son una mezcla de polímeros
+                <p class="Tipografia--general letranegro General--Cuerpo">Las <b>Pectinas</b> son una mezcla de polímeros
                     ácidos y neutros muy ramificados. Son hidrocoloides solubles en agua con funciones gelificantes y
-                    espesantes. Las pectinas tambien proporcionan superficies cargadas que regulan el pH y el balance
+                    espesantes. Las <b>Pectinas</b> tambien proporcionan superficies cargadas que regulan el pH y el balance
                     ionico.</p>
 
 
 
-                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Las Pectinas tienen
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Las <b>Pectinas</b> tienen
                     3
                     dominios
                     principales:</h2>
@@ -672,11 +672,11 @@
 
                 <h2 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;"><b>Origen</b></h2>
 
-                <p class="Tipografia--general General--Cuerpo letranegro">La Pectina contiene principalmente ácidos
-                    galacturonicosparcialmente metoxilados. La pectina, un ingrediente versátil para texturas
-                    innovadoras La pectina es un ingrediente y un componente natural de las plantas. La pectina se
+                <p class="Tipografia--general General--Cuerpo letranegro">La <b>Pectina</b> contiene principalmente Ácidos
+                    Galacturonicos Parcialmente Metoxilados. La Pectina, un ingrediente versátil para texturas
+                    innovadoras La Pectina es un ingrediente y un componente natural de las plantas. La Pectina se
                     encuentra en muchas frutas, pero es especialmente abundante en las manzanas y los cítricos. La
-                    pectina de la fruta está asociada a la celulosa en los tejidos vegetales, donde juega un papel
+                    Pectina de la fruta está asociada a la celulosa en los tejidos vegetales, donde juega un papel
                     fundamental en la determinación de sus propiedades mecánicas.</p>
 
 
@@ -794,8 +794,8 @@
                     específica, velocidad de fraguado, viscosidad, sensación en la boca o estabilización, existe una
                     solución de Pectina para usted, que se ha sometido a pruebas exhaustivas y ayudará a brindar un
                     producto de consumo sobresaliente.</p>
-                <p class="Tipografia--general letranegro General--Cuerpo">Ofrecemos soluciones de pectina de frutas de
-                    origen natural de Alto y Bajo Metoxilo de alta calidad en una de las gamas de pectina más amplias
+                <p class="Tipografia--general letranegro General--Cuerpo">Ofrecemos soluciones de Pectina de frutas de
+                    origen natural de Alto y Bajo Metoxilo de alta calidad en una de las gamas de Pectina más amplias
                     disponibles en el mercado para las siguienets industrias:</p>
 
                 <ol>
@@ -813,10 +813,8 @@
 
             </div>
         </div>
-        <a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
-
-<i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
-
+        <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
 </a>
 
     </div>

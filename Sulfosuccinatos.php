@@ -7,11 +7,12 @@
   <title>Chemical Broker | Sulfosuccinatos</title>
   <meta name="description" content="Descubre los usos, beneficios y aplicaciones de los sulfosuccinatos en nuestra completa guía. Los sulfosuccinatos son compuestos químicos versátiles ampliamente utilizados en diversas industrias, desde productos de cuidado personal hasta aplicaciones industriales. Conoce más sobre cómo los sulfosuccinatos pueden mejorar tus productos y procesos aquí.""> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
+  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-    integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="css/History_Line.css">
   <link rel="stylesheet" href="css/jquery.dataTables.min.css">
   <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
@@ -573,67 +574,67 @@
       
 
             <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:white;background-color:black;padding:30px;display:inline-block;width:1160px;text-align:center;font-size:32px;">Sulfosuccinatos</b></h2>
-            <p class="letranegro General--Cuerpo Tipografia--General" style="margin-top:50px;">¿Buscas una solución efectiva para la limpieza y emulsificación de aceites y grasas?</p>
-            <h2 class="letranegro General--Cuerpo Tipografia--General" style="color:#008080;margin-top:50px;text-align: center;font-size:30px;"><b>¡Tenemos la respuesta para Ti!</b></h2>
-            <p class="letranegro General--Cuerpo Tipografia--General" style="margin-top:50px;">Los sulfossucinatos son una clase de surfactantes aniónicos utilizados en una variedad de aplicaciones industriales y de cuidado personal. Estos compuestos se derivan del acido succínico y se caracterizan por tener grupos sulfonato como grupos funcionales principales.</p>
-            <p class="letranegro General--Cuerpo Tipografia--General" style="margin-top:50px;">Introducimos nuestros sulfosuccinatos de alta calidad, agentes tensoactivos de ultima generación diseñados para ofrecer resultados superiores en una amplia gama de aplicaciones industriales y de cuidado personal.</p>
+            <p class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;">¿Buscas una solución efectiva para la limpieza y emulsificación de aceites y grasas?</p>
+            <h2 class="letranegro General--Cuerpo Tipografia--general" style="color:#008080;margin-top:50px;text-align: center;font-size:30px;"><b>¡Tenemos la respuesta para Ti!</b></h2>
+            <p class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;">Los sulfossucinatos son una clase de surfactantes aniónicos utilizados en una variedad de aplicaciones industriales y de cuidado personal. Estos compuestos se derivan del acido succínico y se caracterizan por tener grupos sulfonato como grupos funcionales principales.</p>
+            <p class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;">Introducimos nuestros sulfosuccinatos de alta calidad, agentes tensoactivos de ultima generación diseñados para ofrecer resultados superiores en una amplia gama de aplicaciones industriales y de cuidado personal.</p>
             <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;text-align: center;font-size:30px;"><b style="color:#008080;">Los Sulfosuccionatos son conocidos por su capacidad de proporcionar propiedades de limpieza y espuma.</b></h2>
             <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:black;">Aplicaciones</b></h2>
-            <div class="col s12 m12 l3 xl3 center-align">
+            <div class="col s12 m12 l6 xl6 center-align">
                 <h2 class="letranegro General--Cuerpo Tipografia--General" style="text-align:center"><b>Cuidado Personal</b></h2>
                 <ol>
-                    <li style="list-style-type:disc;color:#A6A6A6;text-align:left;">Champus</li>
-                    <li style="list-style-type:disc;color:#A6A6A6;text-align:left;">Acondicionadores</li>
-                    <li style="list-style-type:disc;color:#A6A6A6;text-align:left;">Geles de Ducha</li>
-                    <li style="list-style-type:disc;color:#A6A6A6;text-align:left;">Jabones Liquidos</li>
-                    <li style="list-style-type:disc;color:#A6A6A6;text-align:left;">Cremas Depilatorias</li>
-                    <li style="list-style-type:disc;color:#A6A6A6;text-align:left;">Exfoliantes</li>
-                    <li style="list-style-type:disc;color:#A6A6A6;text-align:left;">Productos del Cuidado de la Piel</li>
-                    <li style="list-style-type:disc;color:#A6A6A6;text-align:left;">Productos de Limpieza Facial</li>
-                    <li style="list-style-type:disc;color:#A6A6A6;text-align:left;">Cremas y Lociones</li>
+                    <li style="list-style-type:disc;color:#A6A6A6;">Champus</li>
+                    <li style="list-style-type:disc;color:#A6A6A6;">Acondicionadores</li>
+                    <li style="list-style-type:disc;color:#A6A6A6;">Geles de Ducha</li>
+                    <li style="list-style-type:disc;color:#A6A6A6;">Jabones Liquidos</li>
+                    <li style="list-style-type:disc;color:#A6A6A6;">Cremas Depilatorias</li>
+                    <li style="list-style-type:disc;color:#A6A6A6;">Exfoliantes</li>
+                    <li style="list-style-type:disc;color:#A6A6A6;">Productos del Cuidado de la Piel</li>
+                    <li style="list-style-type:disc;color:#A6A6A6;">Productos de Limpieza Facial</li>
+                    <li style="list-style-type:disc;color:#A6A6A6;">Cremas y Lociones</li>
                 </ol>
             </div>
-            <div class="col s12 m12 l3 xl3">
+            <div class="col s12 m12 l6 xl6">
                 <h2 class="letranegro General--Cuerpo Tipografia--General" style="text-align:center"><b>Detergentes</b></h2>
                 <ol>
-                    <li style="list-style-type:disc;color:#A6A6A6;text-align:left;">Detergentes Liquidos</li>
-                    <li style="list-style-type:disc;color:#A6A6A6;text-align:left;">Detergente en Polvo</li>
-                    <li style="list-style-type:disc;color:#A6A6A6;text-align:left;">Limpiadores Multiusos</li>
-                    <li style="list-style-type:disc;color:#A6A6A6;text-align:left;">Limpiadores para Baños y Cocinas</li>
-                    <li style="list-style-type:disc;color:#A6A6A6;text-align:left;">Limpiadores de Superficies</li>
+                    <li style="list-style-type:disc;color:#A6A6A6;">Detergentes Liquidos</li>
+                    <li style="list-style-type:disc;color:#A6A6A6;">Detergente en Polvo</li>
+                    <li style="list-style-type:disc;color:#A6A6A6;">Limpiadores Multiusos</li>
+                    <li style="list-style-type:disc;color:#A6A6A6;">Limpiadores para Baños y Cocinas</li>
+                    <li style="list-style-type:disc;color:#A6A6A6;">Limpiadores de Superficies</li>
                 </ol>
             </div>
-            <div class="col s12 m12 l3 xl3">
-                <h2 class="letranegro General--Cuerpo Tipografia--General" style="text-align:center"><b>Minería</b></h2>
+            <div class="col s12 m12 l6 xl6" style="margin-top:50px; ">
+                <h2 class="letranegro General--Cuerpo Tipografia--General" style="text-align:center;margin-top:60px;"><b>Minería</b></h2>
                 <ol>
                     <li style="list-style-type:disc;color:#A6A6A6;">Agentes Espumantes en el Proceso de Flotacion de Minerales</li>
                 </ol>
             </div>
-            <div class="col s12 m12 l3 xl3">
+            <div class="col s12 m12 l6 xl6">
                 <h2 class="letranegro General--Cuerpo Tipografia--General" style="text-align:center"><b>Química</b></h2>
                 <ol>
-                    <li style="list-style-type:disc;color:#A6A6A6;text-align:left;">Produccion de Emulsiones</li>
-                    <li style="list-style-type:disc;color:#A6A6A6;text-align:left;">Produccion de Agentes Humectantes</li>
-                    <li style="list-style-type:disc;color:#A6A6A6;text-align:left;">Produccion de Aditivos para la Industria Textil</li>
+                    <li style="list-style-type:disc;color:#A6A6A6;">Produccion de Emulsiones</li>
+                    <li style="list-style-type:disc;color:#A6A6A6;">Produccion de Agentes Humectantes</li>
+                    <li style="list-style-type:disc;color:#A6A6A6;">Produccion de Aditivos para la Industria Textil</li>
                 </ol>
             </div>
         </div>
         <div class="col s12 m12 l12 xl12">
         <h2 class="letranegro General--Cuerpo Tipografia--General"><b>Productos:</b></h2>
         <ol>
-            <li style="color:black;list-style-type: disc;">Dioctilsulfosuccinato de sodio 50%</li>
-            <li style="color:black;list-style-type: disc;">Dioctilsulfosuccinato de sodio 60%</li>
-            <li style="color:black;list-style-type: disc;">Dioctilsulfosuccinato de sodio 70%</li>
-            <li style="color:black;list-style-type: disc;">Lauril éter sulfosuccinato de sodio 30%</li>
-            <li style="color:black;list-style-type: disc;">Lauril éter sulfosuccinato de sodio 40%</li>
-            <li style="color:black;list-style-type: disc;">Lauril Sulfosuccinato de Sodio</li>
-            <li style="color:black;list-style-type: disc;">1, 2, carboxietil n octadecil sulfosuccinato tetrasódico</li>
-            <li style="color:black;list-style-type: disc;">Nonil éter di sulfosuccinato de sodio</li>
-            <li style="color:black;list-style-type: disc;">Cocoamida de sulfosuccinato disódico</li>
-            <li style="color:black;list-style-type: disc;">Lauril sulfosuccinato di sodico 3 moles</li>
-            <li style="color:black;list-style-type: disc;">Lauril sulfosuccinato di sodico 7 moles</li>
-            <li style="color:black;list-style-type: disc;">Lauril sulfosuccinato di sodico</li>
-            <li style="color:black;list-style-type: disc;">Síntesis de otros sulfosuccinatos a partir de alcoholes grasos, amidas y etoxilados, etc.</li>
+            <li style="color:black;list-style-type: disc;margin-top:30px;">Dioctilsulfosuccinato de sodio 50%</li>
+            <li style="color:black;list-style-type: disc;margin-top:30px;">Dioctilsulfosuccinato de sodio 60%</li>
+            <li style="color:black;list-style-type: disc;margin-top:30px;">Dioctilsulfosuccinato de sodio 70%</li>
+            <li style="color:black;list-style-type: disc;margin-top:30px;">Lauril éter sulfosuccinato de sodio 30%</li>
+            <li style="color:black;list-style-type: disc;margin-top:30px;">Lauril éter sulfosuccinato de sodio 40%</li>
+            <li style="color:black;list-style-type: disc;margin-top:30px;">Lauril Sulfosuccinato de Sodio</li>
+            <li style="color:black;list-style-type: disc;margin-top:30px;">1, 2, carboxietil n octadecil sulfosuccinato tetrasódico</li>
+            <li style="color:black;list-style-type: disc;margin-top:30px;">Nonil éter di sulfosuccinato de sodio</li>
+            <li style="color:black;list-style-type: disc;margin-top:30px;">Cocoamida de sulfosuccinato disódico</li>
+            <li style="color:black;list-style-type: disc;margin-top:30px;">Lauril sulfosuccinato di sodico 3 moles</li>
+            <li style="color:black;list-style-type: disc;margin-top:30px;">Lauril sulfosuccinato di sodico 7 moles</li>
+            <li style="color:black;list-style-type: disc;margin-top:30px;">Lauril sulfosuccinato di sodico</li>
+            <li style="color:black;list-style-type: disc;margin-top:30px;">Síntesis de otros sulfosuccinatos a partir de alcoholes grasos, amidas y etoxilados, etc.</li>
         </ol>
         <h2 class="letranegro General--Cuerpo Tipografia--General"><b>¿Por qué elegir nuestros Sulfosuccinatos?</b></h2>
         <p class="letranegro General--Cuerpo Tipografia--General">Por que ofrecemos productos de alta calidad; fabricados bajo estrictos estándares de calidad para garantizar la máxima eficiencia y seguridad en tus aplicaciones.</p>
@@ -643,10 +644,8 @@
         <p class="letranegro General--Cuerpo Tipografia--General">Telefono: +52.55.7586.1818 | Correo Electronico: <b style="color:#0563C1;">sales@chemicalbroker.mx</b></p>
         </div>
 
-        <a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
-
-<i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
-
+        <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
 </a>
 
     </div>

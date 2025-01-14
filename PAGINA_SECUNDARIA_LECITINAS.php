@@ -8,14 +8,15 @@
     <link rel="canonical" href="https://chemicalbroker.mx/PAGINA_SECUNDARIA_LECITINAS.php">
     <title>Chemical Broker | Lecitinas Cargill</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
-    <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-        integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
-    <link rel="stylesheet" href="css/History_Line.css">
-    <link rel="stylesheet" href="css/jquery.dataTables.min.css">
-    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
+  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/History_Line.css">
+  <link rel="stylesheet" href="css/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
     <script src="https://code.jquery.com/jquery-3.5.1.js"
         integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="js/materialize.js" type="text/javascript"></script>
@@ -627,8 +628,7 @@
         <div class="slider slider-prueba" style="margin-top:0px">
             <ul class="slides slides-pruea">
                 <li> <img src="img/LECITINAS_4.jpg" alt="" style="height:800px;filter: brightness(0.7);">
-                    <div class="caption center-align"><br><br><br><br>
-                        <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b
+                    <div class="caption center-align"><br><br><br><br><b
                             class="segundotitulo" style="font-size: 26px;">Lecitinas <br> Cargill</b>
                     </div>
                 </li>
@@ -688,19 +688,19 @@
                         Humana</b></h2>
 
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">Durante casi 100
-                    años, la lecitina ha sido un
+                    años, la Lecitina ha sido un
                     ingrediente esencial en las herramientas de los formuladores. Este emulsionante derivado de plantas,
                     versátil y apto para etiquetas parece hacerlo todo. Mejora mezcla y retención de humedad en
                     panadería, mejora la sensación en la boca en alternativas lácteas, sirve como reemplazo de los
                     emulsionantes sintéticos y dispersa la grasa y el agua ingredientes en aplicaciones instantáneas.
                 </p>
 
-                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px">La Lecitina es un
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px">La <b>Lecitina</b> es un
                     ingrediente alimentario
-                    multipropósito que funciona principalmente como agente emulsionante y dispersante. La lecitina
-                    también es un tensoactivo. La propiedad tensoactiva de la lecitina se puede atribuir a su
+                    multipropósito que funciona principalmente como agente emulsionante y dispersante. La <b>Lecitina</b>
+                    también es un tensoactivo. La propiedad tensoactiva de la <b>Lecitina</b> se puede atribuir a su
                     composición química: una mezcla compleja de fosfolípidos, glicolípidos, carbohidratos y
-                    triglicéridos. Como tal, la lecitina interactúa bien con otras sustancias en los alimentos, como
+                    triglicéridos. Como tal, la <b>Lecitina</b> interactúa bien con otras sustancias en los alimentos, como
                     proteínas, lípidos y carbohidratos.</p>
 
                 <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px">
@@ -1057,10 +1057,8 @@
 
             </div>
 
-            <a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
-
-<i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
-
+            <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
 </a>
 
 

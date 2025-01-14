@@ -418,7 +418,7 @@
 <ul class="slides">
 <li> <img src="img/ALIMENTOS_FOSFORO_280824.jpg" style="height:500px;" alt="Industria Quimica">
 <div class="caption center-align"><br><br><br><br>
-<h1 class="primertitulo"><b>Chemical Broker</b><br></h1>
+<h1 class="primertitulo"><b>Fosfato Monocálcico Anhidro</b><br></h1>
 <div class="container">
 <div class="row">
 </div>
@@ -447,7 +447,7 @@
 
     <section><a class="active" href="#" style="color:black !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos" style="color:black; !important">Productos > </b> </a> <a class=" active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Fosfato Monocálcico Anhidro</b></a></section>
 
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b>Fosfato Monocálcico Anhidro</b> (conocido químicamente como Ca(H₂PO₄)₂) es una forma específica de fosfato de calcio que se utiliza comúnmente en diversas aplicaciones industriales y alimentarias. A continuación, se detallan algunos aspectos clave sobre este compuesto:</p>
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b>Fosfato Monocálcico Anhidro</b> (conocido químicamente como Ca(H₂PO₄)₂) es una forma específica de Fosfato de calcio que se utiliza comúnmente en diversas aplicaciones industriales y alimentarias. A continuación, se detallan algunos aspectos clave sobre este compuesto:</p>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Propiedades Químicas y Físicas</b></h5>
 

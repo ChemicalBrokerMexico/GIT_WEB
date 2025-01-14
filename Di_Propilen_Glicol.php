@@ -4,8 +4,9 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Lauril Sulfato de Sodio 94% del Fabricante KLK Oleo</title>
-    <meta name="description" content="El Lauril Sulfato de Sodio 94% es un alquilsulfato en forma de polvo. El producto pertenece a los tensoactivos de naturaleza aniónica con un alto contenido en sustancia activa de al menos el 94%.">
+    <meta name="description" content="Es un líquido claro y transparente, prácticamente inodoro y con baja volatilidad. Es totalmente soluble en agua y en la mayoría de los disolventes orgánicos.">
+    <link rel="canonical" href="https://chemicalbroker.mx/Mono_Propilen_Glicol.php">
+    <title>Chemical Broker | Mono Propilen Glicol del Fabricante Lyondell Basell</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -54,22 +55,15 @@
         <div class="modal-content" style="overflow-y:auto;">
             <h6 class="letranegro"> <b class="tipografia--general Titulos letranegro">Respetamos tu Privacidad</b></h6>
             <p class="General--Cuerpo Tipografia--general letranegro">Este sitio web utiliza cookies. Con la ayuda de
-                las
-                cookies, podemos mejorar el rendimiento de nuestro sitio web, analizar la navegacion del sitio web,
-                respaldar
-                nuestras actividades de marketing en internet y ampliar la funcionalidad del sitio web. Decida que
-                cookies
-                podemos utilizar para procesar sus datos personales y compartir los datos con terceros. Tenga en cuenta
-                que las
-                cookies técnicamente necesarias deben establecerse para mantener la funcionalidad de nuestro sitio web.
-                Si hace
-                clic en 'Acepto', acepta el almacenamiento de cookies en su dispositivo y el procesamiento y
-                transferencia de
-                datos a terceros. Puede revocar su concentimiento en cualquier momento, administrar su configuración de
-                cookies
-                y obtener más información sobre nuestro uso de cookies en 'Configuracion de cookies'. Puede encontrar
-                más
-                información en nuestra <a class="Tipografia--general" href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf"
+                las cookies, podemos mejorar el rendimiento de nuestro sitio web, analizar la navegacion del sitio web,
+                respaldar nuestras actividades de marketing en internet y ampliar la funcionalidad del sitio web. Decida
+                que cookies podemos utilizar para procesar sus datos personales y compartir los datos con terceros.
+                Tenga en cuenta que las cookies técnicamente necesarias deben establecerse para mantener la
+                funcionalidad de nuestro sitio web. Si hace clic en 'Acepto', acepta el almacenamiento de cookies en su
+                dispositivo y el procesamiento y transferencia de datos a terceros. Puede revocar su concentimiento en
+                cualquier momento, administrar su configuración de cookies y obtener más información sobre nuestro uso
+                de cookies en 'Configuracion de cookies'. Puede encontrar más información en nuestra <a
+                    class="Tipografia--general" href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf"
                     style="color:rgba(2 146 238 /99%)">Política de Privacidad.</a></p>
         </div>
         <div class="modal-footer" style="height:25px">
@@ -80,41 +74,31 @@
                     <div class="modal" id="modal2" style="overflow-x:hidden">
                         <div class="modal-content">
                             <h6 class="letranegro"> <b class="Tipografia--general letranegro Titulos"
-                                    style="float:left;">Centro de
-                                    Preferencias de Privacidad </b></h6>
+                                    style="float:left;">Centro de Preferencias de Privacidad </b></h6>
                             <p class="Tipografia--general letranegro General--Cuerpo" style="float:left;">Cuando visita
-                                cualquier
-                                sitio web, puede almacenar o recuperar información en su navegador, principalmente en
-                                forma de cookies.
-                                Esta información puede ser sobre usted, sus preferencias o su dispositivo y se utiliza
-                                principalmente
-                                para hacer que el sitio funcione como espera. Por lo general, la informacion no lo
-                                identifica
-                                directamente, pero puede brindarle una experiencia web mas personalizada. Debido a que
-                                respetamos su
+                                cualquier sitio web, puede almacenar o recuperar información en su navegador,
+                                principalmente en forma de cookies. Esta información puede ser sobre usted, sus
+                                preferencias o su dispositivo y se utiliza principalmente para hacer que el sitio
+                                funcione como espera. Por lo general, la informacion no lo identifica directamente, pero
+                                puede brindarle una experiencia web más personalizada. Debido a que respetamos su
                                 derecho a la privacidad, puede optar por no permitir algunos tipos de cookies. Haga clic
-                                en los titulos
-                                de las diferentes categorías para obtener más información y cambiar nuestra
-                                configuración
-                                predeterminada. Sin embargo, bloquear algunos tipos de cookies puede afectar su
-                                experiencia en el sitio
-                                y los servicios que podemos ofrecer.</p>
-                            <p> <a class="Botones Tipografia--general" href="#" style="color:blue;float:left;">Mas
+                                en los titulos de las diferentes categorías para obtener más información y cambiar
+                                nuestra configuración predeterminada. Sin embargo, bloquear algunos tipos de cookies
+                                puede afectar su experiencia en el sitio y los servicios que podemos ofrecer.</p>
+                            <p> <a class="Botones Tipografia--general" href="#" style="color:blue;float:left;">Más
                                     información</a></p>
                             <div class="row">
                                 <div class="col s12 m12 l12 xl12" style="margin-top:16px"><a
-                                        class="modal-close Tipografia--general Botones" 
+                                        class="modal-close Tipografia--general Botones" href="#!"
                                         style="color:white;background-color:#262137 !important;padding:10px;float:left">Permitir
-                                        Todo </a>
-                                </div>
+                                        Todo </a></div>
                             </div>
                             <h6 class="letranegro"><b class="Tipografia--general letranegro Subtitulos"
                                     style="float:left;">Administrar las preferencias de consentimiento</b><br></h6>
                             <ul class="collapsible" style="margin-top:20px">
                                 <li>
                                     <div class="collapsible-header letranegro Tipografia--general Botones">Cookies
-                                        estrictamente
-                                        necesarias
+                                        estrictamente necesarias
                                         <label>
                                             <input class="filled-in" type="checkbox" checked="checked"
                                                 style="float:right !important" disabled><span class="letranegro">
@@ -123,18 +107,13 @@
                                     </div>
                                     <div class="collapsible-body">
                                         <p class="Tipografia--general letranegro General--Cuerpo">Estas cookies son
-                                            necesarias para que el
-                                            sitio web funcione y no se pueden desactivar en nuestros sistemas.
-                                            Usualmente estan configuradas
-                                            para responder a acciones hechas por usted para recibir servicios, tales
-                                            como ajustar sus
-                                            preferencias de privacidad, iniciar sesion en el sitio, o llenar
-                                            formularios. Usted puede
+                                            necesarias para que el sitio web funcione y no se pueden desactivar en
+                                            nuestros sistemas. Usualmente estan configuradas para responder a acciones
+                                            hechas por usted para recibir servicios, tales como ajustar sus preferencias
+                                            de privacidad, iniciar sesion en el sitio, o llenar formularios. Usted puede
                                             configurar su navegador para bloquear o alertar la presencia de estas
-                                            cookies, pero algunas partes
-                                            del sitio web no funcionaran. Estas cookies no guardan ninguna informacion
-                                            personal identificable
-                                        </p>
+                                            cookies, pero algunas partes del sitio web no funcionaran. Estas cookies no
+                                            guardan ninguna informacion personal identificable</p>
                                     </div>
                                 </li>
                                 <li>
@@ -147,14 +126,11 @@
                                     </div>
                                     <div class="collapsible-body">
                                         <p class="Tipografia--general letranegro General--Cuerpo">Estas cookies nos
-                                            permiten contar las
-                                            visitas y fuentes de circulacion para poder medir y mejorar el desempeño de
-                                            nuestro sitio. Nos
-                                            ayudan a saber qué son las más o menos populares y ver cuantas personas
-                                            visitan el sitio. Toda la
-                                            informacion que recogen estas cookies es agregada y, por lo tanto, anónima.
-                                            Si no permite estas
-                                            cookies no sabremos cuando visito nuestro sitio.</p>
+                                            permiten contar las visitas y fuentes de circulacion para poder medir y
+                                            mejorar el desempeño de nuestro sitio. Nos ayudan a saber qué son las más o
+                                            menos populares y ver cuantas personas visitan el sitio. Toda la informacion
+                                            que recogen estas cookies es agregada y, por lo tanto, anónima. Si no
+                                            permite estas cookies no sabremos cuando visito nuestro sitio.</p>
                                     </div>
                                 </li>
                                 <li>
@@ -167,12 +143,10 @@
                                     </div>
                                     <div class="collapsible-body">
                                         <p class="Tipografia--general letranegro General--Cuerpo">Estas cookies permiten
-                                            que el sitio
-                                            ofrezca una mejor funcionalidad y personalizacion. Pueden ser establecidas
-                                            por nosotros o por
-                                            terceras partes cuyos servicios hemos agregado a nuestras paginas. Si no
-                                            permiten estas cookies
-                                            algunos de nuestros servicios no funcionaran correctamente.</p>
+                                            que el sitio ofrezca una mejor funcionalidad y personalizacion. Pueden ser
+                                            establecidas por nosotros o por terceras partes cuyos servicios hemos
+                                            agregado a nuestras paginas. Si no permiten estas cookies algunos de
+                                            nuestros servicios no funcionaran correctamente.</p>
                                     </div>
                                 </li>
                                 <li>
@@ -185,16 +159,12 @@
                                     </div>
                                     <div class="collapsible-body">
                                         <p class="Tipografia--general letranegro General--Cuerpo">Estas cookies pueden
-                                            estar en todo el
-                                            sitio web, colocadas por nuestros socios publicitarios. Estos negocios
-                                            pueden utilizarlas para
-                                            crear un perfil de sus intereses y mostrarle anuncios relevantes en otros
-                                            sitios. No almacenan
-                                            informacion personal directamente, sino que se basan en la identificación
-                                            unica de su navegador y
-                                            dispositivo de acceso al internet. Si no permite estas cookies, tendra menos
-                                            publicidad dirigida
-                                        </p>
+                                            estar en todo el sitio web, colocadas por nuestros socios publicitarios.
+                                            Estos negocios pueden utilizarlas para crear un perfil de sus intereses y
+                                            mostrarle anuncios relevantes en otros sitios. No almacenan informacion
+                                            personal directamente, sino que se basan en la identificación unica de su
+                                            navegador y dispositivo de acceso al internet. Si no permite estas cookies,
+                                            tendra menos publicidad dirigida</p>
                                     </div>
                                 </li>
                             </ul>
@@ -209,11 +179,10 @@
                     </div>
                 </div>
                 <div class="col s12 m12 l4 xl4" style="margin-top:20px"><a
-                        class="close_hover letranegro Tipografia--general Botones"
-                        onclick="denegarCookies();">No Estoy de
-                        Acuerdo </a></div>
+                        class="close_hover letranegro Tipografia--general Botones" href="#!"
+                        onclick="denegarCookies();">No Estoy de Acuerdo </a></div>
                 <div class="col s12 m12 l4 xl4" style="margin-top:20px"><a
-                        class="modal-close close_hover letranegro Tipografia--general Botones"
+                        class="modal-close close_hover letranegro Tipografia--general Botones" href="#!"
                         onclick="aceptarCookies();">Estoy de Acuerdo</a></div>
             </div>
         </div>
@@ -224,13 +193,12 @@
                 <div class="collapsible-header"
                     style="background-color:black;color:white;border:none;padding:0;margin-top:-9px;margin-left:-1px;margin-right:-1px"
                     id="chefle"><span style="margin-left:15px"><b class="Tipografia--general Desplegables">Chemical
-                            Broker
-                        </b></span><i class="medium material-icons rigth" id="rotar">arrow_drop_down</i></div>
+                            Broker </b></span><i class="medium material-icons rigth" id="rotar">arrow_drop_down</i>
+                </div>
                 <div class="collapsible-header Carreras_altura"
                     style="background-color:black;color:white;border:none;padding:0;margin-right:15px;float:right;height:0px;">
                     <span style="margin-left:15px"><b class="Tipografia--general Desplegables"> <a
-                                href="Carreras.php">Carreras
-                            </a></b></span>
+                                href="Carreras.php">Carreras </a></b></span>
                 </div>
                 <div class="collapsible-body" style="background-color:black;margin-left:-1px;margin-right:-1px">
                     <div class="row">
@@ -242,10 +210,9 @@
                                             <h6 class="Tipografia--general Titulos" style="color:white;padding-top:5px">
                                                 Nosotros</h6>
                                             <p class="Tipografia--general General--Cuerpo" style="color:#a7a7a7;">
-                                                Chemical Broker es un
-                                                proveedor mundial de servicios de intermediación, comercialización,
-                                                distribución, importación y
-                                                exportación de productos químicos.</p>
+                                                Chemical Broker es un proveedor mundial de servicios de intermediación,
+                                                comercialización, distribución, importación y exportación de productos
+                                                químicos.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -256,13 +223,12 @@
                                     <div class="row">
                                         <div class="col s12 m12 l10 xl10 sections">
                                             <h6 class="Tipografia--general Titulos"
-                                                style="color:white;padding-top:5px;">Enfoque de Negocios
-                                            </h6>
+                                                style="color:white;padding-top:5px;">Enfoque de Negocios</h6>
                                             <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7;">
-                                                Nuestros negocios brindan
-                                                servicio a las Industrias Farmacéutica, Alimentaria, Cosmética y del
-                                                Cuidado Personal y la
-                                                Industria Química en general.</p>
+                                                Nuestros negocios brindan servicio a nuestros clientes en las industrias
+                                                Farmacéutica, Alimentaria y Nutrición Humana, Alimentaria y Nutrición
+                                                Animal, Agroquímicos, Cosmética y Cuidado Personal, Detergencia,
+                                                Industria Química.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -278,16 +244,13 @@
                                                 <h6 class="Tipografia--general Titulos" style="color:white !important;">
                                                     Ventas </h6>
                                                 <p class="Tipografia--general General--Cuerpo"
-                                                    style="color: #a7a7a7 !important;">Teléfono:
-                                                    +52.55.7586.1888</p>
+                                                    style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1888</p>
                                             </div>
                                             <div class="col s12 m12 l12 xl12">
                                                 <h6 class="Tipografia--general Titulos" style="color:white !Important;">
-                                                    Información General
-                                                </h6>
+                                                    Información General </h6>
                                                 <p class="Tipografia--general General--Cuerpo"
-                                                    style="color: #a7a7a7 !important;">Teléfono:
-                                                    +52.55.7586.1818 </p>
+                                                    style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1818 </p>
                                             </div>
                                         </div>
                                     </div>
@@ -304,8 +267,8 @@
                                                 de <i class="fas fa-long-arrow-alt-right desaparece"
                                                     id="aparece"></i></a><br><a
                                                 class="arrowblue Tipografia--general Subtitulos"
-                                                href="Historia_Hechos.php">Historia y Hechos
-                                                &nbsp<i class="fas fa-long-arrow-alt-right desaparece"
+                                                href="Historia_Hechos.php">Historia y Hechos &nbsp<i
+                                                    class="fas fa-long-arrow-alt-right desaparece"
                                                     id="aparece"></i></a><br><a
                                                 class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca
                                                 &nbsp<i class="fas fa-long-arrow-alt-right desaparece"
@@ -319,9 +282,9 @@
                                                     class="fas fa-long-arrow-alt-right desaparece"
                                                     id="aparece"></i></a><br><a
                                                 class="arrowblue Tipografia--general Subtitulos"
-                                                href="Servicio_Total.php">Servicio Integral
-                                                &nbsp<i class="fas fa-long-arrow-alt-right desaparece"
-                                                    id="aparece"></i></a></ul>
+                                                href="Servicio_Total.php">Servicio Integral &nbsp<i
+                                                    class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a>
+                                        </ul>
                                     </ul>
                                 </section>
                             </div>
@@ -331,8 +294,8 @@
                                         <p style="color:white"><b class="Tipografia--general Titulos">Politicas </b>
                                             <hr class="hr">
                                             <li> <a class="arrowblue Tipografia--general Subtitulos"
-                                                    href="Code_of_Conduct.php">Codigo de
-                                                    conducta &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
+                                                    href="Code_of_Conduct.php">Codigo de conducta &nbsp <i
+                                                        class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
                                             <li> <a class="arrowblue Tipogradia--general Subtitulos"
                                                     href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download>Politica de
@@ -352,8 +315,8 @@
                                         <p style="color: white"><b class="Tipografia--general Titulos">Empleados </b>
                                             <hr class="hr">
                                             <li> <a class="arrowblue Tipografia--general Subtitulos"
-                                                    href="VISTA/Principal.php">Intranet
-                                                    &nbsp<i class="fas fa-long-arrow-alt-right desaparece"
+                                                    href="VISTA/Principal.php">Intranet &nbsp<i
+                                                        class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
                                         </p>
                                     </ul>
@@ -370,7 +333,7 @@
                             <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
                                 <section>
                                     <ul>
-                                        <p style="color:white"><b class="Tipografia--general Titulos">Carreras </b>
+                                        <p style="color:white"><b class="Tipografia--general Titulos">Carreras</b>
                                             <hr class="hr">
                                             <li> <a class="arrowblue Tipografia--general Subtitulos"
                                                     href="Carreras.php">Carreras <i
@@ -389,8 +352,7 @@
     <div class="row">
         <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
             <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png"
-                    alt="Logotipo">
-            </div>
+                    alt="Logotipo"></div>
         </nav>
     </div>
     <nav style="background-color:white;height:25px;margin-top:-19px">
@@ -400,17 +362,16 @@
                 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
                         href="Mercados.php"><b>Mercados</b></a></li>
                 <ul id="dropdown3" class="dropdown-content">
-                    <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">
-                            Familias</a></li>
+                    <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Ingredientes Químicos</a></li>
                     <li><a href="Product_List.php" class="Tipografia--general letranegro Subtitulos">Lista de
                             Productos</a></li>
+                            <li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
                 </ul>
-                <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" 
+                <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!"
                         data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a>
                 </li>
-                <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" <li><a
-                            class="elemennav-secun Tipografia--general letranegro Subtitulos"
-                            href="Servicios.php"><b>Servicios</b></a></li>
+                <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos"
+                        href="Servicios.php"><b>Servicios</b></a></li>
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i class="material-icons right">arrow_drop_down</i></b></a>
 <ul id="dropdown4" class="dropdown-content" tabindex="0">
 <li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Sistema de Gestión Integral</a></li>
@@ -462,8 +423,7 @@
                             <tbody class="center-aling">
                                 <tr>
                                     <td style="border:hidden"><a href="index.php"
-                                            style="color:black !important;border:hidden">Acerca de
-                                        </a></td>
+                                            style="color:black !important;border:hidden">Nosotros</a></td>
                                 </tr>
                                 <tr>
                                     <td style="border:hidden"><a href="Historia_Hechos.php"
@@ -471,8 +431,7 @@
                                 </tr>
                                 <tr>
                                     <td style="border:hidden"><a href="Marca.php"
-                                            style="color:black !important;border:hidden">Marca</a>
-                                    </td>
+                                            style="color:black !important;border:hidden">Marca</a></td>
                                 </tr>
                                 <tr>
                                     <td style="border:hidden"><a href="Valores.php"
@@ -484,7 +443,7 @@
                                 </tr>
                                 <tr>
                                     <td style="border:hidden"><a href="Servicio_Total.php"
-                                            style="color:black !important;border:hidden">Servicio Integral</a></td>
+                                            style="color:black !important;border:hidden">Servicio Total</a></td>
                                 </tr>
                                 <tr>
                                     <td style="border:hidden"><a href="Code_of_Conduct.php"
@@ -592,7 +551,7 @@
                                 </tr>
                                 <tr>
                                     <td style="border:hideen;background-color:#262137"><a href="Servicio_Total.php"
-                                            style="color:white !important;border:hidden">Servicio Integrall </a></td>
+                                            style="color:white !important;border:hidden">Servicio Total </a></td>
                                 </tr>
                                 <tr>
                                     <td style="border:hidden;background-color:#262137"><a href="Code_of_Conduct.php"
@@ -622,337 +581,163 @@
         </div>
     </ul>
 
+
     <div class="container-fluid">
-      <div class="slider slider-prueba" style="margin-top:0px">
-        <ul class="slides slides-pruea">
-          <li><img src="img/LAURIL-SULFATO-SODIO-94_PICTURE_1_V2.jpg" style="height:400px;" alt="Historia Ascendente">
-            <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Lauril Sulfato de Sodio 94%</b><br></h1>
-              <div class="container">
-      
+        <div class="slider slider-prueba" style="margin-top:0px">
+            <ul class="slides slides-pruea">
+                <li> <img src="img/DI_BANNER_PRINCIPAL.jpg" alt="" style="height:400px;opacity:0.8;">
+                    <div class="caption center-align"><br><br><br><br><br><br>
+                      <b class="segundotitulo" style="font-size: 26px;">Di Propilen Glicol Grado Fragancia</b>
+                    </div>
+                </li>
+            </ul>
+        </div>
     </div>
+
+    <div class="container" style="margin-top:80px;">
+        <div class="row bread_mobile">
+            <div class="col s12 m12 l12 xl12">
+                <section class="breditem--inicio"><a class="breditem active" href="index.php"
+                        style="color:#262137 !important"><b>Inicio&nbsp </b><b> > &nbsp</b></a><a
+                        class="breditem active" href="Productos_news.php"
+                        style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b> > &nbsp</b><a
+                            class="breditem active" href="Di_Propilen_Glicol.php"
+                            style="color:#262137 !important;margin-left:-2px"><b
+                                class="Tipografia--general Subtitulos breadcrumb" style="color:red;">Di Propilen Glicol Grado Fragancia</b></a></section>
+                </section>
             </div>
-          </li>
-        </ul>
-      </div>
+        </div>
     </div>
 
 
-    <br>
- 
-
-
-
-    <div class="container" style="margin-top:130px;">
+    <div class="container">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
+            <p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#808080;">Di Propilen Glicol Grado Fragancia</b> (DPG) es un compuesto químico orgánico que pertenece a la familia de los glicoles. Es un líquido incoloro, inodoro y con una consistencia viscosa. Este compuesto es un derivado del propileno y se obtiene durante la producción del propilenglicol como subproducto.</p>
+            
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#808080;margin-top:50px;"><b>Características Físicas</b></h2>
 
-            <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Lauril_Sulfato_Sodio-94.php"><b class="Tipografia--general Subtitulos" style="color:black;"></b></a><a class="active" href="Lauril_Sulfato_Sodio-94.php"><b class="Tipografia--general Subtitulos" style="color:red;">Lauril Sulfato de Sodio 94%</b></a></section>
-                <!-- <h5 class="Tipografia--general letranegro Titulos"><b>Lauril
-                        Sulfato de Sodio 94%</b></h5> -->
-                <p class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020;">El Lauril Sulfato de Sodio 94%</b> es un
-                    alquilsulfato en forma de polvo. El producto pertenece a los tensoactivos de naturaleza aniónica con
-                    un alto contenido en sustancia activa de al menos el 94%.</p>
-                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Es un surfactante anionico con alto poder
-                    detergente, espumante y humectante. Las características principales de este producto incluyen una
-                    excelente capacidad de emulsión, humectabilidad y, lo que es más importante, fuertes propiedades de
-                    formación de espuma: este producto produce una espuma alta y muy estable.</p>
-            </div>
-            <div class="col s12 m12 l12 xl12">
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px"><b>Sinonimos</b></h2>
-                <ol style="margin-bottom:0px;">
-                    <li class="Tipografia--general letranegro Elementos--Listas Listas_disc">Lauril sulfato de sodio
-                    </li>
-                    <br>
-                    <li class="Tipografia--general letranegro Elementos--Listas Listas_disc">Ácido sulfúrico</li>
-                    <br>
-                    <li class="Tipografia--general letranegro Elementos--Listas Listas_disc">Mono-C12-14-alquil ésteres
-                    </li>
-                    <br>
-                    <li class="Tipografia--general letranegro Elementos--Listas Listas_disc">Sales de sodio</li>
-                </ol>
-            </div>
-            <div class="col s12 m12 l12 xl12">
-            <h2 class="Tipografia--general letranegro General--Cuerpo Titulos" style="margin-top:50px;"><b>Información Técnica Lauril Sulfato Sodio 94%</b></h2>
-            <table style="margin-top:30px;">
-                    <thead>
-                        <th class="Tipografia--general letranegro General--Cuerpo"
-                            style="background-color:#262137;color:white;padding:8px;" colspan="2">Identificacion:</th>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td class="Tipografia--general letranegro General--Cuerpo"
-                                style="border:2px solid #fbfbfb;width:50%"><span>INCI:</span></td>
-                            <td class="Tipografia--general letranegro General--Cuerpo"
-                                style="border:2px solid #fbfbfb;width:50%">Lauril Sulfato de Sodio</td>
-                        </tr>
-                        <tr>
-                            <td style="background-color:#fbfbfb;width:50%"></td>
-                            <td style="background-color:#fbfbfb;width:50%"></td>
-                        </tr>
-                        <tr>
-                            <td class="Tipografia--general letranegro General--Cuerpo"
-                                style="border:2px solid #fbfbfb;width:50%">CAS No.:</td>
-                            <td class="Tipografia--general letranegro General--Cuerpo"
-                                style="border:2px solid #fbfbfb;width:50%">85586-07-8</td>
-                        </tr>
-                        <tr>
-                            <td style="background-color:#fbfbfb;width:50%"></td>
-                            <td style="background-color:#fbfbfb;width:50%"></td>
-                        </tr>
-                        <tr>
-                            <td class="Tipografia--general letranegro General--Cuerpo"
-                                style="border:2px solid #fbfbfb;width:50%">EINECS No.:</td>
-                            <td class="Tipografia--general letranegro General--Cuerpo"
-                                style="border:2px solid #fbfbfb;width:50%">287-809-4</td>
-                        </tr>
-                        <tr>
-                            <td style="background-color:#fbfbfb;width:50%"></td>
-                            <td style="background-color:#fbfbfb;width:50%"></td>
-                        </tr>
-                        <tr>
-                            <td class="Tipografia--general letranegro General--Cuerpo"
-                                style="border:2px solid #fbfbfb;width:50%">REACH No.:</td>
-                            <td class="Tipografia--general letranegro General--Cuerpo"
-                                style="border:2px solid #fbfbfb;width:50%">01-2119489463-28-0007</td>
-                        </tr>
-                        <tr>
-                            <td style="background-color:#fbfbfb;width:50%"></td>
-                            <td style="background-color:#fbfbfb;width:50%"></td>
-                        </tr>
-                        <tr>
-                            <td class="Tipografia--general letranegro General--Cuerpo"
-                                style="background-color:#262137;color:white;padding:8px;" colspan="2">
-                                <b>Especificaciones:</b></td>
-                        </tr>
-                        <tr>
-                            <td class="Tipografia--general letranegro General--Cuerpo"
-                                style="border:2px solid #fbfbfb;width:50%">Apariencia:</td>
-                            <td class="Tipografia--general letranegro General--Cuerpo"
-                                style="border:2px solid #fbfbfb;width:50%">Polvo Fino Blanco</td>
-                        </tr>
-                        <tr>
-                            <td style="background-color:#fbfbfb;width:50%"></td>
-                            <td style="background-color:#fbfbfb;width:50%"></td>
-                        </tr>
-                        <tr>
-                            <td class="Tipografia--general letranegro General--Cuerpo"
-                                style="border:2px solid #fbfbfb;width:50%">Materia Activa Ionica (MW 299), (%):</td>
-                            <td class="Tipografia--general letranegro General--Cuerpo"
-                                style="border:2px solid #fbfbfb;width:50%">93.00 Minimo</td>
-                        </tr>
-                        <tr>
-                            <td style="background-color:#fbfbfb;width:50%"></td>
-                            <td style="background-color:#fbfbfb;width:50%"></td>
-                        </tr>
-                        <tr>
-                            <td class="Tipografia--general letranegro General--Cuerpo"
-                                style="border:2px solid #fbfbfb;width:50%">pH (1% acuoso):</td>
-                            <td class="Tipografia--general letranegro General--Cuerpo"
-                                style="border:2px solid #fbfbfb;width:50%">8.00 – 10.00</td>
-                        </tr>
-                        <tr>
-                            <td style="background-color:#fbfbfb;width:50%"></td>
-                            <td style="background-color:#fbfbfb;width:50%"></td>
-                        </tr>
-                        <tr>
-                            <td class="Tipografia--general letranegro General--Cuerpo"
-                                style="border:2px solid #fbfbfb;width:50%">Sulfato de Sodio (%):</td>
-                            <td class="Tipografia--general letranegro General--Cuerpo"
-                                style="border:2px solid #fbfbfb;width:50%">5.00 Maximo</td>
-                        </tr>
-                        <tr>
-                            <td style="background-color:#fbfbfb;width:50%"></td>
-                            <td style="background-color:#fbfbfb;width:50%"></td>
-                        </tr>
-                        <tr>
-                            <td class="Tipografia--general letranegro General--Cuerpo"
-                                style="background-color:#262137;color:white;padding:8px;" colspan="2"><b>Propiedades
-                                    Tipicas:</b></td>
-                        </tr>
-                        <tr>
-                            <td class="Tipografia--general letranegro General--Cuerpo"
-                                style="border:2px solid #fbfbfb;width:50%">Materia organica No Sulfatada (%)</td>
-                            <td class="Tipografia--general letranegro General--Cuerpo"
-                                style="border:2px solid #fbfbfb;width:50%">1.00 Maximo</td>
-                        </tr>
-                        <tr>
-                            <td style="background-color:#fbfbfb;width:50%"></td>
-                            <td style="background-color:#fbfbfb;width:50%"></td>
-                        </tr>
-                        <tr>
-                            <td class="Tipografia--general letranegro General--Cuerpo"
-                                style="border:2px solid #fbfbfb;width:50%">Densidad aparente (g / l):</td>
-                            <td class="Tipografia--general letranegro General--Cuerpo"
-                                style="border:2px solid #fbfbfb;width:50%">150 – 300</td>
-                        </tr>
-                        <tr>
-                            <td style="background-color:#fbfbfb;width:50%"></td>
-                            <td style="background-color:#fbfbfb;width:50%"></td>
-                        </tr>
-                        <tr>
-                            <td class="Tipografia--general letranegro General--Cuerpo"
-                                style="border:2px solid #fbfbfb;width:50%">Cloruro de sodio (%):</td>
-                            <td class="Tipografia--general letranegro General--Cuerpo"
-                                style="border:2px solid #fbfbfb;width:50%">0.2 Maximo</td>
-                        </tr>
-                        <tr>
-                            <td style="background-color:#fbfbfb;width:50%"></td>
-                            <td style="background-color:#fbfbfb;width:50%"></td>
-                        </tr>
-                        <tr>
-                            <td class="Tipografia--general letranegro General--Cuerpo"
-                                style="border:2px solid #fbfbfb;width:50%">Cadena de Alquilo:</td>
-                            <td class="Tipografia--general letranegro General--Cuerpo"
-                                style="border:2px solid #fbfbfb;width:50%">“Corte medio” natural</td>
-                        </tr>
-                        <tr>
-                            <td style="background-color:#fbfbfb;width:50%"></td>
-                            <td style="background-color:#fbfbfb;width:50%"></td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
-            <div class="col s12 m12 l12 xl12">
-            <h2 class="letrangro Tipografia--general General--Cuerpo" style="margin-top:50px;"><b>Ventajas del Producto</b></h2>
-                <ol style="margin-bottom:0px;">
-                    <li class="Elementos--Listas letranegro Listas_disc">Una base perfecta para la formulación de
-                        aditivos secos,</li>
-                        <br>
-                    <li class="Elementos--Listas letranegro Listas_disc">Mejora la resistencia a las heladas del
-                        hormigón,</li>
-                        <br>
-                    <li class="Elementos--Listas letranegro Listas_disc">Mejora la plasticidad del hormigón,</li>
-                    <br>
-                    <li class="Elementos--Listas letranegro Listas_disc">Reduce la fricción al bombear hormigón,</li>
-                    <br>
-                    <li class="Elementos--Listas letranegro Listas_disc">Mejora la penetración de los granos de cemento,
-                    </li>
-                    <br>
-                    <li class="Elementos--Listas letranegro Listas_disc">Producto aprobado para contacto indirecto con
-                        alimentos en base a las listas FDA y BFR.</li>
-                </ol>
-            </div>
-            <div class="col s12 m12 l12 xl12">
-            <h2 class="letrangro Tipografia--general General--Cuerpo" style="margin-top:50px"><b>Función</b></h2>
-                <ol style="margin-bottom:0px;">
-                    <li class="Elementos--Listas letranegro Listas_disc">Tensoactivos Bases,</li>
-                    <br>
-                    <li class="Elementos--Listas letranegro Listas_disc">Agentes de Limpieza,</li>
-                    <br>
-                    <li class="Elementos--Listas letranegro Listas_disc">Detergentes Emulsionantes,</li>
-                    <br>
-                    <li class="Elementos--Listas letranegro Listas_disc">Agentes Espumantes,</li>
-                    <br>
-                    <li class="Elementos--Listas letranegro Listas_disc">Agentes de Alta Espuma,</li>
-                    <br>
-                    <li class="Elementos--Listas letranegro Listas_disc">Agentes Humectantes.</li>
-                </ol>
-            </div>
-            <div class="col s12 m12 l12 xl12">
-            <h2 class="letrangro Tipografia--general General--Cuerpo" style="margin-top:50px;"><b>Certificaciones</b>
-                </h2>
-                <ol style="margin-bottom:0px;">
-                    <li class="Elementos--Listas letranegro Listas_disc">Roundtable on Sustainable Palm Oil (RSPO),</li>
-                    <br>
-                    <li class="Elementos--Listas letranegro Listas_disc">Organic Certification Organization (ECOCERT),
-                    </li>
-                    <br>
-                    <li class="Elementos--Listas letranegro Listas_disc">United States Pharmacopoeia (USP),</li>
-                    <br>
-                    <li class="Elementos--Listas letranegro Listas_disc">European Pharmacopoeia (EP),</li>
-                </ol>
-            </div>
-            <div class="col s12 m12 l12 xl12">
-                <h2 class="letrangro Tipografia--general General--Cuerpo" style="margin-top:50px;"><b>Vida de Anaquel</b></h2>
-                <ol style="margin-bottom:0px;">
-                    <li class="Elementos--Listas letranegro Listas_disc">3 años en su empaque original e intacto.</li>
-                    <br>
-                    <li class="Elementos--Listas letranegro Listas_disc">Temperatura de almacenamiento recomendada de 40
-                        °C maximo.</li>
-                </ol>
-            </div>
-            <div class="col s12 m12 l12 xl12">
-                <h2 class="letrangro Tipografia--general General--Cuerpo" style="margin-top:50px;"><b>Origen de Fabricacion</b></h2>
-                <ol style="margin-bottom:0px;">
-                    <li class="Elementos--Listas letranegro Listas_disc">Belgica, Union Europea.</li>
-                </ol>
-            </div>
-            <div class="col s12 m12 l12 xl12">
-                <h2 class="letrangro Tipografia--general General--Cuerpo" style="margin-top:50px;"><b>Presentacion</b></h2>
-                <ol style="margin-bottom:0px;">
-                    <li class="Elementos--Listas letranegro Listas_disc">Sacos de Papel Tipo Kraft con Bolsa interna de
-                        Polietileno de 25 Kg.</li>
-                </ol>
-            </div>
-            <div class="col s12 m12 l12 xl12">
-                <h2 class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px"><b>Aplicaciones &
-                        Industrias</b></h2>
-                <ol>
-                    <li class="Elementos--Listas letranegro Listas_disc">Construccion:
-                        <ol>
-                            <br>
-                            <li class="Elementos--Listas letranegro Listas_disc">Edificación y Construcción Concreto,
-                            </li>
-                            <br>
-                            <li class="Elementos--Listas letranegro Listas_disc">Morteros de Cemento (adhesivos),</li>
-                            <br>
-                            <li class="Elementos--Listas letranegro Listas_disc">Polimerización en emulsión,</li>
-                            <br>
-                            <li class="Elementos--Listas letranegro Listas_disc">Aditivos para hormigón,</li>
-                            <br>
-                            <li class="Elementos--Listas letranegro Listas_disc">Industria alimentaria / Aditivos para
-                                el envasado de alimentos Plásticos / Polimerización en emulsión.</li>
-                        </ol>
+            <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Estado físico: Líquido.</li>
+                <li class="Elementos--Listas">Color: Incoloro.</li>
+                <li class="Elementos--Listas">Olor: Prácticamente inodoro.</li>
+                <li class="Elementos--Listas">Densidad: 1.02 g/cm³ a 20 °C</li>
+                <li class="Elementos--Listas">Punto de ebullición: ~230 °C.</li>
+                <li class="Elementos--Listas">Punto de congelación: Aproximadamente -40 °C.</li>
+                <li class="Elementos--Listas">Viscosidad: Moderadamente viscosa.</li>
+                <li class="Elementos--Listas">Solubilidad:
+                    <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Altamente soluble en agua.</li>
+                    <li class="Elementos--Listas">Miscible con alcoholes y otros disolventes polares.</li>
+                    </ol>
+                </li>
+              
+            </ol>
 
-                    </li>
-                </ol>
-                <ol style="margin-top:50px;">
-                    <li class="Elementos--Listas letranegro Listas_disc">Cosmeticos:
-                        <ol>
-                            <br>
-                            <li class="Elementos--Listas letranegro Listas_disc">Cosmeticos de color</li>
-                        </ol>
-                    </li>
-                </ol>
-                <ol style="margin-top:50px;">
-                    <li class="Elementos--Listas letranegro Listas_disc">Cuidado Personal:
-                        <ol>
-                            <br>
-                            <li class="Elementos--Listas letranegro Listas_disc">Higiene Bucal,</li>
-                            <br>
-                            <li class="Elementos--Listas letranegro Listas_disc">Productos para el cabello,</li>
-                            <br>
-                            <li class="Elementos--Listas letranegro Listas_disc">Jabones para baño,</li>
-                            <br>
-                            <li class="Elementos--Listas letranegro Listas_disc">Productos para el baño,</li>
-                            <br>
-                            <li class="Elementos--Listas letranegro Listas_disc">Cuidado de la piel,</li>
-                            <br>
-                            <li class="Elementos--Listas letranegro Listas_disc">Cremas de afeitar,</li>
-                            <br>
-                            <li class="Elementos--Listas letranegro Listas_disc">Cremas depiladoras.</li>
-                        </ol>
-                    </li>
-                </ol>
-                <!-- <ol style="margin-bottom:0px;">
-                    <li class="Elementos--Listas letranegro Listas_disc">Farmaceutica:
-                    </li>
-                </ol> -->
-         
 
-                </div>
-       
-                <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
-    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
-</a>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#808080;margin-top:50px;"><b>Características químicas</b></h2>
 
-      
+            <ol>
+                <li class="Elementos--Listas">Fórmula molecular: C6H14O3.</li>
+                <li class="Elementos--Listas">Peso molecular: 134.17 g/mol.</li>
+                <li class="Elementos--Listas">Naturaleza química: Es un glicol (contiene dos grupos hidroxilos -OH en su estructura).</li>
+                <li class="Elementos--Listas">Estabilidad:
+                    <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Es químicamente estable bajo condiciones normales de uso y almacenamiento.</li>
+                        <li class="Elementos--Listas">No es inflamable en condiciones estándar, aunque puede arder en presencia de calor extremo o llamas.</li>
+                    </ol>
+                </li>
+                <li class="Elementos--Listas" style="margin-top:30px;">pH: Neutro.</li>
+            </ol>
+
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#808080;margin-top:50px;"><b>Propiedades funcionales</b></h2>
+
+            <ol>
+                <li class="Elementos--Listas">Humectante: Absorbe y retiene humedad del entorno.</li>
+                <li class="Elementos--Listas">Disolvente: Eficaz para diluir aceites esenciales, fragancias y otros compuestos.</li>
+                <li class="Elementos--Listas">Punto de ebullición alto: Ideal para aplicaciones que requieren resistencia térmica.</li>
+                <li class="Elementos--Listas">Baja volatilidad: Permite que se evapore lentamente, lo cual es útil en productos de fragancias.</li>
+                <li class="Elementos--Listas">Compatibilidad: Compatible con una amplia variedad de productos químicos y materiales.</li>
+            </ol>
+
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#808080;margin-top:50px;"><b>Aplicaciones</b></h2>
+
+            <ol>
+                <li class="Elementos--Listas">Industria cosmética y de cuidado personal
+                    <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Fragancias y perfumes: El DPG se utiliza como disolvente para aceites esenciales y fragancias en perfumes y productos cosméticos, mejorando la solubilidad y prolongando la duración de la fragancia.</li>
+                        <li class="Elementos--Listas">Cremas y lociones: Se emplea como humectante y emoliente en cremas, lociones y otros productos para la piel, ayudando a mantener la humedad y a suavizar la piel.</li>
+                        <li class="Elementos--Listas">Desodorantes: Se usa como disolvente en la formulación de desodorantes y antitranspirantes.</li>
+                    </ol>
+                </li>
+            </ol>
+
+            <ol>
+                <li class="Elementos--Listas" style="margin-top:50px;"> Industria alimentaria
+                    <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Aditivo alimentario: En ocasiones, el di propilen glicol se utiliza como aditivo en alimentos procesados (por ejemplo, como conservante o para mantener la humedad). Está aprobado por organismos como la FDA para ciertos usos, pero en niveles controlados.</li>
+                        <li class="Elementos--Listas">Aromatizantes: Se emplea como disolvente en la fabricación de algunos saborizantes o aditivos alimentarios.</li>
+                    </ol>
+                </li>
+            </ol>
+
+            <ol>
+                <li class="Elementos--Listas" style="margin-top:50px;"> Industria farmacéutica
+                    <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Formulación de medicamentos: Se usa en la formulación de productos farmacéuticos, especialmente en soluciones líquidas o en jarabes como disolvente o vehículo para medicamentos.</li>
+                        <li class="Elementos--Listas">Cosméticos terapéuticos: En cremas o ungüentos destinados a tratar afecciones de la piel (por ejemplo, para aliviar la sequedad).</li>
+                    </ol>
+                </li>
+            </ol>
+
+            <ol>
+                <li class="Elementos--Listas" style="margin-top:50px;"> Industria química
+                    <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Producción de polímeros y plásticos: Se usa como materia prima en la fabricación de resinas y poliuretanos, contribuyendo a la creación de plásticos flexibles.</li>
+                        <li class="Elementos--Listas">Refrigerantes y anticongelantes: Debido a sus propiedades térmicas, el DPG se utiliza en la fabricación de mezclas de anticongelantes para automóviles y sistemas industriales.</li>
+                        <li class="Elementos--Listas">Solvente en procesos industriales: Se utiliza como solvente en diversas aplicaciones industriales para diluir o disolver otros compuestos.</li>
+                    </ol>
+                </li>
+            </ol>
+
+            <ol>
+                <li class="Elementos--Listas" style="margin-top:50px;"> Entretenimiento y efectos especiales
+                    <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Generadores de humo: En la industria del entretenimiento, el di propilen glicol se utiliza en máquinas de niebla o humo, que se emplean en conciertos, espectáculos y en la producción de efectos especiales</li>
+                        <li class="Elementos--Listas" >Simuladores de atmósfera: En parques temáticos o en escenarios, se usa para crear efectos atmosféricos realistas, como niebla o vapor.</li>
+                    </ol>
+                </li>
+            </ol>
+
+            <ol>
+                <li class="Elementos--Listas" style="margin-top:50px;"> Industria textil y de la ropa
+                    <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Acondicionador de telas: Se utiliza en el tratamiento de telas y tejidos para evitar que se sequen o pierdan flexibilidad, ya que mantiene la humedad en las fibras.</li>
+                    </ol>
+                </li>
+            </ol>
+
+            <ol>
+                <li class="Elementos--Listas" style="margin-top:50px;"> Agricultura
+                    <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Uso como desinfectante: A veces se emplea como parte de formulaciones desinfectantes o en tratamientos para evitar el crecimiento de hongos o bacterias en ciertos cultivos.</li>
+                    </ol>
+                </li>
+            </ol>
+
+            <ol>
+                <li class="Elementos--Listas" style="margin-top:50px;"> Otros usos industriales
+                    <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Lubricantes y fluidos hidráulicos: Se usa en la fabricación de lubricantes y en sistemas hidráulicos, donde sus propiedades químicas lo hacen adecuado para reducir la fricción.</li>
+                        <li class="Elementos--Listas">Plaguicidas: En algunas formulaciones de pesticidas o plaguicidas, el DPG sirve como disolvente o vehículo para los ingredientes activos.</li>
+                    </ol>
+                </li>
+            </ol>
+
+            </div>
+        </div>
+    </div>
     
-
-    </div>
-    </div>
-
 
 </body>
 <footer style="margin-top:70px">
@@ -960,11 +745,9 @@
             alt=""></div><br><br>
     <div class="container-fluid" style="text-align:center;margin-top:-50px">
         <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos
-            Reservados.
-            | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
+            Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
                 href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download
-                style="color:black !important;font-size:16px">Politica de
-                Privacidad </a>
+                style="color:black !important;font-size:16px">Politica de Privacidad </a>
             <script type="text/javascript" src="js/main.js"></script></a></strong>
         </p>
         <script type="text/javascript" src="js/Products.js"></script>

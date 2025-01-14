@@ -6,13 +6,13 @@
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
   <title>Chemical Broker | Nitruro de Boro del fabricante Saint Gobain </title>
   <meta name="description" content="El Nitruro de Boro de Saint Gobain es un polvo de grado cosmético muy fino con buena opacidad. Puede impartir una sensación sedosa, suave y lubricante en las formulaciones cosméticas, al tiempo que mejora la difusión.">
-  <link rel="canonical" href="https://chemicalbroker.mx/Nitruro_Boro.php"> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
+  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-    integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="css/History_Line.css">
   <link rel="stylesheet" href="css/jquery.dataTables.min.css">
   <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
@@ -596,56 +596,57 @@
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Nitruro_Boro.php"><b class="Tipografia--general Subtitulos" style="color:red;">Nitruro de Boro</b></a></section>
+<section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Nitruro_Boro.php"><b class="Tipografia--general Subtitulos" style="color:black;">Productos > </b></a><a class="active" href="Nitruro_Boro.php"><b class="Tipografia--general Subtitulos" style="color:red;">Nitruro de Boro</b></a></section>
+
 <p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#ff0066">Nitruro de Boro</b> es un compuesto quimico formado por atomos de boro y nitrogeno. Su formula quimica es BN. Este material tiene propiedades interesantes y se utiliza en diversas aplicaciones.</p>
 <h5 class="Tipografia--general letranegro Titulos" style="color:#ff0066;margin-top:50px"><b>Estructura Cristilina:</b></h5>
-<p class="Tipografia--general letranegro General--Cuerpo">El Nitruro de Boro puede existir en varias formas, pero las dos principales son el Nitruro de Boro Hexagonal (h-BN) y el Nitruro de Boro Cubico (c-BN).</p>
+<p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#ff0066">Nitruro de Boro</b> puede existir en varias formas, pero las dos principales son el <b style="color:#ff0066">Nitruro de Boro</b> Hexagonal (h-BN) y el <b style="color:#ff0066">Nitruro de Boro</b> Cubico (c-BN).</p>
 <ol class="Elementos--Listas" style="margin-top:30px">
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Nitruro de Boro Hexagonal (h-BN).- tiene una estructura similar al grafito.</li>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Nitruro de Boro Cubico (c-BN).- tiene una estructura similar al diamante.</li>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b style="color:#ff0066">Nitruro de Boro Hexagonal</b> (h-BN).- tiene una estructura similar al grafito.</li>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b style="color:#ff0066">Nitruro de Boro Cubico</b> (c-BN).- tiene una estructura similar al diamante.</li>
 </ol>
 <h5 class="Tipografia--general letranegro Titulos" style="color:#ff0066;margin-top:50px"><b>Sintesis:</b></h5>
-<p class="Tipografia--general letranegro General--Cuerpo">El Nitruro de Boro se puede sintetizar mediante varios metodos, como la deposicion quimica de vapor (CVD) o la sintesis a alta presion y alta temperatura.</p>
+<p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#ff0066">Nitruro de Boro</b> se puede sintetizar mediante varios metodos, como la deposicion quimica de vapor (CVD) o la sintesis a alta presion y alta temperatura.</p>
 <h5 class="Tipografia--general letranegro Titulos" style="color:#ff0066;margin-top:50px"><b>Propiedades:</b></h5>
 <h5 class="Tipografia--general letranegro Titulos" style="color:black;margin-top:30px"><b>Nitruro de Boro Hexagonal (h-BN):</b></h5>
 <ol>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Estructura cristalina</li>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Estructura Cristalina</li>
 <br>
 <li class="Elementos--Listas letranegro" style="list-style-type:disc">Dureza</li>
 <br>
 <li class="Elementos--Listas letranegro" style="list-style-type:disc">Autolubricante</li>
 <br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Baja friccion</li>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Baja Friccion</li>
 <br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Excelente aislante electrico</li>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Excelente Aislante Electrico</li>
 <br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Resistencia termica</li>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Resistencia Termica</li>
 <br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Transparencia optica</li>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Transparencia Optica</li>
 <br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Estabilidad quimica</li>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Estabilidad Quimica</li>
 <br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Baja conductividad</li>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Baja Conductividad</li>
 </ol>
 <h5 class="Tipografia--general letranegro Titulos" style="color:black;margin-top:50px"><b>Nitruro de Boro Cubico (c-BN):</b></h5>
 <ol>
 <li class="Elementos--Listas letranegro" style="list-style-type:disc">Dureza</li>
 <br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Conductividad termica</li>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Conductividad Termica</li>
 <br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Estabilidad termica</li>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Estabilidad Termica</li>
 <br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Resistencia quimica</li>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Resistencia Quimica</li>
 <br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Transparencia optica</li>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Transparencia Optica</li>
 <br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Aislante electrico</li>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Aislante Electrico</li>
 <br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Baja absorcion de neutrones</li>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Baja Absorcion de Neutrones</li>
 <br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Estabilidad quimica</li>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Estabilidad Quimica</li>
 <br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Comportamiento lubricante</li>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc">Comportamiento Lubricante</li>
 </ol>
 <h5 class="Tipografia--general letranegro Titulos" style="color:#ff0066;margin-top:50px"><b>Aplicaciones:</b></h5>
 <p class="Tipografia--general letranegro Titulos" style="color:black;margin-top:0px"><b>Nitruro de Boro Hexagonal (h-BN):</b></p>
@@ -654,9 +655,9 @@
 <br>
 <li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Recubrimientos protectores.- </b> Debido a su estructura hexagonal y propiedades de barrera, el h-BN puede utilizarse como recubrimiento protector en diversas aplicaciones. Por ejemplo, puede aplicarse en la fabricacion de recubrimientos para proteger supérficies contra la corrosion, la abrasion y otros tipos de desgaste.</li>
 <br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Electronica avanzada.- </b> Aunque no conduce la electricidad tan bien como el grafeno, el h-BN es un buen aislante electrico. Esto lo hace adecuado para su uso en dispositivoselectronicosdonde se requiere una capa aislante entre componentes conductores para prevenir cortocircuitos.</li>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Electronica avanzada.- </b> Aunque no conduce la electricidad tan bien como el grafeno, el h-BN es un buen aislante electrico. Esto lo hace adecuado para su uso en dispositivos electronicos donde se requiere una capa aislante entre componentes conductores para prevenir cortocircuitos.</li>
 <br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Optoelectronica.- </b> El h-BN puede utilizarse como lubricante solido en condiciones de alta temperaturay presion. Su estructuralaminar le permiteactuar como un solido deslizante entre superficies, reduciendo la friccion y el desgaste en aplicaciones industriales.</li>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Optoelectronica.- </b> El h-BN puede utilizarse como lubricante solido en condiciones de alta temperaturay presion. Su estructura laminar le permite actuar como un solido deslizante entre superficies, reduciendo la friccion y el desgaste en aplicaciones industriales.</li>
 <br>
 <li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Lubricantes solidos.- </b> El h-BN puede utilizarse como lubricante solido en condiciones de alta temperatura y presion. Su estructura laminar le permite actuar como un solido deslizante entre superficies, reduciendo la friccion y el desgaste en aplicaciones industriales.</li>
 <br>
@@ -670,7 +671,7 @@
 <br>
 <li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Recubrimientos protectores.- </b> La resistencia quimica y termica del c-BN lo hace ideal para aplicaciones en las que se requiere un recubrimiento protector. Puede utilizarse en recubrimientos para herramientas, moldes y componentes expuestos a condiciones extremas.</li>
 <br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Optoelectronica.- </b> El nitruro de boro cubico tiene propiedades opticas unicas que lo hacen util en aplicaciones de optoelectronica, como ventanas transparentes a la radiacion ultravioleta, lentes y componentes para dispositivos laser.</li>
+<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Optoelectronica.- </b> El Nitruro de Boro cubico tiene propiedades opticas unicas que lo hacen util en aplicaciones de optoelectronica, como ventanas transparentes a la radiacion ultravioleta, lentes y componentes para dispositivos laser.</li>
 <br>
 <li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Herramientas de corte de alta velocidad.- </b> Debido a su alta conductividad termica y dureza, c-BN se utiliza en herramientas de corte de alta velocidad para mecanizado de materiales duros, como metales endurecidos y aleaciones.</li>
 <br> 
@@ -688,11 +689,10 @@
   <a href="/PDF/SAINT-GOBAIN_BROCHURE_BORON-NITRIDE-POWDER.pdf" style="color:black;cursor:pointer"><li class="Elementos--Listas arrowblue" style="list-style-type:disc;cursor:pointer" download>SAINT-GOBAIN_BROCHURE_BORON-NITRIDE-POWDER.pdf</li></a>
 </ol>
 </div>
-<a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
-
-<i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
-
+<a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
 </a>
+  
 
 </div>
 </div>

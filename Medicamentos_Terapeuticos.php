@@ -399,16 +399,192 @@
 <div class="container" style="margin-top:-100px;">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section style="margin-top:125px"><a class="active" href="#" style="color:white !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:white;"> >&nbsp  </b></a><a class="breditem active" href="Medicamentos_Terapeuticos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Nosotros</b></a></section>
-</div>
-</div>
-</div>
 
-
+</div>
+</div>
+</div>
 </div>
 </li>
 </ul>
 </div>
+</div>
+
+<div class="container" style="margin-top:120px;">
+  <div class="row">
+    <div class="col s12 m12 l12 xl12">
+
+    <section style="margin-top:0px"><a class="active" href="#" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Medicamentos_Terapeuticos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Medicamentos Terapeuticos</b></a></section>
+
+      <p class="Tipografia--general letranegro General--Cuerpo">La industria de medicamentos terapéuticos para mascotas es un segmento especializado dentro del sector de la salud animal que ha crecido significativamente en los últimos años. Este crecimiento está impulsado por el aumento en la cantidad de mascotas, el cambio en la percepción de los animales como miembros de la familia y el avance en la investigación veterinaria. Aquí hay un panorama detallado sobre esta industria:</p>
+
+      <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Caracteristicas Principales</b></h2>
+
+      <ol>
+        <li class="Elementos--Listas"> Enfoque en el bienestar animal:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Los dueños de mascotas buscan tratamientos avanzados que mejoren la calidad de vida de sus animales.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Hay una mayor disposición a gastar en terapias innovadoras para tratar enfermedades crónicas, infecciosas y degenerativas.</li>
+          </ol>
+        </li>
+      </ol>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">Segmentación del mercado:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Especies: Perros, gatos y otras mascotas (aves, peces, conejos, etc.).</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Tipos de terapias: Antiinflamatorios, antibióticos, vacunas, medicamentos contra parásitos, y tratamientos especializados como inmunoterapias o productos biológicos.</li>
+          </ol>
+        </li>
+      </ol>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">Tecnología y personalización:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Desarrollo de medicamentos específicos para diferentes razas, tamaños y edades.</li>
+            <li class="Elementos--Listas" style="margin-top:30px;">Uso de tecnologías como la medicina regenerativa (terapias con células madre) y los nutracéuticos.</li>
+          </ol>
+        </li>
+      </ol>
+
+      <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Factores que impulsan el crecimiento:</b></h2>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px">Mayor longevidad de las mascotas:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px">La mejora en el cuidado de las mascotas ha extendido su esperanza de vida, lo que aumenta la demanda de medicamentos para tratar enfermedades relacionadas con la edad, como artritis, cáncer y enfermedades cardiovasculares.</li>
+          </ol>
+        </li>
+      </ol>
+
+      <ol> 
+        <li class="Elementos--Listas" style="margin-top:30px"> Avances en la medicina veterinaria:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px">Aplicación de investigaciones de la medicina humana a la veterinaria.</li>
+            <li class="Elementos--Listas" style="margin-top:30px">Desarrollo de terapias innovadoras como biológicos, vacunas avanzadas y productos para enfermedades autoinmunes.</li>
+          </ol>
+        </li>
+      </ol>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px"> Conciencia del propietario:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px">Mayor conocimiento sobre la salud animal y acceso a información médica.</li>
+            <li class="Elementos--Listas" style="margin-top:30px">Creciente interés en tratamientos preventivos y personalizados.</li>
+          </ol>
+        </li>
+      </ol>
+
+      <h2 class="Tipografia--general letranegro General--Cuerpo">Desafios de la Industria:</h2>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px"> Regulación estricta:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px">Los medicamentos veterinarios están sujetos a normativas rigurosas similares a las de los medicamentos humanos.</li>
+            <li class="Elementos--Listas" style="margin-top:30px">Requisitos extensivos de pruebas de seguridad y eficacia.</li>
+          </ol>
+        </li>
+      </ol>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px">Costo de desarrollo:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px">La investigación y desarrollo de medicamentos terapéuticos puede ser costosa y llevar varios años.</li>
+            <li class="Elementos--Listas" style="margin-top:30px">Los precios pueden ser una barrera para algunos propietarios.</li>
+          </ol>
+        </li>
+      </ol>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px"> Resistencia antimicrobiana:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px">El uso excesivo de antibióticos en animales plantea desafíos de resistencia, impulsando la búsqueda de alternativas como probióticos y terapias naturales.</li>
+          </ol>
+        </li>
+      </ol>
+
+      <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Ingredientes Quimicos Utilizados:</b></h2>
+
+      <p class="Tipografia--general letranegro General--Cuerpo">Excipientes: Compuestos inactivos que facilitan la formulación y administración del medicamento:</p>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px">Vehículos y disolventes:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px">Ejemplo: Propilenglicol, Aceites vegetales (soja, girasol).</li>
+            <li class="Elementos--Listas" style="margin-top:30px">Uso: Mejorar la solubilidad y biodisponibilidad de los principios activos.</li>
+          </ol>
+        </li>
+      </ol>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px">Estabilizantes:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px">Ejemplo: Fosfatos, Citratos.</li>
+            <li class="Elementos--Listas" style="margin-top:30px">Uso: Mantener la estabilidad química y física del medicamento.</li>
+          </ol>
+        </li>
+      </ol>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px">Conservantes:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px">Ejemplo: Benzoato de sodio, Parabenos.</li>
+            <li class="Elementos--Listas" style="margin-top:30px">Uso: Prevenir la contaminación microbiana.</li>
+          </ol>
+        </li>
+      </ol>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px">Colorantes y saborizantes::
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px">Ejemplo: Óxidos de hierro (colorantes), Glutamato monosódico (saborizantes).</li>
+            <li class="Elementos--Listas" style="margin-top:30px">Uso: Mejorar la aceptabilidad del medicamento por parte de las mascotas.</li>
+          </ol>
+        </li>
+      </ol>
+
+      <h2 class="Tipografia--general letranegro General--Cuerpo">Excipientes:</h2>
+
+      <h2 class="Tipografia--general letranegro General--Cuerpo">Aditivos funcionales::</h2>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px">Surfactantes:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px">Ejemplo: Polisorbatos (Tween 80), Laurilsulfato de sodio.</li>
+            <li class="Elementos--Listas" style="margin-top:30px">Uso: Facilitar la emulsión y dispersión de los ingredientes activos.</li>
+          </ol>
+        </li>
+      </ol>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px"> Agentes de liberación controlada:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px">Ejemplo: Polímeros como HPMC (hidroxipropilmetilcelulosa), Eudragit.</li>
+            <li class="Elementos--Listas" style="margin-top:30px">Uso: Proveer una liberación sostenida del medicamento.</li>
+          </ol>
+        </li>
+      </ol>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px"> Agentes quelantes:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px">Ejemplo: EDTA (ácido etilendiaminotetraacético).</li>
+            <li class="Elementos--Listas" style="margin-top:30px">Uso: Mejorar la estabilidad al prevenir la oxidación y la formación de metales.</li>
+          </ol>
+        </li>
+      </ol>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px"> Lubricantes:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px">Ejemplo: Estearato de magnesio, Talco.</li>
+            <li class="Elementos--Listas" style="margin-top:30px">Uso: Facilitar el proceso de tableteado.</li>
+          </ol>
+        </li>
+      </ol>
+
+
+    </div>
+  </div>
 </div>
 
 

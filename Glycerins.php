@@ -563,7 +563,7 @@
     <div class="row">
       <div class="col s12 m12 l12 xl12">
 
-      <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Glycerins.php"><b class="Tipografia--general Subtitulos" style="color:red;">Glicerina</b></a></section>
+      <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Productos_news.php"><b class="Tipografia--general Subtitulos" style="color:black;">Productos > </b></a><a class="active" href="Glycerins.php"><b class="Tipografia--general Subtitulos" style="color:red;">Glicerina</b></a></section>
 
 
       </div>
@@ -586,18 +586,18 @@
 
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Estado físico. -</b> Es un líquido viscoso, incoloro, inodoro y con un sabor ligeramente dulce.</p>
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Solubilidad. -</b> Es completamente soluble en agua, lo que la hace útil en muchas formulaciones acuosas. También es miscible con alcohol y otros disolventes polares.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Viscosidad. -</b> Tiene una alta viscosidad, lo que le da una consistencia espesa. Esto es útil en productos cosméticos y farmacéuticos, ya que ayuda a que las fórmulas se adhieran mejor a la piel o se mantengan estables.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Punto de congelación. -</b> La glicerina tiene un punto de congelación relativamente bajo, aproximadamente -38.8°C, lo que le permite mantenerse líquida a temperaturas más bajas que el agua.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Viscosidad. -</b> Tiene una alta Viscosidad, lo que le da una consistencia espesa. Esto es útil en productos cosméticos y farmacéuticos, ya que ayuda a que las fórmulas se adhieran mejor a la piel o se mantengan estables.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Punto de congelación. -</b> La <b>Glicerina</b> tiene un punto de congelación relativamente bajo, aproximadamente -38.8°C, lo que le permite mantenerse líquida a temperaturas más bajas que el agua.</p>
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Punto de ebullición. -</b> Su punto de ebullición es de 290°C, lo que la hace estable a altas temperaturas sin descomponerse.</p>
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Densidad. -</b> Su densidad es de aproximadamente 1.26 g/cm³ a 20°C, lo que la hace más densa que el agua.</p>
 
         <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Propiedades Químicas</b></h2>
 
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Higroscopicidad. -</b> La glicerina es muy higroscópica, lo que significa que tiene la capacidad de atraer y retener la humedad del ambiente. Esto la convierte en un excelente humectante para productos cosméticos y farmacéuticos.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Propiedades antibacterianas. -</b> Aunque no es un antiséptico fuerte, la glicerina tiene propiedades bacteriostáticas, lo que significa que puede inhibir el crecimiento de algunas bacterias en concentraciones altas.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Estabilidad química. -</b> Es bastante estable y no se descompone fácilmente bajo condiciones normales. Sin embargo, cuando se mezcla con algunos reactivos, como ciertos ácidos fuertes, puede descomponerse en glicerina y otros compuestos, como el dióxido de carbono.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Reactividad. -</b> La glicerina es un alcohol trihidroxilado, lo que significa que puede formar enlaces de hidrógeno con otras moléculas, aumentando su capacidad para disolver o interaccionar con otras sustancias polares.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Formación de ésteres. -</b> La glicerina puede reaccionar con ácidos grasos para formar ésteres, conocidos como triglicéridos, que son una forma común de almacenamiento de energía en los seres vivos.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Higroscopicidad. -</b> La <b>Glicerina</b> es muy higroscópica, lo que significa que tiene la capacidad de atraer y retener la humedad del ambiente. Esto la convierte en un excelente humectante para productos cosméticos y farmacéuticos.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Propiedades antibacterianas. -</b> Aunque no es un antiséptico fuerte, la <b>Glicerina</b> tiene propiedades bacteriostáticas, lo que significa que puede inhibir el crecimiento de algunas bacterias en concentraciones altas.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Estabilidad química. -</b> Es bastante estable y no se descompone fácilmente bajo condiciones normales. Sin embargo, cuando se mezcla con algunos reactivos, como ciertos ácidos fuertes, puede descomponerse en <b>Glicerina</b> y otros compuestos, como el dióxido de carbono.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Reactividad. -</b> La <b>Glicerina</b> es un alcohol trihidroxilado, lo que significa que puede formar enlaces de hidrógeno con otras moléculas, aumentando su capacidad para disolver o interaccionar con otras sustancias polares.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Formación de ésteres. -</b> La <b>Glicerina</b> puede reaccionar con ácidos grasos para formar ésteres, conocidos como triglicéridos, que son una forma común de almacenamiento de energía en los seres vivos.</p>
 
         <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Propiedades Biológicas</b></h2>
 
@@ -606,17 +606,17 @@
 
         <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Funciones</b></h2>
 
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Hidratante. -</b> La glicerina es un humectante, lo que significa que tiene la capacidad de atraer agua desde el ambiente hacia la piel. Esto ayuda a mantener la piel hidratada, evitando que se seque. Al aplicar glicerina sobre la piel, esta atrae y retiene la humedad, lo que la mantiene suave y flexible.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Emoliente. -</b> Como emoliente, la glicerina ayuda a suavizar y suavizar la piel, formando una barrera que evita la pérdida de humedad y mejora la textura de la piel. Esto la hace ideal para pieles secas y deshidratadas, ya que proporciona una capa protectora que ayuda a mantener la piel en buen estado.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Retenedor de Humedad.-</b> La Glicerina es eficaz debido a su capacidad para atraer y retener agua en la piel. Este efecto se debe a sus propiedades humectantes, lo que significa que actúa como un imán para el agua.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Hidratante. -</b> La <b>Glicerina</b> es un humectante, lo que significa que tiene la capacidad de atraer agua desde el ambiente hacia la piel. Esto ayuda a mantener la piel hidratada, evitando que se seque. Al aplicar <b>Glicerina</b> sobre la piel, esta atrae y retiene la humedad, lo que la mantiene suave y flexible.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Emoliente. -</b> Como emoliente, la <b>Glicerina</b> ayuda a suavizar y suavizar la piel, formando una barrera que evita la pérdida de humedad y mejora la textura de la piel. Esto la hace ideal para pieles secas y deshidratadas, ya que proporciona una capa protectora que ayuda a mantener la piel en buen estado.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Retenedor de Humedad.-</b> La <b>Glicerina</b> es eficaz debido a su capacidad para atraer y retener agua en la piel. Este efecto se debe a sus propiedades humectantes, lo que significa que actúa como un imán para el agua.</p>
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Texturizantes. -</b> mejora la consistencia y la suavidad de las formulaciones</p>
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Excipiente</b></p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Vehículo. -</b La glicerina actúa como una sustancia que facilita la disolución, diseminación o transporte de otros ingredientes activos en una formulación, debido a su capacidad para disolver muchas sustancias solubles en agua y su naturaleza no tóxica.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Laxante. -</b> La glicerina también se utiliza como laxante en algunos tratamientos para aliviar el estreñimiento. Su uso como laxante se debe principalmente a sus propiedades osmóticas y su capacidad para lubricar el tracto intestinal.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Humectante. -</b> La glicerina es un excelente humectante, lo que significa que tiene la capacidad de atraer y retener la humedad. Esto se debe a que es higroscópica, lo que significa que puede atraer agua del ambiente y retenerla en la piel, evitando la deshidratación.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Estabilizante. -</b> La glicerina también actúa como estabilizante en diversas formulaciones, principalmente en productos cosméticos y farmacéuticos. Su capacidad para retener agua y evitar que otros ingredientes se descompongan debido a la exposición a la humedad la convierte en un ingrediente útil en la estabilización de emulsiones y geles.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>En productos alimentarios</b>, la glicerina puede ayudar a prevenir la cristalización del azúcar, como en la producción de jarabes o gomitas, lo que contribuye a mantener una textura suave y estable.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Edulcorante. -</b> Aunque tiene un sabor ligeramente dulce, la glicerina se usa en algunos productos como edulcorante bajo en calorías.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Vehículo. -</b> La <b>Glicerina</b> actúa como una sustancia que facilita la disolución, diseminación o transporte de otros ingredientes activos en una formulación, debido a su capacidad para disolver muchas sustancias solubles en agua y su naturaleza no tóxica.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Laxante. -</b> La <b>Glicerina</b> también se utiliza como laxante en algunos tratamientos para aliviar el estreñimiento. Su uso como laxante se debe principalmente a sus propiedades osmóticas y su capacidad para lubricar el tracto intestinal.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Humectante. -</b> La <b>Glicerina</b> es un excelente humectante, lo que significa que tiene la capacidad de atraer y retener la humedad. Esto se debe a que es higroscópica, lo que significa que puede atraer agua del ambiente y retenerla en la piel, evitando la deshidratación.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Estabilizante. -</b> La <b>Glicerina</b> también actúa como estabilizante en diversas formulaciones, principalmente en productos cosméticos y farmacéuticos. Su capacidad para retener agua y evitar que otros ingredientes se descompongan debido a la exposición a la humedad la convierte en un ingrediente útil en la estabilización de emulsiones y geles.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>En productos alimentarios</b>, la <b>Glicerina</b> puede ayudar a prevenir la cristalización del azúcar, como en la producción de jarabes o gomitas, lo que contribuye a mantener una textura suave y estable.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Edulcorante. -</b> Aunque tiene un sabor ligeramente dulce, la <b>Glicerina</b> se usa en algunos productos como edulcorante bajo en calorías.</p>
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Conservante. -</b> Debido a sus propiedades antimicrobianas, se usa para aumentar la vida útil de algunos productos alimenticios.</p>
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Suavizante de tejidos</b></p>
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Aglutinante. -</b> Su capacidad para actuar como aglutinante proviene de sus propiedades físicas y químicas, como su naturaleza viscosa, su capacidad de retener humedad y su compatibilidad con una amplia gama de materiales.</p>
@@ -624,241 +624,216 @@
     </div>
   </div>
 
-  <div class="container" style="margin-top:50px;display:flex;justify-content:center;align-items:center;">
+  <div class="container" style="margin-top:50px;">
     <div class="row">
     
     <div class="col s12 m12 l12 xl12">
     <h2 class="Tipografia--general letranegro Titulos" style="margin-top:0px;"><b>Aplicaciones</b></h2>
     </div>
 
-    <div class="col s12 m6 l6 xl6">
+    <div class="col s12 m12 l12 xl12">
     <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Cosmética y Cuidado Personal:</b></h2>
     <ol>
         <li class="Elementos--Listas">Cremas</li>
-        <br>
         <li class="Elementos--Listas">Lociones</li>
-        <br>
         <li class="Elementos--Listas">Geles</li>
-        <br>
         <li class="Elementos--Listas">Jabones</li>
-        <br>
         <li class="Elementos--Listas">Shampoos</li>
-        <br>
         <li class="Elementos--Listas">Acondicionadores</li>
-        <br>
-        <li class="Elementos--Listas">Mascarillas capilares</li>
-        <br>
+        <li class="Elementos--Listas">Mascarillas Capilares</li>
         <li class="Elementos--Listas">Maquillaje</li>
-        <br>
         <li class="Elementos--Listas">Delineadores</li>
-        <br>
         <li class="Elementos--Listas">Mascarillas</li>
       </ol>
     </div>
-    <div class="col s12 m6 l6 xl6">
+    <!-- <div class="col s12 m6 l6 xl6">
     <img src="img/DELINEADOR.jpg" alt="" width="100%" style="margin-top:10px;border-radius:10px;">
-    </div>
-    </div>
-  </div>
-
-  <div class="container" style="margin-top:50px;display:flex;justify-items:center;align-items:center;">
-    <div class="row">
-      <div class="col s12 m6 l6 xl6">
-      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Farmacéutica:</b></h2>
-      <ol>
-        <li class="Elementos--Listas"><b>Jarabes y suspensiones</b></li>
-        <br>
-        <li class="Elementos--Listas">Supositorios</li>
-        <br>
-        <li class="Elementos--Listas">Ungüentos</li>
-        <br>
-        <li class="Elementos--Listas">Cremas</li>
-      </ol>
-      </div>
-      <div class="col s12 m6 l6 xl6">
-        <img src="img/FARMACEUTICA.jpg" alt="" width="100%" style="border-radius:10px;">
-      </div>
-    </div>
-  </div>
-
-  <div class="container" style="margin-top:50px;display:flex;justify-content:center;align-items:center;">
-  <div class="row">
-    <div class="col s12 m6 l6 xl6">
-    <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Alimentaria | Aditivo Alimentario (E422):</b></h2>
-
-<ol>
-  <li class="Elementos--Listas">Caramelos</li>
-  <br>
-  <li class="Elementos--Listas">Pasteles</li>
-  <br>
-  <li class="Elementos--Listas">Galletas</li>
-  <br>
-  <li class="Elementos--Listas">Helados</li>
-  <br>
-  <li class="Elementos--Listas">Barras nutrimentales</li>
-</ol>
-    </div>
-    <div class="col s12 m6 l6 xl6">
-    <img src="img/BARRA_NUTRIMENTAL.jpg" alt="" width="100%" style="border-radius:10px;">
-    </div>
-  </div>
-  </div>
-
-  <div class="container" style="margin-top:50px;display: flex;justify-content: center;align-items: center;">
-    <div class="row">
-      <div class="col s12 m6 l6 xl6">
-      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Detergentes y Limpiadores:</b></h2>
-        <ol>
-          <li class="Elementos--Listas"><b>Detergentes</b></li>
-          <br>
-          <li class="Elementos--Listas">Limpiadores</li>
-        </ol>
-      </div>
-      <div class="col s12 m6 l6 xl6">
-<img src="img/DETERGENTES.jpg" alt="" width="100%" style="border-radius:10px;">
-      </div>
+    </div> -->
     </div>
   </div>
 
   <div class="container" style="margin-top:50px;">
     <div class="row">
-      <div class="col s12 m6 l6 xl6">
+      <div class="col s12 m12 l12 xl12">
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Farmacéutica:</b></h2>
+      <ol>
+        <li class="Elementos--Listas"><b>Jarabes y suspensiones</b></li>
+        <li class="Elementos--Listas">Supositorios</li>
+        <li class="Elementos--Listas">Ungüentos</li>
+        <li class="Elementos--Listas">Cremas</li>
+      </ol>
+      </div>
+      <!-- <div class="col s12 m6 l6 xl6">
+        <img src="img/FARMACEUTICA.jpg" alt="" width="100%" style="border-radius:10px;">
+      </div> -->
+    </div>
+  </div>
+
+  <div class="container" style="margin-top:50px;">
+  <div class="row">
+    <div class="col s12 m12 l12 xl12">
+    <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Alimentaria | Aditivo Alimentario (E422):</b></h2>
+
+<ol>
+  <li class="Elementos--Listas">Caramelos</li>
+  <li class="Elementos--Listas">Pasteles</li>
+  <li class="Elementos--Listas">Galletas</li>
+  <li class="Elementos--Listas">Helados</li>
+  <li class="Elementos--Listas">Barras Nutrimentales</li>
+</ol>
+    </div>
+    <!-- <div class="col s12 m6 l6 xl6">
+    <img src="img/BARRA_NUTRIMENTAL.jpg" alt="" width="100%" style="border-radius:10px;">
+    </div> -->
+  </div>
+  </div>
+
+  <div class="container" style="margin-top:50px;">
+    <div class="row">
+      <div class="col s12 m12 l12 xl12">
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Detergentes y Limpiadores:</b></h2>
+        <ol>
+          <li class="Elementos--Listas"><b>Detergentes</b></li>
+          <li class="Elementos--Listas">Limpiadores</li>
+        </ol>
+      </div>
+      <!-- <div class="col s12 m6 l6 xl6">
+<img src="img/DETERGENTES.jpg" alt="" width="100%" style="border-radius:10px;">
+      </div> -->
+    </div>
+  </div>
+
+  <div class="container" style="margin-top:50px;">
+    <div class="row">
+      <div class="col s12 m12 l12 xl12">
       <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Quimica:</b></h2>
         <ol>
         <li class="Elementos--Listas">Nitroglicerina</li>
         </ol>
       </div>
-      <div class="col s12 m6 l6 xl6">
+      <!-- <div class="col s12 m6 l6 xl6">
       <img src="img/Quimico.jpg" alt="" width="100%" style="border-radius:10px;margin-top:50px;display:flex;justify-content:center;align-items:center;">
-      </div>
+      </div> -->
     </div>
   </div>
 
-  <div class="container" style="margin-top:50px;display: flex;justify-content: center;align-items: center;">
+  <div class="container" style="margin-top:50px;">
     <div class="row">
-      <div class="col s12 m6 l6 xl6">
+      <div class="col s12 m12 l12 xl12">
       <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Polímeros:</b></h2>
         <ol>
         <li class="Elementos--Listas"><b>Poliuretanos</b></li>
-        <br>
         <li class="Elementos--Listas">Resinas</li>
-        <br>
         <li class="Elementos--Listas">Plásticos</li>
         </ol>
       </div>
-      <div class="col s12 m6 l6 xl6">
+      <!-- <div class="col s12 m6 l6 xl6">
 <img src="img/ESPONJAS.jpg" alt="" width="100%" style="border-radius:10px;">
-      </div>
+      </div> -->
     </div>
   </div>
 
-  <div class="container" style="margin-top:50px;display: flex;justify-content: center;align-items: center;">
+  <div class="container" style="margin-top:50px;">
     <div class="row">
-      <div class="col s12 m6 l6 xl6">
+      <div class="col s12 m12 l12 xl12">
       <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Textil:</b></h2>
         <ol>
           <li class="Elementos--Listas">Ropa o Textiles</li>
-          <br>
           <li class="Elementos--Listas">Tratamiento de Pieles</li>
         </ol>
       </div>
-      <div class="col s12 m6 l6 xl6">
+      <!-- <div class="col s12 m6 l6 xl6">
 <img src="img/TEXTILES.jpg" alt="" width="100%" style="border-radius:10px;">
-      </div>
+      </div> -->
     </div>
   </div>
 
-  <div class="container" style="margin-top:50px;margin-top:50px;display:flex;justify-content:center;align-items:center;">
+  <div class="container" style="margin-top:50px;margin-top:50px;">
     <div class="row">
-      <div class="col s12 m6 l6 xl6">
+      <div class="col s12 m12 l12 xl12">
       <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Energía:</b></h2>
         <ol>
           <li class="Elementos--Listas">Propilenglicol</li>
         </ol>
       </div>
-      <div class="col s12 m6 l6 xl6">
+      <!-- <div class="col s12 m6 l6 xl6">
 <img src="img/ENERGIA.jpg" alt="" width="100%">
-      </div>
+      </div> -->
     </div>
   </div>
 
-  <div class="container" style="margin-top:50px;display: flex;justify-content: center;align-items: center;">
+  <div class="container" style="margin-top:50px;">
     <div class="row">
-      <div class="col s12 m6 l6 xl6">
+      <div class="col s12 m12 l12 xl12">
       <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Agroquímicos:</b></h2>
         <ol>
           <li class="Elementos--Listas">Conservante de Semillas</li>
-          <br>
           <li class="Elementos--Listas">Pesticidas</li>
-          <br>
           <li class="Elementos--Listas">Fertilizantes</li>
         </ol>
       </div>
-      <div class="col s12 m6 l6 xl6">
+      <!-- <div class="col s12 m6 l6 xl6">
 <img src="img/AGROQUIMICOS.jpg" alt="" width="100%" style="border-radius:10px;">
-      </div>
+      </div> -->
     </div>
   </div>
 
-  <div class="container" style="margin-top:50px;margin-top:50px;display:flex;justify-content:center;align-items:center;">
+  <div class="container" style="margin-top:50px;margin-top:50px;">
     <div class="row">
-      <div class="col s12 m6 l6 xl6">
+      <div class="col s12 m12 l12 xl12">
       <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Pintura:</b></h2>
         <ol>
           <li class="Elementos--Listas">Pinturas</li>
-          <br>
           <li class="Elementos--Listas">Tintes</li>
         </ol>
       </div>
-      <div class="col s12 m6 l6 xl6">
+      <!-- <div class="col s12 m6 l6 xl6">
 <img src="img/PINTURA.jpg" alt="" width="100%">
-      </div>
+      </div> -->
     </div>
   </div>
 
-  <div class="container" style="margin-top:50px;margin-top:50px;display:flex;justify-content:center;align-items:center;">
+  <div class="container" style="margin-top:50px;margin-top:50px;">
     <div class="row">
-      <div class="col s12 m6 l6 xl6">
+      <div class="col s12 m12 l12 xl12">
       <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Industria Automotriz:</b></h2>
         <ol>
         <li class="Elementos--Listas">Lubricantes</li>
-        <br>
         <li class="Elementos--Listas">Fluidos Hidraulicos</li>
         </ol>
       </div>
-      <div class="col s12 m6 l6 xl6">
+      <!-- <div class="col s12 m6 l6 xl6">
 <img src="img/AUTOMOTRIZ.jpg" alt="" width="100%">
-      </div>
+      </div> -->
     </div>
   </div>
 
-  <div class="container" style="margin-top:50px;display: flex;justify-content: center;align-items: center;">
+  <div class="container" style="margin-top:50px;">
     <div class="row">
-      <div class="col s12 m6 l6 xl6">
+      <div class="col s12 m12 l12 xl12">
       <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Minería:</b></h2>
         <ol>
           <li class="Elementos--Listas"><b>Riego de Tierra</b></li>
         </ol>
       </div>
-      <div class="col s12 m6 l6 xl6">
+      <!-- <div class="col s12 m6 l6 xl6">
 <img src="img/MINERIA.jpg" alt="" width="100%" style="border-radius:10px;">
-      </div>
+      </div> -->
     </div>
   </div>
 
-  <div class="container" style="margin-top:50px;display: flex;justify-content: center;align-items: center;">
+  <div class="container" style="margin-top:50px;">
     <div class="row">
-      <div class="col s12 m6 l6 xl6">
+      <div class="col s12 m12 l12 xl12">
       <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Tabaco:</b></h2>
         <ol>
-          <li class="Elementos--Listas">Fabricación de cigarros</li>
-          <br>
-          <li class="Elementos--Listas">Cigarros electrónicos</li>
+          <li class="Elementos--Listas">Fabricación de Cigarros</li>
+          <li class="Elementos--Listas">Cigarros Electrónicos</li>
         </ol>
       </div>
-      <div class="col s12 m6 l6 xl6">
+      <!-- <div class="col s12 m6 l6 xl6">
 <img src="img/TABACO.jpg" alt="" width="100%" style="border-radius:10px;">
-      </div>
+      </div> -->
     </div>
   </div>
         

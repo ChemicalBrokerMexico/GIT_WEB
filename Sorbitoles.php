@@ -9,13 +9,13 @@
   <meta http-equiv="Last-Modified" content="0">
   <meta http-equiv="Cache-Control" content="no-cache, mustrevalidate">
   <meta http-equiv="Pragma" content="no-cache">
-  <link rel="canonical" href="https://chemicalbroker.mx/Sorbitoles.php">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
+  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-    integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="css/History_Line.css">
   <link rel="stylesheet" href="css/jquery.dataTables.min.css">
   <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
@@ -571,15 +571,15 @@
 <div class="row">
   <div class="col s12 m12 l12 xl12">
 
-  <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Sorbitoles.php"><b class="Tipografia--general Subtitulos" style="color:red;">Sorbitoles</b></a></section>
+  <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a href="Products_news.php"><b class="Tipografia--general Subtitulos" style="color:black;">Productos ></b></a><a class="active" href="Sorbitoles.php"><b class="Tipografia--general Subtitulos" style="color:red;">Sorbitoles</b></a></section>
 
-  <h5 class="Tipografia--general letranegro Titulos" style="margin-top:0px;"><b
+  <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b
             style="color:#262137;">Sorbitoles</b></h5>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">El <b style="color: #262137;">sorbitol</b> es un
-          polialcohol, alcohol polihidrico alditol de azúcar, industrialmente se obtiene por reducción mediante
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">El <b style="color: #262137;">Sorbitol</b> es un
+          Polialcohol, Alcohol Polihidrico Alditol de Azúcar, industrialmente se obtiene por reducción mediante
           hidrogenación catalítica del monosacárido más común, “la glucosa”.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">En la naturaleza el <b>sorbitol</b> es uno de los tres
-          glucidos (sacarosa, almidon y sorbitol), principales producidos por la fotosintesis en las hojas adultas de
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">En la naturaleza el <b>Sorbitol</b> es uno de los tres
+          Glucidos (Sacarosa, Almidon y Sorbitol), principales producidos por la fotosintesis en las hojas adultas de
           ciertas plantas de la familia Rosaceae y Plantaginaceae, se ecuentran en cantidades apreciables en algas
           rojas, peras, manzanas, cerezas, duraznos.</p>
   <h5 class="Tipografia--general letranegro General--Cuerpo Titulos" style="margin-top:50px;"><b>Información Técnica Sorbitol</b></h5>
@@ -674,8 +674,8 @@ Pub Chem:
           se utilice también como
           humectante para mantener diversos productos con un grado de humedad apropiado, y como crioprotector en
           productos como el surimi. Puesto que no es reductor, no produce la reacción de maillard, por lo que se utiliza
-          como edulcorante en productos que deben tener un color muy pálido tras su horneado. Los ésteres de ácidos
-          grasos del sorbitol pueden utilizarse como emulsionante en la fabricación de pasteles y dulces para impedir
+          como edulcorante en productos que deben tener un color muy pálido tras su horneado. Los Ésteres de Ácidos
+          Grasos del Sorbitol pueden utilizarse como emulsionante en la fabricación de pasteles y dulces para impedir
           que se separen la fase acuosa y la fase grasa en estos alimentos; el sabor dulce relativo de la
           sacarosa-sorbitol es de 100-60 por lo tanto necesitaremos una cantidad mayor de sorbitol para obtener el mismo
           sabor dulce que el azúcar de mesa. Esto es un inconveniente en productos de repostería, pero una ventaja
@@ -842,12 +842,12 @@ Pub Chem:
             cariogénico y no contribuye a la caries dental"</b></h5>
 
 
-            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">La amplia gama de productos de sorbitol de Cargill
+            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">La amplia gama de productos de Sorbitol de Cargill
           incluye:</p>
 
 
           <ol style="margin-bottom:0px;">
-            <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Polvos de sorbitol con tamaños de partículas que van desde gruesas a muy finas.</li>
+            <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Polvos de Sorbitol con tamaños de partículas que van desde gruesas a muy finas.</li>
             <br>
             <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Jarabes de Sorbitol de baja viscosidad con propiedades de Cristalización y No Cristalización de altas a bajas.</li>
           </ol>
@@ -878,11 +878,8 @@ Pub Chem:
         </ol>
 
         <br>
-
-        <a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
-
-<i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
-
+        <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
 </a>
 
 

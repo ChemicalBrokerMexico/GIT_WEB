@@ -6,16 +6,16 @@
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <title>Chemical Broker | Pasta de Soya del fabricante Cargill </title>
     <meta name="description" content="La pasta de soya es la fuente de proteína mas importante utilizada en la alimentacion humana  y del ganado">
-    <link rel="canonical" href="https://chemicalbroker.mx/Pasta_Soya.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
-    <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-        integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
-    <link rel="stylesheet" href="css/History_Line.css">
-    <link rel="stylesheet" href="css/jquery.dataTables.min.css">
-    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
+  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/History_Line.css">
+  <link rel="stylesheet" href="css/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
     <script src="https://code.jquery.com/jquery-3.5.1.js"
         integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="js/materialize.js" type="text/javascript"></script>
@@ -660,8 +660,8 @@
         <div class="row">
             <div class="col s12 m12 l12 xl12">
                 <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Pasta de Soya</b></h2>
-                <p class="Tipografia--general letranegro General--Cuerpo">La pasta de soya es la fuente de proteína más importante utilizada en la alimentación humana y del
-                    ganado. La pasta de soya es la fuente natural más concentrada de proteína, aminoácidos y energía.
+                <p class="Tipografia--general letranegro General--Cuerpo">La <b>Pasta de Soya</b> es la fuente de proteína más importante utilizada en la alimentación humana y del
+                    ganado. La <b>Pasta de Soya</b> es la fuente natural más concentrada de proteína, aminoácidos y energía.
                     Debido a esto en la actualidad es el ingrediente más utilizado por nutriólogos en la elaboración de
                     alimentos balanceados para cualquier tipo de animal.</p>
 
@@ -671,15 +671,15 @@
 
                     <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;">Más del 90% del frijol de soya producido en el mundo es utilizado en la alimentación y nutrición animal.</li>
                     <br>
-                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;">La utilización de la pasta de soya genera altos beneficios económicos en la producción animal, ya que además de su composición nutricional es altamente palatable y digestible.</li>
+                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;">La utilización de la <b>Pasta de Soya</b> genera altos beneficios económicos en la producción animal, ya que además de su composición nutricional es altamente palatable y digestible.</li>
                     
                   </ol>            
                 </p>
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">
-                    La utilización de la pasta de soya genera altos beneficios económicos en la producción animal, ya
+                    La utilización de la <b>Pasta de Soya</b> genera altos beneficios económicos en la producción animal, ya
                     que además de su composición nutricional es altamente palpable y digestible.</p>
                 <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Especificaciones</b></h2>
-                <p class="Tipografia--general letranegro General--Cuerpo">La pasta de soya es un polvo granular de color beige a café claro, es una buena fuente de proteína derivada de la extracción de aceite del grano de soya y su posterior molienda. La pasta de soya está sujeta a un proceso de extracción con solvente utilizando hexano para extraer el aceite. Después de la extracción la pasta es secada y molida para producir el producto final.</p>
+                <p class="Tipografia--general letranegro General--Cuerpo">La <b>Pasta de Soya</b> es un polvo granular de color beige a café claro, es una buena fuente de proteína derivada de la extracción de aceite del grano de soya y su posterior molienda. La <b>Pasta de Soya</b> está sujeta a un proceso de extracción con solvente utilizando hexano para extraer el aceite. Después de la extracción la pasta es secada y molida para producir el producto final.</p>
                 <table style="margin-top:50px;border-spacing:2px 5px">
                     <th>
                         <tr>
@@ -786,10 +786,8 @@
                     </ol>
             </div>
 
-            <a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
-
-<i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
-
+            <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
 </a>
 
 

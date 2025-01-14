@@ -325,7 +325,7 @@ $(document).ready(function(){
     
     <div class="row" style="margin-top:150px">
     <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/JARABE_300524.png" alt="" class="zoom IMG_Seccion_Prod">
+    <img src="img/GLICOLES_BANNER_140425.jpg" alt="" class="zoom IMG_Seccion_Prod">
     </div>
     <div class="col s12 m12 l12 xl6 columnas_glicoles  div-textoprod" style="position:relative;">
     <h5 class="Titulos Tipografia--general"><b>Glicoles</b></h5>
@@ -845,7 +845,7 @@ function filtroall(){
     
     <div class="row" style="margin-top:150px">
     <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/JARABE_300524.png" alt="" class="zoom IMG_Seccion_Prod">
+    <img src="img/GLICOLES_BANNER_140425.jpg" alt="" class="zoom IMG_Seccion_Prod">
     </div>
     <div class="col s12 m12 l12 xl6 columnas_glicoles  div-textoprod" style="position:relative;">
     <h5 class="Titulos Tipografia--general"><b>Glicoles</b></h5>
@@ -1402,7 +1402,7 @@ function filtrog(){
     
     <div class="row" style="margin-top:70px">
     <div class="col s12 m12 l12 xl6 center-align" > 
-    <img src="img/JARABE_300524.png" alt="" class="zoom IMG_Seccion_Prod">
+    <img src="img/GLICOLES_BANNER_140425.jpg" alt="" class="zoom IMG_Seccion_Prod">
     </div>
     
     <div class="col s12 m12 l12 xl6 columnas_glicoles div-textoprod" style="position:relative">

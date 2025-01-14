@@ -621,7 +621,7 @@
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Los <b>Ácidos
           Grasos</b> forman parte de los fosfolípidos y
           glucolípidos, moléculas que constituyen la bicapa lipídica de todas las membranas celulares. En los mamíferos,
-          incluido el ser humano, la mayoría de los ácidos grasos se encuentran en forma de triglicéridos, moléculas
+          incluido el ser humano, la mayoría de los Ácidos Grasos se encuentran en forma de triglicéridos, moléculas
           donde los extremos carboxílico (-COOH) de tres ácidos grasos se esterifican con cada uno de los grupos
           hidroxilos (-OH) del glicerol (glicerina, propanotriol); los triglicéridos (grasas) se almacenan en el tejido
           adiposo .</p>

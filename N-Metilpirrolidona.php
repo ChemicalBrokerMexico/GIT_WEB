@@ -6,16 +6,16 @@
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <title>Chemical Broker | N-Metilpirrolidona del fabricante Basf</title>
     <meta name="description" content="La N-metil-2-pirrolidona (NMP) es un disolvente orgánico aprotico, altamente polar, que consta de una lactama de 5 miembros.">
-    <link rel="canonical" href="https://chemicalbroker.mx/N-Metilpirrolidona.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
-    <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-        integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
-    <link rel="stylesheet" href="css/History_Line.css">
-    <link rel="stylesheet" href="css/jquery.dataTables.min.css">
-    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
+  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/History_Line.css">
+  <link rel="stylesheet" href="css/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
     <script src="https://code.jquery.com/jquery-3.5.1.js"
         integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="js/materialize.js" type="text/javascript"></script>
@@ -605,7 +605,7 @@
         <div class="row">
             <div class="col s12 m12 l12 xl12">
 
-            <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="N-Metilpirrolidona.php"><b class="Tipografia--general Subtitulos" style="color:red;">N-Metilpirrolidona</b></a></section>
+            <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="N-Metilpirrolidona.php"><b class="Tipografia--general Subtitulos" style="color:red;">Productos</b></a><a class="active" href="N-Metilpirrolidona.php"><b class="Tipografia--general Subtitulos" style="color:red;">N-Metilpirrolidona</b></a></section>
 
                 <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>N-Metilpirrolidona</b>
                 </h2>
@@ -737,7 +737,7 @@
             <div class="col s12 m12 l12 xl12" style="margin-top:50px;">
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:0px;margin-bottom:0">También
                     pertenece a la clase de disolventes
-                    apróticos dipolares como la dimetilformamida y el dimetilsulfóxido. Se utiliza en las industrias
+                    apróticos dipolares como la <b>Dimetilformamida</b> y el <b>Dimetilsulfóxido</b>. Se utiliza en las industrias
                     petroquímica y de plásticos como solvente, aprovechando su no volatilidad y capacidad para disolver
                     diversos materiales.</p>
 
@@ -916,42 +916,42 @@
 
                 <ol>
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Agentes
-                        de protección de cultivos,</li>
+                        de Protección de Cultivos,</li>
                     <br>
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Agente
-                        extractor,</li>
+                        Extractor,</li>
                     <br>
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">
                         Auxiliares de formulación,</li>
                     <br>
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Síntesis
-                        de péptidos en la industria farmacéutica</li>
+                        de Péptidos en la Industria Farmacéutica</li>
                     <br>
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">
-                        Intermedio de sistensis química,</li>
+                        Intermedio de Sistensis Química,</li>
                     <br>
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">
-                        Intermedio de sistensis química.
+                        Intermedio de Sistensis Química.
                         <ol style="margin-bottom:0px;">
                             <br>
                             <li class="Tipografia--general letranegro Elementos--Listas"
-                                style="list-style-type:circle;">Fluoruro de polivinilideno (PVDF),</li>
+                                style="list-style-type:circle;">Fluoruro de Polivinilideno (PVDF),</li>
                             <br>
                             <li class="Tipografia--general letranegro Elementos--Listas"
                                 style="list-style-type:circle;">Polivinilpirrolidona (PVP),</li>
                             <br>
                             <li class="Tipografia--general letranegro Elementos--Listas"
-                                style="list-style-type:circle;">Poliéster sulfona (PES).</li>
+                                style="list-style-type:circle;">Poliéster Sulfona (PES).</li>
                         </ol>
                 </ol>
                 </li>
 
                 <ol style="margin-bottom:0px;">
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">
-                        Absorción del depurador de gases de productos farmaceuticos,</li>
+                        Absorción del Depurador de Gases de Productos Farmaceuticos,</li>
                     <br>
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">
-                        Producción de baterías de iones de litio,</li>
+                        Producción de Baterías de Iones de Litio,</li>
                     <br>
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">
                         Recubrimientos,</li>
@@ -963,13 +963,13 @@
                         Resinas,</li>
                     <br>
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">
-                        Formulaciones para la protección de cultivos,</li>
+                        Formulaciones para la Protección de Cultivos,</li>
                     <br>
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">
-                        Síntesis de ingredientes activos,</li>
+                        Síntesis de Ingredientes Activos,</li>
                     <br>
                     <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">
-                        Procesos de extracción de aceites.</li>
+                        Procesos de Extracción de Aceites.</li>
                 </ol>
 
                 <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Presentacion:</b></h2>
@@ -1016,10 +1016,8 @@
 
             </div>
 
-            <a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
-
-<i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
-
+            <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
 </a>
 
 

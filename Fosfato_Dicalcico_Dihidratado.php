@@ -419,7 +419,7 @@
 <ul class="slides">
 <li> <img src="img/CB_PANADERIA_150824.jpg" style="height:500px;" alt="Industria Quimica">
 <div class="caption center-align"><br><br><br><br>
-<h1 class="primertitulo"><b>Chemical Broker</b><br></h1>
+<h1 class="primertitulo"><b>Fosfato Dicalcico Dihidratado</b><br></h1>
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
@@ -445,7 +445,7 @@
     <div class="row">
 
     <section><a class="breditem active" href="#" style="color:black !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos" style="color:black;">Productos > </b> </a> <a class="breditem active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Fosfato Dicalcico Dihidratado</b></a></section>
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b>Fosfato Dicálcico Dihidratado</b> es un compuesto químico inorgánico con la fórmula CaHPO4·2H2O. Es un tipo de Fosfato de Calcio que se presenta en forma de cristales blancos o polvo. </p>
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b>Fosfato Dicálcico Dihidratado</b> es un compuesto químico inorgánico con la fórmula CaHPO4·2H2O. Es un tipo de <b>Fosfato de Calcio</b> que se presenta en forma de cristales blancos o polvo. </p>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b>Caracteristicas</b></h5>
 

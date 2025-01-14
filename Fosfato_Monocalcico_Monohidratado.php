@@ -419,11 +419,11 @@
 <ul class="slides">
 <li> <img src="img/SUPLEMENTO_ANIMALES_280824.jpg" style="height:500px;" alt="Industria Quimica">
 <div class="caption center-align"><br><br><br><br>
-<h1 class="primertitulo"><b>Chemical Broker</b><br></h1>
+<h1 class="primertitulo"><b>Fosfato Monosódico Monohidratado</b><br></h1>
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section><a class="active" href="#" style="color:white !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos ">Productos > </b> </a> <a class=" active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Fosfato Monocálcico Monohidratado</b></a></section>
+
 </div>
 </div>
 </div>
@@ -443,7 +443,10 @@
 </div>
 
     <div class="row">
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b style="color:#000020;">Fosfato Monocálcico Monohidratado</b> (MCP, por sus siglas en inglés) es una forma de Fosfato de Calcio con la fórmula química Ca(H₂PO₄)₂·H₂O. Se utiliza ampliamente en diversas aplicaciones debido a sus propiedades químicas y físicas. Aquí hay algunos detalles sobre este compuesto:</p>
+
+    <section><a class="active" href="#" style="color:white !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos ">Productos > </b> </a> <a class=" active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Fosfato Monocálcico Monohidratado</b></a></section>
+
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b style="color:#000020;">Fosfato Monocálcico Monohidratado</b> (MCP, por sus siglas en inglés) es una forma de <b>Fosfato</b> de Calcio con la fórmula química Ca(H₂PO₄)₂·H₂O. Se utiliza ampliamente en diversas aplicaciones debido a sus propiedades químicas y físicas. Aquí hay algunos detalles sobre este compuesto:</p>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Caracteristicas y Propiedades</b></h5>
 
@@ -456,12 +459,12 @@
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h5>
 
-<p class="Tipografia--general letranegro General--Cuerpo">El Fosfato Monocálcico Monohidratado (MCP) tiene una amplia gama de aplicaciones en diferentes industrias debido a sus propiedades químicas y su solubilidad en agua. A continuación, se detallan las principales aplicaciones de este compuesto:</p>
+<p class="Tipografia--general letranegro General--Cuerpo">El <b>Fosfato Monocálcico Monohidratado (MCP)</b> tiene una amplia gama de aplicaciones en diferentes industrias debido a sus propiedades químicas y su solubilidad en agua. A continuación, se detallan las principales aplicaciones de este compuesto:</p>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria</b></h5>
 
 <ol>
-    <li class="Elementos--Listas" style="margin-top:30px;">Agente Leudante: Se utiliza en la producción de productos horneados como panes, pasteles y galletas. En combinación con bicarbonato de sodio, actúa como un agente leudante, liberando dióxido de carbono durante el proceso de cocción, lo que ayuda a que la masa suba y adquiera una textura esponjosa.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Agente Leudante: Se utiliza en la producción de productos horneados como panes, pasteles y galletas. En combinación con Bicarbonato de Sodio, actúa como un agente leudante, liberando Dióxido de Carbono durante el proceso de cocción, lo que ayuda a que la masa suba y adquiera una textura esponjosa.</li>
 </ol>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Nutrición Animal</b></h5>
@@ -473,7 +476,7 @@
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Agricultura</b></h5>
 
 <ol>
-    <li class="Elementos--Listas" style="margin-top:30px;">Fertilizantes: Debido a su alta solubilidad y disponibilidad de fósforo, el MCP se utiliza en la formulación de fertilizantes fosfatados. Proporciona un suministro rápido de fósforo a las plantas, lo cual es crucial para su crecimiento y desarrollo, especialmente en las primeras etapas.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Fertilizantes: Debido a su alta solubilidad y disponibilidad de fósforo, el MCP se utiliza en la formulación de Fertilizantes Fosfatados. Proporciona un suministro rápido de fósforo a las plantas, lo cual es crucial para su crecimiento y desarrollo, especialmente en las primeras etapas.</li>
 </ol>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Detergentes y Productos de Limpieza </b></h5>

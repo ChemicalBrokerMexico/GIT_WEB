@@ -6,16 +6,16 @@
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <title>Chemical Broker | Maltodextrina</title>
     <meta name="description" content="La Maltodextrina es un polímero formado por unidades de D-Glucosa unidad por medio de enlaces glicosídicos α (1-4) y α (1-6). Es un polvo blanco que se obtiene del maíz, arroz, almidón, papa y trigo, es decir almidones que deben cocinarse para posteriormente agregarle ácidos o enzimas">
-    <link rel="canonical" href="https://chemicalbroker.mx/Maltodextrina.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
-    <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-        integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
-    <link rel="stylesheet" href="css/History_Line.css">
-    <link rel="stylesheet" href="css/jquery.dataTables.min.css">
-    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
+  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/History_Line.css">
+  <link rel="stylesheet" href="css/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
     <script src="https://code.jquery.com/jquery-3.5.1.js"
         integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="js/materialize.js" type="text/javascript"></script>
@@ -605,40 +605,47 @@
         <div class="row">
             <div class="col s12 m12 l12 xl12">
 
-            <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Maltodextrina.php"><b class="Tipografia--general Subtitulos" style="color:red;">Maltodextrina</b></a></section>
+            <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Products_News.php"><b class="Tipografia--general Subtitulos" style="color:black;">Productos > </b></a><a class="active" href="Maltodextrina.php"><b class="Tipografia--general Subtitulos" style="color:red;">Maltodextrina</b></a></section>
                 <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Maltodextrina</b></h2>
-                <p class="Tipografia--general letranegro General--Cuerpo">La Maltodextrina es un polímero formado por
+                <p class="Tipografia--general letranegro General--Cuerpo">La <b>Maltodextrina</b> es un polímero formado por
                     unidades de D-Glucosa unidad por medio de enlaces glicosídicos α (1-4) y α (1-6). Es un polvo blanco
                     que se obtiene del maíz, arroz, almidón, papa y trigo, es decir almidones que deben cocinarse para
                     posteriormente agregarle ácidos o enzimas como alfa-amilasa bacteriana termoestable, que lo
                     descompone para obtener un polco balco, soluble en agua y con sabor neutro. </p>
-                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La maltodextrina se
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La <b>Maltodextrina</b> se
                     relaciona con los sólidos del jarabe de maíz y tienen en común que ambos son sometidos a un proceso
                     químico de hidrólisis, en que se añade agua para acelerar la descomposición.</p>
-                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La Maltodextrina
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La <b>Maltodextrina</b>
                     tiene un alto peso molecular el cual es mayor al de otros carbohidratos simples. Su osmolaridad es
                     menor a la de otros carbohidratos simples. </p>
+
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Al tener una
-                    osmolaridad baja, los carbohidratos simples de maltodextrina pasan al intestino y se absorben a una
+                    osmolaridad baja, los carbohidratos simples de <b>Maltodextrina</b> pasan al intestino y se absorben a una
                     velocidad relativamente lenta, por lo que la glucosa que liberan al torrente sanguíneo sirve como
                     fuente de energía.</p>
+
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Normalmente se
                     presenta como un polvo blanco formado por una mezcla de varios oligómeros de glucosa, los cuales
                     contienen de 5 a 10 unidades. </p>
+
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Estas moléculas
                     poliméricas son rápidamente metabolizadas en el organismo humano generando un aumento exponencial de
                     insulina en la corriente sanguínea.</p>
+
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Los Carbohidratos son
                     la principal fuente de energía del organismo, en una dieta saludable deben estar presentes en un 60%
                     para que las proteínas no tengan que dejar de realizar sus funciones específicas, como la
                     construcción de tejidos musculares para la obtención de energía.</p>
-                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La maltodextrina esta
+
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La <b>Maltodextrina</b> esta
                     indicada para practicantes de actividades físicas de fuerza como fisicoculturismo y de resistencia
                     como ciclismo o maratón, ya que proporciona energía.</p>
-                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La maltodextrina como
+
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La <b>Maltodextrina</b> como
                     suplemento deportivo es un tipo de carbohidrato de absorción rápida y es muy utilizado entre los
                     deportistas que practican deportes de fuerza o resistencia.</p>
-                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La maltodextrina se
+
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La <b>Maltodextrina</b> se
                     absorbe rápidamente en el organismo debido a su alto índice glucémico, esto indica la velocidad de
                     entrada de los carbohidratos en sangre, cuanto mayor sea este índice, más rápido entran en la sangre
                     y mayor será la producción de insulina.</p>
@@ -750,11 +757,10 @@
 
             </div>
 
-            <a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
-
-<i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
-
+            <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
 </a>
+  
 
 
         </div>

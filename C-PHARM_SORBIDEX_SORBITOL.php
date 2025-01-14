@@ -663,15 +663,20 @@
                                                 class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b
                                                 class="Tipografia--general  Subtitulos"> >&nbsp </b></a><a
                                             class=" active" href="Products_news.php" style="margin-left:-2px"><b
-                                                class="Tipografia-general  Subtitulos " style="color:black;">Productos > </b> </a> <a
+                                                class="Tipografia-general  Subtitulos " style="color:black;">Productos > </b> </a>
+                                                <a
+                                            class=" active" href="Sorbitoles.php" style="margin-left:-2px"><b
+                                                class="Tipografia-general  Subtitulos " style="color:black;">Sorbitoles > </b> </a><a
                                             class=" active" href="C-PHARM_SORBIDEX_SORBITOL.php.php"
                                             style="color:red !important;margin-left:-2px"><b
                                                 class="Tipografia-general letranegro Subtitulos breadcrumb"
                                                 style="color:red;">C-Pharm Sorbidex Sorbitol</b></a></section>
+
+
 <h5><b class="Tipografia--general letranegro Titulos" style="border-bottom: 3px solid #00e2f8;color:#262137;">C-PHARM™ SORBIDEX SORBITOL</b></h5>
-<p class="Tipografia--general letranegro General--Cuerpo">El sorbitol se produce mediante la hidrogenación catalítica de D-glucosa y está disponible como un polvo cristalino de flujo libre y como soluciones acuosas.</p>
-<p class="Tipografia--general letranegro General--Cuerpo">Nuestro sorbitol cristalino es un excipiente único para la compresión directa de comprimidos. El sorbitol tiene excelentes propiedades de flujo, lo que garantiza una mezcla uniforme y un peso de tableta constante. Se han desarrollado grados especiales de polvo de sorbitol con respecto a la distribución del tamaño de partículas, las propiedades de flujo y la minimización de la fuerza de compresión necesaria para aplicaciones de compresión directa.</p>
-<p class="Tipografia--general letranegro General--Cuerpo">La dulzura, la no reactividad y la compatibilidad del sorbitol con los ingredientes activos lo convierten en un vehículo ideal en las formulaciones farmacéuticas para mejorar el sabor, el cuerpo y la sensación en la boca.</p>
+<p class="Tipografia--general letranegro General--Cuerpo">El Sorbitol se produce mediante la hidrogenación catalítica de D-glucosa y está disponible como un polvo cristalino de flujo libre y como soluciones acuosas.</p>
+<p class="Tipografia--general letranegro General--Cuerpo">Nuestro Sorbitol cristalino es un excipiente único para la compresión directa de comprimidos. El Sorbitol tiene excelentes propiedades de flujo, lo que garantiza una mezcla uniforme y un peso de tableta constante. Se han desarrollado grados especiales de polvo de sorbitol con respecto a la distribución del tamaño de partículas, las propiedades de flujo y la minimización de la fuerza de compresión necesaria para aplicaciones de compresión directa.</p>
+<p class="Tipografia--general letranegro General--Cuerpo">La dulzura, la no reactividad y la compatibilidad del Sorbitol con los ingredientes activos lo convierten en un vehículo ideal en las formulaciones farmacéuticas para mejorar el sabor, el cuerpo y la sensación en la boca.</p>
 </div>
 
 <div class="col s12 m12 l12 xl12">
