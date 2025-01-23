@@ -441,7 +441,7 @@
 
         <section><a class="breditem active" href="#" style="color:black !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class="breditem active" href="Productos_news.php" style="color:black !important;margin-left:-2px"><b class="Tipografia-general  Subtitulos ">Productos > </b> </a> <a class="breditem active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos ">Fosfatos</b></a></section>
 
-            <h5 class="Tipografia--general letranegro General--Cuerpo" style="background-color:#FF6600;padding:15px;color:white;margin-left:800px;font-size:35px;border-radius:10px"><b>Fosfatos</b></h5>
+            <h5 class="Tipografia--general letranegro General--Cuerpo" style="background-color:#FF6600;padding:10px;color:white;margin-left:800px;font-size:35px;border-radius:10px"><b>Fosfatos</b></h5>
             
             <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Los <b style="color:#FF6600;">Fosfatos</b> se pueden definir como productos químicos versátiles y multifuncionales que se comercializan ampliamente en diversas industrias debido a sus propiedades beneficiosas y aplicaciones variadas.</p>
             <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Los <b style="color:#FF6600;">Fosfatos</b> son un grupo de sustancias químicas que contienen el ion fosfato, PO₄³⁻. Estos compuestos se derivan del ácido fosfórico (H₃PO₄) y se utilizan en una amplia variedad de aplicaciones. A continuación, se ofrece una descripción detallada de los ingredientes y tipos de <b style="color:$FF6600;">Fosfatos</b>, junto con sus usos y funciones:</p>

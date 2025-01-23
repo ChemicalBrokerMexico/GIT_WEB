@@ -678,7 +678,7 @@
     <div class="container" style="margin-top:130px;">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
-            <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Ferrazone.php"><b class="Tipografia--general Subtitulos" style="color:red;">Ferrazone ®</b></a></section>
+            <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Ferrazone.php"><b class="Tipografia--general Subtitulos" style="color:red;">Ferrazone ®</b></a></section>
                 <h5 class="center-align" style="font-size:30px;">“<b style="color:#C00000;">Ferrazone<span style="font-size:20px;">®</span></b> <b
                         style="color:#000066">El hierro más biodisponible contra la anemia”</b></h5>
             </div>

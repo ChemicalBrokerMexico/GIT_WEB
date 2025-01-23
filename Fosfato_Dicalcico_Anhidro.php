@@ -417,9 +417,9 @@
 <div class="row">
 <div class="slider slider-prueba">
 <ul class="slides">
-<li> <img src="img/CB_CEREALES_150824.jpg" style="height:500px;" alt="Industria Quimica">
+<li> <img src="img/CB_CEREALES_150824.jpg" style="height:500px;filter: brightness();" alt="Industria Quimica">
 <div class="caption center-align"><br><br><br><br>
-<h1 class="primertitulo"><b>Chemical Broker</b><br></h1>
+<h1 class="primertitulo"><b>Fosfato Dicálcico Anhidro</b><br></h1>
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
@@ -436,38 +436,34 @@
 
 <div class="container" style="margin-top:150px;">
 
-<div class="row" style="margin-left:1000px;">
-  <div class="col s12 m12 l12 xl12" style="background-color:orange;width:100%;">
-  <p class="Titulos General--Cuerpo" style="color:white;text-align: right;"><b>Fosfato Dicalcico Anhidro</b></p>
-  </div>
-</div>
 
     <div class="row">
 
     <section><a class="active" href="#" style="color:black !important"><b class="Tipografia--general  Subtitulos">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos" style="color:black;">Productos > </b> </a> <a class=" active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Fosfato Dicálcico Anhidro</b></a></section>
 
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Fosfato Dicálcico Anhidro</b>, también conocido como <b>Fosfato Dicálcico</b> o DCP (por sus siglas en inglés: <b>Dicalcium Phosphate</b>), es un compuesto inorgánico con la fórmula química CaHPO₄. Es un polvo blanco, inodoro y casi insoluble en agua, pero soluble en ácidos. Es una forma anhidra, lo que significa que no contiene agua en su estructura cristalina.</p>
+    <h5 class="Tipografia--general letranegro General--Cuerpo" style="background-color:#FF6600;padding:10px;color:white;margin-left:649px;font-size:35px;border-radius:10px"><b>Fosfato Dicálcico Anhidro</b></h5>
+
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#FF6600;">Fosfato Dicálcico Anhidro</b>, también conocido como <b style="color:#FF6600;">Fosfato Dicálcico</b> o DCP (por sus siglas en inglés: <b style="color:#FF6600;">Dicalcium Phosphate</b>), es un compuesto inorgánico con la fórmula química CaHPO₄. Es un polvo blanco, inodoro y casi insoluble en agua, pero soluble en ácidos. Es una forma anhidra, lo que significa que no contiene agua en su estructura cristalina.</p>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020">Propiedades fisicas y quimicas</b></h5>
 
       <ol>
-        <li class="Elementos--Listas" style="margin-top:30px;">Fórmula Química: CaHPO<sub>4</sub></li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Peso Molecular: 136.06 g/mol</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Densidad: Aproximadamente 2.92 g/cm</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Punto de Fusión: Se descompone antes de fundirse</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Solubilidad: Prácicamente insoluble en agua (0.02 g/100 mL a 25° C) pero soluble en ácidos diluidos</li>
+        <li class="Elementos--Listas">Fórmula Química: CaHPO<sub>4</sub></li>
+        <li class="Elementos--Listas">Peso Molecular: 136.06 g/mol</li>
+        <li class="Elementos--Listas">Densidad: Aproximadamente 2.92 g/cm</li>
+        <li class="Elementos--Listas">Punto de Fusión: Se descompone antes de fundirse</li>
+        <li class="Elementos--Listas">Solubilidad: Prácicamente insoluble en agua (0.02 g/100 mL a 25° C) pero soluble en ácidos diluidos</li>
       </ol>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h5>
 
-      <p class="Tipografia--general letranegro General--Cuerpo"><b>El Fosfato Dicálcico Anhidro</b> (CaHPO₄) tiene diversas aplicaciones en múltiples industrias debido a sus propiedades químicas y físicas. Aquí se detallan algunas de las principales aplicaciones:</p>
+      <p class="Tipografia--general letranegro General--Cuerpo"><b style="color:#FF6600;">El Fosfato Dicálcico Anhidro</b> (CaHPO₄) tiene diversas aplicaciones en múltiples industrias debido a sus propiedades químicas y físicas. Aquí se detallan algunas de las principales aplicaciones:</p>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria</b></h5>
 
       <ol>
-        <li class="Elementos--Listas" style="margin-top:30px;">Aditivo Alimentario: Utilizado como agente leudante y emulsionante en productos de panadería y cereales.</li>
-        <br>
-        <li class="Elementos--Listas" style="margin-top:30px;">Suplemento Nutricional: Añadido a alimentos para fortificar con calcio y fósforo, esenciales para la salud ósea y dental.</li>
+        <li class="Elementos--Listas">Aditivo Alimentario: Utilizado como agente leudante y emulsionante en productos de panadería y cereales.</li>
+        <li class="Elementos--Listas">Suplemento Nutricional: Añadido a alimentos para fortificar con calcio y fósforo, esenciales para la salud ósea y dental.</li>
       </ol>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Nutrición Animal</b></h5>
@@ -478,8 +474,8 @@
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Farmacéutica</b></h5>
 
       <ol>
-        <li class="Elementos--Listas" style="margin-top:30px;">Excipiente en Tabletas: Utilizado como agente de carga y aglutinante en la fabricación de tabletas farmacéuticas, ayudando a dar forma y estabilidad a las mismas.</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Suplementos Dietéticos: Integrado en suplementos dietéticos de calcio y fósforo.</li>
+        <li class="Elementos--Listas">Excipiente en Tabletas: Utilizado como agente de carga y aglutinante en la fabricación de tabletas farmacéuticas, ayudando a dar forma y estabilidad a las mismas.</li>
+        <li class="Elementos--Listas">Suplementos Dietéticos: Integrado en suplementos dietéticos de calcio y fósforo.</li>
       </ol>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Producción de Fertilizantes</b></h5>
@@ -507,7 +503,7 @@
 
       <ol>
         <li class="Elementos--Listas">Industria del Plástico: Empleado como agente de relleno en ciertos plásticos y resinas.</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Purificación de Agua: Utilizado en algunos procesos de tratamiento de agua para precipitar impurezas.</li>
+        <li class="Elementos--Listas">Purificación de Agua: Utilizado en algunos procesos de tratamiento de agua para precipitar impurezas.</li>
 </ol>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:black;margin-top:50px;"><b>Específicaciones</b></h5>

@@ -436,39 +436,37 @@
 
 <div class="container" style="margin-top:150px;">
 
-<div class="row" style="margin-left:950px;">
-  <div class="col s12 m12 l12 xl12" style="background-color:orange;width:100%;">
-  <p class="Titulos General--Cuerpo" style="color:white;text-align: right;"><b>Fosfato Dicalcico Dihidratado</b></p>
-  </div>
-</div>
+
 
     <div class="row">
 
     <section><a class="breditem active" href="#" style="color:black !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos" style="color:black;">Productos > </b> </a> <a class="breditem active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Fosfato Dicalcico Dihidratado</b></a></section>
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b>Fosfato Dicálcico Dihidratado</b> es un compuesto químico inorgánico con la fórmula CaHPO4·2H2O. Es un tipo de <b>Fosfato de Calcio</b> que se presenta en forma de cristales blancos o polvo. </p>
+
+    <h5 class="Tipografia--general letranegro General--Cuerpo" style="background-color:#FF6600;padding:10px;color:white;margin-left:649px;font-size:35px;border-radius:10px"><b>Fosfato Monocálcico Monohidratado</b></h5>
+
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b style="color:#FF6600;">Fosfato Dicálcico Dihidratado</b> es un compuesto químico inorgánico con la fórmula CaHPO4·2H2O. Es un tipo de <b style="color:#FF6600;">Fosfato de Calcio</b> que se presenta en forma de cristales blancos o polvo. </p>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b>Caracteristicas</b></h5>
 
       <ol>
-        <li style="margin-top:30px;" class="Elementos--Listas">Fórmula Química: CaHPO4 2H2O</li>
-        <li style="margin-top:30px;" class="Elementos--Listas">Aspecto: Cristales blancos o polvo</li>
-        <li style="margin-top:30px;" class="Elementos--Listas">Solubilidad: Moderadamente soluble en agua</li>
-        <li style="margin-top:30px;" class="Elementos--Listas">Propiedades físicas: No es higrocospico y tiene una baja solubilidad en acidos diluidos y soluciones salinas</li>
+        <li class="Elementos--Listas">Fórmula Química: CaHPO4 2H2O</li>
+        <li class="Elementos--Listas">Aspecto: Cristales blancos o polvo</li>
+        <li class="Elementos--Listas">Solubilidad: Moderadamente soluble en agua</li>
+        <li class="Elementos--Listas">Propiedades físicas: No es higrocospico y tiene una baja solubilidad en acidos diluidos y soluciones salinas</li>
       </ol>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b>Aplicaciones</b></h5>
 
-      <p class="Tipografia--general letranegro General--Cuerpo">El <b>Fosfato Dicálcico Dihidratado</b> (CaHPO4·2H2O) tiene una amplia gama de aplicaciones en diversas industrias debido a sus propiedades químicas y físicas. A continuación, se detallan sus principales aplicaciones:</p>
+      <p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#FF6600;">Fosfato Dicálcico Dihidratado</b> (CaHPO4·2H2O) tiene una amplia gama de aplicaciones en diversas industrias debido a sus propiedades químicas y físicas. A continuación, se detallan sus principales aplicaciones:</p>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria</b></h5>
 
       <ol>
-        <li class="Elementos--Listas" style="margin-top:30px;">Aditivo Alimentario: Utilizado como agente leudante y emulsionante en productos de panadería y cereales.</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Agente anti aglomerante: Previene la formación de grumos en productos en polvo como leche en polvo y especias.</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Estabilizador: Ayuda a mantener la textura y consistencia de ciertos alimentos.</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Agente de fermentación: Utilizado en la producción de productos horneados para mejorar la textura y volumen.</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Suplemento de calcio y fósforo: Añadido a alimentos y bebidas para enriquecerlos con estos minerales esenciales.</li>
-
+        <li class="Elementos--Listas">Aditivo Alimentario: Utilizado como agente leudante y emulsionante en productos de panadería y cereales.</li>
+        <li class="Elementos--Listas">Agente anti aglomerante: Previene la formación de grumos en productos en polvo como leche en polvo y especias.</li>
+        <li class="Elementos--Listas">Estabilizador: Ayuda a mantener la textura y consistencia de ciertos alimentos.</li>
+        <li class="Elementos--Listas">Agente de fermentación: Utilizado en la producción de productos horneados para mejorar la textura y volumen.</li>
+        <li class="Elementos--Listas">Suplemento de calcio y fósforo: Añadido a alimentos y bebidas para enriquecerlos con estos minerales esenciales.</li>
       </ol>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Nutrición Animal</b></h5>

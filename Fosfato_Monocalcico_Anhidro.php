@@ -432,14 +432,7 @@
 
 <div class="container" style="margin-top:150px;">
 
-<div class="row" style="margin-left:1000px;">
-  <div class="col s12 m12 l12 xl12" style="background-color:orange;width:124%;">
 
- 
-
-  <p class="Titulos General--Cuerpo" style="color:white;text-align: right;"><b>Fosfato Monocálcico Anhidro</b></p>
-  </div>
-</div>
 
 
 
@@ -447,7 +440,9 @@
 
     <section><a class="active" href="#" style="color:black !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos" style="color:black; !important">Productos > </b> </a> <a class=" active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Fosfato Monocálcico Anhidro</b></a></section>
 
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b>Fosfato Monocálcico Anhidro</b> (conocido químicamente como Ca(H₂PO₄)₂) es una forma específica de Fosfato de calcio que se utiliza comúnmente en diversas aplicaciones industriales y alimentarias. A continuación, se detallan algunos aspectos clave sobre este compuesto:</p>
+    <h5 class="Tipografia--general letranegro General--Cuerpo" style="background-color:#FF6600;padding:10px;color:white;margin-left:769px;font-size:35px;border-radius:10px"><b>Fosfato Monocálcico Anhidro</b></h5>
+
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b style="color:#FF6600;">Fosfato Monocálcico Anhidro</b> (conocido químicamente como Ca(H₂PO₄)₂) es una forma específica de Fosfato de calcio que se utiliza comúnmente en diversas aplicaciones industriales y alimentarias. A continuación, se detallan algunos aspectos clave sobre este compuesto:</p>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Propiedades Químicas y Físicas</b></h5>
 
@@ -461,7 +456,7 @@
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Usos y Aplicaciones</b></h5>
 
-<p class="Tipografia--general letranegro General--Cuerpo">El <b>Fosfato Disódico Dodecahidratado</b> tiene diversas aplicaciones en varios campos:</p>
+<p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#FF6600;">Fosfato Disódico Dodecahidratado</b> tiene diversas aplicaciones en varios campos:</p>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria:</b></h5>
 

@@ -436,35 +436,34 @@
 
 <div class="container" style="margin-top:150px;">
 
-<div class="row" style="margin-left:1000px;">
-  <div class="col s12 m12 l12 xl12" style="background-color:orange;width:133%;">
-  <p class="Titulos General--Cuerpo" style="color:white;text-align: right;"><b>Fosfato Monocálcico Monohidratado</b></p>
-  </div>
-</div>
+
 
     <div class="row">
 
-    <section><a class="active" href="#" style="color:white !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos ">Productos > </b> </a> <a class=" active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Fosfato Monocálcico Monohidratado</b></a></section>
+    <section><a class="active" href="#" style="color:black !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos " style="color:black">Productos > </b> </a> <a class=" active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Fosfato Monocálcico Monohidratado</b></a></section>
 
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b style="color:#000020;">Fosfato Monocálcico Monohidratado</b> (MCP, por sus siglas en inglés) es una forma de <b>Fosfato</b> de Calcio con la fórmula química Ca(H₂PO₄)₂·H₂O. Se utiliza ampliamente en diversas aplicaciones debido a sus propiedades químicas y físicas. Aquí hay algunos detalles sobre este compuesto:</p>
+    <h5 class="Tipografia--general letranegro General--Cuerpo" style="background-color:#FF6600;padding:10px;color:white;margin-left:649px;font-size:35px;border-radius:10px"><b>Fosfato Monocálcico Monohidratado</b></h5>
+            
+
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b style="color:#FF6600;">Fosfato Monocálcico Monohidratado</b> (MCP, por sus siglas en inglés) es una forma de <b style="color:#FF6600;">Fosfato</b> de Calcio con la fórmula química Ca(H₂PO₄)₂·H₂O. Se utiliza ampliamente en diversas aplicaciones debido a sus propiedades químicas y físicas. Aquí hay algunos detalles sobre este compuesto:</p>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Caracteristicas y Propiedades</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Fórmula Química: Ca(H₂PO₄)₂·H₂O</li>
     <li class="Elementos--Listas" style="margin-top:30px;">Apariencia: Es un polvo blanco, cristalino y generalmente soluble en agua.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">Hidratación: Contiene una molécula de agua (monohidratado), lo que significa que cada unidad de fosfato monocálcico incluye una molécula de agua en su estructura cristalina.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Hidratación: Contiene una molécula de agua (monohidratado), lo que significa que cada unidad de <b style="color:#FF6600;">Fosfato</b> monocálcico incluye una molécula de agua en su estructura cristalina.</li>
 </ol>
 
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h5>
 
-<p class="Tipografia--general letranegro General--Cuerpo">El <b>Fosfato Monocálcico Monohidratado (MCP)</b> tiene una amplia gama de aplicaciones en diferentes industrias debido a sus propiedades químicas y su solubilidad en agua. A continuación, se detallan las principales aplicaciones de este compuesto:</p>
+<p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#FF6600;">Fosfato Monocálcico Monohidratado (MCP)</b> tiene una amplia gama de aplicaciones en diferentes industrias debido a sus propiedades químicas y su solubilidad en agua. A continuación, se detallan las principales aplicaciones de este compuesto:</p>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria</b></h5>
 
 <ol>
-    <li class="Elementos--Listas" style="margin-top:30px;">Agente Leudante: Se utiliza en la producción de productos horneados como panes, pasteles y galletas. En combinación con Bicarbonato de Sodio, actúa como un agente leudante, liberando Dióxido de Carbono durante el proceso de cocción, lo que ayuda a que la masa suba y adquiera una textura esponjosa.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Agente Leudante: Se utiliza en la producción de productos horneados como panes, pasteles y galletas. En combinación con <b class="arrowblue" style="color:black;"><a href="Bicarbonato_Sodio.php" style="color:black !important">Bicarbonato de Sodio</a></b>, actúa como un agente leudante, liberando Dióxido de Carbono durante el proceso de cocción, lo que ayuda a que la masa suba y adquiera una textura esponjosa.</li>
 </ol>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Nutrición Animal</b></h5>
@@ -476,7 +475,7 @@
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Agricultura</b></h5>
 
 <ol>
-    <li class="Elementos--Listas" style="margin-top:30px;">Fertilizantes: Debido a su alta solubilidad y disponibilidad de fósforo, el MCP se utiliza en la formulación de Fertilizantes Fosfatados. Proporciona un suministro rápido de fósforo a las plantas, lo cual es crucial para su crecimiento y desarrollo, especialmente en las primeras etapas.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Fertilizantes: Debido a su alta solubilidad y disponibilidad de fósforo, el MCP se utiliza en la formulación de <b style="color:#FF6600;">Fertilizantes Fosfatados</b>. Proporciona un suministro rápido de fósforo a las plantas, lo cual es crucial para su crecimiento y desarrollo, especialmente en las primeras etapas.</li>
 </ol>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Detergentes y Productos de Limpieza </b></h5>

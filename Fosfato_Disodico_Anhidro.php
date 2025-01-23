@@ -436,36 +436,34 @@
 
 <div class="container" style="margin-top:150px;">
 
-<div class="row" style="margin-left:1000px;">
-  <div class="col s12 m12 l12 xl12" style="background-color:orange;width:100%;">
-  <p class="Titulos General--Cuerpo" style="color:white;text-align: right;"><b>Fosfato Disódico Anhidro</b></p>
-  </div>
-</div>
+
 
     <div class="row">
 
     <section><a class="active" href="#" style="color:black !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos " style="color:black;">Productos > </b> </a> <a class=" active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Fosfato Disódico Anhidro</b></a></section>
 
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b>Fosfato Disódico Anhidro</b>, también conocido como <b>Fosfato de Disodio</b>, es una sal inorgánica de sodio y Ácido Fosfórico. Se presenta como un polvo blanco o cristales incoloros. Es ampliamente utilizado en la industria alimentaria como aditivo alimentario (E339) con diversas funciones, como regulador de la acidez, agente emulsionante, agente antiaglomerante y estabilizador. También se utiliza en productos farmacéuticos y en aplicaciones industriales, como en la fabricación de detergentes y productos de limpieza. En la industria alimentaria, se emplea principalmente para ajustar el pH y mejorar la textura de los alimentos, así como para aumentar la estabilidad y la vida útil de los productos.
+    <h5 class="Tipografia--general letranegro General--Cuerpo" style="background-color:#FF6600;padding:10px;color:white;margin-left:649px;font-size:35px;border-radius:10px"><b>Fosfato Disódico Anhidro</b></h5>
+
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b style="color:#FF6600;">Fosfato Disódico Anhidro</b>, también conocido como <b style="color:#FF6600;">Fosfato de Disodio</b>, es una sal inorgánica de sodio y Ácido Fosfórico. Se presenta como un polvo blanco o cristales incoloros. Es ampliamente utilizado en la industria alimentaria como aditivo alimentario (E339) con diversas funciones, como regulador de la acidez, agente emulsionante, agente antiaglomerante y estabilizador. También se utiliza en productos farmacéuticos y en aplicaciones industriales, como en la fabricación de detergentes y productos de limpieza. En la industria alimentaria, se emplea principalmente para ajustar el pH y mejorar la textura de los alimentos, así como para aumentar la estabilidad y la vida útil de los productos.
 
 </p>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Propiedades</b></h5>
 
-<p class="Tipografia--general letranegro General--Cuerpo">El <b>Fosfato Disódico Anhidro</b>, como una sal inorgánica, exhibe varias propiedades físicas y químicas importantes que son relevantes para sus diversas aplicaciones. Aquí hay algunas de sus propiedades más destacadas:</p>
+<p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#FF6600;">Fosfato Disódico Anhidro</b>, como una sal inorgánica, exhibe varias propiedades físicas y químicas importantes que son relevantes para sus diversas aplicaciones. Aquí hay algunas de sus propiedades más destacadas:</p>
 
 <ol>
-    <li class="Elementos--Listas" style="margin-top:30px;">Solubilidad: El <b>Fosfato Disódico Anhidro</b> es soluble en agua, lo que significa que puede disolverse fácilmente en este disolvente para formar una solución acuosa. La solubilidad en agua facilita su uso en una variedad de aplicaciones, especialmente en la industria alimentaria y el tratamiento de aguas.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">pH: Como un <b>Fosfato</b>, el <b>Fosfato Disódico Anhidro</b> puede actuar como un regulador de pH. Tiene un carácter básico y puede utilizarse para aumentar el pH de una solución, lo que lo hace útil en el tratamiento de aguas y como aditivo alimentario para ajustar el pH de los alimentos procesados.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">Estabilidad Térmica: El <b>Fosfato Disódico Anhidro</b> es estable a temperaturas moderadas y altas. Esta estabilidad térmica es importante en aplicaciones donde se requiere procesamiento a altas temperaturas, como en la fabricación de alimentos procesados y productos químicos.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">Capacidad de Formación de Complejos: El <b>Fosfato Disódico Anhidro</b> puede formar complejos con iones metálicos, lo que lo hace útil como agente secuestrante de metales en aplicaciones de tratamiento de agua y en la fabricación de detergentes.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">Seguridad: En general, el <b>Fosfato Disódico Anhidro</b> se considera seguro para su uso en las aplicaciones y cantidades recomendadas. Sin embargo, como con cualquier sustancia química, es importante seguir las pautas de seguridad y manejo adecuadas para evitar riesgos para la salud y el medio ambiente.</li>
-    <li class="Elementos--Listas" style="margin-top:30px;">Cristalinidad: En su forma sólida, el <b>Fosfato Disódico Anhidro</b> puede presentarse como un polvo blanco o cristales incoloros, dependiendo de las condiciones de fabricación y almacenamiento.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Solubilidad: El <b style="color:#FF6600;">Fosfato Disódico Anhidro</b> es soluble en agua, lo que significa que puede disolverse fácilmente en este disolvente para formar una solución acuosa. La solubilidad en agua facilita su uso en una variedad de aplicaciones, especialmente en la industria alimentaria y el tratamiento de aguas.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">pH: Como un <b style="color:#FF6600;">Fosfato</b>, el <b style="color:#FF6600;">Fosfato Disódico Anhidro</b> puede actuar como un regulador de pH. Tiene un carácter básico y puede utilizarse para aumentar el pH de una solución, lo que lo hace útil en el tratamiento de aguas y como aditivo alimentario para ajustar el pH de los alimentos procesados.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Estabilidad Térmica: El <b style="color:#FF6600;">Fosfato Disódico Anhidro</b> es estable a temperaturas moderadas y altas. Esta estabilidad térmica es importante en aplicaciones donde se requiere procesamiento a altas temperaturas, como en la fabricación de alimentos procesados y productos químicos.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Capacidad de Formación de Complejos: El <b style="color:#FF6600;">Fosfato Disódico Anhidro</b> puede formar complejos con iones metálicos, lo que lo hace útil como agente secuestrante de metales en aplicaciones de tratamiento de agua y en la fabricación de detergentes.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Seguridad: En general, el <b style="color:#FF6600;">Fosfato Disódico Anhidro</b> se considera seguro para su uso en las aplicaciones y cantidades recomendadas. Sin embargo, como con cualquier sustancia química, es importante seguir las pautas de seguridad y manejo adecuadas para evitar riesgos para la salud y el medio ambiente.</li>
+    <li class="Elementos--Listas" style="margin-top:30px;">Cristalinidad: En su forma sólida, el <b style="color:#FF6600;">Fosfato Disódico Anhidro</b> puede presentarse como un polvo blanco o cristales incoloros, dependiendo de las condiciones de fabricación y almacenamiento.</li>
 </ol>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h5>
 
-<p class="Tipografia--general letranegro General--Cuerpo">El <b>Fosfato Disódico Anhidro</b>, también conocido como <b>Fosfato de Disodio</b>, tiene una amplia variedad de aplicaciones en varias industrias debido a sus propiedades como agente regulador de pH, emulsionante, antiaglomerante y estabilizador. Aquí hay algunas de sus aplicaciones más comunes:</p>
+<p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#FF6600;">Fosfato Disódico Anhidro</b>, también conocido como <b style="color:#FF6600">Fosfato de Disodio</b>, tiene una amplia variedad de aplicaciones en varias industrias debido a sus propiedades como agente regulador de pH, emulsionante, antiaglomerante y estabilizador. Aquí hay algunas de sus aplicaciones más comunes:</p>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria:</b></h5>
 

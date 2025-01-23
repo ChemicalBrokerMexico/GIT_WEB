@@ -436,17 +436,15 @@
 
 <div class="container" style="margin-top:150px;">
 
-<div class="row" style="margin-left:1000px;">
-  <div class="col s12 m12 l12 xl12" style="background-color:orange;width:100%;">
-  <p class="Titulos General--Cuerpo" style="color:white;text-align: right;"><b>Pirofosfato Tetrasodico Anhidro</b></p>
-  </div>
-</div>
+
 
     <div class="row">
 
     <section><a class="active" href="#" style="color:black !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos " style="color:black;">Productos > </b> </a> <a class=" active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Pirofosfato Tetrasodico Anhidro</b></a></section>
 
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b>Pirofosfato ácido de sodio</b>, también conocido como <b>Pirofosfato de Disodio</b>, es un compuesto químico inorgánico con la fórmula Na₂H₂P₂O₇. Este compuesto se utiliza en una amplia variedad de aplicaciones debido a sus propiedades químicas específicas.</p>
+    <h5 class="Tipografia--general letranegro General--Cuerpo" style="background-color:#FF6600;padding:10px;color:white;margin-left:649px;font-size:35px;border-radius:10px"><b>Pirofosfato Tetrasodico Anhidro</b></h5>
+
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b style="color:#FF6600;">Pirofosfato ácido de sodio</b>, también conocido como <b style="color:#FF6600;">Pirofosfato de Disodio</b>, es un compuesto químico inorgánico con la fórmula Na₂H₂P₂O₇. Este compuesto se utiliza en una amplia variedad de aplicaciones debido a sus propiedades químicas específicas.</p>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020">Propiedades Químicas</b></h5>
 
@@ -463,14 +461,14 @@
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h5>
 
 
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b>Pirofosfato Tetrasódico Anhidro (Na4P2O7)</b> es un compuesto químico inorgánico con diversas aplicaciones en diferentes industrias debido a sus propiedades únicas. </p>
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b style="color:#FF6600;">Pirofosfato Tetrasódico Anhidro (Na4P2O7)</b> es un compuesto químico inorgánico con diversas aplicaciones en diferentes industrias debido a sus propiedades únicas. </p>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria:</b></h5>
 
       <ol>
-        <li class="Elementos--Listas" style="margin-top:30px;">Agente Leudante: Utilizado en productos de panadería para mejorar la textura y el volumen de los productos horneados.</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Agente Secuestrante: Ayuda a estabilizar los iones metálicos presentes en los alimentos, lo que previene la decoloración y mejora la calidad del producto.</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Aditivo Alimentario: Empleado en productos cárnicos, lácteos y mariscos para mejorar su textura y prolongar su vida útil. También se utiliza en la producción de queso, donde ayuda a controlar el pH y mejorar la fusión.</li>
+        <li class="Elementos--Listas">Agente Leudante: Utilizado en productos de panadería para mejorar la textura y el volumen de los productos horneados.</li>
+        <li class="Elementos--Listas">Agente Secuestrante: Ayuda a estabilizar los iones metálicos presentes en los alimentos, lo que previene la decoloración y mejora la calidad del producto.</li>
+        <li class="Elementos--Listas">Aditivo Alimentario: Empleado en productos cárnicos, lácteos y mariscos para mejorar su textura y prolongar su vida útil. También se utiliza en la producción de queso, donde ayuda a controlar el pH y mejorar la fusión.</li>
        
       </ol>
 
@@ -478,16 +476,16 @@
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Detergentes y Productos de Limpieza:</b></h5>
 
       <ol>
-        <li class="Elementos--Listas" style="margin-top:30px;">Ablandador de Agua: Mejora la eficacia de los surfactantes en detergentes para ropa y productos de limpieza industriales al ablandar el agua dura.</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Agente de Limpieza: Utilizado en formulaciones de detergentes para aumentar su capacidad de limpieza y mejorar la remoción de manchas y suciedad.</li>
+        <li class="Elementos--Listas">Ablandador de Agua: Mejora la eficacia de los surfactantes en detergentes para ropa y productos de limpieza industriales al ablandar el agua dura.</li>
+        <li class="Elementos--Listas">Agente de Limpieza: Utilizado en formulaciones de detergentes para aumentar su capacidad de limpieza y mejorar la remoción de manchas y suciedad.</li>
       </ol>
     
       
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Tratamiento de Aguas</b></h5>
 
       <ol>
-        <li class="Elementos--Listas" style="margin-top:30px;">Control de Corrosión y Precipitación: Empleado en sistemas de tratamiento de aguas para prevenir la formación de incrustaciones y controlar la corrosión en las tuberías y otros equipos.</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Control de Corrosión y Precipitación: Empleado en sistemas de tratamiento de aguas para prevenir la formación de incrustaciones y controlar la corrosión en las tuberías y otros equipos.</li>
+        <li >Control de Corrosión y Precipitación: Empleado en sistemas de tratamiento de aguas para prevenir la formación de incrustaciones y controlar la corrosión en las tuberías y otros equipos.</li>
+        <li >Control de Corrosión y Precipitación: Empleado en sistemas de tratamiento de aguas para prevenir la formación de incrustaciones y controlar la corrosión en las tuberías y otros equipos.</li>
       </ol>
 
          
@@ -506,29 +504,28 @@
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Farmacéutica</b></h5>
 
       <ol>
-        <li class="Elementos--Listas" style="margin-top:30px;">Excipiente: En la formulación de algunos medicamentos, puede actuar como un agente secuestrante o estabilizador.</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Textiles: En la industria textil, se utiliza en ciertos procesos de acabado para mejorar la calidad del tejido.</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Acondicionadores de Suelo: Puede ser utilizado en productos para el tratamiento de suelos, mejorando la disponibilidad de nutrientes y la estructura del suelo.</li>
+        <li class="Elementos--Listas">Excipiente: En la formulación de algunos medicamentos, puede actuar como un agente secuestrante o estabilizador.</li>
+        <li class="Elementos--Listas">Textiles: En la industria textil, se utiliza en ciertos procesos de acabado para mejorar la calidad del tejido.</li>
+        <li class="Elementos--Listas">Acondicionadores de Suelo: Puede ser utilizado en productos para el tratamiento de suelos, mejorando la disponibilidad de nutrientes y la estructura del suelo.</li>
       </ol>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria de la Cerámica</b></h5>
 
       <ol>
-        <li class="Elementos--Listas" style="margin-top:30px;">Aditivo: Utilizado en la producción de cerámicas para mejorar las propiedades del material final, incluyendo la resistencia y la estabilidad.</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Industria del Papel</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Aditivo: Mejora las propiedades del papel, como la resistencia a la humedad y la estabilidad dimensional.</li>
+        <li class="Elementos--Listas">Aditivo: Utilizado en la producción de cerámicas para mejorar las propiedades del material final, incluyendo la resistencia y la estabilidad.</li>
+        <li class="Elementos--Listas">Industria del Papel</li>
+        <li class="Elementos--Listas">Aditivo: Mejora las propiedades del papel, como la resistencia a la humedad y la estabilidad dimensional.</li>
       </ol>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Otros Usos</b></h5>
 
 <ol>
-  <li class="Elementos--Listas" style="margin-top:30px;">Cosméticos y Productos de Cuidado Personal: Empleado en formulaciones de productos cosméticos y de cuidado personal como pastas dentales, donde ayuda a estabilizar la fórmula y mejorar la eficacia del producto./li>
-  <li class="Elementos--Listas" style="margin-top:30px;">Electrochapado: Utilizado en soluciones de electrochapado para mejorar la adherencia y la calidad del recubrimiento metálico.</li>
+  <li class="Elementos--Listas">Cosméticos y Productos de Cuidado Personal: Empleado en formulaciones de productos cosméticos y de cuidado personal como pastas dentales, donde ayuda a estabilizar la fórmula y mejorar la eficacia del producto./li>
+  <li class="Elementos--Listas">Electrochapado: Utilizado en soluciones de electrochapado para mejorar la adherencia y la calidad del recubrimiento metálico.</li>
  
-</ol
+</ol>
     
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:black;"><b>Específicaciones</b>
-  </h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:black;margin-top:50px;"><b>Específicaciones</b></h5>
 
 
   <div style="background-color:#FF6600;">
@@ -538,96 +535,96 @@
 
   <table>
     <tr>
-      <th class="Tipografia--general letranegro General--Cuerpo" style="color:#FF6600">Caracteriticas:</th>
-      <th class="Tipografia--general letranegro General--Cuerpo" style="color:#FF6600">Piro Fosfato Tetra Sódico (TSPP)</th>
+      <th class="Tipografia--general letranegro General--Cuerpo" style="color:#FF6600;text-align:center;"><b>Caracteriticas:</b></th>
+      <th class="Tipografia--general letranegro General--Cuerpo" style="color:#FF6600;text-align:center;"><b>Piro Fosfato Tetra Sódico (TSPP)</b></th>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">Grado:</td>
-      <td class="Tipografia--general letranegro General--Cuerpo">Alimentos</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">Grado:</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;"><b>Alimentos</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">Certificaciones:</td>
-      <td class="Tipografia--general letranegro General--Cuerpo">Kosher | Halal</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">Certificaciones:</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;"><b>Kosher | Halal</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">CAS:</td>
-      <td class="Tipografia--general letranegro General--Cuerpo">7722-88-5</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">CAS:</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;"><b>7722-88-5</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">EINECS:</td>
-      <td class="Tipografia--general letranegro General--Cuerpo">231-767-1</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">EINECS:</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;"><b>231-767-1</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">Formula:</td>
-      <td class="Tipografia--general letranegro General--Cuerpo">Na4P2O7</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">Formula:</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;"><b>Na4P2O7</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">Peso Molecular:</td>
-      <td class="Tipografia--general letranegro General--Cuerpo">265.90</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">Peso Molecular:</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;"><b>265.90</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">Apariencia:</td>
-      <td class="Tipografia--general letranegro General--Cuerpo">Polvo Blanco</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">Apariencia:</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;"><b>Polvo Blanco</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">Ensayo en base seca (%):</td>
-      <td class="Tipografia--general letranegro General--Cuerpo">≥ 95.0</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">Ensayo en base seca (%):</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;"><b>≥ 95.0</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">Sodio:</td>
-      <td class="Tipografia--general letranegro General--Cuerpo">/</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">Sodio:</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;"><b>/</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">Fosfatos:</td>
-      <td class="Tipografia--general letranegro General--Cuerpo">/</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">Fosfatos:</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;"><b>/</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">Solubilidad:</td>
-      <td class="Tipografia--general letranegro General--Cuerpo">/</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">Solubilidad:</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;"><b>/</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">Insoluble en agua (%):</td>
-      <td class="Tipografia--general letranegro General--Cuerpo">≤ 0.2</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">Insoluble en agua (%):</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;"><b>≤ 0.2</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">pH:</td>
-      <td class="Tipografia--general letranegro General--Cuerpo">9.8 – 10.8</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">pH:</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;"><b>9.8 – 10.8</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">Perdida por secado 105° (%):</td>
-      <td class="Tipografia--general letranegro General--Cuerpo">≤ 0.5/td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">Perdida por secado 105° (%):</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;"><b>≤ 0.5</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">Fluoruro, expresado como Flúor (ppm):</td>
-      <td class="Tipografia--general letranegro General--Cuerpo">≤ 10</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">Fluoruro, expresado como Flúor (ppm):</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;"><b>≤ 10</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">Arsénico (As) (ppm):</td>
-      <td class="Tipografia--general letranegro General--Cuerpo">≤ 1</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">Arsénico (As) (ppm):</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;"><b>≤ 1</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">Cadmio (Cd) (ppm):</td>
-      <td class="Tipografia--general letranegro General--Cuerpo">≤ 1</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">Cadmio (Cd) (ppm):</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;"><b>≤ 1</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">Plomo (Pb) (ppm):</td>
-      <td class="Tipografia--general letranegro General--Cuerpo">≤ 1</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">Plomo (Pb) (ppm):</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;"><b>≤ 1</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">Mercurio (ppm):</td>
-      <td class="Tipografia--general letranegro General--Cuerpo">≤ 1</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">Mercurio (ppm):</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;"><b>≤ 1</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">Presentación:</td>
-      <td class="Tipografia--general letranegro General--Cuerpo">Sacos 25 Kg. | Super Sacos 1,000 Kg.</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">Presentación:</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;"><b>Sacos 25 Kg. | Super Sacos 1,000 Kg.</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">Vida de Anaquel:</td>
-      <td class="Tipografia--general letranegro General--Cuerpo">24 meses</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">Vida de Anaquel:</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;"><b>24 meses</b></td>
     </tr>
     <tr>
-      <td class="Tipografia--general letranegro General--Cuerpo">Aplicaciones:</td>
-      <td class="Tipografia--general letranegro General--Cuerpo">- Aditivo alimentario, utilizado como humectantes, emulsionantes en productos cárnicos, carnes y mariscos enlatados, instantáneos fideos de arroz (trigo), diversas leches y lácteos, helados, bebidas de proteínas vegetales, zumos de frutas (verduras) y Bebidas, bebidas de té, etc.</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">Aplicaciones:</td>
+      <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;"><b>- Aditivo alimentario, utilizado como humectantes, emulsionantes en productos cárnicos, carnes y mariscos enlatados, instantáneos fideos de arroz (trigo), diversas leches y lácteos, helados, bebidas de proteínas vegetales, zumos de frutas (verduras) y Bebidas, bebidas de té, etc.</b></td>
     </tr>
   </table>
    

@@ -420,7 +420,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
         <div class="col s12 m12 l12 xl12">
           <h1 class="Tipografia--general letranegro Titulos"><b>Glicoles</b></h1>
 
-          <p class="Tipografia--general letranegro General--Cuerpo">Los <b>Glicoles</b> son una clase de compuestos químicos pertenecientes a los alcoholes. Se caracterizan por tener dos grupos hidroxilo (-OH) en su estructura química. Por esta razón, se les denomina dioles. El Glicol más común es el Etilenglicol (C₂H₆O₂), que se utiliza ampliamente como anticongelante en sistemas de refrigeración y como materia prima en la fabricación de plásticos, como el PET (tereftalato de polietileno).</p>
+          <p class="Tipografia--general letranegro General--Cuerpo">Los <b>Glicoles</b> son una clase de compuestos químicos pertenecientes a los alcoholes. Se caracterizan por tener dos grupos hidroxilo (-OH) en su estructura química. Por esta razón, se les denomina dioles. El <b>Glicol</b> más común es el Etilenglicol (C₂H₆O₂), que se utiliza ampliamente como anticongelante en sistemas de refrigeración y como materia prima en la fabricación de plásticos, como el PET (tereftalato de polietileno).</p>
 
           <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Tipos de Glicoles más comunes:</b></h2>
 
@@ -470,50 +470,50 @@ gtag('config', 'G-SGJQ8FDDJ6');
             <li class="Elementos--Listas">Estado físico: A temperatura ambiente, los glicoles son líquidos viscosos, incoloros e higroscópicos (absorben humedad del ambiente). <br> Ejemplo: Etilenglicol y propilenglicol.</li>
             <li class="Elementos--Listas" style="margin-top:30px;">Solubilidad:
               <ol>
-                <li class="Elementos--Listas">Altamente solubles en agua debido a los enlaces de hidrógeno que pueden formar entre los grupos -OH y las moléculas de agua.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Altamente solubles en agua debido a los enlaces de hidrógeno que pueden formar entre los grupos -OH y las moléculas de agua.</li>
                 <li class="Elementos--Listas">También son miscibles con muchos solventes orgánicos como el alcohol y la acetona.</li>
               </ol>
             </li>
           </ol>
 
           <ol>
-            <li class="Elementos--Listas">Punto de ebullición elevado: Debido a los enlaces de hidrógeno entre las moléculas de glicoles, tienen puntos de ebullición relativamente altos comparados con otros compuestos de masa molecular similar.</li>
+            <li class="Elementos--Listas" style="margin-top:50px;">Punto de ebullición elevado: Debido a los enlaces de hidrógeno entre las moléculas de glicoles, tienen puntos de ebullición relativamente altos comparados con otros compuestos de masa molecular similar.</li>
           </ol>
 
           <ol>
-            <li class="Elementos--Listas">Punto de congelación bajo: Su capacidad de disminuir el punto de congelación del agua los hace ideales para aplicaciones en anticongelantes y refrigerantes.</li>
+            <li class="Elementos--Listas" style="margin-top:50px;">Punto de congelación bajo: Su capacidad de disminuir el punto de congelación del agua los hace ideales para aplicaciones en anticongelantes y refrigerantes.</li>
           </ol>
 
           <ol>
-            <li class="Elementos--Listas"> Viscosidad:
+            <li class="Elementos--Listas" style="margin-top:50px;"> Viscosidad:
               <ol>
-                <li class="Elementos--Listas">Son líquidos viscosos debido a las interacciones intermoleculares que los grupos -OH facilitan.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Son líquidos viscosos debido a las interacciones intermoleculares que los grupos -OH facilitan.</li>
                 <li class="Elementos--Listas">La viscosidad varía según la longitud de la cadena y el tipo de glicol.</li>
               </ol>
             </li>
           </ol>
 
           <ol>
-            <li class="Elementos--Listas"> Toxicidad:
+            <li class="Elementos--Listas" style="margin-top:50px;"> Toxicidad:
               <ol>
-                <li class="Elementos--Listas">Etilenglicol: Altamente tóxico si se ingiere, ya que se metaboliza en compuestos dañinos como el ácido oxálico, que puede causar insuficiencia renal.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Etilenglicol: Altamente tóxico si se ingiere, ya que se metaboliza en compuestos dañinos como el ácido oxálico, que puede causar insuficiencia renal.</li>
                 <li class="Elementos--Listas">Propilenglicol: Considerado seguro en bajas concentraciones; se usa en alimentos, cosméticos y fármacos.</li>
               </ol>
             </li>
           </ol>
 
           <ol>
-            <li class="Elementos--Listas">Inflamabilidad: La mayoría de los glicoles son inflamables en estado puro, pero tienen un punto de inflamación alto, lo que reduce el riesgo de combustión en condiciones normales.</li>
+            <li class="Elementos--Listas" style="margin-top:50px;">Inflamabilidad: La mayoría de los glicoles son inflamables en estado puro, pero tienen un punto de inflamación alto, lo que reduce el riesgo de combustión en condiciones normales.</li>
           </ol>
 
           <ol>
-            <li class="Elementos--Listas">Propiedades anticorrosivas: Se usan como aditivos para prevenir la corrosión en sistemas de refrigeración y calefacción.</li>
+            <li class="Elementos--Listas" style="margin-top:50px;">Propiedades anticorrosivas: Se usan como aditivos para prevenir la corrosión en sistemas de refrigeración y calefacción.</li>
           </ol>
 
           <ol>
-            <li class="Elementos--Listas">Usos específicos:
+            <li class="Elementos--Listas" style="margin-top:50px;">Usos específicos:
               <ol>
-                <li class="Elementos--Listas">Etilenglicol: Anticongelantes, líquidos hidráulicos, y síntesis de polímeros.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Etilenglicol: Anticongelantes, líquidos hidráulicos, y síntesis de polímeros.</li>
                 <li class="Elementos--Listas">Propilenglicol: Cosméticos, alimentos y fármacos (menos tóxico).</li>
                 <li class="Elementos--Listas">Dietilenglicol: Solventes y plastificantes.</li>
               </ol>
@@ -523,8 +523,8 @@ gtag('config', 'G-SGJQ8FDDJ6');
           <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Productos:</b></h2>
 
           <ol>
-            <li class="Elementos--Listas"><a href="Mono_Propilen_Glicol.php" class="arrowblue Elementos--Listas" style="color:black;">Mono Propilen Glicol USP</a></li>
-            <li class="Elementos--Listas"><a href="Di_Propilen_Glicol.php" class="arrowblue Elementos--Listas" style="color:black;">Di Propilen Glicol Grado Fragancia</a></li>
+            <li class="Elementos--Listas"><a href="Mono_Propilen_Glicol.php" class="arrowblue Elementos--Listas" style="color:black;">Mono Propilen Glicol USP...</a></li>
+            <li class="Elementos--Listas"><a href="Di_Propilen_Glicol.php" class="arrowblue Elementos--Listas" style="color:black;">Di Propilen Glicol Grado Fragancia...</a></li>
           </ol>
 
           <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">

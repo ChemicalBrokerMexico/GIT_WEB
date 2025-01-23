@@ -436,27 +436,25 @@
 
 <div class="container" style="margin-top:150px;">
 
-<div class="row" style="margin-left:1000px;">
-  <div class="col s12 m12 l12 xl12" style="background-color:orange;width:126%;">
-  <p class="Titulos General--Cuerpo" style="color:white;text-align: right;"><b>Fosfato Trisodico Dodecahidratado</b></p>
-  </div>
-</div>
+
 
     <div class="row">
 
 
     <section><a class="active" href="#" style="color:black !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos " style="color:black;">Productos > </b> </a> <a class=" active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Fosfato Trisodico Dodecahidratado</b></a></section>
 
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b>Fosfato Trisódico Dodecahidratado</b>, con la fórmula química Na₃PO₄·12H₂O, es un compuesto inorgánico que se presenta como cristales blancos o polvo blanco y es altamente soluble en agua. Es conocido por sus numerosas aplicaciones en distintas industrias gracias a sus propiedades alcalinas y su capacidad para actuar como agente de limpieza, regulador de pH y dispersante.</p>
+    <h5 class="Tipografia--general letranegro General--Cuerpo" style="background-color:#FF6600;padding:10px;color:white;margin-left:649px;font-size:35px;border-radius:10px"><b>Fosfato Trisódico Dodecahidratado</b></h5>
+
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b style="color:#FF6600;">Fosfato Trisódico Dodecahidratado</b>, con la fórmula química Na₃PO₄·12H₂O, es un compuesto inorgánico que se presenta como cristales blancos o polvo blanco y es altamente soluble en agua. Es conocido por sus numerosas aplicaciones en distintas industrias gracias a sus propiedades alcalinas y su capacidad para actuar como agente de limpieza, regulador de pH y dispersante.</p>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020">Propiedades Físicas</b></h5>
 
       <ol>
-        <li class="Elementos--Listas" style="margin-top:30px;">Fórmula química: Na₃PO₄·12H₂O</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Masa molar: 380.14 g/mol (para la forma dodecahidratada)</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Apariencia: Cristales o polvo blanco</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Solubilidad en agua: Alta solubilidad</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">pH de una solución acuosa: Aproximadamente 11-12 (básico)</li>
+        <li class="Elementos--Listas">Fórmula química: Na₃PO₄·12H₂O</li>
+        <li class="Elementos--Listas">Masa molar: 380.14 g/mol (para la forma dodecahidratada)</li>
+        <li class="Elementos--Listas">Apariencia: Cristales o polvo blanco</li>
+        <li class="Elementos--Listas">Solubilidad en agua: Alta solubilidad</li>
+        <li class="Elementos--Listas">pH de una solución acuosa: Aproximadamente 11-12 (básico)</li>
       
       </ol>
 
@@ -464,11 +462,8 @@
 
       <ol>
         <li class="Elementos--Listas">Agente Secuestrante: Capaz de ablandar el agua mediante la precipitación de cationes como calcio y magnesio.</li>
-        <br>
         <li class="Elementos--Listas">Dispersante: Ayuda a dispersar partículas finas en soluciones, previniendo la formación de grumos.</li>
-        <br>
         <li class="Elementos--Listas">Desengrasante: Eficaz para la emulsificación y eliminación de grasas y aceites.</li>
-        <br>
         <li class="Elementos--Listas">Estabilizador de pH: Utilizado para mantener un pH alcalino en soluciones.</li>
       </ol>
 
@@ -480,16 +475,16 @@
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Detergentes y Productos de Limpieza:</b></h5>
 
       <ol>
-        <li class="Elementos--Listas" style="margin-top:30px;">Detergentes Industriales y Domésticos: Utilizado en la formulación de detergentes debido a su capacidad para ablandar el agua y mejorar la eficacia de los agentes limpiadores.</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Desengrasantes: Eficaz en la eliminación de grasas y aceites, haciéndolo útil en la limpieza industrial y de superficies domésticas.</li>
+        <li class="Elementos--Listas">Detergentes Industriales y Domésticos: Utilizado en la formulación de detergentes debido a su capacidad para ablandar el agua y mejorar la eficacia de los agentes limpiadores.</li>
+        <li class="Elementos--Listas">Desengrasantes: Eficaz en la eliminación de grasas y aceites, haciéndolo útil en la limpieza industrial y de superficies domésticas.</li>
       </ol>
     
       
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Tratamiento de Agua:</b></h5>
 
       <ol>
-        <li class="Elementos--Listas" style="margin-top:30px;">Ablandamiento de Agua: Empleado para precipitar iones de calcio y magnesio, reduciendo la dureza del agua.</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Precipitación de Metales Pesados: Utilizado en procesos de tratamiento de aguas residuales para precipitar metales pesados como el plomo y el mercurio.</li>
+        <li class="Elementos--Listas" >Ablandamiento de Agua: Empleado para precipitar iones de calcio y magnesio, reduciendo la dureza del agua.</li>
+        <li class="Elementos--Listas" >Precipitación de Metales Pesados: Utilizado en procesos de tratamiento de aguas residuales para precipitar metales pesados como el plomo y el mercurio.</li>
       </ol>
 
          
@@ -503,8 +498,8 @@
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria de la Cerámica y el Vidrio:</b></h5>
 
       <ol>
-        <li class="Elementos--Listas" style="margin-top:30px;">Defloculante: Utilizado para reducir la viscosidad de las barbotinas en la producción de cerámica, mejorando la trabajabilidad y el acabado del producto final.</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Fabricación de Vidrio: Ayuda en la producción de ciertos tipos de vidrio, mejorando sus propiedades físicas.</li>
+        <li class="Elementos--Listas">Defloculante: Utilizado para reducir la viscosidad de las barbotinas en la producción de cerámica, mejorando la trabajabilidad y el acabado del producto final.</li>
+        <li class="Elementos--Listas">Fabricación de Vidrio: Ayuda en la producción de ciertos tipos de vidrio, mejorando sus propiedades físicas.</li>
       </ol>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Electrónica:</b></h5>
@@ -522,14 +517,14 @@
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Construcción y Materiales:</b></h5>
 
       <ol>
-        <li class="Elementos--Listas" style="margin-top:30px;">•	Aditivo en Morteros y Cementos: Ayuda a controlar la viscosidad y la trabajabilidad de mezclas de mortero y cemento.</li>
+        <li class="Elementos--Listas" style="margin-top:30px;">Aditivo en Morteros y Cementos: Ayuda a controlar la viscosidad y la trabajabilidad de mezclas de mortero y cemento.</li>
       </ol>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones Domésticas:</b></h5>
 
 <ol>
-  <li class="Elementos--Listas" style="margin-top:30px;">Limpieza de Superficies: Utilizado en productos de limpieza para la eliminación de manchas difíciles en cocinas, baños y otras superficies domésticas.</li>
-  <li class="Elementos--Listas" style="margin-top:30px;">Tratamiento de Piscinas: Puede ser utilizado para mantener el pH del agua de piscinas dentro de un rango adecuado, previniendo el crecimiento de algas y bacterias.</li>
+  <li class="Elementos--Listas">Limpieza de Superficies: Utilizado en productos de limpieza para la eliminación de manchas difíciles en cocinas, baños y otras superficies domésticas.</li>
+  <li class="Elementos--Listas">Tratamiento de Piscinas: Puede ser utilizado para mantener el pH del agua de piscinas dentro de un rango adecuado, previniendo el crecimiento de algas y bacterias.</li>
 </ol>
 
 

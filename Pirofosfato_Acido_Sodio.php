@@ -588,12 +588,7 @@
 
   <div class="container" style="margin-top:150px;">
 
-    <div class="row" style="margin-left:1000px;">
-      <div class="col s12 m12 l12 xl12" style="background-color:orange;width:100%;">
-        <p class="Titulos General--Cuerpo" style="color:white;text-align: right;"><b>Pirofosfato Acido de Sodio</b></p>
-      </div>
-    </div>
-
+  
     <div class="row">
 
     <section><a class="active" href="#" style="color:black !important"><b
@@ -605,32 +600,34 @@
                         class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Pirofosfato Acido
                         de Sodio</b></a></section>
 
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b>Pirofosfato Ácido de Sodio</b>,
-        también conocido como <b>Pirofosfato de Disodio</b>, es un compuesto químico inorgánico con la fórmula Na₂H₂P₂O₇. Este
+                        <h5 class="Tipografia--general letranegro General--Cuerpo" style="background-color:#FF6600;padding:10px;color:white;margin-left:649px;font-size:35px;border-radius:10px"><b>Pirofosfato Acido de Sodio</b></h5>
+
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b style="color:#FF6600;">Pirofosfato Ácido de Sodio</b>,
+        también conocido como <b style="color:#FF6600;">Pirofosfato de Disodio</b>, es un compuesto químico inorgánico con la fórmula Na₂H₂P₂O₇. Este
         compuesto se utiliza en una amplia variedad de aplicaciones debido a sus propiedades químicas específicas.</p>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b
           style="color:#000020">Propiedades Químicas</b></h5>
 
       <ol>
-        <li class="Elementos--Listas" style="margin-top:30px;">Fórmula Química: Na₂H₂P₂O₇</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Masa Molar: 221.94 g/mol</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Apariencia: Polvo blanco o cristales.</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Solubilidad: Altamente soluble en agua, pero insoluble en
+        <li class="Elementos--Listas">Fórmula Química: Na₂H₂P₂O₇</li>
+        <li class="Elementos--Listas">Masa Molar: 221.94 g/mol</li>
+        <li class="Elementos--Listas">Apariencia: Polvo blanco o cristales.</li>
+        <li class="Elementos--Listas">Solubilidad: Altamente soluble en agua, pero insoluble en
           alcohol.</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Punto de Fusión: Descompone a temperaturas superiores a
+        <li class="Elementos--Listas">Punto de Fusión: Descompone a temperaturas superiores a
           600 °C sin fundirse propiamente.</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">pH de la Solución Acuosa: Aproximadamente entre 4 y 5, lo
+        <li class="Elementos--Listas">pH de la Solución Acuosa: Aproximadamente entre 4 y 5, lo
           que indica una naturaleza ácida.</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Higroscopicidad: Absorbe humedad del aire.</li>
+        <li class="Elementos--Listas">Higroscopicidad: Absorbe humedad del aire.</li>
       </ol>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b
           style="color:#000020;">Aplicaciones</b></h5>
 
 
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:0px;">El <b>Pirofosfato Ácido de Sodio</b>
-        (Na₂H₂P₂O₇), también conocido como <b>Pirofosfato de Disodio</b>, tiene una amplia gama de aplicaciones debido a sus
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:0px;">El <b style="color:#FF6600;">Pirofosfato Ácido de Sodio</b>
+        (Na₂H₂P₂O₇), también conocido como <b style="color:#FF6600;">Pirofosfato de Disodio</b>, tiene una amplia gama de aplicaciones debido a sus
         propiedades químicas únicas.</p>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b
@@ -738,7 +735,7 @@
       Grado:
       </td>
       <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
-      Alimentos
+      <b>Alimentos</b>
       </td>
     </tr>
     <tr>
@@ -746,7 +743,7 @@
       Certificaciones:
       </td>
       <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
-      Kosher | Halal
+    <b>Kosher | Halal</b>
       </td>
     </tr>
     <tr>
@@ -754,7 +751,7 @@
       CAS:
       </td>
       <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
-      7758-16-9
+    <b>7758-16-9</b>
       </td>
     </tr>
     <tr>
@@ -762,22 +759,22 @@
       EINECS:
       </td>
       <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
-      231-835-0
+    <b>231-835-0</b>
       </td>
     </tr>
     <tr>
       <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       </td>
       <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
-      Formula:
+    Formula:
       </td>
     </tr>
     <tr>
       <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
-      Na2H2P2O7
+      <b>Na2H2P2O7</b>
       </td>
       <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
-      Peso Molecular:
+    Peso Molecular:
       </td>
     </tr>
     <tr>
@@ -785,7 +782,7 @@
       201.97
       </td>
       <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
-      Apariencia:
+    Apariencia:
       </td>
     </tr>
     <tr>
@@ -793,7 +790,7 @@
       Polvo Blanco
       </td>
       <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
-      Contenido (Na2H2P2O7) (%):
+    Contenido (Na2H2P2O7) (%):
       </td>
     </tr>
     <tr>
@@ -801,7 +798,7 @@
       ≥ 95
       </td>
       <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
-      Pentóxido de Fosforo (P2O5):
+    Pentóxido de Fosforo (P2O5):
       </td>
     </tr>
     <tr>
@@ -809,7 +806,7 @@
       63.0 – 64.5
       </td>
       <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
-      pH de la solución al 1%:
+    pH de la solución al 1%:
       </td>
     </tr>
     <tr>
@@ -817,7 +814,7 @@
       3.5 – 5.0
       </td>
       <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
-      Perdida por secado (%):
+    Perdida por secado (%):
       </td>
     </tr>
     <tr>
@@ -825,7 +822,7 @@
       Insoluble en Agua (%):
       </td>
       <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
-      ≤ 0.5
+    ≤ 0.5
       </td>
     </tr>
     <tr>
@@ -833,7 +830,7 @@
       Fluoruro (F) (ppm):
       </td>
       <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
-      ≤ 10
+    ≤ 10
       </td>
     </tr>
     <tr>
@@ -841,7 +838,7 @@
       Metales Pesados (Pb) (ppm):
       </td>
       <td>
-      ≤ 10
+    ≤ 10
       </td>
     </tr>
     <tr>
@@ -849,7 +846,7 @@
       Arsénico (As) (ppm):
       </td>
       <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
-      ≤ 1
+    ≤ 1
       </td>
     </tr>
     <tr>
@@ -857,7 +854,7 @@
       Plomo (ppm):
       </td>
       <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
-      ≤ 1
+    ≤ 1
       </td>
     </tr>
     <tr>
@@ -865,7 +862,7 @@
       Mercurio (ppm):
       </td>
       <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
-      ≤ 1
+    ≤ 1
       </td>
     </tr>
     <tr>
@@ -873,7 +870,7 @@
       Cadmio (ppm):
       </td>
       <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
-      ≤ 1
+    ≤ 1
       </td>
     </tr>
     <tr>
@@ -881,7 +878,7 @@
       Aluminio (ppm):
       </td>
       <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
-      ≤ 200
+    ≤ 200
       </td>
     </tr>
     <tr>
@@ -889,7 +886,7 @@
       Densidad a granel (g/L):
       </td>
       <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
-      800 - 1050
+    800 - 1050
       </td>
     </tr>
     <tr>
@@ -897,7 +894,7 @@
       ROR:
       </td>
       <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
-      15, 28, 40
+    15, 28, 40
       </td>
     </tr>
     <tr>
@@ -905,7 +902,7 @@
       A través de malla 100 (%):
       </td>
       <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
-      ≥ 95
+    ≥ 95
       </td>
     </tr>
     <tr>
@@ -913,7 +910,7 @@
       A través de malla 200 (%):
       </td>
       <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
-      ≥ 85
+    ≥ 85
       </td>
 
       <tr>
@@ -921,11 +918,11 @@
       Presentación:
       </td>
       <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
-      Sacos 25 Kg.
+    Sacos 25 Kg.
       </td>
       <tr>
       <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
-      Vida de Anaquel:
+    Vida de Anaquel:
       </td>
       <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
       24 meses
@@ -935,7 +932,7 @@
       Aplicaciones:
       </td>
       <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center;">
-      - Se utiliza como levadura rápida, agente de retención de humedad, mejorador de calidad para pan, galletas y otros alimentos horneados y carne, producto acuático.
+    - Se utiliza como levadura rápida, agente de retención de humedad, mejorador de calidad para pan, galletas y otros alimentos horneados y carne, producto acuático.
       </td>
     </tr>
   </table>

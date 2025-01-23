@@ -611,14 +611,14 @@
     </div>
 
 
-    <div class="container">
+    <div class="container" style="margin-top:-50px;">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
                 <h1 class="Tipografia--general letranegro General--Cuerpo"><b>Mono Propilenglicol USP</b></h1>
 
                 <p class="Tipografia--general letranegro General--Cuerpo">El <b>Mono Propilenglicol USP</b> (United States Pharmacopeia) es un compuesto químico versátil que se utiliza ampliamente en diversas industrias. Su fórmula química es C₃H₈O₂, y es un líquido incoloro, inodoro y ligeramente viscoso, soluble en agua y en otros solventes polares.</p>
 
-                <h2 class="Tipografia--general letranegro General--Cuerpo">Características</h2>
+                <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Características</b></h2>
 
                 <ol>
                     <li class="Elementos--Listas" style="margin-top:30px"> Propiedades físicas y químicas:
@@ -646,7 +646,7 @@
                 </ol>
 
                 <ol>
-                    <li class="Elementos--Listas"> Propiedades funcionales:
+                    <li class="Elementos--Listas" style="margin-top:50px;"> Propiedades funcionales:
                         <ol>
                             <li class="Elementos--Listas" style="margin-top:30px;">Humectante: Retiene la humedad en alimentos, productos cosméticos y farmacéuticos.</li>
                             <li class="Elementos--Listas">Solvente: Disuelve una amplia gama de sustancias, incluidos sabores, fragancias y principios activos.</li>
@@ -658,7 +658,7 @@
                 </ol>
 
                 <ol>
-                    <li class="Elementos--Listas"> Seguridad:
+                    <li class="Elementos--Listas" style="margin-top:50px;"> Seguridad:
                         <ol>
                             <li class="Elementos--Listas" style="margin-top:30px;">No tóxico: En aplicaciones aprobadas y concentraciones adecuadas, es seguro para uso humano.</li>
                             <li class="Elementos--Listas">Biodegradable: Tiene bajo impacto ambiental cuando se elimina correctamente.</li>
@@ -668,7 +668,7 @@
                 </ol>
 
                 <ol>
-                    <li class="Elementos--Listas"> Compatibilidad:
+                    <li class="Elementos--Listas" style="margin-top:50px;"> Compatibilidad:
                         <ol>
                             <li class="Elementos--Listas" style="margin-top:30px;">Compatible con una amplia gama de ingredientes en alimentos, medicamentos y cosméticos.</li>
                             <li class="Elementos--Listas">Funciona bien junto a la glicerina vegetal y otros disolventes polares.</li>
@@ -676,7 +676,7 @@
                     </li>
                 </ol>
 
-                <h2 class="Tipografia--general letranegro General--Cuerpo">Aplicaciones</h2>
+                <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Aplicaciones</b></h2>
 
                 <ol>
                     <li class="Elementos--Listas"> Industria Alimentaria
@@ -690,14 +690,14 @@
                             </li>
                         </ol>
                         <ol>
-                            <li style="margin-top:30px;" class="Elementos--Listas">Conservante:
+                            <li style="margin-top:50px;" class="Elementos--Listas">Conservante:
                                 <ol>
                                     <li class="Elementos--Listas" style="margin-top:30px;">Ayuda a evitar el crecimiento de microorganismos, prolongando la vida útil de los productos.</li>
                                 </ol>
                             </li>
                         </ol>
                         <ol>
-                            <li class="Elementos--Listas" style="margin-top:30px;">Estabilizador de texturas:
+                            <li class="Elementos--Listas" style="margin-top:50px;">Estabilizador de texturas:
                                 <ol>
                                     <li class="Elementos--Listas" style="margin-top:30px;">Mantiene la textura en helados y otros productos a bajas temperaturas.</li>
                                 </ol>
@@ -707,7 +707,7 @@
                 </ol>
 
                 <ol>
-                    <li class="Elementos--Listas"> Industria Farmacéutica
+                    <li class="Elementos--Listas" style="margin-top:50px;"> Industria Farmacéutica
                         <ol>
                             <li class="Elementos--Listas" style="margin-top:30px;">Excipiente en medicamentos:
                                 <ol>
@@ -734,7 +734,7 @@
                 </ol>
 
                 <ol>
-                    <li class="Elementos--Listas"> Cosmética y Cuidado Personal
+                    <li class="Elementos--Listas" style="margin-top:50px"> Cosmética y Cuidado Personal
                         <ol>
                             <li class="Elementos--Listas" style="margin-top:30px;">Cremas y lociones:
                                 <ol>
@@ -754,7 +754,7 @@
                             </li>
                         </ol>
                         <ol>
-                            <li class="Elementos--Listas" style="margin-top:30px;">Pasta dental y enjuagues bucales:
+                            <li class="Elementos--Listas" style="margin-top:50px;">Pasta dental y enjuagues bucales:
                                 <ol>
                                     <li class="Elementos--Listas" style="margin-top:30px;">Humectante que evita que los productos se sequen.</li>
                                 </ol>
@@ -764,7 +764,7 @@
                 </ol>
 
                 <ol>
-                    <li class="Elementos--Listas">Industria del Vapeo
+                    <li class="Elementos--Listas" style="margin-top:50px">Industria del Vapeo
                         <ol>
                             <li class="Elementos--Listas" style="margin-top:30px;">Líquidos para cigarrillos electrónicos:
                                 <ol>
@@ -776,7 +776,7 @@
                 </ol>
 
                 <ol>
-                    <li class="Elementos--Listas"> Industria Química
+                    <li class="Elementos--Listas" style="margin-top:50px;"> Industria Química
                         <ol>
                             <li class="Elementos--Listas" style="margin-top:30px;">Anticongelantes y fluidos hidráulicos:
                                 <ol>
@@ -785,14 +785,14 @@
                             </li>
                         </ol>
                         <ol>
-                            <li class="Elementos--Listas" style="margin-top:30px;"> Producción de polímeros y resinas:
+                            <li class="Elementos--Listas" style="margin-top:50px;"> Producción de polímeros y resinas:
                                 <ol>
                                     <li class="Elementos--Listas" style="margin-top:30px;">Materia prima en la fabricación de poliésteres y otros plásticos.</li>
                                 </ol>
                             </li>
                         </ol>
                         <ol>
-                            <li class="Elementos--Listas" style="margin-top:30px;">Lubricantes y refrigerantes:
+                            <li class="Elementos--Listas" style="margin-top:50px;">Lubricantes y refrigerantes:
                                 <ol>
                                     <li class="Elementos--Listas" style="margin-top:30px;">Se utiliza en aplicaciones industriales debido a su estabilidad térmica.</li>
                                 </ol>
@@ -802,7 +802,7 @@
                 </ol>
 
                 <ol>
-                    <li class="Elementos--Listas"> Otros Usos
+                    <li class="Elementos--Listas" style="margin-top:50px;"> Otros Usos
                         <ol>
                             <li class="Elementos--Listas" style="margin-top:30px;">Fabricación de humo artificial:</li>
                             <li class="Elementos--Listas">Componente en máquinas de humo para efectos especiales en teatro y cine.</li>
@@ -813,7 +813,7 @@
                 </ol>
 
                 <ol>
-                    <li class="Elementos--Listas"> Productos para animales:
+                    <li class="Elementos--Listas" style="margin-top:50px;"> Productos para animales:
                         <ol>
                             <li class="Elementos--Listas" style="margin-top:30px;">Incluido en algunos suplementos alimenticios y medicamentos veterinarios.</li>
                         </ol>

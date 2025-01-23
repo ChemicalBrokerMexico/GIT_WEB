@@ -585,7 +585,7 @@
     <div class="container-fluid">
         <div class="slider slider-prueba" style="margin-top:0px">
             <ul class="slides slides-pruea">
-                <li> <img src="img/DI_BANNER_PRINCIPAL.jpg" alt="" style="height:400px;opacity:0.8;">
+                <li> <img src="img/DI_BANNER_PRINCIPAL.jpg" alt="" style="height:465px;opacity:0.8;">
                     <div class="caption center-align"><br><br><br><br><br><br>
                       <b class="segundotitulo" style="font-size: 26px;">Di Propilen Glicol Grado Fragancia</b>
                     </div>
@@ -613,7 +613,7 @@
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
-            <p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#808080;">Di Propilen Glicol Grado Fragancia</b> (DPG) es un compuesto químico orgánico que pertenece a la familia de los glicoles. Es un líquido incoloro, inodoro y con una consistencia viscosa. Este compuesto es un derivado del propileno y se obtiene durante la producción del propilenglicol como subproducto.</p>
+            <p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#808080;">Di Propilen Glicol Grado Fragancia</b> (DPG) es un compuesto químico orgánico que pertenece a la familia de los <b>Glicolesa>/b>. Es un líquido incoloro, inodoro y con una consistencia viscosa. Este compuesto es un derivado del propileno y se obtiene durante la producción del propilenglicol como subproducto.</p>
             
             <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#808080;margin-top:50px;"><b>Características Físicas</b></h2>
 

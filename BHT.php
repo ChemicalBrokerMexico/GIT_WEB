@@ -681,10 +681,10 @@
                 
                 
                   <br>
+<!-- 
+                <h5 class="Tipografia--general letranegro General--Cuerpo Titulos"><b>Especificaciones</b></h5> -->
 
-                <h5 class="Tipografia--general letranegro General--Cuerpo Titulos"><b>Especificaciones</b></h5>
-
-                <table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 5px;border:none;display:none">
+                <!-- <table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 5px;border:none;display:none">
 
                 <tr>
                     <td class="Elementos--Listas" style="background-color:#FFCCCC;text-align: center;"><b>Descripción Química:</b></td>
@@ -1009,12 +1009,12 @@
 
 
 
-                </table>
+                </table> -->
 
 
 
 
-                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Comportamiento</b></h5>
+                <h5 class="Tipografia--general letranegro Titulos" style="margin-top:0px;"><b>Comportamiento</b></h5>
 
                 <p class="Tipografia--general letranegro General--Cuerpo">Se comporta como un análogo sintético de la vitamina E, actuando principalmente como un agente de terminación que suprime la autooxidación, un proceso mediante el cual los compuestos orgánicos insaturados (generalmente) son atacados por el oxígeno atmosférico. El <b>BHT</b> detiene esta reacción autocatalítica al convertir los radicales peroxi en hidroperóxidos. Efectúa esta función donando un átomo de hidrógeno:</p>
 

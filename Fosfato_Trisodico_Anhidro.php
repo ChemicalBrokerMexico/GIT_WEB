@@ -419,7 +419,7 @@
 <ul class="slides">
 <li> <img src="img/TRISODICO_ANHIDRO_030924.jpg" style="height:500px;" alt="Industria Quimica">
 <div class="caption center-align"><br><br><br><br>
-<h1 class="primertitulo"><b>Chemical Broker</b><br></h1>
+<h1 class="primertitulo"><b>Fosfato Trisódico Anhidro</b><br></h1>
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
@@ -436,25 +436,23 @@
 
 <div class="container" style="margin-top:150px;">
 
-<div class="row" style="margin-left:1000px;">
-  <div class="col s12 m12 l12 xl12" style="background-color:orange;width:100%;">
-  <p class="Titulos General--Cuerpo" style="color:white;text-align: right;"><b>Fosfato Trisódico Anhidro</b></p>
-  </div>
-</div>
+
 
     <div class="row">
     
     <section><a class="active" href="#" style="color:black !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos " style="color:black;">Productos > </b> </a> <a class=" active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Fosfato Trisódico Anhidro</b></a></section>
 
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b style="color:#000020;">Fosfato Trisódico Anhidro</b> (Na₃PO₄) es un compuesto químico inorgánico que pertenece a la categoría de los fosfatos de sodio. Se presenta como un sólido cristalino blanco, que es altamente soluble en agua y tiene propiedades alcalinas. "Anhidro" significa que el compuesto está en su forma seca, sin agua asociada</p>
+    <h5 class="Tipografia--general letranegro General--Cuerpo" style="background-color:#FF6600;padding:10px;color:white;margin-left:649px;font-size:35px;border-radius:10px"><b>Fosfato Trisódico Anhidro</b></h5>
+
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b style="color:#FF6600;">Fosfato Trisódico Anhidro</b> (Na₃PO₄) es un compuesto químico inorgánico que pertenece a la categoría de los Fosfatos de Sodio. Se presenta como un sólido cristalino blanco, que es altamente soluble en agua y tiene propiedades alcalinas. "Anhidro" significa que el compuesto está en su forma seca, sin agua asociada</p>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020">Características Principales</b></h5>
 
       <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Fórmula Química: Na₃PO₄</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Apariencia: Polvo blanco o cristalino.</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Solubilidad: Alta solubilidad en agua.</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">pH: Soluciones acuosas de fosfato trisódico son fuertemente alcalinas, con un pH típicamente entre 11 y 12.</li>
+        <li class="Elementos--Listas">Apariencia: Polvo blanco o cristalino.</li>
+        <li class="Elementos--Listas">Solubilidad: Alta solubilidad en agua.</li>
+        <li class="Elementos--Listas">pH: Soluciones acuosas de fosfato trisódico son fuertemente alcalinas, con un pH típicamente entre 11 y 12.</li>
       
       </ol>
 
@@ -467,7 +465,6 @@
         <br>
             <ol>
                 <li style="list-style-type:disc;margin-top:30px" class="Elementos--Listas">Con ácidos: Reacciona con ácidos fuertes formando fosfato dihidrógeno de sodio (NaH₂PO₄) o fosfato monosódico (Na₂HPO₄), liberando dióxido de carbono en el proceso.</li>
-                <br>
                 <li style="list-style-type:disc" class="Elementos--Listas">Con bases fuertes: Estable en soluciones fuertemente alcalinas.</li>
             </ol>
         </li>
@@ -485,32 +482,32 @@
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria de Detergentes y Limpieza:</b></h5>
 
       <ol>
-        <li class="Elementos--Listas" style="margin-top:30px;">Detergentes para Ropa: Se utiliza para mejorar la eficacia de los detergentes al ablandar el agua dura, lo que facilita la eliminación de manchas y suciedad.</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Limpiadores Multiusos: En formulaciones de limpiadores industriales y domésticos para eliminar grasa, aceites y suciedad de superficies duras.</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Limpiadores de Metales: En la limpieza y preparación de superficies metálicas antes del pintado o revestimiento, ya que elimina eficientemente aceites y contaminantes.</li>
+        <li class="Elementos--Listas">Detergentes para Ropa: Se utiliza para mejorar la eficacia de los detergentes al ablandar el agua dura, lo que facilita la eliminación de manchas y suciedad.</li>
+        <li class="Elementos--Listas">Limpiadores Multiusos: En formulaciones de limpiadores industriales y domésticos para eliminar grasa, aceites y suciedad de superficies duras.</li>
+        <li class="Elementos--Listas">Limpiadores de Metales: En la limpieza y preparación de superficies metálicas antes del pintado o revestimiento, ya que elimina eficientemente aceites y contaminantes.</li>
       </ol>
     
       
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Tratamiento de Agua:</b></h5>
 
       <ol>
-        <li class="Elementos--Listas" style="margin-top:30px;">Ablandamiento del Agua: Ayuda a prevenir la formación de incrustaciones y corrosión en calderas y sistemas de agua caliente.</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Control de Corrosión: Se utiliza en sistemas de tratamiento de agua para controlar la corrosión en tuberías y equipos.</li>
+        <li class="Elementos--Listas">Ablandamiento del Agua: Ayuda a prevenir la formación de incrustaciones y corrosión en calderas y sistemas de agua caliente.</li>
+        <li class="Elementos--Listas">Control de Corrosión: Se utiliza en sistemas de tratamiento de agua para controlar la corrosión en tuberías y equipos.</li>
       </ol>
 
          
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria:</b></h5>
 
       <ol>
-        <li class="Elementos--Listas" style="margin-top:30px;">Aditivo Alimentario (E339): Utilizado como regulador de acidez, agente emulsificante y estabilizante en productos como quesos procesados, productos horneados y carnes procesadas.</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Acondicionador de Masa: Mejora la textura y volumen de productos horneados.</li>
+        <li class="Elementos--Listas">Aditivo Alimentario (E339): Utilizado como regulador de acidez, agente emulsificante y estabilizante en productos como quesos procesados, productos horneados y carnes procesadas.</li>
+        <li class="Elementos--Listas">Acondicionador de Masa: Mejora la textura y volumen de productos horneados.</li>
       </ol>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria de la Construcción:</b></h5>
 
       <ol>
-        <li class="Elementos--Listas" style="margin-top:30px;">Preparación de Superficies: En la preparación de superficies para mejorar la adherencia de pinturas y revestimientos.</li>
-        <li class="Elementos--Listas" style="margin-top:30px;">Desengrasado: Utilizado para desengrasar y limpiar superficies antes de la aplicación de revestimientos.</li>
+        <li class="Elementos--Listas" >Preparación de Superficies: En la preparación de superficies para mejorar la adherencia de pinturas y revestimientos.</li>
+        <li class="Elementos--Listas" >Desengrasado: Utilizado para desengrasar y limpiar superficies antes de la aplicación de revestimientos.</li>
       </ol>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Textil:</b></h5>
@@ -547,8 +544,8 @@
 <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Otros Usos:</b></h5>
 
 <ol>
-  <li class="Elementos--Listas" style="margin-top:30px;">Desengrasante: Utilizado en la formulación de desengrasantes industriales.</li>
-  <li class="Elementos--Listas" style="margin-top:30px;">Fabricación de Cerámica: Ayuda en la preparación de mezclas cerámicas y en el control del pH durante la producción.</li>
+  <li class="Elementos--Listas">Desengrasante: Utilizado en la formulación de desengrasantes industriales.</li>
+  <li class="Elementos--Listas">Fabricación de Cerámica: Ayuda en la preparación de mezclas cerámicas y en el control del pH durante la producción.</li>
 </ol>
 
 <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Caracteristicas:</b></h5>

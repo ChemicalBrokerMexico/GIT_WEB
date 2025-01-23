@@ -681,7 +681,7 @@
                 
                 <br>
 
-                <h5 class="Tipografia--general letranegro General--Cuerpo Titulos"><b>Especificaciones</b></h5>
+                <!-- <h5 class="Tipografia--general letranegro General--Cuerpo Titulos"><b>Especificaciones</b></h5>
 
 
                 <table class="display" id="table_id2" name="table_id2"
@@ -858,9 +858,9 @@
                             class="table_bha_mobile">273 °C</td>
                     </tr>
 
-                </table>
+                </table> -->
 
-                          <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Funciones</b></h5>
+                          <h5 class="Tipografia--general letranegro Titulos" style="margin-top:0px;"><b>Funciones</b></h5>
 
                           <ol style="margin: top 30px;">
                             <li class="Elementos--Listas" style="margin-top:30px;">Estabilizante</li>
