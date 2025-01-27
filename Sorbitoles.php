@@ -582,7 +582,7 @@
           Glucidos (Sacarosa, Almidon y Sorbitol), principales producidos por la fotosintesis en las hojas adultas de
           ciertas plantas de la familia Rosaceae y Plantaginaceae, se ecuentran en cantidades apreciables en algas
           rojas, peras, manzanas, cerezas, duraznos.</p>
-  <h5 class="Tipografia--general letranegro General--Cuerpo Titulos" style="margin-top:50px;"><b>Información Técnica Sorbitol</b></h5>
+  <!-- <h5 class="Tipografia--general letranegro General--Cuerpo Titulos" style="margin-top:50px;"><b>Información Técnica Sorbitol</b></h5>
 
 
   
@@ -643,7 +643,7 @@ Pub Chem:
 </td>
 </tr>
 
-</table> 
+</table>  -->
 
   </div>
 </div>

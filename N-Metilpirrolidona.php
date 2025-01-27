@@ -615,7 +615,7 @@
                     más comunes.</p>
 
 
-                <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Información Técnica
+                <!-- <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Información Técnica
                         N-Metilpirrolidona</b></h2>
 
                 <table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
@@ -730,7 +730,7 @@
                     </tr>
                     </tr>
 
-                </table>
+                </table> -->
 
             </div>
 

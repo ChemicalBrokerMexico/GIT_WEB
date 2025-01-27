@@ -575,7 +575,7 @@
         
         <br>
 
-        <h5 class="Tipografia--general letranegro General--Cuerpo Titulos"><b>Especificaciones</b></h5>
+        <!-- <h5 class="Tipografia--general letranegro General--Cuerpo Titulos"><b>Especificaciones</b></h5>
 
         <table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
             <tr>
@@ -590,7 +590,7 @@
                 <td style="color:rgba(2 146 238 /99%);background-color:#000020;border:1px solid #f2f2f2;padding:10px;font-size:18px"><b>Estructura de Anillos de 5 y 6 Eslabones de Sorbitano:</b></td>
                 <td style="border:1px solid #f2f2f2;text-align:center;padding:10px;"><img src="img/CB_FORMULA-ESTRUCTURAL_ANILLOS-ESTERES-SORBITAN.png" alt="Estructuras" width="50%"></td>
             </tr>
-        </table>
+        </table> -->
         <div class="col s12 m12 l12 xl12">
         <h5 class="letranegro Tipografia--general Titulos" style="margin-top:50px;margin-bottom:0px;"><b style="color:#000020;">Propiedades</b></h5>
         <p class="letranegro Tipografia--general General--Cuerpo" style="margin-bottom:0px;">Los <b style="color:#0033CC;">Ésteres de Sorbitán</b> son sustancias orgánicas de alto punto de ebullición, cerosos y/o viscosos, que contienen elementos estructurales hidrófilos (afín al agua) y lipófilos (afín a las grasas). Debido a esto son tensioactivos y actúan como emulsionantes. Sirven para la estabilización de las estructuras cristalinas en grasas, como agentes de formación de espuma y mejoran la fluidez de la margarina líquida y otras emulsiones grasas. Los Ésteres de Sorbitano están autorizados en la UE como aditivos alimentarios: E 491, E 492, E 493, E 494 y E 495, y se utilizan en ciertos alimentos, cada uno con un límite máximo fijo.</p>

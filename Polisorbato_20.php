@@ -1,17 +1,16 @@
 <!DOCTYPE html>
 <html>
-
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Bicarbonato de Sodio de Solvay</title>
-  <meta name="description" content="Ofrecemos bicarbonato de sodio de alta pureza, ideal para aplicaciones alimentarias, de limpieza y en diversas industrias. Versátil y efectivo, nuestro producto garantiza resultados óptimos en cada uso. ¡Elige nuestro bicarbonato de sodio para calidad y rendimiento superior en tus procesos!">
-  <link rel="canonical" href="https://chemicalbroker.mx/Bicarbonato_Sodio.php">
+  <title>Chemical Broker | Polisorbato 20</title>
+  <meta name="description" content="Chemical Broker distribuye mundialmente Polisorbatos"> 
+  <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
+    integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
   <link rel="stylesheet" href="css/History_Line.css">
   <link rel="stylesheet" href="css/jquery.dataTables.min.css">
   <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
@@ -75,12 +74,12 @@
                 sitio web, puede almacenar o recuperar información en su navegador, principalmente en forma de cookies.
                 Esta información puede ser sobre usted, sus preferencias o su dispositivo y se utiliza principalmente
                 para hacer que el sitio funcione como espera. Por lo general, la informacion no lo identifica
-                directamente, pero puede brindarle una experiencia web mas personalizada. Debido a que respetamos su
+                directamente, pero puede brindarle una experiencia web más personalizada. Debido a que respetamos su
                 derecho a la privacidad, puede optar por no permitir algunos tipos de cookies. Haga clic en los titulos
                 de las diferentes categorías para obtener más información y cambiar nuestra configuración
                 predeterminada. Sin embargo, bloquear algunos tipos de cookies puede afectar su experiencia en el sitio
                 y los servicios que podemos ofrecer.</p>
-              <p> <a class="Botones Tipografia--general" href="#" style="color:blue;float:left;">Mas información</a></p>
+              <p> <a class="Botones Tipografia--general" href="#" style="color:blue;float:left;">Más información</a></p>
               <div class="row">
                 <div class="col s12 m12 l12 xl12" style="margin-top:16px"><a
                     class="modal-close Tipografia--general Botones" href="#!"
@@ -269,8 +268,7 @@
                             class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                             <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
-                                                          <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                     </p>
                   </ul>
@@ -336,7 +334,7 @@
         <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" <li><a
               class="elemennav-secun Tipografia--general letranegro Subtitulos"
               href="Servicios.php"><b>Servicios</b></a></li>
-              <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i class="material-icons right">arrow_drop_down</i></b></a>
+<li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i class="material-icons right">arrow_drop_down</i></b></a>
 <ul id="dropdown4" class="dropdown-content" tabindex="0">
 <li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Sistema de Gestión Integral</a></li>
 <li tabindex="0"><a href="Marco_Regulatorio.php" class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
@@ -546,11 +544,12 @@
   <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li><img src="img/CB_BICARBONATO_SODIO_271222.jpg" style="height:400px;filter: brightness(0.9);" alt="Historia Ascendente">
+          <li><img src="img/SORBATO_20_BANNER.jpg" style="height:550px;margin-top:-150px;" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Bicarbonato de Sodio</b><br></h1>
+              <h1 class="primertitulo"><b class="boldbanner">Polisorbato 20</b><br></h1>
               <div class="container">
-            </div>
+      
+    </div>
             </div>
           </li>
         </ul>
@@ -558,441 +557,227 @@
     </div>
 
 
-  <div class="container">
+
+
+  <div class="container" style="margin-top:130px;">
     <div class="row">
-      <div class="col s12 m12 l12 xl12" style="margin-top:130px;">
+      <div class="col s12 m12 l12 xl12">
 
-      <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Bicarbonato de Sodio</b></a></section>
+      <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Productos_news.php"><b class="Tipografia--general Subtitulos" style="color:black;">Productos > </b></a><a class="active" href="Glycerins.php"><b class="Tipografia--general Subtitulos" style="color:red;">Polisorbato 20</b></a></section>
 
-        <p class="Tipografia--general General--Cuerpo letranegro" style="margin-bottom:0px;"><b>El Bicarbonato de
-            Sodio</b> es un compuesto sólido cristalino de color blanco soluble en agua, con un ligero sabor alcalino
-          parecido al del Carbonato de Sodio (menos fuerte y más salado) Se puede encontrar como mineral en la
-          naturaleza o se puede producir artificialmente. La forma mineral natural es nahcolita. Es un componente del
-          mineral natrón y se encuentra disuelto en muchos manantiales minerales.</p>
-        <p class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;margin-bottom:0px;">Cuando se expone a un ácido
-          moderadamente fuerte, se descompone produciendo dióxido de carbono y agua, con una característica
-          efervescencia. La reacción es la siguiente:</p>
-        <ol style="margin-bottom:0px;margin-top:50px;">
-          <li style="list-style-type:disc;margin-left:-23px;width:301px;" class="Elementos--Listas"><b>NaHCO<sub>3</sub> + HCl → NaCl +
-            H<sub>2</sub>O + CO<sub>2</sub> (gas)</b></li>
-            <br>
-          <li style="list-style-type:disc;margin-left:-23px;width:301px;" class="Elementos--Listas"><b>NaHCO<sub>3</sub> +
-            CH<sub>3</sub>COOH → NaCH<sub>3</sub>COO + H<sub>2</sub>O + CO<sub>2</sub> (gas)</b></li>
-        </ol>
-        <p class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;margin-bottom:0px;">Su numero E
-          como código de aditivo alimentario es E500.</p>
-        <p class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;margin-bottom:0px;">El prefijo
-          bi en Bicarbonato proviene de un sistema de nomenclatura obsoleto anterior al conocimiento molecular en
-          referencia a los dos equivalentes molares de Dióxido de Carbono (conocido como ácido carbónico en lenguaje
-          químico en la antigüedad) que libera Hidrocarbonato/Bicarbonato de potasio al descomponerse en carbonato de
-          (di)potasio y en óxido de potasio (potasa). Las fórmulas químicas modernas de estos compuestos ahora expresan
-          sus composiciones químicas precisas que se desconocían cuando se acuñó el nombre "Bicarbonato de Potasa".</p>
-
-
-          
-        <br>
-<!-- 
-<h5 class="Tipografia--general letranegro General--Cuerpo Titulos"><b>Especificaciones</b></h5> -->
-
-        <!-- <table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
-
-          <tr class="Tipografia--general General--Cuerpo"
-            style="text-align:center;padding:10px;font-size:15px !important;">
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;text-align: center;"
-              class="Tablas_Bicarsodio_Mobile">
-              <b>Descripción Química:</b>
-            </td>
-          </tr>
-
-          <tr>
-          <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9;text-align: center;"
-              class="Tablas_Bicarsodio_Mobile">Bicarbonato de Sodio</td>
-          </tr>
-
-          <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;text-align: center;"
-              class="Tablas_Bicarsodio_Mobile">
-              <b>IUPAC:</b>
-            </td>
-           
-          </tr>
-
-          <tr>
-          <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9;text-align: center;"
-              class="Tablas_Bicarsodio_Mobile">
-              Hidrogenocarbonato (IV) de Sodio</td>
-          </tr>
-
-
-
-          <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-            <td
-              style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;;text-align: center;"
-              class="Tablas_Bicarsodio_Mobile">
-             <b>Sinónimos:</b>
-            </td>
-          </tr>
-
-
-          <tr>
-          <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9;text-align: center;"
-              class="Tablas_Bicarsodio_Mobile">
-              <ol>
-                <li class="Elementos--Listas" style="list-style-type:disc;margin-left:-20px">Bicarbonato Sódico</li>
-                <li class="Elementos--Listas" style="list-style-type:disc;margin-left:-20px">Hidrogenocarbonato de Sodio</li>
-                <li class="Elementos--Listas" style="list-style-type:disc;margin-left:-20px">Carbonato Acido de Sodio</li>
-                <li class="Elementos--Listas" style="list-style-type:disc;margin-left:-20px">Bicarbonato de Soda</li>
-              </ol>
-            </td>
-          </tr>
-
-
-
-          <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;;text-align: center;"
-              class="Tablas_Bicarsodio_Mobile">
-              <b>Fórmula Estructural:</b>
-            </td>
-           
-          </tr>
-
-
-          <tr>
-          <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9;text-align: center;"
-              class="Tablas_Bicarsodio_Mobile center-align"><img src="img/BICARBONATOS_FORMULA-ESTRUCTURAL.png" alt=""
-                style="width:50%;"></td>
-          </tr>
-
-
-          <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;text-align: center;"
-              class="Tablas_Bicarsodio_Mobile">
-              <b>Fórmula Molecular</b>
-            </td>
-    
-          </tr>
-
-          <tr>
-          <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9;text-align: center;"
-              class="Tablas_Bicarsodio_Mobile">NaHCO<sub>3</sub></td>
-          </tr>
-
-          <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;text-align: center;"
-              class="Tablas_Bicarsodio_Mobile">
-              <b>CAS No.:</b>
-            </td>
-        
-          </tr>
-
-
-          <tr>
-          <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9;text-align: center;"
-              class="Tablas_Bicarsodio_Mobile">144-55-8</td>
-          </tr>
-
-
-          <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;text-align: center;"
-              class="Tablas_Bicarsodio_Mobile">
-              <b>ChEMBI:</b>
-            </td>
-          
-          </tr>
-
-          <tr>
-          <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9;text-align: center;"
-              class="Tablas_Bicarsodio_Mobile">32139</td>
-          </tr>
-
-
-
-          <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;text-align: center;"
-              class="Tablas_Bicarsodio_Mobile">
-              <b>ChEMBL:</b>
-            </td>
-          </tr>
-
-          <tr>
-          <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9;text-align: center;"
-              class="Tablas_Bicarsodio_Mobile">CHEMBL1353</td>
-          </tr>
-
-          
-
-          <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;">
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;text-align: center;"
-              class="Tablas_Bicarsodio_Mobile">
-              <b>ChemSpider:</b>
-            </td>
-       
-          </tr>
-
-
-          <tr>
-          <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9;text-align: center;"
-              class="Tablas_Bicarsodio_Mobile">8609</td>
-          </tr>
-
-          <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;;text-align: center;"
-              class="Tablas_Bicarsodio_Mobile">
-              <b>DrugBank:</b>
-            </td>
-          
-          </tr>
-
-
-
-          <tr>
-          <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9;text-align: center;"
-              class="Tablas_Bicarsodio_Mobile">01390</td>
-          </tr>
-
-          <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;text-align: center;"
-              class="Tablas_Bicarsodio_Mobile">
-              <b>PubChem:</b>
-            </td>
-       
-          </tr>
-
-
-          <tr>
-          <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9;text-align: center;"
-              class="Tablas_Bicarsodio_Mobile">516892</td>
-          </tr>
-
-          <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;text-align: center;"
-              class="Tablas_Bicarsodio_Mobile">
-              <b>UNII:</b>
-            </td>
-           
-          </tr>
-
-
-          <tr>
-          <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9;text-align: center;"
-              class="Tablas_Bicarsodio_Mobile">8MDF5V39QO</td>
-          </tr>
-
-          <tr class="Tipografia--general General--Cuerpo" style="padding:10px;font-size:15px !important;width:150px;">
-            <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#ecc900;color:white;text-align: center;"
-              class="Tablas_Bicarsodio_Mobile">
-              <b>KEGG:</b>
-            </td>
-          
-          </tr>
-
-
-          <tr>
-          <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#d9d9d9;margin-bottom:0px;text-align: center;"
-              class="Tablas_Bicarsodio_Mobile">D01203 C12603, D01203</td>
-          </tr>
-
-        </table> -->
-
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Obtención</b></h2>
-
-        <p class="Tipografia--general letranegro General--Cuerpo">Se obtiene Mediante el proceso Solvay. Aunque es utilizado para
-          obtener Na2CO3, es posible obtener en una de las reacciones intermedias Bicarbonato Sódico. El proceso
-          consiste en la siguiente reacción:</p>
-
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;"><b>NaCl + NH<b><sub>3</sub></b> + CO<b><sub>2</sub></b> +
-          H<b><sub>2</sub></b>O → NaHCO3 + NH<b><sub>4</sub></b>Cl</b></p>
-
-          
-
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">El proceso Solvay es un metodo industrial ampliamente utilizado para la produccion de <b>Carbonato de Sodio</b> (soda ash), a partir del cual se obtiene <b>Bicarboanto de Sodio (NAHCO<sub>3</sub>)</b> mediante una etapa adicional, aqui se observa un resumen para obtener <b>Bicarbonato de Sodio:</b></p>
-
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">1: Reaccion inicial: Formación de Bicarbonato de Amonio</p>
-
-        <ol>
-          <li class="Elementos--Listas colornegro">El proceso comienza con la introducción de amoníanco (NH<sub>3</sub>) y dioxido de carbono (CO<sub>2</sub>) en una solución de salmuera (cloruro de sodio, NaCI). Se producen las siguientes reacciones:</li>
-          <br>
-          <ol>
-            <li class="Elementos--Listas">CO<sub>2</sub> se disuelve en agua, formando Ácido Carbónico.</li>
-            <li class="Elementos--Listas">Amoníaco reacciona con el Ácido Carbónico para formar Bicarbonato de Amonio (NH<SUB>4</SUB>HCO<sub>3)</sub></li>
-          </ol>
-        </ol>
-
-        <p class="Tipografia--general letranegro General--Cuerpo"><b>Reacción:</b></p>
-
-        <span class="Tipografia--general letranegro General--Cuerpo">NH<sub>4</sub>HCO<sub>3</sub> + NaCL -> NaHCO<sub>3</sub> + NH<sub>4CL</sub></span>
-
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Funciones:</b></h2>
-
-        <ol style="margin-bottom:0px;">
-
-          <li class="Tipografia--general letranegro Elementos--Listas" style="list-style:disc;">Leudante</li>
-          <br>
-          <li class="Tipografia--general letranegro Elementos--Listas" style="list-style:disc;">Agente alcalinizante
-          </li>
-          <br>
-          <li class="Tipografia--general letranegro Elementos--Listas" style="list-style:disc;">Desodorizante</li>
-          <br>
-          <li class="Tipografia--general letranegro Elementos--Listas" style="list-style:disc;">Fungicida</li>
-          <br>
-          <li class="Tipografia--general letranegro Elementos--Listas" style="list-style:disc;">Limpiador</li>
-          <br>
-          <li class="Tipografia--general letranegro Elementos--Listas" style="list-style:disc;">Desinfectante</li>
-          <br>
-          <li class="Tipografia--general letranegro Elementos--Listas" style="list-style:disc;">Blanqueador</li>
-          <br>
-          <li class="Tipografia--general letranegro Elementos--Listas" style="list-style:disc;">Exfoliante</li>
-          <br>
-          <li class="Tipografia--general letranegro Elementos--Listas" style="list-style:disc;">Regulador de pH</li>
-          <br>
-          <li class="Tipografia--general letranegro Elementos--Listas" style="list-style:disc;">Suavizante</li>
-
-        </ol>
-
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Aplicaciones:</b></h2>
-
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;"><b style="color:#000020;">Industria Farmacéutica</b></h2>
-
-        <ol>
-          <li class="Elementos--Listas">Excipiente</li>
-          <br>
-          <ol>
-            <li class="Elementos--Listas">Tablas Efervescentes</li>
-            <br>
-            <li class="Elementos--Listas">En hemodialisis para proporcionar electrolitos y estabilizar el pH</li>
-          </ol>
-          <br>
-          <li class="Elementos--Listas">Activo farmacéutico</li>
-          <br>
-          <li class="Elementos--Listas">Hiperacidez gástrica</li>
-          <br>
-          <li class="Elementos--Listas">Acidosis metabólica</li>
-          <br>
-          <li class="Elementos--Listas">Alcalinizante urinario</li>
-          <br>
-          <li class="Elementos--Listas">Antiácidos</li>
-          <br>
-          <li class="Elementos--Listas">Neutralizador de olores</li>
-        </ol>
-
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;"><b style="color:#000020;">Industria Alimentaria</b></h2>
-
-       <ol>
-        <li class="Tipografia--general letranegro Elementos--Listas">Leudante de pan . - Se utiliza como agente leudante en productos horneados como pan, pasteles y galletas</li>
-        <br>
-        <li class="Tipografia--general letranegro Elementos--Listas">Regulador de pH. - Ayuda a mantener el pH adecuado en alimentos preparados y bebidas</li>
-        <br>
-        <li class="Tipografia--general letranegro Elementos--Listas">Ternura de carne . - Puede usarse para ablandar carne</li>
-        <br>
-        <li class="Tipografia--general letranegro Elementos--Listas">Gasificante para productos horneados</li>
-        <br>
-        <li class="Tipografia--general letranegro Elementos--Listas">Fuente de dioxido de carbono para bebidas efervecentes</li>
-       </ol>
-
-        
-        
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">
-          <b>Cuidado Personal:</b></h2>
-
-        <ol>
-          <li class="Tipografia--general letranegro Elementos--Listas">Exfoliante facial y corporal. - El <b>Bicarbonato de Sodio</b> se utiliza en productos exfoliantes, como limpiadores faciales o pastas de dientes, debido a su textura fina y suave, que puede ayudar a eliminar las células muertas de la piel y promover la renovación celular.</li>
-          <br>
-          <li class="Tipografia--general letranegro Elementos--Listas">Shampoos en seco. - Algunas personas utilizan <b>Bicarbonato de Sodio</b> para absorber el exceso de grasa en el cabello, actúa	</li>
-          <br>
-          <li class="Tipografia--general letranegro Elementos--Listas">Pastas dentales. - Se encuentra en algunas pastas de dientes naturales debido a sus propiedades para eliminar manchas y neutralizar olores.</li>
-          <br>
-          <li class="Tipografia--general letranegro Elementos--Listas">Jabón de Tocador</li>
-          <br>
-          <li class="Tipografia--general letranegro Elementos--Listas">Desodorantes Naturales. - Se emplea en desodorantes para neutralizar los olores corporales.</li>
-          <br>
-          <li class="Tipografia--general letranegro Elementos--Listas">Exfoliantes Faciales y Corporales. - Ayuda a eliminar células muertas de la piel y a suavizarla.</li>
-          <br>
-          <li class="Tipografia--general letranegro Elementos--Listas">Tratamiento de Afecciones Cutáneas. - El Bicarbonato de Sodio a menudo se utiliza en baños de inmersión para aliviar ciertas afecciones cutáneas, como la picazón y las irritaciones leves. Puede proporcionar alivio temporal.</li>
-        </ol>
-
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Detergentes y Cuidado del
-            Hogar:</b></h2>
-        <ol>
-          <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;">Detergentes en
-            Polvo,</li>
-          <br>
-          <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;margin-bottom:0px;">
-            Detergentes Líquidos.</li>
-        </ol>
-
-
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Pet y Nutrición Animal</b></h2>
-        <p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#000020;">Bicarbonato de Sodio</b> ofrece una gama de soluciones
-          eficaces para la nutrición, la higiene y la calidad de los piensos.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo">Es un complemento alimenticio para rumiantes, cerdos y
-          aves, esencial y de alto valor para mejorar el bienestar y el rendimiento del ganado. </p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">El <b style="color:#000020;">Bicarbonato de Sodio</b> es
-          un ingrediente con potencial benéfico en la alimentación de pollos debido a su efecto sobre el balance
-          electrolítico y adicionalmente por mejorar la digestibilidad proteica y el rendimiento de los mismos.</p>
-
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Biogas</b></h2>
-        <p class="Tipografia--general letranegro General--Cuerpo">En las plantas de producción de biogás, se puede
-          utilizar como medida preventiva o curativa en caso de acidosis para estabilizar el pH en el digestor y
-          asegurar una producción optima de biogás.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">La adición de <b style="color:#000020;">Bicarbonato
-          de Sodio</b> al sustrato puede aumentar el volumen de biogás producido cada día en 115 m3, es decir, en un 1.8%.
-        </p>
-
-        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;">
-          <b>Proveedor:</b></h2>
-        <table style="margin-top:30px;">
-          <tr style="border:none;">
-            <td>
-              <img src="img/SAOLVAY_LOGO2.jpg" alt="Solvey Logo" class="SOLVEY_LOGO">
-            </td>
-          </tr>
-          <tr style="border:none;">
-            <td>
-              <h2 class="Tipografia--general letranegro Titulos">
-                <b>Productos:</b></h2>
-            </td>
-          </tr>
-          <tr style="border:none;">
-            <td>
-              <ol>
-                <a href="Bicar-Pharma-API.php">
-                  <li class="Tipografia--general letranegro Elementos--Listas"
-                    style="list-style-type:disc;color:rgba(2 146 238 /99%);margin-left:-23px;">Bicar® Pharma API</li>
-                </a>
-                <br>
-                <a href="Proximamente.php">
-                  <li class="Tipografia--general letranegro Elementos--Listas"
-                    style="list-style-type:disc;color:rgba(2 146 238 /99%);margin-left:-23px;">Bicar® Food</li>
-                </a>
-                <br>
-                <a href="Bicar_USP.php">
-                  <li class="Tipografia--general letranegro Elementos--Listas"
-                    style="list-style-type:disc;color:rgba(2 146 238 /99%);margin-left:-23px;">Bicar® USP</li>
-                </a>
-                <br>
-                <a href="Proximamente.php">
-                  <li class="Tipografia--general letranegro Elementos--Listas"
-                    style="list-style-type:disc;color:rgba(2 146 238 /99%);margin-left:-23px;">Bicar® Z</li>
-                </a>
-
-
-              </ol>
-
-            </td>
-          </tr>
-        </table>
 
       </div>
+  </div>
+  </div>
+
+ 
+<div class="container">
+    <div class="row">
+        <div class="col s12 m12 l12 xl12">
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#BF8F00;"><b>Mono Laurato de Sorbitan Polioxietileno (20)</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#BF8F00;"><b>Polisorbato 20 | Tween 20</b></h2>
+
+            <p class="Tipografia--general letranegro General--Cuerpo">El <b>Polisorbato 20</b> es un compuesto químico que pertenece a la familia de los polisorbatos, ampliamente utilizado en diversas industrias, como la cosmética, farmacéutica y alimentaria. Es un surfactante no iónico, lo que significa que puede reducir la tensión superficial entre diferentes sustancias, facilitando su mezcla o emulsión.</p>
+
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#BF8F00;"><b>Caracteristicas</b></h2>
+
+            
+            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Propiedades fisicas y químicas:</b></h2>
+
+            <ol>
+                <li class="Elementos--Listas">Aspecto
+                    <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Líquido viscoso, transparente o de color amarillo claro.</li>
+                        <li class="Elementos--Listas">Olor ligero característico.</li>
+                    </ol>
+                </li>
+            </ol>
+
+            <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Solubilidad
+                    <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px">Soluble en agua y en alcohol.</li>
+                        <li class="Elementos--Listas">Parcialmente soluble en aceites.</li>
+                    </ol>
+                </li>
+            </ol>
+
+            <ol>
+                <li style="margin-top:30px;" class="Elementos--Listas">PH:
+                    <ol>
+                        <li style="margin-top:30px;" class="Elementos--Listas">Rango: 5.0 - 7.0 (a concentración del 1% en agua).</li>
+                    </ol>
+                </li>
+            </ol>
+
+            <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Peso molecular:
+                    <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Aproximadamente 1228 g/mol.</li>
+                    </ol>
+                </li>
+            </ol>
+
+            <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Tensión superficial:
+                    <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Reduce la tensión superficial del agua, actuando como emulsionante eficiente.</li>
+                    </ol>
+                </li>
+            </ol>
+
+            <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Higroscópico:
+                    <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Puede absorber humedad del ambiente.</li>
+                    </ol>
+                </li>
+            </ol>
+
+            <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Temperatura de almacenamiento:
+                    <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Se debe almacenar entre 10 °C y 25 °C para mantener su estabilidad.</li>
+                    </ol>
+                </li>
+            </ol>
+
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#BF8F00;margin-top:50px;"><b>Propiedades Funcionales</b></h2>
+
+            <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Surfactante no iónico:
+                    <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Actúa reduciendo la tensión superficial entre agua y aceite.</li>
+                    </ol>
+                </li>
+            </ol>
+
+            <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Emulsionante:
+                    <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Ayuda a formar y estabilizar emulsiones (mezclas homogéneas de sustancias inmiscibles).</li>
+                    </ol>
+                </li>
+            </ol>
+
+            <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Solubilizante:
+                    <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Mejora la solubilidad de ingredientes insolubles o lipofílicos en medios acuosos.</li>
+                    </ol>
+                </li>
+            </ol>
+
+            <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Estabilizador:
+                    <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Previene la separación de componentes en soluciones líquidas.</li>
+                    </ol>
+                </li>
+            </ol>
+
+            <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Dispersante:
+                    <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Facilita la dispersión uniforme de partículas sólidas o líquidas.</li>
+                    </ol>
+                </li>
+            </ol>
+
+            <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Humectante:
+                    <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Mejora la capacidad de absorción de agua en formulaciones.</li>
+                    </ol>
+                </li>
+            </ol>
+
+          
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#BF8F00;"><b>Ventajas</b></h2>
+
+            <ol>
+                <li class="Elementos--Listas">Es suave y generalmente seguro para la piel.</li>
+                <li class="Elementos--Listas">Compatible con una amplia gama de ingredientes, incluyendo aceites esenciales y fragancias.</li>
+                <li class="Elementos--Listas">Estable en un rango amplio de pH y temperaturas.</li>
+            </ol>
+
+
+
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#BF8F00;"><b>Aplicaciones</b></h2>
+
+            <ol>
+                <li class="Elementos--Listas">Cosmética y cuidado personal
+                    <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Cremas, lociones y geles.</li>
+                        <li class="Elementos--Listas">Champús y acondicionadores.</li>
+                        <li class="Elementos--Listas">Productos para el baño (baño de burbujas, jabones líquidos).</li>
+                        <li class="Elementos--Listas">Desmaquillantes y limpiadores faciales.</li>
+                        <li class="Elementos--Listas">Productos con aceites esenciales (ayuda a solubilizarlos en agua).</li>
+                    </ol>
+                </li>
+            </ol>
+
+            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Beneficio principal: Permite mezclar aceites esenciales, fragancias y otros ingredientes lipofílicos con agua, logrando texturas suaves y estables. Es ideal para productos diseñados para piel sensible por su baja irritabilidad.</p>
+
+            <ol>
+                <li style="margin-top:50px;" class="Elementos--Listas">Farmacéutica
+                    <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Vehículos para medicamentos tópicos (pomadas, cremas).</li>
+                        <li class="Elementos--Listas">Excipiente en soluciones inyectables.</li>
+                        <li class="Elementos--Listas">Solubilizante en vitaminas liposolubles y principios activos.</li>
+                    </ol>
+                </li>
+            </ol>
+
+            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Beneficio principal: Mejora la biodisponibilidad de ciertos compuestos lipofílicos, garantizando una disolución adecuada.</p>
+
+           <ol>
+            <li style="margin-top:50px;" class="Elementos--Listas">Alimentación y bebidas
+                <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Emulsionante en productos como salsas, aderezos, margarinas y cremas.</li>
+                    <li class="Elementos--Listas">Estabilizador en helados, productos horneados y postres.</li>
+                    <li class="Elementos--Listas">Solubilizante en bebidas con aceites esenciales (por ejemplo, refrescos con sabores cítricos).</li>
+                </ol>
+            </li>
+           </ol> 
+
+           <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Beneficio principal: Asegura la homogeneidad y la estabilidad de productos líquidos y cremosos, evitando la separación de fases.</p>
+
+            <ol>
+                <li style="margin-top:50px;" class="Elementos--Listas"> Industria de limpieza y detergentes
+                    <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Jabones líquidos y detergentes suaves.</li>
+                        <li class="Elementos--Listas" >Productos de limpieza para el hogar.</li>
+                        <li class="Elementos--Listas" >Solubilizante para fragancias en soluciones acuosas.</li>
+                    </ol>
+                </li>
+            </ol>
+
+            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Beneficio principal: Ayuda a integrar aceites y agentes limpiadores en fórmulas líquidas de fácil aplicación.</p>
+
+            <ol>
+                <li class="Elementos--Listas" style="margin-top:50px;"> Laboratorios y productos industriales
+                    <ol>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Soluciones estabilizadoras para análisis químicos.</li>
+                        <li class="Elementos--Listas">Uso como dispersante en pinturas, tintas y recubrimientos.</li>
+                        <li class="Elementos--Listas">Agente humectante en productos industriales</li>
+                    </ol>
+                </li>
+            </ol>
+
+            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Beneficio principal: Mejora la estabilidad y la uniformidad en productos químicos y materiales industriales.</p>
+
+
+            <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Cuidado personal natural y orgánico</li>
+            </ol>
+
+            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Es ampliamente usado en productos etiquetados como "naturales" o "orgánicos" debido a su origen derivado (generalmente del sorbitol y los aceites vegetales).</p>
+
+        </div>
     </div>
-  </div>
+</div>
 
-  
-
-  </div>
-
-  <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
-    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
-</a>
 
 </body>
 <footer style="margin-top:70px">

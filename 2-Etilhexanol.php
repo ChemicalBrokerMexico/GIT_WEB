@@ -570,7 +570,7 @@
             
         <br>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo Titulos"><b>Especificaciones</b></h5>
+<!-- <h5 class="Tipografia--general letranegro General--Cuerpo Titulos"><b>Especificaciones</b></h5>
 
             <table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;" >
 
@@ -667,8 +667,8 @@
                     <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>Punto de ebullición:</b></td>
                     <td style="border:1px solid #f2f2f2;font-size:18px">180 a 186 °C; 356 a 367 °F; 453 a 459</td>
                 </tr>
-            </table>
-            <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b style="color:#000020">Producción</b></h5>
+            </table> -->
+            <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:0px;"><b style="color:#000020">Producción</b></h5>
             <p class="General--Cuerpo Tipografia--general letranegro">El 2-etil-hexanol se produce industrialmente por la condensación aldólica del n-butiraldehido, seguido por la hidrogenación del hidroxialdehido resultante. El proceso general es muy similar a la de la reacción de Guerbet, por la cual también puede ser producido. El n-butiraldehido se obtiene por hidroformilacion de propileno.</p>
             
             <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b style="color:#000020;">Propiedades</b></h5>

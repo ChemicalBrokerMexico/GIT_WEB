@@ -654,7 +654,7 @@
                     
         <br>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo Titulos"><b>Especificaciones</b></h5>
+<!-- <h5 class="Tipografia--general letranegro General--Cuerpo Titulos"><b>Especificaciones</b></h5>
 
 
                 <table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
@@ -697,9 +697,9 @@
                         <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px"><b>KEGG:</b></td>
                         <td style="border:1px solid #c0c0c0;font-size:18px">C01935</td>
                     </tr>
-                </table>
+                </table> -->
 
-                <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Funciónes</b></h2>
+                <h2 class="Tipografia--general letranegro Titulos" style="margin-top:0px;"><b>Funciónes</b></h2>
 
                 <ol>
                     <li class="letranegro Tipografia--General General--Cuerpo" style="list-style-type:disc;">Aditivo

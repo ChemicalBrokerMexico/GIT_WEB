@@ -445,7 +445,7 @@ Científicamente se denominan dioles (alcoholes bivalentes), que se desvían del
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">La Dimetilformamida es un disolvente polar con un alto punto de ebullicion. Facilita las reacciones que siguen mecanismos polare, como es el caso de las reacciones SN2.</p>
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">La Dimetilformamida puede ser sintetizada a partir de formiato de metilo y dimetilamina o mediante reacciones con dimetilamina y monóxido de carbono. No es estable en presencia de bases fuertes como el hidróxido sódico o ácidos fuertes como el ácido clorhídrico o ácido sulfúrico y se hidroliza en ácido fórmico y dimetilamina, especialmente a altas temperaturas.</p>
 
-<h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;"><b>Información Técnica Dimetilformamida</b></h2>
+<!-- <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;"><b>Información Técnica Dimetilformamida</b></h2>
 
 <table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
 <tr class="Tipografia--general General--Cuerpo" style="text-align:center;padding:10px;font-size:15px !important;">
@@ -546,11 +546,11 @@ Científicamente se denominan dioles (alcoholes bivalentes), que se desvían del
 
 </tr>
 
-</table>
+</table> -->
 
 
 </div>
-<div class="col s12 m12 l12 xl12" style="margin-top:50px;">
+<!-- <div class="col s12 m12 l12 xl12" style="margin-top:50px;">
 <h2 class="Tipografia--general letranegro Titulos" style="margin-bottom:0px;margin-top:0px;"><b>Especificaciones</b></h2>
 <table style="border:2px solid f2f2f2;margin-top:30px;width:100%">
 <tr>
@@ -619,7 +619,7 @@ Científicamente se denominan dioles (alcoholes bivalentes), que se desvían del
 <td class="tablaword" style="text-align:center;border:2px solid #f2f2f2;background-color:#BDD6EE;"></td>
 </tr>
 </table>
-</div>
+</div> -->
 <div class="col s12 m12 l12 xl12">
 
 <div class="col s12 m12 l12 xl12">

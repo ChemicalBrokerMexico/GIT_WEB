@@ -573,7 +573,7 @@
       
       <br>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo Titulos"><b>Especificaciones</b></h5>
+<!-- <h5 class="Tipografia--general letranegro General--Cuerpo Titulos"><b>Especificaciones</b></h5>
 
       <table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
         <tr>
@@ -664,9 +664,9 @@
         <td style="border:1px solid #c0c0c0;font-size:18px;text-align:center;">C00031</td>
         </tr>
 
-      </table>
+      </table> -->
 
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La Dextrosa Cristalina está disponible como polvo en forma Monohidratada o Anhidra. Es un ingrediente muy utilizado para preparaciones de medio cultivo. El polvo de Dextrosa también se puede utilizar como vehículo para la granulación de productos de fermentación.</p>
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:0px;">La Dextrosa Cristalina está disponible como polvo en forma Monohidratada o Anhidra. Es un ingrediente muy utilizado para preparaciones de medio cultivo. El polvo de Dextrosa también se puede utilizar como vehículo para la granulación de productos de fermentación.</p>
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La Dextrosa Cristalina, también conocida como glucosa, es el monómero fundamental de todos los productos ricos en almidón. Permite a nuestros clientes de la industria química producir las estructuras químicas que necesitan a partir de recursos renovables. Su alta pureza lo convierte en una valiosa fuente de carbono para nuestros clientes de Fermentación.</p>
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La Dextrosa Cristalina está disponible como polvo en forma Monohidratada o Anhidra. Los polvos de Dextrosa están disponibles en varias granulometrías y estructuras cristalinas, adaptados a las necesidades específicas del cliente. La Dextrosa de alta pureza también está disponible en forma líquida; para obtener más información, consulte "Jarabes de Glucosa".</p>
 

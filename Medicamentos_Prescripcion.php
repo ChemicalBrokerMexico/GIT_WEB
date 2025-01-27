@@ -573,15 +573,182 @@
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
-                <p class="Tipografia--general letranegro General--Cuerpo">La industria de<b>Medicamentos de Prescripción</b> para mascotas se especializa en fármacos desarrollados específicamente para tratar enfermedades y afecciones en animales de compañía como perros, gatos y animales exóticos. Estos medicamentos requieren la supervisión de un veterinario, lo que asegura un diagnóstico preciso y un tratamiento adecuado para la mascota. A continuación, se detalla el panorama de esta industria enfocado en mascotas.</p>
+                <p class="Tipografia--general letranegro General--Cuerpo">La formulación de medicamentos de prescripción veterinaria requiere una amplia gama de ingredientes químicos, conocidos como materias primas. Estos ingredientes no solo incluyen los principios activos farmacéuticos (APIs), sino también excipientes, estabilizantes, vehículos y otros componentes esenciales que garantizan la estabilidad, eficacia y seguridad del producto final. A continuación, se describen todas las materias primas químicas clave, agrupadas por su función principal:</p>
 
-                <h2 class="Tipografia--general letranegro General--Cuerpo">Principales categorias terapeuticas para mascotas</h2>
 
                 <ol>
-                    <li>
-                        <ol></ol>
+                    <li>Vehículos y Solventes
+                        <ol>
+                          <li>Propilenglicol:
+                            <ol>
+                              <li>Vehículo para disolver principios activos lipófilos en soluciones líquidas o inyectables.</li>
+                              <li>Actúa como humectante y estabilizante en jarabes, tópicos e inyectables.</li>
+                            </ol>
+                          </li>
+                        </ol>
                     </li>
                 </ol>
+
+                <ol>
+                  <li> Glicerina (Glicerol):
+                    <ol>
+                      <li>Proporciona viscosidad, estabilidad y mejora la humectación en formulaciones líquidas y tópicas.</li>
+                    </ol>
+                  </li>
+                </ol>
+
+                <ol>
+                  <li> Polietilenglicoles (PEGs):
+                    <ol>
+                      <li>Solventes y agentes de liberación controlada en inyectables, tópicos y cápsulas.</li>
+                    </ol>
+                  </li>
+                </ol>
+
+                <ol>
+                  <li> Alcohol bencílico:
+                    <ol>
+                      <li>Co-solvente y conservante en formulaciones inyectables.</li>
+                    </ol>
+                  </li>
+                </ol>
+
+                <ol>
+                  <li> Etanol:
+                    <ol>
+                      <li>Solvente en productos líquidos, tanto orales como tópicos.</li>
+                    </ol>
+                  </li>
+                </ol>
+
+                <ol>
+                  <li> Aceites vegetales refinados (soja, maíz):
+                    <ol>
+                      <li>Vehículo oleoso para inyectables lipofílicos y soluciones de liberación prolongada.</li>
+                    </ol>
+                  </li>
+                </ol>
+
+                <ol>
+                  <li>Triglicéridos de cadena media (MCTs):
+                    <ol>
+                      <li>Vehículo en emulsiones y soluciones de principios activos liposolubles.</li>
+                    </ol>
+                  </li>
+                </ol>
+
+                <ol>
+                  <li> Emulsionantes y tensioactivos 
+                    <ol>
+                      <li> Polisorbatos (e.g., Polisorbato 80):
+                        <ol>
+                          <li>Emulsionantes en soluciones inyectables y tópicas.</li>
+                        </ol>
+                      </li>
+                    </ol>
+                  </li>
+                </ol>
+
+                <ol>
+                  <li> Lecitinas:
+                    <ol>
+                      <li>Estabilizantes en emulsiones y suspensiones inyectables.</li>
+                    </ol>
+                  </li>
+                </ol>
+
+                <ol>
+                  <li> Etoxilatos y propoxilatos:
+                    <ol>
+                      <li>Surfactantes usados para mejorar la solubilidad de principios activos.</li>
+                    </ol>
+                  </li>
+                </ol>
+
+                <ol>
+                  <li>
+                    <ol>
+                      <li>
+                        <ol>
+                          <li></li>
+                        </ol>
+                      </li>
+                    </ol>
+                  </li>
+                </ol>
+
+                <ol>
+                  <li>
+                    <ol>
+                      <li></li>
+                    </ol>
+                  </li>
+                </ol>
+
+                <ol>
+                  <li>
+                    <ol>
+                      <li></li>
+                    </ol>
+                  </li>
+                </ol>
+
+                <ol>
+                  <li>
+                    <ol>
+                      <li></li>
+                    </ol>
+                  </li>
+                </ol>
+
+                <ol>
+                  <li>
+                    <ol>
+                      <li>
+                        <ol>
+                          <li></li>
+                        </ol>
+                      </li>
+                    </ol>
+                  </li>
+                </ol>
+
+                <ol>
+                  <li>
+                    <ol>
+                      <li></li>
+                    </ol>
+                  </li>
+                </ol>
+
+                <ol>
+                  <li>
+                    <ol>
+                      <li>-</li>
+                    </ol>
+                  </li>
+                </ol>
+
+                <ol>
+                  <li>
+                    <ol>
+                      <li>
+                        <ol>
+                          <li></li>
+                        </ol>
+                      </li>
+                    </ol>
+                  </li>
+                </ol>
+
+                <ol>
+                  <li>
+                    <ol>
+                      <li></li>
+                    </ol>
+                  </li>
+                </ol>
+
 
             </div> 
         </div>
