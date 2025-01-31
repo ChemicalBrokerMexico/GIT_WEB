@@ -268,6 +268,18 @@ $(document).ready(function(){
     </div>
     </div>
 
+    <div class="row" style="margin-top:150px;"> 
+    <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img/ESTERES_SORBITAN_ETOXILADOS_290125.jpg" alt="" class="zoom IMG_Seccion_Prod">
+    </div>
+    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
+    <h5 class="Tipografia--general Titulos"><b>Esteres de Sorbitan Etoxilados</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Ésteres de Sorbitán Etoxilados</b> son un grupo de surfactantes no iónicos derivados del sorbitán (un derivado del sorbitol) que han sido modificados mediante la adición de óxido de etileno. Estos compuestos se utilizan ampliamente en diversas industrias debido a sus propiedades emulsionantes, estabilizantes y dispersantes.</p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Esteres_Sorbitan_Etoxilados.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
 
     <div class="row" style="margin-top:150px;"> 
     <div class="col s12 m12 l12 xl6 center-align">
@@ -787,6 +799,18 @@ function filtroall(){
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Esteres de Sorbitan</b> de la más alta calidad. Con años de experiencia en la industria y un compromiso inquebrantable con la excelencia, estamos aquí para satisfacer tus necesidades en el mercado de emulsionantes y estabilizadores. </p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Esteres_Sorbitan.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
+    <div class="row" style="margin-top:150px;"> 
+    <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img/ESTERES_SORBITAN_ETOXILADOS_290125.jpg" alt="" class="zoom IMG_Seccion_Prod">
+    </div>
+    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
+    <h5 class="Tipografia--general Titulos"><b>Esteres de Sorbitan Etoxilados</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Ésteres de Sorbitán Etoxilados</b> son un grupo de surfactantes no iónicos derivados del sorbitán (un derivado del sorbitol) que han sido modificados mediante la adición de óxido de etileno. Estos compuestos se utilizan ampliamente en diversas industrias debido a sus propiedades emulsionantes, estabilizantes y dispersantes.</p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Esteres_Sorbitan_Etoxilados.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
 
@@ -1323,10 +1347,22 @@ function filtroe(){
     <img src="img/ESTERES_SORBITAN_140923.jpg" alt="" class="zoom IMG_Seccion_Prod">
     </div>
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Esteres de sorbitan </b></h5>
+    <h5 class="Tipografia--general Titulos"><b>Esteres de Sorbitan </b></h5>
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Esteres de Sorbitan</b> de la más alta calidad. Con años de experiencia en la industria y un compromiso inquebrantable con la excelencia, estamos aquí para satisfacer tus necesidades en el mercado de emulsionantes y estabilizadores. </p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Esteres_Sorbitan.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
+    <div class="row" style="margin-top:150px;"> 
+    <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img/ESTERES_SORBITAN_ETOXILADOS_290125.jpg" alt="" class="zoom IMG_Seccion_Prod">
+    </div>
+    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
+    <h5 class="Tipografia--general Titulos"><b>Esteres de Sorbitan Etoxilados</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Ésteres de Sorbitán Etoxilados</b> son un grupo de surfactantes no iónicos derivados del sorbitán (un derivado del sorbitol) que han sido modificados mediante la adición de óxido de etileno. Estos compuestos se utilizan ampliamente en diversas industrias debido a sus propiedades emulsionantes, estabilizantes y dispersantes.</p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Esteres_Sorbitan_Etoxilados.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
 

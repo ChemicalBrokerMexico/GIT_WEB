@@ -560,226 +560,252 @@
       </div>
     </div>
 
+  <div class="container" style="margin-top:130px;">
+    <div class="row">
+      <div class="col s12 m12 l12 xl12">
 
-    <div class="container">
-        <div class="row">
-            <div class="col s12 m12 l12 xl12">
+      <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Estearina de Palma Alto Hidrogenado (RBD)</b></a></section>
 
-            <section style="margin-top:130px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Estearina de Palma Alto Hidrogenado (RBD)</b></a></section>
+        <p class="Tipografia--general letranegro General--Cuerpo">La <b>Estearina de Palma Refinada, Blanqueada y
+          Desodorizada (RBD)</b> es una grasa vegetal derivada del Aceite de Palma. La Estearina de Palma RBD es una
+          fracción sólida del Aceite de Palma RBD, obtenida por fraccionamiento mediante procesos simples de
+          cristalización y separación a temperatura controlada. Las propiedades físicas de la Estearina de Palma RBD
+          difieren ampliamente de las del Aceite de Palma RBD. La Estearina de Palma RBD está disponible en una gama más
+          amplia de puntos de fusión y valores de yodo.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La Estearina de Palma RBD no
+          contiene colesterol y tiene un efecto anticoagulante, lo que ayuda a prevenir enfermedades del corazón. La
+          Estearina de Palma RBD contiene vitamina E, vitamina D y una proporción aproximadamente igual de Ácidos Grasos
+          saturados e insaturados. La <b>Estearina de Palma RBD</b> es altamente estable frente a la oxidación debido a la
+          presencia de tocoferoles, que actúan como un antioxidante natural y se oxidan antes que la oxidación de la
+          <b>Estearina de Palma RBD</b>.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La <b>Estearina de Palma RBD
+          Hidrogenada</b>, es producto de la hidrogenación del aceite, es una cera sólida blanca o ligeramente amarilla a
+          temperatura normal, insoluble en agua, difícilmente soluble en alcohol etílico, soluble en acetona, éter
+          dietílico, cloroformo, benceno, etc., propiedades químicas estables. La <b>Estearina de Palma RBD Alto Hidrogenada</b> se
+          puede usar para hacer Ácido Esteárico, Estearato, también se puede usar en jabón, pasta de pulir, industria de
+          velas, industria de alimentos y piensos.</p>
 
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#FF9900;"><b>Estearina de Palma RBD Alto Hidrogenado</b></h2>
 
-            <p class="Tipografia--general letranegro General--Cuerpo">La <b>Estearina de Palma Refinada, Blanqueada y Desodorizada (RBD) Alto Hidrogenado</b> es un producto derivado del aceite de palma que pasa por varios procesos para obtener ciertas características deseadas. Vamos a desglosar su descripción:</p>
+          
+        <br>
 
-            <p class="Tipografia--general letranegro General--Cuerpo"><b style="color:#FF9900;">Estearina de palma:</b> Es la fracción sólida del aceite de palma que se obtiene mediante un proceso llamado fraccionamiento. Tiene un alto contenido de ácidos grasos saturados, como el ácido palmítico y el ácido esteárico.</p>
+<h5 class="Tipografia--general letranegro General--Cuerpo Titulos"><b>Especificaciones</b></h5>
 
-            <p class="Tipografia--general letranegro General--Cuerpo"><b style="color:#FF9900;">RBD:</b> Significa que el producto ha sido refinado, blanqueado y desodorizado. Esto asegura que la estearina esté libre de impurezas, sea incolora o de color claro, y no tenga olor o sabor característico.</p>
+        <table style="border:1px solid #f2f2f2;margin-top:50px;">
+          <tr>
+            <th style="background-color:#000020;color:rgba(2 146 238 /99%);border-right: 1px solid white;font-size:18px"
+              class="center-align">Especificación</th>
+            <th style="background-color:#000020;color:rgba(2 146 238 /99%);border-right: 1px solid white;font-size:18px"
+              class="center-align">Unidad</th>
+            <th style="background-color:#000020;color:rgba(2 146 238 /99%);border-right: 1px solid white;font-size:18px"
+              class="center-align">Parametros</th>
+            <th style="background-color:#000020;color:rgba(2 146 238 /99%);border-right: 1px solid white;font-size:18px"
+              class="center-align">Método</th>
+          </tr>
+          <tr>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px">Índice de Acidez </td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px" class="center-align">mg KOH / g</td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px" class="center-align">≤ 1.0</td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px" class="center-align">GB/T 9104-2008/ 6</td>
+          </tr>
 
-            <p class="Tipografia--general letranegro General--Cuerpo"><b style="color:#FF9900;">Alto Hidrogenado:</b> Implica que ha pasado por un proceso de hidrogenación, en el cual se convierten los ácidos grasos insaturados en saturados para aumentar la estabilidad del producto, hacerlo más sólido a temperatura ambiente y extender su vida útil.</p>
+          <tr>
+            <td style="background-color:#f2f2f2;"></td>
+            <td style="background-color:#f2f2f2;"></td>
+            <td style="background-color:#f2f2f2;"> </td>
+            <td style="background-color:#f2f2f2;"></td>
+          </tr>
 
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#FF9900;margin-top:50px;"><b>Caracteristicas</b></h2>
-
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#FF9900;"><b>Propiedades Físicas</b></h2>
-
+          <tr>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px">Índice de Yodo</td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px" class="center-align">g I₂ / 100 g</td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px" class="center-align">≤ 0.5</td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px" class="center-align">GB/T 9104-2008/4</td>
+          </tr>
+          <tr>
+            <td style="background-color:#f2f2f2;"></td>
+            <td style="background-color:#f2f2f2;"></td>
+            <td style="background-color:#f2f2f2;"> </td>
+            <td style="background-color:#f2f2f2;"></td>
+          </tr>
+          <tr>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px">Punto de Fusión</td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px" class="center-align">°C</td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px" class="center-align">≥ 57</td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px" class="center-align">GB/T 617-2006</td>
+          </tr>
+          <tr>
+            <td style="background-color:#f2f2f2;"></td>
+            <td style="background-color:#f2f2f2;"></td>
+            <td style="background-color:#f2f2f2;"> </td>
+            <td style="background-color:#f2f2f2;"></td>
+          </tr>
+          <tr>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px">Color</td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px" class="center-align">Hazen</td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px" class="center-align">≤ 450</td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px" class="center-align">GB/T 9104-2008/7</td>
+          </tr>
+          <tr>
+            <td style="background-color:#f2f2f2;"></td>
+            <td style="background-color:#f2f2f2;"></td>
+            <td style="background-color:#f2f2f2;"> </td>
+            <td style="background-color:#f2f2f2;"></td>
+          </tr>
+          <tr>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px">Humedad</td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px" class="center-align">%</td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px" class="center-align">≤ 0.2</td>
+            <td style="border-right:1px solid #f2f2f2;font-size:18px" class="center-align">GB/T 606-2003</td>
+          </tr>
+        </table>
+        <div class="col s12 m12 l12 xl12">
+          <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b
+              style="color:#000020;">Funciones</b></h5>
+          <ol>
+            <li class="Elementos--Listas" style="list-style-type:disc;">Acondicionador</li>
+            <br>
+            <li class="Elementos--Listas" style="list-style-type:disc;">Emoliente</li>
+            <br>
+            <li class="Elementos--Listas" style="list-style-type:disc;">Surfactante</li>
+            <br>
+            <li class="Elementos--Listas" style="list-style-type:disc;">Emulsificantes</li>
+            <br>
+            <li class="Elementos--Listas" style="list-style-type:disc;">Control de Viscocidad</li>
+          </ol>
+          <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b
+              style="color:#000020;">Aplicaciones</b></h5>
+          <ol>
+            <li style="list-style-type: disc;">Alimentaria</li>
+            <br>
             <ol>
-                <li class="Elementos--Listas"><b style="color:#FF9900;">Aspecto:</b> Sólido a temperatura ambiente (generalmente por encima de 25 °C).</li>
-                <li class="Elementos--Listas"><b style="color:#FF9900;">Color:</b> Blanco o ligeramente amarillento, gracias al proceso de refinamiento.</li>
-                <li class="Elementos--Listas"><b style="color:#FF9900;">Olor y sabor:</b> Neutros debido al blanqueo y desodorización.</li>
-                <li class="Elementos--Listas"><b style="color:#FF9900;">Punto de fusión elevado:</b> Alrededor de 50-60 °C, dependiendo del grado de hidrogenación. Esto la hace ideal para productos que requieren estabilidad a temperaturas altas.</li>
+              <li style="list-style-type: disc;">Margarinas</li>
             </ol>
-
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#FF9900;margin-top:50px;"><b>Propiedades químicas</b></h2>
-
+          </ol>
+          <ol>
+            <li style="list-style-type:disc;">Química:</li>
+            <br>
             <ol>
-                <li class="Elementos--Listas"><b style="color:#FF9900;">Alto contenido de ácidos grasos saturados:</b> Especialmente ácido esteárico y palmítico.</li>
-                <li class="Elementos--Listas"><b style="color:#FF9900;">Baja oxidación:</b> Debido a la eliminación de impurezas y la hidrogenación, es menos propensa a enranciarse.</li>
-                <li class="Elementos--Listas"><b style="color:#FF9900;">Estabilidad térmica:</b> No se descompone fácilmente a altas temperaturas.</li>
-                <li class="Elementos--Listas"><b style="color:#FF9900;">Bajo contenido de ácidos grasos insaturados:</b> Esto mejora su estabilidad, pero disminuye su perfil saludable para consumo directo.</li>
+              <li style="list-style-type:disc;">Fabricación de Emulsificantes</li>
             </ol>
-
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#FF9900;margin-top:50px;"><b>Propiedades funcionales</b></h2>
-
+          </ol>
+          <ol>
+            <li style="list-style-type:disc;">Industria Alimentaria y Nutrición Humana:</li>
+            <br>
             <ol>
-                <li class="Elementos--Listas"><b style="color:#FF9900;">Estabilidad:</b> Mantiene su forma y consistencia sólida en diversas condiciones climáticas.</li>
-                <li class="Elementos--Listas"><b style="color:#FF9900;">Textura:</b> Confiere una textura cremosa o sólida a productos como margarinas, jabones y velas.</li>
-                <li class="Elementos--Listas"><b style="color:#FF9900;">Larga vida útil:</b> Resiste la oxidación y el enranciamiento, lo que la hace duradera.</li>
+              <li style="list-style-type:disc;">Manteca Vegetal </li>
+              <br>
+              <li style="list-style-type:disc;">Margarinas </li>
+              <br>
+              <li style="list-style-type:disc;">Grasas Solidas para Panificación; Reemplazo para Manteca de Cerdo. </li>
             </ol>
-
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#FF9900;">Especificaciones</b></h2>
-
-            <table>
-                <thead>
-                    <th style="color:#FF9900;text-align:center;" class="Tipografia--general letranegro General--Cuerpo"><b>Especificacion</b></th>
-                    <th style="color:#FF9900;text-align:center;" class="Tipografia--general letranegro General--Cuerpo"><b>Unidad</b></th>
-                    <th style="color:#FF9900;text-align:center;" class="Tipografia--general letranegro General--Cuerpo"><b>Parametros</b></th>
-                    <th style="color:#FF9900;text-align:center;" class="Tipografia--general letranegro General--Cuerpo"><b>Método</b></th>
-                </thead>
-
-                <tbody>
-                    <tr>
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">Índice de Acidez</td>
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">mg KOH / g</td>
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">≤ 1.0</td>
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">GB/T 9104-2008/ 6</td>
-                    </tr>
-
-                    <tr>
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">Índice de Yodo</td>
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">g I₂ / 100 g</td>
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">≤ 0.5</td>
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">GB/T 9104-2008/4</td>
-                    </tr>
-                    <tr>
-                    
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">Punto de Fusión</td>
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">°C</td>
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">≥ 57</td>
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">GB/T 617-2006</td>
-                    </tr>
-                    <tr>
-                    <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">Color</td>
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">Hazen</td>
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">≤ 450</td>
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">GB/T 9104-2008/7</td>
-                    </tr>
-                    <tr>
-                    <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">Humedad</td>
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">%</td>
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">≤ 0.2</td>
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">GB/T 606-2003</td>
-                    </tr>
-                </tbody>
-            </table>
-
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#FF9900;margin-top:50px;"><b>Aplicaciones</b></h2>
-
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#FF9900;"><b>Industria Alimentaria</b></h2>
-
-           <ol>
-            <li class="Elementos--Listas"><b style="color:#FF9900;">Margarinas y grasas vegetales:</b>
-                <ol>
-                    <li class="Elementos--Listas">Utilizada como base para margarinas y grasas sólidas para hornear debido a su estabilidad térmica y consistencia sólida.</li>
-                </ol>
-            </li>
-           </ol>
-
-           <ol>
-            <li class="Elementos--Listas"><b style="color:#FF9900;">Confitería y chocolates:</b>
-                <ol>
-                    <li class="Elementos--Listas">Se emplea para recubrimientos sólidos (glaseados) en chocolates y caramelos, proporcionando una textura firme y brillante.</li>
-                    <li class="Elementos--Listas">Aporta estabilidad al producto, evitando que se derrita fácilmente.</li>
-                </ol>
-            </li>
-           </ol>
-
-           <ol>
-            <li class="Elementos--Listas"><b style="color:#FF9900;">Sustituto de manteca de cacao:</b>
-                <ol>
-                    <li class="Elementos--Listas">Por su alto punto de fusión, es un ingrediente económico para reemplazar parcialmente la manteca de cacao.</li>
-                </ol>
-            </li>
-           </ol>
-
-           <ol>
-            <li class="Elementos--Listas"><b style="color:#FF9900;">Frituras y productos de panadería:</b>
-                <ol>
-                    <li class="Elementos--Listas">Resiste altas temperaturas sin degradarse, lo que la hace ideal para freír y hornear.</li>
-                </ol>
-            </li>
-           </ol>
-
-
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#FF9900;"><b>Industria Cosmética</b></h2>
-
+          </ol>
+          <ol>
+            <li style="list-style-type:disc;">Detergentes y Cuidados del Hogar:</li>
+            <br>
             <ol>
-                <li class="Elementos--Listas"><b style="color:#FF9900;">Jabones sólidos:</b>
-                    <ol>
-                        <li class="Elementos--Listas">Aporta dureza, consistencia y espuma a los jabones.</li>
-                        <li class="Elementos--Listas">Facilita un acabado uniforme y suave al producto final.</li>
-                    </ol>
-                </li>
+              <li style="list-style-type:disc;">Jabón</li>
             </ol>
-
+          </ol>
+          <ol>
+            <li style="list-style-type:disc;">Otros:</li>
+            <br>
             <ol>
-                <li class="Elementos--Listas"><b style="color:#FF9900;">Cremas y bálsamos:</b>
-                    <ol>
-                        <li class="Elementos--Listas">Utilizada como base emoliente en cremas hidratantes y productos cosméticos debido a su textura y capacidad de retener humedad</li>
-                    </ol>
-                </li>
+              <li style="list-style-type:disc;">Crayones</li>
+              <br>
+              <li style="list-style-type:disc;">Parafinas</li>
+              <br>
+              <li style="list-style-type:disc;">Velas</li>
             </ol>
+          </ol>
+        </div>
+        <div class="col s12 m12 l12 xl12">
+          <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b
+              style="color:#000020;">Origen</b></h5>
+          <p class="letranegro General--Cuerpo Tipografia--general"><b style="color:#000020;">Indonesia</b> es el más
+            grande del mundo Productor y Exportador de Aceite de Palma. La producción de Aceite de Palma es importante
+            para la economía de Indonesia, ya que el país es el mayor productor y exportador mundial de este producto.
+            Indonesia proporciona más de la mitad del suministro mundial de Aceite de palma.</p>
+          <p class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;">Producción y exportaciones de Aceite de Palma de
+            Indonesia representa actualmente el 55% de la producción mundial de Aceite de Palma y el 60% de las
+            exportaciones mundiales. Toda la producción de Aceite de Palma se deriva de la selva tropical de Indonesia,
+            que ocupa el tercer lugar en el mundo, los otros dos se encuentran en las cuencas del Amazonas y el Congo.
+          </p>
+        </div>
+        <div class="col s12 m12 l12 xl12">
+          <table class="center-align" style="margin-top:50px;">
 
-            <ol>
-                <li class="Elementos--Listas"><b style="color:#FF9900;">Velas de masaje:</b>
-                    <ol>
-                        <li class="Elementos--Listas">Al ser hidrogenada, aporta una textura firme que se derrite uniformemente al calentarse.</li>
-                    </ol>
-                </li>
-            </ol>
+            <tr>
+              <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;font-size:18px" class="center-align">Año
+              </th>
+              <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;font-size:18px" class="center-align">
+                Tipo Operación</th>
+              <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;font-size:18px" class="center-align">
+                Cantidad (Kg.)</th>
+            </tr>
+            <tr>
+              <td class="center-align" style="border:1px solid #f2f2f2;font-size:18px">2018</td>
+              <td class="center-align" style="border:1px solid #f2f2f2;font-size:18px">Produccion</td>
+              <td class="center-align" style="border:1px solid #f2f2f2;font-size:18px">40,500,000.00</td>
+            </tr>
+            <tr>
+              <td class="center-align" style="border:1px solid #f2f2f2;font-size:18px">2018</td>
+              <td class="center-align" style="border:1px solid #f2f2f2;font-size:18px">Exportacion</td>
+              <td class="center-align" style="border:1px solid #f2f2f2;font-size:18px">29,500,000.00</td>
+            </tr>
+          </table>
+        </div>
+        <div class="col s12 m12 l12 xl12">
+          <p class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;">Malasia es la segunda más grande del mundo Productor
+            y Exportador de Aceite de Palma. La producción de Aceite de Palma es vital para la economía de Malasia, que
+            es el segundo mayor productor mundial de este producto después de Indonesia. Malasia tiene un papel
+            importante que desempeñar para satisfacer la creciente necesidad mundial de aceites y grasas de manera
+            sostenible.</p>
+          <p class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;">Producción y exportaciones de Aceite de Palma de
+            Malasia representa actualmente el 35% de la producción mundial de Aceite de Palma y el 40% de las
+            exportaciones mundiales. Si se tienen en cuenta otros aceites y grasas producidos en el país, Malasia
+            representa el 15% y el 30% de la producción y exportación total mundial de aceites y grasas.</p>
+        </div>
 
+        <table class="center-align" style="margin-top:50px;">
 
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#FF9900;"><b>Industria química y farmacéutica</b></h2>
+          <tr>
+            <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;font-size:18px" class="center-align">Año
+            </th>
+            <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;font-size:18px" class="center-align">Tipo
+              Operacion</th>
+            <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;font-size:18px" class="center-align">
+              Cantidad (Kg.)</th>
+          </tr>
+          <tr>
+            <td class="center-align" style="border:1px solid #f2f2f2;font-size:18px">2018</td>
+            <td class="center-align" style="border:1px solid #f2f2f2;font-size:18px">Produccion</td>
+            <td class="center-align" style="border:1px solid #f2f2f2;font-size:18px">21,000,000.00</td>
+          </tr>
+          <tr>
+            <td class="center-align" style="border:1px solid #f2f2f2;font-size:18px">2018</td>
+            <td class="center-align" style="border:1px solid #f2f2f2;font-size:18px">Exportacion</td>
+            <td class="center-align" style="border:1px solid #f2f2f2;font-size:18px">17,900,000.00</td>
+          </tr>
+        </table>
+        <div class="col s12 m12 l12 xl12">
+        <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b
+              style="color:#000020;">Presentacion</b></h5>
+              <ol>
+                <li style="list-style-type: disc;">Saco de 25Kg.</li>
+              </ol>
+              <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b
+              style="color:#000020;">Certificaciones</b></h5>
+              <ol>
+                <li style="list-style-type: disc;">Kosher</li>
+                <li style="list-style-type: disc;">Halal</li>
+              </ol>
+        </div>
+      </div>
+    </div>
 
-        <ol>
-            <li class="Elementos--Listas"><b style="color:#FF9900;">Fabricación de velas:</b>
-                <ol>
-                    <li class="Elementos--Listas">Es un ingrediente clave en velas sólidas y decorativas debido a su capacidad para mantener una forma estable.</li>
-                    <li class="Elementos--Listas">Mejora el tiempo de quemado y el acabado brillante.</li>
-                </ol>
-            </li>
-        </ol>
+  
 
-        <ol>
-            <li class="Elementos--Listas"><b style="color:#FF9900;">Lubricantes sólidos:</b>
-                <ol>
-                    <li class="Elementos--Listas">Utilizada en la fabricación de grasas industriales o lubricantes para maquinaria ligera.</li>
-                </ol>
-            </li>
-        </ol>
-
-        <ol>
-            <li class="Elementos--Listas"><b style="color:#FF9900;">Cápsulas y recubrimientos:</b>
-                <ol>
-                    <li class="Elementos--Listas">En la industria farmacéutica, se emplea para recubrimientos sólidos de cápsulas o comprimidos.</li>
-                </ol>
-            </li>
-        </ol>
-
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#FF9900;"><b>Industria textil</b></h2>
-
-        <ol>
-            <li  class="Elementos--Listas"><b style="color:#FF9900;">Industria textil</b>
-                <ol>
-                    <li  class="Elementos--Listas">Aditivos para acabados textiles:
-                        <ol>
-                            <li  class="Elementos--Listas">Se usa como un componente en ceras o acabados que aportan brillo, suavidad y resistencia a la tela.</li>
-                        </ol>
-                    </li>
-                </ol>
-            </li>
-        </ol>
-
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#FF9900;"><b>Otras aplicaciones</b></h2>
-
-        <ol>
-            <li class="Elementos--Listas"><b style="color:#FF9900;">Ceras y productos para el hogar:</b>
-                <ol>
-                    <li class="Elementos--Listas">Elaboración de ceras para pisos, muebles y automóviles.</li>
-                </ol>
-            </li>
-        </ol>
-
-        <ol>
-            <li class="Elementos--Listas"><b style="color:#FF9900;">Materiales biodegradables:</b>
-                <ol>
-                    <li class="Elementos--Listas">Investigada para la fabricación de bioplásticos y otros materiales sostenibles.</li>
-                </ol>
-            </li>
-        </ol>
-
-
-        
-            </div>
-            </div>
     
   </div>
 

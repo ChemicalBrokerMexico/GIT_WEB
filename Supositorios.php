@@ -4,9 +4,9 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
-    <title>Chemical Broker</title>
+    <link rel="canonical" href="https://chemicalbroker.mx/Inyectables.php">
+    <title>Chemical Broker | Supositorios</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
     <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -24,6 +24,7 @@
         <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.js"></script>
     <script type="text/javascript" charset="utf8" src="js/Buscador.js?n=1"></script>
     <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/responsive/2.2.6/js/dataTables.responsive.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
@@ -238,12 +239,12 @@
         </ul>
       </div>
       <div> 
-        <ul> <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock" style="color:white !Important;margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock" style="color:white !Important;display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
-            <div style="display:flex;justify-content:center"> 
-              <p class="Botones Logindesktop Tipografia--general" style="aling-self:center"> <b>Iniciar Sesión</b></p>
-            </div></a>
-          <li class="ul-independiente right"><a class="btn-search-desktop1" href="#" id="busquedaprueba" onclick="abrirsearch();"><i class="material-icons left search-desktop-icon" style="color:black !important;font-size:24px;font-weight:500;position:absolute;z-index:1">search</i></a></li>
-        </ul>
+      <ul><!--  <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="chemicalbroker.mx/Vista/Principal.php" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock color--blanco" style="margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock color--blanco" style="display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
+<div style="display:flex;justify-content:center"> 
+<p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
+</div></a> -->
+<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
+</ul>
         <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i class="material-icons search-mobile-icon margin-left-search-mobile-icon" style="width:0px">search</i></a></div>
       </div>
     </nav>
@@ -393,48 +394,65 @@
     <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li><img src="img/SUPOSITORIOS_100521.jpg" alt="" style="height:450px">
+          <li><img src="img/SUPOSITORIOS_100521.jpg" style="height:800px;margin-top:-289px" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">Supositorios</b>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Supositorios</b>
+              <div class="container">
+    
+    </div>
             </div>
           </li>
         </ul>
       </div>
     </div>
-    <div class="container">
+
+
+    <div class="container" style="margin-top:130px;">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="pharmaceutical.php" style="color:#262137 !important;margin-left:-2px"><b>Farmaceutica</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Supositorios.php" style="color:#262137 !important;margin-left:-2px"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Supositorios</b></a></section></section>
+        
+        <section style="margin-top:50px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Supositorios.php"><b class="Tipografia--general Subtitulos" style="color:red;">Supositorios</b></a></section>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">La industria de los supositorios es una rama específica de la industria farmacéutica enfocada en la producción de medicamentos destinados a ser administrados por vía rectal, vaginal o uretral. Este tipo de productos es valorado principalmente por su capacidad para evitar el sistema digestivo, lo que permite una absorción más rápida y directa del medicamento en el cuerpo, reduciendo la degradación por enzimas gástricas o hepáticas.</p>
+
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Características de los supositorios:</b></h2>
+
+
+          <ol>
+            <li class="Elementos--Listas">Forma y diseño: Tienen una forma sólida, usualmente cónica o cilíndrica, diseñada para facilitar su inserción en el cuerpo. Su tamaño y composición varían según el lugar de administración.</li>
+            <li class="Elementos--Listas">Base de formulación: Los supositorios se fabrican con bases lipofílicas (como manteca de cacao o sustitutos) o hidrofílicas (como glicol de polietileno), que permiten la liberación controlada del principio activo.</li>
+            <li class="Elementos--Listas">Tipos de medicamentos: Suelen contener analgésicos, antiinflamatorios, antináuseas, antipiréticos, hormonas (como progesterona) o medicamentos para el tratamiento de infecciones.</li>
+          </ol>
+
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Ventajas de los supositiorios:</b></h2>
+
+          <ol>
+            <li class="Elementos--Listas">Alternativa útil para pacientes con problemas para tragar píldoras o cápsulas.</li>
+            <li class="Elementos--Listas">Evitan la degradación del fármaco en el sistema gastrointestinal.</li>
+            <li class="Elementos--Listas">Adecuados para tratamientos pediátricos, geriátricos o de emergencia.</li>
+          </ol>
+
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Aplicaciones clave:</b></h2>
+
+          <ol>
+            <li class="Elementos--Listas">Industria farmacéutica: Supositorios médicos para manejo del dolor, fiebre, náuseas, entre otros.</li>
+            <li class="Elementos--Listas">Industria veterinaria: Uso en animales que no pueden ser medicados por vía oral fácilmente</li>
+            <li class="Elementos--Listas">Salud reproductiva: Supositorios vaginales para anticonceptivos, tratamientos hormonales o infecciones.</li>
+          </ol>
+
+
+
         </div>
       </div>
     </div>
-    <div class="container">
-      <div class="row">
-        <div class="col s12 m12 l12 xl12">
-          <p style="color: #858b92a4;"> Los supositorios son formas farmacéuticas de consistencia sólida y forma cónica y redondeada en los extremos.  
-          </p>
-        </div>
-      </div>
-    </div>
-    <div class="container">
-      <div class="row">
-        <div class="col s12 m12 l12 xl12">
-          <h5> <b style="color:#262137;">Productos</b></h5>
-        </div>
-      </div>
-    </div>
-    <div class="container" style="margin-top:-50px;">
-      <div class="row">
-        <div class="col s12 m12 l6 xl12">
-        <ol>
-          <a href="Glycerins.php" style="color:#262137"><li class="arrowblue">Glicerinas</li></a>
-          <a href="Proximamente.php" style="color:#262137"><li class="arrowblue">Polietilenglicoles (PEG´S)</li></a>
-        </ol>
-        </div>
-      </div>
-    </div>
+
+
+ 
+
+  
+ 
     <footer style="margin-top:70px">
-      <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""></div><br><br>
+      <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg" alt=""></div><br><br>
       <div class="container-fluid" style="text-align:center;margin-top:-50px">
         <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad  </a>
               <script type="text/javascript" src="js/main.js"></script></a></strong></p>

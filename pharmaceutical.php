@@ -537,7 +537,7 @@ recaptchaResponse.value = token;
           <li> 
         
              <video class="videos_mercados" style="border-radius:10px;" autoplay="autoplay" loop="loop" muted defaultMuted >
-                  <source class="mercadosimagen" src="../GIT_WEB/VIDEO/Farma.mp4" type="video/mp4">
+                  <source class="mercadosimagen" src="VIDEO/Farma.mp4" type="video/mp4">
                 </video> 
            
           </li>
@@ -671,7 +671,7 @@ recaptchaResponse.value = token;
               style="border-radius:10px" />
           </div>
         </a></div>
-      <div class="col s12 m12 l6 xl6 mercados zoom columna3"><a href="Proximamente.php" style="cursor:pointer;">
+      <div class="col s12 m12 l6 xl6 mercados zoom columna3"><a href="Supositorios.php" style="cursor:pointer;">
           <div class="contenedor">
             <div class="transfo" id="overlay" style="border-radius:10px"></div>
             <div class="centrado_sub" style="position:absolute;z-index:2">

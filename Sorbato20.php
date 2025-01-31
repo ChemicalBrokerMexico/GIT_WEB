@@ -1,12 +1,10 @@
 <!DOCTYPE html>
 <html>
-
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Estearina de Palma</title>
-  <meta name="description"
-    content="Descubre nuestra esterina de palma hidrogenada de alta calidad, ideal para aplicaciones en la industria alimentaria y cosmética. Ofrecemos un producto confiable que mejora la estabilidad y textura de tus formulaciones. ¡Opta por nuestra esterina de palma para resultados consistentes y rendimiento superior en tus procesos!">
+  <title>Chemical Broker | Polisorbato 20</title>
+  <meta name="description" content="Chemical Broker distribuye mundialmente Polisorbatos"> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -16,8 +14,6 @@
   <link rel="stylesheet" href="css/History_Line.css">
   <link rel="stylesheet" href="css/jquery.dataTables.min.css">
   <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
   <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
     crossorigin="anonymous"></script>
   <script src="js/materialize.js" type="text/javascript"></script>
@@ -78,12 +74,12 @@
                 sitio web, puede almacenar o recuperar información en su navegador, principalmente en forma de cookies.
                 Esta información puede ser sobre usted, sus preferencias o su dispositivo y se utiliza principalmente
                 para hacer que el sitio funcione como espera. Por lo general, la informacion no lo identifica
-                directamente, pero puede brindarle una experiencia web mas personalizada. Debido a que respetamos su
+                directamente, pero puede brindarle una experiencia web más personalizada. Debido a que respetamos su
                 derecho a la privacidad, puede optar por no permitir algunos tipos de cookies. Haga clic en los titulos
                 de las diferentes categorías para obtener más información y cambiar nuestra configuración
                 predeterminada. Sin embargo, bloquear algunos tipos de cookies puede afectar su experiencia en el sitio
                 y los servicios que podemos ofrecer.</p>
-              <p> <a class="Botones Tipografia--general" href="#" style="color:blue;float:left;">Mas información</a></p>
+              <p> <a class="Botones Tipografia--general" href="#" style="color:blue;float:left;">Más información</a></p>
               <div class="row">
                 <div class="col s12 m12 l12 xl12" style="margin-top:16px"><a
                     class="modal-close Tipografia--general Botones" href="#!"
@@ -181,11 +177,12 @@
       <li>
         <div class="collapsible-header"
           style="background-color:black;color:white;border:none;padding:0;margin-top:-9px;margin-left:-1px;margin-right:-1px"
-          id="chefle"><span style="margin-left:15px"><b class="Tipografia--general Desplegables">Chemical Broker</b></span><i class="medium material-icons rigth" id="rotar">arrow_drop_down</i></div>
-        <div class="collapsible-header Carreras_altura" style="background-color:black;color:white;border:none;padding:0;margin-right:15px;float:right;height:0px;">
+          id="chefle"><span style="margin-left:15px"><b class="Tipografia--general Desplegables">Chemical Broker
+            </b></span><i class="medium material-icons rigth" id="rotar">arrow_drop_down</i></div>
+        <div class="collapsible-header Carreras_altura"
+          style="background-color:black;color:white;border:none;padding:0;margin-right:15px;float:right;height:0px;">
           <span style="margin-left:15px"><b class="Tipografia--general Desplegables"> <a href="Carreras.php">Carreras
               </a></b></span>
-             
         </div>
         <div class="collapsible-body" style="background-color:black;margin-left:-1px;margin-right:-1px">
           <div class="row">
@@ -269,11 +266,10 @@
                       <li> <a class="arrowblue Tipogradia--general Subtitulos"
                           href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download>Politica de Privacidad <i
                             class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-                      <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de
-                          Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-                      <li><a class="arrowblue Tipografia--general Subtitulos"
-                          href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de
-                          Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                            <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
+                                                        id="aparece"></i></a></li>
+                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                     </p>
                   </ul>
                 </section>
@@ -548,9 +544,9 @@
   <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li><img src="img/CB_ESTEARINA_PALMA_281223.png" style="height:820px;margin-top:-420px;filter:brightness(0.9)" alt="Historia Ascendente">
+          <li><img src="img/SORBATO20_BANNER.jpg" style="height:401px;margin-top:-1px;" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Estearina de Palma Alto Hidrogenado RBD</b><br></h1>
+              <h1 class="primertitulo"><b class="boldbanner">Sorbato 20</b><br></h1>
               <div class="container">
       
     </div>
@@ -561,233 +557,167 @@
     </div>
 
 
-    <div class="container">
-        <div class="row">
-            <div class="col s12 m12 l12 xl12">
-
-            <section style="margin-top:130px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Estearina de Palma Alto Hidrogenado (RBD)</b></a></section>
-
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#FF9900;"><b>Estearina de Palma RBD Alto Hidrogenado</b></h2>
-
-            <p class="Tipografia--general letranegro General--Cuerpo">La <b>Estearina de Palma Refinada, Blanqueada y Desodorizada (RBD) Alto Hidrogenado</b> es un producto derivado del aceite de palma que pasa por varios procesos para obtener ciertas características deseadas. Vamos a desglosar su descripción:</p>
-
-            <p class="Tipografia--general letranegro General--Cuerpo"><b style="color:#FF9900;">Estearina de palma:</b> Es la fracción sólida del aceite de palma que se obtiene mediante un proceso llamado fraccionamiento. Tiene un alto contenido de ácidos grasos saturados, como el ácido palmítico y el ácido esteárico.</p>
-
-            <p class="Tipografia--general letranegro General--Cuerpo"><b style="color:#FF9900;">RBD:</b> Significa que el producto ha sido refinado, blanqueado y desodorizado. Esto asegura que la estearina esté libre de impurezas, sea incolora o de color claro, y no tenga olor o sabor característico.</p>
-
-            <p class="Tipografia--general letranegro General--Cuerpo"><b style="color:#FF9900;">Alto Hidrogenado:</b> Implica que ha pasado por un proceso de hidrogenación, en el cual se convierten los ácidos grasos insaturados en saturados para aumentar la estabilidad del producto, hacerlo más sólido a temperatura ambiente y extender su vida útil.</p>
-
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#FF9900;margin-top:50px;"><b>Caracteristicas</b></h2>
-
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#FF9900;"><b>Propiedades Físicas</b></h2>
-
-            <ol>
-                <li class="Elementos--Listas"><b style="color:#FF9900;">Aspecto:</b> Sólido a temperatura ambiente (generalmente por encima de 25 °C).</li>
-                <li class="Elementos--Listas"><b style="color:#FF9900;">Color:</b> Blanco o ligeramente amarillento, gracias al proceso de refinamiento.</li>
-                <li class="Elementos--Listas"><b style="color:#FF9900;">Olor y sabor:</b> Neutros debido al blanqueo y desodorización.</li>
-                <li class="Elementos--Listas"><b style="color:#FF9900;">Punto de fusión elevado:</b> Alrededor de 50-60 °C, dependiendo del grado de hidrogenación. Esto la hace ideal para productos que requieren estabilidad a temperaturas altas.</li>
-            </ol>
-
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#FF9900;margin-top:50px;"><b>Propiedades químicas</b></h2>
-
-            <ol>
-                <li class="Elementos--Listas"><b style="color:#FF9900;">Alto contenido de ácidos grasos saturados:</b> Especialmente ácido esteárico y palmítico.</li>
-                <li class="Elementos--Listas"><b style="color:#FF9900;">Baja oxidación:</b> Debido a la eliminación de impurezas y la hidrogenación, es menos propensa a enranciarse.</li>
-                <li class="Elementos--Listas"><b style="color:#FF9900;">Estabilidad térmica:</b> No se descompone fácilmente a altas temperaturas.</li>
-                <li class="Elementos--Listas"><b style="color:#FF9900;">Bajo contenido de ácidos grasos insaturados:</b> Esto mejora su estabilidad, pero disminuye su perfil saludable para consumo directo.</li>
-            </ol>
-
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#FF9900;margin-top:50px;"><b>Propiedades funcionales</b></h2>
-
-            <ol>
-                <li class="Elementos--Listas"><b style="color:#FF9900;">Estabilidad:</b> Mantiene su forma y consistencia sólida en diversas condiciones climáticas.</li>
-                <li class="Elementos--Listas"><b style="color:#FF9900;">Textura:</b> Confiere una textura cremosa o sólida a productos como margarinas, jabones y velas.</li>
-                <li class="Elementos--Listas"><b style="color:#FF9900;">Larga vida útil:</b> Resiste la oxidación y el enranciamiento, lo que la hace duradera.</li>
-            </ol>
-
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#FF9900;">Especificaciones</b></h2>
-
-            <table>
-                <thead>
-                    <th style="color:#FF9900;text-align:center;" class="Tipografia--general letranegro General--Cuerpo"><b>Especificacion</b></th>
-                    <th style="color:#FF9900;text-align:center;" class="Tipografia--general letranegro General--Cuerpo"><b>Unidad</b></th>
-                    <th style="color:#FF9900;text-align:center;" class="Tipografia--general letranegro General--Cuerpo"><b>Parametros</b></th>
-                    <th style="color:#FF9900;text-align:center;" class="Tipografia--general letranegro General--Cuerpo"><b>Método</b></th>
-                </thead>
-
-                <tbody>
-                    <tr>
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">Índice de Acidez</td>
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">mg KOH / g</td>
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">≤ 1.0</td>
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">GB/T 9104-2008/ 6</td>
-                    </tr>
-
-                    <tr>
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">Índice de Yodo</td>
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">g I₂ / 100 g</td>
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">≤ 0.5</td>
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">GB/T 9104-2008/4</td>
-                    </tr>
-                    <tr>
-                    
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">Punto de Fusión</td>
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">°C</td>
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">≥ 57</td>
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">GB/T 617-2006</td>
-                    </tr>
-                    <tr>
-                    <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">Color</td>
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">Hazen</td>
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">≤ 450</td>
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">GB/T 9104-2008/7</td>
-                    </tr>
-                    <tr>
-                    <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">Humedad</td>
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">%</td>
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">≤ 0.2</td>
-                        <td class="Tipografia--general letranegro General--Cuerpo" style="text-align:center">GB/T 606-2003</td>
-                    </tr>
-                </tbody>
-            </table>
-
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#FF9900;margin-top:50px;"><b>Aplicaciones</b></h2>
-
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#FF9900;"><b>Industria Alimentaria</b></h2>
-
-           <ol>
-            <li class="Elementos--Listas"><b style="color:#FF9900;">Margarinas y grasas vegetales:</b>
-                <ol>
-                    <li class="Elementos--Listas">Utilizada como base para margarinas y grasas sólidas para hornear debido a su estabilidad térmica y consistencia sólida.</li>
-                </ol>
-            </li>
-           </ol>
-
-           <ol>
-            <li class="Elementos--Listas"><b style="color:#FF9900;">Confitería y chocolates:</b>
-                <ol>
-                    <li class="Elementos--Listas">Se emplea para recubrimientos sólidos (glaseados) en chocolates y caramelos, proporcionando una textura firme y brillante.</li>
-                    <li class="Elementos--Listas">Aporta estabilidad al producto, evitando que se derrita fácilmente.</li>
-                </ol>
-            </li>
-           </ol>
-
-           <ol>
-            <li class="Elementos--Listas"><b style="color:#FF9900;">Sustituto de manteca de cacao:</b>
-                <ol>
-                    <li class="Elementos--Listas">Por su alto punto de fusión, es un ingrediente económico para reemplazar parcialmente la manteca de cacao.</li>
-                </ol>
-            </li>
-           </ol>
-
-           <ol>
-            <li class="Elementos--Listas"><b style="color:#FF9900;">Frituras y productos de panadería:</b>
-                <ol>
-                    <li class="Elementos--Listas">Resiste altas temperaturas sin degradarse, lo que la hace ideal para freír y hornear.</li>
-                </ol>
-            </li>
-           </ol>
 
 
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#FF9900;"><b>Industria Cosmética</b></h2>
+  <div class="container" style="margin-top:130px;">
+    <div class="row">
+      <div class="col s12 m12 l12 xl12">
 
-            <ol>
-                <li class="Elementos--Listas"><b style="color:#FF9900;">Jabones sólidos:</b>
-                    <ol>
-                        <li class="Elementos--Listas">Aporta dureza, consistencia y espuma a los jabones.</li>
-                        <li class="Elementos--Listas">Facilita un acabado uniforme y suave al producto final.</li>
-                    </ol>
-                </li>
-            </ol>
-
-            <ol>
-                <li class="Elementos--Listas"><b style="color:#FF9900;">Cremas y bálsamos:</b>
-                    <ol>
-                        <li class="Elementos--Listas">Utilizada como base emoliente en cremas hidratantes y productos cosméticos debido a su textura y capacidad de retener humedad</li>
-                    </ol>
-                </li>
-            </ol>
-
-            <ol>
-                <li class="Elementos--Listas"><b style="color:#FF9900;">Velas de masaje:</b>
-                    <ol>
-                        <li class="Elementos--Listas">Al ser hidrogenada, aporta una textura firme que se derrite uniformemente al calentarse.</li>
-                    </ol>
-                </li>
-            </ol>
-
-
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#FF9900;"><b>Industria química y farmacéutica</b></h2>
-
-        <ol>
-            <li class="Elementos--Listas"><b style="color:#FF9900;">Fabricación de velas:</b>
-                <ol>
-                    <li class="Elementos--Listas">Es un ingrediente clave en velas sólidas y decorativas debido a su capacidad para mantener una forma estable.</li>
-                    <li class="Elementos--Listas">Mejora el tiempo de quemado y el acabado brillante.</li>
-                </ol>
-            </li>
-        </ol>
-
-        <ol>
-            <li class="Elementos--Listas"><b style="color:#FF9900;">Lubricantes sólidos:</b>
-                <ol>
-                    <li class="Elementos--Listas">Utilizada en la fabricación de grasas industriales o lubricantes para maquinaria ligera.</li>
-                </ol>
-            </li>
-        </ol>
-
-        <ol>
-            <li class="Elementos--Listas"><b style="color:#FF9900;">Cápsulas y recubrimientos:</b>
-                <ol>
-                    <li class="Elementos--Listas">En la industria farmacéutica, se emplea para recubrimientos sólidos de cápsulas o comprimidos.</li>
-                </ol>
-            </li>
-        </ol>
-
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#FF9900;"><b>Industria textil</b></h2>
-
-        <ol>
-            <li  class="Elementos--Listas"><b style="color:#FF9900;">Industria textil</b>
-                <ol>
-                    <li  class="Elementos--Listas">Aditivos para acabados textiles:
-                        <ol>
-                            <li  class="Elementos--Listas">Se usa como un componente en ceras o acabados que aportan brillo, suavidad y resistencia a la tela.</li>
-                        </ol>
-                    </li>
-                </ol>
-            </li>
-        </ol>
-
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#FF9900;"><b>Otras aplicaciones</b></h2>
-
-        <ol>
-            <li class="Elementos--Listas"><b style="color:#FF9900;">Ceras y productos para el hogar:</b>
-                <ol>
-                    <li class="Elementos--Listas">Elaboración de ceras para pisos, muebles y automóviles.</li>
-                </ol>
-            </li>
-        </ol>
-
-        <ol>
-            <li class="Elementos--Listas"><b style="color:#FF9900;">Materiales biodegradables:</b>
-                <ol>
-                    <li class="Elementos--Listas">Investigada para la fabricación de bioplásticos y otros materiales sostenibles.</li>
-                </ol>
-            </li>
-        </ol>
-
-
-        
-            </div>
-            </div>
-    
+      <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Productos_news.php"><b class="Tipografia--general Subtitulos" style="color:black;">Productos > </b></a><a class="active" href="Glycerins.php"><b class="Tipografia--general Subtitulos" style="color:red;">Sorbato 20</b></a></section>
+      </div>
+  </div>
   </div>
 
-  <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
-    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
-</a>
-  
 
+  <div class="container">
+<div class="row">
+    <div class="col s12 m12 l12 xl12">
+        <h2 class="Tipografia--geneneral letranegro General--Cuerpo"><b>Mono Laurato de Sorbtan | Sorbato 20 | Span 20</b></h2>
+
+        <p class="Tipografia--general letranegro General--Cuerpo">El <b>Sorbato 20</b> (o Monolaurato de Polisorbato 20) es un emulsionante no iónico ampliamente utilizado en diversas industrias, principalmente en la alimentaria, cosmética, farmacéutica y química. Es una variante de los polisorbatos, que son ésteres derivados del sorbitol, ácidos grasos y óxido de etileno. El código E en alimentos para este compuesto es <b>E432</b>.</p>
+
+        <h2 class="Tipografia--geneneral letranegro General--Cuerpo"><b>Caracteristicas</b></h2>
+
+        <p class="Tipografia--general letranegro General--Cuerpo">El <b>Sorbato 20</b>, también conocido como <b>Polisorbato 20</b>, es un tensoactivo no iónico derivado del sorbitol y el ácido láurico. Sus propiedades lo convierten en un excelente emulsionante y solubilizante en diversas aplicaciones.</p>
+
+        <ol>
+            <li class="Elementos--Listas"><b>Propiedades Físicas</b>
+                <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;"><b>Estado físico:</b> Líquido viscoso.</li>
+                    <li class="Elementos--Listas"><b>Color:</b> Transparente o amarillo pálido.</li>
+                    <li class="Elementos--Listas"><b>Olor:</b> Ligero, característico.</li>
+                    <li class="Elementos--Listas"><b>Solubilidad:</b>
+                        <ol>
+                            <li class="Elementos--Listas"><b>Soluble en agua.</b></li>
+                            <li class="Elementos--Listas">Miscible con alcoholes, aceites esenciales y algunos disolventes orgánicos.</li>
+                        </ol>
+                    </li>
+                    <li class="Elementos--Listas"><b>Densidad:</b> Aproximadamente 1.1 g/cm³.</li>
+                    <li class="Elementos--Listas"><b>Punto de congelación:</b> Aproximadamente -7 °C.</li>
+                    <li class="Elementos--Listas"><b>Punto de inflamación:</b> Alrededor de >100 °C.</li>
+                </ol>
+            </li>
+        </ol>
+
+
+        <ol>
+            <li class="Elementos--Listas" style="margin-top:50px;"><b>Propiedades Químicas</b>
+                <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;"><b>Nombre químico:</b> Polioxi(etileno) (20) sorbitán monolaurato.</li>
+                    <li class="Elementos--Listas"><b>Fórmula molecular:</b> C26H50O10.</li>
+                    <li class="Elementos--Listas"><b>HLB (Balance Hidrofílico-Lipofílico):</b> 16,7, lo que lo hace altamente hidrofílico y adecuado para emulsiones aceite en agua (O/W).</li>
+                    <li class="Elementos--Listas"><b>Tensoactivo no iónico:</b> Compatible con sistemas tanto iónicos como no iónicos.</li>
+                    <li class="Elementos--Listas"><b>pH:</b> Estable en un rango de pH entre 3 y 10, lo que lo hace apto para formulaciones ligeramente ácidas o alcalinas.</li>
+                </ol>
+            </li>
+        </ol>
+
+        <ol>
+            <li class="Elementos--Listas" style="margin-top:50px;"><b>Características Funcionales</b>
+                <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;"><b>Emulsionante:</b> Facilita la mezcla de ingredientes inmiscibles, como agua y aceites.</li>
+                    <li class="Elementos--Listas"><b>Solubilizante:</b> Permite incorporar aceites esenciales y fragancias en soluciones acuosas.</li>
+                    <li class="Elementos--Listas"><b>Dispersante:</b> Ayuda a distribuir ingredientes activos uniformemente en una fórmula.</li>
+                    <li class="Elementos--Listas"><b>Estabilizador:</b> Mejora la estabilidad de emulsiones y soluciones.</li>
+                    <li class="Elementos--Listas"><b>Humectante:</b> Retiene la humedad en productos cosméticos y alimenticios.</li>
+                </ol>
+            </li>
+        </ol>
+
+        <ol>
+            <li class="Elementos--Listas" style="margin-top:50px;"><b>Ventajas</b>
+                <ol>
+                    <li style="margin-top:30px" class="Elementos--Listas"><b>Versatilidad:</b> Útil en productos cosméticos, farmacéuticos, alimentarios y químicos.</li>
+                    <li class="Elementos--Listas"><b>Alta compatibilidad:</b> Compatible con otros emulsionantes y estabilizadores.</li>
+                    <li class="Elementos--Listas"><b>Seguridad:</b> Suave para la piel y mucosas en concentraciones recomendadas.</li>
+                    <li class="Elementos--Listas"><b>Biodegradable:</b> Se degrada fácilmente en el medio ambiente, siendo menos contaminante.</li>
+                </ol>
+            </li>
+        </ol>
+
+        <ol>
+            <li class="Elementos--Listas" style="margin-top:50px;"><b>Usos Comunes</b>
+                <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;"><b>Cosmética:</b> Cremas, lociones, champús, sprays faciales y corporales.</li>
+                    <li class="Elementos--Listas"><b>Alimentación:</b> Salsas, postres y bebidas con aceites esenciales.</li>
+                    <li class="Elementos--Listas"><b>Farmacéutica:</b> Soluciones tópicas, jarabes y emulsiones.</li>
+                    <li class="Elementos--Listas"><b>Limpieza:</b> Detergentes líquidos y productos de limpieza.</li>
+                </ol>
+            </li>
+        </ol>
+
+        <h2 class="Tipografia--geneneral letranegro General--Cuerpo" style="margin-top:50px;"><b>Aplicaciones</b></h2>
+
+        <p class="Tipografia--general letranegro General--Cuerpo">El <b>Sorbato 20</b> tiene aplicaciones muy diversas gracias a sus propiedades como emulsionante, solubilizante y estabilizador. Es utilizado en las industrias cosmética, alimentaria, farmacéutica y química:</p>
+
+        <h2 class="Tipografia--geneneral letranegro General--Cuerpo" style="margin-top:50px;"><b>Industria Cosmética</b></h2>
+
+        <p class="Tipografia--general letranegro General--Cuerpo">El <b>Sorbato 20</b> es uno de los ingredientes más comunes en productos para el cuidado personal por su capacidad para mezclar agua con aceites esenciales y otros compuestos liposolubles.</p>
+
+        <ol>
+            <li class="Elementos--Listas"><b>Cremas y lociones hidratantes:</b> Estabiliza emulsiones aceite-en-agua (O/W) y mejora la textura del producto.</li>
+            <li class="Elementos--Listas"><b>Sprays corporales y faciales:</b> Solubiliza aceites esenciales y fragancias en soluciones acuosas.</li>
+            <li class="Elementos--Listas"><b>Limpiadores y tónicos faciales:</b> Facilita la incorporación de ingredientes activos y fragancias, manteniendo la fórmula homogénea.</li>
+            <li class="Elementos--Listas"><b>Champús y acondicionadores:</b> Ayuda a distribuir los ingredientes activos de manera uniforme, evitando la separación de fases.</li>
+            <li class="Elementos--Listas"><b>Protectores solares:</b> Permite mezclar filtros UV liposolubles con bases acuosas.</li>
+            <li class="Elementos--Listas"><b>Maquillaje líquido y BB creams:</b> Actúa como emulsionante y estabilizador para pigmentos y aceites.</li>
+        </ol>
+
+        <h2 class="Tipografia--geneneral letranegro General--Cuerpo" style="margin-top:50px;"><b>Industria Alimentaria</b></h2>
+
+        <p class="Tipografia--general letranegro General--Cuerpo">En la alimentación, el <b>Sorbato 20</b> está aprobado como aditivo con el código E432 y se utiliza como emulsionante y estabilizador.</p>
+
+        <ol>
+            <li class="Elementos--Listas"><b>Salsas y aderezos:</b> Mejora la textura y evita la separación del aceite y el agua.</li>
+            <li class="Elementos--Listas"><b>Helados:</b> Previene la formación de cristales de hielo grandes, mejorando la cremosidad.</li>
+            <li class="Elementos--Listas"><b>Bebidas:</b> Permite la solubilización de aceites esenciales, como los usados en refrescos o bebidas con sabores cítricos.</li>
+            <li class="Elementos--Listas"><b>Pastelería:</b> Aumenta la estabilidad de masas y prolonga la frescura del producto final.</li>
+        </ol>
+
+        <h2 class="Tipografia--geneneral letranegro General--Cuerpo" style="margin-top:50px;"><b>Industria Farmacéutica</b></h2>
+
+        <p class="Tipografia--general letranegro General--Cuerpo">El <b>Sorbato 20</b> se utiliza como emulsionante y solubilizante en medicamentos tópicos, orales y parenterales.</p>
+
+        <ol>
+            <li class="Elementos--Listas"><b>Cremas y ungüentos:</b> Ayuda a mezclar principios activos liposolubles con bases acuosas.</li>
+            <li class="Elementos--Listas"><b>Jarabes y soluciones orales:</b> Solubiliza ingredientes liposolubles en formulaciones líquidas.</li>
+            <li class="Elementos--Listas"><b>Emulsiones inyectables:</b>Se utiliza para combinar aceites esenciales y principios activos en soluciones acuosas.</li>
+            <li class="Elementos--Listas"><b>Productos oftálmicos</b>: Sirve como estabilizador y solubilizante en gotas para los ojos.</li>
+        </ol>
+
+        <h2 class="Tipografia--geneneral letranegro General--Cuerpo" style="margin-top:50px;"><b>Industria Química e Industrial</b></h2>
+
+        <p class="Tipografia--general letranegro General--Cuerpo">El <b>Sorbato 20</b> también tiene usos prácticos en productos químicos e industriales debido a sus propiedades emulsionantes y dispersantes</p>
+
+        <ol>
+            <li class="Elementos--Listas"><b>Detergentes líquidos:</b> Facilita la mezcla de aceites y agua en productos de limpieza.</li>
+            <li class="Elementos--Listas"><b>Ambientadores:</b> Solubiliza fragancias en aerosoles o líquidos.</li>
+            <li class="Elementos--Listas"><b>ditivos industriales:</b> Se usa como emulsionante en pinturas y recubrimientos.</li>
+        </ol>
+
+
+<h2 class="Tipografia--geneneral letranegro General--Cuerpo" style="margin-top:50px;"><b>Otros Usos Especificos</b></h2>
+
+<ol>
+    <li class="Elementos--Listas"><b>Aromaterapia y productos naturales:</b> Permite disolver aceites esenciales en bases acuosas para sprays o brumas.</li>
+    <li class="Elementos--Listas"><b>Productos veterinarios:</b> Se emplea en soluciones orales y tópicas para animales.</li>
+    <li class="Elementos--Listas"><b>Productos agrícolas:</b> Ayuda a estabilizar pesticidas y herbicidas en formulaciones líquidas.</li>
+</ol>
+
+<h2 class="Tipografia--geneneral letranegro General--Cuerpo" style="margin-top:50px;"><b>Ventajas de su Uso</b></h2>
+
+<ol>
+    <li class="Elementos--Listas">Versátil y seguro para la piel y mucosas.</li>
+    <li class="Elementos--Listas">Compatible con una amplia gama de ingredientes.</li>
+    <li class="Elementos--Listas">Mejora la estabilidad y apariencia de los productos.</li>
+    <li class="Elementos--Listas">Facilita la incorporación de aceites esenciales y fragancias.</li>
+</ol>
+        
+    </div>
+</div>
+  </div>
+
+ 
 
 </body>
 <footer style="margin-top:70px">

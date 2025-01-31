@@ -451,7 +451,7 @@
                 </h5>
               </div><img class="mercadosimagen " src="img/CB_MILK_190521.jpg" alt="" style="border-radius: 10px;"/>
             </div></a></div>
-        <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Proximamente.php" style="cursor:pointer;">
+        <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Leche_Polvo.php" style="cursor:pointer;">
             <div class="contenedor">
               <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
               <div class="centrado_sub" style="position:absolute;z-index:2">

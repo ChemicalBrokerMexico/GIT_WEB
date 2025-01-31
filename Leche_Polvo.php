@@ -399,7 +399,7 @@
             <div class="caption center-align"><br><br><br><br>
               <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Leche en Polvo</b>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:white;">Mercados ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:white;">Alimentos ></b></a> <a class="active" href="Lacteos.php"><b class="Tipografia--general Subtitulos" style="color:white;">Lacteos ></b> <a class="active" href="Leche.php"><b class="Tipografia--general Subtitulos" style="color:red;">Leche en Polvo</b></a></a></section>
+     
     </div>
             </div>
           </li>
@@ -411,9 +411,12 @@
     <div class="container" style="margin-top:130px;">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-          <p class="Tipografia--general letranegro General--Cuerpo">La industria de la leche en polvo es una rama importante del sector lacteo que transforma la leche liquida en un producto seco, ligero y de larga duracion. Este formato es especialmente relevante en regiones con acceso limitado a productos frescos, en la produccion de alimentos procesados y como ingrediente en diversas industrias</p>
 
-          <h5 class="Tipografia--general letranegro General--Cuerpo">Caracteristicas de la leche en polvo</h5>
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:black;">Mercados ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:black;">Alimentos ></b></a> <a class="active" href="Lacteos.php"><b class="Tipografia--general Subtitulos" style="color:black;">Lacteos ></b> <a class="active" href="Leche.php"><b class="Tipografia--general Subtitulos" style="color:red;">Leche en Polvo</b></a></a></section>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">La industria de la Leche en Polvo es una rama importante del sector lacteo que transforma la leche liquida en un producto seco, ligero y de larga duracion. Este formato es especialmente relevante en regiones con acceso limitado a productos frescos, en la produccion de alimentos procesados y como ingrediente en diversas industrias</p>
+
+          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Caracteristicas de la leche en polvo</b></h5>
 
           <ol>
             <li class="Elementos--Listas">Se obtiene eliminando casi toda el agua de la leche liquida mediante metodos como la evaporacion y el secado por atomizacion</li>
@@ -421,130 +424,130 @@
             <li class="Elementos--Listas">Leche desmecramada el polvo: Baja en grasa, con mayor duracion y versatilidad.</li>
           </ol>
 
-          <h5 class="Tipografia--general letranegro General--Cuerpo">Proceso de Producción</h5>
+          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Proceso de Producción</b></h5>
 
-          <p>El proceso involucra varias etapas clave:</p>
-
-          <ol>
-            <li>Recoleccion y pasteurización: La leche cruda se pasteuriza para eliminar microorganismos y garantizar su seguridad</li>
-            <li>Concentración: Se reduce el contenido de agua mediante evaporacion al vacio</li>
-            <li>Secado por atomización: La leche concentrada se pulveriza en una cámara de aire caliente, donde el agua restante se evapora rápidamente, dejando partículas secas</li>
-            <li>Enfriado y empaquetado: El polvo se enfría para evitar la formacion de grumos y se empaca en condiciones herméticas para prevenir la contaminacion y la humedad</li>
-          </ol>
-
-          <h5 class="Tipografia--general letranegro General--Cuerpo">Usos de la leche en polvo</h5>
+          <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:;">El proceso involucra varias etapas clave:</p>
 
           <ol>
-            <li>Consumo directo: Mezclada con agua para reconstituirla como leche líquida</li>
-            <li>Industria Alimentaria: Ingrediente en productos como pan, pasteles, chocolates, helados, sopas instantaneas y salsas</li>
-            <li>Nutrición infantil: Base para la formula láctea de bebés</li>
-            <li>Aplicaciones Industriales: En alimentos procesados y en nutricion animal</li>
+            <li class="Elementos--Listas">Recoleccion y pasteurización: La leche cruda se pasteuriza para eliminar microorganismos y garantizar su seguridad</li>
+            <li class="Elementos--Listas">Concentración: Se reduce el contenido de agua mediante evaporacion al vacio</li>
+            <li class="Elementos--Listas">Secado por atomización: La leche concentrada se pulveriza en una cámara de aire caliente, donde el agua restante se evapora rápidamente, dejando partículas secas</li>
+            <li class="Elementos--Listas">Enfriado y empaquetado: El polvo se enfría para evitar la formacion de grumos y se empaca en condiciones herméticas para prevenir la contaminacion y la humedad</li>
           </ol>
 
-          <h5 class="Tipografia--general letranegro General--Cuerpo">Retos de la industria</h5>
+          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Usos de la leche en polvo</b></h5>
+
+          <ol>
+            <li class="Elementos--Listas">Consumo directo: Mezclada con agua para reconstituirla como leche líquida</li>
+            <li class="Elementos--Listas">Industria Alimentaria: Ingrediente en productos como pan, pasteles, chocolates, helados, sopas instantaneas y salsas</li>
+            <li class="Elementos--Listas">Nutrición infantil: Base para la formula láctea de bebés</li>
+            <li class="Elementos--Listas">Aplicaciones Industriales: En alimentos procesados y en nutricion animal</li>
+          </ol>
+
+          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Retos de la industria</b></h5>
           
           <ol>
-            <li>Fluctuaciín de precios: Los precios de la leche en polvo están sujetos a variaciones en los costos de materias primas, transporte y regulaciones internacionales</li>
-            <li>Impacto Ambiental: La produccion de leche (liquida y en polvo) genera preocupaciones por su huella hídrica y de carbono</li>
-            <li>Competencia con alternativas vegetales: Las bebidas en polvo a base de soya, avena y almendra están ganando popularidad entre los consumidores conscientes del medio ambiente y la salud</li>
-            <li>Regulaciones estrictas: Las normas de calidad y seguridad alimentaria son exigentes, especialmente para formulas infantiles</li>
+            <li class="Elementos--Listas">Fluctuaciín de precios: Los precios de la leche en polvo están sujetos a variaciones en los costos de materias primas, transporte y regulaciones internacionales</li>
+            <li class="Elementos--Listas">Impacto Ambiental: La produccion de leche (liquida y en polvo) genera preocupaciones por su huella hídrica y de carbono</li>
+            <li class="Elementos--Listas">Competencia con alternativas vegetales: Las bebidas en polvo a base de soya, avena y almendra están ganando popularidad entre los consumidores conscientes del medio ambiente y la salud</li>
+            <li class="Elementos--Listas">Regulaciones estrictas: Las normas de calidad y seguridad alimentaria son exigentes, especialmente para formulas infantiles</li>
           </ol>
 
-          <h5 class="Tipografia--general letranegro General--Cuerpo">Ingredientes Quimicos</h5>
+          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Ingredientes Quimicos</b></h5>
 
           <ol>
-            <li>Agentes Antioxidantes: Evitan la oxidacion de las grasas, especialmente en la leche entera de polvo, prolongando su vida util:
+            <li class="Elementos--Listas">Agentes Antioxidantes: Evitan la oxidacion de las grasas, especialmente en la leche entera de polvo, prolongando su vida util:
               <ol>
-                <li>Tocoferoles (Vitamina E): Se usan como antixiodantes naturales</li>
-                <li>Ácido Ascorbico Vitamina (C): Ayuda a prevenir la oxidacion</li>
-                <li>Palmitato de ascorbilo: Una forma de vitamina C más estable utilizada como antioxidantes</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Tocoferoles (Vitamina E): Se usan como antixiodantes naturales</li>
+                <li class="Elementos--Listas">Ácido Ascorbico Vitamina (C): Ayuda a prevenir la oxidacion</li>
+                <li class="Elementos--Listas">Palmitato de ascorbilo: Una forma de vitamina C más estable utilizada como antioxidantes</li>
               </ol>
             </li>
           </ol>
 
           <ol>
-            <li>Emulsionantes: Mejoran la disolucion de la leche en polvo cuando se reconstituye y ayudan a estabilizar las grasas:
+            <li class="Elementos--Listas" style="margin-top:50px;">Emulsionantes: Mejoran la disolucion de la leche en polvo cuando se reconstituye y ayudan a estabilizar las grasas:
               <ol>
-                <li>Mono y diglicéridos de ácidos grasos: Facilitan la mezcla de las grasas con el agua al preparar la leche líquida</li>
-                <li>Lecitina de soya o girasol: Ayuda a que el polvo se mezcla facilmente con agua</li>
-                <li>Ésteres de ácido tartárico y mono y diglicéridos (DATEM): Usados para mejorar la dispersión</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Mono y diglicéridos de ácidos grasos: Facilitan la mezcla de las grasas con el agua al preparar la leche líquida</li>
+                <li class="Elementos--Listas">Lecitina de soya o girasol: Ayuda a que el polvo se mezcla facilmente con agua</li>
+                <li class="Elementos--Listas">Ésteres de ácido tartárico y mono y diglicéridos (DATEM): Usados para mejorar la dispersión</li>
               </ol>
             </li>
           </ol>
 
           <ol>
-            <li> Estabilizantes: Proporcionan uniformidad y evitan la formacion de grumos:
+            <li class="Elementos--Listas" style="margin-top:50px;"> Estabilizantes: Proporcionan uniformidad y evitan la formacion de grumos:
               <ol>
-                <li>Fosfatos (fosfato de sodio, fosfato de potasio): Mantienen la estabilidad y mejoran la solubilidad del polvo </li>
-                <li>Citratos (citrato de sodio o de potasio): Evitan la coagulación durante el proceso de secado</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Fosfatos (fosfato de sodio, fosfato de potasio): Mantienen la estabilidad y mejoran la solubilidad del polvo </li>
+                <li class="Elementos--Listas">Citratos (citrato de sodio o de potasio): Evitan la coagulación durante el proceso de secado</li>
               </ol>
             </li>
           </ol>
 
             <ol>
-              <li> Fortificantes Nutricionales: Se añaden para aumentar el valor nutricional del producto, especialmente en fórmulas infantiles y leche en polvo fortificada:
+              <li class="Elementos--Listas" style="margin-top:50px;"> Fortificantes Nutricionales: Se añaden para aumentar el valor nutricional del producto, especialmente en fórmulas infantiles y leche en polvo fortificada:
                 <ol>
-                  <li>Vitaminas A y D: Fortifican el producto para compensar las pérdidas durante el procesamiento</li>
-                  <li>Calcio adicional (carbonato de calcio, fosfato tricálcico): Mejora el contenido de minerales</li>
-                  <li>Hierro (fumarato ferroso, sulfato ferroso): Común en fórmulas infantiles</li>
-                  <li>Ácidos grasos omega - 3: Para la fortificación en productos premium</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Vitaminas A y D: Fortifican el producto para compensar las pérdidas durante el procesamiento</li>
+                  <li class="Elementos--Listas">Calcio adicional (carbonato de calcio, fosfato tricálcico): Mejora el contenido de minerales</li>
+                  <li class="Elementos--Listas">Hierro (fumarato ferroso, sulfato ferroso): Común en fórmulas infantiles</li>
+                  <li class="Elementos--Listas">Ácidos grasos omega - 3: Para la fortificación en productos premium</li>
                 </ol>
               </li>
             </ol>
 
             <ol>
-              <li> Reguladores de acidez: Controlan el pH durante el proceso de producción y mejoran la estabilidad del producto:
+              <li class="Elementos--Listas" style="margin-top:50px;"> Reguladores de acidez: Controlan el pH durante el proceso de producción y mejoran la estabilidad del producto:
                 <ol>
-                  <li>Bicarbonato de sodio: Se usa para neutralizar la acidez</li>
-                  <li>Hidróxido de calcio: Ajusta el pH en ciertos procesos</li>
-                  <li>Ácido cítrico: Utilizado para estabilizar en productos acidificados o con sabores</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Bicarbonato de sodio: Se usa para neutralizar la acidez</li>
+                  <li class="Elementos--Listas">Hidróxido de calcio: Ajusta el pH en ciertos procesos</li>
+                  <li class="Elementos--Listas">Ácido cítrico: Utilizado para estabilizar en productos acidificados o con sabores</li>
                 </ol>
               </li>
             </ol>
 
             <ol>
-              <li> Agentes aglomerantes: Evitan que las particulas de leche en polvo se peguen entre si y aseguran una textura uniforme:
+              <li class="Elementos--Listas" style="margin-top:50px;"> Agentes aglomerantes: Evitan que las particulas de leche en polvo se peguen entre si y aseguran una textura uniforme:
                 <ol>
-                  <li>Silicato de calcio: Actúa como agente de flujo para mantener el polvo seco y suelto</li>
-                  <li>Dióxido de silicio: Comúnmente utilizado como antiaglomerante en productos en polvo</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Silicato de calcio: Actúa como agente de flujo para mantener el polvo seco y suelto</li>
+                  <li class="Elementos--Listas">Dióxido de silicio: Comúnmente utilizado como antiaglomerante en productos en polvo</li>
                 </ol>
               </li>
             </ol>
 
             <ol>
-              <li> Edulcorantes (opcional): En productos especificos, como leche en polvo saborizada o fórmulas infantiles:
+              <li class="Elementos--Listas" style="margin-top:50px;"> Edulcorantes (opcional): En productos especificos, como leche en polvo saborizada o fórmulas infantiles:
                 <ol>
-                  <li>Azúcar (sacarosa): Para productos saborizados</li>
-                  <li>Lactosa: Para mejorar la palatabilidad</li>
-                  <li>Edulcorantes artificiales (aspartame, acesulfame-K): Usados en productos bajos en calorias</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Azúcar (sacarosa): Para productos saborizados</li>
+                  <li class="Elementos--Listas">Lactosa: Para mejorar la palatabilidad</li>
+                  <li class="Elementos--Listas">Edulcorantes artificiales (aspartame, acesulfame-K): Usados en productos bajos en calorias</li>
                 </ol>
               </li>
             </ol>
 
 
             <ol>
-              <li> Conservadores: La leche en polvo tiene una vida util prolongada debido a la baja actividad de agua, por lo que los conservadores son poco comunes.
+              <li class="Elementos--Listas" style="margin-top:50px;"> Conservadores: La leche en polvo tiene una vida util prolongada debido a la baja actividad de agua, por lo que los conservadores son poco comunes.
                 <ol>
-                  <li>Sorbato de potasio: Puede usarse en mezclas de leche en polvo con otros ingredientes</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Sorbato de potasio: Puede usarse en mezclas de leche en polvo con otros ingredientes</li>
                 </ol>
               </li>
             </ol>
 
             <ol>
-              <li> Colorantes: En productos saborizados o especializados:
+              <li class="Elementos--Listas" style="margin-top:50px;"> Colorantes: En productos saborizados o especializados:
                 <ol>
-                  <li>Beta-caroteno: Proporciona un color amarillo natural</li>
-                  <li>Annato: Se utiliza en productos especificos para realzar el color</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Beta-caroteno: Proporciona un color amarillo natural</li>
+                  <li class="Elementos--Listas">Annato: Se utiliza en productos especificos para realzar el color</li>
                 </ol>
               </li>
             </ol>
 
             <ol>
-              <li> Ingredientes especificos para fórmulas infantiles
+              <li class="Elementos--Listas" style="margin-top:50px;"> Ingredientes especificos para fórmulas infantiles
                 <ol>
-                  <li>Lactosa: Como fuente de carbohidratos</li>
-                  <li>Aceites vegetales: Fuentes de grasas esenciales (como aceite de palma, canola, coco, entre otros)</li>
-                  <li>Ácidos grasos DHA y ARA: Para el desarrollo cerebral y visual</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Lactosa: Como fuente de carbohidratos</li>
+                  <li class="Elementos--Listas">Aceites vegetales: Fuentes de grasas esenciales (como aceite de palma, canola, coco, entre otros)</li>
+                  <li class="Elementos--Listas">Ácidos grasos DHA y ARA: Para el desarrollo cerebral y visual</li>
                 </ol>
               </li>
             </ol>
