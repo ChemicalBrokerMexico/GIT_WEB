@@ -7,12 +7,12 @@ $(document).ready(function(){
     
     <div class="row" style="margin-top:-30px;"> 
     <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_ACEITE_COCO2.jpg" alt="" class="zoom IMG_Seccion_Prod">
+    <img src="img/CANOLA_ACEITE.jpg" alt="" class="zoom IMG_Seccion_Prod">
     </div>
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Coco</b></h5>
+    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Canola RBD</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b style="color:#000020">Aceite de Coco</b> es un aceite vegetal derivado de la pulpa del coco (Cocos nucifera). Se obtiene mediante procesos de prensado en frio o extracción con calor de la carne blanca o la copra del coco. Es conocido por su alta concentración de ácidos grasos saturados de cadena media, especialmente acido láurico.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El Aceite de Canola Refinado Blanqueado y Desodorizado (RBD) es un tipo de aceite vegetal que se ha sometido a un proceso de refinamiento para eliminar impurezas, blanquearlo y eliminar olores o sabores fuertes.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Coco.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -108,7 +108,7 @@ $(document).ready(function(){
 
     <div class="row" style="margin-top:150px"> 
     <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/ALCOHOLES-GRASOS_IMAGEN-1.jpg" alt=""  class="zoom IMG_Seccion_Prod">
+    <img src="img/ALCOHOL_GRASO_250225.jpg" alt=""  class="zoom IMG_Seccion_Prod">
     </div>
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Alcoholes Grasos</b></h5>
@@ -543,7 +543,19 @@ function filtroall(){
     `
     document.getElementById("contenedorliteral").innerHTML = `
 
-    <div class="row" style="margin-top:-10px;"> 
+    <div class="row" style="margin-top:-30px;"> 
+    <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img/CANOLA_ACEITE.jpg" alt="" class="zoom IMG_Seccion_Prod">
+    </div>
+    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
+    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Canola RBD</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">El Aceite de Canola Refinado Blanqueado y Desodorizado (RBD) es un tipo de aceite vegetal que se ha sometido a un proceso de refinamiento para eliminar impurezas, blanquearlo y eliminar olores o sabores fuertes.</p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Coco.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
+    <div class="row" style="margin-top:150px;"> 
     <div class="col s12 m12 l12 xl6 center-align">
     <img src="img/CB_ACEITE_COCO2.jpg" alt="" class="zoom IMG_Seccion_Prod">
     </div>
@@ -644,7 +656,7 @@ function filtroall(){
 
     <div class="row" style="margin-top:150px"> 
     <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/ALCOHOLES-GRASOS_IMAGEN-1.jpg" alt=""  class="zoom IMG_Seccion_Prod">
+    <img src="img/ALCOHOL_GRASO_250225.jpg" alt=""  class="zoom IMG_Seccion_Prod">
     </div>
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos"><b>Alcoholes Grasos</b></h5>
@@ -1063,8 +1075,19 @@ function filtroa(){
     `
     document.getElementById("contenedorliteral").innerHTML = `
 
-
     <div class="row" style="margin-top:-10px;"> 
+    <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img/CANOLA_ACEITE.jpg" alt="" class="zoom IMG_Seccion_Prod">
+    </div>
+    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
+    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Canola RBD</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">El Aceite de Canola Refinado Blanqueado y Desodorizado (RBD) es un tipo de aceite vegetal que se ha sometido a un proceso de refinamiento para eliminar impurezas, blanquearlo y eliminar olores o sabores fuertes.</p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Coco.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
+    <div class="row" style="margin-top:150px;"> 
     <div class="col s12 m12 l12 xl6 center-align">
     <img src="img/CB_ACEITE_COCO2.jpg" alt="" class="zoom IMG_Seccion_Prod">
     </div>
@@ -1164,7 +1187,7 @@ function filtroa(){
 
     <div class="row" style="margin-top:150px"> 
     <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/ALCOHOLES-GRASOS_IMAGEN-1.jpg" alt=""  class="zoom IMG_Seccion_Prod">
+    <img src="img/ALCOHOL_GRASO_250225.jpg" alt=""  class="zoom IMG_Seccion_Prod">
     </div>
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative">
     <h5 class="Tipografia--general Titulos"><b>Alcoholes Grasos</b></h5>

@@ -411,7 +411,49 @@
     </div>
    
 
-
+    <div class="container">
+      <div class="row">
+        <div class="col s12 m12 l12 xl12">
+          <p class="Tipografia--general letranegro General--Cuerpo">La avicultura es una de las industrias pecuarias mas importantes a nivel mundial, dedicada a la cria de aves, principalmente de gallinas, para la produccion de carne y huevos. Su eficiencia en la conversion alimenticia, rapida crecimiento y alta demanda hacen que sea una actividad fundamental dentro del sector agroalimentario</p>
+          <h2 class="Tipografia--general letranegro General--Cuerpo">Aspectos claves de la industria avicola</h2>
+          <ol>
+            <li>Produccion Global: China, EE.UU, Brasil y la UE lideran la produccion de carne de pollo y huevos</li>
+            <li>Tipos de Produccion: Se divide en produccion de carne (pollo de engorde) y produccion de huevos (gallinas ponedoras)</li>
+            <li>Manejo y alimentacion: Basada en maiz, soya, minerales y aditivos para mejorar el crecimiento y la calidad del producto</li>
+            <li>Sanidad y bioseguridad: Control estricto de enfermedades como la influenza aviar y la enfermedad de newcastle</li>
+          </ol>
+          <h2 class="Tipografia--general letranegro General--Cuerpo">Tendencias y desafios en la industria avicola</h2>
+          <ol>
+            <li>Tendencias
+              <ol>
+                <li>Uso de sistemas automatizados para alimentacion, temperatura y monitoreo de la salud</li>
+                <li>Reduccion de antbioticos en la produccion para cumplir regulaciones</li>
+                <li>Avances en genetica para mejorar la conversacion alimenticia y resistencia a enfermedades</li>
+                <li>Mayor demanda de productos sostenibles y bienestar animal</li>
+              </ol>
+            </li>
+          </ol>
+          <ol>
+            <li>Desafios
+              <ol>
+                <li>Enfermedades virales con impacto economico y restricciones comerciales</li>
+                <li>Fluctuaciones en el precio de granos y materias primas</li>
+                <li>Regulaciones ambientales mas estrictas en el manejo de desechos y emisiones</li>
+                <li>Crecimiento de la preferencia por dietas alternativas (vegetarianas, veganas)</li>
+              </ol>
+            </li>
+          </ol>
+          <h2 class="Tipografia--general letranegro General--Cuerpo">Ingredientes quimicos utilizados en la industria avicola</h2>
+              <ol>
+                <li>Aditivos Nutricionales: Lisina, Metionina, Treonina para mejorar la eficiencia alimenticia</li>
+                <li>Antioxidantes: BHT y tocoferoles para consevar la frescura del alimento</li>
+                <li>Conservantes y acidificantes: Acido propionico y acido citrico para prevenir el crecimiento de hongos y bacterias en el alimento</li>
+                <li>Mejoradores de digestion: Enzimas (fitasas,proteasas) y probioticos para mejorar la absorcion de nutrientes</li>
+                <li></li>
+          </ol>
+        </div>
+      </div>
+    </div>
 
 
 

@@ -597,7 +597,7 @@
 
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;"><b>Chemical
             Broker</b>
-          ofrece una amplia gama de Ácidos Grasos de cadena corta, cadena media y cadena larga. Nuestras relaciones de
+          ofrece una amplia gama de <b>Ácidos Grasos</b> de cadena corta, cadena media y cadena larga. Nuestras relaciones de
           negocios con nuestros fabricantes en America, Europa y Asia brindan capacidad de respuesta y garantía de
           suministro en todo el mundo.</p>
 
@@ -2179,7 +2179,7 @@
 
 <h5 class="Tipografia--general Cuerpo--General Acidnomobile" style="background-color:#1F3864;color:white;padding:15px;margin-top:50px;">Hidrogenado / Destilado</h5>
 <br>
-<h5 class="Tipografia--general Cuerpo--General Acidnomobile" style="color:#1F3864;margin-top:50px;">Acidos Grasos | Base Soya</h5>
+<h5 class="Tipografia--general Cuerpo--General Acidnomobile" style="color:#1F3864;margin-top:50px;"><b>Acidos Grasos | Base Soya</b></h5>
 
 
 

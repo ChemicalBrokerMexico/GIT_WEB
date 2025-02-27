@@ -403,34 +403,75 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Lacteos.php" style="color:#262137 !important;margin-left:-2px"><b>Carnicos  ></b></a> <a href="Porcino.php" class="breitem active" style="color:#262137 !important"><b class="Tipografia--general letranegro Subtitulos breadcrumb">Porcino</b></a> </section></section>
+        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Lacteos.php" style="color:#262137 !important;margin-left:-2px"><b>Carnicos  ></b></a> <a href="Porcino.php" class="breitem active" style="color:#262137 !important"><b class="Tipografia--general Subtitulos" style="color:red;">Porcino</b></a> </section></section>
         </div>
       </div>
     </div>
    
 
-<div class="container">
-<div class="row">
-<div class="col s12 m12 l12 xl12">
-<p style="color: orange;">Se espera que para este año 2021 la producción porcina en México sea de 20,8 millones de cabezas a medida que aumenta la demanda de carne de cerdo en México y en todo el mundo (un ligero aumento de la producción prevista para 2020 de 20,28 millones de cabezas).
-</p>
-<p style="color: orange;">Se espera que en 2021 la producción de carne de cerdo en México sea de 1.53 millones de toneladas. La demanda de la carne de cerdo es debido a que la tendencia de los consumidores a proteínas animales más asequibles.</p>
-</div>
-<div class="col s12 m12 l12 xl12">
-<h5><b style="color: #262137;">Productos</b></h5>
-</div>
-</div>
-</div>
+    <div class="container">
+      <div class="row">
+        <div class="col s12 m12 l12 xl12">
+          <p class="Tipografia--general letranegro General--Cuerpo">El ganado porcino es una de las principales fuentes de produccion de carne a nivel mundial, destacandose por su falta de eficiencia en la en la conversion alimenticia y rapido crecimiento. Su cria se centra en la obtencion de carne de cerdo, grasa y subproductos utilizados en diversas industrias. La produccion porcina involucra sistemas intensivos, semi-intensivos y extensivos dependiendo de factores como tecnologia, inversion y manejo sanitario.</p>
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Aspectos claves de la industria porcina</b></h2>
+          <ol>
+            <li class="Elementos--Listas">Produccion global: China, EE.UU, Brasil y la UE son los principales productores de carne de cerdo</li>
+            <li class="Elementos--Listas">Razas principales: Landrace, Yorkshire, Duroc, Pietrain son algunas de las razas mas utilizadas en produccion comercial</li>
+            <li class="Elementos--Listas">Manejo y alimentacion: La dieta de los cerdos esta basada en granos, proteinas y suplementos nutricionales para mejorar el rendimiento y la calidad de la carne</li>
+            <li class="Elementos--Listas">Sanidad y bioseguridad: Se implementan estrictas medidas sanitarias para prevenir enfermedades como la peste porcina africana y el sindrome reproductivo y respiratorio porcino</li>
+          </ol>
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Tendencias y desafios en la industria porcina</b></h2>
+          <ol>
+            <li class="Elementos--Listas">Tendecias
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Uso de tecnologias en la produccion, como sensores y monitoreo en tiempo real</li>
+                <li class="Elementos--Listas">Reduccion de antibioticos en la alimentacion para cumplir con regulaciones internacionales</li>
+                <li class="Elementos--Listas">Mayor enfoque en sostenibilidad y reduccion de la huella ambiental</li>
+                <li class="Elementos--Listas">Innovaciones en genetica para mejorar la eficiencia producctiva</li>
+              </ol>
+            </li>
+          </ol>
+          <ol>
+            <li style="margin-top:50px;" class="Elementos--Listas">Desafios
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Fluctuaciones en costos de insumos, especialmente granos y proteinas</li>
+                <li class="Elementos--Listas">Enfermedades emergentes que pueden afectar la produccion y el comercio</li>
+                <li class="Elementos--Listas">Regulaciones ambientales mas estrictas en manejo de residuos</li>
+                <li class="Elementos--Listas">Volatabilidad en el mercado internacional debido a restricciones comerciales y demanda cambiante</li>
+              </ol>
+            </li>
+          </ol>
+          <ol>
+            <li style="margin-top:50px;" class="Elementos--Listas">Ingredientes quimicos utilizados en la industria porcina
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Aditivos nutricionales: Aminoacidos esenciales (lisina, metionina, treonina)</li>
+                <li class="Elementos--Listas">Antioxidantes: Butilhidroxitolueno (BHT) y etoxiquina para conservar alimentos</li>
+                <li class="Elementos--Listas">Conservantes y acidificantes: Acido formico, acido propionico, acido benzoico para prevenir el crecimiento de patogenos en el alimento.</li>
+                <li class="Elementos--Listas">Mejoradores de digestion: Enzimas como fitosas y probioticos para optimizar la absorcion de nutrientes</li>
+                <li class="Elementos--Listas">Desinfectantes y biocidas: Glutaraldehido, formaldehido, peroxidos para higiene y bioseguridad de instalaciones</li>
+              </ol>
+            </li>
+          </ol>
 
+        </div>
+      </div>
+    </div>
 
 
 
 </body>
-  <footer style="margin-top:70px">
-    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""></div><br><br>
-    <div class="container-fluid" style="text-align:center;margin-top:-50px">
-      <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad  </a>
-            <script type="text/javascript" src="js/main.js"></script></a></strong></p>
-    </div>
-  </footer>
+<footer style="margin-top:70px">
+  <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
+      alt=""></div><br><br>
+  <div class="container-fluid" style="text-align:center;margin-top:-50px">
+    <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos Reservados.
+      | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
+        href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de
+        Privacidad </a>
+      <script type="text/javascript" src="js/main.js"></script></a></strong>
+    </p>
+    <script type="text/javascript" src="js/Products.js"></script>
+  </div>
+</footer>
+
 </html>

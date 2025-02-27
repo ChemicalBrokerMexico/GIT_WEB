@@ -546,7 +546,7 @@
   <div class="container-fluid">
     <div class="slider slider-prueba" style="margin-top:0px">
       <ul class="slides slides-pruea">
-        <li> <img src="img/ALCOHOLES-GRASOS_IMAGEN-1.jpg" alt="" style="height:103%;">
+        <li> <img src="img/ALCOHOL_GRASO_250225.jpg" alt="" style="height:180%;">
           <div class="caption center-align"><br><br><br><br>
             <h1 class="primertitulo"><b class="boldbanner">Alcoholes Grasos</b><br></h1>
 
@@ -577,164 +577,134 @@
               style="color:#262137 !important;margin-left:-2px"><b
                 class="Tipografia--general Subtitulos" style="color:red;">Alcoholes Grasos</b></a></section>
 
-        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Alcoholes Grasos</b></h2>
+            
+            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Alcoholes Grasos</b></h2>
 
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;"><b style="color:#262137">Chemical Broker</b> ofrece
-          una amplia gama de <b>Alcoholes Grasos</b> de fracción media y fracción pesada a partir de materias primas
-          naturales sostenibles.</p>
+            <p class="Tipografia--general letranegro General--Cuerpo">Los alcoholes grasos son compuestos orgánicos que pertenecen a la categoría de los alcoholes alifáticos. Se derivan de los ácidos grasos al sustituir el grupo carboxilo (-COOH) por un grupo hidroxilo (-OH). Estos compuestos tienen una cadena carbonada de longitud variable, generalmente entre 4 y 28 átomos de carbono, y suelen ser lineales (aunque pueden existir formas ramificadas).</p>
 
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Nuestras relaciones de negocios con nuestros
-          fabricantes en América, Europa y Asia brindan capacidad de respuesta y garantía de suministro en todo el
-          mundo.</p>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px"><b>Características</b></h2>
 
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;"><b>Los Alcoholes Grasos</b> (o alcoholes de cadena
-          larga) son generalmente de alto peso molecular, alcoholes primarios de cadena lineal, pero también pueden
-          variar desde tan poco como 4-6 átomos de carbono a tantos como 22-26, derivados de grasas y aceites naturales.
-          La longitud exacta de la cadena alifática varía con la fuente.</p>
+            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Estructura química:</b></h2>
 
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Algunos <b>Alcoholes Grasos</b> comercialmente importantes
-          son el Alcohol Estearílico y Alcohol Oleico. Son sólidos cerosos incoloros, aunque las muestras impuras pueden
-          aparecer de color amarillo. <b>Los Alcoholes Grasos</b> generalmente tienen un número par de átomos de carbono y un
-          solo grupo de alcohol (-OH) unido al carbono terminal.</p>
+            <ol>
+            <li class="Elementos--Listas" style="margin-top:30px">Fórmula general: R-CH₂OH, donde "R" es una cadena hidrocarbonada.</li>
+            <li class="Elementos--Listas">Son moléculas anfifílicas, es decir, tienen una parte hidrofóbica (la cadena hidrocarbonada) y una parte hidrofílica (el grupo hidroxilo).</li>
+            </ol>
 
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;margin-top:50px;">Algunos <b>Alcoholes Grasos</b> son insaturados y algunos
-          están ramificados. Son ampliamente utilizados en la industria.</p>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px"><b>Estados físicos:</b></h2>
 
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;"><b style="color:#262137;">Chemical
-            Broker</b> ofrece productos de alta calidad con especificaciones consistentes, que se pueden utilizar en una
-          variedad de aplicaciones. Ofrecemos opciones RSPO Mass Balance y Certificaciones y estándares para satisfacer
-          su aplicación y necesidades regionales. Las necesidades pueden ser ligeramente diferentes en todo el mundo
-          para cumplir con las regulaciones locales y las demandas de los clientes.</b></p></p>
+            <ol>
+            <li class="Elementos--Listas">Los alcoholes grasos de cadenas cortas suelen ser líquidos.</li>
+            <li class="Elementos--Listas">Los de cadenas largas tienden a ser sólidos cerosos.</li>
+            </ol>
 
-          <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;margin-bottom:0px;"><b>Lista de Productos:</b></h2>
-        
-          <table style="width:150%;">
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px"><b>Solubilidad:</b></h2>
 
-          <tr class="Tipografia--general General--Cuerpo"
-            style="padding:10px;width:150px;border-bottom: none;">
-            <td style="font-size:18px !important;float:left;border-bottom: none;margin-top:20px;"
-              class="Tipografia--general letranegro General--Cuerpo">
-              CO-1214 Lauryl / Myristyl Alcohol (Dedonacol / Tetradecanol)
-            </td>
-            <td style="text-align:center;font-size:15px !important;width:30%;"></td>
-          </tr>
+            <ol>
+            <li class="Elementos--Listas">Son insolubles o poco solubles en agua, pero solubles en disolventes orgánicos.</li>
+            </ol>
 
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px"><b>Obtención:</b></h2>
 
+            <p class="Tipografia--general letranegro General--Cuerpo">Los alcoholes grasos pueden obtenerse mediante varios métodos, como:</p>
 
-          <tr class="Tipografia--general General--Cuerpo"
-            style="padding:10px;width:150px;border-bottom: none;">
-            <td style="font-size:18px !important;float:left;border-bottom: none;margin-top:20px;"
-              class="Tipografia--general letranegro General--Cuerpo">
-              CO-1270 Lauryl / Myristyl Alcohol (Dedonacol / Tetradecanol)
-            </td>
-           
-          </tr>
+            <ol>
+            <li class="Elementos--Listas" style="margin-top:30px">Son insolubles o poco solubles en agua, pero solubles en disolventes orgánicos.</li>
+            <li class="Elementos--Listas">Reducción de ácidos grasos o de sus derivados, como cloruros de ácido o ésteres.</li>
+            <li class="Elementos--Listas">Producción biotecnológica usando microorganismos para transformar lípidos.</li>
+            </ol>
 
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px"><b>Funciones</b></h2>
+
+            <p class="Tipografia--general letranegro General--Cuerpo">Los alcoholes grasos tienen diversas funciones según el contexto y su aplicación</p>
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px">Funciones en Cosmética y Cuidado Personal:</li>
+              <ol>
+                <li class="Elementos--Listas">Emolientes: Suavizan e hidratan la piel al formar una capa protectora que evita la pérdida de agua.</li>
+                <li class="Elementos--Listas">Agentes espesantes: Ayudan a dar consistencia a cremas, lociones y bálsamos.</li>
+                <li class="Elementos--Listas">Coemulsionantes: Facilitan la mezcla de agua y aceites en emulsiones como cremas y acondicionadores.</li>
+                <li class="Elementos--Listas">Estabilizadores: Mejoran la textura y estabilidad de las formulaciones cosméticas, evitando que se separen los ingredientes.</li>
+                <li class="Elementos--Listas">Agentes limpiadores: Algunos alcoholes grasos, como el laurílico, actúan como tensioactivos en champús y geles de baño.</li>
+              </ol>
+            </ol>
 
 
-          <tr class="Tipografia--general General--Cuerpo"
-            style="padding:10px;width:150px;border-bottom: none;">
-            <td style="font-size:18px !important;float:left;border-bottom: none;margin-top:20px;"
-              class="Tipografia--general letranegro General--Cuerpo">
-              CO-1650 Cetostearyl Alcohol (Hexadecanol / Octadecanol)
-            </td>
-           
-          </tr>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px"><b>Funciones en Detergentes y Productos de Limpieza:</b></h2>
 
-          <tr class="Tipografia--general General--Cuerpo"
-            style="padding:10px;width:150px;border-bottom: none;">
-            <td style="font-size:18px !important;float:left;border-bottom: none;margin-top:20px;"
-              class="Tipografia--general letranegro General--Cuerpo">
-              CO-1695 Cetyl Alcohol NF (Hexadecanol)
-            </td>
-            <td style="font-size:15px !important;text-align:center"></td>
-          </tr>
+            <ol>
+            <li class="Elementos--Listas">Precursores de tensioactivos: Se transforman en alcoholes sulfatados o etoxilados, que son compuestos clave en detergentes, jabones líquidos y productos de limpieza.</li>
+            <li class="Elementos--Listas">Mejoran la capacidad para disolver grasa y eliminar suciedad.</li>
+            <li class="Elementos--Listas">Espumantes: Ayudan a generar espuma en productos como detergentes para ropa o lavavajillas.</li>
+            </ol>
+
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px"><b>Funciones en la industria farmacéutica:</b></h2>
+
+            <ol>
+            <li class="Elementos--Listas" style="margin-top:30px">Excipientes: Actúan como vehículos para transportar principios activos en medicamentos tópicos, cremas y ungüentos.</li>
+            <li class="Elementos--Listas">Agentes de liberación controlada: Regulan la liberación de ingredientes activos en medicamentos de acción prolongada.</li>
+            <li class="Elementos--Listas">Estabilizadores: Mejoran la viscosidad y estabilidad de ciertos productos farmacéuticos.</li>
+            </ol>
+
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px"><b>Funciones en la industria alimentaria:</b></h2>
+
+            <ol>
+            <li class="Elementos--Listas" style="margin-top:30px">Agentes de recubrimiento: Protegen alimentos y los hacen más atractivos, proporcionando brillo en productos como frutas y confitería.</li>
+            <li class="Elementos--Listas">Lubricantes alimentarios: Usados en procesos industriales para evitar que los alimentos se adhieran a las superficies.</li>
+            </ol>
+
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px"><b>Funciones en la industria química:</b></h2>
+
+            <ol>
+            <li class="Elementos--Listas" style="margin-top:30px">Materias primas: Son base para la producción de ceras, plásticos biodegradables y lubricantes.</li>
+            <li class="Elementos--Listas">Modificadores de viscosidad: Ajustan la fluidez de mezclas industriales.</li>
+            </ol>
 
 
-          <tr class="Tipografia--general General--Cuerpo"
-            style="padding:10px;width:150px;border-bottom: none;">
-            <td style="font-size:18px !important;float:left;border-bottom: none;margin-top:20px;"
-              class="Tipografia--general letranegro General--Cuerpo">
-              CO-1698 Cetyl Alcohol (Hexadecanol)
-            </td>
-            <td style="font-size:15px !important;text-align:center;"></td>
-          </tr>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px"><b>Funciones biológicas y ecológicas:</b></h2>
 
-          <tr class="Tipografia--general General--Cuerpo"
-            style="padding:10px;width:150px;border-bottom: none;">
-            <td style="font-size:18px !important;float:left;border-bottom: none;margin-top:20px;"
-              class="Tipografia--general letranegro General--Cuerpo">
-              TA-1618 Cetostearyl Alcohol (Hexadecanol / Octadecanol)
-            </td>
-            <td style="font-size:15px !important;text-align:center"></td>
-          </tr>
+            <ol>
+            <li class="Elementos--Listas" style="margin-top:30px">Surfactantes naturales: Algunos alcoholes grasos presentes en organismos vivos actúan como componentes de las membranas celulares o en procesos de transporte de lípidos.</li>
+            <li class="Elementos--Listas">Sostenibilidad: Muchos se obtienen de fuentes renovables, contribuyendo a prácticas más ecológicas en las industrias.</li>
+            </ol>
 
-          <tr class="Tipografia--general General--Cuerpo"
-            style="padding:10px;width:150px;border-bottom: none;">
-            <td style="font-size:18px !important;float:left;border-bottom: none;margin-top:20px;"
-              class="Tipografia--general letranegro General--Cuerpo">
-              CO-1895 Stearyl Alcohol NF (Octadecanol)
-            </td>
-            <td style="font-size:15px !important;text-align:center"></td>
-          </tr>
 
-          <tr class="Tipografia--general General--Cuerpo"
-            style="padding:10px;width:150px;border-bottom: none;">
-            <td style="font-size:18px !important;float:left;border-bottom: none;margin-top:20px;"
-              class="Tipografia--general letranegro General--Cuerpo">
-              CO-1897 Stearyl Alcohol NF (Octadecanol)
-            </td>
-            <td style="font-size:15px !important;text-align:center"></td>
-          </tr>
+            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Usos principales</b></h2>
 
-          <tr class="Tipografia--general General--Cuerpo"
-            style="padding:10px;width:150px;border-bottom: none;">
-            <td style="font-size:18px !important;float:left;border-bottom: none;margin-top:20px;"
-              class="Tipografia--general letranegro General--Cuerpo">
-              CO-1898 Stearyl Alcohol NF (Octadecanol)
-            </td>
-            <td style="font-size:15px !important;text-align:center;"></td>
-          </tr>
+            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Industria cosmética y de cuidado personal:</b></h2>
 
-          <tr class="Tipografia--general General--Cuerpo"
-            style="text-align:center;padding:10px;border-bottom: none;">
-            <td style="font-size:18px !important;float:left;border-bottom: none;margin-top:20px;"
-              class="Tipografia--general letranegro General--Cuerpo">
-              CO-1899  Stearyl Alcohol (Octadecanol)
-            </td>
-            <td style="font-size:15px !important;text-align:center;"></td>
-          </tr>
-        </table>
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px">Ingredientes en cremas, lociones y champús como emolientes, espesantes o estabilizantes.</li>
+            </ol>
+            
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px"><b>Fabricación de detergentes y surfactantes:</b></h2>
 
-        <h2 class="Tipografia--general letranegro Titulos" style="display:inline-block;margin-top:50px;margin-bottom:0px;"><b>Proveedor:</b></h2>
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px">Se utilizan para producir alcoholes sulfatados o etoxilados, que son componentes clave de productos de limpieza.</li>
+            </ol>
 
-        <table>
-          <tr style="border:none;">
-            <td>
-            <img src="img/LOGO_CREMER3_010922.png" alt="CREMER-LOGO" class="CREMER_LOGO" style="margin-top:30px;">
-            </td>
-          </tr>
-          <tr style="border:none;">
-            <td>
-            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:30px;margin-bottom:0px"><b>Portafolios de Productos Cremer:</b></h2>
-            </td>
-        
-          </tr>
-          <tr style="border:none;">
-            <td>
-              <h2 style="margin-top:20px;margin-bottom:0px;"><a href="PDF/CATALOGUES/CREMER_OLEOCHEMICALS-BROCHURE_2022.pdf"
-              class="arrowblue Tipografia--general Botones letranegro" download
-              style="margin-top: 30px;color:rgba(2 146 238 /99%);">CREMER_OLEOCHEMICALS-BROCHURE_2022.pdf &nbsp</a></h2>
-            </td>
-          </tr>
-        </table>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px"><b>Producción de ceras y lubricantes:</b></h2>
+
+            <ol>
+              <li style="margin-top:30px" class="Elementos--Listas">Mezclados con otros compuestos para aplicaciones industriales.</li>
+            </ol>
+
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px"><b>Industria farmacéutica:</b></h2>
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px">Como excipientes o agentes de liberación controlada en medicamentos.</li>
+            </ol>
+
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px"><b>Sostenibilidad:</b></h2>
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:50px">Muchos alcoholes grasos provienen de fuentes renovables, como aceites vegetales (ej. aceite de coco, palma).</li>
+            </ol>
+
+
 
       </div>
-
     </div>
-
-
-
   </div>
 
   <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">

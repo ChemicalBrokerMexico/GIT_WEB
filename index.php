@@ -394,12 +394,12 @@
 <ul class="slides">
 <li> <img src="img/CB_QUIMICA.jpg" style="height:800px;" alt="Industria Quimica">
 <div class="caption center-align"><br><br><br><br>
-<h1 class="primertitulo"><b>Chemical Broker</b><br></h1><b class="segundotitulo">Nosotros</b>
+<br><b class="segundotitulo">Nosotros</b>
 
 <div class="container" style="margin-top:-100px;">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section style="margin-top:125px"><a class="active" href="#" style="color:white !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:white;"> >&nbsp  </b></a><a class="breditem active" href="index.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Nosotros</b></a></section>
+
 </div>
 </div>
 </div>
@@ -414,7 +414,7 @@
 <div class="container" style="margin-top:80px">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<h2 style="margin-top:-30px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;">Nosotros</b></h2>
+<section style="margin-top:75px"><a class="active" href="#" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="index.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Nosotros</b></a></section>
 <p class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020;">Chemical Broker</b> comenzó hace más de 9 años, nos basamos en una historia aún más larga de innovación y crecimiento.</p>
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Hoy nos hemos convertido en uno de los mayores distribuidores de Oleo químicos; Ácidos Grasos, Alcoholes Grasos, Glicerinas, Triglicéridos, Derivados de Palma, Destilados de Ácidos Grasos, Glicoles, Aceites y Grasas, Conservadores, entre otros.</p>
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Nos vemos a nosotros mismos como el puente que conecta a los proveedores en lugares lejanos con los clientes. Y como un canal de distribución, que trae materiales esenciales, necesarios para miles de fabricantes, para crear productos que mejoren la vida de millones de consumidores en todo el mundo.</p>

@@ -563,7 +563,7 @@
     <div class="row">
       <div class="col s12 m12 l12 xl12">
 
-      <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Productos_news.php"><b class="Tipografia--general Subtitulos" style="color:black;">Productos > </b></a><a class="active" href="Glycerins.php"><b class="Tipografia--general Subtitulos" style="color:red;">Sorbato 20</b></a></section>
+      <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b class="Tipografia--general letranegro General--Cuerpo">Inicio&nbsp>&nbsp </b></a><a class="active" href="Productos_news.php"><b class="Tipografia--general Subtitulos" style="color:black;">Productos > </b></a><a class="active" href="Glycerins.php"><b class="Tipografia--general Subtitulos" style="color:red;">Sorbato 20</b></a></section>
       </div>
   </div>
   </div>
@@ -576,12 +576,12 @@
 
         <p class="Tipografia--general letranegro General--Cuerpo">El <b>Sorbato 20</b> (o Monolaurato de Polisorbato 20) es un emulsionante no iónico ampliamente utilizado en diversas industrias, principalmente en la alimentaria, cosmética, farmacéutica y química. Es una variante de los polisorbatos, que son ésteres derivados del sorbitol, ácidos grasos y óxido de etileno. El código E en alimentos para este compuesto es <b>E432</b>.</p>
 
-        <h2 class="Tipografia--geneneral letranegro General--Cuerpo"><b>Caracteristicas</b></h2>
+        <h2 class="Tipografia--geneneral letranegro General--Cuerpo" style="margin-top:50px;"><b>Caracteristicas</b></h2>
 
         <p class="Tipografia--general letranegro General--Cuerpo">El <b>Sorbato 20</b>, también conocido como <b>Polisorbato 20</b>, es un tensoactivo no iónico derivado del sorbitol y el ácido láurico. Sus propiedades lo convierten en un excelente emulsionante y solubilizante en diversas aplicaciones.</p>
 
         <ol>
-            <li class="Elementos--Listas"><b>Propiedades Físicas</b>
+            <li class="Elementos--Listas" style="margin-top:30px;"><b>Propiedades Físicas</b>
                 <ol>
                     <li class="Elementos--Listas" style="margin-top:30px;"><b>Estado físico:</b> Líquido viscoso.</li>
                     <li class="Elementos--Listas"><b>Color:</b> Transparente o amarillo pálido.</li>
