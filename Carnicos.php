@@ -532,7 +532,7 @@
 </h5>
 </div><img class="mercadosimagen " src="img/CB_EQUINE_200521.jpg" alt=""/>
 </div></a></div> -->
-<div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Proximamente.php" style="cursor:pointer;">
+<div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Aves_Corral.php" style="cursor:pointer;">
 
 <div class="contenedor">
 <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
@@ -551,7 +551,7 @@
 
 
 
-<div class="col s12 m12 l6 xl6 mercados zoom columna3"><a href="Proximamente.php" style="cursor:pointer;">
+<div class="col s12 m12 l6 xl6 mercados zoom columna3"><a href="Pescados.php" style="cursor:pointer;">
 
 <div class="contenedor">
 <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>

@@ -516,6 +516,18 @@ $(document).ready(function(){
     </div>
     </div>
 
+    <div class="row" style="margin-top:150px"> 
+    <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img/BANNER_PRINCIPAL_TCM.jpg" alt=""  class="zoom IMG_Seccion_Prod">
+    </div>
+    <div class= "col s12 m12 l12 xl6 columnas_sorbitoles div-textoprod" style="position:relative">
+    <h5 class="Tipografia--general Titulos"><b>Trigliceridos de Cadena Media</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Triglicéridos</b> de cadena media (TCM) son un tipo de grasa compuesta por ácidos grasos con una longitud de cadena media (entre 6 y 12 átomos de carbono). A diferencia de los Triglicéridos de cadena larga (TCL), los TCM se digieren y absorben más fácilmente, lo que los hace una fuente rápida de energía.</p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas" style="position:absolute:left:10px;bottom:-30px"><b><a href="Trigliceridos_Cadena_Media.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
 
     <div class="row" style="margin-top:150px;"> 
     <div class="col s12 m12 l12 xl6 center-align">
@@ -1049,6 +1061,18 @@ function filtroall(){
     <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Sulfossucinatos</b> son una clase de surfactantes aniónicos utilizados en una variedad de aplicaciones industriales y de cuidado personal. Estos compuestos se derivan del acido succínico y se caracterizan por tener grupos sulfonato como grupos funcionales principales.</p>
     <p class="Tipografia--general General--Cuerpo letranegro">Introducimos nuestros sulfosuccinatos de alta calidad, agentes tensoactivos de ultima generación diseñados para ofrecer resultados superiores en una amplia gama de aplicaciones industriales y de cuidado personal.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas" style="position:absolute:left:10px;bottom:-30px"><b><a href="Sulfosuccinatos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
+    </div>
+
+    <div class="row" style="margin-top:150px"> 
+    <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img/BANNER_PRINCIPAL_TCM.jpg" alt=""  class="zoom IMG_Seccion_Prod">
+    </div>
+    <div class= "col s12 m12 l12 xl6 columnas_sorbitoles div-textoprod" style="position:relative">
+    <h5 class="Tipografia--general Titulos"><b>Trigliceridos de Cadena Media</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Triglicéridos</b> de cadena media (TCM) son un tipo de grasa compuesta por ácidos grasos con una longitud de cadena media (entre 6 y 12 átomos de carbono). A diferencia de los Triglicéridos de cadena larga (TCL), los TCM se digieren y absorben más fácilmente, lo que los hace una fuente rápida de energía.</p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas" style="position:absolute:left:10px;bottom:-30px"><b><a href="Trigliceridos_Cadena_Media.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
 
@@ -1807,17 +1831,23 @@ function filtrot(){
     
     document.getElementById("contenedorletrap").innerHTML = `
     
-    <div class="divfooter2" style="text-align:center;"><span style="font-size:66px;">S</span></div><br><br></div>
+    <div class="divfooter2" style="text-align:center;"><span style="font-size:66px;">T</span></div><br><br></div>
     
     
     `
     
     document.getElementById("contenedorliteral").innerHTML = `
     
-    <div class = "col s12 m12 l12 xl12 center-align" style="margin-top:30px">
-    
-    <img src="img/SORBITOL_280721.jpg" alt="" style="width:100%;">
-    
+    <div class="row" style="margin-top:0px"> 
+    <div class="col s12 m12 l12 xl6 center-align">
+    <img src="img//BANNER_PRINCIPAL_TCM.jpg" alt=""  class="zoom IMG_Seccion_Prod">
+    </div>
+    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
+    <h5 class="Tipografia--general Titulos"><b>Trigliceridos de Cadena Media</b></h5>
+    <hr style="border:1px solid #b21b27">
+    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Triglicéridos de cadena media</b> (TCM) son un tipo de grasa compuesta por ácidos grasos con una longitud de cadena media (entre 6 y 12 átomos de carbono). A diferencia de los Triglicéridos de cadena larga (TCL), los TCM se digieren y absorben más fácilmente, lo que los hace una fuente rápida de energía.</p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas" style="position:absolute;left:10px;bottom:-30px"><b><a href="Trigliceridos_Cadena_Media.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    </div>
     </div>
     
     

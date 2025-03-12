@@ -405,7 +405,7 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Lacteos.php" style="color:#262137 !important;margin-left:-2px"><b>Carnicos  ></b></a> <a href="Aves_Corral.php" class="breitem active" style="color:#262137 !important"><b>Aves de Corral</b></a> </section></section>
+        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Lacteos.php" style="color:#262137 !important;margin-left:-2px"><b>Carnicos  ></b></a> <a href="Aves_Corral.php" class="breitem active" style="color:red !important"><b>Aves de Corral</b></a> </section></section>
         </div>
       </div>
     </div>
@@ -414,11 +414,30 @@
     <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<p style="color: orange;">La producción de pollo para el año 2019 fue de 3,6 toneladas métricas y en el 2020 de 3,7 millones de toneladas métricas, siendo esta el tipo de carne más consumida en territorio nacional.
-</p>
-</div>
-<div class="col s12 m12 l12 xl12">
-<h5><b style="color: #262137;">Productos</b></h5>
+<p style="color: orange;" class="Tipografia--general letranegro General--Cuerpo">La industria de alimentos para aves de corral es un sector clave en la producción avícola, asegurando la nutrición adecuada de pollos de engorde, gallinas ponedoras y pavos. La calidad del alimento impacta directamente en el crecimiento, la conversión alimenticia, la salud y la calidad del producto final (carne y huevos). Con el crecimiento del consumo global de proteína aviar, la industria ha desarrollado soluciones más eficientes y sostenibles para optimizar la producción.</p>
+<h2 class="Tipografia--general letranegro General--Cuerpo"><b>Aspectos Claves de la Industria</b></h2>
+<ol>
+  <li class="Elementos--Listas">Nutrición Balanceada: Dietas formuladas para maximizar el crecimiento y la producción de huevos.</li>
+  <li class="Elementos--Listas"> Eficiencia en Conversión Alimenticia: Optimización de ingredientes para reducir costos y mejorar rendimiento.</li>
+  <li class="Elementos--Listas">Sostenibilidad: Reducción del uso de ingredientes de origen animal y adopción de fuentes alternativas de proteína.</li>
+  <li class="Elementos--Listas">Inocuidad y Regulación: Cumplimiento de normativas para evitar contaminantes y mejorar la seguridad alimentaria.</li>
+</ol>
+<h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Tendencias y Desafíos</b></h2>
+<ol>
+  <li class="Elementos--Listas">Uso de aditivos naturales (enzimas, prebióticos, probióticos) para mejorar digestión y salud intestinal.</li>
+  <li class="Elementos--Listas">Alimentos funcionales enriquecidos con omega-3 y vitaminas para mejorar la calidad de carne y huevos.</li>
+  <li class="Elementos--Listas">Proteínas alternativas como insectos, levaduras y subproductos agroindustriales.</li>
+  <li class="Elementos--Listas">Reducción del uso de antibióticos, priorizando estrategias de salud preventiva.</li>
+</ol>
+<h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Ingredientes Químicos Utilizados</b></h2>
+<ol>
+  <li>Proteínas y Aminoácidos: Harina de soya, harina de pescado, gluten de maíz, metionina, lisina, treonina.</li>
+  <li>Energéticos: Maíz, sorgo, trigo, aceites vegetales.</li>
+  <li>Vitaminas y Minerales: Vitaminas A, D, E, K, complejo B, calcio, fósforo, zinc, hierro, selenio.</li>
+  <li>Aditivos Funcionales: Enzimas (fitasas, carbohidrasas), prebióticos, probióticos, antioxidantes (BHT, BHA).</li>
+  <li>Pigmentos Naturales y Sintéticos: Xantofilas (para mejorar el color de la yema del huevo y la piel del pollo).</li>
+  <li>Promotores del Crecimiento y Salud: Ácidos orgánicos, extractos vegetales, inmunoestimulantes.</li>
+</ol>
 </div>
 </div>
 </div>
