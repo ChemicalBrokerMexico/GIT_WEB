@@ -986,152 +986,152 @@
 
             <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Tipos de MCT´s</b></h2>
 
-            <table>
+            <table >
                 <thead>
-                    <th style="background-color:#002060;color:white;" class="center-align">Especificacion</th>
-                    <th style="background-color:#002060;color:white;" class="center-align">MCT 60/40</th>
-                    <th style="background-color:#002060;color:white;" class="center-align">MCT 70/30</th>
+                    <th style="background-color:#002060;color:white;" class="center-align Tipografia--general"><b>Especificacion</b></th>
+                    <th style="background-color:#002060;color:#00B0F0;" class="center-align Tipografia--general"><b>MCT 60/40</b></th>
+                    <th style="background-color:#002060;color:#00B0F0;" class="center-align Tipografia--general"><b>MCT 70/30</b></th>
                 </thead>
                 <tbody>
                     <tr>
-                        <td class="center-align">Valor de Saponificación:</td>
-                        <td class="center-align">325 – 345</td>
-                        <td class="center-align">335 – 360</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">Valor de Saponificación:</td>
+                        <td class="center-align Tipografia--general" style="border:#F9F9F9 2px solid;">325 – 345</td>
+                        <td class="center-align Tipografia--general" style="border:#F9F9F9 2px solid;">335 – 360</td>
                     </tr>
                     <tr>
-                        <td style="padding:20px;"></td>
-                        <td style="padding:20px;"></td>
-                        <td style="padding:20px;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;border:#F6F6F6 2px solid;"></td>
                     </tr>
                     <tr>
-                        <td class="center-align">Valor de Acidez:</td>
-                        <td class="center-align">0.1 Max.</td>
-                        <td class="center-align">0.1 Max.</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">Valor de Acidez:</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">0.1 Max.</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">0.1 Max.</td>
                     </tr>
                     <tr>
-                        <td style="padding:20px;"></td>
-                        <td style="padding:20px;"></td>
-                        <td style="padding:20px;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
                     </tr>
                     <tr>
-                        <td class="center-align">Valor de Yodo:</td>
-                        <td class="center-align">0.5 Max</td>
-                        <td class="center-align">0.5 Max.</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">Valor de Yodo:</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">0.5 Max</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">0.5 Max.</td>
                     </tr>
                 
                     <tr>
-                        <td style="padding:20px;"></td>
-                        <td style="padding:20px;"></td>
-                        <td style="padding:20px;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
                     </tr>
 
                     <tr>
-                        <td class="center-align">Valor de Humedad:</td>
-                        <td class="center-align">0.1 Max.</td>
-                        <td class="center-align">0.1 Max.</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">Valor de Humedad:</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">0.1 Max.</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">0.1 Max.</td>
                     </tr>
 
                     <tr>
-                        <td style="padding:20px;"></td>
-                        <td style="padding:20px;"></td>
-                        <td style="padding:20px;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
                     </tr>
                   
                     <tr>
-                        <td class="center-align">Valor de Hidroxilo:</td>
-                        <td class="center-align">0.5 Max.</td>
-                        <td class="center-align">0.5 Max.</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">Valor de Hidroxilo:</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">0.5 Max.</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">0.5 Max.</td>
                     </tr>
                     <tr>
-                        <td style="padding:20px;"></td>
-                        <td style="padding:20px;"></td>
-                        <td style="padding:20px;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
                     </tr>
                     <tr>
-                        <td class="center-align">Color APHA:</td>
-                        <td class="center-align">60 Max.</td>
-                        <td class="center-align">60 Max.</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">Color APHA:</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">60 Max.</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">60 Max.</td>
                     </tr>
                
                     <tr>
-                        <td style="padding:20px;"></td>
-                        <td style="padding:20px;"></td>
-                        <td style="padding:20px;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
                     </tr>
                     <tr>
-                        <td class="center-align">Apariencia:</td>
-                        <td class="center-align">Liquido cristalino</td>
-                        <td class="center-align">Liquido cristalino</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">Apariencia:</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">Liquido cristalino</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">Liquido cristalino</td>
                     </tr>
                     <tr>
-                        <td style="padding:20px;"></td>
-                        <td style="padding:20px;"></td>
-                        <td style="padding:20px;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
                     </tr>
                     <tr>
-                        <td class="center-align">Olor:</td>
-                        <td class="center-align">Neutral</td>
-                        <td class="center-align">Neutral</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">Olor:</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">Neutral</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">Neutral</td>
                     </tr>
                     <tr>
-                        <td style="padding:20px;"></td>
-                        <td style="padding:20px;"></td>
-                        <td style="padding:20px;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
                     </tr>
                     <tr>
-                        <td class="center-align">C6:</td>
-                        <td class="center-align">5.0 Max.</td>
-                        <td class="center-align">2.0 Max.</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">C6:</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">5.0 Max.</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">2.0 Max.</td>
                     </tr>
                     <tr>
-                        <td style="padding:20px;"></td>
-                        <td style="padding:20px;"></td>
-                        <td style="padding:20px;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
                     </tr>
                     <tr>
-                        <td class="center-align">C8:</td>
-                        <td class="center-align">55 – 65</td>
-                        <td class="center-align">65 – 75</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">C8:</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">55 – 65</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">65 – 75</td>
                     </tr>
                     <tr>
-                        <td style="padding:20px;"></td>
-                        <td style="padding:20px;"></td>
-                        <td style="padding:20px;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
                     </tr>
                     <tr>
-                        <td class="center-align">C10:</td>
-                        <td class="center-align">35 – 45</td>
-                        <td class="center-align">25 – 35</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">C10:</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">35 – 45</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">25 – 35</td>
                     </tr>
                     <tr>
-                        <td style="padding:20px;"></td>
-                        <td style="padding:20px;"></td>
-                        <td style="padding:20px;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
                     </tr>
                     <tr>
-                        <td class="center-align">C12:</td>
-                        <td class="center-align">1.5 Max.</td>
-                        <td class="center-align">1.0 Max.</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">C12:</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">1.5 Max.</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">1.0 Max.</td>
                     </tr>
                     <tr>
-                        <td style="padding:20px;"></td>
-                        <td style="padding:20px;"></td>
-                        <td style="padding:20px;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
                     </tr>
                     <tr>
-                        <td class="center-align">C14:</td>
-                        <td class="center-align">0.5 Max.</td>
-                        <td class="center-align">-</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">C14:</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">0.5 Max.</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">-</td>
                     </tr>
                     <tr>
-                        <td style="padding:20px;"></td>
-                        <td style="padding:20px;"></td>
-                        <td style="padding:20px;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
                     </tr>
                     <tr>
-                        <td class="center-align">CAS No.</td>
-                        <td class="center-align">73398-61-5</td>
-                        <td class="center-align">73398-61-5</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">CAS No.</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">73398-61-5</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">73398-61-5</td>
                     </tr>
                 
                 </tbody>
@@ -1145,11 +1145,19 @@
 </div>
 </body>
 <footer style="margin-top:70px">
-<div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""></div><br><br>
-<div class="container-fluid" style="text-align:center;margin-top:-50px">
-<p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad  </a>
-<script type="text/javascript" src="js/main.js"></script></a></strong></p>
-</div>
+    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
+            alt=""></div><br><br>
+    <div class="container-fluid" style="text-align:center;margin-top:-50px">
+        <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos
+            Reservados.
+            | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
+                href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download
+                style="color:black !important;font-size:16px">Politica de
+                Privacidad </a>
+            <script type="text/javascript" src="js/main.js"></script></a></strong>
+        </p>
+        <script type="text/javascript" src="js/Products.js"></script>
+    </div>
 </footer>
 <?php
 

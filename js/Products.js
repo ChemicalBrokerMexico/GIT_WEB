@@ -13,7 +13,7 @@ $(document).ready(function(){
     <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Canola RBD</b></h5>
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro">El Aceite de Canola Refinado Blanqueado y Desodorizado (RBD) es un tipo de aceite vegetal que se ha sometido a un proceso de refinamiento para eliminar impurezas, blanquearlo y eliminar olores o sabores fuertes.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Coco.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Canola.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
 
@@ -563,7 +563,7 @@ function filtroall(){
     <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Canola RBD</b></h5>
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro">El Aceite de Canola Refinado Blanqueado y Desodorizado (RBD) es un tipo de aceite vegetal que se ha sometido a un proceso de refinamiento para eliminar impurezas, blanquearlo y eliminar olores o sabores fuertes.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Coco.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Canola.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
 
@@ -1107,7 +1107,7 @@ function filtroa(){
     <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Canola RBD</b></h5>
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro">El Aceite de Canola Refinado Blanqueado y Desodorizado (RBD) es un tipo de aceite vegetal que se ha sometido a un proceso de refinamiento para eliminar impurezas, blanquearlo y eliminar olores o sabores fuertes.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Coco.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Canola.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
 
