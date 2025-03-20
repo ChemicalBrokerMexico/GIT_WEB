@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <meta name="description" content="En la elaboracion de malvaviscos interviene el jarabe de maiz, Chemical Broker suministra a sus socios de negocio de dicho ingrediente">
-    <title>Chemical Broker |</title>
+    <title>Chemical Broker | Suplementos Alimenticios</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -472,9 +472,9 @@
     <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li> <img src="img/CB_MARSHMALLOW_200521.jpg" alt="" style="height:650px">
+          <li> <img src="img/CB_SUPLEMENTS_SHAKES_250521.jpg" alt="" style="height:650px">
             <div class="caption center-align"><br><br><br><br>
-              <h3 class="primertitulo"><b class="boldbanner">Bombones</b><br></h3>
+              <h3 class="primertitulo"><b class="boldbanner">Suplementos Alimenticios</b><br></h3>
             </div>
           </li>
         </ul>
@@ -483,195 +483,120 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Confiteria.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Confiteria</b><b> > &nbsp</b></a><a class="breditem active" href="Gomitas .php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Bombones.php" style="color:red"><b>Bombones</b></a> </section></section>
+        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Confiteria.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Confiteria</b><b> > &nbsp</b></a><a class="breditem active" href="Gomitas .php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Bombones.php" style="color:red"><b>Suplementos Alimenticios</b></a> </section></section>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col s12 m12 l12 xl12">
+          <h2 class="Tipografia--general letranegro Titulos"><b>Industria de Suplementos Alimenticios</b></h2>
+          <p class="Tipografia--general letranegro General--Cuerpo">La industria de suplementos alimenticios abarca productos diseñados para complementar la dieta y proporcionar nutrientes esenciales como proteínas, vitaminas, minerales, aminoácidos y otros compuestos funcionales. Estos suplementos se presentan en diversas formas, como batidos, bebidas energéticas, yogures fortificados, geles y barras nutricionales.</p>
+
+          <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Características de la Industria</b></h2>
+
+          <ol>
+            <li style="margin-top:50px;" class="Elementos--Listas">Proceso de Producción:
+              <ol>
+                <li style="margin-top:30px;" class="Elementos--Listas">Selección de ingredientes: Incluye proteínas, vitaminas, minerales, edulcorantes, espesantes y saborizantes.</li>
+                <li class="Elementos--Listas">Mezcla y homogeneización: Se combinan los ingredientes para lograr una textura uniforme.</li>
+                <li class="Elementos--Listas">Pasteurización o tratamiento térmico: En productos líquidos para garantizar la seguridad microbiológica.</li>
+                <li class="Elementos--Listas">Envasado y conservación: Uso de envases resistentes para evitar la contaminación y mantener la estabilidad del producto.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:50px;">Principales Empresas del Sector:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Multinacionales: Abbott (Ensure), Nestlé (Boost), Herbalife, GNC, Red Bull, MuscleTech.</li>
+                <li class="Elementos--Listas">Marcas emergentes: Empresas enfocadas en suplementos naturales y sin aditivos artificiales.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:50px;">Mercado y Consumo:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Deportistas y fitness: Productos con proteínas, aminoácidos y electrolitos.</li>
+                <li class="Elementos--Listas" >Adultos mayores: Fórmulas con proteínas y vitaminas para el mantenimiento muscular.</li>
+                <li class="Elementos--Listas" >Personas con dietas especiales: Opciones veganas, keto o sin lactosa.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:50px;">Tendencias del Mercado:
+              <ol>
+                <li class="Elementos--Listas" style="margin-top:30px;">Uso de ingredientes naturales y orgánicos.</li>
+                <li class="Elementos--Listas">Suplementos con beneficios funcionales: Bebidas con colágeno, prebióticos y antioxidantes.</li>
+                <li class="Elementos--Listas">Reducción de azúcares y aditivos artificiales.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Ingredientes Químicos Utilizados en Suplementos Alimenticios</b></h2>
+
+          <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Proteínas y Aminoácidos</b></h2>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">Se utilizan para la recuperación muscular y la nutrición general.</p>
+
+          <ol>
+            <li class="Elementos--Listas">Se utilizan para la recuperación muscular y la nutrición general.</li>
+            <li class="Elementos--Listas">Proteína vegetal (soja, chícharo, arroz): Alternativa para dietas veganas.</li>
+            <li class="Elementos--Listas">Aminoácidos esenciales (BCAAs): Leucina, isoleucina y valina para el desarrollo muscular.</li>
+          </ol>
+
+          <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Edulcorantes y Saborizantes</b></h2>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">Mejoran el sabor sin aportar calorías en exceso.</p>
+
+          <ol>
+            <li class="Elementos--Listas">Sucralosa (E955) y acesulfame K (E950): Edulcorantes artificiales sin calorías.</li>
+            <li class="Elementos--Listas">Eritritol y stevia: Alternativas naturales bajas en calorías.</li>
+            <li class="Elementos--Listas">Saborizantes naturales y artificiales: Frutas, vainilla, chocolate, entre otros.</li>
+          </ol>
+
+          <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Espesantes y Estabilizantes</b></h2>
+
+<p class="Tipografia--general letranegro General--Cuerpo">Mejoran la textura y evitan la separación de ingredientes.</p>
+
+<ol>
+  <li class="Elementos--Listas">Goma xantana (E415) y goma guar (E412): Espesantes usados en bebidas y batidos.</li>
+  <li class="Elementos--Listas">Lecitina de soya (E322): Emulsionante para evitar la separación de líquidos y grasas.</li>
+  <li class="Elementos--Listas">Carragenina (E407): Espesante en productos lácteos y alternativos.</li>
+</ol>
+
+
+<h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Vitaminas y Mineraless</b></h2>
+
+<p class="Tipografia--general letranegro General--Cuerpo">Se añaden para mejorar el valor nutricional del suplemento.</p>
+
+<ol>
+  <li class="Elementos--Listas">Vitamina C (ácido ascórbico, E300): Antioxidante y refuerzo inmunológico.</li>
+  <li class="Elementos--Listas">Vitamina D y calcio: Para la salud ósea en bebidas fortificadas.</li>
+  <li class="Elementos--Listas">Magnesio, zinc y hierro: Presentes en bebidas energéticas y suplementos para el rendimiento físico.</li>
+</ol>
+
+<h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Conservantes y Antioxidantes</b></h2>
+
+<p class="Tipografia--general letranegro General--Cuerpo">Garantizan la vida útil y estabilidad del producto.</p>
+
+<ol>
+  <li class="Elementos--Listas">Ácido ascórbico (E300) y ácido cítrico (E330): Antioxidantes naturales.</li>
+  <li class="Elementos--Listas">Sorbato de potasio (E202) y benzoato de sodio (E211): Conservantes contra bacterias y hongos.</li>
+  <li class="Elementos--Listas">Tocoferoles (E306): Antioxidantes derivados de la vitamina E.</li>
+</ol>
+          
+
+
         </div>
       </div>
     </div>
    
 
-<div class="container">
-  <div class="row">
-    <div class="col s12 m12 l12 xl12">
-      <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Ingredientes Quimicos Utilizados</b></h2>
-      <p class="Tipografia--general letraengro General--Cuerpo">La industria de los bombones es una rama sofisticada y diversificada del mercado de confitería que se enfoca en la producción de chocolates rellenos, generalmente en formatos pequeños y presentaciones elegantes. A continuación, te detallo un panorama general de esta industria:</p>
-      <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>¿Qué son los bombones?</b></h2>
-      <ol>
-        <li class="Elementos--Listas">Los bombones son chocolates pequeños que suelen estar rellenos con diversos ingredientes, como crema, frutos secos, licores, caramelo, frutas, ganache, o praliné.</li>
-        <li class="Elementos--Listas">Suelen asociarse con lujo, ocasiones especiales y regalos, lo que los diferencia de otros productos de confitería.</li>
-      </ol>
-      <h2 class="Elementos--Listas letranegro General--Cuerpo" style="margin-top:50px;"><b>Segmentación del mercado</b></h2>
 
-
-      <ol>
-        <li class="Elementos--Listas">Por tipo de relleno
-          <ol>
-            <li class="Elementos--Listas" style="margin-top:30px;">Clásicos: Rellenos de crema, caramelo, frutos secos como almendras o avellanas</li>
-            <li class="Elementos--Listas">Gourmet: Ingredientes exclusivos como trufas, ganache de champagne, o frutas exoticas</li>
-            <li class="Elementos--Listas">Saludables: Enfocados en opciones bajas en azúcar, rellenos con ingredientes naturales, o chocolates oscuros con alto porcentaje de cacao.</li>
-            <li class="Elementos--Listas">Licorosos: Con licores como brandy, whisky, ron o vinos</li>
-          </ol>
-        </li>
-      </ol>
-
-      <ol>
-        <li class="Elementos--Listas">Por target de consumidores
-          <ol>
-            <li class="Elementos--Listas" style="margin-top:30px;">Premium: Bombones de alta gama, generalmente vendidos en caja de lujo</li>
-            <li class="Elementos--Listas">Masivo: Productos más accesibles y disponibles en supermercados</li>
-            <li class="Elementos--Listas">Personalizados: Para regalos corporativos, bodas o eventos especiales</li>
-          </ol>
-        </li>
-      </ol>
-
-      <ol>
-        <li class="Elementos--Listas">Proceso de producción
-          <ol>
-            <li class="Elementos--Listas" style="margin-top:30px;">Cobertura de chocolate: Hecho a partir de mezclas precisas de cacao, y azúcar.</li>
-            <li class="Elementos--Listas">Relleno: Puede ser líquido (licores), pastoso (ganache), o sólido (frutos secos)</li>
-            <li class="Elementos--Listas">Formado: Usualmente moldeado o sumergido</li>
-            <li class="Elementos--Listas">Decoración: Adición de detalles como líneas de chocolate, frutos secos, o polvos brillantes</li>
-            <li class="Elementos--Listas">Empaque: Diseñado para preservar la frescura, evitar el daño y reflejar el valor del producto</li>
-          </ol>
-        </li>
-      </ol>
-
-      <ol>
-        <li class="Elementos--Listas">Tendencias actuales
-          <ol>
-            <li class="Elementos--Listas" style="margin-top:30px;">Chocolates oscuros y saludables: Mayor contenido de cacao y menor azúcar, en línea con las demandas de salud</li>
-            <li class="Elementos--Listas">Ingredientes exóticos: Uso de flores (lavanda, rosa), especias, (cardomo,chile) o frutas (yuzu, maracuyá)</li>
-            <li class="Elementos--Listas">Opciones veganas: Sustitución de lácteos y otros ingredientes de origen animal.</li>
-            <li class="Elementos--Listas">Sostenibilidad: Empresas que priorizan cacao de comercio justo y empaques ecológicos.</li>
-          </ol>
-        </li>
-      </ol>
-
-      <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Ingredientes Quimicos utilizados en esta industria</b></h2>
-
-
-      <p class="Tipografia--general letranegro General--Cuerpo">La industria de los bombones utiliza diversos ingredientes químicos, tanto naturales como sintéticos, para garantizar la calidad, estabilidad y atractivo de sus productos. Estos ingredientes se seleccionan para cumplir funciones específicas en la textura, sabor, conservación y apariencia de los bombones. A continuación, se describen los principales ingredientes químicos utilizados:</p>
-
-        <ol>
-          <li class="Elementos--Listas" style="margin-top:50px;">Base de Chocolate: El chocolate, principal componente de los bombones, está compuesto por varios ingredientes que incluyen:
-            <ol>
-              <li class="Elementos--Listas" style="margin-top:30px;">Manteca de cacao: Principal grasa del chocolate que contribuye a su textura cremosa y brillo.</li>
-              <li class="Elementos--Listas">Cacao sólido: Aporta el sabor característico y antioxidantes naturales.</li>
-              <li class="Elementos--Listas">Azúcar: Utilizado para endulzar, puede ser sacarosa, azúcar invertido o jarabes.</li>
-              <li class="Elementos--Listas">Lecitina (E322): Emulsionante derivado de soya o girasol, que mejora la fluidez del chocolate al reducir la viscosidad.</li>
-              <li class="Elementos--Listas">Vainillina: Un compuesto aromático sintético utilizado para dar un toque de sabor a vainilla.</li>
-            </ol>
-          </li>
-        </ol>
-
-        <ol>
-          <li class="Elementos--Listas letranegro General--Cuerpo" style="margin-top:50px;">Relleno y texturizantes
-            <ol>
-              <li class="Elementos--Listas letranegro General--Cuerpo" style="margin-top:30px;">Ganache: Elaborado con grasa láctea (mantequilla o crema) y chocolate. Se pueden usar estabilizantes como gomas vegetales (xantana o guar) para mejorar la consistencia.</li>
-              <li class="Elementos--Listas letranegro General--Cuerpo">Caramelo: Hecho con azúcar caramelizado, al cual se añaden agentes antigrumos como sorbitol.</li>
-              <li class="Elementos--Listas letranegro General--Cuerpo">Frutos secos confitados: A menudo contienen conservantes como sorbato de potasio (E202) para evitar el crecimiento de hongos.</li>
-              <li class="Elementos--Listas letranegro General--Cuerpo">Licores y aromas: Usados para dar perfiles de sabor distintivos.</li>
-            </ol>
-          </li>
-        </ol>
-
-        <ol>
-          <li class="Elementos--Listas" style="margin-top:50px;">Conservantes
-            <ol>
-              <li class="Elementos--Listas" style="margin-top:30px;">Sorbato de potasio (E202): Inhibe el crecimiento de mohos y levaduras.</li>
-              <li class="Elementos--Listas">Benzoato de sodio (E211): Común en productos rellenos para evitar la degradación microbiana.</li>
-              <li class="Elementos--Listas">Ácido ascórbico (E300): Antioxidante natural que previene la oxidación del chocolate y rellenos.</li>
-            </ol>
-          </li>
-        </ol>
-
-        <ol>
-          <li class="Elementos--Listas" style="margin-top:50px;">Colorantes: Los bombones suelen incluir colorantes para hacerlos más atractivos, especialmente si tienen decoraciones o rellenos de colores vivos.
-            <ol>
-              <li class="Elementos--Listas" style="margin-top:30px;">Naturales
-                <ol>
-                  <li class="Elementos--Listas">Betalaínas: Derivadas de la remolacha, para tonos rojos y púrpuras.</li>
-                  <li class="Elementos--Listas">Curcumina (E100): De la cúrcuma, aporta un color amarillo.</li>
-                  <li class="Elementos--Listas">Clorofilina (E140): Extraída de las plantas, da un tono verde.</li>
-                </ol>
-              </li>
-            </ol>
-          </li>
-        </ol>
-
-        <ol>
-          <li class="Elementos--Listas" style="margin-top:50px;">Artificiales
-            <ol>
-              <li class="Elementos--Listas" style="margin-top:30px;">Tartrazina (E102): Amarillo.</li>
-              <li class="Elementos--Listas">Rojo allura (E129): Rojo intenso.</li>
-              <li class="Elementos--Listas">Azul brillante (E133): Azul vibrante. Los colorantes artificiales son más estables pero menos aceptados por consumidores conscientes.</li>
-            </ol>
-          </li>
-        </ol>
-
-        <ol>
-          <li class="Elementos--Listas" style="margin-top:50px;">Agentes de brillo y recubrimiento: Para lograr un acabado brillante y atractivo en los bombones se utilizan: 
-            <ol>
-              <li class="Elementos--Listas" style="margin-top:30px;">Cera de carnauba (E903): Extraída de hojas de palmera, da un brillo característico.</li>
-              <li class="Elementos--Listas">Shellac (E904): Resina natural que crea una capa protectora y brillante.</li>
-              <li class="Elementos--Listas">Polietilenglicol (PEG): Utilizado en aplicaciones específicas para mejorar la textura exterior.</li>
-            </ol>
-          </li>
-        </ol>
-
-        <ol>
-          <li class="Elementos--Listas" style="margin-top:50px;">Edulcorantes alternativos: En bombones sin azúcar o de bajo índice glucémico, se emplean:
-            <ol>
-              <li class="Elementos--Listas" style="margin-top:30px;">Sorbitol (E420): Edulcorante y humectante.</li>
-              <li class="Elementos--Listas">Maltitol (E965): Alcohol de azúcar con una dulzura similar a la sacarosa.</li>
-              <li class="Elementos--Listas">Eritritol (E968): Alcohol de azúcar que no afecta significativamente los niveles de glucosa.</li>
-              <li class="Elementos--Listas">Sucralosa: Edulcorante intenso de bajo contenido calórico.</li>
-            </ol>
-          </li>
-        </ol>
-
-        <ol>
-          <li class="Elementos--Listas" style="margin-top:50px;"> Emulsionantes y estabilizantes: Estos ingredientes ayudan a mantener la estabilidad y textura de los bombones:
-            <ol>
-              <li class="Elementos--Listas" style="margin-top:30xp;">Glicerina (E422): Humectante que previene la cristalización de rellenos líquidos.</li>
-              <li class="Elementos--Listas">Mono y diglicéridos de ácidos grasos (E471): Emulsionantes que mejoran la textura.</li>
-              <li class="Elementos--Listas">Goma arábiga (E414): Estabilizante natural utilizado en decoraciones o coberturas.</li>
-            </ol>
-          </li>
-        </ol>
-
-        <ol>
-          <li class="Elementos--Listas" style="margin-top:50px;"> Aromas y saborizantes
-            <ol>
-              <l class="Elementos--Listas" style="margin-top:30px;">Naturales: Extractos de frutas, hierbas o especias, como menta, naranja, canela o vainilla.</li>
-              <li class="Elementos--Listas" >Sintéticos: Compuestos químicos como ésteres y aldehídos para reproducir sabores específicos, como frambuesa o almendra.</li>
-            </ol>
-          </li>
-        </ol>
-
-
-        <ol>
-          <li class="Elementos--Listas" style="margin-top:50px;"> Otros ingredientes funcionales
-            <ol>
-              <li class="Elementos--Listas" style="margin-top:30px;">Proteínas hidrolizadas: Usadas en algunos rellenos para mejorar la textura.</li>
-              <li class="Elementos--Listas" >Fibra dietética: A veces añadida para productos funcionales.</li>
-              <li class="Elementos--Listas" >Alcoholes polihidroxilados: Ayudan a preservar la frescura de los bombones y evitar el resecado.</li>
-            </ol>
-          </li>
-        </ol>
-
-        <ol>
-          <li class="Elementos--Listas" style="margin-top:50px;"> Ingredientes en bombones funcionales: En productos enfocados en la salud, se pueden incluir:
-            <ol>
-              <li class="Elementos--Listas" style="margin-top:30px;">Antioxidantes: Extractos naturales como polifenoles de té verde o vitamina E.</li>
-              <li class="Elementos--Listas" >Colágeno hidrolizado: Presente en bombones orientados al cuidado de la piel.</li>
-              <li class="Elementos--Listas" >Vitaminas y minerales: Agregados en productos funcionales.</li>
-            </ol>
-          </li>
-        </ol>
-
-    </div>
-  </div>
-</div>
 
 
 

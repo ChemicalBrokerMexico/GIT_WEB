@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <meta name="description" content="Descubre cómo nuestra empresa, líder en la distribución de ingredientes químicos, ofrece soluciones de alta calidad para la fabricación de aderezos. Desde emulsionantes hasta conservadores, proporcionamos los ingredientes esenciales para crear aderezos sabrosos, estables y de larga duración. ¡Potencia la calidad de tus productos con nuestros ingredientes especializados!"> 
-    <title>Chemical Broker | Aderezos</title>
+    <title>Chemical Broker | Consomes</title>
     <link rel="canonical" href="https://chemicalbroker.mx/Guacamole.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -394,9 +394,9 @@
     <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li> <img src="img/CB_DRESSEDS_180621.jpg" alt="" style="height:650px">
+          <li> <img src="img/CB_CHICKEN_SOUP_180621.jpg" alt="" style="height:650px">
           <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Aderezos</b>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Consomes</b>
             </div>
           </li>
         </ul>
@@ -408,141 +408,112 @@
         <div class="row">
             <div class="col s12 m12 l12 xl12">
 
-            <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Salsas.php"><b class="Tipografia--general Subtitulos" style="color:red;">Aderezos</b></a></section>
+            <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Consomes.php"><b class="Tipografia--general Subtitulos" style="color:red;">Consomes</b></a></section>
 
             </div>
         </div>
     </div>
 
 
-    <div class="containe">
-        <div class="row">
-            <div class="col s12 m12 l12 xl12">
-                <h2 class="Tipografia--general letranegro Titulos">Industria de los Aderezos: Ingredientes Químicos y Tendencias</h2>
+   <div class="container">
+    <div class="row">
+      <div class="col s12 m12 l12 xl12">
+        <p class="Tipografia--general letranegro General--Cuerpo">La industria de caldos de pollo y consomés en cubitos es un segmento dentro del sector de alimentos procesados y deshidratados. Se especializa en la producción de bases saborizantes que se utilizan en la cocina para mejorar el sabor de sopas, guisos, arroces y otras preparaciones.</p>
 
-                <p class="Tipoografia--general letranegro General--Cuerpo">La industria de los aderezos, que incluye productos como mayonesas, vinagretas, aderezos para ensaladas, salsas cremosas y mostazas, es clave en el sector alimentario, ya que no solo mejora el sabor y la textura de los platillos, sino que también está en constante evolución para satisfacer las demandas de los consumidores. Estos productos requieren una combinación específica de ingredientes químicos para garantizar su sabor, estabilidad, seguridad y vida útil.</p>
+        <h2 class="Tipografia--general letranegro Titulos"><b>Características de la Industria</b></h2>
 
-                <ol>
-                    <li> Importancia de los Aderezos en la Industria Alimentaria
-                        <ol>
-                            <li>Versatilidad: Los aderezos se utilizan en una amplia variedad de aplicaciones, desde ensaladas hasta sándwiches, y en la industria de la comida rápida y de servicios de catering.</li>
-                            <li>Demanda creciente: Con la mayor conciencia sobre la salud y el bienestar, los consumidores buscan opciones más saludables, bajas en grasas y sin aditivos artificiales.</li>
-                            <li>Innovación constante: Los fabricantes de aderezos continúan innovando con nuevos sabores, texturas y formulaciones que atraen a un público cada vez más diverso.</li>
-                        </ol>
-                    </li>
-                </ol>
-
-                <ol>
-                    <li> Principales Tipos de Aderezos: Los aderezos se pueden clasificar en diferentes tipos, cada uno con ingredientes químicos específicos para optimizar su rendimiento:
-                        <ol>
-                            <li> Aderezos cremosos (Mayonesa, ranch, césar, etc.):
-                                <ol>
-                                    <li>Base de aceite: Suelen requerir emulsionantes para evitar la separación de ingredientes (agua y aceite).</li>
-                                    <li>Textura densa y suave: Se necesitan espesantes y estabilizantes para mantener una consistencia cremosa.</li>
-                                </ol>
-                            </li>
-                        </ol>
-                    </li>
-                </ol>
-
-                <ol>
-                    <li> Vinagretas y aderezos líquidos (Balsámico, mostaza, etc.):
-                        <ol>
-                            <li>Emulsiones simples: En este tipo, se emplean emulsionantes más ligeros.</li>
-                            <li>Ingredientes ácidos: Como vinagre o jugo de limón, para darle frescura y balancear los sabores.</li>
-                        </ol>
-                    </li>
-                </ol>
-
-                <ol>
-                    <li> Aderezos a base de yogurt y lácteos (Aderezos cremosos saludables):
-                        <ol>
-                            <li>Requieren conservadores y estabilizantes adicionales para prolongar su vida útil y mantener la textura cremosa.</li>
-                        </ol>
-                    </li>
-                </ol>
-
-                <ol>
-                    <li>Aderezos en polvo:
-                        <ol>
-                            <li>Se comercializan para disolver en agua o aceites, y contienen ingredientes como maltodextrina, conservadores y saborizantes para dar una textura ideal y facilitar su almacenamiento.</li>
-                        </ol>
-                    </li>
-                </ol>
-
-                <h2 class="Tipofrafia--general letranegro Titulos">Ingredientes Químicos en la producción de aderezos</h2>
-
-                <p class="Tipografia--general letranegro General--Cuerpo">La elaboración de aderezos requiere de una variedad de ingredientes químicos para lograr la mezcla perfecta en cuanto a sabor, textura, estabilidad y durabilidad. A continuación, te describo los más utilizados:</p>
-
-
-                <ol>
-                    <li> Conservadores y Antioxidantes: Los aderezos suelen contener ingredientes para preservar su frescura y evitar la proliferación bacteriana.
-                        <ol>
-                            <li>Benzoato de sodio: Conservante común en aderezos comerciales que ayuda a evitar el crecimiento de hongos y bacterias.</li>
-                            <li>Sorbato de potasio: Evita la contaminación microbiana, especialmente en aderezos cremosos y de mayonesa.</li>
-                            <li>Ácido acético (vinagre): Conservante natural que también actúa como saborizante en vinagretas y aderezos a base de mostaza.</li>
-                            <li>Ácido ascórbico (vitamina C): Ayuda a prevenir la oxidación y mantener la frescura del aceite en los aderezos.</li>
-                        </ol>
-                    </li>
-                </ol>
-
+        <ol>
+          <li class="Elementos--Listas" style="margin-top:50px;">Proceso de Producción:
             <ol>
-                <li> Emulsionantes y Estabilizantes: Estos ingredientes son esenciales para evitar que los aderezos se separen y para mantener una textura homogénea.
-                    <ol>
-                        <li>Lecitina de soja: Un emulsionante clave que estabiliza las emulsiones de aceite y agua, esencial para productos como mayonesa y aderezos cremosos.</li>
-                        <li>Mono- y diglicéridos de ácidos grasos: Se utilizan para mantener la emulsión estable en productos como la mayonesa y salsas cremosas.</li>
-                        <li>Goma xantana: Se utiliza para espesar aderezos líquidos y asegurar que no se separen los componentes.</li>
-                        <li>Goma guar: Similar a la goma xantana, usada para mejorar la viscosidad y la textura de los aderezos, especialmente en productos sin gluten.</li>
-                    </ol>
-                </li>
+              <li class="Elementos--Listas" style="margin-top:30px;">Se utilizan ingredientes como carne de pollo deshidratada, grasas, sal, potenciadores del sabor (como el glutamato monosódico), especias y otros aditivos.</li>
+              <li class="Elementos--Listas">Los ingredientes se mezclan, se prensan y se moldean en cubos o en formatos granulados y líquidos.</li>
+              <li class="Elementos--Listas">Se someten a procesos de secado y envasado para garantizar su conservación y estabilidad.</li>
             </ol>
-
-            <ol>
-                <li> Ácidos y Reguladores de pH: El control del pH es crucial en la fabricación de aderezos, ya que puede afectar la seguridad del producto y la experiencia del consumidor.
-                    <ol>
-                        <li>Ácido cítrico: Un regulador de pH muy utilizado para ajustar la acidez de aderezos líquidos y vinagretas.</li>
-                        <li>Ácido tartárico: Se usa en algunos aderezos para ajustar la acidez y proporcionar un sabor balanceado, especialmente en aderezos a base de frutas.</li>
-                        <li>Ácido láctico: Además de regular la acidez, se utiliza en aderezos cremosos o aquellos que incluyen productos lácteos, como aderezos de crema agria o yogurt.</li>
-                    </ol>
-                </li>
-            </ol>
+          </li>
+        </ol>
 
 
-            <ol>
-              <li>Saborizantes y Potenciadores de Sabor: Los aderezos se caracterizan por sus complejos perfiles de sabor, que dependen de los ingredientes adicionales.
-                <ol>
-                  <li>Glutamato monosódico (MSG): Un potenciador de sabor común en aderezos comerciales que mejora el umami, especialmente en productos como los aderezos de soja o mostaza.</li>
-                  <li>Extracto de levadura: Usado para aumentar el sabor en aderezos sin añadir sal, proporcionando un sabor más profundo y sabroso.</li>
-                  <li>Ajo en polvo, cebolla en polvo y especias: Son ingredientes esenciales en muchos aderezos, como el ranch o el aderezo César, que aportan sabor y complejidad.</li>
-                </ol>
-              </li>
-            </ol>
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:50px;">Principales Empresas del Sector:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Algunas de las marcas más reconocidas a nivel global son Maggi (Nestlé), Knorr (Unilever), Ajinomoto, Goya, entre otras.</li>
+            <li class="Elementos--Listas">También existen fabricantes locales y de marca blanca que producen estos productos para supermercados y distribuidores.</li>
+          </ol>
+        </li>
+      </ol>
 
-            <ol>
-              <li>Colorantes y Otros Aditivos: Los colorantes se añaden para mejorar el atractivo visual de los aderezos.
-                <ol>
-                  <li>Colorante natural de cúrcuma: Utilizado para dar un color amarillo vibrante a productos como la mayonesa o aderezos mostaza.</li>
-                  <li>Colorante paprika: Usado para dar un tono rojo o anaranjado a los aderezos a base de tomate o salsas cremosas.</li>
-                  <li>Carboximetilcelulosa (CMC): Un aditivo utilizado para dar una textura suave y consistente a los aderezos sin necesidad de usar grandes cantidades de grasa.</li>
-                </ol>
-              </li>
-            </ol>
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:50px;">Mercado y Consumo:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Se comercializan en supermercados, tiendas de conveniencia y mayoristas.</li>
+            <li class="Elementos--Listas">Son populares en la cocina doméstica y en la industria de alimentos (restaurantes, catering y fabricantes de sopas y salsas).</li>
+            <li class="Elementos--Listas">Tienen alta demanda en países donde los caldos caseros requieren largos tiempos de cocción y se busca una alternativa rápida y práctica.</li>
+          </ol>
+        </li>
+      </ol>     
+      
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:50px;"> Tendencias del Mercado:
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Productos más saludables: Reducción de sodio, eliminación de glutamato monosódico y conservantes artificiales.</li>
+            <li class="Elementos--Listas">Formatos alternativos: Polvos, pastas y concentrados líquidos además de los cubitos tradicionales.</li>
+            <li class="Elementos--Listas">Opciones veganas y orgánicas: Caldos a base de vegetales sin ingredientes animales</li>
+          </ol>
+        </li>
+      </ol>
 
-            <ol>
-              <li>Retos y Tendencias en la Industria de los Aderezos: La industria de los aderezos enfrenta varios retos y, al mismo tiempo, tiene tendencias emergentes que marcan su evolución:
-                <ol>
-                  <li>Tendencias de salud: Hay una creciente demanda por aderezos más saludables, con menos grasas saturadas, sin conservantes artificiales y más ingredientes naturales.</li>
-                  <li>Sostenibilidad: Los consumidores están cada vez más interesados en productos que sean ecológicos y fabricados con procesos sostenibles. Esto incluye la reducción del uso de plásticos y la adopción de ingredientes orgánicos.</li>
-                  <li>Personalización y nuevos sabores: Se está apostando por sabores exóticos e innovadores, como aderezos a base de hierbas, frutas, especias y superalimentos, que buscan atraer a los consumidores interesados en explorar nuevos gustos.</li>
-                </ol>
-              </li>
-            </ol>
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">En la industria de los caldos de pollo y consomés en cubitos, se emplean diversos ingredientes químicos y aditivos para mejorar el sabor, la textura, la conservación y la estabilidad del producto. A continuación, te explico algunos de los más comunes:</p>
+      
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Potenciadores del sabor</b></h2>
 
-            
+      <p class="Tipografia--general letranegro General--Cuerpo">Son compuestos que realzan el sabor del caldo y lo hacen más intenso sin aportar un sabor propio.</p>
 
-            </div>
-        </div>
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">Glutamato monosódico (GMS, E621): Un aminoácido natural presente en muchos alimentos que se usa como potenciador del sabor umami.</li>
+        <li class="Elementos--Listas">Inosinato disódico (E631) y Guanilato disódico (E627): Se suelen combinar con el GMS para intensificar el sabor.</li>
+        <li class="Elementos--Listas">Extracto de levadura: Contiene nucleótidos y aminoácidos que mejoran el sabor umami de forma más natural.</li>
+      </ol>
+
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Conservantes y Antioxidantes</b></h2>
+
+      <p class="Tipografia--general letranegro General--Cuerpo">Se usan para prolongar la vida útil del producto y evitar su deterioro.</p>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">Butilhidroxianisol (BHA, E320) y Butilhidroxitolueno (BHT, E321): Antioxidantes que previenen la rancidez de las grasas.</li>
+        <li class="Elementos--Listas">Ácido cítrico (E330): Se usa como regulador de acidez y antioxidante.</li>
+        <li class="Elementos--Listas">Sorbato de potasio (E202): Conservante contra el crecimiento de hongos y bacterias.</li>
+      </ol>
+
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Estabilizantes y Espesantes</b></h2>
+
+      <p class="Tipografia--general letranegro General--Cuerpo">Aseguran la uniformidad del producto y mejoran su disolución.</p>
+
+      <ol>
+        <li class="Elementos--Listas">Almidón modificado: Puede provenir de maíz, papa o tapioca, y mejora la textura y consistencia.</li>
+        <li class="Elementos--Listas">Goma xantana (E415): Usada como espesante para mejorar la disolución del caldo en agua caliente.</li>
+      </ol>
+
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Colorantes y Aromatizantes</b></h2>
+
+      <p class="Tipografia--general letranegro General--Cuerpo">Se añaden para mejorar la apariencia y el aroma del producto.</p>
+
+      <ol>
+        <li class="Elementos--Listas" style="margin-top:30px;">Caramelo IV (E150d): Colorante marrón que da el tono característico al caldo.</li>
+        <li class="Elementos--Listas">Curcumina (E100): Se usa para aportar un color amarillo similar al del caldo casero.</li>
+        <li class="Elementos--Listas">Sabores artificiales de pollo: Se crean combinando compuestos como aldehídos y cetonas para imitar el sabor del pollo cocido.</li>
+      </ol>
+
+      <h2 class="Tipografia--general letranegro Titulos">Reguladores de pH y Antiaglomerantes</h2>
+
+      <ol>
+        <li class="Elementos--Listas">Fosfatos (E450, E451, E452): Ayudan a mejorar la solubilidad y textura del cubito.</li>
+        <li class="Elementos--Listas">Dióxido de silicio (E551): Evita que los cubitos se apelmacen y absorban humedad.</li>
+      </ol>
+
+
+      </div>
     </div>
+   </div>
     
 
 

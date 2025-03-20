@@ -415,30 +415,30 @@
     </div>
 
 
-    <div class="containe">
+    <div class="container">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
-                <h2 class="Tipografia--general letranegro Titulos">Industria de los Aderezos: Ingredientes Químicos y Tendencias</h2>
+                <h2 class="Tipografia--general letranegro Titulos"><b>Industria de los Aderezos: Ingredientes Químicos y Tendencias</b></h2>
 
-                <p class="Tipoografia--general letranegro General--Cuerpo">La industria de los aderezos, que incluye productos como mayonesas, vinagretas, aderezos para ensaladas, salsas cremosas y mostazas, es clave en el sector alimentario, ya que no solo mejora el sabor y la textura de los platillos, sino que también está en constante evolución para satisfacer las demandas de los consumidores. Estos productos requieren una combinación específica de ingredientes químicos para garantizar su sabor, estabilidad, seguridad y vida útil.</p>
+                <p class="Tipografia--general letranegro General--Cuerpo">La industria de los aderezos, que incluye productos como mayonesas, vinagretas, aderezos para ensaladas, salsas cremosas y mostazas, es clave en el sector alimentario, ya que no solo mejora el sabor y la textura de los platillos, sino que también está en constante evolución para satisfacer las demandas de los consumidores. Estos productos requieren una combinación específica de ingredientes químicos para garantizar su sabor, estabilidad, seguridad y vida útil.</p>
 
                 <ol>
-                    <li> Importancia de los Aderezos en la Industria Alimentaria
+                    <li class="Elementos--Listas" style="margin-top:50px;"> Importancia de los Aderezos en la Industria Alimentaria
                         <ol>
-                            <li>Versatilidad: Los aderezos se utilizan en una amplia variedad de aplicaciones, desde ensaladas hasta sándwiches, y en la industria de la comida rápida y de servicios de catering.</li>
-                            <li>Demanda creciente: Con la mayor conciencia sobre la salud y el bienestar, los consumidores buscan opciones más saludables, bajas en grasas y sin aditivos artificiales.</li>
-                            <li>Innovación constante: Los fabricantes de aderezos continúan innovando con nuevos sabores, texturas y formulaciones que atraen a un público cada vez más diverso.</li>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Versatilidad: Los aderezos se utilizan en una amplia variedad de aplicaciones, desde ensaladas hasta sándwiches, y en la industria de la comida rápida y de servicios de catering.</li>
+                            <li class="Elementos--Listas">Demanda creciente: Con la mayor conciencia sobre la salud y el bienestar, los consumidores buscan opciones más saludables, bajas en grasas y sin aditivos artificiales.</li>
+                            <li class="Elementos--Listas">Innovación constante: Los fabricantes de aderezos continúan innovando con nuevos sabores, texturas y formulaciones que atraen a un público cada vez más diverso.</li>
                         </ol>
                     </li>
                 </ol>
 
                 <ol>
-                    <li> Principales Tipos de Aderezos: Los aderezos se pueden clasificar en diferentes tipos, cada uno con ingredientes químicos específicos para optimizar su rendimiento:
+                    <li class="Elementos--Listas" style="margin-top:50px;"> Principales Tipos de Aderezos: Los aderezos se pueden clasificar en diferentes tipos, cada uno con ingredientes químicos específicos para optimizar su rendimiento:
                         <ol>
-                            <li> Aderezos cremosos (Mayonesa, ranch, césar, etc.):
+                            <li class="Elementos--Listas" style="margin-top:30px;"> Aderezos cremosos (Mayonesa, ranch, césar, etc.):
                                 <ol>
-                                    <li>Base de aceite: Suelen requerir emulsionantes para evitar la separación de ingredientes (agua y aceite).</li>
-                                    <li>Textura densa y suave: Se necesitan espesantes y estabilizantes para mantener una consistencia cremosa.</li>
+                                    <li class="Elementos--Listas" style="margin-top:30px;">Base de aceite: Suelen requerir emulsionantes para evitar la separación de ingredientes (agua y aceite).</li>
+                                    <li class="Elementos--Listas">Textura densa y suave: Se necesitan espesantes y estabilizantes para mantener una consistencia cremosa.</li>
                                 </ol>
                             </li>
                         </ol>
@@ -446,94 +446,94 @@
                 </ol>
 
                 <ol>
-                    <li> Vinagretas y aderezos líquidos (Balsámico, mostaza, etc.):
+                    <li class="Elementos--Listas" style="margin-top:50px;">Vinagretas y aderezos líquidos (Balsámico, mostaza, etc.):
                         <ol>
-                            <li>Emulsiones simples: En este tipo, se emplean emulsionantes más ligeros.</li>
-                            <li>Ingredientes ácidos: Como vinagre o jugo de limón, para darle frescura y balancear los sabores.</li>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Emulsiones simples: En este tipo, se emplean emulsionantes más ligeros.</li>
+                            <li class="Elementos--Listas">Ingredientes ácidos: Como vinagre o jugo de limón, para darle frescura y balancear los sabores.</li>
                         </ol>
                     </li>
                 </ol>
 
                 <ol>
-                    <li> Aderezos a base de yogurt y lácteos (Aderezos cremosos saludables):
+                    <li style="margin-top:50px;" class="Elementos--Listas"> Aderezos a base de yogurt y lácteos (Aderezos cremosos saludables):
                         <ol>
-                            <li>Requieren conservadores y estabilizantes adicionales para prolongar su vida útil y mantener la textura cremosa.</li>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Requieren conservadores y estabilizantes adicionales para prolongar su vida útil y mantener la textura cremosa.</li>
                         </ol>
                     </li>
                 </ol>
 
                 <ol>
-                    <li>Aderezos en polvo:
+                    <li class="Elementos--Listas" style="margin-top:50px;">Aderezos en polvo:
                         <ol>
-                            <li>Se comercializan para disolver en agua o aceites, y contienen ingredientes como maltodextrina, conservadores y saborizantes para dar una textura ideal y facilitar su almacenamiento.</li>
+                            <li class="Elementos--Listas">Se comercializan para disolver en agua o aceites, y contienen ingredientes como maltodextrina, conservadores y saborizantes para dar una textura ideal y facilitar su almacenamiento.</li>
                         </ol>
                     </li>
                 </ol>
 
-                <h2 class="Tipofrafia--general letranegro Titulos">Ingredientes Químicos en la producción de aderezos</h2>
+                <h2 class="Tipofrafia--general letranegro Titulos" style="margin-top:50px;"><b>Ingredientes Químicos en la producción de aderezos</b></h2>
 
                 <p class="Tipografia--general letranegro General--Cuerpo">La elaboración de aderezos requiere de una variedad de ingredientes químicos para lograr la mezcla perfecta en cuanto a sabor, textura, estabilidad y durabilidad. A continuación, te describo los más utilizados:</p>
 
 
                 <ol>
-                    <li> Conservadores y Antioxidantes: Los aderezos suelen contener ingredientes para preservar su frescura y evitar la proliferación bacteriana.
+                    <li class="Elementos--Listas" style="margin-top:50px;">Conservadores y Antioxidantes: Los aderezos suelen contener ingredientes para preservar su frescura y evitar la proliferación bacteriana.
                         <ol>
-                            <li>Benzoato de sodio: Conservante común en aderezos comerciales que ayuda a evitar el crecimiento de hongos y bacterias.</li>
-                            <li>Sorbato de potasio: Evita la contaminación microbiana, especialmente en aderezos cremosos y de mayonesa.</li>
-                            <li>Ácido acético (vinagre): Conservante natural que también actúa como saborizante en vinagretas y aderezos a base de mostaza.</li>
-                            <li>Ácido ascórbico (vitamina C): Ayuda a prevenir la oxidación y mantener la frescura del aceite en los aderezos.</li>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Benzoato de sodio: Conservante común en aderezos comerciales que ayuda a evitar el crecimiento de hongos y bacterias.</li>
+                            <li class="Elementos--Listas">Sorbato de potasio: Evita la contaminación microbiana, especialmente en aderezos cremosos y de mayonesa.</li>
+                            <li class="Elementos--Listas">Ácido acético (vinagre): Conservante natural que también actúa como saborizante en vinagretas y aderezos a base de mostaza.</li>
+                            <li class="Elementos--Listas">Ácido ascórbico (vitamina C): Ayuda a prevenir la oxidación y mantener la frescura del aceite en los aderezos.</li>
                         </ol>
                     </li>
                 </ol>
 
             <ol>
-                <li> Emulsionantes y Estabilizantes: Estos ingredientes son esenciales para evitar que los aderezos se separen y para mantener una textura homogénea.
+                <li class="Elementos--Listas" style="margin-top:50px;"> Emulsionantes y Estabilizantes: Estos ingredientes son esenciales para evitar que los aderezos se separen y para mantener una textura homogénea.
                     <ol>
-                        <li>Lecitina de soja: Un emulsionante clave que estabiliza las emulsiones de aceite y agua, esencial para productos como mayonesa y aderezos cremosos.</li>
-                        <li>Mono- y diglicéridos de ácidos grasos: Se utilizan para mantener la emulsión estable en productos como la mayonesa y salsas cremosas.</li>
-                        <li>Goma xantana: Se utiliza para espesar aderezos líquidos y asegurar que no se separen los componentes.</li>
-                        <li>Goma guar: Similar a la goma xantana, usada para mejorar la viscosidad y la textura de los aderezos, especialmente en productos sin gluten.</li>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Lecitina de soja: Un emulsionante clave que estabiliza las emulsiones de aceite y agua, esencial para productos como mayonesa y aderezos cremosos.</li>
+                        <li class="Elementos--Listas">Mono- y diglicéridos de ácidos grasos: Se utilizan para mantener la emulsión estable en productos como la mayonesa y salsas cremosas.</li>
+                        <li class="Elementos--Listas">Goma xantana: Se utiliza para espesar aderezos líquidos y asegurar que no se separen los componentes.</li>
+                        <li class="Elementos--Listas">Goma guar: Similar a la goma xantana, usada para mejorar la viscosidad y la textura de los aderezos, especialmente en productos sin gluten.</li>
                     </ol>
                 </li>
             </ol>
 
             <ol>
-                <li> Ácidos y Reguladores de pH: El control del pH es crucial en la fabricación de aderezos, ya que puede afectar la seguridad del producto y la experiencia del consumidor.
+                <li class="Elementos--Listas" style="margin-top:50px;"> Ácidos y Reguladores de pH: El control del pH es crucial en la fabricación de aderezos, ya que puede afectar la seguridad del producto y la experiencia del consumidor.
                     <ol>
-                        <li>Ácido cítrico: Un regulador de pH muy utilizado para ajustar la acidez de aderezos líquidos y vinagretas.</li>
-                        <li>Ácido tartárico: Se usa en algunos aderezos para ajustar la acidez y proporcionar un sabor balanceado, especialmente en aderezos a base de frutas.</li>
-                        <li>Ácido láctico: Además de regular la acidez, se utiliza en aderezos cremosos o aquellos que incluyen productos lácteos, como aderezos de crema agria o yogurt.</li>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Ácido cítrico: Un regulador de pH muy utilizado para ajustar la acidez de aderezos líquidos y vinagretas.</li>
+                        <li class="Elementos--Listas">Ácido tartárico: Se usa en algunos aderezos para ajustar la acidez y proporcionar un sabor balanceado, especialmente en aderezos a base de frutas.</li>
+                        <li class="Elementos--Listas">Ácido láctico: Además de regular la acidez, se utiliza en aderezos cremosos o aquellos que incluyen productos lácteos, como aderezos de crema agria o yogurt.</li>
                     </ol>
                 </li>
             </ol>
 
 
             <ol>
-              <li>Saborizantes y Potenciadores de Sabor: Los aderezos se caracterizan por sus complejos perfiles de sabor, que dependen de los ingredientes adicionales.
+              <li class="Elementos--Listas" style="margin-top:50px;">Saborizantes y Potenciadores de Sabor: Los aderezos se caracterizan por sus complejos perfiles de sabor, que dependen de los ingredientes adicionales.
                 <ol>
-                  <li>Glutamato monosódico (MSG): Un potenciador de sabor común en aderezos comerciales que mejora el umami, especialmente en productos como los aderezos de soja o mostaza.</li>
-                  <li>Extracto de levadura: Usado para aumentar el sabor en aderezos sin añadir sal, proporcionando un sabor más profundo y sabroso.</li>
-                  <li>Ajo en polvo, cebolla en polvo y especias: Son ingredientes esenciales en muchos aderezos, como el ranch o el aderezo César, que aportan sabor y complejidad.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Glutamato monosódico (MSG): Un potenciador de sabor común en aderezos comerciales que mejora el umami, especialmente en productos como los aderezos de soja o mostaza.</li>
+                  <li class="Elementos--Listas">Extracto de levadura: Usado para aumentar el sabor en aderezos sin añadir sal, proporcionando un sabor más profundo y sabroso.</li>
+                  <li class="Elementos--Listas">Ajo en polvo, cebolla en polvo y especias: Son ingredientes esenciales en muchos aderezos, como el ranch o el aderezo César, que aportan sabor y complejidad.</li>
                 </ol>
               </li>
             </ol>
 
             <ol>
-              <li>Colorantes y Otros Aditivos: Los colorantes se añaden para mejorar el atractivo visual de los aderezos.
+              <li class="Elementos--Listas" style="margin-top:50px;">Colorantes y Otros Aditivos: Los colorantes se añaden para mejorar el atractivo visual de los aderezos.
                 <ol>
-                  <li>Colorante natural de cúrcuma: Utilizado para dar un color amarillo vibrante a productos como la mayonesa o aderezos mostaza.</li>
-                  <li>Colorante paprika: Usado para dar un tono rojo o anaranjado a los aderezos a base de tomate o salsas cremosas.</li>
-                  <li>Carboximetilcelulosa (CMC): Un aditivo utilizado para dar una textura suave y consistente a los aderezos sin necesidad de usar grandes cantidades de grasa.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Colorante natural de cúrcuma: Utilizado para dar un color amarillo vibrante a productos como la mayonesa o aderezos mostaza.</li>
+                  <li class="Elementos--Listas">Colorante paprika: Usado para dar un tono rojo o anaranjado a los aderezos a base de tomate o salsas cremosas.</li>
+                  <li class="Elementos--Listas">Carboximetilcelulosa (CMC): Un aditivo utilizado para dar una textura suave y consistente a los aderezos sin necesidad de usar grandes cantidades de grasa.</li>
                 </ol>
               </li>
             </ol>
 
             <ol>
-              <li>Retos y Tendencias en la Industria de los Aderezos: La industria de los aderezos enfrenta varios retos y, al mismo tiempo, tiene tendencias emergentes que marcan su evolución:
+              <li class="Elementos--Listas" style="margin-top:50px;">Retos y Tendencias en la Industria de los Aderezos: La industria de los aderezos enfrenta varios retos y, al mismo tiempo, tiene tendencias emergentes que marcan su evolución:
                 <ol>
-                  <li>Tendencias de salud: Hay una creciente demanda por aderezos más saludables, con menos grasas saturadas, sin conservantes artificiales y más ingredientes naturales.</li>
-                  <li>Sostenibilidad: Los consumidores están cada vez más interesados en productos que sean ecológicos y fabricados con procesos sostenibles. Esto incluye la reducción del uso de plásticos y la adopción de ingredientes orgánicos.</li>
-                  <li>Personalización y nuevos sabores: Se está apostando por sabores exóticos e innovadores, como aderezos a base de hierbas, frutas, especias y superalimentos, que buscan atraer a los consumidores interesados en explorar nuevos gustos.</li>
+                  <li class="Elementos--Listas" style="margin-top:30px;">Tendencias de salud: Hay una creciente demanda por aderezos más saludables, con menos grasas saturadas, sin conservantes artificiales y más ingredientes naturales.</li>
+                  <li class="Elementos--Listas">Sostenibilidad: Los consumidores están cada vez más interesados en productos que sean ecológicos y fabricados con procesos sostenibles. Esto incluye la reducción del uso de plásticos y la adopción de ingredientes orgánicos.</li>
+                  <li class="Elementos--Listas">Personalización y nuevos sabores: Se está apostando por sabores exóticos e innovadores, como aderezos a base de hierbas, frutas, especias y superalimentos, que buscan atraer a los consumidores interesados en explorar nuevos gustos.</li>
                 </ol>
               </li>
             </ol>

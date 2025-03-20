@@ -1,19 +1,19 @@
-<!DOCTYPE html >
-<html lang="es"> 
+<!DOCTYPE html>
+<html>
   <head> 
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-    <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
-    <title>Chemical Broker | Alimento y Nutricion Animal</title>
-    <meta name="description" content="Chemical Broker ofrece un catalogo de productos de calidad mundial para cuidar la salud animal">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
+    <meta name="description" content="Descubre cómo nuestra empresa, líder en la distribución de ingredientes químicos, ofrece soluciones de alta calidad para la fabricación de aderezos. Desde emulsionantes hasta conservadores, proporcionamos los ingredientes esenciales para crear aderezos sabrosos, estables y de larga duración. ¡Potencia la calidad de tus productos con nuestros ingredientes especializados!"> 
+    <title>Chemical Broker | Sazonadores</title>
+    <link rel="canonical" href="https://chemicalbroker.mx/Guacamole.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
-    <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
-    <link rel="canonical" href="https://chemicalbroker.mx/Alimento_Animal.php">
-    <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection"/>
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus"/>
-    <link rel="stylesheet" href="css/History_Line.css"/>
-    <link rel="stylesheet" href="css/jquery.dataTables.min.css"/>
-    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css"/>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
+    <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+    <link rel="stylesheet" href="css/History_Line.css">
+    <link rel="stylesheet" href="css/jquery.dataTables.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
     <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="js/materialize.js" type="text/javascript"></script>
     <script src="js/init.js"></script>
@@ -31,16 +31,6 @@
       gtag('js', new Date());
       gtag('config', 'G-SGJQ8FDDJ6');
     </script>
-     <script src='https://www.google.com/recaptcha/api.js?render=6LeYtRQiAAAAACj-gIF382UTMQOh_sDG4VB7TIUf'> 
-</script>
-<script>
-grecaptcha.ready(function() {
-grecaptcha.execute('6LeYtRQiAAAAACj-gIF382UTMQOh_sDG4VB7TIUf', {action: 'ejemplo'})
-.then(function(token) {
-var recaptchaResponse = document.getElementById('recaptchaResponse');
-recaptchaResponse.value = token;
-});});
-</script>
   </head>
   <body>
   <div class="modal" id="modal1" style="overflow-y:auto;">
@@ -139,7 +129,7 @@ recaptchaResponse.value = token;
                     <div class="row">
                       <div class="col s12 m12 l10 xl10 sections">
                         <h6 class="Tipografia--general Titulos" style="color:white;padding-top:5px;">Enfoque de Negocios</h6>
-                        <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7;">Nuestros negocios brindan servicio a nuestros clientes en las industrias  Farmacéutica, Alimentaria y Nutrición Humana, Alimentaria y Nutrición Animal, Agroquímicos, Cosmética y Cuidado Personal, Detergencia, Industria Química</p>
+                        <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7;">Nuestros negocios brindan servicio a nuestros clientes en las industrias  Farmacéutica, Alimentaria y Nutrición Humana, Alimentaria y Nutrición Animal, Agroquímicos, Cosmética y Cuidado Personal, Detergencia, Industria Química.</p>
                       </div>
                     </div>
                   </div>
@@ -152,11 +142,11 @@ recaptchaResponse.value = token;
                         <h6 class="Tipografia--general Titulos" style="color:white;padding-top:5px">Teléfonos </h6>
                         <div class="col s12 m12 l12 xl12">
                           <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1888</p>
                         </div>
                         <div class="col s12 m12 l12 xl12"> 
                           <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1818 </p>
                         </div>
                       </div>
                     </div>
@@ -182,8 +172,7 @@ recaptchaResponse.value = token;
                         <li> <a class="arrowblue Tipogradia--general Subtitulos" href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download>Politica de Privacidad <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                         <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
-                                                          <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                       </p>
                     </ul>
@@ -311,7 +300,7 @@ recaptchaResponse.value = token;
                     <td style="border:hidden"><a href="Servicios.php" style="color:black !important;border:hidden">Servicios</a></td>
                   </tr>
                   <tr>
-                    <td style="border:hidden"><a href="Cumplimiento.php" style="color:black !important;border:hidden">Cumplimiento</a></td>
+                    <td style="border:hidden"><a href="Cumplimiento.php" style="color:black !important;border:hidden">Sistema de Gestión Integral</a></td>
                   </tr>
                   <tr>
                     <td style="border:hidden"><a href="Contact.php" style="color:black !important;border:hidden">Contacto</a></td>
@@ -363,34 +352,34 @@ recaptchaResponse.value = token;
                 </thead>
                 <tbody class="center-align">
                   <tr> 
-                    <td style="border:hidden;background-color:#262137;"><a href="index.php" style="color:white !important;border:hidden">Nosotros</a></td>
+                    <td style="boder:hidden;background-color:#262137;"><a href="index.php" style="color:white !important;border:hidden">Nosotros</a></td>
                   </tr>
                   <tr> 
                     <td style="border:hidden;background-color:#262137;"><a href="Historia_Hechos.php" style="color:white !important;border:hidden">Historia y Hechos</a></td>
                   </tr>
                   <tr> 
-                    <td style="border:hidden;background-color:#262137;"><a href="Marca.php"></a></td>
+                    <td style="border:hidden:background-color:#262137;"><a href="Marca.php"></a></td>
                   </tr>
                   <tr> 
                     <td style="border:hidden;background-color:#262137"><a href="Valores.php" style="color:white !important;border:hidden">Valores </a></td>
                   </tr>
                   <tr> 
-                    <td style="border:hidden;background-color:#262137"><a href="Premisas.php" style="color:white !important;border:hidden">Premisas    </a></td>
+                    <td style="border:hidden;background-color:#262137"><a href="Premisas.php" style="color:white !important;boder:hidden">Premisas    </a></td>
                   </tr>
                   <tr> 
-                    <td style="border:hideen;background-color:#262137"><a href="Servicio_Total.php" style="color:white !important;border:hidden">Servicio Total </a></td>
+                    <td style="border:hideen:background-color:#262137"><a href="Servicio_Total.php" style="color:white !important;border:hidden">Servicio Total </a></td>
                   </tr>
                   <tr> 
                     <td style="border:hidden;background-color:#262137"><a href="Code_of_Conduct.php" style="color:white !important;border:hidden">Codigo de Conducta </a></td>
                   </tr>
                   <tr> 
-                    <td style="border:hidden;background-color:#262137"><a href="Mercados.php" style="color:white !important;border:hidden">Mercados </a></td>
+                    <td style="border:hidden;backhground-color:#262137"><a href="Mercados.php" style="color:white !important;border:hidden">Mercados </a></td>
                   </tr>
                   <tr> 
                     <td style="border:hidden;background-color:#262137"> <a href="Servicios.php" style="color:white !important;border:hidden">Servicios  </a></td>
                   </tr>
                   <tr> 
-                    <td style="border:hidden;background-color:#262137"><a href="Cumplimiento.php" style="color:white !important;border:hidden">Cumplimiento </a></td>
+                    <td style="border:hidden;background-color:#262137"><a href="Cumplimiento.php" style="color:white !important;border:hidden">Sistema de Gestión Integral </a></td>
                   </tr>
                   <tr> 
                     <td style="border:hidden;background-color:#262137"><a href="Contact.php" style="color:white !important;border:hidden">Contacto    </a></td>
@@ -405,104 +394,149 @@ recaptchaResponse.value = token;
     <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-        <div class="caption center-align" style="z-index:3;position:relative;"><br/><br/><br/><br/>
-              <h3 class="primertitulo"><b class="boldbanner">Chemical Broker</b><br/></h3><b class="segundotitulo" style="font-size:26px;color:white">Nutricion Animal</b>
+          <li> <img src="img/CB_SASONADORES_180621.jpg" alt="" style="height:650px">
+          <div class="caption center-align"><br><br><br><br>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Sazonadores</b>
             </div>
-          <li><video class="videos_mercados" style="border-radius:10px;" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
-                  <source class="mercadosimagen" src="VIDEO/ALIMENTO_ANIMAL.mp4" type="video/mp4">
-                </video> 
           </li>
         </ul>
       </div>
     </div>
-    <div class="container">
-      <div class="row">
-        <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>  >&nbsp </b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important"><b>Mercados&nbsp </b><b>>&nbsp  </b></a><a class="breditem active" href="Alimento_Animal.php" style="color:red !important;margin-left:-2px"><b class="Tipografia--general Subtitulos">Alimento y Nutrición Animal </b></a></section>
-        </div>
-      </div>
-    </div>
-    <div class="container">
-      <div class="row">
-        <div class="col s12 m12 l12 xl12">
-          <p class="Tipografia--general letranegro General--Cuerpo" style="color:#262137;">La salud animal se ha convertido en un tema prioritario al igual que la salud humana, esto ha generado que se tenga un mayor énfasis por los alimentos brindados a los animales, realizando investigaciones más profundas sobre los beneficios de algunos compuestos incluidos en el alimento animal, analizando si dichos compuestos aportan beneficios a la salud de los animales o en su defecto si pudieran llegar a causar enfermedades.</p>
-        </div>
-      </div>
-    </div>
-    <div class="container">
-      <div class="row center-align">
-        <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Proximamente.php" style="cursor:pointer;">
-            <div class="contenedor">
-              <div class="transfo" id="overlayped" style="border-radius:10px"></div>
-              <div class="centrado_sub" style="position:absolute;z-index:2">
-                <h5 class="titulo_submercado"><b class="titulo_submercado">Mascotas </b><b> </b>
-                  <hr class="animacion"/>
-                  <p> <b style="color:white !important">
-                      <p class="leer_mas_mercados"> Leer Mas</p></b></p>
-                </h5>
-              </div><img class="mercadosimagen " src="img/CB_MASCOTAS.jpeg" alt="" style="border-radius:10px"/>
-            </div></a></div>
-        <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Aves_Corral.php" style="cursor:pointer;">
-            <div class="contenedor">
-              <div class="transfo" id="overlayped" style="border-radius:10px"></div>
-              <div class="centrado_sub" style="position:absolute;z-index:2">
-                <h5 class="titulo_submercado"><b class="titulo_submercado">Aves de Corral</b><b> </b>
-                  <hr class="animacion"/>
-                  <p> <b style="color:white !important">
-                      <p class="leer_mas_mercados"> Leer Mas</p></b></p>
-                </h5>
-              </div><img class="mercadosimagen" src="img/CB_AVES_200521.jpeg" alt="" style="border-radius:10px"/>
-            </div></a></div>
-     
-    
-   
-        <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Vacuno.php" style="cursor:pointer;">
-            <div class="contenedor">
-              <div class="transfo" id="overlayped" style="border-radius:10px"></div>
-              <div class="centrado_sub" style="position:absolute;z-index:2">
-                <h5 class="titulo_submercado"><b class="titulo_submercado">Ganado Vacuno</b><b> </b>
-                  <hr class="animacion"/>
-                  <p> <b style="color:white !important">
-                      <p class="leer_mas_mercados">  Leer Mas </p></b></p>
-                </h5>
-              </div><img class="mercadosimagen " src="img/CB_BOVINE_200521.jpeg" alt="" style="border-radius:10px"/>
-            </div></a></div>
-        <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Porcino.php" style="cursor:pointer;">
-            <div class="contenedor">
-              <div class="transfo" id="overlayped" style="border-radius: 10px;"></div>
-              <div class="centrado_sub" style="position:absolute;z-index:2">
-                <h5 class="titulo_submercado"><b class="titulo_submercado">Ganado Porcino</b><b> </b>
-                  <hr class="animacion"/>
-                  <p> <b style="color:white !important">
-                      <p class="leer_mas_mercados">  Leer Mas</p></b></p>
-                </h5>
-              </div><img class="mercadosimagen" src="img/CB_PORCINE_200521.jpg" alt="" style="border-radius:10px"/>
-            </div></a></div>
-     
-    
-        <div class="col s12 m12 l6 xl6 mercados zoom columna3"><a href="Proximamente.php" style="cursor:pointer;">
-            <div class="contenedor">
-              <div class="transfo" id="overlayped" style="border-radius: 10px;"></div>
-              <div class="centrado_sub" style="position:absolute;z-index:2">
-                <h5 class="titulo_submercado"><b class="titulo_submercado">Ganado Equino</b><b> </b>
-                  <hr class="animacion"/>
-                  <p> <b style="color:white !important">
-                      <p class="leer_mas_mercados"> Leer Mas</p></b></p>
-                </h5>
-              </div><img class="mercadosimagen " src="img/CB_EQUINE_200521.jpg" alt="" style="border-radius:10px"/>
-            </div></a></div>
-            </div>
-    
-      </div>
+  
 
+    <div class="container" style="margin-top:130px;">
+        <div class="row">
+            <div class="col s12 m12 l12 xl12">
+
+            <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Consomes.php"><b class="Tipografia--general Subtitulos" style="color:red;">Sazonadores</b></a></section>
+
+            </div>
+        </div>
+    </div>
+
+<div class="container">
+    <div class="row">
+        <div class="col s12 m12 l12 xl12">
+
+        <p class="Tipografia--general letranegro General--Cuerpo">La industria de los sazonadores se especializa en la producción de mezclas de especias, hierbas, sales y otros aditivos que realzan el sabor de los alimentos. Estos productos se comercializan en forma de polvos, granulados, pastas o líquidos y son ampliamente utilizados en la cocina doméstica, restaurantes y la industria alimentaria.</p>
+
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Características de la Industria</b></h2>
+
+        <ol>
+            <li class="Elementos--Listas">Proceso de Producción:
+                <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Selección de ingredientes: Se escogen especias, hierbas, sales, potenciadores del sabor y otros aditivos según la formulación deseada.</li>
+                    <li class="Elementos--Listas">Molienda y mezcla: Se procesan los ingredientes para obtener un tamaño de partícula uniforme.</li>
+                    <li class="Elementos--Listas">Secado o estabilización: Algunos productos requieren procesos de secado o estabilización para mejorar su vida útil.</li>
+                    <li class="Elementos--Listas">Envasado: Se empaquetan en sobres, frascos o envases industriales según el mercado objetivo.</li>
+                </ol>
+            </li>
+        </ol>
+
+        <ol>
+            <li class="Elementos--Listas" style="margin-top:50px;">Principales Empresas del Sector:
+                <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Multinacionales: McCormick, Ajinomoto, Nestlé (Maggi), Knorr (Unilever).</li>
+                    <li class="Elementos--Listas">Productores locales y marcas privadas: Empresas que producen condimentos a nivel regional o para marcas blancas de supermercados.</li>
+                </ol>
+            </li>
+        </ol>
+
+        <ol>
+            <li class="Elementos--Listas" style="margin-top:50px;">Mercado y Consumo:
+                <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Consumo doméstico: Sazonadores para carnes, arroces, sopas, pastas, etc.</li>
+                    <li class="Elementos--Listas">Sector gastronómico: Restaurantes y hoteles que utilizan mezclas de condimentos para estandarizar recetas.</li>
+                    <li class="Elementos--Listas">Industria alimentaria: Usados en productos procesados como embutidos, snacks, caldos y salsas.</li>
+                </ol>
+            </li>
+        </ol>
+
+        <ol>
+            <li class="Elementos--Listas" style="margin-top:50px;">Tendencias del Mercado:
+                <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Alternativas bajas en sodio y sin aditivos artificiales.</li>
+                    <li class="Elementos--Listas">Opciones orgánicas y naturales.</li>
+                    <li class="Elementos--Listas">Sazonadores especializados para dietas veganas, keto o sin alérgenos.</li>
+                </ol>
+            </li>
+        </ol>
+
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Ingredientes Químicos Utilizados en los Sazonadores</b></h2>
+
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Potenciadores del Sabor</b></h2>
+
+        <p class="Tipografia--general letranegro General--Cuerpo">Estos compuestos intensifican el sabor de los sazonadores sin aportar un sabor propio.</p>
+
+        <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Glutamato monosódico (GMS, E621): Refuerza el sabor umami en carnes, sopas y guisos.</li>
+            <li class="Elementos--Listas">Inosinato disódico (E631) y Guanilato disódico (E627): Usados junto con el GMS para una mayor potencia de sabor.</li>
+            <li class="Elementos--Listas">Extracto de levadura: Alternativa natural con nucleótidos y aminoácidos que realzan el sabor.</li>
+        </ol>
+
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Sales y Edulcorantes</b></h2>
+
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Mejoran el equilibrio de sabores en los sazonadores.</p>
+
+        <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Cloruro de sodio (sal de mesa): Base principal en la mayoría de los sazonadores.</li>
+            <li class="Elementos--Listas">Sustitutos de sal (cloruro de potasio, E508): Alternativa para productos bajos en sodio.</li>
+            <li class="Elementos--Listas">Dextrosa y maltodextrina: Azúcares usados para balancear el sabor o mejorar la textura.</li>
+        </ol>
+
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Espesantes y Agentes Antihumedad</b></h2>
+
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Aseguran la textura y previenen el apelmazamiento del producto.</p>
+
+        <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Goma xantana (E415) y goma guar (E412): Usadas para dar cuerpo en sazonadores líquidos o en pasta.</li>
+            <li class="Elementos--Listas">Dióxido de silicio (E551): Evita que los sazonadores en polvo se apelmacen.</li>
+            <li class="Elementos--Listas">Almidones modificados: Usados como agentes de carga o estabilizadores.</li>
+        </ol>
+
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Colorantes y Aromatizantes</b></h2>
+        
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Se añaden para mejorar la apariencia y el aroma del producto.</p>
+
+        <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Caramelo IV (E150d): Colorante marrón usado en sazonadores de carne y salsas.</li>
+            <li class="Elementos--Listas">Curcumina (E100): Color amarillo presente en mezclas como el curry.</li>
+            <li class="Elementos--Listas">Sabores artificiales: Se usan en sazonadores que imitan el sabor de carnes, quesos o vegetales.</li>
+        </ol>
+
+        <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Conservantes y Antioxidantes</b></h2>
+
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Garantizan la estabilidad y vida útil del sazonador.</p>
+
+        
+        <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Butilhidroxianisol (BHA, E320) y Butilhidroxitolueno (BHT, E321): Antioxidantes que evitan la rancidez de los aceites en los sazonadores.</li>
+            <li class="Elementos--Listas">Ácido cítrico (E330): Regula la acidez y funciona como antioxidante.</li>
+            <li class="Elementos--Listas">Sorbato de potasio (E202): Inhibe el crecimiento de moho y bacterias.</li>
+        </ol>
+
+
+
+        </div>
+    </div>
+</div>
  
-   
-    <footer style="margin-top:70px">
-      <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg" alt=""/></div><br/><br/>
-      <div class="container-fluid" style="text-align:center;margin-top:-50px">
-        <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto |&nbsp</a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download="download" style="color:black !important;font-size:16px">Politica de Privacidad</a></p>
-      </div>
-    </footer>
-    <script type="text/javascript" src="js/main.js">   </script>
-  </body>
+
+
+</body>
+<footer style="margin-top:70px">
+    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
+            alt=""></div><br><br>
+    <div class="container-fluid" style="text-align:center;margin-top:-50px">
+        <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos
+            Reservados.
+            | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
+                href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download
+                style="color:black !important;font-size:16px">Politica de
+                Privacidad </a>
+            <script type="text/javascript" src="js/main.js"></script></a></strong>
+        </p>
+        <script type="text/javascript" src="js/Products.js"></script>
+    </div>
+</footer>
 </html>
