@@ -3,7 +3,7 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Mascotas</title>
+    <title>Chemical Broker | Insecticidas</title>
     <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -392,9 +392,9 @@
     <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li><img src="img/CB_MASCOTAS.jpeg" alt="" style="height:400px">
+          <li><img src="img/INSECTICIDA.jpg" alt="" style="height:400px">
             <div class="caption center-align"><br><br><br><br>
-              <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">Mascotas</b>
+              <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">Insecticidas</b>
             </div>
           </li>
         </ul>
@@ -403,115 +403,111 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="active" href="Mascotas.php" style="color:red !important;margin-left:-2px"><b class="Tipografia--general letranegro Subtitulos breadcrumb" style="color:red;">Mascotas</b></a></section></section>
+        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="active" href="Mascotas.php" style="color:red !important;margin-left:-2px"><b class="Tipografia--general letranegro Subtitulos breadcrumb" style="color:red;">Insecticidas</b></a></section></section>
         </div>
       </div>
     </div>
 
   
-    <div class="container">
-      <div class="row">
-        <div class="col s12 m12 l12 xl12">
-          <p class="Tipografia--general letranegro General--Cuerpo">La industria de alimentos para mascotas se especializa en la producción de alimentos balanceados y suplementos nutricionales diseñados para perros, gatos y otras mascotas. Estos productos están formulados para proporcionar una nutrición completa y equilibrada, adaptándose a diferentes necesidades según la edad, tamaño, raza y estado de salud del animal.</p>
-
-          <h2 class="Tipografia--general letranegro Titulos"><b>Características de la Industria</b></h2>
-
-          <ol>
-            <li class="Elementos--Listas">Proceso de Producción:
-              <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;">Selección de materias primas: Carnes, cereales, vegetales, grasas, vitaminas y minerales.</li>
-                <li class="Elementos--Listas">Deshidratación y conservación: Se eliminan excesos de humedad para prolongar la vida útil en productos secos.</li>
-                <li class="Elementos--Listas">Envasado y distribución: Se utilizan empaques herméticos para evitar la contaminación y mantener la frescura.</li>
-                <li class="Elementos--Listas">Mezclado y extrusión: Los ingredientes se combinan y se someten a calor y presión para formar croquetas o texturas húmedas.</li>
-              </ol>
-            </li>
-          </ol>
-
-          <ol>
-            <li class="Elementos--Listas" style="margin-top:50px;">Principales Empresas del Sector:
-              <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;">Multinacionales: Nestlé Purina, Pedigree (Mars), Hill’s Science Diet, Royal Canin, Blue Buffalo.</li>
-                <li class="Elementos--Listas">Marcas emergentes: Empresas enfocadas en alimentos premium, orgánicos y especializados.</li>
-              </ol>
-            </li>
-          </ol>
-
-          <ol>
-            <li class="Elementos--Listas" style="margin-top:50px;">Mercado y Consumo:
-              <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;">Alimentos secos: Croquetas de larga duración y alto valor nutricional.</li>
-                <li class="Elementos--Listas">Alimentos húmedos: Comida enlatada o en sobres con mayor contenido de humedad.</li>
-                <li class="Elementos--Listas">Snacks y suplementos: Premios y complementos nutricionales específicos</li>
-              </ol>
-            </li>
-          </ol>
-
-          <ol>
-            <li class="Elementos--Listas" style="margin-top:50px;">Tendencias del Mercado:
-              <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;">Dietas más naturales y sin conservantes artificiales.</li>
-                <li class="Elementos--Listas">Alimentos funcionales con probióticos, antioxidantes y proteínas de alta calidad.</li>
-                <li class="Elementos--Listas">Formulaciones personalizadas según la edad y necesidades del animal.</li>
-              </ol>
-            </li>
-          </ol>
-
-          <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Ingredientes Químicos Utilizados en los Alimentos para Mascotas</b></h2>
-
-          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Proteínas y Fuentes Energéticas</b></h2>
-
-          <p class="Tipografia--general letranegro General--Cuerpo">Aseguran el desarrollo muscular y la vitalidad de las mascotas.</p>
-
-          <ol>
-            <li class="Elementos--Listas" style="margin-top:30px;">Harinas de carne y pescado: Proteínas concentradas derivadas de carne de res, pollo o pescado.</li>
-            <li class="Elementos--Listas">Proteínas vegetales (soja, guisante): Alternativas utilizadas en alimentos balanceados.</li>
-            <li class="Elementos--Listas">Grasas animales y aceites vegetales: Fuentes de energía y ácidos grasos esenciales.</li>
-          </ol>
-
-          <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Vitaminas y Minerales</b></h2>
-
-          <p class="Tipografia--general letranegro General--Cuerpo">Fortalecen el sistema inmunológico y la salud ósea.</p>
-
-          <ol>
-            <li class="Elementos--Listas" style="margin-top:30px;">Vitamina A y E: Para la piel, el pelaje y la vista.</li>
-            <li class="Elementos--Listas">Calcio y fósforo: Esenciales para huesos y dientes fuertes.</li>
-            <li class="Elementos--Listas">Taurina: Fundamental para la salud cardíaca de los gatos.</li>
-          </ol>
-
-          <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Conservantes y Antioxidantes</b></h2>
-
-          <p class="Tipografia--general letranegro General--Cuerpo">Garantizan la estabilidad y vida útil de los productos.</p>
-
-          <ol>
-            <li class="Elementos--Listas" style="margin-top:30px;">Tocoferoles naturales (E306): Conservante natural derivado de la vitamina E.</li>
-            <li class="Elementos--Listas">Butilhidroxianisol (BHA, E320) y Butilhidroxitolueno (BHT, E321): Antioxidantes sintéticos usados en croquetas.</li>
-            <li class="Elementos--Listas">Sorbato de potasio (E202): Evita el crecimiento de moho y bacterias.</li>
-          </ol>
-
-          <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Espesantes y Agentes de Textura</b></h2>
-
-          <p class="Tipografia--general letranegro General--Cuerpo">Mejoran la consistencia de los productos húmedos y snacks.</p>
-
-          <ol>
-            <li class="Elementos--Listas" style="margin-top:30px;">Goma guar (E412) y goma xantana (E415): Espesantes usados en alimentos húmedos.</li>
-            <li class="Elementos--Listas">Gelatina y carragenina (E407): Aportan textura en alimentos enlatados.</li>
-          </ol>
-
-          <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Saborizantes y Aditivos</b></h2>
-
-          <p class="Tipografia--general letranegro General--Cuerpo">Hacen los alimentos más apetecibles para las mascotas.</p>
-
-            <ol>
-              <li class="Elementos--Listas" style="margin-top:30px;">Glutamato monosódico (E621): Mejora el sabor de los alimentos procesados.</li>
-              <li class="Elementos--Listas">Hidrolizados de proteínas: Aumentan la palatabilidad del alimento.</li>
-              <li class="Elementos--Listas">Extracto de levadura: Fuente de nucleótidos que mejora el sabor y la digestión.</li>
-            </ol>
-
-        </div>
-      </div>
-    </div>
-
     
+    <div class="container">
+        <div class="row">
+            <div class="col s12 m12 l12 xl12">
+                <h2 class="Tipografia--general letranegro Titulos"><b>Industria de los Insecticidas</b></h2>
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La industria de los insecticidas se encarga del desarrollo, producción y comercialización de productos químicos diseñados para el control de plagas de insectos en la agricultura, el hogar, la industria y la salud pública. Estos productos pueden formularse en diferentes presentaciones como aerosoles, polvos, líquidos, cebos y geles.</p>
+                <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Características de la Industria</b></h2>
+                <ol>
+                    <li class="Elementos--Listas" style="margin-top:0px;"><b>Proceso de Producción:</b>
+                        <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Selección de ingredientes activos: Se eligen los compuestos químicos con efecto insecticida.</li>
+                            <li class="Elementos--Listas">Formulación: Se mezclan los ingredientes activos con solventes, estabilizantes y coadyuvantes.</li>
+                            <li class="Elementos--Listas">Microencapsulación (en algunos casos): Para controlar la liberación del producto.</li>
+                            <li class="Elementos--Listas">Envasado: Uso de envases seguros para evitar fugas y garantizar estabilidad.</li>
+                        </ol>
+                    </li>
+                </ol>
+                <ol>
+                    <li class="Elementos--Listas" style="margin-top:50px;"><b>Principales Empresas del Sector:</b>
+                        <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Multinacionales: Bayer, Syngenta, BASF, Corteva Agriscience, FMC Corporation.</li>
+                            <li class="Elementos--Listas">Productores locales: Empresas que desarrollan insecticidas genéricos y especializados</li>
+                        </ol>
+                    </li>
+                </ol>
+                <ol>
+                    <li class="Elementos--Listas" style="margin-top:50px;"><b>Mercado y Consumo:</b>
+                        <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Agrícola: Protección de cultivos contra plagas.</li>
+                            <li class="Elementos--Listas">Doméstico: Control de insectos en hogares y jardines.</li>
+                            <li class="Elementos--Listas">Salud pública: Programas gubernamentales contra enfermedades transmitidas por insectos (dengue, malaria).</li>
+                        </ol>
+                    </li>
+                </ol>
+                <ol>
+                    <li class="Elementos--Listas" style="margin-top:50px;"><b>Tendencias del Mercado:</b>
+                        <ol>
+                            <li class="Elementos--Listas" style="margin-top:30px;">Insecticidas biodegradables y menos tóxicos.</li>
+                            <li class="Elementos--Listas">Uso de feromonas y métodos biológicos de control.</li>
+                            <li class="Elementos--Listas">Nanotecnología para mejorar la eficacia y reducir el impacto ambiental.</li>
+                        </ol>
+                    </li>
+                </ol>
+
+                <h2 class="Tipografia--general letranegro Titulos"><b>Ingredientes Químicos Utilizados en los Insecticidas</b></h2>
+
+                <h2 class="Tipografia--general letranegro Titulos Elementos--Listas" style="margin-top:50px;"><b>Ingredientes Activos (Principios Activos)</b></h2>
+                
+                <p class="Tipografia--general letranegro General--Cuerpo">Son los compuestos responsables de eliminar o repeler insectos.</p>
+
+                <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px ">Piretroides (deltametrina, permetrina, cipermetrina): Sintéticos con acción rápida sobre insectos</li>
+                    <li class="Elementos--Listas">Organofosforados (clorpirifós, malatión, diazinón): Actúan sobre el sistema nervioso de los insectos.</li>
+                    <li class="Elementos--Listas">Neonicotinoides (imidacloprid, tiametoxam): Usados en el control de plagas agrícolas.</li>
+                    <li class="Elementos--Listas">Reguladores del crecimiento de insectos (IGR): Inhiben el desarrollo de larvas e impiden la reproducción (metopreno, piriproxifeno).</li>
+                </ol>
+
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Solventes y Vehículos</b></h2>
+
+                <p class="Tipografia--general letranegro General--Cuerpo">Ayudan a disolver y distribuir el ingrediente activo.</p>
+
+                <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Agua destilada: Base en formulaciones líquidas</li>
+                    <li class="Elementos--Listas">Hidrocarburos aromáticos (xileno, tolueno): Solventes en insecticidas industriales.</li>
+                    <li class="Elementos--Listas">Aceites minerales: Utilizados en formulaciones agrícolas.</li>
+                </ol>
+
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Sinergistas</b></h2>
+
+                <p class="Tipografia--general letranegro General--Cuerpo">Mejoran la eficacia de los ingredientes activos.</p>
+
+                <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Piperonil butóxido (PBO): Aumenta la potencia de los piretroides.</li>
+                    <li class="Elementos--Listas">MGK-264: Reduce la resistencia de los insectos a los insecticidas.</li>
+                </ol>
+
+                
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Emulsionantes y Dispersantes</b></h2>
+
+                <p class="Tipografia--general letranegro General--Cuerpo">Permiten la mezcla del insecticida con agua o aceite.</p>
+                
+                <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Lauril sulfato de sodio (SLS): Ayuda a la dispersión en agua</li>
+                    <li class="Elementos--Listas">Polisorbatos: Emulsionantes en formulaciones líquidas.</li>
+                </ol>
+
+                              <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Conservantes y Estabilizantes</b></h2>
+
+                <p class="Tipografia--general letranegro General--Cuerpo">Garantizan la estabilidad del producto y evitan su degradación.</p>
+
+                <ol>
+                    <li class="Elementos--Listas" style="margin-top:30px;">Ácido benzoico y ácido sórbico: Evitan el crecimiento microbiano.</li>
+                    <li class="Elementos--Listas">Butilhidroxitolueno (BHT): Protege los ingredientes activos de la oxidación.</li>
+                </ol>
+                
+
+            </div>
+        </div>
+    </div>
             
      
        
