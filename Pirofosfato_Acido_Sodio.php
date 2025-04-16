@@ -11,7 +11,7 @@
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
   <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">
-  <link rel="canonical" href="https://chemicalbroker.mx/index.php">
+  <link rel="canonical" href="https://chemicalbroker.mx/Pirofosfato_Acido_Sodio.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">

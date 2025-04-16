@@ -7,7 +7,7 @@
   <title>Chemical Broker | Aceite de Canola RBD</title>
   <meta name="description" content="Aceite de canola RBD de alta calidad, refinado, blanqueado y desodorizado. Ideal para aplicaciones alimenticias e industriales por su pureza y versatilidad. Descubre más aquí."> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
-  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
+  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Canola.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">

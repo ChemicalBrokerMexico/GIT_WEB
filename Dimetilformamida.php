@@ -5,38 +5,47 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
 <title>Chemical Broker | Dimetilformamida del Fabricante Basf</title>
 <meta name="description" content="Adquiere dimetilformamida (DMF) de alta pureza para aplicaciones industriales y químicas. Este solvente versátil y eficaz es ideal para procesos de síntesis y fabricación. Asegura la calidad y rendimiento de tus productos con nuestra dimetilformamida confiable y de calidad superior.">
-<link rel="canonical" href="https://chemicalbroker.mx/Dimetilformamida.php">
 <link rel="shortcut icon" href="img/CB_ICON.ico" />
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-<link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
-<link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
-<link rel="stylesheet" href="css/History_Line.css">
-<link rel="stylesheet" href="css/jquery.dataTables.min.css">
-<link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
-<script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
-<script src="js/materialize.js" type="text/javascript"></script>
-<script src="js/init.js"></script>
-<script src="js/wow.js"></script>
-<script>new WOW().init();</script>
-<script type="text/javscript" src="js/materialize.min.js"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
-    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.js"></script>
-    <script type="text/javascript" charset="utf8" src="js/Buscador.js?n=1"></script>l
-<script type="text/javascript" charset="utf8" src="js/Buscador.js"></script>
-<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/responsive/2.2.6/js/dataTables.responsive.js"></script>
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
-<script>
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', 'G-SGJQ8FDDJ6');
-</script>
-<script>
-$(document).ready(function () {
-    $('#table_id2').DataTable();
-});
-</script>
+  <link rel="canonical" href="https://chemicalbroker.mx/Dimetilformamida.php">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/History_Line.css">
+  <link rel="stylesheet" href="css/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.js"
+        integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+    <script src="js/materialize.js" type="text/javascript"></script>
+    <script src="js/init.js"></script>
+    <script src="js/wow.js"></script>
+    <script>
+        new WOW().init();
+    </script>
+    <script type="text/javscript" src="js/materialize.min.js"></script>
+    <script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.js">
+    </script>
+    <script type="text/javascript" charset="utf8" src="js/Buscador.js"></script>
+    <script type="text/javascript" charset="utf8"
+        src="https://cdn.datatables.net/responsive/2.2.6/js/dataTables.responsive.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', 'G-SGJQ8FDDJ6');
+    </script>
+    <script>
+        $(document).ready(function () {
+            $('#table_id2').DataTable();
+        });
+    </script>
 </head>
 <body>
 <div class="modal" id="modal1" style="overflow-y:auto;">
@@ -689,6 +698,11 @@ Científicamente se denominan dioles (alcoholes bivalentes), que se desvían del
 <li class="Tipografia--general letranegro Elementos--Listas" style="list-style-type:disc;"><a href="PDF/CATALOGUES/BASF_PS_DIMETHYLFORMAMIDE_100915.pdf" class="arrowblue Tipografia--general Botones letranegro" download style="margin-top: 30px;color:rgba(2 146 238 /99%)">BASF_PS_DIMETHYLFORMAMIDE_100915.pdf</a></li>
 
 </ol>
+
+<a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
+
 </div>
 </div>
 </div> 

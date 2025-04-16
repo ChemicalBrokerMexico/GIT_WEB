@@ -4,10 +4,10 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Aceite de Coco del Fabricante Vantage</title>
-  <meta name="description" content="Descubre los beneficios del aceite de coco puro y natural. Ideal para cocinar, Cuidar la piel y el Cabello, Compra ahora y disfruta de un producto versatil y saludable para tu bienestar diario."> 
+  <title>Chemical Broker | Alcoholes Grasos</title>
+  <meta name="description" content="Alcoholes grasos de alta pureza, ideales para aplicaciones cosméticas, farmacéuticas e industriales. Excelentes propiedades emolientes y estabilizantes. ¡Compra alcoholes grasos de calidad premium al mejor precio!"> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
-  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
+  <link rel="canonical" href="https://chemicalbroker.mx/Alcoholes_Grasos.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">

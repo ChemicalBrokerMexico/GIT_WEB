@@ -7,7 +7,7 @@
   <title>Chemical Broker | Sulfosuccinatos</title>
   <meta name="description" content="Descubre los usos, beneficios y aplicaciones de los sulfosuccinatos en nuestra completa guía. Los sulfosuccinatos son compuestos químicos versátiles ampliamente utilizados en diversas industrias, desde productos de cuidado personal hasta aplicaciones industriales. Conoce más sobre cómo los sulfosuccinatos pueden mejorar tus productos y procesos aquí.""> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
-  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
+  <link rel="canonical" href="https://chemicalbroker.mx/Sulfosuccinatos.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">

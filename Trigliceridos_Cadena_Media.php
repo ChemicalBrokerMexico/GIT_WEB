@@ -3,48 +3,49 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Glicerinas / Glicerol de la mas alta calidad</title>
+  <title>Chemical Broker | Trigliceridos de Cadena Media</title>
   <meta name="description" content="Chemical Broker distribuye mundialmente Glicerina de la mas alta Pureza y Calidad para las formulaciones de nuestros clientes, vendiendo unicamente Glicerina de los mejores Fabricantes a nivel mundial."> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
+  <link rel="canonical" href="https://chemicalbroker.mx/Trigliceridos_Cadena_Media.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-    integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="css/History_Line.css">
   <link rel="stylesheet" href="css/jquery.dataTables.min.css">
   <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
-  <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
-    crossorigin="anonymous"></script>
-  <script src="js/materialize.js" type="text/javascript"></script>
-  <script src="js/init.js"></script>
-  <script src="js/wow.js"></script>
-  <script>
-    new WOW().init();
-  </script>
-  <script type="text/javscript" src="js/materialize.min.js"></script>
-  <script type="text/javascript"
-    src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
-  <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.js">
-  </script>
-  <script type="text/javascript" charset="utf8" src="js/Buscador.js"></script>
-  <script type="text/javascript" charset="utf8"
-    src="https://cdn.datatables.net/responsive/2.2.6/js/dataTables.responsive.js"></script>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
+    <script src="https://code.jquery.com/jquery-3.5.1.js"
+        integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+    <script src="js/materialize.js" type="text/javascript"></script>
+    <script src="js/init.js"></script>
+    <script src="js/wow.js"></script>
+    <script>
+        new WOW().init();
+    </script>
+    <script type="text/javscript" src="js/materialize.min.js"></script>
+    <script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.js">
+    </script>
+    <script type="text/javascript" charset="utf8" src="js/Buscador.js"></script>
+    <script type="text/javascript" charset="utf8"
+        src="https://cdn.datatables.net/responsive/2.2.6/js/dataTables.responsive.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
 
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
-    gtag('config', 'G-SGJQ8FDDJ6');
-  </script>
-  <script>
-    $(document).ready(function () {
-      $('#table_id2').DataTable();
-    });
-  </script>
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', 'G-SGJQ8FDDJ6');
+    </script>
+    <script>
+        $(document).ready(function () {
+            $('#table_id2').DataTable();
+        });
+    </script>
 </head>
 
 <body>
@@ -576,11 +577,11 @@
 
             <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="margin-top:50px;"><b>Caracteristicas</b></b></h2>
 
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Físicas</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Físicas</b></h2>
 
             <ol>
                     
-                        <li class="Elementos--Listas">Estado físico 
+                        <li class="Elementos--Listas"><b>Estado físico</b> 
                             <ol>
                                 <li class="Elementos--Listas">Líquidos a temperatura ambiente, especialmente en climas cálidos.</li>
                                 <li class="Elementos--Listas">Pueden solidificarse a temperaturas más bajas, dependiendo de su composición exacta.</li>
@@ -589,7 +590,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;">Color y apariencia
+                <li class="Elementos--Listas" style="margin-top:50px;"><b>Color y apariencia</b>
                     <ol>
                         <li class="Elementos--Listas">Generalmente incoloros o ligeramente amarillentos.</li>
                         <li class="Elementos--Listas">Transparente en su forma purificada.</li>
@@ -599,7 +600,7 @@
                 </ol>
 
                 <ol>
-                    <li class="Elementos--Listas" style="margin-top:30px;">Solubilidad
+                    <li class="Elementos--Listas" style="margin-top:50px;"><b>Solubilidad</b>
                         <ol>
                             <li class="Elementos--Listas">Insolubles en agua, como la mayoría de los lípidos.</li>
                             <li class="Elementos--Listas">Solubles en solventes orgánicos como etanol, cloroformo y éter.</li>
@@ -609,34 +610,34 @@
 
                 <ol>
                     
-                        <ol>
-                            <li class="Elementos--Listas" style="margin-top:50px;">Viscosidad</li>
+                    
+                            <li class="Elementos--Listas" style="margin-top:50px;"><b>Viscosidad</b></li>
                                 <ol>
                                     <li class="Elementos--Listas" >Menos viscosos que los triglicéridos de cadena larga, lo que los hace más fluidos y fáciles de mezclar en líquidos.</li>
                                 </ol>
                 
                             <ol>
-                                <li class="Elementos--Listas" style="margin-top:30px;"> Punto de fusión
+                                <li class="Elementos--Listas" style="margin-top:50px;"><b>Punto de fusión</b>
                                     <ol>
                                         <li class="Elementos--Listas">Depende del tipo de ácido graso presente, pero generalmente bajo, oscilando entre -5°C y 30°C.</li>
                                     </ol>
                                 </li>
                             </ol>
                             <ol>
-                                <li class="Elementos--Listas" style="margin-top:30px;">Sabor y olor
+                                <li class="Elementos--Listas" style="margin-top:50px;"><b>Sabor y olor</b>
                                     <ol>
                                         <li class="Elementos--Listas">Prácticamente neutros, sin un sabor fuerte ni aroma intenso, lo que facilita su uso en alimentos y suplementos.</li>
                                     </ol>
                                 </li>
                             </ol>
                             <ol>
-                                <li class="Elementos--Listas" style="margin-top:30px;">Estabilidad oxidativa
+                                <li class="Elementos--Listas" style="margin-top:50px;"><b>Estabilidad oxidativa</b>
                                     <ol>
                                         <li class="Elementos--Listas">Más estables que algunos aceites poliinsaturados, pero pueden volverse rancios con el tiempo si no se almacenan correctamente.</li>
                                     </ol>
                                 </li>
                             </ol>
-                        </ol>
+                       
                     </li>
                 </ol>
 
@@ -645,7 +646,7 @@
             <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Químicas</b></h2>
 
             <ol>
-                <li class="Elementos--Listas">Estructura molecular
+                <li class="Elementos--Listas"><b>Estructura molecular</b>
                     <ol>
                         <li class="Elementos--Listas">Son ésteres de glicerol y ácidos grasos de cadena media (entre 6 y 12 átomos de carbono).</li>
                         <li class="Elementos--Listas">Fórmula general: C₃H₅(OOCR)₃, donde R es la cadena de ácidos grasos.</li>
@@ -654,7 +655,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:50px;">Composición de ácidos grasos
+                <li class="Elementos--Listas" style="margin-top:50px;"><b>Composición de ácidos grasos</b>
                     <ol>
                         <li class="Elementos--Listas"> Los TCM más comunes incluyen:
                             <ol>
@@ -669,7 +670,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:50px;">Polaridad
+                <li class="Elementos--Listas" style="margin-top:50px;"><b>Polaridad</b>
                     <ol>
                         <li class="Elementos--Listas">Son moléculas apolares, lo que los hace insolubles en agua pero solubles en solventes orgánicos como etanol y cloroformo.</li>
                     </ol>
@@ -677,7 +678,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:50px;">Metabolismo y reactividad
+                <li class="Elementos--Listas" style="margin-top:50px;"><b>Metabolismo y reactividad</b>
                     <ol>
                         <li class="Elementos--Listas">Se hidrolizan rápidamente por la lipasa pancreática en ácidos grasos libres y monoglicéridos.</li>
                         <li class="Elementos--Listas">Se metabolizan en el hígado sin necesidad de carnitina, a diferencia de los triglicéridos de cadena larga</li>
@@ -686,7 +687,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:50px;">Estabilidad química
+                <li class="Elementos--Listas" style="margin-top:50px;"><b>Estabilidad química</b>
                     <ol>
                         <li class="Elementos--Listas">Más resistentes a la oxidación en comparación con los ácidos grasos poliinsaturados.</li>
                         <li class="Elementos--Listas">Pueden sufrir hidrólisis y rancidez si se exponen al oxígeno, calor o luz.</li>
@@ -695,7 +696,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:50px;">Punto de fusión y ebullición
+                <li class="Elementos--Listas" style="margin-top:50px;"><b>Punto de fusión y ebullición</b>
                     <ol>
                         <li class="Elementos--Listas">Varía según la longitud de la cadena, pero es más bajo que los triglicéridos de cadena larga.</li>
                         <li class="Elementos--Listas">Suelen ser líquidos a temperatura ambiente.</li>
@@ -704,7 +705,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:50px;">Reacción con agentes químicos
+                <li class="Elementos--Listas" style="margin-top:50px;"><b>Reacción con agentes químicos</b>
                     <ol>
                         <li class="Elementos--Listas">Se pueden hidrogenar para modificar su estructura.</li>
                         <li class="Elementos--Listas">Reaccionan con álcalis en un proceso de saponificación, formando glicerol y sales de ácidos grasos (jabones).</li>
@@ -715,7 +716,7 @@
             <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Funcionales</b></h2>
 
             <ol>
-                <li class="Elementos--Listas">Fuente de energía rápida:
+                <li class="Elementos--Listas"><b>Fuente de energía rápida:</b>
                     <ol>
                         <li class="Elementos--Listas">Se metabolizan directamente en el hígado y generan cetonas, proporcionando energía rápida sin necesidad de insulina.</li>
                         <li class="Elementos--Listas">Ideales para deportistas, personas en dietas cetogénicas y pacientes con problemas de absorción de grasas.</li>
@@ -724,7 +725,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:50px;">Absorción y digestión eficiente:
+                <li class="Elementos--Listas" style="margin-top:50px;"><b>Absorción y digestión eficiente:</b>
                     <ol>
                         <li class="Elementos--Listas">No requieren bilis para su digestión, lo que los hace adecuados para personas con problemas pancreáticos o hepáticos.</li>
                         <li class="Elementos--Listas">Se absorben directamente a través de la vena porta en el intestino delgado.</li>
@@ -733,7 +734,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:50px;">Regulación del metabolismo y control del peso:
+                <li class="Elementos--Listas" style="margin-top:50px;"><b>Regulación del metabolismo y control del peso:</b>
                     <ol>
                         <li class="Elementos--Listas">Favorecen la termogénesis y la oxidación de grasas, ayudando en la pérdida de peso.</li>
                         <li class="Elementos--Listas">Aumentan la sensación de saciedad.</li>
@@ -742,7 +743,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:50px;">Función neurológica y cognitiva:
+                <li class="Elementos--Listas" style="margin-top:50px;"><b>Función neurológica y cognitiva:</b>
                     <ol>
                         <li class="Elementos--Listas">Las cetonas producidas pueden servir como fuente de energía alternativa para el cerebro, lo que beneficia a personas con enfermedades neurodegenerativas como el Alzheimer.</li>
                     </ol>
@@ -750,7 +751,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:50px;">Propiedades antimicrobianas:
+                <li class="Elementos--Listas" style="margin-top:50px;"><b>Propiedades antimicrobianas:</b>
                     <ol>
                         <li class="Elementos--Listas">Especialmente el ácido láurico (C12:0) tiene efectos antibacterianos y antifúngicos.</li>
                         <li class="Elementos--Listas">Pueden ayudar a combatir infecciones por microorganismos como Candida albicans y ciertas bacterias patógenas.</li>
@@ -759,7 +760,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:50px;">Impacto en la microbiota intestinal:
+                <li class="Elementos--Listas" style="margin-top:50px;"><b>Impacto en la microbiota intestinal:</b>
                     <ol>
                         <li class="Elementos--Listas">Pueden influir en la composición del microbioma intestinal, favoreciendo bacterias beneficiosas.</li>
                     </ol>
@@ -767,10 +768,10 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:50px;">Estabilidad en alimentos y formulaciones:
+                <li class="Elementos--Listas" style="margin-top:50px;"><b>Estabilidad en alimentos y formulaciones:</b>
                     <ol>
-                        <li class="Elementos--Listas">oSon resistentes a la oxidación y pueden ser utilizados en la industria alimentaria como aceites estables.</li>
-                        <li class="Elementos--Listas">oSe usan en suplementos, fórmulas para nutrición parenteral y productos de salud.</li>
+                        <li class="Elementos--Listas">Son resistentes a la oxidación y pueden ser utilizados en la industria alimentaria como aceites estables.</li>
+                        <li class="Elementos--Listas">Se usan en suplementos, fórmulas para nutrición parenteral y productos de salud.</li>
                     </ol>
                 </li>
             </ol>
@@ -778,7 +779,7 @@
             <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Aplicaciones</b></h2>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:50px;">Nutrición:
+                <li class="Elementos--Listas" style="margin-top:30px;"><b>Nutrición:</b>
                     <ol>
                         <li class="Elementos--Listas">Soporte en dietas cetogénicas y control de peso:
                             <ol>
@@ -791,7 +792,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:50px;">Aplicaciones en el Deporte y el Rendimiento Físico
+                <li class="Elementos--Listas" style="margin-top:50px;"><b>Aplicaciones en el Deporte y el Rendimiento Físico</b>
                     <ol>
                         <li class="Elementos--Listas">Energía rápida y sostenida
                             <ol>
@@ -804,17 +805,17 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:50px;">Reducción de fatiga y mejora en la recuperación
+                <li class="Elementos--Listas" style="margin-top:50px;"><b>Reducción de fatiga y mejora en la recuperación</b>
                     <ol>
                         <li class="Elementos--Listas">Ayudan a preservar el glucógeno muscular y reducen la inflamación postejercicio.</li>
                     </ol>
                 </li>
             </ol>
 
-            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Industria Alimentaria</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Industria Alimentaria</b></h2>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:50px;">Sustituto de grasas convencionales:
+                <li class="Elementos--Listas" style="margin-top:30px;"><b>Sustituto de grasas convencionales:</b>
                     <ol>
                         <li class="Elementos--Listas">Se utilizan en productos bajos en grasa para mejorar la textura y estabilidad.</li>
                     </ol>
@@ -822,7 +823,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:50px;">Presente en fórmulas infantiles y nutrición médica:
+                <li class="Elementos--Listas" style="margin-top:50px;"><b>Presente en fórmulas infantiles y nutrición médica:</b>
                     <ol>
                         <li class="Elementos--Listas">Se añaden a leches infantiles y alimentos especiales por su fácil digestión.</li>
                     </ol>
@@ -830,7 +831,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:50px;">Aditivo en alimentos procesados:
+                <li class="Elementos--Listas" style="margin-top:50px;"><b>Aditivo en alimentos procesados:</b>
                     <ol>
                         <li class="Elementos--Listas">Usados en productos como barras energéticas, chocolates y helados para mejorar la cremosidad.</li>
                     </ol>
@@ -840,7 +841,7 @@
             <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Industria Farmacéutica</b></h2>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:50px;">Vehículo para fármacos liposolubles:
+                <li class="Elementos--Listas" style="margin-top:30px;"><b>Vehículo para Fármacos Liposolubles:</b>
                     <ol>
                         <li class="Elementos--Listas">Se utilizan como portadores de medicamentos lipofílicos para mejorar su absorción y biodisponibilidad.</li>
                         <li class="Elementos--Listas">Usados en cápsulas de liberación controlada y aceites medicinales.</li>
@@ -849,7 +850,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:50px;">Soporte en tratamientos de enfermedades metabólicas:
+                <li class="Elementos--Listas" style="margin-top:50px;"><b>Soporte en Tratamientos de Enfermedades Metabólicas:</b>
                     <ol>
                         <li class="Elementos--Listas">Utilizados en pacientes con diabetes tipo 2, ya que no generan picos de glucosa.</li>
                         <li class="Elementos--Listas">En tratamientos para hipercolesterolemia, pueden contribuir a mejorar el perfil lipídico.</li>
@@ -858,7 +859,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:50px;">Suplementación en enfermedades raras:
+                <li class="Elementos--Listas" style="margin-top:50px;"><b>Suplementación en enfermedades raras:</b>
                     <ol>
                         <li class="Elementos--Listas">Utilizados en trastornos metabólicos como la deficiencia de carnitina, donde los TCM pueden ser una fuente de energía alternativa.</li>
                     </ol>
@@ -866,7 +867,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:50px;">Tratamiento de enfermedades neurológicas:
+                <li class="Elementos--Listas" style="margin-top:50px;"><b>Tratamiento de enfermedades neurológicas:</b>
                     <ol>
                         <li class="Elementos--Listas">Se usan como fuente de energía alternativa en casos de Alzheimer, Parkinson y epilepsia.</li>
                     </ol>
@@ -874,7 +875,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:50px;">Manejo de trastornos digestivos y metabólicos:
+                <li class="Elementos--Listas" style="margin-top:50px;"><b>Manejo de trastornos digestivos y metabólicos:</b>
                     <ol>
                         <li class="Elementos--Listas">Utilizados en personas con síndrome de intestino corto, pancreatitis o problemas de absorción.</li>
                         <li class="Elementos--Listas">Incorporados en nutrición enteral y parenteral por su digestión fácil y rápida.</li>
@@ -885,7 +886,7 @@
             <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Industria Cosmética</b></h2>
 
             <ol>
-                <li class="Elementos--Listas">Hidratación y reparación de la piel:
+                <li class="Elementos--Listas"><b>Hidratación y reparación de la piel:</b>
                     <ol>
                         <li class="Elementos--Listas">Usados en cremas y lociones por su capacidad de penetrar la piel sin dejar residuos grasosos.</li>
                         <li class="Elementos--Listas">Presentes en productos antienvejecimiento y regeneradores de piel dañada.</li>
@@ -894,7 +895,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:50px;">Aceites para el cabello:
+                <li class="Elementos--Listas" style="margin-top:50px;"><b>Aceites para el cabello:</b>
                     <ol>
                         <li class="Elementos--Listas">Ayudan a nutrir el cabello seco y dañado sin dejarlo pesado.</li>
                         <li class="Elementos--Listas">Común en aceites capilares, acondicionadores y mascarillas hidratantes.</li>
@@ -903,7 +904,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:50px;">Productos para pieles sensibles y con problemas dermatológicos:
+                <li class="Elementos--Listas" style="margin-top:50px;"><b>Productos para pieles sensibles y con problemas dermatológicos:</b>
                     <ol>
                         <li class="Elementos--Listas">Usados en tratamientos para eczema, psoriasis y piel seca.</li>
                         <li class="Elementos--Listas">Aplicados en productos hipoalergénicos y libres de fragancias.</li>
@@ -912,7 +913,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:50px;">Base en formulaciones cosméticas:
+                <li class="Elementos--Listas" style="margin-top:50px;"><b>Base en formulaciones cosméticas:</b>
                     <ol>
                         <li class="Elementos--Listas">Utilizados como vehículo para fragancias y aceites esenciales en perfumes y cremas.</li>
                         <li class="Elementos--Listas">Mejoran la dispersión de ingredientes activos en cosméticos.</li>
@@ -921,7 +922,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:50px;">Hidratantes y emolientes en cremas y lociones:
+                <li class="Elementos--Listas" style="margin-top:50px;"><b>Hidratantes y emolientes en cremas y lociones:</b>
                     <ol>
                         <li class="Elementos--Listas" >Se utilizan en productos para la piel, ya que hidratan sin sensación grasosa.</li>
                     </ol>
@@ -931,7 +932,7 @@
             <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Alimento Animal</b></h2>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:50px;">Suplementación en alimentación animal:
+                <li class="Elementos--Listas" style="margin-top:30px;"><b>Suplementación en alimentación animal:</b>
                     <ol>
                         <li class="Elementos--Listas">Usados en dietas para animales con problemas digestivos o con alta demanda energética (caballos de carrera, perros deportivos).</li>
                         <li class="Elementos--Listas">Mejora la absorción de nutrientes y la salud intestinal.</li>
@@ -940,7 +941,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:50px;">Fortificación de piensos en ganadería
+                <li class="Elementos--Listas" style="margin-top:50px;"><b>Fortificación de piensos en ganadería</b>
                     <ol>
                         <li class="Elementos--Listas">Utilizados en alimentos para aves y porcinos para mejorar la conversión alimenticia y el crecimiento.</li>
                     </ol>
@@ -948,7 +949,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;">Producción de suplementos veterinarios
+                <li class="Elementos--Listas" style="margin-top:30px;"><b>Producción de suplementos veterinarios</b>
                     <ol>
                         <li class="Elementos--Listas">Aplicados en suplementos energéticos para mascotas y animales en recuperación.</li>
                     </ol>
@@ -958,7 +959,7 @@
             <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Industria Química y Energética</b></h2>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:50px;">Uso en biocombustibles:
+                <li class="Elementos--Listas" style="margin-top:30px;"><b>Uso en biocombustibles:</b>
                     <ol>
                         <li class="Elementos--Listas">Investigados como fuente de biocombustibles debido a su estabilidad y rápida conversión en energía.</li>
            
@@ -967,7 +968,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:50px;">Lubricantes y productos industriales:
+                <li class="Elementos--Listas" style="margin-top:30px;"><b>Lubricantes y productos industriales:</b>
                     <ol>
                         <li class="Elementos--Listas">Usados en lubricantes biodegradables debido a su estabilidad química.</li>
                         <li class="Elementos--Listas">Aplicaciones en la formulación de plásticos ecológicos y biopolímeros</li>
@@ -977,7 +978,7 @@
 
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:50px;">Solventes en la industria química:
+                <li class="Elementos--Listas" style="margin-top:30px;"><b>Solventes en la industria química:</b>
                     <ol>
                         <li class="Elementos--Listas">Utilizados como base en productos de limpieza ecológicos y solventes industriales.</li>
                     </ol>
@@ -999,9 +1000,9 @@
                         <td class="center-align Tipografia--general" style="border:#F9F9F9 2px solid;">335 – 360</td>
                     </tr>
                     <tr>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;border:#F6F6F6 2px solid;"></td>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;border:#F6F6F6 2px solid;"></td>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
                     </tr>
                     <tr>
                         <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">Valor de Acidez:</td>
@@ -1009,9 +1010,9 @@
                         <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">0.1 Max.</td>
                     </tr>
                     <tr>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
                     </tr>
                     <tr>
                         <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">Valor de Yodo:</td>
@@ -1020,9 +1021,9 @@
                     </tr>
                 
                     <tr>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
                     </tr>
 
                     <tr>
@@ -1032,9 +1033,9 @@
                     </tr>
 
                     <tr>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
                     </tr>
                   
                     <tr>
@@ -1043,9 +1044,9 @@
                         <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">0.5 Max.</td>
                     </tr>
                     <tr>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
                     </tr>
                     <tr>
                         <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">Color APHA:</td>
@@ -1054,9 +1055,9 @@
                     </tr>
                
                     <tr>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
                     </tr>
                     <tr>
                         <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">Apariencia:</td>
@@ -1064,9 +1065,9 @@
                         <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">Liquido cristalino</td>
                     </tr>
                     <tr>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
                     </tr>
                     <tr>
                         <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">Olor:</td>
@@ -1074,9 +1075,9 @@
                         <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">Neutral</td>
                     </tr>
                     <tr>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
                     </tr>
                     <tr>
                         <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">C6:</td>
@@ -1084,9 +1085,9 @@
                         <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">2.0 Max.</td>
                     </tr>
                     <tr>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
                     </tr>
                     <tr>
                         <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">C8:</td>
@@ -1094,9 +1095,9 @@
                         <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">65 – 75</td>
                     </tr>
                     <tr>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
                     </tr>
                     <tr>
                         <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">C10:</td>
@@ -1104,9 +1105,9 @@
                         <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">25 – 35</td>
                     </tr>
                     <tr>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
                     </tr>
                     <tr>
                         <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">C12:</td>
@@ -1114,9 +1115,9 @@
                         <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">1.0 Max.</td>
                     </tr>
                     <tr>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
                     </tr>
                     <tr>
                         <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">C14:</td>
@@ -1124,9 +1125,9 @@
                         <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">-</td>
                     </tr>
                     <tr>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
-                        <td style="padding:20px;border:#F6F6F6 2px solid;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
+                        <td style="padding:20px;border:#F6F6F6 2px solid;background-color:#f9f9f9;"></td>
                     </tr>
                     <tr>
                         <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">CAS No.</td>
@@ -1140,6 +1141,10 @@
         </div>
     </div>
 </div>
+
+<a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
 
 
 </div>

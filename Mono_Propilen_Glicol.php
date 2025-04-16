@@ -8,7 +8,6 @@
     <link rel="canonical" href="https://chemicalbroker.mx/Mono_Propilen_Glicol.php">
     <title>Chemical Broker | Mono Propilen Glicol del Fabricante Lyondell Basell</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">

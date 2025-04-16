@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Azúcar Refinada</title>
+    <title>Chemical Broker | C-SORBIDEX SORBITOL</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description"
         content="Ofrecemos azúcar refinada de alta pureza, perfecta para la industria alimentaria y diversas aplicaciones. Garantiza el sabor y la calidad de tus productos con nuestro azúcar de primera categoría. ¡Aporta dulzura y consistencia a tus creaciones con nuestra oferta confiable y de calidad!.">

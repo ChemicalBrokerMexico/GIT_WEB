@@ -549,8 +549,6 @@
 </div>
 
 
-
-
 <div class="col s12 m12 l6 xl6 mercados zoom columna3"><a href="Pescados.php" style="cursor:pointer;">
 
 <div class="contenedor">

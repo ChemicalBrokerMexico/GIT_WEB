@@ -7,7 +7,7 @@
   <title>Chemical Broker | 2-Etilhexanol del Fabricante BASF</title>
   <meta name="description" content="Compra 2-Etilhexanol de alta calidad para aplicaciones industriales y quimicas. Ideal para la produccion de plastificantes, solventes y productos quimicos especializados. Obten soluciones eficientes y confiables con nuestro suministro seguro y puntual."> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
-  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
+  <link rel="canonical" href="https://chemicalbroker.mx/2-Etilhexanol.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">

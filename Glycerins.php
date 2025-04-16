@@ -3,48 +3,49 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Glicerinas / Glicerol de la mas alta calidad</title>
-  <meta name="description" content="Chemical Broker distribuye mundialmente Glicerina de la mas alta Pureza y Calidad para las formulaciones de nuestros clientes, vendiendo unicamente Glicerina de los mejores Fabricantes a nivel mundial."> 
+  <title>Chemical Broker | Glicerinas / Glicerol de la mas alta calidad (Peter Cremer, Cremer Oleo, P&G, Oleon)</title>
+  <meta name="description" content="Compra Glicerina de alta calidad de fabricantes líderes como Peter Cremer, Oleon y P&G, aplicable para cualquier industria. ¡Cotiza ahora y asegura el mejor precio!"> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
+  <link rel="canonical" href="https://chemicalbroker.mx/Glycerins.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-    integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="css/History_Line.css">
   <link rel="stylesheet" href="css/jquery.dataTables.min.css">
   <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
-  <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
-    crossorigin="anonymous"></script>
-  <script src="js/materialize.js" type="text/javascript"></script>
-  <script src="js/init.js"></script>
-  <script src="js/wow.js"></script>
-  <script>
-    new WOW().init();
-  </script>
-  <script type="text/javscript" src="js/materialize.min.js"></script>
-  <script type="text/javascript"
-    src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
-  <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.js">
-  </script>
-  <script type="text/javascript" charset="utf8" src="js/Buscador.js"></script>
-  <script type="text/javascript" charset="utf8"
-    src="https://cdn.datatables.net/responsive/2.2.6/js/dataTables.responsive.js"></script>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
+    <script src="https://code.jquery.com/jquery-3.5.1.js"
+        integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+    <script src="js/materialize.js" type="text/javascript"></script>
+    <script src="js/init.js"></script>
+    <script src="js/wow.js"></script>
+    <script>
+        new WOW().init();
+    </script>
+    <script type="text/javscript" src="js/materialize.min.js"></script>
+    <script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.js">
+    </script>
+    <script type="text/javascript" charset="utf8" src="js/Buscador.js"></script>
+    <script type="text/javascript" charset="utf8"
+        src="https://cdn.datatables.net/responsive/2.2.6/js/dataTables.responsive.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
 
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
-    gtag('config', 'G-SGJQ8FDDJ6');
-  </script>
-  <script>
-    $(document).ready(function () {
-      $('#table_id2').DataTable();
-    });
-  </script>
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', 'G-SGJQ8FDDJ6');
+    </script>
+    <script>
+        $(document).ready(function () {
+            $('#table_id2').DataTable();
+        });
+    </script>
 </head>
 
 <body>
@@ -574,9 +575,9 @@
     <div class="row">
       <div class="col s12 m12 l12 xl12">
       
-      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b style="border-bottom:3px solid red;">Glicerinas</b></h2>
+      <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b style="border-bottom:3px solid red;">Glicerina</b></h2>
 
-        <p class="Tipografia--general letranegro General--Cuerpo">La <b>Glicerina</b>, también conocida como glicerol, es un compuesto orgánico natural que pertenece al grupo de los alcoholes. Tiene una consistencia espesa, es incolora, inodora y tiene un sabor ligeramente dulce. Es soluble en agua y tiene propiedades higroscópicas, lo que significa que puede absorber agua del ambiente.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo">La Glicerina, también conocida como glicerol, es un compuesto orgánico natural perteneciente al grupo de los alcoholes. Es incolora, inodora, de consistencia espesa y sabor ligeramente dulce. Este compuesto versátil es altamente soluble en agua y presenta propiedades higroscópicas, lo que significa que puede absorber agua del ambiente, lo que la convierte en un ingrediente esencial en industrias como la cosmética, alimentaria, farmacéutica y química.</p>
 
         <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Propiedades</b></h2>
 
@@ -584,12 +585,12 @@
 
         <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Propiedades Físicas</b></h2>
 
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Estado físico. -</b> Es un líquido viscoso, incoloro, inodoro y con un sabor ligeramente dulce.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Solubilidad. -</b> Es completamente soluble en agua, lo que la hace útil en muchas formulaciones acuosas. También es miscible con alcohol y otros disolventes polares.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Viscosidad. -</b> Tiene una alta Viscosidad, lo que le da una consistencia espesa. Esto es útil en productos cosméticos y farmacéuticos, ya que ayuda a que las fórmulas se adhieran mejor a la piel o se mantengan estables.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Punto de congelación. -</b> La <b>Glicerina</b> tiene un punto de congelación relativamente bajo, aproximadamente -38.8°C, lo que le permite mantenerse líquida a temperaturas más bajas que el agua.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Punto de ebullición. -</b> Su punto de ebullición es de 290°C, lo que la hace estable a altas temperaturas sin descomponerse.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Densidad. -</b> Su densidad es de aproximadamente 1.26 g/cm³ a 20°C, lo que la hace más densa que el agua.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Estado físico:</b> Líquido viscoso, incoloro, inodoro y con sabor dulce.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Solubilidad en agua:</b> Completamente soluble en agua y miscible con alcohol y otros disolventes polares.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Viscosidad:</b> Alta viscosidad que mejora la consistencia y adhesión en productos cosméticos y farmacéuticos.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Punto de congelación:</b> -38.8°C, lo que permite mantenerse líquida a bajas temperaturas.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Punto de ebullición:</b> 290°C, estable a altas temperaturas sin descomposición.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Densidad:</b> 1.26 g/cm³ a 20°C, más densa que el agua.</p>
 
         <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Propiedades Químicas</b></h2>
 
@@ -657,7 +658,7 @@
       <div class="col s12 m12 l12 xl12">
       <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Farmacéutica:</b></h2>
       <ol>
-        <li class="Elementos--Listas"><b>Jarabes y suspensiones</b></li>
+        <li class="Elementos--Listas">Jarabes y suspensiones</li>
         <li class="Elementos--Listas">Supositorios</li>
         <li class="Elementos--Listas">Ungüentos</li>
         <li class="Elementos--Listas">Cremas</li>
@@ -693,7 +694,7 @@
       <div class="col s12 m12 l12 xl12">
       <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Detergentes y Limpiadores:</b></h2>
         <ol>
-          <li class="Elementos--Listas"><b>Detergentes</b></li>
+          <li class="Elementos--Listas">Detergentes</li>
           <li class="Elementos--Listas">Limpiadores</li>
         </ol>
       </div>
@@ -722,7 +723,7 @@
       <div class="col s12 m12 l12 xl12">
       <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Polímeros:</b></h2>
         <ol>
-        <li class="Elementos--Listas"><b>Poliuretanos</b></li>
+        <li class="Elementos--Listas">Poliuretanos</li>
         <li class="Elementos--Listas">Resinas</li>
         <li class="Elementos--Listas">Plásticos</li>
         </ol>
@@ -813,7 +814,7 @@
       <div class="col s12 m12 l12 xl12">
       <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Minería:</b></h2>
         <ol>
-          <li class="Elementos--Listas"><b>Riego de Tierra</b></li>
+          <li class="Elementos--Listas">Riego de Tierra</li>
         </ol>
       </div>
       <!-- <div class="col s12 m6 l6 xl6">
@@ -837,6 +838,9 @@
     </div>
   </div>
         
+  <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
 
 </body>
 <footer style="margin-top:70px">

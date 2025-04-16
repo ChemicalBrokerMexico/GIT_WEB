@@ -8,7 +8,6 @@
     <link rel="canonical" href="https://chemicalbroker.mx/Mono_Propilen_Glicol.php">
     <title>Chemical Broker | Mono Propilen Glicol del Fabricante Lyondell Basell</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -613,7 +612,7 @@
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
-            <p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#808080;">Di Propilen Glicol Grado Fragancia</b> (DPG) es un compuesto químico orgánico que pertenece a la familia de los <b>Glicolesa>/b>. Es un líquido incoloro, inodoro y con una consistencia viscosa. Este compuesto es un derivado del propileno y se obtiene durante la producción del propilenglicol como subproducto.</p>
+            <p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#808080;">Di Propilen Glicol Grado Fragancia</b> (DPG) es un compuesto químico orgánico que pertenece a la familia de los <b>Glicolesa</b>. Es un líquido incoloro, inodoro y con una consistencia viscosa. Este compuesto es un derivado del propileno y se obtiene durante la producción del propilenglicol como subproducto.</p>
             
             <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#808080;margin-top:50px;"><b>Características Físicas</b></h2>
 
@@ -737,6 +736,10 @@
             </div>
         </div>
     </div>
+
+    <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
     
 
 </body>

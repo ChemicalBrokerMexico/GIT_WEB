@@ -1,21 +1,18 @@
-
 <!DOCTYPE html>
 <html>
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-<title>Chemical Broker | Glicoles de la mas alta calidad del Fabricante Lyondell Basell</title>
-<meta name="description" content="Los Glicoles son un tipo de compuesto químico orgánico que contiene dos grupos hidroxilos (grupos -OH) que resultan de la reacción del agua con el óxido de etileno.">
+<meta name="description" content="Descubre los ingredientes esenciales utilizados en la formulación de tintes para cabello. Desde colorantes hasta agentes acondicionadores y estabilizantes, ofrecemos soluciones de alta calidad para lograr colores vibrantes y duraderos. ¡Explora nuestra gama de ingredientes especializados para la industria de tintes al mejor precio!.">
+<title>Chemical Broker | Tintes Cabello</title>
 <link rel="shortcut icon" href="img/CB_ICON.ico" />
-  <link rel="canonical" href="https://chemicalbroker.mx/Glycols.php">
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
-  <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="css/History_Line.css">
-  <link rel="stylesheet" href="css/jquery.dataTables.min.css">
-  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
+<link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+<link rel="stylesheet" href="css/History_Line.css">
+<link rel="stylesheet" href="css/jquery.dataTables.min.css">
+<link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
 <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
 <script src="js/materialize.js" type="text/javascript"></script>
 <script src="js/init.js"></script>
@@ -23,22 +20,15 @@
 <script>new WOW().init();</script>
 <script type="text/javscript" src="js/materialize.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
-    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.js"></script>
-    <script type="text/javascript" charset="utf8" src="js/Buscador.js?n=1"></script>l
-<script type="text/javascript" charset="utf8" src="js/Buscador.js"></script>
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.js"></script>
+<script type="text/javascript" charset="utf8" src="js/Buscador.js?n=1"></script>
 <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/responsive/2.2.6/js/dataTables.responsive.js"></script>
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
 <script>
 window.dataLayer = window.dataLayer || [];
 function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-SGJQ8FDDJ6');
 </script>
-<script>
-    $(document).ready(function () {
-    $('#table_id2').DataTable();
-    });
-  </script>
 </head>
 <body>
 <div class="modal" id="modal1" style="overflow-y:auto;">
@@ -179,8 +169,8 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="Code_of_Conduct.php">Codigo de conducta &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <li> <a class="arrowblue Tipogradia--general Subtitulos" href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download>Politica de Privacidad <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
-                                                        id="aparece"></i></a></li>
-                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+id="aparece"></i></a></li>
+<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 </p>
 </ul>
@@ -207,7 +197,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <div class="col s12 m12 l12 pull-l7 xl4 pull-xl2">
 <section>
 <ul> 
-<p style="color:white"><b class="Tipografia--general Titulos">Carreras</b>
+<p style="color:white"><b class="Tipografia--general Titulos">Carreras </b>
 <hr class="hr">
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="Carreras.php">Carreras <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"> </i></a></li>
 </p>
@@ -229,10 +219,11 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <div class="nav-wrapper flex"><a class="sidenav-trigger" href="#" data-target="mobile-demo"><i class="material-icons letranegro">menu</i></a><span class="Pmenu letranegro">Menu</span>
 <ul class="hide-on-med-and-down">
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Mercados.php"><b>Mercados</b></a></li>
-<ul id="dropdown3" class="dropdown-content">
-  <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Ingredientes Químicos</a></li>
- 
-  <li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
+<ul id="dropdown3" class="dropdown-content" style="width:300px !important;">
+<li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Ingredientes Químicos</a>
+</li>
+
+<li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
 </ul>
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!" data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a></li>
 <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Servicios.php"><b>Servicios</b></a></li>
@@ -240,7 +231,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <ul id="dropdown4" class="dropdown-content" tabindex="0">
 <li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Sistema de Gestión Integral</a></li>
 <li tabindex="0"><a href="Marco_Regulatorio.php" class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
-  <li tabindex="0"><a href="Certificaciones.php" class="Tipografia--general letranegro Subtitulos">Certificaciones</a></li>
+<li tabindex="0"><a href="Certificaciones.php" class="Tipografia--general letranegro Subtitulos">Certificaciones</a></li>
 </ul></li>
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Contact.php"><b>Contacto </b></a></li>
 </ul>
@@ -272,7 +263,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 </div>
 </div>
 <div class="col s12 m12 l12 xl12 search" id="search">
-<table class="search-table" id="" style="width:100%">
+<table class="search-table" id="searchTable" style="width:100%">
 <thead> 
 <tr>
 <td> </td>
@@ -332,7 +323,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <p style="color:white !important;">Servicios</p></a></li>
 <div class="divider"></div>
 <li> <a href="Cumplimiento.php" style="color:white !important"><i class="small material-icons right" style="color:white !important;margin-top:0px !important;">chevron_right</i>
-<p style="color:white !important;">SGI</p></a></li>
+<p style="color:white !important;"> </p></a></li>
 <div class="divider"></div>
 <li> <a href="Contact.php" style="color:white !important"><i class="small material-icons right" style="color:white !important;margin-top:0px !important;">chevron_right</i>
 <p style="color:white !important;">Contact</p></a></li>
@@ -351,7 +342,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12 search" id="search2">
-<table class="search-table" id="" style="width:100%;">
+<table class="search-table" id="searchTable2" style="width:100%;">
 <thead> 
 <tr> 
 <td> </td>
@@ -359,22 +350,22 @@ gtag('config', 'G-SGJQ8FDDJ6');
 </thead>
 <tbody class="center-align">
 <tr> 
-<td style="border:hidden;background-color:#262137;"><a href="index.php" style="color:white !important;border:hidden">Nosotros</a></td>
+<td style="background-color:#262137;"><a href="index.php" style="color:white !important;border:hidden">Nosotros</a></td>
 </tr>
 <tr> 
 <td style="border:hidden;background-color:#262137;"><a href="Historia_Hechos.php" style="color:white !important;border:hidden">Historia y Hechos</a></td>
 </tr>
 <tr> 
-<td style="border:hidden;background-color:#262137;"><a href="Marca.php"></a></td>
+<td style="border:hidden:background-color:#262137;"><a href="Marca.php"></a></td>
 </tr>
 <tr> 
 <td style="border:hidden;background-color:#262137"><a href="Valores.php" style="color:white !important;border:hidden">Valores </a></td>
 </tr>
 <tr> 
-<td style="border:hidden;background-color:#262137"><a href="Premisas.php" style="color:white !important;border:hidden">Premisas    </a></td>
+<td style="border:hidden;background-color:#262137"><a href="Premisas.php" style="color:white !important;border:hidden">Premisas </a></td>
 </tr>
 <tr> 
-<td style="border:hideen;background-color:#262137"><a href="Servicio_Total.php" style="color:white !important;border:hidden">Servicio Total </a></td>
+<td style="border:hideen:background-color:#262137"><a href="Servicio_Total.php" style="color:white !important;border:hidden">Servicio Total </a></td>
 </tr>
 <tr> 
 <td style="border:hidden;background-color:#262137"><a href="Code_of_Conduct.php" style="color:white !important;border:hidden">Codigo de Conducta </a></td>
@@ -398,151 +389,200 @@ gtag('config', 'G-SGJQ8FDDJ6');
 </div>
 </div>
 </ul>
-
-
 <div class="container-fluid">
-      <div class="slider slider-prueba" style="margin-top:0px">
-        <ul class="slides slides-pruea">
-          <li><img src="img/GLICOLES_BANNER_140425.jpg" style="height:800px;margin-top:-400px;" alt="Historia Ascendente">
-            <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Glicoles</b><br></h1>
-              <div class="container">
-      
-    </div>
-            </div>
-          </li>
-        </ul>
-      </div>
-    </div>
+<div class="slider slider-prueba" style="margin-top:0px">
+<ul class="slides slides-pruea">
+<li> <img src="img/CB_TINTE.jpg" alt="" style="height:650px">
+<div class="caption center-align"><br><br><br><br>
+<h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">Tintes para Cabello</b>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="col s12 m12 l12 xl12">
+<section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>  >&nbsp </b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important"><b>Mercados&nbsp </b><b>   >&nbsp </b></a><a class="breditem active" href="Cosmetica_Cuidadopersonal.php" style="color:#262137 !important;margin-left:-2px"><b>Cosmetica & Cuidado Personal ></b></a> <a href="Tintes.php" style="color:#262137"><b class="Tipografia--general Subtitulos breadcrumb" style="color:red;">Tintes para Cabello</b></a></section>
+</div>
+</div>
+</div>
 
-    <div class="container" style="margin-top:120px;">
-      <div class="row">
-        <div class="col s12 m12 l12 xl12">
-          <h1 class="Tipografia--general letranegro Titulos"><b>Glicoles</b></h1>
+<div class="container">
+<div class="row">
+<div class="col s12 m12 l12 xl12">
 
-          <p class="Tipografia--general letranegro General--Cuerpo">Los <b>Glicoles</b> son una clase de compuestos químicos pertenecientes a los alcoholes. Se caracterizan por tener dos grupos hidroxilo (-OH) en su estructura química. Por esta razón, se les denomina dioles. El <b>Glicol</b> más común es el Etilenglicol (C₂H₆O₂), que se utiliza ampliamente como anticongelante en sistemas de refrigeración y como materia prima en la fabricación de plásticos, como el PET (tereftalato de polietileno).</p>
+<h2 class="Tipografia--general letranegro General--Cuerpo"><b>Industria de los Tintes para el Cabello</b></h2>
 
-          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Tipos de Glicoles más comunes:</b></h2>
+<p class="Tipografia--general letranegro General--Cuerpo">La industria de los tintes para el cabello se enfoca en el desarrollo, producción y comercialización de productos destinados a cambiar, intensificar o mantener el color del cabello. Estos tintes no solo brindan color, sino que también ofrecen propiedades de cuidado capilar, como hidratación, protección y acondicionamiento.</p>
 
-          <ol>
-            <li class="Elementos--Listas">Etilenglicol (EG):
-              <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;">Fórmula: C<sub>2</sub>H<sub>6</sub>O<sub>2</sub></li>
-                <li class="Elementos--Listas">Usos: Anticongelantes, líquidos hidráulicos, y producción de poliésteres.</li>
-                <li class="Elementos--Listas">Propiedades: Líquido viscoso, incoloro y soluble en agua. Es tóxico si se ingiere.</li>
-              </ol>
-            </li>
-          </ol>
+<h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Características de la Industria</b></h2>
 
-          <ol style="margin-top:50px;">
-            <li class="Elementos--Listas">Propilenglicol (PG):
-              <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;">Formula: C<sub>3</sub>H<sub>8</sub>O<sub>2</sub></li>
-                <li class="Elementos--Listas">Usos: Industria alimentaria (como aditivo), farmacéutica, cosmética y como disolvente en productos no tóxicos.</li>
-                <li class="Elementos--Listas">Propiedades: Menos tóxico que el etilenglicol, por lo que se usa en aplicaciones más seguras.</li>
-              </ol>
-            </li>
-          </ol>
+<ol>
+<li style="margin-top:30px;" class="Elementos--Listas">Proceso de Producción:
+<ol>
+<li class="Elementos--Listas" style="margin-top:0px;">Investigación y Desarrollo (I+D): Se estudian fórmulas que garanticen un color duradero, seguro y con beneficios adicionales para el cabello.</li>
+<li class="Elementos--Listas">Selección de Ingredientes: Se eligen colorantes, agentes oxidantes, emulsionantes y acondicionadores según el tipo de tinte.</li>
+<li class="Elementos--Listas">Formulación y Mezclado: Se combinan ingredientes en proporciones precisas para lograr la intensidad y durabilidad deseadas.</li>
+<li class="Elementos--Listas">Envasado y Etiquetado: Los tintes se envasan en kits con instrucciones detalladas de uso y advertencias de seguridad.</li>
+<li class="Elementos--Listas">Control de Calidad: Se realizan pruebas de estabilidad, seguridad y eficacia antes de su comercialización.</li>
+</ol>
+</li>
+</ol>
 
-          <ol>
-            <li class="Elementos--Listas" style="margin-top:50px;">Dietilenglicol (DEG):
-              <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;">Fórmula: C<sub>4</sub>H<sub>10</sub>O<sub>3</sub></li>
-                <li class="Elementos--Listas">Usos: Solventes, plastificantes y como intermedio químico en la fabricación de poliuretanos y resinas.</li>
-                <li class="Elementos--Listas">Propiedades: Tóxico y menos volátil que el etilenglicol.</li>
-              </ol>
-            </li>
-          </ol>
+<ol>
+<li class="Elementos--Listas" style="margin-top:30px;">Principales Empresas del Sector:
+<ol>
+<li class="Elementos--Listas" style="margin-top:0px;">Multinacionales: L’Oréal (Garnier, Matrix), Henkel (Schwarzkopf), Revlon, Wella, Clairol.</li>
+<li class="Elementos--Listas">Marcas profesionales: Redken, Joico, Keune, Paul Mitchell.</li>
+<li class="Elementos--Listas">Marcas emergentes y naturales: Arctic Fox, Manic Panic, Lime Crime.</li>
+</ol>
+</li>
+</ol>
 
-          <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Propiedades generales de los glicoles:</b></h2>
+<ol>
+<li style="margin-top:30px;" class="Elementos--Listas">Mercado y Consumo:
+<ol>
+<li class="Elementos--Listas">Segmentación por tipo de tinte: Permanente, semipermanente, temporal y vegetal.</li>
+<li class="Elementos--Listas">Consumidores finales y profesionales: Productos para uso doméstico y para salones de belleza.</li>
+<li class="Elementos--Listas">Tendencias de mercado: Coloración vibrante y fantasía, tonos naturales y tintes ecológicos.</li>
+</ol>
+</li>
+</ol>
 
-          <ol>
-            <li class="Elementos--Listas" style="margin-top:30px;">Altamente solubles en agua debido a la presencia de los grupos -OH.</li>
-            <li class="Elementos--Listas" >Actúan como agentes humectantes y disolventes.</li>
-            <li class="Elementos--Listas" >Pueden formar enlaces de hidrógeno, lo que les confiere propiedades anticongelantes.</li>
-            <li class="Elementos--Listas" >Tóxicos en distintas concentraciones dependiendo del tipo de glicol.</li>
-          </ol>
+<ol>
+<li class="Elementos--Listas" style="margin-top:30px;">Tendencias del Mercado:
+<ol>
+<li class="Elementos--Listas">Fórmulas sin amoníaco y con bajo contenido de peróxido.</li>
+<li class="Elementos--Listas">Tintes veganos y libres de crueldad animal.</li>
+<li class="Elementos--Listas">Productos con ingredientes naturales y orgánicos.</li>
+</ol>
+</li>
+</ol>
 
-          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Características:</b></h2>
+<h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Ingredientes Químicos Utilizados en los Tintes para el Cabello</b></h2>
 
-          <ol>
-            <li class="Elementos--Listas" style="margin-top:30px;">Composición química: Los glicoles son dioles, lo que significa que tienen dos grupos funcionales hidroxilo (-OH) en su estructura molecular, lo que les otorga propiedades únicas como alcoholes polihídricos.</li>
-            <li class="Elementos--Listas">Estado físico: A temperatura ambiente, los glicoles son líquidos viscosos, incoloros e higroscópicos (absorben humedad del ambiente). <br> Ejemplo: Etilenglicol y propilenglicol.</li>
-            <li class="Elementos--Listas" style="margin-top:30px;">Solubilidad:
-              <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;">Altamente solubles en agua debido a los enlaces de hidrógeno que pueden formar entre los grupos -OH y las moléculas de agua.</li>
-                <li class="Elementos--Listas">También son miscibles con muchos solventes orgánicos como el alcohol y la acetona.</li>
-              </ol>
-            </li>
-          </ol>
+<h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b>Agentes Colorantes</b></h2>
 
-          <ol>
-            <li class="Elementos--Listas" style="margin-top:50px;">Punto de ebullición elevado: Debido a los enlaces de hidrógeno entre las moléculas de glicoles, tienen puntos de ebullición relativamente altos comparados con otros compuestos de masa molecular similar.</li>
-          </ol>
+<p class="Tipografia--general letranegro General--Cuerpo">Estos compuestos son responsables de impartir el color al cabello mediante reacciones químicas o depósito temporal.</p>
 
-          <ol>
-            <li class="Elementos--Listas" style="margin-top:50px;">Punto de congelación bajo: Su capacidad de disminuir el punto de congelación del agua los hace ideales para aplicaciones en anticongelantes y refrigerantes.</li>
-          </ol>
+<ol>
+<li class="Elementos--Listas" style="margin-top:30px;"><b>Colorantes Oxidativos (Coloración Permanente):</b>
+<ol>
+<li class="Elementos--Listas">Parafenilendiamina (PPD) y Derivados: Principal agente colorante en tintes permanentes. Se oxida en presencia de peróxido de hidrógeno, formando moléculas grandes que quedan atrapadas en el cabello.</li>
+<li class="Elementos--Listas">Resorcinol y Aminofenoles: Modificadores del color que interactúan con el PPD para obtener tonos específicos.</li>
+<li class="Elementos--Listas">2,5-Diaminotolueno: Alternativa al PPD con menor potencial alergénico.</li>
+</ol>
+</li>
+</ol>
 
-          <ol>
-            <li class="Elementos--Listas" style="margin-top:50px;"> Viscosidad:
-              <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;">Son líquidos viscosos debido a las interacciones intermoleculares que los grupos -OH facilitan.</li>
-                <li class="Elementos--Listas">La viscosidad varía según la longitud de la cadena y el tipo de glicol.</li>
-              </ol>
-            </li>
-          </ol>
+<ol>
+<li style="margin-top:30px;" class="Elementos--Listas"><b>Colorantes Directos (Semipermanentes y Temporales):</b>
+<ol>
+<li class="Elementos--Listas">Anilinas y Nitroparabenzenos: Se adhieren a la cutícula sin penetrar profundamente.</li>
+<li class="Elementos--Listas">Colorantes Vegetales: Henna, índigo y cassia, usados para tonalidades naturales.</li>
+<li class="Elementos--Listas">Pigmentos Catiónicos y Ácidos: Ofrecen colores vibrantes y fantasía (azules, verdes, rosas).</li>
+</ol>
+</li>
+</ol>
 
-          <ol>
-            <li class="Elementos--Listas" style="margin-top:50px;"> Toxicidad:
-              <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;">Etilenglicol: Altamente tóxico si se ingiere, ya que se metaboliza en compuestos dañinos como el ácido oxálico, que puede causar insuficiencia renal.</li>
-                <li class="Elementos--Listas">Propilenglicol: Considerado seguro en bajas concentraciones; se usa en alimentos, cosméticos y fármacos.</li>
-              </ol>
-            </li>
-          </ol>
+<h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Agentes Oxidantes y Activadores</b></h2>
 
-          <ol>
-            <li class="Elementos--Listas" style="margin-top:50px;">Inflamabilidad: La mayoría de los glicoles son inflamables en estado puro, pero tienen un punto de inflamación alto, lo que reduce el riesgo de combustión en condiciones normales.</li>
-          </ol>
+<p class="Tipografia--general letranegro General--Cuerpo">Estos ingredientes facilitan la reacción química necesaria para el cambio de color.</p>
 
-          <ol>
-            <li class="Elementos--Listas" style="margin-top:50px;">Propiedades anticorrosivas: Se usan como aditivos para prevenir la corrosión en sistemas de refrigeración y calefacción.</li>
-          </ol>
+<ol>
+<li class="Elementos--Listas" style="margin-top:30px;">Peróxido de Hidrógeno (H₂O₂)
+<ol>
+<li class="Elementos--Listas">Oxidante principal en tintes permanentes.</li>
+<li class="Elementos--Listas">Degrada la melanina natural del cabello y activa los precursores del color.</li>
+<li class="Elementos--Listas">Se usa en concentraciones del 3% al 12%, según el nivel de aclarado o cobertura de canas.</li>
+</ol>
+</li>
+</ol>
 
-          <ol>
-            <li class="Elementos--Listas" style="margin-top:50px;">Usos específicos:
-              <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;">Etilenglicol: Anticongelantes, líquidos hidráulicos, y síntesis de polímeros.</li>
-                <li class="Elementos--Listas">Propilenglicol: Cosméticos, alimentos y fármacos (menos tóxico).</li>
-                <li class="Elementos--Listas">Dietilenglicol: Solventes y plastificantes.</li>
-              </ol>
-            </li>
-          </ol>
+<ol>
+<li class="Elementos--Listas" style="margin-top:30px;">Persulfatos (Sulfato de Amonio, Sulfato de Potasio):
+<ol>
+<li class="Elementos--Listas">Agentes aclarantes usados en decolorantes y mechas.</li>
+<li class="Elementos--Listas">Potencian la acción del peróxido para lograr tonos más claros.</li>
+</ol>
+</li>
+</ol>
 
-          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Productos:</b></h2>
+<h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Emolientes y Acondicionadores</b></h2>
 
-          <ol>
-            <li class="Elementos--Listas"><a href="Mono_Propilen_Glicol.php" class="arrowblue Elementos--Listas" style="color:black;">Mono Propilen Glicol USP...</a></li>
-            <li class="Elementos--Listas"><a href="Di_Propilen_Glicol.php" class="arrowblue Elementos--Listas" style="color:black;">Di Propilen Glicol Grado Fragancia...</a></li>
-          </ol>
+<p class="Tipografia--general letranegro General--Cuerpo">Aportan suavidad y manejabilidad al cabello durante el proceso de coloración.</p>
 
-          <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
-    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
-</a>
+<ol>
+<li class="Elementos--Listas">Aceites Naturales y Extractos Vegetales
+<ol>
+<li class="Elementos--Listas">Aceite de argán, aceite de coco, manteca de karité.</li>
+<li class="Elementos--Listas">Hidratación y reparación capilar.</li>
+</ol>
+</li>
+</ol>
 
-        </div>
-      </div>
-    </div>
+<ol>
+<li class="Elementos--Listas" style="margin-top:30px;">Polímeros Catiónicos y Silicones (Dimeticona, Cyclopentasiloxano):
+<ol>
+<li class="Elementos--Listas">Evitan la pérdida de humedad y reducen el frizz.</li>
+<li class="Elementos--Listas">Proporcionan suavidad y brillo.</li>
+</ol>
+</li>
+</ol>
+
+<h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Agentes Reguladores de pH y Solventes</b></h2>
+
+<p class="Tipografia--general letranegro General--Cuerpo">Garantizan la estabilidad de la fórmula y optimizan la penetración del color.</p>
+
+<ol>
+<li class="Elementos--Listas">Ácido Cítrico y Ácido Láctico: Ajustan el pH para maximizar la efectividad del peróxido y proteger el cabello.</li>
+<li class="Elementos--Listas">Alcoholes (Isopropanol, Alcohol Cetílico): Solventes que facilitan la mezcla y aplicación.</li>
+</ol>
+
+<h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Conservantes y Antimicrobianos</b></h2>
+
+<p class="Tipografia--general letranegro General--Cuerpo">Prolongan la vida útil del producto y previenen la proliferación microbiana.</p>
+
+<ol>
+<li class="Elementos--Listas">Parabenos (Metilparabeno, Propilparabeno): Conservantes comunes pero controversiales.</li>
+<li class="Elementos--Listas">Fenoxietanol y Sorbato de Potasio: Alternativas más seguras y aceptadas.</li>
+<li class="Elementos--Listas">Cloruro de Bencetonio: Agente antimicrobiano.</li>
+</ol>
+
+<h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Fragancias y Neutralizadores de Olor</b></h2>
+
+<p class="Tipografia--general letranegro General--Cuerpo">Mejoran la experiencia sensorial del usuario.</p>
+
+<ol>
+<li class="Elementos--Listas">Fragancias Sintéticas y Naturales: Enmascaran olores químicos.</li>
+<li class="Elementos--Listas">Aceites Esenciales (Lavanda, Manzanilla): Aportan aroma y beneficios calmantes.</li>
+</ol>
+
+</div>
+</div>
+</div>
+
+
+
+
+
 
 
 </body>
 <footer style="margin-top:70px">
-<div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg" alt=""></div><br><br>
-<div class="container-fluid" style="text-align:center;margin-top:-50px">
-<p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad  </a>
-<script type="text/javascript" src="js/main.js"></script></a></strong></p>
-<script type="text/javascript" src="js/Products.js"></script>
-</div>
+    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
+            alt=""></div><br><br>
+    <div class="container-fluid" style="text-align:center;margin-top:-50px">
+        <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos
+            Reservados.
+            | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
+                href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download
+                style="color:black !important;font-size:16px">Politica de
+                Privacidad </a>
+            <script type="text/javascript" src="js/main.js"></script></a></strong>
+        </p>
+        <script type="text/javascript" src="js/Products.js"></script>
+    </div>
 </footer>
 </html>

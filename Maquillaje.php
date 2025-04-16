@@ -393,7 +393,7 @@
     <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li> <img src="img/" alt="" style="height:650px">
+          <li> <img src="img/CB_MAQUILLAJE.jpg" alt="" style="height:650px">
             <div class="caption center-align"><br><br><br><br>
               <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">Maquillaje</b>
             </div>
@@ -404,13 +404,160 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>  >&nbsp </b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important"><b>Mercados&nbsp </b><b>   >&nbsp </b></a><a class="breditem active" href="Cosmetica_Cuidadopersonal.php" style="color:#262137 !important;margin-left:-2px"><b>Cosmetica & Cuidado Personal ></b></a> <a href="Maquillaje.php" style="color:#262137"><b>Maquillaje</b></a></section>
+        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>  >&nbsp </b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important"><b>Mercados&nbsp </b><b>   >&nbsp </b></a><a class="breditem active" href="Cosmetica_Cuidadopersonal.php" style="color:#262137 !important;margin-left:-2px"><b>Cosmetica & Cuidado Personal ></b></a> <a href="Maquillaje.php" style="color:red"><b>Maquillaje</b></a></section>
         </div>
       </div>
     </div>
    
 
+    <div class="container">
+      <div class="row">
+        <div class="col s12 m12 l12 xl12">
+          <p class="Tipografia--general letranegro General--Cuerpo">La industria del maquillaje es un sector dinámico y en constante evolución que se enfoca en el desarrollo, producción y comercialización de productos cosméticos para realzar la apariencia estética y cuidar la piel. Este mercado abarca una amplia gama de productos que incluyen bases, polvos, sombras, labiales, delineadores, rímel y más, con innovaciones constantes en texturas, colores y beneficios adicionales para el cuidado de la piel.</p>
 
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Características de la Industria</b></h2>
+
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Proceso de Producción</b></h2>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;">Investigación y Desarrollo (I+D): Se diseñan fórmulas innovadoras que combinan propiedades cosméticas y de cuidado de la piel.</li>
+            <li class="Elementos--Listas">Selección de Ingredientes: Se eligen pigmentos, emolientes, conservantes y fragancias según la fórmula deseada.</li>
+            <li class="Elementos--Listas">Formulación y Mezclado: Se crean mezclas homogéneas mediante procesos de agitación, calentamiento y enfriamiento controlado.</li>
+            <li class="Elementos--Listas">Moldeado y Envasado: Se vierten o moldean los productos en envases atractivos y funcionales</li>
+            <li class="Elementos--Listas">Control de Calidad: Se realizan pruebas de seguridad, eficacia y estabilidad antes de la distribución.</li>
+          </ol>
+
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Mercado y Consumo:</b></h2>
+
+          <ol>
+            <li class="Elementos--Listas">Segmentación por categoría: Maquillaje facial, ojos, labios y uñas.</li>
+            <li class="Elementos--Listas">Tendencias de mercado: Cosméticos veganos, cruelty-free, clean beauty y sustentables.</li>
+            <li class="Elementos--Listas">Canales de distribución: Minoristas, tiendas especializadas, comercio electrónico y venta directa.</li>
+          </ol>
+
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Tendencias del Mercado:</b></h2>
+
+          <ol>
+            <li class="Elementos--Listas">Cosméticos sostenibles y ecológicos: Ingredientes naturales y envases reciclables.</li>
+            <li class="Elementos--Listas">Personalización y realidad aumentada: Aplicaciones para probar virtualmente el maquillaje.</li>
+            <li class="Elementos--Listas">Maquillaje multifuncional: Productos híbridos que combinan cosmética y cuidado de la piel (BB Creams, CC Creams).</li>
+          </ol>
+
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Ingredientes Químicos Utilizados en la Industria del Maquillaje</b></h2>
+
+          <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Pigmentos y Colorantes</b></h2>
+
+          <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;">Son los compuestos responsables del color de los productos de maquillaje.</p>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;"><b>Pigmentos Minerales:</b>
+              <ol>
+                <li class="Elementos--Listas">Dióxido de Titanio (TiO₂): Usado en bases, polvos y protectores solares por su alta cobertura y propiedades de bloqueo solar.</li>
+                <li class="Elementos--Listas">Óxidos de Hierro (Fe₂O₃): Proveen tonos marrones, rojos, amarillos y negros.</li>
+                <li class="Elementos--Listas">Mica: Mineral que aporta brillo y efecto perlado en sombras y polvos iluminadores.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <ol>
+            <li class="Elementos--Listas" style="margin-top:30px;"><b>Colorantes Orgánicos y Artificiales:</b>
+              <ol>
+                <li class="Elementos--Listas">Lacas FD&C y D&C (Red No. 7, Yellow No. 5): Usados en labiales, rubores y sombras.</li>
+                <li class="Elementos--Listas">Carmín (CI 75470): Pigmento rojo derivado de insectos, utilizado en labiales y rubores.</li>
+              </ol>
+            </li>
+          </ol>
+
+          <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Emolientes e Hidratantes</b></h2>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">Aportan suavidad, hidratación y facilidad de aplicación.</p>
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;"><b>Aceites y Mantecas Naturales:</b>
+                <ol>
+                  <li class="Elementos--Listas" style="margin-top:0px;">Aceite de jojoba, aceite de argán, manteca de karité: Hidratantes naturales con propiedades antioxidantes.</li>
+                  <li class="Elementos--Listas">Triglicéridos Caprílico/Cáprico: Emolientes derivados de aceites vegetales.</li>
+                </ol>
+              </li>
+            </ol>
+
+            <ol>
+              <li class="Elementos--Listas" style="margin-top:30px;"><b>Siliconas y Polímeros Sintéticos:</b>
+                <ol>
+                  <li class="Elementos--Listas">Dimeticona, Ciclopentasiloxano: Aportan suavidad, control de brillo y acabado sedoso.</li>
+                  <li class="Elementos--Listas">Polímeros Acrílicos y Polimetacrilatos: Fijan el maquillaje y proporcionan larga duración.</li>
+                </ol>
+              </li>
+            </ol>
+
+          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Conservantes y Antimicrobianos</b></h2>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">Evitan el crecimiento de microorganismos y prolongan la vida útil del producto.</p>
+
+        <ol>
+          <li class="Elementos--Listas">Parabenos (Metilparabeno, Propilparabeno): Muy comunes, pero objeto de controversia por preocupaciones de salud.</li>
+          <li class="Elementos--Listas">Fenoxietanol y Etilhexilglicerina: Alternativas más suaves y aceptadas.</li>
+          <li class="Elementos--Listas">Ácido Benzoico y Ácido Sórbico: Conservantes naturales de origen vegetal.</li>
+        </ol>
+
+          <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Agentes Estabilizantes y Texturizantes</b></h2>
+
+<p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;">Mejoran la consistencia y estabilidad de las fórmulas.</p>
+
+<ol>
+  <li class="Elementos--Listas" style="margin-top:30px;"><b>Ceras y Polímeros:</b>
+    <ol>
+      <li class="Elementos--Listas">Cera de abejas, cera de carnauba y cera de candelilla: Aportan textura y fijación en labiales y máscaras de pestañas.</li>
+      <li class="Elementos--Listas">Polímeros Filmógenos (PVP, Acrilatos): Forman películas duraderas en productos líquidos.</li>
+    </ol>
+  </li>
+</ol>
+
+<ol>
+  <li class="Elementos--Listas" style="margin-top:30px"><b>Agentes Gelificantes y Aglutinantes:</b>
+    <ol>
+      <li class="Elementos--Listas">Goma Xantana y Carbómeros: Emulsionan y espesan fórmulas líquidas y geles.</li>
+    </ol>
+  </li>
+</ol>
+
+
+<h2 class="Tipografia--general letranegro General--Cuerpo"><b>Fragancias y Aromas</b></h2>
+
+<p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;">Mejoran la experiencia del usuario.</p>
+
+<ol>
+  <li class="Elementos--Listas"><b>Fragancias Sintéticas y Naturales</b>
+    <ol>
+      <li class="Elementos--Listas">Aceites Esenciales (Lavanda, Menta): Aromatizantes naturales que aportan beneficios adicionales.</li>
+      <li class="Elementos--Listas">Compuestos Sintéticos: Ofrecen fragancias duraderas y específicas.</li>
+    </ol>
+  </li>
+</ol>
+
+<h2 class="Tipografia--general letranegro General--Cuerpo"><b>Filtros Solares y Protectores UV</b></h2>
+
+<p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;">Protegen la piel de los daños solares y el envejecimiento prematuro</p>
+
+<ol>
+  <li class="Elementos--Listas" style="margin-top:30px;">Filtros Físicos:
+    <ol>
+      <li class="Elementos--Listas">Dióxido de Titanio (TiO₂) y Óxido de Zinc (ZnO): Protección de amplio espectro contra UVA y UVB.</li>
+    </ol>
+  </li>
+</ol>
+
+<ol>
+  <li class="Elementos--Listas" style="margin-top:30px;">Filtros Químicos:
+    <ol>
+      <li class="Elementos--Listas">Octinoxato, Avobenzona, Octisalato: Absorben la radiación UV.</li>
+    </ol>
+  </li>
+</ol>
+
+        </div>
+      </div>
+    </div>
 
 
 

@@ -7,7 +7,7 @@
     <title>Chemical Broker | Lauril Sulfato de Sodio 94% del Fabricante KLK Oleo</title>
     <meta name="description" content="El Lauril Sulfato de Sodio 94% es un alquilsulfato en forma de polvo. El producto pertenece a los tensoactivos de naturaleza aniónica con un alto contenido en sustancia activa de al menos el 94%.">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
+  <link rel="canonical" href="https://chemicalbroker.mx/Lauril_Sulfato_Sodio-94.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">

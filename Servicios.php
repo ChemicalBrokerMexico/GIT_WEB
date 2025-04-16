@@ -395,7 +395,7 @@
           <li> 
         
              <video class="videos_mercados" style="border-radius:10px;" autoplay="autoplay" loop="loop" muted defaultMuted >
-                  <source class="mercadosimagen" src="../GIT_WEB/VIDEO/SERVICIOS_CB.mp4" type="video/mp4">
+                  <source class="mercadosimagen" src="../VIDEO/SERVICIOS_CB.mp4" type="video/mp4">
                 </video> 
            
           </li>

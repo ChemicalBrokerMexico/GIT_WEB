@@ -7,7 +7,7 @@
   <title>Chemical Broker | Aceite de Coco RBD</title>
   <meta name="description" content="El aceite de coco RBD (Refinado, Blanqueado y Desodorizado) es un tipo de aceite de coco que ha pasado por un proceso de refinación para eliminar impurezas olores y sabores fuertes."> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
-  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
+  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco_RBD.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">

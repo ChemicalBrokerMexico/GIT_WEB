@@ -637,7 +637,7 @@ recaptchaResponse.value = token;
 
     <div class="container">
       <div class="row center-align">
-        <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Proximamente.php" style="cursor:pointer;">
+        <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Insecticidas.php" style="cursor:pointer;">
             <div class="contenedor">
               <div class="transfo" id="overlayagro" style="border-radius:10px"></div>
               <div class="centrado_sub" style="position:absolute;z-index:2">
@@ -648,7 +648,7 @@ recaptchaResponse.value = token;
                 </h5>
               </div><img class="mercadosimagen" src="img/INSECTICIDA.jpg" alt="" style="border-radius:10px"/>
             </div></a></div>
-        <div class="col s12 m12 l6 xl6 mercados zoom "><a href="Proximamente.php" style="cursor:pointer;">
+        <div class="col s12 m12 l6 xl6 mercados zoom "><a href="Pesticidas.php" style="cursor:pointer;">
             <div class="contenedor">
               <div class="transfo" id="overlayagro" style="border-radius:10px"></div>
               <div class="centrado_sub" style="position:absolute;z-index:2">
@@ -659,7 +659,7 @@ recaptchaResponse.value = token;
                 </h5>
               </div><img class="mercadosimagen" src="img/PESTICIDAS_280122.jpg" alt="" style="border-radius:10px"/>
             </div></a></div>
-        <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Proximamente.php" style="cursor:pointer;">
+        <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Fertilizantes.php" style="cursor:pointer;">
             <div class="contenedor">
               <div class="transfo" id="overlayagro" style="border-radius:10px"></div>
               <div class="centrado_sub" style="position:absolute;z-index:2">

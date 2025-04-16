@@ -8,30 +8,30 @@
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description"
         content="Ofrecemos azúcar refinada de alta pureza, perfecta para la industria alimentaria y diversas aplicaciones. Garantiza el sabor y la calidad de tus productos con nuestro azúcar de primera categoría. ¡Aporta dulzura y consistencia a tus creaciones con nuestra oferta confiable y de calidad!.">
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
-    <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">
-    <link rel="canonical" href="https://chemicalbroker.mx/Azucar_Refinada.php">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-        integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
-    <link rel="stylesheet" href="css/History_Line.css?n=1">
-    <link rel="stylesheet" href="css/jquery.dataTables.min.css">
-    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+        <link rel="shortcut icon" href="img/CB_ICON.ico" />
+  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/History_Line.css">
+  <link rel="stylesheet" href="css/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
     <script src="https://code.jquery.com/jquery-3.5.1.js"
         integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
-    <script src="js/materialize.js?n=1" type="text/javascript"></script>
-    <script src="js/init.js?n=1"></script>
+    <script src="js/materialize.js" type="text/javascript"></script>
+    <script src="js/init.js"></script>
     <script src="js/wow.js"></script>
     <script>
         new WOW().init();
     </script>
-    <script type="text/javscript" src="js/materialize.min.js?n=1"></script>
+    <script type="text/javscript" src="js/materialize.min.js"></script>
     <script type="text/javascript"
         src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
     <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.js">
     </script>
-    <script type="text/javascript" charset="utf8" src="js/Buscador.js?n=1"></script>
+    <script type="text/javascript" charset="utf8" src="js/Buscador.js"></script>
     <script type="text/javascript" charset="utf8"
         src="https://cdn.datatables.net/responsive/2.2.6/js/dataTables.responsive.js"></script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
@@ -44,7 +44,11 @@
         gtag('js', new Date());
         gtag('config', 'G-SGJQ8FDDJ6');
     </script>
-    <script type="text/javascript" src="js/main.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#table_id2').DataTable();
+        });
+    </script>
 </head>
 
 <body>
@@ -978,6 +982,10 @@
         <ol>
           <li class="Tipografia--general letranegro Elementos--Listas">https://www.cargill.com/pharmaceutical/pharma-products/sorbitol</li>
         </ol>
+
+        <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
       </div>
     </div>
   </div>

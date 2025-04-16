@@ -657,7 +657,7 @@
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
-                <div class="col s12 m12 l6 xl6 mercados zoom" style="cursor:pointer;margin-top:50px;"><a href="Proximamente.php"
+                <div class="col s12 m12 l6 xl6 mercados zoom" style="cursor:pointer;margin-top:50px;"><a href="Maquillaje.php"
                         >
                         <div class="contenedor">
                             <div class="transfo" id="overlaycosme" style="border-radius:10px"></div>
@@ -672,7 +672,7 @@
                                 style="width:100%;border-radius:10px;" />
                         </div>
                     </a></div>
-                <div class="col s12 m12 l6 xl6 mercados zoom" style="margin-top:50px;"><a href="Proximamente.php" style="cursor:pointer;">
+                <div class="col s12 m12 l6 xl6 mercados zoom" style="margin-top:50px;"><a href="Tintes_Cabello.php" style="cursor:pointer;">
                         <div class="contenedor">
                             <div class="transfo" id="overlaycosme" style="border-radius:10px"></div>
                             <div class="centrado_sub" style="position:absolute;z-index:2">
@@ -688,6 +688,37 @@
                         </div>
                     </a></div>
 
+                    <div class="col s12 m12 l6 xl6 mercados zoom" style="margin-top:50px;"><a href="Cremas.php" style="cursor:pointer;">
+                        <div class="contenedor">
+                            <div class="transfo" id="overlaycosme" style="border-radius:10px"></div>
+                            <div class="centrado_sub" style="position:absolute;z-index:2">
+                                <h5 class="titulo_submercado"><b class="titulo_submercado">Cremas</b><b>
+                                    </b>
+                                    <hr class="animacion" />
+                                    <p> <b style="color: white !important">
+                                            <p class="leer_mas_mercados"> Leer Mas</p>
+                                        </b></p>
+                                </h5>
+                            </div><img class="mercadosimagen zoom" src="img/CREMAS_100425.jpg" alt=""
+                                style="width:100%;border-radius:10px;" />
+                        </div>
+                    </a></div>
+
+                    <div class="col s12 m12 l6 xl6 mercados zoom" style="margin-top:50px;"><a href="champu.php" style="cursor:pointer;">
+                        <div class="contenedor">
+                            <div class="transfo" id="overlaycosme" style="border-radius:10px"></div>
+                            <div class="centrado_sub" style="position:absolute;z-index:2">
+                                <h5 class="titulo_submercado"><b class="titulo_submercado">Champu</b><b>
+                                    </b>
+                                    <hr class="animacion" />
+                                    <p> <b style="color: white !important">
+                                            <p class="leer_mas_mercados"> Leer Mas</p>
+                                        </b></p>
+                                </h5>
+                            </div><img class="mercadosimagen zoom" src="img/CHAMPU.jpg" alt=""
+                                style="width:100%;border-radius:10px;" />
+                        </div>
+                    </a></div>
             </div>
       
     </div>

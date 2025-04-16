@@ -5,8 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <title>Chemical Broker | Ferrazone® del Fabricante Nouryon</title>
-    <meta name="description"
-        content="Optimiza tus formulaciones con Ferrazone, un innovador agente quelante de hierro de alta pureza. Ideal para aplicaciones en la industria cosmética, farmacéutica y alimentaria, Ferrazone mejora la estabilidad y biodisponibilidad del hierro en tus productos. Su eficacia comprobada asegura resultados consistentes y una excelente absorción, ofreciendo una solución confiable para combatir deficiencias de hierro y potenciar la salud y bienestar. ¡Eleva la calidad de tus formulaciones con Ferrazone y ofrece productos de primer nivel a tus clientes!">
+    <meta name="description" content="Optimiza tus formulaciones con Ferrazone, un innovador agente quelante de hierro de alta pureza. Ideal para aplicaciones en la industria cosmética, farmacéutica y alimentaria, Ferrazone mejora la estabilidad y biodisponibilidad del hierro en tus productos. Su eficacia comprobada asegura resultados consistentes y una excelente absorción, ofreciendo una solución confiable para combatir deficiencias de hierro y potenciar la salud y bienestar. ¡Eleva la calidad de tus formulaciones con Ferrazone y ofrece productos de primer nivel a tus clientes!">
     <meta http-equiv="Expires" content="0">
     <meta http-equiv="Last-Modified" content="0">
     <meta http-equiv="Cache-Control" content="no-cache, mustrevalidate">
@@ -25,8 +24,7 @@
     <link rel="stylesheet" href="css/History_Line.css">
     <link rel="stylesheet" href="css/jquery.dataTables.min.css">
     <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
-    <script src="https://code.jquery.com/jquery-3.5.1.js"
-        integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="js/materialize.js" type="text/javascript"></script>
     <script src="js/init.js"></script>
     <script src="js/wow.js"></script>
