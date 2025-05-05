@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
 <meta name="description" content="La industria de las cremas para el cuidado de la piel forma parte del sector cosmético y dermocosmético, y se enfoca en la formulación, fabricación y comercialización de productos destinados a proteger, hidratar, tratar o mejorar el aspecto de la piel.">
-<title>Chemical Broker | Champu</title>
+<title>Chemical Broker | Serums Faciales</title>
 <link rel="shortcut icon" href="img/CB_ICON.ico" />
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -394,7 +394,7 @@ id="aparece"></i></a></li>
 <ul class="slides slides-pruea">
 <li> <img src="img/CHAMPU.jpg" alt="" style="height:400px">
 <div class="caption center-align"><br><br><br><br>
-<h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">Champu</b>
+<h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">Serums</b>
 </div>
 </li>
 </ul>
@@ -403,183 +403,135 @@ id="aparece"></i></a></li>
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>  >&nbsp </b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important"><b>Mercados&nbsp </b><b>   >&nbsp </b></a><a class="breditem active" href="Cosmetica_Cuidadopersonal.php" style="color:#262137 !important;margin-left:-2px"><b>Cosmetica & Cuidado Personal ></b></a> <a href="Tintes.php" style="color:#262137"><b class="Tipografia--general Subtitulos breadcrumb" style="color:red;">Champu</b></a></section>
+<section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>  >&nbsp </b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important"><b>Mercados&nbsp </b><b>   >&nbsp </b></a><a class="breditem active" href="Cosmetica_Cuidadopersonal.php" style="color:#262137 !important;margin-left:-2px"><b>Cosmetica & Cuidado Personal ></b></a> <a href="Bloqueadores_Solares.php" style="color:#262137"><b class="Tipografia--general Subtitulos breadcrumb" style="color:red;">Serums Faciales</b></a></section>
 </div>
 </div>
 </div>
-
 
 <div class="container">
     <div class="row">
         <div class="col s12 m12 l12 xl12">
-         <p class="Tipografia--general letranegro General--Cuerpo">La industria del champú forma parte esencial del sector de productos de cuidado personal e higiene. Su función principal es limpiar el cabello y el cuero cabelludo, aunque en la práctica moderna muchos champús ofrecen beneficios adicionales: hidratación, fortalecimiento, protección del color, control de frizz, volumen, reparación de daños, anticaspa y más.</p>
+            <p class="Tipografia--general letranegro General--Cuerpo">La industria de los sérums forma parte del sector de la cosmética dermofarmacéutica y de skincare avanzado. Los sérums son productos de alta concentración en activos, con textura ligera y de rápida absorción, diseñados para tratar necesidades específicas de la piel como envejecimiento, manchas, deshidratación, acné o sensibilidad.</p>
 
-         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Características de la Industria</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Características de la Industria</b></h2>
 
-         <ol>
-            <li class="Elementos--Listas"><b>Proceso de Producción:</b>
-                <ol>
-                    <li class="Elementos--Listas" style="margin-top:30px;">Investigación y Desarrollo (I+D): Se prueban fórmulas que combinen limpieza eficaz sin dañar el cuero cabelludo, además de incluir aditivos nutritivos.</li>
-                    <li class="Elementos--Listas">Formulación: Se mezclan tensioactivos, emolientes, fragancias y activos funcionales para dar textura, espuma y beneficios específicos.</li>
-                    <li class="Elementos--Listas">Mezclado y Homogeneización: Los ingredientes se integran en grandes lotes bajo estrictas condiciones de temperatura y viscosidad.</li>
-                    <li class="Elementos--Listas">Envasado y Etiquetado: Generalmente en botellas plásticas, pero la tendencia ecológica impulsa formatos sólidos o envases reciclables.</li>
-                    <li class="Elementos--Listas">Control de Calidad: Análisis de pH, estabilidad, compatibilidad cutánea y eficacia de limpieza.</li>
-                </ol>
-            </li>
-         </ol>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Proceso de Producción:</b></h2>
 
-         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Segmentación del Mercado:</b></h2>
+            <ol>
+                <li class="Elementos--Listas">I+D cosmética: Se diseñan fórmulas con principios activos en concentraciones más elevadas que en cremas tradicionales.</li>
+                <li class="Elementos--Listas">Formulación personalizada: Cada sérum tiene una función específica (antioxidante, despigmentante, hidratante, reafirmante, calmante).</li>
+                <li class="Elementos--Listas">Estabilización y encapsulación: Muchos ingredientes requieren técnicas para evitar su oxidación o degradación (ej. vitamina C o retinol).</li>
+                <li class="Elementos--Listas">Textura ultraligera: Se diseñan bases en gel, emulsión o solución que penetren fácilmente en la piel.</li>
+                <li class="Elementos--Listas">Empaque: En frascos de vidrio, cuentagotas o airless para proteger de la luz, el oxígeno y mantener la potencia del producto.</li>
+                <li class="Elementos--Listas">Control de calidad: Se realizan pruebas de pH, estabilidad, absorción, eficacia y compatibilidad dermatológica.</li>
+            </ol>
 
-         <ol>
-            <li class="Elementos--Listas">Por función: Hidratante, fortificante, anticaspa, matizador, clarificante, color-protector.</li>
-            <li class="Elementos--Listas">Por tipo de cabello: Graso, seco, rizado, liso, dañado, teñido, infantil.</li>
-            <li class="Elementos--Listas">Por enfoque: Convencional, orgánico, vegano, sin sulfatos, dermatológicamente probado.</li>
-         </ol>
+            <!-- <h2 class="Tipografia--general letranegro General--Cuerpo">2. Principales Empresas del Sector:</h2>
 
-         <ol>
-            <li class="Elementos--Listas" style="margin-top:50px;"><b>Tendencias del Mercado:</b>
-                <ol>
-                    <li class="Elementos--Listas" style="margin-top:30px;">Champús sólidos y sin envase.</li>
-                    <li class="Elementos--Listas">Formulaciones veganas y libres de crueldad animal.</li>
-                    <li class="Elementos--Listas">Reducción o eliminación de sulfatos, siliconas y parabenos.</li>
-                    <li class="Elementos--Listas">Personalización de fórmulas según ADN o microbioma del cuero cabelludo.</li>
-                </ol>
-            </li>
-         </ol>
+            <ol>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ol> -->
 
-         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Ingredientes Quimicos Utilizados en la industria del Champu</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Segmentación del Mercado:</b></h2>
 
-         <ol>
-            <li class="Elementos--Listas">Tensioactivos (Agentes de Limpieza y Espuma)
-                <ol>
-                    <li class="Elementos--Listas">Aniónicos (gran poder limpiador):
-                        <ol>
-                            <li class="Elementos--Listas">Lauril sulfato de sodio (SLS)</li>
-                            <li class="Elementos--Listas">Lauril éter sulfato de sodio (SLES)</li>
-                            <li class="Elementos--Listas">TEA-Lauril sulfato</li>
-                        </ol>
-                    </li>
-                    <li class="Elementos--Listas" style="margin-top:30px;">No iónicos (más suaves):
-                        <ol>
-                            <li class="Elementos--Listas">Decyl glucoside</li>
-                            <li class="Elementos--Listas">Coco-glucoside</li>
-                            <li class="Elementos--Listas">Lauryl glucoside</li>
-                        </ol>
-                    </li>
-                    <li class="Elementos--Listas" style="margin-top:30px;">Anfotéricos (espuma cremosa y suavidad):
-                        <ol>
-                            <li class="Elementos--Listas">Cocamidopropyl betaine</li>
-                            <li class="Elementos--Listas">Disodium cocoamphodiacetate</li>
-                        </ol>
-                    </li>
-                </ol>
-            </li>
-         </ol>
+            <ol>
+                <li class="Elementos--Listas">Por tipo de piel: grasa, seca, sensible, mixta, madura.</li>
+            </ol>
 
-         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Ingredientes Quimicos Utilizados en la industria del Champu</b></h2>
+            <ol>
+                <li class="Elementos--Listas" style="margin-top:50px;">Por función:
+                    <ol>
+                        <li class="Elementos--Listas">Hidratación profunda</li>
+                        <li class="Elementos--Listas">Rejuvenecimiento y antiarrugas</li>
+                        <li class="Elementos--Listas">Antioxidantes</li>
+                        <li class="Elementos--Listas">Control del acné</li>
+                        <li class="Elementos--Listas">Luminosidad y despigmentación</li>
+                        <li class="Elementos--Listas">Reparación de barrera cutánea</li>
+                    </ol>
+                </li>
+            </ol>
 
-         <p class="Tipografia--general letranegro General--Cuerpo">Aportan suavidad y manejabilidad al cabello tras la limpieza.</p>
-
-         <ol>
-            <li class="Elementos--Listas">Siliconas:
-                <ol>
-                    <li class="Elementos--Listas">Dimethicone, Amodimethicone, Cyclopentasiloxane (suavizan y protegen).</li>
-                </ol>
-            </li>
-         </ol>
-
-         <ol>
-            <li class="Elementos--Listas">Aceites naturales:
-                <ol>
-                    <li class="Elementos--Listas">Aceite de argán, coco, jojoba, macadamia, oliva.</li>
-                </ol>
-            </li>
-         </ol>
-
-         <ol>
-            <li class="Elementos--Listas">Polímeros catiónicos:
-                <ol>
-                    <li class="Elementos--Listas">Polyquaternium-10, Polyquaternium-7 (mejoran el desenredo y reducen la estática).</li>
-                </ol>
-            </li>
-         </ol>
+            <ol>
+                <li class="Elementos--Listas" style="margin-top:50px;">Por ingrediente activo principal:
+                    <ol>
+                        <li class="Elementos--Listas">Niacinamida</li>
+                        <li class="Elementos--Listas">Ácido hialurónico</li>
+                        <li class="Elementos--Listas">Vitamina C</li>
+                        <li class="Elementos--Listas">Retinol</li>
+                        <li class="Elementos--Listas">Péptidos</li>
+                        <li class="Elementos--Listas">Ácidos exfoliantes (AHA/BHA)</li>
+                    </ol>
+                </li>
+            </ol>
 
 
- <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Agentes Humectantes</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Tendencias del Mercado:</b></h2>
 
-         <p class="Tipopgrafia--general letranegro General--Cuerpo">Mantienen la hidratación en cabello y cuero cabelludo.</p>
+            <ol>
+                <li class="Elementos--Listas">Enfoque en ingredientes "estrella" con concentraciones específicas (ej. 10% niacinamida, 2% ácido salicílico).</li>
+                <li class="Elementos--Listas">Transparencia en la formulación (clean beauty, minimalismo).</li>
+                <li class="Elementos--Listas">Sérums multifunción (ej. anti-edad + antioxidante + humectante).</li>
+                <li class="Elementos--Listas">Tecnología de encapsulación y liberación progresiva.</li>
+                <li class="Elementos--Listas">Combinación con dispositivos (rollers, gua sha, LED) para potenciar su efecto.</li>
+                <li class="Elementos--Listas">Formatos sólidos, en cápsulas o monodosis para mayor conservación.</li>
+            </ol>
 
-         <ol>
-            <li class="Elementos--Listas">Glicerina</li>
-            <li class="Elementos--Listas">Propilenglicol</li>
-            <li class="Elementos--Listas">Sorbitol</li>
-            <li class="Elementos--Listas">Ácido hialurónico</li>
-         </ol>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Ingredientes Químicos Utilizados en Sérums</b></h2>
 
-         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Agentes Activos Específicos</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Principios Activos Funcionales (clave del sérum):</b></h2>
 
-         <ol>
-            <li class="Elementos--Listas">Piritionato de zinc</li>
-            <li class="Elementos--Listas">Ketoconazol</li>
-            <li class="Elementos--Listas">Ácido salicílico</li>
-            <li class="Elementos--Listas">Sulfuro de selenio</li>
-         </ol>
+            <ol>
+                        <li class="Elementos--Listas">Ácido hialurónico: Hidratación profunda, efecto relleno.</li>
+                        <li class="Elementos--Listas">Vitamina C (ácido ascórbico o derivados): Antioxidante, ilumina y unifica el tono.</li>
+                        <li class="Elementos--Listas">Niacinamida (Vitamina B3): Regula sebo, mejora textura, refuerza barrera cutánea.</li>
+                        <li class="Elementos--Listas">Retinol / Retinal / Retinoides: Renovación celular, antiarrugas, antiacné.</li>
+                        <li class="Elementos--Listas">Ácido salicílico (BHA): Exfoliante, ideal para piel grasa/acné.</li>
+                        <li class="Elementos--Listas">Ácido glicólico / láctico / mandélico (AHA): Exfoliación química suave.</li>
+                        <li class="Elementos--Listas">Péptidos: Estimulan colágeno y elastina, efecto reafirmante.</li>
+                        <li class="Elementos--Listas">Ceramidas: Reparan la barrera de la piel.</li>
+                        <li class="Elementos--Listas">Centella asiática, madecassoside: Calmantes y regenerantes.</li>
+                        <li class="Elementos--Listas">Bakuchiol: Alternativa vegetal al retinol.</li>
+            </ol>
 
-         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Fortificantes y reparadores:</b></h2>
+        
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Principales Empresas del Sector:</b></h2>
 
-         <ol>
-            <li class="Elementos--Listas">Queratina hidrolizada</li>
-            <li class="Elementos--Listas">Proteínas de trigo, seda o arroz.</li>
-            <li class="Elementos--Listas">Péptidos bioactivos.</li>
-         </ol>
+            <ol>
+                <li class="Elementos--Listas">Agua purificada</li>
+                <li class="Elementos--Listas">Propilenglicol</li>
+                <li class="Elementos--Listas">Butylene Glycol</li>
+                <li class="Elementos--Listas">Glicerina (humectante)</li>
+                <li class="Elementos--Listas">Alcoholes grasos (alcohol cetílico, estearílico) – en sérums emulsión.</li>
+                <li class="Elementos--Listas">Ésteres o siliconas volátiles para textura ligera</li>
+            </ol>
 
-         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Extractos botánicos:</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Agentes Estabilizantes y Conservantes:</b></h2>
 
-         <ol>
-            <li class="Elementos--Listas">Aloe vera, camomila, romero, té verde, lavanda.</li>
-         </ol>
+            <ol>
+                <li class="Elementos--Listas">Phenoxyethanol</li>
+                <li class="Elementos--Listas">Ethylhexylglycerin</li>
+                <li class="Elementos--Listas">Sorbato de potasio, benzoato de sodio</li>
+                <li class="Elementos--Listas">EDTA disódico (estabilizante de pH e iones metálicos)</li>
+            </ol>
 
-         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Reguladores de pH y Viscosidad</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Ingredientes Sensoriales y Complementarios:</b></h2>
 
-         <ol>
-            <li class="Elementos--Listas">Ácido cítrico (ajusta pH)</li>
-            <li class="Elementos--Listas">Cloruro de sodio (espesante)</li>
-            <li class="Elementos--Listas">Gomas naturales y sintéticas (xantana, carbómero).</li>
-         </ol>
-
-         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Conservantes</b></h2>
-
-         <ol>
-            <li class="Elementos--Listas">Tradicionales:
-                <ol>
-                    <li class="Elementos--Listas">Parabenos (metilparabeno, propilparabeno).</li>
-                    <li class="Elementos--Listas">Fenoxietanol.</li>
-                    <li class="Elementos--Listas">Imidazolidinil urea.</li>
-                </ol>
-            </li>
-         </ol>
-
-         <ol>
-            <li class="Elementos--Listas" style="margin-top:50px;">Alternativos y naturales:
-                <ol>
-                    <li class="Elementos--Listas">Ácido benzoico, benzoato de sodio, etilhexilglicerina, sorbato de potasio.</li>
-                </ol>
-            </li>
-         </ol>
+            <ol>
+                <li class="Elementos--Listas">Fragancias (muchas veces evitadas en productos para piel sensible)</li>
+                <li class="Elementos--Listas">Micas o pigmentos para efecto glow o corrección de tono</li>
+                <li class="Elementos--Listas">Extractos botánicos (té verde, regaliz, rosa mosqueta, cúrcuma)</li>
+                <li class="Elementos--Listas">Polisacáridos, algas, beta-glucanos (calmantes y filmógenos)</li>
+            </ol>
 
 
-          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Fragancias y Colorantes</b></h2>
-
-          <ol>
-            <li class="Elementos--Listas">Fragancias sintéticas o aceites esenciales (lavanda, menta, eucalipto, limón).</li>
-            <li class="Elementos--Listas">Colorantes cosméticos (CI) como CI 19140 (amarillo) o CI 42090 (azul).</li>
-          </ol>
 
 
         </div>
     </div>
 </div>
-
 
 
 </body>

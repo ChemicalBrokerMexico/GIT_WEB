@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
 <meta name="description" content="La industria de las cremas para el cuidado de la piel forma parte del sector cosmético y dermocosmético, y se enfoca en la formulación, fabricación y comercialización de productos destinados a proteger, hidratar, tratar o mejorar el aspecto de la piel.">
-<title>Chemical Broker | Champu</title>
+<title>Chemical Broker | Antitranspirante</title>
 <link rel="shortcut icon" href="img/CB_ICON.ico" />
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -394,7 +394,7 @@ id="aparece"></i></a></li>
 <ul class="slides slides-pruea">
 <li> <img src="img/CHAMPU.jpg" alt="" style="height:400px">
 <div class="caption center-align"><br><br><br><br>
-<h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">Champu</b>
+<h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">Antitranspirante</b>
 </div>
 </li>
 </ul>
@@ -403,7 +403,7 @@ id="aparece"></i></a></li>
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>  >&nbsp </b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important"><b>Mercados&nbsp </b><b>   >&nbsp </b></a><a class="breditem active" href="Cosmetica_Cuidadopersonal.php" style="color:#262137 !important;margin-left:-2px"><b>Cosmetica & Cuidado Personal ></b></a> <a href="Tintes.php" style="color:#262137"><b class="Tipografia--general Subtitulos breadcrumb" style="color:red;">Champu</b></a></section>
+<section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>  >&nbsp </b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important"><b>Mercados&nbsp </b><b>   >&nbsp </b></a><a class="breditem active" href="Cosmetica_Cuidadopersonal.php" style="color:#262137 !important;margin-left:-2px"><b>Cosmetica & Cuidado Personal ></b></a> <a href="Antitranspirante.php" style="color:#262137"><b class="Tipografia--general Subtitulos breadcrumb" style="color:red;">Antitranspirante</b></a></section>
 </div>
 </div>
 </div>
@@ -412,168 +412,108 @@ id="aparece"></i></a></li>
 <div class="container">
     <div class="row">
         <div class="col s12 m12 l12 xl12">
-         <p class="Tipografia--general letranegro General--Cuerpo">La industria del champú forma parte esencial del sector de productos de cuidado personal e higiene. Su función principal es limpiar el cabello y el cuero cabelludo, aunque en la práctica moderna muchos champús ofrecen beneficios adicionales: hidratación, fortalecimiento, protección del color, control de frizz, volumen, reparación de daños, anticaspa y más.</p>
+            <p class="Tipografia--general letranegro General--Cuerpo">La industria de los antitranspirantes forma parte del segmento de productos de cuidado personal e higiene corporal y se dedica al desarrollo de soluciones para reducir o controlar la transpiración y el mal olor corporal, especialmente en las axilas. Estos productos combinan componentes que bloquean temporalmente las glándulas sudoríparas con fragancias o antimicrobianos que neutralizan olores.</p>
 
-         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Características de la Industria</b></h2>
+            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Características de la Industria</b></h2>
 
-         <ol>
-            <li class="Elementos--Listas"><b>Proceso de Producción:</b>
+            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Proceso de Producción:</b></h2>
+
+            <ol>
+                <li class="Elementos--Listas">Investigación y Desarrollo (I+D): Se diseñan fórmulas que equilibren eficacia contra el sudor, cuidado dermatológico y aceptación sensorial (textura, fragancia, absorción).</li>
+                <li class="Elementos--Listas">Formulación: Se combinan activos antitranspirantes, emolientes, conservantes y fragancias en matrices líquidas, cremosas, sólidas o en aerosol.</li>
+                <li class="Elementos--Listas">Mezcla y Homogeneización: Se elaboran mezclas homogéneas para asegurar estabilidad y facilidad de aplicación.</li>
+                <li class="Elementos--Listas">Envasado: Se utilizan sticks, roll-on, aerosoles, cremas o barras sólidas.</li>
+                <li class="Elementos--Listas">Control de Calidad: Se realizan pruebas de eficacia, seguridad dermatológica, estabilidad y resistencia a la transpiración.</li>
+            </ol>
+
+            
+            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Segmentación del Mercado:</b></h2>
+
+   
                 <ol>
-                    <li class="Elementos--Listas" style="margin-top:30px;">Investigación y Desarrollo (I+D): Se prueban fórmulas que combinen limpieza eficaz sin dañar el cuero cabelludo, además de incluir aditivos nutritivos.</li>
-                    <li class="Elementos--Listas">Formulación: Se mezclan tensioactivos, emolientes, fragancias y activos funcionales para dar textura, espuma y beneficios específicos.</li>
-                    <li class="Elementos--Listas">Mezclado y Homogeneización: Los ingredientes se integran en grandes lotes bajo estrictas condiciones de temperatura y viscosidad.</li>
-                    <li class="Elementos--Listas">Envasado y Etiquetado: Generalmente en botellas plásticas, pero la tendencia ecológica impulsa formatos sólidos o envases reciclables.</li>
-                    <li class="Elementos--Listas">Control de Calidad: Análisis de pH, estabilidad, compatibilidad cutánea y eficacia de limpieza.</li>
+                    <li class="Elementos--Listas">Por formato: Spray, roll-on, stick sólido, crema, gel, piedra mineral.</li>
+                    <li class="Elementos--Listas">Por enfoque: Convencional, clínico, natural, libre de aluminio, vegano, sin fragancias.</li>
+                    <li class="Elementos--Listas">Por tipo de piel: Piel normal, sensible, con alergias, post-depilación.</li>
                 </ol>
-            </li>
-         </ol>
+        
 
-         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Segmentación del Mercado:</b></h2>
+            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Tendencias del Mercado:</b></h2>
 
-         <ol>
-            <li class="Elementos--Listas">Por función: Hidratante, fortificante, anticaspa, matizador, clarificante, color-protector.</li>
-            <li class="Elementos--Listas">Por tipo de cabello: Graso, seco, rizado, liso, dañado, teñido, infantil.</li>
-            <li class="Elementos--Listas">Por enfoque: Convencional, orgánico, vegano, sin sulfatos, dermatológicamente probado.</li>
-         </ol>
+            <ol>
+                <li class="Elementos--Listas">Antitranspirantes sin aluminio.</li>
+                <li class="Elementos--Listas">Productos naturales basados en sales minerales o bicarbonato.</li>
+                <li class="Elementos--Listas">Envases ecológicos y sin aerosol propulsor.</li>
+                <li class="Elementos--Listas">Mayor personalización: fragancias neutras, sin género, o fórmulas dermatológicas.</li>
+            </ol>
 
-         <ol>
-            <li class="Elementos--Listas" style="margin-top:50px;"><b>Tendencias del Mercado:</b>
-                <ol>
-                    <li class="Elementos--Listas" style="margin-top:30px;">Champús sólidos y sin envase.</li>
-                    <li class="Elementos--Listas">Formulaciones veganas y libres de crueldad animal.</li>
-                    <li class="Elementos--Listas">Reducción o eliminación de sulfatos, siliconas y parabenos.</li>
-                    <li class="Elementos--Listas">Personalización de fórmulas según ADN o microbioma del cuero cabelludo.</li>
-                </ol>
-            </li>
-         </ol>
+            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Ingredientes Químicos Utilizados en Antitranspirantes</b></h2>
 
-         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Ingredientes Quimicos Utilizados en la industria del Champu</b></h2>
+            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Agentes Antitranspirantes Activos</b></h2>
 
-         <ol>
-            <li class="Elementos--Listas">Tensioactivos (Agentes de Limpieza y Espuma)
-                <ol>
-                    <li class="Elementos--Listas">Aniónicos (gran poder limpiador):
-                        <ol>
-                            <li class="Elementos--Listas">Lauril sulfato de sodio (SLS)</li>
-                            <li class="Elementos--Listas">Lauril éter sulfato de sodio (SLES)</li>
-                            <li class="Elementos--Listas">TEA-Lauril sulfato</li>
-                        </ol>
-                    </li>
-                    <li class="Elementos--Listas" style="margin-top:30px;">No iónicos (más suaves):
-                        <ol>
-                            <li class="Elementos--Listas">Decyl glucoside</li>
-                            <li class="Elementos--Listas">Coco-glucoside</li>
-                            <li class="Elementos--Listas">Lauryl glucoside</li>
-                        </ol>
-                    </li>
-                    <li class="Elementos--Listas" style="margin-top:30px;">Anfotéricos (espuma cremosa y suavidad):
-                        <ol>
-                            <li class="Elementos--Listas">Cocamidopropyl betaine</li>
-                            <li class="Elementos--Listas">Disodium cocoamphodiacetate</li>
-                        </ol>
-                    </li>
-                </ol>
-            </li>
-         </ol>
+            <p class="Tipografia--general letranegro General--Cuerpo">Compuestos que reducen temporalmente la salida del sudor obstruyendo las glándulas sudoríparas de manera segura.</p>
 
-         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Ingredientes Quimicos Utilizados en la industria del Champu</b></h2>
+            <ol>
+                <li class="Elementos--Listas">Sales de aluminio:
+                    <ol>
+                        <li class="Elementos--Listas">Clorhidrato de aluminio (Aluminum Chlorohydrate)</li>
+                        <li class="Elementos--Listas">Sesquiclorhidrato de aluminio y circonio (Aluminum Zirconium Tetrachlorohydrex GLY)</li>
+                        <li class="Elementos--Listas">Aluminio zirconio tricloro hidratado (Aluminum Zirconium Trichlorohydrex GLY)</li>
+                    </ol>
+                </li>
+            </ol>
 
-         <p class="Tipografia--general letranegro General--Cuerpo">Aportan suavidad y manejabilidad al cabello tras la limpieza.</p>
+            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Agentes Antimicrobianos / Desodorantes</b></h2>
 
-         <ol>
-            <li class="Elementos--Listas">Siliconas:
-                <ol>
-                    <li class="Elementos--Listas">Dimethicone, Amodimethicone, Cyclopentasiloxane (suavizan y protegen).</li>
-                </ol>
-            </li>
-         </ol>
+            <p class="Tipografia--general letranegro General--Cuerpo">Controlan o eliminan las bacterias que descomponen el sudor y causan mal olor.</p>
 
-         <ol>
-            <li class="Elementos--Listas">Aceites naturales:
-                <ol>
-                    <li class="Elementos--Listas">Aceite de argán, coco, jojoba, macadamia, oliva.</li>
-                </ol>
-            </li>
-         </ol>
+            <ol>
+                <li class="Elementos--Listas">Triclosán (en desuso en muchos mercados).</li>
+                <li class="Elementos--Listas">Farnesol</li>
+                <li class="Elementos--Listas">Clorhexidina.</li>
+                <li class="Elementos--Listas">Alcohol etílico.</li>
+                <li class="Elementos--Listas">Extractos botánicos con propiedades antibacterianas: árbol de té, tomillo, lavanda.</li>
+            </ol>
 
-         <ol>
-            <li class="Elementos--Listas">Polímeros catiónicos:
-                <ol>
-                    <li class="Elementos--Listas">Polyquaternium-10, Polyquaternium-7 (mejoran el desenredo y reducen la estática).</li>
-                </ol>
-            </li>
-         </ol>
+            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Emolientes y Suavizantes</b></h2>
 
+            <p class="Tipografia--general letranegro General--Cuerpo">Protegen la piel y reducen la irritación.</p>
 
- <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Agentes Humectantes</b></h2>
+            <ol>
+                <li class="Elementos--Listas">Ciclometicona y Dimeticona (siliconas).</li>
+                <li class="Elementos--Listas">Propilenglicol.</li>
+                <li class="Elementos--Listas">Aceites naturales: jojoba, coco, almendra.</li>
+                <li class="Elementos--Listas">Manteca de karité, aceite de oliva.</li>
+            </ol>
 
-         <p class="Tipopgrafia--general letranegro General--Cuerpo">Mantienen la hidratación en cabello y cuero cabelludo.</p>
+            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Agentes Portadores y Texturizantes</b></h2>
 
-         <ol>
-            <li class="Elementos--Listas">Glicerina</li>
-            <li class="Elementos--Listas">Propilenglicol</li>
-            <li class="Elementos--Listas">Sorbitol</li>
-            <li class="Elementos--Listas">Ácido hialurónico</li>
-         </ol>
+            <p class="Tipografia--general letranegro General--Cuerpo">Dan cuerpo al producto y determinan la experiencia sensorial.</p>
 
-         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Agentes Activos Específicos</b></h2>
+            <ol>
+                <li class="Elementos--Listas">Solventes: Alcohol desnaturalizado, agua.</li>
+                <li class="Elementos--Listas">Geles y espesantes: Estearato de sodio, PEG-8 distearato, gomas naturales como goma xantana.</li>
+                <li class="Elementos--Listas">Aerosoles propulsores: Butano, propano, isobutano.</li>
+            </ol>
 
-         <ol>
-            <li class="Elementos--Listas">Piritionato de zinc</li>
-            <li class="Elementos--Listas">Ketoconazol</li>
-            <li class="Elementos--Listas">Ácido salicílico</li>
-            <li class="Elementos--Listas">Sulfuro de selenio</li>
-         </ol>
+            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Fragancias y Perfumes</b></h2>
 
-         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Fortificantes y reparadores:</b></h2>
+            
+            <p class="Tipografia--general letranegro General--Cuerpo">Proporcionan sensación de frescura y cubren olores corporales.</p>
 
-         <ol>
-            <li class="Elementos--Listas">Queratina hidrolizada</li>
-            <li class="Elementos--Listas">Proteínas de trigo, seda o arroz.</li>
-            <li class="Elementos--Listas">Péptidos bioactivos.</li>
-         </ol>
+            <ol>
+                <li class="Elementos--Listas">Fragancias sintéticas o aceites esenciales.</li>
+                <li class="Elementos--Listas">Compuestos específicos como limoneno, linalool, citronelol, geraniol (todos alérgenos potenciales que deben declararse en el etiquetado en Europa).</li>
+            </ol>
 
-         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Extractos botánicos:</b></h2>
+            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Conservantes</b></h2>
 
-         <ol>
-            <li class="Elementos--Listas">Aloe vera, camomila, romero, té verde, lavanda.</li>
-         </ol>
+            <p class="Tipografia--general letranegro General--Cuerpo">Previenen el crecimiento de bacterias y hongos en el producto.</p>
 
-         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Reguladores de pH y Viscosidad</b></h2>
-
-         <ol>
-            <li class="Elementos--Listas">Ácido cítrico (ajusta pH)</li>
-            <li class="Elementos--Listas">Cloruro de sodio (espesante)</li>
-            <li class="Elementos--Listas">Gomas naturales y sintéticas (xantana, carbómero).</li>
-         </ol>
-
-         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Conservantes</b></h2>
-
-         <ol>
-            <li class="Elementos--Listas">Tradicionales:
-                <ol>
-                    <li class="Elementos--Listas">Parabenos (metilparabeno, propilparabeno).</li>
-                    <li class="Elementos--Listas">Fenoxietanol.</li>
-                    <li class="Elementos--Listas">Imidazolidinil urea.</li>
-                </ol>
-            </li>
-         </ol>
-
-         <ol>
-            <li class="Elementos--Listas" style="margin-top:50px;">Alternativos y naturales:
-                <ol>
-                    <li class="Elementos--Listas">Ácido benzoico, benzoato de sodio, etilhexilglicerina, sorbato de potasio.</li>
-                </ol>
-            </li>
-         </ol>
-
-
-          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Fragancias y Colorantes</b></h2>
-
-          <ol>
-            <li class="Elementos--Listas">Fragancias sintéticas o aceites esenciales (lavanda, menta, eucalipto, limón).</li>
-            <li class="Elementos--Listas">Colorantes cosméticos (CI) como CI 19140 (amarillo) o CI 42090 (azul).</li>
-          </ol>
+            <ol>
+                <li class="Elementos--Listas">Parabenos (Metilparabeno, Propilparabeno).</li>
+                <li class="Elementos--Listas">Fenoxietanol.</li>
+                <li class="Elementos--Listas">Benzoato de sodio, sorbato de potasio.</li>
+            </ol>
 
 
         </div>

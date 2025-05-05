@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
 <meta name="description" content="La industria de las cremas para el cuidado de la piel forma parte del sector cosmético y dermocosmético, y se enfoca en la formulación, fabricación y comercialización de productos destinados a proteger, hidratar, tratar o mejorar el aspecto de la piel.">
-<title>Chemical Broker | Champu</title>
+<title>Chemical Broker | Bloqueadores Solares Faciales</title>
 <link rel="shortcut icon" href="img/CB_ICON.ico" />
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -394,7 +394,7 @@ id="aparece"></i></a></li>
 <ul class="slides slides-pruea">
 <li> <img src="img/CHAMPU.jpg" alt="" style="height:400px">
 <div class="caption center-align"><br><br><br><br>
-<h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">Champu</b>
+<h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">Bloqueadores Solares Faciales</b>
 </div>
 </li>
 </ul>
@@ -403,182 +403,129 @@ id="aparece"></i></a></li>
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>  >&nbsp </b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important"><b>Mercados&nbsp </b><b>   >&nbsp </b></a><a class="breditem active" href="Cosmetica_Cuidadopersonal.php" style="color:#262137 !important;margin-left:-2px"><b>Cosmetica & Cuidado Personal ></b></a> <a href="Tintes.php" style="color:#262137"><b class="Tipografia--general Subtitulos breadcrumb" style="color:red;">Champu</b></a></section>
+<section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>  >&nbsp </b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important"><b>Mercados&nbsp </b><b>   >&nbsp </b></a><a class="breditem active" href="Cosmetica_Cuidadopersonal.php" style="color:#262137 !important;margin-left:-2px"><b>Cosmetica & Cuidado Personal ></b></a> <a href="Bloqueadores_Solares.php" style="color:#262137"><b class="Tipografia--general Subtitulos breadcrumb" style="color:red;">Bloqueadores Solares Faciales</b></a></section>
 </div>
 </div>
 </div>
-
 
 <div class="container">
     <div class="row">
         <div class="col s12 m12 l12 xl12">
-         <p class="Tipografia--general letranegro General--Cuerpo">La industria del champú forma parte esencial del sector de productos de cuidado personal e higiene. Su función principal es limpiar el cabello y el cuero cabelludo, aunque en la práctica moderna muchos champús ofrecen beneficios adicionales: hidratación, fortalecimiento, protección del color, control de frizz, volumen, reparación de daños, anticaspa y más.</p>
 
-         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Características de la Industria</b></h2>
+        <p class="Tipografia--general letranegro General--Cuerpo">La industria de los bloqueadores solares faciales se dedica a formular, producir y distribuir productos que protegen la piel del rostro de los efectos nocivos de la radiación ultravioleta (UV). Estos productos tienen una doble función: cuidado preventivo de la salud (prevención del cáncer de piel, envejecimiento prematuro, manchas) y cosmética dermatológica (texturas ligeras, con color, matificantes, antioxidantes, etc.).</p>
 
-         <ol>
-            <li class="Elementos--Listas"><b>Proceso de Producción:</b>
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Características de la Industria</b></h2>
+
+
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Proceso de Producción:</b></h2>
+
+        <ol>
+            <li class="Elementos--Listas">I+D avanzada: Se formulan filtros solares que sean eficaces, seguros, no irritantes y cosméticamente elegantes (sin dejar residuo blanco, sin sensación grasa).</li>
+            <li class="Elementos--Listas">Formulación: Mezcla de filtros UV con ingredientes hidratantes, antioxidantes y estabilizantes. Se adaptan a distintos tipos de piel (seca, grasa, sensible).</li>
+            <li class="Elementos--Listas">Homogeneización: Muy cuidadosa para asegurar la distribución uniforme de los filtros en toda la base del producto.</li>
+            <li class="Elementos--Listas">Envasado: En tubos, frascos dosificadores o sprays, con empaques especiales para proteger la estabilidad del filtro frente a la luz y el calor.</li>
+            <li class="Elementos--Listas">Control de calidad: Incluye pruebas de SPF (Sun Protection Factor), resistencia al agua, estabilidad, fototoxicidad, compatibilidad con la piel y pruebas clínicas.</li>
+        </ol>
+
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Principales Empresas del Sector:</b></h2>
+
+        <ol>
+            <li class="Elementos--Listas">Laboratorios dermatológicos: La Roche-Posay, Avène, Eucerin, ISDIN, Bioderma, Vichy.</li>
+            <li class="Elementos--Listas">Marcas cosméticas: Neutrogena, L’Oréal, Garnier, Nivea, Shiseido, Clinique.</li>
+            <li class="Elementos--Listas">Marcas especializadas y naturales: EltaMD, Supergoop!, Biossance, Coola, The Ordinary, Avene Cleanance.</li>
+            <li class="Elementos--Listas">Farmacéuticas: Galderma, Pierre Fabre, Johnson & Johnson (Neutrogena), Beiersdorf.</li>
+        </ol>
+
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Segmentación del Mercado:</b></h2>
+
+        <ol>
+            <li class="Elementos--Listas">Por tipo de piel: grasa, seca, sensible, con tendencia acneica, piel madura.</li>
+            <li class="Elementos--Listas">Por textura o formato: gel, crema, fluido, stick, polvo, bruma, mousse.</li>
+            <li class="Elementos--Listas">Por filtro solar: químico (orgánico), físico (mineral) o mixto.</li>
+            <li class="Elementos--Listas">Por beneficios adicionales: con color, matificante, hidratante, anti-edad, resistente al agua, efecto glow, oil-free.</li>
+        </ol>
+
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Tendencias del Mercado:</b></h2>
+
+
+        <ol>
+            <li class="Elementos--Listas">Protección de amplio espectro (UVA + UVB + IR + luz azul).</li>
+            <li class="Elementos--Listas">Fórmulas sin nanopartículas ni ingredientes controvertidos.</li>
+            <li class="Elementos--Listas">Uso diario como parte del skincare diario, no solo en playa o verano.</li>
+            <li class="Elementos--Listas">Sunscreens con activos de skincare: niacinamida, ácido hialurónico, vitamina C.</li>
+            <li class="Elementos--Listas">Protección invisible, sin "white cast", apta para todos los tonos de piel.</li>
+            <li class="Elementos--Listas">Enfoque sostenible: envases reciclables y filtros que no dañen el ecosistema marino.</li>
+        </ol>
+
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Ingredientes Químicos Utilizados en Bloqueadores Solares Faciales</b></h2>
+
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Filtros Solares (activos UV):</b></h2>
+
+        <ol>
+            <li class="Elementos--Listas">Octinoxato (Ethylhexyl Methoxycinnamate) – UVB</li>
+            <li class="Elementos--Listas">Avobenzona (Butyl Methoxydibenzoylmethane) – UVA</li>
+            <li class="Elementos--Listas">Octocrylene – UVB + estabilizante de Avobenzona</li>
+            <li class="Elementos--Listas">Homosalate – UVB</li>
+            <li class="Elementos--Listas">Ensulizole (Phenylbenzimidazole Sulfonic Acid) – UVB</li>
+            <li class="Elementos--Listas">Tinosorb S (Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine) – UVA + UVB</li>
+            <li class="Elementos--Listas">Uvinul A Plus (Diethylamino Hydroxybenzoyl Hexyl Benzoate) – UVA</li>
+            <li class="Elementos--Listas">Mexoryl SX/XL (propietarios de L’Oréal) – UVA + UVB</li>
+        </ol>
+
+        <ol>
+            <li class="Elementos--Listas" style="margin-top:50px;">Filtros Físicos (minerales): Actúan como pantalla que refleja y dispersa la radiación.
                 <ol>
-                    <li class="Elementos--Listas" style="margin-top:30px;">Investigación y Desarrollo (I+D): Se prueban fórmulas que combinen limpieza eficaz sin dañar el cuero cabelludo, además de incluir aditivos nutritivos.</li>
-                    <li class="Elementos--Listas">Formulación: Se mezclan tensioactivos, emolientes, fragancias y activos funcionales para dar textura, espuma y beneficios específicos.</li>
-                    <li class="Elementos--Listas">Mezclado y Homogeneización: Los ingredientes se integran en grandes lotes bajo estrictas condiciones de temperatura y viscosidad.</li>
-                    <li class="Elementos--Listas">Envasado y Etiquetado: Generalmente en botellas plásticas, pero la tendencia ecológica impulsa formatos sólidos o envases reciclables.</li>
-                    <li class="Elementos--Listas">Control de Calidad: Análisis de pH, estabilidad, compatibilidad cutánea y eficacia de limpieza.</li>
+                    <li class="Elementos--Listas">Dióxido de titanio (Titanium Dioxide)</li>
+                    <li class="Elementos--Listas">Óxido de zinc (Zinc Oxide)</li>
                 </ol>
             </li>
-         </ol>
+        </ol>
 
-         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Segmentación del Mercado:</b></h2>
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Emolientes y Vehículos Hidratantes:</b></h2>
 
-         <ol>
-            <li class="Elementos--Listas">Por función: Hidratante, fortificante, anticaspa, matizador, clarificante, color-protector.</li>
-            <li class="Elementos--Listas">Por tipo de cabello: Graso, seco, rizado, liso, dañado, teñido, infantil.</li>
-            <li class="Elementos--Listas">Por enfoque: Convencional, orgánico, vegano, sin sulfatos, dermatológicamente probado.</li>
-         </ol>
-
-         <ol>
-            <li class="Elementos--Listas" style="margin-top:50px;"><b>Tendencias del Mercado:</b>
-                <ol>
-                    <li class="Elementos--Listas" style="margin-top:30px;">Champús sólidos y sin envase.</li>
-                    <li class="Elementos--Listas">Formulaciones veganas y libres de crueldad animal.</li>
-                    <li class="Elementos--Listas">Reducción o eliminación de sulfatos, siliconas y parabenos.</li>
-                    <li class="Elementos--Listas">Personalización de fórmulas según ADN o microbioma del cuero cabelludo.</li>
-                </ol>
-            </li>
-         </ol>
-
-         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Ingredientes Quimicos Utilizados en la industria del Champu</b></h2>
-
-         <ol>
-            <li class="Elementos--Listas">Tensioactivos (Agentes de Limpieza y Espuma)
-                <ol>
-                    <li class="Elementos--Listas">Aniónicos (gran poder limpiador):
-                        <ol>
-                            <li class="Elementos--Listas">Lauril sulfato de sodio (SLS)</li>
-                            <li class="Elementos--Listas">Lauril éter sulfato de sodio (SLES)</li>
-                            <li class="Elementos--Listas">TEA-Lauril sulfato</li>
-                        </ol>
-                    </li>
-                    <li class="Elementos--Listas" style="margin-top:30px;">No iónicos (más suaves):
-                        <ol>
-                            <li class="Elementos--Listas">Decyl glucoside</li>
-                            <li class="Elementos--Listas">Coco-glucoside</li>
-                            <li class="Elementos--Listas">Lauryl glucoside</li>
-                        </ol>
-                    </li>
-                    <li class="Elementos--Listas" style="margin-top:30px;">Anfotéricos (espuma cremosa y suavidad):
-                        <ol>
-                            <li class="Elementos--Listas">Cocamidopropyl betaine</li>
-                            <li class="Elementos--Listas">Disodium cocoamphodiacetate</li>
-                        </ol>
-                    </li>
-                </ol>
-            </li>
-         </ol>
-
-         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Ingredientes Quimicos Utilizados en la industria del Champu</b></h2>
-
-         <p class="Tipografia--general letranegro General--Cuerpo">Aportan suavidad y manejabilidad al cabello tras la limpieza.</p>
-
-         <ol>
-            <li class="Elementos--Listas">Siliconas:
-                <ol>
-                    <li class="Elementos--Listas">Dimethicone, Amodimethicone, Cyclopentasiloxane (suavizan y protegen).</li>
-                </ol>
-            </li>
-         </ol>
-
-         <ol>
-            <li class="Elementos--Listas">Aceites naturales:
-                <ol>
-                    <li class="Elementos--Listas">Aceite de argán, coco, jojoba, macadamia, oliva.</li>
-                </ol>
-            </li>
-         </ol>
-
-         <ol>
-            <li class="Elementos--Listas">Polímeros catiónicos:
-                <ol>
-                    <li class="Elementos--Listas">Polyquaternium-10, Polyquaternium-7 (mejoran el desenredo y reducen la estática).</li>
-                </ol>
-            </li>
-         </ol>
-
-
- <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Agentes Humectantes</b></h2>
-
-         <p class="Tipopgrafia--general letranegro General--Cuerpo">Mantienen la hidratación en cabello y cuero cabelludo.</p>
-
-         <ol>
+        <ol>
             <li class="Elementos--Listas">Glicerina</li>
             <li class="Elementos--Listas">Propilenglicol</li>
-            <li class="Elementos--Listas">Sorbitol</li>
-            <li class="Elementos--Listas">Ácido hialurónico</li>
-         </ol>
-
-         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Agentes Activos Específicos</b></h2>
-
-         <ol>
-            <li class="Elementos--Listas">Piritionato de zinc</li>
-            <li class="Elementos--Listas">Ketoconazol</li>
-            <li class="Elementos--Listas">Ácido salicílico</li>
-            <li class="Elementos--Listas">Sulfuro de selenio</li>
-         </ol>
-
-         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Fortificantes y reparadores:</b></h2>
-
-         <ol>
-            <li class="Elementos--Listas">Queratina hidrolizada</li>
-            <li class="Elementos--Listas">Proteínas de trigo, seda o arroz.</li>
-            <li class="Elementos--Listas">Péptidos bioactivos.</li>
-         </ol>
-
-         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Extractos botánicos:</b></h2>
-
-         <ol>
-            <li class="Elementos--Listas">Aloe vera, camomila, romero, té verde, lavanda.</li>
-         </ol>
-
-         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Reguladores de pH y Viscosidad</b></h2>
-
-         <ol>
-            <li class="Elementos--Listas">Ácido cítrico (ajusta pH)</li>
-            <li class="Elementos--Listas">Cloruro de sodio (espesante)</li>
-            <li class="Elementos--Listas">Gomas naturales y sintéticas (xantana, carbómero).</li>
-         </ol>
-
-         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Conservantes</b></h2>
-
-         <ol>
-            <li class="Elementos--Listas">Tradicionales:
-                <ol>
-                    <li class="Elementos--Listas">Parabenos (metilparabeno, propilparabeno).</li>
-                    <li class="Elementos--Listas">Fenoxietanol.</li>
-                    <li class="Elementos--Listas">Imidazolidinil urea.</li>
-                </ol>
-            </li>
-         </ol>
-
-         <ol>
-            <li class="Elementos--Listas" style="margin-top:50px;">Alternativos y naturales:
-                <ol>
-                    <li class="Elementos--Listas">Ácido benzoico, benzoato de sodio, etilhexilglicerina, sorbato de potasio.</li>
-                </ol>
-            </li>
-         </ol>
+            <li class="Elementos--Listas">Caprylic/Capric Triglyceride</li>
+            <li class="Elementos--Listas">Dimeticona (silicona que aporta sedosidad y fijación)</li>
+            <li class="Elementos--Listas">Butylene Glycol</li>
+        </ol>
 
 
-          <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Fragancias y Colorantes</b></h2>
+<h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Agentes Estabilizantes y Conservantes:</b></h2>
 
-          <ol>
-            <li class="Elementos--Listas">Fragancias sintéticas o aceites esenciales (lavanda, menta, eucalipto, limón).</li>
-            <li class="Elementos--Listas">Colorantes cosméticos (CI) como CI 19140 (amarillo) o CI 42090 (azul).</li>
-          </ol>
+<ol>
+    <li class="Elementos--Listas">Disodium EDTA</li>
+    <li class="Elementos--Listas">Phenoxyethanol</li>
+    <li class="Elementos--Listas">Ethylhexylglycerin</li>
+    <li class="Elementos--Listas">Parabenos (en menor uso por presión del mercado)</li>
+    <li class="Elementos--Listas">Sorbato de potasio, benzoato de sodio</li>
+</ol>
 
+<h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Antioxidantes y Activos Funcionales:</b></h2>
+
+<ol>
+    <l class="Elementos--Listas">Vitamina C (ácido ascórbico o derivados)</li>
+    <li class="Elementos--Listas">Vitamina E (tocoferol)</li>
+    <li class="Elementos--Listas">Niacinamida (vitamina B3)</li>
+    <li class="Elementos--Listas">Ácido ferúlico</li>
+    <li class="Elementos--Listas">Té verde, extracto de uva, cúrcuma (extractos antioxidantes)</li>
+</ol>
+
+<h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Ingredientes Sensoriales y de Acabado:</b></h2>
+
+<ol>
+    <li class="Elementos--Listas">Silicas y polvos matificantes</li>
+    <li class="Elementos--Listas">Pigmentos con color (óxidos de hierro)</li>
+    <li class="Elementos--Listas">Fragancias o formulaciones sin fragancia</li>
+    <li class="Elementos--Listas">Micas para efecto glow o radiante</li>
+    <li class="Elementos--Listas">Filtros ópticos para corrección de tono (CC creams con FPS)</li>
+</ol>
 
         </div>
     </div>
 </div>
+
 
 
 

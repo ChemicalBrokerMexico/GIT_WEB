@@ -589,13 +589,13 @@
   <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li><img src="img/CADENA_SUMINISTRO_BANNER_040123.jpg" style="height:800px;" alt="Historia Ascendente">
-            <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Cadena de Suministro</b>
-              <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Servicios.php"><b class="Tipografia--general Subtitulos" style="color:white;">Servicios > </b></a><a class="active" href="Cadena_Suministro.php"><b class="Tipografia--general Subtitulos" style="color:red;">Cadena de Suministro</b></a></section>
-    </div>
+        <div class="caption center-align" style="z-index:3;position:relative;"><br/><br/><br/><br/>
+              <h3 class="primertitulo" style="margin-top:120px;"><b class="boldbanner">Cadena de Suministro</b><br/></h3><b class="segundotitulo" style="font-size:26px;color:white"></b>
             </div>
+          <li>   <video class="videos_mercados" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
+                  <source class="mercadosimagen" src="VIDEO/CADENA_SUMINISTRO.mp4" type="video/mp4">
+                </video> 
+         
           </li>
         </ul>
       </div>
@@ -604,19 +604,18 @@
 
 
 
-
   <div class="container" style="margin-top:130px;">
     <div class="row">
       <div class="col s12 m12 l12 xl12">
+      <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Servicios.php"><b class="Tipografia--general Subtitulos" style="color:black;">Servicios > </b></a><a class="active" href="Cadena_Suministro.php"><b class="Tipografia--general Subtitulos" style="color:red;">Cadena de Suministro</b></a></section>
+
         <!-- <h5 class="colornegro Tipografia--general General--Cuerpo" style="text-align:center;font-size:24px"><b
             style="color:#000020;margin-bottom:0px">Cadena de Suministros</b></h5> -->
         <h5 class="Tipografia--general General--Cuerpo"
-          style="text-align:center;color:#0065ad;margin-top:50px;font-size:25px;margin-bottom:0px"><b style="color: #0065ad">“La cadena de suministros contempla todos los aspectos involucrados en una operación para la obtención de un producto o un servicio , que va desde su adquisición , hasta la entrega al cliente final.</b></h5>
+          style="text-align:center;color:#0065ad;margin-top:50px;font-size:25px;margin-bottom:0px"><b style="color: #0065ad">En <b>Chemical Broker</b>, diseñamos y operamos soluciones eficientes de Cadena de Suministro para la industria química. Nuestra experiencia nos permite garantizar el abastecimiento continuo y seguro de ingredientes químicos, desde el origen hasta la entrega final, cumpliendo con normativas locales e internacionales.</b></h5>
       
-           <p class="Tipografia--general General--Cuerpo colornegro" style="margin-top:50px;">En <b style="color:#000020;">Chemical Broker</b>, reconocemos la importancia de la integración efectiva entre proveedores y clientes en el ámbito de la gestión de la cadena de suministro. Nuestro enfoque se centra en maximizar la eficiencia y eficacia tanto interna como externamente en cada eslabón de nuestra cadena de suministro, en donde contemplamos los siguientes puntos: </p>
+           <p class="Tipografia--general General--Cuerpo colornegro" style="margin-top:50px;">Reconocemos la importancia de la integración efectiva entre proveedores y clientes en el ámbito de la gestión de la <b>Cadena de Suministro.</b> Nuestro enfoque se centra en maximizar la eficiencia y eficacia tanto interna como externamente en cada eslabón de nuestra <b>Cadena de Suministro</b>, en donde contemplamos los siguientes puntos: </p>
        
-          
-
       </div>
     </div>
   </div>
@@ -628,7 +627,7 @@
                     <div class="container  center-align" style="background-color:#000020;border-radius: 60px;width: 300px;height:450px;color:white">
                     <i class="large material-icons" style="color:#DE7B1F;margin-top:-48px">supervisor_account</i> 
                     <h5 class="Tipografia--general letranegro General--Cuerpo" style="color:white;text-align:center"><b>Alianza Estratégica</b></h5>
-                    <p class="Tipografia--general" style="color:white;padding:15px;font-family:Arial, Helvetica, sans-serif">Fomentamos la colaboración cercana entre nuestros socios de negocio, construyendo relaciones sólidas basadas en la confianza y comunicación.</p>
+                    <p class="Tipografia--general" style="color:white;padding:15px;font-family:Arial, Helvetica, sans-serif">Fomentamos la colaboración cercana con nuestros socios de negocio, construyendo relaciones sólidas basadas en la confianza, la transparencia y la comunicación constante. Esta visión nos permite desarrollar <b>Cadenas de Suministro</b> más resilientes, flexibles y adaptadas a las necesidades de cada cliente, anticipando retos del mercado y respondiendo con agilidad.</p>
                     </div>
                     
               </div>
@@ -636,14 +635,14 @@
               <div class="container" style="background-color:#000020;border-radius:60px;width: 300px;height: 450px;color:white;">
               <i class="large material-icons" style="color:#DE7B1F;margin-top:-48px">offline_pin</i> 
               <h5 class="Tipografia--general letranegro General--Cuerpo" style="color:white;text-align:center"><b>Calidad y Seguridad</b></h5>
-              <p class="Tipografia--general" style="color:white;padding:15px;font-family:Arial, Helvetica, sans-serif">Mantenemos los más altos estándares de calidad y seguridad en todos nuestros procesos. Asegurando que los productos sean manejados y transportados de manera segura, contratando proveedores que cumplan con las regulaciones y normativas aplicables, así como certificaciones de calidad.</p>
+              <p class="Tipografia--general" style="color:white;padding:15px;font-family:Arial, Helvetica, sans-serif">Mantenemos los más altos estándares de calidad y seguridad en todos nuestros procesos. Garantizamos que cada ingrediente químico sea manejado y transportado de forma segura, cumpliendo rigurosamente con las normativas nacionales e internacionales aplicables. Trabajamos únicamente con proveedores certificados, que cuentan con auditorías y acreditaciones que respaldan la trazabilidad, integridad y cumplimiento regulatorio de cada producto.</p>
               </div>
               </div>
               <div class="col s6 m6 l4 xl4 center-align">
               <div class="container" style="background-color:#000020;border-radius:60px;width: 300px;height: 450px;color:white;">
               <i class="large material-icons" style="color:#DE7B1F;margin-top:-48px">query_builder</i> 
               <h5 class="Tipografia--general letranegro General--Cuerpo" style="color:white;text-align:center"><b>Flexibilidad y Adaptabilidad</b></h5>
-              <p class="Tipografia--general" style="color:white;padding:15px;font-family:Arial, Helvetica, sans-serif">Entendemos que las necesidades de nuestros clientes pueden cambiar con el tiempo. Por lo tanto, estamos preparados para adaptarnos a situaciones imprevistas y ajustar nuestra cadena de suministro para satisfacer el cambio en los requerimientos.</p>
+              <p class="Tipografia--general" style="color:white;padding:15px;font-family:Arial, Helvetica, sans-serif">Entendemos que las necesidades de nuestros clientes evolucionan constantemente. Por ello, diseñamos <b>Cadenas de Suministro</b> que no solo son eficientes, sino también flexibles. Estamos preparados para responder ante situaciones imprevistas, adaptando nuestros procesos logísticos y estrategias de abastecimiento para satisfacer cambios en la demanda, condiciones del mercado o requerimientos regulatorios.</p>
               </div>
             </div>
             <div class="col s12 m12 l12 xl12" style="margin-top:50px;">
@@ -654,8 +653,7 @@
             </div>
             <div class="col s12 m12 l6 xl6" style="margin-top:50px;">
             <h5 class="Tipografia--general letranegro General--Cuerpo" style="color:black;text-align:center;"><b style="border-bottom:2px solid #0065ad;">Proveedores</b></h5>
-            <p class="Tipografia--general General--Cuerpo" style="color:black;">Nuestras relaciones de negocios con los principales Fabricantes de Ingredientes Químicos; situados en diferentes países, nos permite ofrecer una gran variedad de productos apegados a las necesidades de nuestros clientes y en cumplimiento a las regulaciones de cada industria.</p>
-            <p class="Tipografia--general General--Cuerpo" style="color:black;">A través de un “Servicio Integral”; generamos relaciones de largo plazo con nuestros proveedores para garantizar el suministro de materias primas, con productos de la más alta calidad, abastecimiento oportuno, precios competitivos, garantía y seguridad..</p>
+            <p class="Tipografia--general General--Cuerpo" style="color:black;">Contamos con relaciones sólidas con los principales fabricantes de <b>ingredientes químicos</b> a nivel internacional, lo que nos permite ofrecer una amplia variedad de productos alineados a las necesidades específicas de cada cliente y en cumplimiento con las regulaciones aplicables de cada industria. A través de un modelo de Servicio Integral, fomentamos relaciones de largo plazo con nuestros proveedores, garantizando el abastecimiento continuo de materias primas, con altos estándares de calidad, entregas oportunas, precios competitivos y condiciones seguras en toda la cadena.</p>
             </div>
           
            </div>
@@ -666,11 +664,11 @@
             </div>
             <div class="col s12 m12 l6 xl6" style="margin-top:50px;">
             <h5 class="Tipografia--general letranegro General--Cuerpo" style="color:black;text-align:center;"><b style="border-bottom:2px solid #0065ad;">Distribución</b></h5>
-            <p class="Tipografia--general General--Cuerpo" style="color:black;">Consideramos todos los aspectos a considerar en el proceso de distribución de nuestros ingredientes químicos; con el objetivo de ser eficientes en nuestras entregas.</p>
+            <p class="Tipografia--general General--Cuerpo" style="color:black;">En <b>Chemical Broker</b>, abordamos de forma integral cada etapa del proceso de distribución, con el objetivo de garantizar entregas eficientes, seguras y puntuales de ingredientes químicos.</p>
             <ol>
-              <li style="list-style-type:disc;">Con nuestros Proveedores involucra una planeación de pronósticos de consumo, tiempos de fabricación y entrega, tiempos de tránsito y procesos logísticos integrales.</li>
+              <li style="list-style-type:disc;">Con nuestros proveedores, coordinamos de manera proactiva los pronósticos de consumo, tiempos de fabricación, tiempos de tránsito y la planificación logística, asegurando una operación fluida y sin interrupciones.</li>
               <br>
-              <li style="list-style-type:disc;">Con nuestros clientes; inventario general y de seguridad, puntos de reordenó y fechas de requerimiento.</li>
+              <li style="list-style-type:disc;">Con nuestros clientes, gestionamos el inventario general y de seguridad, definimos puntos de reorden y ajustamos las entregas a sus fechas de requerimiento, adaptándonos a sus necesidades operativas y productivas.</li>
             </ol>
           
             </div>
@@ -682,8 +680,9 @@
             </div>
             <div class="col s12 m12 l6 xl6" style="margin-top:50px;">
             <h5 class="Tipografia--general letranegro General--Cuerpo" style="color:black;text-align:center;"><b style="border-bottom:2px solid #0065ad;">Comercio Internacional</b></h5>
-            <p class="Tipografia--general General--Cuerpo" style="color:black;">Involucramos operaciones de Importación y Exportación por todas las aduanas en el mundo; marítimas, aéreas y terrestres, con procesos estandarizados y en cumplimiento a las leyes internacionales vigentes y políticas de comercio exterior.</p>
-            <p class="Tipografia--general General--Cuerpo" style="color:black;">Nuestros Agentes Aduanales y Forwarders trabajan en estricto cumplimiento a nuestros requerimientos y forma de trabajo con <b style="color:#000020;">Chemical Broker</b> para preservar la inocuidad e integridad física de nuestros ingredientes químicos.</p>
+            <p class="Tipografia--general General--Cuerpo" style="color:black;">Gestionamos operaciones de importación y exportación a través de todas las aduanas del mundo — marítimas, aéreas y terrestres — mediante procesos estandarizados y en estricto cumplimiento con las leyes internacionales vigentes y políticas de comercio exterior.</p>
+            <p class="Tipografia--general General--Cuerpo" style="color:black;">Nuestros agentes aduanales y forwarders operan bajo protocolos definidos por <b>Chemical Broker</b>, asegurando la inocuidad, trazabilidad y la integridad física de los ingredientes químicos en cada etapa del tránsito internacional.</p>
+            <p class="Tipografia--general General--Cuerpo" style="color:black;">Gracias a nuestra red global y experiencia regulatoria, facilitamos un comercio internacional ágil, seguro y adaptado a las exigencias del sector químico.</p>
             </div>
            </div>
 
@@ -693,8 +692,9 @@
             </div>
             <div class="col s12 m12 l6 xl6" style="margin-top:50px;">
             <h5 class="Tipografia--general letranegro General--Cuerpo" style="color:black;text-align:center;"><b style="border-bottom:2px solid #0065ad;">Logística</b></h5>
-            <p class="Tipografia--general General--Cuerpo" style="color:black;">La Logística Global para <b style="color:#000020">Chemical Broker</b>, es la actividad que Planifica, Gestiona y Controla (PGC), el envío de ingredientes químicos dentro de nuestra cadena de suministros. Tiene como principal objetivo administrar todas las operaciones relacionadas con el movimiento de los productos químicos de forma eficiente.</p>
-            <p class="Tipografia--general General--Cuerpo" style="color:black;">Nuestra misión es la Gestión y Organización de las actividades relacionadas con la Compra, Recepción, Ubicación, Transporte (Aéreo, Marítimo, Terrestre o Multimodal) y la Expedición de los productos químicos en el lugar, tiempo y condiciones adecuadas.</p>
+            <p class="Tipografia--general General--Cuerpo" style="color:black;">En <b>Chemical Broker</b>, la Logística Global es una función estratégica que planifica, gestiona y controla (PGC) el flujo de ingredientes químicos dentro de nuestra cadena de suministro. Nuestro principal objetivo es coordinar de manera eficiente todas las operaciones involucradas en el movimiento de productos, garantizando entregas seguras, puntuales y bajo estrictas condiciones de calidad.</p>
+            <p class="Tipografia--general General--Cuerpo" style="color:black;">Nuestra misión es asegurar la gestión integral de procesos logísticos, que incluyen la compra, recepción, almacenamiento, transporte (aéreo, marítimo, terrestre o multimodal) y expedición de los ingredientes químicos en el lugar, tiempo y condiciones que cada cliente requiere.</p>
+            <p class="Tipografia--general General--Cuerpo" style="color:black;">Gracias a una infraestructura robusta, tecnología de seguimiento y una red de aliados estratégicos, ofrecemos un servicio logístico confiable, adaptable y alineado con los más altos estándares del sector químico internacional.</p>
             </div>
            </div>
 
@@ -704,8 +704,9 @@
             </div>
             <div class="col s12 m12 l6 xl6" style="margin-top:50px;">
             <h5 class="Tipografia--general letranegro General--Cuerpo" style="color:black;text-align:center;"><b style="border-bottom:2px solid #0065ad;">Cobertura de Riesgos</b></h5>
-            <p class="Tipografia--general General--Cuerpo" style="color:black;">En <b style="color:#000020;">Chemical Broker</b>, la tranquilidad de nuestros socios de negocios es nuestra máxima prioridad. Gracias a una política estricta para mitigar los riesgos en cada operación, diseñamos estrategias y soluciones que aseguran una Logística Global libre de siniestros.</p>
-            <p class="Tipografia--general General--Cuerpo" style="color:black;">Trabajamos de la mano con las principales aseguradoras de riesgos a nivel mundial para garantizar la llegada de nuestros ingredientes químicos a las instalaciones de cada cliente. Su confianza en nosotros es esencial, y nos esforzamos continuamente para ofrecer un servicio que proteja su inversión y asegure la continuidad de sus operaciones. En <b style="color:#000020;">Chemical Broker</b>, su éxito y seguridad son nuestra prioridad.</p>
+            <p class="Tipografia--general General--Cuerpo" style="color:black;">En <b>Chemical Broker</b>, la seguridad de nuestros socios comerciales es nuestra máxima prioridad. A través de políticas rigurosas y procesos estandarizados, trabajamos para mitigar los riesgos en cada etapa de la cadena de suministro, asegurando una logística global libre de siniestros.</p>
+            <p class="Tipografia--general General--Cuerpo" style="color:black;">Colaboramos estrechamente con las principales aseguradoras de riesgos internacionales, ofreciendo coberturas personalizadas que garantizan la llegada segura de nuestros ingredientes químicos a las instalaciones de cada cliente, sin importar el destino. Nuestra misión es proteger su inversión y asegurar la continuidad de sus operaciones, minimizando cualquier impacto negativo que pueda surgir durante el tránsito o almacenamiento de los productos.</p>
+            <p class="Tipografia--general General--Cuerpo" style="color:black;">En <b>Chemical Broker</b>, su confianza es esencial, y nos comprometemos a ofrecer un servicio de logística global que no solo cumpla con los estándares más altos de calidad, sino que también respalde la seguridad y estabilidad de su negocio.</p>
             </div>
            </div>
    

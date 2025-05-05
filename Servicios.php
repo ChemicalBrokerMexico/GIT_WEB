@@ -3,8 +3,8 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
-    <title>Chemical Broker | Servicios</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
+    <title>Chemical Broker | Servicios Integrales para la industria quimica</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <meta name="description" content="En Chemical Broker, somos especialistas en la distribucion de ingredientes quimicos a nivel nacional e internacional, ofreciendo soluciones integrales que optimizan cada eslabon de la cadena del suministro">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen"/>
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen"/>
@@ -412,7 +412,7 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-          <p class="Tipografia--general letranegro General--Cuerpo"><b>Chemical Broker</b>, ha desarrollado un proceso integral de servicios, con el principal objetivo de ofrecer <b style="color:#000020">ingredientes químicos</b> de la más alta calidad, a través de una Cadena de Suministros Global, con operaciones de Comercio Internacional (Importaciones y Exportaciones), Logística (Transporte Aéreo, Marítimo, Terrestre y Centros de Distribución), así como de Coberturas de Seguros que mitiguen los riesgos implícitos en la operación.</p>
+          <p class="Tipografia--general letranegro General--Cuerpo">En <b>Chemical Broker</b> somos especialistas en la distribución de ingredientes químicos a mundial, ofreciendo soluciones integrales que optimizan cada eslabón de la cadena de suministro. Nuestra experiencia en el comercio internacional, la logística global y la gestión de coberturas de riesgo nos permite asegurar la continuidad operativa de tu negocio, sin importar el destino ni el desafío logístico.</p>
 
           <div class="col s12 m12 l6 xl6 mercados zoom" style="margin-top:10px"><a href="Cadena_Suministro.php" style="cursor:pointer;">
               <div class="contenedor">
