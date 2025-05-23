@@ -6,24 +6,6 @@
     <title>Chemical Broker | Mercados Atendidos a Nivel Global</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="Chemical Broker atiende globalmente a sus clientes con la venta de ingredientes químicos catalogados como especialidades y commodities">
     <link rel="canonical" href="https://chemicalbroker.mx/Mercados.php">
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
-    <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
-    <link rel="stylesheet" href="css/History_Line.css?n=1">
-    <link rel="stylesheet" href="css/jquery.dataTables.min.css">
-    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
-    <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
-    <script src="js/materialize.js?n=1" type="text/javascript"></script>
-    <script src="js/init.js?n=1"></script>
-    <script src="js/wow.js"></script>
-    <script>new WOW().init();</script>
-    <script type="text/javscript" src="js/materialize.min.js?n=1"></script>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
-        <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.js"></script>
-    <script type="text/javascript" charset="utf8" src="js/Buscador.js?n=1"></script>
-    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/responsive/2.2.6/js/dataTables.responsive.js"></script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -562,6 +544,15 @@
         </div>
       </footer>
       <script type="text/javascript" src="js/main.js"></script>
+          <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+    <script src="js/materialize.js?n=1" type="text/javascript"></script>
+    <script src="js/init.js?n=1"></script>
+    <script type="text/javscript" src="js/materialize.min.js?n=1"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
+    <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
     </div>
   </body>
 </html>

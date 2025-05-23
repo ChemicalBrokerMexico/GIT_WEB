@@ -392,7 +392,7 @@ id="aparece"></i></a></li>
 <div class="container-fluid">
 <div class="slider slider-prueba" style="margin-top:0px">
 <ul class="slides slides-pruea">
-<li> <img src="img/CHAMPU.jpg" alt="" style="height:400px">
+<li> <img src="img/ANTITRANSPIRANTE_120525.jpg" alt="" style="height:400px">
 <div class="caption center-align"><br><br><br><br>
 <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">Antitranspirante</b>
 </div>

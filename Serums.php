@@ -392,7 +392,7 @@ id="aparece"></i></a></li>
 <div class="container-fluid">
 <div class="slider slider-prueba" style="margin-top:0px">
 <ul class="slides slides-pruea">
-<li> <img src="img/CHAMPU.jpg" alt="" style="height:400px">
+<li> <img src="img/SERUM_120525.jpg" alt="" style="height:400px">
 <div class="caption center-align"><br><br><br><br>
 <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">Serums</b>
 </div>
@@ -403,7 +403,7 @@ id="aparece"></i></a></li>
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>  >&nbsp </b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important"><b>Mercados&nbsp </b><b>   >&nbsp </b></a><a class="breditem active" href="Cosmetica_Cuidadopersonal.php" style="color:#262137 !important;margin-left:-2px"><b>Cosmetica & Cuidado Personal ></b></a> <a href="Bloqueadores_Solares.php" style="color:#262137"><b class="Tipografia--general Subtitulos breadcrumb" style="color:red;">Serums Faciales</b></a></section>
+<section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>  >&nbsp </b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important"><b>Mercados&nbsp </b><b>   >&nbsp </b></a><a class="breditem active" href="Cosmetica_Cuidadopersonal.php" style="color:#262137 !important;margin-left:-2px"><b>Cosmetica & Cuidado Personal ></b></a> <a href="Serums.php" style="color:#262137"><b class="Tipografia--general Subtitulos breadcrumb" style="color:red;">Serums Faciales</b></a></section>
 </div>
 </div>
 </div>

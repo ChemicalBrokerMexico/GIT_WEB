@@ -392,7 +392,7 @@ id="aparece"></i></a></li>
 <div class="container-fluid">
 <div class="slider slider-prueba" style="margin-top:0px">
 <ul class="slides slides-pruea">
-<li> <img src="img/CHAMPU.jpg" alt="" style="height:400px">
+<li> <img src="img/BLOQUEADOR_SOLAR_120525.jpg" alt="" style="height:400px">
 <div class="caption center-align"><br><br><br><br>
 <h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">Bloqueadores Solares Faciales</b>
 </div>
@@ -505,7 +505,7 @@ id="aparece"></i></a></li>
 <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Antioxidantes y Activos Funcionales:</b></h2>
 
 <ol>
-    <l class="Elementos--Listas">Vitamina C (ácido ascórbico o derivados)</li>
+    <li class="Elementos--Listas">Vitamina C (ácido ascórbico o derivados)</li>
     <li class="Elementos--Listas">Vitamina E (tocoferol)</li>
     <li class="Elementos--Listas">Niacinamida (vitamina B3)</li>
     <li class="Elementos--Listas">Ácido ferúlico</li>

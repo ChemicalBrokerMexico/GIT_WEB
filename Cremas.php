@@ -416,7 +416,7 @@ id="aparece"></i></a></li>
 
             <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Proceso de Producción:</b></h2>
             <ol>
-                <li class="Elementos--Listas">I+D Cosmético y Dermatológico: Desarrollo de fórmulas innovadoras con propiedades específicas (antioxidantes, calmantes, regeneradoras, etc.).</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">I+D Cosmético y Dermatológico: Desarrollo de fórmulas innovadoras con propiedades específicas (antioxidantes, calmantes, regeneradoras, etc.).</li>
                 <li class="Elementos--Listas">Selección de Ingredientes Activos: Se combinan componentes funcionales con una base cosmética que puede incluir emulsionantes, emolientes y humectantes.</li>
                 <li class="Elementos--Listas">Emulsificación y Homogeneización: Mezcla precisa de fases acuosas y oleosas para lograr una crema estable.</li>
                 <li class="Elementos--Listas">Envasado y Etiquetado: Se utilizan tubos, frascos o dispensadores que protejan la fórmula de la contaminación.</li>
@@ -426,7 +426,7 @@ id="aparece"></i></a></li>
             <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Principales Empresas del Sector:</b></h2>
 
             <ol>
-                <li class="Elementos--Listas">Multinacionales cosméticas: L’Oréal, Estée Lauder, Johnson & Johnson, Beiersdorf (Nivea), Unilever, Procter & Gamble (Olay).</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Multinacionales cosméticas: L’Oréal, Estée Lauder, Johnson & Johnson, Beiersdorf (Nivea), Unilever, Procter & Gamble (Olay).</li>
                 <li class="Elementos--Listas">Marcas dermocosméticas: La Roche-Posay, Avène, Vichy, Eucerin, Cetaphil.</li>
                 <li class="Elementos--Listas">Marcas naturales/emergentes: The Ordinary, Weleda, Burt’s Bees, CeraVe.</li>
             </ol>
@@ -434,7 +434,7 @@ id="aparece"></i></a></li>
             <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Segmentación del Mercado:</b></h2>
 
             <ol>
-                <li class="Elementos--Listas">Por función: Hidratantes, nutritivas, anti-envejecimiento, reafirmantes, aclarantes, calmantes, exfoliantes, etc.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Por función: Hidratantes, nutritivas, anti-envejecimiento, reafirmantes, aclarantes, calmantes, exfoliantes, etc.</li>
                 <li class="Elementos--Listas">Por tipo de piel: Seca, grasa, mixta, sensible, madura.</li>
                 <li class="Elementos--Listas">Por uso: Facial, corporal, manos, pies, cuello, contorno de ojos.</li>
             </ol>
@@ -442,7 +442,7 @@ id="aparece"></i></a></li>
             <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Tendencias del Mercado:</b></h2>
 
             <ol>
-                <li class="Elementos--Listas">Cosmética limpia (clean beauty): Fórmulas sin parabenos, fragancias, colorantes o ingredientes sospechosos.</li>
+                <li class="Elementos--Listas" style="margin-top:30px;">Cosmética limpia (clean beauty): Fórmulas sin parabenos, fragancias, colorantes o ingredientes sospechosos.</li>
                 <li class="Elementos--Listas">Sostenibilidad: Envases reciclables, recargables y fórmulas biodegradables.</li>
                 <li class="Elementos--Listas">Personalización y ciencia de la piel: Cremas formuladas según tipo de piel y estilo de vida, con apoyo de tecnología y pruebas genéticas.</li>
             </ol>
@@ -451,12 +451,12 @@ id="aparece"></i></a></li>
 
             <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Emolientes y Agentes Hidratantes</b></h2>
 
-            <p class="Tipografia--general letranegro General--Cuerpo">Permiten suavizar, proteger e hidratar la piel.</p>
+            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;">Permiten suavizar, proteger e hidratar la piel.</p>
 
             <ol>
-                <li class="Elementos--Listas">Aceites y grasas naturales:
+                <li class="Elementos--Listas" style="margin-top:30px;">Aceites y grasas naturales:
                     <ol>
-                        <li class="Elementos--Listas">Aceite de almendras, jojoba, aguacate, coco, argán.</li>
+                        <li class="Elementos--Listas" style="margin-top:30px;">Aceite de almendras, jojoba, aguacate, coco, argán.</li>
                         <li class="Elementos--Listas">Mantecas como karité o cacao.</li>
                     </ol>
                 </li>
@@ -484,7 +484,7 @@ id="aparece"></i></a></li>
             <p class="Tipografia--general letranegro General--Cuerpo">Dependen de la finalidad de la crema:</p>
 
             <ol>
-                <li class="Elementos--Listas">Anti-envejecimiento:
+                <li class="Elementos--Listas" style="margin-top:30px;">Anti-envejecimiento:
                     <ol>
                         <li class="Elementos--Listas">Retinol (Vitamina A), péptidos, coenzima Q10, ácido ferúlico.</li>
                         <li class="Elementos--Listas">Niacinamida (Vitamina B3): Ilumina y unifica el tono.</li>
@@ -522,7 +522,7 @@ id="aparece"></i></a></li>
             <p class="Tipografia--general letranegro General--Cuerpo">Permiten mezclar el agua y el aceite en una crema y mantener su textura.</p>
             
             <ol>
-                <li class="Elementos--Listas">Emulsionantes:
+                <li class="Elementos--Listas" style="margin-top:50px;">Emulsionantes:
                     <ol>
                         <li class="Elementos--Listas">Cetearyl alcohol, polisorbatos (Polysorbate 20/60/80), lecitina, estearato de glicerilo.</li>
                     </ol>

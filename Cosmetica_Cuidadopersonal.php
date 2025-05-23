@@ -731,10 +731,43 @@
                                             <p class="leer_mas_mercados"> Leer Mas</p>
                                         </b></p>
                                 </h5>
-                            </div><img class="mercadosimagen zoom" src="img/CHAMPU.jpg" alt=""
+                            </div><img class="mercadosimagen zoom" src="img/ANTITRANSPIRANTE_120525.jpg" alt=""
                                 style="width:100%;border-radius:10px;" />
                         </div>
                     </a></div>
+
+                    <div class="col s12 m12 l6 xl6 mercados zoom" style="margin-top:50px;"><a href="Bloqueadores_Solares.php" style="cursor:pointer;">
+                        <div class="contenedor">
+                            <div class="transfo" id="overlaycosme" style="border-radius:10px"></div>
+                            <div class="centrado_sub" style="position:absolute;z-index:2">
+                                <h5 class="titulo_submercado"><b class="titulo_submercado">Bloqueadores Solares</b><b>
+                                    </b>
+                                    <hr class="animacion" />
+                                    <p> <b style="color: white !important">
+                                            <p class="leer_mas_mercados"> Leer Mas</p>
+                                        </b></p>
+                                </h5>
+                            </div><img class="mercadosimagen zoom" src="img/BLOQUEADOR_SOLAR_120525.jpg" alt=""
+                                style="width:100%;border-radius:10px;" />
+                        </div>
+                    </a></div>
+
+                    <div class="col s12 m12 l6 xl6 mercados zoom" style="margin-top:50px;"><a href="Serums.php" style="cursor:pointer;">
+                        <div class="contenedor">
+                            <div class="transfo" id="overlaycosme" style="border-radius:10px"></div>
+                            <div class="centrado_sub" style="position:absolute;z-index:2">
+                                <h5 class="titulo_submercado"><b class="titulo_submercado">Serum</b><b>
+                                    </b>
+                                    <hr class="animacion" />
+                                    <p> <b style="color: white !important">
+                                            <p class="leer_mas_mercados"> Leer Mas</p>
+                                        </b></p>
+                                </h5>
+                            </div><img class="mercadosimagen zoom" src="img/SERUM_120525.jpg" alt=""
+                                style="width:100%;border-radius:10px;" />
+                        </div>
+                    </a></div>
+
             </div>
       
     </div>

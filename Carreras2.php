@@ -1,13 +1,102 @@
-
 <!DOCTYPE html>
-<html>
+<html lang="esp">
+
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Nitruro de Boro del fabricante Saint Gobain </title>
-  <meta name="description" content="El Nitruro de Boro de Saint Gobain es un polvo de grado cosmético muy fino con buena opacidad. Puede impartir una sensación sedosa, suave y lubricante en las formulaciones cosméticas, al tiempo que mejora la difusión.">
+  <meta name="description"
+    content="Comienza tu carrera profesional, en una organizacion comprometida completamente con tu crecimiento profesional unete a nuestro gran equipo en Chemical Broker">
+    <link rel="canonical" href="https://chemicalbroker.mx/Carreras.php">
+  <title>Chemical Broker | Carreras</title>
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
+    integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="css/History_Line.css">
+  <link rel="stylesheet" href="css/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <style>
 
+    .grid-item{
+        width: 20%;
+        margin-bottom:20px;
+    }
+
+    .grid-item img{
+        width:50%;
+        border-radius:10px;
+    }
+
+    .grid{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+    .carousel.carousel-slider{
+        height: 100vh;
+    }
+
+    .carousel-item img{
+        object-fit: cover;
+        height: 100vh;
+        width: 100%;
+    }
+
+    .caption{
+        position: absolute;
+        bottom: 20%;
+        left: 10%;
+        color: white;
+        z-index: 10;
+        text-shadow: 1px 1px 5px #000;
+    }
+
+    .caption h3{
+        font-size: 3rem;
+    }
+
+    .caption p{
+        font-size:1.5rem;
+    }
+
+    .carousel .carousel-item{
+        width: 100%;
+    }
+
+    .carousel .carousel-item img{
+        width: 100%;
+        height: 100vh;
+        object-fit: cover;
+    }
+
+
+
+
+    </style>
+  <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+    crossorigin="anonymous"></script>
+  <script src="js/materialize.js" type="text/javascript"></script>
+  <script src="js/init.js"></script>
+  <script src="js/wow.js"></script>
+  <script>
+    new WOW().init();
+  </script>
+  <script type="text/javscript" src="js/materialize.min.js"></script>
+  <script type="text/javascript"
+    src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+  <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.js">
+  </script>
+  <script type="text/javascript" charset="utf8" src="js/Buscador.js"></script>
+  <script type="text/javascript" charset="utf8"
+    src="https://cdn.datatables.net/responsive/2.2.6/js/dataTables.responsive.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
 
@@ -20,8 +109,8 @@
 </head>
 
 <body>
-  <div class="modal" id="modal1" style="overflow-y:auto;">
-    <div class="modal-content" style="overflow-y:auto;">
+  <div class="modal" id="modal1" style="overflow-y: auto;">
+    <div class="modal-content" style="overflow-y: auto;">
       <h6 class="letranegro"> <b class="tipografia--general Titulos letranegro">Respetamos tu Privacidad</b></h6>
       <p class="General--Cuerpo Tipografia--general letranegro">Este sitio web utiliza cookies. Con la ayuda de las
         cookies, podemos mejorar el rendimiento de nuestro sitio web, analizar la navegacion del sitio web, respaldar
@@ -54,7 +143,7 @@
               <p> <a class="Botones Tipografia--general" href="#" style="color:blue;float:left;">Mas información</a></p>
               <div class="row">
                 <div class="col s12 m12 l12 xl12" style="margin-top:16px"><a
-                    class="modal-close Tipografia--general Botones" href="#!"
+                    class="modal-close Tipografia--general Botones"
                     style="color:white;background-color:#262137 !important;padding:10px;float:left">Permitir Todo </a>
                 </div>
               </div>
@@ -136,11 +225,11 @@
           </div>
         </div>
         <div class="col s12 m12 l4 xl4" style="margin-top:20px"><a
-            class="close_hover letranegro Tipografia--general Botones" href="#!" onclick="denegarCookies();">No Estoy de
+            class="close_hover letranegro Tipografia--general Botones" onclick="denegarCookies();">No Estoy de
             Acuerdo </a></div>
         <div class="col s12 m12 l4 xl4" style="margin-top:20px"><a
-            class="modal-close close_hover letranegro Tipografia--general Botones" href="#!"
-            onclick="aceptarCookies();">Estoy de Acuerdo</a></div>
+            class="modal-close close_hover letranegro Tipografia--general Botones" onclick="aceptarCookies();">Estoy de
+            Acuerdo</a></div>
       </div>
     </div>
   </div>
@@ -179,8 +268,9 @@
                       <h6 class="Tipografia--general Titulos" style="color:white;padding-top:5px;">Enfoque de Negocios
                       </h6>
                       <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7;">Nuestros negocios brindan
-                        servicio a las Industrias Farmacéutica, Alimentaria, Cosmética y del Cuidado Personal y la
-                        Industria Química en general.</p>
+                        servicio a nuestros clientes en las industrias Farmacéutica, Alimentaria y Nutrición Humana,
+                        Alimentaria y Nutrición Animal, Agroquímicos, Cosmética y Cuidado Personal, Detergencia,
+                        Industria Química.</p>
                     </div>
                   </div>
                 </div>
@@ -223,7 +313,7 @@
                           class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a
                         class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas &nbsp<i
                           class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br><a
-                        class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral
+                        class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Total
                         &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
                   </ul>
                 </section>
@@ -238,9 +328,9 @@
                       <li> <a class="arrowblue Tipogradia--general Subtitulos"
                           href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download>Politica de Privacidad <i
                             class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-                            <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
-                                                        id="aparece"></i></a></li>
-                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                      <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de
+                          Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                          <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                     </p>
                   </ul>
@@ -294,16 +384,18 @@
       <ul class="hide-on-med-and-down">
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
             href="Mercados.php"><b>Mercados</b></a></li>
-            <ul id="dropdown3" class="dropdown-content">
-                    <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">
-                            Ingredientes Químicos</a></li>
-           
-                            <li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
-                </ul>
-<li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!" data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a></li>
-        <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos"
-            <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Servicios.php"><b>Servicios</b></a></li>
-<li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i class="material-icons right">arrow_drop_down</i></b></a>
+        <ul id="dropdown3" class="dropdown-content">
+          <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Ingredientes Químicos</a></li>
+          
+          </li>
+          <li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
+        </ul>
+        <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger"
+            data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a></li>
+        <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" <li><a
+              class="elemennav-secun Tipografia--general letranegro Subtitulos"
+              href="Servicios.php"><b>Servicios</b></a></li>
+              <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i class="material-icons right">arrow_drop_down</i></b></a>
 <ul id="dropdown4" class="dropdown-content" tabindex="0">
 <li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Sistema de Gestión Integral</a></li>
 <li tabindex="0"><a href="Marco_Regulatorio.php" class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
@@ -321,7 +413,7 @@
 <li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
 </ul>
       <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i
-            class="material-icons search-mobile-icon margin-left-search-mobile-icon" style="width:0px">search</i></a></div>
+            class="material-icons search-mobile-icon margin-left-search-mobile-icon" style="width:0px;margin-left:-10px">search</i></a></div>
     </div>
   </nav>
   <ul class="collapsible" id="search1" style="display:none">
@@ -373,7 +465,7 @@
                 </tr>
                 <tr>
                   <td style="border:hidden"><a href="Servicio_Total.php"
-                      style="color:black !important;border:hidden">Servicio Integral</a></td>
+                      style="color:black !important;border:hidden">Servicio Total</a></td>
                 </tr>
                 <tr>
                   <td style="border:hidden"><a href="Code_of_Conduct.php"
@@ -478,8 +570,8 @@
                       style="color:white !important;border:hidden">Premisas </a></td>
                 </tr>
                 <tr>
-                  <td style="border:hideen;background-color:#262137"><a href="Servicio_Total.php"
-                      style="color:white !important;border:hidden">Servicio Integrall </a></td>
+                  <td style="border:hidden;background-color:#262137"><a href="Servicio_Total.php"
+                      style="color:white !important;border:hidden">Servicio Total </a></td>
                 </tr>
                 <tr>
                   <td style="border:hidden;background-color:#262137"><a href="Code_of_Conduct.php"
@@ -508,163 +600,91 @@
       </div>
     </div>
   </ul>
-
-
   <div class="container-fluid">
-      <div class="slider slider-prueba" style="margin-top:0px">
-        <ul class="slides slides-pruea">
-          <li><img src="img/NITRURO-BORO-FOTO.jpg" style="height:800px;filter:brightness(0.9)" alt="Historia Ascendente">
-            <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Nitruro de Boro</b><br></h1>
-              <div class="container">
-      
-    </div>
+    <div class="slider slider-prueba" style="margin-top:0px">
+      <ul class="slides slides-pruea">
+        <li> <img src="img/CB_RH_100823.jpg" alt="" style="height:528px;filter:brightness(0.9)">
+          <div class="caption center-align"><br><br><br><br>
+            <h3 class="primertitulo" style="margin-top:-46px;"><b class="boldbanner">Chemical Broker </b><br></h3><b
+              class="segundotitulo" style="font-size: 26px;">Carreras</b>
+            <div class="col s12 m12 l12 xl12" style="margin-top:20px">
+              <a href="#" class="btn tooltipped boton--carreers" data-position="bottom"
+                data-tooltip="Conoce Todas Nuestras Vacantes">Registrate</a>
             </div>
-          </li>
-        </ul>
-      </div>
+            <br>
+          </div>
+        </li>
+      </ul>
     </div>
-
-
-
-
-
-  <div class="container" style="margin-top:130px;">
+  </div>
+  <div class="container">
     <div class="row">
-      <!-- <div class="col s12 m12 l12 xl12">
-<h5 style="margin-top: 30px;"><b class="Tipografia--general letranegro Titulos">Glicerinas</b></h5>
-</div> -->
-      <!-- <div class="col s12 m12 l6 xl6">
-        <img src="img/NITRURO-BORO-FOTO.jpg" class="IMAGE--GLICERINS" alt="Nitruro de Boro">
-      </div>
-      <div class="col s12 m6 l6 xl6" style="margin-top:6px;">
-        <h5 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b
-            style="border-bottom:3px solid #C0C7C7;">Nitruro de Boro</b></h5>
-        <p class="Tipografia--general letranegro General--Cuerpo"><b>El Nitruro de Boro</b> Momentive Softouch es un polvo de grado cosmético muy fino con buena opacidad. Puede impartir una sensación sedosa, suave y lúbricante en las formulaciones cosméticas, al tiempo que mejora la difusión.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo">El nitruro de boro es un sólido inorgánico formado por la unión de un átomo de boro (B) con un átomo de nitrógeno (N). Su fórmula química es BN. Es un sólido blanco muy resistente a altas temperaturas y es un buen conductor del calor. Se emplea por ejemplo para fabricar crisoles de laboratorio.</p> -->
+      <div class="col s12 m12 l12 xl12">
+        <section style="margin-top:125px"><a class="breditem active" href="index.php"
+            style="color:#262137 !important"><b>Inicio&nbsp </b><b> >&nbsp </b></a><a class="breditem active"
+            href="Carreras.php" style="color:#262137 !important"><b style="color:red;">Carreras</a></b></section>
       </div>
     </div>
   </div>
-
- 
-<div class="row">
-<div class="col s12 m12 l12 xl12">
-
-<div style="background-color:#FF0066;height:50px;width:35%;float:right;">
-<span style="color:white;font-size:33px;padding:10px;"><b style="font-weight:bold;">Nitruro de Boro |</b><span style="color:black;"> Powder Solutions</span></span>
-</div>
-
-  </div>
-</div>
-
 
 <div class="container">
-<div class="row">
-<div class="col s12 m12 l12 xl12">
-<section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Nitruro_Boro.php"><b class="Tipografia--general Subtitulos" style="color:black;">Productos > </b></a><a class="active" href="Nitruro_Boro.php"><b class="Tipografia--general Subtitulos" style="color:red;">Nitruro de Boro</b></a></section>
-
-<p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#ff0066">Nitruro de Boro</b> es un compuesto quimico formado por atomos de boro y nitrogeno. Su formula quimica es BN. Este material tiene propiedades interesantes y se utiliza en diversas aplicaciones.</p>
-<h5 class="Tipografia--general letranegro Titulos" style="color:#ff0066;margin-top:50px"><b>Estructura Cristilina:</b></h5>
-<p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#ff0066">Nitruro de Boro</b> puede existir en varias formas, pero las dos principales son el <b style="color:#ff0066">Nitruro de Boro</b> Hexagonal (h-BN) y el <b style="color:#ff0066">Nitruro de Boro</b> Cubico (c-BN).</p>
-<ol class="Elementos--Listas" style="margin-top:30px">
-<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b style="color:#ff0066">Nitruro de Boro Hexagonal</b> (h-BN).- tiene una estructura similar al grafito.</li>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b style="color:#ff0066">Nitruro de Boro Cubico</b> (c-BN).- tiene una estructura similar al diamante.</li>
-</ol>
-<h5 class="Tipografia--general letranegro Titulos" style="color:#ff0066;margin-top:50px"><b>Sintesis:</b></h5>
-<p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#ff0066">Nitruro de Boro</b> se puede sintetizar mediante varios metodos, como la deposicion quimica de vapor (CVD) o la sintesis a alta presion y alta temperatura.</p>
-<h5 class="Tipografia--general letranegro Titulos" style="color:#ff0066;margin-top:50px"><b>Propiedades:</b></h5>
-<h5 class="Tipografia--general letranegro Titulos" style="color:black;margin-top:30px"><b>Nitruro de Boro Hexagonal (h-BN):</b></h5>
-<ol>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Estructura Cristalina</li>
-<br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Dureza</li>
-<br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Autolubricante</li>
-<br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Baja Friccion</li>
-<br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Excelente Aislante Electrico</li>
-<br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Resistencia Termica</li>
-<br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Transparencia Optica</li>
-<br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Estabilidad Quimica</li>
-<br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Baja Conductividad</li>
-</ol>
-<h5 class="Tipografia--general letranegro Titulos" style="color:black;margin-top:50px"><b>Nitruro de Boro Cubico (c-BN):</b></h5>
-<ol>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Dureza</li>
-<br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Conductividad Termica</li>
-<br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Estabilidad Termica</li>
-<br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Resistencia Quimica</li>
-<br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Transparencia Optica</li>
-<br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Aislante Electrico</li>
-<br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Baja Absorcion de Neutrones</li>
-<br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Estabilidad Quimica</li>
-<br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc">Comportamiento Lubricante</li>
-</ol>
-<h5 class="Tipografia--general letranegro Titulos" style="color:#ff0066;margin-top:50px"><b>Aplicaciones:</b></h5>
-<p class="Tipografia--general letranegro Titulos" style="color:black;margin-top:0px"><b>Nitruro de Boro Hexagonal (h-BN):</b></p>
-<ol>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Aislante Termico.- </b> El h-BN tiene una excelente conductividad termica y, al mismo tiempo, es un buen aislante electrico. Esto lo hace util como material en aplicaciones donde se requiere una gestion eficiente de calor, como en dispositivos electronicos avanzados y sistemas de refrigeracion.</li>
-<br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Recubrimientos protectores.- </b> Debido a su estructura hexagonal y propiedades de barrera, el h-BN puede utilizarse como recubrimiento protector en diversas aplicaciones. Por ejemplo, puede aplicarse en la fabricacion de recubrimientos para proteger supérficies contra la corrosion, la abrasion y otros tipos de desgaste.</li>
-<br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Electronica avanzada.- </b> Aunque no conduce la electricidad tan bien como el grafeno, el h-BN es un buen aislante electrico. Esto lo hace adecuado para su uso en dispositivos electronicos donde se requiere una capa aislante entre componentes conductores para prevenir cortocircuitos.</li>
-<br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Optoelectronica.- </b> El h-BN puede utilizarse como lubricante solido en condiciones de alta temperaturay presion. Su estructura laminar le permite actuar como un solido deslizante entre superficies, reduciendo la friccion y el desgaste en aplicaciones industriales.</li>
-<br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Lubricantes solidos.- </b> El h-BN puede utilizarse como lubricante solido en condiciones de alta temperatura y presion. Su estructura laminar le permite actuar como un solido deslizante entre superficies, reduciendo la friccion y el desgaste en aplicaciones industriales.</li>
-<br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Sensores.- </b> Debido a sus propiedades quimicas y termicas, el h-BN puede ser empleado en la fabricacion de sensores para detectar cambios en la temperatura, la presion, y la composicion quimica. Estos sensores podrian tener aplicaciones en la industria automotriz, la monitorizacion ambiental, y la deteccion de gases, entre otros.</li>
-</ol>
-<h5 class="Tipografia--general letranegro Titulos" style="color:black;margin-top:50px"><b>Nitruro de Boro Cubico (c-BN):</b></h5>
-<ol>
-<li class="Elementos--Listas letranegro Tipografia--General" style="list-style-type:disc"><b>Materiales abrasivos de alto rendimiento.- </b> El c-BN es conocido por su dureza excepcional, solo superado por el diamante. Esto lo hace adecuado para aplicaciones en las que se requiere un material abrasivo de alto rendimiento, como herramientas de corte, muelas abrasivas y recubrimientos resistentes al desgaste.</li>
-<br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Componentes Electronicos.- </b> Devido a sus propiedades dielectricas, el nitruro de boro cubico se utiliza en la fabricacion de dispositivos electronicos, especialmente en la formacion de sustratos aislantes para circuitos integrados.</li>
-<br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Recubrimientos protectores.- </b> La resistencia quimica y termica del c-BN lo hace ideal para aplicaciones en las que se requiere un recubrimiento protector. Puede utilizarse en recubrimientos para herramientas, moldes y componentes expuestos a condiciones extremas.</li>
-<br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Optoelectronica.- </b> El Nitruro de Boro cubico tiene propiedades opticas unicas que lo hacen util en aplicaciones de optoelectronica, como ventanas transparentes a la radiacion ultravioleta, lentes y componentes para dispositivos laser.</li>
-<br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Herramientas de corte de alta velocidad.- </b> Debido a su alta conductividad termica y dureza, c-BN se utiliza en herramientas de corte de alta velocidad para mecanizado de materiales duros, como metales endurecidos y aleaciones.</li>
-<br> 
-<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Componentes de Reactores Nucleares.- </b> El c-BN se utiliza en aplicaciones nucleares como material de recubrimiento debido a su capacidad para resistir la corrosion y su baja absorcion de neutrones.</li>
-<br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Lubricantes solidos.- </b> Puede utilizarse como lubricante solido en condiciones extremas de temperaturay presion, proporcionando una capa protectora duradera en aplicaciones industriales y aerosoles.</li>
-<br>
-<li class="Elementos--Listas letranegro" style="list-style-type:disc"><b>Materiales ceramicos avanzados.- </b> Se utiliza en la fabricacion de ceramicas avanzadas y materiales compuestos debido a su alta resistencia y dureza.</li>
-</ol>
-<h5 class="Tipografia--general letranegro Titulos" style="color:black;margin-top:50px"><b style="color:#ff0066">Fabricante:</b></h5>
-<img src="img/SAINT-GOBAIN_BRAND.png" alt="" style="width:15%;margin-top:30px"></img>
-<h5 class="Tipografia--general letranegro Titulos" style="color:black;margin-top:50px"><b style="color:#ff0066">Catalogos:</b></h5>
-<h5 class="Tipografia--general letranegro Titulos" style="color:black;margin-top:30px"><b>Nitruro de Boro Hexagonal (h-BN):</b></h5>
-<ol>
-  <a href="/PDF/SAINT-GOBAIN_BROCHURE_BORON-NITRIDE-POWDER.pdf" style="color:black;cursor:pointer"><li class="Elementos--Listas arrowblue" style="list-style-type:disc;cursor:pointer" download>SAINT-GOBAIN_BROCHURE_BORON-NITRIDE-POWDER.pdf</li></a>
-</ol>
+    <h4 class="center-align">Mi collage</h4>
+    <div class="grid">
+        <div class="grid-item"><img src="img/pasta-dientes-fluor.jpg" alt=""></div>
+        <div class="grid-item"><img src="img/pasta-dientes-fluor.jpg" alt=""></div>
+        <div class="grid-item"><img src="img/pasta-dientes-fluor.jpg" alt=""></div>
+        <div class="grid-item"><img src="img/pasta-dientes-fluor.jpg" alt=""></div>
+        <div class="grid-item"><img src="img/pasta-dientes-fluor.jpg" alt=""></div>
+    </div>
 </div>
-<a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
-    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
-</a>
+
+<div class="container">
+    <div class="row">
+        <div class="col s12 m12 l12 xl12">
+            <div class="carousel carousel-slider center" id="main-carousel" data-indicator="true">
+                <div class="carousel-item red white-text" href="#one"></div>
+                <img src="img/GLICOLES_BANNER_140425.jpg" alt="">
+                <div class="caption">
+                    <h4>Bienvenido</h4>
+                    <p>prueba</p>
+                    <a href="" class="btn waves-effect blue darken-3">Ver mas</a>
+                </div>
+            </div>
+            <div class="carousel carousel-slider center" data-indicator="true">
+                <div class="carousel-item red white-text" href="#two"></div>
+                <img src="img/GLICOLES_BANNER_140425.jpg" alt="">
+                <div class="caption">
+                    <h4>Bienvenido</h4>
+                    <p>prueba</p>
+                    <a href="" class="btn waves-effect blue darken-3">Ver mas</a>
+                </div>
+            </div>
+            <div class="carousel carousel-slider center" data-indicator="true">
+                <div class="carousel-item red white-text" href="#trhee"></div>
+                <img src="img/GLICOLES_BANNER_140425.jpg" alt="">
+                <div class="caption">
+                    <h4>Bienvenido</h4>
+                    <p>prueba</p>
+                    <a href="" class="btn waves-effect blue darken-3">Ver mas</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://unpkg.com/mansory-layout@4/dist/mansory.pkgd.min.js"></script>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function(){
+        new mansory('.grid',{
+            itemSelector: '.grid-item',
+            columnWidth: 'grid-item',
+            percentPosition: true
+        });
+    });
+</script>
+
   
-
-</div>
-</div>
-
-
-
- 
 </body>
 <footer style="margin-top:70px">
   <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
@@ -675,20 +695,21 @@
         href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de
         Privacidad </a>
       <script type="text/javascript" src="js/main.js"></script></a></strong>
+      <script>
+        document.addEventListener('DomContentLoaded', function(){
+            var elems = document.querySelectorAll('.carousel');
+            var instance = M.Carousel.init(elems,{
+                fullWidth: true,
+                indicators:true
+            });
+
+            setInterval(() => {
+                const instance = M.Carousel.getInstance(document.querySelector('.carousel'));
+                instance.next();
+            },5000);
+        });
+    </script>
     </p>
-    <script type="text/javascript" src="js/Products.js"></script>
-    <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
-  <script src="js/materialize.js" type="text/javascript"></script>
-  <script src="js/init.js"></script>
-  <script type="text/javscript" src="js/materialize.min.js"></script>
-  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
-  <link rel="canonical" href="https://chemicalbroker.mx/Nitruro_Boro.php">
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
-  <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
   </div>
 </footer>
 
