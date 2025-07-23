@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
   <title>Chemical Broker | Polisorbato 80</title>
   <meta name="description" content="Chemical Broker distribuye mundialmente Polisorbatos"> 
+  <link rel="canonical" href="https://chemicalbroker.mx/Polisorbato_80.php">
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
   <script>
     window.dataLayer = window.dataLayer || [];

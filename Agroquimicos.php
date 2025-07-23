@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0" />
   <title>Chemical Broker | Mercado Agroquimicos</title>
   <meta name="description" content="Explora nuestras materias primas químicas de alta calidad, diseñadas para impulsar la eficiencia en la industria agroquímica. Ofrecemos soluciones innovadoras y sostenibles que optimizan la producción y potencian el rendimiento de tus productos. ¡Transforma tu negocio con nuestras aplicaciones avanzadas!">
-  <link rel="canonical" href="https://chemicalbroker.mx/pharmaceutical.php">
+  <link rel="canonical" href="https://chemicalbroker.mx/Agroquimicos.php">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
   <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen" />
@@ -550,7 +550,7 @@ recaptchaResponse.value = token;
         <section style="margin-top:125px"><a class="breditem active" href="index.php"
             style="color:#262137 !important"><b>Inicio&nbsp </b><b> >&nbsp </b></a><a class="breditem active"
             href="Mercados.php" style="color:#262137 !important"><b>Mercados&nbsp </b><b>>&nbsp </b></a><a
-            class="breditem active" href="pharmaceutical.php" style="color:red !important;margin-left:-2px"><b
+            class="breditem active" href="agroquimicos.php" style="color:red !important;margin-left:-2px"><b
               class="Tipografia--general Subtitulos">Agroquimicos</b></a></section>
       </div>
     </div>

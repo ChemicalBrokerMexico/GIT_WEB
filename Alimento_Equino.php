@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <meta name="description" content="Chemical Broker Ofrece un amplio portafolio de productos para la industria del alimento equino, con el fin de brindar a sus socios de negocios esxcelente calidad"> 
     <title>Chemical Broker | Alimento Equino</title>
+    <link rel="canonical" href="https://chemicalbroker.mx/Alimento_Equino.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">

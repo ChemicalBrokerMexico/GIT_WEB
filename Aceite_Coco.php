@@ -313,7 +313,7 @@
     </ul>
   </div>
   <div class="row">
-    <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+    <nav style="background-color:#200142;height:137px;margin-top:-35px" role="navigation">
       <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo">
       </div>
     </nav>
@@ -351,7 +351,7 @@
 <div style="display:flex;justify-content:center"> 
 <p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
 </div></a> -->
-<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
+<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:60px;">search</i></a></li>
 </ul>
       <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i
             class="material-icons search-mobile-icon margin-left-search-mobile-icon" style="width:0px;margin-left:-10px;">search</i></a></div>
@@ -437,7 +437,7 @@
       </div>
     </li>
   </ul>
-  <ul class="sidenav" id="mobile-demo" style="background-color:#262137">
+  <ul class="sidenav" id="mobile-demo" style="background-color:#200142">
     <li> <a href="Mercados.php" style="color:white !important"> <i class="small material-icons right"
           style="color:white !important;margin-top:0px !important;">chevron_right</i>
         <p style="color:white !important;">Mercados</p>
@@ -474,7 +474,7 @@
           style="color:white !important;margin-top:-1px !important;">lock</i></a></li>
     </li>
   </ul>
-  <ul class="sidenav" id="mobile-search" style="background-color:#262137">
+  <ul class="sidenav" id="mobile-search" style="background-color:#200142">
     <div class="container grid-search-mobile">
       <p style="color:white">Search<i class="small material-icons right ico-Search"
           style="color:white !important">search</i></p>
@@ -565,12 +565,12 @@
     
         <div class="row">
         
-        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Aceite de Coco</b></a></section>
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Aceite_Coco.php"><b class="Tipografia--general Subtitulos" style="color:red;">Aceite de Coco</b></a></section>
     
 
-            <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020;">Aceite de Coco</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#200142;">Aceite de Coco</b></h2>
             <p class="Tipografia--general letranegro General--Cuerpo">El <b>Aceite de Coco</b> es un Aceite Vegetal derivado de la pulpa del coco (Cocos nucifera). Se obtiene mediante procesos de prensado en frio o extracción con calor de la carne blanca o la copra del coco. Es conocido por su alta concentración de Ácidos Grasos Saturados de cadena media, especialmente Ácido Láurico.</p>
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Características y Propiedades</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#200142;">Características y Propiedades</b></h2>
             <ol>
                 <li class="Elementos--Listas"><b>Ácidos Grasos Saturados. -</b> El Aceite de Coco es una de las fuentes vegetales más ricas en Ácidos Grasos Saturados, con alrededor del 90% de su contenido graso compuesto por estos Ácidos, principalmente Ácido Láurico.</li>
                 <li class="Elementos--Listas" style="margin-top:30px;"><b>Punto de humo alto. -</b> Es adecuado para cocinar a altas temperaturas debido a su alto punto de humo, lo que lo hace popular para freír y hornear.</li>
@@ -579,23 +579,23 @@
                 <li class="Elementos--Listas" style="margin-top:30px;"><b>Beneficios potenciales para la salud. -</b> Se ha investigado su posible papel en la mejora de los niveles de colesterol, el apoyo a la salud cerebral y la función metabólica. Sin embargo, la evidencia científica es mixta y se necesita más investigación para confirmar estos beneficios.</li>
                 <li class="Elementos--Listas" style="margin-top:30px;"><b>Sabor y aroma. -</b> El Aceite de Coco tiene un sabor y aroma característicos a coco, lo que da un toque tropical a los platos y productos en los que se utiliza.</li>
             </ol>
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones:</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#200142;">Aplicaciones:</b></h2>
             <ol>
                 <li class="Elementos--Listas" style="list-style-type:disc;">Excelente para preparaciones de coberturas de chocolate compuestas para helados y dulces refrigerados.</li>
                 <li class="Elementos--Listas" style="list-style-type:disc;margin-top:30px;">Configuración rápida.</li>
                 <li class="Elementos--Listas" style="list-style-type:disc;margin-top:30px;">Flexible y produce recubrimientos que no se desprenden del helado al comerlo.</li>
                 <li class="Elementos--Listas" style="list-style-type:disc;margin-top:30px;">Perfil de fusión nítido, se derrite rápidamente y ofrece una excelente sensación en boca.</li>
             </ol>
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Embalaje:</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#200142;">Embalaje:</b></h2>
             <ol>
                 <li class="Elementos--Listas" style="list-style-type:disc;">Tambores de 180kg o 190 Kg netos.</li>
                 <li class="Elementos--Listas" style="list-style-type:disc;margin-top:30px;">Flexibag o ISO Tanque de 20,000 Kg.</li>
             </ol>
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Almacenamiento:</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#200142;">Almacenamiento:</b></h2>
             <ol>
                 <li class="Elementos--Listas" style="list-style-type:disc;">Es imprescindible conservar el producto en el embalaje original en un lugar fresco y seco.</li>
             </ol>
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Envio:</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#200142;">Envio:</b></h2>
             <ol>
                 <li class="Elementos--Listas" style="list-style-type:disc;">El Aceite de Coco se envía en contenedores, bolsas flexibles o isotanques.</li>
             </ol>

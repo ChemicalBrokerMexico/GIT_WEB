@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
 <meta name="description" content="La industria de las cremas para el cuidado de la piel forma parte del sector cosmético y dermocosmético, y se enfoca en la formulación, fabricación y comercialización de productos destinados a proteger, hidratar, tratar o mejorar el aspecto de la piel.">
 <title>Chemical Broker | Antitranspirante</title>
+<link rel="canonical" href="https://chemicalbroker.mx/Antitranspirante.php">
 <link rel="shortcut icon" href="img/CB_ICON.ico" />
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">

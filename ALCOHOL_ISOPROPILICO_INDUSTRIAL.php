@@ -5,10 +5,8 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <title>Chemical Broker | Alcohol Isopropilico Grado Industrial del Fabricante Lyondell Basell</title>
-    <meta name="description"
-        content="Compra alcohol isopropílico grado industrial de alta pureza, ideal para aplicaciones de limpieza y desinfección en diversas industrias. Ofrecemos un suministro confiable y de calidad, perfecto para tus necesidades profesionales. ¡Asegura la eficiencia de tus operaciones con nuestro producto versátil y seguro!">
-     
-  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
+    <meta name="description" content="Compra alcohol isopropílico grado industrial de alta pureza, ideal para aplicaciones de limpieza y desinfección en diversas industrias. Ofrecemos un suministro confiable y de calidad, perfecto para tus necesidades profesionales. ¡Asegura la eficiencia de tus operaciones con nuestro producto versátil y seguro!">
+     <link rel="canonical" href="https://chemicalbroker.mx/Alcohol_Isopropilico_Industrial.php">
   
   
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>

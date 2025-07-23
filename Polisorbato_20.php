@@ -6,6 +6,7 @@
   <title>Chemical Broker | Polisorbato 20</title>
   <meta name="description" content="Chemical Broker distribuye mundialmente Polisorbatos"> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
+  <link rel="canonical" href="https://chemicalbroker.mx/Polisorbato_20.php">
   <script type="text/javascript"
     src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>

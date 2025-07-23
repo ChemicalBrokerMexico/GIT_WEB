@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <meta name="description" content="Algunos aditivos utilizados en los alimentos para mascotas son necesarios para evitar que los alimentos entren en descomposicion, Chemical Broker ofrece un amplio portafolio de aditivos">
     <title>Chemical Broker | Alimento para Mascotas</title>
+    <link rel="canonical" href="https://chemicalbroker.mx/Alimento_Mascotas.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">

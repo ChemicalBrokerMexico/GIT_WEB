@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
 <meta name="description" content="Diseñar, desarrollar, implementar y controlar los procesos organizacionales que permitan lograr los resultados esperados, optimizando los Recursos Financieros, Humanos y Materiales,">
 <title>Chemical Broker | Cumplimiento</title>
+<link rel="canonical" href="https://chemicalbroker.mx/Area_Cumplimiento.php">
 <link rel="shortcut icon" href="img/CB_ICON.ico" />
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">

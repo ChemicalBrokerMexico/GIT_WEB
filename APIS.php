@@ -4,7 +4,9 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
     <meta name="description" content="Los Activos Farmaceuticos generan una reacción dentro del cuerpo humano que alivia un malestar predeterminado en una determinada cantidad de tiempo">
-    <title>Chemical Broker | APIS</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <title>Chemical Broker | APIS</title>
+    <link rel="canonical" href="https://chemicalbroker.mx/APIS.php">
+    <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen"/>
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen"/>

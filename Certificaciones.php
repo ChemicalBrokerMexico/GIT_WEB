@@ -8,7 +8,7 @@
         content="El Area de Cumplimiento de Chemical Broker Permite Identificar los posibles riesgos de incumplimiento a los que se enfrenta la empresa">
     <title>Chemical Broker | Certificaciones</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <link rel="canonical" href="https://chemicalbroker.mx/Marco_Regulatorio.php">
+    <link rel="canonical" href="https://chemicalbroker.mx/Certificaciones.php">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">

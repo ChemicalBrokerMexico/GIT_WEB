@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
   <title>Chemical Broker | Ácidos Grasos Destilados de Palma</title>
   <meta name="description" content="Ácidos grasos destilados de palma de alta calidad, perfectos para aplicaciones cosméticas, alimentarias e industriales. Ofrecen excelentes propiedades emolientes y estabilizantes. ¡Compra ácidos grasos destilados de palma al mejor precio!"> 
+  <link rel="canonical" href="https://chemicalbroker.mx/Acidos_Grasos_Destilados_Palma.php">
 
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
   <script>

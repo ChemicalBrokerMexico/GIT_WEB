@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
   <title>Chemical Broker | Aceite de Soya RBD</title>
   <meta name="description" content="Aceite de soya RBD de excelente calidad, refinado, blanqueado y desodorizado para un sabor suave y versátil. Ideal para aplicaciones alimentarias e industriales. ¡Adquiere aceite de soya puro y saludable al mejor precio!"> 
-
+  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_RBD.php">
  
    
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>

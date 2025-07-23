@@ -8,17 +8,17 @@
   <meta name="description" content="Descubre la calidad superior de nuestros ésteres de sorbitán, ideales para aplicaciones en la industria cosmética, farmacéutica y alimentaria. Nuestros productos garantizan una excelente estabilidad y rendimiento en emulsiones y formulaciones. Perfectos para mejorar la textura y la compatibilidad de tus productos, nuestros ésteres de sorbitán son la elección confiable para profesionales que buscan innovación y eficacia. ¡Potencia tus fórmulas con nuestros ésteres de sorbitán y marca la diferencia en tu sector!"> 
   <link rel="canonical" href="https://chemicalbroker.mx/Esteres_Sorbitan.php">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
-  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
-  <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="css/History_Line.css">
-  <link rel="stylesheet" href="css/jquery.dataTables.min.css">
-  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
-    <script src="https://code.jquery.com/jquery-3.5.1.js"
-  <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php"/>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus"/>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"/>
+  <link rel="stylesheet" href="css/History_Line.css"/>
+  <link rel="stylesheet" href="css/jquery.dataTables.min.css"/>
+  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css"/>
+  <script src="https://code.jquery.com/jquery-3.5.1.js"/>
+  <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="/>
     crossorigin="anonymous"></script>
   <script src="js/materialize.js" type="text/javascript"></script>
   <script src="js/init.js"></script>
@@ -609,9 +609,9 @@
     <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Productos</b></h2>
 
     <ol>
-        <li class="Elementos--Listas arrowblue" ><a href="Polisorbato_20.php" style="color:black;">Polisorbato 20</a></li>
-        <li class="Elementos--Listas arrowblue" ><a href="Polisorbato_60.php" style="color:black;">Polisorbato 60</a></li>
-        <li class="Elementos--Listas arrowblue" ><a href="Polisorbato_80.php" style="color:black;">Polisorbato 80</a></li>
+        <li class="Elementos--Listas" ><a href="Polisorbato_20.php" class="arrowblue" style="color:black;">Polisorbato 20</a></li>
+        <li class="Elementos--Listas" ><a href="Polisorbato_60.php" class="arrowblue" style="color:black;">Polisorbato 60</a></li>
+        <li class="Elementos--Listas" ><a href="Polisorbato_80.php" class="arrowblue" style="color:black;">Polisorbato 80</a></li>
     </ol>
 
 </div>

@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <meta name="description" content="Dentro de la ganaderia se utilizan diversos tipos de materias primas, Chemical Broker ofrece un amplio portafolio de soluciones, buscando siempre la correcta alimentacion del ganado">
     <title>Chemical Broker | Alimento Vacuno</title>
+    <link rel="canonical" href="https://chemicalbroker.mx/Alimento_Vacuno.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">

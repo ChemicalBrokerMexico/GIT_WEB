@@ -5,6 +5,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
   <title>Chemical Broker | Alcoholes Grasos</title>
+  <link rel="canonical" href="https://chemicalbroker.mx/Alcoholes_Grasos.php">
   <meta name="description" content="Alcoholes grasos de alta pureza, ideales para aplicaciones cosméticas, farmacéuticas e industriales. Excelentes propiedades emolientes y estabilizantes. ¡Compra alcoholes grasos de calidad premium al mejor precio!"> 
 
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>

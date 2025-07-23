@@ -6,6 +6,7 @@
   <meta name="description" content="Los acidulantes son sustancias activas que modifican la acidez de los alimentos y ayudan a reforzar su sabor">
   <title>Chemical Broker | Acidulantes</title>
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
+  <link rel="canonical" href="https://chemicalbroker.mx/Acidulantes.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">

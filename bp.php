@@ -4,6 +4,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
   <title>Chemical Broker | British Pharmacopoeia </title>
+  <link rel="canonical" href="https://chemicalbroker.mx/bp.php">
   <meta name="description" content="La farmacopea británica es una herramienta de referencia vital para todas las personas y organizaciones involucradas en la industria farmacéutica">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">

@@ -9,7 +9,7 @@
     <meta name="description"
         content="Ofrecemos azúcar refinada de alta pureza, perfecta para la industria alimentaria y diversas aplicaciones. Garantiza el sabor y la calidad de tus productos con nuestro azúcar de primera categoría. ¡Aporta dulzura y consistencia a tus creaciones con nuestra oferta confiable y de calidad!.">
         <link rel="shortcut icon" href="img/CB_ICON.ico" />
-  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
+  <link rel="canonical" href="https://chemicalbroker.mx/C-SORBIDEX_SORBITOL.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">

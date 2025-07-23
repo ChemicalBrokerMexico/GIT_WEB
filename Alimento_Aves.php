@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <meta name="description" content="Las dietas de las aves de corral se formulan a partir de una mezcla de ingredientes, entre ellos granos de cereales, subproductos de cereales, grasas, fuentes de proteínas vegetales, suplementos vitamínicos y de minerales,">
     <title>Chemical Broker | Alimento Aves</title>
+    <link rel="canonical" href="https://chemicalbroker.mx/Alimento_Aves.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">

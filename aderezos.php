@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <meta name="description" content="Descubre cómo nuestra empresa, líder en la distribución de ingredientes químicos, ofrece soluciones de alta calidad para la fabricación de aderezos. Desde emulsionantes hasta conservadores, proporcionamos los ingredientes esenciales para crear aderezos sabrosos, estables y de larga duración. ¡Potencia la calidad de tus productos con nuestros ingredientes especializados!"> 
     <title>Chemical Broker | Aderezos</title>
-    <link rel="canonical" href="https://chemicalbroker.mx/Guacamole.php">
+    <link rel="canonical" href="https://chemicalbroker.mx/Aderezos.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -408,7 +408,7 @@
         <div class="row">
             <div class="col s12 m12 l12 xl12">
 
-            <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Salsas.php"><b class="Tipografia--general Subtitulos" style="color:red;">Aderezos</b></a></section>
+            <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="aderezos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Aderezos</b></a></section>
 
             </div>
         </div>

@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
   <title>Chemical Broker | Polisorbato 60</title>
   <meta name="description" content="Chemical Broker distribuye mundialmente Polisorbatos"> 
+  <link rel="canonical" href="https://chemicalbroker.mx/Polisorbat_60.php">
   <script type="text/javascript"
     src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
 
