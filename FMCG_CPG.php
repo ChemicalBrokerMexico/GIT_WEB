@@ -211,7 +211,7 @@
       <div class="nav-wrapper flex"><a class="sidenav-trigger" href="#" data-target="mobile-demo"><i class="material-icons" style="color:black">menu</i></a><span class="Pmenu" style="color:black !important;">Menu</span>
         <ul class="hide-on-med-and-down">
           <li> <a class="elemennav-secun" href="Mercados.php" style="color:black !important"><b>Mercados</b></a></li>
-                 <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Ingredientes Químicos</a>
+                 <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a>
           </li>
           
 <li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 

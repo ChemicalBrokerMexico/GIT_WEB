@@ -6,6 +6,7 @@
     <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos.">
     <title>Chemical Broker | Medicamentos Terapeuticos para mascotas</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="Algunas organizaciones buscan vender mas, nosotros buscamos crecer en conjunto con nuestros socios de negocios, conoce nuestra marca.">
+    <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link rel="canonical" href="https://chemicalbroker.mx/Medicamentos_Terapeuticos.php">
     <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
     <script>
@@ -205,7 +206,7 @@
         <ul class="hide-on-med-and-down">
           <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Mercados.php"><b>Mercados</b></a></li>
           <ul id="dropdown3" class="dropdown-content" style="width:300px !important;">
-                 <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Ingredientes Químicos</a>
+                 <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a>
           </li>
           
 <li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 

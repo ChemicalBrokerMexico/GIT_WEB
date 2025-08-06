@@ -8,8 +8,6 @@
   <meta name="description" content="Descubre los usos, beneficios y aplicaciones de los sulfosuccinatos en nuestra completa guía. Los sulfosuccinatos son compuestos químicos versátiles ampliamente utilizados en diversas industrias, desde productos de cuidado personal hasta aplicaciones industriales. Conoce más sobre cómo los sulfosuccinatos pueden mejorar tus productos y procesos aquí.""> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/Sulfosuccinatos.php">
-
-
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -299,7 +297,7 @@
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
             href="Mercados.php"><b>Mercados</b></a></li>
         <ul id="dropdown3" class="dropdown-content">
-                    <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Ingredientes Químicos</a>
+                    <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a>
           </li>
           
 <li><a href="Catalogos_Productos" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 

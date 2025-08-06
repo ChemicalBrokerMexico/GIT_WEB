@@ -371,7 +371,7 @@
                         href="Mercados.php"><b>Mercados</b></a></li>
                 <ul id="dropdown3" class="dropdown-content">
                     <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">
-                            Ingredientes Quimímicos</a></li>
+                            Familias</a></li>
                     <li><a href="Product_List.php" class="Tipografia--general letranegro Subtitulos">Lista de
                             Catalogos</a></li>
                 </ul>

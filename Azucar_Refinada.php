@@ -8,7 +8,6 @@
   <meta name="description" content="Endulza tus productos con azúcar refinada de máxima pureza. Ideal para aplicaciones alimentarias e industriales, ofrece un sabor suave y uniforme que realza tus recetas y formulaciones. ¡Compra azúcar refinada de calidad premium al mejor precio!."> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/Azucar_Refinada.php">
- 
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -368,7 +367,7 @@
                         href="Mercados.php"><b>Mercados</b></a></li>
                 <ul id="dropdown3" class="dropdown-content" style="width:300px !important;">
                     <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos"
-                            style="width:200px;">Ingredientes Químicos</a></li>
+                            style="width:200px;">Familias</a></li>
                     <!-- <li><a href="Product_List.php" class="Tipografia--general letranegro Subtitulos" style="width:200px;">Lista de Productos</a></li> -->
                     <li><a href="Catalogos_Productos.php"
                             class="Tipografia--general letranegro Subtitulos">Catalogos</a></li>

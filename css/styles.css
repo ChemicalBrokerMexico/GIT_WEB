@@ -2179,7 +2179,7 @@ font-size: 12px;
     }
     
     .search-mobile-icon {
-        margin-left: -54px;
+        margin-left: -11px;
         margin-top: -44px
     }
 
@@ -2278,7 +2278,7 @@ font-size: 12px;
 
 }
 
-@media only screen and (min-width: 768px) and (max-width:991px) {
+@media only screen and (min-width: 768px) and (max-width:1280px) {
     
     .videos_mercados{
         width:139%;
@@ -2523,7 +2523,7 @@ font-size: 12px;
     }
 
     .search-mobile-icon {
-        margin-left: -60px;
+        margin-left: -14px;
         margin-top: -44px
     }
 

@@ -382,7 +382,7 @@
                         data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a>
                     <ul id="dropdown3" class="dropdown-content" tabindex="0">
                         <li tabindex="0"><a href="Productos_news.php"
-                                class="Tipografia--general letranegro Subtitulos">Ingredientes Químicos</a></li>
+                                class="Tipografia--general letranegro Subtitulos">Familias</a></li>
                       
                         <li><a href="Catalogos_Productos.php"
                                 class="Tipografia--general letranegro Subtitulos">Catalogos</a></li>

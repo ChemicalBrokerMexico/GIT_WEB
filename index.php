@@ -44,7 +44,7 @@
           <div class="col s12 m12 l4 xl4" style="margin-top:20px"><a class="modal-trigger close_hover Tipografia--general letranegro Botones" href="#modal2">Configuracion</a>
             <div class="modal" id="modal2" style="overflow-x:hidden">
               <div class="modal-content">
-                <h6 class="letranegro"> <b class="Tipografia--general letranegro Titulos" style="float:left;">Centro de Preferencias de Privacidad       </b></h6>
+                <h6 class="letranegro"> <b class="Tipografia--general letranegro Titulos" style="float:left;">Centro de Preferencias de Privacidad</b></h6>
                 <p class="Tipografia--general letranegro General--Cuerpo" style="float:left;">Cuando visita cualquier sitio web, puede almacenar o recuperar información en su navegador, principalmente en forma de cookies. Esta información puede ser sobre usted, sus preferencias o su dispositivo y se utiliza principalmente para hacer que el sitio funcione como espera. Por lo general, la informacion no lo identifica directamente, pero puede brindarle una experiencia web mas personalizada. Debido a que respetamos su derecho a la privacidad, puede optar por no permitir algunos tipos de cookies. Haga clic en los titulos de las diferentes categorías para obtener más información y cambiar nuestra configuración predeterminada. Sin embargo, bloquear algunos tipos de cookies puede afectar su experiencia en el sitio y los servicios que podemos ofrecer.</p>
                 <p> <a class="Botones Tipografia--general" href="#" style="color:blue;float:left;">Mas información</a></p>
                 <div class="row">
@@ -223,8 +223,8 @@
         <ul class="hide-on-med-and-down">
           <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Mercados.php"><b>Mercados</b></a></li>
           <ul id="dropdown3" class="dropdown-content" style="width:300px !important;">
-                 <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Ingredientes Químicos</a>
-          </li>
+                 <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a>
+</li>
           
 <li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
 </ul>

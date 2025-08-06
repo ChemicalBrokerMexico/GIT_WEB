@@ -3,7 +3,7 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <meta name="description" content="Chemical Broker Ofrece un amplio portafolio de productos para la industria del alimento equino, con el fin de brindar a sus socios de negocios esxcelente calidad"> 
+    <meta name="description" content="Chemical Broker Ofrece un amplio portafolio de productos para la industria del alimento equino, con el fin de brindar a sus socios de negocios excelente calidad"> 
     <title>Chemical Broker | Alimento Equino</title>
     <link rel="canonical" href="https://chemicalbroker.mx/Alimento_Equino.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
@@ -223,7 +223,7 @@
         <ul class="hide-on-med-and-down">
           <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Mercados.php"><b>Mercados</b></a></li>
           <ul id="dropdown3" class="dropdown-content" style="width:300px !important;">
-                 <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Ingredientes Químicos</a>
+                 <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a>
           </li>
           
 <li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
