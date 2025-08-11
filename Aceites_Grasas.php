@@ -743,7 +743,7 @@
                                             </b></p>
 
                                     </div>
-                                    <img class="mercadosimagen" src="img/CANOLA_ACEITE.jpg" alt="" style="border-radius:10px" />
+                                    <img class="mercadosimagen" src="img/CBM_IMAGEN_NO_1_ACEITE-MAIZ-RBD.png" alt="" style="border-radius:10px" />
                                     <!-- <img class="mercadosimagen" src="img/FARMACEUTICA_CB.jpg" alt="" style="border-radius:10px">  IMPORTANTE-REDIMENSIONAR IMAGEN A 1920X1080-->
                                 </div>
                             </a></div>
@@ -775,7 +775,7 @@
                                     <div class="transfo" id="overlay" style="border-radius:10px"></div>
                                     <div class="centrado_sub" style="position:absolute;z-index:2">
                                         <h5 class="titulo_submercado"></h5><b class="titulo_submercado"> <span
-                                                style="position:relative;z-index:2">Aceite de Palmiste RBD </span></b><b> </b>
+                                                style="position:relative;z-index:2">Aceite de <br/>Palmiste RBD </span></b><b> </b>
                                         <hr class="animacion">
                                         <p><b style="color:white !important">
                                                 <p class="leer_mas_mercados center-align botones"> Leer Mas</p>
@@ -794,7 +794,7 @@
                                     <div class="transfo" id="overlay" style="border-radius:10px"></div>
                                     <div class="centrado_sub" style="position:absolute;z-index:2">
                                         <h5 class="titulo_submercado"></h5><b class="titulo_submercado"> <span
-                                                style="position:relative;z-index:2">Aceite de Soya RBD </span></b><b> </b>
+                                                style="position:relative;z-index:2">Aceite de <br/>Soya RBD </span></b><b> </b>
                                         <hr class="animacion">
                                         <p><b style="color:white !important">
                                                 <p class="leer_mas_mercados center-align botones"> Leer Mas</p>
@@ -813,7 +813,7 @@
                                     <div class="transfo" id="overlay" style="border-radius:10px"></div>
                                     <div class="centrado_sub" style="position:absolute;z-index:2">
                                         <h5 class="titulo_submercado"></h5><b class="titulo_submercado"> <span
-                                                style="position:relative;z-index:2">Estearina de Palma Alto Hidrogenado RBD </span></b><b> </b>
+                                                style="position:relative;z-index:2">Estearina de <br/>Palma Alto <br/>Hidrogenado RBD </span></b><b> </b>
                                         <hr class="animacion">
                                         <p><b style="color:white !important">
                                                 <p class="leer_mas_mercados center-align botones"> Leer Mas</p>
@@ -832,14 +832,14 @@
                                     <div class="transfo" id="overlay" style="border-radius:10px"></div>
                                     <div class="centrado_sub" style="position:absolute;z-index:2">
                                         <h5 class="titulo_submercado"></h5><b class="titulo_submercado"> <span
-                                                style="position:relative;z-index:2">Oleina de Palma RBD</span></b><b> </b>
+                                                style="position:relative;z-index:2">Oleina de <br/>Palma RBD</span></b><b> </b>
                                         <hr class="animacion">
                                         <p><b style="color:white !important">
                                                 <p class="leer_mas_mercados center-align botones"> Leer Mas</p>
                                             </b></p>
 
                                     </div>
-                                    <img class="mercadosimagen" src="img/CANOLA_ACEITE.jpg" alt="" style="border-radius:10px" />
+                                    <img class="mercadosimagen" src="img/OLEINA_PALMA_060825.jpg" alt="" style="border-radius:10px" />
                                     <!-- <img class="mercadosimagen" src="img/FARMACEUTICA_CB.jpg" alt="" style="border-radius:10px">  -->
                                 </div>
                             </a></div>
@@ -851,7 +851,7 @@
                                     <div class="transfo" id="overlay" style="border-radius:10px"></div>
                                     <div class="centrado_sub" style="position:absolute;z-index:2">
                                         <h5 class="titulo_submercado"></h5><b class="titulo_submercado"> <span
-                                                style="position:relative;z-index:2">Sebo Alto Hidrogenado RBD</span></b><b> </b>
+                                                style="position:relative;z-index:2">Sebo Alto <br/>Hidrogenado RBD</span></b><b> </b>
                                         <hr class="animacion">
                                         <p><b style="color:white !important">
                                                 <p class="leer_mas_mercados center-align botones"> Leer Mas</p>
