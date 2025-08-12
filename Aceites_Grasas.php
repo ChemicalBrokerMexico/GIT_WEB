@@ -644,10 +644,10 @@
     <div class="container" style="margin-top:130px;">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
-                <section style="margin-top:30px;"><a href="index.php"
+                <section style="margin-top:30px;width:316px;"><a href="index.php"
                         style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active"
                         href="Productos_news.php"><b class="Tipografia--general Subtitulos"
-                            style="color:black;">Productos > </b></a><a class="active" href="Glycerins.php"><b
+                            style="color:black;">Productos > </b></a><a class="active" href="Aceites_Grasas.php"><b
                             class="Tipografia--general Subtitulos" style="color:red;">Aceites y Grasas</b></a></section>
             </div>
         </div>
@@ -657,30 +657,23 @@
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
-                <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#BF8F00;"><b>Aceites y
-                        Grasas</b></h2>
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#BF8F00;"><b>Aceites y Grasas</b></h2>
 
                 <p class="Tipografia--general letranegro General--Cuerpo">El negocio de <b style="color:#BF8F00;">Aceites y Grasas</b> Comestibles de
                     <b style="color:#200142;">Chemical Broker</b> se especializa en ofrecer a sus clientes soluciones en aplicación, uso y manejo de
                     aceites y grasas.</p>
 
-                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;">Nuestros productos son usados ampliamente en
-                    la industria alimentaria, Estamos comprometidos en involucrar los más exigentes sistemas de
-                    aseguramiento de calidad para ofrecer productos salubres, funcionales y adecuados a las necesidades
-                    de nuestros clientes.</p>
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;">Nuestros productos son usados ampliamente en la industria alimentaria, Estamos comprometidos en involucrar los más exigentes sistemas de aseguramiento de calidad para ofrecer productos salubres, funcionales y adecuados a las necesidades de nuestros clientes.</p>
 
-                <h3 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;">Nuestros productos cubren una amplia gama de
-                    aplicaciones alimenticias y no alimenticias en diferentes líneas de <b style="color:200142;">especialización</b>, entre ellas:
+                <h3 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b style="color:#200142;">Nuestros productos cubren una amplia gama de
+                    aplicaciones alimenticias y no alimenticias en diferentes líneas de <b style="color:200142;">especialización</b>, entre ellas:</b>
                 </h3>
 
                 <ol>
                     <li class="Elementos--Listas" style="margin-top:30px;">Freído ligero, pre-freído y freído profundo.</li>
-                    <li class="Elementos--Listas">Panificación, batidos, rellenos, betunes, coberturas y grasas especializadas para repostería
-                        fina.</li>
-                    <li class="Elementos--Listas">Lácteos, quesos, leches reconstituidas, cremas batidas, bases de margarina, bases de helado,
-                        aceites líquidos para mayonesas, aderezos, enlatados y salsas.</li>
-                    <li class="Elementos--Listas">Aceites y grasas de grado técnico para aplicaciones farmacéuticas, resinas, pinturas,
-                        desmoldantes industriales de grado alimenticio.</li>
+                    <li class="Elementos--Listas">Panificación, batidos, rellenos, betunes, coberturas y grasas especializadas para repostería fina.</li>
+                    <li class="Elementos--Listas">Lácteos, quesos, leches reconstituidas, cremas batidas, bases de margarina, bases de helado, aceites líquidos para mayonesas, aderezos, enlatados y salsas.</li>
+                    <li class="Elementos--Listas">Aceites y grasas de grado técnico para aplicaciones farmacéuticas, resinas, pinturas, desmoldantes industriales de grado alimenticio.</li>
                 </ol>
 
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;">En <b style="color:200142;">Chemical Broker</b> contamos con un profundo
@@ -716,7 +709,7 @@
                                     <div class="transfo" id="overlay" style="border-radius:10px"></div>
                                     <div class="centrado_sub" style="position:absolute;z-index:2">
                                         <h5 class="titulo_submercado"></h5><b class="titulo_submercado"> <span
-                                                style="position:relative;z-index:2">Aceite Canola RBD </span></b><b> </b>
+                                                style="position:relative;z-index:2">Aceite de<br>Canola RBD </span></b><b> </b>
                                         <hr class="animacion">
                                         <p><b style="color:white !important">
                                                 <p class="leer_mas_mercados center-align botones"> Leer Mas</p>
@@ -736,7 +729,7 @@
                                     <div class="transfo" id="overlay" style="border-radius:10px"></div>
                                     <div class="centrado_sub" style="position:absolute;z-index:2">
                                         <h5 class="titulo_submercado"></h5><b class="titulo_submercado"> <span
-                                                style="position:relative;z-index:2">Aceite de Maiz RBD </span></b><b> </b>
+                                                style="position:relative;z-index:2">Aceite de <br>Maiz RBD </span></b><b> </b>
                                         <hr class="animacion">
                                         <p><b style="color:white !important">
                                                 <p class="leer_mas_mercados center-align botones"> Leer Mas</p>
@@ -755,7 +748,7 @@
                                     <div class="transfo" id="overlay" style="border-radius:10px"></div>
                                     <div class="centrado_sub" style="position:absolute;z-index:2">
                                         <h5 class="titulo_submercado"></h5><b class="titulo_submercado"> <span
-                                                style="position:relative;z-index:2">Aceite de Palma RBD </span></b><b> </b>
+                                                style="position:relative;z-index:2">Aceite de <br>Palma RBD </span></b><b> </b>
                                         <hr class="animacion">
                                         <p><b style="color:white !important">
                                                 <p class="leer_mas_mercados center-align botones"> Leer Mas</p>

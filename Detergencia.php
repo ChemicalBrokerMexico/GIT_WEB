@@ -405,7 +405,7 @@ recaptchaResponse.value = token;
               <h3 class="primertitulo"><b class="boldbanner">Chemical Broker</b><br/></h3><b class="segundotitulo" style="font-size:26px;color:white">Detergencia </b>
             </div>
           <li>   <video class="videos_mercados" style="border-radius:10px;" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
-                  <source class="mercadosimagen" src="VIDEO/DETERGENTES.mp4" type="video/mp4">
+                  <source class="mercadosimagen" src="VIDEO/DETERGENTES2.mp4" type="video/mp4">
                 </video> 
          
           </li>

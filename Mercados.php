@@ -417,7 +417,7 @@
 
                 </div>
                 <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
-                  <source class="mercadosimagen" src="VIDEO/Farma.mp4" type="video/mp4">
+                  <source class="mercadosimagen" src="VIDEO/PHARMA2.mp4" type="video/mp4">
                 </video> 
                 <!-- <img class="mercadosimagen" src="img/FARMACEUTICA_CB.jpg" alt="" style="border-radius:10px">  -->
               </div></a></div>
@@ -435,7 +435,7 @@
                   </h2>
                 </div>
                 <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
-                  <source class="mercadosimagen" src="VIDEO/Veterinaria.mp4" type="video/mp4">
+                  <source class="mercadosimagen" src="VIDEO/VET2.mp4" type="video/mp4">
                 </video> 
                 <!-- <img class="mercadosimagen" src="img/CB_VETERINARIA_070621.jpg" alt="" style="border-radius:10px">  -->
               </div></a></div>
@@ -452,7 +452,7 @@
                   </h2>
                 </div>
                 <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
-                  <source class="mercadosimagen" src="VIDEO/NUTRICION_HUMANA.mp4" type="video/mp4">
+                  <source class="mercadosimagen" src="VIDEO/NUTRICION_HUMANA2.mp4" type="video/mp4">
                 </video> 
                 <!-- <img class="mercadosimagen" src="img/CB_FOOD_080223.jpg" alt="" style="border-radius:10px"> -->
               </div></a></div>
@@ -470,7 +470,7 @@
                   </h2>
                 </div>
                 <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
-                  <source class="mercadosimagen" src="VIDEO/ALIMENTO_ANIMAL_2024.mp4" type="video/mp4">
+                  <source class="mercadosimagen" src="VIDEO/ALIMENTO_ANIMAL2.mp4" type="video/mp4">
                 </video> 
                 <!-- <img class="mercadosimagen" src="img/CB_ALIMENTO_ANIMAL_090223.jpg" alt="" style="border-radius:10px"> -->
               </div></a></div>
@@ -485,7 +485,7 @@
                   </h2>
                 </div>
                 <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
-                  <source class="mercadosimagen" src="VIDEO/AGRICULTURA.mp4" type="video/mp4">
+                  <source class="mercadosimagen" src="VIDEO/AGRICULTURA3.mp4" type="video/mp4">
                 </video> 
 
                 <!-- <img class="mercadosimagen" src="img/AGRICULTURE_310122.jpeg" alt="" style="border-radius:10px"> -->
@@ -516,7 +516,7 @@
                   </h2>
                 </div>
                 <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
-                  <source class="mercadosimagen" src="VIDEO/DETERGENTES.mp4" type="video/mp4">
+                  <source class="mercadosimagen" src="VIDEO/DETERGENTES2.mp4" type="video/mp4">
                 </video> 
                 <!-- <img class="mercadosimagen" src="img/CB_DETERGENCIA.jpg" alt="" style="border-radius:10px"> -->
               </div></a></div>
@@ -537,6 +537,9 @@
               </div></a></div>
         </div>
       </div>
+
+
+
       <footer class="altofooter">
         <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg" alt=""></div><br><br>
         <div class="container-fluid center-align" style="margin-top:-50px">
