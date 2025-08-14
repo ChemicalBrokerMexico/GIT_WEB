@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html>
+
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
   <title>Chemical Broker | Lectinas de Cargill</title>
-  <meta name="description" content="Chemical Broker Brinda a sus socios de negocios Lecitinas de la mas alta calidad del fabricante Cargill">
+  <meta name="description"
+    content="Chemical Broker Brinda a sus socios de negocios Lecitinas de la mas alta calidad del fabricante Cargill">
   <meta http-equiv="Expires" content="0">
   <meta http-equiv="Last-Modified" content="0">
   <meta http-equiv="Cache-Control" content="no-cache, mustrevalidate">
@@ -14,8 +16,10 @@
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
+    integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -26,6 +30,31 @@
     gtag('js', new Date());
     gtag('config', 'G-SGJQ8FDDJ6');
   </script>
+
+  <style>
+    .carousel.carousel-slider {
+      height: 500px;
+    }
+
+    .carousel-item img {
+      object-fit: cover;
+      height: 100%;
+    }
+
+   
+    .image-segment {
+      flex: 1;
+      overflow: hidden;
+    }
+
+    .image-segment img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
+     </style>
 </head>
 
 <body>
@@ -247,11 +276,19 @@
                       <li> <a class="arrowblue Tipogradia--general Subtitulos"
                           href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download>Politica de Privacidad <i
                             class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-                            <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
-                                                        id="aparece"></i></a></li>
-                                                          <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                      <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de
+                          Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                      <li><a class="arrowblue Tipografia--general Subtitulos"
+                          href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de
+                          Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                      <li><a class="arrowblue Tipografia--general Subtitulos"
+                          href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de
+                          Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
+                            id="aparece"></i></a></li>
+                      <li><a class="arrowblue Tipografia--general Subtitulos"
+                          href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de
+                          Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
+                            id="aparece"></i></a></li>
                     </p>
                   </ul>
                 </section>
@@ -305,10 +342,10 @@
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
             href="Mercados.php"><b>Mercados</b></a></li>
         <ul id="dropdown3" class="dropdown-content">
-                    <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a>
+          <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a>
           </li>
-          
-<li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
+
+          <li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li>
           </li>
         </ul>
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!"
@@ -316,25 +353,35 @@
         <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" <li><a
               class="elemennav-secun Tipografia--general letranegro Subtitulos"
               href="Servicios.php"><b>Servicios</b></a></li>
-<li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i class="material-icons right">arrow_drop_down</i></b></a>
-<ul id="dropdown4" class="dropdown-content" tabindex="0">
-<li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Sistema de Gestión Integral</a></li>
-<li tabindex="0"><a href="Marco_Regulatorio.php" class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
-  <li tabindex="0"><a href="Certificaciones.php" class="Tipografia--general letranegro Subtitulos">Certificaciones</a></li>
-</ul></li>
+        <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger"
+            data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i
+                class="material-icons right">arrow_drop_down</i></b></a>
+          <ul id="dropdown4" class="dropdown-content" tabindex="0">
+            <li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Sistema de
+                Gestión Integral</a></li>
+            <li tabindex="0"><a href="Marco_Regulatorio.php" class="Tipografia--general letranegro Subtitulos">Marco
+                Regulatorio</a></li>
+            <li tabindex="0"><a href="Certificaciones.php"
+                class="Tipografia--general letranegro Subtitulos">Certificaciones</a></li>
+          </ul>
+        </li>
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Contact.php"><b>Contacto
             </b></a></li>
       </ul>
     </div>
     <div>
-    <ul><!--  <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="chemicalbroker.mx/Vista/Principal.php" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock color--blanco" style="margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock color--blanco" style="display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
+      <ul>
+        <!--  <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="chemicalbroker.mx/Vista/Principal.php" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock color--blanco" style="margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock color--blanco" style="display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
 <div style="display:flex;justify-content:center"> 
 <p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
 </div></a> -->
-<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
-</ul>
+        <li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i
+              class="material-icons left search-desktop-icon letranegro"
+              style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
+      </ul>
       <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i
-            class="material-icons search-mobile-icon margin-left-search-mobile-icon" style="width:0px">search</i></a></div>
+            class="material-icons search-mobile-icon margin-left-search-mobile-icon" style="width:0px">search</i></a>
+      </div>
     </div>
   </nav>
   <ul class="collapsible" id="search1" style="display:none">
@@ -524,59 +571,263 @@
 
 
   </ul>
-    <div class="container-fluid">
-      <div class="slider slider-prueba" style="margin-top:0px">
-        <ul class="slides slides-pruea">
-          <li><img src="img/LECITINAS_5.jpg" style="height:800px;" alt="Historia Ascendente">
-            <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Lecitinas</b><br></h1>
-              <div class="container">
-      
-    </div>
+  <div class="container-fluid">
+    <div class="slider slider-prueba" style="margin-top:0px">
+      <ul class="slides slides-pruea">
+        <li><img src="img/LECITINAS_5.jpg" style="height:800px;" alt="Historia Ascendente">
+          <div class="caption center-align"><br><br><br><br>
+            <h1 class="primertitulo"><b class="boldbanner">Lecitinas</b><br></h1>
+            <div class="container">
+
             </div>
-          </li>
-        </ul>
-      </div>
+          </div>
+        </li>
+      </ul>
     </div>
+  </div>
 
 
 
- 
+
 
   <div class="container">
     <div class="row">
       <div class="col s12 m12 l12 xl12" style="margin-top:100px;">
 
-      <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Products_news.php"><b class="Tipografia--general Subtitulos" style="color:black;">Productos > </b></a><a class="active" href="Lecitinas_Cargill.php"><b class="Tipografia--general Subtitulos" style="color:red;">Lecitinas</b></a></section>
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp
+            </b></a><a class="active" href="Products_news.php"><b class="Tipografia--general Subtitulos"
+              style="color:black;">Productos > </b></a><a class="active" href="Lecitinas_Cargill.php"><b
+              class="Tipografia--general Subtitulos" style="color:red;">Lecitinas</b></a></section>
 
 
-      <h1 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#200142">Lecitinas</b></h1>
+        <h1 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#200142">Lecitinas</b></h1>
 
-      <p class="Tipografia--general letranegro General--Cuerpo">Este emulsionante vegetal, versátil y de fácil etiquetado, parece ser la solución perfecta. La lecitina mejora la mezcla y la retención de humedad, así como la liberación y flexibilidad de la masa en panadería, mejora la textura en boca en alternativas lácteas, aumenta la viscosidad y reduce el uso de manteca de cacao en el chocolate, puede servir como agente desmoldante, como sustituto de emulsionantes sintéticos, y dispersa ingredientes que retienen grasa y agua en aplicaciones instantáneas. La lecitina también tiene múltiples usos en alimentos para mascotas, aplicaciones industriales y cosméticas/de cuidado personal.</p>
+        <p class="Tipografia--general letranegro General--Cuerpo">Este emulsionante vegetal, versátil y de fácil
+          etiquetado, parece ser la solución perfecta. La lecitina mejora la mezcla y la retención de humedad, así como
+          la liberación y flexibilidad de la masa en panadería, mejora la textura en boca en alternativas lácteas,
+          aumenta la viscosidad y reduce el uso de manteca de cacao en el chocolate, puede servir como agente
+          desmoldante, como sustituto de emulsionantes sintéticos, y dispersa ingredientes que retienen grasa y agua en
+          aplicaciones instantáneas. La lecitina también tiene múltiples usos en alimentos para mascotas, aplicaciones
+          industriales y cosméticas/de cuidado personal.</p>
 
-      <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#200142">Funcionalidad robusta y fácil de etiquetar</b></h2>
+        <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#200142">Funcionalidad robusta y
+            fácil de etiquetar</b></h2>
 
-      <ol>
-        <li class="Elementos--Listas">Estabiliza emulsiones, tanto de aceite en agua como de agua en aceite</li>
-        <li class="Elementos--Listas">Mejora la textura, la sensación en boca y la viscosidad en diversas aplicaciones</li>
-        <li class="Elementos--Listas">Humecta y mezcla uniformemente los ingredientes secos para formar una solución</li>
-        <li class="Elementos--Listas">Agente desmoldante eficaz para la fabricación y cocción de alimentos</li>
-        <li class="Elementos--Listas">Antioxidante para una mayor vida útil</li>
-      </ol>
+        <ol>
+          <li class="Elementos--Listas">Estabiliza emulsiones, tanto de aceite en agua como de agua en aceite</li>
+          <li class="Elementos--Listas">Mejora la textura, la sensación en boca y la viscosidad en diversas aplicaciones
+          </li>
+          <li class="Elementos--Listas">Humecta y mezcla uniformemente los ingredientes secos para formar una solución
+          </li>
+          <li class="Elementos--Listas">Agente desmoldante eficaz para la fabricación y cocción de alimentos</li>
+          <li class="Elementos--Listas">Antioxidante para una mayor vida útil</li>
+        </ol>
 
-      <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#200142">Beneficios</b></h2>
+        <div class="carousel carousel-slider center" style="margin-top:50px;">
 
-      <ol>
-        <li class="Elementos--Listas">Etiqueta amigable. - emulsionante de origen natural con buena familiaridad, especialmente para la soja.</li>
-        <li class="Elementos--Listas">A base de plantas. - proviene exclusivamente de plantas y esta disponible en soja, girasol y colza (canola).</li>
-        <li class="Elementos--Listas">Amplia funcionalidad. - buenas propiedades emulsionantes y estabilizadoras en diversas aplicaciones, adecuado para una amplia gama de productos de consumo.</li>
-      </ol>
+          <div class="carousel-item" href="#one">
 
-  </div>
+            <img src="img/ADEREZOS_LECITINAS.jpg" alt="IMAGEN 1">
 
-  <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
-    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
-</a>
+            <h2> primera imagen</h2>
+
+            <p class="white-text">texto descriptivo</p>
+
+          </div>
+
+          <div class="carousel-item" href="#two">
+
+            <img src="img/HUMECTANTE_LECITINA.jpg" alt="IMAGEN 2">
+
+            <h2> segunda imagen</h2>
+
+            <p class="white-text">texto descriptivo</p>
+
+          </div>
+
+          <div class="carousel-item" href="#three">
+
+            <img src="img/COCCION_LECITINA.jpg" alt="IMAGEN 3">
+
+            <h2> tercera imagen</h2>
+
+            <p class="white-text">texto descriptivo</p>
+
+          </div>
+
+          <div class="carousel-item" href="#three">
+
+            <img src="img/CHOCOLATE_LECITINA.jpg" alt="IMAGEN 3">
+
+            <h2> tercera imagen</h2>
+
+            <p class="white-text">texto descriptivo</p>
+
+          </div>
+
+          <div class="carousel-item" href="#three">
+
+            <img src="img/TEXTURA_LECITINA.jpg" alt="IMAGEN 3">
+
+            <h2> tercera imagen</h2>
+
+            <p class="white-text">texto descriptivo</p>
+
+          </div>
+
+        </div>
+
+        <!-- <div class="container" style="margin-top:50px;">
+          <div class="row">
+            <div class="col s12 m12 l6 xl6">
+            <img src="img/COCOS_FRESCOS_030524.jpg" alt="" width="100%">
+            </div>
+            <div class="col s12 m12 l6 xl6">
+            <img src="img/COCOS_FRESCOS_030524.jpg" alt="" width="100%">
+              </div>
+              <div class="col s12 m12 l6 xl6">
+              <img src="img/COCOS_FRESCOS_030524.jpg" alt="" width="100%">
+              </div>
+              <div class="col s12 m12 l6 xl6">
+              <img src="img/COCOS_FRESCOS_030524.jpg" alt="" width="100%">
+              </div>
+              <div class="col s12 m12 l12 xl12">
+              <img src="img/COCOS_FRESCOS_030524.jpg" alt="" width="100%">
+              </div>
+          </div>
+        </div> -->
+
+
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b
+            style="color:#200142">Beneficios</b></h2>
+
+        <ol>
+          <li class="Elementos--Listas"><b>Etiqueta amigable. -</b> emulsionante de origen natural con buena
+            familiaridad,
+            especialmente para la soja.</li>
+          <li class="Elementos--Listas"><b>A base de plantas. -</b> proviene exclusivamente de plantas y esta disponible
+            en
+            soja, girasol y colza (canola).</li>
+          <li class="Elementos--Listas"><b>Amplia funcionalidad. -</b> buenas propiedades emulsionantes y
+            estabilizadoras en
+            diversas aplicaciones, adecuado para una amplia gama de productos de consumo.</li>
+        </ol>
+
+        <!-- <div class="card2">
+          <div class="card-left2">
+            <img src="img/ACEITE_COCO_RBD.jpg" alt="">
+          </div>
+          <div class="card-right2">
+            <h2>titulo</h2>
+            <p>mensaje de ejemplo</p>
+          </div>
+        </div>
+
+        <div class="card2">
+          <div class="card-left2">
+            <h2>titulo del producto</h2>
+            <p>esto es un texto descriptivo</p>
+          </div>
+
+          <div class="card-right2">
+            <img src="img/ACEITE_COCO_RBD.jpg" alt="imagen1" class="slide active">
+            <img src="img/canola.jpg" alt="imagen2" class="slide">
+            <img src="img/Palma_Aceite_281124.jpg" alt="imagen3" class="slide">
+          </div>
+        </div>
+
+
+        <div class="card3">
+          <div class="card-left">
+            <h2>titulo del producto</h2>
+            <p>ejemplo de card</p>
+          </div>
+          <div class="card-right">
+            <div class="image-segment"><img src="img/canola.jpg" alt=""></div>
+            <div class="image-segment"><img src="img/Palma_Aceite_281124.jpg" alt=""></div>
+            <div class="image-segment"><img src="img/SOY_SEED_091121.jpg" alt=""></div>
+          </div>
+        </div>
+
+ -->
+
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Fabricante:</b></h2>
+
+        <ol style="margin-top:50px;">
+          <img src="img/Cargill-Logo_2.png" alt="" class="logo_lecitinas_secundarias">
+          <!-- <li class="Elementos--listas Tipografia--general"><a href="PAGINA_SECUNDARIA_LECITINAS.php" style="color: black;" class="arrowblue">Cargill</a></li> -->
+        </ol>
+
+      </div>
+
+      <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+        <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+      </a>
+
+      <h4 class="Tipografia--general letranegro center-align"><b style="color:#200142;">Cargill cuenta con una amplia
+          variedad de soluciones de Lecitina con la más alta calidad.</b></h4>
+
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Para garantizar una formulación
+        de fácil etiquetado, la línea de productos de lecitina de alta calidad
+        de Cargill se obtiene exclusivamente de plantas y está disponible sin OGM*.
+      </p>
+
+
+      <div class="container">
+        <div class="row">
+          <div class="col s12 m12 l6 xl6">
+            <div class="card">
+              <div class="card-image waves-effect waves-block waves-light">
+                <img class="activator" src="img/PANIFICACION_280421.jpeg" width="100%">
+              </div>
+              <div class="card-content" style="background-color:#200142;opacity:0.9;">
+                <span class="card-title activator" style="color:white;">Panificacion<i
+                    class="material-icons right">more_vert</i></span>
+                <p style="color:white;">Aplicaciones</p>
+              </div>
+              <div class="card-reveal" style="background-color:#200142;opacity:0.9;">
+                <i class="material-icons right">close</i>
+                <ol>
+                  <li style="color:white;list-style:circle;">Ayuda a mejorar la mezcla de ingredientes.</li>
+                  <li style="color:white;list-style:circle;">Reduce la pegajosidad de la masa.</li>
+                  <li style="color:white;list-style:circle;">Mejora el procesamiento y la liberación.</li>
+                  <li style="color:white;list-style:circle;">Ayuda a proporcionar un dorado uniforme.</li>
+                  <li style="color:white;list-style:circle;">Aumenta el volumen y la frescura.</li>
+                  <li style="color:white;list-style:circle;">Ayuda a la extrusión.</li>
+                </ol>
+              </div>
+            </div>
+          </div>
+
+          <div class="col s12 l6 xl6">
+            <div class="card">
+              <div class="card-image waves-effect waves-block waves-light">
+                <img class="activator" src="img/PANIFICACION_280421.jpeg" width="100%">
+              </div>
+              <div class="card-content" style="background-color:#200142;opacity:0.9;">
+                <span class="card-title activator" style="color:white;">Panificacion<i
+                    class="material-icons right">more_vert</i></span>
+                <p style="color:white;">Aplicaciones</p>
+              </div>
+              <div class="card-reveal" style="background-color:#200142;opacity:0.9;">
+                <i class="material-icons right">close</i>
+                <ol>
+                  <li style="color:white;list-style:circle;">Ayuda a mejorar la mezcla de ingredientes.</li>
+                  <li style="color:white;list-style:circle;">Reduce la pegajosidad de la masa.</li>
+                  <li style="color:white;list-style:circle;">Mejora el procesamiento y la liberación.</li>
+                  <li style="color:white;list-style:circle;">Ayuda a proporcionar un dorado uniforme.</li>
+                  <li style="color:white;list-style:circle;">Aumenta el volumen y la frescura.</li>
+                  <li style="color:white;list-style:circle;">Ayuda a la extrusión.</li>
+                </ol>
+              </div>
+            </div>
+          </div>
+
+          
+
+
+        </div>
+      </div>
 
 
     </div>
@@ -585,13 +836,13 @@
 
 
 
- 
+
 
 
 </body>
 <footer style="margin-top:70px;">
-  <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
-      alt=""></div><br><br>
+  <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg" alt=""></div>
+  <br><br>
   <div class="container-fluid" style="text-align:center;margin-top:-50px">
     <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos Reservados.
       | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
@@ -600,11 +851,40 @@
       <script type="text/javascript" src="js/main.js"></script></a></strong>
     </p>
     <script type="text/javascript" src="js/Products.js"></script>
-    <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
-    crossorigin="anonymous"></script>
-  <script src="js/materialize.js" type="text/javascript"></script>
-  <script src="js/init.js"></script>
-  <script type="text/javscript" src="js/materialize.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.js"
+      integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+    <script src="js/materialize.js" type="text/javascript"></script>
+    <script src="js/init.js"></script>
+    <script type="text/javscript" src="js/materialize.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"> </script>
+
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        var elems = document.querySelectorAll('.carousel');
+        var instances = M.Carousel.init(elems, {
+          fullWidth: true,
+          indicators: true
+        });
+
+        setInterval(function () {
+          var instance = M.Carousel.getInstance(elems[0]);
+          instance.next();
+        }, 4000);
+
+      })
+    </script>
+
+    <script>
+      const slides = document.querySelectorAll('.slide');
+      let current = 0;
+
+      setInterval(() => {
+        slides[current].classList.remove('active');
+        current = (current + 1) % slides.length;
+        slides[current].classList.add('active');
+      }, 5000);
+    </script>
+
   </div>
 </footer>
 
