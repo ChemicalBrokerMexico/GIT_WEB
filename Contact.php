@@ -152,11 +152,11 @@ recaptchaResponse.value = token;
                         <h6 class="Tipografia--general Titulos" style="color:white;padding-top:5px">Teléfonos </h6>
                         <div class="col s12 m12 l12 xl12">
                           <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1888</p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.56.1524.2685</p>
                         </div>
                         <div class="col s12 m12 l12 xl12"> 
                           <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1818 </p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.56.1524.2685 </p>
                         </div>
                       </div>
                     </div>
@@ -430,13 +430,13 @@ recaptchaResponse.value = token;
         <div class="col s12 m6 l6 xl6" >
           <div style="border:1px solid #f2f2f2;">
           <h6 style="padding:10px;background-color: #000020;margin-top:0px;"><b style="color:white"><center>Ventas</center></b></h6>
-          <p class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;"><b>Teléfono: </b><a href="tel:+525575861888" class="arrowblue Tipografia--general General--Cuerpo" style="color:black">+52.55.7586.1888</a><br><span><b class="Tipografia--general General--Cuerpo">Correo Electrónico:</b></span><a href="mailto:sales@chemicalbroker.mx" style="color:black;font-size:16px" class="arrowblue Tipografia--general General--Cuerpo"> sales@chemicalbroker.mx</a></p>
+          <p class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;"><b>Teléfono: </b><a href="tel:+52.56.1524.2685" class="arrowblue Tipografia--general General--Cuerpo" style="color:black">+52.56.1524.2685</a><br><span><b class="Tipografia--general General--Cuerpo">Correo Electrónico:</b></span><a href="mailto:sales@chemicalbroker.mx" style="color:black;font-size:16px" class="arrowblue Tipografia--general General--Cuerpo"> sales@chemicalbroker.mx</a></p>
           </div>
         </div>
         <div class="col s12 m6 l6 xl6">
         <div style="border:1px solid #f2f2f2;height:151px;">
           <h6 style="padding:10px;background-color:#000020;margin-top:0px;"><b style="color:white" class="Tipografia--general letranegro General--Cuerpo"><center>Información General</center></b></h6>
-          <p style="padding:10px;" class="Tipografia--general letranegro General--Cuerpo"><b class="Tipografia--general General--Cuerpo">Teléfono: </b><a href="tel: +525575861818" class="arrowblue Tipografia--general General--Cuerpo" style="color:black">+52.55.7586.1818</a><br><span><b class="Tipografia--general General--Cuerpo">Correo Electrónico:</b></span><a href="mailto:info@chemicalbroker.mx" style="color:black;font-size:16px" class="arrowblue General--Cuerpo Tipografia--general"> info@chemicalbroker.mx</a></p>
+          <p style="padding:10px;" class="Tipografia--general letranegro General--Cuerpo"><b class="Tipografia--general General--Cuerpo">Teléfono: </b><a href="tel:+52.56.1524.2685" class="arrowblue Tipografia--general General--Cuerpo" style="color:black">+52.56.1524.2685</a><br><span><b class="Tipografia--general General--Cuerpo">Correo Electrónico:</b></span><a href="mailto:info@chemicalbroker.mx" style="color:black;font-size:16px" class="arrowblue General--Cuerpo Tipografia--general"> info@chemicalbroker.mx</a></p>
           </div>
         </div>
       </div>

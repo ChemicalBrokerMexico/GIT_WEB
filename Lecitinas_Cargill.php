@@ -786,7 +786,7 @@
                 <p style="color:white;">Aplicaciones</p>
               </div>
               <div class="card-reveal" style="background-color:#200142;opacity:0.9;">
-                <i class="material-icons right">close</i>
+              <span class="card-title grey-text text-darken-4"><i class="material-icons right" style="color:white;">close</i></span>
                 <ol>
                   <li style="color:white;list-style:circle;">Ayuda a mejorar la mezcla de ingredientes.</li>
                   <li style="color:white;list-style:circle;">Reduce la pegajosidad de la masa.</li>
@@ -802,40 +802,162 @@
           <div class="col s12 l6 xl6">
             <div class="card">
               <div class="card-image waves-effect waves-block waves-light">
-                <img class="activator" src="img/PANIFICACION_280421.jpeg" width="100%">
+                <img class="activator" src="img/CONFITERIA.jpg" width="100%">
               </div>
               <div class="card-content" style="background-color:#200142;opacity:0.9;">
-                <span class="card-title activator" style="color:white;">Panificacion<i
+                <span class="card-title activator" style="color:white;">Confiteria<i
                     class="material-icons right">more_vert</i></span>
                 <p style="color:white;">Aplicaciones</p>
               </div>
               <div class="card-reveal" style="background-color:#200142;opacity:0.9;">
-                <i class="material-icons right">close</i>
+              <span class="card-title grey-text text-darken-4"><i class="material-icons right" style="color:white;">close</i></span>
                 <ol>
-                  <li style="color:white;list-style:circle;">Ayuda a mejorar la mezcla de ingredientes.</li>
-                  <li style="color:white;list-style:circle;">Reduce la pegajosidad de la masa.</li>
-                  <li style="color:white;list-style:circle;">Mejora el procesamiento y la liberación.</li>
-                  <li style="color:white;list-style:circle;">Ayuda a proporcionar un dorado uniforme.</li>
-                  <li style="color:white;list-style:circle;">Aumenta el volumen y la frescura.</li>
-                  <li style="color:white;list-style:circle;">Ayuda a la extrusión.</li>
+                  <li style="color:white;list-style:circle;">Ajusta la viscosidad y el valor de rendimiento del chocolate.</li>
+                  <li style="color:white;list-style:circle;">Reduce el uso de manteca de cacao en productos de chocolate.</li>
+                  <li style="color:white;list-style:circle;">Emulsiona y estabiliza los ingredientes.</li>
+                  <li style="color:white;list-style:circle;">Previene la separación del aceite en rellenos y untables dulces.</li>
+                  <li style="color:white;list-style:circle;">Reduce la pegajosidad de los caramelos duros y blandos.</li>
+                  <li style="color:white;list-style:circle;">Mejora la masticabilidad de las gomas de mascar.</li>
                 </ol>
               </div>
             </div>
+            </div>
 
+            <div class="col s12 m12 l6 xl6">
             <div class="card">
-    <div class="card-image waves-effect waves-block waves-light">
-      <img class="activator" src="images/office.jpg">
-    </div>
-    <div class="card-content">
-      <span class="card-title activator grey-text text-darken-4">Card Title<i class="material-icons right">more_vert</i></span>
-      <p><a href="#">This is a link</a></p>
-    </div>
-    <div class="card-reveal">
-      <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
-      <p>Here is some more information about this product that is only revealed once clicked on.</p>
-    </div>
+              <div class="card-image waves-effect waves-block waves-light">
+                <img class="activator" src="img/BEBIDAS_040521.jpg" width="100%">
+              </div>
+              <div class="card-content" style="background-color:#200142;opacity:0.9;">
+                <span class="card-title activator" style="color:white;">Bebidas<i
+                    class="material-icons right">more_vert</i></span>
+                <p style="color:white;">Aplicaciones</p>
+              </div>
+              <div class="card-reveal" style="background-color:#200142;opacity:0.9;">
+              <span class="card-title grey-text text-darken-4"><i class="material-icons right" style="color:white;">close</i></span>
+                <ol>
+                  <li style="color:white;list-style:circle;">Mejora de la textura</li>
+                  <li style="color:white;list-style:circle;">Excelentes propiedades de sanación en boca.</li>
+                </ol>
+              </div>
+            </div>
   </div>
-          </div>
+
+
+            <div class="col s12 m12 l6 xl6">
+            <div class="card">
+              <div class="card-image waves-effect waves-block waves-light">
+                <img class="activator" src="img/LACTEOS_280824.jpg" width="100%">
+              </div>
+              <div class="card-content" style="background-color:#200142;opacity:0.9;">
+                <span class="card-title activator" style="color:white;">Lacteos<i
+                    class="material-icons right">more_vert</i></span>
+                <p style="color:white;">Aplicaciones</p>
+              </div>
+              <div class="card-reveal" style="background-color:#200142;opacity:0.9;">
+              <span class="card-title grey-text text-darken-4"><i class="material-icons right" style="color:white;">close</i></span>
+                <ol>
+                  <li style="color:white;list-style:circle;">Coadyuvante humectante y dispersante para productos en polvo.</li>
+                  <li style="color:white;list-style:circle;">En el procesamiento de polvos favorece la aglomeración y reduce la dureza de las partículas.</li>
+                  <li style="color:white;list-style:circle;">Estabiliza la emulsión.</li>
+                  <li style="color:white;list-style:circle;">Ayuda a mejorar la textura y la sensación en boca.</li>
+                </ol>
+              </div>
+            </div>
+            </div>
+
+            <div class="col s12 m12 l6 xl6">
+            <div class="card">
+              <div class="card-image waves-effect waves-block waves-light">
+                <img class="activator" src="img/CARNICOS_280824.jpg" width="100%">
+              </div>
+              <div class="card-content" style="background-color:#200142;opacity:0.9;">
+                <span class="card-title activator" style="color:white;">Carnicos<i
+                    class="material-icons right">more_vert</i></span>
+                <p style="color:white;">Aplicaciones</p>
+              </div>
+              <div class="card-reveal" style="background-color:#200142;opacity:0.9;">
+              <span class="card-title grey-text text-darken-4"><i class="material-icons right" style="color:white;">close</i></span>
+                <ol>
+                  <li style="color:white;list-style:circle;">Mejora la mezcla y la emulsión.</li>
+                  <li style="color:white;list-style:circle;">Mejora el procesamiento.</li>
+                </ol>
+              </div>
+            </div>
+            </div>
+
+            
+            <div class="col s12 m12 l6 xl6">
+            <div class="card">
+              <div class="card-image waves-effect waves-block waves-light">
+                <img class="activator" src="img/ALIMENTOS_FOSFORO_280824.jpg" width="100%">
+              </div>
+              <div class="card-content" style="background-color:#200142;opacity:0.9;">
+                <span class="card-title activator" style="color:white;">Culinario<i
+                    class="material-icons right">more_vert</i></span>
+                <p style="color:white;">Aplicaciones</p>
+              </div>
+              <div class="card-reveal" style="background-color:#200142;opacity:0.9;">
+              <span class="card-title grey-text text-darken-4"><i class="material-icons right" style="color:white;">close</i></span>
+                <ol>
+                  <li style="color:white;list-style:circle;">Ayuda a mejorar la estabilidad de la emulsión.</li>
+                  <li style="color:white;list-style:circle;">Previene la coalescencia durante el calentamiento.</li>
+                  <li style="color:white;list-style:circle;">Reduce las salpicaduras de margarinas y productos para untar bajos en grasa.</li>
+                  <li style="color:white;list-style:circle;">Ayuda a mejorar la untabilidad.</li>
+                  <li style="color:white;list-style:circle;">Reduce la separación de grasa.</li>
+                </ol>
+              </div>
+            </div>
+            </div>
+
+            <div class="col s12 m12 l6 xl6">
+            <div class="card">
+              <div class="card-image waves-effect waves-block waves-light">
+                <img class="activator" src="img/CB_SUPLEMENTOS_150221.jpg" width="100%">
+              </div>
+              <div class="card-content" style="background-color:#200142;opacity:0.9;">
+                <span class="card-title activator" style="color:white;">Suplementos<i
+                    class="material-icons right">more_vert</i></span>
+                <p style="color:white;">Aplicaciones</p>
+              </div>
+              <div class="card-reveal" style="background-color:#200142;opacity:0.9;">
+              <span class="card-title grey-text text-darken-4"><i class="material-icons right" style="color:white;">close</i></span>
+                <ol>
+                  <li style="color:white;list-style:circle;">Contiene colina de forma natural.</li>
+                  <li style="color:white;list-style:circle;">Fuente de ácidos grasos polinsaturados.</li>
+        
+                </ol>
+              </div>
+            </div>
+            </div>
+
+            <div class="col s12 m12 l6 xl6">
+            <div class="card">
+              <div class="card-image waves-effect waves-block waves-light">
+                <img class="activator" src="img/CB_ALIMENTO_ANIMAL_090223.jpg" width="100%">
+              </div>
+              <div class="card-content" style="background-color:#200142;opacity:0.9;">
+                <span class="card-title activator" style="color:white;">Alimento Animal<i
+                    class="material-icons right">more_vert</i></span>
+                <p style="color:white;">Aplicaciones</p>
+              </div>
+              <div class="card-reveal" style="background-color:#200142;opacity:0.9;">
+              <span class="card-title grey-text text-darken-4"><i class="material-icons right" style="color:white;">close</i></span>
+                <ol>
+                  <li style="color:white;list-style:circle;">Proporciona fuente de energía.</li>
+                  <li style="color:white;list-style:circle;">Fuente de colina e inositol.</li>
+                  <li style="color:white;list-style:circle;">Ayuda a mejorar la digestibilidad de las grasas.</li>
+                  <li style="color:white;list-style:circle;">Ayuda a humectar y dispersar productos en polvo</li>
+                  <li style="color:white;list-style:circle;">Ayuda a reducir el polvo. </li>
+                  <li style="color:white;list-style:circle;">Ayuda a la extrusión</li>
+        
+                </ol>
+              </div>
+            </div>
+            </div>
+
+    
+     
 
           
 
