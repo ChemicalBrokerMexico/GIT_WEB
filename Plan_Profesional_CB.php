@@ -220,13 +220,13 @@
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1888</p>
+                          +52.55.4438.7996</p>
                       </div>
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General
                         </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1818 </p>
+                          +52.55.4438.7996 </p>
                       </div>
                     </div>
                   </div>
@@ -302,7 +302,7 @@
     </ul>
   </div>
   <div class="row">
-    <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+    <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
       <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo">
       </div>
     </nav>
@@ -574,7 +574,7 @@
     <div class="col s12 m12 l6 xl6">
     <div class="card-content">
       <h5 class="card-title activator grey-text text-darken-4" class="Tipografia--general"><b>Plan Profesional de Carrera</b></h5>
-      <p class="Tipografia--general letranegro General--Cuerpo">Para <b style="color:#000020;">Chemical Broker</b> es elemental que sus trabajadores cuenten con los recursos fundamentales para su desarrollo continuo, nuestra finalidad es mantener y motivar a los trabajadores ofreciéndoles un plan de carrera con un enfoque realista</p>
+      <p class="Tipografia--general letranegro General--Cuerpo">Para <b style="color:#071637;">Chemical Broker</b> es elemental que sus trabajadores cuenten con los recursos fundamentales para su desarrollo continuo, nuestra finalidad es mantener y motivar a los trabajadores ofreciéndoles un plan de carrera con un enfoque realista</p>
     </div>
     </div>
     <!-- <div class="card-reveal">
@@ -589,9 +589,9 @@
   <!-- <div class="container">
     <div class="row">
       <div class="col s12 m12 l6 xl6">
-        <h5 class="Tipografia--general Titulos letranegro General--Cuerpo"><b style="color:#000020;">Plan Profesional de
+        <h5 class="Tipografia--general Titulos letranegro General--Cuerpo"><b style="color:#071637;">Plan Profesional de
             Carrera</b></h5>
-        <p class="Tipogria--general letranegro General--Cuerpo center-align">Para <b style="color:#000020">Chemical
+        <p class="Tipogria--general letranegro General--Cuerpo center-align">Para <b style="color:#071637">Chemical
             Broker</b> es elemental que sus trabajadores cuenten con los recursos fundamentales para su desarrollo
           continuo,nuestra finalidad es mantener y motivar a los trabajadores ofreciéndoles un plan de carreracon un
           enfoque realista</p>
@@ -618,7 +618,7 @@
   <div class="container center-align" style="margin-top:50px;">
     <div class="row">
       <div class="col s12 m12 l12 xl12">
-        <h5 class="Tipografia--general Titulos letranegro" ><b style=color:#000020>
+        <h5 class="Tipografia--general Titulos letranegro" ><b style=color:#071637>
            La excelencia no se delega, se comparte</b></h5>
         <p class="General--Cuerpo Tipografia--general letranegro" style="margin-top:50px;">Nuestra responsabilidad fundamental es construir y
           desarrollar u enfoque mejorado y simplificado para asegurar el liderazgo funcional y nivelesoptimos de
@@ -628,18 +628,18 @@
         <img src="img/CB_OPORTUNIDADES_PREFESIONALES_140923.jpg" alt="" width="95%"
           style="border-radius:53%;height:250px;width:250px">
         <p class="Tipografia--general letranegro center-align"><b
-            style="color:#000020;font-family:Arial, Helvetica, sans-serif;font-size:18px;">Oportunidades
+            style="color:#071637;font-family:Arial, Helvetica, sans-serif;font-size:18px;">Oportunidades
             Profesionales</b></p>
         <p class="Tipografia--general letranegro center-align"
           style="font-family:Arial, Helvetica, sans-serif;font-size:18px"><b
-            style="font-family:Arial, Helvetica, sans-serif;font-size:18px;color:#000020;">Chemical Broker</b> brinda
+            style="font-family:Arial, Helvetica, sans-serif;font-size:18px;color:#071637;">Chemical Broker</b> brinda
           oportunidades de mejora y actualización del aprendizaje continuo sobre tu área de interes o conocimientos
           general.</p>
       </div>
       <div class="col s12 m12 l6 xl6">
         <img src="img/CB_RETOS_140923.jpg" alt="" width="95%" style="border-radius:53%;height:250px;width:250px">
         <p class="Tipografia--general letranegro center-align"><b
-            style="color:#000020;font-family:Arial, Helvetica, sans-serif;font-size:18px">Aperturas y Desafiós</b></p>
+            style="color:#071637;font-family:Arial, Helvetica, sans-serif;font-size:18px">Aperturas y Desafiós</b></p>
         <p class="Tipografia--general letranegro center-align"
           style="font-family:Arial, Helvetica, sans-serif;font-size:18px">Nosotros creemos en el talento joven, los
           proyectos y orientación darán paso a que empieces tu vida profesional de la mejor manera</p>
@@ -650,7 +650,7 @@
   <div class="container center-align" style="margin-top:50px;">
     <div class="row">
       <div class="col s12 m12 l12 xl12">
-        <h5 class="Tipografia--general Titulos letranegro"><b style=color:#000020>Recibe un Consejo Profesional de tus
+        <h5 class="Tipografia--general Titulos letranegro"><b style=color:#071637>Recibe un Consejo Profesional de tus
             Futuros Mentores</b></h5>
         <p class="General--Cuerpo Tipografia--general letranegro">Te apoyamos para que comiences tu vida profesional de
           la mejor manera. Nuestros líderes con mas experiencia te acompañarán en tu desarrollo personal y profesional.

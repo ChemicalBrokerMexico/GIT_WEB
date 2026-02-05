@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Aceite de Coco RBD</title>
+  <title>Chemical Broker | Aceite de Coco RBD | Proveedor Global</title>
   <meta name="description" content="El aceite de coco RBD (Refinado, Blanqueado y Desodorizado) es un tipo de aceite de coco que ha pasado por un proceso de refinación para eliminar impurezas olores y sabores fuertes."> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco_RBD.php">
@@ -38,6 +38,36 @@
     }
     gtag('js', new Date());
     gtag('config', 'G-SGJQ8FDDJ6');
+  </script>
+
+<script type="application/Id+json">
+    {
+
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Aceite de Coco RBD",
+      "description": "El aceite de coco RBD (Refinado, Blanqueado y Desodorizado) es un tipo de aceite de coco que ha pasado por un proceso de refinación para eliminar impurezas olores y sabores fuertes.",
+      "brand": {
+        "@type": "Brand",
+        "name": "Chemical Broker"
+      },
+      "manufacturer":{
+        "@type": "Organization",
+        "name": "Cargill"
+      },
+
+      "offers":{
+        "@type": "Offer",
+        "url": "https://chemicalbroker.mx/Aceite_Coco_RBD.php",
+        "priceCurrency": "MXN",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Chemical Broker"
+        }
+      }
+    }
+
   </script>
 
 </head>
@@ -217,13 +247,13 @@
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1888</p>
+                          +52.55.4438.7996</p>
                       </div>
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General
                         </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1818 </p>
+                          +52.55.4438.7996 </p>
                       </div>
                     </div>
                   </div>
@@ -306,7 +336,7 @@
     </ul>
   </div>
   <div class="row">
-    <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+    <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
       <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo">
       </div>
     </nav>
@@ -558,7 +588,7 @@
       <section style="margin-top:0px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Aceite de Coco RBD</b></a></section>
 
 
-        <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020;">Aceite de Coco RBD</b></h2>
+        <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#071637;">Aceite de Coco RBD</b></h2>
     
     <p class="Tipografia--general letranegro General--Cuerpo">El <b>Aceite de Coco RBD (Refinado, Blanqueado, Desodorizado)</b> es un tipo de Aceite de Coco que ha pasado por un proceso de refinacion para eliminar impurezas, olores y sabores fuertes. Este tipo de aceite es ideal para aplicaciones culinarias y cosméticas donde se prefiere un producto neutro en olor y sabor. </p>
     
@@ -570,7 +600,7 @@
         <li class="Elementos--Listas" style="margin-top:30px;">Desodorizado: Se eliminan los olores y sabores fuertes típicos del aceite de coco virgen, lo que lo hace más versátil.</li>
     </ol>
     
-    <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Usos comunes:</b></h2>
+    <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Usos comunes:</b></h2>
     
     <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Cocina: Es ideal para cocinar a altas temperaturas debido a su alto punto de humo (~230 °C) y su sabor neutro.</li>
@@ -580,7 +610,7 @@
     </ol>
     
     
-    <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Diferencias con el Aceite de Coco virgen:</b></h2>
+    <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Diferencias con el Aceite de Coco virgen:</b></h2>
     
     <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Proceso: El RBD es procesado industrialmente, mientras que el virgen es extraído en frío sin refinar.</li>
@@ -588,7 +618,7 @@
         <li class="Elementos--Listas" style="margin-top:30px;">Olor y sabor: El RBD es neutro, mientras que el virgen conserva el aroma y sabor del coco.</li>
     </ol>
     
-    <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Propiedades Físicas:</b></h2>
+    <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Propiedades Físicas:</b></h2>
     
     <ol>
             <ol>
@@ -600,7 +630,7 @@
             </ol>
     </ol>
     
-    <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color: #000020;">Propiedades Químicas:</b></h2>
+    <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color: #071637;">Propiedades Químicas:</b></h2>
     
     <ol>
         <li class="Elementos--Listas">Composición de Ácidos Grasos:
@@ -615,7 +645,7 @@
         </li>
     </ol>
     
-    <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Propiedades Funcionales</b></h2>
+    <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Propiedades Funcionales</b></h2>
     
     <ol>
         <li class="Elementos--Listas">Alta Estabilidad Térmica: Resiste la descomposición bajo calor, ideal para frituras y horneados.</li>
@@ -624,7 +654,7 @@
         <li class="Elementos--Listas" style="margin-top:30px;">Capacidad de Solidificación: Solidifica rápidamente, útil en la elaboración de recubrimientos alimenticios y velas.</li>
     </ol>
     
-    <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Propiedades Nutricionales:</b></h2>
+    <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Propiedades Nutricionales:</b></h2>
     
     <ol>
         <li class="Elementos--Listas">Fuente de Energía Rápida: Los MCT se metabolizan fácilmente, proporcionando energía sin almacenarse como grasa corporal</li>
@@ -633,7 +663,7 @@
     </ol>
     
     
-    <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Propiedades Cosméticas:</b></h2>
+    <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Propiedades Cosméticas:</b></h2>
     
     <ol>
     <li class="Elementos--Listas">Humectante: Penetra fácilmente en la piel, dejándola suave y nutrida.</li>
@@ -642,16 +672,16 @@
     </ol>
     
     
-    <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Propiedades Industriales:</b></h2>
+    <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Propiedades Industriales:</b></h2>
     
     <ol>
     <li class="Elementos--Listas">Compatibilidad Química: Funciona como materia prima en la fabricación de surfactantes y emulsionantes.</li>
     <li class="Elementos--Listas" style="margin-top:30px;">Larga Vida Útil: Su estabilidad lo hace ideal para almacenamiento prolongado en productos procesados.</li>
     </ol>
     
-    <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color: #000020;">Aplicaciones</b></h2>
+    <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color: #071637;">Aplicaciones</b></h2>
     
-    <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria</b></h2>
+    <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Industria Alimentaria</b></h2>
     
     <ol>
     <li class="Elementos--Listas">Cocina y Fritura: Perfecto para cocinar a altas temperaturas sin descomponerse gracias a su alto punto de humo (~230 °C).</li>
@@ -661,7 +691,7 @@
     <li class="Elementos--Listas" style="margin-top:30px;">Leches y Cremas Vegetales: Base para productos lácteos veganos, como leche o crema de coco.</li>
     </ol>
     
-    <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#000020;margin-top:50px;"><b style="color:#000020;">Industria Cosmética y de Cuidado Personal:</b></h2>
+    <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#071637;margin-top:50px;"><b style="color:#071637;">Industria Cosmética y de Cuidado Personal:</b></h2>
     
     <ol>
     <li class="Elementos--Listas">Hidratantes para la Piel: Usado como ingrediente en lociones y cremas por su capacidad de mantener la piel suave y nutrida.</li>
@@ -671,13 +701,13 @@
     <li class="Elementos--Listas" style="margin-top:30px;">Bálsamos Labiales: Componente clave para hidratar y proteger los labios.</li>
     </ol>
     
-    <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Farmacéutica</b></h2>
+    <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Industria Farmacéutica</b></h2>
     <ol>
     <li class="Elementos--Listas">Vehículo de Medicamentos: Actúa como base en cremas medicinales, ungüentos y suplementos en cápsulas.</li>
     <li class="Elementos--Listas" style="margin-top:30px;">Formulaciones Dietéticas: Presente en productos especializados para dietas cetogénicas o terapéuticas, por su alto contenido de Ácidos Grasos de Cadena Media (MCT).</li>
     </ol>
     
-    <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Química e Industrial:</b></h2>
+    <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Industria Química e Industrial:</b></h2>
     
     <ol>
     <li class="Elementos--Listas">Producción de Biodiésel: Fuente de lípidos para fabricar biocombustibles.</li>
@@ -686,7 +716,7 @@
     </ol>
     
     
-    <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Uso Doméstico:</b></h2>
+    <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Uso Doméstico:</b></h2>
     
     
     <ol>
@@ -696,7 +726,7 @@
     </ol>
     
     
-    <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Uso en la Agroindustria</b></h2>
+    <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Uso en la Agroindustria</b></h2>
     
     <ol>
     <li class="Elementos--Listas">Alimentos para Animales: Aporta energía rápida y mejora la calidad del pelaje en mascotas y ganado.</li>

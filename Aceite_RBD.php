@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Aceite de Soya RBD</title>
+  <title>Chemical Broker | Aceite de Soya RBD | Proveedor Global</title>
   <meta name="description" content="Aceite de soya RBD de excelente calidad, refinado, blanqueado y desodorizado para un sabor suave y versátil. Ideal para aplicaciones alimentarias e industriales. ¡Adquiere aceite de soya puro y saludable al mejor precio!"> 
   <link rel="canonical" href="https://chemicalbroker.mx/Aceite_RBD.php">
  
@@ -19,6 +19,37 @@
         gtag('js', new Date());
         gtag('config', 'G-SGJQ8FDDJ6');
     </script>
+
+
+<script type="application/Id+json">
+    {
+
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Aceite de Soya RBD",
+      "description": "Aceite de soya RBD de excelente calidad, refinado, blanqueado y desodorizado para un sabor suave y versátil. Ideal para aplicaciones alimentarias e industriales. ¡Adquiere aceite de soya puro y saludable al mejor precio!",
+      "brand": {
+        "@type": "Brand",
+        "name": "Chemical Broker"
+      },
+      "manufacturer":{
+        "@type": "Organization",
+        "name": "Cargill"
+      },
+
+      "offers":{
+        "@type": "Offer",
+        "url": "https://chemicalbroker.mx/Aceite_RBD.php",
+        "priceCurrency": "MXN",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Chemical Broker"
+        }
+      }
+    }
+
+  </script>
 
 </head>
 
@@ -252,7 +283,7 @@
                                                     Ventas </h6>
                                                 <p class="Tipografia--general General--Cuerpo"
                                                     style="color: #a7a7a7 !important;">Teléfono:
-                                                    +52.55.7586.1888</p>
+                                                    +52.55.4438.7996</p>
                                             </div>
                                             <div class="col s12 m12 l12 xl12">
                                                 <h6 class="Tipografia--general Titulos" style="color:white !Important;">
@@ -260,7 +291,7 @@
                                                 </h6>
                                                 <p class="Tipografia--general General--Cuerpo"
                                                     style="color: #a7a7a7 !important;">Teléfono:
-                                                    +52.55.7586.1818 </p>
+                                                    +52.55.4438.7996 </p>
                                             </div>
                                         </div>
                                     </div>
@@ -363,7 +394,7 @@
         </ul>
     </div>
     <div class="row">
-        <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+        <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
             <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png"
                     alt="Logotipo">
             </div>

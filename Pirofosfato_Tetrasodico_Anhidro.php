@@ -3,7 +3,7 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Pirofosfato Tetrasodico Anhidro</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <title>Chemical Broker | Pirofosfato Tetrasodico Anhidro | Proveedor Global</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="Los fosfatos se pueden definir como productos quimicos versatiles y multifuncionales que se comercializan ampliamente en diversas industiras debido a sus propiedades beneficiosas y aplicaciones variadas">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
     <script>
@@ -12,6 +12,32 @@
       gtag('js', new Date());
       gtag('config', 'G-SGJQ8FDDJ6');
     </script>
+
+<script type="application/Id+json">
+    {
+
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Fosfato Monocalcico Anhidro",
+      "description": "Los fosfatos se pueden definir como productos quimicos versatiles y multifuncionales que se comercializan ampliamente en diversas industiras debido a sus propiedades beneficiosas y aplicaciones variadas,
+      "brand": {
+        "@type": "Brand",
+        "name": "Chemical Broker"
+      },
+
+      "offers":{
+        "@type": "Offer",
+        "url": "https://chemicalbroker.mx/Pirofosfato_Tetrasodico_Anhidro.php",
+        "priceCurrency": "MXN",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Chemical Broker"
+        }
+      }
+    }
+  </script>
+
 <script type="text/javascript" src="js/main.js"></script>
 </head>
 <body> 
@@ -137,11 +163,11 @@
 <h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Teléfonos </h6>
 <div class="col s12 m12 l12 xl12">
 <h6 class="Tipografia--general Titulos color--blanco">Ventas </h6>
-<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
 </div>
 <div class="col s12 m12 l12 xl12"> 
 <h6 class="Tipografia--general Titulos color--blanco">Información General </h6>
-<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
 </div>
 </div>
 </div>
@@ -424,7 +450,7 @@
 
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b style="color:#FF6600;">Pirofosfato ácido de sodio</b>, también conocido como <b style="color:#FF6600;">Pirofosfato de Disodio</b>, es un compuesto químico inorgánico con la fórmula Na₂H₂P₂O₇. Este compuesto se utiliza en una amplia variedad de aplicaciones debido a sus propiedades químicas específicas.</p>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020">Propiedades Químicas</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637">Propiedades Químicas</b></h5>
 
       <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Fórmula Química: Na₂H₂P₂O₇</li>
@@ -436,12 +462,12 @@
         <li class="Elementos--Listas" style="margin-top:30px;">Higroscopicidad: Absorbe humedad del aire.</li>
       </ol>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Aplicaciones</b></h5>
 
 
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b style="color:#FF6600;">Pirofosfato Tetrasódico Anhidro (Na4P2O7)</b> es un compuesto químico inorgánico con diversas aplicaciones en diferentes industrias debido a sus propiedades únicas. </p>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria:</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Industria Alimentaria:</b></h5>
 
       <ol>
         <li class="Elementos--Listas">Agente Leudante: Utilizado en productos de panadería para mejorar la textura y el volumen de los productos horneados.</li>
@@ -451,7 +477,7 @@
       </ol>
 
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Detergentes y Productos de Limpieza:</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Detergentes y Productos de Limpieza:</b></h5>
 
       <ol>
         <li class="Elementos--Listas">Ablandador de Agua: Mejora la eficacia de los surfactantes en detergentes para ropa y productos de limpieza industriales al ablandar el agua dura.</li>
@@ -459,7 +485,7 @@
       </ol>
     
       
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Tratamiento de Aguas</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Tratamiento de Aguas</b></h5>
 
       <ol>
         <li >Control de Corrosión y Precipitación: Empleado en sistemas de tratamiento de aguas para prevenir la formación de incrustaciones y controlar la corrosión en las tuberías y otros equipos.</li>
@@ -467,19 +493,19 @@
       </ol>
 
          
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Tratamiento de Agua:</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Tratamiento de Agua:</b></h5>
 
       <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Ablandador de Agua: Ayuda a reducir la dureza del agua, lo que es beneficioso para diversas aplicaciones industriales y municipales.</li>
       </ol>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Textil</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Industria Textil</b></h5>
 
       <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Agente de Dispersión: Utilizado en el proceso de teñido y acabado de textiles para asegurar una distribución uniforme del color, mejorando así la calidad del producto final.</li>
       </ol>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Farmacéutica</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Industria Farmacéutica</b></h5>
 
       <ol>
         <li class="Elementos--Listas">Excipiente: En la formulación de algunos medicamentos, puede actuar como un agente secuestrante o estabilizador.</li>
@@ -487,7 +513,7 @@
         <li class="Elementos--Listas">Acondicionadores de Suelo: Puede ser utilizado en productos para el tratamiento de suelos, mejorando la disponibilidad de nutrientes y la estructura del suelo.</li>
       </ol>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria de la Cerámica</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Industria de la Cerámica</b></h5>
 
       <ol>
         <li class="Elementos--Listas">Aditivo: Utilizado en la producción de cerámicas para mejorar las propiedades del material final, incluyendo la resistencia y la estabilidad.</li>
@@ -495,7 +521,7 @@
         <li class="Elementos--Listas">Aditivo: Mejora las propiedades del papel, como la resistencia a la humedad y la estabilidad dimensional.</li>
       </ol>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Otros Usos</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Otros Usos</b></h5>
 
 <ol>
   <li class="Elementos--Listas">Cosméticos y Productos de Cuidado Personal: Empleado en formulaciones de productos cosméticos y de cuidado personal como pastas dentales, donde ayuda a estabilizar la fórmula y mejorar la eficacia del producto./li>

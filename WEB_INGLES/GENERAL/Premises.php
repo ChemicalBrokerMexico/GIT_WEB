@@ -144,11 +144,11 @@
                         <h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Phone</h6>
                         <div class="col s12 m12 l12 xl12">
                           <h6 class="Tipografia--general Titulos color--blanco">Sales </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
                         </div>
                         <div class="col s12 m12 l12 xl12"> 
                           <h6 class="Tipografia--general Titulos color--blanco">General Information</h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
                         </div>
                       </div>
                     </div>
@@ -426,7 +426,7 @@
       <img class="activator" src="img/ORDEN_CB_V1.jpg">
     </div>
     <div class="card-content">
-      <span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Orden<i class="material-icons right">arrow_upward</i></b></span>
+      <span class="card-title activator grey-text text-darken-4"><b style="color:#071637;border-bottom:1px solid red">Orden<i class="material-icons right">arrow_upward</i></b></span>
     </div>
     <div class="card-reveal">
     <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
@@ -447,7 +447,7 @@
       <img class="activator" src="img/SEGURIDAD_CB_V1.jpg">
     </div>
     <div class="card-content">
-      <span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Seguridad<i class="material-icons right">arrow_upward</i></b></span>
+      <span class="card-title activator grey-text text-darken-4"><b style="color:#071637;border-bottom:1px solid red">Seguridad<i class="material-icons right">arrow_upward</i></b></span>
     </div>
     <div class="card-reveal">
     <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
@@ -470,7 +470,7 @@
       <img class="activator" src="img/CB_LIMPIEZA.jpg">
     </div>
     <div class="card-content">
-      <span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Limpieza<i class="material-icons right">arrow_upward</i></b></span>
+      <span class="card-title activator grey-text text-darken-4"><b style="color:#071637;border-bottom:1px solid red">Limpieza<i class="material-icons right">arrow_upward</i></b></span>
     </div>
     <div class="card-reveal">
     <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>

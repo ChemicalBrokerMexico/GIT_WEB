@@ -228,13 +228,13 @@
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1888</p>
+                          +52.55.4438.7996</p>
                       </div>
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General
                         </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1818 </p>
+                          +52.55.4438.7996 </p>
                       </div>
                     </div>
                   </div>
@@ -318,7 +318,7 @@
     </ul>
   </div>
   <div class="row">
-    <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+    <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
       <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo">
       </div>
     </nav>
@@ -598,10 +598,10 @@
           <table style="margin-top:50px;">
 <thead>
     <tr>
-        <th style="text-align:center;border:1px solid #f2f2f2;background-color:#000020;color:white;width:25%"><b>Alimento</b></th>
-        <th style="text-align:center;border:1px solid #f2f2f2;background-color:#000020;color:white;width:25%"><b>% Ácido Oleico</b></th>
-        <th style="text-align:center;border:1px solid #f2f2f2;background-color:#000020;color:white;width:25%"><b>Alimento</b></th>
-        <th style="text-align:center;border:1px solid #f2f2f2;background-color:#000020;color:white;width:25%"><b>% Ácido Oleico</b></th>
+        <th style="text-align:center;border:1px solid #f2f2f2;background-color:#071637;color:white;width:25%"><b>Alimento</b></th>
+        <th style="text-align:center;border:1px solid #f2f2f2;background-color:#071637;color:white;width:25%"><b>% Ácido Oleico</b></th>
+        <th style="text-align:center;border:1px solid #f2f2f2;background-color:#071637;color:white;width:25%"><b>Alimento</b></th>
+        <th style="text-align:center;border:1px solid #f2f2f2;background-color:#071637;color:white;width:25%"><b>% Ácido Oleico</b></th>
     </tr>
 </thead>
 <tbody>
@@ -683,11 +683,11 @@
 <tbody>
     <tr>
         <td style="border:1px solid #f2f2f2;background-color:#deeaf6;width:50%;font-size:14px;padding:10px" class="Tipografia--general letranegro General--Cuerpo"><b>IUPAC:</b></td>
-        <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;font-size:14px;" class="Tipografia--general  General--Cuerpo">Ácido cis octadec-9-enoico</td>
+        <td style="border:1px solid #f2f2f2;background-color:#071637;color:white;font-size:14px;" class="Tipografia--general  General--Cuerpo">Ácido cis octadec-9-enoico</td>
     </tr>
     <tr>
         <td style="border:1px solid #f2f2f2;background-color:#deeaf6;padding:10px;font-size:14px;" class="Tipografia--general letranegro General--Cuerpo"><b>Sinónimos:</b></td>
-        <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;" class="Tipografia--general letranegro General--Cuerpo">
+        <td style="border:1px solid #f2f2f2;background-color:#071637;color:white;" class="Tipografia--general letranegro General--Cuerpo">
             <ol style="margin-bottom:0px;margin-left:-15px;" class="Tipografia--general">
                 <li style="list-style-type:disc;font-size:14px;" class="Elementos--Listas">Ácido Oleico</li>
                 <li style="list-style-type:disc;font-size:14px;" class="Elementos--Listas">9 Ácido octadecenoico</li>
@@ -699,35 +699,35 @@
     </tr>
     <tr>
         <td style="border:1px solid #f2f2f2;background-color:#deeaf6;padding:10px;font-size:14px;" class="letranegro Tipografia--general"><b>Formula Estructural:</b></td>
-        <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;"><img src="img/ACIDO_OLEICO_FORMULA.png" style="width:100%;" alt=""></td>
+        <td style="border:1px solid #f2f2f2;background-color:#071637;color:white;"><img src="img/ACIDO_OLEICO_FORMULA.png" style="width:100%;" alt=""></td>
     </tr>
     <tr>
         <td style="border:1px solid #f2f2f2;background-color:#deeaf6;padding:10px;font-size:14px" class="letranegro Tipografia--general"><b>Formula Quimica:</b></td>
-        <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;font-size:14px" class="letranegro Tipografia--general">COOH-(CH<sub>2</sub>)<sub>7</sub>-CH=CH-(CH<sub>2</sub>)<sub>7</sub>-CH<sub>3</sub></td>
+        <td style="border:1px solid #f2f2f2;background-color:#071637;color:white;font-size:14px" class="letranegro Tipografia--general">COOH-(CH<sub>2</sub>)<sub>7</sub>-CH=CH-(CH<sub>2</sub>)<sub>7</sub>-CH<sub>3</sub></td>
     </tr>
     <tr>
         <td style="border:1px solid #f2f2f2;background-color:#deeaf6;padding:10px;font-size:14px" class="letranegro Tipografia--general"><b>Formula Molecular:</b></td>
-        <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;font-size:14px" class="letranegro Tipografia--general">C<sub>18</sub>H<sub>34</sub>O<sub>2</sub></td>
+        <td style="border:1px solid #f2f2f2;background-color:#071637;color:white;font-size:14px" class="letranegro Tipografia--general">C<sub>18</sub>H<sub>34</sub>O<sub>2</sub></td>
     </tr>
     <tr>
         <td style="border:1px solid #f2f2f2;background-color:#deeaf6;padding:10px;font-size:14px" class="letranegro Tipografia--general "><b>Peso Molecular:</b></td>
-        <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;font-size:14px">282.47 g/mol</td>
+        <td style="border:1px solid #f2f2f2;background-color:#071637;color:white;font-size:14px">282.47 g/mol</td>
     </tr>
     <tr>
         <td style="border:1px solid #f2f2f2;background-color:#deeaf6;padding:10px;font-size:14px" class="letranegro Tipografia--general"><b>CAS #:</b></td>
-        <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;font-size:14x" class="letranegro Tipografia--general">112-80-1</td>
+        <td style="border:1px solid #f2f2f2;background-color:#071637;color:white;font-size:14x" class="letranegro Tipografia--general">112-80-1</td>
     </tr>
     <tr>
         <td style="border:1px solid #f2f2f2;background-color:#deeaf6;padding:10px;font-size:14px" class="letranegro Tipografia--general"><b>EC No.:</b></td>
-        <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;font-size:14px" class="letranegro Tipografia--general">204-007-1 | 217-977-6</td>
+        <td style="border:1px solid #f2f2f2;background-color:#071637;color:white;font-size:14px" class="letranegro Tipografia--general">204-007-1 | 217-977-6</td>
     </tr>
     <tr>
         <td style="border:1px solid #f2f2f2;background-color:#deeaf6;padding:10px;font-size:14px" class="letranegro Tipografia--general"><b>Pub Chem No.:</b></td>
-        <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;font-size:14px" class="letranegro Tipografia--general">445639</td>
+        <td style="border:1px solid #f2f2f2;background-color:#071637;color:white;font-size:14px" class="letranegro Tipografia--general">445639</td>
     </tr>
     <tr>
         <td style="border:1px solid #f2f2f2;background-color:#deeaf6;padding:10px;font-size:14px" class="letranegro Tipografia--general"><b>UNII:</b></td>
-        <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;font-size:14px" class="letranegro Tipografia--general">2UMI9U37CP</td>
+        <td style="border:1px solid #f2f2f2;background-color:#071637;color:white;font-size:14px" class="letranegro Tipografia--general">2UMI9U37CP</td>
     </tr>
 </tbody>
           </table>

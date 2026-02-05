@@ -198,13 +198,13 @@
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1888</p>
+                          +52.55.4438.7996</p>
                       </div>
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General
                         </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1818 </p>
+                          +52.55.4438.7996 </p>
                       </div>
                     </div>
                   </div>
@@ -287,7 +287,7 @@
     </ul>
   </div>
   <div class="row">
-    <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+    <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
       <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo">
       </div>
     </nav>
@@ -539,7 +539,7 @@
 
                 <p class="Tipografia--general letranegro General--Cuerpo">El <b>Aceite de Palmiste RBD (Refinado, Blanqueado y Desodorizado)</b> es un aceite vegetal obtenido a partir de la semilla o núcleo de la palma de aceite (Elaeis guineensis). Este aceite es diferente al aceite de palma, que se extrae de la pulpa del fruto. El término RBD indica que ha pasado por procesos de refinado, blanqueado y desodorizado para eliminar impurezas, colores y olores, haciéndolo más adecuado para aplicaciones industriales y alimenticias.</p>
 
-                <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020;">Características</b></h2>
+                <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#071637;">Características</b></h2>
 
                 <ol>
                     <li class="Elementos--Listas">Aspecto: Líquido o semisólido a temperatura ambiente, dependiendo de las condiciones climáticas.</li>
@@ -548,7 +548,7 @@
                     <li class="Elementos--Listas" style="margin-top:30px;">Estabilidad: Muy estable a altas temperaturas, lo que lo hace ideal para freír.</li>
                 </ol>
 
-                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Beneficios</b></h2>
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Beneficios</b></h2>
 
                 <ol>
                     <li class="Elementos--Listas">Alta resistencia a la oxidación.</li>
@@ -556,11 +556,11 @@
                     <li class="Elementos--Listas" style="margin-top:30px;">Versatilidad en diversos sectores.</li>
                 </ol>
 
-                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Funciones</b></h2>
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Funciones</b></h2>
 
                 <p class="Tipografia--general letranegro General--Cuerpo">El <b>Aceite de Palmiste RBD</b> tiene diversas funciones debido a su composición química rica en Ácidos Grasos Saturados y su estabilidad térmica. Estas funciones varían según el sector en el que se utilice. </p>
 
-                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Alimentación:</b></h2>
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Alimentación:</b></h2>
 
                 <ol>
                     <li class="Elementos--Listas">Base de Grasas Vegetales: Se utiliza para elaborar margarinas, cremas y productos de repostería.</li>
@@ -568,7 +568,7 @@
                     <li class="Elementos--Listas" style="margin-top:30px;">Mejorador de Texturas: Ayuda a dar una textura cremosa o crujiente en alimentos procesados.</li>
                 </ol>
 
-                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Cosmética y Cuidado Personal:</b></h2>
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Cosmética y Cuidado Personal:</b></h2>
 
                 <ol>
                     <li class="Elementos--Listas">Agente Hidratante: Contribuye a suavizar y nutrir la piel y el cabello.</li>
@@ -576,7 +576,7 @@
                     <li class="Elementos--Listas" style="margin-top:30px;">Mejorador de Consistencia: Da estabilidad y firmeza a cremas, bálsamos y ungüentos.</li>
                 </ol>
 
-                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Química e Industrial:</b></h2>
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Química e Industrial:</b></h2>
 
                 <ol>
                     <li class="Elementos--Listas">Producción de Biodiésel: Sirve como materia prima para biocombustibles debido a su contenido graso.</li>
@@ -584,7 +584,7 @@
                     <li class="Elementos--Listas" style="margin-top:30px;">Materia Prima para Surfactantes: Los Ácidos Grasos que contiene son esenciales en la síntesis de detergentes y emulsificantes.</li>
                 </ol>
 
-                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Farmacéutica:</b></h2>
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Farmacéutica:</b></h2>
 
                 <ol>
                     <li class="Elementos--Listas">Excipiente en Medicamentos: Se usa como base en cápsulas y pomadas.</li>
@@ -592,16 +592,16 @@
                 </ol>
 
 
-                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Medio Ambiente y Sostenibilidad:</b></h2>
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Medio Ambiente y Sostenibilidad:</b></h2>
 
                 <ol>
                     <li class="Elementos--Listas">Biodegradable: Se utiliza en productos ecológicos como alternativa a derivados del petróleo.</li>
                     <li class="Elementos--Listas" style="margin-top:30px;">Reducción de Huella de Carbono: En aplicaciones de biocombustibles y químicos sostenibles.</li>
                 </ol>
 
-                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones:</b></h2>
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Aplicaciones:</b></h2>
 
-                <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020;">Industria Alimentaria:</b></h2>
+                <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#071637;">Industria Alimentaria:</b></h2>
 
                 <ol>
                     <li class="Elementos--Listas">Fabricación de Margarinas y Grasas para panadería: Por su textura y estabilidad, es ideal para productos como galletas, pasteles y hojaldres.</li>
@@ -609,7 +609,7 @@
                     <li class="Elementos--Listas" style="margin-top:30px;">Productos Procesados: Se utiliza como base en rellenos, coberturas y glaseados, mejorando la textura y prolongando la vida útil.</li>
                 </ol>
 
-                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Cosmética y Cuidado Personal:</b></h2>
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Cosmética y Cuidado Personal:</b></h2>
 
                 <ol>
                     <li class="Elementos--Listas">Producción de Jabones: El alto contenido de ácido láurico favorece la formación de espuma y aporta propiedades limpiadoras.</li>
@@ -619,7 +619,7 @@
                 </ol>
 
 
-         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Química:</b></h2>
+         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Industria Química:</b></h2>
 
          <ol>
             <li class="Elementos--Listas">Producción de Biodiésel: Es una materia prima clave para combustibles alternativos debido a su contenido graso.</li>
@@ -628,14 +628,14 @@
             <li class="Elementos--Listas" style="margin-top:30px;">Velas y Productos de Cera: Se emplea para elaborar ceras con alta estabilidad y buena textura.</li>
          </ol>
          
-         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Farmacéutica:</b></h2>
+         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Farmacéutica:</b></h2>
 
          <ol>
             <li class="Elementos--Listas">Excipiente en Medicamentos: Se utiliza como portador de principios activos, especialmente en cápsulas de gel y pomadas.</li>
             <li class="Elementos--Listas" style="margin-top:30px;">Base en Ungüentos y Cremas Terapéuticas: Por su capacidad de hidratar y proteger la piel.</li>
          </ol>
 
-         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Agroindustria y Productos Ecológicos:</b></h2>
+         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Agroindustria y Productos Ecológicos:</b></h2>
 
             <ol>
                 <li class="Elementos--Listas">Formulación de Fertilizantes y Plaguicidas: Actúa como portador en productos orgánicos.</li>

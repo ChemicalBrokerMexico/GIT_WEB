@@ -144,11 +144,11 @@
                         <h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Phone</h6>
                         <div class="col s12 m12 l12 xl12">
                           <h6 class="Tipografia--general Titulos color--blanco">Sales </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
                         </div>
                         <div class="col s12 m12 l12 xl12"> 
                           <h6 class="Tipografia--general Titulos color--blanco">General Information</h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
                         </div>
                       </div>
                     </div>
@@ -439,7 +439,7 @@
 <img class="activator" src="img/QUIMICA.jpg">
 </div>
 <div class="card-content">
-<span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Calidad Mundial<i class="material-icons right">arrow_upward</i></b></span>
+<span class="card-title activator grey-text text-darken-4"><b style="color:#071637;border-bottom:1px solid red">Calidad Mundial<i class="material-icons right">arrow_upward</i></b></span>
 </div>
 <div class="card-reveal">
 <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
@@ -456,7 +456,7 @@
 <img class="activator" src="img/PIPA_CB.jpg">
 </div>
 <div class="card-content">
-<span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Abastecimiento Oportuno<i class="material-icons right">arrow_upward</i></b></span>
+<span class="card-title activator grey-text text-darken-4"><b style="color:#071637;border-bottom:1px solid red">Abastecimiento Oportuno<i class="material-icons right">arrow_upward</i></b></span>
 </div>
 <div class="card-reveal">
 <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
@@ -477,7 +477,7 @@
 <img class="activator" src="img/CB_WARRANTY.jpg">
 </div>
 <div class="card-content">
-<span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Garantia del Producto<i class="material-icons right">arrow_upward</i></b></span>
+<span class="card-title activator grey-text text-darken-4"><b style="color:#071637;border-bottom:1px solid red">Garantia del Producto<i class="material-icons right">arrow_upward</i></b></span>
 </div>
 <div class="card-reveal">
 <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
@@ -493,7 +493,7 @@
 <img class="activator" src="img/CB_COBERTURA_RIESGOS.jpg">
 </div>
 <div class="card-content">
-<span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Seguridad del Producto<i class="material-icons right">arrow_upward</i></b></span>
+<span class="card-title activator grey-text text-darken-4"><b style="color:#071637;border-bottom:1px solid red">Seguridad del Producto<i class="material-icons right">arrow_upward</i></b></span>
 </div>
 <div class="card-reveal">
 <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
@@ -509,7 +509,7 @@
 <img class="activator" src="img/sale.jpg">
 </div>
 <div class="card-content">
-<span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Precios Justos y Competitivos<i class="material-icons right">arrow_upward</i></b></span>
+<span class="card-title activator grey-text text-darken-4"><b style="color:#071637;border-bottom:1px solid red">Precios Justos y Competitivos<i class="material-icons right">arrow_upward</i></b></span>
 </div>
 <div class="card-reveal">
 <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
@@ -530,7 +530,7 @@
 <img class="activator" src="img/CB_CONTACTO.jpg">
 </div>
 <div class="card-content">
-<span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Atencion Personal Pre, Inter y Post-Venta<i class="material-icons right">arrow_upward</i></b></span>
+<span class="card-title activator grey-text text-darken-4"><b style="color:#071637;border-bottom:1px solid red">Atencion Personal Pre, Inter y Post-Venta<i class="material-icons right">arrow_upward</i></b></span>
 </div>
 <div class="card-reveal">
 <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>

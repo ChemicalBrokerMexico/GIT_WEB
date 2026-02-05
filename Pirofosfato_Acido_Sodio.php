@@ -4,10 +4,9 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Pirofosfato Acido de Sodio</title>
+  <title>Chemical Broker | Pirofosfato Acido de Sodio | Proveedor Global</title>
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
-  <meta name="description"
-    content="Los fosfatos se pueden definir como productos quimicos versatiles y multifuncionales que se comercializan ampliamente en diversas industiras debido a sus propiedades beneficiosas y aplicaciones variadas">
+  <meta name="description" content="Los fosfatos se pueden definir como productos quimicos versatiles y multifuncionales que se comercializan ampliamente en diversas industiras debido a sus propiedades beneficiosas y aplicaciones variadas">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
   <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">
@@ -21,6 +20,31 @@
     }
     gtag('js', new Date());
     gtag('config', 'G-SGJQ8FDDJ6');
+  </script>
+
+<script type="application/Id+json">
+    {
+
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Pirofosfato Acido Sodio",
+      "description": "Los fosfatos se pueden definir como productos quimicos versatiles y multifuncionales que se comercializan ampliamente en diversas industiras debido a sus propiedades beneficiosas y aplicaciones variadas,
+      "brand": {
+        "@type": "Brand",
+        "name": "Chemical Broker"
+      },
+
+      "offers":{
+        "@type": "Offer",
+        "url": "https://chemicalbroker.mx/Fosfato_Monocalcico_Anhidro.php",
+        "priceCurrency": "MXN",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Chemical Broker"
+        }
+      }
+    }
   </script>
   <script type="text/javascript" src="js/main.js"></script>
 </head>
@@ -208,12 +232,12 @@
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos color--blanco">Ventas </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a
-                            class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+                            class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
                       </div>
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos color--blanco">Información General </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a
-                            class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+                            class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
                       </div>
                     </div>
                   </div>
@@ -582,7 +606,7 @@
         también conocido como <b style="color:#FF6600;">Pirofosfato de Disodio</b>, es un compuesto químico inorgánico con la fórmula Na₂H₂P₂O₇. Este
         compuesto se utiliza en una amplia variedad de aplicaciones debido a sus propiedades químicas específicas.</p>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020">Propiedades Químicas</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637">Propiedades Químicas</b></h5>
 
       <ol>
         <li class="Elementos--Listas">Fórmula Química: Na₂H₂P₂O₇</li>
@@ -598,7 +622,7 @@
       </ol>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b
-          style="color:#000020;">Aplicaciones</b></h5>
+          style="color:#071637;">Aplicaciones</b></h5>
 
 
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:0px;">El <b style="color:#FF6600;">Pirofosfato Ácido de Sodio</b>
@@ -606,7 +630,7 @@
         propiedades químicas únicas.</p>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b
-          style="color:#000020;">Industria Alimentaria:</b></h5>
+          style="color:#071637;">Industria Alimentaria:</b></h5>
 
       <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Agente Leudante: Se utiliza en productos de panadería,
@@ -626,7 +650,7 @@
 
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b
-          style="color:#000020;">Detergentes:</b></h5>
+          style="color:#071637;">Detergentes:</b></h5>
 
       <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Actúa como un agente quelante que se une a los iones de
@@ -636,7 +660,7 @@
 
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b
-          style="color:#000020;">Suavizantes de Agua:</b></h5>
+          style="color:#071637;">Suavizantes de Agua:</b></h5>
 
       <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Se utiliza en productos de lavandería y limpieza para
@@ -645,7 +669,7 @@
 
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b
-          style="color:#000020;">Tratamiento de Agua:</b></h5>
+          style="color:#071637;">Tratamiento de Agua:</b></h5>
 
       <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Prevención de Incrustaciones y Corrosión: Se utiliza en
@@ -654,7 +678,7 @@
       </ol>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b
-          style="color:#000020;">Industria Farmacéutica:</b></h5>
+          style="color:#071637;">Industria Farmacéutica:</b></h5>
 
       <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Control de la Acidez Estomacal: En la formulación de
@@ -662,7 +686,7 @@
       </ol>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b
-          style="color:#000020;">Otras Aplicaciones:</b></h5>
+          style="color:#071637;">Otras Aplicaciones:</b></h5>
 
       <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Cerámicas y Vidrios: Utilizado en la producción de
@@ -676,7 +700,7 @@
       </ol>
 
       <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b
-          style="color:#000020;">Otras Aplicaciones</b></h5>
+          style="color:#071637;">Otras Aplicaciones</b></h5>
 
       <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Tratamiento de aguas: Se utiliza en el tratamiento de

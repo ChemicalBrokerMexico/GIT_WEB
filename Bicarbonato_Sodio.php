@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Bicarbonato de Sodio de Solvay</title>
+  <title>Chemical Broker | Bicarbonato de Sodio de Solvay | Proveedor Mundial</title>
   <meta name="description" content="Ofrecemos bicarbonato de sodio de alta pureza, ideal para aplicaciones alimentarias, de limpieza y en diversas industrias. Versátil y efectivo, nuestro producto garantiza resultados óptimos en cada uso. ¡Elige nuestro bicarbonato de sodio para calidad y rendimiento superior en tus procesos!">
   <link rel="canonical" href="https://chemicalbroker.mx/Bicarbonato_Sodio.php">
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
@@ -17,6 +17,32 @@
     gtag('js', new Date());
     gtag('config', 'G-SGJQ8FDDJ6');
   </script>
+
+<script type="application/Id+json">
+    {
+
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Bicarbonato de Sodio",
+      "description": "Ofrecemos bicarbonato de sodio de alta pureza, ideal para aplicaciones alimentarias, de limpieza y en diversas industrias. Versátil y efectivo, nuestro producto garantiza resultados óptimos en cada uso. ¡Elige nuestro bicarbonato de sodio para calidad y rendimiento superior en tus procesos!",
+      "brand": {
+        "@type": "Brand",
+        "name": "Chemical Broker"
+      },
+    
+      "offers":{
+        "@type": "Offer",
+        "url": "https://chemicalbroker.mx/Bicarbonato_Sodio.php",
+        "priceCurrency": "MXN",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Chemical Broker"
+        }
+      }
+    }
+
+    </script>
 
 </head>
 
@@ -195,13 +221,13 @@
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1888</p>
+                          +52.55.4438.7996</p>
                       </div>
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General
                         </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1818 </p>
+                          +52.55.4438.7996 </p>
                       </div>
                     </div>
                   </div>
@@ -285,7 +311,7 @@
     </ul>
   </div>
   <div class="row">
-    <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+    <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
       <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo">
       </div>
     </nav>
@@ -823,7 +849,7 @@
 
         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Aplicaciones:</b></h2>
 
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;"><b style="color:#000020;">Industria Farmacéutica</b></h2>
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;"><b style="color:#071637;">Industria Farmacéutica</b></h2>
 
         <ol>
           <li class="Elementos--Listas">Excipiente</li>
@@ -847,7 +873,7 @@
           <li class="Elementos--Listas">Neutralizador de olores</li>
         </ol>
 
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;"><b style="color:#000020;">Industria Alimentaria</b></h2>
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;"><b style="color:#071637;">Industria Alimentaria</b></h2>
 
        <ol>
         <li class="Tipografia--general letranegro Elementos--Listas">Leudante de pan . - Se utiliza como agente leudante en productos horneados como pan, pasteles y galletas</li>
@@ -894,11 +920,11 @@
 
 
         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Pet y Nutrición Animal</b></h2>
-        <p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#000020;">Bicarbonato de Sodio</b> ofrece una gama de soluciones
+        <p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#071637;">Bicarbonato de Sodio</b> ofrece una gama de soluciones
           eficaces para la nutrición, la higiene y la calidad de los piensos.</p>
         <p class="Tipografia--general letranegro General--Cuerpo">Es un complemento alimenticio para rumiantes, cerdos y
           aves, esencial y de alto valor para mejorar el bienestar y el rendimiento del ganado. </p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">El <b style="color:#000020;">Bicarbonato de Sodio</b> es
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">El <b style="color:#071637;">Bicarbonato de Sodio</b> es
           un ingrediente con potencial benéfico en la alimentación de pollos debido a su efecto sobre el balance
           electrolítico y adicionalmente por mejorar la digestibilidad proteica y el rendimiento de los mismos.</p>
 
@@ -906,7 +932,7 @@
         <p class="Tipografia--general letranegro General--Cuerpo">En las plantas de producción de biogás, se puede
           utilizar como medida preventiva o curativa en caso de acidosis para estabilizar el pH en el digestor y
           asegurar una producción optima de biogás.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">La adición de <b style="color:#000020;">Bicarbonato
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">La adición de <b style="color:#071637;">Bicarbonato
           de Sodio</b> al sustrato puede aumentar el volumen de biogás producido cada día en 115 m3, es decir, en un 1.8%.
         </p>
 

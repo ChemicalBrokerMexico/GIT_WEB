@@ -42,7 +42,7 @@
 <div class="row">
     <div class="col s12 m12 l12 xl12">
     <img src="img/CB_IMAGOTIPO_LEON.jpg" alt="" style="margin-top:200px;margin-left:43%;">
-    <h5 style="font-size:70px;text-align: center;font-family:edwardian;"><b style="color:#000020;">404 Not Found</b></h5>
+    <h5 style="font-size:70px;text-align: center;font-family:edwardian;"><b style="color:#071637;">404 Not Found</b></h5>
     </div>
 </div>
 </div>

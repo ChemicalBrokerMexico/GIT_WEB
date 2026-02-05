@@ -145,11 +145,11 @@
                         <h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Phone</h6>
                         <div class="col s12 m12 l12 xl12">
                           <h6 class="Tipografia--general Titulos color--blanco">Sales </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
                         </div>
                         <div class="col s12 m12 l12 xl12"> 
                           <h6 class="Tipografia--general Titulos color--blanco">General Information</h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
                         </div>
                       </div>
                     </div>
@@ -432,7 +432,7 @@
           Glicerina de la más alta Pureza y Calidad para las formulaciones de nuestros clientes.</p>
 
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Hoy en dia nuestra oferta incluye glicerina en
-          cumplimiento a <b style="color:#000020;">GMP´s, Kosher, Halal, GFSI, FCC, USP, RSPO Mass Balance.</b></p>
+          cumplimiento a <b style="color:#071637;">GMP´s, Kosher, Halal, GFSI, FCC, USP, RSPO Mass Balance.</b></p>
 
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La Glicerina es un subproducto de grasas y
           aceites

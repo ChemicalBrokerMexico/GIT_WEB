@@ -224,13 +224,13 @@
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1888</p>
+                          +52.55.4438.7996</p>
                       </div>
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General
                         </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1818 </p>
+                          +52.55.4438.7996 </p>
                       </div>
                     </div>
                   </div>
@@ -314,7 +314,7 @@
     </ul>
   </div>
   <div class="row">
-    <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+    <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
       <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo">
       </div>
     </nav>
@@ -627,7 +627,7 @@
 
 <div class="container" id="Contenedor_dual" name="Contenedor_dual">
   <div class="row">
-    <div class="col s12 m12 l6 xl6" style="background-color:#000020;color:white;">
+    <div class="col s12 m12 l6 xl6" style="background-color:#071637;color:white;">
     <?php
 
     require "conexion.php";
@@ -686,7 +686,7 @@
         </ol>
       </div> -->
     </div>
-    <div class="col s6 m6 l6 xl" style="background-color:#000020;opacity:0.8;color:white">
+    <div class="col s6 m6 l6 xl" style="background-color:#071637;opacity:0.8;color:white">
       <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Deleniti facilis veritatis porro reprehenderit ea sapiente molestiae, ducimus maxime, aspernatur totam distinctio eligendi cum odit adipisci. Ipsam libero fugit obcaecati a!</p>
     </div>
   </div>

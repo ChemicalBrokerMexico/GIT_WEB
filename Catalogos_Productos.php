@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <title>Chemical Broker | Acido Miristico</title>
-    <meta name="description" content="Explora nuestro catálogo de materias primas de alta calidad, diseñado para satisfacer las necesidades de diversas industrias. Encuentra soluciones versátiles y eficientes que mejoran tus procesos productivos. ¡Descubre la gama completa de productos que impulsarán el éxito de tu negocio!">
+    <meta name="description" content="Explora nuestro catálogo de productos quimicos con amplia variedad de ingredientes para múltiples industrias. Fichas técnicas, calidad garantizada y suministro confiable">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link rel="canonical" href="https://chemicalbroker.mx/Catalogos_Productos.php">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -284,7 +284,7 @@
                                                     Ventas </h6>
                                                 <p class="Tipografia--general General--Cuerpo"
                                                     style="color: #a7a7a7 !important;">Teléfono:
-                                                    +52.55.7586.1888</p>
+                                                    +52.55.4438.7996</p>
                                             </div>
                                             <div class="col s12 m12 l12 xl12">
                                                 <h6 class="Tipografia--general Titulos" style="color:white !Important;">
@@ -292,7 +292,7 @@
                                                 </h6>
                                                 <p class="Tipografia--general General--Cuerpo"
                                                     style="color: #a7a7a7 !important;">Teléfono:
-                                                    +52.55.7586.1818 </p>
+                                                    +52.55.4438.7996 </p>
                                             </div>
                                         </div>
                                     </div>
@@ -393,7 +393,7 @@
         </ul>
     </div>
     <div class="row">
-        <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+        <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
             <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png"
                     alt="Logotipo">
             </div>
@@ -661,7 +661,7 @@
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
-                <p class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020;">Chemical Broker</b> enfoca sus negocios a nivel global en la venta de Ingredientes químicos para las industrias de Farmacéutica, Veterinaria, Alimentaria y Nutrición Humana, Alimento y Nutrición Animal, Cosmética y Cuidado Personal, Agroquímicos, Detergentes y Cuidado del Hogar e Industria Quimica.</p>
+                <p class="Tipografia--general letranegro General--Cuerpo"><b style="color:#071637;">Chemical Broker</b> enfoca sus negocios a nivel global en la venta de Ingredientes químicos para las industrias de Farmacéutica, Veterinaria, Alimentaria y Nutrición Humana, Alimento y Nutrición Animal, Cosmética y Cuidado Personal, Agroquímicos, Detergentes y Cuidado del Hogar e Industria Quimica.</p>
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">A través de nuestros Catálogos de Productos por Industrias usted podrá encontrar una gran variedad de ingredientes químicos enfocados al segmento de mercado deseado y en cumplimiento a los estándares de calidad correspondientes:</p>
                 <h5 class="Tipografia--general Titulos" style="margin-top:50px;"><b>Catálogos</b></h5>
 

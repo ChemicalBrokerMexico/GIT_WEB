@@ -221,13 +221,13 @@
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1888</p>
+                          +52.55.4438.7996</p>
                       </div>
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General
                         </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1818 </p>
+                          +52.55.4438.7996 </p>
                       </div>
                     </div>
                   </div>
@@ -310,7 +310,7 @@
     </ul>
   </div>
   <div class="row">
-    <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+    <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
       <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo">
       </div>
     </nav>
@@ -604,9 +604,9 @@
             <div class="row">
               <div class="col s12">
                 <ul class="tabs">
-                  <li class="tab col s4"><a class="active" href="#test1" style="text-transform:none;"><b style="color:#000020;text-transform:none;">Diversidad e Inclusion</b></a></li>
-                  <li class="tab col s4"><a href="#test2"><b style="color:#000020;text-transform: none;">Compromiso</b></a></li>
-                  <li class="tab col s4"><a href="#test3"><b style="color:#000020;text-transform: none;">Trabajo en Equipo</b></a></li>
+                  <li class="tab col s4"><a class="active" href="#test1" style="text-transform:none;"><b style="color:#071637;text-transform:none;">Diversidad e Inclusion</b></a></li>
+                  <li class="tab col s4"><a href="#test2"><b style="color:#071637;text-transform: none;">Compromiso</b></a></li>
+                  <li class="tab col s4"><a href="#test3"><b style="color:#071637;text-transform: none;">Trabajo en Equipo</b></a></li>
                   <!-- <li class="tab col s3"><a href="#test4">Test 4</a></li> -->
                 </ul>
               </div>
@@ -804,7 +804,7 @@
             *se despliegan los departamentos correspondientes a las áreas con sus respectivos roles clave.
 
           </p>
-          <a href="IT.php" style="color:#000020;"><b style="color:#000020;">Leer Mas</b></a>
+          <a href="IT.php" style="color:#071637;"><b style="color:#071637;">Leer Mas</b></a>
         </div>
 
       </div>
@@ -828,7 +828,7 @@
             resultados esperados, optimizando los Recursos Financieros, Humanos y Materiales, contribuyendo así al
             desarrollo de Chemical Broker.
           </p>
-          <a href="administraion.php" style="color:#000020;"><b style="color:#000020;">Leer Mas</b></a>
+          <a href="administraion.php" style="color:#071637;"><b style="color:#071637;">Leer Mas</b></a>
         </div>
       </div>
 
@@ -855,7 +855,7 @@
             los programas de mejora de la gestión de las áreas involucradas en el proceso.
           </p>
 
-          <a href="proximamente.php" style="color:#000020;"><b style="color:#000020;">Leer Mas</b></a>
+          <a href="proximamente.php" style="color:#071637;"><b style="color:#071637;">Leer Mas</b></a>
         </div>
 
       </div>
@@ -903,7 +903,7 @@
           <p class="tipografia--general letranegro General--Cuerpo">
         Dirigir las operaciones y estrategias de ventas, Realizando la búsqueda de nuevos socios de negocio, ampliando la cartera e incrementando las ventas, así como analizar y desarrollar nuevas oportunidades de negocio de manera global 
           </p>
-          <a href="Ventas.php" style="color:#000020;"><b style="color:#000020;">Leer Mas</b></a>
+          <a href="Ventas.php" style="color:#071637;"><b style="color:#071637;">Leer Mas</b></a>
         </div>
 
 
@@ -929,7 +929,7 @@
             Generar, analizar y negociar con distintos proveedores a nivel global, los beneficios que se obtienen de las
             relaciones a largo plazo para el crecimiento y desarrollo con base en nuestro Enfoque de Negocios.
           </p>
-          <a href="Compras.php.php" style="color:#000020;"><b style="color:#000020;">Leer Mas</b></a>
+          <a href="Compras.php.php" style="color:#071637;"><b style="color:#071637;">Leer Mas</b></a>
         </div>
 
 
@@ -954,7 +954,7 @@
             Minimizar los costos tendentes a lograr el nivel de servicio deseado, aumentar al máximo el rendimiento de
             la inversión.
           </p>
-          <a href="SERVC.php" style="color:#000020;"><b style="color:#000020;">Leer Mas</b></a>
+          <a href="SERVC.php" style="color:#071637;"><b style="color:#071637;">Leer Mas</b></a>
         </div>
 
 
@@ -989,8 +989,8 @@
   <div class="container" style="margin-top:50px;">
     <div class="row">
       <div class="col s12 m12 l12 xl12 center-align">
-        <h5 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020;">Conoce Nuestro Plan Profesional de Carrera</b></h5>
-        <a class="waves-effect waves-light btn" href="Plan_Profesional_CB.php" style="background-color:#000020;text-transform: capitalize;border-radius:15px;width:52%;margin-top:20px">Plan Profesional de Carrera</a>
+        <h5 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#071637;">Conoce Nuestro Plan Profesional de Carrera</b></h5>
+        <a class="waves-effect waves-light btn" href="Plan_Profesional_CB.php" style="background-color:#071637;text-transform: capitalize;border-radius:15px;width:52%;margin-top:20px">Plan Profesional de Carrera</a>
 
       </div>
     </div>
@@ -998,7 +998,7 @@
 
   <div class="container">
     <div class="row">
-    <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Preguntas Frecuentes</b></h5>
+    <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Preguntas Frecuentes</b></h5>
     <ul class="collapsible">
     <li>
       <div class="collapsible-header">¿Cuál es la ubicacion de la oficina?</div>

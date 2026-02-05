@@ -369,7 +369,7 @@ include "Consulta_tiempo_real.php";
                                     </select>
                                 </div>
                                 <div class="container center-align">
-                                    <a class="btn" id="btnEnviar" style="background-color:#000020;color:white;margin-top:30px;">Enviar</a>
+                                    <a class="btn" id="btnEnviar" style="background-color:#071637;color:white;margin-top:30px;">Enviar</a>
                                 </div>
                         </form>
                         <!-- <div class="col s12 m12 l12 xl12">
@@ -381,8 +381,8 @@ include "Consulta_tiempo_real.php";
                     <table style="margin-top:50px;">
                     <thead>
                         <tr>
-                            <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;width:50%;text-align:center;">Concepto</td>
-                            <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;width:50%;text-align:center;">Parametros</td>
+                            <td style="border:1px solid #f2f2f2;background-color:#071637;color:white;width:50%;text-align:center;">Concepto</td>
+                            <td style="border:1px solid #f2f2f2;background-color:#071637;color:white;width:50%;text-align:center;">Parametros</td>
                         </tr>
                     </thead>
                         <tr>
@@ -530,7 +530,7 @@ include "Consulta_tiempo_real.php";
                     <div class="container center-align" style="margin-top:50px;">
                         <div class="row">
                             <div class="col s12 m12 l12 xl12">
-                                <a href="Dashboard_Anuncios.php" style="background-color:#000020;color:white;padding:10px;">Publicar Anuncio</a>
+                                <a href="Dashboard_Anuncios.php" style="background-color:#071637;color:white;padding:10px;">Publicar Anuncio</a>
                             </div>
                         </div>
                     </div>

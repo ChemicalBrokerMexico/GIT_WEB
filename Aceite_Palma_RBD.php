@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Aceite de Palma RBD</title>
+  <title>Chemical Broker | Aceite de Palma RBD | Proveedor Global</title>
   <meta name="description" content="El Aceite de palma RBD de alta pureza, perfecto para aplicaciones alimentarias e industriales. Refinado, blanqueado y desodorizado para un sabor neutro y alta estabilidad. ¡Compra aceite de palma de calidad premium al mejor precio!"> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Palma_RBD.php">
@@ -25,6 +25,38 @@
     gtag('js', new Date());
     gtag('config', 'G-SGJQ8FDDJ6');
   </script>
+
+<script type="application/Id+json">
+    {
+
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Aceite Palma RBD",
+      "description": "El Aceite de palma RBD de alta pureza, perfecto para aplicaciones alimentarias e industriales. Refinado, blanqueado y desodorizado para un sabor neutro y alta estabilidad. ¡Compra aceite de palma de calidad premium al mejor precio!",
+      "brand": {
+        "@type": "Brand",
+        "name": "Chemical Broker"
+      },
+      "manufacturer":{
+        "@type": "Organization",
+        "name": "Cargill"
+      },
+
+      "offers":{
+        "@type": "Offer",
+        "url": "https://chemicalbroker.mx/Aceite_Palma_RBD.php",
+        "priceCurrency": "MXN",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Chemical Broker"
+        }
+      }
+    }
+
+  </script>
+
+
 </head>
 
 <body>
@@ -202,13 +234,13 @@
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1888</p>
+                          +52.55.4438.7996</p>
                       </div>
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General
                         </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1818 </p>
+                          +52.55.4438.7996 </p>
                       </div>
                     </div>
                   </div>
@@ -291,7 +323,7 @@
     </ul>
   </div>
   <div class="row">
-    <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+    <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
       <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo">
       </div>
     </nav>
@@ -543,11 +575,11 @@
       <section style="margin-top:0px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Aceite_Maiz.php"><b class="Tipografia--general Subtitulos" style="color:red;">Aceite de Palma RBD</b></a></section>
     
 
-            <h2 class="Tipografia--general letranegro Titulos"><b style="color:#000020;">Aceite de Palma RBD</b></h2>
+            <h2 class="Tipografia--general letranegro Titulos"><b style="color:#071637;">Aceite de Palma RBD</b></h2>
             <p class="Tipografia--general letranegro General--Cuerpo">El <b>Aceite de Palma RBD (Refinado, Blanqueado y Desodorizado)</b> es una forma procesada del aceite de palma crudo, ampliamente utilizado en la industria alimentaria, cosmética y química debido a sus características versátiles.</p>
 
 
-            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px"><b style="color:#000020;">Proceso de producción</b></h2>
+            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px"><b style="color:#071637;">Proceso de producción</b></h2>
 
             <ol>
                 <li class="Elementos--Listas" style="margin-top:30px;">Refinado: Elimina impurezas, Ácidos Grasos Libres y residuos no deseados presentes en el Aceite de Palma Crudo.</li>
@@ -555,7 +587,7 @@
                 <li class="Elementos--Listas" style="margin-top:30px;">Desodorizado: A través de un proceso de destilación al vapor, elimina olores y sabores fuertes, resultando en un producto neutro.</li>
             </ol>
 
-            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Caracteristicas</b></h2>
+            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#071637;">Caracteristicas</b></h2>
 
             <ol>
               <li class="Elementos--Listas" style="margin-top:30px;">Color: Líquido claro o amarrillo pálido</li>
@@ -564,7 +596,7 @@
               <li class="Elementos--Listas" style="margin-top:30px;">Estabilidad: Alta estabilidad oxidativa, útil para freír y alimenticios procesados</li>
             </ol>
 
-            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Funciones</b></h2>
+            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#071637;">Funciones</b></h2>
 
             <ol>
               <li style="margin-top:30px;" class="Elementos--Listas">Fuente de Energía Calórica</li>
@@ -580,9 +612,9 @@
             </ol>
 
 
-            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h2>
+            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#071637;">Aplicaciones</b></h2>
 
-            <h2 class="Tipografia--general letranegro Titulos"><b style="color:#000020;">Industria Alimentaria</b></h2>
+            <h2 class="Tipografia--general letranegro Titulos"><b style="color:#071637;">Industria Alimentaria</b></h2>
 
             <p class="Elementos--Listas Tipografia--general colonegro">El <b>Aceite de Palma RBD</b> es una de las grasas más utilizadas en productos procesados gracias a su estabilidad y bajo costo:</p>
 
@@ -596,7 +628,7 @@
               <li style="margin-top:30px;" class="Elementos--Listas">Aceites y Grasas de Cocina: Por su estabilidad, es ideal para freír y saltear alimentos</li>
             </ol>
 
-            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Industria Cosmética</b></h2>
+            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#071637;">Industria Cosmética</b></h2>
 
             <p class="General--Cuerpo letranegro Tipografia--general">El <b>Aceite de Palma RBD</b> es ampliamente utilizado en productos de cuidado personal y cosméticos debido a su capacidad para emulsionar y proporcionar suavidad:</p>
 
@@ -607,7 +639,7 @@
               <li class="Elementos--Listas" style="margin-top:30px">Productos de Maquillaje: Usado en bases, labiales y bálsamos debido a su textura homogénea y duradera.</li>
             </ol>
 
-            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Industria Química e Industrial:</b></h2>
+            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#071637;">Industria Química e Industrial:</b></h2>
 
 
             <p class="General--Cuerpo letranegro Tipografia--general">Por su versatilidad química, el Aceite de Palma RBD es clave en varias aplicaciones industriales:</p>
@@ -619,14 +651,14 @@
               <li class="Elementos--Listas" style="margin-top:30px">Materiales de Limpieza: Ingrediente en detergentes y productos de limpieza ecológica.</li>
             </ol>
 
-            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Farmacéutica:</b></h2>
+            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#071637;">Farmacéutica:</b></h2>
 
             <ol>
               <li class="Elementos--Listas" style="margin-top:30px;">Usado en la formulación de cápsulas blandas y ciertos excipientes debido a su estabilidad y capacidad para portar principios activos.</li>
             </ol>
 
 
-            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Uso en Agricultura:</b></h2>
+            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#071637;">Uso en Agricultura:</b></h2>
 
             <ol>
               <li class="Elementos--Listas">Base en la formulación de alimentos balanceados para animales debido a su alto contenido energético.</li>

@@ -13,6 +13,16 @@
       gtag('js', new Date());
       gtag('config', 'G-SGJQ8FDDJ6');
     </script>
+
+<script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+    <script src="js/materialize.js" type="text/javascript"></script>
+    <script src="js/init.js"></script>
+    <script type="text/javscript" src="js/materialize.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
+    <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
   </head>
   <body>
   <div class="modal" id="modal1" style="overflow-y:auto;">
@@ -124,11 +134,11 @@
                         <h6 class="Tipografia--general Titulos" style="color:white;padding-top:5px">Teléfonos </h6>
                         <div class="col s12 m12 l12 xl12">
                           <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1888</p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996</p>
                         </div>
                         <div class="col s12 m12 l12 xl12"> 
                           <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1818 </p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996 </p>
                         </div>
                       </div>
                     </div>
@@ -195,7 +205,7 @@
       </ul>
     </div>
     <div class="row">  
-      <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+      <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
         <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo"></div>
       </nav>
     </div>
@@ -733,14 +743,6 @@
       <p style="color:black;text-align:center;font-size:16px"><strong>© 2014 | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download="download" style="color:black !important;font-size:16px">Politica de Privacidad  </a>
             <script type="text/javascript" src="js/main.js">   </script></a></strong></p>
     </div>
-    <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
-    <script src="js/materialize.js" type="text/javascript"></script>
-    <script src="js/init.js"></script>
-    <script type="text/javscript" src="js/materialize.min.js"></script>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
-    <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+    
   </footer>
 </html>

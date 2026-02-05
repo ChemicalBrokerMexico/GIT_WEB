@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Maltodextrina</title>
+    <title>Chemical Broker | Maltodextrina | Proveedor Global</title>
     <meta name="description" content="La Maltodextrina es un polímero formado por unidades de D-Glucosa unidad por medio de enlaces glicosídicos α (1-4) y α (1-6). Es un polvo blanco que se obtiene del maíz, arroz, almidón, papa y trigo, es decir almidones que deben cocinarse para posteriormente agregarle ácidos o enzimas">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
@@ -17,6 +17,32 @@
         gtag('js', new Date());
         gtag('config', 'G-SGJQ8FDDJ6');
     </script>
+
+<script type="application/Id+json">
+    {
+
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Maltodextrina",
+      "description": "La Maltodextrina es un polímero formado por unidades de D-Glucosa unidad por medio de enlaces glicosídicos α (1-4) y α (1-6). Es un polvo blanco que se obtiene del maíz, arroz, almidón, papa y trigo, es decir almidones que deben cocinarse para posteriormente agregarle ácidos o enzimas,
+      "brand": {
+        "@type": "Brand",
+        "name": "Chemical Broker"
+      },
+
+      "offers":{
+        "@type": "Offer",
+        "url": "https://chemicalbroker.mx/Maltodextrina.php",
+        "priceCurrency": "MXN",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Chemical Broker"
+        }
+      }
+    }
+  </script>
+
 </head>
 
 <body>
@@ -212,13 +238,13 @@
                                                 <h6 class="Tipografia--general Titulos" style="color:white !important;">
                                                     Ventas </h6>
                                                 <p class="Tipografia--general General--Cuerpo"
-                                                    style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1888</p>
+                                                    style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996</p>
                                             </div>
                                             <div class="col s12 m12 l12 xl12">
                                                 <h6 class="Tipografia--general Titulos" style="color:white !Important;">
                                                     Información General </h6>
                                                 <p class="Tipografia--general General--Cuerpo"
-                                                    style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1818 </p>
+                                                    style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996 </p>
                                             </div>
                                         </div>
                                     </div>
@@ -320,7 +346,7 @@
         </ul>
     </div>
     <div class="row">
-        <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+        <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
             <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png"
                     alt="Logotipo"></div>
         </nav>
@@ -629,42 +655,42 @@
 
                 <table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
                     <tr>
-                        <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px;"><b>Descripción Química:</b>
+                        <td style="border:1px solid #c0c0c0;background-color:#071637;color:white;font-size:18px;"><b>Descripción Química:</b>
                         </td>
                         <td style="border:1px solid #c0c0c0;font-size:18px">Maltodextrina</td>
                     </tr>
                     <tr>
-                        <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px"><b>Formula Estructural:</b>
+                        <td style="border:1px solid #c0c0c0;background-color:#071637;color:white;font-size:18px"><b>Formula Estructural:</b>
                         </td>
                         <td style="border:1px solid #c0c0c0;" class="center-align"><img
                                 src="img/FORMULA_ESTRUCTURAL_MALTODEXTRINA_080323.png" alt="" style="width:30%;"></td>
                     </tr>
                     <tr>
-                        <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px"><b>CAS No.:</b></td>
+                        <td style="border:1px solid #c0c0c0;background-color:#071637;color:white;font-size:18px"><b>CAS No.:</b></td>
                         <td style="border:1px solid #c0c0c0;font-size:18px">9050-36-6</td>
                     </tr>
                     <tr>
-                        <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px"><b>ChEBI:</b></td>
+                        <td style="border:1px solid #c0c0c0;background-color:#071637;color:white;font-size:18px"><b>ChEBI:</b></td>
                         <td style="border:1px solid #c0c0c0;font-size:18px">18398</td>
                     </tr>
                     <tr>
-                        <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px"><b>ChemSpider:</b></td>
+                        <td style="border:1px solid #c0c0c0;background-color:#071637;color:white;font-size:18px"><b>ChemSpider:</b></td>
                         <td style="border:1px solid #c0c0c0;font-size:18px">56445</td>
                     </tr>
                     <tr>
-                        <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px"><b>DrugBank:</b></td>
+                        <td style="border:1px solid #c0c0c0;background-color:#071637;color:white;font-size:18px"><b>DrugBank:</b></td>
                         <td style="border:1px solid #c0c0c0;font-size:18px">12583</td>
                     </tr>
                     <tr>
-                        <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px"><b>PubChem:</b></td>
+                        <td style="border:1px solid #c0c0c0;background-color:#071637;color:white;font-size:18px"><b>PubChem:</b></td>
                         <td style="border:1px solid #c0c0c0;font-size:18px">62698</td>
                     </tr>
                     <tr>
-                        <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px"><b>UNII:</b></td>
+                        <td style="border:1px solid #c0c0c0;background-color:#071637;color:white;font-size:18px"><b>UNII:</b></td>
                         <td style="border:1px solid #c0c0c0;font-size:18px">7CRV7L4A2D</td>
                     </tr>
                     <tr>
-                        <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px"><b>KEGG:</b></td>
+                        <td style="border:1px solid #c0c0c0;background-color:#071637;color:white;font-size:18px"><b>KEGG:</b></td>
                         <td style="border:1px solid #c0c0c0;font-size:18px">C01935</td>
                     </tr>
                 </table> -->

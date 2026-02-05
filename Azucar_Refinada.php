@@ -4,8 +4,8 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Azucar Refinada</title>
-  <meta name="description" content="Endulza tus productos con azúcar refinada de máxima pureza. Ideal para aplicaciones alimentarias e industriales, ofrece un sabor suave y uniforme que realza tus recetas y formulaciones. ¡Compra azúcar refinada de calidad premium al mejor precio!."> 
+  <title>Chemical Broker | Azucar Refinada | Proveedor Global</title>
+  <meta name="description" content="Azucar Refinada de alta pureza para la industria alimentaria. Ingredientes clave para bebidas, panificacion, confiteria y procesos industriales que requieren calidad, sabor y consistencia"> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/Azucar_Refinada.php">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
@@ -19,6 +19,33 @@
         gtag('config', 'G-SGJQ8FDDJ6');
     </script>
     <script type="text/javascript" src="js/main.js"></script>
+
+    <script type="application/Id+json">
+    {
+
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Azucar Refinada",
+      "description": "Azucar Refinada de alta pureza para la industria alimentaria. Ingredientes clave para bebidas, panificacion, confiteria y procesos industriales que requieren calidad, sabor y consistencia",
+      "brand": {
+        "@type": "Brand",
+        "name": "Chemical Broker"
+      },
+   
+      "offers":{
+        "@type": "Offer",
+        "url": "https://chemicalbroker.mx/Azucar_Refinada.php",
+        "priceCurrency": "MXN",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Chemical Broker"
+        }
+      }
+    }
+
+</script>
+
 </head>
 
 <body>
@@ -227,14 +254,14 @@
                                                 <p class="Tipografia--general General--Cuerpo"
                                                     style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue"
                                                         href="tel:+525575861888"
-                                                        style="color:#a7a7a7">+52.55.7586.1888</a></p>
+                                                        style="color:#a7a7a7">+52.55.4438.7996</a></p>
                                             </div>
                                             <div class="col s12 m12 l12 xl12">
                                                 <h6 class="Tipografia--general Titulos color--blanco">Información
                                                     General </h6>
                                                 <p class="Tipografia--general General--Cuerpo"
                                                     style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue"
-                                                        href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818
+                                                        href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996
                                                     </a></p>
                                             </div>
                                         </div>

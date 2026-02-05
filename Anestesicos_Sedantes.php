@@ -5,7 +5,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
   <title>Chemical Broker | Anestesicos y Sedantes</title>
-  <meta name="description" content="Descubre los usos, beneficios y aplicaciones de los sulfosuccinatos en nuestra completa guía. Los sulfosuccinatos son compuestos químicos versátiles ampliamente utilizados en diversas industrias, desde productos de cuidado personal hasta aplicaciones industriales. Conoce más sobre cómo los sulfosuccinatos pueden mejorar tus productos y procesos aquí.""> 
+  <meta name="description" content="Ofrecemos compuestos activos, excipientes farmaceuticos, estabilizantes, solventes grados USP y reguladores de pH que permiten formular anestesicos y sedantes con perfiles farmacocinéticos predecibles, adecuada biodisponibilidad y estabilidad durante el almacenamiento"> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/Anestesicos_Sedantes.php">
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
@@ -196,13 +196,13 @@
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1888</p>
+                          +52.55.4438.7996</p>
                       </div>
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General
                         </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1818 </p>
+                          +52.55.4438.7996 </p>
                       </div>
                     </div>
                   </div>
@@ -285,7 +285,7 @@
     </ul>
   </div>
   <div class="row">
-    <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+    <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
       <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo">
       </div>
     </nav>

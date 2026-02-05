@@ -156,11 +156,11 @@
 <h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Teléfonos </h6>
 <div class="col s12 m12 l12 xl12">
 <h6 class="Tipografia--general Titulos color--blanco">Ventas </h6>
-<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
 </div>
 <div class="col s12 m12 l12 xl12"> 
 <h6 class="Tipografia--general Titulos color--blanco">Información General </h6>
-<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
 </div>
 </div>
 </div>
@@ -442,7 +442,7 @@
     <div class="row">
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El pirofosfato ácido de calcio, también conocido como fosfato dicálcico o CaHPO4·2H2O, es un compuesto químico utilizado en varias aplicaciones industriales, alimentarias y farmacéuticas. </p>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020">Propiedades Físicas y Químicas</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637">Propiedades Físicas y Químicas</b></h5>
 
       <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Aspecto: Polvo blanco o cristalino.</li>
@@ -450,12 +450,12 @@
         <li class="Elementos--Listas" style="margin-top:30px;">pH: Las soluciones acuosas tienen un pH ligeramente ácido.</li>
       </ol>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Aplicaciones</b></h5>
 
 
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El pirofosfato ácido de calcio, conocido también como fosfato dicálcico, es un compuesto que se utiliza en diversas aplicaciones debido a sus propiedades químicas y su contenido en calcio y fósforo. </p>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria:</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Industria Alimentaria:</b></h5>
 
       <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Agente antiaglomerante: Se utiliza para prevenir la formación de grumos en productos en polvo como la leche en polvo, las harinas y las mezclas para hornear.</li>
@@ -465,14 +465,14 @@
       </ol>
 
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Suplementos Dietéticos:</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Suplementos Dietéticos:</b></h5>
 
       <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Fuente de calcio y fósforo: Utilizado en suplementos nutricionales y vitamínicos para proporcionar estos minerales esenciales, especialmente en productos destinados a la salud ósea y dental.</li>
       </ol>
     
       
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Farmacéutica:</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Industria Farmacéutica:</b></h5>
 
       <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Excipiente: Actúa como un material de relleno en tabletas y cápsulas, mejorando su estabilidad, estructura y liberación controlada de los ingredientes activos.</li>
@@ -480,28 +480,28 @@
       </ol>
 
          
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Agrícola:</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Industria Agrícola:</b></h5>
 
       <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Fertilizantes: Utilizado como fuente de fósforo en fertilizantes, contribuyendo al crecimiento y desarrollo de las plantas.</li>
         <li class="Elementos--Listas" style="margin-top:30px;">Aditivo en alimentos para animales: Aporta calcio y fósforo en la dieta de los animales, mejorando su salud y productividad.</li>
       </ol>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Producción Industrial:</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Producción Industrial:</b></h5>
 
       <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Fabricación de productos de limpieza: Utilizado en algunos detergentes y productos de limpieza.</li>
         <li class="Elementos--Listas" style="margin-top:30px;">Aditivo en cerámicas y materiales de construcción: Puede ser utilizado en la formulación de ciertos materiales cerámicos y productos de construcción.</li>
       </ol>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Cuidado Personal y Cosmética:</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Cuidado Personal y Cosmética:</b></h5>
 
       <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Pasta de dientes: A veces se usa en productos dentales para proporcionar calcio y fósforo, que ayudan a fortalecer los dientes y prevenir la caries.</li>
         <li class="Elementos--Listas" style="margin-top:30px;">Productos para el cuidado de la piel: Puede ser incluido en fórmulas para mejorar la textura y las propiedades del producto.</li>
       </ol>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Otras Aplicaciones</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Otras Aplicaciones</b></h5>
 
       <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Tratamiento de aguas: Se utiliza en el tratamiento de aguas para precipitar metales pesados y otras impurezas.</li>

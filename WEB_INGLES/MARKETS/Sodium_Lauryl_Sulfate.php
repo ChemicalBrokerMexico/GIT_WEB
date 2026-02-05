@@ -279,7 +279,7 @@
                                                     Ventas </h6>
                                                 <p class="Tipografia--general General--Cuerpo"
                                                     style="color: #a7a7a7 !important;">Teléfono:
-                                                    +52.55.7586.1888</p>
+                                                    +52.55.4438.7996</p>
                                             </div>
                                             <div class="col s12 m12 l12 xl12">
                                                 <h6 class="Tipografia--general Titulos" style="color:white !Important;">
@@ -287,7 +287,7 @@
                                                 </h6>
                                                 <p class="Tipografia--general General--Cuerpo"
                                                     style="color: #a7a7a7 !important;">Teléfono:
-                                                    +52.55.7586.1818 </p>
+                                                    +52.55.4438.7996 </p>
                                             </div>
                                         </div>
                                     </div>
@@ -387,7 +387,7 @@
         </ul>
     </div>
     <div class="row">
-        <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+        <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
             <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png"
                     alt="Logotipo">
             </div>
@@ -670,7 +670,7 @@
             <div class="col s12 m12 l12 xl12">
                 <!-- <h5 class="Tipografia--general letranegro Titulos"><b>Lauril
                         Sulfato de Sodio 94%</b></h5> -->
-                <p class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020;">El Lauril Sulfato de Sodio 94%</b> es un
+                <p class="Tipografia--general letranegro General--Cuerpo"><b style="color:#071637;">El Lauril Sulfato de Sodio 94%</b> es un
                     alquilsulfato en forma de polvo. El producto pertenece a los tensoactivos de naturaleza aniónica con
                     un alto contenido en sustancia activa de al menos el 94%.</p>
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Es un surfactante anionico con alto poder

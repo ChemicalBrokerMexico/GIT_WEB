@@ -141,11 +141,11 @@ gtag('config', 'G-SGJQ8FDDJ6');
                         <h6 class="Tipografia--general Titulos" style="color:white;padding-top:5px">Teléfonos </h6>
                         <div class="col s12 m12 l12 xl12">
                           <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
                         </div>
                         <div class="col s12 m12 l12 xl12"> 
                           <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
                         </div>
                       </div>
                     </div>
@@ -200,7 +200,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
       </ul>
     </div>
     <div class="row">  
-      <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+      <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
         <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo"></div>
       </nav>
     </div>

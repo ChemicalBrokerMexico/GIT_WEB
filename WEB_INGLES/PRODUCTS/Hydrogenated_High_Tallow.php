@@ -146,11 +146,11 @@
                         <h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Phone</h6>
                         <div class="col s12 m12 l12 xl12">
                           <h6 class="Tipografia--general Titulos color--blanco">Sales </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
                         </div>
                         <div class="col s12 m12 l12 xl12"> 
                           <h6 class="Tipografia--general Titulos color--blanco">General Information</h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
                         </div>
                       </div>
                     </div>
@@ -435,7 +435,7 @@
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El ácido graso de sebo hidrogenado es conocido por su notable versatilidad, lo que lo convierte en un aditivo común en una amplia gama de productos. El ácido graso de sebo hidrogenado (HFTA) se utiliza como intermediario en lubricantes y aceites para laminación, como emoliente en productos para el cuidado personal y como emulsionante en una variedad de aplicaciones. Se usa comúnmente como estabilizador en plásticos, agente espesante en ceras y como aglutinante en varios compuestos de pulido.</p>
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Chemical Broker ofrece ácido graso de sebo hidrogenado en forma de sebo, escamas o líquido en una variedad de opciones de empaque. Como uno de los principales proveedores de productos oleoquímicos en el mundo con más de 9 años de experiencia, puede contar con nosotros para brindarle productos como el ácido graso de sebo hidrogenado (HFTA), confiables y rentables que lo ayudarán a alcanzar sus objetivos de fabricación específicos.</p>
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Estamos orgullosos de atender las necesidades de las empresas en industrias como Farmaceutica, Alimentaria, Cosmeticos y Cuidado Personaldetergencia y Cuidado del Hogar y muchas otras.</p> 
-                <h5 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;"><b style="color:#000020;">Usos</b></h5>
+                <h5 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;"><b style="color:#071637;">Usos</b></h5>
                 <ol>
                     <li class="Elementos--Listas" style="list-style-type:disc;">Aditivo</li>
                     <br>
@@ -454,7 +454,7 @@
                     <li class="Elementos--Listas" style="list-style-type:disc;">Tensoactivo</li>
               
                 </ol>   
-                <h5 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h5>    
+                <h5 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;"><b style="color:#071637;">Aplicaciones</b></h5>    
                 <ol>
                     <li class="Elementos--Listas" style="list-style:disc;">Cuidado Personal:</li>
                     <br>

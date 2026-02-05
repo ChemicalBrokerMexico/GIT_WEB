@@ -278,7 +278,7 @@
                                                     Ventas </h6>
                                                 <p class="Tipografia--general General--Cuerpo"
                                                     style="color: #a7a7a7 !important;">Teléfono:
-                                                    +52.55.7586.1888</p>
+                                                    +52.55.4438.7996</p>
                                             </div>
                                             <div class="col s12 m12 l12 xl12">
                                                 <h6 class="Tipografia--general Titulos" style="color:white !Important;">
@@ -286,7 +286,7 @@
                                                 </h6>
                                                 <p class="Tipografia--general General--Cuerpo"
                                                     style="color: #a7a7a7 !important;">Teléfono:
-                                                    +52.55.7586.1818 </p>
+                                                    +52.55.4438.7996 </p>
                                             </div>
                                         </div>
                                     </div>
@@ -374,7 +374,7 @@
         </ul>
     </div>
     <div class="row">
-        <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+        <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
             <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png"
                     alt="Logotipo">
             </div>
@@ -646,7 +646,7 @@
         </div>
     </div>
 
-    <div class="container" style="background:linear-gradient(#C0C0C0, #000020);">
+    <div class="container" style="background:linear-gradient(#C0C0C0, #071637);">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
               <p class="colornegro Tipografia--general General--Cuerpo" style="color:white;">La Excelencia existe en uno mismo, al levantarse día a día con la consigna de ser mejor que el día anterior y crecer a un ritmo constante. En Chemical Broker nos interesa hacer, compartir y descubrir la excelencia en las personas, para llegar a la excelencia con nuestro equipo de trabajo.</p>

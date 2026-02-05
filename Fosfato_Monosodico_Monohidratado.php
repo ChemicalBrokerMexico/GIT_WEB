@@ -3,7 +3,7 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Fosfato Monosódico Monohidratado</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <title>Chemical Broker | Fosfato Monosódico Monohidratado | Proveedor Global</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="El fosfato monosódico monohidratado, también conocido como fosfato de sodio monobásico monohidratado, es un compuesto químico con la fórmula NaH₂PO₄·H₂O. Este compuesto es la forma monohidratada del fosfato monosódico y se utiliza en diversas aplicaciones industriales y alimentarias.">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/Fosfato_Monosodico_Monohidratado.php">
@@ -23,6 +23,31 @@
             $('#table_id2').DataTable();
         });
     </script>
+
+<script type="application/Id+json">
+    {
+
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Fosfato Monosodico Monohidratado",
+      "description": "El fosfato monosódico monohidratado, también conocido como fosfato de sodio monobásico monohidratado, es un compuesto químico con la fórmula NaH₂PO₄·H₂O. Este compuesto es la forma monohidratada del fosfato monosódico y se utiliza en diversas aplicaciones industriales y alimentarias.,
+      "brand": {
+        "@type": "Brand",
+        "name": "Chemical Broker"
+      },
+
+      "offers":{
+        "@type": "Offer",
+        "url": "https://chemicalbroker.mx/Fosfato_Monosodico_Monohidratado.php",
+        "priceCurrency": "MXN",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Chemical Broker"
+        }
+      }
+    }
+  </script>
 
 </head>
 <body> 
@@ -148,11 +173,11 @@
 <h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Teléfonos </h6>
 <div class="col s12 m12 l12 xl12">
 <h6 class="Tipografia--general Titulos color--blanco">Ventas </h6>
-<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
 </div>
 <div class="col s12 m12 l12 xl12"> 
 <h6 class="Tipografia--general Titulos color--blanco">Información General </h6>
-<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
 </div>
 </div>
 </div>
@@ -435,7 +460,7 @@
 
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b>Fosfato Monosódico Monohidratado</b>, también conocido como <b>Fosfato de Sodio Monobásico Monohidratado</b>, es un compuesto químico con la fórmula NaH₂PO₄·H₂O. Este compuesto es la forma monohidratada del fosfato monosódico y se utiliza en diversas aplicaciones industriales y alimentarias.</p>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Características</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Características</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Fórmula química: NaH₂PO₄·H₂O.</li>
@@ -445,49 +470,49 @@
 </ol>
 
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Aplicaciones</b></h5>
 
 <p class="Tipografia--general letranegro General--Cuerpo">El <b>Fosfato Monosódico Monohidratado</b> tiene una amplia gama de aplicaciones en diversas industrias debido a sus propiedades químicas útiles. Aquí tienes algunas de sus aplicaciones más comunes:</p>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Industria Alimentaria</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Aditivo Alimentario: Se utiliza como regulador de la acidez (pH) en una variedad de productos alimenticios.</li>
     <li class="Elementos--Listas" style="margin-top:30px;">Emulsionante: Actúa como agente emulsionante en productos como productos horneados, lácteos, aderezos para ensaladas y salsas.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Farmacéutica:</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Industria Farmacéutica:</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Formulación de Medicamentos: Se utiliza en la fabricación de ciertos medicamentos como suplemento mineral y para ajustar el pH de las formulaciones.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Laboratorio Químico:</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Laboratorio Químico:</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Soluciones Tampón: Se utiliza para preparar soluciones tampón que mantienen un pH constante en una variedad de experimentos químicos y bioquímicos.</li>
     <li class="Elementos--Listas" style="margin-top:30px;">Reactivo en Síntesis Química: Puede ser utilizado como reactivo en la síntesis de compuestos químicos orgánicos e inorgánicos.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Tratamiento de Agua:</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Tratamiento de Agua:</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Prevención de Corrosión: Se utiliza en sistemas de tratamiento de agua para prevenir la corrosión de metales.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Agricultura:</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Agricultura:</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Fertilizantes: A veces se incluye en fertilizantes para proporcionar fósforo a las plantas, que es un nutriente esencial para su crecimiento y desarrollo.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Productos de Limpieza:</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Productos de Limpieza:</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">A menudo se incluye en formulaciones de productos de limpieza y detergentes como agente para eliminar manchas y como regulador de pH.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Cosmética:</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Industria Cosmética:</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">En algunas formulaciones cosméticas, se utiliza como regulador de pH y estabilizador de emulsiones en cremas y lociones.</li>
@@ -495,7 +520,7 @@
       
 
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria del Papel</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Industria del Papel</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Se utiliza en el proceso de fabricación de papel como aditivo para mejorar la adhesión de las fibras y el rendimiento de la pasta de papel.</li>

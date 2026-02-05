@@ -3,8 +3,8 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Bicarbonato de Sodio de Solvay</title>
-  <meta name="description" content="Ofrecemos bicarbonato de sodio de alta pureza, ideal para aplicaciones alimentarias, de limpieza y en diversas industrias. Versátil y efectivo, nuestro producto garantiza resultados óptimos en cada uso. ¡Elige nuestro bicarbonato de sodio para calidad y rendimiento superior en tus procesos!.">
+  <title>Chemical Broker | Bicar Pharma API de Solvay</title>
+  <meta name="description" content="Bicar Pharma API de alta pureza para formulaciones farmacéuticas. Ingrediente activo confiable, estable y con cumplimiento regulatorio para desarrollos seguros y de calidad">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/Bicar-Pharma-API.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -223,13 +223,13 @@
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1888</p>
+                          +52.55.4438.7996</p>
                       </div>
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General
                         </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1818 </p>
+                          +52.55.4438.7996 </p>
                       </div>
                     </div>
                   </div>
@@ -313,7 +313,7 @@
     </ul>
   </div>
   <div class="row">
-    <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+    <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
       <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo">
       </div>
     </nav>
@@ -575,7 +575,7 @@
   <div class="container">
     <div class="row">
         <div class="col s12 m12 l12 xl12">
-            <h2 class="letranegro Tipografia--general Titulos" style="width:535px;"><b style="color:#000020;">Bicarbonato de Sodio (Ingrediente Farmacéutico Activo)</b></h2>
+            <h2 class="letranegro Tipografia--general Titulos" style="width:535px;"><b style="color:#071637;">Bicarbonato de Sodio (Ingrediente Farmacéutico Activo)</b></h2>
         </div>
         <div class="col s12 m12 l4 xl4">
 <img src="img/bicar1.jpg" alt="" style="width:100%;border-radius:10px;">
@@ -591,37 +591,37 @@
         <div class="col s12 m12 l12 xl12">
             <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b>Bicarbonato de Sodio (NaHCO3)</b> es un compuesto químico que tiene propiedades alcalinas y puede actuar como un tampón en soluciones, ayudando a mantener el equilibrio del pH.</p>
             <p class="Tipografia--general letranegro General--Cuerpo">En algunas circunstancias el <b>Bicarbonato de Sodio</b> se utiliza como Ingrediente Farmacéutico Activo (API); por sus siglas en inglés, en la formulación de ciertos medicamentos.</p>
-            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">El Bicarbonato de Sodio ICH Q7</b> cumple con la normatividad y pautas establecidas por la Buenas Prácticas de manufactura y la Conferencia Internacional de Armonización para su uso en aplicaciones farmacéuticas como Ingrediente Farmacéutico Activo.</b></p>
+            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">El Bicarbonato de Sodio ICH Q7</b> cumple con la normatividad y pautas establecidas por la Buenas Prácticas de manufactura y la Conferencia Internacional de Armonización para su uso en aplicaciones farmacéuticas como Ingrediente Farmacéutico Activo.</b></p>
             <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Aplicaciones Farmacéuticas</b></h2>
             <p class="Tipografia--general letranegro General--Cuerpo"><b>Antiácidos. -</b> El <b>Bicarbonato de Sodio</b> se utiliza a veces como ingrediente en productos antiácidos para aliviar la acidez estomacal y la indigestión. Al reaccionar con el ácido estomacal, puede ayudar a neutralizar el exceso de ácido.</b></p>
             <p class="Tipografia--general letranegro General--Cuerpo"><b>Tratamiento de la acidosis.</b> - En situaciones medicas específicas, como la acidosis metabólica, el <b>Bicarbonato de Sodio</b> puede ser administrado como parte del tratamiento para corregir el desequilibrio acido - base en el cuerpo</b></p>
             <p class="Tipografia--general letranegro General--Cuerpo"><b>Alcalinización de la orina. -</b> En ciertos casos clínicos, el <b>Bicarbonato de Sodio</b> puede ser utilizado para alcalinizar la orina y ayudar en el tratamiento de ciertas condiciones médicas.</b></p>
-            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Fabricante</b></h2>
+            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#071637;">Fabricante</b></h2>
             <img src="img/LOGO_SOLVAY.jpg" alt="" class="Solvay_Bicar_Pharma">
-            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Descargas</b></h2>
+            <h2 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#071637;">Descargas</b></h2>
             <div class="col s12 m12 l6 xl6">
-            <div style="border:1px solid #000020;border-radius:15px;height:500px;">
+            <div style="border:1px solid #071637;border-radius:15px;height:500px;">
                 <center><img src="img/flecha_ico.png" alt="" width="30%"></center>
-                <hr style="border: 2px solid #000020;width:50%;">
-                <h2 class="Tipografia--general letranegro Titulos" style="text-align:center;"><b style="color:#000020;">Literatura Técnica</b></h2>
+                <hr style="border: 2px solid #071637;width:50%;">
+                <h2 class="Tipografia--general letranegro Titulos" style="text-align:center;"><b style="color:#071637;">Literatura Técnica</b></h2>
                 <ol>
                     <li style="list-style-type:disc;">Hoja Técnica de Producto</li>
                     <ol>
-                       <a href="PDF/SOLVAY_PDS_BICARPHARMA-API_010416.pdf" download><li style="list-style-type:circle;color:#000020" class="arrowblue"">SOLVAY_PDS_BICARPHARMA-APL_010416.pdf</li></a>
+                       <a href="PDF/SOLVAY_PDS_BICARPHARMA-API_010416.pdf" download><li style="list-style-type:circle;color:#071637" class="arrowblue"">SOLVAY_PDS_BICARPHARMA-APL_010416.pdf</li></a>
                     </ol>
                 </ol>
             </div>
             </div>
       
             <div class="col s12 m12 l6 xl6">
-            <div style="border:1px solid #000020;border-radius:15px;height:500px;">
+            <div style="border:1px solid #071637;border-radius:15px;height:500px;">
                 <center><img src="img/formula_ico.png" alt="" width="30%"></center>
-                <hr style="border: 2px solid #000020;width:50%;">
-                <h2 class="Tipografia--general letranegro Titulos" style="text-align:center;"><b style="color:#000020;">Cátalogos</b></h2>
+                <hr style="border: 2px solid #071637;width:50%;">
+                <h2 class="Tipografia--general letranegro Titulos" style="text-align:center;"><b style="color:#071637;">Cátalogos</b></h2>
                 <ol>
                     <li style="list-style-type:disc;">Catalogo BicarPharma</li>
                     <ol>
-                       <a href="PDF/SOLVAY_PDS_BICARPHARMA-API_010416.pdf" download><li style="list-style-type:circle;color: #000020;" class="arrowblue">SOLVAY_PDS_BICARPHARMA-API_010416.pdf</li></a>
+                       <a href="PDF/SOLVAY_PDS_BICARPHARMA-API_010416.pdf" download><li style="list-style-type:circle;color: #071637;" class="arrowblue">SOLVAY_PDS_BICARPHARMA-API_010416.pdf</li></a>
                     </ol>
                 </ol>
                 

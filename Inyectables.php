@@ -125,11 +125,11 @@
                         <h6 class="Tipografia--general Titulos" style="color:white;padding-top:5px">Teléfonos </h6>
                         <div class="col s12 m12 l12 xl12">
                           <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1888</p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996</p>
                         </div>
                         <div class="col s12 m12 l12 xl12"> 
                           <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1818 </p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996 </p>
                         </div>
                       </div>
                     </div>
@@ -196,7 +196,7 @@
       </ul>
     </div>
     <div class="row">  
-      <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+      <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
         <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo"></div>
       </nav>
     </div>
@@ -393,12 +393,12 @@
       <div class="row">
         <div class="col s12 m12 l12 xl12">
           <p class="Tipografia--general letranegro General--Cuerpo">Los medicamentos inyectables han crecido en cuanto a su uso se refiere, esto debido al uso de medicamentos de precisión y medicamentos biofarmacéuticos. Los (API) o principios activos farmacéuticos son cada vez más complicados de administrar a nivel terapéutico debido a cuestiones de biodisponibilidad.</p> 
-          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Crecimiento de la Industria</b></h5>
+          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Crecimiento de la Industria</b></h5>
           <p class="Tipografia--general letranegro General--Cuerpo">Se espera que el mercado de medicamentos inyectables este valorado en USD 510,32 millones en 2022, con una tasa compuesta anual de 7.88% durante el periodo de pronóstico.</p>
           <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Debido a un numero creciente de enfermedades crónicas, como transtornos cardivasculares, diabetes, cancer, la demanda de medicamentos inyectados a crecido de manera significativa.</p>
           <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Las jeringas precargadas han ganado una aceptación sustancial como sistemas de administración de fármacos inyectables y productos bilógicos en el tratamiento de enfermedades crónicas. Su facilidad de administración y mayor seguridad y eficacia aumentaron la competencia entre las principales empresas que ofrecen medicamentos inyectables. </p>
           <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Con la necesidad de métodos de administración de medicamentos mas convenientes, las jeringas prellenadas se están convirtiendo en la opción de más rápido crecimiento para medicamentos de una dosis unitaria (minimizando el error de dosificación) para reducir el desperdicio de medicamentos y aumentar la vida útil del producto.</p>
-          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Tipos de inyectables</b></h5>
+          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Tipos de inyectables</b></h5>
           <ol style="margin-top:30px;list-style-type: disc;">
           <li class="Elementos--Listas">Subcutáneo: Se aplica en el tejido adiposo, justo bajo la piel y resulta perfecta para la administración de algunos medicamentos anticoagulante, insulina y fármacos para la fecundidad.</li>
           <br>

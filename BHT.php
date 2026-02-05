@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Butilhidroxitolueno (BHT)</title>
+  <title>Chemical Broker | Butilhidroxitolueno (BHT) | Proveedor Global</title>
   <meta name="description" content="Maximiza la estabilidad y protección de tus productos con BHT, un potente antioxidante ideal para aplicaciones alimentarias, cosméticas e industriales. Previene la oxidación y extiende la vida útil de tus formulaciones. ¡Compra BHT de alta pureza al mejor precio!"> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/BHT.php">
@@ -18,6 +18,32 @@
         gtag('js', new Date());
         gtag('config', 'G-SGJQ8FDDJ6');
     </script>
+
+<script type="application/Id+json">
+    {
+
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "BHT",
+      "description": "Maximiza la estabilidad y protección de tus productos con BHT, un potente antioxidante ideal para aplicaciones alimentarias, cosméticas e industriales. Previene la oxidación y extiende la vida útil de tus formulaciones. ¡Compra BHT de alta pureza al mejor precio!",
+      "brand": {
+        "@type": "Brand",
+        "name": "Chemical Broker"
+      },
+
+      "offers":{
+        "@type": "Offer",
+        "url": "https://chemicalbroker.mx/BHT.php",
+        "priceCurrency": "MXN",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Chemical Broker"
+        }
+      }
+    }
+
+  </script>
 
 </head>
 
@@ -251,7 +277,7 @@
                                                     Ventas </h6>
                                                 <p class="Tipografia--general General--Cuerpo"
                                                     style="color: #a7a7a7 !important;">Teléfono:
-                                                    +52.55.7586.1888</p>
+                                                    +52.55.4438.7996</p>
                                             </div>
                                             <div class="col s12 m12 l12 xl12">
                                                 <h6 class="Tipografia--general Titulos" style="color:white !Important;">
@@ -259,7 +285,7 @@
                                                 </h6>
                                                 <p class="Tipografia--general General--Cuerpo"
                                                     style="color: #a7a7a7 !important;">Teléfono:
-                                                    +52.55.7586.1818 </p>
+                                                    +52.55.4438.7996 </p>
                                             </div>
                                         </div>
                                     </div>
@@ -375,7 +401,7 @@
         </ul>
     </div>
     <div class="row">
-        <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+        <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
             <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png"
                     alt="Logotipo">
             </div>
@@ -1023,7 +1049,7 @@
 
                     <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Aplicaciones</b></h5>
 
-                    <h5 class="Tipografia--general General--Cuerpo" style="margin-top:30px;"><b style="color:#000020;">Alimentaria y Nutrición Humana:</b></h5>
+                    <h5 class="Tipografia--general General--Cuerpo" style="margin-top:30px;"><b style="color:#071637;">Alimentaria y Nutrición Humana:</b></h5>
 
                     <ol>
                         <li class="Elementos--Listas" style="margin-top:30px;">Cereales</li>
@@ -1041,7 +1067,7 @@
                         <li class="Elementos--Listas" style="margin-top:30px;">Mantecas vegetales</li>
                     </ol>
 
-                    <h5 class="Tipografia--general General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Cosméticos y Cuidado Personal:</b></h5>
+                    <h5 class="Tipografia--general General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Cosméticos y Cuidado Personal:</b></h5>
 
                     <ol style="margin-top:30px;">
                         <li class="Elementos--Listas" style="margin-top:30px;">Desodorantes</li>
@@ -1051,7 +1077,7 @@
                         <li class="Elementos--Listas" style="margin-top:30px;">Cremas faciales</li>
                     </ol>
 
-                    <h5 class="Tipografia--general General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Farmacéutica</b></h5>
+                    <h5 class="Tipografia--general General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Farmacéutica</b></h5>
 
                     <ol style="margin-top:30px;">
                         <li class="Elementos--Listas">Multi-vitaminas</li>

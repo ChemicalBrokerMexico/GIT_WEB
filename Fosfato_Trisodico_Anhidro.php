@@ -3,7 +3,7 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Fosfato Trisódico Anhidro</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <title>Chemical Broker | Fosfato Trisódico Anhidro | Proveedor Global</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="Los fosfatos se pueden definir como productos quimicos versatiles y multifuncionales que se comercializan ampliamente en diversas industiras debido a sus propiedades beneficiosas y aplicaciones variadas">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
@@ -34,6 +34,32 @@
       gtag('js', new Date());
       gtag('config', 'G-SGJQ8FDDJ6');
     </script>
+
+<script type="application/Id+json">
+    {
+
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Fosfato Trisodico Anhidro",
+      "description": "Los fosfatos se pueden definir como productos quimicos versatiles y multifuncionales que se comercializan ampliamente en diversas industiras debido a sus propiedades beneficiosas y aplicaciones variadas,
+      "brand": {
+        "@type": "Brand",
+        "name": "Chemical Broker"
+      },
+
+      "offers":{
+        "@type": "Offer",
+        "url": "https://chemicalbroker.mx/Fosfato_Trisodico_Anhidro.php",
+        "priceCurrency": "MXN",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Chemical Broker"
+        }
+      }
+    }
+  </script>
+
 <script type="text/javascript" src="js/main.js"></script>
 </head>
 <body> 
@@ -159,11 +185,11 @@
 <h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Teléfonos </h6>
 <div class="col s12 m12 l12 xl12">
 <h6 class="Tipografia--general Titulos color--blanco">Ventas </h6>
-<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
 </div>
 <div class="col s12 m12 l12 xl12"> 
 <h6 class="Tipografia--general Titulos color--blanco">Información General </h6>
-<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
 </div>
 </div>
 </div>
@@ -446,7 +472,7 @@
 
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b style="color:#FF6600;">Fosfato Trisódico Anhidro</b> (Na₃PO₄) es un compuesto químico inorgánico que pertenece a la categoría de los Fosfatos de Sodio. Se presenta como un sólido cristalino blanco, que es altamente soluble en agua y tiene propiedades alcalinas. "Anhidro" significa que el compuesto está en su forma seca, sin agua asociada</p>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020">Características Principales</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637">Características Principales</b></h5>
 
       <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Fórmula Química: Na₃PO₄</li>
@@ -456,7 +482,7 @@
       
       </ol>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Propiedades Químicas</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Propiedades Químicas</b></h5>
 
       <ol>
         <li style="list-style-type:disc" class="Elementos--Listas">pH: Soluciones acuosas de Fosfato Trisódico son fuertemente alcalinas, con un pH típicamente entre 11 y 12.</li>
@@ -475,11 +501,11 @@
       </ol>
 
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Aplicaciones</b></h5>
 
       <p class="Tipografia--general letranegro General--Cuerpo">El <b>Fosfato Trisódico Anhidro</b> (Na₃PO₄) tiene una amplia gama de aplicaciones en diversas industrias debido a sus propiedades químicas y físicas.</p>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria de Detergentes y Limpieza:</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Industria de Detergentes y Limpieza:</b></h5>
 
       <ol>
         <li class="Elementos--Listas">Detergentes para Ropa: Se utiliza para mejorar la eficacia de los detergentes al ablandar el agua dura, lo que facilita la eliminación de manchas y suciedad.</li>
@@ -488,7 +514,7 @@
       </ol>
     
       
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Tratamiento de Agua:</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Tratamiento de Agua:</b></h5>
 
       <ol>
         <li class="Elementos--Listas">Ablandamiento del Agua: Ayuda a prevenir la formación de incrustaciones y corrosión en calderas y sistemas de agua caliente.</li>
@@ -496,59 +522,59 @@
       </ol>
 
          
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria:</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Industria Alimentaria:</b></h5>
 
       <ol>
         <li class="Elementos--Listas">Aditivo Alimentario (E339): Utilizado como regulador de acidez, agente emulsificante y estabilizante en productos como quesos procesados, productos horneados y carnes procesadas.</li>
         <li class="Elementos--Listas">Acondicionador de Masa: Mejora la textura y volumen de productos horneados.</li>
       </ol>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria de la Construcción:</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Industria de la Construcción:</b></h5>
 
       <ol>
         <li class="Elementos--Listas" >Preparación de Superficies: En la preparación de superficies para mejorar la adherencia de pinturas y revestimientos.</li>
         <li class="Elementos--Listas" >Desengrasado: Utilizado para desengrasar y limpiar superficies antes de la aplicación de revestimientos.</li>
       </ol>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Textil:</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Industria Textil:</b></h5>
 
       <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Procesos de Lavado y Tinción: Utilizado en el pretratamiento y lavado de tejidos para eliminar impurezas y mejorar la absorción de tintes.</li>
       </ol>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria del Papel:</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Industria del Papel:</b></h5>
 
       <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Tratamiento de Pulpa y Papel: Ayuda en el proceso de blanqueo y en la mejora de la calidad del papel al controlar el pH.</li>
       </ol>
     
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Laboratorios Químicos:</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Laboratorios Químicos:</b></h5>
 
       <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Reactivo Químico: Empleado como reactivo en diversas reacciones químicas y experimentos de laboratorio.</li>
       </ol>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Fotográfica:</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Industria Fotográfica:</b></h5>
 
 <ol>
   <li class="Elementos--Listas" style="margin-top:30px;">Procesos de Revelado: Utilizado en algunas formulaciones de reveladores fotográficos.</li>
 </ol>
 
-<h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Horticultura y Agricultura:</b></h5>
+<h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Horticultura y Agricultura:</b></h5>
 
 <ol>
   <li class="Elementos--Listas" style="margin-top:30px;">Fertilizantes: Aunque no es común, puede ser utilizado en formulaciones de fertilizantes para proporcionar fósforo y mejorar el crecimiento de las plantas.</li>
 </ol>
 
 
-<h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Otros Usos:</b></h5>
+<h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Otros Usos:</b></h5>
 
 <ol>
   <li class="Elementos--Listas">Desengrasante: Utilizado en la formulación de desengrasantes industriales.</li>
   <li class="Elementos--Listas">Fabricación de Cerámica: Ayuda en la preparación de mezclas cerámicas y en el control del pH durante la producción.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Caracteristicas:</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Caracteristicas:</b></h5>
 
 <div style="background-color:#7F7F7F;margin-top:50px;">
     <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:white;"><b>Fosfato Mono Sódico Anhidro (MSPA) | Grado Alimentos</b></h5>

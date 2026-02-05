@@ -2,12 +2,12 @@
 <div class="card-image waves-effect waves-block waves-light">
   <img class="activator" src="img/PANIFICACION_280421.jpeg">
 </div>
-<div class="card-content" style="background-color:#200142;opacity:0.9;">
+<div class="card-content" style="background-color:#071637;opacity:0.9;">
   <span class="card-title activator" style="color:white;">Panificacion<i
       class="material-icons right">more_vert</i></span>
   <p style="color:white;">Aplicaciones</p>
 </div>
-<div class="card-reveal" style="background-color:#200142;opacity:0.9;">
+<div class="card-reveal" style="background-color:#071637;opacity:0.9;">
   <i class="material-icons right" style="color:white;">close</i>
   <ol>
     <li style="color:white;list-style:circle;">Ayuda a mejorar la mezcla de ingredientes.</li>

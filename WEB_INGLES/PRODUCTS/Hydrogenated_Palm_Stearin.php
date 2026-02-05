@@ -146,11 +146,11 @@
                         <h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Phone</h6>
                         <div class="col s12 m12 l12 xl12">
                           <h6 class="Tipografia--general Titulos color--blanco">Sales </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
                         </div>
                         <div class="col s12 m12 l12 xl12"> 
                           <h6 class="Tipografia--general Titulos color--blanco">General Information</h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
                         </div>
                       </div>
                     </div>
@@ -448,13 +448,13 @@
           velas, industria de alimentos y piensos.</p>
         <table style="border:1px solid #f2f2f2;margin-top:50px;">
           <tr>
-            <th style="background-color:#000020;color:rgba(2 146 238 /99%);border-right: 1px solid white;font-size:18px"
+            <th style="background-color:#071637;color:rgba(2 146 238 /99%);border-right: 1px solid white;font-size:18px"
               class="center-align">Especificación</th>
-            <th style="background-color:#000020;color:rgba(2 146 238 /99%);border-right: 1px solid white;font-size:18px"
+            <th style="background-color:#071637;color:rgba(2 146 238 /99%);border-right: 1px solid white;font-size:18px"
               class="center-align">Unidad</th>
-            <th style="background-color:#000020;color:rgba(2 146 238 /99%);border-right: 1px solid white;font-size:18px"
+            <th style="background-color:#071637;color:rgba(2 146 238 /99%);border-right: 1px solid white;font-size:18px"
               class="center-align">Parametros</th>
-            <th style="background-color:#000020;color:rgba(2 146 238 /99%);border-right: 1px solid white;font-size:18px"
+            <th style="background-color:#071637;color:rgba(2 146 238 /99%);border-right: 1px solid white;font-size:18px"
               class="center-align">Método</th>
           </tr>
           <tr>
@@ -516,7 +516,7 @@
         </table>
         <div class="col s12 m12 l12 xl12">
           <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b
-              style="color:#000020;">Funciones</b></h5>
+              style="color:#071637;">Funciones</b></h5>
           <ol>
             <li class="Elementos--Listas" style="list-style-type:disc;">Acondicionador</li>
             <br>
@@ -529,7 +529,7 @@
             <li class="Elementos--Listas" style="list-style-type:disc;">Control de viscocidad</li>
           </ol>
           <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b
-              style="color:#000020;">Aplicaciones</b></h5>
+              style="color:#071637;">Aplicaciones</b></h5>
           <ol>
             <li style="list-style-type: disc;">Alimentaria</li>
             <br>
@@ -576,8 +576,8 @@
         </div>
         <div class="col s12 m12 l12 xl12">
           <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b
-              style="color:#000020;">Origen</b></h5>
-          <p class="letranegro General--Cuerpo Tipografia--general"><b style="color:#000020;">Indonesia</b> es el más
+              style="color:#071637;">Origen</b></h5>
+          <p class="letranegro General--Cuerpo Tipografia--general"><b style="color:#071637;">Indonesia</b> es el más
             grande del mundo Productor y Exportador de Aceite de Palma. La producción de aceite de palma es importante
             para la economía de Indonesia, ya que el país es el mayor productor y exportador mundial de este producto.
             Indonesia proporciona más de la mitad del suministro mundial de aceite de palma.</p>
@@ -591,11 +591,11 @@
           <table class="center-align" style="margin-top:50px;">
 
             <tr>
-              <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;font-size:18px" class="center-align">Año
+              <th style="background-color:#071637;color: white;border-right:1px solid #f2f2f2;font-size:18px" class="center-align">Año
               </th>
-              <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;font-size:18px" class="center-align">
+              <th style="background-color:#071637;color: white;border-right:1px solid #f2f2f2;font-size:18px" class="center-align">
                 Tipo Operación</th>
-              <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;font-size:18px" class="center-align">
+              <th style="background-color:#071637;color: white;border-right:1px solid #f2f2f2;font-size:18px" class="center-align">
                 Cantidad (Kg.)</th>
             </tr>
             <tr>
@@ -625,11 +625,11 @@
         <table class="center-align" style="margin-top:50px;">
 
           <tr>
-            <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;font-size:18px" class="center-align">Año
+            <th style="background-color:#071637;color: white;border-right:1px solid #f2f2f2;font-size:18px" class="center-align">Año
             </th>
-            <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;font-size:18px" class="center-align">Tipo
+            <th style="background-color:#071637;color: white;border-right:1px solid #f2f2f2;font-size:18px" class="center-align">Tipo
               Operacion</th>
-            <th style="background-color:#000020;color: white;border-right:1px solid #f2f2f2;font-size:18px" class="center-align">
+            <th style="background-color:#071637;color: white;border-right:1px solid #f2f2f2;font-size:18px" class="center-align">
               Cantidad (Kg.)</th>
           </tr>
           <tr>
@@ -645,12 +645,12 @@
         </table>
         <div class="col s12 m12 l12 xl12">
         <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b
-              style="color:#000020;">Presentacion</b></h5>
+              style="color:#071637;">Presentacion</b></h5>
               <ol>
                 <li style="list-style-type: disc;">Saco de 25Kg.</li>
               </ol>
               <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b
-              style="color:#000020;">Certificaciones</b></h5>
+              style="color:#071637;">Certificaciones</b></h5>
               <ol>
                 <li style="list-style-type: disc;">Kosher</li>
                 <li style="list-style-type: disc;">Halal</li>

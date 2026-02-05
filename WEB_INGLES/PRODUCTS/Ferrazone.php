@@ -150,11 +150,11 @@
                         <h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Phone</h6>
                         <div class="col s12 m12 l12 xl12">
                           <h6 class="Tipografia--general Titulos color--blanco">Sales </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
                         </div>
                         <div class="col s12 m12 l12 xl12"> 
                           <h6 class="Tipografia--general Titulos color--blanco">General Information</h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
                         </div>
                       </div>
                     </div>
@@ -667,10 +667,10 @@
 
             </div>
             <div class="col s12 m12 l12 xl1">
-                <h5 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020">Proveedor</b></h5>
+                <h5 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#071637">Proveedor</b></h5>
                 <img src="img/LOGO_NOURYON_100124.png" alt="" style="margin-top:10px" width="300%">
                 <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b
-                        style="color:#000020">Grados:</b></h5>
+                        style="color:#071637">Grados:</b></h5>
                 <table style="border:1px solid #f2f2f2;width:800px;">
                     <tr>
                         <td><a href="Proximamente.php" class="General--Cuerpo"><b style="color:#C00000;cursor:pointer;padding:5px;"

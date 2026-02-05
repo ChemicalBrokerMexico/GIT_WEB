@@ -101,12 +101,12 @@ session_start();
                 <h5 style="text-align:center;color:white;padding-top:10px;"><b><span style="font-size:70px;">5</span><br><br>Nuevos
                         Candidatos</b></h5>
                 <ol>
-                    <li style="list-style-type:disc;color:#000020;"><b>Últimos 7 días: 0</b></li>
-                    <li style="list-style-type:disc;color:#000020;"><b>Últimos 30 días: 0</b></li>
-                    <li style="list-style-type:disc;color:#000020;"><b>Total en mi Base de Candidatos: 8</b></li>
+                    <li style="list-style-type:disc;color:#071637;"><b>Últimos 7 días: 0</b></li>
+                    <li style="list-style-type:disc;color:#071637;"><b>Últimos 30 días: 0</b></li>
+                    <li style="list-style-type:disc;color:#071637;"><b>Total en mi Base de Candidatos: 8</b></li>
                 </ol>
                 <div class="container center-align">
-                    <a href="Base_Candidatos.php" class="btn center-align" style="background-color:#000020;border-radius:10px;">Ir a mi Base de
+                    <a href="Base_Candidatos.php" class="btn center-align" style="background-color:#071637;border-radius:10px;">Ir a mi Base de
                         Candidatos</a>
                 </div>
             </div>
@@ -114,11 +114,11 @@ session_start();
                 <h5 style="text-align:center;color:white;padding-top:10px;"><b><span style="font-size:70px;">3</span><br><br>Anuncios
                         Activos</b></h5>
                 <ol>
-                    <li style="list-style-type:disc;color:#000020;"><b>Últimos 7 días: 0</b></li>
-                    <li style="list-style-type:disc;color:#000020;"><b>Publicados total: 3</b></li>
+                    <li style="list-style-type:disc;color:#071637;"><b>Últimos 7 días: 0</b></li>
+                    <li style="list-style-type:disc;color:#071637;"><b>Publicados total: 3</b></li>
                 </ol>
                 <div class="container center-align">
-                    <a href="Anuncion_Activos.php" class="btn center-align" style="margin-top:23px;background-color: #000020;border-radius:10px;">Ver Todos Mis
+                    <a href="Anuncion_Activos.php" class="btn center-align" style="margin-top:23px;background-color: #071637;border-radius:10px;">Ver Todos Mis
                         Anuncios</a>
                 </div>
             </div>
@@ -126,11 +126,11 @@ session_start();
                 <h5 style="text-align:center;color:white;padding-top:10px;"><b><span style="font-size:70px;">0</span><br><br>Entrevistas
                         hoy</b></h5>
                 <ol>
-                    <li style="list-style-type:disc;color:#000020;"><b>Esta Semana: 0</b></li>
-                    <li style="list-style-type:disc;color:#000020;"><b>Este Mes: 0</b></li>
+                    <li style="list-style-type:disc;color:#071637;"><b>Esta Semana: 0</b></li>
+                    <li style="list-style-type:disc;color:#071637;"><b>Este Mes: 0</b></li>
                 </ol>
                 <div class="container center-align">
-                    <a href="Agenda.php" class="btn center-align" style="background-color:#262137;margin-top:23px;background-color: #000020;border-radius:10px;">Ir a mi
+                    <a href="Agenda.php" class="btn center-align" style="background-color:#262137;margin-top:23px;background-color: #071637;border-radius:10px;">Ir a mi
                         Agenda</a>
                 </div>
             </div>
@@ -162,7 +162,7 @@ session_start();
                 <input type="date" style="width:">
             </div>
             <div class="col s12 m12 l3 xl3">
-                <a href="" class="btn" style="color:white;width:100%;background-color:#000020;">Ejecutar</a>
+                <a href="" class="btn" style="color:white;width:100%;background-color:#071637;">Ejecutar</a>
             </div>
 
         </div>

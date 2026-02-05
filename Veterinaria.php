@@ -204,12 +204,12 @@ recaptchaResponse.value = token;
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos color--blanco">Ventas </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a
-                            class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+                            class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
                       </div>
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos color--blanco">Información General </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a
-                            class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+                            class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
                       </div>
                     </div>
                   </div>
@@ -547,16 +547,16 @@ recaptchaResponse.value = token;
                 <p class="Tipografia--general General--Cuerpo">La industria farmacéutica se dedica al cuidado de la salud y bienestar de los animales. Este sector abarca diversas áreas, desde la atención clínica individual hasta la producción y comercialización de productos farmacéuticos y alimentos algunos aspectos clave en la industria farmacéutica.</p>
 
                 <ol>
-                    <li style="margin-top:50px;list-style-type:disc"><b style="color:#000020;">Productos farmacéuticos veterinarios:</b> Desarrollo y comercialización de medicamentos y productos farmacéuticos específicos para animales, incluyendo vacunas, antibióticos y tratamientos para enfermedades específicas.</li>
-                    <li style="margin-top:50px;list-style-type:disc"><b style="color:#000020;">Vacunas:</b> Las vacunas son esenciales para prevenir enfermedades en animales. La industria veterinaria desarrolla y produce vacunas para una variedad de enfermedades infecciosas, como la rabia la parvovirosis canina, la enfermedad de Newcastle en aves, entre otras</li>
-                    <li style="margin-top:50px;list-style-type:disc"><b style="color:#000020;">Productos de cuidado animal:</b> Además de los medicamentos y vacunas, la industria veterinaria fabrica una variedad de productos de cuidad animal, como suplementos nutricionales, productos para el cuidado de la piel y el pelaje, alimentos especiales para animales con necesidades dietéticas especificas y productos de higiene.</li>
+                    <li style="margin-top:50px;list-style-type:disc"><b style="color:#071637;">Productos farmacéuticos veterinarios:</b> Desarrollo y comercialización de medicamentos y productos farmacéuticos específicos para animales, incluyendo vacunas, antibióticos y tratamientos para enfermedades específicas.</li>
+                    <li style="margin-top:50px;list-style-type:disc"><b style="color:#071637;">Vacunas:</b> Las vacunas son esenciales para prevenir enfermedades en animales. La industria veterinaria desarrolla y produce vacunas para una variedad de enfermedades infecciosas, como la rabia la parvovirosis canina, la enfermedad de Newcastle en aves, entre otras</li>
+                    <li style="margin-top:50px;list-style-type:disc"><b style="color:#071637;">Productos de cuidado animal:</b> Además de los medicamentos y vacunas, la industria veterinaria fabrica una variedad de productos de cuidad animal, como suplementos nutricionales, productos para el cuidado de la piel y el pelaje, alimentos especiales para animales con necesidades dietéticas especificas y productos de higiene.</li>
                 </ol>
                 <h2 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px"><b style="color:black;">Formas de Medicamentos Farmaceuticos</b></h2>
                 <ol>
-                    <li style="list-style-type: disc;margin-top:30px;"><b style="color:#000020;">Formas liquidas y semisólidas:</b> Las suspensiones y las emulsiones son formas liquidas que permiten incorporar fármacos con propiedades fisicoquímicas muy diversas. Su ventaja reside en que permiten un ajuste cómodo y preciso de la dosis, de acuerdo con las necesidades de la especie y el peso del animal.</li>
-                    <li style="margin-top:50px;list-style-type:disc"><b style="color:#000020;">Formas solidas:</b> Los polvos y gránulos permiten un fácil ajuste de la dosis. En general, son mejor aceptados por los animales. Se administran en la parte lateral de la boca con ayuda de un dosificador</li>
-                    <li style="margin-top:50px;list-style-type:disc"><b style="color:#000020;">Comprimidos de liberación inmediata y de liberación controlada:</b> se utilizan en perros y gatos.</li>
-                    <li style="margin-top:50px;list-style-type:disc"><b style="color:#000020;">Premezclas medicamentosas:</b> son formas liquidas, semisólidas y con mas frecuencia solidas que se administran a los animales con el pienso.</li>
+                    <li style="list-style-type: disc;margin-top:30px;"><b style="color:#071637;">Formas liquidas y semisólidas:</b> Las suspensiones y las emulsiones son formas liquidas que permiten incorporar fármacos con propiedades fisicoquímicas muy diversas. Su ventaja reside en que permiten un ajuste cómodo y preciso de la dosis, de acuerdo con las necesidades de la especie y el peso del animal.</li>
+                    <li style="margin-top:50px;list-style-type:disc"><b style="color:#071637;">Formas solidas:</b> Los polvos y gránulos permiten un fácil ajuste de la dosis. En general, son mejor aceptados por los animales. Se administran en la parte lateral de la boca con ayuda de un dosificador</li>
+                    <li style="margin-top:50px;list-style-type:disc"><b style="color:#071637;">Comprimidos de liberación inmediata y de liberación controlada:</b> se utilizan en perros y gatos.</li>
+                    <li style="margin-top:50px;list-style-type:disc"><b style="color:#071637;">Premezclas medicamentosas:</b> son formas liquidas, semisólidas y con mas frecuencia solidas que se administran a los animales con el pienso.</li>
                 </ol>
 
                 <h2 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;"><b style="color:black;">Crecimiento de la Industria</b></h2>

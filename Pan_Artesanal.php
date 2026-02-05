@@ -124,11 +124,11 @@
                         <h6 class="Tipografia--general Titulos" style="color:white;padding-top:5px">Teléfonos </h6>
                         <div class="col s12 m12 l12 xl12">
                           <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1888</p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996</p>
                         </div>
                         <div class="col s12 m12 l12 xl12"> 
                           <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1818 </p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996 </p>
                         </div>
                       </div>
                     </div>
@@ -185,7 +185,7 @@
       </ul>
     </div>
     <div class="row">  
-      <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+      <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
         <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo"></div>
       </nav>
     </div>
@@ -385,7 +385,7 @@
                 <p class="Tipografia--general letranegro General--Cuerpo">La industria del pan artesanal ha experimentado un crecimiento significativo en los ultimos años. Impulsada por un cambio en las preferencias de los consumidores hacia productos mas saludables, sostenibles y auténticos. Este segmento se distingue del pan producido industrialmente por su enfoque en metodos tradicionales, ingredientes de alta calidad y la ausencia de aditivos artificiales.</p>
                 
 
-                <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Características del pan artesanal</b></h5>
+                <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Características del pan artesanal</b></h5>
 
                 <ol>
                     <li class="Elementos--Listas">Metodos tradicionales: El pan artesanal se elabora siguiendo manuales o semimanuales, como el amasado a mano y el uso de fermentaciones largas. Estas tecnicas suelen mejorar la textura, el sabor y la digestibilidad del pan.</li>
@@ -394,7 +394,7 @@
                     <li class="Elementos--Listas" style="margin-top:50px;">Variedad y creatividad: La produccion artesanal permite una mayor flexibilidad en las recetas, lo que resulta en panes con sabores unicos y adaptados a las preferencias locales </li>
                 </ol>
 
-                <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Tendencias en la industria del pan artesanal</b></h5>
+                <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Tendencias en la industria del pan artesanal</b></h5>
 
                 <ol>
                     <li class="Elementos--Listas">Consumo consciente: Los consumidores valoran la calidad y la historia detras de los productos. Esto beneficia a los panaderos que destacan la trazabilidad de sus ingredientes.</li>
@@ -402,7 +402,7 @@
                     <li class="Elementos--Listas" style="margin-top:50px;">Sostenibilidad: La industria del pan artesanal esta adoptando prácticas sostenibles, como el uso de empaques biodegradables y la compra de ingredientes de productores locales</li>
                 </ol>
 
-                <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Aditivos químicos comunes en la industria del pan industrial</b></h5>
+                <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Aditivos químicos comunes en la industria del pan industrial</b></h5>
 
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">En la panaderia industrial, los ingredientes quimicos se utilizan para mejorar la textura, prolongar la vida útil y optimizar la produccion.</p>
 

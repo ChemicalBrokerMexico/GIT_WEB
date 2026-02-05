@@ -155,11 +155,11 @@
 <h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Teléfonos </h6>
 <div class="col s12 m12 l12 xl12">
 <h6 class="Tipografia--general Titulos color--blanco">Ventas </h6>
-<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
 </div>
 <div class="col s12 m12 l12 xl12"> 
 <h6 class="Tipografia--general Titulos color--blanco">Información General </h6>
-<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
 </div>
 </div>
 </div>
@@ -321,7 +321,7 @@
 </li>
 <li> <a class="color--blanco sidenav-trigger" href="#" data-target="product-family"><i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i>
 <p class="color--blanco">Productos </p></a></li>
-<ul class="sidenav" id="product-family" style="background-color:#000020;">
+<ul class="sidenav" id="product-family" style="background-color:#071637;">
 <div class="container">
 <ul>
 <li><a href="Productos_news.php" style="color:white;">Productos <i class="small material-icons right color--blanco" style="margin-top:0px !important;">chevron_right</i></a></li>

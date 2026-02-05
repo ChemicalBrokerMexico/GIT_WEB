@@ -129,11 +129,11 @@
                         <h6 class="Tipografia--general Titulos" style="color:white;padding-top:5px">Teléfonos </h6>
                         <div class="col s12 m12 l12 xl12">
                           <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1888</p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996</p>
                         </div>
                         <div class="col s12 m12 l12 xl12"> 
                           <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1818 </p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996 </p>
                         </div>
                       </div>
                     </div>
@@ -200,7 +200,7 @@
       </ul>
     </div>
     <div class="row">  
-      <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+      <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
         <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo"></div>
       </nav>
     </div>
@@ -401,7 +401,7 @@
 
         <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Suplementos_nutricionh.php"><b class="Tipografia--general Subtitulos" style="color:red;">Suplementos Alimenticios</b></a></section>
           <p class="Tipografia--general letranegro General--Cuerpo">La industria de los suplementos alimenticios ha emergido como uno de los sectores mas dinámicos y en rápido crecimiento dentro del ámbito de la salud y el bienestar. Impulsada por una creciente conciencia sobre la importancia de la nutrición y la salud preservativa. Esta industria abarca una amplia gama de productos diseñados para complementar la dieta y proporcionar beneficios específicos para la salud.</p>
-          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Tipos de Suplementos Alimenticios</b></h5>
+          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Tipos de Suplementos Alimenticios</b></h5>
           <ol style="margin-top:30px;">
             <li class="Elementos--Listas Tipografia--general">Vitaminas y Minerales: Representan aproximadamente el 40% del mercado global de suplementos.</li>
             <li class="Elementos--Listas Tipografia--general" style="margin-top:30px;">Proteínas y Aminoácidos: Constituyen alrededor del 25% del mercado</li>
@@ -409,12 +409,12 @@
             <li class="Elementos--Listas Tipografia--general" style="margin-top:30px;">ÁcidoWWs Grasos y Omega: Cerca del 10% del mercado</li>
             <li class="Elementos--Listas Tipografia--general" style="margin-top:30px;">Otros suplementos: Incluyen probióticos, antioxidantes y enzimas digestivas, que representan el 10% restante  </li>
           </ol>
-          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Ingredientes químicos presentes en los alimentos</b></h5>
+          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Ingredientes químicos presentes en los alimentos</b></h5>
           <table style="margin-top:50px;">
             <thead>
-              <th style="text-align:center;border: 1px solid black;background-color:#000020;color:white;border-right:1px solid white;">Ségmentacion por tipo de producto</th>
-              <th style="text-align:center;border: 1px solid black;background-color:#000020;color:white;border-right:1px solid white;">Ingredientes Químicos Comunes</th>
-              <th style="text-align:center;border: 1px solid black;background-color:#000020;color:white;border-right:1px solid white;">Uso especifico</th>
+              <th style="text-align:center;border: 1px solid black;background-color:#071637;color:white;border-right:1px solid white;">Ségmentacion por tipo de producto</th>
+              <th style="text-align:center;border: 1px solid black;background-color:#071637;color:white;border-right:1px solid white;">Ingredientes Químicos Comunes</th>
+              <th style="text-align:center;border: 1px solid black;background-color:#071637;color:white;border-right:1px solid white;">Uso especifico</th>
             </thead>
             <tbody>
               <tr>

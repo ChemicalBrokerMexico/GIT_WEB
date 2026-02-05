@@ -3,7 +3,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Ácidos Grasos Destilados de Palma</title>
+  <title>Chemical Broker | Ácidos Grasos Destilados de Palma | Proveedor Global</title>
   <meta name="description" content="Ácidos grasos destilados de palma de alta calidad, perfectos para aplicaciones cosméticas, alimentarias e industriales. Ofrecen excelentes propiedades emolientes y estabilizantes. ¡Compra ácidos grasos destilados de palma al mejor precio!"> 
   <link rel="canonical" href="https://chemicalbroker.mx/Acidos_Grasos_Destilados_Palma.php">
 
@@ -17,6 +17,38 @@
     gtag('js', new Date());
     gtag('config', 'G-SGJQ8FDDJ6');
   </script>
+
+
+<script type="application/Id+json">
+    {
+
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Acidos Grasos Destilados Palma",
+      "description": "Ácidos grasos destilados de palma de alta calidad, perfectos para aplicaciones cosméticas, alimentarias e industriales. Ofrecen excelentes propiedades emolientes y estabilizantes. ¡Compra ácidos grasos destilados de palma al mejor precio!",
+      "brand": {
+        "@type": "Brand",
+        "name": "Chemical Broker"
+      },
+      "manufacturer":{
+        "@type": "Organization",
+        "name": "Cargill"
+      },
+
+      "offers":{
+        "@type": "Offer",
+        "url": "https://chemicalbroker.mx/Acidos_Grasos_Destilados_Palma.php",
+        "priceCurrency": "MXN",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Chemical Broker"
+        }
+      }
+    }
+
+  </script>
+
 
 </head>
 
@@ -195,13 +227,13 @@
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1888</p>
+                          +52.55.4438.7996</p>
                       </div>
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General
                         </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1818 </p>
+                          +52.55.4438.7996 </p>
                       </div>
                     </div>
                   </div>
@@ -285,7 +317,7 @@
     </ul>
   </div>
   <div class="row">
-    <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+    <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
       <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo">
       </div>
     </nav>
@@ -554,16 +586,16 @@
                 class="Tipografia--general  Subtitulos ">Ácidos Grasos Destilados de Palma</b></a></section>
         </section>
 
-                <h2 class="letranegro Tipografia--general Titulos"><b style="color:#000020;">Ácidos Grasos Destilados de Palma</b></h2>
+                <h2 class="letranegro Tipografia--general Titulos"><b style="color:#071637;">Ácidos Grasos Destilados de Palma</b></h2>
                 <p class="letranegro Tipografia--general General--Cuerpo" style="margin-bottom:0px;">Los <b>Ácidos Grasos</b> se obtienen a partir de la hidrólisis a alta presión y temperatura de grasas y aceites de origen animal y vegetal. Después son destilados, obteniéndose un producto de aspecto blanco y tacto jabonoso.</p>
                 <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Tienen un punto de fusión que va desde los 25ºC del coco a los 50-55ºC de los ácidos grasos que provienen de la palma y el sebo. Este punto de fusión relativamente bajo les permite funcionar como emulgentes en muchas formulaciones o como recubrimiento de diferentes aplicaciones.</p>
-                <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;margin-bottom:0px;"><b style="color:#000020">Los Ácidos Grasos Destilados de Palma</b> se obtienen por desdoblamiento y posterior destilación al vacío del Aceite de Palma. El producto obtenido es un sólido blanco opaco a temperatura ambiente, con un punto de fusión sobre los 45 °C. Es rico en Acido Palmítico y Esteárico. Los Ácidos Grasos predominantes en el Aceite de Palma son el Oleico, el Palmítico y el Esteárico. Los Ácidos Grasos se obtienen a partir de la Hidrólisis a alta presión y temperatura de grasas y aceites de origen animal y vegetal.</p>
-                <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#000020;">Especificaciones</b></h2>
+                <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;margin-bottom:0px;"><b style="color:#071637">Los Ácidos Grasos Destilados de Palma</b> se obtienen por desdoblamiento y posterior destilación al vacío del Aceite de Palma. El producto obtenido es un sólido blanco opaco a temperatura ambiente, con un punto de fusión sobre los 45 °C. Es rico en Acido Palmítico y Esteárico. Los Ácidos Grasos predominantes en el Aceite de Palma son el Oleico, el Palmítico y el Esteárico. Los Ácidos Grasos se obtienen a partir de la Hidrólisis a alta presión y temperatura de grasas y aceites de origen animal y vegetal.</p>
+                <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#071637;">Especificaciones</b></h2>
                 <table style="margin-top:50px;border:1px solid black">
                 <thead>
-                    <th style="border-right:1px solid white;text-align: center;background-color:#000020;color: white;">Análisis</th>
-                    <th style="border-right:1px solid white;text-align: center;background-color:#000020;color: white;">Rango</th>
-                    <th style="border-right:1px solid white;text-align: center;background-color:#000020;color: white;">Método</th>                 
+                    <th style="border-right:1px solid white;text-align: center;background-color:#071637;color: white;">Análisis</th>
+                    <th style="border-right:1px solid white;text-align: center;background-color:#071637;color: white;">Rango</th>
+                    <th style="border-right:1px solid white;text-align: center;background-color:#071637;color: white;">Método</th>                 
                     </thead>
                     <tbody>
                         <tr>
@@ -598,13 +630,13 @@
                         </tr>
                     </tbody>
                 </table>
-                <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#000020;">Funciones</b></h2>
+                <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#071637;">Funciones</b></h2>
                 <ol>
                     <li  style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">Emulgente</li>
                     <li  style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">Repelente</li>
                     <li  style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro ">Tensoactivo</li>
                 </ol>
-                <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#000020;">Aplicación</b></h2>
+                <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#071637;">Aplicación</b></h2>
                 <ol style="margin-top:30px;">
                     <li  style="list-style-type:disc;margin-top:30px;" class="Tipografia General Elementos--Listas colornegro ">Animales y Piensos</li>
                     <ol style="margin-top:30px;">
@@ -641,9 +673,9 @@
                         <li style="list-style-type:disc;margin-top:30px;" class="Tipografia General Elementos--Listas colornegro">Ceras</li>
                     </ol>
                 </ol>
-                <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#000020;">Fabricante</b></h2>
+                <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#071637;">Fabricante</b></h2>
                 <img src="img/Cargill-Logo_2.png" alt="" class="cargill-logo">
-                <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#000020;">Literatura Técnica</b></h2>
+                <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#071637;">Literatura Técnica</b></h2>
                 <ol>
                         <a href="PDF/CATALOGUES/CARGILL_HE_ACIDOS-GRASOS-DESTILADOS-PALMA_071221_V2.pdf" class="arrowblue letranegro" download><li style="list-style-type:disc;" class="Tipografia General Elementos--Listas colornegro">CARGILL_HE_ACIDOS-GRASOS-DESTILADOS-PALMA_071221_V2.pdf</li></a>
                         <br>

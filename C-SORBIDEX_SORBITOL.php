@@ -4,10 +4,9 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | C-SORBIDEX SORBITOL</title>
+    <title>Chemical Broker | C-SORBIDEX SORBITOL | Proveedor Global</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <meta name="description"
-        content="Ofrecemos azúcar refinada de alta pureza, perfecta para la industria alimentaria y diversas aplicaciones. Garantiza el sabor y la calidad de tus productos con nuestro azúcar de primera categoría. ¡Aporta dulzura y consistencia a tus creaciones con nuestra oferta confiable y de calidad!.">
+    <meta name="description" content="El C-Sorbidex Sorbitol es un poliol altamente versatil utilizado en formulaciones que requieren control de humedad, dulzor moderado textura mejorada y excelente estabilidad quimica.">
         <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/C-SORBIDEX_SORBITOL.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -45,6 +44,31 @@
         gtag('config', 'G-SGJQ8FDDJ6');
     </script>
     <script type="text/javascript" src="js/main.js"></script>
+
+    <script type="application/Id+json">
+    {
+
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "C-Sorbidex Sorbitol",
+      "description": "El C-Sorbidex Sorbitol es un poliol altamente versatil utilizado en formulaciones que requieren control de humedad, dulzor moderado textura mejorada y excelente estabilidad quimica.,
+      "brand": {
+        "@type": "Brand",
+        "name": "Chemical Broker"
+      },
+
+      "offers":{
+        "@type": "Offer",
+        "url": "https://chemicalbroker.mx/C-SORBIDEX_SORBITOL.php",
+        "priceCurrency": "MXN",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Chemical Broker"
+        }
+      }
+    }
+  </script>
 </head>
 
 <body>
@@ -253,14 +277,14 @@
                                                 <p class="Tipografia--general General--Cuerpo"
                                                     style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue"
                                                         href="tel:+525575861888"
-                                                        style="color:#a7a7a7">+52.55.7586.1888</a></p>
+                                                        style="color:#a7a7a7">+52.55.4438.7996</a></p>
                                             </div>
                                             <div class="col s12 m12 l12 xl12">
                                                 <h6 class="Tipografia--general Titulos color--blanco">Información
                                                     General </h6>
                                                 <p class="Tipografia--general General--Cuerpo"
                                                     style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue"
-                                                        href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818
+                                                        href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996
                                                     </a></p>
                                             </div>
                                         </div>

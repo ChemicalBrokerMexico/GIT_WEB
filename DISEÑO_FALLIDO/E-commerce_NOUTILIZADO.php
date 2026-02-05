@@ -24,8 +24,8 @@
             </div>
             <div>
                 <p><strong>E-mail:</strong> info@chemicalbroker.mx</p>
-                <p><strong>Telephone:</strong> +52.55.7586.1818</p>
-                <P><strong>Sales Telephone</strong> +52.55.7586.1888</P>
+                <p><strong>Telephone:</strong> +52.55.4438.7996</p>
+                <P><strong>Sales Telephone</strong> +52.55.4438.7996</P>
             </div>
         </div>
     </div>

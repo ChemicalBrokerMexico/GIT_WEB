@@ -3,7 +3,7 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-<title>Chemical Broker | Dimetilformamida del Fabricante Basf</title>
+<title>Chemical Broker | Dimetilformamida del Fabricante Basf | Proveedor Global</title>
 <meta name="description" content="Adquiere dimetilformamida (DMF) de alta pureza para aplicaciones industriales y químicas. Este solvente versátil y eficaz es ideal para procesos de síntesis y fabricación. Asegura la calidad y rendimiento de tus productos con nuestra dimetilformamida confiable y de calidad superior.">
 <link rel="shortcut icon" href="img/CB_ICON.ico" />
 
@@ -17,6 +17,32 @@
         gtag('js', new Date());
         gtag('config', 'G-SGJQ8FDDJ6');
     </script>
+
+<script type="application/Id+json">
+    {
+
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Dimetilformamida",
+      "description": "Adquiere dimetilformamida (DMF) de alta pureza para aplicaciones industriales y químicas. Este solvente versátil y eficaz es ideal para procesos de síntesis y fabricación. Asegura la calidad y rendimiento de tus productos con nuestra dimetilformamida confiable y de calidad superior.,
+      "brand": {
+        "@type": "Brand",
+        "name": "Chemical Broker"
+      },
+
+      "offers":{
+        "@type": "Offer",
+        "url": "https://chemicalbroker.mx/Dimetilformamida.php",
+        "priceCurrency": "MXN",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Chemical Broker"
+        }
+      }
+    }
+  </script>
+
 </head>
 <body>
 <div class="modal" id="modal1" style="overflow-y:auto;">
@@ -128,11 +154,11 @@
 <h6 class="Tipografia--general Titulos" style="color:white;padding-top:5px">Teléfonos </h6>
 <div class="col s12 m12 l12 xl12">
 <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
-<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1888</p>
+<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996</p>
 </div>
 <div class="col s12 m12 l12 xl12"> 
 <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General </h6>
-<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1818 </p>
+<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996 </p>
 </div>
 </div>
 </div>
@@ -199,7 +225,7 @@
 </ul>
 </div>
 <div class="row">  
-<nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+<nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
 <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo"></div>
 </nav>
 </div>
@@ -432,7 +458,7 @@ Científicamente se denominan dioles (alcoholes bivalentes), que se desvían del
 <td style="font-size:16px !important;border:1px solid #f2f2f2;background-color:#BDD6EE;color:black;">
 <b>IUPAC:</b>
 </td>
-<td style="text-align: center;font-size:18px !important;border:1px solid #f2f2f2;background-color:#000020;color:white;">N, N-Dimetilformamida</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #f2f2f2;background-color:#071637;color:white;">N, N-Dimetilformamida</td>
 </tr>
 
 
@@ -441,7 +467,7 @@ Científicamente se denominan dioles (alcoholes bivalentes), que se desvían del
 <td style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
 <b>Sinónimos:</b>
 </td>
-<td style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#000020;"><ol style="color:white;">
+<td style="font-size:16px !important;border:1px solid #C0C0C0;background-color:#071637;"><ol style="color:white;">
 <li style="list-style-type:disc;margin-left:-18px;" class="Tipografia General Elementos--Listas colornegro">DMF</li>
 <li style="list-style-type:disc;margin-left:-18px;" class="Tipografia General Elementos--Listas colornegro">Dimetilformamida</li>
 </ol></td>
@@ -453,74 +479,74 @@ Científicamente se denominan dioles (alcoholes bivalentes), que se desvían del
 <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
 <b>Formula Estructural:</b>
 </td>
-<td style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;"><img src="img/DIMETILFORMAMIDA_FORMULA_ESTRUCTURAL_111122.png" alt="" style="width:50%;"></td>
+<td style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#071637;"><img src="img/DIMETILFORMAMIDA_FORMULA_ESTRUCTURAL_111122.png" alt="" style="width:50%;"></td>
 </tr>
 <tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:15px !important;width:150px;">
 <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
 <b>Formula:</b>
 </td>
-<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">C<sub>3</sub>H<sub>7</sub>NO</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#071637;color:white;">C<sub>3</sub>H<sub>7</sub>NO</td>
 </tr>
 
 <tr class="Tipografia--general General--Cuerpo" style="text-align:center;padding:10px;font-size:16px !important;width:150px;">
 <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
 <b>Peso molecular:</b>
 </td>
-<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">C(3) H (7) ON</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#071637;color:white;">C(3) H (7) ON</td>
 </tr>
 <tr class="Tipografia--general General--Cuerpo"  style="text-align:center;padding:10px;font-size:18px !important;width:150px;">
 <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
 <b>CAS #:</b>
 </td>
-<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">68-12-2</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#071637;color:white;">68-12-2</td>
 <tr>
 <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
 <b>RTECS No.:</b>
 </td>
-<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">LQ2100000</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#071637;color:white;">LQ2100000</td>
 </tr>
 <tr>
 <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
 <b>ChEBI:</b>
 </td>
-<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">17741</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#071637;color:white;">17741</td>
 </tr>
 <tr>
 <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
 <b>ChEMBL:</b>
 </td>
-<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">CHEMBL268291</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#071637;color:white;">CHEMBL268291</td>
 </tr>
 <tr>
 <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
 <b>ChemSpider:</b>
 </td>
-<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">5993</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#071637;color:white;">5993</td>
 </tr>
 <tr>
 <td style="font-size:18px !important;border:1px solid #C0C0C0;background-color:#BDD6EE;color:black;">
 <b>DrugBank:</b>
 </td>
-<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">01844</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#071637;color:white;">01844</td>
 </tr>
 <tr>
 <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:black;"><b>PubChem:</b></td>
-<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">5993</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#071637;color:white;">5993</td>
 
 </tr>
 <tr>
 <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:black;"><b>PRD-Number:</b></td>
-<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">30034812</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#071637;color:white;">30034812</td>
 
 </tr>
 <tr>
 <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:black;"><b>UNII:</b></td>
-<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">8696NH0Y2X</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#071637;color:white;">8696NH0Y2X</td>
 
 </tr>
 <tr>
 <td style="font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:black;"><b>KEGG:</b></td>
-<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">C03134</td>
+<td style="text-align: center;font-size:18px !important;border:1px solid #C0C0C0;width:50%;background-color:#071637;color:white;">C03134</td>
 
 </tr>
 
@@ -534,9 +560,9 @@ Científicamente se denominan dioles (alcoholes bivalentes), que se desvían del
 <h2 class="Tipografia--general letranegro Titulos" style="margin-bottom:0px;margin-top:0px;"><b>Especificaciones</b></h2>
 <table style="border:2px solid f2f2f2;margin-top:30px;width:100%">
 <tr>
-<th class="tablaword" style="background-color:#000020;color:white;text-align:center;border:2px solid #f2f2f2;"><b>Parametro</b></th>
-<th class="tablaword" style="background-color:#000020;color:white;text-align:center;border:2px solid #f2f2f2;"><b>Especificacion</b></th>
-<th class="tablaword" style="background-color:#000020;color:white;text-align:center;border:2px solid #f2f2f2;"><b>Metodo</b></th>
+<th class="tablaword" style="background-color:#071637;color:white;text-align:center;border:2px solid #f2f2f2;"><b>Parametro</b></th>
+<th class="tablaword" style="background-color:#071637;color:white;text-align:center;border:2px solid #f2f2f2;"><b>Especificacion</b></th>
+<th class="tablaword" style="background-color:#071637;color:white;text-align:center;border:2px solid #f2f2f2;"><b>Metodo</b></th>
 </tr>
 <tr>
 <td class="tablaword class" style="border:2px solid #f2f2f2;"><b>Ensayo:</b></td>

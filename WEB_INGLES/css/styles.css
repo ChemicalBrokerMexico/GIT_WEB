@@ -22,11 +22,11 @@
    }
 
 .color--corporativo {
-    color: #000020;
+    color: #071637;
 }
 
 .fondo--color--corporativo {
-    background-color: #000020;
+    background-color: #071637;
 }
 
 .border--hidden {
@@ -39,7 +39,7 @@
 
 .esquinas_redondeadas_contacto {
     border-radius: 1%;
-    border-bottom: 15px solid #000020;
+    border-bottom: 15px solid #071637;
 }
 
 .color--fondo--negro {
@@ -71,12 +71,12 @@
 }
 
 .Titulos_cuerpo{
-    color: #000020 ;
+    color: #071637 ;
     font-size: 18px;
 }
 
 .Subtitulos_cuerpo{
-    color:#000020;
+    color:#071637;
     font-size: 18px;
 }
 
@@ -86,7 +86,7 @@
 
 .tabla_lista_prod{
     color: #00B0F0;
-    background-color: #000020;
+    background-color: #071637;
     font-weight: ;
 }
 
@@ -119,7 +119,7 @@ font-size:16px;
 }
 
 .botones-logistics:hover{
-    background-color:#000020;
+    background-color:#071637;
     padding:5px;
     border-radius:5px
 }
@@ -150,7 +150,7 @@ font-size:16px;
 }
 
 .no--opacidad:hover {
-    color: #000020;
+    color: #071637;
 }
 
 .boton--carreers {
@@ -158,7 +158,7 @@ font-size:16px;
 }
 
 .boton--carreers:hover {
-    background-color: #000020;
+    background-color: #071637;
 }
 
 body{
@@ -708,7 +708,7 @@ li {
         left: -1px;
         right: 0;
         bottom: 0;
-        background-color:#000020;
+        background-color:#071637;
         z-index: 2;
         cursor: pointer;
         display: flex;
@@ -808,8 +808,8 @@ font-size: 12px;
 
     .inicial--productos {
         font-size: 54px;
-        border-bottom: 3px solid #000020;
-        color: #000020;
+        border-bottom: 3px solid #071637;
+        color: #071637;
     }
 
     .IMAGE--GLICERINS {
@@ -1185,8 +1185,8 @@ font-size: 12px;
         }
 
         .border_compliance_tabla{
-            border-top: 1px solid #000020;
-            border-bottom: 1px solid #000020;
+            border-top: 1px solid #071637;
+            border-bottom: 1px solid #071637;
         }
 
         .compliance_tab{
@@ -1611,7 +1611,7 @@ font-size: 12px;
         left: -1px;
         right: 0;
         bottom: 0;
-        background-color:#000020;
+        background-color:#071637;
         z-index: 2;
         cursor: pointer;
         display: flex;
@@ -1689,8 +1689,8 @@ font-size: 12px;
 
     .inicial--productos {
         font-size: 54px;
-        border-bottom: 3px solid #000020;
-        color: #000020;
+        border-bottom: 3px solid #071637;
+        color: #071637;
     }
 
     .breadcumb--general {
@@ -1992,8 +1992,8 @@ font-size: 12px;
     }
 
     .border_compliance_tabla{
-        border-top: 1px solid #000020;
-        border-bottom: 1px solid #000020;
+        border-top: 1px solid #071637;
+        border-bottom: 1px solid #071637;
     }
 
     .CREMER_LOGO{
@@ -2323,7 +2323,7 @@ font-size: 12px;
         left: -1px;
         right: 0;
         bottom: 0;
-        background-color:#000020;
+        background-color:#071637;
         z-index: 2;
         cursor: pointer;
         display: flex;
@@ -2546,7 +2546,7 @@ margin-top: -44px;
     }
 
     .close_hover:hover {
-        background-color: #000020 !important;
+        background-color: #071637 !important;
         color: white !important;
         padding: 10px;
     }
@@ -2678,7 +2678,7 @@ margin-top: -44px;
         left: -1px;
         right: 0;
         bottom: 0;
-        background-color:#000020;
+        background-color:#071637;
         z-index: 2;
         cursor: pointer;
         display: flex;
@@ -2953,7 +2953,7 @@ margin-top: -44px;
         width: 420px !important;
         height: 50px !important;
         margin-left: 250px !important;
-        background-color: #000020 !important;
+        background-color: #071637 !important;
     }
 
     .Logindesktop {
@@ -2971,7 +2971,7 @@ margin-top: -44px;
     }
 
     .close_hover:hover {
-        background-color: #000020 !important;
+        background-color: #071637 !important;
         color: white !important;
         padding: 10px;
     }
@@ -3117,7 +3117,7 @@ margin-top: -44px;
         width: 347px !important;
         height: 50px !important;
         margin-left: 250px !important;
-        background-color: #000020 !important;
+        background-color: #071637 !important;
     }
 
     #overlaysuplementos {
@@ -3281,7 +3281,7 @@ margin-top: -44px;
         left: -1px;
         right: 0;
         bottom: 0;
-        background-color:#000020;
+        background-color:#071637;
         z-index: 2;
         cursor: pointer;
         display: flex;
@@ -3340,7 +3340,7 @@ margin-top: -44px;
     }
 
     .close_hover:hover {
-        background-color: #000020 !important;
+        background-color: #071637 !important;
         color: white !important;
         padding:0px;
     }
@@ -3512,7 +3512,7 @@ margin-top:51px;
         left: -1px;
         right: 0;
         bottom: 0;
-        background-color:#000020;
+        background-color:#071637;
         z-index: 2;
         cursor: pointer;
         display: flex;
@@ -4265,7 +4265,7 @@ margin-top:85px;
         width: 420px !important;
         height: 50px !important;
         margin-left: 250px !important;
-        background-color: #000020 !important;
+        background-color: #071637 !important;
     }
 
     .divfooter:before,
@@ -4333,7 +4333,7 @@ margin-top:85px;
     }
 
     .leermasbrand:hover {
-        background-color: #000020;
+        background-color: #071637;
         color: white !important;
     }
 
@@ -4604,7 +4604,7 @@ margin-top:85px;
         left: -1px;
         right: 0;
         bottom: 0;
-        background-color: #000020;
+        background-color: #071637;
         z-index: 2;
         cursor: pointer;
         display: flex;
@@ -4697,7 +4697,7 @@ margin-top:85px;
 
 
     .close_hover:hover {
-        background-color: #000020 !important;
+        background-color: #071637 !important;
         color: white !important;
         padding: 10px;
     }
@@ -4738,8 +4738,8 @@ margin-top:85px;
 
     .inicial--productos {
         font-size: 54px;
-        border-bottom: 3px solid #000020;
-        color: #000020;
+        border-bottom: 3px solid #071637;
+        color: #071637;
     }
 
     .IMAGE--GLICERINS {
@@ -5123,7 +5123,7 @@ margin-top:85px;
                 left: -1px;
                 right: 0;
                 bottom: 0;
-                background-color: #000020;
+                background-color: #071637;
                 z-index: 2;
                 cursor: pointer;
                 display: flex;
@@ -5137,7 +5137,7 @@ margin-top:85px;
             height: 30px;
             content: "";
             position: absolute;
-            background-color: #000020;
+            background-color: #071637;
             border-radius: 50%;
             z-index: 1;
             left: -15px;
@@ -5149,7 +5149,7 @@ margin-top:85px;
             height: 30px;
             content: "";
             position: absolute;
-            background-color: #000020;
+            background-color: #071637;
             border-radius: 50%;
             z-index: 1;
             left:626px;
@@ -5161,7 +5161,7 @@ margin-top:85px;
             height: 30px;
             content: "";
             position: absolute;
-            background-color: #000020;
+            background-color: #071637;
             border-radius: 50%;
             z-index: 1;
             left: 1263px;
@@ -5173,7 +5173,7 @@ margin-top:85px;
             height: 30px;
             content: "";
             position: absolute;
-            background-color: #000020;
+            background-color: #071637;
             border-radius: 50%;
             z-index: 1;
             left: -15px;
@@ -5196,28 +5196,28 @@ margin-top:85px;
 
 
       /* #cuadrante_logisticaglobal:hover{
-            background-color: #000020;
+            background-color: #071637;
             color: white;
         }
 
         #cuadrante_cadenasuministro:hover{
-            background-color: #000020;
+            background-color: #071637;
             color: white;
         }
 
         #cuadrante_comerciointernacional:hover{
-            background-color: #000020;
+            background-color: #071637;
             color: white;
         }
 
         #cuadrante_coberturariesgos:hover{
-            background-color: #000020;
+            background-color: #071637;
             color: white;
         } */
 
         .border_compliance_tabla{
-            border-top: 1px solid #000020;
-            border-bottom: 1px solid #000020;
+            border-top: 1px solid #071637;
+            border-bottom: 1px solid #071637;
         }
 
         .no_compliance{

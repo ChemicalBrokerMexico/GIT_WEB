@@ -234,13 +234,13 @@
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1888</p>
+                          +52.55.4438.7996</p>
                       </div>
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General
                         </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1818 </p>
+                          +52.55.4438.7996 </p>
                       </div>
                     </div>
                   </div>
@@ -323,7 +323,7 @@
     </ul>
   </div>
   <div class="row">
-    <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+    <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
       <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo">
       </div>
     </nav>
@@ -733,9 +733,9 @@
                 </div>
                 <div class="card-content" style="padding-bottom:40px;">
                   <div class="col s12 m12 l12 xl3"><span class="Tipografia--general letranegro Elementos--Listas"
-                      style="background-color:#000020;padding:8px;color:white;border-radius:10px">Vehicular</span></div>
+                      style="background-color:#071637;padding:8px;color:white;border-radius:10px">Vehicular</span></div>
                   <div class="col s12 m12 l12 xl3"><span class="Tipografia--general letranegro Elementos--Listas"
-                      style="background-color:#000020;padding:8px;color:white;border-radius:10px">Solvente</span></div>
+                      style="background-color:#071637;padding:8px;color:white;border-radius:10px">Solvente</span></div>
                 </div>
               </div>
             </div>
@@ -767,7 +767,7 @@
                 </div>
                 <br>
                 <br>
-                <center><button type="button" style="background-color:#000020;padding:5px;border-radius:5px;" id="mostrarmas" onclick="MostrarContenido();">Mercado</a></center>
+                <center><button type="button" style="background-color:#071637;padding:5px;border-radius:5px;" id="mostrarmas" onclick="MostrarContenido();">Mercado</a></center>
               </div>
             </div>
 
@@ -781,43 +781,43 @@
                   <ol>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px;">Triglicéridos de
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px;">Triglicéridos de
                         cadena media</span>
                     </li>
                     <br>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px">Dieta Nutricional</span>
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px">Dieta Nutricional</span>
                     </li>
                     <br>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px">Bebidas</span>
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px">Bebidas</span>
                     </li>
                     <br>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px">Bebidas Deportivas</span>
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px">Bebidas Deportivas</span>
                     </li>
                     <br>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px">Fórmula infantil y de continuación</span>
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px">Fórmula infantil y de continuación</span>
                     </li>
                     <br>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px">Encapsulación</span>
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px">Encapsulación</span>
                     </li>
                     <br>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px">Portador de Aromas Alimentarios</span>
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px">Portador de Aromas Alimentarios</span>
                     </li>
                     <br>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px">Remplazo de
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px">Remplazo de
                         Grasa</span>
                     </li>
                   </ol>
@@ -835,23 +835,23 @@
                   <ol>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px;">Triglicéridos de
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px;">Triglicéridos de
                         cadena media</span>
                     </li>
                     <br>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px">Perfumes</span>
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px">Perfumes</span>
                     </li>
                     <br>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px">Portador de Sustancias Activas</span>
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px">Portador de Sustancias Activas</span>
                     </li>
                     <br>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px">Emoliente y Regulador de viscocidad</span>
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px">Emoliente y Regulador de viscocidad</span>
                     </li>
                   </ol>
                 </div>
@@ -889,17 +889,17 @@
                   <ol>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px;">Inhibidores de Corrosión para anticongelante</span>
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px;">Inhibidores de Corrosión para anticongelante</span>
                     </li>
                     <br>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px">Flotación de Minerales de Fosfato</span>
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px">Flotación de Minerales de Fosfato</span>
                     </li>
                     <br>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px">Producción de Alcoholes Plastificantes</span>
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px">Producción de Alcoholes Plastificantes</span>
                     </li>
                   </ol>
                 </div>
@@ -916,27 +916,27 @@
                   <ol>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px;">Riesgo de Tierra para Evitar el Levatamiento de Polvo</span>
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px;">Riesgo de Tierra para Evitar el Levatamiento de Polvo</span>
                     </li>
                     <br>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px">Cloruros de Alquilo</span>
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px">Cloruros de Alquilo</span>
                     </li>
                     <br>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px">Amidas para Productos Agricolas</span>
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px">Amidas para Productos Agricolas</span>
                     </li>
                     <br>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px">Fungicidas</span>
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px">Fungicidas</span>
                     </li>
                     <br>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px">Intermedios Reactivos</span>
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px">Intermedios Reactivos</span>
                     </li>
                    
                     </li>
@@ -954,50 +954,50 @@
                   <ol>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px;">Lubricantes Sintéticos</span>
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px;">Lubricantes Sintéticos</span>
                     </li>
                     <br>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px">Lubricantes de Refrigeración</span>
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px">Lubricantes de Refrigeración</span>
                     </li>
                     <br>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px">Fluidos Hidráulicos Resistentes al Fuego</span>
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px">Fluidos Hidráulicos Resistentes al Fuego</span>
                     </li>
                     <br>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px">Lubricante de avi</span>
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px">Lubricante de avi</span>
                     </li>
                     <br>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px">Bebidas
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px">Bebidas
                         Deportivas</span>
                     </li>
                     <br>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px">Formula Infantil y
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px">Formula Infantil y
                         de Continuacion</span>
                     </li>
                     <br>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px">Encapsulación</span>
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px">Encapsulación</span>
                     </li>
                     <br>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px">Portador de Aromas
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px">Portador de Aromas
                         Alimentarios</span>
                     </li>
                     <br>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px">Remplazo de
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px">Remplazo de
                         Grasa</span>
                     </li>
                   </ol>
@@ -1022,52 +1022,52 @@
                   <ol>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px;">Triglicéridos de
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px;">Triglicéridos de
                         cadena media</span>
                     </li>
                     <br>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px">Solvente</span>
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px">Solvente</span>
                     </li>
                     <br>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px">Dieta
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px">Dieta
                         Nutricional</span>
                     </li>
                     <br>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px">Bebidas</span>
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px">Bebidas</span>
                     </li>
                     <br>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px">Bebidas
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px">Bebidas
                         Deportivas</span>
                     </li>
                     <br>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px">Formula Infantil y
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px">Formula Infantil y
                         de Continuacion</span>
                     </li>
                     <br>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px">Encapsulación</span>
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px">Encapsulación</span>
                     </li>
                     <br>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px">Portador de Aromas
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px">Portador de Aromas
                         Alimentarios</span>
                     </li>
                     <br>
                     <li style="list-style-type:disc">
                       <span class="Tipografia--general letranegro Elementos--Listas"
-                        style="background-color:#000020;padding:8px;color:white;border-radius:10px">Remplazo de
+                        style="background-color:#071637;padding:8px;color:white;border-radius:10px">Remplazo de
                         Grasa</span>
                     </li>
                   </ol>

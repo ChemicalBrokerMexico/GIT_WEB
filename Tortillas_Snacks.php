@@ -124,11 +124,11 @@
                         <h6 class="Tipografia--general Titulos" style="color:white;padding-top:5px">Teléfonos </h6>
                         <div class="col s12 m12 l12 xl12">
                           <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1888</p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996</p>
                         </div>
                         <div class="col s12 m12 l12 xl12"> 
                           <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1818 </p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996 </p>
                         </div>
                       </div>
                     </div>
@@ -195,7 +195,7 @@
       </ul>
     </div>
     <div class="row">  
-      <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+      <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
         <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo"></div>
       </nav>
     </div>
@@ -395,7 +395,7 @@
         <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Tortillas_Snacks.php"><b class="Tipografia--general Subtitulos" style="color:red;">Tortillas & Snacks</b></a></section>
 
         <p style="color:#262137" class="General--Cuerpo Tipografia--general letranegro">Los alimentos del tipo snack forman parte normal de los hábitos de consumo en la población mexicana y representa un mercado de gran dinamismo, sin embargo, este mercado no crece a pasos acelerados como podría ser el caso de otros, en México este mercado tiene un valor de USD 3.232 millones y una producción de 22.558 toneladas, Chemical Broker en conjunto con sus clientes se enfoca en la búsqueda de productos químicos, que resulten útiles en la fabricación de estos productos. </p>
-        <p class="General--Cuerpo Tipografia--general letranegro" style="margin-top:50px;"><b style="color:#000020;">¿Qué es un snack?</b> Papas fritas o papas, frutos secos, rosquilletas, triángulos de maíz tostados, generalmente se consumen por placer o para satisfacer temporalmente el hambre</p>
+        <p class="General--Cuerpo Tipografia--general letranegro" style="margin-top:50px;"><b style="color:#071637;">¿Qué es un snack?</b> Papas fritas o papas, frutos secos, rosquilletas, triángulos de maíz tostados, generalmente se consumen por placer o para satisfacer temporalmente el hambre</p>
         <p class="General--Cuerpo Tipografia--general letranegro" style="margin-top:50px;">Sin embargo en la actualidad un snack es mucho mas que eso y en muchos casos puede ser una de las 5 comidas diarias que debemos hacer</p>
         <p class="General--Cuerpo Tipografia--general letranegro" style="margin-top:50px;">En muchos casos no tiene mucho o ningún valor nutricional y tienen importantes cantidades de edulcorantes, conservantes, saborizantes, sal y otros ingredientes que no contribuyen a cuidar la salud.</p>
         <p class="General--Cuerpo Tipografia--general letranegro" style="margin-top:50px;">A día de hoy el concepto de snack esta cambiando hacia un producto mas sano, donde existe un equilibrio entre sabor y salud. Es decir, productos que cubren el placer que supone consumir un snack.</p>

@@ -155,11 +155,11 @@
 <h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Teléfonos </h6>
 <div class="col s12 m12 l12 xl12">
 <h6 class="Tipografia--general Titulos color--blanco">Ventas </h6>
-<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
 </div>
 <div class="col s12 m12 l12 xl12"> 
 <h6 class="Tipografia--general Titulos color--blanco">Información General </h6>
-<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
 </div>
 </div>
 </div>
@@ -432,7 +432,7 @@
 <div class="container">
     <div class="row">
         <div class="col s12 m12 l12 xl12"></div>
-        <h2 class="Tipografia--general General--Cuerpo letranegro" style="text-align:center;"><b style="color:#000020;">Busqueda</b></h2>
+        <h2 class="Tipografia--general General--Cuerpo letranegro" style="text-align:center;"><b style="color:#071637;">Busqueda</b></h2>
         <i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1">search</i><input type="text" id="Buscador" style="width:100%;margin-top:50px;">
         <div style="margin-top:30px;border:1px solid black;border-radius:15px;">
             Aqui se realizan prubeas de bsuqueda

@@ -145,11 +145,11 @@
                         <h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Phone</h6>
                         <div class="col s12 m12 l12 xl12">
                           <h6 class="Tipografia--general Titulos color--blanco">Sales </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
                         </div>
                         <div class="col s12 m12 l12 xl12"> 
                           <h6 class="Tipografia--general Titulos color--blanco">General Information</h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
                         </div>
                       </div>
                     </div>
@@ -424,9 +424,9 @@
 
     <div class="container">
         <div class="row">
-            <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020;">Aceite de Coco</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#071637;">Aceite de Coco</b></h2>
             <p class="Tipografia--general letranegro General--Cuerpo">El Aceite de coco es un aceite vegetal derivado de la pulpa del coco (Cocos nucifera). Se obtiene mediante procesos de prensado en frio o extracción con calor de la carne blanca o la copra del coco. Es conocido por su alta concentración de ácidos grasos saturados de cadena media, especialmente acido láurico.</p>
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Características y Propiedades</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Características y Propiedades</b></h2>
             <ol>
                 <li class="Elementos--Listas" style="list-style-type:decimal;"><b>Ácidos grasos saturados. -</b> El aceite de coco es una de las fuentes vegetales más ricas en ácidos grasos saturados, con alrededor del 90% de su contenido graso compuesto por estos ácidos, principalmente acido láurico.</li>
                 <li class="Elementos--Listas" style="list-style-type:decimal;margin-top:30px;"><b>Punto de humo alto. -</b> Es adecuado para cocinar a altas temperaturas debido a su alto punto de humo, lo que lo hace popular para freír y hornear.</li>
@@ -435,23 +435,23 @@
                 <li class="Elementos--Listas" style="list-style-type:decimal;;margin-top:30px;"><b>Beneficios potenciales para la salud. -</b> Se ha investigado su posible papel en la mejora de los niveles de colesterol, el apoyo a la salud cerebral y la función metabólica. Sin embargo, la evidencia científica es mixta y se necesita más investigación para confirmar estos beneficios.</li>
                 <li class="Elementos--Listas" style="list-style-type:decimal;;margin-top:30px;"><b>Sabor y aroma. -</b> El aceite de coco tiene un sabor y aroma característicos a coco, lo que da un toque tropical a los platos y productos en los que se utiliza.</li>
             </ol>
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones:</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Aplicaciones:</b></h2>
             <ol>
                 <li class="Elementos--Listas" style="list-style-type:disc;">Excelente para preparaciones de coberturas de chocolate compuestas para helados y dulces refrigerados.</li>
                 <li class="Elementos--Listas" style="list-style-type:disc;margin-top:30px;">Configuración rápida.</li>
                 <li class="Elementos--Listas" style="list-style-type:disc;margin-top:30px;">Flexible y produce recubrimientos que no se desprenden del helado al comerlo.</li>
                 <li class="Elementos--Listas" style="list-style-type:disc;margin-top:30px;">Perfil de fusión nítido, se derrite rápidamente y ofrece una excelente sensación en boca.</li>
             </ol>
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Embalaje:</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Embalaje:</b></h2>
             <ol>
                 <li class="Elementos--Listas" style="list-style-type:disc;">Tambores de 180kg o 190kg netos.</li>
                 <li class="Elementos--Listas" style="list-style-type:disc;margin-top:30px;">Flexibag o ISO Tanque de 20,000 Kg.</li>
             </ol>
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Almacenamiento:</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Almacenamiento:</b></h2>
             <ol>
                 <li class="Elementos--Listas" style="list-style-type:disc;">Es imprescindible conservar el producto en el embalaje original en un lugar fresco y seco.</li>
             </ol>
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Envio:</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Envio:</b></h2>
             <ol>
                 <li class="Elementos--Listas" style="list-style-type:disc;">El aceite de coco se envía en contenedores, bolsas flexibles o isotanques.</li>
             </ol>

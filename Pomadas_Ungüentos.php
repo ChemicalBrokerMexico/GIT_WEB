@@ -124,11 +124,11 @@
                         <h6 class="Tipografia--general Titulos" style="color:white;padding-top:5px">Teléfonos </h6>
                         <div class="col s12 m12 l12 xl12">
                           <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1888</p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996</p>
                         </div>
                         <div class="col s12 m12 l12 xl12"> 
                           <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1818 </p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996 </p>
                         </div>
                       </div>
                     </div>
@@ -195,7 +195,7 @@
       </ul>
     </div>
     <div class="row">  
-      <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+      <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
         <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo"></div>
       </nav>
     </div>
@@ -393,12 +393,12 @@
         <div class="col s12 m12 l12 xl12">
           <p class="General--Cuerpo Tipografia--general colornegro">Las preparaciones farmacéuticas para el tratamiento de afecciones como; erupciones cutaeas, irritacion de la piel, picaduras, infecciones fungicas, son normalmente suministradas en forma de crema o pomada, ya que esto proporciona un medio eficaz para administrar el ingrediente activo, directamente en el área requerida, Chemical Broker en conjunto con sus clientes se encarga de la correcta distribución de ingredientes químicos adecuados para esta industria</p>
           <p class="General--Cuerpo Tipografia--general colornegro" style="margin-top:50px;">Están constituidos por grasas o sustancias de parecidas características que presentan aspecto semisólido a 25°C. Es esta propiedad física lo que realmente las define ya que la composición química es enormemente variada.</p>
-          <h5 class="General--Cuerpo Tipografia--general colornegro" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones:</b></h5>
+          <h5 class="General--Cuerpo Tipografia--general colornegro" style="margin-top:50px;"><b style="color:#071637;">Aplicaciones:</b></h5>
           <p class="General--Cuerpo Tipografia--general colornegro" style="margin-top:0px;">Las pomadas se aplican para diversas finalidades, desde aliviar dolores musculares hasta tratar problemas de la piel. Su versatilidad las hace aptas para el cuidado terapéutico y estético.</p>
-          <h5 class="General--Cuerpo Tipografia--general colornegro" style="margin-top:50px;"><b style="color:#000020;">Crecimiento economico de la industria</b></h5>
+          <h5 class="General--Cuerpo Tipografia--general colornegro" style="margin-top:50px;"><b style="color:#071637;">Crecimiento economico de la industria</b></h5>
           <p class="General--Cuerpo Tipografia--general colornegro" style="margin-top:0px;">El crecimiento económico de la industria de las pomadas ha sido notable en los últimos años. Varios factores contribuyen a este aumento, incluyendo la creciente demanda de productos de cuidado personal y terapéuticos, asi como el interés en ingredientes naturales y orgánicos.</p>
           <p class="General--Cuerpo Tipografia--general colornegro" style="margin-top:50px;">El mercado de las pomadas ha experimentado una expansión debido a la diversificación de aplicaciones, desde propiedades medicinales hasta enfoques mas estéticos. La innovación constante en formulaciones, con un énfasis en ingredientes de alta calidad ha impulsado la preferencia del consumidor.</p>
-          <h5 class="General--Cuerpo Tipografia--general colornegro" style="margin-top:50px;"><b style="color:#000020;">Proceso de fabricación típico</b></h5>
+          <h5 class="General--Cuerpo Tipografia--general colornegro" style="margin-top:50px;"><b style="color:#071637;">Proceso de fabricación típico</b></h5>
           <ol style="margin-top:30px;">
             <li class="Elementos--Listas" >Preparación de la fase oleosa: Los ingredientes en escamas o en polvo, a veces mezclados en seco por adelantado, se dispersan en aceite mineral o aceite de silicona.</li>
             <li class="Elementos--Listas" style="margin-top:30px;">Hidratación de ingredientes en fase acuosa: Los emulsionantes, espesantes y estabilizantes se dispersan en agua en un tanque separado.</li>

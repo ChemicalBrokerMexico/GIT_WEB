@@ -104,9 +104,9 @@ session_start();
    <div class="container">
     <div class="row">
         <div class="col s12 m12 l12 xl12">
-            <input type="submit" class="btn" style="background-color:#000020;" id="btn_Pausado" value="Pausado">
-            <input type="submit" class="btn" style="background-color:#000020;" id="btn_Activo" value="Activo">
-            <input type="submit" class="btn" style="background-color:#000020;" id="btn_Cerrado" value="Cerrado">
+            <input type="submit" class="btn" style="background-color:#071637;" id="btn_Pausado" value="Pausado">
+            <input type="submit" class="btn" style="background-color:#071637;" id="btn_Activo" value="Activo">
+            <input type="submit" class="btn" style="background-color:#071637;" id="btn_Cerrado" value="Cerrado">
         </div>
     </div>
    </div>

@@ -156,11 +156,11 @@
 <h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Teléfonos </h6>
 <div class="col s12 m12 l12 xl12">
 <h6 class="Tipografia--general Titulos color--blanco">Ventas </h6>
-<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
 </div>
 <div class="col s12 m12 l12 xl12"> 
 <h6 class="Tipografia--general Titulos color--blanco">Información General </h6>
-<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
 </div>
 </div>
 </div>
@@ -442,7 +442,7 @@
     <div class="row">
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El tripolifosfato de sodio, también conocido como STPP por sus siglas en inglés (Sodium Tripolyphosphate), es un compuesto inorgánico ampliamente utilizado en diversas aplicaciones industriales y domésticas. Tiene la fórmula química Na5P3O10. </p>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020">Propiedades Químicas</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637">Propiedades Químicas</b></h5>
 
       <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Solubilidad: El STPP es soluble en agua. Esta propiedad es crucial para muchas de sus aplicaciones, como en detergentes y productos de limpieza, donde necesita disolverse para ejercer su función.</li>
@@ -453,7 +453,7 @@
         <li class="Elementos--Listas" style="margin-top:30px;">Reacciones de hidrólisis: Bajo ciertas condiciones, el STPP puede experimentar reacciones de hidrólisis en solución acuosa, produciendo fosfato monosódico y fosfato trisódico como productos de descomposición.</li>
       </ol>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Aplicaciones</b></h5>
 
 
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El pirofosfato tetrasódico anhidro (Na4P2O7) es un compuesto químico inorgánico con diversas aplicaciones en diferentes industrias debido a sus propiedades únicas. </p>

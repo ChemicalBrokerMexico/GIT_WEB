@@ -145,11 +145,11 @@
                         <h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Phone</h6>
                         <div class="col s12 m12 l12 xl12">
                           <h6 class="Tipografia--general Titulos color--blanco">Sales </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
                         </div>
                         <div class="col s12 m12 l12 xl12"> 
                           <h6 class="Tipografia--general Titulos color--blanco">General Information</h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
                         </div>
                       </div>
                     </div>
@@ -666,7 +666,7 @@
             <table style="margin-top:50px;" class="Grasos_No_Movil">
                 <thead>
                     <tr>
-                        <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;text-align:center;" colspan="6"><b>Base Aceite de Coco</b></td>
+                        <td style="border:1px solid #f2f2f2;background-color:#071637;color:white;text-align:center;" colspan="6"><b>Base Aceite de Coco</b></td>
                     </tr>
                 </thead>
                 <tbody>
@@ -807,7 +807,7 @@
                         <td style="border:1px solid #f2f2f2;color:black;background-color:#f2f2f2;" class="ocultar_mobile"></td>
                     </tr>
                     <tr class="">
-                        <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;text-align:center;" colspan="6"><b>Saturados</b></td>
+                        <td style="border:1px solid #f2f2f2;background-color:#071637;color:white;text-align:center;" colspan="6"><b>Saturados</b></td>
                     </tr>
                     <tr class="">
                         <td style="border:1px solid #f2f2f2;color:black;" class="">C8 & Inferior:</td>
@@ -906,7 +906,7 @@
                         <td style="border:1px solid #f2f2f2;color:black;background-color:#f2f2f2;" class="ocultar_mobile"></td>
                     </tr>
                     <tr class="">
-                        <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;text-align:center;" colspan="6"><b>Insaturados</b></td>
+                        <td style="border:1px solid #f2f2f2;background-color:#071637;color:white;text-align:center;" colspan="6"><b>Insaturados</b></td>
                     </tr>
                     <tr class="">
                         <td style="border:1px solid #f2f2f2;color:black;" class="">C18:1</td>
@@ -978,7 +978,7 @@
 
             <table style="margin-top:50px;" class="Grasos_No_Movil">
             <tr class="">
-            <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;text-align:center;" colspan="6"><b>Base Sebo & Soya</b></td>
+            <td style="border:1px solid #f2f2f2;background-color:#071637;color:white;text-align:center;" colspan="6"><b>Base Sebo & Soya</b></td>
             </tr>
             <tr class="">
                 <td style="border:1px solid #f2f2f2;color:black;background-color:#f2f2f2;text-align:center;" class=""><b>Caracteristicas</b></td>
@@ -1100,7 +1100,7 @@
                 <td style="border:1px solid #f2f2f2;color:black;background-color:#f2f2f2;" class="ocultar_mobile"></td>
             </tr>
             <tr class="">
-            <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;text-align:center;" colspan="6"><b>Saturados</b></td>
+            <td style="border:1px solid #f2f2f2;background-color:#071637;color:white;text-align:center;" colspan="6"><b>Saturados</b></td>
             </tr>
             <tr class="">
                 <td style="border:1px solid #f2f2f2;color:black;" class="">C12:</td>
@@ -1173,7 +1173,7 @@
                 <td style="border:1px solid #f2f2f2;color:black;background-color:#f2f2f2;" class="ocultar_mobile"></td>
 </tr>
             <tr class="">
-            <td style="border:1px solid #f2f2f2;background-color:#000020;color:white;text-align:center;" colspan="6"><b>Insaturados</b></td>
+            <td style="border:1px solid #f2f2f2;background-color:#071637;color:white;text-align:center;" colspan="6"><b>Insaturados</b></td>
             </tr>
             <tr>
                 <td style="border:1px solid #f2f2f2;color:black;" class="">C18:1:</td>

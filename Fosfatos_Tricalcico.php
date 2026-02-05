@@ -3,7 +3,7 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Fosfato Tricálcico</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <title>Chemical Broker | Fosfato Tricálcico | Proveedor Global</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="Fosfato Tricálcico, también conocido como fosfato de calcio tribásico, es un compuesto químico con la fórmula Ca₃(PO₄)₂. Se encuentra en la naturaleza en forma de minerales como la apatita y es un componente importante del tejido óseo y dental en los seres humanos y otros animales">
     <link rel="canonical" href="https://chemicalbroker.mx/Fosfatos_Tricalcico.php">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
@@ -13,6 +13,32 @@
       gtag('js', new Date());
       gtag('config', 'G-SGJQ8FDDJ6');
     </script>
+
+<script type="application/Id+json">
+    {
+
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Fosfato Tricalcico",
+      "description": "Fosfato Tricálcico, también conocido como fosfato de calcio tribásico, es un compuesto químico con la fórmula Ca₃(PO₄)₂. Se encuentra en la naturaleza en forma de minerales como la apatita y es un componente importante del tejido óseo y dental en los seres humanos y otros animales,
+      "brand": {
+        "@type": "Brand",
+        "name": "Chemical Broker"
+      },
+
+      "offers":{
+        "@type": "Offer",
+        "url": "https://chemicalbroker.mx/Fosfato_Tricalcico.php",
+        "priceCurrency": "MXN",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Chemical Broker"
+        }
+      }
+    }
+  </script>
+
 <script type="text/javascript" src="js/main.js"></script>
 </head>
 <body> 
@@ -138,11 +164,11 @@
 <h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Teléfonos </h6>
 <div class="col s12 m12 l12 xl12">
 <h6 class="Tipografia--general Titulos color--blanco">Ventas </h6>
-<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
 </div>
 <div class="col s12 m12 l12 xl12"> 
 <h6 class="Tipografia--general Titulos color--blanco">Información General </h6>
-<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
 </div>
 </div>
 </div>
@@ -423,9 +449,9 @@
 
     <h5 class="Tipografia--general letranegro General--Cuerpo" style="background-color:#FF6600;padding:10px;color:white;margin-left:649px;font-size:35px;border-radius:10px"><b>Fosfato Tricálcico</b></h5>
 
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Fosfato Tricálcico</b>, también conocido como Fosfato de Calcio Tribásico, es un compuesto químico con la fórmula Ca₃(PO₄)₂. Se encuentra en la naturaleza en forma de minerales como la apatita y es un componente importante del tejido óseo y dental en los seres humanos y otros animales. </p>
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Fosfato Tricálcico</b>, también conocido como Fosfato de Calcio Tribásico, es un compuesto químico con la fórmula Ca₃(PO₄)₂. Se encuentra en la naturaleza en forma de minerales como la apatita y es un componente importante del tejido óseo y dental en los seres humanos y otros animales. </p>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Propiedades</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Propiedades</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Fórmula química: Ca₃(PO₄)₂</li>
@@ -435,11 +461,11 @@
 </ol>
 
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Aplicaciones</b></h5>
 
-<p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#000020;">Fosfato Tricálcico</b> (Ca₃(PO₄)₂) tiene una amplia variedad de aplicaciones en diferentes industrias debido a sus propiedades químicas y biológicas. A continuación, se detallan algunas de sus principales aplicaciones:</p>
+<p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#071637;">Fosfato Tricálcico</b> (Ca₃(PO₄)₂) tiene una amplia variedad de aplicaciones en diferentes industrias debido a sus propiedades químicas y biológicas. A continuación, se detallan algunas de sus principales aplicaciones:</p>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Industria Alimentaria</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Suplemento Mineral: Añadido a alimentos y bebidas para enriquecerlos con calcio y fósforo, esenciales para la salud ósea.</li>
@@ -447,42 +473,42 @@
     <li class="Elementos--Listas" style="margin-top:30px;">Aditivo Alimentario: Incluido en productos como cereales, productos de panadería y golosinas para mejorar su valor nutricional.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Farmacéutica:</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Industria Farmacéutica:</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Excipiente: Utilizado en la fabricación de tabletas y cápsulas para proporcionar volumen y estabilidad a los medicamentos.</li>
     <li class="Elementos--Listas" style="margin-top:30px;">Suplementos Dietéticos: Forma parte de los suplementos de calcio, ayudando a prevenir deficiencias de este mineral en la dieta.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Medicina y Odontología:</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Medicina y Odontología:</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;Material para Implantes: Utilizado en recubrimientos de implantes óseos y dentales debido a su biocompatibilidad y capacidad para promover la osteointegración.</li>
     <li class="Elementos--Listas" style="margin-top:30px;Sustituto Óseo: Empleado en procedimientos de injertos óseos para reparar defectos óseos.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Cosmética y Cuidado Personal:</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Cosmética y Cuidado Personal:</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Pastas Dentales: Utilizado como abrasivo suave y fuente de calcio para fortalecer el esmalte dental.</li>
     <li class="Elementos--Listas" style="margin-top:30px;">Productos de Cuidado de la Piel: Añadido en algunos productos para sus propiedades minerales</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Agricultura:</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Agricultura:</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Fertilizantes: Componente de fertilizantes fosfatados, mejorando el contenido de fósforo en los suelos y promoviendo el crecimiento de las plantas.</li>
     <li class="Elementos--Listas" style="margin-top:30px;">Aditivo para Piensos: Utilizado en la alimentación animal para proporcionar una fuente de calcio y fósforo, mejorando la salud ósea y el rendimiento productivo de los animales.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Química:</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Industria Química:</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Producción de Cerámicas: Utilizado en la fabricación de ciertos tipos de cerámicas y materiales refractarios.</li>
     <li class="Elementos--Listas" style="margin-top:30px;">Síntesis Química: Empleado como reactivo en varias reacciones químicas.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones Industriales:</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Aplicaciones Industriales:</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Producción de Vidrio: Utilizado en la fabricación de ciertos tipos de vidrio, donde actúa como un agente que mejora las propiedades del producto final.</li>
@@ -491,7 +517,7 @@
       
 
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria del Papel</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Industria del Papel</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Se utiliza en el proceso de fabricación de papel como aditivo para mejorar la adhesión de las fibras y el rendimiento de la pasta de papel.</li>

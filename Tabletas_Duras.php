@@ -123,11 +123,11 @@
                         <h6 class="Tipografia--general Titulos" style="color:white;padding-top:5px">Teléfonos </h6>
                         <div class="col s12 m12 l12 xl12">
                           <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1888</p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996</p>
                         </div>
                         <div class="col s12 m12 l12 xl12"> 
                           <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1818 </p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996 </p>
                         </div>
                       </div>
                     </div>
@@ -194,7 +194,7 @@
       </ul>
     </div>
     <div class="row">  
-      <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+      <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
         <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo"></div>
       </nav>
     </div>
@@ -411,7 +411,7 @@
           </ol>
           <p class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;">El contenido de las capsulas puede ser de consistencia sólida, liquida o pastosa. Esta constituido por uno o mas principios activos con o sin excipientes tales como disolventes, diluyentes, lubricantes, disgregantes, el contenido no causa deterioro en la cubierta.</p>
 
-          <h5 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;"><b style="color:#000020;">Tipos de comprimidos</b></h5>
+          <h5 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;"><b style="color:#071637;">Tipos de comprimidos</b></h5>
           <ol style="margin-top:30px;">
             <li class="Elementos--Listas Tipografia--general">No recubiertos: Obtenidos por simple compresión. Están compuestos por el fármaco y el excipiente (diluyente, aglutinantes, disgregantes, lubricantes),</li>
             <br>
@@ -433,7 +433,7 @@
             <br>
             <li class="Elementos--Listas Tipografia--general">Comprimido gastro-resistente: El objetivo es que resista los jugos gástricos y se puedan absorber en la zona intestinal. El motivo puede ser porque producen lesiones gástricas o por descomponerse en los jugos gástricos.</li>
           </ol>
-          <h5 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;"><b style="color:#000020;">Caracteristicas</b></h5>
+          <h5 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;"><b style="color:#071637;">Caracteristicas</b></h5>
           <ol style="margin-top:30px;">
             <li class="Elementos--Listas Tipografia--general">Se encuentran preparadas solo deben de dosificarse,</li>
             <br>

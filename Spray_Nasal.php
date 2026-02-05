@@ -123,11 +123,11 @@
                         <h6 class="Tipografia--general Titulos" style="color:white;padding-top:5px">Teléfonos </h6>
                         <div class="col s12 m12 l12 xl12">
                           <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1888</p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996</p>
                         </div>
                         <div class="col s12 m12 l12 xl12"> 
                           <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1818 </p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996 </p>
                         </div>
                       </div>
                     </div>
@@ -194,7 +194,7 @@
       </ul>
     </div>
     <div class="row">  
-      <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+      <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
         <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo"></div>
       </nav>
     </div>
@@ -398,16 +398,16 @@
           <!-- </p> -->
           <p class="Tipografia--general General--Cuerpo">Algunos de los puntos clave de este mercado son: </p>
           <ol>
-            <li style="list-style-type:decimal;"><b style="color:#000020;">Crecimiento de mercado:</b> El mercado de los sprays nasales ha experimentado un crecimiento constante debido a factores como el aumento de la prevalencia de condiciones respiratorias, el envejecimiento de la población y una mayor conciencia sobre el autocuidado de la salud.</li>
-            <li style="list-style-type:decimal;margin-top:30px;"><b style="color:#000020;">innovación:</b> Las empresas farmacéuticas están en constantemente innovando en el desarrollo de nuevos productos y formulaciones para mejorar la eficacia, la comodidad y seguridad de los sprays nasales.</li>
-            <li style="list-style-type:decimal;margin-top:30px;"><b style="color:#000020;">Regulación:</b> Los sprays nasales están sujetos a regulaciones estrictas por parte de las agencias de salud en diferentes países para garantizar su seguridad y eficacia. Esto incluye requisitos de etiquetado claros, pruebas de seguridad y calidad.</li>
+            <li style="list-style-type:decimal;"><b style="color:#071637;">Crecimiento de mercado:</b> El mercado de los sprays nasales ha experimentado un crecimiento constante debido a factores como el aumento de la prevalencia de condiciones respiratorias, el envejecimiento de la población y una mayor conciencia sobre el autocuidado de la salud.</li>
+            <li style="list-style-type:decimal;margin-top:30px;"><b style="color:#071637;">innovación:</b> Las empresas farmacéuticas están en constantemente innovando en el desarrollo de nuevos productos y formulaciones para mejorar la eficacia, la comodidad y seguridad de los sprays nasales.</li>
+            <li style="list-style-type:decimal;margin-top:30px;"><b style="color:#071637;">Regulación:</b> Los sprays nasales están sujetos a regulaciones estrictas por parte de las agencias de salud en diferentes países para garantizar su seguridad y eficacia. Esto incluye requisitos de etiquetado claros, pruebas de seguridad y calidad.</li>
           </ol>
           <h5 class="Tipografia--general General--Cuerpo">Ingredientes químicos utilizados en los sprays nasales:</h5>
           <ol>
-          <li style="list-style-type:decimal;"><b style="color:#000020;">Descongestionantes:</b> Los descongestionantes nasales son a menudo compuestos adrenérgicos, como la oximetazolina, la fenilefrina o la pseudoefedrina. Estos compuestos actúan sobre los receptores alfa- adrenérgicos en los vasos sanguíneos nasales causando construcción y reduciendo la congestión nasal.</li>
-            <li style="list-style-type:decimal;margin-top:30px;"><b style="color:#000020;">Antihistamínicos:</b> los antihistamínicos utilizados en los sprays nasales como la azelastina o la olopatadina bloquean los receptores de histamina en la mucosa nasal, lo que ayuda a reducir la inflamación y los síntomas asociados con la rinitis alérgica. </li>
-            <li style="list-style-type:decimal;margin-top:30px;"><b style="color:#000020;">Corticosteroides:</b> Los corticosteroides nasales, como la fluticasona, la budesónida o la mometasona, son potentes antiinflamatorios que reducen la inflamación y la hinchazón de la mucosa nasal al inhibir la liberación de los mediadores inflamatorios y la síntesis de citoquinas. </li>
-            <li style="list-style-type:decimal;margin-top:30px;"><b style="color:#000020;">Conservantes y estabilizadores:</b> Los conservantes y estabilizadores se utilizan para mantener la esterilidad y la estabilidad del producto durante su vida útil. Estos ingredientes pueden incluir conservantes como el cloruro de benzalconio o el cloruro de sodio, así como estabilizadores de pH y antioxidantes</li>
+          <li style="list-style-type:decimal;"><b style="color:#071637;">Descongestionantes:</b> Los descongestionantes nasales son a menudo compuestos adrenérgicos, como la oximetazolina, la fenilefrina o la pseudoefedrina. Estos compuestos actúan sobre los receptores alfa- adrenérgicos en los vasos sanguíneos nasales causando construcción y reduciendo la congestión nasal.</li>
+            <li style="list-style-type:decimal;margin-top:30px;"><b style="color:#071637;">Antihistamínicos:</b> los antihistamínicos utilizados en los sprays nasales como la azelastina o la olopatadina bloquean los receptores de histamina en la mucosa nasal, lo que ayuda a reducir la inflamación y los síntomas asociados con la rinitis alérgica. </li>
+            <li style="list-style-type:decimal;margin-top:30px;"><b style="color:#071637;">Corticosteroides:</b> Los corticosteroides nasales, como la fluticasona, la budesónida o la mometasona, son potentes antiinflamatorios que reducen la inflamación y la hinchazón de la mucosa nasal al inhibir la liberación de los mediadores inflamatorios y la síntesis de citoquinas. </li>
+            <li style="list-style-type:decimal;margin-top:30px;"><b style="color:#071637;">Conservantes y estabilizadores:</b> Los conservantes y estabilizadores se utilizan para mantener la esterilidad y la estabilidad del producto durante su vida útil. Estos ingredientes pueden incluir conservantes como el cloruro de benzalconio o el cloruro de sodio, así como estabilizadores de pH y antioxidantes</li>
           </ol>
 
         </div>
@@ -424,7 +424,7 @@
         <!-- <div class="card">
         <div class="card-image">
           <img src="img/CB_GLICERINAS_030823.jpg">
-          <p class="Titulos" style="margin:0px;display:flex;justify-content:center;margin-top:15px"><b style="color:#000020;">Glicerina</b></p>
+          <p class="Titulos" style="margin:0px;display:flex;justify-content:center;margin-top:15px"><b style="color:#071637;">Glicerina</b></p>
         </div>
         <div class="card-content">
           <p>La <b>Glicerina</b>, también conocida como
@@ -433,7 +433,7 @@
           un átomo de hidrógeno.</p>
         </div>
         <div class="card-action">
-          <a href="Glycerins.php" style="color:#000020;text-transform:capitalize;"><b>Leer Más</b></a>
+          <a href="Glycerins.php" style="color:#071637;text-transform:capitalize;"><b>Leer Más</b></a>
         </div> -->
         <ol>
           <li style="list-style-type:disc;"><a href="Glycerins.php" style="color:rgba(2 146 238 /99%)">Glicerina</a></li>

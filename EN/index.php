@@ -155,11 +155,11 @@
 <h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Teléfonos </h6>
 <div class="col s12 m12 l12 xl12">
 <h6 class="Tipografia--general Titulos color--blanco">Ventas </h6>
-<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
 </div>
 <div class="col s12 m12 l12 xl12"> 
 <h6 class="Tipografia--general Titulos color--blanco">Información General </h6>
-<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
 </div>
 </div>
 </div>
@@ -432,13 +432,13 @@
 <div class="row">
 <div class="col s12 m12 l12 xl12">
 <h2 style="margin-top:-30px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;margin-top: -50px;">Nosotros</b></h2>
-<p class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020;">Chemical Broker</b> comenzó hace más de 9 años, nos basamos en una historia aún más larga de innovación y crecimiento.</p>
+<p class="Tipografia--general letranegro General--Cuerpo"><b style="color:#071637;">Chemical Broker</b> comenzó hace más de 9 años, nos basamos en una historia aún más larga de innovación y crecimiento.</p>
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Hoy nos hemos convertido en uno de los mayores distribuidores de Oleo químicos; Ácidos Grasos, Alcoholes Grasos, Glicerinas, Triglicéridos, Derivados de Palma, Destilados de Ácidos Grasos, Glicoles, Aceites y Grasas, Conservadores, entre otros.</p>
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Nos vemos a nosotros mismos como el puente que conecta a los proveedores en lugares lejanos con los clientes. Y como un canal de distribución, que trae materiales esenciales, necesarios para miles de fabricantes, para crear productos que mejoren la vida de millones de consumidores en todo el mundo.</p>
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Incluso estamos ampliando nuestra línea de productos mientras desarrollamos soluciones renovables de base biológica para el futuro.</p>
-<p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Y tal vez eso es realmente lo que nos diferencia. Porque para todos en <b style="color:#000020;">Chemical Broker</b>, se trata de más que simplemente lo que hacemos, se trata de la forma en como lo hacemos: una empresa, guiada por principios e impulsada por la pasión de servir mejor a nuestros proveedores y clientes, todos los días.</p>
+<p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Y tal vez eso es realmente lo que nos diferencia. Porque para todos en <b style="color:#071637;">Chemical Broker</b>, se trata de más que simplemente lo que hacemos, se trata de la forma en como lo hacemos: una empresa, guiada por principios e impulsada por la pasión de servir mejor a nuestros proveedores y clientes, todos los días.</p>
 <h2 style="margin-top:50px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;margin-top:50px;">Enfoque de Negocios</b></h6>
-<p class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020">Chemical Broker</b> es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de ingredientes químicos.</p>
+<p class="Tipografia--general letranegro General--Cuerpo"><b style="color:#071637">Chemical Broker</b> es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de ingredientes químicos.</p>
 <h2 style="margin-top:50px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;margin-top:50px;">Negocios</b></h6>
 <p class="Tipografia--general letranegro General--Cuerpo">Nuestros negocios brindan servicio a la Industrias Farmacéutica, Alimentaria y Nutrición Humana, Cosmética y del Cuidado Personal, Veterinaria, Alimento y Nutrición Animal, Agroquímicos, Detergentes y Cuidado del Hogar y la Industria Química en general.</p>
 <h2 style="margin-top:50px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;">Proceso de Negocios:</b></h6>
@@ -461,11 +461,11 @@
     <td colspan="6" class="center-align" style="background-color:#FF6600;color:white;"><b style="color:white;font-size:18px">Calidad</b></td>
   </tr>
   <tr>
-    <th style="background-color:#000020;color:white;border:1px solid white;" class="center-align"><p style="margin:0px 3px;font-size:18px">Fabricante</p><p style="margin:3px;font-size:18px;">(Proveedor)</p></th>
-    <th style="background-color:#000020;color:white;border:1px solid white;" class="center-align"><p style="color:yellow;margin:0px;font-size:18px">Compra</p>  <p style="color:rgba(2 146 238 /99%);margin:0px -10px;font-size:18px">Ingredientes</p><p style="color:rgba(2 146 238 /99%);margin:0px;font-size:18px">QuÍmicos</p></th>
-    <th style="background-color:#000020;color:white;border:1px solid white;font-size:18px" class="center-align">Chemical Broker</th>
-    <th style="background-color:#000020;color:white;border:1px solid white;font-size:18px" class="center-align"><div style="display:block;"><p style="color:yellow;margin:0px;">Venta</p>  <p style="color:rgba(2 146 238 /99%);margin:0px -10px;">Ingredientes</p><p style="color:rgba(2 146 238 /99%);margin:0px;">QuÍmicos</p></th>
-    <th style="background-color:#000020;color:white;border:1px solid white;font-size:18px" class="center-align"><div style="display:block;"><p style="margin:0px -14px;">Consumidor</p><p style="margin:0px;">(Cliente)</p></th>
+    <th style="background-color:#071637;color:white;border:1px solid white;" class="center-align"><p style="margin:0px 3px;font-size:18px">Fabricante</p><p style="margin:3px;font-size:18px;">(Proveedor)</p></th>
+    <th style="background-color:#071637;color:white;border:1px solid white;" class="center-align"><p style="color:yellow;margin:0px;font-size:18px">Compra</p>  <p style="color:rgba(2 146 238 /99%);margin:0px -10px;font-size:18px">Ingredientes</p><p style="color:rgba(2 146 238 /99%);margin:0px;font-size:18px">QuÍmicos</p></th>
+    <th style="background-color:#071637;color:white;border:1px solid white;font-size:18px" class="center-align">Chemical Broker</th>
+    <th style="background-color:#071637;color:white;border:1px solid white;font-size:18px" class="center-align"><div style="display:block;"><p style="color:yellow;margin:0px;">Venta</p>  <p style="color:rgba(2 146 238 /99%);margin:0px -10px;">Ingredientes</p><p style="color:rgba(2 146 238 /99%);margin:0px;">QuÍmicos</p></th>
+    <th style="background-color:#071637;color:white;border:1px solid white;font-size:18px" class="center-align"><div style="display:block;"><p style="margin:0px -14px;">Consumidor</p><p style="margin:0px;">(Cliente)</p></th>
   </tr>
   <tr>
     <td colspan="6" class="center-align" style="background-color:#BDD6EE;color:white;"><b style="color:white;font-size:18px">Sistema de Gestión Integral</b></td>

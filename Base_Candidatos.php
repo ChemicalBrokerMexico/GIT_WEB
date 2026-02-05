@@ -104,11 +104,11 @@ $(document).ready(function() {
                     style="left: 330px !important;top:140px !important;height:90%;">
                     <li>
                         <div class="col s12 m12 l12 xl12">
-                            <h5 style="font-size: 16px;font-family:Arial;color:#000020;"><b>Filtros</b></h5>
-                            <hr style="color:#000020;">
+                            <h5 style="font-size: 16px;font-family:Arial;color:#071637;"><b>Filtros</b></h5>
+                            <hr style="color:#071637;">
                             <p style="font-size:16px;font-family:Arial">Filtros Activos</p>
                             <ol>
-                                <li style="color:#000020;list-style-type:disc;">Sin Filtros</li>
+                                <li style="color:#071637;list-style-type:disc;">Sin Filtros</li>
                             </ol>
                             <input type="search" class="center-align;">
                             <p style="font-size: 16px;font-family:Arial">CV</p>
@@ -124,7 +124,7 @@ $(document).ready(function() {
                                     <input type="range" id="test5" min="0" max="100" />
                                 </p>
                                 <div class="container center-align" >
-                           <a href="" class="btn" style="background-color:#000020;">Aplicar</a>
+                           <a href="" class="btn" style="background-color:#071637;">Aplicar</a>
                            </div>
                         </div>
 
@@ -137,7 +137,7 @@ $(document).ready(function() {
     <div class="container" style="border:1px solid black;margin-left:20%;">
         <div class="row" style="display:flex;justify-content:center;align-items:center;">
             <div class="col s12 m12 l6 xl6">
-            <h5 style="font-size: 16px;font-family:Arial;color:#000020;padding:20px;"><b>Listado de Candidatos</b></h5>
+            <h5 style="font-size: 16px;font-family:Arial;color:#071637;padding:20px;"><b>Listado de Candidatos</b></h5>
             </div>
             <div class="col s12 m12 l6 xl6">
                 <select name="" id="">
@@ -146,7 +146,7 @@ $(document).ready(function() {
             </div>
         </div>
         <div class="row">
-        <hr style="background-color:#000020;">
+        <hr style="background-color:#071637;">
             <div class="col s12 m12 l12 xl12">
                 <select name="" id="">
                     <option value="#" selected disabled>Ordenar por</option>
@@ -161,17 +161,17 @@ $(document).ready(function() {
             <div class="container">
                 <div class="row">
                     <div class="col s12 m12 l12 xl12">
-                        <table style="width:100%;margin-top:20px;border:1px solid #000020" id="table_id" class="display compact cell-border responsive">
+                        <table style="width:100%;margin-top:20px;border:1px solid #071637" id="table_id" class="display compact cell-border responsive">
                         <thead>
                             <tr>
-                                <th style="border:1px solid #000020" class="center-align">Candidato</th>
-                                <th style="border:1px solid #000020" class="center-align">Carrera</th>
-                                <th style="border:1px solid #000020" class="center-align">Edad</th>
-                                <th style="border:1px solid #000020" class="center-align">Genero</th>
-                                <th style="border:1px solid #000020" class="center-align">Experiencia</th>
-                                <th style="border:1px solid #000020" class="center-align">Afinidad</th>
-                                <th style="border:1px solid #000020" class="center-align">Adicional</th>
-                                <th style="border:1px solid #000020" class="center-align">Acciones</th>
+                                <th style="border:1px solid #071637" class="center-align">Candidato</th>
+                                <th style="border:1px solid #071637" class="center-align">Carrera</th>
+                                <th style="border:1px solid #071637" class="center-align">Edad</th>
+                                <th style="border:1px solid #071637" class="center-align">Genero</th>
+                                <th style="border:1px solid #071637" class="center-align">Experiencia</th>
+                                <th style="border:1px solid #071637" class="center-align">Afinidad</th>
+                                <th style="border:1px solid #071637" class="center-align">Adicional</th>
+                                <th style="border:1px solid #071637" class="center-align">Acciones</th>
                             </tr>
                             </thead>
                             <tbody>
@@ -194,7 +194,7 @@ $(document).ready(function() {
                                         <td class="center-align" id="Dtype1" style="border:1px solid black;"><?php echo $mostrar['Candidato_Adicional']; ?></td>
                                         <td class="center-align" id="Dtype1" style="border:1px solid black;">
                                         <table>
-                                          <th style="background-color:#000020;color:white;">
+                                          <th style="background-color:#071637;color:white;">
                                             <span style="font-size:12px;"><a href="Perfil.php">Ver Perfil</a></span>
                                           </th>
                                           <tr>

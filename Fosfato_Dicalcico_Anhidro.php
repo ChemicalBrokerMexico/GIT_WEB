@@ -3,7 +3,7 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Fosfato Dicálcico Anhidro</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <title>Chemical Broker | Fosfato Dicálcico Anhidro | Proveedor Global</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="Descubre las ventajas del fosfato dicálcico anhidro, un ingrediente esencial para tus formulaciones en la industria alimentaria, farmacéutica y de suplementos. Este compuesto ofrece una alta biodisponibilidad de calcio y fósforo, favoreciendo una óptima salud ósea y dental. Su pureza y estabilidad garantizan una integración eficaz en una amplia variedad de productos, desde vitaminas y minerales hasta alimentos funcionales. Asegura la calidad y la efectividad de tus productos con fosfato dicálcico anhidro, la solución ideal para tus necesidades de fortificación y suplementación.">
     <link rel="canonical" href="https://chemicalbroker.mx/Fosfato_Dicalcico_Anhidro.php">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
@@ -20,6 +20,32 @@
       gtag('js', new Date());
       gtag('config', 'G-SGJQ8FDDJ6');
     </script>
+
+<script type="application/Id+json">
+    {
+
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Fosfato Dicalcico Anhidro",
+      "description": "Descubre las ventajas del fosfato dicálcico anhidro, un ingrediente esencial para tus formulaciones en la industria alimentaria, farmacéutica y de suplementos. Este compuesto ofrece una alta biodisponibilidad de calcio y fósforo, favoreciendo una óptima salud ósea y dental. Su pureza y estabilidad garantizan una integración eficaz en una amplia variedad de productos, desde vitaminas y minerales hasta alimentos funcionales. Asegura la calidad y la efectividad de tus productos con fosfato dicálcico anhidro, la solución ideal para tus necesidades de fortificación y suplementación.,
+      "brand": {
+        "@type": "Brand",
+        "name": "Chemical Broker"
+      },
+
+      "offers":{
+        "@type": "Offer",
+        "url": "https://chemicalbroker.mx/Fosfato_Dicalcico_Anhidro.php",
+        "priceCurrency": "MXN",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Chemical Broker"
+        }
+      }
+    }
+  </script>
+
 <script type="text/javascript" src="js/main.js"></script>
 </head>
 <body> 
@@ -145,11 +171,11 @@
 <h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Teléfonos </h6>
 <div class="col s12 m12 l12 xl12">
 <h6 class="Tipografia--general Titulos color--blanco">Ventas </h6>
-<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
 </div>
 <div class="col s12 m12 l12 xl12"> 
 <h6 class="Tipografia--general Titulos color--blanco">Información General </h6>
-<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
 </div>
 </div>
 </div>
@@ -431,7 +457,7 @@
 
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#FF6600;">Fosfato Dicálcico Anhidro</b>, también conocido como <b style="color:#FF6600;">Fosfato Dicálcico</b> o DCP (por sus siglas en inglés: <b style="color:#FF6600;">Dicalcium Phosphate</b>), es un compuesto inorgánico con la fórmula química CaHPO₄. Es un polvo blanco, inodoro y casi insoluble en agua, pero soluble en ácidos. Es una forma anhidra, lo que significa que no contiene agua en su estructura cristalina.</p>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020">Propiedades fisicas y quimicas</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637">Propiedades fisicas y quimicas</b></h5>
 
       <ol>
         <li class="Elementos--Listas">Fórmula Química: CaHPO<sub>4</sub></li>
@@ -441,37 +467,37 @@
         <li class="Elementos--Listas">Solubilidad: Prácicamente insoluble en agua (0.02 g/100 mL a 25° C) pero soluble en ácidos diluidos</li>
       </ol>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Aplicaciones</b></h5>
 
       <p class="Tipografia--general letranegro General--Cuerpo"><b style="color:#FF6600;">El Fosfato Dicálcico Anhidro</b> (CaHPO₄) tiene diversas aplicaciones en múltiples industrias debido a sus propiedades químicas y físicas. Aquí se detallan algunas de las principales aplicaciones:</p>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Industria Alimentaria</b></h5>
 
       <ol>
         <li class="Elementos--Listas">Aditivo Alimentario: Utilizado como agente leudante y emulsionante en productos de panadería y cereales.</li>
         <li class="Elementos--Listas">Suplemento Nutricional: Añadido a alimentos para fortificar con calcio y fósforo, esenciales para la salud ósea y dental.</li>
       </ol>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Nutrición Animal</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Nutrición Animal</b></h5>
       <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Suplemento para Animales: Proporciona una fuente accesible de calcio y fósforo en la alimentación animal, esencial para el desarrollo de huesos y dientes en ganado, aves de corral y mascotas.</li>
       </ol>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Farmacéutica</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Industria Farmacéutica</b></h5>
 
       <ol>
         <li class="Elementos--Listas">Excipiente en Tabletas: Utilizado como agente de carga y aglutinante en la fabricación de tabletas farmacéuticas, ayudando a dar forma y estabilidad a las mismas.</li>
         <li class="Elementos--Listas">Suplementos Dietéticos: Integrado en suplementos dietéticos de calcio y fósforo.</li>
       </ol>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Producción de Fertilizantes</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Producción de Fertilizantes</b></h5>
 
       <ol>
-        <li class="Elementos--Listas" style="color:#000020;">Fertilizantes: Empleado en la formulación de fertilizantes para proporcionar fósforo, un nutriente esencial para el crecimiento de las plantas. Ayuda en el desarrollo de raíces fuertes y mejora la resistencia de las plantas.</li>
+        <li class="Elementos--Listas" style="color:#071637;">Fertilizantes: Empleado en la formulación de fertilizantes para proporcionar fósforo, un nutriente esencial para el crecimiento de las plantas. Ayuda en el desarrollo de raíces fuertes y mejora la resistencia de las plantas.</li>
       </ol>
 
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Cuidado Dental</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Cuidado Dental</b></h5>
 
 
       <ol>
@@ -479,13 +505,13 @@
       </ol>
 
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Química</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Industria Química</b></h5>
 
       <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Producción de Otros <b>Fosfatos:</b> Actúa como materia prima en la fabricación de otros fosfatos utilizados en diversas aplicaciones industriales.
 </ol>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Otros Usos</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Otros Usos</b></h5>
 
       <ol>
         <li class="Elementos--Listas">Industria del Plástico: Empleado como agente de relleno en ciertos plásticos y resinas.</li>

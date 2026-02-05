@@ -144,11 +144,11 @@
                         <h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Phone</h6>
                         <div class="col s12 m12 l12 xl12">
                           <h6 class="Tipografia--general Titulos color--blanco">Sales </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
                         </div>
                         <div class="col s12 m12 l12 xl12"> 
                           <h6 class="Tipografia--general Titulos color--blanco">General Information</h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
                         </div>
                       </div>
                     </div>
@@ -414,9 +414,9 @@
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
-                <h2 class="Tipografia--general Titulos top--lecitinas center-align"><b style="color:#000020;font-size:22px;">Política de Calidad</b></h2>
-                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Para <b style="color:#000020;font-size:16px">Camacho & Elizondo S.A de C.V.</b> nuestro compromiso es lograr la satisfacción de las necesidades de nuestros socios de negocios y su desarrollo a través de la comercialización de ingredientes químicos, para las industrias: Farmacéutica, Nutrición Humana, Veterinaria, Nutrición Animal, Cosmética, Cuidado Personal, Agroquímicos, Detergentes, Cuidado del Hogar e Industria Química en general, para cumplir con el marco regulatorio, normas y políticas aplicables, con el principal objetivo de lograr la mejora continua de nuestros procesos y nuestro Sistema de Gestión Integral.</p>
-                <h2 class="Tipografia--general Titulos top--lecitinas center-align"><b style="color:#000020;font-size:22px;">Objetivos de Calidad</b></h2>
+                <h2 class="Tipografia--general Titulos top--lecitinas center-align"><b style="color:#071637;font-size:22px;">Política de Calidad</b></h2>
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Para <b style="color:#071637;font-size:16px">Camacho & Elizondo S.A de C.V.</b> nuestro compromiso es lograr la satisfacción de las necesidades de nuestros socios de negocios y su desarrollo a través de la comercialización de ingredientes químicos, para las industrias: Farmacéutica, Nutrición Humana, Veterinaria, Nutrición Animal, Cosmética, Cuidado Personal, Agroquímicos, Detergentes, Cuidado del Hogar e Industria Química en general, para cumplir con el marco regulatorio, normas y políticas aplicables, con el principal objetivo de lograr la mejora continua de nuestros procesos y nuestro Sistema de Gestión Integral.</p>
+                <h2 class="Tipografia--general Titulos top--lecitinas center-align"><b style="color:#071637;font-size:22px;">Objetivos de Calidad</b></h2>
                 <ol style="list-style-type: disc;margin-top:50px;margin-bottom:0px;">
                     <li class="Tipografia--general letranegro" style="list-style-type:disc;">Mantener la satisfacción del Cliente.</li>
                     <li class="Tipografia--general letranegro" style="list-style-type:disc;">Mantener la rentabilidad del negocio.</li>

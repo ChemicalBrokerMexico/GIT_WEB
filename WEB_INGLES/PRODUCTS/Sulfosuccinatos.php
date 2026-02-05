@@ -223,13 +223,13 @@
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1888</p>
+                          +52.55.4438.7996</p>
                       </div>
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General
                         </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1818 </p>
+                          +52.55.4438.7996 </p>
                       </div>
                     </div>
                   </div>
@@ -312,7 +312,7 @@
     </ul>
   </div>
   <div class="row">
-    <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+    <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
       <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo">
       </div>
     </nav>
@@ -582,12 +582,12 @@
   <div class="container">
     <div class="row">
         <div class="col s12 m12 l12 xl12 center-align">
-            <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:white;background-color:#000020;padding:30px;display:inline-block;width:1160px;text-align:center;font-size:32px;">Sulfosuccinatos</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:white;background-color:#071637;padding:30px;display:inline-block;width:1160px;text-align:center;font-size:32px;">Sulfosuccinatos</b></h2>
             <p class="letranegro General--Cuerpo Tipografia--General">¿Buscas una solución efectiva para la limpieza y emulsificación de aceites y grasas?</p>
             <h2 class="letranegro General--Cuerpo Tipografia--General" style="color:#008080;margin-top:50px;">¡Tenemos la respuesta para Ti!</h2>
             <p class="letranegro General--Cuerpo Tipografia--General">Los sulfossucinatos son una clase de surfactantes aniónicos utilizados en una variedad de aplicaciones industriales y de cuidado personal. Estos compuestos se derivan del acido succínico y se caracterizan por tener grupos sulfonato como grupos funcionales principales.</p>
             <p class="letranegro General--Cuerpo Tipografia--General" style="margin-top:50px;">Introducimos nuestros sulfosuccinatos de alta calidad, agentes tensoactivos de ultima generación diseñados para ofrecer resultados superiores en una amplia gama de aplicaciones industriales y de cuidado personal.</p>
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Los Sulfosuccionatos son conocidos por su capacidad de proporcionar propiedades de limpieza y espuma.</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Los Sulfosuccionatos son conocidos por su capacidad de proporcionar propiedades de limpieza y espuma.</b></h2>
             <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:black;">Aplicaciones</b></h2>
             <div class="col s12 m12 l3 xl3 center-align">
                 <h2 class="letranegro General--Cuerpo Tipografia--General" style="text-align:center"><b>Cuidado Personal</b></h2>
@@ -648,9 +648,9 @@
         <h2 class="letranegro General--Cuerpo Tipografia--General"><b>¿Por qué elegir nuestros Sulfosuccinatos?</b></h2>
         <p class="letranegro General--Cuerpo Tipografia--General">Por que ofrecemos productos de alta calidad; fabricados bajo estrictos estándares de calidad para garantizar la máxima eficiencia y seguridad en tus aplicaciones.</p>
         <h2 class="letranegro General--Cuerpo Tipografia--General" style="margin-top:50px;">¡No esperes mas!</h2>
-        <h2 class="letranegro General--Cuerpo Tipografia--General"><b style="color:#000020;">Eleva tus productos y procesos al siguiente nivel con nuestros Sulfosuccinatos de alta calidad. ¡haz tu pedido ahora y experimenta la diferencia!</b></h2>
+        <h2 class="letranegro General--Cuerpo Tipografia--General"><b style="color:#071637;">Eleva tus productos y procesos al siguiente nivel con nuestros Sulfosuccinatos de alta calidad. ¡haz tu pedido ahora y experimenta la diferencia!</b></h2>
         <p class="letranegro General--Cuerpo Tipografia--General">Para mas información, ¡contactanos hoy mismo!</p>
-        <p class="letranegro General--Cuerpo Tipografia--General">Telefono: +52.55.7586.1818 | Correo Electronico: <b style="color:#0563C1;">sales@chemicalbroker.mx</b></p>
+        <p class="letranegro General--Cuerpo Tipografia--General">Telefono: +52.55.4438.7996 | Correo Electronico: <b style="color:#0563C1;">sales@chemicalbroker.mx</b></p>
         </div>
     </div>
   </div>

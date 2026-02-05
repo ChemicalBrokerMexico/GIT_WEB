@@ -124,11 +124,11 @@
                         <h6 class="Tipografia--general Titulos" style="color:white;padding-top:5px">Teléfonos </h6>
                         <div class="col s12 m12 l12 xl12">
                           <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1888</p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996</p>
                         </div>
                         <div class="col s12 m12 l12 xl12"> 
                           <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1818 </p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996 </p>
                         </div>
                       </div>
                     </div>
@@ -195,7 +195,7 @@
       </ul>
     </div>
     <div class="row">  
-      <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+      <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
         <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo"></div>
       </nav>
     </div>
@@ -401,14 +401,14 @@
         <li class="Elementos--Listas">Productos principales: Leche liquida (entera, semidescremada, descremada), leche en polvo, quesos, yogures, mantequilla, crema y productos ultrafiltrados como la leche UHT</li>
         <li class="Elementos--Listas" style="margin-top:30px;">Principales mercados: India, Estados Unidos, La union Europea, Nueva zelanda lideran tanto en produccion como en consumo.</li>
       </ol>
-      <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Innovacion y tendencias</b></h5>
+      <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Innovacion y tendencias</b></h5>
       <ol>
         <li class="Elementos--Listas">Leche vegetal como competencia: Las alternativas a la leche, como las de almendra, soya, avena y coco, han generado popularidad, impulsadas por preocupaciones ambientables, eticas y de salud</li>
         <li class="Elementos--Listas" style="margin-top:30px;">Fortificación y funcionalidad: Muchas marcas enriquecen sus productos con calcio, vitamina D, omega-3 y probióticos para atraer a consumidores conscientes de la salud</li>
         <li class="Elementos--Listas" style="margin-top:30px;">Tecnología en procesamiento: Métodos como microfiltracion y ultrafiltración permiten mejorar la calidad y vida útil de la leche sin afectar su sabor o nutrientes</li>
         <li class="Elementos--Listas" style="margin-top:30px;">Envases sostenibles: El uso de envases reciclables y biodegradables está en auge debido a la creciente preocupacion ambiental</li>
       </ol>
-      <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Regulaciones</b></h5>
+      <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Regulaciones</b></h5>
       <p class="Tipografia--general letranegro General--Cuerpo">La industria está estrictamente regulada para garatizar la seguridad y la calidad del producto. Estas normas incluyen:</p>
       <ol>
         <li class="Elementos--Listas">Normas de pasteurización: Para eliminar microorganismos patógenos</li>

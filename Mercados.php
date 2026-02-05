@@ -124,11 +124,11 @@
                         <h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Teléfonos </h6>
                         <div class="col s12 m12 l12 xl12">
                           <h6 class="Tipografia--general Titulos color--blanco">Ventas </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
                         </div>
                         <div class="col s12 m12 l12 xl12"> 
                           <h6 class="Tipografia--general Titulos color--blanco">Información General </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
                         </div>
                       </div>
                     </div>
@@ -387,7 +387,7 @@
       <div class="container" style="margin-top:130px;">
         <div class="row">
           <div class="col s12 m12 l12 xl12">
-            <p class="Tipografia--general letranegro General--Cuerpo"><b color="#000020">Chemical Broker</b> es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de ingredientes químicos, para las industrias Farmacéutica, Veterinaria, Alimentaria y Nutrición Humana, Nutrición Animal, Cosmética y del Cuidado Personal, Detergentes, Agroquímica, Industrial e Industria Química en general.</p>
+            <p class="Tipografia--general letranegro General--Cuerpo"><b color="#071637">Chemical Broker</b> es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de ingredientes químicos, para las industrias Farmacéutica, Veterinaria, Alimentaria y Nutrición Humana, Nutrición Animal, Cosmética y del Cuidado Personal, Detergentes, Agroquímica, Industrial e Industria Química en general.</p>
             <!-- <ol style="margin-top:30px"> 
               <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc">Farmacéutica </li>
               <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc">Nutrición Humana</li>

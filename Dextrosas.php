@@ -3,7 +3,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Dextrosas</title>
+  <title>Chemical Broker | Dextrosas | Proveedor Global</title>
   <meta name="description" content="Compra dextrosas de alta calidad para tus necesidades industriales y alimentarias. Nuestra dextrosa garantiza pureza y rendimiento óptimo, ideal para mejorar la textura, sabor y valor nutritivo de tus productos. ¡Opta por nuestra dextrosa para una solución efectiva y confiable en tus formulaciones!">
   <link rel="canonical" href="https://chemicalbroker.mx/Dextrosas.php">
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
@@ -16,6 +16,32 @@
     gtag('js', new Date());
     gtag('config', 'G-SGJQ8FDDJ6');
   </script>
+
+<script type="application/Id+json">
+    {
+
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Dextrosas",
+      "description": "Compra dextrosas de alta calidad para tus necesidades industriales y alimentarias. Nuestra dextrosa garantiza pureza y rendimiento óptimo, ideal para mejorar la textura, sabor y valor nutritivo de tus productos. ¡Opta por nuestra dextrosa para una solución efectiva y confiable en tus formulaciones!,
+      "brand": {
+        "@type": "Brand",
+        "name": "Chemical Broker"
+      },
+
+      "offers":{
+        "@type": "Offer",
+        "url": "https://chemicalbroker.mx/Dextrosas.php",
+        "priceCurrency": "MXN",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Chemical Broker"
+        }
+      }
+    }
+  </script>
+
 </head>
 
 <body>
@@ -193,13 +219,13 @@
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1888</p>
+                          +52.55.4438.7996</p>
                       </div>
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General
                         </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1818 </p>
+                          +52.55.4438.7996 </p>
                       </div>
                     </div>
                   </div>
@@ -282,7 +308,7 @@
     </ul>
   </div>
   <div class="row">
-    <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+    <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
       <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo">
       </div>
     </nav>
@@ -547,7 +573,7 @@
 
       <table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
         <tr>
-          <td style="border:1px solid #c0c0c0;background-color:#000020;width:;color:white;font-size:18px;text-align: center;"><b>Descripción Química:</b></td>
+          <td style="border:1px solid #c0c0c0;background-color:#071637;width:;color:white;font-size:18px;text-align: center;"><b>Descripción Química:</b></td>
          
         </tr>
 
@@ -557,7 +583,7 @@
         </tr>
 
         <tr>
-          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px;text-align: center;"><b>Formula Estructural:</b></td>
+          <td style="border:1px solid #c0c0c0;background-color:#071637;color:white;font-size:18px;text-align: center;"><b>Formula Estructural:</b></td>
          
         </tr>
 
@@ -569,7 +595,7 @@
         </tr>
 
         <tr>
-          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px;text-align: center;"><b>Formula Molecular:</b></td>
+          <td style="border:1px solid #c0c0c0;background-color:#071637;color:white;font-size:18px;text-align: center;"><b>Formula Molecular:</b></td>
      
         </tr>
 
@@ -579,7 +605,7 @@
 
 
         <tr>
-          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px;text-align: center;"><b>CAS No.:</b></td>
+          <td style="border:1px solid #c0c0c0;background-color:#071637;color:white;font-size:18px;text-align: center;"><b>CAS No.:</b></td>
         
         </tr>
 
@@ -588,7 +614,7 @@
         </tr>
 
         <tr>
-          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px;text-align: center;"><b>ChEBI:</b></td>
+          <td style="border:1px solid #c0c0c0;background-color:#071637;color:white;font-size:18px;text-align: center;"><b>ChEBI:</b></td>
        
         </tr>
 
@@ -597,7 +623,7 @@
         </tr>
 
         <tr>
-          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px;text-align: center;"><b>ChemSpider:</b></td>
+          <td style="border:1px solid #c0c0c0;background-color:#071637;color:white;font-size:18px;text-align: center;"><b>ChemSpider:</b></td>
         </tr>
 
 
@@ -606,7 +632,7 @@
         </tr>
 
         <tr>
-          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px;text-align:center;"><b>PubChem:</b></td>
+          <td style="border:1px solid #c0c0c0;background-color:#071637;color:white;font-size:18px;text-align:center;"><b>PubChem:</b></td>
       
         </tr>
 
@@ -616,7 +642,7 @@
         </tr>
 
         <tr>
-          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px;text-align:center;"><b>UNII:</b></td>
+          <td style="border:1px solid #c0c0c0;background-color:#071637;color:white;font-size:18px;text-align:center;"><b>UNII:</b></td>
     
         </tr>
 
@@ -626,7 +652,7 @@
         </tr>
 
         <tr>
-          <td style="border:1px solid #c0c0c0;background-color:#000020;color:white;font-size:18px;text-align:center;"><b>KEGG:</b></td>
+          <td style="border:1px solid #c0c0c0;background-color:#071637;color:white;font-size:18px;text-align:center;"><b>KEGG:</b></td>
  
         </tr>
 

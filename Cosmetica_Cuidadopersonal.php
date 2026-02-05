@@ -247,14 +247,14 @@
                                                 <p class="Tipografia--general General--Cuerpo"
                                                     style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue"
                                                         href="tel:+525575861888"
-                                                        style="color:#a7a7a7">+52.55.7586.1888</a></p>
+                                                        style="color:#a7a7a7">+52.55.4438.7996</a></p>
                                             </div>
                                             <div class="col s12 m12 l12 xl12">
                                                 <h6 class="Tipografia--general Titulos color--blanco">Información
                                                     General </h6>
                                                 <p class="Tipografia--general General--Cuerpo"
                                                     style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue"
-                                                        href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818
+                                                        href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996
                                                     </a></p>
                                             </div>
                                         </div>
@@ -621,7 +621,7 @@
         <div class="row">
             <div class="col s12 m12 l12 xl12">
                 <p class="Tipografia--general letranegro General--Cuerpo">La industria cosmética y del cuidado personal es un sector amplio y dinámico que abarca una variedad de productos diseñados para mejorar la apariencia, la higiene y el bienestar personal. Esta industria se centra en la fabricación y comercialización de productos como cosméticos, productos para el cuidado de la piel, el cabello, el cuerpo, fragancias, artículos de cuidado dental, entre otros.</p>
-                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Segmentos y Productos Principales</b></h2>
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Segmentos y Productos Principales</b></h2>
                 <ol style="margin-top:30px;">
                     <li class="Elementos--Listas">Cosméticos: Incluye maquillaje como bases, sombras de ojos, labiales, esmaltes de uñas </li>
                     <br>
@@ -635,7 +635,7 @@
                     <br>
                     <li class="Elementos--Listas">Cuidado Dental: Pasta dental, Enjuagues bucales, Cepillos de dientes, etc.</li>
                 </ol>
-                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Funciones de los Cosméticos</b></h2>
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Funciones de los Cosméticos</b></h2>
                 <p class="Tipografia--general letranegro General--Cuerpo">Cada cosmético tiene su función. Algunas de estas funciones son: </p>
                 <ol style="margin-top:30px;">
                     <li class="Elementos--Listas">Higiene: Ayudan a mantener el buen estado de la piel y el principio y el principio activo principal suele ser el detergente (Champus, Tonicos, Geles o espumas limpiadoras).</li>

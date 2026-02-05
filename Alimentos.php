@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
     <title>Chemical Broker | Alimentos</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <meta name="description" content="Chemical Broker ofrece un portafolio de Antioxidantes, Fosfatos, Dextrosas, De excelente calidad a nivel mundial para las distintas aplicaciones y usos en la fabricación de alimentos.">
+    <meta name="description" content="La industria de alimentos para consumo humano requiero ingredientes con altos estandares de calidad, pureza y funcionalidad para garantizar la seguridad, estabilidad y desempeño en procesos de produccion a gran escala">
     <link rel="canonical" href="https://chemicalbroker.mx/Alimentos.php">
 
   
@@ -135,11 +135,11 @@ recaptchaResponse.value = token;
                         <h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Teléfonos </h6>
                         <div class="col s12 m12 l12 xl12">
                           <h6 class="Tipografia--general Titulos color--blanco">Ventas </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
                         </div>
                         <div class="col s12 m12 l12 xl12"> 
                           <h6 class="Tipografia--general Titulos color--blanco">Información General </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
                         </div>
                       </div>
                     </div>
@@ -405,7 +405,7 @@ recaptchaResponse.value = token;
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-          <p class="General--Cuerpo Tipografia--general" style="color:#262137;">La industria alimentaria alrededor del mundo permite a cada individuo mejorar su calidad de vida a través de los nutrientes presentes en los alimentos, los cuales se encargan de fortalecer cada uno de los sistemas esenciales del cuerpo humano, <b style="color:#000020;">Chemical Broker</b> ofrece un portafolio de Antioxidantes, Fosfatos, Dextrosas, etc. De excelente calidad a nivel mundial para las distintas aplicaciones y usos en la fabricación de alimentos.</p>
+          <p class="General--Cuerpo Tipografia--general" style="color:#262137;">La industria alimentaria alrededor del mundo permite a cada individuo mejorar su calidad de vida a través de los nutrientes presentes en los alimentos, los cuales se encargan de fortalecer cada uno de los sistemas esenciales del cuerpo humano, <b style="color:#071637;">Chemical Broker</b> ofrece un portafolio de Antioxidantes, Fosfatos, Dextrosas, etc. De excelente calidad a nivel mundial para las distintas aplicaciones y usos en la fabricación de alimentos.</p>
         </div>
       </div>
     </div>

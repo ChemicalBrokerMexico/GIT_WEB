@@ -254,7 +254,7 @@
                                                     Ventas </h6>
                                                 <p class="Tipografia--general General--Cuerpo"
                                                     style="color: #a7a7a7 !important;">Teléfono:
-                                                    +52.55.7586.1888</p>
+                                                    +52.55.4438.7996</p>
                                             </div>
                                             <div class="col s12 m12 l12 xl12">
                                                 <h6 class="Tipografia--general Titulos" style="color:white !Important;">
@@ -262,7 +262,7 @@
                                                 </h6>
                                                 <p class="Tipografia--general General--Cuerpo"
                                                     style="color: #a7a7a7 !important;">Teléfono:
-                                                    +52.55.7586.1818 </p>
+                                                    +52.55.4438.7996 </p>
                                             </div>
                                         </div>
                                     </div>
@@ -371,7 +371,7 @@
         </ul>
     </div>
     <div class="row">
-        <nav style="background-color:#200142;height:137px;margin-top:-35px" role="navigation">
+        <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
             <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png"
                     alt="Logotipo">
             </div>
@@ -660,13 +660,13 @@
                 <h2 class="Tipografia--general letranegro General--Cuerpo" style="color:#BF8F00;"><b>Aceites y Grasas</b></h2>
 
                 <p class="Tipografia--general letranegro General--Cuerpo">El negocio de <b style="color:#BF8F00;">Aceites y Grasas</b> Comestibles de
-                    <b style="color:#200142;">Chemical Broker</b> se especializa en ofrecer a sus clientes soluciones en aplicación, uso y manejo de
+                    <b style="color:#071637;">Chemical Broker</b> se especializa en ofrecer a sus clientes soluciones en aplicación, uso y manejo de
                     aceites y grasas.</p>
 
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;">Nuestros productos son usados ampliamente en la industria alimentaria, Estamos comprometidos en involucrar los más exigentes sistemas de aseguramiento de calidad para ofrecer productos salubres, funcionales y adecuados a las necesidades de nuestros clientes.</p>
 
-                <h3 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b style="color:#200142;">Nuestros productos cubren una amplia gama de
-                    aplicaciones alimenticias y no alimenticias en diferentes líneas de <b style="color:200142;">especialización</b>, entre ellas:</b>
+                <h3 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;"><b style="color:#071637;">Nuestros productos cubren una amplia gama de
+                    aplicaciones alimenticias y no alimenticias en diferentes líneas de <b style="color:071637;">especialización</b>, entre ellas:</b>
                 </h3>
 
                 <ol>
@@ -676,7 +676,7 @@
                     <li class="Elementos--Listas">Aceites y grasas de grado técnico para aplicaciones farmacéuticas, resinas, pinturas, desmoldantes industriales de grado alimenticio.</li>
                 </ol>
 
-                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;">En <b style="color:200142;">Chemical Broker</b> contamos con un profundo
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;">En <b style="color:071637;">Chemical Broker</b> contamos con un profundo
                     nivel de conocimiento del consumidor y décadas de experiencia en la formulación y reformulación de
                     productos alimenticios que están a su servicio. </p>
 
@@ -685,7 +685,7 @@
                     generar beneficios económicos y de mercado para nuestros clientes, maximizando oportunidades en la
                     cadena de abasto, lo que en conjunto elimina costos en la escala del producto final.</p>
 
-                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;">Para sustentar estas garantías, <b style="color:#200142;">Chemical
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;">Para sustentar estas garantías, <b style="color:#071637;">Chemical
                     Broker</b> se sujeta a los más rigurosos sistemas de aseguramiento de calidad y certificaciones como:
                     AIB, HACCP, ISO 22000, entre otras.</p>
 

@@ -4,8 +4,8 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Aceite de Maiz RBD</title>
-  <meta name="description" content="El Aceite de maíz RBD de alta calidad, ideal para aplicaciones alimentarias e industriales. Rico en ácidos grasos esenciales y antioxidantes, ofrece estabilidad y sabor suave. ¡Compra aceite de maíz refinado, blanqueado y desodorizado al mejor precio!"> 
+  <title>Chemical Broker | Aceite de Maiz RBD | Proveedor Global</title>
+  <meta name="description" content="El Aceite de maíz RBD de alta calidad, ideal para aplicaciones alimentarias e industriales. Rico en ácidos grasos esenciales y antioxidantes, ofrece estabilidad y sabor suave. ¡Compra aceite de maíz refinado, blanqueado y desodorizado al mejor precio! y de la mejor calidad"> 
   <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Maiz.php">
  
   <script>
@@ -17,6 +17,38 @@
     gtag('js', new Date());
     gtag('config', 'G-SGJQ8FDDJ6');
   </script>
+
+<script type="application/Id+json">
+    {
+
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Aceite de Maiz",
+      "description": "El Aceite de maíz RBD de alta calidad, ideal para aplicaciones alimentarias e industriales. Rico en ácidos grasos esenciales y antioxidantes, ofrece estabilidad y sabor suave. ¡Compra aceite de maíz refinado, blanqueado y desodorizado al mejor precio! y de la mejor calidad",
+      "brand": {
+        "@type": "Brand",
+        "name": "Chemical Broker"
+      },
+      "manufacturer":{
+        "@type": "Organization",
+        "name": "Cargill"
+      },
+
+      "offers":{
+        "@type": "Offer",
+        "url": "https://chemicalbroker.mx/Aceite_Maiz.php",
+        "priceCurrency": "MXN",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Chemical Broker"
+        }
+      }
+    }
+
+  </script>
+
+
 
 </head>
 
@@ -201,7 +233,7 @@
                         <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General
                         </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1818 </p>
+                          +52.55.4438.7996 </p>
                       </div>
                     </div>
                   </div>
@@ -284,7 +316,7 @@
     </ul>
   </div>
   <div class="row">
-    <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+    <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
       <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo">
       </div>
     </nav>
@@ -537,9 +569,9 @@
       <section style="margin-top:0px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Aceite_Maiz.php"><b class="Tipografia--general Subtitulos" style="color:red;">Aceite de Maiz</b></a></section>
 
 
-            <h2 class="Tipografia--general letranegro Titulos"><b style="color:#000020;">Aceite de Maiz</b></h2>
+            <h2 class="Tipografia--general letranegro Titulos"><b style="color:#071637;">Aceite de Maiz</b></h2>
             <p class="Tipografia--general letranegro General--Cuerpo">El <b>Aceite de Maíz RBD (Refinado, Blanqueado y Desodorizado)</b>, es un tipo de Aceite Vegetal que se obtiene del maíz mediante un proceso de refinamiento. Este proceso implica eliminar impurezas, olores y sabores no deseados del aceite crudo de maíz.</p>
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Cualidades</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Cualidades</b></h2>
 
             <ol>
                 <li style="list-style-type:disc;"><b>Refinado, Blanqueado y Desodorizado (RBD).</b> - Estos tres terminos describen el proceso al que se somete el aceite para mejorar su calidad
@@ -563,7 +595,7 @@
                 <li class="Elementos--Listas">Punto de humo.- El <b>Aceite de Maíz</b> tiene un punto de humo relativamente alto, lo que significa que puede soportar temperaturas mas altas sin descomponerse. Esto lo hace adecuado para freir y cocinar a altas temperaturas</li>
             </ol>
 
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Funciones</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Funciones</b></h2>
 
             <ol>
                 <li class="Elementos--Listas">Emoliente</li>
@@ -572,7 +604,7 @@
                 <li style="margin-top:30px;" class="Elementos--Listas">Lubricante</li>
             </ol>
 
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Aplicaciones</b></h2>
 
             <ol>
                 <li class="Elementos--Listas"> Industria Alimentaria: 

@@ -284,7 +284,7 @@
                                                     Ventas </h6>
                                                 <p class="Tipografia--general General--Cuerpo"
                                                     style="color: #a7a7a7 !important;">Teléfono:
-                                                    +52.55.7586.1888</p>
+                                                    +52.55.4438.7996</p>
                                             </div>
                                             <div class="col s12 m12 l12 xl12">
                                                 <h6 class="Tipografia--general Titulos" style="color:white !Important;">
@@ -292,7 +292,7 @@
                                                 </h6>
                                                 <p class="Tipografia--general General--Cuerpo"
                                                     style="color: #a7a7a7 !important;">Teléfono:
-                                                    +52.55.7586.1818 </p>
+                                                    +52.55.4438.7996 </p>
                                             </div>
                                         </div>
                                     </div>
@@ -393,7 +393,7 @@
         </ul>
     </div>
     <div class="row">
-        <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+        <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
             <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png"
                     alt="Logotipo">
             </div>
@@ -693,7 +693,7 @@
                             <b>IUPAC:</b>
                         </td>
                         <td
-                            style="font-size:15px !important;border:1px solid #f2f2f2;width:50%;background-color:#000020;color:white;">
+                            style="font-size:15px !important;border:1px solid #f2f2f2;width:50%;background-color:#071637;color:white;">
                             <ol>
                                 <li style="list-style-type:disc;margin-left:-23px;">Acido Tetradecanoico</li>
                                 <li style="list-style-type:disc;margin-left:-23px;">Acido Miristico</li>
@@ -710,7 +710,7 @@
                             <b>Sinónimos:</b>
                         </td>
                         <td
-                            style="font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;">
+                            style="font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#071637;">
                             <ol style="color:white;">
                                 <li style="list-style-type:disc;margin-left:-23px"
                                     class="Tipografia General Elementos--Listas colornegro ">Acido n-tetradecanoico</li>
@@ -730,7 +730,7 @@
                             <b>Formula Estructural:</b>
                         </td>
                         <td
-                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;">
+                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#071637;">
                             <img src="img/ESTRUCTURAL_ACIDO_MIRISTICO_171122.png" alt="" style="width:100%;"></td>
                     </tr>
                     <tr class="Tipografia--general General--Cuerpo"
@@ -740,7 +740,7 @@
                             <b>Formula Quimica:</b>
                         </td>
                         <td
-                            style="text-align: center;font-size:15px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
+                            style="text-align: center;font-size:15px !important;border:1px solid #C0C0C0;width:50%;background-color:#071637;color:white;">
                             C<sub>14</sub>H<sub>28</sub>O<sub>2</sub></td>
                     </tr>
 
@@ -751,7 +751,7 @@
                             <b>Formula molecular:</b>
                         </td>
                         <td
-                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
+                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#071637;color:white;">
                             CH<sub>3</sub>(CH<sub>2</sub>)<sub>12</sub>COOH</td>
                     </tr>
                     <tr class="Tipografia--general General--Cuerpo"
@@ -761,7 +761,7 @@
                             <b>Peso Molecular:</b>
                         </td>
                         <td
-                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
+                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#071637;color:white;">
                             228.37</td>
                     <tr>
                         <td
@@ -769,7 +769,7 @@
                             <b>CAS #:</b>
                         </td>
                         <td
-                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
+                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#071637;color:white;">
                             544-63-8</td>
                     </tr>
                     <tr>
@@ -778,7 +778,7 @@
                             <b>EC No.:</b>
                         </td>
                         <td
-                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
+                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#071637;color:white;">
                             208-875-2</td>
                     </tr>
                     <tr>
@@ -787,7 +787,7 @@
                             <b>InChl:</b>
                         </td>
                         <td
-                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
+                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#071637;color:white;">
                             1S/C14H28O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14(15)16/h2-13H2,1H3, (H, 15, 16)</td>
                     </tr>
                     <tr>
@@ -796,7 +796,7 @@
                             <b>ChEBI::</b>
                         </td>
                         <td
-                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
+                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#071637;color:white;">
                             28875</td>
                     </tr>
                     <tr>
@@ -805,7 +805,7 @@
                             <b>ChEMBL:</b>
                         </td>
                         <td
-                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
+                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#071637;color:white;">
                             CHEBL111077</td>
                     </tr>
                     <tr>
@@ -813,7 +813,7 @@
                             style="font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:black;">
                             <b>ChemSpider:</b></td>
                         <td
-                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
+                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#071637;color:white;">
                             10539</td>
 
                     </tr>
@@ -822,7 +822,7 @@
                             style="font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:black;">
                             <b>DrugBank:</b></td>
                         <td
-                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
+                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#071637;color:white;">
                             08231</td>
 
                     </tr>
@@ -831,7 +831,7 @@
                             style="font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:black;">
                             <b>PubChem:</b></td>
                         <td
-                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
+                            style="text-align: center;font-size:16px !important;border:1px solid #C0C0C0;width:50%;background-color:#071637;color:white;">
                             11005</td>
 
                     </tr>
@@ -840,7 +840,7 @@
                             style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:black;">
                             <b>UNII:</b></td>
                         <td
-                            style="text-align: center;font-size:15px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
+                            style="text-align: center;font-size:15px !important;border:1px solid #C0C0C0;width:50%;background-color:#071637;color:white;">
                             0I3VS25AW</td>
 
                     </tr>
@@ -850,7 +850,7 @@
                             style="font-size:15px !important;border:1px solid #C0C0C0;width:50%;background-color:#BDD6EE;color:black;">
                             <b>KEGG:</b></td>
                         <td
-                            style="text-align: center;font-size:15px !important;border:1px solid #C0C0C0;width:50%;background-color:#000020;color:white;">
+                            style="text-align: center;font-size:15px !important;border:1px solid #C0C0C0;width:50%;background-color:#071637;color:white;">
                             C06424</td>
                     </tr>
 

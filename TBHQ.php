@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Terbutilhidroquinona (TBHQ)</title>
+  <title>Chemical Broker | Terbutilhidroquinona (TBHQ) | Proveedor Global</title>
   <meta name="description" content="Protege tus productos con TBHQ, un antioxidante altamente efectivo que prolonga la vida útil de alimentos, aceites y grasas. Ideal para aplicaciones alimentarias e industriales que exigen máxima calidad. ¡Compra TBHQ de alto rendimiento al mejor precio!"> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/TBHQ.php">
@@ -18,6 +18,34 @@
         gtag('js', new Date());
         gtag('config', 'G-SGJQ8FDDJ6');
     </script>
+
+<script type="application/Id+json">
+    {
+
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "TBHQ",
+      "description": "Protege tus productos con TBHQ, un antioxidante altamente efectivo que prolonga la vida útil de alimentos, aceites y grasas. Ideal para aplicaciones alimentarias e industriales que exigen máxima c",
+      "brand": {
+        "@type": "Brand",
+        "name": "Chemical Broker"
+      },
+      
+      "offers":{
+        "@type": "Offer",
+        "url": "https://chemicalbroker.mx/TBHQ.php",
+        "priceCurrency": "MXN",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Chemical Broker"
+        }
+      }
+    }
+
+  </script>
+
+
 </head>
 
 <body>
@@ -250,7 +278,7 @@
                                                     Ventas </h6>
                                                 <p class="Tipografia--general General--Cuerpo"
                                                     style="color: #a7a7a7 !important;">Teléfono:
-                                                    +52.55.7586.1888</p>
+                                                    +52.55.4438.7996</p>
                                             </div>
                                             <div class="col s12 m12 l12 xl12">
                                                 <h6 class="Tipografia--general Titulos" style="color:white !Important;">
@@ -258,7 +286,7 @@
                                                 </h6>
                                                 <p class="Tipografia--general General--Cuerpo"
                                                     style="color: #a7a7a7 !important;">Teléfono:
-                                                    +52.55.7586.1818 </p>
+                                                    +52.55.4438.7996 </p>
                                             </div>
                                         </div>
                                     </div>
@@ -374,7 +402,7 @@
         </ul>
     </div>
     <div class="row">
-        <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+        <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
             <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png"
                     alt="Logotipo">
             </div>
@@ -851,7 +879,7 @@
                             <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">están diseñados para garantizar que el consumo de <b>TBHQ</b> no represente riesgo para la salud humana.</p>
 
 
-                            <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h5>
+                            <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#071637;">Aplicaciones</b></h5>
 
                             <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Alimentaria y Nutrición Humana</b></h5>
                             
@@ -864,13 +892,13 @@
                                 <li class="Elementos--Listas" style="margin-top:30px;">Cenas Empaquetadas</li>
                             </ol>
 
-                            <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#000020;">Sabores & Fragancias</b></h5>
+                            <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b style="color:#071637;">Sabores & Fragancias</b></h5>
                             
                             <ol style="margin-top:30px;">
                                 <li class="Elementos--Listas">Fijador</li>
                             </ol>
 
-                            <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;color:#000020;"><b style="color:#000020;">Industrial</b></h5>
+                            <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;color:#071637;"><b style="color:#071637;">Industrial</b></h5>
                             
                             <ol style="margin-top:30px;">
                                 <li class="Elementos--Listas" style="margin-top:30px;">Estabilizador para inhibir la auto polimerización de peróxidos orgánicos</li>

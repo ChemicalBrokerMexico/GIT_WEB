@@ -916,9 +916,9 @@ function filtroa(){
   
   </tr>
   <tr>
-    <td style="background-color:#000020;color:white;text-align:center;border-right:1px solid white;">Familia</td>
-    <td style="background-color:#000020;color:white;text-align:center;border-right:1px solid white;">Descripción Quimica</td>
-    <td style="background-color:#000020;color:white;text-align:center;border-right:1px solid white;">CAS #</td>
+    <td style="background-color:#071637;color:white;text-align:center;border-right:1px solid white;">Familia</td>
+    <td style="background-color:#071637;color:white;text-align:center;border-right:1px solid white;">Descripción Quimica</td>
+    <td style="background-color:#071637;color:white;text-align:center;border-right:1px solid white;">CAS #</td>
   </tr>
   <tr>
     <td style="text-align:center;width: 33.33%;"><?php echo $mostrar['Familia']?></td>

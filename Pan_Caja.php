@@ -124,11 +124,11 @@
                         <h6 class="Tipografia--general Titulos" style="color:white;padding-top:5px">Teléfonos </h6>
                         <div class="col s12 m12 l12 xl12">
                           <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1888</p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996</p>
                         </div>
                         <div class="col s12 m12 l12 xl12"> 
                           <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1818 </p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996 </p>
                         </div>
                       </div>
                     </div>
@@ -195,7 +195,7 @@
       </ul>
     </div>
     <div class="row">  
-      <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+      <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
         <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo"></div>
       </nav>
     </div>
@@ -393,21 +393,21 @@
       <div class="row">
         <div class="col s12 m12 l12 xl12">
           <p class="Tippografia--general letranegro General--Cuerpo">La industria del pan de caja (tambien conocido como pan de molde o pan empacado) es un segmento significativo dentro del sector de productos de panificacion. Este tipo de pan, caracterizado por su presentacion rectangular y en rebanadas uniformes, se han consolidado como un alimento como un alimento basico en muchas culturas debido a su conveniencia, durabilidad y versatilidad.</p>
-          <h5 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020;">Innovacion y tendencias</b></h5>
+          <h5 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#071637;">Innovacion y tendencias</b></h5>
           <ol>
             <li style="list-style-type:disc;margin-top:30px;">Ingredientes funcionales: Cada vez más, los fabricantes incluyen ingredientes como fibra, semillas, proteínas, y fortificaciones vitamínicas para satisfacer la demanda de productos más saludables</li>
             <li style="list-style-type:disc;margin-top:30px;">Etiquetas Limpias: Los consumidores buscan opciones sin conservantes, colorantes artificiales y aditivos químicos</li>
             <li style="list-style-type:disc;margin-top:30px;">Opciones dietéticas: El crecimiento de dietas específicas a impulsado la oferta de panes sin gluten, bajos en carbohidratos y veganos</li>
             <li style="list-style-type:disc;margin-top:30px;">Sostenibilidad: Las marcas están apostando por empaques biodegradables y prácticas de producción sostenibles para reducir su impacto ambiental</li>
           </ol>
-          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Perspectivas futuras:</b></h5>
+          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Perspectivas futuras:</b></h5>
           <ol>
             <li style="margin-top:30px;" class="Elementos--Listas">Crecimiento en mercado emergentes: El aumento en el poder adquisitivo y los cambios de los habitos alimenticios en regiones como Asia y África están generando nuevas oportunidades</li>
             <li style="margin-top:30px;" class="Elementos--Listas">Difgitalización: Las ventas de pan de caja a través de plataformas de comercio electrónico están creciendo rápidamente, especialmente después de la pandemia.</li>
             <li style="margin-top:30px;" class="Elementos--Listas">Mayor personalización: Se espera un aumento en opcines hechas a medida para consumidores con necesidades dietéticas específicas.</li>
           </ol>
           
-          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Ingredientes Quimicos utilizados</b></h5>
+          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Ingredientes Quimicos utilizados</b></h5>
 
           <ol>
             <li class="Elementos--Listas">Conservadores: Estos prolongan la vida útil para el pan al prevenir el desarrollo de mohos y bacterias:

@@ -204,12 +204,12 @@ recaptchaResponse.value = token;
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos color--blanco">Ventas </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a
-                            class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+                            class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
                       </div>
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos color--blanco">Información General </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a
-                            class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+                            class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
                       </div>
                     </div>
                   </div>
@@ -539,9 +539,9 @@ recaptchaResponse.value = token;
     <div class="row">
       <div class="col s12 m12 l12 xl12">
         <center><h2 class="Tipografia--general-slogans" style="color:#2279dfa4;"><b>“Calidad en cada ingrediente; Nuestro compromiso con la excelencia farmacéutica”</b></h2></center>
-        <p class="Tipografia--general General--Cuerpo" style="color:#262137;margin-top:50px;margin-bottom:0px;">La Industria <b style="color:#000020;">Farmacéutica</b> provee al mundo
+        <p class="Tipografia--general General--Cuerpo" style="color:#262137;margin-top:50px;margin-bottom:0px;">La Industria <b style="color:#071637;">Farmacéutica</b> provee al mundo
           soluciones que permiten preservar la salud humana y mejorar su calidad de vida.</p>
-        <p class="Tipografia--general General--Cuerpo" style="color:#262137;margin-top:50px;margin-bottom:0px;"><b style="color:#000020;">Chemical Broker</b> ofrece un amplio
+        <p class="Tipografia--general General--Cuerpo" style="color:#262137;margin-top:50px;margin-bottom:0px;"><b style="color:#071637;">Chemical Broker</b> ofrece un amplio
           portafolios de Excipientes en cumplimiento y certificación con las Farmacopeas Internacionales y Buenas
           Prácticas de Manufactura ICH-Q7.</p>
         <h2 class="Tipografia--general Titulos" style="color:#262137;margin-top:50px"><b>Excipientes</b></h2>
@@ -591,7 +591,7 @@ recaptchaResponse.value = token;
             </div><img class="mercadosimagen" src="img/SPRAY_NASAL.jpeg" alt="" style="border-radius:10px" />
           
           </div>
-          <!-- <div class="container" style="background-color:#000020;border-radius:15px;padding:5px;margin-top:-30px;width:100%;">
+          <!-- <div class="container" style="background-color:#071637;border-radius:15px;padding:5px;margin-top:-30px;width:100%;">
                 <p class="Tipografia--general letranegro General--Cuerpo center-align" style="color:white;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam excepturi possimus ab a debitis, ad iure nam deserunt eligendi quod aspernatur magni in hic, minima eos fuga, esse illum voluptatem. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Harum beatae, molestiae ab, in quam quibusdam, nam inventore iusto fugit architecto quaerat quos dolor laboriosam excepturi dicta. Minima necessitatibus consectetur possimus?</p>
             </div> -->
         </a></div>

@@ -123,11 +123,11 @@
                         <h6 class="Tipografia--general Titulos" style="color:white;padding-top:5px">Teléfonos </h6>
                         <div class="col s12 m12 l12 xl12">
                           <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1888</p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996</p>
                         </div>
                         <div class="col s12 m12 l12 xl12"> 
                           <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1818 </p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996 </p>
                         </div>
                       </div>
                     </div>
@@ -194,7 +194,7 @@
       </ul>
     </div>
     <div class="row">  
-      <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+      <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
         <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo"></div>
       </nav>
     </div>
@@ -397,13 +397,13 @@
         <div class="col s12 m12 l12 xl12">
           <p class="General--Cuerpo Tipografia--general letranegro">La industria del yogur es una de las más importantes dentro del sector lácteo, conocida por su versatilidad, valor nutricional y atractivo para un público amplio. El yogur se produce fermentando leche con bacterias específicas que transforman la lactosa en ácido láctico, dándole su textura y sabor característicos. Este producto tiene una enorme diversidad de formatos y aplicaciones, desde postres y meriendas hasta productos funcionales y dietéticos.</p>
 
-          <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020;">Caracteristicas del Yogur</b></h2>
+          <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#071637;">Caracteristicas del Yogur</b></h2>
 
           <ol>
             <li class="Elementos--Listas">Producto base: Se utiliza leche entera, semidescremada o descremada como base.</li>
           </ol>
 
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Tipos de Yogur</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Tipos de Yogur</b></h2>
 
             <ol>
               <li class="Elementos--Listas">Yogur natural (sin azúcar o saborizantes).</li>

@@ -144,11 +144,11 @@
                         <h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Phone</h6>
                         <div class="col s12 m12 l12 xl12">
                           <h6 class="Tipografia--general Titulos color--blanco">Sales </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
                         </div>
                         <div class="col s12 m12 l12 xl12"> 
                           <h6 class="Tipografia--general Titulos color--blanco">General Information</h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
                         </div>
                       </div>
                     </div>
@@ -435,12 +435,12 @@
             <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;">El colágeno está formado por tres cadenas polipeptídicas, que juntas forman una hélice llamada triple hélice, conocida como colágeno. Se han identificado muchos tipos de colágeno que difieren en estructura y funcionalidad.</p>
         </div>
         <div class="col s12 m12 l12 xl12">
-            <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#000020;">Diferencia entre Colágeno y Colágeno Hidrolizado</b></h2>
+            <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#071637;">Diferencia entre Colágeno y Colágeno Hidrolizado</b></h2>
             <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;">El colágeno es una proteína compuesta por fibras que se encuentra en todas las estructuras importantes de nuestro cuerpo como en los huesos, tendones y ligamentos. También forma parte de los tejidos y es el responsable de dar firmeza a la piel. Su estructura es compleja, proporciona fuerza y mantiene la flexibilidad de la piel, huesos, articulaciones, uñas, cabello, etc.</p>
             <p class="letrangro Tipografia--general General--Cuerpo" style="margin-top:50px;">Mediante un proceso de hidroxilación, a partir del colágeno natural, se rompen las grandes cadenas de colágeno para, así, obtener moléculas de este péptido, mucho más pequeñas este formándose así el Colágeno Hidrolizado. De esta manera, el colágeno, es absorbido rápidamente y en su totalidad por el cuerpo, gracias a que pueden atravesar, sin problema, la barrera intestinal y llegar a los tejidos donde cumplen su misión. Por lo tanto, el colágeno hidrolizado se absorbe mejor.</p>
         </div>
         <div class="col s12 m12 l12 xl12" >
-        <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#000020;">Colágeno Hidrolizado</b></h2>
+        <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#071637;">Colágeno Hidrolizado</b></h2>
         <p class="letranegro Tipografia--general General--Cuerpo">El colágeno hidrolizado (CH); también llamado gelatina hidrolizada o péptidos de colágeno, es la forma más asimilable de proteína de colágeno, un nutriente proteico formado por péptidos de colágeno de bajo peso molecular (PM medio inferior a 6.000 Dalton), que, tras su digestión y absorción intestinal, pasan a la sangre en forma de aminoácidos, dipéptidos y tripéptidos. Existen estudios que apuntan que los derivados de la ingesta de CH presentan distintas actividades biológicas; péptidos bioactivos y dan lugar a la percepción de efectos beneficiosos de salud cuando se realiza la toma continuada de una dosis diaria eficaz.</p>
         <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;">Al mostrar propiedades de salud que trascienden a su valor nutricional, el CH entra en la categoría de los nutracéuticos, termino que combina la palabra nutrición y farmacéutico y se aplica a aquellos ingredientes bioactivos, habitualmente contenidos en alimentos funcionales, que, adecuadamente presentados, dosificados y suplementados en la dieta, son capaces de actuar de forma sostenible como coadyuvantes en la prevención y tratamiento de ciertas enfermedades por su ausencia de efectos secundarios adversos.</p>
         <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;">Estudios y revisiones realizadas hasta la fecha apuntan que los efectos beneficiosos de toma de CH se producen principalmente en aquellas afecciones patológicas derivadas de la perdida y deterioro de la proteína de colágeno, un proceso que ocurre progresivamente de modo natural al envejecer, y que puede acelerarse en determinadas circunstancias, dando lugar a consecuencias muy diversas como el desgaste articular, la pérdida de masa ósea y en envejecimiento dérmico. E este caso la función básica atribuida al Ches la mejora del estado de los tejidos conectivos y la ralentización de su deterioro.</p>
@@ -449,21 +449,21 @@
             <img src="img/CB_FACIAL_280723.jpg" alt="" style="width:100%;">
         </div>
         <div class="col s12 m12 l12 xl12" style="margin-top:50px;">
-         <h2 class="letranegro Tipografia--general Titulos"><b style="color:#000020;">Proceso de elaboración del Colágeno Hidrolizado</b></h2>
+         <h2 class="letranegro Tipografia--general Titulos"><b style="color:#071637;">Proceso de elaboración del Colágeno Hidrolizado</b></h2>
          <p class="letranegro Tipografia--general General--Cuerpo">El Colágeno Hidrolizado se obtiene a partir de tejidos animales ricos en proteína de colágeno (piel, huesos, cartílagos, espinas, escamas, …) El colágeno presente en estos tejidos (colágeno nativo) no es asimilable, ya que su biomolécula de enorme tamaño (300.000 Da de PM) se encuentra intacta y no puede atravesar la barrera intestinal <span>(absorción <1%)</span>"</p>
          <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;">La elaboración de Colágeno Hidrolizado va encaminada a convertir el colágeno nativo en una proteína asimilable, de fácil incorporación a la alimentación, que no solo aporte su valor nutricional, sino también su funcionalidad de salud, asociada a la abundancia y múltiples funciones biológicas del colágeno en el cuerpo</p>
         </div>
         <div class="col s12 m12 l12 xl12">
-        <h2 class="letranegro Tipografia--general Titulos"><b style="color:#000020;">La elaboración del Colágeno Hidrolizado requiere dos etapas:</b></h2>
-        <p class="letranegro Tipografia--general General--Cuerpo"><b style="color:#000020">Etapa 1:</b> Gelatinización. - consiste en abrirla triple hélice de colágeno, de modo que sus cadenas polipeptídicas queden libres. Para ello a nivel industrial se somete al colágeno nativo presente en los tejidos animales a un tratamiento químico (acido o alcalino). El resultado es la gelatina, generalmente empleada para elaboración de postres y productos de pastelería. También contienen gelatina algunos platos elaborados a partir de los tejidos animales cuya preparación incluye un tiempo largo de cocción (caldos de carne o pescado). La gelatina presenta menor peso molecular (PM) (entre 20.000 Da y 100.000 Da para gelatinas alimentarias) que el colágeno nativo (300.000 Da), pero este tamaño </p>
+        <h2 class="letranegro Tipografia--general Titulos"><b style="color:#071637;">La elaboración del Colágeno Hidrolizado requiere dos etapas:</b></h2>
+        <p class="letranegro Tipografia--general General--Cuerpo"><b style="color:#071637">Etapa 1:</b> Gelatinización. - consiste en abrirla triple hélice de colágeno, de modo que sus cadenas polipeptídicas queden libres. Para ello a nivel industrial se somete al colágeno nativo presente en los tejidos animales a un tratamiento químico (acido o alcalino). El resultado es la gelatina, generalmente empleada para elaboración de postres y productos de pastelería. También contienen gelatina algunos platos elaborados a partir de los tejidos animales cuya preparación incluye un tiempo largo de cocción (caldos de carne o pescado). La gelatina presenta menor peso molecular (PM) (entre 20.000 Da y 100.000 Da para gelatinas alimentarias) que el colágeno nativo (300.000 Da), pero este tamaño </p>
         <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;">es aun excesivo para que exista un grado de absorción y una concentración de péptidos en sangre que den lugar a un alimento con funcionalidad de salud.</p>
         <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;">Actualmente para la elaboración de Colágeno hidrolizado existe una etapa alternativa de gelatinización que utiliza una temperatura elevada en lugar de productos químicos y que tiene una igual o mayor seguridad alimentaria que el tratamiento químico.</p>
         <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;"><b>Etapa 2:</b> Hidrolisis enzimática. – consiste en fragmentar (hidrolizar) las cadenas poli pépticas liberadas previamente en la gelatinización mediante el empleo de enzimas similares a las que intervienen en la digestión de los alimentos, obteniéndose una mezcla de péptidos de reducido tamaño (<span><6000 Da de PM), que constituyen propiamente el Colágeno Hidrolizado y que presenta elevada absorción y biodisponibilidad.</span></p>
         <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;">Como resultado de este proceso de elaboración, la composición en aminoácidos del Colágeno Hidrolizado es idéntica a la del colágeno nativo de procedencia, pero, a diferencia de este, es un alimento muy asimilable, de manera que, una vez digerido, es capaz de atravesar la barrera intestinal, pasar a la sangre y alcanzar órganos y tejidos, proporcionando la concentración de aminoácidos y péptidos bioactivos necesaria para producir efectos beneficiosos de salud.</p>
-        <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50xp;"><b style="color:#000020;">Características fisicoquímicas</b></h2>
+        <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50xp;"><b style="color:#071637;">Características fisicoquímicas</b></h2>
         <p class="letranegro Tipografia--general General--Cuerpo">Las fibras colágenas son flexibles, pero ofrecen gran resistencia a la tracción. El punto de rotura de las fibras colágenas de los tendones humanos se alcanza con una tensión (fuerza por unidad de superficie) de varios cientos de kilogramos por centímetro cuadrado. A esta tensión, solamente se han alargado un pequeño porcentaje de su longitud original. </p> 
         <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;">Cuando el colágeno se desnaturaliza por ebullición y se deja enfriar, manteniéndolo en una solución acuosa, se convierte en gelatina.</p>
-        <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#000020;">Propiedades</b></h2>
+        <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#071637;">Propiedades</b></h2>
         <p class="letranegro Tipografia--general General--Cuerpo">El colágeno tiene propiedades benéficas para el ser humano y se utiliza en la industria. Su función más importante es mantener la estructura adecuada de los tejidos y órganos humanos. Las proteínas del colágeno actúan de tal forma que rellenan los espacios intercelulares, proporcionando a los tejidos resistencia mecánica. Además, el colágeno confiere dureza y elasticidad a los tejidos.</p>
         <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;">El colágeno también participa en el proceso de coagulación de la sangre, lo que contribuye a la cicatrización de las heridas, y favorece las defensas del organismo frente a agentes patógenos y toxinas peligrosas.</p>
         <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;">Las propiedades del colágeno también se aprovechan en los procesos metabólicos. Esta proteína permite convertir la glucosa en energía, lo que favorece la pérdida de peso</p>
@@ -471,7 +471,7 @@
         <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;">Teniendo en cuenta las propiedades del colágeno, no es de extrañar que se le denomine la proteína de la juventud. Gracias a sus propiedades, mantiene la piel tersa, elástica e hidrata, hace que las articulaciones funcionen correctamente, que las heridas cicatricen más rápido y que los huesos se unan. </p>
         </div>
         <div class="col s12 m12 l12 xl12">
-        <h2 class="letranegro Tipografia--general Titulos"><b style="color:#000020;">Funciones:</b></h2>
+        <h2 class="letranegro Tipografia--general Titulos"><b style="color:#071637;">Funciones:</b></h2>
         <ol style="list-style-type:disc;margin-bottom:0px;">
             <li class="Tipografia--general letranegro Elementos--Listas">Antioxidante,</li>
             <li class="Tipografia--general letranegro Elementos--Listas">Antihipertensivo,</li>
@@ -483,7 +483,7 @@
             <li class="Tipografia--general letranegro Elementos--Listas">Quelante,</li>
             <li class="Tipografia--general letranegro Elementos--Listas">Formador de film.</li>
         </ol>
-        <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#000020;">Beneficios:</b></h2>
+        <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#071637;">Beneficios:</b></h2>
         <ol style="list-style-type:disc;margin-bottom:0px;">
             <li class="Tipografia--general letranegro Elementos--Listas">Mejora la firmeza y elasticidad de la piel,</li>
             <li class="Tipografia--general letranegro Elementos--Listas">Previene la aparición de arrugas, estrías y celulitis,</li>
@@ -496,7 +496,7 @@
             <li class="Tipografia--general letranegro Elementos--Listas">Acelera el proceso de recuperación de las lesiones,</li>
             <li class="Tipografia--general letranegro Elementos--Listas">Mantiene la densidad de los huesos,</li>
         </ol>
-        <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones:</b></h2>
+        <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#071637;">Aplicaciones:</b></h2>
         <ol style="list-style-type:disc;margin-bottom:0px;">
             <li class="Tipografia--general letranegro Elementos--Listas">Barras energéticas,</li>
             <li class="Tipografia--general letranegro Elementos--Listas">Barras proteínicas,</li>
@@ -528,21 +528,21 @@
         </ol>
         </div>
         <div class="col s12 m12 l12 xl12">
-        <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#000020;" class="Titulos">Fabricante</b></h2>
+        <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#071637;" class="Titulos">Fabricante</b></h2>
         <img src="img/HALAVET_LOGO_280723.png" alt="" width="30%">
-        <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#000020;" class="Titulos">Literatura Técnica</b></h2>
+        <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#071637;" class="Titulos">Literatura Técnica</b></h2>
         <ol style="list-style-type:disc;margin-bottom:0px;">
             <a href="PDF/CATALOGUES/HALAVET_PS_PROFIN-COLLAGEN-FINE-POWDER_010123_V02.pdf"><li class="arrowblue Tipografia--general letranegro Elementos--Listas" download>HALAVET_PS_PROFIN-COLLAGEN-FINE-POWDER_010123_V02.pdf</li></a>
             <a href="PDF/CATALOGUES/HALAVET_PS_PROFIN-COLLAGEN-AGGLOMERATED-POWDER_010123_V04.pdf"><li class="arrowblue Tipografia--general letranegro Elementos--Listas" download>HALAVET_PS_PROFIN-COLLAGEN-AGGLOMERATED-POWDER_010123_V04.pdf</li>
             <a href="PDF/CATALOGUES/HALAVET_MSDS_PROFIN-COLLAGEN_310721.pdf"><li class="arrowblue Tipografia--general letranegro Elementos--Listas" dowload>HALAVET_MSDS_PROFIN-COLLAGEN_310721.pdf</li></a>
         </ol>
-        <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#000020;" class="Titulos">Certificaciones</b></h2>
+        <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#071637;" class="Titulos">Certificaciones</b></h2>
         <ol style="list-style-type:disc;margin-bottom:0px;">
         <a href="PDF/CATALOGUES/KSS_KOSHER-CERTIFICATE_HALAVET_010623.pdf"><li  class="arrowblue Tipografia--general letranegro Elementos--Listas" download>KSS_KOSHER-CERTIFICATE_HALAVET_010623.pdf</li>
         <a href="PDF/CATALOGUES/HQC_HALAL-CERTIFICATE_HALAVET_210923.pdf"><li href="PDF/CATALOGUES/HQC_HALAL-CERTIFICATE_HALAVET_210923.pdf" class="arrowblue Tipografia--general letranegro Elementos--Listas" download>HQC_HALAL-CERTIFICATE_HALAVET_210923.pdf</li>
         <a href="PDF/CATALOGUES/FDA_CERTIFICATE_FOLIO_18147343414_HALAVET_2023.pdf"><li class="arrowblue Tipografia--general letranegro Elementos--Listas" download>FDA_CERTIFICATE_FOLIO_18147343414_HALAVET_2023.pdf</li></a>
         </ol>
-        <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#000020;" class="Titulos">Referencias</b></h2>
+        <h2 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#071637;" class="Titulos">Referencias</b></h2>
         <ol style="list-style-type:disc;margin-bottom:0px;">
             <li class="Tipografia--general letranegro Elementos--Listas">https://es.wikipedia.org/wiki/Col%C3%A1geno_hidrolizado</li>
             <li class="Tipografia--general letranegro Elementos--Listas">https://www.halavet.com.tr/</li>

@@ -5,7 +5,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
   <title>Chemical Broker | Aceite de Coco del Fabricante Vantage</title>
-  <meta name="description" content="Descubre los beneficios del aceite de coco puro y natural. Ideal para cocinar, Cuidar la piel y el Cabello, Compra ahora y disfruta de un producto versatil y saludable para tu bienestar diario."> 
+  <meta name="description" content="El aceite de coco es un ingrediente natural ampliamente utilizado en las industrias alimentaria, cosmética, farmacéutica y de cuidado personal debido a su alta estabilidad oxidativa y su perfil de ácidos grasos."> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -224,13 +224,13 @@
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1888</p>
+                          +52.55.4438.7996</p>
                       </div>
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General
                         </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1818 </p>
+                          +52.55.4438.7996 </p>
                       </div>
                     </div>
                   </div>
@@ -313,7 +313,7 @@
     </ul>
   </div>
   <div class="row">
-    <nav style="background-color:#200142;height:137px;margin-top:-35px" role="navigation">
+    <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
       <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo">
       </div>
     </nav>
@@ -437,7 +437,7 @@
       </div>
     </li>
   </ul>
-  <ul class="sidenav" id="mobile-demo" style="background-color:#200142">
+  <ul class="sidenav" id="mobile-demo" style="background-color:#071637">
     <li> <a href="Mercados.php" style="color:white !important"> <i class="small material-icons right"
           style="color:white !important;margin-top:0px !important;">chevron_right</i>
         <p style="color:white !important;">Mercados</p>
@@ -474,7 +474,7 @@
           style="color:white !important;margin-top:-1px !important;">lock</i></a></li>
     </li>
   </ul>
-  <ul class="sidenav" id="mobile-search" style="background-color:#200142">
+  <ul class="sidenav" id="mobile-search" style="background-color:#071637">
     <div class="container grid-search-mobile">
       <p style="color:white">Search<i class="small material-icons right ico-Search"
           style="color:white !important">search</i></p>
@@ -568,9 +568,9 @@
         <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Aceite_Coco.php"><b class="Tipografia--general Subtitulos" style="color:red;">Aceite de Coco</b></a></section>
     
 
-            <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#200142;">Aceite de Coco</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#071637;">Aceite de Coco</b></h2>
             <p class="Tipografia--general letranegro General--Cuerpo">El <b>Aceite de Coco</b> es un Aceite Vegetal derivado de la pulpa del coco (Cocos nucifera). Se obtiene mediante procesos de prensado en frio o extracción con calor de la carne blanca o la copra del coco. Es conocido por su alta concentración de Ácidos Grasos Saturados de cadena media, especialmente Ácido Láurico.</p>
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#200142;">Características y Propiedades</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Características y Propiedades</b></h2>
             <ol>
                 <li class="Elementos--Listas"><b>Ácidos Grasos Saturados. -</b> El Aceite de Coco es una de las fuentes vegetales más ricas en Ácidos Grasos Saturados, con alrededor del 90% de su contenido graso compuesto por estos Ácidos, principalmente Ácido Láurico.</li>
                 <li class="Elementos--Listas" style="margin-top:30px;"><b>Punto de humo alto. -</b> Es adecuado para cocinar a altas temperaturas debido a su alto punto de humo, lo que lo hace popular para freír y hornear.</li>
@@ -579,23 +579,23 @@
                 <li class="Elementos--Listas" style="margin-top:30px;"><b>Beneficios potenciales para la salud. -</b> Se ha investigado su posible papel en la mejora de los niveles de colesterol, el apoyo a la salud cerebral y la función metabólica. Sin embargo, la evidencia científica es mixta y se necesita más investigación para confirmar estos beneficios.</li>
                 <li class="Elementos--Listas" style="margin-top:30px;"><b>Sabor y aroma. -</b> El Aceite de Coco tiene un sabor y aroma característicos a coco, lo que da un toque tropical a los platos y productos en los que se utiliza.</li>
             </ol>
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#200142;">Aplicaciones:</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Aplicaciones:</b></h2>
             <ol>
                 <li class="Elementos--Listas" style="list-style-type:disc;">Excelente para preparaciones de coberturas de chocolate compuestas para helados y dulces refrigerados.</li>
                 <li class="Elementos--Listas" style="list-style-type:disc;margin-top:30px;">Configuración rápida.</li>
                 <li class="Elementos--Listas" style="list-style-type:disc;margin-top:30px;">Flexible y produce recubrimientos que no se desprenden del helado al comerlo.</li>
                 <li class="Elementos--Listas" style="list-style-type:disc;margin-top:30px;">Perfil de fusión nítido, se derrite rápidamente y ofrece una excelente sensación en boca.</li>
             </ol>
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#200142;">Embalaje:</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Embalaje:</b></h2>
             <ol>
                 <li class="Elementos--Listas" style="list-style-type:disc;">Tambores de 180kg o 190 Kg netos.</li>
                 <li class="Elementos--Listas" style="list-style-type:disc;margin-top:30px;">Flexibag o ISO Tanque de 20,000 Kg.</li>
             </ol>
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#200142;">Almacenamiento:</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Almacenamiento:</b></h2>
             <ol>
                 <li class="Elementos--Listas" style="list-style-type:disc;">Es imprescindible conservar el producto en el embalaje original en un lugar fresco y seco.</li>
             </ol>
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#200142;">Envio:</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Envio:</b></h2>
             <ol>
                 <li class="Elementos--Listas" style="list-style-type:disc;">El Aceite de Coco se envía en contenedores, bolsas flexibles o isotanques.</li>
             </ol>

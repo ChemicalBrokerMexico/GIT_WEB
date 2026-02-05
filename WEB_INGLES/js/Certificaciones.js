@@ -14,13 +14,13 @@ $(document).ready(function(){
 
                     <tr>
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="background-color:#000020;color:white;text-align:center" colspan="3">Certificaciones
+                            style="background-color:#071637;color:white;text-align:center" colspan="3">Certificaciones
                             </td>
                     </tr>
 
                     <tr class="border_compliance_tabla">
                 <td class="letranegro Tipografia--general General--Cuerpo"
-                    style="width:33.33%;text-align:center"><b style="color:#000020">AIB International</b></td>
+                    style="width:33.33%;text-align:center"><b style="color:#071637">AIB International</b></td>
                 <td class="letranegro Tipografia--general General--Cuerpo"
                     style="width:765px;text-align:justify;">
                     <p style="text-align: justify;padding:5px;width:765px;">AIB International es una certificación que capacita al personal de las empresas para llevar sus instalaciones a los estándares de seguridad y limpieza reconocidos internacionalmente. Esta Certificación sirve para garantizar que las instalaciones donde se fabrican y envasan los productos que comercializamos, cumplan con rigurosos estándares de Seguridad y Limpieza
@@ -35,7 +35,7 @@ $(document).ready(function(){
 
             <tr class="border_compliance_tabla">
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><b style="color:#000020">BRC</b></td>
+                            style="width:33.33%;text-align:center"><b style="color:#071637">BRC</b></td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:765px;text-align:justify;">
                             <p style="text-align: justify;padding:5px;width:765px;">La norma BRC es reconocida por la Iniciativa mundial de Seguridad Alimentaria (GFSI), programa destinado a armonizar las normas internacionales de seguridad alimentaria, velando que cumplan con los requisitos que garantizan la seguridad, calidad, y legalidad de sus alimentos.
@@ -50,7 +50,7 @@ $(document).ready(function(){
 
                     <tr class="border_compliance_tabla">
                     <td class="letranegro Tipografia--general General--Cuerpo"
-                        style="width:33.33%;text-align:center"><b style="color:#000020">Ecocert</b></td>
+                        style="width:33.33%;text-align:center"><b style="color:#071637">Ecocert</b></td>
                     <td class="letranegro Tipografia--general General--Cuerpo"
                         style="width:765px;text-align:justify">
                         <p style="text-align: justify;padding:5px;width:765px;">El Certificado ECOCERT es la garantía para un producto en que cumpla con todos los requisitos de sostenibilidad, desde la producción de sus materias primas hasta el producto terminado. <span>Para más información</span> <a
@@ -64,7 +64,7 @@ $(document).ready(function(){
 
                 <tr class="border_compliance_tabla">
                 <td class="letranegro Tipografia--general General--Cuerpo"
-                    style="width:33.33%;text-align:center"><b style="color:#000020">FCC</b></td>
+                    style="width:33.33%;text-align:center"><b style="color:#071637">FCC</b></td>
                 <td class="letranegro Tipografia--general General--Cuerpo"
                     style="width:765px;text-align:justify;">
                     <p style="text-align: justify;padding:5px;width:765px;">El Códice de Sustancias Químicas para Alimentos o Food Chemicals Codex (FCC) es una colección de estándares internacionalmente reconocidos para la pureza e identidad de los ingredientes alimentarios. <span>Para más
@@ -81,7 +81,7 @@ $(document).ready(function(){
 
             <tr class="border_compliance_tabla">
             <td class="letranegro Tipografia--general General--Cuerpo"
-                style="width:33.33%;text-align:center"><b style="color:#000020">FSSC 22000</b></td>
+                style="width:33.33%;text-align:center"><b style="color:#071637">FSSC 22000</b></td>
             <td class="letranegro Tipografia--general General--Cuerpo"
                 style="width:765px;text-align:justify;">
                 <p style="text-align: justify;padding:5px;width:765px;">La Norma FSSC 22000 establece un marco de referencia para los requisitos de la seguridad alimentaria incorporando buenas prácticas en los sistemas agrícolas, de fabricación y distribución, y considerando los principios para el análisis de peligros y puntos críticos de control. <span>Para más
@@ -95,7 +95,7 @@ $(document).ready(function(){
 
         <tr class="border_compliance_tabla">
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><b style="color:#000020">GMO</b></td>
+                            style="width:33.33%;text-align:center"><b style="color:#071637">GMO</b></td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:765px;text-align:justify;">
                             <p style="text-align: justify;padding:5px;width:765px;">Los Organismos Modificados Genéticamente (GMO) son plantas y animales creados en los laboratorios al insertar genes de una especie en la secuencia de ADN de otra especie <span>Para más información</span> <a
@@ -111,7 +111,7 @@ $(document).ready(function(){
                   
                     <tr class="border_compliance_tabla">
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><b style="color:#000020">GMP ICH Q7</b></td>
+                            style="width:33.33%;text-align:center"><b style="color:#071637">GMP ICH Q7</b></td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:765px;text-align:justify">
                             <p style="text-align: justify;padding:5px;width:765px;">Buenas prácticas de fabricación de principios activos farmacéuticos
@@ -127,7 +127,7 @@ $(document).ready(function(){
 
                     <tr class="border_compliance_tabla">
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><b style="color:#000020">HACCP</b></td>
+                            style="width:33.33%;text-align:center"><b style="color:#071637">HACCP</b></td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:765px;text-align:justify;">
                             <p style="text-align: justify;padding:5px;width:765px;">El Sistema de Análisis de Peligros y Control de Puntos Críticos (HACCP - Hazard Análisis and Critical Control Points) el cual permite identificar peligros específicos y medidas para su control con el fin de garantizar la inocuidad de los alimentos. <span>Para más información</span> <a
@@ -139,7 +139,7 @@ $(document).ready(function(){
 
                     <tr class="border_compliance_tabla">
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><b style="color:#000020">HALAL</b></td>
+                            style="width:33.33%;text-align:center"><b style="color:#071637">HALAL</b></td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:765px;text-align:justify;">
                             <p style="text-align: justify;padding:5px;width:765px;">La Certificación Halal determina que un producto o servicio cumple con lo que establece Ley Islámica (Shaira) para que este sea consumido, esto garantiza que los productos agroalimentarios cumplen con el conjunto de prácticas permitidas por la religión musulmana. El término Halal se refiere a todo aquello que está permitido, aquello que es benéfico y saludable para el ser humano ya que aporta mejoras en la calidad de vida y reduce riesgos para la salud.
@@ -154,7 +154,7 @@ $(document).ready(function(){
 
                     <tr class="border_compliance_tabla">
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><b style="color:#000020">ISO 27001</b></td>
+                            style="width:33.33%;text-align:center"><b style="color:#071637">ISO 27001</b></td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:765px;text-align:justify">
                             <p style="text-align: justify;padding:5px;width:765px;">Sistema de Gestión de Seguridad de la Información
@@ -173,7 +173,7 @@ $(document).ready(function(){
                     
                     <tr class="border_compliance_tabla">
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><b style="color:#000020">ISO 37001</b></td>
+                            style="width:33.33%;text-align:center"><b style="color:#071637">ISO 37001</b></td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:765px;text-align:justify;">
                             <p style="text-align: justify;padding:5px;width:765px;">Sistema de Gestión Antisoborno
@@ -189,7 +189,7 @@ $(document).ready(function(){
                     
                     <tr class="border_compliance_tabla">
                     <td class="letranegro Tipografia--general General--Cuerpo"
-                        style="width:33.33%;text-align:center"><b style="color:#000020">ISO 37301</b></td>
+                        style="width:33.33%;text-align:center"><b style="color:#071637">ISO 37301</b></td>
                     <td class="letranegro Tipografia--general General--Cuerpo"
                         style="width:765px;text-align:justify;">
                         <p style="text-align: justify;padding:5px;width:765px;">LUn
@@ -205,7 +205,7 @@ $(document).ready(function(){
 
                 <tr class="border_compliance_tabla">
                 <td class="letranegro Tipografia--general General--Cuerpo"
-                    style="width:33.33%;text-align:center"><b style="color:#000020">ISO 9001</b></td>
+                    style="width:33.33%;text-align:center"><b style="color:#071637">ISO 9001</b></td>
                 <td class="letranegro Tipografia--general General--Cuerpo"
                     style="width:765px;text-align:justify;">
                     <p style="text-align: justify;padding:5px;width:765px;">La Certificación ISO 9001:2015 es una norma internacional de gestión de la calidad aplicable a cualquier tipo de organización en cualquier sector o actividad empresarial o industrial. Está basada en los siete principios de gestión de calidad, fundamentales para una buena gestión empresarial. 
@@ -220,7 +220,7 @@ $(document).ready(function(){
 
             <tr class="border_compliance_tabla">
             <td class="letranegro Tipografia--general General--Cuerpo"
-                style="width:33.33%;text-align:center"><b style="color:#000020">KOSHER</b></td>
+                style="width:33.33%;text-align:center"><b style="color:#071637">KOSHER</b></td>
             <td class="letranegro Tipografia--general General--Cuerpo"
                 style="width:765px;text-align:justify;">
                 <p style="text-align: justify;padding:5px;width:765px;">La Certificación Kosher es aquella que indica que dichos productos respetan los preceptos de la religión judía y que, por tanto, se consideran puros y aptos para ser ingeridos por los practicantes de dicha religión.
@@ -235,7 +235,7 @@ $(document).ready(function(){
 
         <tr class="border_compliance_tabla">
         <td class="letranegro Tipografia--general General--Cuerpo"
-            style="width:33.33%;text-align:center"><b style="color:#000020">NON-GMO</b></td>
+            style="width:33.33%;text-align:center"><b style="color:#071637">NON-GMO</b></td>
         <td class="letranegro Tipografia--general General--Cuerpo"
             style="width:765px;text-align:justify;">
             <p style="text-align: justify;padding:5px;width:765px;">La certificación NON GMO evalúa alimentos de cuyos ingredientes o algún algún proceso de la creación de ellos, se ocupen organismos modificados genéticamente. Dicho de otro modo, certifica productos alimenticios completamente orgánicos, con todas sus cualidades naturales intactas.
@@ -249,7 +249,7 @@ $(document).ready(function(){
 
     <tr class="border_compliance_tabla">
     <td class="letranegro Tipografia--general General--Cuerpo"
-        style="width:33.33%;text-align:center"><b style="color:#000020">PAREVE</b></td>
+        style="width:33.33%;text-align:center"><b style="color:#071637">PAREVE</b></td>
     <td class="letranegro Tipografia--general General--Cuerpo"
         style="width:765px;text-align:justify;">
         <p style="text-align: justify;padding:5px;width:765px;">La certificación
@@ -266,7 +266,7 @@ $(document).ready(function(){
 
 <tr class="border_compliance_tabla">
 <td class="letranegro Tipografia--general General--Cuerpo"
-    style="width:33.33%;text-align:center"><b style="color:#000020">SQF</b></td>
+    style="width:33.33%;text-align:center"><b style="color:#071637">SQF</b></td>
 <td class="letranegro Tipografia--general General--Cuerpo"
     style="width:765px;text-align:justify;">
     <p style="text-align: justify;padding:5px;width:765px;">El programa SQF (Safe Quality Food / Seguridad de Calidad Alimentaria) es un programa de calidad e inocuidad de los alimentos riguroso y confiable con reconocimiento por parte de minoristas, propietarios de marcas y proveedores de servicios de alimentos a nivel mundial.
@@ -308,13 +308,13 @@ function filtroall(){
 
         <tr>
             <td class="letranegro Tipografia--general General--Cuerpo"
-                style="background-color:#000020;color:white;text-align:center" colspan="3">Certificaciones
+                style="background-color:#071637;color:white;text-align:center" colspan="3">Certificaciones
                 </td>
         </tr>
 
         <tr class="border_compliance_tabla">
     <td class="letranegro Tipografia--general General--Cuerpo"
-        style="width:33.33%;text-align:center"><b style="color:#000020">AIB International</b></td>
+        style="width:33.33%;text-align:center"><b style="color:#071637">AIB International</b></td>
     <td class="letranegro Tipografia--general General--Cuerpo"
         style="width:765px;text-align:justify;">
         <p style="text-align: justify;padding:5px;width:765px;">AIB International es una certificación que capacita al personal de las empresas para llevar sus instalaciones a los estándares de seguridad y limpieza reconocidos internacionalmente. Esta Certificación sirve para garantizar que las instalaciones donde se fabrican y envasan los productos que comercializamos, cumplan con rigurosos estándares de Seguridad y Limpieza
@@ -329,7 +329,7 @@ function filtroall(){
 
 <tr class="border_compliance_tabla">
             <td class="letranegro Tipografia--general General--Cuerpo"
-                style="width:33.33%;text-align:center"><b style="color:#000020">BRC</b></td>
+                style="width:33.33%;text-align:center"><b style="color:#071637">BRC</b></td>
             <td class="letranegro Tipografia--general General--Cuerpo"
                 style="width:765px;text-align:justify;">
                 <p style="text-align: justify;padding:5px;width:765px;">La norma BRC es reconocida por la Iniciativa mundial de Seguridad Alimentaria (GFSI), programa destinado a armonizar las normas internacionales de seguridad alimentaria, velando que cumplan con los requisitos que garantizan la seguridad, calidad, y legalidad de sus alimentos.
@@ -344,7 +344,7 @@ function filtroall(){
 
         <tr class="border_compliance_tabla">
         <td class="letranegro Tipografia--general General--Cuerpo"
-            style="width:33.33%;text-align:center"><b style="color:#000020">Ecocert</b></td>
+            style="width:33.33%;text-align:center"><b style="color:#071637">Ecocert</b></td>
         <td class="letranegro Tipografia--general General--Cuerpo"
             style="width:765px;text-align:justify">
             <p style="text-align: justify;padding:5px;width:765px;">El Certificado ECOCERT es la garantía para un producto en que cumpla con todos los requisitos de sostenibilidad, desde la producción de sus materias primas hasta el producto terminado. <span>Para más información</span> <a
@@ -358,7 +358,7 @@ function filtroall(){
 
     <tr class="border_compliance_tabla">
     <td class="letranegro Tipografia--general General--Cuerpo"
-        style="width:33.33%;text-align:center"><b style="color:#000020">FCC</b></td>
+        style="width:33.33%;text-align:center"><b style="color:#071637">FCC</b></td>
     <td class="letranegro Tipografia--general General--Cuerpo"
         style="width:765px;text-align:justify;">
         <p style="text-align: justify;padding:5px;width:765px;">El Códice de Sustancias Químicas para Alimentos o Food Chemicals Codex (FCC) es una colección de estándares internacionalmente reconocidos para la pureza e identidad de los ingredientes alimentarios. <span>Para más
@@ -375,7 +375,7 @@ function filtroall(){
 
 <tr class="border_compliance_tabla">
 <td class="letranegro Tipografia--general General--Cuerpo"
-    style="width:33.33%;text-align:center"><b style="color:#000020">FSSC 22000</b></td>
+    style="width:33.33%;text-align:center"><b style="color:#071637">FSSC 22000</b></td>
 <td class="letranegro Tipografia--general General--Cuerpo"
     style="width:765px;text-align:justify;">
     <p style="text-align: justify;padding:5px;width:765px;">La Norma FSSC 22000 establece un marco de referencia para los requisitos de la seguridad alimentaria incorporando buenas prácticas en los sistemas agrícolas, de fabricación y distribución, y considerando los principios para el análisis de peligros y puntos críticos de control. <span>Para más
@@ -389,7 +389,7 @@ function filtroall(){
 
 <tr class="border_compliance_tabla">
             <td class="letranegro Tipografia--general General--Cuerpo"
-                style="width:33.33%;text-align:center"><b style="color:#000020">GMO</b></td>
+                style="width:33.33%;text-align:center"><b style="color:#071637">GMO</b></td>
             <td class="letranegro Tipografia--general General--Cuerpo"
                 style="width:765px;text-align:justify;">
                 <p style="text-align: justify;padding:5px;width:765px;">Los Organismos Modificados Genéticamente (GMO) son plantas y animales creados en los laboratorios al insertar genes de una especie en la secuencia de ADN de otra especie <span>Para más información</span> <a
@@ -405,7 +405,7 @@ function filtroall(){
       
         <tr class="border_compliance_tabla">
             <td class="letranegro Tipografia--general General--Cuerpo"
-                style="width:33.33%;text-align:center"><b style="color:#000020">GMP ICH Q7</b></td>
+                style="width:33.33%;text-align:center"><b style="color:#071637">GMP ICH Q7</b></td>
             <td class="letranegro Tipografia--general General--Cuerpo"
                 style="width:765px;text-align:justify">
                 <p style="text-align: justify;padding:5px;width:765px;">Buenas prácticas de fabricación de principios activos farmacéuticos
@@ -421,7 +421,7 @@ function filtroall(){
 
         <tr class="border_compliance_tabla">
             <td class="letranegro Tipografia--general General--Cuerpo"
-                style="width:33.33%;text-align:center"><b style="color:#000020">HACCP</b></td>
+                style="width:33.33%;text-align:center"><b style="color:#071637">HACCP</b></td>
             <td class="letranegro Tipografia--general General--Cuerpo"
                 style="width:765px;text-align:justify;">
                 <p style="text-align: justify;padding:5px;width:765px;">El Sistema de Análisis de Peligros y Control de Puntos Críticos (HACCP - Hazard Análisis and Critical Control Points) el cual permite identificar peligros específicos y medidas para su control con el fin de garantizar la inocuidad de los alimentos. <span>Para más información</span> <a
@@ -433,7 +433,7 @@ function filtroall(){
 
         <tr class="border_compliance_tabla">
             <td class="letranegro Tipografia--general General--Cuerpo"
-                style="width:33.33%;text-align:center"><b style="color:#000020">HALAL</b></td>
+                style="width:33.33%;text-align:center"><b style="color:#071637">HALAL</b></td>
             <td class="letranegro Tipografia--general General--Cuerpo"
                 style="width:765px;text-align:justify;">
                 <p style="text-align: justify;padding:5px;width:765px;">La Certificación Halal determina que un producto o servicio cumple con lo que establece Ley Islámica (Shaira) para que este sea consumido, esto garantiza que los productos agroalimentarios cumplen con el conjunto de prácticas permitidas por la religión musulmana. El término Halal se refiere a todo aquello que está permitido, aquello que es benéfico y saludable para el ser humano ya que aporta mejoras en la calidad de vida y reduce riesgos para la salud.
@@ -448,7 +448,7 @@ function filtroall(){
 
         <tr class="border_compliance_tabla">
             <td class="letranegro Tipografia--general General--Cuerpo"
-                style="width:33.33%;text-align:center"><b style="color:#000020">ISO 27001</b></td>
+                style="width:33.33%;text-align:center"><b style="color:#071637">ISO 27001</b></td>
             <td class="letranegro Tipografia--general General--Cuerpo"
                 style="width:765px;text-align:justify">
                 <p style="text-align: justify;padding:5px;width:765px;">Sistema de Gestión de Seguridad de la Información
@@ -467,7 +467,7 @@ function filtroall(){
         
         <tr class="border_compliance_tabla">
             <td class="letranegro Tipografia--general General--Cuerpo"
-                style="width:33.33%;text-align:center"><b style="color:#000020">ISO 37001</b></td>
+                style="width:33.33%;text-align:center"><b style="color:#071637">ISO 37001</b></td>
             <td class="letranegro Tipografia--general General--Cuerpo"
                 style="width:765px;text-align:justify;">
                 <p style="text-align: justify;padding:5px;width:765px;">Sistema de Gestión Antisoborno
@@ -483,7 +483,7 @@ function filtroall(){
         
         <tr class="border_compliance_tabla">
         <td class="letranegro Tipografia--general General--Cuerpo"
-            style="width:33.33%;text-align:center"><b style="color:#000020">ISO 37301</b></td>
+            style="width:33.33%;text-align:center"><b style="color:#071637">ISO 37301</b></td>
         <td class="letranegro Tipografia--general General--Cuerpo"
             style="width:765px;text-align:justify;">
             <p style="text-align: justify;padding:5px;width:765px;">LUn
@@ -499,7 +499,7 @@ function filtroall(){
 
     <tr class="border_compliance_tabla">
     <td class="letranegro Tipografia--general General--Cuerpo"
-        style="width:33.33%;text-align:center"><b style="color:#000020">ISO 9001</b></td>
+        style="width:33.33%;text-align:center"><b style="color:#071637">ISO 9001</b></td>
     <td class="letranegro Tipografia--general General--Cuerpo"
         style="width:765px;text-align:justify;">
         <p style="text-align: justify;padding:5px;width:765px;">La Certificación ISO 9001:2015 es una norma internacional de gestión de la calidad aplicable a cualquier tipo de organización en cualquier sector o actividad empresarial o industrial. Está basada en los siete principios de gestión de calidad, fundamentales para una buena gestión empresarial. 
@@ -514,7 +514,7 @@ function filtroall(){
 
 <tr class="border_compliance_tabla">
 <td class="letranegro Tipografia--general General--Cuerpo"
-    style="width:33.33%;text-align:center"><b style="color:#000020">KOSHER</b></td>
+    style="width:33.33%;text-align:center"><b style="color:#071637">KOSHER</b></td>
 <td class="letranegro Tipografia--general General--Cuerpo"
     style="width:765px;text-align:justify;">
     <p style="text-align: justify;padding:5px;width:765px;">La Certificación Kosher es aquella que indica que dichos productos respetan los preceptos de la religión judía y que, por tanto, se consideran puros y aptos para ser ingeridos por los practicantes de dicha religión.
@@ -529,7 +529,7 @@ function filtroall(){
 
 <tr class="border_compliance_tabla">
 <td class="letranegro Tipografia--general General--Cuerpo"
-style="width:33.33%;text-align:center"><b style="color:#000020">NON-GMO</b></td>
+style="width:33.33%;text-align:center"><b style="color:#071637">NON-GMO</b></td>
 <td class="letranegro Tipografia--general General--Cuerpo"
 style="width:765px;text-align:justify;">
 <p style="text-align: justify;padding:5px;width:765px;">La certificación NON GMO evalúa alimentos de cuyos ingredientes o algún algún proceso de la creación de ellos, se ocupen organismos modificados genéticamente. Dicho de otro modo, certifica productos alimenticios completamente orgánicos, con todas sus cualidades naturales intactas.
@@ -543,7 +543,7 @@ style="width:33.33%;text-align:center"><img src="img/NON-GMO_IMAGE.jpg" alt=""
 
 <tr class="border_compliance_tabla">
 <td class="letranegro Tipografia--general General--Cuerpo"
-style="width:33.33%;text-align:center"><b style="color:#000020">PAREVE</b></td>
+style="width:33.33%;text-align:center"><b style="color:#071637">PAREVE</b></td>
 <td class="letranegro Tipografia--general General--Cuerpo"
 style="width:765px;text-align:justify;">
 <p style="text-align: justify;padding:5px;width:765px;">La certificación
@@ -560,7 +560,7 @@ style="width:50%;"></td>
 
 <tr class="border_compliance_tabla">
 <td class="letranegro Tipografia--general General--Cuerpo"
-style="width:33.33%;text-align:center"><b style="color:#000020">SQF</b></td>
+style="width:33.33%;text-align:center"><b style="color:#071637">SQF</b></td>
 <td class="letranegro Tipografia--general General--Cuerpo"
 style="width:765px;text-align:justify;">
 <p style="text-align: justify;padding:5px;width:765px;">El programa SQF (Safe Quality Food / Seguridad de Calidad Alimentaria) es un programa de calidad e inocuidad de los alimentos riguroso y confiable con reconocimiento por parte de minoristas, propietarios de marcas y proveedores de servicios de alimentos a nivel mundial.
@@ -595,13 +595,13 @@ function filtroa(){
 
     <tr>
     <td class="letranegro Tipografia--general General--Cuerpo"
-        style="background-color:#000020;color:white;text-align:center" colspan="3">Certificaciones
+        style="background-color:#071637;color:white;text-align:center" colspan="3">Certificaciones
         </td>
 </tr>
 
 <tr class="border_compliance_tabla">
 <td class="letranegro Tipografia--general General--Cuerpo"
-style="width:33.33%;text-align:center"><b style="color:#000020">AIB International</b></td>
+style="width:33.33%;text-align:center"><b style="color:#071637">AIB International</b></td>
 <td class="letranegro Tipografia--general General--Cuerpo"
 style="width:765px;text-align:justify;">
 <p style="text-align: justify;padding:5px;width:765px;">AIB International es una certificación que capacita al personal de las empresas para llevar sus instalaciones a los estándares de seguridad y limpieza reconocidos internacionalmente. Esta Certificación sirve para garantizar que las instalaciones donde se fabrican y envasan los productos que comercializamos, cumplan con rigurosos estándares de Seguridad y Limpieza
@@ -635,13 +635,13 @@ function filtrob(){
 
     <tr>
     <td class="letranegro Tipografia--general General--Cuerpo"
-        style="background-color:#000020;color:white;text-align:center" colspan="3">Certificaciones
+        style="background-color:#071637;color:white;text-align:center" colspan="3">Certificaciones
         </td>
 </tr>
 
     <tr class="border_compliance_tabla">
     <td class="letranegro Tipografia--general General--Cuerpo"
-        style="width:33.33%;text-align:center"><b style="color:#000020">BRC</b></td>
+        style="width:33.33%;text-align:center"><b style="color:#071637">BRC</b></td>
     <td class="letranegro Tipografia--general General--Cuerpo"
         style="width:765px;text-align:justify;">
         <p style="text-align: justify;padding:5px;width:765px;">La norma BRC es reconocida por la Iniciativa mundial de Seguridad Alimentaria (GFSI), programa destinado a armonizar las normas internacionales de seguridad alimentaria, velando que cumplan con los requisitos que garantizan la seguridad, calidad, y legalidad de sus alimentos.
@@ -702,12 +702,12 @@ function filtroe(){
 
         <tr>
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="background-color:#000020;color:white;text-align:center" colspan="3">Certificaciones</td>
+                            style="background-color:#071637;color:white;text-align:center" colspan="3">Certificaciones</td>
                     </tr>
 
                     <tr class="border_compliance_tabla">
                     <td class="letranegro Tipografia--general General--Cuerpo"
-                        style="width:33.33%;text-align:center"><b style="color:#000020">Ecocert</b></td>
+                        style="width:33.33%;text-align:center"><b style="color:#071637">Ecocert</b></td>
                     <td class="letranegro Tipografia--general General--Cuerpo"
                         style="width:765px;text-align:justify">
                         <p style="text-align: justify;padding:5px;width:765px;">El Certificado ECOCERT es la garantía para un producto en que cumpla con todos los requisitos de sostenibilidad, desde la producción de sus materias primas hasta el producto terminado. <span>Para más información</span> <a
@@ -741,12 +741,12 @@ function filtrof(){
 
     <tr>
                     <td class="letranegro Tipografia--general General--Cuerpo"
-                        style="background-color:#000020;color:white;text-align:center" colspan="3">Certificaciones</td>
+                        style="background-color:#071637;color:white;text-align:center" colspan="3">Certificaciones</td>
                 </tr>
 
                 <tr class="border_compliance_tabla">
                 <td class="letranegro Tipografia--general General--Cuerpo"
-                    style="width:33.33%;text-align:center"><b style="color:#000020">FCC</b></td>
+                    style="width:33.33%;text-align:center"><b style="color:#071637">FCC</b></td>
                 <td class="letranegro Tipografia--general General--Cuerpo"
                     style="width:765px;text-align:justify;">
                     <p style="text-align: justify;padding:5px;width:765px;">El Códice de Sustancias Químicas para Alimentos o Food Chemicals Codex (FCC) es una colección de estándares internacionalmente reconocidos para la pureza e identidad de los ingredientes alimentarios. <span>Para más
@@ -763,7 +763,7 @@ function filtrof(){
             
             <tr class="border_compliance_tabla">
             <td class="letranegro Tipografia--general General--Cuerpo"
-                style="width:33.33%;text-align:center"><b style="color:#000020">FSSC 22000</b></td>
+                style="width:33.33%;text-align:center"><b style="color:#071637">FSSC 22000</b></td>
             <td class="letranegro Tipografia--general General--Cuerpo"
                 style="width:765px;text-align:justify;">
                 <p style="text-align: justify;padding:5px;width:765px;">La Norma FSSC 22000 establece un marco de referencia para los requisitos de la seguridad alimentaria incorporando buenas prácticas en los sistemas agrícolas, de fabricación y distribución, y considerando los principios para el análisis de peligros y puntos críticos de control. <span>Para más
@@ -794,12 +794,12 @@ function filtrog(){
 
     <tr>
                     <td class="letranegro Tipografia--general General--Cuerpo"
-                        style="background-color:#000020;color:white;text-align:center" colspan="3">Certificaciones</td>
+                        style="background-color:#071637;color:white;text-align:center" colspan="3">Certificaciones</td>
                 </tr>
 
                 <tr class="border_compliance_tabla">
             <td class="letranegro Tipografia--general General--Cuerpo"
-                style="width:33.33%;text-align:center"><b style="color:#000020">GMO</b></td>
+                style="width:33.33%;text-align:center"><b style="color:#071637">GMO</b></td>
             <td class="letranegro Tipografia--general General--Cuerpo"
                 style="width:765px;text-align:justify;">
                 <p style="text-align: justify;padding:5px;width:765px;">Los Organismos Modificados Genéticamente (GMO) son plantas y animales creados en los laboratorios al insertar genes de una especie en la secuencia de ADN de otra especie <span>Para más información</span> <a
@@ -815,7 +815,7 @@ function filtrog(){
       
         <tr class="border_compliance_tabla">
             <td class="letranegro Tipografia--general General--Cuerpo"
-                style="width:33.33%;text-align:center"><b style="color:#000020">GMP ICH Q7</b></td>
+                style="width:33.33%;text-align:center"><b style="color:#071637">GMP ICH Q7</b></td>
             <td class="letranegro Tipografia--general General--Cuerpo"
                 style="width:765px;text-align:justify">
                 <p style="text-align: justify;padding:5px;width:765px;">Buenas prácticas de fabricación de principios activos farmacéuticos
@@ -848,12 +848,12 @@ function filtroh(){
     
     <tr>
                     <td class="letranegro Tipografia--general General--Cuerpo"
-                        style="background-color:#000020;color:white;text-align:center" colspan="3">Certificaciones</td>
+                        style="background-color:#071637;color:white;text-align:center" colspan="3">Certificaciones</td>
                 </tr>
 
                 <tr class="border_compliance_tabla">
                 <td class="letranegro Tipografia--general General--Cuerpo"
-                    style="width:33.33%;text-align:center"><b style="color:#000020">HACCP</b></td>
+                    style="width:33.33%;text-align:center"><b style="color:#071637">HACCP</b></td>
                 <td class="letranegro Tipografia--general General--Cuerpo"
                     style="width:765px;text-align:justify;">
                     <p style="text-align: justify;padding:5px;width:765px;">El Sistema de Análisis de Peligros y Control de Puntos Críticos (HACCP - Hazard Análisis and Critical Control Points) el cual permite identificar peligros específicos y medidas para su control con el fin de garantizar la inocuidad de los alimentos. <span>Para más información</span> <a
@@ -865,7 +865,7 @@ function filtroh(){
     
             <tr class="border_compliance_tabla">
                 <td class="letranegro Tipografia--general General--Cuerpo"
-                    style="width:33.33%;text-align:center"><b style="color:#000020">HALAL</b></td>
+                    style="width:33.33%;text-align:center"><b style="color:#071637">HALAL</b></td>
                 <td class="letranegro Tipografia--general General--Cuerpo"
                     style="width:765px;text-align:justify;">
                     <p style="text-align: justify;padding:5px;width:765px;">La Certificación Halal determina que un producto o servicio cumple con lo que establece Ley Islámica (Shaira) para que este sea consumido, esto garantiza que los productos agroalimentarios cumplen con el conjunto de prácticas permitidas por la religión musulmana. El término Halal se refiere a todo aquello que está permitido, aquello que es benéfico y saludable para el ser humano ya que aporta mejoras en la calidad de vida y reduce riesgos para la salud.
@@ -890,12 +890,12 @@ function filtroi(){
 
     <tr>
                     <td class="letranegro Tipografia--general General--Cuerpo"
-                        style="background-color:#000020;color:white;text-align:center" colspan="3">Certificaciones</td>
+                        style="background-color:#071637;color:white;text-align:center" colspan="3">Certificaciones</td>
                 </tr>
 
                 <tr class="border_compliance_tabla">
                 <td class="letranegro Tipografia--general General--Cuerpo"
-                    style="width:33.33%;text-align:center"><b style="color:#000020">ISO 27001</b></td>
+                    style="width:33.33%;text-align:center"><b style="color:#071637">ISO 27001</b></td>
                 <td class="letranegro Tipografia--general General--Cuerpo"
                     style="width:765px;text-align:justify">
                     <p style="text-align: justify;padding:5px;width:765px;">Sistema de Gestión de Seguridad de la Información
@@ -914,7 +914,7 @@ function filtroi(){
             
             <tr class="border_compliance_tabla">
                 <td class="letranegro Tipografia--general General--Cuerpo"
-                    style="width:33.33%;text-align:center"><b style="color:#000020">ISO 37001</b></td>
+                    style="width:33.33%;text-align:center"><b style="color:#071637">ISO 37001</b></td>
                 <td class="letranegro Tipografia--general General--Cuerpo"
                     style="width:765px;text-align:justify;">
                     <p style="text-align: justify;padding:5px;width:765px;">Sistema de Gestión Antisoborno
@@ -930,7 +930,7 @@ function filtroi(){
             
             <tr class="border_compliance_tabla">
             <td class="letranegro Tipografia--general General--Cuerpo"
-                style="width:33.33%;text-align:center"><b style="color:#000020">ISO 37301</b></td>
+                style="width:33.33%;text-align:center"><b style="color:#071637">ISO 37301</b></td>
             <td class="letranegro Tipografia--general General--Cuerpo"
                 style="width:765px;text-align:justify;">
                 <p style="text-align: justify;padding:5px;width:765px;">LUn
@@ -946,7 +946,7 @@ function filtroi(){
     
         <tr class="border_compliance_tabla">
         <td class="letranegro Tipografia--general General--Cuerpo"
-            style="width:33.33%;text-align:center"><b style="color:#000020">ISO 9001</b></td>
+            style="width:33.33%;text-align:center"><b style="color:#071637">ISO 9001</b></td>
         <td class="letranegro Tipografia--general General--Cuerpo"
             style="width:765px;text-align:justify;">
             <p style="text-align: justify;padding:5px;width:765px;">La Certificación ISO 9001:2015 es una norma internacional de gestión de la calidad aplicable a cualquier tipo de organización en cualquier sector o actividad empresarial o industrial. Está basada en los siete principios de gestión de calidad, fundamentales para una buena gestión empresarial. 
@@ -989,13 +989,13 @@ function filtroj(){
 
     <tr>
                     <td class="letranegro Tipografia--general General--Cuerpo"
-                        style="background-color:#000020;color:white;text-align:center" colspan="3">Marco
+                        style="background-color:#071637;color:white;text-align:center" colspan="3">Marco
                         Regulatorio</td>
                 </tr>
 
                 <tr class="border_compliance_tabla">
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><b style="color:#000020">JECFA</b></td>
+                            style="width:33.33%;text-align:center"><b style="color:#071637">JECFA</b></td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:765px;text-align:justify">
                             <p style="text-align: justify;padding:5px;width:765px;">El Comité Mixto FAO/OMS de
@@ -1012,7 +1012,7 @@ function filtroj(){
 
                     <tr class="border_compliance_tabla">
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><b style="color:#000020">JP</b></td>
+                            style="width:33.33%;text-align:center"><b style="color:#071637">JP</b></td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:765px;text-align:justify;">
                             <p style="text-align: justify;padding:5px;width:765px;">La
@@ -1048,13 +1048,13 @@ function filtrok(){
 
         <tr>
             <td class="letranegro Tipografia--general General--Cuerpo"
-                style="background-color:#000020;color:white;text-align:center" colspan="3">Certificaciones
+                style="background-color:#071637;color:white;text-align:center" colspan="3">Certificaciones
                 </td>
         </tr>
 
         <tr class="border_compliance_tabla">
 <td class="letranegro Tipografia--general General--Cuerpo"
-    style="width:33.33%;text-align:center"><b style="color:#000020">KOSHER</b></td>
+    style="width:33.33%;text-align:center"><b style="color:#071637">KOSHER</b></td>
 <td class="letranegro Tipografia--general General--Cuerpo"
     style="width:765px;text-align:justify;">
     <p style="text-align: justify;padding:5px;width:765px;">La Certificación Kosher es aquella que indica que dichos productos respetan los preceptos de la religión judía y que, por tanto, se consideran puros y aptos para ser ingeridos por los practicantes de dicha religión.
@@ -1109,12 +1109,12 @@ function filtron(){
 
     <tr>
     <td class="letranegro Tipografia--general General--Cuerpo"
-        style="background-color:#000020;color:white;text-align:center" colspan="3">Certificaciones</td>
+        style="background-color:#071637;color:white;text-align:center" colspan="3">Certificaciones</td>
 </tr>
 
     <tr class="border_compliance_tabla">
 <td class="letranegro Tipografia--general General--Cuerpo"
-style="width:33.33%;text-align:center"><b style="color:#000020">NON-GMO</b></td>
+style="width:33.33%;text-align:center"><b style="color:#071637">NON-GMO</b></td>
 <td class="letranegro Tipografia--general General--Cuerpo"
 style="width:765px;text-align:justify;">
 <p style="text-align: justify;padding:5px;width:765px;">La certificación NON GMO evalúa alimentos de cuyos ingredientes o algún algún proceso de la creación de ellos, se ocupen organismos modificados genéticamente. Dicho de otro modo, certifica productos alimenticios completamente orgánicos, con todas sus cualidades naturales intactas.
@@ -1159,12 +1159,12 @@ function filtrop(){
 
     <tr>
     <td class="letranegro Tipografia--general General--Cuerpo"
-        style="background-color:#000020;color:white;text-align:center" colspan="3">Certificaciones</td>
+        style="background-color:#071637;color:white;text-align:center" colspan="3">Certificaciones</td>
 </tr>
     
 <tr class="border_compliance_tabla">
 <td class="letranegro Tipografia--general General--Cuerpo"
-style="width:33.33%;text-align:center"><b style="color:#000020">PAREVE</b></td>
+style="width:33.33%;text-align:center"><b style="color:#071637">PAREVE</b></td>
 <td class="letranegro Tipografia--general General--Cuerpo"
 style="width:765px;text-align:justify;">
 <p style="text-align: justify;padding:5px;width:765px;">La certificación
@@ -1209,14 +1209,14 @@ function filtror(){
 
     <tr>
                     <td class="letranegro Tipografia--general General--Cuerpo"
-                        style="background-color:#000020;color:white;text-align:center" colspan="3">Marco
+                        style="background-color:#071637;color:white;text-align:center" colspan="3">Marco
                         Regulatorio</td>
                 </tr>
 
                 
                 <tr class="border_compliance_tabla">
                 <td class="letranegro Tipografia--general General--Cuerpo"
-                    style="width:33.33%;text-align:center"><b style="color:#000020">REACH</b></td>
+                    style="width:33.33%;text-align:center"><b style="color:#071637">REACH</b></td>
                 <td class="letranegro Tipografia--general General--Cuerpo"
                     style="width:765px;text-align:justify">
                     <p style="text-align: justify;padding:5px;width:765px;">El REACH (Registro, Evaluación,
@@ -1253,13 +1253,13 @@ function filtros(){
 
     <tr>
     <td class="letranegro Tipografia--general General--Cuerpo"
-        style="background-color:#000020;color:white;text-align:center" colspan="3">Certificaciones</td>
+        style="background-color:#071637;color:white;text-align:center" colspan="3">Certificaciones</td>
 </tr>
 
     
 <tr class="border_compliance_tabla">
 <td class="letranegro Tipografia--general General--Cuerpo"
-style="width:33.33%;text-align:center"><b style="color:#000020">SQF</b></td>
+style="width:33.33%;text-align:center"><b style="color:#071637">SQF</b></td>
 <td class="letranegro Tipografia--general General--Cuerpo"
 style="width:765px;text-align:justify;">
 <p style="text-align: justify;padding:5px;width:765px;">El programa SQF (Safe Quality Food / Seguridad de Calidad Alimentaria) es un programa de calidad e inocuidad de los alimentos riguroso y confiable con reconocimiento por parte de minoristas, propietarios de marcas y proveedores de servicios de alimentos a nivel mundial.
@@ -1321,13 +1321,13 @@ function filtrou(){
 
     <tr>
                     <td class="letranegro Tipografia--general General--Cuerpo"
-                        style="background-color:#000020;color:white;text-align:center" colspan="3">Marco
+                        style="background-color:#071637;color:white;text-align:center" colspan="3">Marco
                         Regulatorio</td>
                 </tr>
 
                 <tr class="border_compliance_tabla">
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><b style="color:#000020">USP</b></td>
+                            style="width:33.33%;text-align:center"><b style="color:#071637">USP</b></td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:765px;text-align:justify;">
                             <p style="text-align: justify;padding:5px;width:765px;">La USP por sus siglas en inglés

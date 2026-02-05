@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Ferrazone® del Fabricante Nouryon</title>
+    <title>Chemical Broker | Ferrazone® del Fabricante Nouryon | Proveedor Global</title>
     <meta name="description" content="Optimiza tus formulaciones con Ferrazone, un innovador agente quelante de hierro de alta pureza. Ideal para aplicaciones en la industria cosmética, farmacéutica y alimentaria, Ferrazone mejora la estabilidad y biodisponibilidad del hierro en tus productos. Su eficacia comprobada asegura resultados consistentes y una excelente absorción, ofreciendo una solución confiable para combatir deficiencias de hierro y potenciar la salud y bienestar. ¡Eleva la calidad de tus formulaciones con Ferrazone y ofrece productos de primer nivel a tus clientes!">
     <meta http-equiv="Expires" content="0">
     <meta http-equiv="Last-Modified" content="0">
@@ -23,6 +23,31 @@
         gtag('js', new Date());
         gtag('config', 'G-SGJQ8FDDJ6');
     </script>
+
+<script type="application/Id+json">
+    {
+
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Ferrazone",
+      "description": "Optimiza tus formulaciones con Ferrazone, un innovador agente quelante de hierro de alta pureza. Ideal para aplicaciones en la industria cosmética, farmacéutica y alimentaria, Ferrazone mejora la estabilidad y biodisponibilidad del hierro en tus productos. Su eficacia comprobada asegura resultados consistentes y una excelente absorción, ofreciendo una solución confiable para combatir deficiencias de hierro y potenciar la salud y bienestar. ¡Eleva la calidad de tus formulaciones con Ferrazone y ofrece productos de primer nivel a tus clientes!,
+      "brand": {
+        "@type": "Brand",
+        "name": "Chemical Broker"
+      },
+
+      "offers":{
+        "@type": "Offer",
+        "url": "https://chemicalbroker.mx/Ferrazone.php",
+        "priceCurrency": "MXN",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Chemical Broker"
+        }
+      }
+    }
+  </script>
 
 </head>
 
@@ -256,7 +281,7 @@
                                                     Ventas </h6>
                                                 <p class="Tipografia--general General--Cuerpo"
                                                     style="color: #a7a7a7 !important;">Teléfono:
-                                                    +52.55.7586.1888</p>
+                                                    +52.55.4438.7996</p>
                                             </div>
                                             <div class="col s12 m12 l12 xl12">
                                                 <h6 class="Tipografia--general Titulos" style="color:white !Important;">
@@ -264,7 +289,7 @@
                                                 </h6>
                                                 <p class="Tipografia--general General--Cuerpo"
                                                     style="color: #a7a7a7 !important;">Teléfono:
-                                                    +52.55.7586.1818 </p>
+                                                    +52.55.4438.7996 </p>
                                             </div>
                                         </div>
                                     </div>
@@ -385,7 +410,7 @@
         </ul>
     </div>
     <div class="row">
-        <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+        <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
             <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png"
                     alt="Logotipo">
             </div>
@@ -874,10 +899,10 @@
 
             </div>
             <div class="col s12 m12 l12 xl1">
-                <h5 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020">Proveedor</b></h5>
+                <h5 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#071637">Proveedor</b></h5>
                 <img src="img/LOGO_NOURYON_100124.png" alt="" style="margin-top:10px" width="300%">
                 <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b
-                        style="color:#000020">Grados:</b></h5>
+                        style="color:#071637">Grados:</b></h5>
                 <table style="border:1px solid #f2f2f2;width:800px;">
                     <tr>
                         <td><a href="Proximamente.php" class="General--Cuerpo"><b style="color:#C00000;cursor:pointer;padding:5px;"

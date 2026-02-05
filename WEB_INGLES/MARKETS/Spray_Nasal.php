@@ -140,11 +140,11 @@
                         <h6 class="Tipografia--general Titulos" style="color:white;padding-top:5px">Teléfonos </h6>
                         <div class="col s12 m12 l12 xl12">
                           <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1888</p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996</p>
                         </div>
                         <div class="col s12 m12 l12 xl12"> 
                           <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1818 </p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996 </p>
                         </div>
                       </div>
                     </div>
@@ -211,7 +211,7 @@
       </ul>
     </div>
     <div class="row">  
-      <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+      <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
         <div class="nav-wrapper container contlog"><img class="img-logo" src="../img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo"></div>
       </nav>
     </div>
@@ -429,7 +429,7 @@
         <!-- <div class="card">
         <div class="card-image">
           <img src="img/CB_GLICERINAS_030823.jpg">
-          <p class="Titulos" style="margin:0px;display:flex;justify-content:center;margin-top:15px"><b style="color:#000020;">Glicerina</b></p>
+          <p class="Titulos" style="margin:0px;display:flex;justify-content:center;margin-top:15px"><b style="color:#071637;">Glicerina</b></p>
         </div>
         <div class="card-content">
           <p>La <b>Glicerina</b>, también conocida como
@@ -438,7 +438,7 @@
           un átomo de hidrógeno.</p>
         </div>
         <div class="card-action">
-          <a href="Glycerins.php" style="color:#000020;text-transform:capitalize;"><b>Leer Más</b></a>
+          <a href="Glycerins.php" style="color:#071637;text-transform:capitalize;"><b>Leer Más</b></a>
         </div> -->
         <ol>
           <li style="list-style-type:disc;"><a href="Glycerins.php" style="color:rgba(2 146 238 /99%)">Glicerina</a></li>

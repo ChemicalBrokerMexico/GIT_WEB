@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Alcohol Isopropílico USP de Lyondell Basell</title>
+    <title>Chemical Broker | Alcohol Isopropílico USP de Lyondell Basell | Proveedor Global </title>
     <meta name="description" content="Chemical Broker distribuye mundialmente Alcohol Isopropilico grado USP de Lyondell Basell.">
         <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/Alcohol_Isopropilico_USP.php">
@@ -47,6 +47,34 @@
             $('#table_id2').DataTable();
         });
     </script>
+
+<script type="application/Id+json">
+    {
+
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Alcohol Isopropilico USP",
+      "description": "Chemical Broker distribuye mundialmente Alcohol Isopropilico grado USP de Lyondell Basell.",
+      "brand": {
+        "@type": "Brand",
+        "name": "Chemical Broker"
+      },
+ 
+      "offers":{
+        "@type": "Offer",
+        "url": "https://chemicalbroker.mx/Alcohol_Isopropilico_USP.php",
+        "priceCurrency": "MXN",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Chemical Broker"
+        }
+      }
+    }
+
+  </script>
+
+
 </head>
 
 <body>
@@ -279,7 +307,7 @@
                                                     Ventas </h6>
                                                 <p class="Tipografia--general General--Cuerpo"
                                                     style="color: #a7a7a7 !important;">Teléfono:
-                                                    +52.55.7586.1888</p>
+                                                    +52.55.4438.7996</p>
                                             </div>
                                             <div class="col s12 m12 l12 xl12">
                                                 <h6 class="Tipografia--general Titulos" style="color:white !Important;">
@@ -287,7 +315,7 @@
                                                 </h6>
                                                 <p class="Tipografia--general General--Cuerpo"
                                                     style="color: #a7a7a7 !important;">Teléfono:
-                                                    +52.55.7586.1818 </p>
+                                                    +52.55.4438.7996 </p>
                                             </div>
                                         </div>
                                     </div>
@@ -390,7 +418,7 @@
         </ul>
     </div>
     <div class="row">
-        <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+        <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
             <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png"
                     alt="Logotipo">
             </div>

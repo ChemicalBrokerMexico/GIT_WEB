@@ -143,11 +143,11 @@
                         <h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Teléfonos </h6>
                         <div class="col s12 m12 l12 xl12">
                           <h6 class="Tipografia--general Titulos color--blanco">Ventas </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
                         </div>
                         <div class="col s12 m12 l12 xl12"> 
                           <h6 class="Tipografia--general Titulos color--blanco">Información General </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
                         </div>
                       </div>
                     </div>
@@ -412,7 +412,7 @@
           </p>
           <p class="Tipografia--general General--Cuerpo letranegro" style="text-align:justify;margin-top:50px"><b style="color:#262137">Chemical Broker </b>, una compañía creada en el año <b style="color:#262137">2014</b>, con un enfoque de negocios claro y definido, descrito a continuación:
           </p>
-          <p class="Tipografia--general General--Cuerpo letranegro" style="text-align:justify;margin-top:50px"><b style="color:#262137">Facilitar</b> . – Los procesos de compra y venta de productos químicos a nuestros socios de negocios, por medio de negociaciones robustas y de largo plazo con los principales fabricantes y proveedores en el mundo permitiendo crear una mayor rentabilidad para <b style="color:#000020">Chemical Broker</b> y nuestros socios de negocios.
+          <p class="Tipografia--general General--Cuerpo letranegro" style="text-align:justify;margin-top:50px"><b style="color:#262137">Facilitar</b> . – Los procesos de compra y venta de productos químicos a nuestros socios de negocios, por medio de negociaciones robustas y de largo plazo con los principales fabricantes y proveedores en el mundo permitiendo crear una mayor rentabilidad para <b style="color:#071637">Chemical Broker</b> y nuestros socios de negocios.
           </p>
           <p class="Tipografia--general General--Cuerpo letranegro" style="text-align:justify;margin-top:50px"><b class="Tipografia--general General--Cuerpo letranegro" style="color:#262137">Negociar y Proveer </b>. – Productos químicos y servicios como Servicios, Comercio Internacional (Importaciones y Exportaciones) y Coberturas de Seguros para nuestros socios de negocios.
           </p>
@@ -446,13 +446,13 @@
         <li class="in-view wow animate__animated animate__bounceInLeft">
           <div>
             <h3 style="color:black !important"><b>2017</b><br><br></h3>
-            <p class="Tipografia--general General--Cuerpo letranegro" style="color: black;margin-top:-10px;text-align: justify;">En la última década la concientización sobre el cuidado de los animales de compañía, así como el tipo de alimentación de los animales para consumo humano ha crecido impulsando a las empresas a generar productos alimenticios de mejor calidad. Bajo las circunstancias del momento <b style="color:#000020">Chemical Broker</b> crea su división de Pet & Feed con ingredientes químicos de la más alta calidad, certificados en Buenas Prácticas de Manufactura Grado Alimentos y con un enfoque especializado en la Industria de Alimentación y Nutrición Animal. </p>
+            <p class="Tipografia--general General--Cuerpo letranegro" style="color: black;margin-top:-10px;text-align: justify;">En la última década la concientización sobre el cuidado de los animales de compañía, así como el tipo de alimentación de los animales para consumo humano ha crecido impulsando a las empresas a generar productos alimenticios de mejor calidad. Bajo las circunstancias del momento <b style="color:#071637">Chemical Broker</b> crea su división de Pet & Feed con ingredientes químicos de la más alta calidad, certificados en Buenas Prácticas de Manufactura Grado Alimentos y con un enfoque especializado en la Industria de Alimentación y Nutrición Animal. </p>
           </div>
         </li>
         <li class="in-view wow animate__animated animate__bounceInRight">
           <div>
             <h3 style="color:black !important"><b>2018</b><br><br></h3>
-            <p class="Tipografia--general General--Cuerpo letranegro" style="color: black;margin-top:-10px;text-align: justify;">Durante el año 2018 <b style="color:#000020">Chemical Broker</b> considera importante desarrollar su propia Unidad de Negocios de Tecnologías de la Información, con el propósito de impulsar la era digital dentro de la organización, para facilitar sus servicios dentro y fuera de ella.</p>
+            <p class="Tipografia--general General--Cuerpo letranegro" style="color: black;margin-top:-10px;text-align: justify;">Durante el año 2018 <b style="color:#071637">Chemical Broker</b> considera importante desarrollar su propia Unidad de Negocios de Tecnologías de la Información, con el propósito de impulsar la era digital dentro de la organización, para facilitar sus servicios dentro y fuera de ella.</p>
           </div>
         </li><br><br>
       </ul>

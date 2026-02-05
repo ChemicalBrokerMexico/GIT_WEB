@@ -5,7 +5,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0" />
   <title>Chemical Broker | Mercado Agroquimicos</title>
-  <meta name="description" content="Explora nuestras materias primas químicas de alta calidad, diseñadas para impulsar la eficiencia en la industria agroquímica. Ofrecemos soluciones innovadoras y sostenibles que optimizan la producción y potencian el rendimiento de tus productos. ¡Transforma tu negocio con nuestras aplicaciones avanzadas!">
+  <meta name="description" content="Nuestra oferta de ingredientes esta orientada a empresas que desarrollan y producen herbicidas, insecticidas, fungicidas, fertilizantes liquidos y solidos, adyuvantes, surfactantes agricolas, agentes quelantes y estabilizadores">
   <link rel="canonical" href="https://chemicalbroker.mx/Agroquimicos.php">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
@@ -227,12 +227,12 @@ recaptchaResponse.value = token;
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos color--blanco">Ventas </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a
-                            class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+                            class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
                       </div>
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos color--blanco">Información General </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a
-                            class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+                            class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
                       </div>
                     </div>
                   </div>
@@ -568,14 +568,14 @@ recaptchaResponse.value = token;
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-          <h2 class="Tipografia--general General--Cuerpo letranegro"><b style="color:#000020;">Introducción</b></h2>
+          <h2 class="Tipografia--general General--Cuerpo letranegro"><b style="color:#071637;">Introducción</b></h2>
           <!-- <p class="Tipografia--general General--Cuerpo letranegro">La industria Agroquímica es de suma importancia a nivel global, debido a que la mayor parte de ingredientes que permiten la preparación de alimentos saludables, son dependientes de tener cultivos libres de plagas y a su vez de que el medio ambiente presente las condiciones adecuadas para la siembra de productos. Chemical Broker ofrece un amplio portafolio de productos que permiten a la industria agroquímica, generar productos de calidad a nivel global.</p> -->
           <p class="Tipografia--general General--Cuerpo letranegro">La agricultura depende en gran medida, de la industria química orgánica, a través de la producción de fertilizantes nitrogenados, plaguicidas y reguladores del crecimiento vegetal. Los fertilizantes están basados fundamentalmente en productos inorgánicos (amoniaco, nitrato de amonio y sulfato de amonio) aunque incluyen también productos orgánicos como la urea, Chemical Broker distribuye productos de calidad mundial que permiten a la industria agroquímica contar con las herramientas necesarias para brindar un servicio adecuado. </p>
-          <h2 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;"><b style="color:#000020;">Tipos de Agroquímicos</b></h2>
+          <h2 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;"><b style="color:#071637;">Tipos de Agroquímicos</b></h2>
           <h2 class="Tipografia--general General--Cuerpo letranegro">Insecticidas</h2>
           <p class="Tipografia--general General--Cuerpo letranegro">Los insecticidas destruyen las plagas de insectos tales como escarabajos, moscas, pulgones, saltamontes entre otros.  Son útiles para proteger las cosechas y eliminar los insectos domésticos. Para que un insecticida sea eficaz debe bloquear un proceso vital del insecto a tratar, los insecticidas pueden clasificarse de la siguiente forma, desde el punto de vista químico:</p>
           <p class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;">Se emplean en áreas urbanas, suburbanas y rurales; en el hogar y en los jardines. El objetivo en la mayoría de los casos consiste en matar o tratar de erradicar la plaga atacada, muchos de los sistemas modernos tienen enfoques más complicados. </p>
-          <h2 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;"><b style="color:#000020;">Tipos de insecticidas:</b></h2>
+          <h2 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;"><b style="color:#071637;">Tipos de insecticidas:</b></h2>
           <h2 class="Tipografia--general General--Cuerpo letranegro">Clasificación por modos de accion</h2>
           <ol style="margin-top:30px;">
             <li style="list-style-type: disc;">Insecticidas de contacto: Matan a los insectos cuando entran en contacto directo con el producto. Ejemplos incluyen piretroides y organofosforados.</li>
@@ -595,10 +595,10 @@ recaptchaResponse.value = token;
             <li class="Elementos--Listas">Aplicaciones en salud publica: Se utilizan para el control de plagas en entornos urbanos y residenciales como el control de mosquitos en áreas urbanas para prevenir la propagación de enfermedades transmitidas por vectores</li>
             <li class="Elementos--Listas">Protección de estructuras y propiedades: Los insecticidas se utilizan para el control de plagas en edificios, almacenes, estructuras agrícolas y espacios públicos para prevenir daños materiales y problemas de salud asociados.</li>
           </ol>
-          <h2 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;"><b style="color:#000020;">Amortiguadores y Quelantes</b></h2>
+          <h2 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;"><b style="color:#071637;">Amortiguadores y Quelantes</b></h2>
           <p class="Tipografia--general letranegro General--Cuerpo">Los agentes secuestrantes son compuestos, que pueden asociarse a los iones de los metales formando complejos estables, también se llaman Agentes quelantes, tienen la función de capturar a los iones metálicos, formando complejos que tienen la propiedad de mantenerse solubles e inocuos.  </p>
           <p class="Tipografia--general letranegro General--Cuerpo">Como agentes secuestrantes se usan polifosfatos, ácidos aminocarboxilicos y algunos ácidos carboxílicos. Uno de los secuestrantes más usados para diversas aplicaciones es el EDTA (Acido etilendiaminotetraacético) y sus derivados. Otros agentes quelantes son el ácido cítrico, el ácido ascórbico, el ácido tartárico, entre otros.</p>
-          <h2 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;"><b style="color:#000020;">Pesticidas</b></h2>
+          <h2 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;"><b style="color:#071637;">Pesticidas</b></h2>
           <p class="Tipografia--general General--Cuerpo letranegro">Un pesticida es cualquier sustancia o mezcla de sustancias dirigidas a destruir, prevenir, repeler o mitigar alguna plaga. El termino pesticida se puede utilizar para designar compuestos que sean herbicidas, fungicidas, insecticidas, o algunas otras sustancias químicas.</p>
           <p class="Tipografia--general General--Cuerpo letranegro">Los pesticidas se pueden clasificar según la familia química a la que pertenezcan. Las más importantes son:</p>
           <ol>
@@ -627,7 +627,7 @@ recaptchaResponse.value = token;
               </ol>
             </li>
           </ol>
-          <h2 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;"><b style="color:#000020;">Fertilizantes</b></h2>
+          <h2 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;"><b style="color:#071637;">Fertilizantes</b></h2>
           <p class="Tipografia--general letranegro General--Cuerpo">Los tipos de fertilizantes tienen un rol fundamental en la producción de alimentos, piensos, fibras y energía. El suelo, en función de su capacidad agronómica, tiene una productividad limitada para suministrar las necesidades nutritivas de los cultivos. Esta capacidad puede ser mejorada gracias a los fertilizantes.</p>
           <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Fertilizante puede utilizarse como sinónimo de abono, aunque abono está definido como (material cuya función principal es proporcionar elementos nutrientes a las plantas).</p>
           <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Fertilizante está definido como (Sustancia inorgánica u orgánica, natural o sintética, que presenta nutrientes que puedan ser asimilados por las plantas y que se adiciona al suelo para mantener, suplir e incrementar en determinados elementos esenciales del mismo, para el crecimiento de las plantas).</p>

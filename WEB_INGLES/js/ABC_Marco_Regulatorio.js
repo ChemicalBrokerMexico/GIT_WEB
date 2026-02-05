@@ -14,13 +14,13 @@ $(document).ready(function(){
 
                     <tr>
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="background-color:#000020;color:white;text-align:center" colspan="3">Marco
+                            style="background-color:#071637;color:white;text-align:center" colspan="3">Marco
                             Regulatorio</td>
                     </tr>
 
                     <tr class="border_compliance_tabla">
                 <td class="letranegro Tipografia--general General--Cuerpo"
-                    style="width:33.33%;text-align:center"><b style="color:#000020">BP</b></td>
+                    style="width:33.33%;text-align:center"><b style="color:#071637">BP</b></td>
                 <td class="letranegro Tipografia--general General--Cuerpo"
                     style="width:765px;text-align:justify;">
                     <p style="text-align: justify;padding:5px;width:765px;">La Farmacopea Británica ( BP ) es la farmacopea nacional del Reino Unido . Es una colección de estándares de calidad para sustancias medicinales que se publica anualmente en el Reino Unido y que utilizan personas y organizaciones involucradas en la investigación , el desarrollo , la fabricación y las pruebas farmacéuticas .
@@ -37,7 +37,7 @@ $(document).ready(function(){
 
             <tr class="border_compliance_tabla">
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><b style="color:#000020">EP</b></td>
+                            style="width:33.33%;text-align:center"><b style="color:#071637">EP</b></td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:765px;text-align:justify;">
                             <p style="text-align: justify;padding:5px;width:765px;">La Farmacopea Europea (Ph. Eur., en inglés European Pharmacopoeia, EP) del Consejo de Europa es una farmacopea que incluye una amplia gama de principios activos y excipientes utilizados para preparar productos farmacéuticos en Europa. Está compuesta por más de 2.000 monografías generales y específicas, incluyendo diversas sustancias químicas, antibióticos, sustancias biológicas, vacunas para uso humano o veterinario; sueros inmunológicos, preparaciones de radiofármacos, fitoterápicos, preparados homeopáticos y reservas homeopáticas.1​ También contiene formas de dosificación, monografías generales, materiales y recipientes, suturas, 268 métodos generales con esquemas o cromatogramas y la descripción de 2210 reactivos.
@@ -54,7 +54,7 @@ $(document).ready(function(){
 
                     <tr class="border_compliance_tabla">
                     <td class="letranegro Tipografia--general General--Cuerpo"
-                        style="width:33.33%;text-align:center"><b style="color:#000020">FEMA</b></td>
+                        style="width:33.33%;text-align:center"><b style="color:#071637">FEMA</b></td>
                     <td class="letranegro Tipografia--general General--Cuerpo"
                         style="width:765px;text-align:justify">
                         <p style="text-align: justify;padding:5px;width:765px;">FEMA es la Agencia Fedeal para
@@ -75,7 +75,7 @@ $(document).ready(function(){
 
                 <tr class="border_compliance_tabla">
                 <td class="letranegro Tipografia--general General--Cuerpo"
-                    style="width:33.33%;text-align:center"><b style="color:#000020">IATA</b></td>
+                    style="width:33.33%;text-align:center"><b style="color:#071637">IATA</b></td>
                 <td class="letranegro Tipografia--general General--Cuerpo"
                     style="width:765px;text-align:justify;">
                     <p style="text-align: justify;padding:5px;width:765px;">La Asociación de Transporte
@@ -99,7 +99,7 @@ $(document).ready(function(){
 
             <tr class="border_compliance_tabla">
             <td class="letranegro Tipografia--general General--Cuerpo"
-                style="width:33.33%;text-align:center"><b style="color:#000020">IP WHO</b></td>
+                style="width:33.33%;text-align:center"><b style="color:#071637">IP WHO</b></td>
             <td class="letranegro Tipografia--general General--Cuerpo"
                 style="width:765px;text-align:justify;">
                 <p style="text-align: justify;padding:5px;width:765px;">La
@@ -120,7 +120,7 @@ $(document).ready(function(){
 
         <tr class="border_compliance_tabla">
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><b style="color:#000020">IPEC</b></td>
+                            style="width:33.33%;text-align:center"><b style="color:#071637">IPEC</b></td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:765px;text-align:justify;">
                             <p style="text-align: justify;padding:5px;width:765px;">El
@@ -148,7 +148,7 @@ $(document).ready(function(){
                   
                     <tr class="border_compliance_tabla">
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><b style="color:#000020">JECFA</b></td>
+                            style="width:33.33%;text-align:center"><b style="color:#071637">JECFA</b></td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:765px;text-align:justify">
                             <p style="text-align: justify;padding:5px;width:765px;">El Comité Mixto FAO/OMS de
@@ -167,7 +167,7 @@ $(document).ready(function(){
 
                     <tr class="border_compliance_tabla">
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><b style="color:#000020">JP</b></td>
+                            style="width:33.33%;text-align:center"><b style="color:#071637">JP</b></td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:765px;text-align:justify;">
                             <p style="text-align: justify;padding:5px;width:765px;">La
@@ -187,7 +187,7 @@ $(document).ready(function(){
 
                     <tr class="border_compliance_tabla">
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><b style="color:#000020">NOM 059</b></td>
+                            style="width:33.33%;text-align:center"><b style="color:#071637">NOM 059</b></td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:765px;text-align:justify;">
                             <p style="text-align: justify;padding:5px;width:765px;">Esta Norma establece los requisitos mínimos necesarios para el proceso de fabricación de los medicamentos para uso humano comercializados en el país y/o con fines de investigación.
@@ -205,7 +205,7 @@ $(document).ready(function(){
 
                     <tr class="border_compliance_tabla">
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><b style="color:#000020">REACH</b></td>
+                            style="width:33.33%;text-align:center"><b style="color:#071637">REACH</b></td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:765px;text-align:justify">
                             <p style="text-align: justify;padding:5px;width:765px;">El REACH (Registro, Evaluación,
@@ -232,7 +232,7 @@ $(document).ready(function(){
                     
                     <tr class="border_compliance_tabla">
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><b style="color:#000020">USP</b></td>
+                            style="width:33.33%;text-align:center"><b style="color:#071637">USP</b></td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:765px;text-align:justify;">
                             <p style="text-align: justify;padding:5px;width:765px;">La USP por sus siglas en inglés
@@ -284,13 +284,13 @@ function filtroall(){
 
                     <tr>
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="background-color:#000020;color:white;text-align:center" colspan="3">Marco
+                            style="background-color:#071637;color:white;text-align:center" colspan="3">Marco
                             Regulatorio</td>
                     </tr>
 
                     <tr class="border_compliance_tabla">
                 <td class="letranegro Tipografia--general General--Cuerpo"
-                    style="width:33.33%;text-align:center"><b style="color:#000020">BP</b></td>
+                    style="width:33.33%;text-align:center"><b style="color:#071637">BP</b></td>
                 <td class="letranegro Tipografia--general General--Cuerpo"
                     style="width:765px;text-align:justify;">
                     <p style="text-align: justify;padding:5px;width:765px;">La Farmacopea Británica ( BP ) es la farmacopea nacional del Reino Unido . Es una colección de estándares de calidad para sustancias medicinales que se publica anualmente en el Reino Unido y que utilizan personas y organizaciones involucradas en la investigación , el desarrollo , la fabricación y las pruebas farmacéuticas .
@@ -308,7 +308,7 @@ function filtroall(){
 
             <tr class="border_compliance_tabla">
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><b style="color:#000020">EP</b></td>
+                            style="width:33.33%;text-align:center"><b style="color:#071637">EP</b></td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:765px;text-align:justify;">
                             <p style="text-align: justify;padding:5px;width:765px;">La Farmacopea Europea (Ph. Eur., en inglés European Pharmacopoeia, EP) del Consejo de Europa es una farmacopea que incluye una amplia gama de principios activos y excipientes utilizados para preparar productos farmacéuticos en Europa. Está compuesta por más de 2.000 monografías generales y específicas, incluyendo diversas sustancias químicas, antibióticos, sustancias biológicas, vacunas para uso humano o veterinario; sueros inmunológicos, preparaciones de radiofármacos, fitoterápicos, preparados homeopáticos y reservas homeopáticas.1​ También contiene formas de dosificación, monografías generales, materiales y recipientes, suturas, 268 métodos generales con esquemas o cromatogramas y la descripción de 2210 reactivos.
@@ -326,7 +326,7 @@ function filtroall(){
 
                     <tr class="border_compliance_tabla">
                     <td class="letranegro Tipografia--general General--Cuerpo"
-                        style="width:33.33%;text-align:center"><b style="color:#000020">FEMA</b></td>
+                        style="width:33.33%;text-align:center"><b style="color:#071637">FEMA</b></td>
                     <td class="letranegro Tipografia--general General--Cuerpo"
                         style="width:765px;text-align:justify">
                         <p style="text-align: justify;padding:5px;width:765px;">FEMA es la Agencia Fedeal para
@@ -347,7 +347,7 @@ function filtroall(){
 
                 <tr class="border_compliance_tabla">
                 <td class="letranegro Tipografia--general General--Cuerpo"
-                    style="width:33.33%;text-align:center"><b style="color:#000020">IATA</b></td>
+                    style="width:33.33%;text-align:center"><b style="color:#071637">IATA</b></td>
                 <td class="letranegro Tipografia--general General--Cuerpo"
                     style="width:765px;text-align:justify;">
                     <p style="text-align: justify;padding:5px;width:765px;">La Asociación de Transporte
@@ -370,7 +370,7 @@ function filtroall(){
 
             <tr class="border_compliance_tabla">
             <td class="letranegro Tipografia--general General--Cuerpo"
-                style="width:33.33%;text-align:center"><b style="color:#000020">IP WHO</b></td>
+                style="width:33.33%;text-align:center"><b style="color:#071637">IP WHO</b></td>
             <td class="letranegro Tipografia--general General--Cuerpo"
                 style="width:765px;text-align:justify;">
                 <p style="text-align: justify;padding:5px;width:765px;">La
@@ -391,7 +391,7 @@ function filtroall(){
 
         <tr class="border_compliance_tabla">
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><b style="color:#000020">IPEC</b></td>
+                            style="width:33.33%;text-align:center"><b style="color:#071637">IPEC</b></td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:765px;text-align:justify;">
                             <p style="text-align: justify;padding:5px;width:765px;">El
@@ -418,7 +418,7 @@ function filtroall(){
                   
                     <tr class="border_compliance_tabla">
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><b style="color:#000020">JECFA</b></td>
+                            style="width:33.33%;text-align:center"><b style="color:#071637">JECFA</b></td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:765px;text-align:justify">
                             <p style="text-align: justify;padding:5px;width:765px;">El Comité Mixto FAO/OMS de
@@ -435,7 +435,7 @@ function filtroall(){
 
                     <tr class="border_compliance_tabla">
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><b style="color:#000020">JP</b></td>
+                            style="width:33.33%;text-align:center"><b style="color:#071637">JP</b></td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:765px;text-align:justify;">
                             <p style="text-align: justify;padding:5px;width:765px;">La
@@ -452,7 +452,7 @@ function filtroall(){
 
                     <tr class="border_compliance_tabla">
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><b style="color:#000020">NOM 059</b></td>
+                            style="width:33.33%;text-align:center"><b style="color:#071637">NOM 059</b></td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:765px;text-align:justify;">
                             <p style="text-align: justify;padding:5px;width:765px;">Esta Norma establece los requisitos mínimos necesarios para el proceso de fabricación de los medicamentos para uso humano comercializados en el país y/o con fines de investigación.
@@ -467,7 +467,7 @@ function filtroall(){
 
                     <tr class="border_compliance_tabla">
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><b style="color:#000020">REACH</b></td>
+                            style="width:33.33%;text-align:center"><b style="color:#071637">REACH</b></td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:765px;text-align:justify">
                             <p style="text-align: justify;padding:5px;width:765px;">El REACH (Registro, Evaluación,
@@ -490,7 +490,7 @@ function filtroall(){
                     
                     <tr class="border_compliance_tabla">
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><b style="color:#000020">USP</b></td>
+                            style="width:33.33%;text-align:center"><b style="color:#071637">USP</b></td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:765px;text-align:justify;">
                             <p style="text-align: justify;padding:5px;width:765px;">La USP por sus siglas en inglés
@@ -553,13 +553,13 @@ function filtrob(){
 
         <tr>
             <td class="letranegro Tipografia--general General--Cuerpo"
-                style="background-color:#000020;color:white;text-align:center" colspan="3">Marco
+                style="background-color:#071637;color:white;text-align:center" colspan="3">Marco
                 Regulatorio</td>
         </tr>
 
         <tr class="border_compliance_tabla">
     <td class="letranegro Tipografia--general General--Cuerpo"
-        style="width:33.33%;text-align:center"><b style="color:#000020">BP</b></td>
+        style="width:33.33%;text-align:center"><b style="color:#071637">BP</b></td>
     <td class="letranegro Tipografia--general General--Cuerpo"
         style="width:765px;text-align:justify;">
         <p style="text-align: justify;padding:5px;width:765px;">La Farmacopea Británica ( BP ) es la farmacopea nacional del Reino Unido . Es una colección de estándares de calidad para sustancias medicinales que se publica anualmente en el Reino Unido y que utilizan personas y organizaciones involucradas en la investigación , el desarrollo , la fabricación y las pruebas farmacéuticas .
@@ -619,13 +619,13 @@ function filtroe(){
 
         <tr>
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="background-color:#000020;color:white;text-align:center" colspan="3">Marco
+                            style="background-color:#071637;color:white;text-align:center" colspan="3">Marco
                             Regulatorio</td>
                     </tr>
 
     <tr class="border_compliance_tabla">
     <td class="letranegro Tipografia--general General--Cuerpo"
-        style="width:33.33%;text-align:center"><b style="color:#000020">EP</b></td>
+        style="width:33.33%;text-align:center"><b style="color:#071637">EP</b></td>
     <td class="letranegro Tipografia--general General--Cuerpo"
         style="width:765px;text-align:justify;">
         <p style="text-align: justify;padding:5px;width:765px;">La Farmacopea Europea (Ph. Eur., en inglés European Pharmacopoeia, EP) del Consejo de Europa es una farmacopea que incluye una amplia gama de principios activos y excipientes utilizados para preparar productos farmacéuticos en Europa. Está compuesta por más de 2.000 monografías generales y específicas, incluyendo diversas sustancias químicas, antibióticos, sustancias biológicas, vacunas para uso humano o veterinario; sueros inmunológicos, preparaciones de radiofármacos, fitoterápicos, preparados homeopáticos y reservas homeopáticas.1​ También contiene formas de dosificación, monografías generales, materiales y recipientes, suturas, 268 métodos generales con esquemas o cromatogramas y la descripción de 2210 reactivos.
@@ -660,13 +660,13 @@ function filtrof(){
 
     <tr>
                     <td class="letranegro Tipografia--general General--Cuerpo"
-                        style="background-color:#000020;color:white;text-align:center" colspan="3">Marco
+                        style="background-color:#071637;color:white;text-align:center" colspan="3">Marco
                         Regulatorio</td>
                 </tr>
 
                 <tr class="border_compliance_tabla">
                 <td class="letranegro Tipografia--general General--Cuerpo"
-                    style="width:33.33%;text-align:center"><b style="color:#000020">FEMA</b></td>
+                    style="width:33.33%;text-align:center"><b style="color:#071637">FEMA</b></td>
                 <td class="letranegro Tipografia--general General--Cuerpo"
                     style="width:765px;text-align:justify">
                     <p style="text-align: justify;padding:5px;width:765px;">FEMA es la Agencia Fedeal para
@@ -726,13 +726,13 @@ function filtroi(){
 
     <tr>
                     <td class="letranegro Tipografia--general General--Cuerpo"
-                        style="background-color:#000020;color:white;text-align:center" colspan="3">Marco
+                        style="background-color:#071637;color:white;text-align:center" colspan="3">Marco
                         Regulatorio</td>
                 </tr>
 
                 <tr class="border_compliance_tabla">
                 <td class="letranegro Tipografia--general General--Cuerpo"
-                    style="width:33.33%;text-align:center"><b style="color:#000020">IATA</b></td>
+                    style="width:33.33%;text-align:center"><b style="color:#071637">IATA</b></td>
                 <td class="letranegro Tipografia--general General--Cuerpo"
                     style="width:765px;text-align:justify;">
                     <p style="text-align: justify;padding:5px;width:765px;">La Asociación de Transporte
@@ -753,7 +753,7 @@ function filtroi(){
 
             <tr class="border_compliance_tabla">
             <td class="letranegro Tipografia--general General--Cuerpo"
-                style="width:33.33%;text-align:center"><b style="color:#000020">IP WHO</b></td>
+                style="width:33.33%;text-align:center"><b style="color:#071637">IP WHO</b></td>
             <td class="letranegro Tipografia--general General--Cuerpo"
                 style="width:765px;text-align:justify;">
                 <p style="text-align: justify;padding:5px;width:765px;">La
@@ -772,7 +772,7 @@ function filtroi(){
 
         <tr class="border_compliance_tabla">
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><b style="color:#000020">IPEC</b></td>
+                            style="width:33.33%;text-align:center"><b style="color:#071637">IPEC</b></td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:765px;text-align:justify;">
                             <p style="text-align: justify;padding:5px;width:765px;">El
@@ -823,13 +823,13 @@ function filtroj(){
 
     <tr>
                     <td class="letranegro Tipografia--general General--Cuerpo"
-                        style="background-color:#000020;color:white;text-align:center" colspan="3">Marco
+                        style="background-color:#071637;color:white;text-align:center" colspan="3">Marco
                         Regulatorio</td>
                 </tr>
 
                 <tr class="border_compliance_tabla">
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><b style="color:#000020">JECFA</b></td>
+                            style="width:33.33%;text-align:center"><b style="color:#071637">JECFA</b></td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:765px;text-align:justify">
                             <p style="text-align: justify;padding:5px;width:765px;">El Comité Mixto FAO/OMS de
@@ -846,7 +846,7 @@ function filtroj(){
 
                     <tr class="border_compliance_tabla">
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><b style="color:#000020">JP</b></td>
+                            style="width:33.33%;text-align:center"><b style="color:#071637">JP</b></td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:765px;text-align:justify;">
                             <p style="text-align: justify;padding:5px;width:765px;">La
@@ -921,13 +921,13 @@ function filtron(){
 
     <tr>
                     <td class="letranegro Tipografia--general General--Cuerpo"
-                        style="background-color:#000020;color:white;text-align:center" colspan="3">Marco
+                        style="background-color:#071637;color:white;text-align:center" colspan="3">Marco
                         Regulatorio</td>
                 </tr>
 
                 <tr class="border_compliance_tabla">
                 <td class="letranegro Tipografia--general General--Cuerpo"
-                    style="width:33.33%;text-align:center"><b style="color:#000020">NOM 059</b></td>
+                    style="width:33.33%;text-align:center"><b style="color:#071637">NOM 059</b></td>
                 <td class="letranegro Tipografia--general General--Cuerpo"
                     style="width:765px;text-align:justify;">
                     <p style="text-align: justify;padding:5px;width:765px;">Esta Norma establece los requisitos mínimos necesarios para el proceso de fabricación de los medicamentos para uso humano comercializados en el país y/o con fines de investigación.
@@ -1000,14 +1000,14 @@ function filtror(){
 
     <tr>
                     <td class="letranegro Tipografia--general General--Cuerpo"
-                        style="background-color:#000020;color:white;text-align:center" colspan="3">Marco
+                        style="background-color:#071637;color:white;text-align:center" colspan="3">Marco
                         Regulatorio</td>
                 </tr>
 
                 
                 <tr class="border_compliance_tabla">
                 <td class="letranegro Tipografia--general General--Cuerpo"
-                    style="width:33.33%;text-align:center"><b style="color:#000020">REACH</b></td>
+                    style="width:33.33%;text-align:center"><b style="color:#071637">REACH</b></td>
                 <td class="letranegro Tipografia--general General--Cuerpo"
                     style="width:765px;text-align:justify">
                     <p style="text-align: justify;padding:5px;width:765px;">El REACH (Registro, Evaluación,
@@ -1094,13 +1094,13 @@ function filtrou(){
 
     <tr>
                     <td class="letranegro Tipografia--general General--Cuerpo"
-                        style="background-color:#000020;color:white;text-align:center" colspan="3">Marco
+                        style="background-color:#071637;color:white;text-align:center" colspan="3">Marco
                         Regulatorio</td>
                 </tr>
 
                 <tr class="border_compliance_tabla">
                         <td class="letranegro Tipografia--general General--Cuerpo"
-                            style="width:33.33%;text-align:center"><b style="color:#000020">USP</b></td>
+                            style="width:33.33%;text-align:center"><b style="color:#071637">USP</b></td>
                         <td class="letranegro Tipografia--general General--Cuerpo"
                             style="width:765px;text-align:justify;">
                             <p style="text-align: justify;padding:5px;width:765px;">La USP por sus siglas en inglés

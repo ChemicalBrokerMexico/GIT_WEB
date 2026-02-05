@@ -3,7 +3,7 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-<meta name="description" content="La industria de las cremas para el cuidado de la piel forma parte del sector cosmético y dermocosmético, y se enfoca en la formulación, fabricación y comercialización de productos destinados a proteger, hidratar, tratar o mejorar el aspecto de la piel.">
+<meta name="description" content="Soluciones químicas para la elaboración de Shampoo: materias primas para limpieza, hidratación , brillo y estabilidad. Suministro confiabley especificaciones completas.">
 <title>Chemical Broker | Champu</title>
 <link rel="canonical" href="https://chemicalbroker.mx/Champu.php">
 <link rel="shortcut icon" href="img/CB_ICON.ico" />
@@ -141,11 +141,11 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <h6 class="Tipografia--general Titulos" style="color:white;padding-top:5px">Teléfonos </h6>
 <div class="col s12 m12 l12 xl12">
 <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
-<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1888</p>
+<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996</p>
 </div>
 <div class="col s12 m12 l12 xl12"> 
 <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General </h6>
-<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1818 </p>
+<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996 </p>
 </div>
 </div>
 </div>
@@ -212,7 +212,7 @@ id="aparece"></i></a></li>
 </ul>
 </div>
 <div class="row">  
-<nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+<nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
 <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo"></div>
 </nav>
 </div>

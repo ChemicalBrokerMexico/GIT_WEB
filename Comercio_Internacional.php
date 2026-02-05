@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <meta name="description" content="Se define como comercio exterior o comercio internacional al movimiento que tienen los bienes y servicios a través de los distintos países y sus mercados ya sea interno o externo.">
+  <meta name="description" content="Soluciones de comercio internacional para ingredientes químicos. Movemos tu producto globalmente con seguridad, trazabilidad y cumplimiento regulatorio.">
   <title>Chemical Broker | Comercio Internacional</title>
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -220,13 +220,13 @@
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1888</p>
+                          +52.55.4438.7996</p>
                       </div>
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General
                         </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1818 </p>
+                          +52.55.4438.7996 </p>
                       </div>
                     </div>
                   </div>
@@ -309,7 +309,7 @@
     </ul>
   </div>
   <div class="row">
-    <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+    <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
       <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo">
       </div>
     </nav>
@@ -562,13 +562,13 @@
 <div class="container">
   <div class="row">
     <div class="col s12 m12 l12 xl12">
-      <!-- <h5 class="letranegro Tipografia--general Titulos" style="text-align:center;font-size:30px;margin-top:50px;"><b style="color:#000020">Comercio Internacional</b></h5> -->
+      <!-- <h5 class="letranegro Tipografia--general Titulos" style="text-align:center;font-size:30px;margin-top:50px;"><b style="color:#071637">Comercio Internacional</b></h5> -->
       <h5 class="Tipografia--general" style="text-align:center;color:#0099CC;font-size:30px;margin-top:50px;"><b style="color:#0099CC;">“El comercio internacional es un pilar fundamental de la economía global, ya que es el intercambio comercial de bienes, servicios y recursos entre diferentes países”.</b></h5>
       <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;">En un mundo globalizado, entender el Comercio Internacional se convierte en una pieza fundamental para competir a nivel mundial. En Chemical Broker, hemos asumido este desafío con pasión y compromiso a través de la optimización de nuestros procesos de importación y exportación de ingredientes químicos, para ofrecer productos de la más alta calidad a nuestros socios de negocios.</p>
     </div>
     <div class="col s12 m12 l6 xl6" style="margin-top:50px;">
-    <div style="background-color:#DEEAF6;margin-top:-10pxpx;padding:10px;font-size:18px;font-family:Arial;"><b style="color:#000020;">Simplificar y agilizar</b> nuestros procesos de importación y exportación de ingredientes químicos.</div>
-      <div style="background-color:#BDD6EE;margin-top:37px;padding:10px;font-size:18px;font-family:Arial;"><b style="color:#000020;">Diseñar Estrategias</b> para afrontar los retos del comercio internacional.</div>
+    <div style="background-color:#DEEAF6;margin-top:-10pxpx;padding:10px;font-size:18px;font-family:Arial;"><b style="color:#071637;">Simplificar y agilizar</b> nuestros procesos de importación y exportación de ingredientes químicos.</div>
+      <div style="background-color:#BDD6EE;margin-top:37px;padding:10px;font-size:18px;font-family:Arial;"><b style="color:#071637;">Diseñar Estrategias</b> para afrontar los retos del comercio internacional.</div>
       <div style="background-color:#9CC2E5;margin-top:37px;padding:10px;font-size:18px;font-family:Arial;">Ofrecer un <b>Servicio Integral</b> a nuestros socios de negocios</div>
       <div style="background-color:#8FBAE1;margin-top:37px;padding:10px;font-size:18px;font-family:Arial;"><b>Satisfacer las necesidades y requerimientos</b> de nuestros socios de negocio</div>
   </div>
@@ -586,12 +586,12 @@
   </div>
   </div>
   <div class="col s12 m12 l6 xl6" style="margin-top:50px;">
-      <div style="background-color:#DEEAF6;margin-top:-10pxpx;padding:10px;font-size:18px;font-family:Arial;"><b style="color:#000020;">Correcta gestión logística</b> desde origen hasta destino.</div>
-      <div style="background-color:#BDD6EE;margin-top:75px;padding:10px;font-size:18px;font-family:Arial;"><b style="color:#000020;">Alianzas Estratégicas</b>con los principales proveedores logísticos a nivel global.</div>
+      <div style="background-color:#DEEAF6;margin-top:-10pxpx;padding:10px;font-size:18px;font-family:Arial;"><b style="color:#071637;">Correcta gestión logística</b> desde origen hasta destino.</div>
+      <div style="background-color:#BDD6EE;margin-top:75px;padding:10px;font-size:18px;font-family:Arial;"><b style="color:#071637;">Alianzas Estratégicas</b>con los principales proveedores logísticos a nivel global.</div>
       <div style="background-color:#9CC2E5;margin-top:75px;padding:10px;font-size:18px;font-family:Arial;"><b>Optimización de procesos</b>, a través de la aplicación de estrategias para reducción de costos y tiempos.</div>
   </div>
   <div class="col s12 m12 l12 xl12">
-    <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;">En <b style="color:#000020">Chemical Broker</b>, nuestra misión es brindar soluciones integrales acorde a los desafíos y necesidades de nuestros socios de negocios a través del comercio internacional de ingredientes químicos por medio de un enfoque profesional y personalizado que se centra en la generación de valor e implementación de estrategias sólidas.</p>
+    <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;">En <b style="color:#071637">Chemical Broker</b>, nuestra misión es brindar soluciones integrales acorde a los desafíos y necesidades de nuestros socios de negocios a través del comercio internacional de ingredientes químicos por medio de un enfoque profesional y personalizado que se centra en la generación de valor e implementación de estrategias sólidas.</p>
     <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;">Conocemos la clave para desbloquear el crecimiento y el éxito a nivel global y comprendemos los desafíos y ventajas del comercio internacional es por ello que estamos comprometidos a brindarle a nuestros socios ingredientes químicos de la más alta calidad, forjando relaciones comerciales de largo plazo con proveedores estratégicos que tienen la misma misión que nosotros.</p>
   </div>
   <div class="col s12 m12 l12 xl12">
@@ -600,28 +600,28 @@
   <div class="col s12 m12 l6 xl6" style="margin-top:50px;width:50%">
   <div style="background-color:#f2f2f2;height:220px;padding:10px 10px 0px 10px;border:dotted">
   <i class="material-icons small">public</i>
-    <h5 class="letranegro Titulos" style="text-align:center;"><b style="color:#000020;">Acceso Global</b></h5>
+    <h5 class="letranegro Titulos" style="text-align:center;"><b style="color:#071637;">Acceso Global</b></h5>
     <p class="letranegra" style="font-size:18px;font-family:Arial;text-align:center;">Aprovechamos nuestra extensa red de socios y proveedores en todo el mundo para brindar a nuestros clientes acceso a productos de calidad de manera global.</p>
   </div>
   </div>
   <div class="col s12 m12 l6 xl6" style="margin-top:50px;">
   <div style="background-color:#f2f2f2;height:220px;padding:10px 10px 0px 10px;border:dotted">
   <i class="material-icons small">flight_takeoff</i>
-    <h5 class="letranegro Titulos" style="text-align:center;"><b style="color:#000020;">Experiencia</b></h5>
+    <h5 class="letranegro Titulos" style="text-align:center;"><b style="color:#071637;">Experiencia</b></h5>
     <p class="letranegra" style="font-size:18px;font-family:Arial;text-align:center;">Nuestra experiencia en el comercio internacional nos permite superar los desafíos de que conllevan las operaciones de importación y exportación, asegurando una entrega segura y oportuna de nuestros productos.</p>
   </div>
   </div>
   <div class="col s12 m12 l6 xl6" style="margin-top:50px;">
   <div style="background-color:#f2f2f2;height:220px;padding:10px 10px 0px 10px;border:dotted">
   <i class="material-icons small">summarize</i>
-    <h5 class="letranegro Titulos" style="text-align:center;"><b style="color:#000020;">Diversidad de Productos</b></h5>
+    <h5 class="letranegro Titulos" style="text-align:center;"><b style="color:#071637;">Diversidad de Productos</b></h5>
     <p class="letranegra" style="font-size:18px;font-family:Arial;text-align:center;">Ofrecemos una amplia gama de productos químicos, desde materias primas hasta productos especializados, para satisfacer tus necesidades específicas.</p>
   </div>
   </div>
   <div class="col s12 m12 l6 xl6" style="margin-top:50px;">
   <div style="background-color:#f2f2f2;height:220px;padding:10px 10px 0px 10px;border:dotted">
   <i class="material-icons small">task</i>
-    <h5 class="letranegro Titulos" style="text-align:center;"><b style="color:#000020;">Regulaciones Aduaneras</b></h5>
+    <h5 class="letranegro Titulos" style="text-align:center;"><b style="color:#071637;">Regulaciones Aduaneras</b></h5>
     <p class="letranegra" style="font-size:18px;font-family:Arial;text-align:center;">Aprovechamos nuestra extensa red de socios y proveedores en todo el mundo para brindar a nuestros clientes acceso a productos de calidad de manera global.</p>
   </div>
   </div>

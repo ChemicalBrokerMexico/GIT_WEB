@@ -3,7 +3,7 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Fosfato Dicálcico Dihidratado</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <title>Chemical Broker | Fosfato Dicálcico Dihidratado | Proveedor Global</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="Optimiza tus formulaciones con fosfato dicálcico dihidratado, un ingrediente clave para la industria alimentaria, farmacéutica y de suplementos. Este compuesto proporciona una excelente fuente de calcio y fósforo, esenciales para la salud ósea y dental. Su forma dihidratada asegura una alta solubilidad y estabilidad, facilitando su integración en una amplia gama de productos, desde suplementos vitamínicos hasta alimentos enriquecidos. Mejora la eficacia y la calidad de tus productos con fosfato dicálcico dihidratado, garantizando beneficios óptimos para tus clientes.">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
@@ -34,6 +34,32 @@
       gtag('js', new Date());
       gtag('config', 'G-SGJQ8FDDJ6');
     </script>
+
+<script type="application/Id+json">
+    {
+
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Fosfato_Dicalcico_Dihidratado",
+      "description": "Optimiza tus formulaciones con fosfato dicálcico dihidratado, un ingrediente clave para la industria alimentaria, farmacéutica y de suplementos. Este compuesto proporciona una excelente fuente de calcio y fósforo, esenciales para la salud ósea y dental. Su forma dihidratada asegura una alta solubilidad y estabilidad, facilitando su integración en una amplia gama de productos, desde suplementos vitamínicos hasta alimentos enriquecidos. Mejora la eficacia y la calidad de tus productos con fosfato dicálcico dihidratado, garantizando beneficios óptimos para tus clientes.,
+      "brand": {
+        "@type": "Brand",
+        "name": "Chemical Broker"
+      },
+
+      "offers":{
+        "@type": "Offer",
+        "url": "https://chemicalbroker.mx/Fosfato_Dicalcico_Dihidratado.php",
+        "priceCurrency": "MXN",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Chemical Broker"
+        }
+      }
+    }
+  </script>
+
 <script type="text/javascript" src="js/main.js"></script>
 </head>
 <body> 
@@ -159,11 +185,11 @@
 <h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Teléfonos </h6>
 <div class="col s12 m12 l12 xl12">
 <h6 class="Tipografia--general Titulos color--blanco">Ventas </h6>
-<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
 </div>
 <div class="col s12 m12 l12 xl12"> 
 <h6 class="Tipografia--general Titulos color--blanco">Información General </h6>
-<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
 </div>
 </div>
 </div>
@@ -442,7 +468,7 @@
 
     <section><a class="breditem active" href="#" style="color:black !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos" style="color:black;">Productos > </b> </a> <a class="breditem active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Fosfato Dicalcico Dihidratado</b></a></section>
 
-    <h5 class="Tipografia--general letranegro General--Cuerpo" style="background-color:#FF6600;padding:10px;color:white;margin-left:649px;font-size:35px;border-radius:10px"><b>Fosfato Monocálcico Monohidratado</b></h5>
+    <h5 class="Tipografia--general letranegro General--Cuerpo" style="background-color:#FF6600;padding:10px;color:white;margin-left:649px;font-size:35px;border-radius:10px"><b>Fosfato Dicalcico Dihidratado</b></h5>
 
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b style="color:#FF6600;">Fosfato Dicálcico Dihidratado</b> es un compuesto químico inorgánico con la fórmula CaHPO4·2H2O. Es un tipo de <b style="color:#FF6600;">Fosfato de Calcio</b> que se presenta en forma de cristales blancos o polvo. </p>
 
@@ -459,7 +485,7 @@
 
       <p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#FF6600;">Fosfato Dicálcico Dihidratado</b> (CaHPO4·2H2O) tiene una amplia gama de aplicaciones en diversas industrias debido a sus propiedades químicas y físicas. A continuación, se detallan sus principales aplicaciones:</p>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Industria Alimentaria</b></h5>
 
       <ol>
         <li class="Elementos--Listas">Aditivo Alimentario: Utilizado como agente leudante y emulsionante en productos de panadería y cereales.</li>
@@ -469,7 +495,7 @@
         <li class="Elementos--Listas">Suplemento de calcio y fósforo: Añadido a alimentos y bebidas para enriquecerlos con estos minerales esenciales.</li>
       </ol>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Nutrición Animal</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Nutrición Animal</b></h5>
       <ol>
         <li class="Elementos--Listas">Alimentos para Animales: Utilizado como una fuente importante de calcio y fósforo en piensos para ganado, aves, cerdos y mascotas. Estos minerales son esenciales para el desarrollo óseo y la salud general de los animales.</li>
       </ol>
@@ -480,14 +506,14 @@
         <li class="Elementos--Listas" style="margin-top:30px;">Fertilizantes: Utilizado en la producción de fertilizantes para mejorar el contenido de fósforo en el suelo, lo cual es crucial para el crecimiento y desarrollo de las plantas. El fósforo es un nutriente clave para la fotosíntesis y la formación de flores y frutos.</li>
       </ol>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Farmacéutica</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Industria Farmacéutica</b></h5>
 
       <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Excipiente en Medicamentos: Utilizado como excipiente en la fabricación de tabletas y cápsulas debido a sus propiedades de compresión y estabilización. Ayuda a mantener la integridad y liberación adecuada de los ingredientes activos.</li>
       </ol>
 
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Cuidado Personal y Cosmeticos</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Cuidado Personal y Cosmeticos</b></h5>
 
 
       <ol>
@@ -495,19 +521,19 @@
         </ol>
 
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Producción de Cerámicas</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Producción de Cerámicas</b></h5>
 
       <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Material de Partida: Utilizado en la fabricación de cerámicas y porcelanas debido a sus propiedades de fusión y su contribución a la formación de una estructura densa y resistente.</li>
     </ol>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;margin-top:50px;">Industria del Papel</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;margin-top:50px;">Industria del Papel</b></h5>
 
       <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Aditivo para Papel: Utilizado como agente de carga y recubrimiento en la fabricación de papel para mejorar sus propiedades físicas, como la opacidad y la capacidad de impresión.</li>
       </ol>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria del Papel</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Industria del Papel</b></h5>
 
       <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Agente de Precipitación: Utilizado en el tratamiento de aguas residuales para precipitar iones metálicos y otros contaminantes, facilitando su eliminación.</li>

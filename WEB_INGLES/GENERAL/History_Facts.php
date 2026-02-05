@@ -145,11 +145,11 @@
                         <h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Phone</h6>
                         <div class="col s12 m12 l12 xl12">
                           <h6 class="Tipografia--general Titulos color--blanco">Sales </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
                         </div>
                         <div class="col s12 m12 l12 xl12"> 
                           <h6 class="Tipografia--general Titulos color--blanco">General Information</h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
                         </div>
                       </div>
                     </div>
@@ -416,7 +416,7 @@
           <p class="Tipografia--general General--Cuerpo letranegro" style="text-align:justify;margin-top:50px"><b style="color:#262137">Chemical Broker </b>company created in the year<b style="color:#262137">2014</b>, with a clear and defined business focus, described below:
           </p>
           <p class="Tipografia--general General--Cuerpo letranegro" style="text-align:justify;margin-top:50px"><b style="color:#262137">Facilitating</b> . – 
-The processes of buying and selling chemical products to our business partners, through robust and long-term negotiations with the main manufacturers and suppliers worldwide, allowing for greater profitability. <b style="color:#000020">Chemical Broker</b> and our business partners
+The processes of buying and selling chemical products to our business partners, through robust and long-term negotiations with the main manufacturers and suppliers worldwide, allowing for greater profitability. <b style="color:#071637">Chemical Broker</b> and our business partners
           </p>
           <p class="Tipografia--general General--Cuerpo letranegro" style="text-align:justify;margin-top:50px"><b class="Tipografia--general General--Cuerpo letranegro" style="color:#262137">Negotiate and Provide</b>. – Chemical products and services such as Services, International Trade (Imports and Exports), and Insurance Coverage for our business partners.
           </p>

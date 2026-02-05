@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Ésteres de Sorbitan de Enfoque Químico</title>
+  <title>Chemical Broker | Ésteres de Sorbitan de Enfoque Químico | Proveedor Global</title>
   <meta name="description" content="Descubre la calidad superior de nuestros ésteres de sorbitán, ideales para aplicaciones en la industria cosmética, farmacéutica y alimentaria. Nuestros productos garantizan una excelente estabilidad y rendimiento en emulsiones y formulaciones. Perfectos para mejorar la textura y la compatibilidad de tus productos, nuestros ésteres de sorbitán son la elección confiable para profesionales que buscan innovación y eficacia. ¡Potencia tus fórmulas con nuestros ésteres de sorbitán y marca la diferencia en tu sector!"> 
   <link rel="canonical" href="https://chemicalbroker.mx/Esteres_Sorbitan.php">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
@@ -17,9 +17,8 @@
   <link rel="stylesheet" href="css/History_Line.css">
   <link rel="stylesheet" href="css/jquery.dataTables.min.css">
   <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">
-    <script src="https://code.jquery.com/jquery-3.5.1.js"
-  <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
-    crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+  <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
   <script src="js/materialize.js" type="text/javascript"></script>
   <script src="js/init.js"></script>
   <script src="js/wow.js"></script>
@@ -49,6 +48,32 @@
       $('#table_id2').DataTable();
     });
   </script>
+
+<script type="application/Id+json">
+    {
+
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Esteres de Sorbitan",
+      "description": "Descubre la calidad superior de nuestros ésteres de sorbitán, ideales para aplicaciones en la industria cosmética, farmacéutica y alimentaria. Nuestros productos garantizan una excelente estabilidad y rendimiento en emulsiones y formulaciones. Perfectos para mejorar la textura y la compatibilidad de tus productos, nuestros ésteres de sorbitán son la elección confiable para profesionales que buscan innovación y eficacia. ¡Potencia tus fórmulas con nuestros ésteres de sorbitán y marca la diferencia en tu sector!,
+      "brand": {
+        "@type": "Brand",
+        "name": "Chemical Broker"
+      },
+
+      "offers":{
+        "@type": "Offer",
+        "url": "https://chemicalbroker.mx/Esteres_Sorbitan_2024.php",
+        "priceCurrency": "MXN",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Chemical Broker"
+        }
+      }
+    }
+  </script>
+
 </head>
 
 <body>
@@ -226,13 +251,13 @@
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1888</p>
+                          +52.55.4438.7996</p>
                       </div>
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General
                         </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1818 </p>
+                          +52.55.4438.7996 </p>
                       </div>
                     </div>
                   </div>
@@ -315,7 +340,7 @@
     </ul>
   </div>
   <div class="row">
-    <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+    <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
       <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo">
       </div>
     </nav>
@@ -569,7 +594,7 @@
         <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Esteres de Sorbitan</b></a></section>
 
         <h5 class="letranegro Tipografia--general Titulos"><b style="color:#0033CC;">Ésteres de Sorbitán</b></h5>
-        <p class="letranegro Tipografia--general General--Cuerpo" style="margin-bottom:0px;">Los <b style="color:#000020;">Ésteres de Acidos Grasos de Sorbitano, </b> o,  <b style="color:#000020;">Ésteres de Sorbitano</b> se conocen comercialmente con el nombre de <b style="color:#000020;">Spans</b>. Todos tienen en común la estructura del Sorbitano (anhídrido de 1,4-D-sorbitol), que se esterifica con uno o varios Ácidos Grasos.</p>
+        <p class="letranegro Tipografia--general General--Cuerpo" style="margin-bottom:0px;">Los <b style="color:#071637;">Ésteres de Acidos Grasos de Sorbitano, </b> o,  <b style="color:#071637;">Ésteres de Sorbitano</b> se conocen comercialmente con el nombre de <b style="color:#071637;">Spans</b>. Todos tienen en común la estructura del Sorbitano (anhídrido de 1,4-D-sorbitol), que se esterifica con uno o varios Ácidos Grasos.</p>
         <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;margin-bottom: 0px;">La producción industrial se lleva a cabo a aproximadamente a 250 °C con Sorbitol y el Ácido Graso correspondiente. Estos Ácidos Grasos pueden venir de fuentes animales, pero por lo general se usan los obtenidos a partir de grasas vegetales, al ser más baratos.  También es posible utilizar una mezcla de Ácidos Grasos (Ácido Esteárico, Ácido Láurico, Ácido Oleico y Ácido Palmítico), la cual forma una mezcla compleja de diferentes Ésteres de Ácidos Grasos de Sorbitano, que también tiene las propiedades químicas deseadas.</p>
 
         
@@ -579,7 +604,7 @@
 
         <table class="display" id="table_id2" name="table_id2" style="width:100%;border-spacing:2px 2px;border:none;margin-top:30px;margin-bottom:0px;margin-left:0px;margin-right:0px;">
             <tr>
-                <td style="color:rgba(2 146 238 /99%);background-color:#000020;border:1px solid #f2f2f2;width:50%;padding:10px;font-size:18px"><b>Formula Estructural:</b></td>
+                <td style="color:rgba(2 146 238 /99%);background-color:#071637;border:1px solid #f2f2f2;width:50%;padding:10px;font-size:18px"><b>Formula Estructural:</b></td>
                 <td style="border:1px solid #f2f2f2;text-align:center;padding:10px;"><img src="img/CB_FORMULA-ESTRUCTURAL_ESTERES-SORBITAN.png" alt="Estructuras" width="40%"></td>
             </tr>
             <tr>
@@ -587,31 +612,31 @@
                 <td style="background-color:#f2f2f2;"></td>
             </tr>
             <tr>
-                <td style="color:rgba(2 146 238 /99%);background-color:#000020;border:1px solid #f2f2f2;padding:10px;font-size:18px"><b>Estructura de Anillos de 5 y 6 Eslabones de Sorbitano:</b></td>
+                <td style="color:rgba(2 146 238 /99%);background-color:#071637;border:1px solid #f2f2f2;padding:10px;font-size:18px"><b>Estructura de Anillos de 5 y 6 Eslabones de Sorbitano:</b></td>
                 <td style="border:1px solid #f2f2f2;text-align:center;padding:10px;"><img src="img/CB_FORMULA-ESTRUCTURAL_ANILLOS-ESTERES-SORBITAN.png" alt="Estructuras" width="50%"></td>
             </tr>
         </table> -->
         <div class="col s12 m12 l12 xl12">
-        <h5 class="letranegro Tipografia--general Titulos" style="margin-top:50px;margin-bottom:0px;"><b style="color:#000020;">Propiedades</b></h5>
+        <h5 class="letranegro Tipografia--general Titulos" style="margin-top:50px;margin-bottom:0px;"><b style="color:#071637;">Propiedades</b></h5>
         <p class="letranegro Tipografia--general General--Cuerpo" style="margin-bottom:0px;">Los <b style="color:#0033CC;">Ésteres de Sorbitán</b> son sustancias orgánicas de alto punto de ebullición, cerosos y/o viscosos, que contienen elementos estructurales hidrófilos (afín al agua) y lipófilos (afín a las grasas). Debido a esto son tensioactivos y actúan como emulsionantes. Sirven para la estabilización de las estructuras cristalinas en grasas, como agentes de formación de espuma y mejoran la fluidez de la margarina líquida y otras emulsiones grasas. Los Ésteres de Sorbitano están autorizados en la UE como aditivos alimentarios: E 491, E 492, E 493, E 494 y E 495, y se utilizan en ciertos alimentos, cada uno con un límite máximo fijo.</p>
         <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;margin-bottom:0px">Son compuestos químicos utilizados comúnmente en la industria alimentaria y cosmética como emulsionantes, estabilizadores y agentes acondicionadores. Estan relacionados con el Sorbitol, que es un polialcohol derivado del azúcar, y se obtienen mediante esterificación de Sorbitol con Ácidos Grasos. </p>
         <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;margin-bottom:0px">Los Ésteres de Sorbitán tienen la capacidad de mezclar aceites y agua, lo que los hace útiles en la preparación de emulsiones; como cremas y lociones, así como en alimentos procesados.</p>
         <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;margin-bottom:0px">Algunos ejemplos de Ésteres de Sorbitán incluyen:</p>
         <ol>
-            <li style="list-style-type:disc;margin-top:30px;"><b style="color:#000020;">Sorbitán Trioleato (Span 85).-</b> Se utiliza en aplicaciones alimentarias y cosméticas como emulsionante y acondicionador.</li>
+            <li style="list-style-type:disc;margin-top:30px;"><b style="color:#071637;">Sorbitán Trioleato (Span 85).-</b> Se utiliza en aplicaciones alimentarias y cosméticas como emulsionante y acondicionador.</li>
             <br>
-            <li style="list-style-type:disc;"><b style="color:#000020;">Sorbitán Mono Oleato (Span 80).-</b> se utiliza como emulsionante y estabilizador en productos alimentarios como helados y en aplicaciones farmacéuticas y cosméticas.</li>
+            <li style="list-style-type:disc;"><b style="color:#071637;">Sorbitán Mono Oleato (Span 80).-</b> se utiliza como emulsionante y estabilizador en productos alimentarios como helados y en aplicaciones farmacéuticas y cosméticas.</li>
             <br>
-            <li style="list-style-type:disc;"><b style="color:#000020;">Sorbitán Tristearato (Span 65).-</b> Se utiliza principalmente en la industria de alimentos, como emulsionante en productos de panadería y productos de confitería.</li>
+            <li style="list-style-type:disc;"><b style="color:#071637;">Sorbitán Tristearato (Span 65).-</b> Se utiliza principalmente en la industria de alimentos, como emulsionante en productos de panadería y productos de confitería.</li>
             <br>
-            <li style="list-style-type:disc;"><b style="color:#000020;">Sorbitán Mono Estearato (Span 60).-</b> El Monoestearato de Sorbitan se utiliza como emulsionante y como surfactante no iónico. Se utiliza en cosméticos, productos farmacéuticos y preparación de alimentos.</li>
+            <li style="list-style-type:disc;"><b style="color:#071637;">Sorbitán Mono Estearato (Span 60).-</b> El Monoestearato de Sorbitan se utiliza como emulsionante y como surfactante no iónico. Se utiliza en cosméticos, productos farmacéuticos y preparación de alimentos.</li>
             <br>
-            <li style="list-style-type:disc;"><b style="color:#000020;">Sorbitán Mono Palmitato (Span 40).-</b> Se utiliza en la fabricación de productos de panadería, productos lácteos y en aplicaciones de emulsión y acondicionamiento en la industria cosmética.</li>
+            <li style="list-style-type:disc;"><b style="color:#071637;">Sorbitán Mono Palmitato (Span 40).-</b> Se utiliza en la fabricación de productos de panadería, productos lácteos y en aplicaciones de emulsión y acondicionamiento en la industria cosmética.</li>
             <br>
-            <li style="list-style-type:disc;"><b style="color:#000020;">Sorbitán Mono Laurato (Span 20).-</b> Es una mezcla de Ésteres formados a partir del Ácido Graso de 12 átomos de Carbono, llamado Ácido Láurico y Polioles derivados del Sorbitol, Sorbitan e Isosorbida. Se utiliza como aditivo alimentario, y se designa con el número E E493.</li>
+            <li style="list-style-type:disc;"><b style="color:#071637;">Sorbitán Mono Laurato (Span 20).-</b> Es una mezcla de Ésteres formados a partir del Ácido Graso de 12 átomos de Carbono, llamado Ácido Láurico y Polioles derivados del Sorbitol, Sorbitan e Isosorbida. Se utiliza como aditivo alimentario, y se designa con el número E E493.</li>
         </ol>
         <p class="letranegro Tipografia--general General--Cuerpo " style="margin-top:50px;color:#0033CC;text-align: center;margin-bottom:0px;font-size:30px;"><b>“Los Ésteres de Sorbitán son seguros para el consumo humano cuando se utilizan dentro de los límites establecidos por las regulaciones alimentarias y cosméticas. Ayudan a mejorar la textura, la estabilidad y la vida util de diversos productos y son comunes en la formulación de alimentos procesados, productos de cuidado personal y productos farmacéuticos.”</b></p>
-        <h5 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#000020;">Fabricante</b></h5>
+        <h5 class="letranegro Tipografia--general Titulos" style="margin-top:50px;"><b style="color:#071637;">Fabricante</b></h5>
         <img src="img/ENFOQUE-QUIMICO_LOGO.jpg" alt="" style="width:25%;">
         <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;">¿Por qué Elegirnos como tu Proveedor de <b>Ésteres de Sorbitán?</b></p>
         <ol style="margin-bottom:0px;">
@@ -628,71 +653,71 @@
         </div>
         </div>
         <div class="col s12 m12 l12 xl12">
-        <h5 class="letranegro Tipografia--general Titulos" style="margin-top:50px;margin-bottom:0px;"><b style="color:#000020;">¡Contactanos Hoy Mismo!</b></h5>
+        <h5 class="letranegro Tipografia--general Titulos" style="margin-top:50px;margin-bottom:0px;"><b style="color:#071637;">¡Contactanos Hoy Mismo!</b></h5>
         <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Ya sea que estes buscando mejorar la estabilidad de tus productos o crear fórmulas innovadoras en la industria de productos cosméticos. Chemical Broker es tu socio ideal para el suministro de Ésteres de Sorbitán de alta calidad.</p>
-        <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;margin-bottom:0px;"><b style="color:#000020">No dudes en ponerte en contacto con nosotros para obtener más información, muestras o cotizaciones personalizadas.</b></p>
+        <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;margin-bottom:0px;"><b style="color:#071637">No dudes en ponerte en contacto con nosotros para obtener más información, muestras o cotizaciones personalizadas.</b></p>
         <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;margin-bottom:0px;float:right;font-size:30px"><b style="color:#0033CC;">¡Deseamos colaborar contigo y ayudarte a alcanzar el éxito de tus proyectos!</b></p>
         </div>
         <!-- <div class="col s12 m12 l12 xl12">
-        <h5 class="letranegro Tipografia--general Titulos" style="margin-bottom:0px;"><b style="color:#000020;">Mono Laurato de Sorbitan (Span 20)</b></h5>
+        <h5 class="letranegro Tipografia--general Titulos" style="margin-bottom:0px;"><b style="color:#071637;">Mono Laurato de Sorbitan (Span 20)</b></h5>
         <p class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Se utiliza en la industria (especialmente en la alimentaria) como un emulsionante por su HLB de aproximadamente 8.  La etiqueta E493 suele aparecer en determinados productos alimenticios (incluyendo varios productos de panadería, helados, postres y dulces, mermeladas y crema) al estar aprobado su uso en la Unión Europea.</p>
         </div>
         <div class="col s12 m12 l12 xl12" style="margin-top:50px;">
             <table style="border:1px solid #f2f2f2;">
                 <tr>
-                    <td style="color:rgba(2 146 238 /99%);background-color:#000020;border-bottom:1px solid white" width="50%"><b>Descripción Química:</b></td>
+                    <td style="color:rgba(2 146 238 /99%);background-color:#071637;border-bottom:1px solid white" width="50%"><b>Descripción Química:</b></td>
                     <td>Mono Laurato de Sorbitan</td>
                 </tr>
                 <tr>
-                    <td style="color:rgba(2 146 238 /99%);background-color:#000020;border-bottom:1px solid white"><b style="">Formula Estructural:</b></td>
+                    <td style="color:rgba(2 146 238 /99%);background-color:#071637;border-bottom:1px solid white"><b style="">Formula Estructural:</b></td>
                     <td><img src="img/CB_ESTRUCTURA-QUIMICA_MONO-LAURATO-SORBITAN_SPAN-20.png" alt="Estructura quimica" width="40%"></td>
                 </tr>
                 <tr>
-                    <td style="color:rgba(2 146 238 /99%);background-color:#000020;border-bottom:1px solid white"><b style="">Nombre IUPAC:</b></td>
+                    <td style="color:rgba(2 146 238 /99%);background-color:#071637;border-bottom:1px solid white"><b style="">Nombre IUPAC:</b></td>
                     <td>Dodecanoato de 2-[(2R,3R,4S)-3,4-dihidroxi-2-tetrahidrofuranil]-2-hidroxietilo</td>
                 </tr>
                 <tr>
-                    <td style="color:rgba(2 146 238 /99%);background-color:#000020;border-bottom:1px solid white"><b style=""><b>Sinónimos:</b></td>
+                    <td style="color:rgba(2 146 238 /99%);background-color:#071637;border-bottom:1px solid white"><b style=""><b>Sinónimos:</b></td>
                     <td>Span 20</td>
                 </tr>
                 <tr>
-                    <td style="color:rgba(2 146 238 /99%);background-color:#000020;border-bottom:1px solid white"><b style="">Formula molecular:</td>
+                    <td style="color:rgba(2 146 238 /99%);background-color:#071637;border-bottom:1px solid white"><b style="">Formula molecular:</td>
                     <td>C18H34O6</td>
                 </tr>
                 <tr>
-                    <td style="color:rgba(2 146 238 /99%);background-color:#000020;border-bottom:1px solid white"><b style="">Numero CAS:</td>
+                    <td style="color:rgba(2 146 238 /99%);background-color:#071637;border-bottom:1px solid white"><b style="">Numero CAS:</td>
                     <td>1338-39-2</td>
                 </tr>
                 <tr>
-                    <td style="color:rgba(2 146 238 /99%);background-color:#000020;border-bottom:1px solid white"><b style="">Numero EINECS:</td>
+                    <td style="color:rgba(2 146 238 /99%);background-color:#071637;border-bottom:1px solid white"><b style="">Numero EINECS:</td>
                     <td>215-663-3</td>
                 </tr>
                 <tr>
-                    <td style="color:rgba(2 146 238 /99%);background-color:#000020;border-bottom:1px solid white"><b style="">RTECS:</td>
+                    <td style="color:rgba(2 146 238 /99%);background-color:#071637;border-bottom:1px solid white"><b style="">RTECS:</td>
                     <td>WG2920000</td>
                 </tr>
                 <tr>
-                    <td style="color:rgba(2 146 238 /99%);background-color:#000020;border-bottom:1px solid white"><b style="">ChEMBL:</td>
+                    <td style="color:rgba(2 146 238 /99%);background-color:#071637;border-bottom:1px solid white"><b style="">ChEMBL:</td>
                     <td>CHEMBL2107561</td>
                 </tr>
                 <tr>
-                    <td style="color:rgba(2 146 238 /99%);background-color:#000020;border-bottom:1px solid white"><b style="">ChemSpider:</td>
+                    <td style="color:rgba(2 146 238 /99%);background-color:#071637;border-bottom:1px solid white"><b style="">ChemSpider:</td>
                     <td>17345994</td>
                 </tr>
                 <tr>
-                    <td style="color:rgba(2 146 238 /99%);background-color:#000020;border-bottom:1px solid white"><b style="">PubChem:</td>
+                    <td style="color:rgba(2 146 238 /99%);background-color:#071637;border-bottom:1px solid white"><b style="">PubChem:</td>
                     <td>16218599</td>
                 </tr>
                 <tr>
-                    <td style="color:rgba(2 146 238 /99%);background-color:#000020;border-bottom:1px solid white"><b style="">UNII:</td>
+                    <td style="color:rgba(2 146 238 /99%);background-color:#071637;border-bottom:1px solid white"><b style="">UNII:</td>
                     <td>6W9PS8B71J</td>
                 </tr>
                 <tr>
-                    <td style="color:rgba(2 146 238 /99%);background-color:#000020;border-bottom:1px solid white"><b style="">Densidad:</td>
+                    <td style="color:rgba(2 146 238 /99%);background-color:#071637;border-bottom:1px solid white"><b style="">Densidad:</td>
                     <td>1032 kg./m3; 1,032 g/cm3</td>
                 </tr>
                 <tr>
-                    <td style="color:rgba(2 146 238 /99%);background-color:#000020;border-bottom:1px solid white"><b style="">Masa molecular:</td>
+                    <td style="color:rgba(2 146 238 /99%);background-color:#071637;border-bottom:1px solid white"><b style="">Masa molecular:</td>
                     <td>346,46 g/mol3</td>
                 </tr>
             </table>

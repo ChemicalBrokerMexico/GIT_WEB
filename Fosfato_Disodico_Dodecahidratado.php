@@ -3,7 +3,7 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Fosfato Disodico Dodecahidratado</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <title>Chemical Broker | Fosfato Disodico Dodecahidratado | Proveedor Global</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="Fosfato disódico dodecahidratado de calidad superior para uso en la industria alimentaria, farmaceutica y química. Garantiza la pureza en cada lote. Ofrecemos entregas rapidas y precios competitivos para satisfacer las necesidades de tu produccion.">
     <link rel="canonical" href="https://chemicalbroker.mx/Fosfato_Disodico_Dodecahidratado.php">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
@@ -13,6 +13,32 @@
       gtag('js', new Date());
       gtag('config', 'G-SGJQ8FDDJ6');
     </script>
+
+<script type="application/Id+json">
+    {
+
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Fosfato Disodico Dodecahidratado",
+      "description": "Fosfato disódico dodecahidratado de calidad superior para uso en la industria alimentaria, farmaceutica y química. Garantiza la pureza en cada lote. Ofrecemos entregas rapidas y precios competitivos para satisfacer las necesidades de tu produccion.,
+      "brand": {
+        "@type": "Brand",
+        "name": "Chemical Broker"
+      },
+
+      "offers":{
+        "@type": "Offer",
+        "url": "https://chemicalbroker.mx/Fosfato_Disodico_Anhidro.php",
+        "priceCurrency": "MXN",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Chemical Broker"
+        }
+      }
+    }
+  </script>
+
 <script type="text/javascript" src="js/main.js"></script>
 </head>
 <body> 
@@ -138,11 +164,11 @@
 <h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Teléfonos </h6>
 <div class="col s12 m12 l12 xl12">
 <h6 class="Tipografia--general Titulos color--blanco">Ventas </h6>
-<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
 </div>
 <div class="col s12 m12 l12 xl12"> 
 <h6 class="Tipografia--general Titulos color--blanco">Información General </h6>
-<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
 </div>
 </div>
 </div>
@@ -420,11 +446,11 @@
     
     <section><a class="active" href="#" style="color:black !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos" style="color:black;">Productos > </b> </a> <a class=" active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Fosfato Disódico Dodecahidratado</b></a></section>
 
-    <h5 class="Tipografia--general letranegro General--Cuerpo" style="background-color:#FF6600;padding:10px;color:white;margin-left:649px;font-size:35px;border-radius:10px"><b>Fosfato Monocálcico Monohidratado</b></h5>
+    <h5 class="Tipografia--general letranegro General--Cuerpo" style="background-color:#FF6600;padding:10px;color:white;margin-left:649px;font-size:35px;border-radius:10px"><b>Fosfato Disódico Dodecahidratado</b></h5>
 
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b style="color:#FF6600;">Fosfato Disódico Dodecahidratado</b> es una sal inorgánica con la fórmula química Na2HPO4·12H2O. Se utiliza en una variedad de aplicaciones industriales y en productos de consumo. Por ejemplo, se utiliza en la industria alimentaria como regulador de pH y agente fermentativo. También se encuentra en productos de cuidado personal y en productos de limpieza como agente quelante y suavizante de agua. Además, tiene aplicaciones en la industria farmacéutica y en procesos de tratamiento de aguas.</p>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Propiedades</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Propiedades</b></h5>
 
 <p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#FF6600;">Fosfato Disódico Dodecahidratado</b> tiene varias propiedades importantes:</p>
 
@@ -439,54 +465,54 @@
 </ol>
 
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Aplicaciones</b></h5>
 
 <p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#ff6600;">Fosfato Disódico Dodecahidratado</b> tiene diversas aplicaciones en varios campos:</p>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria:</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Industria Alimentaria:</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Se utiliza como aditivo alimentario, principalmente como regulador de pH en productos alimenticios como cereales, productos cárnicos, productos lácteos, bebidas, y en la industria de la panificación para mejorar la textura y la conservación.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Farmacéutica:</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Industria Farmacéutica:</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Se utiliza en la fabricación de medicamentos como un agente tampón y estabilizador de pH en formulaciones líquidas y efervescentes.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Productos de Limpieza y Detergentes:</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Productos de Limpieza y Detergentes:</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Se encuentra en muchos productos de limpieza domésticos e industriales, como detergentes, limpiadores de superficies y productos para lavavajillas, donde actúa como agente quelante para eliminar minerales y metales de agua dura, mejorando la eficacia de la limpieza.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Tratamiento de Agua:</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Tratamiento de Agua:</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Se utiliza en procesos de tratamiento de aguas para estabilizar el pH y para eliminar contaminantes metálicos mediante la formación de complejos insolubles que pueden ser eliminados por filtración o precipitación.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Productos de Cuidado Personal: </b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Productos de Cuidado Personal: </b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Presente en productos como champús, acondicionadores, geles de ducha y productos de cuidado bucal, donde actúa como agente quelante para mejorar la estabilidad de las formulaciones y como estabilizador de pH.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Textil: </b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Industria Textil: </b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Se utiliza en el proceso de teñido textil como regulador de pH y agente de retención de color.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Agricultura: </b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Agricultura: </b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">A veces se utiliza en la agricultura como agente fertilizante para proporcionar fósforo a las plantas, ayudando en su crecimiento y desarrollo.</li>
 </ol>
 
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Caracteristicas:</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Caracteristicas:</b></h5>
 
 <div style="background-color:#7F7F7F;margin-top:50px;">
     <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:white;"><b>Fosfato Mono Sódico Anhidro (MSPA) | Grado Alimentos</b></h5>

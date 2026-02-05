@@ -124,11 +124,11 @@
                         <h6 class="Tipografia--general Titulos" style="color:white;padding-top:5px">Teléfonos </h6>
                         <div class="col s12 m12 l12 xl12">
                           <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1888</p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996</p>
                         </div>
                         <div class="col s12 m12 l12 xl12"> 
                           <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1818 </p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996 </p>
                         </div>
                       </div>
                     </div>
@@ -195,7 +195,7 @@
       </ul>
     </div>
     <div class="row">  
-      <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+      <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
         <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo"></div>
       </nav>
     </div>
@@ -398,7 +398,7 @@
           <div class="col s12 m12 l12 xl12">
             <p class="letranegro General--Cuerpo Tipografia--general">La industria de la leche saborizada es una categoria en crecimiento dentro del sector lacteo que combina leche líquida con sabores, edulcorantes y otros ingredientes para atraer a diferentes segmentos del mercado, especialmente niños y adolescentes. Este sector es popular debido a su combinación de valores nutricionales de la leche con sabores agradables, como chocolate, fresa, vainilla y variedades mas innovadoras.</p>
 
-            <h2 class="letranegro General--Cuerpo Tipografia--general"><b style="color:#000020;">Características principales</b></h2>
+            <h2 class="letranegro General--Cuerpo Tipografia--general"><b style="color:#071637;">Características principales</b></h2>
 
             <ol>
               <li class="Elementos--Listas">Producto base: Utiliza leche entera, semidescremada o descremada como base</li>
@@ -408,7 +408,7 @@
             </ol>
 
             
-            <h2 class="letranegro General--Cuerpo Tipografia--general"><b style="color:#000020;">Proceso de Produccion</b></h2>
+            <h2 class="letranegro General--Cuerpo Tipografia--general"><b style="color:#071637;">Proceso de Produccion</b></h2>
 
             <ol>
               <li class="Elementos--Listas" style="margin-top:30px;">Recepcion y pasteurización: La leche cruda es pasteurizada para eliminar microorganismos</li>
@@ -418,7 +418,7 @@
               <li class="Elementos--Listas" style="margin-top:30px;">Envasado: En botellas, cartones o envases individuales, a menudo diseñados para ser atrativos para los consumidores jovenes</li>
             </ol>
 
-            <h2 class="letranegro General--Cuerpo Tipografia--general"><b style="color:#000020;">Ingredientes Comunes</b></h2>
+            <h2 class="letranegro General--Cuerpo Tipografia--general"><b style="color:#071637;">Ingredientes Comunes</b></h2>
 
             <ol>
               <li class="Elementos--Listas">Saborizantes

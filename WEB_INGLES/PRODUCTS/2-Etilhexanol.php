@@ -145,11 +145,11 @@
                         <h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Phone</h6>
                         <div class="col s12 m12 l12 xl12">
                           <h6 class="Tipografia--general Titulos color--blanco">Sales </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
                         </div>
                         <div class="col s12 m12 l12 xl12"> 
                           <h6 class="Tipografia--general Titulos color--blanco">General Information</h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Phone: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
                         </div>
                       </div>
                     </div>
@@ -430,108 +430,108 @@
 
             
                 <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;width:50%;font-size:18px"><b>Descripción Quimica:</b></td>
+                    <td style="background-color:#071637; color: rgba(2 146 238 /99%);border:1px solid white;width:50%;font-size:18px"><b>Descripción Quimica:</b></td>
                     <td style="border:1px solid #f2f2f2;font-size:18px">2-Etilhexanol</td>
                 </tr>
 
                 <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>Formula:</b></td>
+                    <td style="background-color:#071637; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>Formula:</b></td>
                     <td style="border:1px solid #f2f2f2;"><img src="img/CBMX_FORMULA-QUIMICA_2-ETILHEXANOL.png" alt="" style="width:60%;"></td>
                 </tr>
 
                 <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>Formula Quimica:</b></td>
+                    <td style="background-color:#071637; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>Formula Quimica:</b></td>
                     <td style="border:1px solid #f2f2f2;font-size:18px">C<sub>8</sub>H<sub>18</sub>O<sub>1</sub></td>
                 </tr>
 
                 <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>Nombre IUPAC:</b>></td>
+                    <td style="background-color:#071637; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>Nombre IUPAC:</b>></td>
                     <td style="border:1px solid #f2f2f2;font-size:18px">- Alcohol Isooctilico<br>2-Etilhexan-1-ol</td>
                 </tr>
 
                 <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>Sinónimos:</b></td>
+                    <td style="background-color:#071637; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>Sinónimos:</b></td>
                     <td style="border:1px solid #f2f2f2;font-size:18px">Alcohol Isooctilico<br>- 2-Etilhexanol</td>
                 </tr>
 
                 <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>Numero CAS:</b></td>
+                    <td style="background-color:#071637; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>Numero CAS:</b></td>
                     <td style="border:1px solid #f2f2f2;font-size:18px">104-76-7</td>
                 </tr>
 
                 <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>ChEBI:</b></td>
+                    <td style="background-color:#071637; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>ChEBI:</b></td>
                     <td style="border:1px solid #f2f2f2;font-size:18px">16011</td>
                 </tr>
 
                 <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>ChEMBL:</b></td>
+                    <td style="background-color:#071637; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>ChEMBL:</b></td>
                     <td style="border:1px solid #f2f2f2;font-size:18px">- 31637<br>- 1229918</td>
                 </tr>
 
                 <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>ChemSpider:</b></td>
+                    <td style="background-color:#071637; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>ChemSpider:</b></td>
                     <td style="border:1px solid #f2f2f2;font-size:18px">- 7434<br>- 5360145<br>- 5360146<br></td>
                 </tr>
 
                 <tr>
-                    <td style="background-color:#000020;color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>ECHA InfoCard:</b></td>
+                    <td style="background-color:#071637;color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>ECHA InfoCard:</b></td>
                     <td style="border:1px solid #f2f2f2;font-size:18px">100.002.941</td>
                 </tr>
 
                 <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>EC No.:</b></td>
+                    <td style="background-color:#071637; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>EC No.:</b></td>
                     <td style="border:1px solid #f2f2f2;font-size:18px">203-234-3</td>
                 </tr>
 
                 <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>KEGG:</b></td>
+                    <td style="background-color:#071637; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>KEGG:</b></td>
                     <td style="border:1px solid #f2f2f2;font-size:18px">C02498</td>
                 </tr>
 
                 <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>PubChem:</b></td>
+                    <td style="background-color:#071637; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>PubChem:</b></td>
                     <td style="border:1px solid #f2f2f2;font-size:18px">-7720<br>-6991979<br>- 6991980</td>
                 </tr>
 
                 <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>UNII:</b></td>
+                    <td style="background-color:#071637; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>UNII:</b></td>
                     <td style="border:1px solid #f2f2f2;font-size:18px">XZV7TAA77P</td>
                 </tr>
 
                 <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>Masa molecular:</b></td>
+                    <td style="background-color:#071637; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>Masa molecular:</b></td>
                     <td style="border:1px solid #f2f2f2;font-size:18px">130.231 g.mol-1</td>
                 </tr>
                 
 
                 <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>Densidad:</b></td>
+                    <td style="background-color:#071637; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>Densidad:</b></td>
                     <td style="border:1px solid #f2f2f2;font-size:18px">833 mg mL-1</td>
                 </tr>
                 
                 
                 <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>Punto de fusión:</b></td>
+                    <td style="background-color:#071637; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>Punto de fusión:</b></td>
                     <td style="border:1px solid #f2f2f2;font-size:18px">-76 °C (-105 °F; 197 K)</td>
                 </tr>
                 
                 
                 <tr>
-                    <td style="background-color:#000020; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>Punto de ebullición:</b></td>
+                    <td style="background-color:#071637; color: rgba(2 146 238 /99%);border:1px solid white;font-size:18px"><b>Punto de ebullición:</b></td>
                     <td style="border:1px solid #f2f2f2;font-size:18px">180 a 186 °C; 356 a 367 °F; 453 a 459</td>
                 </tr>
             </table>
-            <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b style="color:#000020">Producción</b></h5>
+            <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b style="color:#071637">Producción</b></h5>
             <p class="General--Cuerpo Tipografia--general letranegro">El 2-etil-hexanol se produce industrialmente por la condensación aldólica del n-butiraldehido, seguido por la hidrogenación del hidroxialdehido resultante. El proceso general es muy similar a la de la reacción de Guerbet, por la cual también puede ser producido. El n-butiraldehido se obtiene por hidroformilacion de propileno.</p>
             
-            <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b style="color:#000020;">Propiedades</b></h5>
+            <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b style="color:#071637;">Propiedades</b></h5>
             <ol>
                 <li style="list-style-type:disc;" class="Elementos--Listas">Emoliente</li>
                 <br>
                 <li style="list-style-type:disc;" class="Elementos--Listas">Solvente</li>
             </ol>
-            <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</B></h5>
+            <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b style="color:#071637;">Aplicaciones</B></h5>
             <ol>
                 <li style="list-style-type:disc;">Plastificantes</li>
                 <br>
@@ -631,21 +631,21 @@
                 <br>
                 <li style="list-style-type:disc;">En antiespumantes para casi todos los sistemas acuosos, por ejemplo, los del sector textil y las industrias papeleras. En esta aplicación, proporciones muy bajas de 2-etilhexanol, a saber. 0,1%, son requeridos, y mayores proporciones deben evitarse, porque puede ser responsable de la recurrencia de espuma pronunciada.</li>
             </ol>
-            <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b style="color:#000020">Aplicaciones prohibidas</b></h5>
+            <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b style="color:#071637">Aplicaciones prohibidas</b></h5>
             <ol>
                 <li style="list-style-type:disc;">Como Ingrediente Activo farmacéutico (API)</li>
                 <br>
                 <li style="list-style-type:disc;">Aditivo en Alimentos</li>
             </ol>
-            <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b style="color:#000020">Fabricante</b></h5>
+            <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b style="color:#071637">Fabricante</b></h5>
             <img src="img/basf-logo-clipart-11.png" alt="" width="20%">
-            <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b style="color:#000020;">Literatura Técnica</b></h5>
+            <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b style="color:#071637;">Literatura Técnica</b></h5>
             <ol>
                 <li style="list-style-type:disc;"><a href="../PDF/CATALOGUES/BASF_TL_2-ETHYLHEXANOL_1199.pdf"  style="list-style-type:disc;color:black" class="arrowblue">BASF_TL_2-ETHYLHEXANOL_1199.pdf</a></li>
                 <li style="list-style-type:disc;"><a href="../PDF/CATALOGUES/BASF_TDS_2-ETHYLHEXANOL_0398.PDF"  style="list-style-type:disc;color:black" class="arrowblue">BASF_TDS_2-ETHYLHEXANOL_0398.pdf</a></li>
                 <li style="list-style-type:disc;"><a href="../PDF/CATALOGUES/BASF_HDS_2-ETILHEXANOL_240215.PDF" style="list-style-type:disc;color:black" class="arrowblue">BASF_HDS_2-ETILHEXANOL_240215.pdf</a></li>
             </ol>
-            <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b style="color:#000020;">Referencias</b></h5>
+            <h5 class="General--Cuerpo Tipografia--general Titulos letranegro" style="margin-top:50px;"><b style="color:#071637;">Referencias</b></h5>
             <ol>
                 <li>https://en.wikipedia.org/wiki/2-Ethylhexanol</li>
                 <li>«2-ethylhexanol - Compound Summary». PubChem Compound. USA: National Center for Biotechnology Information. 16 de septiembre de 2005. Identification and Related Records. Consultado el 29 de enero de 2012.</li>

@@ -3,7 +3,7 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Fosfato Disodico Anhidro</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <title>Chemical Broker | Fosfato Disodico Anhidro | Proveedor Global</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="Fosfato disódico anhidro de alta pureza disponible para venta. Ideal para aplicaciones en la industria alimentaria, farmaceutica y quimica. Ofrecemos envios rapidos y precios competitivos. Mejora tus productos con un aditivo confiable y versatil.">
     <link rel="canonical" href="https://chemicalbroker.mx/Fosfato_Disodico_Anhidro.php">
     <script src="js/Traduccion.js"></script>
@@ -33,6 +33,31 @@
       gtag('js', new Date());
       gtag('config', 'G-SGJQ8FDDJ6');
     </script>
+
+<script type="application/Id+json">
+    {
+
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Fosfato Disodico Anhidro",
+      "description": "Chemical Broker distribuye mundialmente Polisorbatos,
+      "brand": {
+        "@type": "Brand",
+        "name": "Chemical Broker"
+      },
+
+      "offers":{
+        "@type": "Offer",
+        "url": "https://chemicalbroker.mx/Fosfato_Disodico_Anhidro.php",
+        "priceCurrency": "MXN",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Chemical Broker"
+        }
+      }
+    }
+  </script>
 <script type="text/javascript" src="js/main.js"></script>
 </head>
 <body> 
@@ -158,11 +183,11 @@
 <h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Teléfonos </h6>
 <div class="col s12 m12 l12 xl12">
 <h6 class="Tipografia--general Titulos color--blanco">Ventas </h6>
-<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
 </div>
 <div class="col s12 m12 l12 xl12"> 
 <h6 class="Tipografia--general Titulos color--blanco">Información General </h6>
-<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
 </div>
 </div>
 </div>
@@ -447,7 +472,7 @@
 
 </p>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Propiedades</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Propiedades</b></h5>
 
 <p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#FF6600;">Fosfato Disódico Anhidro</b>, como una sal inorgánica, exhibe varias propiedades físicas y químicas importantes que son relevantes para sus diversas aplicaciones. Aquí hay algunas de sus propiedades más destacadas:</p>
 
@@ -460,11 +485,11 @@
     <li class="Elementos--Listas" style="margin-top:30px;">Cristalinidad: En su forma sólida, el <b style="color:#FF6600;">Fosfato Disódico Anhidro</b> puede presentarse como un polvo blanco o cristales incoloros, dependiendo de las condiciones de fabricación y almacenamiento.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Aplicaciones</b></h5>
 
 <p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#FF6600;">Fosfato Disódico Anhidro</b>, también conocido como <b style="color:#FF6600">Fosfato de Disodio</b>, tiene una amplia variedad de aplicaciones en varias industrias debido a sus propiedades como agente regulador de pH, emulsionante, antiaglomerante y estabilizador. Aquí hay algunas de sus aplicaciones más comunes:</p>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria:</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Industria Alimentaria:</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Regulador de acidez: Se utiliza para ajustar y mantener el pH en una amplia gama de productos alimenticios, como productos lácteos, carnes procesadas, bebidas, productos de panadería y confitería.</li>
@@ -472,33 +497,33 @@
     <li class="Elementos--Listas" style="margin-top:30px;">Agente antiaglomerante: Se agrega a productos en polvo para prevenir la formación de grumos y mejorar la fluidez del polvo</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Farmacéutica:</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Industria Farmacéutica:</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Agente tamponador: Se utiliza para mantener el pH de las formulaciones farmacéuticas en un rango específico, lo que garantiza la estabilidad y la eficacia de los medicamentos.</li>
     <li class="Elementos--Listas" style="margin-top:30px;">Excipiente: Puede formar parte de formulaciones farmacéuticas para diversos fines, como tabletas, cápsulas y suspensiones.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Química:</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Industria Química:</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Fabricación de detergentes: Actúa como agente secuestrante de iones metálicos en detergentes y productos de limpieza, mejorando su eficacia para eliminar la suciedad y los depósitos minerales.</li>
     <li class="Elementos--Listas" style="margin-top:30px;">Procesamiento de metales: Se utiliza en procesos de fosfatado para preparar superficies metálicas antes de la pintura o el recubrimiento.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Tratamiento de Agua:</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Tratamiento de Agua:</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">En plantas de tratamiento de aguas residuales y potables, se utiliza como agente secuestrante de metales pesados y para ajustar el pH del agua tratada.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria textil y del cuero:</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Industria textil y del cuero:</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">En la fabricación de productos textiles y de cuero, se utiliza en algunos procesos de tintura y acabado como agente estabilizador y regulador de pH</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Otros usos industriales:</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Otros usos industriales:</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Puede encontrarse en aplicaciones en la industria cosmética, en la fabricación de productos para el cuidado personal, en la industria del papel y en la producción de productos químicos diversos.</li>

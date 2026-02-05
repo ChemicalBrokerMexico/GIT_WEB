@@ -55,7 +55,7 @@ recaptchaResponse.value = token;
                 <p class="Tipografia--general letranegro General--Cuerpo" style="float:left;">Cuando visita cualquier sitio web, puede almacenar o recuperar información en su navegador, principalmente en forma de cookies. Esta información puede ser sobre usted, sus preferencias o su dispositivo y se utiliza principalmente para hacer que el sitio funcione como espera. Por lo general, la informacion no lo identifica directamente, pero puede brindarle una experiencia web mas personalizada. Debido a que respetamos su derecho a la privacidad, puede optar por no permitir algunos tipos de cookies. Haga clic en los titulos de las diferentes categorías para obtener más información y cambiar nuestra configuración predeterminada. Sin embargo, bloquear algunos tipos de cookies puede afectar su experiencia en el sitio y los servicios que podemos ofrecer.</p>
                 <p> <a class="Botones Tipografia--general" href="#" style="color:blue;float:left;">Mas información</a></p>
                 <div class="row">
-                  <div class="col s12 m12 l12 xl12" style="margin-top:16px"><a class="modal-close Tipografia--general Botones" href="#!" style="color:white;background-color:#000020 !important;padding:10px;float:left">Permitir Todo </a></div>
+                  <div class="col s12 m12 l12 xl12" style="margin-top:16px"><a class="modal-close Tipografia--general Botones" href="#!" style="color:white;background-color:#071637 !important;padding:10px;float:left">Permitir Todo </a></div>
                 </div>
                 <h6 class="letranegro"><b class="Tipografia--general letranegro Subtitulos" style="float:left;">Administrar las preferencias de consentimiento</b><br></h6>
                 <ul class="collapsible" style="margin-top:20px">
@@ -150,11 +150,11 @@ recaptchaResponse.value = token;
                         <h6 class="Tipografia--general Titulos" style="color:white;padding-top:5px">Teléfonos </h6>
                         <div class="col s12 m12 l12 xl12">
                           <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1888</p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996</p>
                         </div>
                         <div class="col s12 m12 l12 xl12"> 
                           <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1818 </p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996 </p>
                         </div>
                       </div>
                     </div>
@@ -221,7 +221,7 @@ recaptchaResponse.value = token;
       </ul>
     </div>
     <div class="row">  
-      <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+      <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
         <div class="nav-wrapper container contlog"><img class="img-logo" src="../img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo"></div>
       </nav>
     </div>
@@ -321,7 +321,7 @@ recaptchaResponse.value = token;
         </div>
       </li>
     </ul>
-    <ul class="sidenav" id="mobile-demo" style="background-color:#000020"> 
+    <ul class="sidenav" id="mobile-demo" style="background-color:#071637"> 
       <li> <a href="Mercados.php" style="color:white !important"> <i class="small material-icons right" style="color:white !important;margin-top:0px !important;">chevron_right</i>
           <p style="color:white !important;">Mercados</p></a>
         <div class="divider"></div>
@@ -344,7 +344,7 @@ recaptchaResponse.value = token;
         <li> <a class="waves-effect waves-light" href="VISTA/Principal.php" style="background-color:#c73e32;color: white" id="LockBoton">Login<i class="material-icons right" style="color:white !important;margin-top:-1px !important;">lock</i></a></li>
       </li>
     </ul>
-    <ul class="sidenav" id="mobile-search" style="background-color:#000020"> 
+    <ul class="sidenav" id="mobile-search" style="background-color:#071637"> 
       <div class="container grid-search-mobile">
         <p style="color:white">Search<i class="small material-icons right ico-Search" style="color:white !important">search</i></p>
         <hr style="background-color:black !important;color:black !important">
@@ -360,37 +360,37 @@ recaptchaResponse.value = token;
                 </thead>
                 <tbody class="center-align">
                   <tr> 
-                    <td style="border:hidden;background-color:#000020;"><a href="index.php" style="color:white !important;border:hidden">Nosotros</a></td>
+                    <td style="border:hidden;background-color:#071637;"><a href="index.php" style="color:white !important;border:hidden">Nosotros</a></td>
                   </tr>
                   <tr> 
-                    <td style="border:hidden;background-color:#000020;"><a href="Historia_Hechos.php" style="color:white !important;border:hidden">Historia y Hechos</a></td>
+                    <td style="border:hidden;background-color:#071637;"><a href="Historia_Hechos.php" style="color:white !important;border:hidden">Historia y Hechos</a></td>
                   </tr>
                   <tr> 
-                    <td style="border:hidden;background-color:#000020;"><a href="Brand.php"></a></td>
+                    <td style="border:hidden;background-color:#071637;"><a href="Brand.php"></a></td>
                   </tr>
                   <tr> 
-                    <td style="border:hidden;background-color:#000020"><a href="values.php" style="color:white !important;border:hidden">Valores </a></td>
+                    <td style="border:hidden;background-color:#071637"><a href="values.php" style="color:white !important;border:hidden">Valores </a></td>
                   </tr>
                   <tr> 
-                    <td style="border:hidden;background-color:#000020"><a href="Premisas.php" style="color:white !important;border:hidden">Premisas    </a></td>
+                    <td style="border:hidden;background-color:#071637"><a href="Premisas.php" style="color:white !important;border:hidden">Premisas    </a></td>
                   </tr>
                   <tr> 
-                    <td style="border:hideen;background-color:#000020"><a href="Servicio_Total.php" style="color:white !important;border:hidden">Servicio Total </a></td>
+                    <td style="border:hideen;background-color:#071637"><a href="Servicio_Total.php" style="color:white !important;border:hidden">Servicio Total </a></td>
                   </tr>
                   <tr> 
-                    <td style="border:hidden;background-color:#000020"><a href="Code_of_Conduct.php" style="color:white !important;border:hidden">Codigo de Conducta </a></td>
+                    <td style="border:hidden;background-color:#071637"><a href="Code_of_Conduct.php" style="color:white !important;border:hidden">Codigo de Conducta </a></td>
                   </tr>
                   <tr> 
-                    <td style="border:hidden;background-color:#000020"><a href="Mercados.php" style="color:white !important;border:hidden">Mercados </a></td>
+                    <td style="border:hidden;background-color:#071637"><a href="Mercados.php" style="color:white !important;border:hidden">Mercados </a></td>
                   </tr>
                   <tr> 
-                    <td style="border:hidden;background-color:#000020"> <a href="Servicios.php" style="color:white !important;border:hidden">Servicios  </a></td>
+                    <td style="border:hidden;background-color:#071637"> <a href="Servicios.php" style="color:white !important;border:hidden">Servicios  </a></td>
                   </tr>
                   <tr> 
-                    <td style="border:hidden;background-color:#000020"><a href="Cumplimiento.php" style="color:white !important;border:hidden">Cumplimiento </a></td>
+                    <td style="border:hidden;background-color:#071637"><a href="Cumplimiento.php" style="color:white !important;border:hidden">Cumplimiento </a></td>
                   </tr>
                   <tr> 
-                    <td style="border:hidden;background-color:#000020"><a href="Contact.php" style="color:white !important;border:hidden">Contacto    </a></td>
+                    <td style="border:hidden;background-color:#071637"><a href="Contact.php" style="color:white !important;border:hidden">Contacto    </a></td>
                   </tr>
                 </tbody>
               </table>
@@ -413,14 +413,14 @@ recaptchaResponse.value = token;
     <div class="container">
       <div class="row">
         <div class="vcol s12 m12 l12 xl12">
-          <section style="margin-top:125px;width:150px"><a class="breditem active" href="index.php" style="color: #000020 !important;"><b>Inicio &nbsp</b><b>  >&nbsp</b></a><a class="breditem active" href="Contact.php" style="color: #000020 !important;margin-left: -2px;"><b class="Tipografia--general letranegro Subtitulos breadcrumb"> Contacto </b></a></section>
+          <section style="margin-top:125px;width:150px"><a class="breditem active" href="index.php" style="color: #071637 !important;"><b>Inicio &nbsp</b><b>  >&nbsp</b></a><a class="breditem active" href="Contact.php" style="color: #071637 !important;margin-left: -2px;"><b class="Tipografia--general letranegro Subtitulos breadcrumb"> Contacto </b></a></section>
         </div>
       </div>
     </div>
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-          <p class="Tipografia--general letranegro General--Cuerpo ">Bienvenido a <b style="color: #000020;">Chemical Broker</b>, para solicitar información sobre nuestros productos o servicios, por favor contáctenos vía: 
+          <p class="Tipografia--general letranegro General--Cuerpo ">Bienvenido a <b style="color: #071637;">Chemical Broker</b>, para solicitar información sobre nuestros productos o servicios, por favor contáctenos vía: 
           </p>
         </div>
       </div>
@@ -428,12 +428,12 @@ recaptchaResponse.value = token;
     <div class="container">
       <div class="row">
         <div class="col s12 m6 l6 xl6">
-          <h6><b style="color:#000020">Ventas </b></h6>
-          <p class="Tipografia--general letranegro General--Cuerpo"><b>Teléfono: </b><a href="tel:+525575861888" class="arrowblue Tipografia--general General--Cuerpo" style="color:black">+52.55.7586.1888</a><br><span><b class="Tipografia--general General--Cuerpo">Correo Electrónico:</b></span><a href="mailto:sales@chemicalbroker.mx" style="color:black;font-size:16px" class="arrowblue Tipografia--general General--Cuerpo"> sales@chemicalbroker.mx</a></p>
+          <h6><b style="color:#071637">Ventas </b></h6>
+          <p class="Tipografia--general letranegro General--Cuerpo"><b>Teléfono: </b><a href="tel:+525575861888" class="arrowblue Tipografia--general General--Cuerpo" style="color:black">+52.55.4438.7996</a><br><span><b class="Tipografia--general General--Cuerpo">Correo Electrónico:</b></span><a href="mailto:sales@chemicalbroker.mx" style="color:black;font-size:16px" class="arrowblue Tipografia--general General--Cuerpo"> sales@chemicalbroker.mx</a></p>
         </div>
         <div class="col s12 m6 l6 xl6">
-          <h6> <b style="color:#000020" class="Tipografia--general letranegro General--Cuerpo">Información General</b></h6>
-          <p style="font-size:14px !important" class="Tipografia--general letranegro General--Cuerpo"><b class="Tipografia--general General--Cuerpo">Teléfono:</b><a href="tel:+525575861818" class="arrowblue Tipografia--general General--Cuerpo" style="color:black">+52.55.7586.1818</a><br><span><b class="Tipografia--general General--Cuerpo">Correo Electrónico:</b></span><a href="mailto:info@chemicalbroker.mx" style="color:black;font-size:16px" class="arrowblue General--Cuerpo Tipografia--general"> info@chemicalbroker.mx</a></p>
+          <h6> <b style="color:#071637" class="Tipografia--general letranegro General--Cuerpo">Información General</b></h6>
+          <p style="font-size:14px !important" class="Tipografia--general letranegro General--Cuerpo"><b class="Tipografia--general General--Cuerpo">Teléfono:</b><a href="tel:+525575861818" class="arrowblue Tipografia--general General--Cuerpo" style="color:black">+52.55.4438.7996</a><br><span><b class="Tipografia--general General--Cuerpo">Correo Electrónico:</b></span><a href="mailto:info@chemicalbroker.mx" style="color:black;font-size:16px" class="arrowblue General--Cuerpo Tipografia--general"> info@chemicalbroker.mx</a></p>
         </div>
       </div>
     </div>
@@ -772,7 +772,7 @@ recaptchaResponse.value = token;
         </div>
         <div class="row center-align" style="margin-top:-100px;">
           <div class="col s12 m12 l12 xl12" style="margin-top:-50px;">
-            <button class="btn waves-light" type="submit" name="Enviarinformacion" id="Enviarinformacion" onclick= "document.getElementById('enviocorreo').submit();Validarcampos();" class="Tipografia--general Botones" style="background-color: #000020; text-transform: none;"><span id="envioinfocon">Enviar Información   </span></button>
+            <button class="btn waves-light" type="submit" name="Enviarinformacion" id="Enviarinformacion" onclick= "document.getElementById('enviocorreo').submit();Validarcampos();" class="Tipografia--general Botones" style="background-color: #071637; text-transform: none;"><span id="envioinfocon">Enviar Información   </span></button>
           </div>
         </div>
         </form>
@@ -790,7 +790,7 @@ recaptchaResponse.value = token;
               <div class="col s12 m12 l6 xl6">
                 <h4 class="Tipografia--general color--corporativo Titulos"><b style="border-bottom:solid 1px #c73e32;">Oficinas Corporativas</b></h4>
                 <p class="Tipografia--general General--Cuerpo letranegro"><b></b>Calle Manuel E. Izaguirre No. 29, Interior 205, <br>Col. Ciudad Satélite, C.P. 53100,<br> Municipio de Naucalpan de Juárez,<br>Estado de México, México.</p>
-                <p class="Tipografia--general General--Cuerpo letranegro"><i class="tiny material-icons prefix">phone</i><b>Télefono:</b><a class="arrowblue" href="tel:+525575861888" style="color:#000020">+52.55.7586.1888</a></p>
+                <p class="Tipografia--general General--Cuerpo letranegro"><i class="tiny material-icons prefix">phone</i><b>Télefono:</b><a class="arrowblue" href="tel:+525575861888" style="color:#071637">+52.55.4438.7996</a></p>
                <!-- <a href="https://goo.gl/maps/xeqQd6eRRN2FBvun9" style="text-transform: capitalize;" class="btn Tipografia--general Botones color--blanco arrowblue fondo--color--corporativo">Ir a la ubicacion</a> -->
               </div>
                 <div class="col s12 m12 l6 xl6">
@@ -801,7 +801,7 @@ recaptchaResponse.value = token;
                 <div class="col s12 m12 l6 xl6">
                   <h4 class="Tipografia--general color--corporativo Titulos"><b>Centro Distribución México</b></h4>
                   <p class="Tipografia--general General--Cuerpo letranegro"><b></b>Calle industria #13,<br>Col. Agua Blanca, C.P. 52700,<br> Municipio de Calpuhuac,<br>Toluca, Estado de México.</p>
-                  <p class="Tipografia--general General--Cuerpo letranegro"><i class="tiny material-icons prefix">phone</i><b>Télefono:</b>+52.55.7586.1818</p> -->
+                  <p class="Tipografia--general General--Cuerpo letranegro"><i class="tiny material-icons prefix">phone</i><b>Télefono:</b>+52.55.4438.7996</p> -->
                  <!-- <a href="https://goo.gl/maps/xeqQd6eRRN2FBvun9" style="text-transform: capitalize;" class="btn Tipografia--general Botones color--blanco arrowblue fondo--color--corporativo">Ir a la ubicacion</a> -->
                 <!-- </div>
                 <div class="col s12 m12 l6 xl6">
@@ -825,7 +825,7 @@ recaptchaResponse.value = token;
               <div class="col s10 m6 l6 xl10" style="margin-top:15px">
                 <p><b style="color:#262137">Dirección:</b> Calle Manuel E. Izaguirre No. 29, Interior 205, <br>Col. Ciudad Satélite, C.P. 53100, <br>Municipio de Naucalpan de Juárez,<br>Estado de México, México. 
                 </p>
-                <p> <i class="tiny material-icons prefix">phone </i><b style="color:#262137">Teléfono: </b>+52.55.7586.1818
+                <p> <i class="tiny material-icons prefix">phone </i><b style="color:#262137">Teléfono: </b>+52.55.4438.7996
                 </p>
               </div>
               <div class="col s12 m6 l6 xl2 center-align" style="margin-top:19px"><a href="https://goo.gl/maps/hK9UCDtttdV55QYH7"> 
@@ -841,7 +841,7 @@ recaptchaResponse.value = token;
             <div class="col s10 m6 l6 xl10">
               <p> <b style="color:#262137">Dirección: </b>Calle Industria #13, <br>Col. Agua Blanca, C.P. 52700,<br>Municipio de Calpuhuac,<br>Toluca, Estado de México. 
               </p>
-              <p> <i class="tiny material-icons prefix">phone </i><b style="color:#262137">Teléfono: </b>+52.55.7586.1888 
+              <p> <i class="tiny material-icons prefix">phone </i><b style="color:#262137">Teléfono: </b>+52.55.4438.7996 
               </p>
             </div>
             <div class="col s12 m6 l6 xl2 center-align" style="margin-top:19px"><a href="#">
@@ -857,7 +857,7 @@ recaptchaResponse.value = token;
   <div class="modal-content">
   <div class="center-align">
 <img src="img/CB_IMAGOTIPO_LEON.jpg" alt="" class="imagotipo_leon" style="opacity: 0.5;width:250px;"> 
-<h4 style="font-family: Arial !important;font-size: 35px;opacity:.6;color: #000020;">Información enviada con éxito</h4>
+<h4 style="font-family: Arial !important;font-size: 35px;opacity:.6;color: #071637;">Información enviada con éxito</h4>
 </div> 
   </div>
 </div>

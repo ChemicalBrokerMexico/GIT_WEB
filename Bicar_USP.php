@@ -279,7 +279,7 @@
                                                     Ventas </h6>
                                                 <p class="Tipografia--general General--Cuerpo"
                                                     style="color: #a7a7a7 !important;">Teléfono:
-                                                    +52.55.7586.1888</p>
+                                                    +52.55.4438.7996</p>
                                             </div>
                                             <div class="col s12 m12 l12 xl12">
                                                 <h6 class="Tipografia--general Titulos" style="color:white !Important;">
@@ -287,7 +287,7 @@
                                                 </h6>
                                                 <p class="Tipografia--general General--Cuerpo"
                                                     style="color: #a7a7a7 !important;">Teléfono:
-                                                    +52.55.7586.1818 </p>
+                                                    +52.55.4438.7996 </p>
                                             </div>
                                         </div>
                                     </div>
@@ -387,7 +387,7 @@
         </ul>
     </div>
     <div class="row">
-        <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+        <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
             <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png"
                     alt="Logotipo">
             </div>
@@ -656,9 +656,9 @@
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
-                <p class="Tipografia--general letranegro General--Cuerpo"><b style="color:#000020;">BICAR® USP</b> Grado 1 es apto para uso
+                <p class="Tipografia--general letranegro General--Cuerpo"><b style="color:#071637;">BICAR® USP</b> Grado 1 es apto para uso
                     alimentario. Más comúnmente utilizado como agente leudante en aplicaciones alimentarias. Cumple con
-                    los estándares de la Monografía de <b style="color:#000020;">Bicarbonato de Sodio (USP)</b> y el Codex de Productos Químicos
+                    los estándares de la Monografía de <b style="color:#071637;">Bicarbonato de Sodio (USP)</b> y el Codex de Productos Químicos
                     Alimentarios (FCC) de la Farmacopea de los Estados Unidos.</p>
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;color:red;"><b>Este producto no está
                     diseñado para uso Farmacéutico.</b></p>
@@ -668,7 +668,7 @@
                 <table style="margin-top:50px">
                     <thead>
                         <tr>
-                            <td style="background-color:#000020;border:1px solid #f2f2f2;color:white;padding:5px;text-align:center;font-size:18px"
+                            <td style="background-color:#071637;border:1px solid #f2f2f2;color:white;padding:5px;text-align:center;font-size:18px"
                                 colspan="4"><b>Especificaciones</b></td>
                         </tr>
                         </thead>
@@ -757,10 +757,10 @@
                     <thead>
                         <tr>
                             <td colspan="2"
-                                style="text-align:center;background-color:#000020;color:white;padding:5px;border:1px solid #d9d9d9;font-size:18px">
+                                style="text-align:center;background-color:#071637;color:white;padding:5px;border:1px solid #d9d9d9;font-size:18px">
                                 <b>Distribucion de Tamaño de Particula</b></td>
                             <td colspan="2"
-                                style="text-align:center;background-color:#000020;color:white;padding:5px;border:1px solid #d9d9d9;font-size:18px">
+                                style="text-align:center;background-color:#071637;color:white;padding:5px;border:1px solid #d9d9d9;font-size:18px">
                                 <b>% Acumulativo Retenido</b></td>
                         </tr>
                     </thead>
@@ -819,7 +819,7 @@
                 <table style="margin-top:50px">
                     <thead>
                         <tr>
-                            <td style="background-color:#000020;border:1px solid #d9d9d9;color:white;padding:5px;text-align:center;font-size:18px"
+                            <td style="background-color:#071637;border:1px solid #d9d9d9;color:white;padding:5px;text-align:center;font-size:18px"
                                 colspan="4"><b>Propiedades Tipicas y Caracteristicas Fisicas</b></td>
                         </tr>
                     </thead>
@@ -866,7 +866,7 @@
                 <h5 class="Tipografia--general letranegro Titulos" style="margin-top:50px;"><b>Aplicaciones</b></h5>
 
                 <ol>
-                    <li class="Elementos--Listas" style="list-style-type:disc;"><b style="color:#000020;">Farmaceutica</b>
+                    <li class="Elementos--Listas" style="list-style-type:disc;"><b style="color:#071637;">Farmaceutica</b>
                         <ol style="margin-top:15px;">
                             <li class="Elementos--Listas" style="list-style:disc;">Antiácidos,</li>
                             <br>
@@ -878,7 +878,7 @@
                 </ol>
 
                 <ol style="margin-bottom:0px;">
-                    <li class="Elementos--Listas" style="list-style-type:disc;margin-top:50px;"><b style="color:#000020;">Nutrición Humana</b>
+                    <li class="Elementos--Listas" style="list-style-type:disc;margin-top:50px;"><b style="color:#071637;">Nutrición Humana</b>
                         <ol>
                             <li class="Elementos--Listas" style="list-style-type:disc;margin-top:15px;">Panificacion
                                 <ol style="margin-top:15px;">
@@ -927,11 +927,11 @@
                 </ol>
 
                 <ol style="margin-top:50px;margin-bottom:0px;">
-                    <li class="Elementos--Listas" style="list-style-type:disc;"><b style="color:#000020;">Agropecuaria</b></li>
+                    <li class="Elementos--Listas" style="list-style-type:disc;"><b style="color:#071637;">Agropecuaria</b></li>
                 </ol>
 
                 <ol style="margin-top:50px;margin-bottom:0px">
-                    <li class="Elementos--Listas" style="list-style-type:disc;margin-top:15px;"><b style="color:#000020;">Detergentes</b>
+                    <li class="Elementos--Listas" style="list-style-type:disc;margin-top:15px;"><b style="color:#071637;">Detergentes</b>
                         <ol style="margin-top:15px;">
                             <li class="Elementos--Listas" style="list-style-type:disc;">Abrasivos,</li>
                             <br>
@@ -942,7 +942,7 @@
                 </ol>
 
                 <ol style="margin-top:50px;margin-bottom:0px;">
-                    <li class="Elementos--Listas" style="list-style-type:disc;margin-top:15px;"><b style="color:#000020;">Cuidado Personal</b>
+                    <li class="Elementos--Listas" style="list-style-type:disc;margin-top:15px;"><b style="color:#071637;">Cuidado Personal</b>
                         <ol style="margin-top:15px;">
                             <li class="Elementos--Listas" style="list-style-type:disc;">Desodorantes,</li>
                             <br>
@@ -952,34 +952,34 @@
                 </ol>
 
                 <ol style="margin-bottom:0px;">
-                    <li class="Elementos--Listas" style="margin-top:50px;list-style-type:disc"><b style="color:#000020;">Protección medioambiental</b>
+                    <li class="Elementos--Listas" style="margin-top:50px;list-style-type:disc"><b style="color:#071637;">Protección medioambiental</b>
                     </li>
                 </ol>
 
                 <ol style="margin-bottom:0px;">
-                    <li class="Elementos--Listas" style="margin-top:50px;list-style-type:disc"><b style="color:#000020">Industria química</b></li>
+                    <li class="Elementos--Listas" style="margin-top:50px;list-style-type:disc"><b style="color:#071637">Industria química</b></li>
                 </ol>
 
                 <ol style="margin-bottom:0px;">
-                    <li class="Elementos--Listas" style="margin-top:50px;list-style-type:disc;"><b style="color:#000020;">Purificación de gases</b>
+                    <li class="Elementos--Listas" style="margin-top:50px;list-style-type:disc;"><b style="color:#071637;">Purificación de gases</b>
                     </li>
                 </ol>
 
                 <ol style="margin-bottom:0px;">
-                    <li class="Elementos--Listas" style="margin-top:50px;list-style-type:disc;"><b style="color:#000020;">Tratamiento de aguas</b>
+                    <li class="Elementos--Listas" style="margin-top:50px;list-style-type:disc;"><b style="color:#071637;">Tratamiento de aguas</b>
                     </li>
                 </ol>
 
                 <ol style="margin-bottom:0px;">
-                    <li class="Elementos--Listas" style="margin-top:50px;list-style-type:disc;"><b style="color:#000020;">Agente espumante</b></li>
+                    <li class="Elementos--Listas" style="margin-top:50px;list-style-type:disc;"><b style="color:#071637;">Agente espumante</b></li>
                 </ol>
 
                 <ol style="margin-bottom:0px;">
-                    <li class="Elementos--Listas" style="margin-top:50px;list-style-type:disc;"><b style="color:#000020;">Agentes curtidores</b></li>
+                    <li class="Elementos--Listas" style="margin-top:50px;list-style-type:disc;"><b style="color:#071637;">Agentes curtidores</b></li>
                 </ol>
 
                 <ol style="margin-bottom:0px;">
-                    <li class="Elementos--Listas" style="margin-top:50px;list-style-type:disc;"><b style="color:#000020;">Papel</b>
+                    <li class="Elementos--Listas" style="margin-top:50px;list-style-type:disc;"><b style="color:#071637;">Papel</b>
                         <ol style="margin-top:15px;">
                             <li class="Elementos--Listas" style="list-style-type:disc">Fabricación de Pasta Papelera,
                             </li>

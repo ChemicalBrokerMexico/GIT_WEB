@@ -129,7 +129,7 @@ include "Consulta_tiempo_real.php";
             ?>
   <div class="row">
     <div class="col s12 m4">
-      <div class="card" style="height:300px;background-color:#000020;">
+      <div class="card" style="height:300px;background-color:#071637;">
         <div class="card-content white-text">
           <span class="card-title"><b>Responsable Comercial</b></span>
           <div class="col s12 m12 l6 xl12" style="margin-top:15px;">
@@ -166,7 +166,7 @@ include "Consulta_tiempo_real.php";
     </div>
 
     <div class="col s12 m4">
-      <div class="card" style="height:300px;background-color:#000020;">
+      <div class="card" style="height:300px;background-color:#071637;">
         <div class="card-content white-text">
           <span class="card-title"><b>Responsable Comercial</b></span>
           <div class="col s12 m12 l6 xl12" style="margin-top:15px;">
@@ -203,7 +203,7 @@ include "Consulta_tiempo_real.php";
     </div>
 
     <div class="col s12 m4">
-      <div class="card" style="height:300px;background-color:#000020;">
+      <div class="card" style="height:300px;background-color:#071637;">
         <div class="card-content white-text">
           <span class="card-title"><b>Responsable Comercial</b></span>
           <div class="col s12 m12 l6 xl12" style="margin-top:15px;">
@@ -240,7 +240,7 @@ include "Consulta_tiempo_real.php";
     </div>
 
     <div class="col s12 m4">
-      <div class="card" style="height:300px;background-color:#000020;">
+      <div class="card" style="height:300px;background-color:#071637;">
         <div class="card-content white-text">
           <span class="card-title"><b>Responsable Comercial</b></span>
           <div class="col s12 m12 l6 xl12" style="margin-top:15px;">
@@ -277,7 +277,7 @@ include "Consulta_tiempo_real.php";
     </div>
 
     <div class="col s12 m4">
-      <div class="card" style="height:300px;background-color:#000020;">
+      <div class="card" style="height:300px;background-color:#071637;">
         <div class="card-content white-text">
           <span class="card-title"><b>Responsable Comercial</b></span>
           <div class="col s12 m12 l6 xl12" style="margin-top:15px;">
@@ -314,7 +314,7 @@ include "Consulta_tiempo_real.php";
     </div>
 
     <div class="col s12 m4">
-      <div class="card" style="height:300px;background-color:#000020;">
+      <div class="card" style="height:300px;background-color:#071637;">
         <div class="card-content white-text">
           <span class="card-title"><b>Responsable Comercial</b></span>
           <div class="col s12 m12 l6 xl12" style="margin-top:15px;">

@@ -4,8 +4,8 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Sulfosuccinatos</title>
-  <meta name="description" content="Descubre los usos, beneficios y aplicaciones de los sulfosuccinatos en nuestra completa guía. Los sulfosuccinatos son compuestos químicos versátiles ampliamente utilizados en diversas industrias, desde productos de cuidado personal hasta aplicaciones industriales. Conoce más sobre cómo los sulfosuccinatos pueden mejorar tus productos y procesos aquí.""> 
+  <title>Chemical Broker | Sulfosuccinatos | Proveedor Global</title>
+  <meta name="description" content="Descubre los usos, beneficios y aplicaciones de los sulfosuccinatos en nuestra completa guía. Los sulfosuccinatos son compuestos químicos versátiles ampliamente utilizados en diversas industrias, desde productos de cuidado personal hasta aplicaciones industriales. Conoce más sobre cómo los sulfosuccinatos pueden mejorar tus productos y procesos aquí."> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/Sulfosuccinatos.php">
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
@@ -17,6 +17,31 @@
     }
     gtag('js', new Date());
     gtag('config', 'G-SGJQ8FDDJ6');
+  </script>
+
+<script type="application/Id+json">
+    {
+
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Sulfosuccinatos",
+      "description": "Descubre los usos, beneficios y aplicaciones de los sulfosuccinatos en nuestra completa guía. Los sulfosuccinatos son compuestos químicos versátiles ampliamente utilizados en diversas industrias, desde productos de cuidado personal hasta aplicaciones industriales. Conoce más sobre cómo los sulfosuccinatos pueden mejorar tus productos y procesos aquí.,
+      "brand": {
+        "@type": "Brand",
+        "name": "Chemical Broker"
+      },
+
+      "offers":{
+        "@type": "Offer",
+        "url": "https://chemicalbroker.mx/Sulfosuccinatos.php",
+        "priceCurrency": "MXN",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Chemical Broker"
+        }
+      }
+    }
   </script>
 
 </head>
@@ -196,13 +221,13 @@
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1888</p>
+                          +52.55.4438.7996</p>
                       </div>
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General
                         </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1818 </p>
+                          +52.55.4438.7996 </p>
                       </div>
                     </div>
                   </div>
@@ -285,7 +310,7 @@
     </ul>
   </div>
   <div class="row">
-    <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+    <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
       <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo">
       </div>
     </nav>
@@ -611,9 +636,9 @@
         <h2 class="letranegro General--Cuerpo Tipografia--General"><b>¿Por qué elegir nuestros Sulfosuccinatos?</b></h2>
         <p class="letranegro General--Cuerpo Tipografia--General">Por que ofrecemos productos de alta calidad; fabricados bajo estrictos estándares de calidad para garantizar la máxima eficiencia y seguridad en tus aplicaciones.</p>
         <h2 class="letranegro General--Cuerpo Tipografia--General" style="margin-top:50px;">¡No esperes mas!</h2>
-        <h2 class="letranegro General--Cuerpo Tipografia--General"><b style="color:#000020;">Eleva tus productos y procesos al siguiente nivel con nuestros Sulfosuccinatos de alta calidad. ¡haz tu pedido ahora y experimenta la diferencia!</b></h2>
+        <h2 class="letranegro General--Cuerpo Tipografia--General"><b style="color:#071637;">Eleva tus productos y procesos al siguiente nivel con nuestros Sulfosuccinatos de alta calidad. ¡haz tu pedido ahora y experimenta la diferencia!</b></h2>
         <p class="letranegro General--Cuerpo Tipografia--General">Para mas información, ¡contactanos hoy mismo!</p>
-        <p class="letranegro General--Cuerpo Tipografia--General">Telefono: +52.55.7586.1818 | Correo Electronico: <b style="color:#0563C1;">sales@chemicalbroker.mx</b></p>
+        <p class="letranegro General--Cuerpo Tipografia--General">Telefono: +52.55.4438.7996 | Correo Electronico: <b style="color:#0563C1;">sales@chemicalbroker.mx</b></p>
         </div>
 
         <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">

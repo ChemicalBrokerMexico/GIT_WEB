@@ -3,7 +3,7 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Fosfato Monosódico Anhidro</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <title>Chemical Broker | Fosfato Monosódico Anhidro | Proveedor Global</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="Fosfato monosódico anhidro de alta pureza, perfecto para aplicaciones en la industria alimentaria y farmaceutica. Ofrecemos un producto confiable con entregas rapidas y precios competitivos para optimizar tus procesos de produccion">
     <link rel="canonical" href="https://chemicalbroker.mx/Fosfato_Monosodico_Anhidro.php">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
@@ -13,6 +13,32 @@
       gtag('js', new Date());
       gtag('config', 'G-SGJQ8FDDJ6');
     </script>
+
+<script type="application/Id+json">
+    {
+
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Fosfato  Monosodico Anhidro",
+      "description": "Fosfato monosódico anhidro de alta pureza, perfecto para aplicaciones en la industria alimentaria y farmaceutica. Ofrecemos un producto confiable con entregas rapidas y precios competitivos para optimizar tus procesos de produccion,
+      "brand": {
+        "@type": "Brand",
+        "name": "Chemical Broker"
+      },
+
+      "offers":{
+        "@type": "Offer",
+        "url": "https://chemicalbroker.mx/Fosfato_Monosodico_Anhidro.php",
+        "priceCurrency": "MXN",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Chemical Broker"
+        }
+      }
+    }
+  </script>
+
 <script type="text/javascript" src="js/main.js"></script>
 </head>
 <body> 
@@ -138,11 +164,11 @@
 <h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Teléfonos </h6>
 <div class="col s12 m12 l12 xl12">
 <h6 class="Tipografia--general Titulos color--blanco">Ventas </h6>
-<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
 </div>
 <div class="col s12 m12 l12 xl12"> 
 <h6 class="Tipografia--general Titulos color--blanco">Información General </h6>
-<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
 </div>
 </div>
 </div>
@@ -419,14 +445,14 @@
 
     <div class="row">
 
-    <h5 class="Tipografia--general letranegro General--Cuerpo" style="background-color:#FF6600;padding:10px;color:white;margin-left:649px;font-size:35px;border-radius:10px"><b>Fosfato Monocálcico Monohidratado</b></h5>
+    <h5 class="Tipografia--general letranegro General--Cuerpo" style="background-color:#FF6600;padding:10px;color:white;margin-left:649px;font-size:35px;border-radius:10px"><b>Fosfato Monosódico Anhidro</b></h5>
 
     <section><a class="active" href="#" style="color:black !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos " style="color:black;">Productos > </b> </a> <a class=" active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Fosfato Monosódico Anhidro</b></a></section>
-      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b style="color:#000020;">Fosfato Monosódico Anhidro</b> (NaH₂PO₄) es un compuesto químico que se presenta como un polvo blanco cristalino. Es una forma deshidratada del fosfato monosódico, y tiene una variedad de aplicaciones en diferentes industrias debido a sus propiedades químicas.</p>
+      <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b style="color:#071637;">Fosfato Monosódico Anhidro</b> (NaH₂PO₄) es un compuesto químico que se presenta como un polvo blanco cristalino. Es una forma deshidratada del fosfato monosódico, y tiene una variedad de aplicaciones en diferentes industrias debido a sus propiedades químicas.</p>
 
       
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Propiedades</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Propiedades</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Fórmula química: NaH₂PO₄</li>
@@ -437,48 +463,48 @@
 </ol>
 
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Aplicaciones</b></h5>
 
-<p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#000020;">Fosfato Monosódico Anhidro</b> tiene una amplia gama de aplicaciones en diversas industrias debido a sus propiedades químicas y físicas. Aquí te detallo algunas de las principales aplicaciones:</p>
+<p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#071637;">Fosfato Monosódico Anhidro</b> tiene una amplia gama de aplicaciones en diversas industrias debido a sus propiedades químicas y físicas. Aquí te detallo algunas de las principales aplicaciones:</p>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Industria Alimentaria</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Aditivo Alimentario (E339i): Utilizado para ajustar la acidez en una variedad de alimentos procesados.</li>
     <li class="Elementos--Listas" style="margin-top:30px;">Actúa como agente emulsificante, ayudando a mantener la estabilidad de mezclas que contienen agua y aceite. Empleado en productos de panadería para mejorar la textura y volumen del producto final.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Tratamiento de Aguas</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Tratamiento de Aguas</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Control de Corrosión y Formación de Depósitos: Añadido a sistemas de tratamiento de agua para prevenir la corrosión en tuberías y equipos. Ayuda a evitar la formación de depósitos minerales en sistemas de agua potable e industriales.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Productos de Limpieza</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Productos de Limpieza</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Detergentes y Limpiadores Industriales: Utilizado en la formulación de detergentes para mejorar su eficacia. Ayuda a ablandar el agua, lo que aumenta la capacidad limpiadora de los detergentes.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones Médicas y Farmacéuticas</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Aplicaciones Médicas y Farmacéuticas</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Soluciones Buffer: Empleado en la preparación de soluciones buffer para estabilizar el pH de soluciones médicas y farmacéuticas. Utilizado en algunas formulaciones farmacéuticas y suplementos dietéticos para proporcionar fósforo, un mineral esencial.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Agricultura</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Agricultura</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Fertilizante: Utilizado como fuente de fósforo en fertilizantes, promoviendo el crecimiento de las plantas. Ayuda a mejorar la estructura y fertilidad del suelo.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria Química</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Industria Química</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Fabricación de Otros Fosfatos: Utilizado como materia prima en la producción de otros fosfatos y productos químicos.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria de la Fotografía</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Industria de la Fotografía</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Soluciones Reveladoras: Utilizado en soluciones reveladoras en el procesamiento fotográfico.</li>
@@ -486,13 +512,13 @@
       
 
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria del Papel</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Industria del Papel</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Tratamiento del Papel: Empleado en el tratamiento y procesamiento del papel para mejorar ciertas propiedades físicas y químicas del producto final.</li>
 </ol>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Industria de la Cerámica y Vidrio</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Industria de la Cerámica y Vidrio</b></h5>
 
 <ol>
     <li class="Elementos--Listas" style="margin-top:30px;">Fabricación de Vidrio y Cerámica: Utilizado como componente en algunas formulaciones de vidrio y cerámica para mejorar la calidad y las propiedades del producto final.</li>
@@ -500,7 +526,7 @@
 
 <br>
 
-<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:0px;"><b style="color:#000020;">Caracteristicas:</b></h5>
+<h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:0px;"><b style="color:#071637;">Caracteristicas:</b></h5>
 
 <div style="background-color:#FF6600;margin-top:50px;">
     <h5 class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;color:white;"><b>Fosfato Mono Sódico Anhidro (MSPA) | Grado Alimentos</b></h5>

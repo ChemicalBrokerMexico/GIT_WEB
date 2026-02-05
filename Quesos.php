@@ -127,11 +127,11 @@
                         <h6 class="Tipografia--general Titulos" style="color:white;padding-top:5px">Teléfonos </h6>
                         <div class="col s12 m12 l12 xl12">
                           <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1888</p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996</p>
                         </div>
                         <div class="col s12 m12 l12 xl12"> 
                           <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.7586.1818 </p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: +52.55.4438.7996 </p>
                         </div>
                       </div>
                     </div>
@@ -198,7 +198,7 @@
       </ul>
     </div>
     <div class="row">  
-      <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+      <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
         <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo"></div>
       </nav>
     </div>
@@ -406,7 +406,7 @@
 
        <p class="Elementos--listas letranegro General--Cuerpo">La industria de los quesos es una parte fundamental del sector agroalimentario, destacandose como una de las principales áreas de produccion y consumo de productos lácteos a nivel mundial.</p>
 
-       <h2 class="Elementos--listas letranegro General--Cuerpo"><b style="color:#000020;">Clasificación de los quesos</b></h2>
+       <h2 class="Elementos--listas letranegro General--Cuerpo"><b style="color:#071637;">Clasificación de los quesos</b></h2>
 
        <p class="Elementos--listas letranegro General--Cuerpo">Los quesos se clasifican segun diferentes criterios:</p>
 
@@ -417,7 +417,7 @@
         <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:30px;">Por el tipo de leche: Oveja, cabra, búfalo o mezclas</li>
        </ol>
 
-       <h2 class="Elementos--listas letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Proceso de elaboración</b></h2>
+       <h2 class="Elementos--listas letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Proceso de elaboración</b></h2>
 
        <p class="Elementos--listas letranegro General--Cuerpo">El queso se produce a partir de la coagulación de la leche, ya sea por acidificación o mediante la adición de cuajo. Los procesos son:</p>
 
@@ -428,7 +428,7 @@
         <li class="Elementos--listas" style="list-style-type: disc;margin-top:50px;">Maduración: Esencial para desarrollar textura y sabor en ciertos tipos de quesos</li>
        </ol>
 
-       <h2 class="Elementos--listas letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#000020;">Ingredientes Quimicos utilizados</b></h2>
+       <h2 class="Elementos--listas letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Ingredientes Quimicos utilizados</b></h2>
 
        <ol>
         <li class="Elementos--listas" style="list-style-type:disc;margin-top:30px;">Sales y estabilizantes

@@ -232,13 +232,13 @@
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1888</p>
+                          +52.55.4438.7996</p>
                       </div>
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General
                         </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1818 </p>
+                          +52.55.4438.7996 </p>
                       </div>
                     </div>
                   </div>
@@ -330,7 +330,7 @@
     </ul>
   </div>
   <div class="row">
-    <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+    <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
       <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo">
       </div>
     </nav>
@@ -600,7 +600,7 @@
               class="Tipografia--general Subtitulos" style="color:red;">Lecitinas</b></a></section>
 
 
-        <h1 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#200142">Lecitinas</b></h1>
+        <h1 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#071637">Lecitinas</b></h1>
 
         <p class="Tipografia--general letranegro General--Cuerpo">Este emulsionante vegetal, versátil y de fácil
           etiquetado, parece ser la solución perfecta. La lecitina mejora la mezcla y la retención de humedad, así como
@@ -610,7 +610,7 @@
           aplicaciones instantáneas. La lecitina también tiene múltiples usos en alimentos para mascotas, aplicaciones
           industriales y cosméticas/de cuidado personal.</p>
 
-        <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#200142">Funcionalidad robusta y
+        <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#071637">Funcionalidad robusta y
             fácil de etiquetar</b></h2>
 
         <ol>
@@ -699,7 +699,7 @@
 
 
         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b
-            style="color:#200142">Beneficios</b></h2>
+            style="color:#071637">Beneficios</b></h2>
 
         <ol>
           <li class="Elementos--Listas"><b>Etiqueta amigable. -</b> emulsionante de origen natural con buena
@@ -764,7 +764,7 @@
         <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
       </a>
 
-      <h4 class="Tipografia--general letranegro center-align"><b style="color:#200142;">Cargill cuenta con una amplia
+      <h4 class="Tipografia--general letranegro center-align"><b style="color:#071637;">Cargill cuenta con una amplia
           variedad de soluciones de Lecitina con la más alta calidad.</b></h4>
 
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Para garantizar una formulación
@@ -780,12 +780,12 @@
               <div class="card-image waves-effect waves-block waves-light">
                 <img class="activator" src="img/PANIFICACION_280421.jpeg" width="100%">
               </div>
-              <div class="card-content" style="background-color:#200142;opacity:0.9;">
+              <div class="card-content" style="background-color:#071637;opacity:0.9;">
                 <span class="card-title activator" style="color:white;">Panificacion<i
                     class="material-icons right">more_vert</i></span>
                 <p style="color:white;">Aplicaciones</p>
               </div>
-              <div class="card-reveal" style="background-color:#200142;opacity:0.9;">
+              <div class="card-reveal" style="background-color:#071637;opacity:0.9;">
               <span class="card-title grey-text text-darken-4"><i class="material-icons right" style="color:white;">close</i></span>
                 <ol>
                   <li style="color:white;list-style:circle;">Ayuda a mejorar la mezcla de ingredientes.</li>
@@ -804,12 +804,12 @@
               <div class="card-image waves-effect waves-block waves-light">
                 <img class="activator" src="img/CONFITERIA.jpg" width="100%">
               </div>
-              <div class="card-content" style="background-color:#200142;opacity:0.9;">
+              <div class="card-content" style="background-color:#071637;opacity:0.9;">
                 <span class="card-title activator" style="color:white;">Confiteria<i
                     class="material-icons right">more_vert</i></span>
                 <p style="color:white;">Aplicaciones</p>
               </div>
-              <div class="card-reveal" style="background-color:#200142;opacity:0.9;">
+              <div class="card-reveal" style="background-color:#071637;opacity:0.9;">
               <span class="card-title grey-text text-darken-4"><i class="material-icons right" style="color:white;">close</i></span>
                 <ol>
                   <li style="color:white;list-style:circle;">Ajusta la viscosidad y el valor de rendimiento del chocolate.</li>
@@ -828,12 +828,12 @@
               <div class="card-image waves-effect waves-block waves-light">
                 <img class="activator" src="img/BEBIDAS_040521.jpg" width="100%">
               </div>
-              <div class="card-content" style="background-color:#200142;opacity:0.9;">
+              <div class="card-content" style="background-color:#071637;opacity:0.9;">
                 <span class="card-title activator" style="color:white;">Bebidas<i
                     class="material-icons right">more_vert</i></span>
                 <p style="color:white;">Aplicaciones</p>
               </div>
-              <div class="card-reveal" style="background-color:#200142;opacity:0.9;">
+              <div class="card-reveal" style="background-color:#071637;opacity:0.9;">
               <span class="card-title grey-text text-darken-4"><i class="material-icons right" style="color:white;">close</i></span>
                 <ol>
                   <li style="color:white;list-style:circle;">Mejora de la textura</li>
@@ -849,12 +849,12 @@
               <div class="card-image waves-effect waves-block waves-light">
                 <img class="activator" src="img/LACTEOS_280824.jpg" width="100%">
               </div>
-              <div class="card-content" style="background-color:#200142;opacity:0.9;">
+              <div class="card-content" style="background-color:#071637;opacity:0.9;">
                 <span class="card-title activator" style="color:white;">Lacteos<i
                     class="material-icons right">more_vert</i></span>
                 <p style="color:white;">Aplicaciones</p>
               </div>
-              <div class="card-reveal" style="background-color:#200142;opacity:0.9;">
+              <div class="card-reveal" style="background-color:#071637;opacity:0.9;">
               <span class="card-title grey-text text-darken-4"><i class="material-icons right" style="color:white;">close</i></span>
                 <ol>
                   <li style="color:white;list-style:circle;">Coadyuvante humectante y dispersante para productos en polvo.</li>
@@ -871,12 +871,12 @@
               <div class="card-image waves-effect waves-block waves-light">
                 <img class="activator" src="img/CARNICOS_280824.jpg" width="100%">
               </div>
-              <div class="card-content" style="background-color:#200142;opacity:0.9;">
+              <div class="card-content" style="background-color:#071637;opacity:0.9;">
                 <span class="card-title activator" style="color:white;">Carnicos<i
                     class="material-icons right">more_vert</i></span>
                 <p style="color:white;">Aplicaciones</p>
               </div>
-              <div class="card-reveal" style="background-color:#200142;opacity:0.9;">
+              <div class="card-reveal" style="background-color:#071637;opacity:0.9;">
               <span class="card-title grey-text text-darken-4"><i class="material-icons right" style="color:white;">close</i></span>
                 <ol>
                   <li style="color:white;list-style:circle;">Mejora la mezcla y la emulsión.</li>
@@ -892,12 +892,12 @@
               <div class="card-image waves-effect waves-block waves-light">
                 <img class="activator" src="img/ALIMENTOS_FOSFORO_280824.jpg" width="100%">
               </div>
-              <div class="card-content" style="background-color:#200142;opacity:0.9;">
+              <div class="card-content" style="background-color:#071637;opacity:0.9;">
                 <span class="card-title activator" style="color:white;">Culinario<i
                     class="material-icons right">more_vert</i></span>
                 <p style="color:white;">Aplicaciones</p>
               </div>
-              <div class="card-reveal" style="background-color:#200142;opacity:0.9;">
+              <div class="card-reveal" style="background-color:#071637;opacity:0.9;">
               <span class="card-title grey-text text-darken-4"><i class="material-icons right" style="color:white;">close</i></span>
                 <ol>
                   <li style="color:white;list-style:circle;">Ayuda a mejorar la estabilidad de la emulsión.</li>
@@ -915,12 +915,12 @@
               <div class="card-image waves-effect waves-block waves-light">
                 <img class="activator" src="img/CB_SUPLEMENTOS_150221.jpg" width="100%">
               </div>
-              <div class="card-content" style="background-color:#200142;opacity:0.9;">
+              <div class="card-content" style="background-color:#071637;opacity:0.9;">
                 <span class="card-title activator" style="color:white;">Suplementos<i
                     class="material-icons right">more_vert</i></span>
                 <p style="color:white;">Aplicaciones</p>
               </div>
-              <div class="card-reveal" style="background-color:#200142;opacity:0.9;">
+              <div class="card-reveal" style="background-color:#071637;opacity:0.9;">
               <span class="card-title grey-text text-darken-4"><i class="material-icons right" style="color:white;">close</i></span>
                 <ol>
                   <li style="color:white;list-style:circle;">Contiene colina de forma natural.</li>
@@ -936,12 +936,12 @@
               <div class="card-image waves-effect waves-block waves-light">
                 <img class="activator" src="img/CB_ALIMENTO_ANIMAL_090223.jpg" width="100%">
               </div>
-              <div class="card-content" style="background-color:#200142;opacity:0.9;">
+              <div class="card-content" style="background-color:#071637;opacity:0.9;">
                 <span class="card-title activator" style="color:white;">Alimento Animal<i
                     class="material-icons right">more_vert</i></span>
                 <p style="color:white;">Aplicaciones</p>
               </div>
-              <div class="card-reveal" style="background-color:#200142;opacity:0.9;">
+              <div class="card-reveal" style="background-color:#071637;opacity:0.9;">
               <span class="card-title grey-text text-darken-4"><i class="material-icons right" style="color:white;">close</i></span>
                 <ol>
                   <li style="color:white;list-style:circle;">Proporciona fuente de energía.</li>

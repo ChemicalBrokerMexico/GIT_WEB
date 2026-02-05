@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <meta name="description" content="La cadena de suministro de Chemical Broker considera puntos esenciales que aseguran la integridad y cumplimiento de los procesos de su organizacion">
+  <meta name="description" content="Ofrecemos Servicios Integrales de cadena de suministro para ingredientes químicos: Transporte especializado, Manejo Seguro, Liberación Aduanal y Cumplimiento Regulatorio. Aseguramos disponibilidad, seguridad y eficiencia en cada etapa.">
   <title>Chemical Broker | Cadena de Suministro</title>
   <link rel="canonical" href="https://chemicalbroker.mx/Cadena_Suministro.php">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
@@ -269,13 +269,13 @@
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1888</p>
+                          +52.55.4438.7996</p>
                       </div>
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General
                         </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1818 </p>
+                          +52.55.4438.7996 </p>
                       </div>
                     </div>
                   </div>
@@ -358,7 +358,7 @@
     </ul>
   </div>
   <div class="row">
-    <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+    <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
       <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo">
       </div>
     </nav>
@@ -611,7 +611,7 @@
       <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Servicios.php"><b class="Tipografia--general Subtitulos" style="color:black;">Servicios > </b></a><a class="active" href="Cadena_Suministro.php"><b class="Tipografia--general Subtitulos" style="color:red;">Cadena de Suministro</b></a></section>
 
         <!-- <h5 class="colornegro Tipografia--general General--Cuerpo" style="text-align:center;font-size:24px"><b
-            style="color:#000020;margin-bottom:0px">Cadena de Suministros</b></h5> -->
+            style="color:#071637;margin-bottom:0px">Cadena de Suministros</b></h5> -->
         <h5 class="Tipografia--general General--Cuerpo"
           style="text-align:center;color:#0065ad;margin-top:50px;font-size:25px;margin-bottom:0px"><b style="color: #0065ad">En <b>Chemical Broker</b>, diseñamos y operamos soluciones eficientes de Cadena de Suministro para la industria química. Nuestra experiencia nos permite garantizar el abastecimiento continuo y seguro de ingredientes químicos, desde el origen hasta la entrega final, cumpliendo con normativas locales e internacionales.</b></h5>
       
@@ -625,7 +625,7 @@
             <div class="row">
               <div class="col s6 m6 l4 xl4">
                     
-                    <div class="container  center-align" style="background-color:#000020;border-radius: 60px;width: 300px;height:450px;color:white">
+                    <div class="container  center-align" style="background-color:#071637;border-radius: 60px;width: 300px;height:450px;color:white">
                     <i class="large material-icons" style="color:#DE7B1F;margin-top:-48px">supervisor_account</i> 
                     <h5 class="Tipografia--general letranegro General--Cuerpo" style="color:white;text-align:center"><b>Alianza Estratégica</b></h5>
                     <p class="Tipografia--general" style="color:white;padding:15px;font-family:Arial, Helvetica, sans-serif">Fomentamos la colaboración cercana con nuestros socios de negocio, construyendo relaciones sólidas basadas en la confianza, la transparencia y la comunicación constante. Esta visión nos permite desarrollar <b>Cadenas de Suministro</b> más resilientes, flexibles y adaptadas a las necesidades de cada cliente, anticipando retos del mercado y respondiendo con agilidad.</p>
@@ -633,21 +633,21 @@
                     
               </div>
               <div class="col s6 m6 l4 xl4 center-align">
-              <div class="container" style="background-color:#000020;border-radius:60px;width: 300px;height: 450px;color:white;">
+              <div class="container" style="background-color:#071637;border-radius:60px;width: 300px;height: 450px;color:white;">
               <i class="large material-icons" style="color:#DE7B1F;margin-top:-48px">offline_pin</i> 
               <h5 class="Tipografia--general letranegro General--Cuerpo" style="color:white;text-align:center"><b>Calidad y Seguridad</b></h5>
               <p class="Tipografia--general" style="color:white;padding:15px;font-family:Arial, Helvetica, sans-serif">Mantenemos los más altos estándares de calidad y seguridad en todos nuestros procesos. Garantizamos que cada ingrediente químico sea manejado y transportado de forma segura, cumpliendo rigurosamente con las normativas nacionales e internacionales aplicables. Trabajamos únicamente con proveedores certificados, que cuentan con auditorías y acreditaciones que respaldan la trazabilidad, integridad y cumplimiento regulatorio de cada producto.</p>
               </div>
               </div>
               <div class="col s6 m6 l4 xl4 center-align">
-              <div class="container" style="background-color:#000020;border-radius:60px;width: 300px;height: 450px;color:white;">
+              <div class="container" style="background-color:#071637;border-radius:60px;width: 300px;height: 450px;color:white;">
               <i class="large material-icons" style="color:#DE7B1F;margin-top:-48px">query_builder</i> 
               <h5 class="Tipografia--general letranegro General--Cuerpo" style="color:white;text-align:center"><b>Flexibilidad y Adaptabilidad</b></h5>
               <p class="Tipografia--general" style="color:white;padding:15px;font-family:Arial, Helvetica, sans-serif">Entendemos que las necesidades de nuestros clientes evolucionan constantemente. Por ello, diseñamos <b>Cadenas de Suministro</b> que no solo son eficientes, sino también flexibles. Estamos preparados para responder ante situaciones imprevistas, adaptando nuestros procesos logísticos y estrategias de abastecimiento para satisfacer cambios en la demanda, condiciones del mercado o requerimientos regulatorios.</p>
               </div>
             </div>
             <div class="col s12 m12 l12 xl12" style="margin-top:50px;">
-            <p class="Tipografia--general General--Cuerpo colrnegro">Nuestra comprensión de la cadena de suministro y nuestra experiencia en su optimización nos permiten ofrecer un <b style="color:#000020;">"Servicio Integral”</b> a todos nuestros socios de negocios, impulsando la eficiencia, la reducción de costos y la mejora de la calidad en cada etapa del proceso, cuidando atender cada aspecto como:</p>
+            <p class="Tipografia--general General--Cuerpo colrnegro">Nuestra comprensión de la cadena de suministro y nuestra experiencia en su optimización nos permiten ofrecer un <b style="color:#071637;">"Servicio Integral”</b> a todos nuestros socios de negocios, impulsando la eficiencia, la reducción de costos y la mejora de la calidad en cada etapa del proceso, cuidando atender cada aspecto como:</p>
             </div>
             <div class="col s12 m12 l6 xl6" style="margin-top:50px;">
               <img src="img/CB_SUPPLIERS_150923.jpg" alt="" width="100%" style="border-radius:10px;">
@@ -753,7 +753,7 @@ var cambiofondo = document.getElementById("cambiofondo");
 
 cuadrante_cadenasuministro.addEventListener("mouseover", function(){
 
-cuadrante_cadenasuministro.style.backgroundColor = "#000020";
+cuadrante_cadenasuministro.style.backgroundColor = "#071637";
 cambiofondo.style.backgroundImage = "url('img/CADENA_SUMINISTRO_BANNER_040123.jpg')";
 cambiofondo.style.width = "1900px"
 
@@ -769,7 +769,7 @@ cambiofondo.style.backgroundImage = "url('img/LOGISTICA-GLOBAL_BANNER_040123.jpg
 
 cuadrante_coberturariesgos.addEventListener('mouseover', function(){
 
-  cuadrante_coberturariesgos.style.backgroundColor = "#000020";
+  cuadrante_coberturariesgos.style.backgroundColor = "#071637";
   cambiofondo.style.backgroundImage = "url('img/COBERTURA-RIESGOS_BANNER_040123.jpg')";
   cambiofondo.style.width = "1900px"
 
@@ -784,7 +784,7 @@ cuadrante_coberturariesgos.addEventListener('mouseout', function(){
 
 cuadrante_comerciointernacional.addEventListener('mouseover',function(){
 
-  cuadrante_comerciointernacional.style.backgroundColor = "#000020";
+  cuadrante_comerciointernacional.style.backgroundColor = "#071637";
   cambiofondo.style.backgroundImage = "url('img/COMERCIO-INTERNACIONAL_BANNER_040123.jpg')";
   cambiofondo.style.width = "1900px"
 
@@ -799,7 +799,7 @@ cuadrante_comerciointernacional.addEventListener('mouseout', function(){
 
 cuadrante_logisticaglobal.addEventListener('mouseover', function(){
 
-  cuadrante_logisticaglobal.style.backgroundColor = "#000020";
+  cuadrante_logisticaglobal.style.backgroundColor = "#071637";
   cambiofondo.style.backgroundImage = "url('img/LOGISTICA-GLOBAL_BANNER_040123.jpg')"
   cambiofondo.style.width = "1900px"
 

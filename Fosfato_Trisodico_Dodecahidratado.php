@@ -3,7 +3,7 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Fosfato Trisodico Dodecahidratado</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <title>Chemical Broker | Fosfato Trisodico Dodecahidratado | Proveedor Global </title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="Los fosfatos se pueden definir como productos quimicos versatiles y multifuncionales que se comercializan ampliamente en diversas industiras debido a sus propiedades beneficiosas y aplicaciones variadas">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
@@ -34,6 +34,32 @@
       gtag('js', new Date());
       gtag('config', 'G-SGJQ8FDDJ6');
     </script>
+
+<script type="application/Id+json">
+    {
+
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Fosfato Trisodico Dodecahidratado",
+      "description": "Los fosfatos se pueden definir como productos quimicos versatiles y multifuncionales que se comercializan ampliamente en diversas industiras debido a sus propiedades beneficiosas y aplicaciones variadas,
+      "brand": {
+        "@type": "Brand",
+        "name": "Chemical Broker"
+      },
+
+      "offers":{
+        "@type": "Offer",
+        "url": "https://chemicalbroker.mx/Fosfato_Trisodico_Dodecahidratado.php",
+        "priceCurrency": "MXN",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Chemical Broker"
+        }
+      }
+    }
+  </script>
+
 <script type="text/javascript" src="js/main.js"></script>
 </head>
 <body> 
@@ -159,11 +185,11 @@
 <h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Teléfonos </h6>
 <div class="col s12 m12 l12 xl12">
 <h6 class="Tipografia--general Titulos color--blanco">Ventas </h6>
-<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
 </div>
 <div class="col s12 m12 l12 xl12"> 
 <h6 class="Tipografia--general Titulos color--blanco">Información General </h6>
-<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+<p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
 </div>
 </div>
 </div>
@@ -447,7 +473,7 @@
 
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b style="color:#FF6600;">Fosfato Trisódico Dodecahidratado</b>, con la fórmula química Na₃PO₄·12H₂O, es un compuesto inorgánico que se presenta como cristales blancos o polvo blanco y es altamente soluble en agua. Es conocido por sus numerosas aplicaciones en distintas industrias gracias a sus propiedades alcalinas y su capacidad para actuar como agente de limpieza, regulador de pH y dispersante.</p>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020">Propiedades Físicas</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637">Propiedades Físicas</b></h5>
 
       <ol>
         <li class="Elementos--Listas">Fórmula química: Na₃PO₄·12H₂O</li>
@@ -458,7 +484,7 @@
       
       </ol>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Propiedades Funcionales</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Propiedades Funcionales</b></h5>
 
       <ol>
         <li class="Elementos--Listas">Agente Secuestrante: Capaz de ablandar el agua mediante la precipitación de cationes como calcio y magnesio.</li>
@@ -468,11 +494,11 @@
       </ol>
 
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Aplicaciones</b></h5>
 
       <p class="Tipografia--general letranegro General--Cuerpo">El Fosfato Trisódico Dodecahidratado (Na₃PO₄·12H₂O) tiene una amplia variedad de aplicaciones en diferentes industrias debido a sus propiedades químicas y físicas. </p>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Detergentes y Productos de Limpieza:</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Detergentes y Productos de Limpieza:</b></h5>
 
       <ol>
         <li class="Elementos--Listas">Detergentes Industriales y Domésticos: Utilizado en la formulación de detergentes debido a su capacidad para ablandar el agua y mejorar la eficacia de los agentes limpiadores.</li>
@@ -480,7 +506,7 @@
       </ol>
     
       
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Tratamiento de Agua:</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Tratamiento de Agua:</b></h5>
 
       <ol>
         <li class="Elementos--Listas" >Ablandamiento de Agua: Empleado para precipitar iones de calcio y magnesio, reduciendo la dureza del agua.</li>
@@ -488,39 +514,39 @@
       </ol>
 
          
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Alimentaria:</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Industria Alimentaria:</b></h5>
 
       <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Aditivo Alimentario (E339): Usado como regulador de acidez, agente antiaglomerante y estabilizador en una variedad de productos alimenticios.</li>
         <li class="Elementos--Listas" style="margin-top:30px;">Mejora de Textura: Ayuda a mejorar la textura y consistencia de productos cárnicos y lácteos procesados.</li>
       </ol>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria de la Cerámica y el Vidrio:</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Industria de la Cerámica y el Vidrio:</b></h5>
 
       <ol>
         <li class="Elementos--Listas">Defloculante: Utilizado para reducir la viscosidad de las barbotinas en la producción de cerámica, mejorando la trabajabilidad y el acabado del producto final.</li>
         <li class="Elementos--Listas">Fabricación de Vidrio: Ayuda en la producción de ciertos tipos de vidrio, mejorando sus propiedades físicas.</li>
       </ol>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Electrónica:</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Industria Electrónica:</b></h5>
 
       <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Limpieza de Superficies: Utilizado para la limpieza y preparación de superficies en la fabricación de componentes electrónicos, asegurando la eliminación de residuos y contaminantes.</li>
       </ol>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Industria Textil:</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Industria Textil:</b></h5>
 
       <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Auxiliar de Procesos: Empleado en el proceso de teñido y acabado de textiles, mejorando la absorción del tinte y la uniformidad del color.</li>
       </ol>
     
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Construcción y Materiales:</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Construcción y Materiales:</b></h5>
 
       <ol>
         <li class="Elementos--Listas" style="margin-top:30px;">Aditivo en Morteros y Cementos: Ayuda a controlar la viscosidad y la trabajabilidad de mezclas de mortero y cemento.</li>
       </ol>
 
-      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#000020;">Aplicaciones Domésticas:</b></h5>
+      <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color:#071637;">Aplicaciones Domésticas:</b></h5>
 
 <ol>
   <li class="Elementos--Listas">Limpieza de Superficies: Utilizado en productos de limpieza para la eliminación de manchas difíciles en cocinas, baños y otras superficies domésticas.</li>

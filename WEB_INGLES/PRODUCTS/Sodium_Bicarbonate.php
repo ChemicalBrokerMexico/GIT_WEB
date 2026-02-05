@@ -224,13 +224,13 @@
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !important;">Ventas </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1888</p>
+                          +52.55.4438.7996</p>
                       </div>
                       <div class="col s12 m12 l12 xl12">
                         <h6 class="Tipografia--general Titulos" style="color:white !Important;">Información General
                         </h6>
                         <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:
-                          +52.55.7586.1818 </p>
+                          +52.55.4438.7996 </p>
                       </div>
                     </div>
                   </div>
@@ -314,7 +314,7 @@
     </ul>
   </div>
   <div class="row">
-    <nav style="background-color:#000020;height:137px;margin-top:-35px" role="navigation">
+    <nav style="background-color:#071637;height:137px;margin-top:-35px" role="navigation">
       <div class="nav-wrapper container contlog"><img class="img-logo" src="img/CB_IMAGOTIPO_AZUL.png" alt="Logotipo">
       </div>
     </nav>
@@ -751,8 +751,8 @@
           
 
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;margin-bottom:0px;">Cloruro de sodio (NaCl) + Amoníaco (NH<sub>3</sub>) +
-          Dióxido de carbono (CO<sub>2</sub>) + Agua (H<sub>2</sub>O) En la cual precipita el <b style="color:#000020;">bicarbonato de sodio</b> debido a la capacidad del
-          <b style="color:#000020;">bicarbonato de sodio</b> de liberar dióxido de carbono se usa junto con compuestos acídicos.</p>
+          Dióxido de carbono (CO<sub>2</sub>) + Agua (H<sub>2</sub>O) En la cual precipita el <b style="color:#071637;">bicarbonato de sodio</b> debido a la capacidad del
+          <b style="color:#071637;">bicarbonato de sodio</b> de liberar dióxido de carbono se usa junto con compuestos acídicos.</p>
 
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">Debido a la capacidad del bicarbonato de sodio de liberar dióxido de carbono se usa junto con compuestos acídicos y tiene diversas funciones y aplicaciones:</p>
 
@@ -785,7 +785,7 @@
 
         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Aplicaciones:</b></h2>
 
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;"><b style="color:#000020;">Industria Farmacéutica</b></h2>
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;"><b style="color:#071637;">Industria Farmacéutica</b></h2>
 
         <ol>
           <li class="Elementos--Listas">Excipiente</li>
@@ -801,7 +801,7 @@
           <li class="Elementos--Listas">Neutralizador de olores</li>
         </ol>
 
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;"><b style="color:#000020;">Industria Alimentaria</b></h2>
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;"><b style="color:#071637;">Industria Alimentaria</b></h2>
 
        <ol>
         <li class="Tipografia--general letranegro Elementos--Listas">Leudante de pan . - Se utiliza como agente leudante en productos horneados como pan, pasteles y galletas</li>
@@ -838,11 +838,11 @@
 
 
         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Pet y Nutrición Animal</b></h2>
-        <p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#000020;">bicarbonato de sodio</b> ofrece una gama de soluciones
+        <p class="Tipografia--general letranegro General--Cuerpo">El <b style="color:#071637;">bicarbonato de sodio</b> ofrece una gama de soluciones
           eficaces para la nutrición, la higiene y la calidad de los piensos.</p>
         <p class="Tipografia--general letranegro General--Cuerpo">Es un complemento alimenticio para rumiantes, cerdos y
           aves, esencial y de alto valor para mejorar el bienestar y el rendimiento del ganado. </p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">El <b style="color:#000020;">bicarbonato de sodio</b> es
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">El <b style="color:#071637;">bicarbonato de sodio</b> es
           un ingrediente con potencial benéfico en la alimentación de pollos debido a su efecto sobre el balance
           electrolítico y adicionalmente por mejorar la digestibilidad proteica y el rendimiento de los mismos.</p>
 
@@ -850,7 +850,7 @@
         <p class="Tipografia--general letranegro General--Cuerpo">En las plantas de producción de biogás, se puede
           utilizar como medida preventiva o curativa en caso de acidosis para estabilizar el pH en el digestor y
           asegurar una producción optima de biogás.</p>
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">La adición de <b style="color:#000020;">bicarbonato
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">La adición de <b style="color:#071637;">bicarbonato
           de sodio</b> al sustrato puede aumentar el volumen de biogás producido cada día en 115 m3, es decir, en un 1.8%.
         </p>
 

@@ -141,11 +141,11 @@
                         <h6 class="Tipografia--general Titulos color--blanco" style="padding-top:5px">Teléfonos </h6>
                         <div class="col s12 m12 l12 xl12">
                           <h6 class="Tipografia--general Titulos color--blanco">Ventas </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.7586.1888</a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono:<a class="arrowblue" href="tel:+525575861888" style="color:#a7a7a7">+52.55.4438.7996</a></p>
                         </div>
                         <div class="col s12 m12 l12 xl12"> 
                           <h6 class="Tipografia--general Titulos color--blanco">Información General </h6>
-                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.7586.1818 </a></p>
+                          <p class="Tipografia--general General--Cuerpo" style="color: #a7a7a7 !important;">Teléfono: <a class="arrowblue" href="tel:+525575861818" style="color:#a7a7a7">+52.55.4438.7996 </a></p>
                         </div>
                       </div>
                     </div>
@@ -447,7 +447,7 @@
       <img class="activator" src="img/EXCELENCIA_CB.jpg">
     </div>
     <div class="card-content">
-      <span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Excelencia<i class="material-icons right">arrow_upward</i></b></span>
+      <span class="card-title activator grey-text text-darken-4"><b style="color:#071637;border-bottom:1px solid red">Excelencia<i class="material-icons right">arrow_upward</i></b></span>
     </div>
     <div class="card-reveal">
       <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
@@ -456,7 +456,7 @@
           <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px"> <i class="tiny material-icons">arrow_forward_ios</i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Etimología</b></h2>
           <p class="Tipografia--general letranegro General--Cuerpo">La palabra excelencia viene del latín, Excellentia-ae, de ex y cella una raíz indoeuropea *kel- en griego kelo que significa lugar oculto o escondido, bodega, de ahí derivo la castellana celda y en alemán keller (sótano) y zelle (celda), por el cambio de la pronunciación de c como k en el latin clásico (keller) y la c como ts en el eclesiastico (zelle). excellentia, significaría salir de lo oculto, significando también superioridad, grandeza, elevarse, enorgullecerse, De esta palabra, salieron marcas como, por ejemplo. El programa para computadoras Excel.</p>
           <h2 class="Tipografia--general letranegro Subtitulos" style="margin-top:50px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color:#545454;text-decoration:underline;text-decoration-color:#F7291E">Excelencia para Chemical Broker</b></h2>
-          <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">Maximizar los Estándares determinados por <b style="color:#000020">Chemical Broker</b> para cada proceso:</p>
+          <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">Maximizar los Estándares determinados por <b style="color:#071637">Chemical Broker</b> para cada proceso:</p>
           <ol class="Tipografia--general letranegro General--Cuerpo"> 
             <li style="font-size:16px">Estándar de <b>Calidad</b></li>
             <li style="font-size:16px">Estándar de <b>Cantidad</b></li>
@@ -473,7 +473,7 @@
       <img class="activator" src="img/CB_GOOD_CUSTOMER_130722.jpeg">
     </div>
     <div class="card-content">
-      <span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Servicio<i class="material-icons right">arrow_upward</i></b></span>
+      <span class="card-title activator grey-text text-darken-4"><b style="color:#071637;border-bottom:1px solid red">Servicio<i class="material-icons right">arrow_upward</i></b></span>
     </div>
     <div class="card-reveal">
       <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
@@ -496,7 +496,7 @@
       <img class="activator" src="img/COMPROMISO_CB.jpg">
     </div>
     <div class="card-content">
-      <span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Compromiso<i class="material-icons right">arrow_upward</i></b></span>
+      <span class="card-title activator grey-text text-darken-4"><b style="color:#071637;border-bottom:1px solid red">Compromiso<i class="material-icons right">arrow_upward</i></b></span>
     </div>
     <div class="card-reveal">
       <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
@@ -518,7 +518,7 @@
       <img class="activator" src="img/ETICA_CB.jpg">
     </div>
     <div class="card-content">
-      <span class="card-title activator grey-text text-darken-4"><b style="color:#000020;border-bottom:1px solid red">Etica Empresarial<i class="material-icons right">arrow_upward</i></b></span>
+      <span class="card-title activator grey-text text-darken-4"><b style="color:#071637;border-bottom:1px solid red">Etica Empresarial<i class="material-icons right">arrow_upward</i></b></span>
     </div>
     <div class="card-reveal">
       <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
@@ -527,7 +527,7 @@
           <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color: #008037;text-decoration:underline;text-decoration-color:#F7291E;">Etimología</b></h2>
           <p class="Tipografia--general letranegro General--Cuerpo">Se ubica en el latín como ethĭca, forma femenina de ethĭcus, cuyo origen se distingue en el griego ēthikḗ, en calidad de femenino de ēthikós. Es utilizada para referirse al estudio de los actos humanos con el fin de alcanzar el bien, es la voluntad de actuar de manera correcta.</p>
           <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><i class="tiny material-icons">arrow_forward_ios</i><b style="color: #008037;text-decoration:underline;text-decoration-color:#F7291E;">Etica Empresarial para Chemical Broker</b></h2>
-          <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">Actuar con <b>Respeto, Transparencia y Cumplimiento estricto a nuestros compromisos </b>con Nuestros Socios de Negocios; miembros de la organización, sociedad, gobierno, clientes y proveedores, apegado al marco legal vigente entre <b style="color:#000020">Chemical Broker</b> y los involucrados.
+          <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">Actuar con <b>Respeto, Transparencia y Cumplimiento estricto a nuestros compromisos </b>con Nuestros Socios de Negocios; miembros de la organización, sociedad, gobierno, clientes y proveedores, apegado al marco legal vigente entre <b style="color:#071637">Chemical Broker</b> y los involucrados.
           </p><br>
     </div>
   </div>
