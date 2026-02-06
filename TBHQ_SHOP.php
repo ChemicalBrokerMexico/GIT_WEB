@@ -609,7 +609,7 @@
 <div class="container" style="margin-top:100px">
     <div class="row">
         <div class="col s6 m6 l6 x6">
-        <img src="img/COSTAL_LOGO.png" style="width:100%;" alt="SACO DE PRODUCTO">
+        <img src="img/SACO_PRODUCTOS_GENERAL_LOGO.jpg" style="width:100%;" alt="SACO DE PRODUCTO">
         </div>
         <div class="col s6 m6 l6 xl6">
             <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Ter-Butilhidroquinona (TBHQ)</b></h2>
@@ -706,8 +706,8 @@
             </table>
         </div>
         <div class="col s12 m12 l12 xl12">
-        <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Datos del Producto</b></h2>
-        <table>
+        <!-- <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Datos del Producto</b></h2> -->
+        <!-- <table>
             <tr>
                 <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Documentos Tecnicos</b></td>
                 <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Hoja de datos de seguridad</td>
@@ -716,7 +716,7 @@
                 <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Documentos Normativos</b></td>
                 <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Ver Documentos</td>
             </tr>
-        </table>
+        </table> -->
         </div>
     </div>
 </div>
@@ -724,8 +724,8 @@
 <div class="container">
     <div class="row">
         <div class="col s12 m12 l12 xl12">
-            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Pongase en contacto para cotizar, 24 horas al día, 7 días a la semana</b></h2>
-            <button style="background-color:#071637;color:white;width:100%;border-radius:15px;height:60px;">Contactenos</button>
+            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Cotiza o Consulta con nosotros tu requerimiento 24/7</b></h2>
+            <!-- <button style="background-color:#071637;color:white;width:100%;border-radius:15px;height:60px;">Contactenos</button> -->
         </div>
     </div>
 </div>

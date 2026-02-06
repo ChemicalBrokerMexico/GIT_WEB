@@ -4,9 +4,9 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
     <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos.">
-    <title>Chemical Broker | Acido Citrico | Proveedor Global</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <meta name="description" content="Algunas organizaciones buscan vender mas, nosotros buscamos crecer en conjunto con nuestros socios de negocios, conoce nuestra marca.">
-    <link rel="canonical" href="https://chemicalbroker.mx/PRUEBA_PRODUCTO_VIEW.php">
+    <title>Chemical Broker | Acido Citrico Anhidro | Proveedor Global | Shop</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <meta name="description" content="Acido citrico anhidro calidad industrial y alimenticia. Ideal para alimentos, bebidas, productos farmacéuticos y cosméticos. Suministro confiable y especifico tecnicas completas.">
+    <link rel="canonical" href="https://chemicalbroker.mx/ACIDO_CITRICO_ANHIDRO_SHOP.php">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen"/>
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen"/>
@@ -424,182 +424,6 @@
 
 <p class="Tipografia--general letranegro General--Cuerpo">El Ácido Cítrico Anhidro es un ácido orgánico natural, en forma de polvo blanco, sin agua, que se usa para dar acidez, conservar y regular el pH en muchos productos.</p>
 
-
-<table style="border:none;">
-
-    <tr style="border:none">
-
-    <td colspan="2"><center><img src="img/COSTAL_LOGO.PNG" alt="SACO DE PRODUCTO"></img></center></td>
-
-    </tr>
-
-    <tr style="border:none;">
-        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Descripción Química:</td>
-        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Ácido Cítrico</td>
-    </tr>
-
-    <tr style="border:none">
-        <td class="Tipografia--general letranegro General--Cuerpo"></td>
-        <td class="Tipografia--general letranegro General--Cuerpo"></td>
-    </tr>
-
-    <tr style="border:none">
-        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Familia:</td>
-        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Ácidos Carboxilicos</td>
-    </tr>
-
-    <tr style="border:none">
-        <td class="Tipografia--general letranegro General--Cuerpo"></td>
-        <td class="Tipografia--general letranegro General--Cuerpo"></td>
-    </tr>
-
-    <tr style="border:none">
-        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">CAS #:</td>
-        <td class="Tipografia--general letranegro General--Cuerpo">77-92-9</td>
-    </tr>
-
-    <tr style="border:none">
-        <td class="Tipografia--general letranegro General--Cuerpo"></td>
-        <td class="Tipografia--general letranegro General--Cuerpo"></td>
-    </tr>
-
-    <tr style="border:none">
-        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Apariencia:</td>
-        <td class="Tipografia--general letranegro General--Cuerpo">Cristales translucidos incoloros o como Polvo Blanco, Fino y Cristalino.</td>
-    </tr>
-
-    <tr style="border:none">
-        <td class="Tipografia--general letranegro General--Cuerpo"></td>
-        <td class="Tipografia--general letranegro General--Cuerpo"></td>
-    </tr>
-
-    <tr style="border:none">
-        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Grado:</td>
-        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">USP | FCC</td>
-    </tr>
-
-    <tr style="border:none">
-        <td class="Tipografia--general letranegro General--Cuerpo"></td>
-        <td class="Tipografia--general letranegro General--Cuerpo"></td>
-    </tr>
-
-    <tr style="border:none">
-        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Certificaciones:</td>
-        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Kosher | Halal</td>
-    </tr>
-
-    <tr style="border:none">
-        <td class="Tipografia--general letranegro General--Cuerpo"></td>
-        <td class="Tipografia--general letranegro General--Cuerpo"></td>
-    </tr>
-
-    <tr style="border:none">
-        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Presentación:</td>
-        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Saco 25 Kg.</td>
-    </tr>
-
-    <tr style="border:none">
-        <td class="Tipografia--general letranegro General--Cuerpo"></td>
-        <td class="Tipografia--general letranegro General--Cuerpo"></td>
-    </tr>
-
-    <tr style="border:none">
-        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Contenido:</td>
-        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">99.5 – 100.5%</td>
-    </tr>
-
-    <tr style="border:none">
-        <td class="Tipografia--general letranegro General--Cuerpo"></td>
-        <td class="Tipografia--general letranegro General--Cuerpo"></td>
-    </tr>
-
-    <tr style="border:none">
-        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Humedad:</td>
-        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">≤0.5%</td>
-    </tr>
-
-    <tr style="border:none">
-        <td class="Tipografia--general letranegro General--Cuerpo"></td>
-        <td class="Tipografia--general letranegro General--Cuerpo"></td>
-    </tr>
-
-    <tr style="border:none">
-        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Valor de pH (5%):</td>
-        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">1.7 – 2.0</td>
-    </tr>
-
-    <tr style="border:none">
-        <td class="Tipografia--general letranegro General--Cuerpo"></td>
-        <td class="Tipografia--general letranegro General--Cuerpo"></td>
-    </tr>
-
-    <tr style="border:none">
-        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Ácido Oxálico:</td>
-        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">≤100 mg/Kg.</td>
-    </tr>
-
-    <tr style="border:none">
-        <td class="Tipografia--general letranegro General--Cuerpo"></td>
-        <td class="Tipografia--general letranegro General--Cuerpo"></td>
-    </tr>
-
-    <tr style="border:none">
-        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Sulfato:</td>
-        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">≤150 ppm</td>
-    </tr>
-
-    <tr style="border:none">
-        <td class="Tipografia--general letranegro General--Cuerpo"></td>
-        <td class="Tipografia--general letranegro General--Cuerpo"></td>
-    </tr>
-
-    <tr style="border:none">
-        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Sustancias fácilmente carbonizables:</td>
-        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">ABS ≤0.52 <br> TRA ≥30 % </td>
-    </tr>
-
-    <tr style="border:none">
-        <td class="Tipografia--general letranegro General--Cuerpo"></td>
-        <td class="Tipografia--general letranegro General--Cuerpo"></td>
-    </tr>
-
-    <tr style="border:none">
-        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Residuos de Ignicion:</td>
-        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">≤0.05%</td>
-    </tr>
-
-    <tr style="border:none">
-        <td class="Tipografia--general letranegro General--Cuerpo"></td>
-        <td class="Tipografia--general letranegro General--Cuerpo"></td>
-    </tr>
-
-    <tr style="border:none">
-        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Vida de Anaquel:</td>
-        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">3 años</td>
-    </tr>
-
-    <tr style="border:none">
-        <td class="Tipografia--general letranegro General--Cuerpo"></td>
-        <td class="Tipografia--general letranegro General--Cuerpo"></td>
-    </tr>
-
-    <tr style="border:none">
-        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Aplicación:</td>
-        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">El ácido cítrico se utiliza principalmente como acidulante, aromatizante y conservante en alimentos y bebidas. También se utiliza como antioxidante, plastificante y formador de detergentes.</td>
-    </tr>
-
-    <tr style="border:none">
-        <td class="Tipografia--general letranegro General--Cuerpo"></td>
-        <td class="Tipografia--general letranegro General--Cuerpo"></td>
-    </tr>
-
-    <tr style="border:none">
-        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Cantidad Mínima de Venta:</td>
-        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">FCL 20´ (24,500 Kg.)</td>
-    </tr>
-
-</table>
-
 </div>
 </div>
 </div>
@@ -607,9 +431,9 @@
 <div class="container" style="margin-top:100px">
     <div class="row">
         <div class="col s6 m6 l6 x6">
-        <img src="img/COSTAL_LOGO.png" style="width:100%;" alt="SACO DE PRODUCTO">
+        <img src="img/SACO_PRODUCTOS_GENERAL_LOGO.jpg" style="width:100%;" alt="SACO DE PRODUCTO">
         </div>
-        <div class="col s6 m6 l6 xl6">
+        <!-- <div class="col s6 m6 l6 xl6">
             <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Ácido Cítrico</b></h2>
             <table>
                 <tr>
@@ -621,7 +445,7 @@
                     <td class="Tipografia--general General--Cuerpo letranegro" style="border:none;background-color:#a7a7a7;color:white;"><center>P-50</center></td>
                 </tr>
             </table>
-        </div>
+        </div> -->
         <div class="col s6 m6 l6 xl6">
             <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Datos del Producto</b></h2>
             <table>
@@ -687,7 +511,7 @@
                 </tr>
             </table>
         </div>
-        <div class="col s12 m12 l12 xl12">
+        <!-- <div class="col s12 m12 l12 xl12">
         <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Datos del Producto</b></h2>
         <table>
             <tr>
@@ -699,15 +523,15 @@
                 <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Ver Documentos</td>
             </tr>
         </table>
-        </div>
+        </div> -->
     </div>
 </div>
 
 <div class="container">
     <div class="row">
         <div class="col s12 m12 l12 xl12">
-            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Pongase en contacto para cotizar, 24 horas al día, 7 días a la semana</b></h2>
-            <button style="background-color:#071637;color:white;width:100%;border-radius:15px;height:60px;">Contactenos</button>
+            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Cotiza o Consulta con nosotros tu requerimiento 24/7</b></h2>
+            <!-- <button style="background-color:#071637;color:white;width:100%;border-radius:15px;height:60px;">Contactenos</button> -->
         </div>
     </div>
 </div>

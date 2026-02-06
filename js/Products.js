@@ -586,7 +586,7 @@ function filtroall(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Coco RBD</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El >El <b>Aceite de Coco Refinado, Blanqueado, Desodorizado (RBD)</b> es un tipo de aceite de coco que ha pasado por un proceso de refinacion para eliminar impurezas, olores y sabores fuertes. Este tipo de aceite es ideal para aplicaciones culinarias y cosméticas donde se prefiere un producto neutro en olor y sabor.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Aceite de Coco Refinado, Blanqueado, Desodorizado (RBD)</b> es un tipo de aceite de coco que ha pasado por un proceso de refinacion para eliminar impurezas, olores y sabores fuertes. Este tipo de aceite es ideal para aplicaciones culinarias y cosméticas donde se prefiere un producto neutro en olor y sabor.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Coco_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -598,7 +598,7 @@ function filtroall(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Maiz</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">>El <b>Aceite de Coco Refinado, Blanqueado, Desodorizado (RBD)</b>, es un tipo de aceite vegetal que se obtiene del maíz mediante un proceso de refinamiento. Este proceso implica eliminar impurezas, olores y sabores no deseados del aceite crudo de maíz.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Aceite de Maíz Refinado, Blanqueado y Desodorizado (RBD)</b>, es un tipo de aceite vegetal que se obtiene del maíz mediante un proceso de refinamiento. Este proceso implica eliminar impurezas, olores y sabores no deseados del aceite crudo de maíz.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Maiz.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -1118,7 +1118,7 @@ function filtroa(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Coco</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b style="color:#071637">Aceite de coco</b> es un aceite vegetal derivado de la pulpa del coco (Cocos nucifera). Se obtiene mediante procesos de prensado en frio o extracción con calor de la carne blanca o la copra del coco. Es conocido por su alta concentración de ácidos grasos saturados de cadena media, especialmente acido láurico.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b style="cor:#071637">Aceite de coco</b> es un aceite vegetal derivado de la pulpa del coco (Cocos nucifera). Se obtiene mediante procesos de prensado en frio o extracción con calor de la carne blanca o la copra del coco. Es conocido por su alta concentración de ácidos grasos saturados de cadena media, especialmente acido láurico.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Coco.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -1130,7 +1130,7 @@ function filtroa(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Coco RBD</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El >El <b>Aceite de Coco Refinado, Blanqueado, Desodorizado (RBD)</b> es un tipo de aceite de coco que ha pasado por un proceso de refinacion para eliminar impurezas, olores y sabores fuertes. Este tipo de aceite es ideal para aplicaciones culinarias y cosméticas donde se prefiere un producto neutro en olor y sabor.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Aceite de Coco Refinado, Blanqueado, Desodorizado (RBD)</b> es un tipo de aceite de coco que ha pasado por un proceso de refinacion para eliminar impurezas, olores y sabores fuertes. Este tipo de aceite es ideal para aplicaciones culinarias y cosméticas donde se prefiere un producto neutro en olor y sabor.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Coco_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
@@ -1142,7 +1142,7 @@ function filtroa(){
     <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
     <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Maiz</b></h5>
     <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">>El <b>Aceite de Coco Refinado, Blanqueado, Desodorizado (RBD)</b>, es un tipo de aceite vegetal que se obtiene del maíz mediante un proceso de refinamiento. Este proceso implica eliminar impurezas, olores y sabores no deseados del aceite crudo de maíz.</p>
+    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Aceite de Maíz Refinado, Blanqueado y Desodorizado (RBD)</b>, es un tipo de aceite vegetal que se obtiene del maíz mediante un proceso de refinamiento. Este proceso implica eliminar impurezas, olores y sabores no deseados del aceite crudo de maíz.</p>
     <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Maiz.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>

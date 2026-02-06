@@ -650,8 +650,8 @@
         <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Fabricante:</b></h2>
 
         <ol style="margin-top:50px;">
-        <img src="img/Cargill-Logo_2.png" alt="" class="logo_lecitinas_secundarias"><span class="arrowblue">Ver Más...</span></a>
-          <!-- <li class="Elementos--listas Tipografia--general"><a href="PAGINA_SECUNDARIA_LECITINAS.php" style="color: black;" class="arrowblue">Cargill</a></li> -->
+        <a href="PAGINA_SECUNDARIA_LECITINAS.php"><img src="img/Cargill-Logo_2.png" alt="" class="logo_lecitinas_secundarias"><span class="arrowblue" style="color:black;">Ver Más...</span></a>
+           <!-- <li class="Elementos--listas Tipografia--general"><a href="PAGINA_SECUNDARIA_LECITINAS.php" style="color: black;" class="arrowblue">Cargill</a></li>  -->
         </ol>
 
   </div>
