@@ -171,8 +171,8 @@
                         <li> <a class="arrowblue Tipogradia--general Subtitulos" href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download>Politica de Privacidad <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                         <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
-                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBM_CODCONDUCT_PROVEEDORES.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBM_CODCONDUCT_CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                       </p>
                     </ul>
                   </section>
@@ -409,7 +409,7 @@
         <div class="row">
             <div class="col s12 m12 l12 xl12">
                 <h2 class="Tipografia--general Titulos top--lecitinas center-align"><b style="color:#071637;font-size:22px;">Política de Calidad</b></h2>
-                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Para <b style="color:#071637;font-size:16px">Camacho & Elizondo S.A de C.V.</b> nuestro compromiso es lograr la satisfacción de las necesidades de nuestros socios de negocios y su desarrollo a través de la comercialización de ingredientes químicos, para las industrias: Farmacéutica, Nutrición Humana, Veterinaria, Nutrición Animal, Cosmética, Cuidado Personal, Agroquímicos, Detergentes, Cuidado del Hogar e Industria Química en general, para cumplir con el marco regulatorio, normas y políticas aplicables, con el principal objetivo de lograr la mejora continua de nuestros procesos y nuestro Sistema de Gestión Integral.</p>
+                <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Para <b style="color:#071637;font-size:16px">Chemical Broker</b> nuestro compromiso es lograr la satisfacción de las necesidades de nuestros socios de negocios y su desarrollo a través de la comercialización de ingredientes químicos, para las industrias: <b>Farmacéutica</b>, <b>Nutrición Humana</b>, <b>Veterinaria</b>, <b>Nutrición Animal</b>, <b>Cosmética & Cuidado Personal</b>, <b>Agroquímicos</b>, <b>Detergentes</b>, <b>Cuidado del Hogar e Industria Química en general</b>, para cumplir con el marco regulatorio, normas y políticas aplicables, con el principal objetivo de lograr la mejora continua de nuestros procesos y nuestro Sistema de Gestión Integral.</p>
                 <h2 class="Tipografia--general Titulos top--lecitinas center-align" style="margin-top:50px;"><b style="color:#071637;font-size:22px;">Objetivos de Calidad</b></h2>
                 <ol style="list-style-type: disc;margin-top:50px;margin-bottom:0px;">
                     <li class="Tipografia--general letranegro" style="list-style-type:disc;">Mantener la satisfacción del Cliente.</li>

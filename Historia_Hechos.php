@@ -173,8 +173,8 @@
                         <li> <a class="arrowblue Tipografia--general Subtitulos" href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download="download">Politica de Privacidad <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                         <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
-                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBM_CODCONDUCT_PROVEEDORES.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBM_CODCONDUCT_CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                       </p>
                     </ul>
                   </section>
@@ -396,8 +396,8 @@
             <div class="caption center-align"><br><br><br><br>
               <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Historia y Hechos</b>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Historia & Hechos</b></a></section>
-    </div>
+             
+              </div>
             </div>
           </li>
         </ul>
@@ -407,6 +407,7 @@
     <div class="container" style="margin-top:120px;">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
+            <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Historia & Hechos</b></a></section>
           <h2 style="margin-top:0px"> <b class="Tipografia--general Subtitulos" style="color:#262137;border-bottom:1.5px solid #b12729;">Hechos </b></h2>
           <p class="Tipografia--general General--Cuerpo  letranegro" style="text-align:justify">Al entender los problemas y dificultades que viven diariamente las empresas enfocadas en la producción de&nbsp<b style="color:#262137">ingredientes químicos</b> y productos terminados alrededor del mundo, por la obtención de <b style="color:#262137">materias primas&nbsp</b>debido a un servicio inadecuado y poco profesional de proveedores, así como por desconocimiento en temas de<b style="color:#262137">&nbspnegociación, adquisición, importación, exportación, Servicios&nbsp</b>y coberturas de seguros, se crea la firma:
           </p>

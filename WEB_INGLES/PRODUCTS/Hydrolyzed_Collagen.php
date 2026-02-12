@@ -174,8 +174,8 @@
                         <li> <a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download>Privacy Policy <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                         <li><a class="arrowblue Tipografia--general Subtitulos" href="../Politics/Politica_Calidad.php">Quality politics &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
-                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Supplier Code of Conduct &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Customer Code of Conduct &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBM_CODCONDUCT_PROVEEDORES.pdf" download>Supplier Code of Conduct &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBM_CODCONDUCT_CLIENTES.pdf" download>Customer Code of Conduct &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                       </p>
                     </ul>
                   </section>

@@ -172,8 +172,8 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <li> <a class="arrowblue Tipografia--general Subtitulos" href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download>Politica de Privacidad <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                      id="aparece"></i></a></li>
-  <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+  <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBM_CODCONDUCT_PROVEEDORES.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBM_CODCONDUCT_CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 </ul>
 </section>
 </div>
@@ -405,7 +405,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;">Nuestras certificaciones son un testimonio de nuestro compromiso con los más altos estándares internacionales en la gestión de la calidad y demuestra nuestra dedicación en ofrecer productos y servicios confiables y seguros para nuestros clientes y proveedores.</p>
 <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#071637;">Certificaciones de Chemical Broker:</b></h2>
 <ol>
-    <li class="Elementos--Listas" style="color:#0000FF;"><a href="PDF/DNV_CERTIFICADO-ISO-9001-2015_FOLIO_C627141_CAMACHO&ELIZONDO_110123.pdf" style="cursor:pointer;color:black;" class="arrowblue" download>ISO 9001</li></a>
+    <li class="Elementos--Listas" style="color:#0000FF;"><a href="PDF/DNV_CERTIFICADO-ISO-9001-2015" style="cursor:pointer;color:black;" class="arrowblue" download>ISO 9001</li></a>
     <!-- <li class="Elementos--Listas" style="color:#0000FF;">Ecovadis Bronce</li> -->
 </ol>
 <p class="Tipografia--general letranegro General--Cuerpo" style="color:#071637;margin-top:30px;">Para <b style="color:#071637;">Chemical Broker</b>, una gestión integral y eficiente tiene como resultado la excelencia en nuestros productos y servicios para todos y cada uno de nuestros socios de negocios.</p>
@@ -417,7 +417,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 
 
 
-<div class="container center-align no_compliance">
+<!-- <div class="container center-align no_compliance">
     <div class="row">
         <div class="col s12 m12 l6 xl6" style="font-size:20px;width:50%;"><p style="
     /* border: 1px solid red; */
@@ -429,8 +429,8 @@ gtag('config', 'G-SGJQ8FDDJ6');
         </div>
 
     </div>
-</div>
-
+</div> -->
+<!-- 
 <div class="container center-align no_compliance">
     <div class="row">
         <div class="col s12 m12 l6 xl6" style="font-size:20px;width:50%;height: 87px;display: flex;justify-content: center;align-items: center;"><b style="color:#071637;"><p>BCR</p></b></div>
@@ -597,7 +597,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
         </div>
 
     </div>
-</div>
+</div> -->
 
 <!-- <div class="container center-align no_compliance">
     <div class="row">
@@ -611,7 +611,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
     </div>
 </div> -->
 
-<div class="container center-align no_compliance">
+<!-- <div class="container center-align no_compliance">
     <div class="row">
         <div class="col s12 m12 l6 xl6" style="font-size:20px;width:50%;height: 112px;display: flex;justify-content: center;align-items: center;"><b style="color:#071637;">REACH</b></div>
         <div class="col s12 m12 l6 xl6" style="width:45%;display: flex;justify-content: center;align-items: center;height: 112px;"><img src="img/REACH-1_IMAGE.jpg" alt="" width="100%"></div>
@@ -646,7 +646,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
         </div>
 
     </div>
-</div>
+</div> -->
 
 
 

@@ -5,7 +5,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0" />
   <title>Chemical Broker | Mercado Farmacéutico</title>
-  <meta name="description" content="Calidad en cada ingrediente; en Chemical Broker contamos con un amplio portafolio de ingredientes farmaceuticos los cuales cumplen con las mejores certificaciones a nivel global con el objetivo de brindar la mayor calida a nuestros socios de negocios.">
+  <meta name="description" content="Calidad en cada ingrediente; en Chemical Broker contamos con un amplio portafolio de ingredientes farmaceuticos los cuales cumplen con las mejores certificaciones a nivel global con el objetivo de brindar la mayor calida a nuestros socios de negocios lo cual nos convierte en uno de los principales proveedores de ingredientes quimicos para farmaceutica a nivel global.">
   <link rel="canonical" href="https://chemicalbroker.mx/pharmaceutical.php">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
 
@@ -249,8 +249,8 @@ recaptchaResponse.value = token;
                             class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                             <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
-                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBM_CODCONDUCT_PROVEEDORES.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBM_CODCONDUCT_CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                     </p>
                   </ul>
                 </section>
@@ -541,9 +541,7 @@ recaptchaResponse.value = token;
         <center><h2 class="Tipografia--general-slogans" style="color:#2279dfa4;"><b>“Calidad en cada ingrediente; Nuestro compromiso con la excelencia farmacéutica”</b></h2></center>
         <p class="Tipografia--general General--Cuerpo" style="color:#262137;margin-top:50px;margin-bottom:0px;">La Industria <b style="color:#071637;">Farmacéutica</b> provee al mundo
           soluciones que permiten preservar la salud humana y mejorar su calidad de vida.</p>
-        <p class="Tipografia--general General--Cuerpo" style="color:#262137;margin-top:50px;margin-bottom:0px;"><b style="color:#071637;">Chemical Broker</b> ofrece un amplio
-          portafolios de Excipientes en cumplimiento y certificación con las Farmacopeas Internacionales y Buenas
-          Prácticas de Manufactura ICH-Q7.</p>
+        <p class="Tipografia--general General--Cuerpo" style="color:#262137;margin-top:50px;margin-bottom:0px;"><b style="color:#071637;">Chemical Broker</b> ofrece un amplio portafolio de excipientes que cumplen con las Farmacopeas Internacionales y las Buenas Prácticas de Manufactura ICH-Q7. Nos consolidamos como uno de los principales proveedores a nivel global y líderes en México en la comercialización de este tipo de ingredientes químicos, garantizando calidad, trazabilidad, cumplimiento regulatorio y un suministro confiable para la industria farmacéutica.</p>
         <h2 class="Tipografia--general Titulos" style="color:#262137;margin-top:50px"><b>Excipientes</b></h2>
         <p class="Tipografia--general General--Cuerpo" style="color:#262137;margin-bottom:0px;">En la fabricación de medicamentos para
           una mejor calidad de vida, los Excipientes, son las sustancias responsables de que los Activos cumplan con su

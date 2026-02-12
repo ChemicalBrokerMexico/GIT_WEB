@@ -154,8 +154,8 @@
                         <li> <a class="arrowblue Tipografia--general Subtitulos" href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download>Politica de Privacidad <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                         <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
-                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBM_CODCONDUCT_PROVEEDORES.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBM_CODCONDUCT_CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                       </p>
                     </ul>
                   </section>
@@ -387,7 +387,7 @@
       <div class="container" style="margin-top:130px;">
         <div class="row">
           <div class="col s12 m12 l12 xl12">
-            <p class="Tipografia--general letranegro General--Cuerpo"><b color="#071637">Chemical Broker</b> es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de ingredientes químicos, para las industrias Farmacéutica, Veterinaria, Alimentaria y Nutrición Humana, Nutrición Animal, Cosmética y del Cuidado Personal, Detergentes, Agroquímica, Industrial e Industria Química en general.</p>
+            <p class="Tipografia--general letranegro General--Cuerpo"><b color="#071637">Chemical Broker</b> es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de ingredientes químicos, para las industrias <b>Farmacéutica</b>, <b>Veterinaria</b>, <b>Alimentaria y Nutrición Humana</b>, <b>Nutrición Animal</b>, <b>Cosmética y del Cuidado Personal</b>, <b>Detergentes</b>, <b>Agroquímica</b>, <b>Industrial e Industria Química</b> en general.</p>
             <!-- <ol style="margin-top:30px"> 
               <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc">Farmacéutica </li>
               <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc">Nutrición Humana</li>

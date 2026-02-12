@@ -175,8 +175,8 @@
                         <li> <a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download>Privacy Policy <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                         <li><a class="arrowblue Tipografia--general Subtitulos" href="../Politics/Politica_Calidad.php">Quality politics &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
-                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Supplier Code of Conduct &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Customer Code of Conduct &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBM_CODCONDUCT_PROVEEDORES.pdf" download>Supplier Code of Conduct &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBM_CODCONDUCT_CLIENTES.pdf" download>Customer Code of Conduct &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                       </p>
                     </ul>
                   </section>
@@ -445,7 +445,7 @@
     </div>
     <div class="container">
       <div class="row">
-        <div class="col s12 m12 l12 xl12"><a href="PDF/CB_CODIGO-CONDUCTA_010115.pdf" download="download" style="font-size: 15px"><span class="leermasbrand" style="color: black;border: 1px solid gray !important;padding: 5px;">Descargar Codigo de Conducta </span></a></div>
+        <div class="col s12 m12 l12 xl12"><a href="PDF/CBM_CODOFCONDUCT.pdf" download="download" style="font-size: 15px"><span class="leermasbrand" style="color: black;border: 1px solid gray !important;padding: 5px;">Descargar Codigo de Conducta </span></a></div>
       </div>
     </div>
     <footer class="altofooter">

@@ -24,6 +24,32 @@
         gtag('js', new Date());
         gtag('config', 'G-SGJQ8FDDJ6');
     </script>
+
+<script type="application/Id+json">
+    {
+
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Di Propilen Glicol",
+      "description": "Es un líquido claro y transparente, prácticamente inodoro y con baja volatilidad. Es totalmente soluble en agua y en la mayoría de los disolventes orgánicos.,
+      "brand": {
+        "@type": "Brand",
+        "name": "Chemical Broker"
+      },
+
+      "offers":{
+        "@type": "Offer",
+        "url": "https://chemicalbroker.mx/Di_Propilen_Glicol.php",
+        "priceCurrency": "MXN",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Chemical Broker"
+        }
+      }
+    }
+  </script>
+
 </head>
 
 <body>
@@ -279,8 +305,8 @@
                                                         id="aparece"></i></a></li>
                                                         <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
-                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_CODIGO-CONDUCTA-PROVEEDORES_220823.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBMX_SLS_REF-DOC-2_V0 - CÓDIGO DE CONDUCTA PARA CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBM_CODCONDUCT_PROVEEDORES.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBM_CODCONDUCT_CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                                         </p>
                                     </ul>
                                 </section>
