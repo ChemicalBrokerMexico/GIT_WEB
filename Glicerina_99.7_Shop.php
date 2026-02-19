@@ -419,7 +419,7 @@
 <div class="container" style="margin-top:80px">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section style="margin-top:75px"><a class="active" href="#" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="index.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Glicerina 99.7% > </b></a><a class="breditem active" href="Glicerina_99.7_Shop.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Glicerina 99.7% Shop</b></a></section>
+<section style="margin-top:75px"><a class="active" href="index.php" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Glycerins.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Glicerina 99.7% > </b></a><a class="breditem active" href="Glicerina_99.7_Shop.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Glicerina 99.7% Shop</b></a></section>
 
 <p class="Tipografia--general letranegro General--Cuerpo">La glicerina al 99.7% (también llamada glicerol 99.7%) es glicerina de alta pureza, donde el 99.7% del contenido es glicerol y solo 0.3% corresponde a impurezas o trazas (agua, sales, alcoholes residuales, etc.).</p>
 
@@ -430,7 +430,7 @@
 <div class="container" style="margin-top:100px">
     <div class="row">
         <div class="col s6 m6 l6 x6">
-        <img src="img/CBM_TAMBOR_WEB.png" style="width:120%;" alt="Tambor de Producto">
+        <img src="img/CBM_TAMBOR_WEB.jpg" style="width:120%;" alt="Tambor de Producto">
         </div>
         <div class="col s6 m6 l6 xl6">
             <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Glicerina 99.7%</b></h2>
@@ -742,7 +742,7 @@
 <div class="container">
     <div class="row">
         <div class="col s12 m12 l12 xl12">
-            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Cotiza o Consulta con nosotros tu requerimiento 24/7</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo"><b><button style="background-color:#071637;color:white;cursor:pointer;">Cotiza o Consulta con nosotros tu requerimiento</button> </b></h2>
             <!-- <button style="background-color:#071637;color:white;width:100%;border-radius:15px;height:60px;">Contactenos</button> -->
         </div>
     </div>

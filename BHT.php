@@ -1082,6 +1082,9 @@
                     <ol style="margin-top:30px;">
                         <li class="Elementos--Listas">Multi-vitaminas</li>
                     </ol>
+
+                    <a href="BHT_SHOP.php"><button class="btn" type="button" style="background-color:#071637;margin-top:30px;">Comprar Producto</button></a>
+
             </div>
         </div>
 

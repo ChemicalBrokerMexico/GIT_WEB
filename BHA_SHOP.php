@@ -433,7 +433,7 @@
 <div class="container" style="margin-top:100px">
     <div class="row">
         <div class="col s6 m6 l6 x6">
-        <img src="img/SACO_PRODUCTOS_GENERAL_LOGO.jpg" style="width:100%;" alt="SACO DE PRODUCTO">
+        <img src="img/CAJA_ANTIOXIDANTES_190226.jpg" style="width:100%;" alt="SACO DE PRODUCTO">
         </div>
         <div class="col s6 m6 l6 xl6">
             <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Butilhidroxianisol (BHA)</b></h2>
@@ -457,7 +457,7 @@
                 </tr>
                 <tr>
                     <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>CAS #:</b></td>
-                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">25013-16-5</td>
                 </tr>
                 <tr>
                     <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Familia Química:</b></td>
@@ -561,7 +561,7 @@
 <div class="container">
     <div class="row">
         <div class="col s12 m12 l12 xl12">
-            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Cotiza o Consulta con nosotros tu requerimiento 24/7</b></h2>
+        <a href="https://wa.me/5615242685?text=Hola" clas="float-wa" target="_blank"><h2 class="Tipografia--general letranegro General--Cuerpo"><b><button style="background-color:#071637;color:white;cursor:pointer;">Cotiza o Consulta con nosotros tu requerimiento</button> </b></h2></a>
             <!-- <button style="background-color:#071637;color:white;width:100%;border-radius:15px;height:60px;">Contactenos</button> -->
         </div>
     </div>

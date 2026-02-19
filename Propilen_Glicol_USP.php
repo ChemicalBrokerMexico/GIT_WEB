@@ -4,8 +4,9 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
     <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos.">
-    <title>Chemical Broker | Nosotros</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <meta name="description" content="Algunas organizaciones buscan vender mas, nosotros buscamos crecer en conjunto con nuestros socios de negocios, conoce nuestra marca.">
+    <title>Chemical Broker | Mono Propilen Glicol | USP / EP | Compra</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <meta name="description" content="Consulta las caracteristicas técnicas del Mono Propilen Glicol (MPG), especificamente, aplicaciones y presentación. Compra en linea con disponibilidad inmediata y envió seguro">
+    <link rel="canonical" href="https://chemicalbroker.mx/Propilen_Glicol_USP.php">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen"/>
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen"/>
@@ -159,7 +160,7 @@
                     <ul> 
                       <p class="color--blanco"><b class="Tipografia--general Titulos">Compañia</b></p>
                       <hr class="hr"/>
-                      <ul><a class="arrowblue Tipografia--general Subtitulos" href="index.php">Nosotros <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br/><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br/><a class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br/><a class="arrowblue Tipografia--general Subtitulos" href="Valores.php">Valores <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br/><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br/><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
+                      <ul> <a class="arrowblue Tipografia--general Subtitulos" href="index.php">Nosotros <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br/><a class="arrowblue Tipografia--general Subtitulos" href="Historia_Hechos.php">Historia y Hechos <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br/><a class="arrowblue Tipografia--general Subtitulos" href="Marca.php">Marca <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br/><a class="arrowblue Tipografia--general Subtitulos" href="Valores.php">Valores <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br/><a class="arrowblue Tipografia--general Subtitulos" href="Premisas.php">Premisas <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a><br/><a class="arrowblue Tipografia--general Subtitulos" href="Servicio_Total.php">Servicio Integral &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></ul>
                     </ul>
                   </section>
                 </div>
@@ -391,13 +392,19 @@
 <div class="row">
 <div class="slider slider-prueba">
 <ul class="slides">
-<li> <img src="img/CB_QUIMICA.jpg" style="height:800px;" alt="Industria Quimica">
+<li><div style="height:800px;background:linear-gradient(#071637 99%);">
+
+<b class="segundotitulo" style="float:right;color:white;margin-top:200px;margin-right:150px;">Ter-Butilhidroquinona (TBHQ)</b>
+
+</div>
 <div class="caption center-align"><br><br><br><br>
-<br><b class="segundotitulo">Nosotros</b>
+<br>
 
 <div class="container" style="margin-top:-100px;">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
+
+
 
 </div>
 </div>
@@ -413,112 +420,346 @@
 <div class="container" style="margin-top:80px">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section style="margin-top:75px"><a class="active" href="#" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="index.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Nosotros</b></a></section>
-<p class="Tipografia--general letranegro General--Cuerpo"><b style="color:#071637">Chemical Broker</b> comenzó hace más de 9 años, nos basamos en una historia aún más larga de innovación y crecimiento.</p>
-<p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Hoy nos hemos convertido en uno de los mayores distribuidores de Oleo químicos; Ácidos Grasos, Alcoholes Grasos, Glicerinas, Triglicéridos, Derivados de Palma, Destilados de Ácidos Grasos, Glicoles, Aceites y Grasas, Conservadores, entre otros.</p>
-<p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Nos vemos a nosotros mismos como el puente que conecta a los proveedores en lugares lejanos con los clientes. Y como un canal de distribución, que trae materiales esenciales, necesarios para miles de fabricantes, para crear productos que mejoren la vida de millones de consumidores en todo el mundo.</p>
-<p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Incluso estamos ampliando nuestra línea de productos mientras desarrollamos soluciones renovables de base biológica para el futuro.</p>
-<p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Y tal vez eso es realmente lo que nos diferencia. Porque para todos en <b style="color:#071637;">Chemical Broker</b>, se trata de más que simplemente lo que hacemos, se trata de la forma en como lo hacemos: una empresa, guiada por principios e impulsada por la pasión de servir mejor a nuestros proveedores y clientes, todos los días.</p>
-<h2 style="margin-top:50px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;margin-top:50px;">Enfoque de Negocios</b></h6>
-<p class="Tipografia--general letranegro General--Cuerpo"><b style="color:#071637">Chemical Broker</b> es un <b>proveedor mundial</b> de servicios de intermediación, comercialización, distribución, importación y exportación de ingredientes químicos, para las industrias de <b>Farmaceutica</b>, <b>Veterinaria</b>, <b>Alimentaria & Nutricion humana </b>, <b>Alimentaria & Nutricion animal</b>, <b>Agroquímicos</b>, <b>Cosmeticos & Cuidado Perosnal</b>, <b>Detergentes & Hogar</b>, <b>Químicos.</b></p>
-<h2 style="margin-top:50px;"><b class="Tippxografia--general letranegro Titulos" style="color:#262137;margin-top:50px;">Negocios</b></h6>
-<p class="Tipografia--general letranegro General--Cuerpo">Nuestros negocios brindan servicio a la Industrias Farmacéutica, Alimentaria y Nutrición Humana, Cosmética y del Cuidado Personal, Veterinaria, Alimento y Nutrición Animal, Agroquímicos, Detergentes y Cuidado del Hogar y la Industria Química en general.</p>
-<h2 style="margin-top:50px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;">Proceso de Negocios:</b></h6>
+<section style="margin-top:75px"><a class="active" href="index.php" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Propilen_Glicol_USP.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Ter-Butilhidroquinona (TBHQ) > </b></a><a class="breditem active" href="Propilen_Glicol_USP.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Propilen_Glicol_USP.php</b></a></section>
+
+<p class="Tipografia--general letranegro General--Cuerpo">El TBHQ (terc-butilhidroquinona) es un sólido ceroso de color blanco a ligeramente amarillo con un olor característico. Es muy soluble en alcohol, propilenglicol, cloroformo y éter. Es insoluble en agua.</p>
 
 
+<!-- <table style="border:none;">
 
+    <tr style="border:none">
+
+    <td colspan="2"><center><img src="img/COSTAL_LOGO.PNG" alt="SACO DE PRODUCTO"></img></center></td>
+
+    </tr>
+
+    <tr style="border:none;">
+        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Descripción Química:</td>
+        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Butilhidroanisol</td>
+    </tr>
+
+    <tr style="border:none">
+        <td class="Tipografia--general letranegro General--Cuerpo"></td>
+        <td class="Tipografia--general letranegro General--Cuerpo"></td>
+    </tr>
+
+    <tr style="border:none">
+        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">CAS #:</td>
+        <td class="Tipografia--general letranegro General--Cuerpo"></td>
+    </tr>
+
+    <tr style="border:none">
+        <td class="Tipografia--general letranegro General--Cuerpo"></td>
+        <td class="Tipografia--general letranegro General--Cuerpo"></td>
+    </tr>
+
+
+    <tr style="border:none">
+        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Familia Química:</td>
+        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Antioxidantes sintéticos</td>
+    </tr>
+
+
+    <tr style="border:none">
+        <td class="Tipografia--general letranegro General--Cuerpo"></td>
+        <td class="Tipografia--general letranegro General--Cuerpo"></td>
+    </tr>
+
+    <tr style="border:none">
+        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Apariencia:</td>
+        <td class="Tipografia--general letranegro General--Cuerpo">Cristales translucidos incoloros o como Polvo Blanco, Fino y Cristalino.</td>
+    </tr>
+
+    <tr style="border:none">
+        <td class="Tipografia--general letranegro General--Cuerpo"></td>
+        <td class="Tipografia--general letranegro General--Cuerpo"></td>
+    </tr>
+
+    <tr style="border:none">
+        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Grado:</td>
+        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">USP | FCC</td>
+    </tr>
+
+    <tr style="border:none">
+        <td class="Tipografia--general letranegro General--Cuerpo"></td>
+        <td class="Tipografia--general letranegro General--Cuerpo"></td>
+    </tr>
+
+    <tr style="border:none">
+        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Certificaciones:</td>
+        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Kosher | Halal</td>
+    </tr>
+
+    <tr style="border:none">
+        <td class="Tipografia--general letranegro General--Cuerpo"></td>
+        <td class="Tipografia--general letranegro General--Cuerpo"></td>
+    </tr>
+
+    <tr style="border:none">
+        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Presentación:</td>
+        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Saco 25 Kg.</td>
+    </tr>
+
+    <tr style="border:none">
+        <td class="Tipografia--general letranegro General--Cuerpo"></td>
+        <td class="Tipografia--general letranegro General--Cuerpo"></td>
+    </tr>
+
+    <tr style="border:none">
+        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Contenido:</td>
+        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">99.5 – 100.5%</td>
+    </tr>
+
+    <tr style="border:none">
+        <td class="Tipografia--general letranegro General--Cuerpo"></td>
+        <td class="Tipografia--general letranegro General--Cuerpo"></td>
+    </tr>
+
+    <tr style="border:none">
+        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Humedad:</td>
+        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">≤0.5%</td>
+    </tr>
+
+    <tr style="border:none">
+        <td class="Tipografia--general letranegro General--Cuerpo"></td>
+        <td class="Tipografia--general letranegro General--Cuerpo"></td>
+    </tr>
+
+    <tr style="border:none">
+        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Valor de pH (5%):</td>
+        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">1.7 – 2.0</td>
+    </tr>
+
+    <tr style="border:none">
+        <td class="Tipografia--general letranegro General--Cuerpo"></td>
+        <td class="Tipografia--general letranegro General--Cuerpo"></td>
+    </tr>
+
+    <tr style="border:none">
+        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Ácido Oxálico:</td>
+        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">≤100 mg/Kg.</td>
+    </tr>
+
+    <tr style="border:none">
+        <td class="Tipografia--general letranegro General--Cuerpo"></td>
+        <td class="Tipografia--general letranegro General--Cuerpo"></td>
+    </tr>
+
+    <tr style="border:none">
+        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Sulfato:</td>
+        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">≤150 ppm</td>
+    </tr>
+
+    <tr style="border:none">
+        <td class="Tipografia--general letranegro General--Cuerpo"></td>
+        <td class="Tipografia--general letranegro General--Cuerpo"></td>
+    </tr>
+
+    <tr style="border:none">
+        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Sustancias fácilmente carbonizables:</td>
+        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">ABS ≤0.52 <br> TRA ≥30 % </td>
+    </tr>
+
+    <tr style="border:none">
+        <td class="Tipografia--general letranegro General--Cuerpo"></td>
+        <td class="Tipografia--general letranegro General--Cuerpo"></td>
+    </tr>
+
+    <tr style="border:none">
+        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Residuos de Ignicion:</td>
+        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">≤0.05%</td>
+    </tr>
+
+    <tr style="border:none">
+        <td class="Tipografia--general letranegro General--Cuerpo"></td>
+        <td class="Tipografia--general letranegro General--Cuerpo"></td>
+    </tr>
+
+    <tr style="border:none">
+        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Vida de Anaquel:</td>
+        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">3 años</td>
+    </tr>
+
+    <tr style="border:none">
+        <td class="Tipografia--general letranegro General--Cuerpo"></td>
+        <td class="Tipografia--general letranegro General--Cuerpo"></td>
+    </tr>
+
+    <tr style="border:none">
+        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Aplicación:</td>
+        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">El ácido cítrico se utiliza principalmente como acidulante, aromatizante y conservante en alimentos y bebidas. También se utiliza como antioxidante, plastificante y formador de detergentes.</td>
+    </tr>
+
+    <tr style="border:none">
+        <td class="Tipografia--general letranegro General--Cuerpo"></td>
+        <td class="Tipografia--general letranegro General--Cuerpo"></td>
+    </tr>
+
+    <tr style="border:none">
+        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Cantidad Mínima de Venta:</td>
+        <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">FCL 20´ (24,500 Kg.)</td>
+    </tr>
+
+</table> -->
 
 </div>
 </div>
 </div>
 
-
-<div class="container">
-
-<div class="row">
-<div class="col s12 m12 l12 xl12">
-
-<table id="TablaPresentacionDesktop" name="TablaPresentacionDesktop">
-  <tr>
-    <td colspan="6" class="center-align" style="background-color:#FF6600;color:white;"><b style="color:white;font-size:18px">Calidad</b></td>
-  </tr>
-  <tr>
-    <th style="background-color:#071637;color:white;border:1px solid white;" class="center-align"><p style="margin:0px 3px;font-size:18px">Fabricante</p><p style="margin:3px;font-size:18px;">(Proveedor)</p></th>
-    <th style="background-color:#071637;color:white;border:1px solid white;" class="center-align"><p style="color:yellow;margin:0px;font-size:18px">Compra</p>  <p style="color:rgba(2 146 238 /99%);margin:0px -10px;font-size:18px">Ingredientes</p><p style="color:rgba(2 146 238 /99%);margin:0px;font-size:18px">QuÍmicos</p></th>
-    <th style="background-color:#071637;color:white;border:1px solid white;font-size:18px" class="center-align">Chemical Broker</th>
-    <th style="background-color:#071637;color:white;border:1px solid white;font-size:18px" class="center-align"><div style="display:block;"><p style="color:yellow;margin:0px;">Venta</p>  <p style="color:rgba(2 146 238 /99%);margin:0px -10px;">Ingredientes</p><p style="color:rgba(2 146 238 /99%);margin:0px;">QuÍmicos</p></th>
-    <th style="background-color:#071637;color:white;border:1px solid white;font-size:18px" class="center-align"><div style="display:block;"><p style="margin:0px -14px;">Consumidor</p><p style="margin:0px;">(Cliente)</p></th>
-  </tr>
-  <tr>
-    <td colspan="6" class="center-align" style="background-color:#BDD6EE;color:white;"><b style="color:white;font-size:18px">Sistema de Gestión Integral</b></td>
-  </tr>
-</table>
-
-<table style="margin-top:0px;" id="TablaPresentacionMobile" name="TablaPresentacionMobile">
-<tr style="background-color:#FF6600;color:white;">
-  <td style="text-align:center;"><b>Calidad</b></td>
-</tr>
-<tr>
-  <td class="Tipografia--general Cuerpo--General" style="background-color:#071637;color:white;text-align:center;border-bottom:1px solid white;"><b>Fabricante<br>(Proveedor)</b></td>
-</tr>
-<tr>
-  <td class="Tipografia--general Cuerpo--General" style="background-color:#071637;color:white;text-align:center;border-bottom:1px solid white;"><span style="color:yellow;"><b>Compra</b></span><br><span style="color:rgba(2 146 238 /99%);"><b>Ingredientes</b></span><br><span style="color:rgba(2 146 238 /99%);"><b>Químicos</b></span></td>
-</tr>
-<tr>
-  <td class="Tipografia--general Cuerpo--General" style="background-color:#071637;color:white;text-align:center;border-bottom:1px solid white;"><b>Chemical Broker</b></td>
-</tr>
-<tr>
-  <td class="Tipografia--general Cuerpo--General" style="background-color:#071637;color:white;text-align:center;border-bottom:1px solid white;"><span style="color:yellow;"><b>Venta</b></span><br><span style="color:rgba(2 146 238 /99%);"><b>Ingredientes</b></span><br><span style="color:rgba(2 146 238 /99%);"><b>Químicos</b></span></td>
-</tr>
-<tr>
-  <td class="Tipografia--general Cuerpo--General" style="background-color:#071637;color:white;text-align:center;border-bottom:1px solid white;"><b>Consumidor</b><br><b>(Cliente)</b></td>
-</tr>
-<tr>
-  <td class="Tipografia--general Cuerpo--General" style="background-color:#BDD6EE;text-align: center;color: white;"><b>Sistema de Gestión Integral</b></td>
-</tr>
-</table>
-
-
-</div>
-
-</div>
-  
-</div>
-
-
-
-<div class="container">
-  <div class="row">
-    <div class="col s12 m12 l12 xl12">
-    <p class="Tipografia--General letranegro General--Cuerpo center-align" style="text-align:center;"><b>(Compra | Ingrediente(s) Químico(s) | Calidad | Aseguramiento | Logística - Importación o Exportación | Aseguramiento | Logística | Calidad | Ingrediente(s) Químico(s) | Venta)</b></p>
+<div class="container" style="margin-top:100px">
+    <div class="row">
+        <div class="col s6 m6 l6 x6">
+        <img src="img/CAJA_ANTIOXIDANTES_190226.jpg" style="width:100%;" alt="SACO DE PRODUCTO">
+        </div>
+        <div class="col s6 m6 l6 xl6">
+            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Ter-Butilhidroquinona (TBHQ)</b></h2>
+            <!-- <table>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b><center>Tipo de embalaje:</center></b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Saco</center></td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border:none;background-color:#071637;border-right:1px solid white;color:white;"><b><center>N° de Producto:</center></b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border:none;background-color:#a7a7a7;color:white;"><center>P-50</center></td>
+                </tr>
+            </table> -->
+        </div>
+        <div class="col s6 m6 l6 xl6">
+            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Datos del Producto</b></h2>
+            <table>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Descripcion Química:</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Ter-Butilhidroquinona</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>CAS #:</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">1948-33-0</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Familia Química:</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Antioxidantes sintéticos</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Sinónimos:</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Butilhidroquinona terciaria<br>TBHQ<br>Terc-Butil Hidro Quinona antioxidante</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Grado:</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">FCC</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Certificaciones:</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Kosher | Halal</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Presentación:</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Saco 25 Kg.</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Apariencia:</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Polvo Fino</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Olor característico:</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Característico del producto, exento de olores extraños o rancios.</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Color:</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Blanco – Ligeramente rosado</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Pureza:</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">99.0% mínimo</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Punto de fusión:</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">126.5 – 128.9 °C</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Absorción UV</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">280 – 289 nm máximo 0.15.</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>(hidrocarburo polinuclear):</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">290 – 299 nm máximo 0.12.<br>300 – 359 nm máximo 0.08.<br>360 – 400 nm máximo 0.02.</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Solubilidad:</td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Solventes orgánicos, propilenglicol, aceites y grasas.</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Vida de Anaquel:</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">3 años a partir de la fecha de elaboración y en su envase original.</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Vida de Anaquel:</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">2 años a partir de la fecha de elaboración y en su envase original.</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Cantidad Mínima de Venta:</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">100 Kg.</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Aplicación:</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Antioxidante usado para la protección de aceites vegetales refinados, productos fritos (frituras y botanas), grasas vegetales y animales.</td>
+                </tr>
+            </table>
+        </div>
+        <div class="col s12 m12 l12 xl12">
+        <!-- <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Datos del Producto</b></h2> -->
+        <!-- <table>
+            <tr>
+                <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Documentos Tecnicos</b></td>
+                <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Hoja de datos de seguridad</td>
+            </tr>
+            <tr>
+                <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Documentos Normativos</b></td>
+                <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Ver Documentos</td>
+            </tr>
+        </table> -->
+        </div>
     </div>
-  </div>
 </div>
-
-
 
 <div class="container">
-  <div class="row">
-    <div class="col s12 m12 l12 xl12">
-    <h2 style="margin-top:30px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;">Misión</b></h6>
-  <p class="Tipografia--general letranegro General--Cuerpo">Ser un proveedor mundial de ingredientes químicos que aporte soluciones adecuadas y especificas en la adquisición de insumos para la industria química, enfocados en las necesidades del cliente.</p>
-  <h2 style="margin-top:50px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;">Visión</b></h6> 
-  <p class="Tipografia--general letranegro General--Cuerpo">"Ser el líder global en la comercialización de productos químicos, ofreciendo soluciones innovadoras, sostenibles y de alta calidad que impulsen el desarrollo industrial y ambientalmente responsable. nuestro compromiso es transformar la industria química a través de excelencia operativa, alianzas estratégicas y un enfoque en la satisfacción de nuestros clientes, promoviendo un impacto positivo en cada mercado que atendemos."</p>
+    <div class="row">
+        <div class="col s12 m12 l12 xl12">
+        <a href="https://wa.me/5615242685?text=Hola" clas="float-wa" target="_blank"><h2 class="Tipografia--general letranegro General--Cuerpo"><b><button style="background-color:#071637;color:white;cursor:pointer;">Cotiza o Consulta con nosotros tu requerimiento</button> </b></h2></a>
+            <!-- <button style="background-color:#071637;color:white;width:100%;border-radius:15px;height:60px;">Contactenos</button> -->
+        </div>
     </div>
-  </div>
 </div>
+
+
+
 <footer class="altofooter">
 <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg" alt="ESCUDO DE C&E"></div><br><br>
 <div class="container-fluid center-align" style="margin-top:-50px">
 <p class="Tipografia--general letranegro center-align Pie--Pagina">© 2014 | Chemical Broker Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto |&nbsp</a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad </a></p>
 </div>
+<script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+    crossorigin="anonymous"></script>
+  <script src="js/materialize.js" type="text/javascript"></script>
+  <script src="js/init.js"></script>
+  <script type="text/javscript" src="js/materialize.min.js"></script>
+  <script type="text/javascript"
+    src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
+  <link rel="shortcut icon" href="img/CB_ICON.ico" />
+
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
+    integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 </footer>
 <!-- Start of HubSpot Embed Code -->
 <script type="text/javascript" id="hs-script-loader" async defer src="//js-na1.hs-scripts.com/43785156.js"></script>
 <script src="js/Traduccion.js"></script>
 <!-- End of HubSpot Embed Code -->
-<!-- <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
-    <i class="fa fa-whatsapp" style="margin-top:16px;"></i> -->
-<!-- </a> -->
+<a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
 </body>
 </html>

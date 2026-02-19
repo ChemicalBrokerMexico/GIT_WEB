@@ -1,5 +1,0 @@
-select
-una vez seleccionado el idioma enviar al index_en
-o al index_al
-crear un respaldo del contenido y hacer pruebas cambiando de idioma los titulos de cada vista
-Generar select en barra de navegacion principal para la seleccion de idioma

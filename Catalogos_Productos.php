@@ -4,8 +4,9 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Acido Miristico</title>
-    <meta name="description" content="Explora nuestro catálogo de productos quimicos con amplia variedad de ingredientes para múltiples industrias. Fichas técnicas, calidad garantizada y suministro confiable">
+    <title>Chemical Broker | Catalogos de Productos</title>
+    <meta name="description"
+        content="Explora nuestro catálogo de productos quimicos con amplia variedad de ingredientes para múltiples industrias. Fichas técnicas, calidad garantizada y suministro confiable">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link rel="canonical" href="https://chemicalbroker.mx/Catalogos_Productos.php">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -343,11 +344,25 @@
                                                     href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download>Politica de
                                                     Privacidad <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
-                                            <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
+                                            <li><a class="arrowblue Tipografia--general Subtitulos"
+                                                    href="Politica_Calidad.php">Politica de Calidad &nbsp <i
+                                                        class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
-                                                          <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBM_CODCONDUCT_PROVEEDORES.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBM_CODCONDUCT_CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBM_CODCONDUCT_CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                                            <li><a class="arrowblue Tipografia--general Subtitulos"
+                                                    href="../PDF/CBM_CODCONDUCT_PROVEEDORES.pdf" download>Código de
+                                                    Conducta de Proveedores &nbsp <i
+                                                        class="fas fa-long-arrow-alt-right desaparece"
+                                                        id="aparece"></i></a></li>
+                                            <li><a class="arrowblue Tipografia--general Subtitulos"
+                                                    href="../PDF/CBM_CODCONDUCT_CLIENTES.pdf" download>Código de
+                                                    Conducta de Clientes &nbsp <i
+                                                        class="fas fa-long-arrow-alt-right desaparece"
+                                                        id="aparece"></i></a></li>
+                                            <li><a class="arrowblue Tipografia--general Subtitulos"
+                                                    href="../PDF/CBM_CODCONDUCT_CLIENTES.pdf" download>Código de
+                                                    Conducta de Clientes &nbsp <i
+                                                        class="fas fa-long-arrow-alt-right desaparece"
+                                                        id="aparece"></i></a></li>
                                         </p>
                                     </ul>
                                 </section>
@@ -405,36 +420,49 @@
             <ul class="hide-on-med-and-down">
                 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
                         href="Mercados.php"><b>Mercados</b></a></li>
-                        <ul id="dropdown3" class="dropdown-content" style="width:300px !important;">
-  <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos" style="width:200px;">Familias</a></li>
-  <!-- <li><a href="Product_List.php" class="Tipografia--general letranegro Subtitulos" style="width:200px;">Lista de Productos</a></li> -->
-  <li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
-</ul> 
+                <ul id="dropdown3" class="dropdown-content" style="width:300px !important;">
+                    <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos"
+                            style="width:200px;">Familias</a></li>
+                    <!-- <li><a href="Product_List.php" class="Tipografia--general letranegro Subtitulos" style="width:200px;">Lista de Productos</a></li> -->
+                    <li><a href="Catalogos_Productos.php"
+                            class="Tipografia--general letranegro Subtitulos">Catalogos</a></li>
+                </ul>
                 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!"
                         data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a>
                 </li>
                 <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" <li><a
                             class="elemennav-secun Tipografia--general letranegro Subtitulos"
                             href="Servicios.php"><b>Servicios</b></a></li>
-                            <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i class="material-icons right">arrow_drop_down</i></b></a>
-<ul id="dropdown4" class="dropdown-content" tabindex="0">
-<li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Sistema de Gestión Integral</a></li>
-<li tabindex="0"><a href="Marco_Regulatorio.php" class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
-  <li tabindex="0"><a href="Certificaciones.php" class="Tipografia--general letranegro Subtitulos">Certificaciones</a></li>
-</ul></li>
+                <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger"
+                        data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i
+                                class="material-icons right">arrow_drop_down</i></b></a>
+                    <ul id="dropdown4" class="dropdown-content" tabindex="0">
+                        <li tabindex="0"><a href="Cumplimiento.php"
+                                class="Tipografia--general letranegro Subtitulos">Sistema de Gestión Integral</a></li>
+                        <li tabindex="0"><a href="Marco_Regulatorio.php"
+                                class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
+                        <li tabindex="0"><a href="Certificaciones.php"
+                                class="Tipografia--general letranegro Subtitulos">Certificaciones</a></li>
+                    </ul>
+                </li>
                 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Contact.php"><b>Contacto
                         </b></a></li>
             </ul>
         </div>
         <div>
-        <ul><!--  <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="chemicalbroker.mx/Vista/Principal.php" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock color--blanco" style="margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock color--blanco" style="display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
+            <ul>
+                <!--  <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="chemicalbroker.mx/Vista/Principal.php" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock color--blanco" style="margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock color--blanco" style="display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
 <div style="display:flex;justify-content:center"> 
 <p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
 </div></a> -->
-<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
-</ul>
+                <li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php"
+                        id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro"
+                            style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a>
+                </li>
+            </ul>
             <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#"
-                    data-target="mobile-search"><i class="material-icons search-mobile-icon margin-left-search-mobile-icon"
+                    data-target="mobile-search"><i
+                        class="material-icons search-mobile-icon margin-left-search-mobile-icon"
                         style="width:0px">search</i></a></div>
         </div>
     </nav>
@@ -505,7 +533,8 @@
                                 </tr>
                                 <tr>
                                     <td style="border:hidden"><a href="Cumplimiento.php"
-                                            style="color:black !important;border:hidden">Sistema de Gestión Integral</a></td>
+                                            style="color:black !important;border:hidden">Sistema de Gestión Integral</a>
+                                    </td>
                                 </tr>
                                 <tr>
                                     <td style="border:hidden"><a href="Contact.php"
@@ -613,7 +642,8 @@
                                 </tr>
                                 <tr>
                                     <td style="border:hidden;background-color:#262137"><a href="Cumplimiento.php"
-                                            style="color:white !important;border:hidden">Sistema de Gestión Integral </a></td>
+                                            style="color:white !important;border:hidden">Sistema de Gestión Integral
+                                        </a></td>
                                 </tr>
                                 <tr>
                                     <td style="border:hidden;background-color:#262137"><a href="Contact.php"
@@ -658,26 +688,122 @@
     </div>
     </div>
 
-    <div class="container">
+    <!-- <div class="container">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
                 <p class="Tipografia--general letranegro General--Cuerpo"><b style="color:#071637;">Chemical Broker</b> enfoca sus negocios a nivel global en la venta de Ingredientes químicos para las industrias de Farmacéutica, Veterinaria, Alimentaria y Nutrición Humana, Alimento y Nutrición Animal, Cosmética y Cuidado Personal, Agroquímicos, Detergentes y Cuidado del Hogar e Industria Quimica.</p>
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">A través de nuestros Catálogos de Productos por Industrias usted podrá encontrar una gran variedad de ingredientes químicos enfocados al segmento de mercado deseado y en cumplimiento a los estándares de calidad correspondientes:</p>
                 <h5 class="Tipografia--general Titulos" style="margin-top:50px;"><b>Catálogos</b></h5>
 
-                <!-- <a href="PDF/CHEMICAL-BROKER_CATALOGO-PRODUCTOS_290424.pdf" class="Tipografia--general Subtitulos" style="color:rgba(2 146 238 /99%);margin-top:50px;" download>CHEMICAL-BROKER_CATALOGO-PRODUCTOS_290424.pdf</a> -->
-                <a href="PDF/CHEMICAL-BROKER_CATALOGO-PRODUCTOS-QUIMICOS_271025.pdf" class="Tipografia--general Subtitulos" style="color:rgba(2 146 238 /99%);cursor: pointer;margin-top:50px;" download>CHEMICAL-BROKER_CATALOGO-PRODUCTOS-QUIMICOS_271025.pdf</a>
+                <a href="PDF/CHEMICAL-BROKER_CATALOGO-PRODUCTOS_290424.pdf" class="Tipografia--general Subtitulos" style="color:rgba(2 146 238 /99%);margin-top:50px;" download>CHEMICAL-BROKER_CATALOGO-PRODUCTOS_290424.pdf</a> -->
+    <!-- <a href="PDF/CHEMICAL-BROKER_CATALOGO-PRODUCTOS-QUIMICOS_271025.pdf" class="Tipografia--general Subtitulos" style="color:rgba(2 146 238 /99%);cursor: pointer;margin-top:50px;" download>CHEMICAL-BROKER_CATALOGO-PRODUCTOS-QUIMICOS_271025.pdf</a>
                 <br>
                 <br>
                 <a href="PDF/CHEMICAL-BROKER_OLEOCHEMICALS-PORTFOLIO.pdf" class="Tipografia--general Subtitulos" style="color:rgba(2 146 238 /99%);margin-top:50px;cursor: pointer;" download>CHEMICAL-BROKER_OLEOCHEMICALS-PORTFOLIO.pdf</a>
+            </div>
+        </div>
+    </div> -->
+
+    <div class="container">
+        <div class="row">
+            <div class="col s12 m12 l12 xl12">
+
+                <h1 class="Tipografia--general letranegro General--Cuerpo"><b>Soluciones Globales en Ingredientes Químicos
+                    Especializados</b></h1>
+
+                <p class="Tipografia--general letranegro General--Cuerpo">En <b>Chemical Broker</b> conectamos a la industria
+                    con materias primas e ingredientes químicos de calidad internacional, integrando una red global de
+                    fabricantes certificados y una gestión estratégica de abastecimiento.</p>
+
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Somos especialistas en el suministro de
+                    ingredientes para:</b></h2>
+                <ol>
+                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:30px;">Industria
+                        Farmacéutica</li>
+                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:30px;">Industria
+                        Veterinaria</li>
+                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:30px;">Industria
+                        Alimentaria y Nutrición Humana</li>
+                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:30px;">Alimento y
+                        Nutrición Animal</li>
+                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:30px;">Cosmética y
+                        Cuidado Personal</li>
+                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:30px;">
+                        Agroquímicos</li>
+                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:30px;">Detergentes
+                        y Cuidado del Hogar</li>
+                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:30px;">Industria
+                        Química en General</li>
+                </ol>
+
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Abastecimiento Global con Cumplimiento
+                    Regulatorio</b></h2>
+
+                <p class="Tipografia--general letranegro General--Cuerpo">Nuestros productos cumplen con los estándares
+                    internacionales aplicables (USP, FCC, EP, ISO y normativas específicas por industria), garantizando:
+                </p>
+
+                <ol>
+                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:30px;">Calidad
+                        consistente</li>
+                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:30px;">
+                        Trazabilidad documental</li>
+                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:30px;">
+                        Cumplimiento técnico</li>
+                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:30px;">Seguridad
+                        en la cadena de suministro</li>
+
+
+                </ol>
+
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Portafolio Estratégico por Industria</b></h2>
+
+                <p class="Tipografia--general letranegro General--Cuerpo">Ponemos a su disposición catálogos
+                    especializados por segmento industrial, diseñados para facilitar la búsqueda técnica y comercial de
+                    los ingredientes que su operación requiere. Cada catálogo incluye:</p>
+
+                <ol>
+                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:30px">
+                        Especificaciones técnicas</li>
+                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:30px">
+                        Aplicaciones industriales</li>
+                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:30px">Grado de
+                        pureza y certificaciones</li>
+                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:30px">
+                        Presentaciones disponibles</li>
+                    <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc;margin-top:30px">Origen de
+                        suministro</li>
+                </ol>
+
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Más que un proveedor: un socio estratégico</b></h2>
+
+                <p class="Tipografia--general letranegro General--Cuerpo">En Chemical Broker no solo comercializamos
+                    productos; desarrollamos relaciones de suministro a largo plazo, asegurando disponibilidad,
+                    competitividad y respaldo técnico.</p>
+
+                <p class="Tipografia--general letranegro General--Cuerpo">Explore nuestros catálogos por industria y
+                    descubra cómo podemos fortalecer su cadena de abastecimiento.</p>
+
+
+                <h5 class="Tipografia--general Titulos" style="margin-top:50px;"><b>Catálogos</b></h5>
+
+                <a href="PDF/CHEMICAL-BROKER_CATALOGO-PHARMA_010126_V1.pdf" class="Tipografia--general Subtitulos"
+                    style="color:rgba(2 146 238 /99%);margin-top:50px;"
+                    download>CHEMICAL-BROKER_CATALOGO-PHARMA_010126_V1.pdf</a>
+                    <br>
+                    <br>
+                <a href="PDF/CHEMICAL-BROKER_CATALOGO-FOOD_010126_V1.pdf"
+                    class="Tipografia--general Subtitulos"
+                    style="color:rgba(2 146 238 /99%);cursor: pointer;margin-top:80px;"
+                    download>CHEMICAL-BROKER_CATALOGO-FOOD_010126_V1.pdf</a>
             </div>
         </div>
     </div>
 
 </body>
 <footer style="margin-top:70px">
-    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
-            alt=""></div><br><br>
+    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg" alt="">
+    </div><br><br>
     <div class="container-fluid" style="text-align:center;margin-top:-50px">
         <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos
             Reservados.
@@ -690,4 +816,5 @@
         <script type="text/javascript" src="js/Products.js"></script>
     </div>
 </footer>
+
 </html>

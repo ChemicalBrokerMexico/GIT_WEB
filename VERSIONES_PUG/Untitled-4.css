@@ -1,9 +1,0 @@
-.changecol:hover{
-    background-color: green !important; 
-}
-.changecol:hover .desaparecelock{
-    display:none;
-}
-.changecol:hover .aparecelock{
-    display: block !important;
-}

@@ -838,12 +838,18 @@
           <li class="Elementos--Listas">Fabricación de Cigarros</li>
           <li class="Elementos--Listas">Cigarros Electrónicos</li>
         </ol>
+
+        <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Presentaciones</b></h2>
+
+        <a class="waves-effect waves-light btn" style="background-color:#071637;" href="Glicerina_99.7_Shop.php">Glicerina 99.7%</a>
       </div>
       <!-- <div class="col s12 m6 l6 xl6">
 <img src="img/TABACO.jpg" alt="" width="100%" style="border-radius:10px;">
       </div> -->
     </div>
   </div>
+
+
         
   <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
     <i class="fa fa-whatsapp" style="margin-top:16px;"></i>

@@ -714,7 +714,7 @@
         <table>
           <tr style="border:none;">
             <td>
-              <img src="img/CAMLIN_LOGO.png" alt="Solvery Logo" class="SOLVEY_LOGO" style="margin-top:30px;">
+              <img src="img/SOLVAY_LOGO_190226.jpg" alt="Solvery Logo" class="SOLVEY_LOGO" style="margin-top:30px;">
             </td>
           </tr>
 

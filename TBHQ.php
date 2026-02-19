@@ -913,7 +913,9 @@
                             <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Cereales para desayuno:</b> Se agrega a los cereales para desayuno, especialmente aquellos que contiene grasas y aceites para evitar la oxidación y mantener la calidad del producto durante el almacenamiento.</p>
                             <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Productos Horneados:</b> En productos horneados como galletas, pasteles, panes y productos de panadería, el <b>TBHQ</b> se utiliza como antioxidante para proteger contra la oxidación las grasas y los aceites.</p>
                             <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Bocadillos y aperitivos:</b> Se utiliza en una variedad de bocadillos y aperitivos procesados, como chips de maíz, palomitas de maíz, pretzels y otros bocadillos salados.</p>
-          
+
+
+                            <a href="TBHQ_SHOP.php"><button class="btn" type="button" style="background-color:#071637;margin-top:30px;">Comprar Producto</button></a>
             </div>
 
 
