@@ -3,8 +3,9 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
-    <title>Chemical Broker</title>
+    <meta name="description" content="Optimiza la fabricación de tabletas duras con excipientes grado farmacéutico de alta calidad. Ofrecemos aglutinantes, diluyentes, desintegrantes y lubricantes con trazabilidad, cumplimiento normativo y suministro confiable para procesos de compresión directa y granulación."> 
+    <title>Chemical Broker | Tabletas Duras | Proveedor Global de Ingredientes Quimicos para la industria Farmaceutica</title>
+    <link rel="canonical" href="https://chemicalbroker.mx/Tabletas_Duras.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -379,7 +380,7 @@
             <div class="caption center-align"><br><br><br><br>
               <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Tabletas Duras</b>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Tabletas Duras</b></a></section>
+     
     </div>
             </div>
           </li>
@@ -392,23 +393,10 @@
     <div class="container" style="margin-top:120px;">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
+
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Mercados.php"><b class="Tipografia--general Subtitulos" style="color:Black;">Mercados > </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Tabletas Duras</b></a></section>
+
           <p class="Tipografia--general General--Cuerpo letranegro">La industria de los medicamentos en tabletas es una parte esencial del sector farmacéutico caracterizado por constantes avances y adaptaciones. Las compañías farmacéuticas invierten en investigación y desarrollo para formular tabletas seguras y efectivas, abarcando una amplia variedad de medicamentos.</p>
-          <p class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;">El contenido de las píldoras por lo regular es el siguiente:</p>
-          <ol style="margin-top:30px;">
-            <li class="Elementos--Listas Tipografia--general">Glicerol</li>
-            <br>
-            <li class="Elementos--Listas Tipografia--general">Sorbitol</li>
-            <br>
-            <li class="Elementos--Listas Tipografia--general">Tensioactivos</li>
-            <br>
-            <li class="Elementos--Listas Tipografia--general">Conservantes Antimicrobianos</li>
-            <br>
-            <li class="Elementos--Listas Tipografia--general">Edulcorantes</li>
-            <br>
-            <li class="Elementos--Listas Tipografia--general">Colorantes Autorizados</li>
-            <br>
-            <li class="Elementos--Listas Tipografia--general">Aromatizantes</li>
-          </ol>
           <p class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;">El contenido de las capsulas puede ser de consistencia sólida, liquida o pastosa. Esta constituido por uno o mas principios activos con o sin excipientes tales como disolventes, diluyentes, lubricantes, disgregantes, el contenido no causa deterioro en la cubierta.</p>
 
           <h5 class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;"><b style="color:#071637;">Tipos de comprimidos</b></h5>
@@ -450,6 +438,67 @@
             <br>
             <li class="Elementos--Listas Tipografia--general">Buenas Características Organolépticas.</li>
           </ol>
+
+          <p class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;"><b>Productos</b></p>
+          <!-- <ol style="margin-top:30px;">
+            <li class="Elementos--Listas Tipografia--general">Glicerol</li>
+            <br>
+            <li class="Elementos--Listas Tipografia--general">Sorbitol</li>
+            <br>
+            <li class="Elementos--Listas Tipografia--general">Tensioactivos</li>
+            <br>
+            <li class="Elementos--Listas Tipografia--general">Conservantes Antimicrobianos</li>
+            <br>
+            <li class="Elementos--Listas Tipografia--general">Edulcorantes</li>
+            <br>
+            <li class="Elementos--Listas Tipografia--general">Colorantes Autorizados</li>
+            <br>
+            <li class="Elementos--Listas Tipografia--general">Aromatizantes</li>
+          </ol> -->
+
+          <div class="col s12 m12 l4 xl4">
+          <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Glycerins.php"><img class="activator" src="img/BANNER_PRINCIPAL.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Glicerina</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+          </div>
+          <div class="col s12 m12 l4 xl4">
+          <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Sorbitoles.php"><img class="activator" src="img/pasta-dientes-fluor.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Sorbitoles</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+          </div>
+          <div class="col s12 m12 l4 xl4">
+          <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Proximamente.php"><img class="activator" src="img/Edulcorantes_260226.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Edulcorantes</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+          </div>
+
         </div>
       </div>
     </div>

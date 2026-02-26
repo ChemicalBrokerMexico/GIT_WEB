@@ -3,12 +3,10 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
-    <title>Chemical Broker</title>
+    <meta name="description" content="Desarrolla tabletas blandas con excipientes e ingredientes grado farmacéutico de alta pureza. Ofrecemos plastificantes, agentes humectantes y sistemas funcionales que optimizan estabilidad, textura y liberación del activo, con cumplimiento regulatorio y suministro confiable para la industria farmacéutica.">
+    <title>Chemical Broker | Tabletas Blandas | Proveedor Global de Ingredientes Quimicos para la industria Farmaceutica </title>
+    <link rel="canonical" href="https://chemicalbroker.mx/Tabletas_Blandas.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-
-    
- 
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
@@ -382,7 +380,7 @@
             <div class="caption center-align"><br><br><br><br>
               <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Tabletas Blandas</b>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Tabletas_Blandas.php"><b class="Tipografia--general Subtitulos" style="color:red;">Tabletas Blandas</b></a></section>
+
     </div>
             </div>
           </li>
@@ -393,6 +391,7 @@
     <div class="container" style="margin-top:130px;">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Mercados.php"><b class="Tipografia--general Subtitulos" style="color:black;">Mercados ></b></a><a class="active" href="Tabletas_Blandas.php"><b class="Tipografia--general Subtitulos" style="color:red;">Tabletas Blandas</b></a></section>
           <p class="Tipografia--general letranegro General--Cuerpo">Son una forma de dosificación oral que consiste en una cubierta externa suave y flexible, generalmente hecha de gelatina o material polimerico, que contiene el medicamento líquido, semisólido o en forma de gel. Esta cubierta proporciona una barrera protectora para el medicamento y facilita su ingestión </p>
           <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Ventajas de las capsulas blandas</b></h5>
           <ol>
@@ -428,9 +427,25 @@
     <div class="container" style="margin-top:-50px;">
       <div class="row">
         <div class="col s12 m12 l6 xl12">
-        <ol>
+        <!-- <ol>
           <a href="Glycerins.php" style="color:#262137"><li class="arrowblue" style="list-style-type:disc;">Glicerinas</li></a>
-        </ol>
+        </ol> -->
+
+
+        <div class="col s12 m12 l4 xl4">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Glycerins.php"><img class="activator" src="img/BANNER_PRINCIPAL.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Glicerina</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+        </div>
         </div>
       </div>
     </div>

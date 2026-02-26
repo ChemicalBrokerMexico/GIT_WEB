@@ -4,9 +4,9 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Jarabes</title>
-    <meta name="description" content="El Jarabe de Maíz es un edulcorante líquido, creado a partir del almidón o fécula de maíz. Con un rango de jarabes carbón-refinados, desmineralizados y de conversión enzimática los ingredientes ">
-    <link rel="canonical" href="https://chemicalbroker.mx/Jarabe_Maiz.php">
+    <title>Chemical Broker | Jarabes | Proveedor Global de Ingredientes Quimicos para la industria Farmaceutica</title>
+    <meta name="description" content="Desarrolla jarabes farmacéuticos de alta calidad con nuestros excipientes e ingredientes grado farmacéutico. Ofrecemos soluciones funcionales para formulaciones pediátricas y adultas, con cumplimiento normativo, trazabilidad y suministro confiable para la industria farmacéutica.">
+    <link rel="canonical" href="https://chemicalbroker.mx/Jarabes.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
     <script>
@@ -602,7 +602,7 @@
             <div class="caption center-align"><br><br><br><br>
               <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Jarabes</b>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Jarabes</b></a></section>
+
     </div>
             </div>
           </li>
@@ -615,6 +615,7 @@
         <div class="container" style="margin-top:150px;">
             <div class="row">
                 <div class="col s12 m12 l12 xl12">
+                <section style="margin-top:0px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a href="Mercados.php" style="color:black !important;"><b>Mercados&nbsp>&nbsp </b></a><a class="active" href="Jarabes.php"><b class="Tipografia--general Subtitulos" style="color:red;">Jarabes</b></a></section>
                     <p class="Tipografia--general letranegro General--Cuerpo">Los jarabes tuvieron su origen entre 1820 – 1896 creados por el farmacéutico francés Abel Guillón.</p>
                     <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La industria de los jarabes es una parte importante del sector farmacéutico y de salud en general. Estos jarabes también conocidos como soluciones liquidas, son formulaciones liquidas que contienen uno o mas ingredientes activos disueltos en un vehículo líquido, generalmente agua, azúcar u otros aditivos.</p>
                     <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Aspectos importantes a considerar sobre la industria:</b></h5>

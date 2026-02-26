@@ -3,11 +3,11 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker</title>
+    <title>Chemical Broker | Pomadas y Ungüentos | Proveedor Global de Ingredientes Quimicos para la industria Farmaceutica</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-<!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
-  
-    <script>
+    <meta name="description" content="Impulsa la formulación de pomadas y ungüentos con ingredientes y excipientes grado farmacéutico de alta pureza. Ofrecemos bases, emolientes y agentes funcionales con trazabilidad, cumplimiento regulatorio y suministro confiable para la industria dermatológica y farmacéutica"> 
+    <link rel="canonical" href="https://chemicalbroker.mx/Pomadas_Ungüentos.php">
+   <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
@@ -380,7 +380,6 @@
             <div class="caption center-align" style="margin-top:-60px;"><br><br><br><br>
               <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Pomadas & Ungüentos </b>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Pomadas_Ungüentos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Pomadas & Ungüentos</b></a></section>
     </div>
             </div>
           </li>
@@ -391,6 +390,9 @@
     <div class="container" style="margin-top:120px;">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
+
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a href="Mercados.php" style="color:black !important;"><b>Mercados&nbsp>&nbsp </b></a><a class="active" href="Pomadas_Ungüentos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Pomadas & Ungüentos</b></a></section>
+
           <p class="General--Cuerpo Tipografia--general colornegro">Las preparaciones farmacéuticas para el tratamiento de afecciones como; erupciones cutaeas, irritacion de la piel, picaduras, infecciones fungicas, son normalmente suministradas en forma de crema o pomada, ya que esto proporciona un medio eficaz para administrar el ingrediente activo, directamente en el área requerida, Chemical Broker en conjunto con sus clientes se encarga de la correcta distribución de ingredientes químicos adecuados para esta industria</p>
           <p class="General--Cuerpo Tipografia--general colornegro" style="margin-top:50px;">Están constituidos por grasas o sustancias de parecidas características que presentan aspecto semisólido a 25°C. Es esta propiedad física lo que realmente las define ya que la composición química es enormemente variada.</p>
           <h5 class="General--Cuerpo Tipografia--general colornegro" style="margin-top:50px;"><b style="color:#071637;">Aplicaciones:</b></h5>
@@ -418,15 +420,87 @@
     </div>
     <div class="container" style="margin-top:-50px;">
       <div class="row">
-        <div class="col s12 m12 l6 xl12">
-        <ol>
+        <div class="col s12 m12 l4 xl4">
+        <!-- <ol>
           <a href="Proximamente.php" style="color:#262137"><li class="arrowblue Elementos--Listas">Antioxidantes</li></a>
           <a href="Proximamente.php" style="color:#262137"><li class="arrowblue Elementos--Listas" style="margin-top:30px;">Carbomeros</li></a>
           <a href="Proximamente.php" style="color:#262137"><li class="arrowblue Elementos--Listas" style="margin-top:30px;">Acidos Grasos Naturales</li></a>
           <a href="Glycerins.php" style="color:#262137"><li class="arrowblue Elementos--Listas" style="margin-top:30px;">Glicerinas</li></a>
           <a href="Proximamente.php" style="color:#262137"><li class="arrowblue Elementos--Listas" style="margin-top:30px;">Polioles</li></a>
-        </ol>
+        </ol> -->
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Antioxidantes.php"><img class="activator" src="img/ANTIOXIDANTES_020823.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Antioxidantes</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
         </div>
+        </div>
+
+        <div class="col s12 m12 l4 xl4">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Proximamente.php"><img class="activator" src="img/CARBOMEROS_260226.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Carbomeros</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+        </div>
+
+        <div class="col s12 m12 l4 xl4">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Acidos_grasos.php"><img class="activator" src="img/COCOS_FRESCOS_030524.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Acidos Grasos</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+          </div>
+
+          <div class="col s12 m12 l4 xl4">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Glycerins.php"><img class="activator" src="img/BANNER_PRINCIPAL.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Glicerinas</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+          </div>
+
+          <div class="col s12 m12 l4 xl4">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Proximamente.php"><img class="activator" src="img/Polioles_260226.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Polioles</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+          </div>
       </div>
     </div>
     <footer style="margin-top:70px">

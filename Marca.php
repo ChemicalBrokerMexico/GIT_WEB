@@ -426,12 +426,12 @@
             <h6 class="Tipografia--general"><b style="color:#262137;border-bottom:1.5px solid #b12729;font-size:18px">Isotipo</b></h6>
           </div>
           <div class="col s12 m12 l12 xl12"> 
-            <p style="font-size:18px">Es la parte simbólico o icónico de la representación gráfica de una marca, es decir el dibujo</p><img src="img/ISOTIPO.jpg" alt="" style="max-width:90px"/>
+            <p style="font-size:18px">Es la parte simbólico o icónico de la representación gráfica de una marca, es decir el dibujo</p><img src="img/ISOTIPO_WEB.png" alt="" style="max-width:90px"/>
           </div>
         </div>
         <div class="col s12 m12 l12 xl6 center-align" style="margin-top:50px">
-          <h6><b style="color:#262137;border-bottom:1.5px solid #b12729;font-size:18px">Isologo</b>
-            <p style="font-size:18px">Las piezas que lo componen son indivisibles o inseparables lo compone la parte gráfica o icono y también la parte textual, siempre se encuentran integrados </p><img src="img/CB_IMAGOTIPO_FONDO-BLANCO_V0.png" alt="" style="max-width:310px"/>
+          <h6><b style="color:#262137;border-bottom:1.5px solid #b12729;font-size:18px">Imagotipo</b>
+            <p style="font-size:18px">Las piezas que lo componen son indivisibles o inseparables lo compone la parte gráfica o icono y también la parte textual, siempre se encuentran integrados </p><img src="img/IMAGOTIPO_WEB.jpg" alt="" style="max-width:310px"/>
           </h6>
         </div>
         <div class="col s12 m12 l12 xl6 center-align" style="margin-top:50px">

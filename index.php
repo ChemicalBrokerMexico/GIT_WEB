@@ -501,6 +501,7 @@
   <div class="row">
     <div class="col s12 m12 l12 xl12">
     <h2 style="margin-top:30px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;">Misión</b></h6>
+  <p class="Tipografia--general letranegro General--Cuerpo">"La venta y logística global de ingredientes químicos"</p>
   <p class="Tipografia--general letranegro General--Cuerpo">Ser un proveedor mundial de ingredientes químicos que aporte soluciones adecuadas y especificas en la adquisición de insumos para la industria química, enfocados en las necesidades del cliente.</p>
   <h2 style="margin-top:50px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;">Visión</b></h6> 
   <p class="Tipografia--general letranegro General--Cuerpo">"Ser el líder global en la comercialización de productos químicos, ofreciendo soluciones innovadoras, sostenibles y de alta calidad que impulsen el desarrollo industrial y ambientalmente responsable. nuestro compromiso es transformar la industria química a través de excelencia operativa, alianzas estratégicas y un enfoque en la satisfacción de nuestros clientes, promoviendo un impacto positivo en cada mercado que atendemos."</p>

@@ -3,9 +3,9 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
-    <title>Chemical Broker | Mono Propilen Glicol | USP / EP | Compra</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <meta name="description" content="Consulta las caracteristicas técnicas del Mono Propilen Glicol (MPG), especificamente, aplicaciones y presentación. Compra en linea con disponibilidad inmediata y envió seguro">
-    <link rel="canonical" href="https://chemicalbroker.mx/Propilen_Glicol_USP.php">
+    <title>Chemical Broker | EDTA Tetrasodico de Nouryon Shop | Compra</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <meta name="description" content="El ácido etilendiaminotetraacético, sal tetrasódica (EDTA tetrasódico) es un compuesto químico soluble en agua que actúa como agente quelante, es decir, tiene la capacidad de unirse y secuestrar iones metálicos como calcio, magnesio, hierro y cobre, evitando que estos interfieran en procesos químicos o formulaciones. Se utiliza ampliamente en las industrias alimentaria, cosmética, farmacéutica y de detergentes para mejorar la estabilidad, prevenir la oxidación y mantener la calidad de los productos.">
+    <link rel="canonical" href="https://chemicalbroker.mx/Edta_Tetrasodico_SHOP.php">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen"/>
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen"/>
@@ -393,7 +393,7 @@
 <ul class="slides">
 <li><div style="height:800px;background:linear-gradient(#071637 99%);">
 
-<b class="segundotitulo" style="float:right;color:white;margin-top:200px;margin-right:150px;">Propilen Glicol USP</b>
+<b class="segundotitulo" style="float:right;color:white;margin-top:200px;margin-right:150px;">EDTA | Tetrasodico Shop</b>
 
 </div>
 <div class="caption center-align"><br><br><br><br>
@@ -419,9 +419,9 @@
 <div class="container" style="margin-top:80px">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section style="margin-top:75px"><a class="active" href="index.php" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Propilen_Glicol_USP.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Propilen Glicol USP > </b></a><a class="breditem active" href="Propilen_Glicol_USP.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Propilen Glicol USP Shop.php</b></a></section>
+<section style="margin-top:75px"><a class="active" href="index.php" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Lecitinas_Prod.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">EDTA Tetrasodico > </b></a><a class="breditem active" href="EDTA_Tetrasodico_Shop.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">EDTA Tetrasodico Shop</b></a></section>
 
-<p class="Tipografia--general letranegro General--Cuerpo">El Monopropilen Glicol USP/EP (también llamado Propilenglicol grado farmacéutico), es un compuesto químico líquido de alta pureza muy utilizado como solvente, humectante y estabilizante usado principalmente en farmacéutica, alimentos, cosmética y cuidado personal.</p>
+<p class="Tipografia--general letranegro General--Cuerpo">El <b>ácido etilendiaminotetraacético, sal tetrasódica (EDTA tetrasódico)</b> es un compuesto químico soluble en agua que actúa como <b>agente quelante</b>, es decir, tiene la capacidad de unirse y secuestrar iones metálicos como calcio, magnesio, hierro y cobre, evitando que estos interfieran en procesos químicos o formulaciones. Se utiliza ampliamente en las industrias alimentaria, cosmética, farmacéutica y de detergentes para mejorar la estabilidad, prevenir la oxidación y mantener la calidad de los productos.</p>
 
 
 </div>
@@ -434,180 +434,117 @@
 
 <div class="col s6 m6 l6 xl6">
 
-<img src="img/CBM_TAMBOR_WEB.jpg" style="width:100%;" alt="Tambor de Producto">
+<img src="img/CBM_SACO_WEB.jpg" style="width:100%;" alt="Tambor de Producto">
 
 </div>
 
     <div class="col s6 m6 l6 xl6">
 
-<table>
-    
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Descripción Química:</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Mono Propilen Glicol</center></td>
-    </tr>    
+    <table>
+        <tr>
+            <td style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Descripción Química:</center></td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Ácido etilendiaminotetraacético, sal tetrasódica</center></td>
+        </tr>
+        <tr>
+            <td style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>CAS #:</center></td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>64-02-8</center></td>
+        </tr>
+        <tr>
+            <td style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Familia Química:</center></td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>EDTA´s</center></td>
+        </tr>
+        <tr>
+            <td style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Sinónimos</center></td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Sal Tetrasodica<br>EDTA tetrasodico</center></td>
+        </tr>
+        <tr>
+            <td style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Grado:</center></td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>- USP | FCC</center></td>
+        </tr>
+        <tr>
+            <td style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Certificaciones:</center></td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>- Kosher | Halal</center></td>
+        </tr>
+        <tr>
+            <td style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Presentación:</center></td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>- Saco 25 Kg.</center></td>
+        </tr>
+        <tr>
+            <td style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" colspan="2"><center>Especificaciones:</center></td>
+        </tr>
+        <tr>
+            <td style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Apariencia:</center></td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Polvo blanco micro granular</center></td>
+        </tr>
+        <tr>
+            <td style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Ensayo (pm = 380.2) (%):</center></td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>86 mínimo</center></td>
+        </tr>
+        <tr>
+            <td style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>pH de una solución acuosa al 1% p/v:</center></td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>11.0 – 12.0</center></td>
+        </tr>
+        <tr>
+            <td style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Solubilidad en agua:</center></td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Aproximadamente 1100 g/l agua (20°C)<br>Aproximadamente 1500 g/l agua (80°C)</center></td>
+        </tr>
+        <tr>
+            <td style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Densidad aparente sin compactar (vertida):</center></td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Aproximadamente 500 – 700 kg/m3</center></td>
+        </tr>
+        <tr>
+            <td style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Densidad aparente compactada:</center></td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Aproximadamente 700 – 900 kg/m3</center></td>
+        </tr>
+        <tr>
+            <td style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" colspan="2"><center><center>Los valores de secuestro para EDTA Na son aproximadamente:</center></td>
+        </tr>
+        <tr>
+            <td style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Ion Metálico | Rango de pH</center></td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>mg de metal / g de EDTA Tetrasódico</center></td>
+        </tr>
+        <tr>
+            <td style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Calcio | 5 -14</center></td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>90</center></td>
+        </tr>
+        <tr>
+            <td style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Cobre | 2 -14</center></td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>145</center></td>
+        </tr>
+        <tr>
+            <td style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Férrico | 1 -10</center></td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>125</center></td>
+        </tr>
+        <tr>
+            <td style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Magnesio | 6 -11</center></td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>55</center></td>
+        </tr>
+        <tr>
+            <td style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Manganeso | 3 - 13</center></td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>125</center></td>
+        </tr>
+        <tr>
+            <td style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Zinc | 2 - 13</center></td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>150</center></td>
+        </tr>
+        <tr>
+            <td style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Vida de Anaquel:</center></td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>- 2 años a partir de la fecha de elaboración y en su envase original.</center></td>
+        </tr>
+        <tr>
+            <td style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Cantidad Mínima de Venta:</center></td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>- Pallet 750 Kg.</center></td>
+        </tr>
+        <tr>
+            <td style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Función:</center></td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>El ácido etilendiaminotetraacético sal tetrasódica (EDTA tetrasódico) es un agente quelante de alta eficiencia cuya función principal es secuestrar y complejar iones metálicos multivalentes como calcio, magnesio, hierro y cobre, evitando reacciones indeseables catalizadas por metales; se utiliza para ablandar agua y mejorar la eficacia de detergentes y limpiadores, estabilizar formulaciones químicas, farmacéuticas, cosméticas y alimentarias al prevenir oxidación y degradación, actuar como conservador indirecto al limitar la disponibilidad de metales que favorecen el crecimiento microbiano, controlar incrustaciones y depósitos minerales en sistemas industriales, y servir como auxiliar en procesos analíticos, tratamiento de aguas y aplicaciones agrícolas donde se requiere disponibilidad controlada de micronutrientes.</center></td>
+        </tr>
+        <tr>
+            <td style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Aplicación:</td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>El ácido etilendiaminotetraacético sal tetrasódica (EDTA tetrasódico) se aplica ampliamente en la industria como agente quelante para el tratamiento y ablandamiento de aguas en calderas, torres de enfriamiento y sistemas de limpieza CIP; en detergentes y limpiadores industriales y domésticos para mejorar el desempeño al secuestrar calcio y magnesio; en formulaciones cosméticas y farmacéuticas como estabilizante que previene la degradación catalizada por metales; en la industria alimentaria como secuestrante para mantener color, sabor y estabilidad; en agricultura para formular micronutrientes quelatados; en procesos textiles y de papel para controlar iones metálicos; en galvanoplastia y tratamiento de superficies; y en laboratorios y procesos químicos donde se requiere control preciso de metales traza.</center></td>
+        </tr>
+    </table>
 
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>CAS #:</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>57-55-6</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Familia Química:</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Glicoles</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Sinónimos</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>MPG<br>1,2-Propanodiol</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Grado:</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>USP | FCC</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Certificaciones:</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Kosher | Halal | REACH</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Presentación:</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Tambor<br>ibc<br>Granel</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" colspan="2"><center>Especificaciones:</center></td>
-
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Acidez como ácido acético (%):</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>0.0020 máximo</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Aspecto:</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Pasa</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Ensayo como PG, en base seca (%):</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>99.90 mínimo</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Tiempo de retención de PG, ID Test C:</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Pasa</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Cloruros (ppm):</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>0.5 máximo</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Color, Pt-Co (APHA Color):</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>10 máximo</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Metales pesados como Pb (ppm)</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>5 máximo</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Hierro (ppm):</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>0.50 máximo</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Olor:</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Pasa</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Materias en suspensión:</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Pasa</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Disolventes residuales:</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Pasa</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Agua (%):</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>0.200 máximo</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Dietilenglicol (%):</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>0.008 máximo</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Etilenglicol (%):</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>0.008 máximo</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" colspan="2"><center>Valores Típicos:</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Arsénico como As (ppm):</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>1 máximo</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Metales CONEG:</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Pasa</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Destilación IBP a 760 mmHg (°C):</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>186.0 mínimo</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Destilación DP a 760 mmHg (°C):</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>189.0 mínimo</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Espectro IR:</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Pasa</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Sust. oxidante en ml de tiosulfato (ml):</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>0.2 máximo</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Sustancias reductoras:</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Pasa</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Índice de refracción a 20 °C:</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>1.4310 – 1.4330</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Residuos de ignición (%):</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>0.0050 máximo</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Gravedad específica a 20/20 °C:</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>1.0377 – 1.0389</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Gravedad específica a 25/25 °C:</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>1.0352 – 1.0364</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Sulfato (%):</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>0.006 máximo</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Solubilidad a 25 °C:</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Pasa</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Acidez (ml de NaOH 0,1 N/10 ml):</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>0.03 máximo</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Vida de Anaquel:</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>2 años a partir de la fecha de elaboración y en su envase original.</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Cantidad Mínima de Venta:</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>1,000 Kg.</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Función:</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Solvente: Disuelve principios activos, sabores, fragancias y colorantes en formulaciones farmacéuticas, cosméticas y alimentarias.<br>Vehículo farmacéutico: Sirve como medio de transporte para APIs en jarabes, inyectables, tópicos y soluciones orales.<br>Humectante: Retiene humedad, evitando resequedad en cremas, geles, pastas y alimentos procesados.<br>Estabilizante: Mantiene la homogeneidad y estabilidad fisicoquímica de las formulaciones.<br>Plastificante: Mejora la flexibilidad de cápsulas blandas, recubrimientos y películas.<br>Portador de aromas y sabores: Facilita la dispersión uniforme en alimentos, bebidas y nutracéuticos.<br>Crioprotector: Reduce el punto de congelación en soluciones farmacéuticas y técnicas especiales.<br>Agente de control de viscosidad: Ajusta textura y fluidez en formulaciones líquidas y semisólidas.</center></td>
-    </tr>
-    <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Aplicación:</center></td>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>El Mono Propilen Glicol USP / EP se aplica en la elaboración de medicamentos (jarabes, soluciones orales, inyectables, tópicos y cápsulas blandas), en productos cosméticos y de cuidado personal (cremas, geles, lociones, pastas dentales y desodorantes), en la industria alimentaria (bebidas, saborizantes, colorantes, panificación y alimentos procesados), en suplementos y nutracéuticos, y en formulaciones veterinarias, actuando como componente seguro y regulado que permite la correcta formulación, estabilidad y desempeño del producto final conforme a los estándares USP y Farmacopea Europea (EP).</center></td>
-    </tr>
-
-</table>
 
     </div>
 </div>

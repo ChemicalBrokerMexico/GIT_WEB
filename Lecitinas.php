@@ -3,8 +3,8 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Lectinas de Cargill | Proveedor Global</title>
-  <meta name="description" content="Chemical Broker Brinda a sus socios de negocios Lecitinas de la mas alta calidad del fabricante Cargill">
+  <title>Chemical Broker | Lectinas | Proveedor Global</title>
+  <meta name="description" content="Chemical Broker Brinda a sus socios de negocios Lecitinas de la mas alta calidad">
   <meta http-equiv="Expires" content="0">
   <meta http-equiv="Last-Modified" content="0">
   <meta http-equiv="Cache-Control" content="no-cache, mustrevalidate">
@@ -647,12 +647,12 @@
 
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">En la UE, la lecitina (E322) Está regulada por el Reglamento (CE) n° 1333/2008 del Parlamento Europeo y del Consejo de 16 de diciembre de 2008 sobre aditivos alimentarios.</p>
 
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Fabricante:</b></h2>
+        <!-- <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Fabricante:</b></h2> -->
 
-        <ol style="margin-top:50px;">
-        <a href="PAGINA_SECUNDARIA_LECITINAS.php"><img src="img/Cargill-Logo_2.png" alt="" class="logo_lecitinas_secundarias"><span class="arrowblue" style="color:black;">Ver Más...</span></a>
+        <!-- <ol style="margin-top:50px;">
+        <a href="PAGINA_SECUNDARIA_LECITINAS.php"><img src="img/Cargill-Logo_2.png" alt="" class="logo_lecitinas_secundarias"><span class="arrowblue" style="color:black;">Ver Más...</span></a> -->
            <!-- <li class="Elementos--listas Tipografia--general"><a href="PAGINA_SECUNDARIA_LECITINAS.php" style="color: black;" class="arrowblue">Cargill</a></li>  -->
-        </ol>
+        <!-- </ol> -->
 
   </div>
 

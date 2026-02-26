@@ -925,8 +925,14 @@
 
     </div>
 
-    <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
-    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+    <div class="container">
+    <div class="row">
+        <div class="col s12 m12 l12 xl12">
+        <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank"><h2 class="Tipografia--general letranegro General--Cuerpo"><b><button class="btn" style="background-color:#071637;color:white;cursor:pointer;">Cotiza o Consulta con nosotros tu requerimiento</button> </b></h2></a>
+            <!-- <button style="background-color:#071637;color:white;width:100%;border-radius:15px;height:60px;">Contactenos</button> -->
+        </div>
+    </div>
+</div>
 </a>
                 
                 </body>
