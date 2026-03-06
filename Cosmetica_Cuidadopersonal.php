@@ -3,8 +3,8 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0" />
-    <meta name="description" content="Tu cuidado es Nuestra Prioridad, Nuestros Ingredientes Quimicos Tienen la Mejor Calidad Probada">
-    <title>Chemical Broker | Cosmetica & Cuidado personal</title>
+    <meta name="description" content="Insumos e ingredientes para la industria de cosméticos y cuidado personal. Calidad y confiabilidad para formulaciones de alto desempeño.">
+    <title>Chemical Broker | Cosmetica & Cuidado personal | Proveedor Global y Nacional de Ingredientes Quimicos para la industria de Cosmeticos y Cuidado Personal</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen" />
@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
         integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus" />
     <link rel="stylesheet" href="css/History_Line.css?n=1" />
+    <link rel="canonical" href="https://chemicalbroker.mx/Cosmetica_Cuidadopersonal.php">
     <link rel="stylesheet" href="css/jquery.dataTables.min.css" />
     <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />

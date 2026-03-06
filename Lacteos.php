@@ -3,10 +3,10 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Lacteos</title>
+    <title>Chemical Broker | Lacteos | Proveedor Global y Nacional de Ingredientes quimicos para la Industria Alimentaria</title>
     <meta name="description" content="La industria Láctea tiene un gran impacto a nivel global, para la fabricación de yogurt, crema, leche saborizada, quesos.">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-   
+    <link rel="canonical" href="https://chemicalbroker.mx/Lacteos.php">
 
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
     <script>
@@ -382,7 +382,7 @@
             <div class="caption center-align"><br><br><br><br>
               <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Lacteos</b>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Lacteos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Lacteos</b></a></section>
+     
     </div>
             </div>
           </li>
@@ -394,6 +394,9 @@
     <div class="container" style="margin-top:120px;">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
+
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a href="Mercados.php" style="color:black !important;"><b>Mercados&nbsp>&nbsp </b></a><a href="Alimentos.php" style="color:black !important;"><b>Alimentos&nbsp>&nbsp </b></a><a class="active" href="Lacteos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Lacteos</b></a></section>
+
           <p style="color:#262137" class="Tipografia--general letranegro General--Cuerpo">La <b>industria Láctea</b> tiene un gran impacto a nivel global, para la fabricación de yogur, crema, leche saborizada, quesos. El consumo de lácteos ha tenido un impacto fundamental en la economía global y el desarrollo Agrícola durante más de 10.000 años, en general es un producto consumido a nivel global.
           </p>
         </div>

@@ -3,7 +3,7 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
-    <title>Chemical Broker | Panificacion </title>
+    <title>Chemical Broker | Panificacion | Proveedor Global y Nacional de Ingredientes Quimicos para la Industria Alimentaria </title>
     <link rel="canonical" href="https://chemicalbroker.mx/Panificacion.php">
     <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
@@ -381,7 +381,7 @@
             <div class="caption center-align"><br><br><br><br>
               <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Panificacion</b>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:red;">Panificacion</b></a></section>
+     
     </div>
             </div>
           </li>
@@ -394,6 +394,9 @@
     <div class="container" style="margin-top:120px;">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
+
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a href="Mercados.php" style="color:black !important;"><b>Mercados&nbsp>&nbsp </b></a><a href="Alimentos.php" style="color:black !important;"><b>Alimentos Y Nutricion Humana&nbsp>&nbsp </b></a><a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:red;">Panificacion</b></a></section>
+
           <p style="color:#262137;" class="Tipografia--general General--Cuerpo">La industria de la panificación a nivel global tiene un valor de más de $461,000 millones de dólares, y es uno de los alimentos básicos en la alimentación diaria de los seres humanos. Chemical Broker ofrece un robusto portafolios de ingredientes químicos para la fabricación de Harinas, Harinas Preparadas, Pan de Caja, Pan Artesanal, Galletas, Pasteles, Masas y Panes Congelados.</p>
         </div>
       </div>
@@ -433,7 +436,7 @@
                   <p> <b style="color:white !important">
                       <p class="leer_mas_mercados"> Leer Mas</p></b></p>
                 </h5>
-              </div><img class="mercadosimagen " src="img/PAN_ARTESANAL_290421.jpeg" alt="" style="border-radius:10px"/>
+              </div><img class="mercadosimagen " src="img/CBM_PAN_ARTESANAL_201124.jpg" alt="" style="border-radius:10px"/>
             </div></a></div>
         <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Galletas.php" style="cursor:pointer;">
             <div class="contenedor">

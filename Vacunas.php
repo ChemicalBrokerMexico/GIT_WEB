@@ -396,7 +396,7 @@
     <div class="row">
         <div class="col s12 m12 l12 xl12">
 
-        <section style="margin-top:0px"><a class="active" href="#" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Medicamentos_Terapeuticos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Vacunas</b></a></section>
+        <section style="margin-top:0px"><a class="active" href="#" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Mercados.php" style="color:black !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Mercados > </b></a> <a class="breditem active" href="Veterinaria.php" style="color:black !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Veterinaria ></b></a> <a class="breditem active" href="Medicamentos_Terapeuticos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Vacunas</b></a></section>
 
         <p class="Tipografia--general letranegro General--Cuerpo">La industria de las vacunas para mascotas es un sector clave en la salud animal, destinado a prevenir enfermedades infecciosas y proteger la salud de los animales domésticos. En su desarrollo y producción, se utilizan diversos ingredientes químicos y biológicos que desempeñan roles esenciales. A continuación, se presenta un desglose detallado:</p>
 
@@ -405,7 +405,7 @@
 <p class="Tipografia--general letranegro General--Cuerpo">Los antígenos son las sustancias que inducen una respuesta inmune protectora. Estos son los principales:</p>
 
 <ol>
-    <li class="Elementos--Listas" style="margin-top:30px;">Microorganismos atenuados:
+    <li class="Elementos--Listas" style="margin-top:30px;"><b>Microorganismos atenuados:</b>
         <ol>
             <li class="Elementos--Listas" style="margin-top:30px;">Ejemplo: Virus vivos modificados de moquillo canino, parvovirus felino.</li>
             <li class="Elementos--Listas" style="margin-top:30px;">Uso: Estimulan una respuesta inmune fuerte y duradera sin causar la enfermedad.</li>
@@ -415,7 +415,7 @@
      
 
 <ol>
-    <li class="Elementos--Listas" style="margin-top:30px;">Microorganismos inactivados:
+    <li class="Elementos--Listas" style="margin-top:30px;"><b>Microorganismos inactivados:</b>
         <ol>
             <li class="Elementos--Listas" style="margin-top:30px;">Ejemplo: Virus inactivados de rabia, bacterias inactivadas como Bordetella bronchiseptica.</li>
             <li class="Elementos--Listas" style="margin-top:30px;">Uso: Proporcionan inmunidad con menor riesgo para animales inmunocomprometidos.</li>
@@ -425,7 +425,7 @@
 
 
 <ol>
-    <li class="Elementos--Listas" style="margin-top:30px;">Subunidades proteicas:
+    <li class="Elementos--Listas" style="margin-top:30px;"><b>Subunidades proteicas:</b>
         <ol>
             <li class="Elementos--Listas" style="margin-top:30px;">Ejemplo: Proteínas recombinantes de la cápside viral o proteínas de superficie bacteriana.</li>
             <li class="Elementos--Listas" style="margin-top:30px;">Uso: Reducen los efectos secundarios al eliminar componentes innecesarios del microorganismo.</li>
@@ -434,7 +434,7 @@
 </ol>
 
 <ol>
-    <li class="Elementos--Listas" style="margin-top:30px;">Adyuvantes:
+    <li class="Elementos--Listas" style="margin-top:30px;"><b>Adyuvantes:</b>
         <ol>
             <li class="Elementos--Listas" style="margin-top:30px;">Mejoran la respuesta inmune al aumentar la eficacia del antígeno. Los más comunes son:</li>
             <li class="Elementos--Listas" style="margin-top:30px;">Sales de aluminio</li>
@@ -445,7 +445,7 @@
     
 
 <ol>
-    <li class="Elementos--Listas" style="margin-top:30px;">Conservantes: Previenen la contaminación microbiana en vacunas multidosis. Ejemplos:
+    <li class="Elementos--Listas" style="margin-top:30px;"><b>Conservantes: Previenen la contaminación microbiana en vacunas multidosis. Ejemplos:</b>
         <ol>
             <li class="Elementos--Listas" style="margin-top:30px;">Timerosal: Compuesto orgánico del mercurio, usado en concentraciones muy bajas.</li>
             <li class="Elementos--Listas" style="margin-top:30px;">Fenol y cresol: Conservantes comunes en formulaciones líquidas.</li>
@@ -456,7 +456,7 @@
     
 
 <ol>
-    <li class="Elementos--Listas" style="margin-top:30px;">Estabilizantes: Prolongan la vida útil y mantienen la potencia de la vacuna durante su almacenamiento.
+    <li class="Elementos--Listas" style="margin-top:30px;"><b>Estabilizantes: Prolongan la vida útil y mantienen la potencia de la vacuna durante su almacenamiento.</b>
         <ol>
             <li class="Elementos--Listas" style="margin-top:30px;"> Azúcares:
                 <ol>
@@ -466,7 +466,7 @@
             </li>
         </ol>
         <ol>
-            <li class="Elementos--Listas" style="margin-top:30px;">Proteínas:
+            <li class="Elementos--Listas" style="margin-top:30px;"><b>Proteínas:</b>
                 <ol>
                     <li class="Elementos--Listas" style="margin-top:30px;">Ejemplo: Gelatina, Albúmina sérica bovina.</li>
                     <li class="Elementos--Listas" style="margin-top:30px;">Uso: Previenen la desnaturalización de antígenos.</li>
@@ -474,7 +474,7 @@
             </li>
         </ol>
         <ol>
-            <li class="Elementos--Listas" style="margin-top:30px;"> Aminoácidos:
+            <li class="Elementos--Listas" style="margin-top:30px;"><b>Aminoácidos:</b>
                 <ol>
                     <li class="Elementos--Listas" style="margin-top:30px;">Ejemplo: Glutamato, Glicina.</li>
                     <li class="Elementos--Listas" style="margin-top:30px;">Uso: Estabilizan soluciones líquidas.</li>
@@ -486,7 +486,7 @@
 </ol>
 
 <ol>
-    <li class="Elementos--Listas" style="margin-top:30px;"> Excipientes y vehículos: Facilitan la formulación y administración.
+    <li class="Elementos--Listas" style="margin-top:30px;"><b>Excipientes y vehículos: Facilitan la formulación y administración.</b>
         <ol>
             <li class="Elementos--Listas" style="margin-top:30px;"> Soluciones tampón:
                 <ol>
@@ -496,7 +496,7 @@
             </li>
         </ol>
         <ol>
-            <li class="Elementos--Listas" style="margin-top:30px;"> Emulsionantes y surfactantes:
+            <li class="Elementos--Listas" style="margin-top:30px;"><b>Emulsionantes y surfactantes:</b>
                 <ol>
                     <li class="Elementos--Listas" style="margin-top:30px;">Ejemplo: Polisorbato 80, Span 20.</li>
                     <li class="Elementos--Listas" style="margin-top:30px;">Uso: Aseguran una mezcla homogénea de los ingredientes.</li>
@@ -506,7 +506,37 @@
     </li>
 </ol>
 
+<h2 class="Tipografia--general letranegro General--Cuerpo"><b>Productos</b></h2>
 
+<div class="col s12 m12 l4 xl4">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Azucar_Refinada.php"><img class="activator" src="img/AZUCAR_BANNER_310724.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Azúcar Refinada</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+        </div>
+
+        <div class="col s12 m12 l4 xl4">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Esteres_Sorbitan_Etoxilados.php"><img class="activator" src="img/ESTERES_SORBITAN_ETOXILADOS_290125.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Esteres de Sorbitan Etoxilados</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+        </div>
 
         </div>
     </div>

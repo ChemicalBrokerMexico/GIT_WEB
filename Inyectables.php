@@ -3,9 +3,10 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
+    <meta name="description" content="Desarrolla formulaciones inyectables con excipientes e ingredientes grado farmacéutico de máxima pureza. Ofrecemos soluciones estériles con cumplimiento regulatorio, trazabilidad y suministro confiable para aplicaciones hospitalarias y de especialidad en la industria farmacéutica.">
     <link rel="canonical" href="https://chemicalbroker.mx/Inyectables.php">
-    <title>Chemical Broker</title>
+    <title>Chemical Broker | Inyectables | Proveedor Global de Ingredientes Qumicos para la Industria Farmaceutica</title>
+    <link rel="canonical" href="https://chemicalbroker.mx/Inyectables.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />  
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
     <script>
@@ -381,7 +382,6 @@
             <div class="caption center-align"><br><br><br><br>
               <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Inyectables</b>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Inyectables</b></a></section>
     </div>
             </div>
           </li>
@@ -392,6 +392,7 @@
     <div class="container" style="margin-top:130px;">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Mercados.php"><b class="Tipografia--general Subtitulos" style="color:Black;">Mercados > </b></a><a class="active" href="Inyectables.php"><b class="Tipografia--general Subtitulos" style="color:red;">Inyectables</b></a></section>
           <p class="Tipografia--general letranegro General--Cuerpo">Los medicamentos inyectables han crecido en cuanto a su uso se refiere, esto debido al uso de medicamentos de precisión y medicamentos biofarmacéuticos. Los (API) o principios activos farmacéuticos son cada vez más complicados de administrar a nivel terapéutico debido a cuestiones de biodisponibilidad.</p> 
           <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Crecimiento de la Industria</b></h5>
           <p class="Tipografia--general letranegro General--Cuerpo">Se espera que el mercado de medicamentos inyectables este valorado en USD 510,32 millones en 2022, con una tasa compuesta anual de 7.88% durante el periodo de pronóstico.</p>
@@ -422,10 +423,35 @@
     <div class="container" style="margin-top:-50px;">
       <div class="row">
         <div class="col s12 m12 l6 xl12">
-        <ol>
-          <a href="Glycerins.php" style="color:#262137"><li class="arrowblue Elementos--Listas">Glicerinas</li></a>
-          <a href="Proximamente.php" style="color:#262137"><li class="arrowblue Elementos--Listas">Polietilenglicoles (PEG´S)</li></a>
-        </ol>
+        <div class="col s12 m12 l4 xl4">
+          <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Glycerins.php"><img class="activator" src="img/BANNER_PRINCIPAL.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Glicerinas</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+          </div>
+          <div class="col s12 m12 l4 xl4">
+          <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Proximamente.php"><img class="activator" src="img/PASTILLA_FARMACEUTICA_270226.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Polietilenglicol</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+          </div>
+
         </div>
       </div>
     </div>

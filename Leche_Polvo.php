@@ -3,9 +3,10 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
-    <title>Chemical Broker | Leche en Polvo</title>
+    <meta name="description" content="Suministramos insumos de calidad para la industria de la leche en polvo: materias primas, aditivos y productos especializados para fabricantes que buscan consistencia, nutrición y sabor en sus productos lácteos">
+    <title>Chemical Broker | Leche en Polvo | Proveedor Global y Nacional de Ingredientes Quimicos para la Industria Alimentaria</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <link rel="canonical" href="https://chemicalbroker.mx/Leche_Polvo.php">
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
@@ -394,7 +395,7 @@
       <div class="row">
         <div class="col s12 m12 l12 xl12">
 
-        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:black;">Mercados ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:black;">Alimentos ></b></a> <a class="active" href="Lacteos.php"><b class="Tipografia--general Subtitulos" style="color:black;">Lacteos ></b> <a class="active" href="Leche.php"><b class="Tipografia--general Subtitulos" style="color:red;">Leche en Polvo</b></a></a></section>
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a href="Mercados.php" style="color:black !important;"><b>Mercados&nbsp>&nbsp</b></a><a href="Alimentos.php" style="color:black !important;"><b>Alimentos&nbsp>&nbsp </b></a><a href="Lacteos.php" style="color:black !important;"><b>Lacteos&nbsp>&nbsp </b></a><a class="active" href="Leche_Polvo.php"><b class="Tipografia--general Subtitulos" style="color:red;">Leche en Polvo</b></a></a></section>
 
           <p class="Tipografia--general letranegro General--Cuerpo">La industria de la Leche en Polvo es una rama importante del sector lacteo que transforma la leche liquida en un producto seco, ligero y de larga duracion. Este formato es especialmente relevante en regiones con acceso limitado a productos frescos, en la produccion de alimentos procesados y como ingrediente en diversas industrias</p>
 

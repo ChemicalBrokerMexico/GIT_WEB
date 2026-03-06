@@ -4,8 +4,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
 <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
-<title>Chemical Broker</title>
+<title>Chemical Broker | Harinas | Proveedor Global y Nacional de Ingredientes Quimicos para la Industria Alimentaria </title>
 <link rel="shortcut icon" href="img/CB_ICON.ico" />
+<link rel="canonical" href="https://chemicalbroker.mx/Harinas.php">
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
     <script>
@@ -212,12 +213,12 @@
         </ul>
       </div>
       <div> 
-        <ul> <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock" style="color:white !Important;margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock" style="color:white !Important;display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
-            <div style="display:flex;justify-content:center"> 
-              <p class="Botones Logindesktop Tipografia--general" style="aling-self:center"> <b>Iniciar Sesión</b></p>
-            </div></a>
-          <li class="ul-independiente right"><a class="btn-search-desktop1" href="#" id="busquedaprueba" onclick="abrirsearch();"><i class="material-icons left search-desktop-icon" style="color:black !important;font-size:24px;font-weight:500;position:absolute;z-index:1">search</i></a></li>
-        </ul>
+      <ul><!--  <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="chemicalbroker.mx/Vista/Principal.php" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock color--blanco" style="margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock color--blanco" style="display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
+<div style="display:flex;justify-content:center"> 
+<p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
+</div></a> -->
+<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
+</ul>
         <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i class="material-icons search-mobile-icon margin-left-search-mobile-icon" style="width:0px">search</i></a></div>
       </div>
     </nav>
@@ -238,7 +239,7 @@
               </div>
             </div>
             <div class="col s12 m12 l12 xl12 search" id="search">
-              <table class="search-table"  style="width:100%">
+              <table class="search-table" id="searchTable" style="width:100%">
                 <thead> 
                   <tr>
                     <td> </td>
@@ -317,7 +318,7 @@
         <div class="container">
           <div class="row">
             <div class="col s12 m12 l12 xl12 search" id="search2">
-              <table class="search-table" style="width:100%;">
+              <table class="search-table" id="searchTable2" style="width:100%;">
                 <thead> 
                   <tr> 
                     <td> </td>
@@ -371,7 +372,7 @@
             <div class="caption center-align"><br><br><br><br>
               <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Harinas</b>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:white;">Mercados ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:white;">Alimentos ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:white;">Panificacion ></b> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:red;">Harinas</b></a></a></section>
+      
     </div>
             </div>
           </li>
@@ -385,6 +386,9 @@
 <div class="container" style="margin-top:120px;">
     <div class="row">
         <div class="col s12 m12 l12 xl12">
+
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:black;">Mercados ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:black;">Alimentos ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:black;">Panificacion ></b> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:red;">Harinas</b></a></a></section>
+
             <p style="color: black;" class="letranegro General--Cuerpo Tipografia--general">La industria de las harinas es un sector esencial en la produccion de alimentos, ya que provee uno de los ingredientres base en una amplia variedad de productos alimenticios. La produccion de harina se cenra principalmente en la molioenda de cereales, como el trigo, el maiz y el arroz, transformandolos en polvo fino que se utiliza en la elaboracion de productos como pan, pasteles, galletas y pasta. En este proceso, la industria busca no solo mantener la calidad y seguridad alimentaria, si no tambien mejorar la textura, el color y la durabilidad y la estabilidad del producto final. Para lograrlo, se suelen emplear productos quimicos especificos que optimizan ciertas propiedades de la harina</p>
             <h5 class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;"><b style="color: #262137;">Productos Quimicos utilizados en la industria de las harinas y su función</b></h5>
             <p class="letranegro General--Cuerpo Tipografia--general"><b style="color:black;">1. Mejoradores de la harina:</b> Como el acido ascorbico (vitamina C) y el bromato de potasio (aunque esta restringido en varios países) se emplean para fortalecer la red de gluten y mejorar la elastiidad y extensibilidad de la masa. Esto permite que los productos horneados tengan una mejor estructura y volumen</p>
@@ -419,12 +423,7 @@
 
             <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Productos Ofrecidos para la Elaboracion de Harinas</b></h2>
 
-            <ol>
-              <li style="list-style-type:disc;"><a href="Lecitinas.php" class="arrowblue" style="color: black;" >Lecitina de Soya</a></li>
-              <li style="list-style-type:disc;"><a href="Proximamente.php" class="arrowblue" style="color: black;">Propionato de Calcio</a></li>
-              <li style="list-style-type:disc;"><a href="Proximamente.php" class="arrowblue" style="color: black;">Goma Guar</a></li>
-              <li style="list-style-type:disc;"><a href="Proximamente.php" class="arrowblue" style="color: black;">Goma Xantana</a></li>
-            </ol>
+            
 
         </div>
 
@@ -444,14 +443,16 @@
             <script type="text/javascript" src="js/main.js">   </script>
           </a></strong></p>
     </div>
-    <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="js/main.js">   </script></a></strong></p>
+            <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="js/materialize.js" type="text/javascript"></script>
-<script src="js/init.js"></script>
-<script type="text/javscript" src="js/materialize.min.js"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
-<link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
-<link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+    <script src="js/init.js"></script>
+    <script type="text/javscript" src="js/materialize.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
+    <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus"/>
   </footer>
 <?php
 

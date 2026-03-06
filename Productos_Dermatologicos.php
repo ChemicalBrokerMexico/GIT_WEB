@@ -536,7 +536,7 @@
 
   <div class="row">
     <div class="col s12 m12 l12 xl12">
-    <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Mercados.php"><b class="Tipografia--general Subtitulos" style="color:red;">Mercados</b></a><a class="active" href="Mercados.php"><b class="Tipografia--general Subtitulos" style="color:red;">Productos Dermatológicos</b></a></section>
+    <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Mercados.php"><b class="Tipografia--general Subtitulos" style="color:black;">Mercados ></b></a> <a class="active" href="Productos_Dermatologicos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Productos Dermatológicos</b></a></section>
     </div>
   </div>
   </div>
@@ -550,7 +550,7 @@
             <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Principales categorías de productos dermatológicos:</b></h2>
 
             <ol>
-                <li class="Elementos--Listas"> Productos terapéuticos:
+                <li class="Elementos--Listas"><b>Productos terapéuticos:</b>
                     <ol>
                         <li class="Elementos--Listas" style="margin-top:30px;">Champús y acondicionadores medicinales:
                             <ol>
@@ -563,7 +563,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas"> Ungüentos y cremas tópicas:
+                <li class="Elementos--Listas"> <b>Ungüentos y cremas tópicas:</b>
                     <ol>
                         <li class="Elementos--Listas" style="margin-top:30px;">Diseñados para tratar heridas, irritaciones, alergias o infecciones.</li>
                         <li class="Elementos--Listas">Ejemplo: Hidrocortisona tópica para alergias, mupirocina para infecciones bacterianas.</li>
@@ -572,7 +572,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas">Sprays y lociones calmantes:
+                <li class="Elementos--Listas"><b>Sprays y lociones calmantes:</b>
                     <ol>
                         <li class="Elementos--Listas" style="margin-top:30px;">Uso: Reducir el prurito y las inflamaciones cutáneas.</li>
                         <li class="Elementos--Listas">Ingredientes clave: Aloe vera, avena coloidal, lidocaína.</li>
@@ -580,10 +580,10 @@
                 </li>
             </ol>
 
-            <h2 class="Tipografia--general letranegro General--Cuerpo">Productos preventivos y de cuidado:</h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Productos preventivos y de cuidado:</b></h2>
 
             <ol>
-                <li class="Elementos--Listas"> Protectores de la piel:
+                <li class="Elementos--Listas"><b>Protectores de la piel:</b>
                     <ol>
                         <li class="Elementos--Listas" style="margin-top:30px;">Bálsamos y cremas hidratantes para proteger zonas sensibles (como las almohadillas plantares).</li>
                         <li class="Elementos--Listas">Ejemplo: Cera de abeja, lanolina.</li>
@@ -592,7 +592,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas"> Productos antisépticos:
+                <li class="Elementos--Listas"><b>Productos antisépticos:</b>
                     <ol>
                         <li class="Elementos--Listas" style="margin-top:30px;">Uso: Desinfectar heridas menores y prevenir infecciones.</li>
                         <li class="Elementos--Listas">Ejemplo: Soluciones de povidona yodada, clorhexidina.</li>
@@ -601,7 +601,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas"> Productos para el mantenimiento del pelaje:
+                <li class="Elementos--Listas"><b>Productos para el mantenimiento del pelaje:</b>
                     <ol>
                         <li class="Elementos--Listas" style="margin-top:30px;">Champús hipoalergénicos y acondicionadores nutritivos para mantener la piel y el pelaje saludables.</li>
                     </ol>
@@ -609,19 +609,19 @@
             </ol>
 
             <ol> 
-                <li class="Elementos--Listas"> Filtros solares:
+                <li class="Elementos--Listas"><b>Filtros solares:</b>
                     <ol>
                         <li class="Elementos--Listas" style="margin-top:30px;">Uso: Proteger la piel de mascotas de pelo corto o blanco de los efectos dañinos del sol.</li>
                     </ol>
                 </li>
             </ol>
 
-            <h2 class="Tipografia--general letranegro General--Cuerpo">Ingredientes clave en productos dermatológicos:</h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Ingredientes clave en productos dermatológicos:</b></h2>
 
             <ol>
-                <li class="Elementos--Listas"> Ingredientes activos terapéuticos:
+                <li class="Elementos--Listas"><b>Ingredientes activos terapéuticos:</b>
                     <ol>
-                        <li class="Elementos--Listas" style="margin-top:30px;">Antimicrobianos:
+                        <li class="Elementos--Listas" style="margin-top:30px;"><b>Antimicrobianos:</b>
                             <ol>
                                 <li class="Elementos--Listas" style="margin-top:30px;">Clorhexidina, Triclosán: Controlan bacterias y hongos.</li>
                                 <li class="Elementos--Listas">Ketoconazol, Miconazol: Antifúngicos usados en infecciones por hongos.</li>
@@ -632,7 +632,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas"> Antiinflamatorios:
+                <li class="Elementos--Listas"> <b>Antiinflamatorios:</b>
                     <ol>
                         <li class="Elementos--Listas" style="margin-top:30px;">Hidrocortisona, Betametasona: Corticoides para reducir inflamaciones y alergias.</li>
                         <li class="Elementos--Listas">Omega-3 y Omega-6: Reducen inflamaciones a nivel dérmico.</li>
@@ -641,7 +641,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas"> Antipruríticos:
+                <li class="Elementos--Listas"> <b>Antipruríticos:</b>
                     <ol>
                         <li class="Elementos--Listas" style="margin-top:30px;">Lidocaína, Pramoxina: Alivian el picor y el dolor superficial.</li>
                     </ol>
@@ -649,7 +649,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas">Antiparasitarios:
+                <li class="Elementos--Listas"><b>Antiparasitarios:</b>
                     <ol>
                         <li class="Elementos--Listas" style="margin-top:30px;">Permetrina, Fipronil, Selamectina: Controlan ácaros, pulgas y garrapatas.</li>
                     </ol>
@@ -657,7 +657,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas"> Hidratantes y emolientes:
+                <li class="Elementos--Listas"><b>Hidratantes y emolientes:</b>
                     <ol>
                         <li class="Elementos--Listas" style="margin-top:30px;">Glicerina, Urea, Propilenglicol: Hidratan la piel seca y agrietada.</li>
                         <li class="Elementos--Listas">Aceites naturales:
@@ -671,7 +671,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas">Ingredientes exfoliantes:
+                <li class="Elementos--Listas"><b>Ingredientes exfoliantes:</b>
                     <ol>
                         <li class="Elementos--Listas" style="margin-top:30px;">Ácido salicílico: Para tratar queratosis y reducir la acumulación de células muertas.</li>
                         <li class="Elementos--Listas">Ácido láctico: Hidratante y exfoliante suave.</li>
@@ -680,7 +680,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas">Conservantes y estabilizantes:
+                <li class="Elementos--Listas"><b>Conservantes y estabilizantes:</b>
                     <ol>
                         <li class="Elementos--Listas" style="margin-top:30px;">Tocoferoles (vitamina E): Conservante natural y antioxidante.</li>
                         <li class="Elementos--Listas">Fenoxietanol: Conservante seguro en formulaciones dermatológicas.</li>
@@ -688,6 +688,37 @@
                 </li>
             </ol>
 
+            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Productos</b></h2>
+
+            <div class="col s12 m12 l4 xl4">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Glycerins.php"><img class="activator" src="img/BANNER_PRINCIPAL.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Glicerinas</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+        </div>
+
+        <div class="col s12 m12 l4 xl4">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Glycols.php"><img class="activator" src="img/GLICOLES_BANNER_140425.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Glicoles</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+        </div>
 
         </div>
     </div>

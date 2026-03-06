@@ -544,298 +544,102 @@
         <div class="row">
             <div class="col s12 m12 l12 xl12">
                 <p class="Tipografia--general letranegro General--Cuerpo">La formulación de medicamentos de prescripción veterinaria requiere una amplia gama de ingredientes químicos, conocidos como materias primas. Estos ingredientes no solo incluyen los principios activos farmacéuticos (APIs), sino también excipientes, estabilizantes, vehículos y otros componentes esenciales que garantizan la estabilidad, eficacia y seguridad del producto final. A continuación, se describen todas las materias primas químicas clave, agrupadas por su función principal:</p>
-                <ol>
-                    <li class="Elementos--Listas">Vehículos y Solventes
-                        <ol>
-                          <li class="Elementos--Listas" style="margin-top:30px;">Propilenglicol:
-                            <ol>
-                              <li class="Elementos--Listas">Vehículo para disolver principios activos lipófilos en soluciones líquidas o inyectables.</li>
-                              <li class="Elementos--Listas">Actúa como humectante y estabilizante en jarabes, tópicos e inyectables.</li>
-                            </ol>
-                          </li>
-                        </ol>
-                    </li>
-                </ol>
+              
+                <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Productos</b></h2>
 
-                <ol>
-                  <li class="Elementos--Listas">Glicerina (Glicerol):
-                    <ol>
-                      <li class="Elementos--Listas" >Proporciona viscosidad, estabilidad y mejora la humectación en formulaciones líquidas y tópicas.</li>
-                    </ol>
-                  </li>
-                </ol>
+                <div class="col s12 m12 l4 xl4">
 
-                <ol>
-                  <li class="Elementos--Listas"> Polietilenglicoles (PEGs):
-                    <ol>
-                      <li class="Elementos--Listas" >Solventes y agentes de liberación controlada en inyectables, tópicos y cápsulas.</li>
-                    </ol>
-                  </li>
-                </ol>
+               
 
-                <ol>
-                  <li class="Elementos--Listas"> Alcohol bencílico:
-                    <ol>
-                      <li class="Elementos--Listas" >Co-solvente y conservante en formulaciones inyectables.</li>
-                    </ol>
-                  </li>
-                </ol>
+          <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Glycols.php"><img class="activator" src="img/GLICOLES_BANNER_140425.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Glicoles</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+          </div>
 
-                <ol>
-                  <li class="Elementos--Listas"> Etanol:
-                    <ol>
-                      <li class="Elementos--Listas" >Solvente en productos líquidos, tanto orales como tópicos.</li>
-                    </ol>
-                  </li>
-                </ol>
+          <div class="col s12 m12 l4 xl4">
+          <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Glycerins.php"><img class="activator" src="img/BANNER_PRINCIPAL.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Glicerinas</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+          </div>
 
-                <ol>
-                  <li class="Elementos--Listas"> Aceites vegetales refinados (soja, maíz):
-                    <ol>
-                      <li class="Elementos--Listas">Vehículo oleoso para inyectables lipofílicos y soluciones de liberación prolongada.</li>
-                    </ol>
-                  </li>
-                </ol>
+          <div class="col s12 m12 l4 xl4">
+          <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Trigliceridos_Cadena_Media.php"><img class="activator" src="img/BANNER_PRINCIPAL_TCM.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Trigliceridos de Cadena Media</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+          </div>
 
-                <ol>
-                  <li class="Elementos--Listas">Triglicéridos de cadena media (MCTs):
-                    <ol>
-                      <li class="Elementos--Listas" >Vehículo en emulsiones y soluciones de principios activos liposolubles.</li>
-                    </ol>
-                  </li>
-                </ol>
+          <div class="col s12 m12 l4 xl4">
+          <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Esteres_Sorbitan_Etoxilados.php"><img class="activator" src="img/ESTERES_SORBITAN_ETOXILADOS_290125.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Esteres de Sorbitan Etoxilados</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+          </div>
 
-                <ol>
-                  <li class="Elementos--Listas"> Emulsionantes y tensioactivos 
-                    <ol>
-                      <li class="Elementos--Listas" style="margin-top:30px;"> Polisorbatos (e.g., Polisorbato 80):
-                        <ol>
-                          <li class="Elementos--Listas" >Emulsionantes en soluciones inyectables y tópicas.</li>
-                        </ol>
-                      </li>
-                    </ol>
-                  </li>
-                </ol>
+          <div class="col s12 m12 l4 xl4">
+          <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Antioxidantes.php"><img class="activator" src="img/ANTIOXIDANTES_020823.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Antioxidantes</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+          </div>
 
-                <ol>
-                  <li class="Elementos--Listas"> Lecitinas:
-                    <ol>
-                      <li class="Elementos--Listas">Estabilizantes en emulsiones y suspensiones inyectables.</li>
-                    </ol>
-                  </li>
-                </ol>
+          <div class="col s12 m12 l4 xl4">
+          <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Fosfatos.php"><img class="activator" src="img/ALIMENTOS_FOSFORO_280824.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Fosfatos</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+          </div>
 
-                <ol>
-                  <li class="Elementos--Listas"> Etoxilatos y propoxilatos:
-                    <ol>
-                      <li class="Elementos--Listas">Surfactantes usados para mejorar la solubilidad de principios activos.</li>
-                    </ol>
-                  </li>
-                </ol>
-
-                <ol>
-                  <li class="Elementos--Listas">Estabilizantes y agentes de conservación
-                    <ol>
-                      <li class="Elementos--Listas" style="margin-top:30px;">Butilhidroxitolueno (BHT) y Butilhidroxianisol (BHA):
-                        <ol>
-                          <li class="Elementos--Listas" >Antioxidantes que previenen la degradación de principios activos sensibles a la oxidación.</li>
-                        </ol>
-                      </li>
-                    </ol>
-                  </li>
-                </ol>
-
-                <ol>
-                  <li class="Elementos--Listas"> Ácido cítrico:
-                    <ol>
-                      <li class="Elementos--Listas" >Estabilizante y ajustador de pH en jarabes, suspensiones e inyectables.</li>
-                    </ol>
-                  </li>
-                </ol>
-
-                <ol>
-                  <li class="Elementos--Listas">Ácido láctico:
-                    <ol>
-                      <li class="Elementos--Listas" >Regulador de pH y conservante en formulaciones líquidas.</li>
-                    </ol>
-                  </li>
-                </ol>
-
-                <ol>
-                  <li class="Elementos--Listas">Ácido acético y acetatos:
-                    <ol>
-                      <li class="Elementos--Listas" >Buffers para mantener la estabilidad del pH en soluciones inyectables.</li>
-                    </ol>
-                  </li>
-                </ol>
-
-                <ol>
-                  <li class="Elementos--Listas">Diluentes y agentes de carga
-                    <ol>
-                      <li class="Elementos--Listas" style="margin-top:30px;">Lactosa:
-                        <ol>
-                          <li class="Elementos--Listas" >Diluente común en tabletas y cápsulas.</li>
-                        </ol>
-                      </li>
-                    </ol>
-                  </li>
-                </ol>
-
-                <ol>
-                  <li class="Elementos--Listas">Celulosa microcristalina:
-                    <ol>
-                      <li class="Elementos--Listas" >Agente de carga y aglutinante en formas sólidas como tabletas.</li>
-                    </ol>
-                  </li>
-                </ol>
-
-                <ol>
-                  <li class="Elementos--Listas">Fosfato cálcico:
-                    <ol>
-                      <li class="Elementos--Listas" >Diluente en tabletas de granulación seca.</li>
-                    </ol>
-                  </li>
-                </ol>
-
-                <ol>
-                  <li class="Elementos--Listas"> Lubricantes y deslizantes
-                    <ol>
-                      <li class="Elementos--Listas" style="margin-top:30px;">Estearato de magnesio:
-                        <ol>
-                          <li class="Elementos--Listas" >Lubricante para tabletas y cápsulas, reduce la fricción durante la compresión.</li>
-                        </ol>
-                      </li>
-                    </ol>
-                  </li>
-                </ol>
-
-                <ol>
-                  <li class="Elementos--Listas">Dióxido de silicio coloidal:
-                    <ol>
-                      <li class="Elementos--Listas" >Agente deslizante para mejorar el flujo de polvos.</li>
-                    </ol>
-                  </li>
-                </ol>
-
-                <ol>
-                  <li class="Elementos--Listas"> Conservantes antimicrobianos
-                    <ol>
-                      <li class="Elementos--Listas" style="margin-top:30px;">Parabenos (metilparabeno, propilparabeno):
-                        <ol>
-                          <li class="Elementos--Listas" >Conservantes antimicrobianos en cremas, geles y suspensiones.</li>
-                        </ol>
-                      </li>
-                    </ol>
-                  </li>
-                </ol>
-
-                <ol>
-                  <li class="Elementos--Listas">Cloruro de benzalconio:
-                    <ol>
-                      <li class="Elementos--Listas" >Conservante en productos tópicos y oftálmicos.</li>
-                    </ol>
-                  </li>
-                </ol>
-
-                <ol>
-                  <li class="Elementos--Listas"> Agentes formadores de película y recubrimientos
-                    <ol>
-                      <li class="Elementos--Listas" style="margin-top:30px;">Hidroxipropilmetilcelulosa (HPMC):
-                        <ol>
-                          <li class="Elementos--Listas">Formador de películas en tabletas recubiertas.</li>
-                        </ol>
-                      </li>
-                    </ol>
-                  </li>
-                </ol>
-
-                <ol>
-                  <li class="Elementos--Listas">Eudragit (copolímeros de metacrilato):
-                    <ol>
-                      <li class="Elementos--Listas">Recubrimientos de liberación controlada en cápsulas y tabletas.</li>
-                    </ol>
-                  </li>
-                </ol>
-
-                <ol>
-                  <li class="Elementos--Listas"> Agentes espesantes y gelificantes
-                    <ol>
-                      <li class="Elementos--Listas" style="margin-top:30px;"> Carbómeros:
-                        <ol>
-                          <li class="Elementos--Listas" >Agentes gelificantes en formulaciones tópicas.</li>
-                        </ol>
-                      </li>
-                    </ol>
-                  </li>
-                </ol>
-
-                <ol>
-                  <li class="Elementos--Listas"> Goma xantana:
-                    <ol>
-                      <li class="Elementos--Listas">Espesante natural en suspensiones líquidas.</li>
-                    </ol>
-                  </li>
-                </ol>
-
-                <ol>
-                  <li class="Elementos--Listas"> Povidona (PVP):
-                    <ol>
-                      <li class="Elementos--Listas">Agente aglutinante y espesante en tabletas y líquidos.</li>
-                    </ol>
-                  </li>
-                </ol>
-
-                <ol>
-                  <li class="Elementos--Listas"> Reguladores osmóticos e isotónicos
-                    <ol>
-                      <li class="Elementos--Listas" style="margin-top:30px;">Cloruro de sodio:
-                        <ol>
-                          <li class="Elementos--Listas">Ajusta la isotonicidad en formulaciones inyectables y oftálmicas.</li>
-                        </ol>
-                      </li>
-                    </ol>
-                  </li>
-                </ol>
-
-                <ol>
-                  <li class="Elementos--Listas">Manitol:
-                    <ol>
-                      <li class="Elementos--Listas">Osmoprotector en formulaciones inyectables.</li>
-                    </ol>
-                  </li>
-                </ol>
-
-                <ol>
-                  <li class="Elementos--Listas"> Ácidos y bases para ajuste de pH
-                    <ol>
-                      <li class="Elementos--Listas" style="margin-top:30px;"> Hidróxido de sodio y ácido clorhídrico:
-                        <ol>
-                          <li class="Elementos--Listas">Usados para ajustar el pH en soluciones líquidas e inyectables.</li>
-                        </ol>
-                      </li>
-                    </ol>
-                  </li>
-                </ol>
-
-                <ol>
-                  <li class="Elementos--Listas"> Colorantes y saborizantes
-                    <ol>
-                      <li class="Elementos--Listas" style="margin-top:30px;"> Óxidos de hierro:
-                        <ol>
-                          <li class="Elementos--Listas">Colorantes en tabletas y recubrimientos.</li>
-                        </ol>
-                      </li>
-                    </ol>
-                  </li>
-                </ol>
-
-                <ol>
-                  <li class="Elementos--Listas">Saborizantes artificiales y naturales:
-                    <ol>
-                      <li class="Elementos--Listas">Se añaden en jarabes y masticables para mejorar la aceptación de las mascotas.</li>
-                    </ol>
-                  </li>
-                </ol>
 
 
             </div> 

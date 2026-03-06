@@ -549,7 +549,7 @@
                 <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Tipos de antiparasitarios para mascotas:</b></h2>
 
                 <ol>
-                    <li class="Elementos--Listas">  Antiparasitarios externos:
+                    <li class="Elementos--Listas"><b>Antiparasitarios externos:</b>
                         <ol>
                             <li class="Elementos--Listas" style="margin-top:30px;">Diseñados para combatir y prevenir infestaciones de parásitos externos como pulgas, garrapatas, ácaros y piojos.</li>
                             <li class="Elementos--Listas">Formatos comunes: Collares, pipetas, sprays, polvos y champús.</li>
@@ -559,7 +559,7 @@
 
 
                 <ol>
-                    <li class="Elementos--Listas" style="margin-top:50px;"> Antiparasitarios internos:
+                    <li class="Elementos--Listas" style="margin-top:50px;"><b>Antiparasitarios internos:</b>
                         <ol>
                             <li class="Elementos--Listas" style="margin-top:30px;">Destinados a eliminar parásitos intestinales, pulmonares y cardíacos, como gusanos redondos, tenias y dirofilaria (gusano del corazón).</li>
                             <li class="Elementos--Listas">Formatos comunes: Tabletas, suspensiones orales, inyecciones y pastas.</li>
@@ -568,7 +568,7 @@
                 </ol>
 
                 <ol>
-                    <li class="Elementos--Listas" style="margin-top:50px;"> Antiparasitarios combinados:
+                    <li class="Elementos--Listas" style="margin-top:50px;"><b>Antiparasitarios combinados:</b>
                         <ol>
                             <li class="Elementos--Listas" style="margin-top:30px;">Productos de amplio espectro que combaten tanto parásitos internos como externos.</li>
                             <li class="Elementos--Listas">Ejemplo: Pipetas que protegen contra pulgas, garrapatas y gusanos intestinales.</li>
@@ -580,7 +580,7 @@
 
 
                 <ol>
-                    <li class="Elementos--Listas" style="margin-top:30px;">Ingredientes activos:
+                    <li class="Elementos--Listas" style="margin-top:30px;"><b>Ingredientes activos:</b>
                         <ol>
                             <li class="Elementos--Listas" style="margin-top:30px;"> Insecticidas y acaricidas: Combaten pulgas, garrapatas y ácaros.
                                 <ol>
@@ -595,30 +595,30 @@
                             </li>
                         </ol>
                                 <ol>
-                                    <li class="Elementos--Listas" style="margin-top:30px;">Antiparasitarios internos:
+                                    <li class="Elementos--Listas" style="margin-top:30px;"><b>Antiparasitarios internos:</b>
                                         <ol>
-                                            <li class="Elementos--Listas" style="margin-top:30px;">Antinematodos: Actúan contra gusanos redondos
+                                            <li class="Elementos--Listas" style="margin-top:30px;"><b>Antinematodos: Actúan contra gusanos redondos</b>
                                                 <ol>
                                                     <li class="Elementos--Listas">Ejemplo: Fenbendazol, Pamoato de pirantel, Milbemicina oxima.</li>
                                                 </ol>
                                             </li>
                                         </ol>
                                         <ol>
-                                            <li class="Elementos--Listas" style="margin-top:30px;">Anticestodos: Eliminan tenias
+                                            <li class="Elementos--Listas" style="margin-top:30px;"><b>Anticestodos: Eliminan tenias</b>
                                                 <ol>
                                                     <li class="Elementos--Listas">Ejemplo: Praziquantel, Epsiprantel.</li>
                                                 </ol>
                                             </li>
                                         </ol>
                                         <ol>
-                                            <li class="Elementos--Listas" style="margin-top:30px;">Antiprotozoarios: Tratan infecciones por protozoarios
+                                            <li class="Elementos--Listas" style="margin-top:30px;"><b>Antiprotozoarios: Tratan infecciones por protozoarios</b>
                                                 <ol>
                                                     <li class="Elementos--Listas">Ejemplo: Metronidazol, Toltrazuril.</li>
                                                 </ol>
                                             </li>
                                         </ol>
                                         <ol>
-                                            <li class="Elementos--Listas" style="margin-top:30px;">Lárvicidas y ovicidas:
+                                            <li class="Elementos--Listas" style="margin-top:30px;"><b>Lárvicidas y ovicidas:</b>
                                                 <ol>
                                                     <li class="Elementos--Listas">Previenen el desarrollo de larvas y huevos.</li>
                                                     <li class="Elementos--Listas">Ejemplo: Metopreno, Lufenurón.</li>
@@ -626,7 +626,7 @@
                                             </li>
                                         </ol>
                                         <ol>
-                                            <li class="Elementos--Listas" style="margin-top:30px;">  Ingredientes sinérgicos:
+                                            <li class="Elementos--Listas" style="margin-top:30px;"><b>Ingredientes sinérgicos:</b>
                                                 <ol>
                                                     <li class="Elementos--Listas">Piperonil butóxido (PBO): Incrementa la eficacia de los piretroides al inhibir las enzimas detoxificadoras del parásito.</li>
                                                 </ol>

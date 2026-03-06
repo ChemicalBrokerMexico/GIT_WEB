@@ -3,9 +3,10 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
-    <title>Chemical Broker</title>
+    <meta name="description" content="Proveemos insumos de calidad para la producción de leche saborizada: sabores, colorantes, edulcorantes y materias primas que ayudan a fabricantes a crear bebidas lácteas deliciosas y consistentes.">
+    <title>Chemical Broker | Leche Saborizada | Proveedor Global y Nacional de Ingredientes Quimicos para la Industria Alimentaria</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <link rel="canonical" href="https://chemicalbroker.mx/Leche_Saborizada.php">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -387,7 +388,7 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Lacteos.php" style="color:#262137 !important;margin-left:-2px"><b>Lacteos  ></b></a> <a href="Leche_Saborizada.php" class="breitem active" style="color:red !important"><b>Leche Saborizada</b></a> </section></section>
+     
         </div>
       </div>
     </div>
@@ -396,6 +397,9 @@
       <div class="container">
         <div class="row">
           <div class="col s12 m12 l12 xl12">
+
+          <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Lacteos.php" style="color:#262137 !important;margin-left:-2px"><b>Lacteos  ></b></a> <a href="Leche_Saborizada.php" class="breitem active" style="color:red !important"><b>Leche Saborizada</b></a> </section></section>
+
             <p class="letranegro General--Cuerpo Tipografia--general">La industria de la leche saborizada es una categoria en crecimiento dentro del sector lacteo que combina leche líquida con sabores, edulcorantes y otros ingredientes para atraer a diferentes segmentos del mercado, especialmente niños y adolescentes. Este sector es popular debido a su combinación de valores nutricionales de la leche con sabores agradables, como chocolate, fresa, vainilla y variedades mas innovadoras.</p>
 
             <h2 class="letranegro General--Cuerpo Tipografia--general"><b style="color:#071637;">Características principales</b></h2>

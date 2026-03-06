@@ -544,7 +544,7 @@
                 <ol>
                     <li class="Elementos--Listas" style="margin-top:50px;"><b>Clasificación de los anestésicos y sedantes:</b>
                         <ol>
-                            <li class="Elementos--Listas" style="margin-top:30px;"> Anestésicos:
+                            <li class="Elementos--Listas" style="margin-top:30px;"><b>Anestésicos:</b>
                                 <ol>
                                     <li class="Elementos--Listas" style="margin-top:30px;">Locales: Bloquean temporalmente la conducción nerviosa en una región específica.
                                         <ol>
@@ -567,7 +567,7 @@
                 </ol>
 
                 <ol>
-                    <li class="Elementos--Listas" style="margin-top:50px;">  Sedantes y tranquilizantes:
+                    <li class="Elementos--Listas" style="margin-top:50px;"><b>Sedantes y tranquilizantes:</b>
                         <ol>
                             <li class="Elementos--Listas" style="margin-top:30px;"> Inducen relajación y reducen la ansiedad sin causar pérdida total de conciencia.
                                 <ol>
@@ -580,7 +580,7 @@
                 </ol>
 
                 <ol>
-                    <li class="Elementos--Listas" style="margin-top:50px;">  Analgésicos adyuvantes:
+                    <li class="Elementos--Listas" style="margin-top:50px;"><b>Analgésicos adyuvantes:</b>
                         <ol>
                             <li class="Elementos--Listas" style="margin-top:30px;">Usados en combinación con anestésicos o sedantes para controlar el dolor.
                                 <ol>
@@ -591,218 +591,67 @@
                     </li>
                 </ol>
 
-                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Ingredientes quimicos utilizados en la elaboracion de Anestesicos y Sedantes</b></h2>
+                <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Productos</b></h2>
 
-                <ol>
-                    <li class="Elementos--Listas"> Propilenglicol:
-                        <ol>
-                            <li class="Elementos--Listas" style="margin-top:30px;"> Uso
-                                <ol>
-                                    <li class="Elementos--Listas" style="margin-top:30px;">Vehículo para disolver principios activos poco solubles en agua (e.g., diazepam, acepromacina).</li>
-                                    <li class="Elementos--Listas">Estabilizante y humectante en soluciones inyectables y tópicos.</li>
-                                </ol>
-                                <ol>
-                                    <li class="Elementos--Listas">Propiedades: Higroscópico, no tóxico en concentraciones adecuadas.</li>
-                                </ol>
-                                <ol>
-                                    <li class="Elementos--Listas">Aplicaciones: Sedantes orales, emulsiones anestésicas.</li>
-                                </ol>
-                            </li>
-                        </ol>
-                    </li>
-                </ol>
+                <div class="col s12 m12 l4 xl4">
+          <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Glycols.php"><img class="activator" src="img/GLICOLES_BANNER_140425.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Glicoles</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+          </div>
 
-                <ol>
-                    <li class="Elementos--Listas" style="margin-top:50px;"> Glicerina (Glicerol):
-                        <ol>
-                            <li class="Elementos--Listas" style="margin-top:30px;"> Uso:
-                                <ol>
-                                    <li class="Elementos--Listas" style="margin-top:30px;">Vehículo y humectante en formulaciones orales o tópicas.</li>
-                                    <li class="Elementos--Listas">Mejora la estabilidad en soluciones inyectables.</li>
-                                </ol>
-                                <ol>
-                                    <li class="Elementos--Listas">Propiedades: Líquido viscoso, soluble en agua.</li>
-                                </ol>
-                                <ol>
-                                    <li class="Elementos--Listas">Aplicaciones: Anestésicos tópicos o sedantes orales.</li>
-                                </ol>
-                            </li>
-                        </ol>
-                    </li>
-                </ol>
+          <div class="col s12 m12 l4 xl4">
+          <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Glycerins.php"><img class="activator" src="img/BANNER_PRINCIPAL.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Glicerinas</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+          </div>
 
-                <ol>
-                    <li class="Elementos--Listas" style="margin-top:50px;"> Triglicéridos de cadena media (MCTs):
-                        <ol>
-                            <li class="Elementos--Listas" style="margin-top:30px;"> Uso:
-                                <ol>
-                                    <li class="Elementos--Listas" style="margin-top:30px;">Vehículo para anestésicos lipófilos como el propofol.</li>
-                                    <li class="Elementos--Listas">Base para emulsiones estables inyectables.</li>
-                                </ol>
-                                <ol>
-                                    <li class="Elementos--Listas">Origen: Derivados del aceite de coco o palma.</li>
-                                </ol>
-                                <ol>
-                                    <li class="Elementos--Listas">Propiedades: No tóxicos, con alta capacidad de solubilización.</li>
-                                </ol>
-                            </li>
-                        </ol>
-                    </li>
-                </ol>
+          <div class="col s12 m12 l4 xl4">
+          <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Trigliceridos_Cadena_Media.php"><img class="activator" src="img/BANNER_PRINCIPAL_TCM.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Trigliceridos de Cadena Media</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+          </div>
 
-                <ol>
-                    <li class="Elementos--Listas" style="margin-top:50px;"> Ácido oleico:
-                        <ol>
-                            <li class="Elementos--Listas" style="margin-top:30px;"> Uso:
-                                <ol>
-                                    <li class="Elementos--Listas" style="margin-top:30px;">Emulsionante natural en productos inyectables o tópicos.</li>
-                                </ol>
-                                <ol>
-                                    <li class="Elementos--Listas">Origen: Aceites vegetales como oliva o girasol.</li>
-                                    <li class="Elementos--Listas">Propiedades: Mejora la biodisponibilidad de algunos principios activos.</li>
-                                </ol>
-                            </li>
-                        </ol>
-                    </li>
-                </ol>
-
-                <ol>
-                    <li class="Elementos--Listas" style="margin-top:50px;"> Estearatos (de magnesio, calcio o sodio):
-                        <ol>
-                            <li class="Elementos--Listas" style="margin-top:30px;"> Uso:
-                                <ol>
-                                    <li class="Elementos--Listas" style="margin-top:30px;">Lubricantes en la fabricación de tabletas o cápsulas.</li>
-                                </ol>
-                                <ol>
-                                    <li class="Elementos--Listas">Origen: Derivado del ácido esteárico.</li>
-                            </li>
-                        </ol>
-                    </li>
-                </ol>
-
-                <ol>
-                    <li class="Elementos--Listas" style="margin-top:50px;"> Polietilenglicoles (PEGs):
-                        <ol>
-                            <li class="Elementos--Listas" style="margin-top:30px;"> Uso:
-                                <ol>
-                                    <li class="Elementos--Listas" style="margin-top:30px;">Solventes para principios activos inyectables o tópicos.</li>
-                                    <li class="Elementos--Listas">Vehículos en formulaciones de liberación controlada.</li>
-                                </ol>
-                                <ol>
-                                    <li class="Elementos--Listas">Aplicaciones: Emulsiones anestésicas, sedantes inyectables.</li>
-                                </ol>
-                            </li>
-                        </ol>
-                    </li>
-                </ol>
-
-                <ol>
-                    <li class="Elementos--Listas" style="margin-top:50px;"> Etoxilatos y propoxilatos:
-                        <ol>
-                            <li class="Elementos--Listas" style="margin-top:30px;"> Uso:
-                                <ol>
-                                    <li class="Elementos--Listas" style="margin-top:30px;">Surfactantes para mejorar la solubilidad de anestésicos y sedantes.</li>
-                                </ol>
-                                <ol>
-                                    <li class="Elementos--Listas">Aplicaciones: Emulsiones estables de anestésicos como isoflurano.</li>
-                                </ol>
-                            </li>
-                        </ol>
-                    </li>
-                </ol>
-
-                <ol>
-                    <li class="Elementos--Listas" style="margin-top:50px;">  Ácido cítrico:
-                        <ol>
-                            <li class="Elementos--Listas" style="margin-top:30px;"> Uso:
-                                <ol>
-                                    <li class="Elementos--Listas" style="margin-top:30px;">Ajuste de pH y estabilización de soluciones.</li>
-                                    <li class="Elementos--Listas">Antioxidante en productos sensibles.</li>
-                                </ol>
-                                <ol>
-                                    <li class="Elementos--Listas">Aplicaciones: Soluciones inyectables de anestésicos.</li>
-                                </ol>
-                            </li>
-                        </ol>
-                    </li>
-                </ol>
-
-                <ol>
-                    <li class="Elementos--Listas" style="margin-top:50px;"> Ácido láctico:
-                        <ol>
-                            <li class="Elementos--Listas" style="margin-top:30px;"> Uso:
-                                <ol>
-                                    <li class="Elementos--Listas" style="margin-top:30px;">Conservante natural en formulaciones líquidas.</li>
-                                </ol>
-                                <ol>
-                                    <li class="Elementos--Listas">Aplicaciones: Anestésicos tópicos o inyectables</li>
-                                </ol>
-                            </li>
-                        </ol>
-                    </li>
-                </ol>
-
-                <ol> 
-                    <li class="Elementos--Listas" style="margin-top:50px;"> Ácido acético (como acetatos):
-                        <ol>
-                            <li class="Elementos--Listas" style="margin-top:30px;"> Uso:
-                                <ol>
-                                    <li class="Elementos--Listas" style="margin-top:30px;">Buffer en soluciones inyectables para mantener estabilidad.</li>
-                                </ol>
-                                <ol>
-                                    <li class="Elementos--Listas">Aplicaciones: Productos como la ketamina.</li>
-                                </ol>
-                            </li>
-                        </ol>
-                    </li>
-                </ol>
-
-                <ol>
-                    <li class="Elementos--Listas" style="margin-top:50px;"> Aceites vegetales (soja, maíz):
-                        <ol>
-                            <li class="Elementos--Listas" style="margin-top:30px;"> Uso:
-                                <ol>
-                                    <li class="Elementos--Listas" style="margin-top:30px;">Vehículo oleoso en formulaciones inyectables de anestésicos como el propofol.</li>
-                                </ol>
-                                <ol>
-                                    <li class="Elementos--Listas">Propiedades: Proporcionan estabilidad y son biocompatibles.</li>
-                                </ol>
-                            </li>
-                        </ol>
-                    </li>
-                </ol>
-
-                <ol>
-                    <li class="Elementos--Listas" style="margin-top:50px;"> Alcohol bencílico:
-                        <ol>
-                            <li class="Elementos--Listas" style="margin-top:30px;"> Uso:
-                                <ol>
-                                    <li class="Elementos--Listas" style="margin-top:30px;">Conservante en soluciones inyectables.</li>
-                                </ol>
-                                <ol>
-                                    <li class="Elementos--Listas">Aplicaciones: Anestésicos generales como el propofol.</li>
-                                </ol>
-                            </li>
-                        </ol>
-                    </li>
-                </ol>
-
-                <ol>
-                    <li class="Elementos--Listas" style="margin-top:50px;"> Tensioactivos naturales:
-                        <ol>
-                            <li class="Elementos--Listas" style="margin-top:30px;"> Ejemplo: Polisorbatos (e.g., Polisorbato 80).
-                                <ol>
-                                    <li class="Elementos--Listas" style="margin-top:30px;">Uso:
-                                        <ol>
-                                            <li class="Elementos--Listas" style="margin-top:30px;">Emulsionantes en productos como emulsiones anestésicas.</li>
-                                        </ol>
-                                    </li>
-                                </ol>
-                            </li>
-                        </ol>
-                    </li>
-                </ol>
-
+          <div class="col s12 m12 l4 xl4">
+          <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Proximamente.php"><img class="activator" src="img/Edulcorantes_260226.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Edulcorantes</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+          </div>
 
 
             </div>

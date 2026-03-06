@@ -3,9 +3,10 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-<!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
-<title>Chemical Broker</title>
+<meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos.">
+<title>Chemical Broker | Pan Artesanal | Proveedor Global y Nacional de Ingredientes Quimicos para la Industria Alimentaria</title>
 <link rel="shortcut icon" href="img/CB_ICON.ico" />
+<link rel="stylesheet" href="canonical" href="https://chemicalbroker.mx/Pan_Artesanal.php">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -211,12 +212,12 @@
         </ul>
       </div>
       <div> 
-        <ul> <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock" style="color:white !Important;margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock" style="color:white !Important;display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
-            <div style="display:flex;justify-content:center"> 
-              <p class="Botones Logindesktop Tipografia--general" style="aling-self:center"> <b>Iniciar Sesión</b></p>
-            </div></a>
-          <li class="ul-independiente right"><a class="btn-search-desktop1" href="#" id="busquedaprueba" onclick="abrirsearch();"><i class="material-icons left search-desktop-icon" style="color:black !important;font-size:24px;font-weight:500;position:absolute;z-index:1">search</i></a></li>
-        </ul>
+      <ul><!--  <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="chemicalbroker.mx/Vista/Principal.php" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock color--blanco" style="margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock color--blanco" style="display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
+<div style="display:flex;justify-content:center"> 
+<p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
+</div></a> -->
+<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
+</ul>
         <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i class="material-icons search-mobile-icon margin-left-search-mobile-icon" style="width:0px">search</i></a></div>
       </div>
     </nav>
@@ -237,7 +238,7 @@
               </div>
             </div>
             <div class="col s12 m12 l12 xl12 search" id="search">
-              <table class="search-table"  style="width:100%">
+              <table class="search-table" id="searchTable" style="width:100%">
                 <thead> 
                   <tr>
                     <td> </td>
@@ -316,7 +317,7 @@
         <div class="container">
           <div class="row">
             <div class="col s12 m12 l12 xl12 search" id="search2">
-              <table class="search-table" style="width:100%;">
+              <table class="search-table" id="searchTable2" style="width:100%;">
                 <thead> 
                   <tr> 
                     <td> </td>
@@ -370,7 +371,7 @@
             <div class="caption center-align"><br><br><br><br>
               <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Pan Artesanal</b>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:white;">Mercados ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:white;">Alimentos ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:white;">Panificacion ></b> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:red;">Pan Artesanal</b></a></a></section>
+     
     </div>
             </div>
           </li>
@@ -382,6 +383,9 @@
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
+
+            <section style="margin-top:150px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:black;">Mercados ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:black;">Alimentos ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:black;">Panificacion ></b> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:red;">Pan Artesanal</b></a></a></section>
+
                 <p class="Tipografia--general letranegro General--Cuerpo">La industria del pan artesanal ha experimentado un crecimiento significativo en los ultimos años. Impulsada por un cambio en las preferencias de los consumidores hacia productos mas saludables, sostenibles y auténticos. Este segmento se distingue del pan producido industrialmente por su enfoque en metodos tradicionales, ingredientes de alta calidad y la ausencia de aditivos artificiales.</p>
                 
 
@@ -407,31 +411,31 @@
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">En la panaderia industrial, los ingredientes quimicos se utilizan para mejorar la textura, prolongar la vida útil y optimizar la produccion.</p>
 
                 <ol>
-                    <li style="margin-top:50px;">Mejoradores de Masa
+                    <li style="margin-top:50px;" class="Elementos--Listas"><b>Mejoradores de Masa</b>
                         <ol>
                             <li style="margin-top:50px;list-style-type: disc;" class="Elementos--Listas">Ácido ascórbico: Mejora la elasticidad de la masa y favorece la formacion de una miga uniforme. Es comun en panes que necesitan resistencia durante el amasado mecanizado</li>
                             <li style="margin-top:50px;list-style-type: disc;" class="Elementos--Listas">Azodicarbonamida: Un blanqueador y acondicionador de masa que se utiliza para reforzar la estructura del pan, aunque esta prohibido en algunos paises</li>
                         </ol>
                     </li>
-                    <li style="margin-top:50px;">Conservantes
+                    <li style="margin-top:50px;"  class="Elementos--Listas"><b>Conservantes</b>
                         <ol>
                             <li style="margin-top:50px;list-style-type: disc;" class="Elementos--Listas">Propionatos: Inhibe el crecimiento de mohos y bacterias, prolongando la vida util del pan</li>
                             <li style="margin-top:50px;list-style-type: disc;" class="Elementos--Listas">Ácido sórbico: Se puede usar para evitar que el pan se deriore por levaduras o mohos indeseados</li>
                         </ol>
                     </li>
-                    <li style="margin-top:50px;">Emulsionantes
+                    <li style="margin-top:50px;"  class="Elementos--Listas"><b>Emulsionantes</b>
                         <ol>
                             <li style="margin-top:50px;list-style-type: disc;" class="Elementos--Listas">Lecitina: Ayuda a mezclar mejor los ingredientes y mejorar la textura del pan. Puede derivarse de la soja o del girasol</li>
                             <li style="margin-top:50px;list-style-type: disc;" class="Elementos--Listas">Mono y digliceridos de ácidos graso: Favorecen la suavidad del pan y retrasan su endurecimiento</li>
                         </ol>
                     </li>
-                    <li style="margin-top:50px;">Enzimas
+                    <li style="margin-top:50px;"  class="Elementos--Listas"><b>Enzimas</b>
                         <ol>
                             <li style="margin-top:50px;list-style-type: disc;" class="Elementos--Listas">Amilasas: Descomponen los almidones en azucares mas simples, mejorando la fermentacion y el volumen del pan</li>
                             <li style="margin-top:50px;list-style-type: disc;" class="Elementos--Listas">Lipoxigenasa: Blanquea las harinas y refuerza la red de gluten</li>
                         </ol>
                     </li>
-                    <li style="margin-top:50px;">Colorantes y saborizantes
+                    <li style="margin-top:50px;"  class="Elementos--Listas"><b>Colorantes y saborizantes</b>
                         <ol>
                             <li style="margin-top:50px;list-style-type: disc;" class="Elementos--Listas">Caramelos: Añade color a la corteza de algunos panes</li>
                             <li style="margin-top:50px;list-style-type: disc;" class="Elementos--Listas">Saborizantes artificiales: Imitan los sabores caracteristicos del pan casero, como mantequilla o masa madre</li>

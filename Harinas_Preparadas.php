@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
-    <title>Chemical Broker</title>
+    <title>Chemical Broker | Harinas Preparadas | Proveedor Global y Nacional de Ingredientes Quimicos para la Industria Alimentaria</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -212,7 +212,7 @@
           <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Servicios.php"><b>Servicios</b></a></li>
        <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i class="material-icons right">arrow_drop_down</i></b></a>
 <ul id="dropdown4" class="dropdown-content" tabindex="0">
-<li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Cumplimiento</a></li>
+<li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Sistema de Gestión Integral</a></li>
 <li tabindex="0"><a href="Marco_Regulatorio.php" class="Tipografia--general letranegro Subtitulos">Marco Regulatorio</a></li>
   <li tabindex="0"><a href="Certificaciones.php" class="Tipografia--general letranegro Subtitulos">Certificaciones</a></li>
 </ul></li>
@@ -220,12 +220,12 @@
         </ul>
       </div>
       <div> 
-        <ul> <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock" style="color:white !Important;margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock" style="color:white !Important;display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
-            <div style="display:flex;justify-content:center"> 
-              <p class="Botones Logindesktop Tipografia--general" style="aling-self:center"> <b>Iniciar Sesión</b></p>
-            </div></a>
-          <li class="ul-independiente right"><a class="btn-search-desktop1" href="#" id="busquedaprueba" onclick="abrirsearch();"><i class="material-icons left search-desktop-icon" style="color:black !important;font-size:24px;font-weight:500;position:absolute;z-index:1">search</i></a></li>
-        </ul>
+      <ul><!--  <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="chemicalbroker.mx/Vista/Principal.php" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock color--blanco" style="margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock color--blanco" style="display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
+<div style="display:flex;justify-content:center"> 
+<p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
+</div></a> -->
+<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
+</ul>
         <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i class="material-icons search-mobile-icon margin-left-search-mobile-icon" style="width:0px">search</i></a></div>
       </div>
     </nav>
@@ -281,7 +281,7 @@
                     <td style="border:hidden"><a href="Servicios.php" style="color:black !important;border:hidden">Servicios</a></td>
                   </tr>
                   <tr>
-                    <td style="border:hidden"><a href="Cumplimiento.php" style="color:black !important;border:hidden">Cumplimiento</a></td>
+                    <td style="border:hidden"><a href="Cumplimiento.php" style="color:black !important;border:hidden">Sistema de Gestión Integral</a></td>
                   </tr>
                   <tr>
                     <td style="border:hidden"><a href="Contact.php" style="color:black !important;border:hidden">Contacto</a></td>
@@ -360,7 +360,7 @@
                     <td style="border:hidden;background-color:#262137"> <a href="Servicios.php" style="color:white !important;border:hidden">Servicios  </a></td>
                   </tr>
                   <tr> 
-                    <td style="border:hidden;background-color:#262137"><a href="Cumplimiento.php" style="color:white !important;border:hidden">Cumplimiento </a></td>
+                    <td style="border:hidden;background-color:#262137"><a href="Cumplimiento.php" style="color:white !important;border:hidden">Sistema de Gestión Integral </a></td>
                   </tr>
                   <tr> 
                     <td style="border:hidden;background-color:#262137"><a href="Contact.php" style="color:white !important;border:hidden">Contacto    </a></td>
@@ -372,7 +372,6 @@
         </div>
       </div>
     </ul>
-
     <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
@@ -380,7 +379,7 @@
             <div class="caption center-align"><br><br><br><br>
               <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Harinas Preparadas</b>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:white;">Mercados ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:white;">Alimentos ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:white;">Panificacion ></b> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:red;">Harinas Preparadas</b></a></a></section>
+     
     </div>
             </div>
           </li>
@@ -395,6 +394,8 @@
    <div class="container" style="margin-top:130px;">
      <div class="row">
        <div class="col s12 m12 l12 xl12">
+
+       <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:black;">Mercados ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:black;">Alimentos ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:black;">Panificacion ></b> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:red;">Harinas Preparadas</b></a></a></section>
          <p style="color: black;" class="Tipografia--general letranegro General--Cuerpo">Las <b style="color:#071637;">Harinas Preparadas</b>, o "harinas compuestas", son mezclas de harina de trigo u otros cereales que incluyen ingredientes adicionales para facilitar el proceso de preparacion y mejorar las propiedades del producto final.</p>
          <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Estos ingredientes quimicos son esenciales para proporcionar sabor, textura y estabilidad y pueden variar dependiendo del tipo de <b style="color:#071637;">Harina Preparada</b>, como harinas de pan, reposteria o productos especificos como tortillas o bases de pizza</p>
 
@@ -464,7 +465,7 @@
 
         <p class="Tipografia--general letranegro General--Cuerpo">Tamaño del mercado: En 2023, se estimo que el mercado global de harinas preparadas alcanzaba un valor de varios miles de millones de dolares y se proyecta que continue creciendo a una tasa compuesta anual del 4 - 6% durante los proximos años.</p>
 
-        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Impulsores del crecimiento:</p>
+        <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Impulsores del crecimiento:</b></p>
 
         <ol style="margin-top:30px;">
           <li style="margin-top:30px;list-style-type: disc;">Cambios en el estilo de vida, con consumidores buscando soluciones rapidas y faciles para cocinar.</li>
@@ -496,7 +497,7 @@
        <div class="col s12 m12 l12 xl12">
           <h5 style="margin-top:50px;"><b style="color: #262137;">Productos</b></h5>
 
-          <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Aditivos para el blanqueo de la harina:</b></h5>
+          <!-- <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Aditivos para el blanqueo de la harina:</b></h5>
 
           <ol>
             <li style="margin-top:30px;list-style-type: disc;list-style-type: disc;">Peróxido de benzoilo (C<sub>6</sub>H<sub>5</sub>CO<sub>3</suib>H: Se utiliza para blanquear la harina, dandole un color mas blanco. Este proceso es especialmente comun en harias para pasteleria</li>
@@ -556,7 +557,68 @@
 
           <ol>
             <li style="list-style-type:disc;margin-top:30px;">Tocoferoles (vitamina E): Actúan como antioxidantes para evitar la oxidación de las grasas en la harina y prolongar su vida útil..</li>
-          </ol>
+          </ol> -->
+
+          <div class="col s12 m12 l4 xl4">
+          <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Bicarbonato_Sodio.php"><img class="activator" src="img/CB_BICARBONATO_SODIO_271222.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Bicarbonato de Sodio</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+          </div>
+
+          <div class="col s12 m12 l4 xl4">
+          <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Fosfatos.php"><img class="activator" src="img/ALIMENTOS_FOSFORO_280824.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Fosfatos</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+          </div>
+
+          <div class="col s12 m12 l4 xl4">
+          <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Dextrosas.php"><img class="activator" src="img/CB_DEXTROSAS_130323.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Dextrosas</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+          </div>
+
+          <div class="col s12 m12 l4 xl4">
+          <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Antioxidantes.php"><img class="activator" src="img/ANTIOXIDANTES_020823.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Antioxidantes</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+          </div>
+
 
         </div>
      </div>

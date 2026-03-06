@@ -3,8 +3,8 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
-    <title>Chemical Broker | Alimento y Nutricion Animal</title>
-    <meta name="description" content="Ofrecemos los mejores acidulantes, conservadores, antioxidantes, reguladores de pH, agentes antimicrobianos, minerales funcionales, vitaminas estabilizadas y aditivos tecnologicos.">
+    <title>Chemical Broker | Alimento y Nutricion Animal | Proveedor Global y Nacional de ingredientes Quimicos para la industria de Alimento Animal</title>
+    <meta name="description" content="Insumos e ingredientes para la industria de alimento animal. Apoyamos a fabricantes con materias primas confiables para nutrición y desempeño productivo.">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>

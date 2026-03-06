@@ -3,8 +3,8 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
-    <title>Chemical Broker | Alimentos</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <meta name="description" content="La industria de alimentos para consumo humano requiero ingredientes con altos estandares de calidad, pureza y funcionalidad para garantizar la seguridad, estabilidad y desempeño en procesos de produccion a gran escala">
+    <title>Chemical Broker | Alimentos | Proveedor Global y Nacional de Ingredietes Quimicos para la industria Alimentaria</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <meta name="description" content="Proveedor de ingredientes y materias primas para la industria alimentaria y nutrición humana. Soluciones de alta calidad para formulación de alimentos y suplementos.">
     <link rel="canonical" href="https://chemicalbroker.mx/Alimentos.php">
 
   

@@ -3,8 +3,8 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
-    <title>Chemical Broker | Detergencia</title><link rel="shortcut icon" href="img/CB_ICON.ico"/>
-    <meta name="description" content="La limpieza constituye algo esencial para el correcto mantenimiento de la vida, Chemical Broker Brinda a sus socios de negocios productos de la mas alta calidad para la industria de detergencia.">
+    <title>Chemical Broker | Detergencia | Proveedor Global y Nacional de Ingredientes Quimicos para la Industria de Detergencia</title><link rel="shortcut icon" href="img/CB_ICON.ico"/>
+    <meta name="description" content="Suministro de ingredientes químicos para la industria de detergencia. Materias primas para formulación de detergentes y productos de limpieza.">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
     <link rel="canonical" href="https://chemicalbroker.mx/Detergencia.php">
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen"/>

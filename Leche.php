@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
-    <title>Chemical Broker</title>
+    <title>Chemical Broker | Leche </title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
     <script>
@@ -382,7 +382,7 @@
             <div class="caption center-align"><br><br><br><br>
               <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Leche</b>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:white;">Mercados ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:white;">Alimentos ></b></a> <a class="active" href="Lacteos.php"><b class="Tipografia--general Subtitulos" style="color:white;">Lacteos ></b> <a class="active" href="Leche.php"><b class="Tipografia--general Subtitulos" style="color:red;">Leche</b></a></a></section>
+     
     </div>
             </div>
           </li>
@@ -395,6 +395,7 @@
 <div class="container" style="margin-top:130px">
   <div class="row">
     <div class="col s12 m12 l12 xl12">
+    <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Mercados.php"><b class="Tipografia--general Subtitulos" style="color:black;">Mercados ></b></a> <a class="active" href="Alimentos.php"><b class="Tipografia--general Subtitulos" style="color:Black;">Alimentos ></b></a> <a class="active" href="Lacteos.php"><b class="Tipografia--general Subtitulos" style="color:black;">Lacteos ></b> <a class="active" href="Leche.php"><b class="Tipografia--general Subtitulos" style="color:red;">Leche</b></a></a></section>
       <p class="Tipografia--general letranegro General--Cuerpo">La industria de la leche es un sector clave dentro de la industria alimentaria, dado su papel como fuente de nutricion basica y sus multiples derivados</p>
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La industria de la leche abarca la producción, procesamiento, distribucion y comercializacion de leche y productos lácteos. Es una de las industrias agroalimentarias mas importantes en términos de empleo y valor económico y volumen de consumo</p>
       <ol>

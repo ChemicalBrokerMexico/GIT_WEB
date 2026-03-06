@@ -3,13 +3,10 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
-    <title>Chemical Broker</title>
+    <meta name="description" content="Suministramos insumos de calidad para la producción de quesos: cultivos lácticos, coagulantes, sal y materias primas esenciales para fabricantes que buscan quesos sabrosos, consistentes y de alta calidad.">
+    <title>Chemical Broker | Quesos | Proveedor Global y Nacional de Ingredientes Quimicos para la Industria Alimentaria.</title>
+    <link rel="canonical" href="https://chemicalbroker.mx/Quesos.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-
-   
-
- 
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
@@ -390,7 +387,7 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Spray_Nasal.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Lacteos.php" style="color:#262137 !important;margin-left:-2px"><b>Lacteos  ></b></a> <a href="Quesos.php" class="breitem active" style="color:red !important"><b style="color:red;" class="Tipografia--general  Subtitulos breadcrumb">Quesos</b></a> </section></section>
+        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>   > &nbsp</b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important;margin-left:-2px"><b>Mercados   </b><b>   > &nbsp</b></a><a class="breditem active" href="Alimentos.php" style="color:#262137 !important;margin-left:-2px" id="Mercado"><b>Alimentos</b><b> > &nbsp</b></a><a class="breditem active" href="Lacteos.php" style="color:#262137 !important;margin-left:-2px"><b> </b><b></b></a><a class="breditem active" href="Lacteos.php" style="color:#262137 !important;margin-left:-2px"><b>Lacteos  ></b></a> <a href="Quesos.php" class="breitem active" style="color:red !important"><b style="color:red;" class="Tipografia--general  Subtitulos breadcrumb">Quesos</b></a> </section></section>
         </div>
       </div>
     </div>

@@ -3,9 +3,10 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
-    <title>Chemical Broker | Pan de Caja</title>
+    <meta name="description" content="Proveemos insumos de calidad para la producción de pan de caja: harinas, levaduras y materias primas esenciales para panaderías y fabricantes que buscan panes consistentes y deliciosos.">
+    <title>Chemical Broker | Pan de Caja | Proveedor Global y Nacional de Ingredientes Quimicos para la Industria Alimentaria</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <link rel="canonical" href="https://chemicalbroker.mx/Pan_Caja.php">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -381,7 +382,7 @@
             <div class="caption center-align"><br><br><br><br>
               <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Pan de Caja</b>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Pan_Caja.php"><b class="Tipografia--general Subtitulos" style="color:white;">Mercados ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:white;">Alimentos ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:white;">Panificacion ></b> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:red;">Pan de Caja</b></a></a></section>
+     
     </div>
             </div>
           </li>
@@ -392,6 +393,9 @@
     <div class="container" style="margin-top:130px;">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
+
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Pan_Caja.php"><b class="Tipografia--general Subtitulos" style="color:black;">Mercados ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:black;">Alimentos ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:black;">Panificacion ></b> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:red;">Pan de Caja</b></a></a></section>
+
           <p class="Tippografia--general letranegro General--Cuerpo">La industria del pan de caja (tambien conocido como pan de molde o pan empacado) es un segmento significativo dentro del sector de productos de panificacion. Este tipo de pan, caracterizado por su presentacion rectangular y en rebanadas uniformes, se han consolidado como un alimento como un alimento basico en muchas culturas debido a su conveniencia, durabilidad y versatilidad.</p>
           <h5 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#071637;">Innovacion y tendencias</b></h5>
           <ol>

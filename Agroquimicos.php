@@ -4,8 +4,8 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0" />
-  <title>Chemical Broker | Mercado Agroquimicos</title>
-  <meta name="description" content="Nuestra oferta de ingredientes esta orientada a empresas que desarrollan y producen herbicidas, insecticidas, fungicidas, fertilizantes liquidos y solidos, adyuvantes, surfactantes agricolas, agentes quelantes y estabilizadores">
+  <title>Chemical Broker | Mercado Agroquimicos | Proveedor Global y Nacional de Ingredientes Quimicos para la industria de Agroquimicos</title>
+  <meta name="description" content="Suministro de ingredientes químicos para agroquímicos. Materias primas de calidad para la formulación de productos de protección y nutrición vegetal.">
   <link rel="canonical" href="https://chemicalbroker.mx/Agroquimicos.php">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />

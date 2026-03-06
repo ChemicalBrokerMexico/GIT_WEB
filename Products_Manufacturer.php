@@ -1,4 +1,42 @@
 <!DOCTYPE html>
+<?php 
+
+$conn = new mysqli("localhost", "root", "", "industria_productos2");
+
+if ($conn->connect_error) {
+    die("Error de conexión: " . $conn->connect_error);
+}
+
+$query = "
+SELECT 
+    p.id_producto,
+    p.nombre_producto,
+    p.descripcion,
+    p.imagen,
+    s.id_segmento,
+    s.nombre_segmento,
+    i.id_industria,
+    i.nombre_industria,
+    p.Link_Web
+FROM productos p
+INNER JOIN segmentos s ON p.id_segmento = s.id_segmento
+INNER JOIN industrias i ON s.id_industria = i.id_industria
+";
+
+$resultado = $conn->query($query);
+
+if(!$resultado){
+    die("Error en la consulta SQL: " . $conn->error);
+}
+
+$productos = [];
+
+while($row = $resultado->fetch_assoc()){
+    $productos[] = $row;
+}
+
+?>
+
 <html lang="es">
 
 <head>
@@ -23,6 +61,7 @@
     <script src="js/materialize.js?n=1" type="text/javascript"></script>
     <script src="js/init.js?n=1"></script>
     <script src="js/wow.js"></script>
+
     <script>
         new WOW().init();
     </script>
@@ -36,14 +75,8 @@
         src="https://cdn.datatables.net/responsive/2.2.6/js/dataTables.responsive.js"></script>
     <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
     <script>
-        window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-        gtag('config', 'G-SGJQ8FDDJ6');
-    </script>
+    const productos = <?php echo json_encode($productos, JSON_UNESCAPED_UNICODE); ?>;
+</script>
 
     <style>
         .card-industria {
@@ -51,10 +84,9 @@
             width: 280px;
             height: 180px;
             border-radius: 16px;
-            overflow: hidden;
+            /* overflow: hidden; */
             cursor: pointer;
             transition: all 0.3s ease;
-            ;
             box-sizing: border-box;
         }
 
@@ -67,13 +99,13 @@
         }
 
         /* Overlay oscuro degradado */
-        .overlay {
+        /* .overlay {
             position: absolute;
             inset: 0;
             background: linear-gradient(to top,
                     rgba(0, 0, 0, 0.6),
                     rgba(0, 0, 0, 0.1));
-        }
+        } */
 
         /* Texto */
         .contenido {
@@ -103,6 +135,81 @@
         .card-industria.activa .check {
             display: flex;
         }
+
+        #Contenedor_Productos {
+            display:block;
+            width:100%;
+        }
+
+        .card-producto {
+            border: 1px solid #ddd;
+            border-radius: 12px;
+            padding: 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+        }
+
+        .card-info {
+            width: 70%;
+        }
+
+        .card-industria {
+            color: #ff6600;
+            font-size: 14px;
+            margin-bottom: 5px;
+        }
+
+        .card-titulo {
+            font-weight: bold;
+            font-size: 18px;
+            margin-bottom: 8px;
+        }
+
+        .card-descripcion {
+            font-size: 14px;
+            color: #555;
+            margin-bottom: 15px;
+        }
+
+        .card-botones button {
+            margin-right: 10px;
+            padding: 6px 12px;
+            border-radius: 20px;
+            border: 1px solid #ccc;
+            cursor: pointer;
+        }
+
+        .card-marca {
+            text-align: center;
+            font-weight: bold;
+            color: #888;
+        }
+
+      
+        .card-producto.card {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+}
+
+.card-producto .card-content {
+    padding: 24px 24px 16px 24px;
+}
+
+.card-producto .card-action {
+    padding: 16px 24px;
+}
+
+.card-producto .card-action .row {
+    margin-bottom: 0;
+}
+
+.card-producto img {
+    max-height: 90px;
+    margin-top: 10px;
+}
     </style>
 
 
@@ -681,7 +788,8 @@
                 <li>
                     <div id="BannerDinamico" style="height:800px;background:linear-gradient(#071637 99%);">
                         <b class="segundotitulo"
-                            style="float:right;color:white;margin-top:200px;margin-right:150px;">Banner Dinamico</b>
+                            style="float:right;color:white;margin-top:200px;margin-right:150px;"><span>Nuestros
+                                Productos</span><br><span id="segundotitulo"></span></b>
                     </div>
                     <div class="caption center-align"><br><br><br><br>
                         <br>
@@ -706,23 +814,24 @@
     <div class="container" style="margin-top:80px">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
-                <!-- <section style="margin-top:75px"><a class="active" href="index.php" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Lecitinas_Prod.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Lecitina de Soya Liquida GMO > </b></a><a class="breditem active" href="LECITINA_SOYA_LIQUIDA_GMO_SHOP.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Lecitina de Soya Liquida GMO Shop</b></a></section> -->
-
-
-
             </div>
         </div>
     </div>
 
-    <div class="container" style="margin-top:50px">
+    <div class="container sticky-industria" style="margin-top:50px">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
+
+              <section style="margin-top:20px"><a class="active" href="index.php" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Products_Manufacturer.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Productos & Fabricantes  </b></a></section>
+
                 <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Escoja un Sector de Negocio</b></h2>
 
 
-                <div class="col s12 m12 l12 xl12">
+                
+                <div class="col s12 m12 l3 xl3 ">
 
-                    <div class="card-industria" data-industria="Farmaceutica">
+                    <div class="card-industria" data-industria="1" data-segmento="3" data-nindustria="Farmaceutica" data-color="#0066FF"
+                        data-video="VIDEO/QUIMICO.mp4">
 
                         <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted
                             defaultMuted playsinline>
@@ -731,10 +840,38 @@
                             <source class="mercadosimagen" src="VIDEO/QUIMICO.mp4" type="video/mp4">
                         </video>
 
-                        <div class="overlya"></div>
+                        <div class="overlay"></div>
 
                         <div class="contenido">
-                            <h3 style="font-size:25px;">Farmaceutica</h3>
+                            <h3 style="font-size:20px;">Farmaceutica</h3>
+                        </div>
+
+                        <div class="check">
+                            ✓
+                        </div>
+
+
+                    </div>
+
+
+                </div>
+
+                <div class="col s12 m12 l3 xl3">
+
+                    <div class="card-industria" data-industria="2" data-segmento="3" data-nindustria="Veterinaria" data-color="#1976D2"
+                        data-video="VIDEO/fo.mp4">
+
+                        <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted
+                            defaultMuted playsinline>
+
+
+                            <source class="mercadosimagen" src="VIDEO/Veterinaria.mp4" type="video/mp4">
+                        </video>
+
+                        <div class="overlay"></div>
+
+                        <div class="contenido">
+                            <h3 style="font-size:20px;">Veterinaria</h3>
                         </div>
 
                         <div class="check">
@@ -746,9 +883,193 @@
 
                 </div>
 
+                <div class="col s12 m12 l3 xl3">
+
+                    <div class="card-industria" data-industria="3" data-segmento="3" data-nindustria="Alimentos & Nutrición Humana" data-color="#F5DF4D"
+                        data-video="VIDEO/fo.mp4">
+
+                        <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted
+                            defaultMuted playsinline>
+
+
+                            <source class="mercadosimagen" src="VIDEO/NUTRICION_HUMANA2.mp4" type="video/mp4">
+                        </video>
+
+                        <div class="overlay"></div>
+
+                        <div class="contenido">
+                            <h3 style="font-size:20px;">Alimentos & Nutrición Humana</h3>
+                        </div>
+
+                        <div class="check">
+                            ✓
+                        </div>
+
+
+                    </div>
+
+
+
+                </div>
+
+                <div class="col s12 m12 l3 xl3">
+                    <div class="card-industria" data-industria="4" data-segmento="3" data-nindustria="Alimentos & Nutricion Animal" data-color="#FBC020"
+                        data-video="VIDEO/fo.mp4">
+
+                        <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted
+                            defaultMuted playsinline>
+
+
+                            <source class="mercadosimagen" src="VIDEO/ALIMENTO_ANIMAL2.mp4" type="video/mp4">
+                        </video>
+
+                        <div class="overlay"></div>
+
+                        <div class="contenido">
+                            <h3 style="font-size:20px;">Alimentos & Nutricion Animal</h3>
+                        </div>
+
+                        <div class="check">
+                            ✓
+                        </div>
+
+
+                    </div>
+
+                </div>
+
+                <div class="col s12 m12 l3 xl3">
+                    <div class="card-industria" data-industria="5" data-segmento="3" data-nindustria="Agroquímicos" data-color="#8BC34A"
+                        data-video="VIDEO/fo.mp4">
+
+                        <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted
+                            defaultMuted playsinline>
+
+
+                            <source class="mercadosimagen" src="VIDEO/AGRICULTURA3.mp4" type="video/mp4">
+                        </video>
+
+                        <div class="overlay"></div>
+
+                        <div class="contenido">
+                            <h3 style="font-size:20px;">Agroquímicos</h3>
+                        </div>
+
+                        <div class="check">
+                            ✓
+                        </div>
+
+
+                    </div>
+
+                </div>
+
+
+                <div class="col s12 m12 l3 xl3">
+                    <div class="card-industria" data-industria="6" data-segmento="3" data-nindustria="Cosmeticos & Cuidado Personal" data-color="#E0C3A3"
+                        data-video="VIDEO/fo.mp4">
+
+                        <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted
+                            defaultMuted playsinline>
+
+
+                            <source class="mercadosimagen" src="VIDEO/COSMETICOS.mp4" type="video/mp4">
+                        </video>
+
+                        <div class="overlay"></div>
+
+                        <div class="contenido">
+                            <h3 style="font-size:20px;">Cosmeticos & Cuidado Personal</h3>
+                        </div>
+
+                        <div class="check">
+                            ✓
+                        </div>
+
+
+                    </div>
+
+                </div>
+
+
+                <div class="col s12 m12 l3 xl3">
+                    <div class="card-industria" data-industria="7" data-segmento="3" data-nindustria="Detergentes & Hogar" data-color="#2196F3"
+                        data-video="VIDEO/fo.mp4">
+
+                        <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted
+                            defaultMuted playsinline>
+
+
+                            <source class="mercadosimagen" src="VIDEO/DETERGENTES2.mp4" type="video/mp4">
+                        </video>
+
+                        <div class="overlay"></div>
+
+                        <div class="contenido">
+                            <h3 style="font-size:20px;">Detergentes & Hogar</h3>
+                        </div>
+
+                        <div class="check">
+                            ✓
+                        </div>
+
+
+                    </div>
+
+                </div>
+
+                <div class="col s12 m12 l3 xl3">
+                    <div class="card-industria" data-industria="8" data-segmento="3" data-nindustria="Quimicos" data-color="#2E7D32"
+                        data-video="VIDEO/fo.mp4">
+
+                        <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted
+                            defaultMuted playsinline>
+
+
+                            <source class="mercadosimagen" src="VIDEO/QUIMICO.mp4" type="video/mp4">
+                        </video>
+
+                        <div class="overlay"></div>
+
+                        <div class="contenido">
+                            <h3 style="font-size:20px;">Químicos</h3>
+                        </div>
+
+                        <div class="check">
+                            ✓
+                        </div>
+
+
+                    </div>
+
+                </div>
+
+
+
+
+
+
             </div>
 
+
         </div>
+
+    </div>
+
+
+    <div class="container">
+        <div class="row">
+            <div class="col s12 m12 l12 xl12">
+                <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Escoja un Segmento de Mercado de</b> <b><span
+                        id="Segundotitulo2" style="color:black;"></span></b></h2>
+            </div>
+            <div id="Contenedor_Filtros"></div>
+            <div class="row">
+            <div  id="Contenedor_Productos" class="col s12"></div>
+            </div>
+            
+        </div>
+    </div>
 
     </div>
 
@@ -780,6 +1101,7 @@
         <script type="text/javascript"
             src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
+        <script src="js/Banner_Dinamicos.js"></script>
         <link rel="shortcut icon" href="img/CB_ICON.ico" />
 
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -796,6 +1118,209 @@
     <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
         <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
     </a>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', 'G-SGJQ8FDDJ6');
+    </script>
+<script>
+
+document.addEventListener("DOMContentLoaded", function(){
+
+let industriaSeleccionada = null;
+let segmentoSeleccionado = null;
+
+const contenedorFiltros = document.getElementById("Contenedor_Filtros");
+const contenedorProductos = document.getElementById("Contenedor_Productos");
+
+// ===============================
+// CLICK EN INDUSTRIA
+// ===============================
+document.querySelectorAll(".card-industria").forEach(card => {
+
+    card.addEventListener("click", function () {
+
+        document.querySelectorAll(".card-industria")
+            .forEach(c => c.classList.remove("activa"));
+
+        this.classList.add("activa");
+
+        industriaSeleccionada = this.dataset.industria; // YA NO Number()
+
+        segmentoSeleccionado = null;
+
+        generarFiltros();
+        renderProductos();
+    });
+
+});
+
+
+// ===============================
+// GENERAR FILTROS
+// ===============================
+function generarFiltros() {
+
+    contenedorFiltros.innerHTML = "";
+
+    const segmentosUnicos = [
+        ...new Map(
+            productos
+                .filter(p => p.id_industria == industriaSeleccionada)
+                .map(p => [p.id_segmento, p])
+        ).values()
+    ];
+
+    segmentosUnicos.forEach(seg => {
+
+        const btn = document.createElement("a");
+        btn.className = "btn";
+        btn.style.background = "#071637";
+        btn.style.marginRight = "10px";
+        btn.style.borderRadius = "15px";
+        btn.textContent = seg.nombre_segmento;
+        btn.dataset.segmento = seg.id_segmento;
+
+        btn.addEventListener("click", function () {
+
+            segmentoSeleccionado = this.dataset.segmento;
+            renderProductos();
+        });
+
+        contenedorFiltros.appendChild(btn);
+    });
+}
+
+
+// ===============================
+// RENDER PRODUCTOS
+// ===============================
+function renderProductos() {
+
+    contenedorProductos.innerHTML = "";
+
+    const productosFiltrados = productos.filter(p => {
+
+        let coincideIndustria = industriaSeleccionada
+            ? p.id_industria == industriaSeleccionada
+            : true;
+
+        let coincideSegmento = segmentoSeleccionado
+            ? p.id_segmento == segmentoSeleccionado
+            : true;
+
+        return coincideIndustria && coincideSegmento;
+    });
+
+    if(productosFiltrados.length === 0){
+
+contenedorProductos.innerHTML = `
+    <div style="width:100%; text-align:center; margin-top:40px;">
+        <p class="Tipografia--general letranegro General--Cuerpo">
+            No hay productos disponibles
+        </p>
+    </div>
+`;
+
+return;
+}
+
+    productosFiltrados.forEach(prod => {
+
+        const div = document.createElement("div");
+        div.style.marginTop = "20px"
+        div.classList.add("card-producto");
+
+        div.classList.add("card", "hoverable");
+
+        div.classList.add("card", "hoverable");
+
+        div.classList.add("card", "hoverable", "card-producto");
+
+div.innerHTML = `
+
+<div class="card-content">
+
+    <div class="row valign-wrapper" style="margin-bottom:0;">
+
+        <!-- LADO IZQUIERDO -->
+        <div class="col s12 m6 l8 xl8">
+
+            <div class="chip orange lighten-5 orange-text text-darken-4">
+                ${prod.nombre_industria}
+            </div>
+
+            <span class="card-title" style="font-weight:600;">
+                ${prod.nombre_producto}
+            </span>
+
+            <p class="grey-text text-darken-1" style="margin-top:6px;margin:0;word-wrap:break-word;overflow-wrap:break-word;text-align:justify">
+                ${prod.descripcion}
+            </p>
+
+            <a href="${prod.Link_Web}" class="blue-text text-darken-2" style="margin-top:6px; display:inline-block;">
+                Ver detalles →
+            </a>
+
+            <div class="contenedor" style="display:flex;align-items:stretch;">
+            <div class="linea-vertical" style="width:1px;background-color:red;margin:0 20px"></div>
+        </div>
+
+        </div>
+
+      
+
+        <!-- LOGO DERECHA -->
+        <div class="col s12 m6 l4 xl4">
+            ${prod.imagen 
+                ? `<img src="${prod.imagen}">`
+                : ""}
+        </div>
+
+    </div>
+
+</div>
+
+<div class="divider"></div>
+
+<div class="card-action grey lighten-5" style="width:1255px">
+
+    <div class="row valign-wrapper">
+
+        <div class="col s12 m12 l12 xl12">
+            <a class="btn-small waves-effect waves-light grey lighten-4 white-text text-darken-4" style="margin-right:50px;border-radius:15px;background-color:#071637 !important;">
+                Descargar documentos
+            </a>
+
+            <a class="btn-small waves-effect waves-light grey lighten-4 white-text text-darken-4" style="margin-right:50px;border-radius:15px;background-color:#071637 !important;">
+                Solicitar muestra
+            </a>
+
+            <a class="btn-small waves-effect waves-light grey lighten-4 white-text text-darken-4" style="margin-right:50px;border-radius:15px;background-color:#071637 !important;">
+                Solicitar cotización
+            </a>
+            <a class="btn-small waves-effect waves-light grey lighten-4 white-textt text-darken-4" style="margin-right:50px;border-radius:15px;background-color:#071637 !important;">
+                Obtenga asistencia
+            </a>
+        </div>
+
+      
+    </div>
+
+</div>
+`;
+
+        contenedorProductos.appendChild(div);
+    });
+}
+
+});
+
+</script>
 </body>
 
 </html>

@@ -403,9 +403,9 @@
             <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Tipos de suplementos nutricionales para mascotas</b></h2>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;"> Vitaminas y minerales:
+                <li class="Elementos--Listas" style="margin-top:30px;"><b>Vitaminas y minerales:</b>
                     <ol>
-                        <li class="Elementos--Listas" style="margin-top:30px;"> Proveen micronutrientes esenciales que pueden faltar en la dieta.
+                        <li class="Elementos--Listas" style="margin-top:30px;">Proveen micronutrientes esenciales que pueden faltar en la dieta.
                             <ol>
                                 <li class="Elementos--Listas" style="margin-top:30px;">Ejemplo: Calcio, Zinc, Vitamina D, Vitamina E.</li>
                                 <li class="Elementos--Listas" style="margin-top:30px;">Uso: Fortalecer huesos, piel y sistema inmunológico.</li>
@@ -416,7 +416,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;"> Suplementos para la salud articular:
+                <li class="Elementos--Listas" style="margin-top:30px;"><b>Suplementos para la salud articular:</b>
                     <ol>
                         <li class="Elementos--Listas" style="margin-top:30px;"> Ayudan a prevenir o tratar problemas articulares, como la artritis.
                             <ol>
@@ -434,7 +434,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;"> Ácidos grasos esenciales:
+                <li class="Elementos--Listas" style="margin-top:30px;"><b>Ácidos grasos esenciales:</b>
                     <ol>
                         <li class="Elementos--Listas" style="margin-top:30px;"> Fuente de Omega-3 y Omega-6.
                             <ol>
@@ -447,7 +447,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;"> Pro y prebióticos:
+                <li class="Elementos--Listas" style="margin-top:30px;"><b>Pro y prebióticos:</b>
                     <ol>
                         <li class="Elementos--Listas" style="margin-top:30px;"> Mejoran la salud intestinal y el sistema digestivo.
                             <ol>
@@ -476,7 +476,7 @@
             </ol>
 
           <ol>
-            <li class="Elementos--Listas" style="margin-top:30px;"> Antioxidantes:
+            <li class="Elementos--Listas" style="margin-top:30px;"><b>Antioxidantes:</b>
                 <ol>
                     <li class="Elementos--Listas" style="margin-top:30px;"> Ayudan a combatir el estrés oxidativo y envejecimiento celular.
                         <ol>
@@ -488,7 +488,7 @@
           </ol>
 
           <ol>
-            <li class="Elementos--Listas" style="margin-top:30px;"> Suplementos para la ansiedad y comportamiento:
+            <li class="Elementos--Listas" style="margin-top:30px;"><b>Suplementos para la ansiedad y comportamiento:</b>
                 <ol>
                     <li class="Elementos--Listas" style="margin-top:30px;"> Ingredientes calmantes para reducir el estrés en mascotas.
                         <ol>
@@ -500,7 +500,7 @@
           </ol>
 
           <ol>
-            <li class="Elementos--Listas" style="margin-top:30px;"> Nutracéuticos especializados:
+            <li class="Elementos--Listas" style="margin-top:30px;"><b>Nutracéuticos especializados:</b>
                 <ol>
                     <li class="Elementos--Listas" style="margin-top:30px;"> Productos dirigidos a enfermedades o condiciones específicas.
                         <ol>
@@ -516,10 +516,10 @@
             </li>
           </ol>
 
-          <h2 class="Tipografia--general letranegro General--Cuerpo">Ingredientes clave utilizados en la industria química:</h2>
+          <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Ingredientes clave utilizados en la industria química:</b></h2>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;"> Macronutrientes esenciales:
+                <li class="Elementos--Listas" style="margin-top:30px;"><b>Macronutrientes esenciales:</b>
                     <ol>
                         <li class="Elementos--Listas" style="margin-top:30px;"> Proteínas hidrolizadas: Facilitan la digestión y son utilizadas en animales con alergias.
                             <ol>
@@ -528,7 +528,7 @@
                         </li>
                     </ol>
                     <ol>
-                        <li class="Elementos--Listas" style="margin-top:30px;"> Fibra dietética: Mejora la salud digestiva.
+                        <li class="Elementos--Listas" style="margin-top:30px;"><b>Fibra dietética: Mejora la salud digestiva.</b>
                             <ol>
                                 <li class="Elementos--Listas" style="margin-top:30px;">Ejemplo: Celulosa, Pectinas, Salvado de avena.</li>
                             </ol>
@@ -538,7 +538,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;"> Vitaminas y cofactores:
+                <li class="Elementos--Listas" style="margin-top:30px;"><b>Vitaminas y cofactores:</b>
                     <ol>
                         <li class="Elementos--Listas" style="margin-top:30px;">Vitamina B12 (Cianocobalamina): Energía y salud neurológica.</li>
                         <li class="Elementos--Listas" style="margin-top:30px;">Vitamina A: Salud ocular.</li>
@@ -548,7 +548,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;"> Minerales esenciales:
+                <li class="Elementos--Listas" style="margin-top:30px;"><b>Minerales esenciales:</b>
                     <ol>
                         <li class="Elementos--Listas" style="margin-top:30px;">Quelatos de minerales: Mejoran la absorción.
                             <ol>
@@ -560,7 +560,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;"> Sales minerales:
+                <li class="Elementos--Listas" style="margin-top:30px;"><b>Sales minerales:</b>
                     <ol>
                         <li class="Elementos--Listas" style="margin-top:30px;">Ejemplo: Carbonato de calcio, Fosfato dicálcico</li>
                     </ol>
@@ -568,7 +568,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;"> Ácidos grasos:
+                <li class="Elementos--Listas" style="margin-top:30px;"><b>Ácidos grasos:</b>
                     <ol>
                         <li class="Elementos--Listas" style="margin-top:30px;">DHA y EPA (derivados del Omega-3): Salud cerebral y articular.</li>
                     </ol>
@@ -576,7 +576,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;"> Aminoácidos esenciales:
+                <li class="Elementos--Listas" style="margin-top:30px;"><b>Aminoácidos esenciales:</b>
                     <ol>
                         <li class="Elementos--Listas" style="margin-top:30px;">Taurina: Salud cardíaca en gatos.</li>
                         <li class="Elementos--Listas" style="margin-top:30px;">L-carnitina: Metabolismo energético</li>
@@ -585,7 +585,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;"> Aditivos funcionales y auxiliares:
+                <li class="Elementos--Listas" style="margin-top:30px;"><b>Aditivos funcionales y auxiliares:</b>
                     <ol>
                         <li class="Elementos--Listas" style="margin-top:30px;"> Conservantes naturales:
                             <ol>
@@ -598,7 +598,7 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;"> Saborizantes:
+                <li class="Elementos--Listas" style="margin-top:30px;"><b>Saborizantes:</b>
                     <ol>
                         <li class="Elementos--Listas" style="margin-top:30px;">Ejemplo: Hidrolizados de hígado de pollo, vainilla natural.</li>
                         <li class="Elementos--Listas" style="margin-top:30px;">Uso: Aumentar la palatabilidad para las mascotas.</li>
@@ -608,7 +608,7 @@
 
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;"> Colorantes naturales:
+                <li class="Elementos--Listas" style="margin-top:30px;"><b>Colorantes naturales:</b>
                     <ol>
                         <li class="Elementos--Listas" style="margin-top:30px;">Ejemplo: Betacaroteno, Óxido de hierro.</li>
                     </ol>
@@ -616,13 +616,47 @@
             </ol>
 
             <ol>
-                <li class="Elementos--Listas" style="margin-top:30px;"> Emulsionantes y estabilizantes:
+                <li class="Elementos--Listas" style="margin-top:30px;"><b>Emulsionantes y estabilizantes:</b>
                     <ol>
                         <li class="Elementos--Listas" style="margin-top:30px;">Ejemplo: Goma guar, Goma xantana.</li>
                         <li class="Elementos--Listas" style="margin-top:30px;">Uso: Mejorar la textura en suplementos líquidos o geles.</li>
                     </ol>
                 </li>
             </ol>
+
+            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Productos</b></h2>
+
+            <div class="col s12 m12 l4 xl4">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Colageno_Hidroilizado.php"><img class="activator" src="img/CB_COLLAGEN_280723.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Colageno Hidrolizado</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+        </div>
+
+        <div class="col s12 m12 l4 xl4">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Fosfatos.php"><img class="activator" src="img/ALIMENTOS_FOSFORO_280824.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Fosfatos</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+        </div>
+
+  
 
         </div>
     </div>

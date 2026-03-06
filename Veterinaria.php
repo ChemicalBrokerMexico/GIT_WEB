@@ -3,9 +3,9 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0" />
-  <title>Chemical Broker | Mercado Veterinario</title>
+  <title>Chemical Broker | Mercado Veterinario | Proveedor Global y Nacional de Ingredientes Quimicos para la industria Veterinaria</title>
   <meta name="description" content="Calidad en cada ingrediente; en Chemical Broker contamos con un amplio portafolio de ingredientes farmaceuticos los cuales cumplen con las mejores certificaciones a nivel global con el objetivo de brindar la mayor calida a nuestros socios de negocios.">
-  <link rel="canonical" href="https://chemicalbroker.mx/pharmaceutical.php">
+  <link rel="canonical" href="https://chemicalbroker.mx/Veterinaria.php">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
 
 

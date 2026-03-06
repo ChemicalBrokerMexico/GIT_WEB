@@ -4,8 +4,8 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
     <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos.">
-    <title>Chemical Broker | Medicamentos Terapeuticos para mascotas</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <meta name="description" content="Algunas organizaciones buscan vender mas, nosotros buscamos crecer en conjunto con nuestros socios de negocios, conoce nuestra marca.">
+    <title>Chemical Broker | Medicamentos Terapeuticos para mascotas | Proveedor Global de Ingredientes Quimicos para la Industria Farmaceutica</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <meta name="description" content="Impulsa el desarrollo de medicamentos terapéuticos con ingredientes y excipientes grado farmacéutico de alta calidad. Ofrecemos soluciones confiables con trazabilidad, cumplimiento regulatorio y soporte técnico especializado para la industria farmacéutica.">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link rel="canonical" href="https://chemicalbroker.mx/Medicamentos_Terapeuticos.php">
     <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
@@ -485,85 +485,64 @@
         </li>
       </ol>
 
-      <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Ingredientes Quimicos Utilizados:</b></h2>
+      <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Productos</b></h2>
 
-      <p class="Tipografia--general letranegro General--Cuerpo">Excipientes: Compuestos inactivos que facilitan la formulación y administración del medicamento:</p>
-
-      <ol>
-        <li class="Elementos--Listas" style="margin-top:30px">Vehículos y disolventes:
-          <ol>
-            <li class="Elementos--Listas" style="margin-top:30px">Ejemplo: Propilenglicol, Aceites vegetales (soja, girasol).</li>
-            <li class="Elementos--Listas" style="margin-top:30px">Uso: Mejorar la solubilidad y biodisponibilidad de los principios activos.</li>
-          </ol>
-        </li>
-      </ol>
-
-      <ol>
-        <li class="Elementos--Listas" style="margin-top:30px">Estabilizantes:
-          <ol>
-            <li class="Elementos--Listas" style="margin-top:30px">Ejemplo: Fosfatos, Citratos.</li>
-            <li class="Elementos--Listas" style="margin-top:30px">Uso: Mantener la estabilidad química y física del medicamento.</li>
-          </ol>
-        </li>
-      </ol>
-
-      <ol>
-        <li class="Elementos--Listas" style="margin-top:30px">Conservantes:
-          <ol>
-            <li class="Elementos--Listas" style="margin-top:30px">Ejemplo: Benzoato de sodio, Parabenos.</li>
-            <li class="Elementos--Listas" style="margin-top:30px">Uso: Prevenir la contaminación microbiana.</li>
-          </ol>
-        </li>
-      </ol>
-
-      <ol>
-        <li class="Elementos--Listas" style="margin-top:30px">Colorantes y saborizantes::
-          <ol>
-            <li class="Elementos--Listas" style="margin-top:30px">Ejemplo: Óxidos de hierro (colorantes), Glutamato monosódico (saborizantes).</li>
-            <li class="Elementos--Listas" style="margin-top:30px">Uso: Mejorar la aceptabilidad del medicamento por parte de las mascotas.</li>
-          </ol>
-        </li>
-      </ol>
-
-      <h2 class="Tipografia--general letranegro General--Cuerpo">Excipientes:</h2>
-
-      <h2 class="Tipografia--general letranegro General--Cuerpo">Aditivos funcionales::</h2>
-
-      <ol>
-        <li class="Elementos--Listas" style="margin-top:30px">Surfactantes:
-          <ol>
-            <li class="Elementos--Listas" style="margin-top:30px">Ejemplo: Polisorbatos (Tween 80), Laurilsulfato de sodio.</li>
-            <li class="Elementos--Listas" style="margin-top:30px">Uso: Facilitar la emulsión y dispersión de los ingredientes activos.</li>
-          </ol>
-        </li>
-      </ol>
-
-      <ol>
-        <li class="Elementos--Listas" style="margin-top:30px"> Agentes de liberación controlada:
-          <ol>
-            <li class="Elementos--Listas" style="margin-top:30px">Ejemplo: Polímeros como HPMC (hidroxipropilmetilcelulosa), Eudragit.</li>
-            <li class="Elementos--Listas" style="margin-top:30px">Uso: Proveer una liberación sostenida del medicamento.</li>
-          </ol>
-        </li>
-      </ol>
-
-      <ol>
-        <li class="Elementos--Listas" style="margin-top:30px"> Agentes quelantes:
-          <ol>
-            <li class="Elementos--Listas" style="margin-top:30px">Ejemplo: EDTA (ácido etilendiaminotetraacético).</li>
-            <li class="Elementos--Listas" style="margin-top:30px">Uso: Mejorar la estabilidad al prevenir la oxidación y la formación de metales.</li>
-          </ol>
-        </li>
-      </ol>
-
-      <ol>
-        <li class="Elementos--Listas" style="margin-top:30px"> Lubricantes:
-          <ol>
-            <li class="Elementos--Listas" style="margin-top:30px">Ejemplo: Estearato de magnesio, Talco.</li>
-            <li class="Elementos--Listas" style="margin-top:30px">Uso: Facilitar el proceso de tableteado.</li>
-          </ol>
-        </li>
-      </ol>
+      <div class="col s12 m12 l4 xl4">
+      <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Glycerins.php"><img class="activator" src="img/BANNER_PRINCIPAL.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Glicerina</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+      </div>
+      <div class="col s12 m12 l4 xl4">
+      <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Glycols.php"><img class="activator" src="img/GLICOLES_BANNER_140425.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Glicoles</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+      </div>
+      <div class="col s12 m12 l4 xl4">
+      <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Esteres_Sorbitan_Etoxilados.php"><img class="activator" src="img/ESTERES_SORBITAN_ETOXILADOS_290125.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Polisorbatos</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+      </div>
+      <!-- <div class="col s12 m12 l4 xl4"> -->
+      <!-- <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Glycerins.php"><img class="activator" src="img/BANNER_PRINCIPAL.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Glicerina</b></span>
+          </div> -->
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        <!-- </div> -->
+      </div>
 
 
     </div>

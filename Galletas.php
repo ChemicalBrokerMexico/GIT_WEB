@@ -3,9 +3,10 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-<!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
-<title>Chemical Broker</title>
+<meta name="description" content="Encuentra insumos de calidad para la elaboración de galletas: ingredientes, materias primas y productos especializados para fabricantes, panaderías y negocios que buscan crear galletas deliciosas. 🍪">
+<title>Chemical Broker | Galletas | Proveedor Global y Nacional de Ingredientes Quimicos para la Industria Alimentaria </title>
 <link rel="shortcut icon" href="img/CB_ICON.ico" />
+<link rel="canonical" href="https://chemicalbroker.mx/Galletas.mx">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -211,12 +212,12 @@
         </ul>
       </div>
       <div> 
-        <ul> <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock" style="color:white !Important;margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock" style="color:white !Important;display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
-            <div style="display:flex;justify-content:center"> 
-              <p class="Botones Logindesktop Tipografia--general" style="aling-self:center"> <b>Iniciar Sesión</b></p>
-            </div></a>
-          <li class="ul-independiente right"><a class="btn-search-desktop1" href="#" id="busquedaprueba" onclick="abrirsearch();"><i class="material-icons left search-desktop-icon" style="color:black !important;font-size:24px;font-weight:500;position:absolute;z-index:1">search</i></a></li>
-        </ul>
+      <ul><!--  <a class="waves-effect right btn-lock1" style="background-color:#c73e32;cursor:pointer;padding:10px;" href="chemicalbroker.mx/Vista/Principal.php" id="LockBoton"><i class="material-icons left icon-lock1 desaparecelock color--blanco" style="margin-top:-24px;font-size:20px !important">lock</i><i class="material-icons left icon-lock1 aparecelock color--blanco" style="display:none;margin-top:-24px;font-size:20px !important" id="unlock1">lock_open</i><span class="candadodesktop"></span>
+<div style="display:flex;justify-content:center"> 
+<p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
+</div></a> -->
+<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
+</ul>
         <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i class="material-icons search-mobile-icon margin-left-search-mobile-icon" style="width:0px">search</i></a></div>
       </div>
     </nav>
@@ -237,7 +238,7 @@
               </div>
             </div>
             <div class="col s12 m12 l12 xl12 search" id="search">
-              <table class="search-table"  style="width:100%">
+              <table class="search-table" id="searchTable" style="width:100%">
                 <thead> 
                   <tr>
                     <td> </td>
@@ -316,7 +317,7 @@
         <div class="container">
           <div class="row">
             <div class="col s12 m12 l12 xl12 search" id="search2">
-              <table class="search-table" style="width:100%;">
+              <table class="search-table" id="searchTable2" style="width:100%;">
                 <thead> 
                   <tr> 
                     <td> </td>
@@ -370,7 +371,7 @@
             <div class="caption center-align"><br><br><br><br>
               <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Galletas</b>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:white;">Mercados ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:white;">Alimentos ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:white;">Panificacion ></b> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:red;">Galletas</b></a></a></section>
+   
     </div>
             </div>
           </li>
@@ -382,6 +383,8 @@
     <div class="container" style="margin-top:130px;">
         <div class="row">
         
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:black;">Mercados ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:black;">Alimentos ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:black;">Panificacion ></b> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:red;">Galletas</b></a></a></section>
+
         <p class="Tipografia--general letranegro General--Cuerpo">La industria de las galletas es un sector masivo que se enfoca en la produccion de galletas a gran escala, buscando satisfacer a un mercado global con una amplia gama de productos que incluyen galletas dulces, saladas, rellenas, integrales y dieteticas. Esta industria utiliza tecnoloigía avanzada, procesos mecanizados y una serie de ingredientes quimicos y aditivos para garantizar uniformidad, larga vida util y bajos costos</p>
 
         <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Caracteristicas de las galletas</b></h5>
@@ -399,9 +402,9 @@
         </ol>
                 
 
-        <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Ingredientes Químicos en las galletas</b></h5>
+        <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Productos</b></h5>
 
-        <ol>
+        <!-- <ol>
             <li style="list-style-type: disc;">Conservantes<ol>
                 <li style="list-style-type:disc;margin-top:30px;">Propionato de calcio: Previene el crecimiento de moho y bacterias, lo que aumenta la vida util del producto</li>
                 <li style="list-style-type:disc;margin-top:30px;">BHA y BHT: Antioxidantes que evitan que los aceites y grasas de las galletas se vuelvan rancios</li>
@@ -447,7 +450,38 @@
             <li style="list-style-type:disc;margin-top:50px;">Goma xantana | Goma Guar<ol>
                 <li style="list-style-type:disc;margin-top:30px;">Aumenta la viscocidad de las masas y mejora la estabilidad de los rellenos</li>
             </ol></li>
-        </ol>
+        </ol> -->
+
+        <div class="col s12 m12 l4 xl4">
+          <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Antioxidantes.php"><img class="activator" src="img/Antioxidantes_020823.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Antioxidantes</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+          </div>
+
+          <div class="col s12 m12 l4 xl4">
+          <div class="card">
+          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
+           <a href="Azucar_Refinada.php"><img class="activator" src="img/AZUCAR_BANNER_310724.jpg"></a>
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4"><b>Azucar Refinada</b></span>
+          </div>
+          <!-- <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+            <p>Here is some more information about this product that is only revealed once clicked on.</p>
+          </div> -->
+        </div>
+          </div>
+
 
         </div>
     </div>
