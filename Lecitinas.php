@@ -3,8 +3,8 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Lectinas | Proveedor Global</title>
-  <meta name="description" content="Chemical Broker Brinda a sus socios de negocios Lecitinas de la mas alta calidad">
+  <title>Chemical Broker | Lectinas | Proveedor Global y Nacional de Ingredientes Quimicos</title>
+  <meta name="description" content="Lecitinas de alta calidad: emulsificantes naturales ideales para aplicaciones alimentarias, farmacéuticas y cosméticas. Mejoran la mezcla de grasas y agua, optimizan la textura y estabilidad de las formulaciones, y aportan funcionalidad y valor nutricional en cada producto.">
   <meta http-equiv="Expires" content="0">
   <meta http-equiv="Last-Modified" content="0">
   <meta http-equiv="Cache-Control" content="no-cache, mustrevalidate">

@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <meta name="description" content="Desarrolla tabletas blandas con excipientes e ingredientes grado farmacéutico de alta pureza. Ofrecemos plastificantes, agentes humectantes y sistemas funcionales que optimizan estabilidad, textura y liberación del activo, con cumplimiento regulatorio y suministro confiable para la industria farmacéutica.">
-    <title>Chemical Broker | Tabletas Blandas | Proveedor Global de Ingredientes Quimicos para la industria Farmaceutica </title>
+    <title>Chemical Broker | Tabletas Blandas | Proveedor Global y Nacional de Ingredientes Quimicos para la industria Farmaceutica </title>
     <link rel="canonical" href="https://chemicalbroker.mx/Tabletas_Blandas.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <script>

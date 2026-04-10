@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Acidos Grasos | Proveedor Global</title>
+  <title>Chemical Broker | Acidos Grasos | Proveedor Global Y Nacional de Ingredientes Quimicos</title>
   <meta name="description" content="Ácidos grasos de alta pureza, ideales para aplicaciones industriales, cosméticas y alimentarias. Versátiles y esenciales para la fabricación de productos especializados. ¡Compra ácidos grasos de calidad premium al mejor precio!"> 
   <link rel="canonical" href="https://chemicalbroker.mx/Acidos_Grasos.php">
   <script>
@@ -583,7 +583,7 @@
     <div class="row">
       <div class="col s12 m12 l12 xl12">
 
-      <section><a class="active" href="#" style="color:black !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos " style=color:black>Productos > </b> </a> <a class=" active" href="Acidos_grasos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Ácidos Grasos</b></a></section>
+      <section><a class="active" href="index.php" style="color:black !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos " style=color:black>Productos > </b> </a> <a class=" active" href="Acidos_grasos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Ácidos Grasos</b></a></section>
 
         <h2 class="Tipografia--general letranegro Titulos"><b>Ácidos Grasos</b></h2>
         <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px">Los <b style="color:#262137;">Ácidos Grasos</b> se

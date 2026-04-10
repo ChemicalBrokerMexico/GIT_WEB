@@ -3,8 +3,8 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
-    <title>Chemical Broker | Isotonicas</title>
+    <meta name="description" content="Desarrolla bebidas isotónicas premium con ingredientes de alta calidad: mejor hidratación, equilibrio electrolítico y sabor superior.">
+    <title>Chemical Broker | Bebidas Isotonicas | Proveedor Global y Nacional de Ingredientes Quimicos para la Industria Alimentaria</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
     <script>
@@ -537,12 +537,13 @@
 
 
 </body>
-  <footer style="margin-top:70px">
-    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""></div><br><br>
-    <div class="container-fluid" style="text-align:center;margin-top:-50px">
-      <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad  </a>
-            <script type="text/javascript" src="js/main.js"></script></a></strong></p>
-            <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+<footer style="margin-top:70px">
+      <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg" alt=""></div><br><br>
+      <div class="container-fluid" style="text-align:center;margin-top:-50px">
+        <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad  </a>
+              <script type="text/javascript" src="js/main.js"></script></a></strong></p>
+      </div>
+      <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="js/materialize.js" type="text/javascript"></script>
     <script src="js/init.js"></script>
     <script type="text/javscript" src="js/materialize.min.js"></script>
@@ -551,6 +552,5 @@
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
     <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
-    </div>
-  </footer>
+    </footer>
 </html>

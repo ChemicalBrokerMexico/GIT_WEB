@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Maltodextrina | Proveedor Global</title>
+    <title>Chemical Broker | Maltodextrina | Proveedor Global y Nacional de Ingredientes Quimicos</title>
     <meta name="description" content="La Maltodextrina es un polímero formado por unidades de D-Glucosa unidad por medio de enlaces glicosídicos α (1-4) y α (1-6). Es un polvo blanco que se obtiene del maíz, arroz, almidón, papa y trigo, es decir almidones que deben cocinarse para posteriormente agregarle ácidos o enzimas">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>

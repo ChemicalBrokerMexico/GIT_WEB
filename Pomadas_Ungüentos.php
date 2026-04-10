@@ -3,7 +3,7 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Pomadas y Ungüentos | Proveedor Global de Ingredientes Quimicos para la industria Farmaceutica</title>
+    <title>Chemical Broker | Pomadas y Ungüentos | Proveedor Global y Nacional de Ingredientes Quimicos para la industria Farmaceutica</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="Impulsa la formulación de pomadas y ungüentos con ingredientes y excipientes grado farmacéutico de alta pureza. Ofrecemos bases, emolientes y agentes funcionales con trazabilidad, cumplimiento regulatorio y suministro confiable para la industria dermatológica y farmacéutica"> 
     <link rel="canonical" href="https://chemicalbroker.mx/Pomadas_Ungüentos.php">

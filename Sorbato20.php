@@ -3,10 +3,11 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Polisorbato 20</title>
-  <meta name="description" content="Chemical Broker distribuye mundialmente Polisorbatos"> 
+  <title>Chemical Broker | Polisorbato 20 (Span 20) | Proveedor Global y Nacional de Ingredientes Quimicos</title>
+  <meta name="description" content="Polisorbato 20 de alta pureza: emulsificante y tensioactivo versátil ideal para formulaciones cosméticas, farmacéuticas y alimentarias. Mejora la solubilidad de aceites y fragancias, garantizando estabilidad, textura uniforme y excelente desempeño en cada aplicación."> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="canonical" href="https://chemicalbroker.mx/Sorbato20.php">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"

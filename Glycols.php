@@ -4,7 +4,7 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-<title>Chemical Broker | Glicoles de la mas alta calidad del Fabricante Lyondell Basell | Proveedor Global</title>
+<title>Chemical Broker | Glicoles de la mas alta calidad del Fabricante Lyondell Basell | Proveedor Global y Nacional de Ingredientes Quimicos</title>
 <meta name="description" content="Los Glicoles son un tipo de compuesto químico orgánico que contiene dos grupos hidroxilos (grupos -OH) que resultan de la reacción del agua con el óxido de etileno.">
 <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/Glycols.php">

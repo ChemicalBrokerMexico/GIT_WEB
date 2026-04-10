@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <meta name="description" content="Ingredientes para alimentos de aves de corral: acidulantes, antioxidantes, vitaminas y minerales para mejorar digestibilidad, rendimiento y estabilidad en formulaciones avícolas">
-    <title>Chemical Broker | Quimicos para Alimentos de Aves de Corral</title>
+    <title>Chemical Broker | Alimento Aves de Corral | Proveedor Global y Nacional de Ingredientes Quimicos para la Industria Alimentaria</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link rel="canonical" href="https://chemicalbroker.mx/Aves_Corral.php">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>

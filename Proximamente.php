@@ -45,12 +45,21 @@
 <img src="img/CB_IMAGOTIPO_LEON.jpg" alt="" class="imagotipo_leon" style="opacity: 0.5;width:250px;"> 
 <h4 style="font-family: Arial !important;font-size: 35px;opacity:.6;color: #262137;">Proximamente</h4>
 </div> 
-<footer class="altofooter" >
-      <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""></div><br><br>
+<footer style="margin-top:70px">
+      <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg" alt=""></div><br><br>
       <div class="container-fluid" style="text-align:center;margin-top:-50px">
-        <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad</a>
+        <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad  </a>
               <script type="text/javascript" src="js/main.js"></script></a></strong></p>
       </div>
+      <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+    <script src="js/materialize.js" type="text/javascript"></script>
+    <script src="js/init.js"></script>
+    <script type="text/javscript" src="js/materialize.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
+    <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
     </footer>
 <script src="js/materialize.js"></script>
 <script type="text/javascript" src="js/materialize.min.js"></script>

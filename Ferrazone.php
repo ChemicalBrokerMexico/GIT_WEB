@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Ferrazone® del Fabricante Nouryon | Proveedor Global</title>
+    <title>Chemical Broker | Ferrazone® del Fabricante Nouryon | Proveedor Global y Nacional de Ingrediendos Quimicos</title>
     <meta name="description" content="Optimiza tus formulaciones con Ferrazone, un innovador agente quelante de hierro de alta pureza. Ideal para aplicaciones en la industria cosmética, farmacéutica y alimentaria, Ferrazone mejora la estabilidad y biodisponibilidad del hierro en tus productos. Su eficacia comprobada asegura resultados consistentes y una excelente absorción, ofreciendo una solución confiable para combatir deficiencias de hierro y potenciar la salud y bienestar. ¡Eleva la calidad de tus formulaciones con Ferrazone y ofrece productos de primer nivel a tus clientes!">
     <meta http-equiv="Expires" content="0">
     <meta http-equiv="Last-Modified" content="0">

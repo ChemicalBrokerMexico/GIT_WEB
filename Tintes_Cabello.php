@@ -3,8 +3,8 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-<meta name="description" content="Descubre los ingredientes esenciales utilizados en la formulación de tintes para cabello. Desde colorantes hasta agentes acondicionadores y estabilizantes, ofrecemos soluciones de alta calidad para lograr colores vibrantes y duraderos. ¡Explora nuestra gama de ingredientes especializados para la industria de tintes al mejor precio!.">
-<title>Chemical Broker | Tintes Cabello</title>
+<meta name="description" content="Desarrolla tintes y productos capilares premium con ingredientes especializados: color intenso, mayor duración y acabado profesional.">
+<title>Chemical Broker | Tintes Cabello | Proveedor Global y Nacional de Ingredientes Quimicos para la Industria de Cosmeticos y Cuidado Personal</title>
 <link rel="shortcut icon" href="img/CB_ICON.ico" />
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">

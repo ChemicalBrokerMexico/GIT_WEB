@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
     <title>Chemical Broker | Panificacion | Proveedor Global y Nacional de Ingredientes Quimicos para la Industria Alimentaria </title>
     <link rel="canonical" href="https://chemicalbroker.mx/Panificacion.php">
-    <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
+    <meta name="description" content="Proveemos ingredientes químicos de calidad para la industria de panificación: aditivos, mejoradores y conservantes que optimizan la textura, sabor y vida útil de panes y productos horneados."> -->
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
     <script>

@@ -3,7 +3,7 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-<title>Chemical Broker | Productos Químicos</title>
+<title>Chemical Broker | Productos Químicos | Proveedor Global y Nacional de Ingredientes Quimicos</title>
 <meta name="description" content="Chemical Broker, cuenta con las principales familias de ingredientes quimicos, para satisfacer las necesidades de sus socios de negocios a nivel global">
 <link rel="shortcut icon" href="img/CB_ICON.ico" />
 <link rel="canonical" href="https://chemicalbroker.mx/Productos_news.php">

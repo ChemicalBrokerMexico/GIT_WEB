@@ -3,8 +3,8 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <meta name="description" content="Descubre todo sobre el guacamole: origen, beneficios, ingredientes clave y tendencias. Aprende cómo se procesa y qué lo hace un alimento saludable y versátil. Ideal para amantes de la comida natural y saludable."> 
-    <title>Chemical Broker</title>
+    <meta name="description" content="Desarrolla salsas premium con ingredientes especializados: mejor consistencia, sabor intenso y calidad uniforme en cada producción."> 
+    <title>Chemical Broker | Salsas | Proveedor Global y Nacional de Ingredientes Quimicos para la Industria Alimentaria</title>
     <link rel="canonical" href="https://chemicalbroker.mx/Guacamole.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">

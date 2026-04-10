@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
 <meta name="description" content="Contamos con ingredientes quimicos para bloqueadores solares de alta eficacia: filtros UV, emolientes y estabilizantes que mejoran protección, textura y rendimiento en formulaciones cosmeticas avanzadas.">
-<title>Chemical Broker | Bloqueadores Solares Faciales</title>
+<title>Chemical Broker | Bloqueadores Solares Faciales | Proveedor Global y Nacional de Ingredientes Quimicos para la Industria de Cosmeticos y Cuidado Personal</title>
 <link rel="canonical" href="https://chemicalbroker.mx/Bloqueadores_Solares.php">
 <link rel="shortcut icon" href="img/CB_ICON.ico" />
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">

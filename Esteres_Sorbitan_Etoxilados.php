@@ -4,11 +4,10 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Ésteres de Sorbitan de Enfoque Químico | Proveedor Global</title>
-  <meta name="description" content="Descubre la calidad superior de nuestros ésteres de sorbitán, ideales para aplicaciones en la industria cosmética, farmacéutica y alimentaria. Nuestros productos garantizan una excelente estabilidad y rendimiento en emulsiones y formulaciones. Perfectos para mejorar la textura y la compatibilidad de tus productos, nuestros ésteres de sorbitán son la elección confiable para profesionales que buscan innovación y eficacia. ¡Potencia tus fórmulas con nuestros ésteres de sorbitán y marca la diferencia en tu sector!"> 
-  <link rel="canonical" href="https://chemicalbroker.mx/Esteres_Sorbitan.php">
+  <title>Chemical Broker | Ésteres de Sorbitan de Enfoque Químico | Proveedor Global y Nacional de Ingredientes Quimicos</title>
+  <meta name="description" content="Descubre la calidad superior de nuestros ésteres de sorbitán etoxilados, ideales para aplicaciones en la industria cosmética, farmacéutica y alimentaria. Nuestros productos garantizan una excelente estabilidad y rendimiento en emulsiones y formulaciones. Perfectos para mejorar la textura y la compatibilidad de tus productos, nuestros ésteres de sorbitán son la elección confiable para profesionales que buscan innovación y eficacia. ¡Potencia tus fórmulas con nuestros ésteres de sorbitán y marca la diferencia en tu sector!"> 
+  <link rel="canonical" href="https://chemicalbroker.mx/Esteres_Sorbitan_Etoxilados.php">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
-  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php"/>
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection"/>
@@ -594,7 +593,7 @@
     <div class="row">
         <div class="col s12 m12 l12 xl12">
 
-        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Esteres de Sorbitan Etoxilados | Tensoactivos No Ionicos</b></a></section>
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Products_news.php"><b class="Tipografia--general Subtitulos" style="color:black;">Productos > </b></a><a class="active" href="Esteres_Sorbitan_Etoxilados.php"><b class="Tipografia--general Subtitulos" style="color:red;">Esteres de Sorbitan Etoxilados | Tensoactivos No Ionicos</b></a></section>
 
        
         <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Esteres de Sorbitan Etoxilados | Tensoactivos No Iónicos</b></h2>

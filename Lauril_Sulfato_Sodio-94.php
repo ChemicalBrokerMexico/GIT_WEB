@@ -3,7 +3,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Lauril Sulfato de Sodio 94% del Fabricante KLK Oleo | Proveedor Global</title>
+    <title>Chemical Broker | Lauril Sulfato de Sodio 94% del Fabricante Stepan | Proveedor Global y Nacional de Ingredientes Quimicos</title>
     <meta name="description" content="El Lauril Sulfato de Sodio 94% es un alquilsulfato en forma de polvo. El producto pertenece a los tensoactivos de naturaleza aniónica con un alto contenido en sustancia activa de al menos el 94%.">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/Lauril_Sulfato_Sodio-94.php">
@@ -946,7 +946,6 @@
                 <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
     <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
 </a>
-
       
     
 
@@ -956,25 +955,25 @@
 
 </body>
 <footer style="margin-top:70px">
-    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
-            alt=""></div><br><br>
-    <div class="container-fluid" style="text-align:center;margin-top:-50px">
-        <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos
-            Reservados.
-            | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
-                href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download
-                style="color:black !important;font-size:16px">Politica de
-                Privacidad </a>
-            <script type="text/javascript" src="js/main.js"></script></a></strong>
-        </p>
-        <script type="text/javascript" src="js/Products.js"></script>
-        <script src="https://code.jquery.com/jquery-3.5.1.js"
+  <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
+      alt=""></div><br><br>
+  <div class="container-fluid" style="text-align:center;margin-top:-50px">
+    <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos Reservados.
+      | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
+        href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de
+        Privacidad </a>
+      <script type="text/javascript" src="js/main.js"></script></a></strong>
+    </p>
+    <script type="text/javascript" src="js/Products.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.js"
         integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="js/materialize.js" type="text/javascript"></script>
     <script src="js/init.js"></script>
+    <script type="text/javscript" src="js/materialize.min.js"></script>
     <script type="text/javascript"
         src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
-    </div>
+      
+  </div>
 </footer>
 
 </html>

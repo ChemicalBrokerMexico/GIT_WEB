@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Colágeno Hidrolizado de Halavet | Proveedor Global</title>
+  <title>Chemical Broker | Colágeno Hidrolizado de Halavet | Proveedor Global y Nacional de Ingredientes Quimicos</title>
   <meta name="description" content="Colageno Hidrolizado premium con alta absorcion y rendimiento, ideal para formulaciones nutraceuticas, suplementos, RTD y productos proteicos. Calidad industrial con trazabilidad y especificaciones garantizadas"> 
   <link rel="canonical" href="https://chemicalbroker.mx/Colageno_Hidrolizado.php">
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>

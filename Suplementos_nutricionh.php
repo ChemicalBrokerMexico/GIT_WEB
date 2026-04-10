@@ -3,15 +3,9 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
-    <title>Chemical Broker</title>
+    <meta name="description" content="Proveemos ingredientes químicos y materias primas de alta calidad para la industria de suplementos de nutrición humana. Garantizamos pureza, trazabilidad y cumplimiento normativo para impulsar el desarrollo de productos seguros y eficaces."> 
+    <title>Chemical Broker | Suplementos Nutricion Humana | Proveedor Global de Ingredientes Quimicos para la Industria Farmaceutica</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-
-   
- 
-    
-
-  
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}

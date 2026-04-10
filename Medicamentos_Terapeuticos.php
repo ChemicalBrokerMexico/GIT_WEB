@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
     <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos.">
-    <title>Chemical Broker | Medicamentos Terapeuticos para mascotas | Proveedor Global de Ingredientes Quimicos para la Industria Farmaceutica</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <title>Chemical Broker | Medicamentos Terapeuticos para mascotas | Proveedor Global de Ingredientes Quimicos para la Industria Veterinaria</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="Impulsa el desarrollo de medicamentos terapéuticos con ingredientes y excipientes grado farmacéutico de alta calidad. Ofrecemos soluciones confiables con trazabilidad, cumplimiento regulatorio y soporte técnico especializado para la industria farmacéutica.">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link rel="canonical" href="https://chemicalbroker.mx/Medicamentos_Terapeuticos.php">

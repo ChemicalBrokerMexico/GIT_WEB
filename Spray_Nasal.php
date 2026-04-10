@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Spray Nasal | Proveedor Global de Ingredientes Quimicos para la industria Farmaceutica </title>
+  <title>Chemical Broker | Spray Nasal | Proveedor Global y Nacional de Ingredientes Quimicos para la industria Farmaceutica </title>
   <meta name="description" content="Impulsa tus formulaciones con ingredientes de alta pureza para el mercado de sprays nasales. Ofrecemos excipientes y soluciones funcionales grado farmacéutico para aplicaciones OTC y prescripción, con trazabilidad, cumplimiento regulatorio y suministro confiable para la industria farmacéutica.">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <script>

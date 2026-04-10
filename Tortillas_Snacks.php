@@ -3,8 +3,8 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Tortillas & Snacks</title>
-    <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
+    <title>Chemical Broker | Tortillas & Snacks | Proveedor Global y Nacional de Ingredientes Quimicos para la Industria Alimentaria.</title>
+    <meta name="description" content="Desarrolla tortillas y snacks irresistibles con ingredientes premium: mayor vida útil, mejor textura y calidad consistente en cada producción."> 
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
     <script>

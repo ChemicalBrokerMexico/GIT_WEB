@@ -3,8 +3,8 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <meta name="description" content="Como proveedores de Materias primas e ingredientes quimicos para la industria alimentaria, ofrecemos emulsionantes, estabilizantes, acidulantes, espesantes, conservadores, antioxidantes y sistemas funcionales."> 
-    <title>Chemical Broker | Aderezos</title>
+    <meta name="description" content="Desarrolla aderezos premium con ingredientes especializados: mejor consistencia, sabor superior y calidad uniforme en cada producción."> 
+    <title>Chemical Broker | Aderezos | Proveedor Global y Nacional de Ingredientes Quimicos para la Industria Alimentaria</title>
     <link rel="canonical" href="https://chemicalbroker.mx/Aderezos.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">

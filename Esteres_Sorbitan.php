@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Ésteres de Sorbitan de Enfoque Químico</title>
+  <title>Chemical Broker | Ésteres de Sorbitan de Enfoque Químico | Proveedor Global y Nacional de Ingredientes Quimicos</title>
   <meta name="description" content="Descubre la calidad superior de nuestros ésteres de sorbitán, ideales para aplicaciones en la industria cosmética, farmacéutica y alimentaria. Nuestros productos garantizan una excelente estabilidad y rendimiento en emulsiones y formulaciones. Perfectos para mejorar la textura y la compatibilidad de tus productos, nuestros ésteres de sorbitán son la elección confiable para profesionales que buscan innovación y eficacia. ¡Potencia tus fórmulas con nuestros ésteres de sorbitán y marca la diferencia en tu sector!"> 
   <link rel="canonical" href="https://chemicalbroker.mx/Esteres_Sorbitan.php">
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>

@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Jarabes | Proveedor Global de Ingredientes Quimicos para la industria Farmaceutica</title>
+    <title>Chemical Broker | Jarabes | Proveedor Global y Nacional de Ingredientes Quimicos para la industria Farmaceutica</title>
     <meta name="description" content="Desarrolla jarabes farmacéuticos de alta calidad con nuestros excipientes e ingredientes grado farmacéutico. Ofrecemos soluciones funcionales para formulaciones pediátricas y adultas, con cumplimiento normativo, trazabilidad y suministro confiable para la industria farmacéutica.">
     <link rel="canonical" href="https://chemicalbroker.mx/Jarabes.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />

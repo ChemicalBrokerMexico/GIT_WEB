@@ -3,7 +3,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Butilhidroxianisol | Proveedor Global</title>
+  <title>Chemical Broker | Butilhidroxianisol (BHA) | Proveedor Global Y Nacional de Ingredientes Quimicos</title>
   <meta name="description" content="BHA (butilhidroxianisol) antioxidante de alta pureza para alimentos y nutricion animal. Protege grasas y aceites, previene oxidación y extiende la vida útil de tus formulaciones"> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/BHA.php">

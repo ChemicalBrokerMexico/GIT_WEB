@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Aceite de Coco RBD | Proveedor Global</title>
+  <title>Chemical Broker | Aceite de Coco RBD | Proveedor Global y Nacional de Ingredientes Quimicos</title>
   <meta name="description" content="El aceite de coco RBD (Refinado, Blanqueado y Desodorizado) es un tipo de aceite de coco que ha pasado por un proceso de refinación para eliminar impurezas olores y sabores fuertes."> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco_RBD.php">
@@ -585,7 +585,7 @@
         <div class="col s12 m12 l12 xl12">
 
         
-      <section style="margin-top:0px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Aceite de Coco RBD</b></a></section>
+      <section style="margin-top:0px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Products_news.php"><b class="Tipografia--general Subtitulos" style="color:black;">Productos > </b></a><a class="active" href="Aceite_Coco_RBD.php"><b class="Tipografia--general Subtitulos" style="color:red;">Aceite de Coco RBD</b></a></section>
 
 
         <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#071637;">Aceite de Coco RBD</b></h2>

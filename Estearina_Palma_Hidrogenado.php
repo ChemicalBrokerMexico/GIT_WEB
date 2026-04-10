@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Estearina de Palma</title>
+  <title>Chemical Broker | Estearina de Palma | Proveedor Global y Nacional de Ingredientes Quimicos</title>
   <meta name="description" content="Descubre nuestra esterina de palma hidrogenada de alta calidad, ideal para aplicaciones en la industria alimentaria y cosmética. Ofrecemos un producto confiable que mejora la estabilidad y textura de tus formulaciones. ¡Opta por nuestra esterina de palma para resultados consistentes y rendimiento superior en tus procesos!">
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
   <script>

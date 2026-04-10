@@ -3,9 +3,8 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
-    <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos.">
-    <title>Chemical Broker | Suplementos Nutricionales para Mascotas</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <meta name="description" content="Algunas organizaciones buscan vender mas, nosotros buscamos crecer en conjunto con nuestros socios de negocios, conoce nuestra marca.">
+    <title>Chemical Broker | Suplementos Nutricionales para Mascotas | Proveedor Global de Ingredientes Quimicos para la industria Veterinaria</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <meta name="description" content="Descubre el mercado de suplementos nutricionales para mascotas: productos diseñados para mejorar la salud, energía y longevidad de perros, gatos y otros animales, con opciones naturales y de calidad garantizada.">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/Suplementos_Nutricionales.php">
     <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>

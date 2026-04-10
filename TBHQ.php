@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Terbutilhidroquinona (TBHQ) | Proveedor Global</title>
+  <title>Chemical Broker | Terbutilhidroquinona (TBHQ) | Proveedor Global y Nacional de Ingredientes Quimicos</title>
   <meta name="description" content="Protege tus productos con TBHQ, un antioxidante altamente efectivo que prolonga la vida útil de alimentos, aceites y grasas. Ideal para aplicaciones alimentarias e industriales que exigen máxima calidad. ¡Compra TBHQ de alto rendimiento al mejor precio!"> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/TBHQ.php">
@@ -671,7 +671,7 @@
         <div class="row">
             <div class="col s12 m12 l12 xl12">
 
-            <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="TBHQ.php"><b class="Tipografia--general Subtitulos" style="color:red;">Terbutilhidroquinona (TBHQ)</b></a></section>
+            <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Products_news.php"><b class="Tipografia--general Subtitulos" style="color:black;">Productos > </b></a><a class="active" href="TBHQ.php"><b class="Tipografia--general Subtitulos" style="color:red;">Terbutilhidroquinona (TBHQ)</b></a></section>
 
                 <!-- <h5 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Butil Hidroxi Tolueno (BHT)</b></h5> -->
                 <p class="Tipografia--general letranegro General--Cuerpo">La <b>Ter-Butilhidroquinona (TBHQ, butilhidroquinona terciaria)</b> es un compuesto orgánico aromático sintético que es un tipo de fenol. Es un derivado de la hidroquinona, sustituido con un grupo terc-butilo.</p>
@@ -918,6 +918,9 @@
                             <a href="TBHQ_SHOP.php"><button class="btn" type="button" style="background-color:#071637;margin-top:30px;">Comprar Producto</button></a>
             </div>
 
+            <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
 
         </div>
 
@@ -925,16 +928,7 @@
 
     </div>
 
-    <div class="container">
-    <div class="row">
-        <div class="col s12 m12 l12 xl12">
-        <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank"><h2 class="Tipografia--general letranegro General--Cuerpo"><b><button class="btn" style="background-color:#071637;color:white;cursor:pointer;">Cotiza o Consulta con nosotros tu requerimiento</button> </b></h2></a>
-            <!-- <button style="background-color:#071637;color:white;width:100%;border-radius:15px;height:60px;">Contactenos</button> -->
-        </div>
-    </div>
-</div>
-</a>
-                
+      
                 </body>
 <footer style="margin-top:70px">
     <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"

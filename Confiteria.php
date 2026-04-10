@@ -3,8 +3,8 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <meta name="description" content="Venta de ingredientes químicos para la industria de confiteria que optimizan sabor, textura, color y vida util. Materias Primas de alta pureza para formulaciones premium.">
-    <title>Chemical Broker | Confiteria</title>
+    <meta name="description" content="Desarrolla productos de confitería irresistibles con ingredientes premium: mejor sabor, textura y presentación en cada elaboración.">
+    <title>Chemical Broker | Confiteria | Proveedor Global y Nacional de Ingredientes Quimicos para la Industria Alimentaria.</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">

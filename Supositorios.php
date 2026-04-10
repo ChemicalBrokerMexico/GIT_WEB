@@ -3,9 +3,9 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
+    <meta name="description" content="Suministro confiable de ingredientes químicos de alta calidad para la industria farmacéutica, especializados en la formulación de supositorios. Garantizamos pureza, cumplimiento normativo y disponibilidad constante para tus procesos de producción.">
     <link rel="canonical" href="https://chemicalbroker.mx/Inyectables.php">
-    <title>Chemical Broker | Supositorios</title>
+    <title>Chemical Broker | Supositorios | Proveedor Global de Ingredientes Quimicos para la industria Farmaceutica</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">

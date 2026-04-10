@@ -3,7 +3,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Jarabe de Maíz de Cargill | Proveedor Global</title>
+    <title>Chemical Broker | Jarabe de Maíz de Cargill | Proveedor Global y Nacional de Ingredientes Quimicos</title>
     <meta name="description" content="El Jarabe de Maíz es un edulcorante líquido, creado a partir del almidón o fécula de maíz. Con un rango de jarabes carbón-refinados, desmineralizados y de conversión enzimática los ingredientes ">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/Jarabe_Maiz.php">

@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <meta name="description" content="Ofrecemos acidulantes, endulzantes, estabilizantes, reguladores de pH, espesantes, clarificantes y conservadores que optimizan procesos clave como fermentación, estandarizacion de sabor y control microbiologico">
-    <title>Chemical Broker | Bebidas Alcoholicas</title>
+    <title>Chemical Broker | Bebidas Alcoholicas | Proveedor Global y Nacional de Ingredientes Quimicos para la Industria Alimentaria</title>
     <link rel="canonical" href="https://chemicalbroker.mx/Alcoholicas.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <script>

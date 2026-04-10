@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
 <meta name="description" content="Ingredientes para antitranspirantes de alta eficacia, como sales de aluminio y agentes funcionales. Mejora control de humedad y durabilidad en las formulaciones cosmeticas industriales">
-<title>Chemical Broker | Antitranspirante</title>
+<title>Chemical Broker | Antitranspirante | Proveedor Global y Nacional de Ingredientes Quimicos para la Industria de Cosmeticos y Cuidado Personal</title>
 <link rel="canonical" href="https://chemicalbroker.mx/Antitranspirante.php">
 <link rel="shortcut icon" href="img/CB_ICON.ico" />
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">

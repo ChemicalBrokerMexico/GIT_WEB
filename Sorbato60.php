@@ -3,9 +3,10 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Polisorbato 60</title>
-  <meta name="description" content="El Mono Estearato de Sorbitan, también conocido como Sorbato 60 o Span 60, es un emulsionante no iónico derivado del sorbitol y el ácido esteárico."> 
+  <title>Chemical Broker | Polisorbato 60 | Proveedor Global y Nacional de Ingredientes Quimicos</title>
+  <meta name="description" content="El Mono Estearato de Sorbitan 60, también conocido como Sorbato 60 o Span 60, es un emulsionante no iónico derivado del sorbitol y el ácido esteárico."> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
+  <link rel="canonical" href="https://chemicalbroker.mx/Sorbato60.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">

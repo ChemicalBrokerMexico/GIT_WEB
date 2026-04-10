@@ -3,7 +3,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Glicerinas / Glicerol de la mas alta calidad (Peter Cremer, Cremer Oleo, P&G, Oleon) | Proveedor Global</title>
+  <title>Chemical Broker | Glicerinas / Glicerol de la mas alta calidad (Peter Cremer, Cremer Oleo, P&G, Oleon) | Proveedor Global Y Nacional de Ingredientes Quimicos</title>
   <meta name="description" content="Compra Glicerina de alta calidad de fabricantes líderes como Peter Cremer, Oleon y P&G, aplicable para cualquier industria. ¡Cotiza ahora y asegura el mejor precio!"> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/Glycerins.php">

@@ -3,8 +3,8 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
-    <title>Chemical Broker</title>
+    <meta name="description" content="Desarrolla jugos premium con ingredientes de alto rendimiento: mejor sabor, estabilidad y calidad consistente en cada producción"> 
+    <title>Chemical Broker | Jugos | Proveedor Global y Nacional de Ingredientes Quimicos para la Industria Alimentaria</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
     <script>

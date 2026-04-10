@@ -3,8 +3,8 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Polisorbato 60 | Proveedor Global</title>
-  <meta name="description" content="Chemical Broker distribuye mundialmente Polisorbatos"> 
+  <title>Chemical Broker | Polisorbato 60 | Proveedor Global y Nacional de Ingredientes Quimicos</title>
+  <meta name="description" content="Polisorbato 60 de alta calidad: emulsificante y estabilizante ideal para aplicaciones alimentarias, cosméticas y farmacéuticas. Facilita la mezcla de ingredientes, mejora la textura y prolonga la estabilidad de tus formulaciones con resultados consistentes y confiables."> 
   <link rel="canonical" href="https://chemicalbroker.mx/Polisorbat_60.php">
   <script type="text/javascript"
     src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>

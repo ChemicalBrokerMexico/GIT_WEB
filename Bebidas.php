@@ -3,14 +3,10 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Bebidas</title>
+    <title>Chemical Broker | Bebidas | Proveedor Global y Nacional de Ingredientes Quimicos para la Industria Alimentaria</title>
     <link rel="canonical" href="https://chemicalbroker.mx/Bebidas.php">
     <meta name="description" content="Ofrecemos soluciones e ingredientes para bebidas que elevan el sabor, estabilidad y frescura. Acidulantes, endulzantes y aditivos de calidad industrial para formulaciones más seguras y competitivas ">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-   
-
-   
-
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
     <script>
       window.dataLayer = window.dataLayer || [];

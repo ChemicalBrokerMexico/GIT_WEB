@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <meta name="description" content="En la elaboracion de malvaviscos interviene el jarabe de maiz, Chemical Broker suministra a sus socios de negocio de dicho ingrediente">
-    <title>Chemical Broker</title>
+    <title>Chemical Broker | Bombones | Proveedor Global y Nacional de Ingredientes Quimicos para la Industria Alimentaria.</title>
     <link rel="canonical" href="https://chemicalbroker.mx/Bombones.php">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
     <script>

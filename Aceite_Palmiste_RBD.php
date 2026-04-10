@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Aceite de Palmiste RBD</title>
+  <title>Chemical Broker | Aceite de Palmiste RBD | Proveedor Global y Nacional de Ingredientes Quimicos</title>
   <meta name="description" content="El Aceite de palmiste de alta calidad, ideal para aplicaciones cosméticas, alimentarias e industriales. Rico en ácidos grasos y con excelente estabilidad. ¡Compra aceite de palmiste puro y versátil al mejor precio!"> 
   <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Palmiste_RBD.php">
   
@@ -535,7 +535,7 @@
         <div class="row">
             <div class="col s12 m12 l12 xl12">
 
-      <section style="margin-top:0px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Aceite de Palmiste RBD</b></a></section>
+      <section style="margin-top:0px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Products_news.php"><b class="Tipografia--general Subtitulos" style="color:red;"> Productos ></b></a><a class="active" href="Products_news.php"><b class="Tipografia--general Subtitulos" style="color:red;">Aceite de Palmiste RBD</b></a></section>
 
                 <p class="Tipografia--general letranegro General--Cuerpo">El <b>Aceite de Palmiste RBD (Refinado, Blanqueado y Desodorizado)</b> es un aceite vegetal obtenido a partir de la semilla o núcleo de la palma de aceite (Elaeis guineensis). Este aceite es diferente al aceite de palma, que se extrae de la pulpa del fruto. El término RBD indica que ha pasado por procesos de refinado, blanqueado y desodorizado para eliminar impurezas, colores y olores, haciéndolo más adecuado para aplicaciones industriales y alimenticias.</p>
 

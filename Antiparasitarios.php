@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Antiparasitarios</title>
+  <title>Chemical Broker | Antiparasitarios | Proveedor Global de Ingredientes Quimicos para la Industria Veterinaria</title>
   <meta name="description" content="Antiparasitarios de uso veterinario de alta eficacia para formuladores y laboratorios. Controla parasitos internos y externos con ingredientes activos seguros y de calidad industrial"> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/Antiparasitarios.php">

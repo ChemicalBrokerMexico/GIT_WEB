@@ -3,8 +3,8 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
-    <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos.">
-    <title>Chemical Broker | Vacunas</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <meta name="description" content="Proveemos ingredientes químicos y biológicos de alta calidad para la formulación de vacunas para mascotas. Garantizamos pureza, estabilidad y cumplimiento regulatorio para el desarrollo de soluciones seguras y eficaces en salud animal.">
+    <title>Chemical Broker | Vacunas | Proveedor Global de Ingredientes Quimicos para la Industria Veterinaria</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="Algunas organizaciones buscan vender mas, nosotros buscamos crecer en conjunto con nuestros socios de negocios, conoce nuestra marca.">
     <link rel="canonical" href="https://chemicalbroker.mx/Marca.php">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus"/>

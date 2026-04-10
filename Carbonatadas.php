@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <meta name="description" content="Soluciones químicas para bebidas carbonatadas: ácidos, aditivos, preservantes y mejoradores de sabor listos para producción industrial. Calidad certificada y suministro confiable.">
-    <title>Chemical Broker | Bebidas Carbonatadas</title>
+    <title>Chemical Broker | Bebidas Carbonatadas | Proveedor Global y Nacional de Ingredientes Quimicos para la Industria Alimentaria</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
     <script>

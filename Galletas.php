@@ -3,7 +3,7 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-<meta name="description" content="Encuentra insumos de calidad para la elaboración de galletas: ingredientes, materias primas y productos especializados para fabricantes, panaderías y negocios que buscan crear galletas deliciosas. 🍪">
+<meta name="description" content="Proveemos ingredientes y aditivos de calidad para la industria de galletas: mejoradores, conservantes y suplementos que garantizan textura, sabor y consistencia en cada producto horneado.">
 <title>Chemical Broker | Galletas | Proveedor Global y Nacional de Ingredientes Quimicos para la Industria Alimentaria </title>
 <link rel="shortcut icon" href="img/CB_ICON.ico" />
 <link rel="canonical" href="https://chemicalbroker.mx/Galletas.mx">

@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <meta name="description" content="Optimiza la fabricación de tabletas duras con excipientes grado farmacéutico de alta calidad. Ofrecemos aglutinantes, diluyentes, desintegrantes y lubricantes con trazabilidad, cumplimiento normativo y suministro confiable para procesos de compresión directa y granulación."> 
-    <title>Chemical Broker | Tabletas Duras | Proveedor Global de Ingredientes Quimicos para la industria Farmaceutica</title>
+    <title>Chemical Broker | Tabletas Duras | Proveedor Global y Nacional de Ingredientes Quimicos para la industria Farmaceutica</title>
     <link rel="canonical" href="https://chemicalbroker.mx/Tabletas_Duras.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <script>

@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Alcohol Isopropilico | Proveedor Global</title>
+  <title>Chemical Broker | Alcohol Isopropilico | Proveedor Global Y Nacional de Ingredientes Quimicos</title>
   <link rel="canonical" href="https://chemicalbroker.mx/Alcohol_Isopropilico.php">
   <meta name="description" content="Solución ideal para limpieza, desinfección y aplicaciones industriales. Alto poder limpiador y rápida evaporación, perfecto para el hogar, cuidado personal e industrias especializadas. ¡Compra alcohol isopropílico de máxima pureza y potencia al mejor precio!."> 
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>

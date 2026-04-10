@@ -3,8 +3,8 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker</title>
-    <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
+    <title>Chemical Broker | Salsas & Aderezos | Proveedor Global y Nacional de Ingredientes Quimicos para la Industria Alimentaria</title>
+    <meta name="description" content="Compra ingredientes para salsas y aderezos: aditivos de grado alimenticio que mejoran textura, sabor y conservación."> 
     <link rel="canonical" href="https://chemicalbroker.mx/Salsas_Aderezos.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <script>

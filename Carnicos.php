@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
 <meta name="description" content="Soluciones químicas para la industria cárnica: aditivos, antioxidantes, sales funcionales y mejoradores para procesos de embutidos, curados y productos frescos. Suministro confiable.">
 <link rel="canonical" href="https://chemicalbroker.mx/Carnicos.php">
-<title>Chemical Broker | Carnicos</title>
+<title>Chemical Broker | Carnicos | Proveedor Global y Nacional de Ingredientes Quimicos para la Industria Alimentaria.</title>
 <link rel="shortcut icon" href="img/CB_ICON.ico" />
 
 

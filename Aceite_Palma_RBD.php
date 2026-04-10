@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Aceite de Palma RBD | Proveedor Global</title>
+  <title>Chemical Broker | Aceite de Palma RBD | Proveedor Global y Nacional de Ingredientes Quimicos</title>
   <meta name="description" content="El Aceite de palma RBD de alta pureza, perfecto para aplicaciones alimentarias e industriales. Refinado, blanqueado y desodorizado para un sabor neutro y alta estabilidad. ¡Compra aceite de palma de calidad premium al mejor precio!"> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Palma_RBD.php">
@@ -572,7 +572,7 @@
         <div class="row">
             <div class="col s12 m12 l12 xl12">
 
-      <section style="margin-top:0px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Aceite_Maiz.php"><b class="Tipografia--general Subtitulos" style="color:red;">Aceite de Palma RBD</b></a></section>
+      <section style="margin-top:0px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Products_news.php"><b class="Tipografia--general Subtitulos" style="color:black;">Productos > </b></a><a class="active" href="Aceite_Palma_RBD.php"><b class="Tipografia--general Subtitulos" style="color:red;">Aceite de Palma RBD</b></a></section>
     
 
             <h2 class="Tipografia--general letranegro Titulos"><b style="color:#071637;">Aceite de Palma RBD</b></h2>
