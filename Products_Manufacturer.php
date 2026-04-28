@@ -100,13 +100,13 @@ while($row = $resultado->fetch_assoc()){
         }
 
         /* Overlay oscuro degradado */
-        /* .overlay {
+        .overlay {
             position: absolute;
             inset: 0;
             background: linear-gradient(to top,
                     rgba(0, 0, 0, 0.6),
                     rgba(0, 0, 0, 0.1));
-        } */
+        } 
 
         /* Texto */
         .contenido {

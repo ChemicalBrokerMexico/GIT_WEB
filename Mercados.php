@@ -381,7 +381,7 @@
         <ul class="slides slides-pruea">
           <li><img src="img/CB_MARKETS_200422.jpg" style="height:800px;filter: brightness(0.8);" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px"></b>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br><b>Mercados</b></h1><b class="segundotitulo" style="font-size:26px"></b>
               <div class="container">
     </div>
             </div>
@@ -614,7 +614,7 @@
 
       <!-- ICONO -->
       <div class="icon-circle">
-        <i class="fa-solid fa-cow"></i>
+      <i class="fa-solid fa-paw"></i>
       </div>
 
       <!-- CONTENIDO -->
