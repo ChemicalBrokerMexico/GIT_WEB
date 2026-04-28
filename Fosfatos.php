@@ -264,7 +264,7 @@
 <div style="display:flex;justify-content:center"> 
 <p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
 </div></a> -->
-<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
+<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;">search</i></a></li>
 </ul>
 <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i class="material-icons search-mobile-icon search-top-mobile" style="width:0px">search</i></a></div>
 </div>
@@ -551,7 +551,7 @@
             </ol>
             </div> -->
     <div class="row" style="margin-top:50px;">
-    <div class="col s12 m6 l12 xl12">
+    <div class="col s12 m12 l12 xl12">
       <div class="card">
         <div class="card-image">
           <center><img src="img/FOSFATOS_PRODUDCTOS_110724.jpg" style="width: 100%;border-radius:15px;"></center>
@@ -564,7 +564,7 @@
             <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo"><a href="Fosfato_Dicalcico_Anhidro.php" style="color: blue;">Fosfato Dicalcico Anhidro</a></li>
             <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo"><a href="Fosfato_Dicalcico_Dihidratado.php" style="color: blue;">Fosfato Dicalcico Dihidratado</a></li>
             <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo"><a href="Fosfatos_Tricalcico.php" style="color: blue;">Fosfato Tricalcico</a></li>
-            <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo">Pirofosfato Acido de Calcio</li>
+            <!-- <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo">Pirofosfato Acido de Calcio</li> -->
             <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo"><a href="Fosfato_Monosodico_Anhidro.php" style="color: blue;">Fosfato Monosodico Anhidro</a></li>
             <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo"><a href="Fosfato_Monosodico_Monohidratado.php" style="color: blue;">Fosfato Monosodico Monohidratado</a></li>
             <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo"><a href="Fosfato_Disodico_Anhidro.php" style="color: blue;">Fosfato Disodico Anhidro</a></li>
@@ -573,7 +573,7 @@
             <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo"><a href="Fosfato_Trisodico_Dodecahidratado.php" style="color: blue;">Fosfato Trisodico Dodecahidratado</a></li>
             <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo"><a href="Pirofosfato_Tetrasodico_Anhidro.php" style="color: blue;">Pirofosfato Tetrasodico Anhidro</a></li>
             <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo"><a href="Pirofosfato_Acido_Sodio.php" style="color: blue;">Pirofosfato Acido de Sodio</a></li>
-            <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo">Tripolifosfato de Sodio</li>
+            <!-- <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo">Tripolifosfato de Sodio</li>
             <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo">Hexametafosfato de Sodio</li>
             <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo">Trimetafosfato de Sodio</li>
             <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo">Pirofosfato Acido Trisodico</li>
@@ -586,7 +586,7 @@
             <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo">Tripolifosfato de Potasio</li>
             <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo">Polimetafosfato de Potasio</li>
             <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo">Fosfato Mono Amónico</li>
-            <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo">Fosfato Di amónico</li>
+            <li style="list-style-type:disc;" class="Tipografia--general letranegro General--Cuerpo">Fosfato Di amónico</li> -->
         </ol>
         </div>
       
@@ -603,30 +603,41 @@
     <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
 </a>
 
-<footer class="altofooter">
-<div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg" alt="ESCUDO DE C&E"></div><br><br>
-<div class="container-fluid center-align" style="margin-top:-50px">
-<p class="Tipografia--general letranegro center-align Pie--Pagina">© 2014 | Chemical Broker Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto |&nbsp</a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad </a></p>
-</div>
-</footer>
-
-
-<!-- Start of HubSpot Embed Code -->
-<script type="text/javascript" id="hs-script-loader" async defer src="//js-na1.hs-scripts.com/43785156.js"></script>
-<script src="js/Traduccion.js"></script>
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
-    <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-
+<footer style="margin-top:70px">
+  <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
+      alt=""></div><br><br>
+  <div class="container-fluid" style="text-align:center;margin-top:-50px">
+    <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos Reservados.
+      | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
+        href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de
+        Privacidad </a>
+      <script type="text/javascript" src="js/main.js"></script></a></strong>
+    </p>
+    <script type="text/javascript" src="js/Products.js"></script>
+    <link rel="shortcut icon" href="img/CB_ICON.ico" />
+  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-    <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
-    <script src="js/materialize.js?n=1" type="text/javascript"></script>
-    <script src="js/init.js?n=1"></script>
-    <script type="text/javascript" src="js/main.js"></script>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.js"
+  <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+    crossorigin="anonymous"></script>
+  <script src="js/materialize.js" type="text/javascript"></script>
+  <script src="js/init.js"></script>
+
+  <script type="text/javscript" src="js/materialize.min.js"></script>
+  <script type="text/javascript"
+    src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+    <!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js-na1.hs-scripts.com/43785156.js"></script>
+<script src="js/Traduccion.js"></script>
 <!-- End of HubSpot Embed Code -->
+<a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
+  </div>
+</footer>
 </body>
 </html>

@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Sulfosuccinatos | Proveedor Global</title>
+  <title>Chemical Broker | Sulfosuccinatos | Proveedor Global y Nacional de Ingredientes Quimicos</title>
   <meta name="description" content="Descubre los usos, beneficios y aplicaciones de los sulfosuccinatos en nuestra completa guía. Los sulfosuccinatos son compuestos químicos versátiles ampliamente utilizados en diversas industrias, desde productos de cuidado personal hasta aplicaciones industriales. Conoce más sobre cómo los sulfosuccinatos pueden mejorar tus productos y procesos aquí."> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/Sulfosuccinatos.php">
@@ -348,7 +348,7 @@
 <div style="display:flex;justify-content:center"> 
 <p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
 </div></a> -->
-<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
+<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;">search</i></a></li>
 </ul>
       <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i
             class="material-icons search-mobile-icon margin-left-search-mobile-icon" style="width:0px">search</i></a></div>
@@ -561,24 +561,25 @@
 
   <div class="row">
     <div class="col s12 m12 l12 xl12">
-    <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Sulfosuccionatos</b></a></section>
+    <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a href="index.php" style="color:black !important;"><b>Productos&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Sulfosuccionatos</b></a></section>
     </div>
   </div>
 
     <div class="row">
-        <div class="col s12 m12 l12 xl12 center-align">
+        <div class="col s12 m12 l12 xl12">
 
       
 
-            <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:white;background-color:black;padding:30px;display:inline-block;width:1160px;text-align:center;font-size:32px;">Sulfosuccinatos</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo pleca-sulfosuccinatos"><b style="color:white;background-color:black;padding:30px;display:inline-block;text-align:center;font-size:32px;">Sulfosuccinatos</b></h2>
             <p class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;">¿Buscas una solución efectiva para la limpieza y emulsificación de aceites y grasas?</p>
             <h2 class="letranegro General--Cuerpo Tipografia--general" style="color:#008080;margin-top:50px;text-align: center;font-size:30px;"><b>¡Tenemos la respuesta para Ti!</b></h2>
             <p class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;">Los sulfossucinatos son una clase de surfactantes aniónicos utilizados en una variedad de aplicaciones industriales y de cuidado personal. Estos compuestos se derivan del acido succínico y se caracterizan por tener grupos sulfonato como grupos funcionales principales.</p>
             <p class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;">Introducimos nuestros sulfosuccinatos de alta calidad, agentes tensoactivos de ultima generación diseñados para ofrecer resultados superiores en una amplia gama de aplicaciones industriales y de cuidado personal.</p>
             <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;text-align: center;font-size:30px;"><b style="color:#008080;">Los Sulfosuccionatos son conocidos por su capacidad de proporcionar propiedades de limpieza y espuma.</b></h2>
+
             <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:black;">Aplicaciones</b></h2>
-            <div class="col s12 m12 l6 xl6 center-align">
-                <h2 class="letranegro General--Cuerpo Tipografia--General" style="text-align:center"><b>Cuidado Personal</b></h2>
+            <div class="col s12 m12 l12 xl12">
+                <h2 class="letranegro General--Cuerpo Tipografia--General"><b>Cuidado Personal</b></h2>
                 <ol>
                     <li style="list-style-type:disc;color:#A6A6A6;">Champus</li>
                     <li style="list-style-type:disc;color:#A6A6A6;">Acondicionadores</li>
@@ -591,8 +592,8 @@
                     <li style="list-style-type:disc;color:#A6A6A6;">Cremas y Lociones</li>
                 </ol>
             </div>
-            <div class="col s12 m12 l6 xl6">
-                <h2 class="letranegro General--Cuerpo Tipografia--General" style="text-align:center"><b>Detergentes</b></h2>
+            <div class="col s12 m12 l12 xl12">
+                <h2 class="letranegro General--Cuerpo Tipografia--General"><b>Detergentes</b></h2>
                 <ol>
                     <li style="list-style-type:disc;color:#A6A6A6;">Detergentes Liquidos</li>
                     <li style="list-style-type:disc;color:#A6A6A6;">Detergente en Polvo</li>
@@ -601,14 +602,14 @@
                     <li style="list-style-type:disc;color:#A6A6A6;">Limpiadores de Superficies</li>
                 </ol>
             </div>
-            <div class="col s12 m12 l6 xl6" style="margin-top:50px; ">
-                <h2 class="letranegro General--Cuerpo Tipografia--General" style="text-align:center;margin-top:60px;"><b>Minería</b></h2>
+            <div class="col s12 m12 l12 xl12" style="margin-top:0px; ">
+                <h2 class="letranegro General--Cuerpo Tipografia--General"><b>Minería</b></h2>
                 <ol>
                     <li style="list-style-type:disc;color:#A6A6A6;">Agentes Espumantes en el Proceso de Flotacion de Minerales</li>
                 </ol>
             </div>
-            <div class="col s12 m12 l6 xl6">
-                <h2 class="letranegro General--Cuerpo Tipografia--General" style="text-align:center"><b>Química</b></h2>
+            <div class="col s12 m12 l12 xl12">
+                <h2 class="letranegro General--Cuerpo Tipografia--General"><b>Química</b></h2>
                 <ol>
                     <li style="list-style-type:disc;color:#A6A6A6;">Produccion de Emulsiones</li>
                     <li style="list-style-type:disc;color:#A6A6A6;">Produccion de Agentes Humectantes</li>
@@ -633,12 +634,12 @@
             <li style="color:black;list-style-type: disc;margin-top:30px;">Lauril sulfosuccinato di sodico</li>
             <li style="color:black;list-style-type: disc;margin-top:30px;">Síntesis de otros sulfosuccinatos a partir de alcoholes grasos, amidas y etoxilados, etc.</li>
         </ol>
-        <h2 class="letranegro General--Cuerpo Tipografia--General"><b>¿Por qué elegir nuestros Sulfosuccinatos?</b></h2>
+        <h2 class="letranegro General--Cuerpo Tipografia--General" style="margin-top:50px;"><b>¿Por qué elegir nuestros Sulfosuccinatos?</b></h2>
         <p class="letranegro General--Cuerpo Tipografia--General">Por que ofrecemos productos de alta calidad; fabricados bajo estrictos estándares de calidad para garantizar la máxima eficiencia y seguridad en tus aplicaciones.</p>
         <h2 class="letranegro General--Cuerpo Tipografia--General" style="margin-top:50px;">¡No esperes mas!</h2>
-        <h2 class="letranegro General--Cuerpo Tipografia--General"><b style="color:#071637;">Eleva tus productos y procesos al siguiente nivel con nuestros Sulfosuccinatos de alta calidad. ¡haz tu pedido ahora y experimenta la diferencia!</b></h2>
-        <p class="letranegro General--Cuerpo Tipografia--General">Para mas información, ¡contactanos hoy mismo!</p>
-        <p class="letranegro General--Cuerpo Tipografia--General">Telefono: +52.55.4438.7996 | Correo Electronico: <b style="color:#0563C1;">sales@chemicalbroker.mx</b></p>
+        <h2 class="letranegro General--Cuerpo Tipografia--General" style="margin-top:50px;"><b style="color:#071637;">Eleva tus productos y procesos al siguiente nivel con nuestros Sulfosuccinatos de alta calidad. ¡haz tu pedido ahora y experimenta la diferencia!</b></h2>
+        <p class="letranegro General--Cuerpo Tipografia--General" style="margin-top:50px;">Para mas información, ¡contactanos hoy mismo!</p>
+        <p class="letranegro General--Cuerpo Tipografia--General" style="margin-top:50px;">Telefono: +52.55.1524.2685 | Correo Electronico: <b style="color:#0563C1;">sales@chemicalbroker.mx</b></p>
         </div>
 
         <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
@@ -661,17 +662,29 @@
       <script type="text/javascript" src="js/main.js"></script></a></strong>
     </p>
     <script type="text/javascript" src="js/Products.js"></script>
-    <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
-  <script src="js/materialize.js" type="text/javascript"></script>
-  <script src="js/init.js"></script>
-  <script type="text/javscript" src="js/materialize.min.js"></script>
-  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+    <link rel="shortcut icon" href="img/CB_ICON.ico" />
+  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.js"
+  <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+    crossorigin="anonymous"></script>
+  <script src="js/materialize.js" type="text/javascript"></script>
+  <script src="js/init.js"></script>
+
+  <script type="text/javscript" src="js/materialize.min.js"></script>
+  <script type="text/javascript"
+    src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+    <!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js-na1.hs-scripts.com/43785156.js"></script>
+<script src="js/Traduccion.js"></script>
+<!-- End of HubSpot Embed Code -->
+<a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
   </div>
 </footer>
-
 </html>

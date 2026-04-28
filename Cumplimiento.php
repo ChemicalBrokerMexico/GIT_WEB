@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
 <meta name="description" content="El Area de Cumplimiento de Chemical Broker Permite Identificar los posibles riesgos de incumplimiento a los que se enfrenta la empresa">
-<title>Chemical Broker | Cumplimiento</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+<title>Chemical Broker | Cumplimiento | Proveedor Global y Nacional de Ingredientes Quimicos</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
 <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">
@@ -403,9 +403,9 @@ gtag('config', 'G-SGJQ8FDDJ6');
 </p>
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;">En este espacio, queremos compartir con ustedes el compromiso de nuestra organización con la excelencia en la calidad, seguridad y sostenibilidad en la comercialización de productos químicos. </p>
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px;">Nuestras certificaciones son un testimonio de nuestro compromiso con los más altos estándares internacionales en la gestión de la calidad y demuestra nuestra dedicación en ofrecer productos y servicios confiables y seguros para nuestros clientes y proveedores.</p>
-<h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#071637;">Certificaciones de Chemical Broker:</b></h2>
+<!-- <h2 class="Tipografia--general letranegro General--Cuerpo"><b style="color:#071637;">Certificaciones de Chemical Broker:</b></h2> -->
 <ol>
-    <li class="Elementos--Listas" style="color:#0000FF;"><a href="PDF/DNV_CERTIFICADO-ISO-9001-2015" style="cursor:pointer;color:black;" class="arrowblue" download>ISO 9001</li></a>
+    <!-- <li class="Elementos--Listas" style="color:#0000FF;"><a href="PDF/DNV_CERTIFICADO-ISO-9001-2015" style="cursor:pointer;color:black;" class="arrowblue" download>ISO 9001</li></a> -->
     <!-- <li class="Elementos--Listas" style="color:#0000FF;">Ecovadis Bronce</li> -->
 </ol>
 <p class="Tipografia--general letranegro General--Cuerpo" style="color:#071637;margin-top:30px;">Para <b style="color:#071637;">Chemical Broker</b>, una gestión integral y eficiente tiene como resultado la excelencia en nuestros productos y servicios para todos y cada uno de nuestros socios de negocios.</p>
@@ -654,7 +654,7 @@ gtag('config', 'G-SGJQ8FDDJ6');
 <footer class="altofooter">
 <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg" alt=""></div><br><br>
 <div class="container-fluid center-align" style="margin-top:-50px">
-<p class="Tipografia--general letranegro center-align Pie--Pagina">© 2014 C&amp;E | Chemical Broker Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto |&nbsp;</a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download="" style="color:black !important;font-size:16px">Politica de Privacidad 
+<p class="Tipografia--general letranegro center-align Pie--Pagina">© 2014 Chemical Broker Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto |&nbsp;</a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download="" style="color:black !important;font-size:16px">Politica de Privacidad 
 <script type="text/javascript" src="js/main.js"></script></a></p>
 </div>
 </footer>

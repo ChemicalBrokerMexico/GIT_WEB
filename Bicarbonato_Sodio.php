@@ -349,7 +349,7 @@
 <div style="display:flex;justify-content:center"> 
 <p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
 </div></a> -->
-<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
+<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;">search</i></a></li>
 </ul>
       <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i
             class="material-icons search-mobile-icon margin-left-search-mobile-icon" style="width:0px">search</i></a></div>
@@ -987,6 +987,12 @@
   
 
   </div>
+
+
+  <!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js-na1.hs-scripts.com/43785156.js"></script>
+<script src="js/Traduccion.js"></script>
+<!-- End of HubSpot Embed Code -->
 
   <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
     <i class="fa fa-whatsapp" style="margin-top:16px;"></i>

@@ -357,7 +357,7 @@
 <div style="display:flex;justify-content:center"> 
 <p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
 </div></a> -->
-<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
+<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;">search</i></a></li>
 </ul>
       <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i
             class="material-icons search-mobile-icon margin-left-search-mobile-icon" style="width:0px">search</i></a></div>
@@ -839,9 +839,9 @@
           <li class="Elementos--Listas">Cigarros Electrónicos</li>
         </ol>
 
-        <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Presentaciones</b></h2>
+        <!-- <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Presentaciones</b></h2>
 
-        <a class="waves-effect waves-light btn" style="background-color:#071637;" href="Glicerina_99.7_Shop.php">Glicerina 99.7%</a>
+        <a class="waves-effect waves-light btn" style="background-color:#071637;" href="Glicerina_99.7_Shop.php">Glicerina 99.7%</a> -->
       </div>
       <!-- <div class="col s12 m6 l6 xl6">
 <img src="img/TABACO.jpg" alt="" width="100%" style="border-radius:10px;">
@@ -867,14 +867,29 @@
       <script type="text/javascript" src="js/main.js"></script></a></strong>
     </p>
     <script type="text/javascript" src="js/Products.js"></script>
+    <link rel="shortcut icon" href="img/CB_ICON.ico" />
+  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <script src="https://code.jquery.com/jquery-3.5.1.js"
-        integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
-    <script src="js/materialize.js" type="text/javascript"></script>
-    <script src="js/init.js"></script>
-    <script type="text/javscript" src="js/materialize.min.js"></script>
-    <script type="text/javascript"
-        src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
-      
+  <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+    crossorigin="anonymous"></script>
+  <script src="js/materialize.js" type="text/javascript"></script>
+  <script src="js/init.js"></script>
+
+  <script type="text/javscript" src="js/materialize.min.js"></script>
+  <script type="text/javascript"
+    src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+    <!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js-na1.hs-scripts.com/43785156.js"></script>
+<script src="js/Traduccion.js"></script>
+<!-- End of HubSpot Embed Code -->
+<a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
   </div>
 </footer>
 

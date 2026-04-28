@@ -17,7 +17,8 @@ SELECT
     s.nombre_segmento,
     i.id_industria,
     i.nombre_industria,
-    p.Link_Web
+    p.Link_Web,
+    p.ruta_documentos
 FROM productos p
 INNER JOIN segmentos s ON p.id_segmento = s.id_segmento
 INNER JOIN industrias i ON s.id_industria = i.id_industria
@@ -200,10 +201,12 @@ while($row = $resultado->fetch_assoc()){
 
 .card-producto .card-action {
     padding: 16px 24px;
+    width: 100%;
 }
 
 .card-producto .card-action .row {
     margin-bottom: 0;
+    width: 100%;
 }
 
 .card-producto img {
@@ -822,12 +825,11 @@ while($row = $resultado->fetch_assoc()){
         <div class="row">
             <div class="col s12 m12 l12 xl12">
 
-              <section style="margin-top:20px"><a class="active" href="index.php" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Products_Manufacturer.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Productos & Fabricantes  </b></a></section>
+              <section style="margin-top:20px"><a class="active" href="index.php" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Products_news.php" style="color:black !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Productos ></b></a> <a class="breditem active" href="Products_Manufacturer.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Productos & Fabricantes  </b></a></section>
 
                 <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Escoja un Sector de Negocio</b></h2>
 
 
-                
                 <div class="col s12 m12 l3 xl3 ">
 
                     <div class="card-industria" data-industria="1" data-segmento="3" data-nindustria="Farmaceutica" data-color="#0066FF"
@@ -837,7 +839,7 @@ while($row = $resultado->fetch_assoc()){
                             defaultMuted playsinline>
 
 
-                            <source class="mercadosimagen" src="VIDEO/QUIMICO.mp4" type="video/mp4">
+                            <source class="mercadosimagen" src="VIDEO/Farma.mp4" type="video/mp4">
                         </video>
 
                         <div class="overlay"></div>
@@ -1133,9 +1135,17 @@ document.addEventListener("DOMContentLoaded", function(){
 
 let industriaSeleccionada = null;
 let segmentoSeleccionado = null;
+let industriaNombreSeleccionada = null;
 
 const contenedorFiltros = document.getElementById("Contenedor_Filtros");
 const contenedorProductos = document.getElementById("Contenedor_Productos");
+
+// ===============================
+// INICIALIZAR MODAL
+// ===============================
+const modals = document.querySelectorAll('.modal');
+M.Modal.init(modals);
+
 
 // ===============================
 // CLICK EN INDUSTRIA
@@ -1149,7 +1159,8 @@ document.querySelectorAll(".card-industria").forEach(card => {
 
         this.classList.add("activa");
 
-        industriaSeleccionada = this.dataset.industria; // YA NO Number()
+        industriaSeleccionada = this.dataset.industria;
+        industriaNombreSeleccionada = this.dataset.nombre; // IMPORTANTE
 
         segmentoSeleccionado = null;
 
@@ -1217,37 +1228,25 @@ function renderProductos() {
     });
 
     if(productosFiltrados.length === 0){
-
-contenedorProductos.innerHTML = `
-    <div style="width:100%; text-align:center; margin-top:40px;">
-        <p class="Tipografia--general letranegro General--Cuerpo">
-            No hay productos disponibles
-        </p>
-    </div>
-`;
-
-return;
-}
+        contenedorProductos.innerHTML = `
+        <div style="width:100%; text-align:center; margin-top:40px;">
+            <p>No hay productos disponibles</p>
+        </div>`;
+        return;
+    }
 
     productosFiltrados.forEach(prod => {
 
         const div = document.createElement("div");
-        div.style.marginTop = "20px"
-        div.classList.add("card-producto");
-
-        div.classList.add("card", "hoverable");
-
-        div.classList.add("card", "hoverable");
-
+        div.style.marginTop = "20px";
         div.classList.add("card", "hoverable", "card-producto");
 
-div.innerHTML = `
+        div.innerHTML = `
 
 <div class="card-content">
 
     <div class="row valign-wrapper" style="margin-bottom:0;">
 
-        <!-- LADO IZQUIERDO -->
         <div class="col s12 m6 l8 xl8">
 
             <div class="chip orange lighten-5 orange-text text-darken-4">
@@ -1258,26 +1257,19 @@ div.innerHTML = `
                 ${prod.nombre_producto}
             </span>
 
-            <p class="grey-text text-darken-1" style="margin-top:6px;margin:0;word-wrap:break-word;overflow-wrap:break-word;text-align:justify">
+            <p class="grey-text text-darken-1" style="margin:0;text-align:justify">
                 ${prod.descripcion}
             </p>
 
-            <a href="${prod.Link_Web}" class="blue-text text-darken-2" style="margin-top:6px; display:inline-block;">
+            <a href="${prod.Link_Web}" class="blue-text text-darken-2">
                 Ver detalles →
             </a>
 
-            <div class="contenedor" style="display:flex;align-items:stretch;">
-            <div class="linea-vertical" style="width:1px;background-color:red;margin:0 20px"></div>
         </div>
 
-        </div>
-
-      
-
-        <!-- LOGO DERECHA -->
-        <div class="col s12 m6 l4 xl4">
+        <div class="col s12 m6 l4 xl4 center-align">
             ${prod.imagen 
-                ? `<img src="${prod.imagen}">`
+                ? `<img src="${prod.imagen}" style="max-width:100%; max-height:120px; object-fit:contain;">`
                 : ""}
         </div>
 
@@ -1287,40 +1279,214 @@ div.innerHTML = `
 
 <div class="divider"></div>
 
-<div class="card-action grey lighten-5" style="width:1255px">
+<div class="card-action grey lighten-5">
 
-    <div class="row valign-wrapper">
+    <a href="descargar_doctos.php?producto=${prod.ruta_documentos}" 
+       class="btn-small"
+       style="margin-right:10px;border-radius:15px;background-color:#071637;">
+       Descargar documentos
+    </a>
 
-        <div class="col s12 m12 l12 xl12">
-            <a class="btn-small waves-effect waves-light grey lighten-4 white-text text-darken-4" style="margin-right:50px;border-radius:15px;background-color:#071637 !important;">
-                Descargar documentos
-            </a>
+    <a class="btn-small modal-trigger"
+       href="#modalMuestra"
+       data-producto="${prod.nombre_producto}"
+       style="margin-right:10px;border-radius:15px;background-color:#071637;">
+       Solicitar muestra
+    </a>
 
-            <a class="btn-small waves-effect waves-light grey lighten-4 white-text text-darken-4" style="margin-right:50px;border-radius:15px;background-color:#071637 !important;">
-                Solicitar muestra
-            </a>
+    <a class="btn-small" href="https://wa.me/525615242686?text=Hola,%20quiero%20cotizar%20productos%20químicos"
+       style="margin-right:10px;border-radius:15px;background-color:#071637;">
+       Solicitar cotización
+    </a>
 
-            <a class="btn-small waves-effect waves-light grey lighten-4 white-text text-darken-4" style="margin-right:50px;border-radius:15px;background-color:#071637 !important;">
-                Solicitar cotización
-            </a>
-            <a class="btn-small waves-effect waves-light grey lighten-4 white-textt text-darken-4" style="margin-right:50px;border-radius:15px;background-color:#071637 !important;">
-                Obtenga asistencia
-            </a>
-        </div>
-
-      
-    </div>
+   
 
 </div>
 `;
 
         contenedorProductos.appendChild(div);
     });
+
 }
 
 });
 
+
+// ===============================
+// CAPTURAR PRODUCTO AL ABRIR MODAL
+// ===============================
+document.addEventListener("click", function(e){
+
+    const btn = e.target.closest(".modal-trigger");
+    if(!btn) return;
+
+    const producto = btn.dataset.producto;
+
+    document.getElementById("producto_nombre").value = producto;
+
+});
+
+
+// ===============================
+// ENVIAR FORMULARIO A BD
+// ===============================
+document.addEventListener("submit", function(e){
+
+    if(e.target.id !== "formMuestra") return;
+
+    e.preventDefault();
+
+    const data = new FormData(e.target);
+
+    fetch("descargar.php", {
+        method: "POST",
+        body: data
+    })
+    .then(res => res.text())
+    .then(respuesta => {
+
+        console.log(respuesta);
+
+        M.toast({html: 'Solicitud enviada correctamente'});
+
+        e.target.reset();
+    })
+    .catch(error => {
+        console.error(error);
+        M.toast({html: 'Error al enviar'});
+    });
+
+});
+
 </script>
+
+<script>
+        document.addEventListener('DOMContentLoaded', function(){
+            const modals = document.querySelectorAll('modal');
+            M.Modal.init(modals);
+        });
+
+
+    </script>
+
+
+<div id="modalMuestra" class="modal modal-fixed-footer modal-corporativo">
+
+    <div class="modal-content">
+
+        <!-- HEADER -->
+        <div class="header-modal">
+            <div class="header-info">
+            <div class="header-logo">
+                <center><img src="img/IMAGOTIPO_WEB.jpg" alt="Chemical Broker" width="50%" style="display:flex;justify-content:center;"></center>
+            </div>
+                <center><h5 class="subtitulo" style="color:black;">Solicitud de muestra</h5></center>
+            </div>
+
+           
+        </div>
+
+        <!-- FORM -->
+        <div class="row">
+            <form id="formMuestra" method="POST" action="descargar.php"  class="col s12 m12 l12 xl12">
+
+                
+
+                <!-- EMPRESA -->
+
+                <div class="row">
+
+
+                <div class="input-field col s12 m12 l6 xl6">
+
+                    <input id="producto" name="producto" type="text" required>
+                        <label for="producto">Producto</label>
+
+
+
+</div>
+
+
+                    <div class="input-field col s12 m12 l6 xl6">
+
+       
+
+                        <input id="empresa" name="empresa" type="text" required>
+                        <label for="empresa">Empresa</label>
+
+                    </div>
+
+                    <div class="input-field col s12 m6 l6 xl6">
+                        <input id="nombre" name="nombre" type="text" required>
+                        <label for="nombre">Nombre completo</label>
+                    </div>
+
+                    <div class="input-field col s12 m6">
+                        <input id="correo" name="correo" type="email" required>
+                        <label for="correo">Correo corporativo</label>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="input-field col s12 m6">
+                        <input id="telefono" name="telefono" type="text">
+                        <label for="telefono">Teléfono</label>
+                    </div>
+
+                    <div class="input-field col s12 m6 l6 xl6">
+                        <textarea id="uso" name="uso" class="materialize-textarea"></textarea>
+                        <label for="uso">¿Para qué proceso o producto lo utilizará?</label>
+                    </div>
+
+                </div>
+
+              
+               
+
+                <div class="row">
+                <div class="input-field col s6">
+                        <input id="cantidad" name="cantidad" type="text">
+                        <label for="cantidad">Cantidad requerida</label>
+                    </div>
+
+                    <div class="input-field col s6">
+                        <input id="industria" name="industria" type="text">
+                        <label for="industria">Industria</label>
+                    </div>
+                </div>
+
+                
+                <div class="row">
+                <div class="input-field col s6">
+                        <input id="comentarios" name="comentarios" type="text">
+                        <label for="comentarios">Comentarios</label>
+                    </div>
+                </div>
+                
+
+               
+                   
+
+
+                 <!-- FOOTER -->
+    <div  style="display:flex;justify-content:center;color:#071637;">
+        <a href="#!" class="modal-close btn-flat" style="color:#071637;border-radius:20px;"><b>Cancelar</b></a>
+
+        <button type="submit" id="enviarMuestra" class="btn-flat" style="color:#071637;border-radius:20px;">  
+           <b>Enviar solicitud</b>
+        </button>
+    </div>
+
+
+            </form>
+        </div>
+
+    </div>
+
+   
+</div>
+
+
 </body>
 
 </html>

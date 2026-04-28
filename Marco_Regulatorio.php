@@ -4,9 +4,8 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <meta name="description"
-        content="El Area de Cumplimiento de Chemical Broker Permite Identificar los posibles riesgos de incumplimiento a los que se enfrenta la empresa">
-    <title>Chemical Broker | Marco Regulatorio</title>
+    <meta name="description" content="El Area de Cumplimiento de Chemical Broker Permite Identificar los posibles riesgos de incumplimiento a los que se enfrenta la empresa">
+    <title>Chemical Broker | Marco Regulatorio | Proveedor Global y Nacional de Ingredientes Quimicos</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link rel="canonical" href="https://chemicalbroker.mx/Marco_Regulatorio.php">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">

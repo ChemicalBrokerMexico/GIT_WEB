@@ -377,7 +377,7 @@
 </div></a> -->
         <li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i
               class="material-icons left search-desktop-icon letranegro"
-              style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
+              style="font-size:24px;font-weight:500;position:absolute;z-index:1;">search</i></a></li>
       </ul>
       <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i
             class="material-icons search-mobile-icon search-top-mobile" style="width:0px">search</i></a></div>
@@ -600,7 +600,7 @@
                         class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Pirofosfato Acido
                         de Sodio</b></a></section>
 
-                        <h5 class="Tipografia--general letranegro General--Cuerpo" style="background-color:#FF6600;padding:10px;color:white;margin-left:649px;font-size:35px;border-radius:10px"><b>Pirofosfato Acido de Sodio</b></h5>
+                        <h5 class="Tipografia--general letranegro General--Cuerpo breadfosfatos" style="background-color:#FF6600;padding:10px;color:white;font-size:35px;border-radius:10px"><b>Pirofosfato Acido de Sodio</b></h5>
 
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b style="color:#FF6600;">Pirofosfato Ácido de Sodio</b>,
         también conocido como <b style="color:#FF6600;">Pirofosfato de Disodio</b>, es un compuesto químico inorgánico con la fórmula Na₂H₂P₂O₇. Este

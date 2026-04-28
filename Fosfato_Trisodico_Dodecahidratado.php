@@ -286,7 +286,7 @@
 <div style="display:flex;justify-content:center"> 
 <p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
 </div></a> -->
-<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
+<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;">search</i></a></li>
 </ul>
 <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i class="material-icons search-mobile-icon search-top-mobile" style="width:0px">search</i></a></div>
 </div>
@@ -469,7 +469,7 @@
 
     <section><a class="active" href="#" style="color:black !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos " style="color:black;">Productos > </b> </a> <a class=" active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Fosfato Trisodico Dodecahidratado</b></a></section>
 
-    <h5 class="Tipografia--general letranegro General--Cuerpo" style="background-color:#FF6600;padding:10px;color:white;margin-left:649px;font-size:35px;border-radius:10px"><b>Fosfato Trisódico Dodecahidratado</b></h5>
+    <h5 class="Tipografia--general letranegro General--Cuerpo breadfosfatos" style="background-color:#FF6600;padding:10px;color:white;font-size:29px;border-radius:10px"><b>Fosfato Trisódico Dodecahidratado</b></h5>
 
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b style="color:#FF6600;">Fosfato Trisódico Dodecahidratado</b>, con la fórmula química Na₃PO₄·12H₂O, es un compuesto inorgánico que se presenta como cristales blancos o polvo blanco y es altamente soluble en agua. Es conocido por sus numerosas aplicaciones en distintas industrias gracias a sus propiedades alcalinas y su capacidad para actuar como agente de limpieza, regulador de pH y dispersante.</p>
 

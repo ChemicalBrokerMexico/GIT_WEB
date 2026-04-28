@@ -301,7 +301,7 @@ $(document).ready(function(){
     <h5 class="Tipografia--general Titulos"><b>Fosfatos</b></h5>
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Fosfatos</b> son un grupo de sustancias químicas que contienen el ion fosfato, PO₄³⁻. Estos compuestos se derivan del ácido fosfórico (H₃PO₄) y se utilizan en una amplia variedad de aplicaciones. A continuación, se ofrece una descripción detallada de los ingredientes y tipos de Fosfatos, junto con sus usos y funciones:</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Proximamente.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Fosfatos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
     
@@ -858,7 +858,7 @@ function filtroall(){
     <h5 class="Tipografia--general Titulos"><b>Fosfatos</b></h5>
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Fosfatos</b> son un grupo de sustancias químicas que contienen el ion fosfato, PO₄³⁻. Estos compuestos se derivan del ácido fosfórico (H₃PO₄) y se utilizan en una amplia variedad de aplicaciones. A continuación, se ofrece una descripción detallada de los ingredientes y tipos de Fosfatos, junto con sus usos y funciones:</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Proximamente.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Fosfatos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
     
@@ -1449,7 +1449,7 @@ function filtrof(){
     <h5 class="Tipografia--general Titulos"><b>Fosfatos</b></h5>
     <hr style="border:1px solid #b21b27">
     <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Fosfatos</b> son un grupo de sustancias químicas que contienen el ion fosfato, PO₄³⁻. Estos compuestos se derivan del ácido fosfórico (H₃PO₄) y se utilizan en una amplia variedad de aplicaciones. A continuación, se ofrece una descripción detallada de los ingredientes y tipos de Fosfatos, junto con sus usos y funciones:</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Proximamente.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Fosfatos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
     </div>
     </div>
 

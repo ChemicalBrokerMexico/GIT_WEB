@@ -265,7 +265,7 @@
 <div style="display:flex;justify-content:center"> 
 <p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
 </div></a> -->
-<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
+<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;">search</i></a></li>
 </ul>
 <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i class="material-icons search-mobile-icon search-top-mobile" style="width:0px">search</i></a></div>
 </div>
@@ -447,7 +447,7 @@
 
     <section><a class="active" href="#" style="color:black !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos " style="color:black;">Productos > </b> </a> <a class=" active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Fosfato Tricálcico</b></a></section>
 
-    <h5 class="Tipografia--general letranegro General--Cuerpo" style="background-color:#FF6600;padding:10px;color:white;margin-left:649px;font-size:35px;border-radius:10px"><b>Fosfato Tricálcico</b></h5>
+    <h5 class="Tipografia--general letranegro General--Cuerpo breadfosfatos" style="background-color:#FF6600;padding:10px;color:white;font-size:35px;border-radius:10px"><b>Fosfato Tricálcico</b></h5>
 
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Fosfato Tricálcico</b>, también conocido como Fosfato de Calcio Tribásico, es un compuesto químico con la fórmula Ca₃(PO₄)₂. Se encuentra en la naturaleza en forma de minerales como la apatita y es un componente importante del tejido óseo y dental en los seres humanos y otros animales. </p>
 

@@ -264,7 +264,7 @@
 <div style="display:flex;justify-content:center"> 
 <p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
 </div></a> -->
-<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
+<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;">search</i></a></li>
 </ul>
 <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i class="material-icons search-mobile-icon search-top-mobile" style="width:0px">search</i></a></div>
 </div>
@@ -445,7 +445,7 @@
 
     <section><a class="active" href="#" style="color:black !important"><b class="Tipografia--general  Subtitulos ">Inicio&nbsp</b><b class="Tipografia--general  Subtitulos"> >&nbsp  </b></a><a class=" active" href="Products_news.php" style="margin-left:-2px"><b class="Tipografia-general  Subtitulos" style="color:black; !important">Productos > </b> </a> <a class=" active" href="Fosfatos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general letranegro Subtitulos breadcrumb" style="color:red;">Fosfato Monocálcico Anhidro</b></a></section>
 
-    <h5 class="Tipografia--general letranegro General--Cuerpo" style="background-color:#FF6600;padding:10px;color:white;margin-left:769px;font-size:35px;border-radius:10px"><b>Fosfato Monocálcico Anhidro</b></h5>
+    <h5 class="Tipografia--general letranegro General--Cuerpo breadfosfatos" style="background-color:#FF6600;padding:10px;color:white;font-size:35px;border-radius:10px"><b>Fosfato Monocálcico Anhidro</b></h5>
 
       <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">El <b style="color:#FF6600;">Fosfato Monocálcico Anhidro</b> (conocido químicamente como Ca(H₂PO₄)₂) es una forma específica de Fosfato de calcio que se utiliza comúnmente en diversas aplicaciones industriales y alimentarias. A continuación, se detallan algunos aspectos clave sobre este compuesto:</p>
 
@@ -608,30 +608,41 @@
     <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
 </a>
 
-<footer class="altofooter">
-<div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg" alt="ESCUDO DE C&E"></div><br><br>
-<div class="container-fluid center-align" style="margin-top:-50px">
-<p class="Tipografia--general letranegro center-align Pie--Pagina">© 2014 | Chemical Broker Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto |&nbsp</a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad </a></p>
-</div>
-</footer>
-
-
-<!-- Start of HubSpot Embed Code -->
-<script type="text/javascript" id="hs-script-loader" async defer src="//js-na1.hs-scripts.com/43785156.js"></script>
-<script src="js/Traduccion.js"></script>
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
-    <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<footer style="margin-top:70px">
+  <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
+      alt=""></div><br><br>
+  <div class="container-fluid" style="text-align:center;margin-top:-50px">
+    <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos Reservados.
+      | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
+        href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de
+        Privacidad </a>
+      <script type="text/javascript" src="js/main.js"></script></a></strong>
+    </p>
+    <script type="text/javascript" src="js/Products.js"></script>
+    <link rel="shortcut icon" href="img/CB_ICON.ico" />
+  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-    <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
-    <script src="js/materialize.js?n=1" type="text/javascript"></script>
-    <script src="js/init.js?n=1"></script>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
-    <script type="text/javascript" src="js/main.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.js"
+  <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+    crossorigin="anonymous"></script>
+  <script src="js/materialize.js" type="text/javascript"></script>
+  <script src="js/init.js"></script>
+
+  <script type="text/javscript" src="js/materialize.min.js"></script>
+  <script type="text/javascript"
+    src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+    <!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js-na1.hs-scripts.com/43785156.js"></script>
+<script src="js/Traduccion.js"></script>
 <!-- End of HubSpot Embed Code -->
+<a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
+  </div>
+</footer>
 </body>
 </html>

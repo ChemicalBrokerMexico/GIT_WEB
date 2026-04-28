@@ -1083,7 +1083,7 @@
                         <li class="Elementos--Listas">Multi-vitaminas</li>
                     </ol>
 
-                    <a href="BHT_SHOP.php"><button class="btn" type="button" style="background-color:#071637;margin-top:30px;">Comprar Producto</button></a>
+                    <!-- <a href="BHT_SHOP.php"><button class="btn" type="button" style="background-color:#071637;margin-top:30px;">Comprar Producto</button></a> -->
 
             </div>
         </div>
@@ -1092,6 +1092,10 @@
 
     </div>
 
+    <!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js-na1.hs-scripts.com/43785156.js"></script>
+<script src="js/Traduccion.js"></script>
+<!-- End of HubSpot Embed Code -->
 
     <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
     <i class="fa fa-whatsapp" style="margin-top:16px;"></i>

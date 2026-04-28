@@ -3,9 +3,15 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Mercados Atendidos a Nivel Global</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <title>Chemical Broker | Mercados Atendidos a Nivel Global y Nacional</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="Chemical Broker atiende globalmente a sus clientes con la venta de ingredientes químicos catalogados como especialidades y commodities">
     <link rel="canonical" href="https://chemicalbroker.mx/Mercados.php">
+<!-- Material Icons (por si los usas en otros lados) -->
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<!-- Font Awesome (ICONOS PRO) -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -377,7 +383,6 @@
             <div class="caption center-align"><br><br><br><br>
               <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px"></b>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Mercados.php"><b class="Tipografia--general Subtitulos" style="color:red;">Mercados</b></a></section>
     </div>
             </div>
           </li>
@@ -387,6 +392,9 @@
       <div class="container" style="margin-top:130px;">
         <div class="row">
           <div class="col s12 m12 l12 xl12">
+
+          <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Mercados.php"><b class="Tipografia--general Subtitulos" style="color:red;">Mercados</b></a></section>
+
             <p class="Tipografia--general letranegro General--Cuerpo"><b color="#071637">Chemical Broker</b> es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de ingredientes químicos, para las industrias <b>Farmacéutica</b>, <b>Veterinaria</b>, <b>Alimentaria y Nutrición Humana</b>, <b>Nutrición Animal</b>, <b>Cosmética y del Cuidado Personal</b>, <b>Detergentes</b>, <b>Agroquímica</b>, <b>Industrial e Industria Química</b> en general.</p>
             <!-- <ol style="margin-top:30px"> 
               <li class="Tipografia--general letranegro General--Cuerpo" style="list-style-type:disc">Farmacéutica </li>
@@ -405,7 +413,7 @@
       
 
       <div class="container" style="margin-top:30px">
-        <div class="row center-align">
+        <!-- <div class="row center-align">
           <div class="col s12 m12 l6 xl6 mercados zoom" style="margin-top:10px"><a href="pharmaceutical.php" style="cursor:pointer;">
               <div class="contenedor">
                 <div class="transfo" id="overlay" style="border-radius:10px"></div>
@@ -419,12 +427,12 @@
                 <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
                   <source class="mercadosimagen" src="VIDEO/PHARMA2.mp4" type="video/mp4">
                 </video> 
-                <!-- <img class="mercadosimagen" src="img/FARMACEUTICA_CB.jpg" alt="" style="border-radius:10px">  -->
-              </div></a></div>
+                 <img class="mercadosimagen" src="img/FARMACEUTICA_CB.jpg" alt="" style="border-radius:10px">  
+              </div></a></div>-->
 
 
                   
-          <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Veterinaria.php" style="cursor:pointer;">
+          <!-- <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Veterinaria.php" style="cursor:pointer;">
               <div class="contenedor">
                 <div class="transfo" id="overlayveteri" style="border-radius:10px"></div>
                 <div class="centrado_sub" style="position:absolute;z-index:2">
@@ -437,7 +445,7 @@
                 <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
                   <source class="mercadosimagen" src="VIDEO/VET2.mp4" type="video/mp4">
                 </video> 
-                <!-- <img class="mercadosimagen" src="img/CB_VETERINARIA_070621.jpg" alt="" style="border-radius:10px">  -->
+                 <img class="mercadosimagen" src="img/CB_VETERINARIA_070621.jpg" alt="" style="border-radius:10px">  
               </div></a></div>
 
 
@@ -454,12 +462,12 @@
                 <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
                   <source class="mercadosimagen" src="VIDEO/NUTRICION_HUMANA2.mp4" type="video/mp4">
                 </video> 
-                <!-- <img class="mercadosimagen" src="img/CB_FOOD_080223.jpg" alt="" style="border-radius:10px"> -->
-              </div></a></div>
+                 <img class="mercadosimagen" src="img/CB_FOOD_080223.jpg" alt="" style="border-radius:10px"> 
+              </div></a></div> -->
 
 
           
-          <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Alimento_Animal.php" style="cursor:pointer;">
+          <!-- <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Alimento_Animal.php" style="cursor:pointer;">
               <div class="contenedor">
                 <div class="transfo" id="overlayped" style="border-radius:10px"></div>
                 <div class="centrado_sub" style="position:absolute;z-index:2">
@@ -472,8 +480,9 @@
                 <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
                   <source class="mercadosimagen" src="VIDEO/ALIMENTO_ANIMAL2.mp4" type="video/mp4">
                 </video> 
-                <!-- <img class="mercadosimagen" src="img/CB_ALIMENTO_ANIMAL_090223.jpg" alt="" style="border-radius:10px"> -->
+               <img class="mercadosimagen" src="img/CB_ALIMENTO_ANIMAL_090223.jpg" alt="" style="border-radius:10px"> 
               </div></a></div>
+
           <div class="col s12 m12 l6 xl6 mercados zoom columna3"><a href="Agroquimicos.php" style="cursor:pointer;">
               <div class="contenedor">
                 <div class="transfo" id="overlayagro" style="border-radius:10px"></div>
@@ -488,8 +497,10 @@
                   <source class="mercadosimagen" src="VIDEO/AGRICULTURA3.mp4" type="video/mp4">
                 </video> 
 
-                <!-- <img class="mercadosimagen" src="img/AGRICULTURE_310122.jpeg" alt="" style="border-radius:10px"> -->
-              </div></a></div>
+                 <img class="mercadosimagen" src="img/AGRICULTURE_310122.jpeg" alt="" style="border-radius:10px"> 
+              </div></a></div> -->
+
+<!-- 
           <div class="col s12 m12 l6 xl6 mercados zoom columna3"><a href="Cosmetica_Cuidadopersonal.php" style="cursor:pointer;">
               <div class="contenedor">
                 <div class="transfo" id="overlaycosme" style="border-radius:10px"></div>
@@ -503,8 +514,9 @@
                 <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
                   <source class="mercadosimagen" src="VIDEO/COSMETICOS.mp4" type="video/mp4">
                 </video> 
-                <!-- <img class="mercadosimagen" src="img/CB_COSMETICS_090223.jpg" alt="" style="border-radius:10px"> -->
+                <img class="mercadosimagen" src="img/CB_COSMETICS_090223.jpg" alt="" style="border-radius:10px"> 
               </div></a></div>
+
           <div class="col s12 m12 l6 xl6 mercados zoom columna4"><a href="Detergencia.php" style="cursor:pointer;">
               <div class="contenedor">
                 <div class="transfo" id="overlaydeter" style="border-radius:10px"></div>
@@ -518,8 +530,9 @@
                 <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
                   <source class="mercadosimagen" src="VIDEO/DETERGENTES2.mp4" type="video/mp4">
                 </video> 
-                <!-- <img class="mercadosimagen" src="img/CB_DETERGENCIA.jpg" alt="" style="border-radius:10px"> -->
+                <img class="mercadosimagen" src="img/CB_DETERGENCIA.jpg" alt="" style="border-radius:10px"> 
               </div></a></div>
+
           <div class="col s12 m12 l6 xl6 mercados zoom columna4"><a href="Proximamente.php" style="cursor:pointer;">
               <div class="contenedor">
                 <div class="transfo" id="overlaychemi" style="border-radius:10px"></div>
@@ -533,9 +546,370 @@
                 <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
                   <source class="mercadosimagen" src="VIDEO/QUIMICO.mp4" type="video/mp4">
                 </video> 
-                <!-- <img class="mercadosimagen" src="img/CB_QUIMICA.jpg" alt="" style="border-radius:10px"> -->
-              </div></a></div>
-        </div>
+                <img class="mercadosimagen" src="img/CB_QUIMICA.jpg" alt="" style="border-radius:10px"> 
+              </div></a></div> -->
+
+
+  <div class="row">
+
+  <!-- CARD 1 -->
+
+  <div class="col s12 m6">
+  <div class="card custom-card card-farma">
+    
+    <div class="card-image video-container-card">
+
+      <!-- VIDEO -->
+      <video autoplay muted loop playsinline class="card-video" poster="img/fallback.jpg">
+        <source src="VIDEO/PHARMA2.mp4" type="video/mp4">
+      </video>
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-farma"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle bg-farma">
+        <i class="fa-solid fa-pills"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Farmacéutica</h5>
+        <p>Ingredientes y soluciones para la industria Farmacéutica.</p>
+
+        <a href="pharmaceutical.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="card-farma dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<!-- CARD 2 -->
+
+<div class="col s12 m6">
+  <div class="card custom-card card-vet">
+
+    <div class="card-image video-container-card">
+
+      <!-- VIDEO -->
+      <video autoplay muted loop playsinline class="card-video" poster="img/fallback.jpg">
+        <source src="VIDEO/VET2.mp4" type="video/mp4">
+      </video>
+
+      <!-- OVERLAY -->
+      <div class="overlay"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-cow"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Veterinaria</h5>
+        <p>Soluciones nutricionales y productos para la industria veterinaria.</p>
+
+        <a href="Veterinaria.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+  <!-- CARD 3 -->
+  <div class="col s12 m6">
+  <div class="card custom-card card-alimentaria">
+
+    <div class="card-image video-container-card">
+
+      <!-- VIDEO -->
+      <video autoplay muted loop playsinline class="card-video" poster="img/fallback.jpg">
+        <source src="VIDEO/NUTRICION_HUMANA2.mp4" type="video/mp4">
+      </video>
+
+      <!-- OVERLAY -->
+      <div class="overlay"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-utensils"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Alimentaria &<br>Nutrición Humana</h5>
+        <p>Ingredientes y soluciones para la industria alimentaria y de nutrición.</p>
+
+        <a href="Alimentos.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+
+  <!-- CARD 4 -->
+  <div class="col s12 m6">
+  <div class="card custom-card card-animal">
+
+    <div class="card-image video-container-card">
+
+      <!-- VIDEO -->
+      <video autoplay muted loop playsinline class="card-video" poster="img/fallback.jpg">
+        <source src="VIDEO/ALIMENTO_ANIMAL2.mp4" type="video/mp4">
+      </video>
+
+      <!-- OVERLAY -->
+      <div class="overlay"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-wheat-awn"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Nutrición Animal</h5>
+        <p>Ingredientes y soluciones para mejorar el rendimiento y salud animal.</p>
+
+        <a href="Alimento_Animal.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<!-- CARD 5 -->
+
+<div class="col s12 m6">
+  <div class="card custom-card card-agro">
+
+    <div class="card-image video-container-card">
+
+      <!-- VIDEO -->
+      <video autoplay muted loop playsinline class="card-video" poster="img/fallback.jpg">
+        <source src="VIDEO/AGRICULTURA3.mp4" type="video/mp4">
+      </video>
+
+      <!-- OVERLAY -->
+      <div class="overlay"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-seedling"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Agroquímicos</h5>
+        <p>Soluciones químicas para la protección y optimización de cultivos.</p>
+
+        <a href="Agroquimicos.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<!-- CARD 6 -->
+
+<div class="col s12 m6">
+  <div class="card custom-card card-cosmetico">
+
+    <div class="card-image video-container-card">
+
+      <!-- VIDEO -->
+      <video autoplay muted loop playsinline class="card-video" poster="img/fallback.jpg">
+        <source src="VIDEO/COSMETICOS.mp4" type="video/mp4">
+      </video>
+
+      <!-- OVERLAY -->
+      <div class="overlay"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-pump-soap"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Cosméticos &<br>Cuidado Personal</h5>
+        <p>Ingredientes especializados para formulaciones de belleza y cuidado personal.</p>
+
+        <a href="Cosmetica_Cuidadopersonal.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<!-- CARD 7 -->
+
+<div class="col s12 m6">
+  <div class="card custom-card card-detergente">
+
+    <div class="card-image video-container-card">
+
+      <!-- VIDEO -->
+      <video autoplay muted loop playsinline class="card-video" poster="img/fallback.jpg">
+        <source src="VIDEO/DETERGENTES2.mp4" type="video/mp4">
+      </video>
+
+      <!-- OVERLAY -->
+      <div class="overlay"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-soap"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Detergentes</h5>
+        <p>Materias primas y soluciones para productos de limpieza y mantenimiento.</p>
+
+        <a href="Detergencia.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<!-- CARD 8 -->
+
+<div class="col s12 m6">
+  <div class="card custom-card card-quimico">
+
+    <div class="card-image video-container-card">
+
+      <!-- VIDEO -->
+      <video autoplay muted loop playsinline class="card-video" poster="img/fallback.jpg">
+        <source src="VIDEO/QUIMICO.mp4" type="video/mp4">
+      </video>
+
+      <!-- OVERLAY -->
+      <div class="overlay"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-flask"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Química Industrial</h5>
+        <p>Suministro de materias primas y soluciones para procesos industriales.</p>
+
+        <a href="Industria_Quimica.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+</div>
+
+        <!-- </div> -->
       </div>
 
 

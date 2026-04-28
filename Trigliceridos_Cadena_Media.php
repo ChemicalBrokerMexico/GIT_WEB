@@ -3,7 +3,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Trigliceridos de Cadena Media | Proveedor Global</title>
+  <title>Chemical Broker | Trigliceridos de Cadena Media | Proveedor Global y Nacional de Ingredientes Quimicos</title>
   <meta name="description" content="Los trigliceridos de cadena media aportan energia rapida, facil digestion y se utilizan en nutricion clinica, deportiva y alimentos funcionales"> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/Trigliceridos_Cadena_Media.php">
@@ -348,7 +348,7 @@
 <div style="display:flex;justify-content:center"> 
 <p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
 </div></a> -->
-<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
+<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;">search</i></a></li>
 </ul>
       <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i
             class="material-icons search-mobile-icon margin-left-search-mobile-icon" style="width:0px">search</i></a></div>
@@ -985,9 +985,90 @@
 
             <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Tipos de MCT´s</b></h2>
 
-            <table >
+
+            <table class="Tabla_TCM_Mobile">
+              <thead>
+                <th style="background-color:#002060;color:white;" class="center-align Tipografia--general"><b>Especificacion</b></th>
+                <th style="background-color:#002060;color:white;" class="center-align Tipografia--general"><b>MCT 60/40</b></th>
+                <th style="background-color:#002060;color:white;" class="center-align Tipografia--general"><b>MCT 70/30</b></th>
+              </thead>
+              <tbody>
+              <tr>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;width:550px;">Valor de Saponificación:</td>
+                        <td class="center-align Tipografia--general" style="border:#F9F9F9 2px solid;">325 – 345</td>
+                        <td class="center-align Tipografia--general" style="border:#F9F9F9 2px solid;">335 – 360</td>
+                    </tr>
+                    <tr>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">Valor de Acidez:</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">0.1 Max.</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">0.1 Max.</td>
+                    </tr>
+                    <tr>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">Valor de Yodo:</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">0.5 Max</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">0.5 Max.</td>
+                    </tr>
+                    <tr>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">Valor de Humedad:</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">0.1 Max.</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">0.1 Max.</td>
+                    </tr>    
+                    <tr>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">Valor de Hidroxilo:</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">0.5 Max.</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">0.5 Max.</td>
+                    </tr>
+                    <tr>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">Color APHA:</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">60 Max.</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">60 Max.</td>
+                    </tr>
+                    <tr>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">Apariencia:</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">Liquido cristalino</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">Liquido cristalino</td>
+                    </tr>
+                    <tr>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">Olor:</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">Neutral</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">Neutral</td>
+                    </tr>
+                    <tr>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">C6:</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">5.0 Max.</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">2.0 Max.</td>
+                    </tr>
+                    <tr>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">C8:</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">55 – 65</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">65 – 75</td>
+                    </tr>
+                    <tr>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">C10:</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">35 – 45</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">25 – 35</td>
+                    </tr>
+                    <tr>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">C12:</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">1.5 Max.</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">1.0 Max.</td>
+                    </tr>
+                    <tr>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">C14:</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">0.5 Max.</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">-</td>
+                    </tr>
+                    <tr>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">CAS No.</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">73398-61-5</td>
+                        <td class="center-align Tipografia--general" style="border:#F6F6F6 2px solid;">73398-61-5</td>
+                    </tr>
+              </tbody>
+            </table>
+
+            <table class="Tabla_TCM_Desktop" width="100%">
                 <thead>
-                    <th style="background-color:#002060;color:white;" class="center-align Tipografia--general"><b>Especificacion</b></th>
+                    <th style="background-color:#002060;color:white;width:100%;" class="center-align Tipografia--general"><b>Especificacion</b></th>
                     <th style="background-color:#002060;color:#00B0F0;" class="center-align Tipografia--general"><b>MCT 60/40</b></th>
                     <th style="background-color:#002060;color:#00B0F0;" class="center-align Tipografia--general"><b>MCT 70/30</b></th>
                 </thead>
@@ -1148,30 +1229,40 @@
 </div>
 </body>
 <footer style="margin-top:70px">
-    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
-            alt=""></div><br><br>
-    <div class="container-fluid" style="text-align:center;margin-top:-50px">
-        <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos
-            Reservados.
-            | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
-                href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download
-                style="color:black !important;font-size:16px">Politica de
-                Privacidad </a>
-            <script type="text/javascript" src="js/main.js"></script></a></strong>
-        </p>
-        <script type="text/javascript" src="js/Products.js"></script>
-        <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
-    <script src="js/materialize.js" type="text/javascript"></script>
-    <script src="js/init.js"></script>
-    <script type="text/javscript" src="js/materialize.min.js"></script>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
+      alt=""></div><br><br>
+  <div class="container-fluid" style="text-align:center;margin-top:-50px">
+    <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos Reservados.
+      | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
+        href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de
+        Privacidad </a>
+      <script type="text/javascript" src="js/main.js"></script></a></strong>
+    </p>
+    <script type="text/javascript" src="js/Products.js"></script>
+    <link rel="shortcut icon" href="img/CB_ICON.ico" />
+  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-    </div>
+    <script src="https://code.jquery.com/jquery-3.5.1.js"
+  <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+    crossorigin="anonymous"></script>
+  <script src="js/materialize.js" type="text/javascript"></script>
+  <script src="js/init.js"></script>
+
+  <script type="text/javscript" src="js/materialize.min.js"></script>
+  <script type="text/javascript"
+    src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+    <!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js-na1.hs-scripts.com/43785156.js"></script>
+<script src="js/Traduccion.js"></script>
+<!-- End of HubSpot Embed Code -->
+<a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
+  </div>
 </footer>
 <?php
 

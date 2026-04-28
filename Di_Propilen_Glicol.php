@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
     <meta name="description" content="Es un líquido claro y transparente, prácticamente inodoro y con baja volatilidad. Es totalmente soluble en agua y en la mayoría de los disolventes orgánicos.">
-    <link rel="canonical" href="https://chemicalbroker.mx/Mono_Propilen_Glicol.php">
+    <link rel="canonical" href="https://chemicalbroker.mx/Di_Propilen_Glicol.php">
     <title>Chemical Broker | Di Propilen Glicol del Fabricante Lyondell Basell | Proveedor Global y Nacional de Ingredientes Quimicos</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -389,7 +389,7 @@
 <div style="display:flex;justify-content:center"> 
 <p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
 </div></a> -->
-<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
+<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;">search</i></a></li>
 </ul>
             <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#"
                     data-target="mobile-search"><i class="material-icons search-mobile-icon margin-left-search-mobile-icon"
@@ -596,16 +596,10 @@
         </div>
     </div>
 
-    <div class="container" style="margin-top:80px;">
+    <div class="container" style="margin-top:150px;">
         <div class="row bread_mobile">
             <div class="col s12 m12 l12 xl12">
-                <section class="breditem--inicio"><a class="breditem active" href="index.php"
-                        style="color:#262137 !important"><b>Inicio&nbsp </b><b> > &nbsp</b></a><a
-                        class="breditem active" href="Productos_news.php"
-                        style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b> > &nbsp</b><a
-                            class="breditem active" href="Di_Propilen_Glicol.php"
-                            style="color:#262137 !important;margin-left:-2px"><b
-                                class="Tipografia--general Subtitulos breadcrumb" style="color:red;">Di Propilen Glicol Grado Fragancia</b></a></section>
+                <section class="breditem--inicio"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b> > &nbsp</b></a><a class="breditem active" href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b> > &nbsp</b><a class="breditem active" href="Glycols.php" style="color:#262137 !important;margin-left:-2px"><b class="Tipografia--general Subtitulos breadcrumb" style="color:black;">Glicoles > </b></a><a class="breditem active" href="Di_Propilen_Glicol.php" style="color:#262137 !important;margin-left:-2px"><b class="Tipografia--general Subtitulos breadcrumb" style="color:red;">Di Propilen Glicol Grado Fragancia</b></a></section>
                 </section>
             </div>
         </div>
@@ -747,22 +741,40 @@
 
 </body>
 <footer style="margin-top:70px">
-    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
-            alt=""></div><br><br>
-    <div class="container-fluid" style="text-align:center;margin-top:-50px">
-        <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos
-            Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
-                href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download
-                style="color:black !important;font-size:16px">Politica de Privacidad </a>
-            <script type="text/javascript" src="js/main.js"></script></a></strong>
-        </p>
-        <script type="text/javascript" src="js/Products.js"></script>
-        <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
-    <script src="js/materialize.js" type="text/javascript"></script>
-    <script src="js/init.js"></script>
-    <script type="text/javscript" src="js/materialize.min.js"></script>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
-    </div>
+  <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
+      alt=""></div><br><br>
+  <div class="container-fluid" style="text-align:center;margin-top:-50px">
+    <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos Reservados.
+      | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
+        href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de
+        Privacidad </a>
+      <script type="text/javascript" src="js/main.js"></script></a></strong>
+    </p>
+    <script type="text/javascript" src="js/Products.js"></script>
+    <link rel="shortcut icon" href="img/CB_ICON.ico" />
+  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.js"
+  <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+    crossorigin="anonymous"></script>
+  <script src="js/materialize.js" type="text/javascript"></script>
+  <script src="js/init.js"></script>
+
+  <script type="text/javscript" src="js/materialize.min.js"></script>
+  <script type="text/javascript"
+    src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+    <!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js-na1.hs-scripts.com/43785156.js"></script>
+<script src="js/Traduccion.js"></script>
+<!-- End of HubSpot Embed Code -->
+<a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
+  </div>
 </footer>
 
 </html>

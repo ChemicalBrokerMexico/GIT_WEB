@@ -5,7 +5,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
   <meta name="description" content="Ofrecemos Servicios Integrales de cadena de suministro para ingredientes químicos: Transporte especializado, Manejo Seguro, Liberación Aduanal y Cumplimiento Regulatorio. Aseguramos disponibilidad, seguridad y eficiencia en cada etapa.">
-  <title>Chemical Broker | Cadena de Suministro</title>
+  <title>Chemical Broker | Cadena de Suministro | Proveedor Global y Nacional de Ingredientes Quimicos</title>
   <link rel="canonical" href="https://chemicalbroker.mx/Cadena_Suministro.php">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">

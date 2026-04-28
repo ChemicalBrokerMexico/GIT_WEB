@@ -3,7 +3,7 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Logistica Global</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <title>Chemical Broker | Logistica Global | Proveedor Global e Internacional de Ingredientes Quimicos</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="Al entender las dificultades que viven diariamente las empresas enfocadas en la produccion de ingredientes quimicos, nace en el año 2014 Chemical Broker">
     <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">

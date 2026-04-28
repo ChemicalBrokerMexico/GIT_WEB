@@ -31,15 +31,6 @@
       gtag('js', new Date());
       gtag('config', 'G-SGJQ8FDDJ6');
     </script>
-    <script src='https://www.google.com/recaptcha/api.js?render=6LeYtRQiAAAAACj-gIF382UTMQOh_sDG4VB7TIUf'> 
-</script>
-<script>
-grecaptcha.ready(function() {
-grecaptcha.execute('6LeYtRQiAAAAACj-gIF382UTMQOh_sDG4VB7TIUf', {action: 'ejemplo'})
-.then(function(token) {
-var recaptchaResponse = document.getElementById('recaptchaResponse');
-recaptchaResponse.value = token;
-});});
 </script>
   </head>
   <body> 
@@ -425,421 +416,148 @@ recaptchaResponse.value = token;
         </div>
       </div>
     </div>
-    <div class="container">
-      <div class="row">
-        <div class="col s12 m6 l6 xl6" >
-          <div style="border:1px solid #f2f2f2;">
-          <h6 style="padding:10px;background-color: #071637;margin-top:0px;"><b style="color:white"><center>Ventas</center></b></h6>
-          <p class="Tipografia--general letranegro General--Cuerpo" style="padding:10px;"><b>Teléfono: </b><a href="tel:+52.55.4438.7996" class="arrowblue Tipografia--general General--Cuerpo" style="color:black">+52.55.4438.7996</a><br><span><b class="Tipografia--general General--Cuerpo">Correo Electrónico:</b></span><a href="mailto:sales@chemicalbroker.mx" style="color:black;font-size:16px" class="arrowblue Tipografia--general General--Cuerpo"> sales@chemicalbroker.mx</a></p>
+    <div class="container" style="margin-top:30px;">
+
+  <div class="row">
+
+    <!-- VENTAS -->
+    <div class="col s12 m6">
+      <div class="card z-depth-2" style="border-radius:10px;">
+
+        <div class="card-content">
+
+          <span class="card-title" style="font-weight:600;">
+            <i class="material-icons left blue-text text-darken-3">trending_up</i>
+            Ventas
+          </span>
+
+          <p style="margin-top:20px;">
+            <i class="material-icons tiny">phone</i>
+            <a href="tel:+525544387996" style="color:#071637;">+52 55 4438 7996</a>
+          </p>
+
+          <p>
+            <i class="material-icons tiny">email</i>
+            <a href="mailto:sales@chemicalbroker.mx" style="color:#071637;">sales@chemicalbroker.mx</a>
+          </p>
+
+          <div class="center-align" style="margin-top:20px;">
+            <a href="#formContacto" class="btn" style="border-radius:20px;background-color: #071637;">
+              Solicitar cotización
+            </a>
           </div>
+
         </div>
-        <div class="col s12 m6 l6 xl6">
-        <div style="border:1px solid #f2f2f2;height:151px;">
-          <h6 style="padding:10px;background-color:#071637;margin-top:0px;"><b style="color:white" class="Tipografia--general letranegro General--Cuerpo"><center>Información General</center></b></h6>
-          <p style="padding:10px;" class="Tipografia--general letranegro General--Cuerpo"><b class="Tipografia--general General--Cuerpo">Teléfono: </b><a href="tel:+52.55.4438.7996" class="arrowblue Tipografia--general General--Cuerpo" style="color:black">+52.55.4438.7996</a><br><span><b class="Tipografia--general General--Cuerpo">Correo Electrónico:</b></span><a href="mailto:info@chemicalbroker.mx" style="color:black;font-size:16px" class="arrowblue General--Cuerpo Tipografia--general"> info@chemicalbroker.mx</a></p>
-          </div>
-        </div>
+
       </div>
     </div>
-    <div class="container" style="margin-top:50px">
-      <form action="envio_correo.php" method="POST" id="enviocorreo" style="border:1px solid #f2f2f2;">
-        <div class="row">
-          <!-- <div class="input-field col s12 m6 l6 xl6"><i class="material-icons prefix">account_circle </i>
-            <select class="validate" id="titulo" name="titulo" required="required">
-              <option value="" disabled selected>Titulo</option>
-              <option value="Sr">Sr</option>
-              <option value="Sra">Sra</option>
-            </select>
-          </div> -->
-          <div class="input-field col s12 m6 l6 xl6"><i class="material-icons prefix">account_circle </i>
-            <input class="validate" type="text" id="nombre" name="nombre" required="required">
-            <label for="nombre">Nombre / Apellido</label>
+
+    <!-- INFORMACIÓN GENERAL -->
+    <div class="col s12 m6">
+      <div class="card z-depth-2" style="border-radius:10px;">
+
+        <div class="card-content">
+
+          <span class="card-title" style="font-weight:600;">
+            <i class="material-icons left grey-text text-darken-2">info</i>
+            Información General
+          </span>
+
+          <p style="margin-top:20px;">
+            <i class="material-icons tiny">phone</i>
+            <a href="tel:+525544387996" style="color:#071637;">+52 55 4438 7996</a>
+          </p>
+
+          <p>
+            <i class="material-icons tiny">email</i>
+            <a href="mailto:info@chemicalbroker.mx" style="color:#071637;">info@chemicalbroker.mx</a>
+          </p>
+
+          <div class="center-align" style="margin-top:20px;">
+            <a href="#formContacto" class="btn grey darken-2" style="border-radius:20px;">
+              Más información
+            </a>
           </div>
-          <div class="input-field col s12 m6 l6 xl6"><i class="material-icons prefix">business</i>
-            <input class="validate" type="text" id="organizacion" name="organizacion" required="required">
-            <label for="organizacion">Organización </label>
-          </div>
-        </div>
-        <div class="row">
-       
-          <div class="input-field col s12 m6 l6 xl6"><i class="material-icons prefix">work </i>
-            <select id="puesto" name="puesto" required="required">
-              <option value="" disabled selected>Puesto </option>
-              <option value="Director General">Director General</option>
-              <option value="Desarrollo e Investigacion">Desarrollo e Investigación </option>
-              <option value="Vendedor">Vendedor</option>
-              <option value="Administrador">Administrador</option>
-              <option value="Comprador">Comprador</option>
-              <option value="Otro">Otro</option>
-            </select>
-            <label for="puesto">Puesto</label>
-          </div>
-          <div class="input-field col s12 m6 l6 xl6"><i class="material-icons prefix">mail </i>
-            <input class="validate" type="email" id="email" name="email" required="required">
-            <label for="email">Dirección de Correo Electrónico</label>
-          </div>
+
         </div>
 
-          
-    <div class="row">
-        <div class="input-field col s12 m6 l6 xl6"><i class="material-icons prefix">work </i>
-            <select id="Tipoempresa" name="Tipoempresa" required="required" onchange="anadir_campos()">
-              <option value="" disabled selected>Tipo de Empresa</option>
-              <option value="Quimicos">Quimicos</option>
-              <option value="Servicios">Servicios</option>
-              <option value="Material de Empaque">Material de Empaque</option>
-            </select>
-          </div>
-          
+      </div>
     </div>
 
-    <div class="container" id="pruebadinamic" name="pruebadinamic">
+  </div>
 
-    </div>
+</div>
+    <div class="container" style="margin-top:40px;">
+  
+  <div class="row">
+    
+    <form id="formContacto" action="envio_correo.php" method="POST" class="col s12 m10 offset-m1 card-panel z-depth-2" style="padding:30px; border-radius:10px;">
+      
+      <!-- TÍTULO -->
+      <h5 class="center-align" style="margin-bottom:30px;">
+        Solicita información o cotización
+      </h5>
 
+      <!-- NOMBRE -->
+      <div class="input-field col s12 m6">
+        <input id="nombre" name="nombre" type="text" class="validate" required>
+        <label for="nombre">Nombre completo</label>
+      </div>
 
-        <div class="row">
-          
-          <!-- <div class="input-field col s12 m6 l6 xl6"><i class="material-icons prefix">add_location</i>
-            <input class="validate" type="text" id="calleN" name="calleN" required="required">
-            <label for="calleN">Calle / Numero</label>
-          </div> -->
-          <!-- <div class="input-field col s12 m6 l6 xl6"><i class="material-icons prefix">place </i>
-          
-          <select class="form-control" id="pais" name="pais" onchange="asignacionclavpa();" required="required">
-            <option value="0">País </option>
-            <option value="+93 Afganistán">Afganistán  </option>
-            <option value="+355 Albania">Albania </option>
-            <option value="+49 Alemania">Alemania</option>
-            <option value="+244 Angola">Angola</option>
-            <option value="+1 Anguila">Anguila</option>
-            <option value="+1 Antigua y Barbuda">Antigua y Barbuda</option>
-            <option value="+599 Antillas Holandesas">Antillas Holandesas </option>
-            <option value="+966 Arabia Saudita">Arabia Saudita </option>
-            <option value="+213 Argelia">Argelia </option>
-            <option value="+54 Argentina">Argentina</option>
-            <option value="+374 Armenia">Armenia</option>
-            <option value="+297 Aruba">Aruba</option>
-            <option value="+61 Australia">Australia</option>
-            <option value="+43 Austria">Austria</option>
-            <option value="+994 Azerbaiyán">Azerbaiyán</option>
-            <option value="+1 Bahamas">Bahamas</option>
-            <option value="+880 Bangladés">Bangladés </option>
-            <option value="+32 Belgica">Belgica</option>
-            <option value="+501 Belice">Belice</option>
-            <option value="+229 Benín">Benín</option>
-            <option value="+1 Bermudas">Bermudas</option>
-            <option value="+375 Bielorrusia">Bielorrusia</option>
-            <option value="+591 Bolivia">Bolivia</option>
-            <option value="+387 Bosnia y Herzegovina">Bosnia y Herzegovina</option>
-            <option value="+267 Botsuana">Botsuana</option>
-            <option value="+55 Brasil">Brasil</option>
-            <option value="+673 Brunéi">Brunéi</option>
-            <option value="+359 Bulgaria">Bulgaria</option>
-            <option value="+226 Burkina Faso">Burkina Faso </option>
-            <option value="+257 Burundi">Burundi </option>
-            <option value="+975 Bután">Bután</option>
-            <option value="+238 Cabo Verde">Cabo Verde</option>
-            <option value="+855 Camboya">Camboya</option>
-            <option value="+237 Camerún">Camerún</option>
-            <option value="+1 Canadá">Canadá</option>
-            <option value="+974 Catar">Catar</option>
-            <option value="+235 Chad">Chad</option>
-            <option value="+420 Chequia">Chequia</option>
-            <option value="+56 Chile">Chile</option>
-            <option value="+86 China">China</option>
-            <option value="+357 Chipre">Chipre</option>
-            <option value="+57 Colombia">Colombia</option>
-            <option value="+269 Comoras">Comoras</option>
-            <option value="+242 Congo">Congo</option>
-            <option value="+82 Corea del Sur">Corea del Sur</option>
-            <option value="+850 Corea del Norte">Corea del Norte</option>
-            <option value="+225 Costa de Marfil">Costa de Marfil</option>
-            <option value="+506 Costa Rica">Costa Rica</option>
-            <option value="+385 Croacia">Croacia</option>
-            <option value="+53 Cuba">Cuba</option>
-            <option value="+45 Dinamarca"> Dinamarca</option>
-            <option value="+1 Dominica">Dominica</option>
-            <option value="+593 Ecuador">Ecuador</option>
-            <option value="+20 Egipto">Egipto</option>
-            <option value="+503 El Salvador">El Salvador</option>
-            <option value="+971 Emiratos Árabes Unidos">Emiratos Árabes Unidos</option>
-            <option value="+291 Eritrea">Eritrea</option>
-            <option value="+44 Escocia">Escocia</option>
-            <option value="+421 Eslovaquia">Eslovaquia</option>
-            <option value="+386 Eslovenia">Eslovenia</option>
-            <option value="+34 España">España</option>
-            <option value="+372 Estonia">Estonia</option>
-            <option value="+251 Etiopía">Etiopía</option>
-            <option value="+7 Federación Rusa">Federación Rusa</option>
-            <option value="+63 Filipinas">Filipinas</option>
-            <option value="+358 Finlandia">Finlandia</option>
-            <option value="+679 Fiyi">Fiyi </option>
-            <option value="+33 Francia">Francia</option>
-            <option value="+241 Gabón">Gabón </option>
-            <option value="+44 Gales"> Gales</option>
-            <option value="+220 Gambia">Gambia</option>
-            <option value="+995 Georgia">Georgia</option>
-            <option value="+233 Ghana">Ghana</option>
-            <option value="+350 Granada">Granada</option>
-            <option value="+30 Grecia">Grecia</option>
-            <option value="+299 Groenlandia">Groenlandia</option>
-            <option value="+590 Guadalupe">Guadalupe</option>
-            <option value="+1 Guam">Guam </option>
-            <option value="+502 Guatemala">Guatemala </option>
-            <option value="+594 Guayana Francesa">Guayana Francesa</option>
-            <option value="+224 Guinea">Guinea</option>
-            <option value="+240 Guinea Ecuatorial">Guinea Ecuatorial</option>
-            <option value="+245 Guinea-Bissau">Guinea-Bissau </option>
-            <option value="+592 Guyana">Guyana</option>
-            <option value="+509 Haití">Haití</option>
-            <option value="+31 Holanda">Holanda</option>
-            <option value="+504 Honduras">Honduras</option>
-            <option value="+852 HongKong">HongKong</option>
-            <option value="+36 Hungría">Hungría</option>
-            <option value="+91 India">India</option>
-            <option value="+62 Indonesia">Indonesia</option>
-            <option value="+44 Inglaterra">Inglaterra</option>
-            <option value="964 Irak">Irak</option>
-            <option value="+98 Irán">Irán</option>
-            <option value="+353 Irlanda">Irlanda</option>
-            <option value="+44 Irlanda del Norte">Irlanda del Norte</option>
-            <option value="+247 Isla Ascensión">Isla Ascensión</option>
-            <option value="+6723 Isla Norfolk">Isla Norfolk</option>
-            <option value="+354 Islandia">Islandia</option>
-            <option value="+1 Islas Caimán">Islas Caimán</option>
-            <option value="+692 Islas Marshall">Islas Marshall</option>
-            <option value="+677 Islas Salomóm">Islas Salomóm</option>
-            <option value="+1 Islas Turcas y Caicos">Islas Turcas y Caicos</option>
-            <option value="+1 Islas Virgenes Británicas">Islas Virgenes Británicas</option>
-            <option value="+1 Islas Vírgenes de los Estados Unidos">Islas Vírgenes de los Estados Unidos</option>
-            <option value="+972 Israel">Israel</option>
-            <option value="+39 Italia">Italia</option>
-            <option value="+1 Jamaica">Jamaica</option>
-            <option value="+81 Japón">Japón</option>
-            <option value="+962 Jordania">Jordania</option>
-            <option value="+7 Kazajistán">Kazajistán</option>
-            <option value="+254 Kenia">Kenia</option>
-            <option value="+996 Kirguistán">Kirguistán</option>
-            <option value="+686 Kiribati">Kiribati</option>
-            <option value="+965 Kuwait">Kuwait</option>
-            <option value="+856 Laos">Laoso</option>
-            <option value="+266 Lesoto">Lesoto</option>
-            <option value="+371 Letonia">Letonia</option>
-            <option value="+961 Líbano">Líbano</option>
-            <option value="+231 Liberia">Liberia</option>
-            <option value="+218 Libia">Libia</option>
-            <option value="+423 Liechtenstein">Liechtenstein</option>
-            <option value="+370 Lituania">Lituania</option>
-            <option value="+352 Luxemburgo">Luxemburgo</option>
-            <option value="+853 Macao">Macao</option>
-            <option value="+389 Macedonia">Macedonia</option>
-            <option value="+261 Madagascar">Madagascar</option>
-            <option value="+60 Malasia">Malasia</option>
-            <option value="+265 Malalui">Malalui</option>
-            <option value="+960 Maldivas">Maldivas</option>
-            <option value="+223 Malí">Malí</option>
-            <option value="+356 Malta">Malta</option>
-            <option value="+212 Marruecos">Marruecos</option>
-            <option value="+596 Martinica">Martinica</option>
-            <option value="+230 Mauricio">Mauricio</option>
-            <option value="+222 Mauritania">Mauritania</option>
-            <option value="+262 Mayotte">Mayotte</option>
-            <option value="+52 México">México</option>
-            <option value="+691 Micronesia">Micronesia</option>
-            <option value="+373 Moldavia">Moldavia</option>
-            <option value="+377 Mónaco">Mónaco</option>
-            <option value="+976 Mongolia">Mongolia</option>
-            <option value="+382 Montenegro">Montenegro</option>
-            <option value="+1 Monserrat">Monserrat</option>
-            <option value="+258 Mozambique">Mozambique</option>
-            <option value="+95 Nauru">Nauru</option>
-            <option value="+977 Nepal">Nepal</option>
-            <option value="+505 Nicaragua">Nicaragua</option>
-            <option value="+227 Níger">Níger</option>
-            <option value="+234 Nigeria">Nigeria</option>
-            <option value="+683 Niue">Niue</option>
-            <option value="+47 Noruega">Noruega</option>
-            <option value="+687 Nueva Caledonia">Nueva Caledoni</option>
-            <option value="+64 Nueva Zelanda">Nueva Zelanda</option>
-            <option value="+968 Omán">Omán</option>
-            <option value="+92 Pakistán">Pakistán</option>
-            <option value="+680 Palaos">Palaos</option>
-            <option value="+970 Palestina">Palestina</option>
-            <option value="+507 Panáma">Panáma</option>
-            <option value="+675 Papúa Nueva Guinea">Papúa Nueva Guinea</option>
-            <option value="+595 Paraguay">Paraguay</option>
-            <option value="+51 Perú">Perú</option>
-            <option value="+689 Polinesia Francesa">Polinesia Francesa</option>
-            <option value="+48 Polonia">Polonia</option>
-            <option value="+351 Portugal">Portugal</option>
-            <option value="+376 Principado de Andorra">Principado de Andorra</option>
-            <option value="+1 Puerto Rico">Puerto Rico</option>
-            <option value="+973 Reino de Bahréin">Reino de Bahréin</option>
-            <option value="+1 Rep. Dominicana">Rep. Dominicana</option>
-            <option value="+236 República Centroafricana">República Centroafricana</option>
-            <option value="+243 Republica Democrática del Congo">Republica Democrática del Congo</option>
-            <option value="+262 Reunión">Reunión</option>
-            <option value="+250 Ruanda">Ruanda</option>
-            <option value="+40 Rumanía">Rumanía</option>
-            <option value="+212 Sáhara Occidental">Sáhara Occidental</option>
-            <option value="+685 Samoa">Samoa</option>
-            <option value="+1 Samoa Americana">Samoa Americana</option>
-            <option value="+590 San Bartolomé">San Bartolomé</option>
-            <option value="+1 San Cristóbal y Nieves">San Cristóbal y Nieves</option>
-            <option value="+378 San Marino">San Marino</option>
-            <option value="+590 San Martín">San Martín</option>
-            <option value="+508 San Pedro y Miguelón">San Pedro y Miguelón</option>
-            <option value="+1 San Vicente y las Granadinas">San Vicente y las Granadinas</option>
-            <option value="+290 Santa Elena">Santa Elena</option>
-            <option value="+1 Santa Lucía">Santa Lucía</option>
-            <option value="+239 Santo Tomé y Príncipe">Santo Tomé y Príncipe</option>
-            <option value="+870 Satélite Inmarsat">Satélite Inmarsat</option>
-            <option value="+8816 Satélite Iridium">Satélite Iridium</option>
-            <option value="+882 Satélite Thuraya">Satélite Thuraya</option>
-            <option value="+221 Senegal">Senegal</option>
-            <option value="+381 Serbia">Serbia</option>
-            <option value="+248 Seychelles">Seychelles</option>
-            <option value="+232 Sierra Leona">Sierra Leona</option>
-            <option value="+65 Singapur">Singapur</option>
-            <option value="+1 Sint Maarten">Sint Maarten</option>
-            <option value="+963 Siria">Siria</option>
-            <option value="+252 Somalia">Somalia</option>
-            <option value="+94 Sri Lanka">Sri Lanka</option>
-            <option value="+268 Suazilandia">Suazilandia</option>
-            <option value="+27 Sudáfrica">Sudáfrica</option>
-            <option value="+249 Sudán">Sudán</option>
-            <option value="+211 Sudán del Sur">Sudán del Sur</option>
-            <option value="+46 Suecia">Suecia</option>
-            <option value="+41 Suiza">Suiza</option>
-            <option value="+597 Surinam">Surinam</option>
-            <option value="+66 Tailandia">Tailandia</option>
-            <option value="+886 Taiwán">Taiwán</option>
-            <option value="+25 Tanzania">Tanzania</option>
-            <option value="+992 Tayikistan">Tayikistan</option>
-            <option value="+670 Timor Oriental">Timor Oriental</option>
-            <option value="+228 Togo">Togo/option>
-            <option value="+690 Tokelau">Tokelau</option>
-            <option value="+676 Tonga">Tonga</option>
-            <option value="+1 Trinidad y Tobago">Trinidad y Tobago</option>
-            <option value="+216 Túnez">Túnez</option>
-            <option value="+993 Turkmenistán">Turkmenistán</option>
-            <option value="+90 Turquía">Turquía</option>
-            <option value="+688 Tuvalu">Tuvalu</option>
-            <option value="+380 Ucrania">Ucrania</option>
-            <option value="+256 Uganda">Uganda</option>
-            <option value="+598 Uruguay">Uruguay</option>
-            <option value="+1 USA">USA</option>
-            <option value="+998 Uzbekistan">Uzbekistan</option>
-            <option value="+678 Vanuatu">Vanuatu</option>
-            <option value="+39 Vaticano">Vaticano</option>
-            <option value="+58 Venezuela">Venezuela</option>
-            <option value="+84 Vietnam">Vietnam</option>
-            <option value="+681 Wallis y Futuna">Wallis y Futuna</option>
-            <option value="+967 Yemen">Yemen</option>
-            <option value="+253 Yibuti">Yibuti</option>
-            <option value="+260 Zambia">Zambia</option>
-            <option value="+263 Zimbabue">Zimbabue</option>
-          </select>
+      <!-- EMPRESA -->
+      <div class="input-field col s12 m6">
+        <input id="organizacion" name="organizacion" type="text" required>
+        <label for="organizacion">Empresa</label>
+      </div>
 
-      </div> -->
+      <!-- PUESTO -->
+      <div class="input-field col s12 m6">
+        <input id="puesto" name="puesto" type="text">
+        <label for="puesto">Puesto</label>
+      </div>
 
-      <!-- <div class="input-field col s12 m6 l6 xl6"><i class="material-icons prefix">phone </i>
-            <input class="validate" type="text" id="numtel" name="numtel" placeholder="Numero de Teléfono" required="required">
-          </div>
+      <!-- EMAIL -->
+      <div class="input-field col s12 m6">
+        <input id="email" name="email" type="email" class="validate" required>
+        <label for="email">Correo electrónico</label>
+      </div>
 
-        </div>
-        <div class="row"> -->
-          <!-- <div class="input-field col s12 m6 l6 xl6"><i class="material-icons prefix">place </i>
-            <input class="validate" type="text" id="colonia" name="colonia" required="required">
-            <label for="colonia">Colonia</label>
-          </div> -->
-          <!-- <div class="input-field col s12 m6 l6 xl6"><i class="material-icons prefix">place </i>
-            <input class="validate" type="text" id="codigop" name="codigop" required="required">
-            <label for="codigop">Código Postal </label>
-          </div> -->
+      <!-- TIPO EMPRESA -->
+      <div class="input-field col s12">
+        <select name="Tipoempresa" required>
+          <option value="" disabled selected>Selecciona tipo de empresa</option>
+          <option value="Industria">Química</option>
+          <option value="Laboratorio">Material de Empaque</option>
+          <option value="Distribuidor">Transporte</option>
+        </select>
+        <label>Tipo de empresa</label>
+      </div>
 
+      <!-- 🔥 NUEVO CAMPO SOLICITUD -->
+      <div class="input-field col s12">
+        <textarea id="solicitud" name="solicitud" class="materialize-textarea" required></textarea>
+        <label for="solicitud">Describe tu requerimiento (producto, cantidad, especificaciones, etc.)</label>
+      </div>
 
-          <!-- <div class="input-field col s12 m12 l12 xl12"><i class="material-icons prefix">topic </i>
-            <textarea class="materialize-textarea validate" id="textarea1" name="textarea1" required="required"></textarea>
-            <label for="textarea1">Asunto  </label>
-          </div>
-        </div> -->
-        <!-- <div class="row">
-          <div class="input-field col s12 m6 l6 xl6"><i class="material-icons prefix">place </i>
-            <input class="validate" type="text" id="ciudad" name="ciudad" required="required">
-            <label for="ciudad">Ciudad </label>
-          </div> -->
-         
-        </div>
-        <div class="row">
-          <!-- <div class="input-field col s12 m6 l6 xl6"><i class="material-icons prefix">place</i>
-            <input class="validate" type="text" id="estado" name="estado" required="required">
-            <label for="estado">Estado </label>
-          </div> -->
-         
-        </div>
-        <div class="row">
-        
-        </div>
-        <div class="row">
-          <div class="col s12 m12 l12 xl12">
-            <input type="text" id="spamkill" name="spamkill" style="display: none;">
-          </div>
-        </div>
-        <div class="container">
-        <div class="row">
-        <div class="col s12 m12 l12 xl12">
-        <input type="hidden" name="recaptcha_response" id="recaptchaResponse">
-        </div>
-        </div>
-        </div>
-        <div class="row center-align" style="margin-top:-100px;">
-          <div class="col s12 m12 l12 xl12" style="margin-top:-50px;">
-            <button class="btn waves-light" type="submit" name="Enviarinformacion" id="Enviarinformacion" onclick= "document.getElementById('enviocorreo').submit();Validarcampos();" class="Tipografia--general Botones" style="background-color: #071637; text-transform: none;"><span id="envioinfocon">Enviar Información   </span></button>
-          </div>
-        </div>
-        </form>
-        <div class="row" style="margin-top: 30px;">
-          <div class="col s12 m12 l12 xl12">
-            <!-- <h6><b class="Tipografia--general color--corporativo Titulos" style="border-bottom: 1.5px solid #c73e32;">Países</b></h6> -->
-            <!-- <br><a class="btn arrowblue" href="" style="background-color:#262137;margin-top:9px;text-transform:none;">México<img src="img/banderadebotonmexico.png" alt="" style="max-width:20px;margin-left:15px;margin-top: 13px;"></a> -->
-          </div>
-        </div>
-        <div class="row" style="margin-top: 30px;">
-          <div class="col s12 m12 l12 xl12">
-          <div id="modal10" class="modal esquinas_redondeadas_contacto">
-            <div class="modal-content">
-              <div class="row">
-              <!-- <div class="col s12 m12 l6 xl6">
-                <h4 class="Tipografia--general color--corporativo Titulos"><b style="border-bottom:solid 1px #c73e32;">Oficinas Corporativas</b></h4>
-                <p class="Tipografia--general General--Cuerpo letranegro"><b></b>Calle Manuel E. Izaguirre No. 29, Interior 205, <br>Col. Ciudad Satélite, C.P. 53100,<br> Municipio de Naucalpan de Juárez,<br>Estado de México, México.</p>
-                <p class="Tipografia--general General--Cuerpo letranegro"><i class="tiny material-icons prefix">phone</i><b>Télefono:</b><a class="arrowblue" href="tel:+525575861888" style="color:#071637">+52.55.4438.7996</a></p> -->
-               <!-- <a href="https://goo.gl/maps/xeqQd6eRRN2FBvun9" style="text-transform: capitalize;" class="btn Tipografia--general Botones color--blanco arrowblue fondo--color--corporativo">Ir a la ubicacion</a> -->
-              </div>
-                <!-- <div class="col s12 m12 l6 xl6">
-                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3760.666559442594!2d-99.23383268461188!3d19.51297644316076!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d202d7a6540001%3A0xc5591658f3810ce0!2sChemical%20Broker!5e0!3m2!1ses-419!2smx!4v1636733372409!5m2!1ses-419!2smx" width="300" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-                </div> -->
-              </div>
-              <!-- <div class="row" style="margin-top:80px;">
-                <div class="col s12 m12 l6 xl6">
-                  <h4 class="Tipografia--general color--corporativo Titulos"><b>Centro Distribución México</b></h4>
-                  <p class="Tipografia--general General--Cuerpo letranegro"><b></b>Calle industria #13,<br>Col. Agua Blanca, C.P. 52700,<br> Municipio de Calpuhuac,<br>Toluca, Estado de México.</p>
-                  <p class="Tipografia--general General--Cuerpo letranegro"><i class="tiny material-icons prefix">phone</i><b>Télefono:</b>+52.55.4438.7996</p> -->
-                 <!-- <a href="https://goo.gl/maps/xeqQd6eRRN2FBvun9" style="text-transform: capitalize;" class="btn Tipografia--general Botones color--blanco arrowblue fondo--color--corporativo">Ir a la ubicacion</a> -->
-                <!-- </div>
-                <div class="col s12 m12 l6 xl6">
-                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3760.666559442594!2d-99.23383268461188!3d19.51297644316076!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d202d7a6540001%3A0xc5591658f3810ce0!2sChemical%20Broker!5e0!3m2!1ses-419!2smx!4v1636733372409!5m2!1ses-419!2smx" width="300" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-                </div>
-              </div>este -->
-            </div>
-        </div>
-          <!-- <img src="img/CB_CONTACTO_150322_V3.jpg" alt="Mapa del Mundo" usemap="#Mapa_Mundo" width="100%" class="ubicaciones">
-          <map name="Mapa_Mundo">
-          <area shape="circle" coords="600,600,30" href="#modal10" class="modal-trigger" alt="">
-        </map> -->
-          </div>
-        </div>
+      <!-- RECAPTCHA -->
+      <input type="hidden" name="recaptcha_response" id="recaptchaResponse">
+
+      <!-- HONEYPOT -->
+      <input type="text" name="spamkill" style="display:none;">
+
+      <!-- BOTÓN -->
+      <div class="col s12 center-align" style="margin-top:20px;">
+        <button class="btn waves-effect waves-light" type="submit" style="border-radius:25px; padding:0 30px;background-color:#071637">
+          Solicitar cotización
+          <i class="material-icons right">send</i>
+        </button>
+      </div>
+
+    </form>
+
+  </div>
+
+</div>
         <!-- <div class="row">
           <div class="col s12 m12 l12 xl12"><br>
             <div style="background-color:#262137;text-align:center"><span style="color:white"> <b>Oficinas Corporativas </b></span></div>
@@ -878,9 +596,9 @@ recaptchaResponse.value = token;
 
        <!-- Boton de whatsapp -->
 
-       <a href="https://wa.me/5615242685?text=Hola" target="_blank" style="display: inline-block;background-color:#25d366;color:#fff;padding: 10px 20px; border-radius: 5px;text-align:center;text-decoration:none;">
+  
 
-       <i class="fa fa-whatsapp"></i> Contactanos por Whatsapp
+      
 
        </a>
 
@@ -895,12 +613,99 @@ recaptchaResponse.value = token;
 </div>
 
     </div>
-    <footer class="altofooter">
-<div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg" alt="ESCUDO DE C&E"></div><br><br>
-<div class="container-fluid center-align" style="margin-top:-50px">
-<p class="Tipografia--general letranegro center-align Pie--Pagina">© 2014 | Chemical Broker Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto |&nbsp</a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad </a></p>
-</div>
+    <footer style="margin-top:70px">
+  <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
+      alt=""></div><br><br>
+  <div class="container-fluid" style="text-align:center;margin-top:-50px">
+    <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos Reservados.
+      | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
+        href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de
+        Privacidad </a>
+      <script type="text/javascript" src="js/main.js"></script></a></strong>
+    </p>
+    <script type="text/javascript" src="js/Products.js"></script>
+    <link rel="shortcut icon" href="img/CB_ICON.ico" />
+  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.js"
+  <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+    crossorigin="anonymous"></script>
+  <script src="js/materialize.js" type="text/javascript"></script>
+  <script src="js/init.js"></script>
+
+  <script type="text/javscript" src="js/materialize.min.js"></script>
+  <script type="text/javascript"
+    src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+
+<a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
+  </div>
 </footer>
+
+<!-- TODO tu contenido -->
+
+<!-- AQUÍ VA -->
+<script src="https://www.google.com/recaptcha/api.js?render=6LemSMgsAAAAAFrk626dKTVWl5r48Idu_fa5gx8P"></script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+    const form = document.getElementById("formContacto");
+
+    form.addEventListener("submit", function (e) {
+        e.preventDefault();
+
+        console.log("Intentando enviar...");
+
+        // 🔴 FALLBACK 1: si reCAPTCHA no carga
+        if (typeof grecaptcha === "undefined") {
+            console.log("reCAPTCHA no cargó");
+            form.submit();
+            return;
+        }
+
+        grecaptcha.ready(function () {
+            grecaptcha.execute('6LemSMgsAAAAAFrk626dKTVWl5r48Idu_fa5gx8P', {action: 'submit'})
+            .then(function (token) {
+
+                console.log("TOKEN:", token);
+
+                // 🔴 FALLBACK 2: si token viene vacío
+                if (!token) {
+                    console.log("Token vacío");
+                    form.submit();
+                    return;
+                }
+
+                document.getElementById("recaptchaResponse").value = token;
+                form.submit();
+
+            })
+            .catch(function (error) {
+
+                console.log("Error reCAPTCHA:", error);
+
+                // 🔴 FALLBACK 3: si ocurre error
+                form.submit();
+            });
+        });
+
+    });
+
+});
+</script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    var elems = document.querySelectorAll('select');
+    M.FormSelect.init(elems);
+});
+</script>
+</body>
     <script type="text/javascript" src="js/main.js"></script>
   </body>
 </html>

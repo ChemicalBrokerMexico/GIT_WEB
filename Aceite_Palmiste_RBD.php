@@ -325,7 +325,7 @@
 <div style="display:flex;justify-content:center"> 
 <p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
 </div></a> -->
-<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
+<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;">search</i></a></li>
 </ul>
       <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i
             class="material-icons search-mobile-icon margin-left-search-mobile-icon" style="width:0px;margin-left:-10px;">search</i></a></div>
@@ -535,7 +535,7 @@
         <div class="row">
             <div class="col s12 m12 l12 xl12">
 
-      <section style="margin-top:0px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Products_news.php"><b class="Tipografia--general Subtitulos" style="color:red;"> Productos ></b></a><a class="active" href="Products_news.php"><b class="Tipografia--general Subtitulos" style="color:red;">Aceite de Palmiste RBD</b></a></section>
+      <section style="margin-top:0px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Products_news.php"><b class="Tipografia--general Subtitulos" style="color:black;"> Productos ></b></a><a class="active" href="Products_news.php"><b class="Tipografia--general Subtitulos" style="color:red;">Aceite de Palmiste RBD</b></a></section>
 
                 <p class="Tipografia--general letranegro General--Cuerpo">El <b>Aceite de Palmiste RBD (Refinado, Blanqueado y Desodorizado)</b> es un aceite vegetal obtenido a partir de la semilla o núcleo de la palma de aceite (Elaeis guineensis). Este aceite es diferente al aceite de palma, que se extrae de la pulpa del fruto. El término RBD indica que ha pasado por procesos de refinado, blanqueado y desodorizado para eliminar impurezas, colores y olores, haciéndolo más adecuado para aplicaciones industriales y alimenticias.</p>
 
@@ -655,6 +655,11 @@
     </div>
 
 
+    <!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js-na1.hs-scripts.com/43785156.js"></script>
+<script src="js/Traduccion.js"></script>
+<!-- End of HubSpot Embed Code -->
+
     <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
     <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
 </a>
@@ -684,7 +689,6 @@
     src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
-  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Palmiste_RBD.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">

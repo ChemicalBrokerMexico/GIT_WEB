@@ -16,6 +16,9 @@
     gtag('js', new Date());
     gtag('config', 'G-SGJQ8FDDJ6');
   </script>
+
+
+
 </head>
 
 <body>
@@ -620,18 +623,28 @@
           </li>
         </ol> -->
 
-        <div class="card">
-          <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
-           <a href="Glycerins.php"><img class="activator" src="img/BANNER_PRINCIPAL.jpg"></a>
-          </div>
-          <div class="card-content">
-            <span class="card-title activator grey-text text-darken-4"><b>Glicerina</b></span>
-          </div>
-          <!-- <div class="card-reveal">
-            <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
-            <p>Here is some more information about this product that is only revealed once clicked on.</p>
-          </div> -->
-        </div>
+        <div class="card custom-card hoverable">
+  
+  <div class="card-image">
+    <a href="Glycerins.php">
+      <img src="img/BANNER_PRINCIPAL.jpg" alt="Glicerina" class="custom-img">
+    </a>
+    <span class="card-badge">Producto</span>
+  </div>
+
+  <div class="card-content">
+    <span class="card-title">Glicerina</span>
+    
+    <p class="card-description">
+      Ingrediente versátil de alta pureza ideal para aplicaciones industriales, cosméticas y farmacéuticas.
+    </p>
+  </div>
+
+  <div class="card-action">
+    <a href="Glycerins.php" class="btn custom-btn">Ver producto</a>
+  </div>
+
+</div>
       </div>
     </div>
 

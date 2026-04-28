@@ -1,3 +1,469 @@
+/* FARMACEUTICA */
+.bg-farma {
+    background: #0066FF;
+  }
+
+  .overlay-farma {
+    background: linear-gradient(90deg, #0066FF, rgba(30,136,229,0.2));
+  }
+
+  .card-farma .dots-pattern div {
+    background: #0066FF;
+  }
+  
+  /* VETERINARIA */
+  /* OVERLAY VERDE */
+.card-vet .overlay {
+    background: linear-gradient(90deg, #42A5F5, rgba(67,160,71,0.2)) !important;
+  }
+  
+  /* ICONO VERDE */
+  .card-vet .icon-circle {
+    background: #42A5F5 !important;
+  }
+  
+  /* CUADRITOS VERDES */
+  .card-vet .dots-pattern div {
+    background: #42A5F5;
+  }
+
+/* NUTRICION HUMANA */
+
+  /* OVERLAY */
+.card-alimentaria .overlay {
+    background: linear-gradient(90deg, #F5DF4D, rgba(255,193,7,0.2)) !important;
+  }
+  
+  /* ICONO */
+  .card-alimentaria .icon-circle {
+    background: #F5DF4D !important;
+  }
+  
+  /* CUADRITOS */
+  .card-alimentaria .dots-pattern div {
+    background: #F5DF4D;
+  }
+
+  /* NUTRICION ANIMAL */
+
+  /* OVERLAY */
+.card-animal .overlay {
+    background: linear-gradient(90deg, #b5ddf2, rgba(102,187,106,0.2)) !important;
+  }
+  
+  /* ICONO */
+  .card-animal .icon-circle {
+    background: #b5ddf2 !important;
+  }
+  
+  /* CUADRITOS */
+  .card-animal .dots-pattern div {
+    background: #b5ddf2;
+  }
+
+  
+  /* AGRO */
+/* OVERLAY */
+.card-agro .overlay {
+    background: linear-gradient(90deg, #009639, rgba(46,125,50,0.2)) !important;
+  }
+  
+  /* ICONO */
+  .card-agro .icon-circle {
+    background: #009639 !important;
+  }
+  
+  /* CUADRITOS */
+  .card-agro .dots-pattern div {
+    background: #009639;
+  }
+  
+  /* COSMETICOS */
+ /* OVERLAY ROSA PREMIUM */
+.card-cosmetico .overlay {
+    background: linear-gradient(90deg, #f5b6cd, rgba(216,27,96,0.2)) !important;
+  }
+  
+  /* ICONO */
+  .card-cosmetico .icon-circle {
+    background: #f5b6cd !important;
+  }
+  
+  /* CUADRITOS */
+  .card-cosmetico .dots-pattern div {
+    background: #f5b6cd;
+  }
+  /* DETERGENTES */
+ /* OVERLAY */
+.card-detergente .overlay {
+    background: linear-gradient(90deg, rgba(0,172,193,0.85), rgba(0,172,193,0.2)) !important;
+  }
+  
+  /* ICONO */
+  .card-detergente .icon-circle {
+    background: #00ACC1 !important;
+  }
+  
+  /* CUADRITOS */
+  .card-detergente .dots-pattern div {
+    background: #00ACC1;
+  }
+ /* OVERLAY */
+.card-quimico .overlay {
+    background: linear-gradient(90deg, rgba(251,140,0,0.85), rgba(251,140,0,0.2)) !important;
+  }
+  
+  /* ICONO */
+  .card-quimico .icon-circle {
+    background: #FB8C00 !important;
+  }
+  
+  /* CUADRITOS */
+  .card-quimico .dots-pattern div {
+    background: #FB8C00;
+  }
+
+
+
+.custom-btn-white {
+    background: rgba(255,255,255,0.95) !important;
+    color: #0b1c3d !important; /* tu azul corporativo */
+    border-radius: 25px;
+    padding: 8px 20px;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    font-weight: 500;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+    transition: all 0.3s ease;
+  }
+  
+  .custom-btn-white i {
+    color: #0b1c3d;
+    font-size: 14px;
+  }
+  
+  /* HOVER PRO */
+  .custom-btn-white:hover {
+    background: #ffffff !important;
+    transform: translateY(-2px);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+  }
+
+/* CARD */
+.custom-card {
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+    transition: all 0.4s ease;
+  }
+  
+  .custom-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 20px 50px rgba(0,0,0,0.3);
+  }
+  
+  /* CONTENEDOR VIDEO */
+  .video-container-card {
+    position: relative;
+    height: 350px;
+    overflow: hidden;
+  }
+  
+  /* VIDEO */
+  .card-video {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    top: 0;
+    left: 0;
+    z-index: 0;
+  }
+  
+  /* OVERLAY */
+  .overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+  }
+  
+  /* GRADIENTE */
+  .yellow-gradient {
+    background: linear-gradient(90deg, rgba(255,193,7,0.85) 0%, rgba(255,193,7,0.2) 100%);
+  }
+  
+  /* ICONO */
+  .icon-circle {
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    width: 70px;
+    height: 70px;
+    background: #ffc107;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 3;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.3);
+  }
+  
+  .icon-circle i {
+    color: white;
+    font-size: 30px;
+  }
+  
+  /* CONTENIDO */
+  .card-content-custom {
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+    right: 30px;
+    color: white;
+    z-index: 3;
+  }
+  
+  .card-content-custom h5 {
+    font-weight: 600;
+  }
+  
+  .card-content-custom p {
+    margin: 10px 0;
+    font-size: 14px;
+  }
+  
+  /* BOTÓN */
+  .custom-btn {
+    background: #0b1c3d;
+    border-radius: 25px;
+    padding: 8px 20px;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .custom-btn i {
+    font-size: 14px;
+  }
+  
+  /* HOVER BOTÓN */
+  .custom-btn:hover {
+    background: #122a5c;
+  }
+  
+  /* CARD */
+.custom-card {
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+    transition: all 0.4s ease;
+  }
+  
+  .custom-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 20px 50px rgba(0,0,0,0.3);
+  }
+  
+  /* VIDEO CONTENEDOR */
+  .video-container-card {
+    position: relative;
+    height: 350px;
+    overflow: hidden;
+  }
+  
+  /* VIDEO */
+  .card-video {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    top: 0;
+    left: 0;
+    z-index: 0;
+  }
+  
+  /* OVERLAY */
+  .overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+  }
+  
+  /* GRADIENTE */
+  .yellow-gradient {
+    background: linear-gradient(90deg, rgba(255,193,7,0.85) 0%, rgba(255,193,7,0.2) 100%);
+  }
+  
+  /* ICONO */
+  .icon-circle {
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    width: 70px;
+    height: 70px;
+    background: #ffc107;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 3;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.3);
+  }
+  
+  .icon-circle i {
+    color: white;
+    font-size: 30px;
+  }
+  
+  /* CONTENIDO */
+  .card-content-custom {
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+    right: 30px;
+    color: white;
+    z-index: 3;
+  }
+  
+  .card-content-custom h5 {
+    font-weight: 600;
+  }
+  
+  .card-content-custom p {
+    margin: 10px 0;
+    font-size: 14px;
+  }
+  
+  /* BOTÓN BLANCO */
+  .custom-btn-white {
+    background: rgba(255,255,255,0.95) !important;
+    color: #0b1c3d !important;
+    border-radius: 25px;
+    padding: 8px 20px;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    font-weight: 500;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+    transition: all 0.3s ease;
+  }
+  
+  .custom-btn-white i {
+    color: #0b1c3d;
+  }
+  
+  .custom-btn-white:hover {
+    background: #ffffff !important;
+    transform: translateY(-2px);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+  }
+  
+  /* CUADRITOS */
+  .dots-pattern {
+    position: absolute;
+    bottom: 20px;
+    right: 25px;
+    display: grid;
+    grid-template-columns: repeat(5, 6px);
+    gap: 6px;
+    z-index: 2;
+  }
+  
+  .dots-pattern div {
+    width: 6px;
+    height: 6px;
+    background: #ffc107;
+    border-radius: 2px;
+    opacity: 0.8;
+    animation: floatDots 3s infinite ease-in-out;
+  }
+  
+  .dots-pattern div:nth-child(odd) {
+    animation-delay: 0.5s;
+  }
+  
+  /* ANIMACIÓN */
+  @keyframes floatDots {
+    0% { transform: translateY(0px); opacity: 0.6; }
+    50% { transform: translateY(-5px); opacity: 1; }
+    100% { transform: translateY(0px); opacity: 0.6; }
+  }
+
+  /* OVERLAY BASE */
+.overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+  }
+  
+  /* FARMACEUTICA (sobrescribe TODO) */
+  .overlay.overlay-farma {
+    background: linear-gradient(90deg, rgba(30,136,229,0.85) 0%, rgba(30,136,229,0.2) 100%) !important;
+  }
+  
+  /* ICONO BASE */
+  .icon-circle {
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 3;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.3);
+  }
+  
+  /* COLOR FARMACEUTICA */
+  .icon-circle.bg-farma {
+    background: #1E88E5 !important;
+  }
+  
+  /* MOBILE */
+  @media (max-width: 600px) {
+    .video-container-card {
+      height: 260px;
+    }
+  
+    .card-content-custom {
+      bottom: 15px;
+      left: 15px;
+    }
+  
+    .icon-circle {
+      width: 50px;
+      height: 50px;
+    }
+  }
+
+  /* MOBILE */
+  @media (max-width: 600px) {
+    .video-container-card {
+      height: 260px;
+    }
+  
+    .card-content-custom {
+      bottom: 15px;
+      left: 15px;
+    }
+  
+    .icon-circle {
+      width: 50px;
+      height: 50px;
+    }
+  }
+  
+  .custom-btn:hover {
+    background: white;
+    color: black;
+  }
+
 #rotar {
     -webkit-transition-duration: 0.8s;
     -moz-transition-duration: 0.8s;
@@ -325,10 +791,73 @@ li {
         z-index:100;
     }
 
+   
+  .custom-card {
+  border-radius: 20px;
+  overflow: hidden;
+  transition: all 0.3s ease;
+  border: 1px solid #e0e0e0;
+}
+
+.custom-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 35px rgba(0,0,0,0.1);
+}
+
+.custom-img {
+  height: 200px;
+  object-fit: cover;
+}
+
+.card-badge {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  background: #071637;
+  color: #fff;
+  padding: 5px 12px;
+  font-size: 12px;
+  border-radius: 20px;
+}
+
+.card-title {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.card-description {
+  font-size: 14px;
+  color: #616161;
+  line-height: 1.5;
+}
+
+.card-action {
+  border-top: none;
+  padding-top: 0;
+}
+
+.custom-btn {
+  width: 100%;
+  border-radius: 10px;
+  background: #071637;
+}
+
+.custom-btn:hover {
+  background: #1565c0;
+}
+
 
 @media only screen and (max-width: 576px) {
 
 
+    .pleca-sulfosuccinatos{
+        width: 504px;
+    }
+
+    .breadfosfatos{
+        margin-left:auto;
+    }
   
     .Tipografia--general-slogans{
         font-family: Arial;
@@ -1293,6 +1822,9 @@ font-size: 12px;
 
 @media only screen and (min-width: 576px) {
 
+    .breadfosfatos{
+        margin-left:auto;
+    }
   
     .Tipografia--general-slogans{
         font-family: Arial;
@@ -2169,6 +2701,15 @@ font-size: 12px;
         width:70%;
     }
 
+
+    .Tabla_TCM_Mobile{
+        display: inline;
+    }
+
+    .Tabla_TCM_Desktop{
+        display: none;
+    }
+
 }
 
 @media only screen and (min-width:639px) and (max-width:640px) {
@@ -2273,8 +2814,17 @@ font-size: 12px;
         width:35%;
     }
 
-  
+    .search-desktop-icon{
+        margin-left:60px;
+    }
    
+    .Tabla_TCM_Mobile{
+        display: inline;
+    }
+
+    .Tabla_TCM_Desktop{
+        display: none;
+    }
 
 }
 
@@ -2562,6 +3112,18 @@ font-size: 12px;
     .sides-sugar{
         margin-left: -80px !important
      }
+
+     .search-desktop-icon{
+        margin-left:60px;
+    }
+
+    .Tabla_TCM_Mobile{
+        display: inline;
+    }
+
+    .Tabla_TCM_Desktop{
+        display: none;
+    }
 }
 
 @media only screen and (min-width: 992px) {
@@ -2680,6 +3242,18 @@ margin-top: -44px;
     margin-top:130px;
 }
 
+.search-desktop-icon{
+    margin-left:60px;
+}
+
+.Tabla_TCM_Mobile{
+    display: inline;
+}
+
+.Tabla_TCM_Desktop{
+    display: none;
+}
+
 }
 
 @media only screen and (min-width: 1025px) {
@@ -2787,6 +3361,18 @@ margin-top: -44px;
 
     .columnas_dextrosas{
         margin-top:-9px;
+    }
+
+    .search-desktop-icon{
+        margin-left:157px;
+    }
+
+    .Tabla_TCM_Mobile{
+        display: inline;
+    }
+
+    .Tabla_TCM_Desktop{
+        display: none;
     }
 }
 
@@ -3080,6 +3666,19 @@ margin-top: -44px;
         opacity: 0.7;
     }
 
+
+    .search-desktop-icon{
+        margin-left:157px;
+    }
+
+    .Tabla_TCM_Mobile{
+        display: inline;
+    }
+
+    .Tabla_TCM_Desktop{
+        display: none;
+    }
+
     
 }
 
@@ -3216,6 +3815,18 @@ margin-top: -44px;
         width:25%;
     }
 
+    .search-desktop-icon{
+        margin-left:60px;
+    }
+
+    .Tabla_TCM_Mobile{
+        display: inline;
+    }
+
+    .Tabla_TCM_Desktop{
+        display: none;
+    }
+
 }
 
 @media only screen and (min-width:1240px) {
@@ -3236,6 +3847,22 @@ margin-top: -44px;
         display: inline-block;
         margin-left: 0px;
         margin-top: 0px;
+    }
+
+    .search-desktop-icon{
+        margin-left:60px;
+    }
+
+    .search-desktop-icon{
+        margin-left:60px;
+    }
+
+    .Tabla_TCM_Mobile{
+        display: none;
+    }
+
+    .Tabla_TCM_Desktop{
+        display: inline;
     }
 
 }
@@ -3259,7 +3886,7 @@ margin-top: -44px;
     }
 
     .btn-search-desktop1 {
-        margin-left: -238px;
+        margin-left: 57px;
         margin-top: -41px;
     }
 
@@ -3762,6 +4389,14 @@ margin-top:51px;
 
     .search-desktop-icon{
         margin-left:60px;
+    }
+
+    .Tabla_TCM_Mobile{
+        display: none;
+    }
+
+    .Tabla_TCM_Desktop{
+        display: inline;
     }
 
 }
@@ -4287,7 +4922,15 @@ margin-top:51px;
 
 
     .search-desktop-icon{
-        margin-left:60px;
+        margin-left:158px;
+    }
+
+    .Tabla_TCM_Mobile{
+        display: none;
+    }
+
+    .Tabla_TCM_Desktop{
+        display: inline;
     }
 
 }
@@ -4617,10 +5260,26 @@ margin-top:85px;
         font-size:20px;
     }
 
+    .Tabla_TCM_Mobile{
+        display: none;
+    }
+
+    .Tabla_TCM_Desktop{
+        display: inline;
+    }
+
 }
 
 @media only screen and (min-width: 1745px){
 
+
+    .breadfosfatos{
+        margin-left: 769px;
+    }
+
+    .agrasodesktop{
+        display: none;
+    }
    
     .Tipografia--general-slogans{
         font-family: Arial;
@@ -4947,11 +5606,21 @@ margin-top:85px;
     .HalavetLogo{
         width:30%;
     }
+
+    .Tabla_TCM_Mobile{
+        display: none;
+    }
+
+    .Tabla_TCM_Desktop{
+        display: inline;
+    }
 }
 
 @media only screen and (min-width: 1750px) {
 
-
+    .breadfosfatos{
+        margin-left: 769px;
+    }
 
     .btn_leerMas{
         position: absolute;
@@ -5090,7 +5759,7 @@ margin-top:85px;
     }
 
     .divfooter2:before {
-        margin: 2% 0% 1.5% 0%;
+        margin: 2% 0% 1.5% -2%;
         ;
     }
 
@@ -6068,6 +6737,10 @@ margin-top:85px;
 }
 
 @media only screen and (min-width:2143px) {
+
+    .breadfosfatos{
+        margin-left: 769px;
+    }
 
     .divfooter:before,
     .divfooter:after {

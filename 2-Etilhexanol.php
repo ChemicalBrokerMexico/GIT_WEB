@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | 2-Etilhexanol del Fabricante BASF | Proveedor Global</title>
+  <title>Chemical Broker | 2-Etilhexanol del Fabricante BASF | Proveedor Global y Nacional de Ingredientes Quimicos</title>
   <meta name="description" content="El 2-ethyl hexanol es un alcohol industrial usado como intermediario quimico en plastificantes, recubrimientos, adhesivos y resinas"> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/2-Etilhexanol.php">
@@ -47,7 +47,7 @@
 </head>
 
 <body>
-  <div class="modal" id="modal1" style="overflow-y:auto;">
+<div class="modal" id="modal1" style="overflow-y:auto;">
     <div class="modal-content" style="overflow-y:auto;">
       <h6 class="letranegro"> <b class="tipografia--general Titulos letranegro">Respetamos tu Privacidad</b></h6>
       <p class="General--Cuerpo Tipografia--general letranegro">Este sitio web utiliza cookies. Con la ayuda de las
@@ -73,12 +73,12 @@
                 sitio web, puede almacenar o recuperar información en su navegador, principalmente en forma de cookies.
                 Esta información puede ser sobre usted, sus preferencias o su dispositivo y se utiliza principalmente
                 para hacer que el sitio funcione como espera. Por lo general, la informacion no lo identifica
-                directamente, pero puede brindarle una experiencia web mas personalizada. Debido a que respetamos su
+                directamente, pero puede brindarle una experiencia web más personalizada. Debido a que respetamos su
                 derecho a la privacidad, puede optar por no permitir algunos tipos de cookies. Haga clic en los titulos
                 de las diferentes categorías para obtener más información y cambiar nuestra configuración
                 predeterminada. Sin embargo, bloquear algunos tipos de cookies puede afectar su experiencia en el sitio
                 y los servicios que podemos ofrecer.</p>
-              <p> <a class="Botones Tipografia--general" href="#" style="color:blue;float:left;">Mas información</a></p>
+              <p> <a class="Botones Tipografia--general" href="#" style="color:blue;float:left;">Más información</a></p>
               <div class="row">
                 <div class="col s12 m12 l12 xl12" style="margin-top:16px"><a
                     class="modal-close Tipografia--general Botones" href="#!"
@@ -267,8 +267,7 @@
                             class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                             <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
                                                         id="aparece"></i></a></li>
-                                                          <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBM_CODCONDUCT_PROVEEDORES.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBM_CODCONDUCT_CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBM_CODCONDUCT_PROVEEDORES.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
 <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBM_CODCONDUCT_CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                     </p>
                   </ul>
@@ -283,8 +282,8 @@
                           &nbsp<i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                     </p>
                   </ul>
-                </section> -->
-                <!-- <section>
+                </section>
+                <section>
 <ul> 
 <p class="color--blanco"><b class="Tipografia--general Titulos">Denuncias quejas y sugerencias</b>
 </p><hr class="hr">
@@ -323,7 +322,7 @@
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
             href="Mercados.php"><b>Mercados</b></a></li>
         <ul id="dropdown3" class="dropdown-content">
-              <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a>
+                    <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a>
           </li>
           
 <li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
@@ -334,7 +333,6 @@
         <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" <li><a
               class="elemennav-secun Tipografia--general letranegro Subtitulos"
               href="Servicios.php"><b>Servicios</b></a></li>
-              <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" href="Servicios.php"><b>Servicios</b></a></li>
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i class="material-icons right">arrow_drop_down</i></b></a>
 <ul id="dropdown4" class="dropdown-content" tabindex="0">
 <li tabindex="0"><a href="Cumplimiento.php" class="Tipografia--general letranegro Subtitulos">Sistema de Gestión Integral</a></li>
@@ -350,7 +348,7 @@
 <div style="display:flex;justify-content:center"> 
 <p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
 </div></a> -->
-<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
+<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;">search</i></a></li>
 </ul>
       <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i
             class="material-icons search-mobile-icon margin-left-search-mobile-icon" style="width:0px">search</i></a></div>
@@ -540,6 +538,7 @@
       </div>
     </div>
   </ul>
+
 
   <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
@@ -821,16 +820,29 @@
       <script type="text/javascript" src="js/main.js"></script></a></strong>
     </p>
     <script type="text/javascript" src="js/Products.js"></script>
-    <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
-  <script src="js/materialize.js" type="text/javascript"></script>
-  <script src="js/init.js"></script>
-  <script type="text/javscript" src="js/materialize.min.js"></script>
-  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+    <link rel="shortcut icon" href="img/CB_ICON.ico" />
+  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.js"
+  <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+    crossorigin="anonymous"></script>
+  <script src="js/materialize.js" type="text/javascript"></script>
+  <script src="js/init.js"></script>
+
+  <script type="text/javscript" src="js/materialize.min.js"></script>
+  <script type="text/javascript"
+    src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+    <!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js-na1.hs-scripts.com/43785156.js"></script>
+<script src="js/Traduccion.js"></script>
+<!-- End of HubSpot Embed Code -->
+<a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
   </div>
 </footer>
 
