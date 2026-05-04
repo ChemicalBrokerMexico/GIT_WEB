@@ -395,7 +395,7 @@
       <div class="row">
         <div class="col s12 m12 l12 xl12">
 
-        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a href="Mercados.php" style="color:black !important;"><b>Mercados&nbsp>&nbsp</b></a><a href="Alimentos.php" style="color:black !important;"><b>Alimentos&nbsp>&nbsp </b></a><a href="Lacteos.php" style="color:black !important;"><b>Lacteos&nbsp>&nbsp </b></a><a class="active" href="Leche_Polvo.php"><b class="Tipografia--general Subtitulos" style="color:red;">Leche en Polvo</b></a></a></section>
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Inicio&nbsp>&nbsp </b></a><a href="Mercados.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Mercados&nbsp>&nbsp</b></a><a href="Alimentos.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Alimentos & Nutricion Humana&nbsp>&nbsp </b></a><a href="Lacteos.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Lacteos&nbsp>&nbsp </b></a><a class="active" href="Leche_Polvo.php"><b class="Tipografia--general Subtitulos" style="color:red;">Leche en Polvo</b></a></a></section>
 
           <p class="Tipografia--general letranegro General--Cuerpo">La industria de la Leche en Polvo es una rama importante del sector lacteo que transforma la leche liquida en un producto seco, ligero y de larga duracion. Este formato es especialmente relevante en regiones con acceso limitado a productos frescos, en la produccion de alimentos procesados y como ingrediente en diversas industrias</p>
 

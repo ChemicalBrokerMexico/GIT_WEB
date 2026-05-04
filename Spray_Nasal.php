@@ -542,8 +542,9 @@
   <div class="container" style="margin-top:120px;">
     <div class="row">
       <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp
-            </b></a><a href="Mercados.php" style="color:black !important;"><b>Mercados&nbsp>&nbsp </b></a><a
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Inicio&nbsp>&nbsp
+            </b></a><a href="Mercados.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Mercados&nbsp>&nbsp </b></a><a href="pharmaceutical.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Farmaceutica&nbsp>&nbsp
+            </b></a><a
             class="active" href="Spray_Nasal.php"><b class="Tipografia--general Subtitulos" style="color:red;">Spray
               Nasal</b></a></section>
         <p class="Tipografia--general General--Cuerpo">El mercado de los sprays nasales es una parte importante del

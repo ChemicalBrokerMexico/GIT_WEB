@@ -394,7 +394,7 @@
       <div class="row">
         <div class="col s12 m12 l12 xl12">
 
-        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Mercados.php"><b class="Tipografia--general Subtitulos" style="color:Black;">Mercados > </b></a><a class="active" href="Tabletas_Duras.php"><b class="Tipografia--general Subtitulos" style="color:red;">Tabletas Duras</b></a></section>
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Inicio&nbsp>&nbsp </b></a><a class="active" href="Mercados.php"><b class="Tipografia--general Subtitulos" style="color:Black;">Mercados > </b></a><a href="pharmaceutical.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Farmaceutica&nbsp>&nbsp </b></a><a class="active" href="Tabletas_Duras.php"><b class="Tipografia--general Subtitulos" style="color:red;">Tabletas Duras</b></a></section>
 
           <p class="Tipografia--general General--Cuerpo letranegro">La industria de los medicamentos en tabletas es una parte esencial del sector farmacéutico caracterizado por constantes avances y adaptaciones. Las compañías farmacéuticas invierten en investigación y desarrollo para formular tabletas seguras y efectivas, abarcando una amplia variedad de medicamentos.</p>
           <p class="Tipografia--general General--Cuerpo letranegro" style="margin-top:50px;">El contenido de las capsulas puede ser de consistencia sólida, liquida o pastosa. Esta constituido por uno o mas principios activos con o sin excipientes tales como disolventes, diluyentes, lubricantes, disgregantes, el contenido no causa deterioro en la cubierta.</p>

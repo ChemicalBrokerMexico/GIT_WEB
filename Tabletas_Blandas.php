@@ -391,7 +391,7 @@
     <div class="container" style="margin-top:130px;">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Mercados.php"><b class="Tipografia--general Subtitulos" style="color:black;">Mercados ></b></a><a class="active" href="Tabletas_Blandas.php"><b class="Tipografia--general Subtitulos" style="color:red;">Tabletas Blandas</b></a></section>
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Inicio&nbsp>&nbsp </b></a><a class="active" href="Mercados.php"><b class="Tipografia--general Subtitulos" style="color:black;">Mercados ></b></a><a href="pharmaceutical.php" style="color:black !important;"><b class="Tipografia--general Subtitulos"> Farmaceutica&nbsp>&nbsp </b></a><a class="active" href="Tabletas_Blandas.php"><b class="Tipografia--general Subtitulos" style="color:red;">Tabletas Blandas</b></a></section>
           <p class="Tipografia--general letranegro General--Cuerpo">Son una forma de dosificación oral que consiste en una cubierta externa suave y flexible, generalmente hecha de gelatina o material polimerico, que contiene el medicamento líquido, semisólido o en forma de gel. Esta cubierta proporciona una barrera protectora para el medicamento y facilita su ingestión </p>
           <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Ventajas de las capsulas blandas</b></h5>
           <ol>

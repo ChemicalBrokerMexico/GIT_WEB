@@ -411,7 +411,7 @@
       <div class="row">
         <div class="col s12 m12 l12 xl12">
         
-        <section style="margin-top:50px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Supositorios.php"><b class="Tipografia--general Subtitulos" style="color:red;">Supositorios</b></a></section>
+        <section style="margin-top:50px;"><a href="index.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Inicio&nbsp>&nbsp </b></a><a href="Mercados.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Mercados&nbsp>&nbsp </b></a><a href="pharmaceutical.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Farmaceutica&nbsp>&nbsp </b></a><a class="active" href="Supositorios.php"><b class="Tipografia--general Subtitulos" style="color:red;">Supositorios</b></a></section>
 
           <p class="Tipografia--general letranegro General--Cuerpo">La industria de los supositorios es una rama específica de la industria farmacéutica enfocada en la producción de medicamentos destinados a ser administrados por vía rectal, vaginal o uretral. Este tipo de productos es valorado principalmente por su capacidad para evitar el sistema digestivo, lo que permite una absorción más rápida y directa del medicamento en el cuerpo, reduciendo la degradación por enzimas gástricas o hepáticas.</p>
 

@@ -412,7 +412,7 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-          <p class="Tipografia--general letranegro General--Cuerpo">La industria de alimentos para mascotas se especializa en la producción de alimentos balanceados y suplementos nutricionales diseñados para perros, gatos y otras mascotas. Estos productos están formulados para proporcionar una nutrición completa y equilibrada, adaptándose a diferentes necesidades según la edad, tamaño, raza y estado de salud del animal.</p>
+          <p class="Tipografia--general letranegro General--Cuerpo">La industria de <b>alimentos para mascotas</b> se especializa en la producción de alimentos balanceados y suplementos nutricionales diseñados para perros, gatos y otras mascotas. Estos productos están formulados para proporcionar una nutrición completa y equilibrada, adaptándose a diferentes necesidades según la edad, tamaño, raza y estado de salud del animal.</p>
 
           <h2 class="Tipografia--general letranegro Titulos"><b>Características de la Industria</b></h2>
 

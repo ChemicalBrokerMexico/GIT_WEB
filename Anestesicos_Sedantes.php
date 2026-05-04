@@ -536,7 +536,7 @@
 
   <div class="row">
     <div class="col s12 m12 l12 xl12">
-    <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Mercados.php"><b class="Tipografia--general Subtitulos" style="color:black;">Mercados > </b></a><a class="active" href="Mercados.php"><b class="Tipografia--general Subtitulos" style="color:red;">Anestesicos y Sedantes</b></a></section>
+    <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Inicio&nbsp>&nbsp </b></a><a class="active" href="Mercados.php"><b class="Tipografia--general Subtitulos" style="color:black;">Mercados > </b></a><a href="Veterinaria.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Veterinaria&nbsp>&nbsp </b></a><a class="active" href="Mercados.php"><b class="Tipografia--general Subtitulos" style="color:red;">Anestesicos y Sedantes</b></a></section>
 
    
                 <p class="Tipografia--general letranegro General--Cuerpo">La industria de <b>Anestésicos y Sedantes</b> para mascotas está enfocada en el desarrollo de productos que permitan manejar el dolor, la ansiedad y el estrés en animales, además de facilitar procedimientos médicos, quirúrgicos y diagnósticos. Este sector es clave para garantizar un manejo seguro y ético en el tratamiento de las mascotas. A continuación, se detalla su panorama general, los ingredientes clave y las tendencias actuales:</p>

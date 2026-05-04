@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function(){
 
-    const cards = document.querySelectorAll('.card-industria');
+    const cards = document.querySelectorAll('.card-industria-pro');
     const banner = document.getElementById('BannerDinamico');
     const titulo = document.getElementById('segundotitulo');
     const titulo2 = document.getElementById('Segundotitulo2');

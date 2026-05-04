@@ -395,7 +395,7 @@
       <div class="row">
         <div class="col s12 m12 l12 xl12">
 
-        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a href="Mercados.php" style="color:black !important;"><b>Mercados&nbsp>&nbsp </b></a><a href="Alimentos.php" style="color:black !important;"><b>Alimentos&nbsp>&nbsp </b></a><a class="active" href="Lacteos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Lacteos</b></a></section>
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Inicio&nbsp>&nbsp </b></a><a href="Mercados.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Mercados&nbsp>&nbsp </b></a><a href="Alimentos.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Alimentos & Nutricion Humana&nbsp>&nbsp </b></a><a class="active" href="Lacteos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Lacteos</b></a></section>
 
           <p style="color:#262137" class="Tipografia--general letranegro General--Cuerpo">La <b>industria Láctea</b> tiene un gran impacto a nivel global, para la fabricación de yogur, crema, leche saborizada, quesos. El consumo de lácteos ha tenido un impacto fundamental en la economía global y el desarrollo Agrícola durante más de 10.000 años, en general es un producto consumido a nivel global.
           </p>

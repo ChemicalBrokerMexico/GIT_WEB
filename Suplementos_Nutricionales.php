@@ -395,7 +395,7 @@
     <div class="row">
         <div class="col s12 m12 l12 xl12">
 
-        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Mercados.php"><b class="Tipografia--general Subtitulos" style="color:black           ;">Mercados > </b></a><a class="active" href="Suplementos_Nutricionales.php"><b class="Tipografia--general Subtitulos" style="color:red;">Suplementos Nutricionales</b></a></section>
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b class="Tipogragia--general Subtitulos">Inicio&nbsp>&nbsp </b></a><a class="active" href="Mercados.php"><b class="Tipografia--general Subtitulos" style="color:black;">Mercados > </b></a><a href="Veterinaria.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Veterinaria&nbsp>&nbsp</b></a><a class="active" href="Suplementos_Nutricionales.php"><b class="Tipografia--general Subtitulos" style="color:red;">Suplementos Nutricionales</b></a></section>
 
             <p class="Tipografia--general letranegro General--Cuerpo">Los Suplementos Nutricionales para mascotas son productos diseñados para mejorar la salud y bienestar de los animales domésticos más allá de su dieta básica. Este mercado ha crecido significativamente debido al aumento de la preocupación por la salud integral de las mascotas y la demanda de productos preventivos y terapéuticos. A continuación, se detalla la industria de estos suplementos, junto con los ingredientes clave utilizados en su formulación:</p>
             

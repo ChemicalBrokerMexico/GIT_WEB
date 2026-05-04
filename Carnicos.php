@@ -462,7 +462,6 @@
             <div class="caption center-align"><br><br><br><br>
               <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Carnicos</b>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Carnicos</b></a></section>
     </div>
             </div>
           </li>
@@ -474,6 +473,9 @@
 <div class="container" style="margin-top:120px;">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
+
+<section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Inicio&nbsp>&nbsp </b></a><a class="active" href="Carnicos.php"><b class="Tipografia--general Subtitulos" style="color:black;">Mercados > </b></a><a class="active" href="Alimentos.php"><b class="Tipografia--general Subtitulos" style="color:black;">Alimentos & Nutricion Humana > </b></a><a class="active" href="Mercados.php"><b class="Tipografia--general Subtitulos" style="color:red;">Carnicos</b></a></section>
+
 <p style="color:#262137" class="Tipografia--general letranegro General--Cuerpo">La industria cárnica es uno de los principales sectores de la industria alimentaria, se encarga de la producción, el procesamiento y la distribución de la carne animal en los principales centros de consumo del mundo (mercados, almacenes o tiendas departamentales) La producción de carne se queda bajo la responsabilidad de la ganadería dando pie a la cadena de producción de la industria cárnica. 
 </p>
 </div>

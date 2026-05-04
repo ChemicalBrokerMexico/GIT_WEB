@@ -380,7 +380,7 @@
             <div class="caption center-align"><br><br><br><br>
               <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Salsas & Aderezos</b>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Salsas & Aderezos</b></a></section>
+     
     </div>
             </div>
           </li>
@@ -392,6 +392,9 @@
     <div class="container" style="margin-top:120px;">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
+
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;" class="Tipografia--general Subtitulos"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Mercados.php"><b class="Tipografia--general Subtitulos" style="color:black;">Mercados > </b></a><a class="active" href="Salsas_Aderezos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Salsas & Aderezos</b></a></section>
+
         <p style="color:#262137" class="Tipografia--general letranegro General--Cuerpo">Entre 2010 y 2019 los mexicanos duplicaron su consumo per cápita anual de salsas y chiles, al pasar de 8 a 17 kilogramos, de acuerdo con los datos se la Secretaria de Agricultura y Desarrollo Rural.  
           </p>
         </div>

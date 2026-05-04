@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
     <title>Chemical Broker | Panificacion | Proveedor Global y Nacional de Ingredientes Quimicos para la Industria Alimentaria </title>
     <link rel="canonical" href="https://chemicalbroker.mx/Panificacion.php">
-    <meta name="description" content="Proveemos ingredientes químicos de calidad para la industria de panificación: aditivos, mejoradores y conservantes que optimizan la textura, sabor y vida útil de panes y productos horneados."> -->
+    <meta name="description" content="Proveemos ingredientes químicos de calidad para la industria de panificación: aditivos, mejoradores y conservantes que optimizan la textura, sabor y vida útil de panes y productos horneados."> 
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
     <script>
@@ -395,7 +395,7 @@
       <div class="row">
         <div class="col s12 m12 l12 xl12">
 
-        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a href="Mercados.php" style="color:black !important;"><b>Mercados&nbsp>&nbsp </b></a><a href="Alimentos.php" style="color:black !important;"><b>Alimentos Y Nutricion Humana&nbsp>&nbsp </b></a><a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:red;">Panificacion</b></a></section>
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Inicio&nbsp>&nbsp </b></a><a href="Mercados.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Mercados&nbsp>&nbsp </b></a><a href="Alimentos.php" style="color:black !important;"><b class="Tipografia-general Subtitulos">Alimentos & Nutricion Humana&nbsp>&nbsp </b></a><a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:red;">Panificacion</b></a></section>
 
           <p style="color:#262137;" class="Tipografia--general General--Cuerpo">La industria de la panificación a nivel global tiene un valor de más de $461,000 millones de dólares, y es uno de los alimentos básicos en la alimentación diaria de los seres humanos. Chemical Broker ofrece un robusto portafolios de ingredientes químicos para la fabricación de Harinas, Harinas Preparadas, Pan de Caja, Pan Artesanal, Galletas, Pasteles, Masas y Panes Congelados.</p>
         </div>

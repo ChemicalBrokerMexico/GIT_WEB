@@ -413,7 +413,7 @@
       <div class="row">
         <div class="col s12 m12 l12 xl12">
           
-        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Confiteria.php"><b class="Tipografia--general Subtitulos" style="color:red;">Confiteria</b></a></section>
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Inicio&nbsp>&nbsp </b></a><a class="active" href="Mercados.php"><b class="Tipografia--general Subtitulos" style="color:black;">Mercados ></b></a><a class="active" href="Confiteria.php"><b class="Tipografia--general Subtitulos" style="color:red;"> Confiteria</b></a></section>
         <p style="color:#262137" class="Tipografia--general letranegro General--Cuerpo"> México es el segundo país que consume la mayor cantidad de dulces de america latina, solo por detras de brazil, esto de acuerdo con datos de la Camara de la Industria Alimenticia.
         Al año un mexicano consume alrededor de 4.5 Kg de dulces 
           </p>

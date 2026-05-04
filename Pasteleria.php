@@ -400,7 +400,7 @@ id="aparece"></i></a></li>
 
 
 
-<section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:black;">Mercados ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:black;">Alimentos ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:black;">Panificacion ></b> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:red;">Pasteleria</b></a></a></section>
+<section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Inicio&nbsp>&nbsp </b></a><a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:black;">Mercados ></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:black;">Alimentos & Nutricion Humana></b></a> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:black;">Panificacion ></b> <a class="active" href="Panificacion.php"><b class="Tipografia--general Subtitulos" style="color:red;">Pasteleria</b></a></a></section>
 
 <p class="Tipografia--general letranegro General--Cuerpo">La industria de la pasteleria es un sector amplio y versatil que abarca la produccion de productos dulces, como pasteles, tartas, bizcochos, magdalenas, postres individuales y decoraciones elaboradas.</p>
 <h5 style="margin-top:50px;"><b style="color: #262137;margin-top:50px;">Caracteristicas de la industria de la pasteleria</b></h5>

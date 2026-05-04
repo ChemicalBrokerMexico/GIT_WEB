@@ -431,7 +431,7 @@ recaptchaResponse.value = token;
     </div>
     <div class="container">
       <div class="row center-align">
-        <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Proximamente.php" style="cursor:pointer;">
+        <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Mascotas.php" style="cursor:pointer;">
             <div class="contenedor">
               <div class="transfo" id="overlayped" style="border-radius:10px"></div>
               <div class="centrado_sub" style="position:absolute;z-index:2">
@@ -480,7 +480,7 @@ recaptchaResponse.value = token;
             </div></a></div>
      
     
-        <div class="col s12 m12 l6 xl6 mercados zoom columna3"><a href="Proximamente.php" style="cursor:pointer;">
+        <div class="col s12 m12 l6 xl6 mercados zoom columna3"><a href="Alimento_Equino.php" style="cursor:pointer;">
             <div class="contenedor">
               <div class="transfo" id="overlayped" style="border-radius: 10px;"></div>
               <div class="centrado_sub" style="position:absolute;z-index:2">

@@ -32,6 +32,88 @@
       gtag('js', new Date());
       gtag('config', 'G-SGJQ8FDDJ6');
     </script>
+    <style>
+      .product-hero {
+  padding: 60px 0;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+}
+
+.product-info {
+  max-width: 50%;
+}
+
+.product-info h1 {
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.subtitle {
+  margin: 15px 0;
+  color: #555;
+  font-size: 16px;
+}
+
+.badges span {
+  display: inline-block;
+  background: #0d1b2a;
+  color: #fff;
+  padding: 6px 12px;
+  margin-right: 8px;
+  border-radius: 20px;
+  font-size: 12px;
+}
+
+.cta {
+  margin-top: 20px;
+}
+
+.btn-primary {
+  background: #0d1b2a;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+
+.btn-secondary {
+  border: 1px solid #0d1b2a;
+  padding: 12px 20px;
+  border-radius: 8px;
+}
+
+.product-image img {
+  width: 350px;
+}
+
+.spec-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+
+.spec-item {
+  background: #f8f9fb;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.spec-item span {
+  font-size: 12px;
+  color: #777;
+}
+
+.spec-item strong {
+  display: block;
+  margin-top: 5px;
+}
+
+    </style>
   </head>
   <body> 
     <div class="modal" id="modal1" style="overflow-y:auto">
@@ -389,41 +471,28 @@
         </div>
       </div>
     </ul>
-<div class="row">
-<div class="slider slider-prueba">
-<ul class="slides">
-<li><div style="height:800px;background:linear-gradient(#071637 99%);">
+    <div class="container-fluid">
+      <div class="slider slider-prueba" style="margin-top:0px">
+        <ul class="slides slides-pruea">
+          <li><img src="img/CB_BHA_291222.jpg" style="height:400px;" alt="Historia Ascendente">
+            <div class="caption center-align"><br><br><br><br>
+              <h1 class="primertitulo"><b class="boldbanner">BHA (Butilhidroxianisol)</b><br></h1>
+              <div class="container">
+    </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
 
-<b class="segundotitulo" style="float:right;color:white;margin-top:200px;margin-right:150px;">Butil Hidroxi Anisol (BHA)</b>
-
-</div>
-<div class="caption center-align"><br><br><br><br>
-<br>
-
-<div class="container" style="margin-top:-100px;">
-<div class="row">
-<div class="col s12 m12 l12 xl12">
-
-
-
-</div>
-</div>
-</div>
-
-
-</div>
-</li>
-</ul>
-</div>
-</div>
 
 <div class="container" style="margin-top:80px">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
 <section style="margin-top:75px"><a class="active" href="#" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Acido_Citrico.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Butilhidroxianisol (BHA) > </b></a><a class="breditem active" href="Acido_Citrico_Anhidro_Shop.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">butilhidroxianisol (BHA) Shop</b></a></section>
 
-<p class="Tipografia--general letranegro General--Cuerpo">El BHA (Butilhidroxianisol) es un antioxidante químico sintético muy utilizado para evitar la oxidación (enranciamiento) de grasas, aceites y otros compuestos sensibles al oxígeno.</p>
-
+<p class="Tipografia--general letranegro General--Cuerpo"><b>Butilhidroxianisol</b>, también conocido como <b>BHA</b> es un compuesto químico que se utiliza como conservante en alimentos, productos farmacéuticos y productos de cuidado personal. Se produce sintéticamente y se usa como alternativa a los conservantes naturales como el Ácido Cítrico.</p>
+<p class="Tipografia--general letranegro General--Cuerpo">El <b>Butilhidroxianisol</b> es una mezcla de dos isómeros de compuestos orgánicos; 2-tert-butil-4-hidroxianisol y 3-tert-butil-4-hidroxianisol. El anillo aromático conjugado del BHA es capaz de estabilizar a un radical libre, secuestrándolo. Al actuar como un agente secuestrante, se evitan posteriores reacciones de radicales libres.</p>
 
 
 </div>
@@ -437,16 +506,7 @@
         </div>
         <div class="col s6 m6 l6 xl6">
             <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Butilhidroxianisol (BHA)</b></h2>
-            <!-- <table>
-                <tr>
-                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b><center>Tipo de embalaje:</center></b></td>
-                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Saco</center></td>
-                </tr>
-                <tr>
-                    <td class="Tipografia--general General--Cuerpo letranegro" style="border:none;background-color:#071637;border-right:1px solid white;color:white;"><b><center>N° de Producto:</center></b></td>
-                    <td class="Tipografia--general General--Cuerpo letranegro" style="border:none;background-color:#a7a7a7;color:white;"><center>P-50</center></td>
-                </tr>
-            </table> -->
+        
         </div>
         <div class="col s6 m6 l6 xl6">
             <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Datos del Producto</b></h2>
@@ -561,12 +621,72 @@
 <div class="container">
     <div class="row">
     <div class="col s12 m12 l12 xl12">
-        <a href="https://wa.me/5615242685?text=Hola" clas="float-wa" target="_blank"><h2 class="Tipografia--general letranegro General--Cuerpo"><b><button class="btn" style="background-color:#071637;color:white;cursor:pointer;">Cotiza o Consulta con nosotros tu requerimiento</button> </b></h2></a>
+        <a href="https://wa.me/5615242685?text=Hola Deseo Cotizar este Producto" clas="float-wa" target="_blank"><h2 class="Tipografia--general letranegro General--Cuerpo"><b><button class="btn" style="background-color:#071637;color:white;cursor:pointer;">Cotiza o Consulta con nosotros tu requerimiento</button> </b></h2></a>
             <!-- <button style="background-color:#071637;color:white;width:100%;border-radius:15px;height:60px;">Contactenos</button> -->
         </div>
     </div>
 </div>
 
+<div class="container">
+<section class="product-hero">
+  <div class="container">
+    
+    <div class="product-info">
+      <h1>Butilhidroxianisol (BHA)</h1>
+      
+      <p class="subtitle">
+        Antioxidante sintético de alta pureza ideal para prolongar la vida útil de grasas, aceites y productos sensibles.
+      </p>
+
+      <div class="badges">
+        <span>FCC</span>
+        <span>Kosher</span>
+        <span>Halal</span>
+      </div>
+
+      <div class="cta">
+        <a class="btn-primary">Solicitar Cotización</a>
+
+        
+      </div>
+    </div>
+
+    <div class="product-image">
+      <img src="img/CAJA_ANTIOXIDANTES_190226.jpg" alt="BHA Chemical Broker">
+    </div>
+
+  </div>
+</section>
+
+
+<section class="specs">
+  <h2>Especificaciones</h2>
+
+  <div class="spec-grid">
+
+    <div class="spec-item">
+      <span>CAS</span>
+      <strong>25013-16-5</strong>
+    </div>
+
+    <div class="spec-item">
+      <span>Pureza</span>
+      <strong>98.5%</strong>
+    </div>
+
+    <div class="spec-item">
+      <span>Color</span>
+      <strong>Blanco amarillento</strong>
+    </div>
+
+    <div class="spec-item">
+      <span>Punto de fusión</span>
+      <strong>48–63 °C</strong>
+    </div>
+
+  </div>
+</section>
+</div>
 
 
 <footer class="altofooter">

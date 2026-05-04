@@ -392,7 +392,7 @@
       <div class="row">
         <div class="col s12 m12 l12 xl12">
 
-        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Tortillas_Snacks.php"><b class="Tipografia--general Subtitulos" style="color:red;">Tortillas & Snacks</b></a></section>
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Inicio&nbsp>&nbsp </b></a><a class="active" href="Mercados.php"><b class="Tipografia--general Subtitulos" style="color:black;">Mercados > </b></a><a class="active" href="Tortillas_Snacks.php"><b class="Tipografia--general Subtitulos" style="color:red;">Tortillas & Snacks</b></a></section>
 
         <p style="color:#262137" class="General--Cuerpo Tipografia--general letranegro">Los alimentos del tipo snack forman parte normal de los hábitos de consumo en la población mexicana y representa un mercado de gran dinamismo, sin embargo, este mercado no crece a pasos acelerados como podría ser el caso de otros, en México este mercado tiene un valor de USD 3.232 millones y una producción de 22.558 toneladas, Chemical Broker en conjunto con sus clientes se enfoca en la búsqueda de productos químicos, que resulten útiles en la fabricación de estos productos. </p>
         <p class="General--Cuerpo Tipografia--general letranegro" style="margin-top:50px;"><b style="color:#071637;">¿Qué es un snack?</b> Papas fritas o papas, frutos secos, rosquilletas, triángulos de maíz tostados, generalmente se consumen por placer o para satisfacer temporalmente el hambre</p>

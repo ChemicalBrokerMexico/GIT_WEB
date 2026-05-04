@@ -381,7 +381,7 @@
             <div class="caption center-align"><br><br><br><br>
               <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Bebidas</b>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Bebidas.php"><b class="Tipografia--general Subtitulos" style="color:red;">Bebidas</b></a></section>
+     
     </div>
             </div>
           </li>
@@ -393,7 +393,11 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <p style="color:#262137"> Entre 2009 y 2018, el volumen de ventas en la industria de bebidas en todo el mundo pasó de 696.100 a 994.100 millones de litros, según un reporte presentado en el portal Statista. Según las proyecciones realizadas
+
+
+        <section style="margin-top:150px;"><a href="index.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Inicio&nbsp>&nbsp </b></a><a class="active" href="Mercados.php"><b class="Tipografia--general Subtitulos" style="color:black;">Mercados ></b></a><a class="active" href="Bebidas.php"><b class="Tipografia--general Subtitulos" style="color:red;"> Bebidas </b></a></section>
+
+        <p style="color:#262137;margin-top:50px;" class="Tipografia--general letranegro General--Cuerpo"> Entre 2009 y 2018, el volumen de ventas en la industria de bebidas en todo el mundo pasó de 696.100 a 994.100 millones de litros, según un reporte presentado en el portal Statista. Según las proyecciones realizadas
         por la organización Research and Markets se estima que para el presente año el sector podría alcanzar 1.9 trillones USD en el mercado global y tener una tasa de crecimiento anual compuesto de entre 3%.
           </p>
         </div>

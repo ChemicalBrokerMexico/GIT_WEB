@@ -406,23 +406,180 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>  >&nbsp </b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important"><b>Mercados&nbsp </b><b>   >&nbsp </b></a><a class="breditem active" href="Alimento_Animal.php" style="color:#262137 !important;margin-left:-2px"><b>Alimento Y Nutricion Animal ></b></a> <a href="Alimento_Equino.php" style="color:#262137"><b>Alimento Equino</b></a></section>
+        <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>  >&nbsp </b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important"><b>Mercados&nbsp </b><b>   >&nbsp </b></a><a class="breditem active" href="Alimento_Animal.php" style="color:#262137 !important;margin-left:-2px"><b>Alimento Y Nutricion Animal ></b></a> <a href="Alimento_Equino.php" style="color:red"><b>Alimento Equino</b></a></section>
         </div>
       </div>
     </div>
    
 
 
+<div class="container">
+
+<h1 class="Tipografia--general letranegro General--Cuerpo"><b>Ganado Equino</b></h1>
+
+<p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La industria de la alimentación equina forma parte del sector de nutrición animal de alto valor agregado, enfocado en caballos de:</p>
+
+<ol>
+  <li class="Elementos--Listas">Deporte y competencia (hipismo, carreras)</li>
+  <li class="Elementos--Listas">Trabajo (ranchos, transporte, fuerza)</li>
+  <li class="Elementos--Listas">Reproducción</li>
+  <li class="Elementos--Listas">Recreación y mantenimiento</li>
+</ol>
+
+
+<p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">A diferencia de otras especies, los equinos tienen un sistema digestivo muy sensible, basado en fermentación microbiana en el intestino grueso, lo que obliga a diseñar dietas altamente controladas para evitar problemas como cólicos o laminitis.</p>
+
+<p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Su alimentación moderna ya no depende solo de forraje (heno o pasto), sino también de concentrados, suplementos vitamínico-minerales y aditivos funcionales, donde intervienen diversos compuestos químicos formulados industrialmente.</p>
+
+
+<h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Principales químicos utilizados en la alimentación equina</b></h2>
+
+<p class="Tipografia--general letranegro General--Cuerpo">Los “químicos” en la industria equina no se refieren a sustancias peligrosas, sino a compuestos nutricionales, minerales, vitaminas y aditivos funcionales diseñados para mejorar salud, rendimiento y digestión.
+<br>
+<br>
+Se agrupan en 5 grandes categorías:</p>
+
+
+<h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>A) Macronutrientes (base energética y estructural)</b></h2>
+
+<h2 class="Tipografia--general letranegro General--Cuerpo">Carbohidratos (almidones, azúcares, fibras)</h2>
+
+<h3 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Ejemplos:</b></h3>
+
+<ol>
+  <li class="Elementos--Listas">Almidón (maíz, avena, cebada)</li>
+  <li class="Elementos--Listas">Celulosa y hemicelulosa (forraje)</li>
+  <li class="Elementos--Listas">Pectinas</li>
+</ol>
+
+<h3 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Funciones:</b></h3>
+
+<ol>
+  <li class="Elementos--Listas">Fuente principal de energía</li>
+  <li class="Elementos--Listas">Mantener actividad muscular</li>
+  <li class="Elementos--Listas">Fermentación en intestino grueso → producción de ácidos grasos volátiles (energía secundaria)</li>
+</ol>
+
+
+<h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Proteínas (aminoacidos)</h2>
+
+<h3 class="Tipografia--general letranegro General--Cuerpo"><b>Ejemplos:</b></h3>
+
+<ol>
+  <li class="Elementos--Listas">Harina de soya (proteína vegetal)</li>
+  <li class="Elementos--Listas">Harina de pescado (proteína animal)</li>
+  <li class="Elementos--Listas">Aminoácidos sintéticos: lisina, metionina</li>
+</ol>
+
+<h3 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Funciones</b></h3>
+
+<ol>
+  <li class="Elementos--Listas">Desarrollo muscular</li>
+  <li class="Elementos--Listas">Reparación de tejidos</li>
+  <li class="Elementos--Listas">Crecimiento en potros y reproducción</li>
+</ol>
+
+<h3 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Grasas (lípidos)</h3>
+
+<h3 class="Tipografia--general letranegro General--Cuerpo"><b>Ejemplos</b></h3>
+
+<ol>
+  <li class="Elementos--Listas">Aceite de soya</li>
+  <li class="Elementos--Listas">Aceite de linaza</li>
+  <li class="Elementos--Listas">Grasa vegetal estabilizada</li>
+</ol>
+
+<h3 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Funciones:</b></h3>
+
+<ol>
+  <li class="Elementos--Listas">Energía concentrada</li>
+  <li class="Elementos--Listas">Mejora del pelaje (brillo)</li>
+  <li class="Elementos--Listas">Reducción de inflamación metabólica</li>
+</ol>
+
+<h3 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Aditivos funcionales (químicos tecnológicos):</b></h3>
+
+<p class="Tipografia--general letranegro General--Cuerpo">Estos son compuestos diseñados específicamente para mejorar la salud digestiva, rendimiento o conservación del alimento.</p>
+
+<h3 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Antioxidantes:</h3>
+
+<h3 class="Tipografia--general letranegro General--Cuerpo"><b>Ejemplos</b></h3>
+
+<ol>
+  <li class="Elementos--Listas">BHT (butilhidroxitolueno)</li>
+  <li class="Elementos--Listas">BHA (butilhidroxianisol</li>
+  <li class="Elementos--Listas">Vitamina E</li>
+</ol>
+
+<h3 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Funciones:</b></h3>
+
+<ol>
+  <li class="Elementos--Listas">Evitan oxidación de grasas en el alimento</li>
+  <li class="Elementos--Listas">Protegen células musculares del estrés oxidativo</li>
+</ol>
+
+<h3 class="Tipografia--general letranegro General--Cuerpo">Suplementos nutracéuticos (alto rendimiento):</h3>
+
+<h3 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Ejemplos:</b></h3>
+
+<ol>
+  <li class="Elementos--Listas">MSM (metilsulfonilmetano)</li>
+  <li class="Elementos--Listas">Ácido hialurónico</li>
+  <li class="Elementos--Listas">Colágeno hidrolizado</li>
+  <li class="Elementos--Listas">Glucosamina</li>
+  <li class="Elementos--Listas">Boswellia serrata extract</li>
+</ol>
+
+<h3 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Funciones:</b></h3>
+
+<ol>
+  <li class="Elementos--Listas">Salud articular</li>
+  <li class="Elementos--Listas">Reducción de inflamación</li>
+  <li class="Elementos--Listas">Protección de tendones y ligamentos</li>
+  <li class="Elementos--Listas">Recuperación muscular</li>
+</ol>
+
+
+</div>
 
 
 
 
 </body>
-  <footer style="margin-top:70px">
-    <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CE_ESCUDO_FONDO-TRANSPARENTE.png" alt=""></div><br><br>
-    <div class="container-fluid" style="text-align:center;margin-top:-50px">
-      <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker  Todos los Derechos Reservados. | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de Privacidad  </a>
-            <script type="text/javascript" src="js/main.js"></script></a></strong></p>
-    </div>
-  </footer>
+<footer style="margin-top:70px">
+  <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
+      alt=""></div><br><br>
+  <div class="container-fluid" style="text-align:center;margin-top:-50px">
+    <p style="color:black;text-align:center;font-size:16px">© 2014 | Chemical Broker Todos los Derechos Reservados.
+      | <a href="Contact.php" style="color:black !important;font-size:16px">Contacto | </a><a
+        href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download style="color:black !important;font-size:16px">Politica de
+        Privacidad </a>
+      <script type="text/javascript" src="js/main.js"></script></a></strong>
+    </p>
+    <script type="text/javascript" src="js/Products.js"></script>
+    <link rel="shortcut icon" href="img/CB_ICON.ico" />
+  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.js"
+  <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+    crossorigin="anonymous"></script>
+  <script src="js/materialize.js" type="text/javascript"></script>
+  <script src="js/init.js"></script>
+
+  <script type="text/javscript" src="js/materialize.min.js"></script>
+  <script type="text/javascript"
+    src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+    <!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js-na1.hs-scripts.com/43785156.js"></script>
+<script src="js/Traduccion.js"></script>
+<!-- End of HubSpot Embed Code -->
+<a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
+    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
+</a>
+  </div>
+</footer>
 </html>

@@ -393,7 +393,7 @@
         <div class="col s12 m12 l12 xl12">
 
 
-        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Suplementos_nutricionh.php"><b class="Tipografia--general Subtitulos" style="color:red;">Suplementos Alimenticios</b></a></section>
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b class="Tipografia--general Subtitulos" style="color:black;">Inicio&nbsp>&nbsp </b></a><a href="Mercados.php" style="color:black !important;"><b class="Tipografia--general Subtitulos" style="color:black;">Mercados&nbsp>&nbsp </b></a><a href="pharmaceutical.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Farmaceutica&nbsp>&nbsp </b></a><a class="active" href="Suplementos_nutricionh.php"><b class="Tipografia--general Subtitulos" style="color:red;">Suplementos Alimenticios</b></a></section>
           <p class="Tipografia--general letranegro General--Cuerpo">La industria de los suplementos alimenticios ha emergido como uno de los sectores mas dinámicos y en rápido crecimiento dentro del ámbito de la salud y el bienestar. Impulsada por una creciente conciencia sobre la importancia de la nutrición y la salud preservativa. Esta industria abarca una amplia gama de productos diseñados para complementar la dieta y proporcionar beneficios específicos para la salud.</p>
           <h5 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:#071637;">Tipos de Suplementos Alimenticios</b></h5>
           <ol style="margin-top:30px;">

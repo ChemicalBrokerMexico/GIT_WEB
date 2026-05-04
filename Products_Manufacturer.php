@@ -62,7 +62,6 @@ while($row = $resultado->fetch_assoc()){
     <script src="js/materialize.js?n=1" type="text/javascript"></script>
     <script src="js/init.js?n=1"></script>
     <script src="js/wow.js"></script>
-
     <script>
         new WOW().init();
     </script>
@@ -76,8 +75,8 @@ while($row = $resultado->fetch_assoc()){
         src="https://cdn.datatables.net/responsive/2.2.6/js/dataTables.responsive.js"></script>
     <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
     <script>
-    const productos = <?php echo json_encode($productos, JSON_UNESCAPED_UNICODE); ?>;
-</script>
+        const productos = <?php echo json_encode($productos, JSON_UNESCAPED_UNICODE); ?> ;
+    </script>
 
     <style>
         .card-industria {
@@ -106,7 +105,7 @@ while($row = $resultado->fetch_assoc()){
             background: linear-gradient(to top,
                     rgba(0, 0, 0, 0.6),
                     rgba(0, 0, 0, 0.1));
-        } 
+        }
 
         /* Texto */
         .contenido {
@@ -138,8 +137,8 @@ while($row = $resultado->fetch_assoc()){
         }
 
         #Contenedor_Productos {
-            display:block;
-            width:100%;
+            display: block;
+            width: 100%;
         }
 
         .card-producto {
@@ -188,38 +187,142 @@ while($row = $resultado->fetch_assoc()){
             color: #888;
         }
 
-      
+
         .card-producto.card {
-    display: flex;
-    flex-direction: column;
-    padding: 0;
-}
+            display: flex;
+            flex-direction: column;
+            padding: 0;
+        }
 
-.card-producto .card-content {
-    padding: 24px 24px 16px 24px;
-}
+        .card-producto .card-content {
+            padding: 24px 24px 16px 24px;
+        }
 
-.card-producto .card-action {
-    padding: 16px 24px;
-    width: 100%;
-}
+        .card-producto .card-action {
+            padding: 16px 24px;
+            width: 100%;
+        }
 
-.card-producto .card-action .row {
-    margin-bottom: 0;
-    width: 100%;
-}
+        .card-producto .card-action .row {
+            margin-bottom: 0;
+            width: 100%;
+        }
 
-.card-producto img {
-    max-height: 90px;
-    margin-top: 10px;
-}
+        .card-producto img {
+            max-height: 90px;
+            margin-top: 10px;
+        }
+
+        .card-industria-pro {
+            position: relative;
+            height: 160px;
+            border-radius: 15px;
+            overflow: hidden;
+            cursor: pointer;
+        }
+
+        /* IMAGEN */
+        .bg-img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: 0.4s;
+        }
+
+        /* OVERLAY */
+        .overlay-pro {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+
+            background: linear-gradient(135deg,
+                    rgba(7, 22, 55, 0.4),
+                    rgba(7, 22, 55, 0.8));
+
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            padding: 12px;
+            color: white;
+        }
+
+        /* ICONO */
+        .icono-industria {
+            width: 35px;
+            height: 35px;
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .icono-industria i {
+            font-size: 18px;
+        }
+
+        /* TEXTO */
+        .contenido h6 {
+            margin: 0;
+            font-weight: 600;
+            font-size: 14px;
+        }
+
+        /* CHECK ACTIVO */
+        .check-activo {
+            position: absolute;
+            top: 8px;
+            right: 8px;
+            background: #1976d2;
+            width: 22px;
+            height: 22px;
+            border-radius: 50%;
+            display: none;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .check-activo i {
+            font-size: 14px;
+        }
+
+        /* PATRÓN */
+        .pattern-dots {
+            position: absolute;
+            bottom: 8px;
+            right: 8px;
+            width: 35px;
+            height: 35px;
+
+            background-image: radial-gradient(white 1.5px, transparent 1.5px);
+            background-size: 6px 6px;
+            opacity: 0.5;
+        }
+
+        /* HOVER */
+        .card-industria-pro:hover .bg-img {
+            transform: scale(1.08);
+        }
+
+        /* ACTIVA */
+        .card-industria-pro.activa .overlay-pro {
+            background: linear-gradient(135deg,
+                    rgba(0, 102, 204, 0.7),
+                    rgba(0, 51, 153, 0.9));
+        }
+
+        .card-industria-pro.activa .check-activo {
+            display: flex;
+        }
     </style>
 
 
     <script>
         document.addEventListener("DOMContentLoaded", function () {
 
-            const cards = document.querySelectorAll(".card-industria");
+            const cards = document.querySelectorAll(".card-industria-pro");
 
             cards.forEach(function (card) {
 
@@ -825,15 +928,23 @@ while($row = $resultado->fetch_assoc()){
         <div class="row">
             <div class="col s12 m12 l12 xl12">
 
-              <section style="margin-top:20px"><a class="active" href="index.php" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Products_news.php" style="color:black !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Productos ></b></a> <a class="breditem active" href="Products_Manufacturer.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Productos & Fabricantes  </b></a></section>
+                <section style="margin-top:20px"><a class="active" href="index.php" style="color:black !important"><b
+                            class="Tipografia--general Subtitulos">Inicio&nbsp</b><b
+                            class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp </b></a><a
+                        class="breditem active" href="Products_news.php"
+                        style="color:black !important;margin-left:-2px"><b
+                            class="Tipografia-general Subtitulos">Productos ></b></a> <a class="breditem active"
+                        href="Products_Manufacturer.php" style="color:red !important;margin-left:-2px"><b
+                            class="Tipografia-general Subtitulos">Productos & Fabricantes </b></a></section>
 
                 <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Escoja un Sector de Negocio</b></h2>
 
 
-                <div class="col s12 m12 l3 xl3 ">
 
-                    <div class="card-industria" data-industria="1" data-segmento="3" data-nindustria="Farmaceutica" data-color="#0066FF"
-                        data-video="VIDEO/QUIMICO.mp4">
+
+                <div class="col s12 m6 l3">
+
+                    <div class="card-industria-pro" data-industria="1" data-segmento="3" data-nindustria="Farmacéutica" data-color="#0066ff">
 
                         <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted
                             defaultMuted playsinline>
@@ -842,26 +953,37 @@ while($row = $resultado->fetch_assoc()){
                             <source class="mercadosimagen" src="VIDEO/Farma.mp4" type="video/mp4">
                         </video>
 
-                        <div class="overlay"></div>
+                        <div class="overlay-pro">
 
-                        <div class="contenido">
-                            <h3 style="font-size:20px;">Farmaceutica</h3>
+                            <!-- ICONO -->
+                            <div class="icono-industria">
+                                <i class="material-icons">medical_services</i>
+                            </div>
+
+                            <!-- TEXTO -->
+                            <div class="contenido">
+                                <h6>Farmacéutica</h6>
+                            </div>
+
+                            <!-- CHECK ACTIVO -->
+                            <div class="check-activo">
+                                <i class="material-icons">check</i>
+                            </div>
+
+                            <!-- PATRÓN -->
+                            <div class="pattern-dots"></div>
+
                         </div>
-
-                        <div class="check">
-                            ✓
-                        </div>
-
 
                     </div>
 
-
                 </div>
 
-                <div class="col s12 m12 l3 xl3">
 
-                    <div class="card-industria" data-industria="2" data-segmento="3" data-nindustria="Veterinaria" data-color="#1976D2"
-                        data-video="VIDEO/fo.mp4">
+
+                <div class="col s12 m6 l3">
+
+                    <div class="card-industria-pro" data-industria="1" data-nombre="Veterinaria">
 
                         <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted
                             defaultMuted playsinline>
@@ -870,25 +992,38 @@ while($row = $resultado->fetch_assoc()){
                             <source class="mercadosimagen" src="VIDEO/Veterinaria.mp4" type="video/mp4">
                         </video>
 
-                        <div class="overlay"></div>
 
-                        <div class="contenido">
-                            <h3 style="font-size:20px;">Veterinaria</h3>
+                        <div class="overlay-pro">
+
+                            <!-- ICONO -->
+                            <div class="icono-industria">
+                                <i class="material-icons">medical_services</i>
+                            </div>
+
+                            <!-- TEXTO -->
+                            <div class="contenido">
+                                <h6>Veterinaria</h6>
+                            </div>
+
+                            <!-- CHECK ACTIVO -->
+                            <div class="check-activo">
+                                <i class="material-icons">check</i>
+                            </div>
+
+                            <!-- PATRÓN -->
+                            <div class="pattern-dots"></div>
+
                         </div>
-
-                        <div class="check">
-                            ✓
-                        </div>
-
 
                     </div>
 
                 </div>
 
-                <div class="col s12 m12 l3 xl3">
 
-                    <div class="card-industria" data-industria="3" data-segmento="3" data-nindustria="Alimentos & Nutrición Humana" data-color="#F5DF4D"
-                        data-video="VIDEO/fo.mp4">
+
+                <div class="col s12 m6 l3">
+
+                    <div class="card-industria-pro" data-industria="3" data-segmento="3" data-nindustria="Alimentos & Nutrición Humana" data-color="#F5DF4D">
 
                         <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted
                             defaultMuted playsinline>
@@ -897,26 +1032,36 @@ while($row = $resultado->fetch_assoc()){
                             <source class="mercadosimagen" src="VIDEO/NUTRICION_HUMANA2.mp4" type="video/mp4">
                         </video>
 
-                        <div class="overlay"></div>
+                        <div class="overlay-pro">
 
-                        <div class="contenido">
-                            <h3 style="font-size:20px;">Alimentos & Nutrición Humana</h3>
+                            <!-- ICONO -->
+                            <div class="icono-industria">
+                                <i class="material-icons">medical_services</i>
+                            </div>
+
+                            <!-- TEXTO -->
+                            <div class="contenido">
+                                <h6>Alimentos & Nutrición Humana</h6>
+                            </div>
+
+                            <!-- CHECK ACTIVO -->
+                            <div class="check-activo">
+                                <i class="material-icons">check</i>
+                            </div>
+
+                            <!-- PATRÓN -->
+                            <div class="pattern-dots"></div>
+
                         </div>
-
-                        <div class="check">
-                            ✓
-                        </div>
-
 
                     </div>
 
-
-
                 </div>
 
-                <div class="col s12 m12 l3 xl3">
-                    <div class="card-industria" data-industria="4" data-segmento="3" data-nindustria="Alimentos & Nutricion Animal" data-color="#FBC020"
-                        data-video="VIDEO/fo.mp4">
+
+                <div class="col s12 m6 l3">
+
+                    <div class="card-industria-pro" data-industria="1" data-nombre="Alimentos & Nutricion Animal">
 
                         <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted
                             defaultMuted playsinline>
@@ -925,24 +1070,37 @@ while($row = $resultado->fetch_assoc()){
                             <source class="mercadosimagen" src="VIDEO/ALIMENTO_ANIMAL2.mp4" type="video/mp4">
                         </video>
 
-                        <div class="overlay"></div>
+                        <div class="overlay-pro">
 
-                        <div class="contenido">
-                            <h3 style="font-size:20px;">Alimentos & Nutricion Animal</h3>
+                            <!-- ICONO -->
+                            <div class="icono-industria">
+                                <i class="material-icons">medical_services</i>
+                            </div>
+
+                            <!-- TEXTO -->
+                            <div class="contenido">
+                                <h6>Alimentos & Nutrición Animal</h6>
+                            </div>
+
+                            <!-- CHECK ACTIVO -->
+                            <div class="check-activo">
+                                <i class="material-icons">check</i>
+                            </div>
+
+                            <!-- PATRÓN -->
+                            <div class="pattern-dots"></div>
+
                         </div>
-
-                        <div class="check">
-                            ✓
-                        </div>
-
 
                     </div>
 
                 </div>
 
-                <div class="col s12 m12 l3 xl3">
-                    <div class="card-industria" data-industria="5" data-segmento="3" data-nindustria="Agroquímicos" data-color="#8BC34A"
-                        data-video="VIDEO/fo.mp4">
+
+
+                <div class="col s12 m6 l3" style="margin-top:50px;">
+
+                    <div class="card-industria-pro" data-industria="1" data-nombre="Agroquímicos">
 
                         <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted
                             defaultMuted playsinline>
@@ -950,26 +1108,35 @@ while($row = $resultado->fetch_assoc()){
 
                             <source class="mercadosimagen" src="VIDEO/AGRICULTURA3.mp4" type="video/mp4">
                         </video>
+                        <div class="overlay-pro">
 
-                        <div class="overlay"></div>
+                            <!-- ICONO -->
+                            <div class="icono-industria">
+                                <i class="material-icons">medical_services</i>
+                            </div>
 
-                        <div class="contenido">
-                            <h3 style="font-size:20px;">Agroquímicos</h3>
+                            <!-- TEXTO -->
+                            <div class="contenido">
+                                <h6>Agroquímicos</h6>
+                            </div>
+
+                            <!-- CHECK ACTIVO -->
+                            <div class="check-activo">
+                                <i class="material-icons">check</i>
+                            </div>
+
+                            <!-- PATRÓN -->
+                            <div class="pattern-dots"></div>
+
                         </div>
-
-                        <div class="check">
-                            ✓
-                        </div>
-
 
                     </div>
 
                 </div>
 
+                <div class="col s12 m6 l3" style="margin-top:50px;">
 
-                <div class="col s12 m12 l3 xl3">
-                    <div class="card-industria" data-industria="6" data-segmento="3" data-nindustria="Cosmeticos & Cuidado Personal" data-color="#E0C3A3"
-                        data-video="VIDEO/fo.mp4">
+                    <div class="card-industria-pro" data-industria="1" data-nombre="Cosmeticos & Cuidado Personal">
 
                         <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted
                             defaultMuted playsinline>
@@ -977,26 +1144,37 @@ while($row = $resultado->fetch_assoc()){
 
                             <source class="mercadosimagen" src="VIDEO/COSMETICOS.mp4" type="video/mp4">
                         </video>
+                        <div class="overlay-pro">
 
-                        <div class="overlay"></div>
+                            <!-- ICONO -->
+                            <div class="icono-industria">
+                                <i class="material-icons">medical_services</i>
+                            </div>
 
-                        <div class="contenido">
-                            <h3 style="font-size:20px;">Cosmeticos & Cuidado Personal</h3>
+                            <!-- TEXTO -->
+                            <div class="contenido">
+                                <h6>Cosmeticos & Cuidado Personal</h6>
+                            </div>
+
+                            <!-- CHECK ACTIVO -->
+                            <div class="check-activo">
+                                <i class="material-icons">check</i>
+                            </div>
+
+                            <!-- PATRÓN -->
+                            <div class="pattern-dots"></div>
+
                         </div>
-
-                        <div class="check">
-                            ✓
-                        </div>
-
 
                     </div>
 
                 </div>
 
 
-                <div class="col s12 m12 l3 xl3">
-                    <div class="card-industria" data-industria="7" data-segmento="3" data-nindustria="Detergentes & Hogar" data-color="#2196F3"
-                        data-video="VIDEO/fo.mp4">
+
+                <div class="col s12 m6 l3" style="margin-top:50px;">
+
+                    <div class="card-industria-pro" data-industria="1" data-nombre="Detergentes & Hogar">
 
                         <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted
                             defaultMuted playsinline>
@@ -1004,25 +1182,36 @@ while($row = $resultado->fetch_assoc()){
 
                             <source class="mercadosimagen" src="VIDEO/DETERGENTES2.mp4" type="video/mp4">
                         </video>
+                        <div class="overlay-pro">
 
-                        <div class="overlay"></div>
+                            <!-- ICONO -->
+                            <div class="icono-industria">
+                                <i class="material-icons">medical_services</i>
+                            </div>
 
-                        <div class="contenido">
-                            <h3 style="font-size:20px;">Detergentes & Hogar</h3>
+                            <!-- TEXTO -->
+                            <div class="contenido">
+                                <h6>Detergentes & Hogar</h6>
+                            </div>
+
+                            <!-- CHECK ACTIVO -->
+                            <div class="check-activo">
+                                <i class="material-icons">check</i>
+                            </div>
+
+                            <!-- PATRÓN -->
+                            <div class="pattern-dots"></div>
+
                         </div>
-
-                        <div class="check">
-                            ✓
-                        </div>
-
 
                     </div>
 
                 </div>
 
-                <div class="col s12 m12 l3 xl3">
-                    <div class="card-industria" data-industria="8" data-segmento="3" data-nindustria="Quimicos" data-color="#2E7D32"
-                        data-video="VIDEO/fo.mp4">
+
+                <div class="col s12 m6 l3" style="margin-top:50px;">
+
+                    <div class="card-industria-pro" data-industria="1" data-nombre="Químicos">
 
                         <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted
                             defaultMuted playsinline>
@@ -1030,46 +1219,52 @@ while($row = $resultado->fetch_assoc()){
 
                             <source class="mercadosimagen" src="VIDEO/QUIMICO.mp4" type="video/mp4">
                         </video>
+                        <div class="overlay-pro">
 
-                        <div class="overlay"></div>
+                            <!-- ICONO -->
+                            <div class="icono-industria">
+                                <i class="material-icons">medical_services</i>
+                            </div>
 
-                        <div class="contenido">
-                            <h3 style="font-size:20px;">Químicos</h3>
+                            <!-- TEXTO -->
+                            <div class="contenido">
+                                <h6>Químicos</h6>
+                            </div>
+
+                            <!-- CHECK ACTIVO -->
+                            <div class="check-activo">
+                                <i class="material-icons">check</i>
+                            </div>
+
+                            <!-- PATRÓN -->
+                            <div class="pattern-dots"></div>
+
                         </div>
-
-                        <div class="check">
-                            ✓
-                        </div>
-
 
                     </div>
 
                 </div>
 
-
-
-
-
-
             </div>
-
-
         </div>
-
     </div>
+
+
+
 
 
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
-                <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Escoja un Segmento de Mercado de</b> <b><span
-                        id="Segundotitulo2" style="color:black;"></span></b></h2>
+                <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Escoja un Segmento de Mercado de</b>
+                    <b><span id="Segundotitulo2" style="color:black;"></span></b>
+                </h2>
             </div>
             <div id="Contenedor_Filtros"></div>
             <div class="row">
-            <div  id="Contenedor_Productos" class="col s12"></div>
+                <div id="Contenedor_Productos" class="col s12"></div>
             </div>
-            
+
         </div>
     </div>
 
@@ -1129,119 +1324,118 @@ while($row = $resultado->fetch_assoc()){
         gtag('js', new Date());
         gtag('config', 'G-SGJQ8FDDJ6');
     </script>
-<script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
 
-document.addEventListener("DOMContentLoaded", function(){
+            let industriaSeleccionada = null;
+            let segmentoSeleccionado = null;
+            let industriaNombreSeleccionada = null;
 
-let industriaSeleccionada = null;
-let segmentoSeleccionado = null;
-let industriaNombreSeleccionada = null;
+            const contenedorFiltros = document.getElementById("Contenedor_Filtros");
+            const contenedorProductos = document.getElementById("Contenedor_Productos");
 
-const contenedorFiltros = document.getElementById("Contenedor_Filtros");
-const contenedorProductos = document.getElementById("Contenedor_Productos");
-
-// ===============================
-// INICIALIZAR MODAL
-// ===============================
-const modals = document.querySelectorAll('.modal');
-M.Modal.init(modals);
-
-
-// ===============================
-// CLICK EN INDUSTRIA
-// ===============================
-document.querySelectorAll(".card-industria").forEach(card => {
-
-    card.addEventListener("click", function () {
-
-        document.querySelectorAll(".card-industria")
-            .forEach(c => c.classList.remove("activa"));
-
-        this.classList.add("activa");
-
-        industriaSeleccionada = this.dataset.industria;
-        industriaNombreSeleccionada = this.dataset.nombre; // IMPORTANTE
-
-        segmentoSeleccionado = null;
-
-        generarFiltros();
-        renderProductos();
-    });
-
-});
+            // ===============================
+            // INICIALIZAR MODAL
+            // ===============================
+            const modals = document.querySelectorAll('.modal');
+            M.Modal.init(modals);
 
 
-// ===============================
-// GENERAR FILTROS
-// ===============================
-function generarFiltros() {
+            // ===============================
+            // CLICK EN INDUSTRIA
+            // ===============================
+            document.querySelectorAll(".card-industria-pro").forEach(card => {
 
-    contenedorFiltros.innerHTML = "";
+                card.addEventListener("click", function () {
 
-    const segmentosUnicos = [
-        ...new Map(
-            productos
-                .filter(p => p.id_industria == industriaSeleccionada)
-                .map(p => [p.id_segmento, p])
-        ).values()
-    ];
+                    document.querySelectorAll(".card-industria-pro")
+                        .forEach(c => c.classList.remove("activa"));
 
-    segmentosUnicos.forEach(seg => {
+                    this.classList.add("activa");
 
-        const btn = document.createElement("a");
-        btn.className = "btn";
-        btn.style.background = "#071637";
-        btn.style.marginRight = "10px";
-        btn.style.borderRadius = "15px";
-        btn.textContent = seg.nombre_segmento;
-        btn.dataset.segmento = seg.id_segmento;
+                    industriaSeleccionada = this.dataset.industria;
+                    industriaNombreSeleccionada = this.dataset.nombre; // IMPORTANTE
 
-        btn.addEventListener("click", function () {
+                    segmentoSeleccionado = null;
 
-            segmentoSeleccionado = this.dataset.segmento;
-            renderProductos();
-        });
+                    generarFiltros();
+                    renderProductos();
+                });
 
-        contenedorFiltros.appendChild(btn);
-    });
-}
+            });
 
 
-// ===============================
-// RENDER PRODUCTOS
-// ===============================
-function renderProductos() {
+            // ===============================
+            // GENERAR FILTROS
+            // ===============================
+            function generarFiltros() {
 
-    contenedorProductos.innerHTML = "";
+                contenedorFiltros.innerHTML = "";
 
-    const productosFiltrados = productos.filter(p => {
+                const segmentosUnicos = [
+                    ...new Map(
+                        productos
+                        .filter(p => p.id_industria == industriaSeleccionada)
+                        .map(p => [p.id_segmento, p])
+                    ).values()
+                ];
 
-        let coincideIndustria = industriaSeleccionada
-            ? p.id_industria == industriaSeleccionada
-            : true;
+                segmentosUnicos.forEach(seg => {
 
-        let coincideSegmento = segmentoSeleccionado
-            ? p.id_segmento == segmentoSeleccionado
-            : true;
+                    const btn = document.createElement("a");
+                    btn.className = "btn";
+                    btn.style.background = "#071637";
+                    btn.style.marginRight = "10px";
+                    btn.style.borderRadius = "15px";
+                    btn.textContent = seg.nombre_segmento;
+                    btn.dataset.segmento = seg.id_segmento;
 
-        return coincideIndustria && coincideSegmento;
-    });
+                    btn.addEventListener("click", function () {
 
-    if(productosFiltrados.length === 0){
-        contenedorProductos.innerHTML = `
+                        segmentoSeleccionado = this.dataset.segmento;
+                        renderProductos();
+                    });
+
+                    contenedorFiltros.appendChild(btn);
+                });
+            }
+
+
+            // ===============================
+            // RENDER PRODUCTOS
+            // ===============================
+            function renderProductos() {
+
+                contenedorProductos.innerHTML = "";
+
+                const productosFiltrados = productos.filter(p => {
+
+                    let coincideIndustria = industriaSeleccionada ?
+                        p.id_industria == industriaSeleccionada :
+                        true;
+
+                    let coincideSegmento = segmentoSeleccionado ?
+                        p.id_segmento == segmentoSeleccionado :
+                        true;
+
+                    return coincideIndustria && coincideSegmento;
+                });
+
+                if (productosFiltrados.length === 0) {
+                    contenedorProductos.innerHTML = `
         <div style="width:100%; text-align:center; margin-top:40px;">
             <p>No hay productos disponibles</p>
         </div>`;
-        return;
-    }
+                    return;
+                }
 
-    productosFiltrados.forEach(prod => {
+                productosFiltrados.forEach(prod => {
 
-        const div = document.createElement("div");
-        div.style.marginTop = "20px";
-        div.classList.add("card", "hoverable", "card-producto");
+                    const div = document.createElement("div");
+                    div.style.marginTop = "20px";
+                    div.classList.add("card", "hoverable", "card-producto");
 
-        div.innerHTML = `
+                    div.innerHTML = `
 
 <div class="card-content">
 
@@ -1304,187 +1498,193 @@ function renderProductos() {
 </div>
 `;
 
-        contenedorProductos.appendChild(div);
-    });
+                    contenedorProductos.appendChild(div);
+                });
 
-}
+            }
 
-});
-
-
-// ===============================
-// CAPTURAR PRODUCTO AL ABRIR MODAL
-// ===============================
-document.addEventListener("click", function(e){
-
-    const btn = e.target.closest(".modal-trigger");
-    if(!btn) return;
-
-    const producto = btn.dataset.producto;
-
-    document.getElementById("producto_nombre").value = producto;
-
-});
-
-
-// ===============================
-// ENVIAR FORMULARIO A BD
-// ===============================
-document.addEventListener("submit", function(e){
-
-    if(e.target.id !== "formMuestra") return;
-
-    e.preventDefault();
-
-    const data = new FormData(e.target);
-
-    fetch("descargar.php", {
-        method: "POST",
-        body: data
-    })
-    .then(res => res.text())
-    .then(respuesta => {
-
-        console.log(respuesta);
-
-        M.toast({html: 'Solicitud enviada correctamente'});
-
-        e.target.reset();
-    })
-    .catch(error => {
-        console.error(error);
-        M.toast({html: 'Error al enviar'});
-    });
-
-});
-
-</script>
-
-<script>
-        document.addEventListener('DOMContentLoaded', function(){
-            const modals = document.querySelectorAll('modal');
-            M.Modal.init(modals);
         });
 
 
+        // ===============================
+        // CAPTURAR PRODUCTO AL ABRIR MODAL
+        // ===============================
+        document.addEventListener("click", function (e) {
+
+            const btn = e.target.closest(".modal-trigger");
+            if (!btn) return;
+
+            const producto = btn.dataset.producto;
+
+            document.getElementById("producto_nombre").value = producto;
+
+        });
+
+
+        // ===============================
+        // ENVIAR FORMULARIO A BD
+        // ===============================
+        document.addEventListener("submit", function (e) {
+
+            if (e.target.id !== "formMuestra") return;
+
+            e.preventDefault();
+
+            const data = new FormData(e.target);
+
+            fetch("descargar.php", {
+                    method: "POST",
+                    body: data
+                })
+                .then(res => res.text())
+                .then(respuesta => {
+
+                    console.log(respuesta);
+
+                    M.toast({
+                        html: 'Solicitud enviada correctamente'
+                    });
+
+                    e.target.reset();
+                })
+                .catch(error => {
+                    console.error(error);
+                    M.toast({
+                        html: 'Error al enviar'
+                    });
+                });
+
+        });
+    </script>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const modals = document.querySelectorAll('modal');
+            M.Modal.init(modals);
+        });
     </script>
 
 
-<div id="modalMuestra" class="modal modal-fixed-footer modal-corporativo">
+    <div id="modalMuestra" class="modal modal-fixed-footer modal-corporativo">
 
-    <div class="modal-content">
+        <div class="modal-content">
 
-        <!-- HEADER -->
-        <div class="header-modal">
-            <div class="header-info">
-            <div class="header-logo">
-                <center><img src="img/IMAGOTIPO_WEB.jpg" alt="Chemical Broker" width="50%" style="display:flex;justify-content:center;"></center>
+            <!-- HEADER -->
+            <div class="header-modal">
+                <div class="header-info">
+                    <div class="header-logo">
+                        <center><img src="img/IMAGOTIPO_WEB.jpg" alt="Chemical Broker" width="50%"
+                                style="display:flex;justify-content:center;"></center>
+                    </div>
+                    <center>
+                        <h5 class="subtitulo" style="color:black;">Solicitud de muestra</h5>
+                    </center>
+                </div>
+
+
             </div>
-                <center><h5 class="subtitulo" style="color:black;">Solicitud de muestra</h5></center>
+
+            <!-- FORM -->
+            <div class="row">
+                <form id="formMuestra" method="POST" action="descargar.php" class="col s12 m12 l12 xl12">
+
+
+
+                    <!-- EMPRESA -->
+
+                    <div class="row">
+
+
+                        <div class="input-field col s12 m12 l6 xl6">
+
+                            <input id="producto" name="producto" type="text" required>
+                            <label for="producto">Producto</label>
+
+
+
+                        </div>
+
+
+                        <div class="input-field col s12 m12 l6 xl6">
+
+
+
+                            <input id="empresa" name="empresa" type="text" required>
+                            <label for="empresa">Empresa</label>
+
+                        </div>
+
+                        <div class="input-field col s12 m6 l6 xl6">
+                            <input id="nombre" name="nombre" type="text" required>
+                            <label for="nombre">Nombre completo</label>
+                        </div>
+
+                        <div class="input-field col s12 m6">
+                            <input id="correo" name="correo" type="email" required>
+                            <label for="correo">Correo corporativo</label>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="input-field col s12 m6">
+                            <input id="telefono" name="telefono" type="text">
+                            <label for="telefono">Teléfono</label>
+                        </div>
+
+                        <div class="input-field col s12 m6 l6 xl6">
+                            <textarea id="uso" name="uso" class="materialize-textarea"></textarea>
+                            <label for="uso">¿Para qué proceso o producto lo utilizará?</label>
+                        </div>
+
+                    </div>
+
+
+
+
+                    <div class="row">
+                        <div class="input-field col s6">
+                            <input id="cantidad" name="cantidad" type="text">
+                            <label for="cantidad">Cantidad requerida</label>
+                        </div>
+
+                        <div class="input-field col s6">
+                            <input id="industria" name="industria" type="text">
+                            <label for="industria">Industria</label>
+                        </div>
+                    </div>
+
+
+                    <div class="row">
+                        <div class="input-field col s6">
+                            <input id="comentarios" name="comentarios" type="text">
+                            <label for="comentarios">Comentarios</label>
+                        </div>
+                    </div>
+
+
+
+
+
+
+                    <!-- FOOTER -->
+                    <div style="display:flex;justify-content:center;color:#071637;">
+                        <a href="#!" class="modal-close btn-flat"
+                            style="color:#071637;border-radius:20px;"><b>Cancelar</b></a>
+
+                        <button type="submit" id="enviarMuestra" class="btn-flat"
+                            style="color:#071637;border-radius:20px;">
+                            <b>Enviar solicitud</b>
+                        </button>
+                    </div>
+
+
+                </form>
             </div>
 
-           
         </div>
 
-        <!-- FORM -->
-        <div class="row">
-            <form id="formMuestra" method="POST" action="descargar.php"  class="col s12 m12 l12 xl12">
-
-                
-
-                <!-- EMPRESA -->
-
-                <div class="row">
-
-
-                <div class="input-field col s12 m12 l6 xl6">
-
-                    <input id="producto" name="producto" type="text" required>
-                        <label for="producto">Producto</label>
-
-
-
-</div>
-
-
-                    <div class="input-field col s12 m12 l6 xl6">
-
-       
-
-                        <input id="empresa" name="empresa" type="text" required>
-                        <label for="empresa">Empresa</label>
-
-                    </div>
-
-                    <div class="input-field col s12 m6 l6 xl6">
-                        <input id="nombre" name="nombre" type="text" required>
-                        <label for="nombre">Nombre completo</label>
-                    </div>
-
-                    <div class="input-field col s12 m6">
-                        <input id="correo" name="correo" type="email" required>
-                        <label for="correo">Correo corporativo</label>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="input-field col s12 m6">
-                        <input id="telefono" name="telefono" type="text">
-                        <label for="telefono">Teléfono</label>
-                    </div>
-
-                    <div class="input-field col s12 m6 l6 xl6">
-                        <textarea id="uso" name="uso" class="materialize-textarea"></textarea>
-                        <label for="uso">¿Para qué proceso o producto lo utilizará?</label>
-                    </div>
-
-                </div>
-
-              
-               
-
-                <div class="row">
-                <div class="input-field col s6">
-                        <input id="cantidad" name="cantidad" type="text">
-                        <label for="cantidad">Cantidad requerida</label>
-                    </div>
-
-                    <div class="input-field col s6">
-                        <input id="industria" name="industria" type="text">
-                        <label for="industria">Industria</label>
-                    </div>
-                </div>
-
-                
-                <div class="row">
-                <div class="input-field col s6">
-                        <input id="comentarios" name="comentarios" type="text">
-                        <label for="comentarios">Comentarios</label>
-                    </div>
-                </div>
-                
-
-               
-                   
-
-
-                 <!-- FOOTER -->
-    <div  style="display:flex;justify-content:center;color:#071637;">
-        <a href="#!" class="modal-close btn-flat" style="color:#071637;border-radius:20px;"><b>Cancelar</b></a>
-
-        <button type="submit" id="enviarMuestra" class="btn-flat" style="color:#071637;border-radius:20px;">  
-           <b>Enviar solicitud</b>
-        </button>
-    </div>
-
-
-            </form>
-        </div>
 
     </div>
-
-   
-</div>
 
 
 </body>

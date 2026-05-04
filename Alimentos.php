@@ -385,7 +385,7 @@ recaptchaResponse.value = token;
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
         <div class="caption center-align" style="z-index:3;position:relative;"><br/><br/><br/><br/>
-              <h3 class="primertitulo"><b class="boldbanner">Chemical Broker</b><br/></h3><b class="segundotitulo" style="font-size:26px;color:white">Alimentos </b>
+              <h3 class="primertitulo"><b class="boldbanner">Chemical Broker</b><br/></h3><b class="segundotitulo" style="font-size:26px;color:white">Alimentos & Nutricion Humana</b>
             </div>
           <li>   <video class="videos_mercados" style="border-radius:10px" autoplay="autoplay" loop="loop" muted defaultMuted playsinline>
                   <source class="mercadosimagen" src="VIDEO/NUTRICION_HUMANA2.mp4" type="video/mp4">
@@ -398,7 +398,7 @@ recaptchaResponse.value = token;
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-          <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>  >&nbsp </b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important"><b>Mercados&nbsp </b><b>   >&nbsp </b></a><a class="breditem active" href="Alimentos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia--general Subtitulos">Alimentos </b></a></section>
+          <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp </b><b>  >&nbsp </b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important"><b class="Tipografia--general Subtitulos">Mercados&nbsp </b><b>   >&nbsp </b></a><a class="breditem active" href="Alimentos.php" style="color:red !important;margin-left:-2px"><b class="Tipografia--general Subtitulos">Alimentos & Nutricion Humana</b></a></section>
         </div>
       </div>
     </div>
