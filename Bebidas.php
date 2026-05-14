@@ -7,6 +7,10 @@
     <link rel="canonical" href="https://chemicalbroker.mx/Bebidas.php">
     <meta name="description" content="Ofrecemos soluciones e ingredientes para bebidas que elevan el sabor, estabilidad y frescura. Acidulantes, endulzantes y aditivos de calidad industrial para formulaciones más seguras y competitivas ">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
+        <!-- Material Icons (por si los usas en otros lados) -->
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<!-- Font Awesome (ICONOS PRO) -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -405,76 +409,216 @@
     </div>
     <div class="container">
       <div class="row center-align">
-        <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Carbonatadas.php" style="cursor:pointer;">
-            <div class="contenedor">
-              <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
-              <div class="centrado_sub" style="position:absolute;z-index:2">
-                <h5 class="titulo_submercado"><b class="titulo_submercado">Carbonatadas </b><b> </b>
-                  <hr class="animacion"/>
-                  <p> <b style="color:white !important">
-                      <p class="leer_mas_mercados"> Leer Mas</p></b></p>
-                </h5>
-              </div><img class="mercadosimagen " src="img/CB_CARBONATE_200521.jpg" alt="" style="border-radius: 10px;"/>
-            </div></a></div>
-            <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Isotonicas.php" style="cursor:pointer;">
-            <div class="contenedor">
-              <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
-              <div class="centrado_sub" style="position:absolute;z-index:2">
-                <h5 class="titulo_submercado"><b class="titulo_submercado">Isotonicas</b>
-                  <hr class="animacion"/>
-                  <p> <b style="color:white !important">
-                      <p class="leer_mas_mercados"> Leer Mas</p></b></p>
-                </h5>
-              </div><img class="mercadosimagen " src="img/CB_ISOTONIC_200521.jpg" alt="" style="border-radius: 10px;"/>
-            </div></a></div>
-    
-       
-        <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Jugos.php" style="cursor:pointer;">
-            <div class="contenedor">
-              <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
-              <div class="centrado_sub" style="position:absolute;z-index:2">
-                <h5 class="titulo_submercado"><b class="titulo_submercado">Jugos</b><b> </b>
-                  <hr class="animacion"/>
-                  <p> <b style="color:white !important">
-                      <p class="leer_mas_mercados">Leer Mas</p></b></p>
-                </h5>
-              </div><img class="mercadosimagen " src="img/CB_JUGO_200521.jpg" alt="" style="border-radius: 10px;"/>
-            </div></a></div>
-            <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Alcoholicas.php" style="cursor:pointer;">
-            
-            <div class="contenedor">
-            <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
-            <div class="centrado_sub" style="position:absolute;z-index:2">
-              <h5 class="titulo_submercado"><b class="titulo_submercado">Alholicas</b>
-                <hr class="animacion"/>
-                <p> <b style="color:white !important">
-                    <p class="leer_mas_mercados">Leer Mas</p></b></p>
-              </h5>
-            </div><img class="mercadosimagen " src="img/CB_ALCOHOLIC_200521.jpg" alt="" style="border-radius: 10px;"/>
-          </div>
-          </a>
 
-            </div>
+
+      <!-- CARD 1 -->
+ <div class="col s12 m6">
+  <div class="card custom-card card-alimentaria">
+
+    <div class="card-image custom-image-container">
+
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/CB_CARBONATE_200521.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-alimentos"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-utensils"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Carbonatadas</h5>
+        <p>Ingredientes y soluciones para la industria alimentaria y de nutrición.</p>
+
+        <a href="Carbonatadas.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<!-- CARD 1 -->
+<div class="col s12 m6">
+  <div class="card custom-card card-alimentaria">
+
+    <div class="card-image custom-image-container">
+
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/CB_ISOTONIC_200521.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-alimentos"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-utensils"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Isotonicas</h5>
+        <p>Ingredientes y soluciones para la industria alimentaria y de nutrición.</p>
+
+        <a href="Isotonicas.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<!-- CARD 1 -->
+<div class="col s12 m6">
+  <div class="card custom-card card-alimentaria">
+
+    <div class="card-image custom-image-container">
+
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/CB_JUGO_200521.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-alimentos"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-utensils"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Jugos</h5>
+        <p>Ingredientes y soluciones para la industria alimentaria y de nutrición.</p>
+
+        <a href="Jugos.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<!-- CARD 1 -->
+<div class="col s12 m6">
+  <div class="card custom-card card-alimentaria">
+
+    <div class="card-image custom-image-container">
+
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/CB_ALCOHOLIC_200521.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-alimentos"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-utensils"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Alcoholicas</h5>
+        <p>Ingredientes y soluciones para la industria alimentaria y de nutrición.</p>
+
+        <a href="Alcoholicas.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<!-- CARD 1 -->
+<div class="col s12 m6">
+  <div class="card custom-card card-alimentaria">
+
+    <div class="card-image custom-image-container">
+
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/CB_HEAL_200521.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-alimentos"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-utensils"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Nutricionales</h5>
+        <p>Ingredientes y soluciones para la industria alimentaria y de nutrición.</p>
+
+        <a href="Nutricionales.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
         
-
-         
-           
-              <div class="col s12 m12 l6 xl6 mercados zoom columna3"><a href="Nutricionales.php" style="cursor:pointer;">
-            
-            <div class="contenedor">
-            <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
-            <div class="centrado_sub" style="position:absolute;z-index:2">
-              <h5 class="titulo_submercado"><b class="titulo_submercado">Nutricionales</b><b> </b>
-                <hr class="animacion"/>
-                <p> <b style="color:white !important">
-                    <p class="leer_mas_mercados"> Leer Mas</p></b></p>
-              </h5>
-            </div><img class="mercadosimagen " src="img/CB_HEAL_200521.jpg" alt="" style="border-radius: 10px;"/>
-          </div>
-          </a>
-
-            </div>
-            </div>
             </div>
   
     </div>

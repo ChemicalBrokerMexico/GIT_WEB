@@ -601,7 +601,7 @@
         <div class="row">
             <div class="col s12 m12 l12 xl12">
 
-            <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Products_News.php"><b class="Tipografia--general Subtitulos" style="color:black;">Productos > </b></a><a class="active" href="Maltodextrina.php"><b class="Tipografia--general Subtitulos" style="color:red;">Maltodextrina</b></a></section>
+            <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Inicio&nbsp>&nbsp </b></a><a class="active" href="Products_News.php"><b class="Tipografia--general Subtitulos" style="color:black;">Productos > </b></a><a class="active" href="Maltodextrina.php"><b class="Tipografia--general Subtitulos" style="color:red;">Maltodextrina</b></a></section>
                 <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>Maltodextrina</b></h2>
                 <p class="Tipografia--general letranegro General--Cuerpo">La <b>Maltodextrina</b> es un polímero formado por
                     unidades de D-Glucosa unidad por medio de enlaces glicosídicos α (1-4) y α (1-6). Es un polvo blanco

@@ -422,7 +422,20 @@ gtag('config', 'G-SGJQ8FDDJ6');
       </div>
     </div>
 
-    <div class="container" style="margin-top:120px;">
+    
+
+  <div class="container" style="margin-top:100px;">
+    <div class="row">
+      <div class="col s12 m12 l12 xl12">
+
+      <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Inicio&nbsp>&nbsp </b></a><a class="active" href="Productos_news.php"><b class="Tipografia--general Subtitulos" style="color:black;">Productos > </b></a><a class="active" href="Glycols.php"><b class="Tipografia--general Subtitulos" style="color:red;">Glicoles</b></a></section>
+
+
+      </div>
+  </div>
+  </div>
+
+    <div class="container" style="margin-top:0px;">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
           <h1 class="Tipografia--general letranegro Titulos"><b>Glicoles</b></h1>

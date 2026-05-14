@@ -16,6 +16,10 @@
     <link rel="stylesheet" href="css/jquery.dataTables.min.css" />
     <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+    <!-- Material Icons (por si los usas en otros lados) -->
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<!-- Font Awesome (ICONOS PRO) -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     <script src="https://code.jquery.com/jquery-3.5.1.js"
         integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="js/materialize.js?n=1" type="text/javascript"></script>
@@ -608,9 +612,9 @@
         <div class="row">
             <div class="col s12 m12 l12 xl12">
                 <section style="margin-top:125px"><a class="breditem active" href="index.php"
-                        style="color:#262137 !important"><b>Inicio&nbsp </b><b> >&nbsp </b></a><a
-                        class="breditem active" href="Mercados.php" style="color:#262137 !important"><b>Mercados&nbsp
-                        </b><b> >&nbsp </b></a><a class="breditem active" href="Cosmetica_Cuidadopersonal.php"
+                        style="color:#262137 !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp </b><b class="Tipografia--general Subtitulos"> >&nbsp </b></a><a
+                        class="breditem active" href="Mercados.php" style="color:#262137 !important"><b class="Tipografia--general Subtitulos">Mercados&nbsp
+                        </b><b class="Tipografia--general Subtitulos"> >&nbsp </b></a><a class="breditem active" href="Cosmetica_Cuidadopersonal.php"
                         style="color:red !important;margin-left:-2px"><b
                             class="Tipografia--general Subtitulos">Cosmetica & Cuidado Personal
                         </b></a></section>
@@ -658,122 +662,299 @@
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
-                <div class="col s12 m12 l6 xl6 mercados zoom" style="cursor:pointer;margin-top:50px;"><a href="Maquillaje.php"
-                        >
-                        <div class="contenedor">
-                            <div class="transfo" id="overlaycosme" style="border-radius:10px"></div>
-                            <div class="centrado_sub" style="position:absolute;z-index:2">
-                                <h5 class="titulo_submercado"><b class="titulo_submercado">Maquillaje </b><b> </b>
-                                    <hr class="animacion" />
-                                    <p> <b style="color:white !important">
-                                            <p class="leer_mas_mercados"> Leer Mas</p>
-                                        </b></p>
-                                </h5>
-                            </div><img class="mercadosimagen zoom" src="img/CB_MAQUILLAJE.jpg" alt=""
-                                style="width:100%;border-radius:10px;" />
-                        </div>
-                    </a></div>
-                <div class="col s12 m12 l6 xl6 mercados zoom" style="margin-top:50px;"><a href="Tintes_Cabello.php" style="cursor:pointer;">
-                        <div class="contenedor">
-                            <div class="transfo" id="overlaycosme" style="border-radius:10px"></div>
-                            <div class="centrado_sub" style="position:absolute;z-index:2">
-                                <h5 class="titulo_submercado"><b class="titulo_submercado">Tintes para Cabello</b><b>
-                                    </b>
-                                    <hr class="animacion" />
-                                    <p> <b style="color: white !important">
-                                            <p class="leer_mas_mercados"> Leer Mas</p>
-                                        </b></p>
-                                </h5>
-                            </div><img class="mercadosimagen zoom" src="img/CB_TINTE.jpg" alt=""
-                                style="width:100%;border-radius:10px;" />
-                        </div>
-                    </a></div>
 
-                    <div class="col s12 m12 l6 xl6 mercados zoom" style="margin-top:50px;"><a href="Cremas.php" style="cursor:pointer;">
-                        <div class="contenedor">
-                            <div class="transfo" id="overlaycosme" style="border-radius:10px"></div>
-                            <div class="centrado_sub" style="position:absolute;z-index:2">
-                                <h5 class="titulo_submercado"><b class="titulo_submercado">Cremas</b><b>
-                                    </b>
-                                    <hr class="animacion" />
-                                    <p> <b style="color: white !important">
-                                            <p class="leer_mas_mercados"> Leer Mas</p>
-                                        </b></p>
-                                </h5>
-                            </div><img class="mercadosimagen zoom" src="img/CREMAS_100425.jpg" alt=""
-                                style="width:100%;border-radius:10px;" />
-                        </div>
-                    </a></div>
+<!-- CARD 1 -->
+            <div class="col s12 m6">
+  <div class="card custom-card card-cosmetico">
 
-                    <div class="col s12 m12 l6 xl6 mercados zoom" style="margin-top:50px;"><a href="Champu.php" style="cursor:pointer;">
-                        <div class="contenedor">
-                            <div class="transfo" id="overlaycosme" style="border-radius:10px"></div>
-                            <div class="centrado_sub" style="position:absolute;z-index:2">
-                                <h5 class="titulo_submercado"><b class="titulo_submercado">Champu</b><b>
-                                    </b>
-                                    <hr class="animacion" />
-                                    <p> <b style="color: white !important">
-                                            <p class="leer_mas_mercados"> Leer Mas</p>
-                                        </b></p>
-                                </h5>
-                            </div><img class="mercadosimagen zoom" src="img/CHAMPU.jpg" alt=""
-                                style="width:100%;border-radius:10px;" />
-                        </div>
-                    </a></div>
+    <div class="card-image custom-image-container">
 
-                    <div class="col s12 m12 l6 xl6 mercados zoom" style="margin-top:50px;"><a href="Antitranspirante.php" style="cursor:pointer;">
-                        <div class="contenedor">
-                            <div class="transfo" id="overlaycosme" style="border-radius:10px"></div>
-                            <div class="centrado_sub" style="position:absolute;z-index:2">
-                                <h5 class="titulo_submercado"><b class="titulo_submercado">Antitranspirante</b><b>
-                                    </b>
-                                    <hr class="animacion" />
-                                    <p> <b style="color: white !important">
-                                            <p class="leer_mas_mercados"> Leer Mas</p>
-                                        </b></p>
-                                </h5>
-                            </div><img class="mercadosimagen zoom" src="img/ANTITRANSPIRANTE_120525.jpg" alt=""
-                                style="width:100%;border-radius:10px;" />
-                        </div>
-                    </a></div>
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/CB_MAQUILLAJE.jpg" alt="" />
 
-                    <div class="col s12 m12 l6 xl6 mercados zoom" style="margin-top:50px;"><a href="Bloqueadores_Solares.php" style="cursor:pointer;">
-                        <div class="contenedor">
-                            <div class="transfo" id="overlaycosme" style="border-radius:10px"></div>
-                            <div class="centrado_sub" style="position:absolute;z-index:2">
-                                <h5 class="titulo_submercado"><b class="titulo_submercado">Bloqueadores Solares</b><b>
-                                    </b>
-                                    <hr class="animacion" />
-                                    <p> <b style="color: white !important">
-                                            <p class="leer_mas_mercados"> Leer Mas</p>
-                                        </b></p>
-                                </h5>
-                            </div><img class="mercadosimagen zoom" src="img/BLOQUEADOR_SOLAR_120525.jpg" alt=""
-                                style="width:100%;border-radius:10px;" />
-                        </div>
-                    </a></div>
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-cosmeticos"></div>
 
-                    <div class="col s12 m12 l6 xl6 mercados zoom" style="margin-top:50px;"><a href="Serums.php" style="cursor:pointer;">
-                        <div class="contenedor">
-                            <div class="transfo" id="overlaycosme" style="border-radius:10px"></div>
-                            <div class="centrado_sub" style="position:absolute;z-index:2">
-                                <h5 class="titulo_submercado"><b class="titulo_submercado">Serum</b><b>
-                                    </b>
-                                    <hr class="animacion" />
-                                    <p> <b style="color: white !important">
-                                            <p class="leer_mas_mercados"> Leer Mas</p>
-                                        </b></p>
-                                </h5>
-                            </div><img class="mercadosimagen zoom" src="img/SERUM_120525.jpg" alt=""
-                                style="width:100%;border-radius:10px;" />
-                        </div>
-                    </a></div>
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-pump-soap"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Maquillaje</h5>
+        <p>Ingredientes especializados para formulaciones de belleza y cuidado personal.</p>
+
+        <a href="Maquillaje.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<!-- CARD 2 -->
+<div class="col s12 m6">
+  <div class="card custom-card card-cosmetico">
+
+    <div class="card-image custom-image-container">
+
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/CB_TINTE.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-cosmeticos"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-pump-soap"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Tintes para Cabello</h5>
+        <p>Ingredientes especializados para formulaciones de belleza y cuidado personal.</p>
+
+        <a href="Tintes_Cabello.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<!-- CARD 3 -->
+<div class="col s12 m6">
+  <div class="card custom-card card-cosmetico">
+
+    <div class="card-image custom-image-container">
+
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/CREMAS_100425.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-cosmeticos"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-pump-soap"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Cremas</h5>
+        <p>Ingredientes especializados para formulaciones de belleza y cuidado personal.</p>
+
+        <a href="Cremas.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<!-- CARD 4 -->
+<div class="col s12 m6">
+  <div class="card custom-card card-cosmetico">
+
+    <div class="card-image custom-image-container">
+
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/CHAMPU.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-cosmeticos"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-pump-soap"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Champu</h5>
+        <p>Ingredientes especializados para formulaciones de belleza y cuidado personal.</p>
+
+        <a href="Champu.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<!-- CARD 5 -->
+<div class="col s12 m6">
+  <div class="card custom-card card-cosmetico">
+
+    <div class="card-image custom-image-container">
+
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/ANTITRANSPIRANTE_120525.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-cosmeticos"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-pump-soap"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Antitranspirante</h5>
+        <p>Ingredientes especializados para formulaciones de belleza y cuidado personal.</p>
+
+        <a href="Antitranspirantes.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<!-- CARD 6 -->
+<div class="col s12 m6">
+  <div class="card custom-card card-cosmetico">
+
+    <div class="card-image custom-image-container">
+
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/BLOQUEADOR_SOLAR_120525.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-cosmeticos"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-pump-soap"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Bloqueadores Solares</h5>
+        <p>Ingredientes especializados para formulaciones de belleza y cuidado personal.</p>
+
+        <a href="Bloqueadores_Solares.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<!-- CARD 7 -->
+<div class="col s12 m6">
+  <div class="card custom-card card-cosmetico">
+
+    <div class="card-image custom-image-container">
+
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/SERUM_120525.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-cosmeticos"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-pump-soap"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Serum</h5>
+        <p>Ingredientes especializados para formulaciones de belleza y cuidado personal.</p>
+
+        <a href="Serums.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
 
             </div>
-      
+        </div>
     </div>
-    </div>
-
+    
 
     <footer style="margin-top:70px">
   <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"

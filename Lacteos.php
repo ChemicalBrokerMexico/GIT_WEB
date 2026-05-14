@@ -7,7 +7,10 @@
     <meta name="description" content="La industria Láctea tiene un gran impacto a nivel global, para la fabricación de yogurt, crema, leche saborizada, quesos.">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link rel="canonical" href="https://chemicalbroker.mx/Lacteos.php">
-
+    <!-- Material Icons (por si los usas en otros lados) -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<!-- Font Awesome (ICONOS PRO) -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -403,115 +406,266 @@
       </div>
     </div>
     
-    <!-- <div class="container">
-      <div class="row">
-        <div class="col s12 m12 l12 xl12">
-          <h5> <b style="color:#262137;">Productos</b></h5>
-        </div>
-      </div>
-    </div>
-    <div class="container" style="margin-top:-50px;">
-      <div class="row">
-        <div class="col s12 m12 l6 xl12">
-        <ol>
-          <a href="Oils_Fats.php?aplicacion=Dairy" style="color:#262137;width: 0px;"><li class="arrowblue">Oils & Fats</li></a>
-          <a href="Dairy_Derivates.php?aplicacion=Dairy" style="color:#262137;width: 0px;"><li class="arrowblue">Dairy Derivates</li></a>
-          <a href="Phosphates.php?aplicacion=Dairy" style="color:#262137;width: 0px;"><li class="arrowblue">Phosphates</li></a>
-          <a href="Gums.php?aplicacion=Dairy" style="color:#262137;width: 0px;"><li class="arrowblue">Gums</li></a>
-          <a href="Vitamins.php?aplicacion=Dairy" style="color:#262137;width: 0px;"><li class="arrowblue">Vitamins</li></a>
-          <a href="Saturated_Diglycerides.php?aplicacion=Dairy" style="color:#262137;width: 0px;"><li class="arrowblue">Saturated Mono and Diglycerides of Fatty Acids</li></a>
-          <a href="Unsaturated_Diglicerydes.php?aplicacion=Dairy" style="color:#262137;width: 0px;"><li class="arrowblue">Unsaturated Mono and Diglycerides of Fatty Acids</li></a>
-        </ol>
-        </div>
-      </div>
-    </div> -->
+   
 
     <div class="container">
-      <div class="row center-align">
-        <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Leche.php" style="cursor:pointer;">
-            <div class="contenedor">
-              <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
-              <div class="centrado_sub" style="position:absolute;z-index:2">
-                <h5 class="titulo_submercado"><b class="titulo_submercado">Leche </b><b> </b>
-                  <hr class="animacion"/>
-                  <p> <b style="color: white !important">
-                      <p class="leer_mas_mercados"> Leer Mas</p></b></p>
-                </h5>
-              </div><img class="mercadosimagen " src="img/CB_MILK_190521.jpg" alt="" style="border-radius: 10px;"/>
-            </div></a></div>
-        <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Leche_Polvo.php" style="cursor:pointer;">
-            <div class="contenedor">
-              <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
-              <div class="centrado_sub" style="position:absolute;z-index:2">
-                <h5 class="titulo_submercado"><b class="titulo_submercado">Leche <br>en Polvo</b><b> </b>
-                  <hr class="animacion"/>
-                  <p> <b style="color:white !important">
-                      <p class="leer_mas_mercados"> Leer Mas</p></b></p>
-                </h5>
-              </div><img class="mercadosimagen " src="img/CB_POLV_190521.jpg" alt="" style="border-radius: 10px;"/>
-            </div></a></div>
-      
-   
-        <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Leche_Saborizada.php" style="cursor:pointer;">
-            <div class="contenedor">
-              <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
-              <div class="centrado_sub" style="position:absolute;z-index:2">
-                <h5 class="titulo_submercado"><b class="titulo_submercado">Leche <br>Saborizada </b><b> </b>
-                  <hr class="animacion"/>
-                  <p> <b style="color:white !important">
-                      <p class="leer_mas_mercados"> Leer Mas</p></b></p>
-                </h5>
-              </div><img class="mercadosimagen " src="img/CB_SABORIZADA_190521.jpeg" alt="" style="border-radius: 10px;"/>
-            </div></a></div>
-        <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Quesos.php" style="cursor:pointer;">
-            <div class="contenedor">
-              <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
-              <div class="centrado_sub" style="position:absolute;z-index:2">
-                <h5 class="titulo_submercado"><b class="titulo_submercado">Quesos</b><b> </b>
-                  <hr class="animacion"/>
-                  <p> <b style="color:white !important">
-                      <p class="leer_mas_mercados"> Leer Mas</p></b></p>
-                </h5>
-              </div><img class="mercadosimagen " src="img/CB_QUESO_190521.jpeg" alt="" style="border-radius: 10px;"/>
-            </div></a></div>
-       
+      <div class="row">
 
-         
-              <div class="col s12 m12 l6 xl6 mercados zoom columna3"><a href="Yogurt.php" style="cursor:pointer;">
-            
-              <div class="contenedor">
-              <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
-              <div class="centrado_sub" style="position:absolute;z-index:2">
-                <h5 class="titulo_submercado"><b class="titulo_submercado">Yogurt</b><b> </b>
-                  <hr class="animacion"/>
-                  <p> <b style="color:white !important">
-                      <p class="leer_mas_mercados"> Leer Mas</p></b></p>
-                </h5>
-              </div><img class="mercadosimagen " src="img/CB_YOGURT_190521.jpg" alt="" style="border-radius: 10px;"/>
-            </div>
-            </a>
+      <!-- CARD 1 -->
+<div class="col s12 m6">
+  <div class="card custom-card card-alimentaria">
 
-              </div>
-              <div class="col s12 m12 l6 xl6 mercados zoom columna3"><a href="Helado.php" style="cursor:pointer;">
-            
-            <div class="contenedor">
-            <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
-            <div class="centrado_sub" style="position:absolute;z-index:2">
-              <h5 class="titulo_submercado"><b class="titulo_submercado">Helados</b><b> </b>
-                <hr class="animacion"/>
-                <p> <b style="color:white !important">
-                    <p class="leer_mas_mercados"> Leer Mas</p></b></p>
-              </h5>
-            </div><img class="mercadosimagen " src="img/CB_ICECREAM_190521.jpg" alt="" style="border-radius: 10px;"/>
-          </div>
-          </a>
+    <div class="card-image custom-image-container">
 
-            </div>
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/CB_MILK_190521.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-alimentos"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-utensils"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Leche</h5>
+        <p>Ingredientes y soluciones para la industria alimentaria y de nutrición.</p>
+
+        <a href="Leche.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<!-- CARD 5 -->
+<div class="col s12 m6">
+  <div class="card custom-card card-alimentaria">
+
+    <div class="card-image custom-image-container">
+
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/CB_POLV_190521.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-alimentos"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-utensils"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Leche en Polvo</h5>
+        <p>Ingredientes y soluciones para la industria alimentaria y de nutrición.</p>
+
+        <a href="Leche_Polvo.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<!-- CARD 5 -->
+<div class="col s12 m6">
+  <div class="card custom-card card-alimentaria">
+
+    <div class="card-image custom-image-container">
+
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/CB_SABORIZADA_190521.jpeg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-alimentos"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-utensils"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Leche Saborizada</h5>
+        <p>Ingredientes y soluciones para la industria alimentaria y de nutrición.</p>
+
+        <a href="Leche_Saborizada.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<!-- CARD 5 -->
+<div class="col s12 m6">
+  <div class="card custom-card card-alimentaria">
+
+    <div class="card-image custom-image-container">
+
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/CB_QUESO_190521.jpeg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-alimentos"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-utensils"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Quesos</h5>
+        <p>Ingredientes y soluciones para la industria alimentaria y de nutrición.</p>
+
+        <a href="Quesos.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<!-- CARD 5 -->
+<div class="col s12 m6">
+  <div class="card custom-card card-alimentaria">
+
+    <div class="card-image custom-image-container">
+
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/CB_YOGURT_190521.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-alimentos"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-utensils"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Yogurt</h5>
+        <p>Ingredientes y soluciones para la industria alimentaria y de nutrición.</p>
+
+        <a href="Yogurt.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<!-- CARD 5 -->
+<div class="col s12 m6">
+  <div class="card custom-card card-alimentaria">
+
+    <div class="card-image custom-image-container">
+
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/CB_ICECREAM_190521.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-alimentos"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-utensils"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Helados</h5>
+        <p>Ingredientes y soluciones para la industria alimentaria y de nutrición.</p>
+
+        <a href="Helado.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+
          
   
     </div>
  
 </div>
+
 <footer style="margin-top:70px">
   <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
       alt=""></div><br><br>

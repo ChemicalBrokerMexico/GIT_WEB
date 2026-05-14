@@ -404,7 +404,7 @@ id="aparece"></i></a></li>
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>  >&nbsp </b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important"><b>Mercados&nbsp </b><b>   >&nbsp </b></a><a class="breditem active" href="Cosmetica_Cuidadopersonal.php" style="color:#262137 !important;margin-left:-2px"><b>Cosmetica & Cuidado Personal ></b></a> <a href="Tintes.php" style="color:#262137"><b class="Tipografia--general Subtitulos breadcrumb" style="color:red;">Champu</b></a></section>
+<section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp </b><b class="Tipografia--general Subtitulos">  >&nbsp </b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important"><b class="Tipografia--general Subtitulos">Mercados&nbsp </b><b class="Tipografia--general Subtitulos">   >&nbsp </b></a><a class="breditem active" href="Cosmetica_Cuidadopersonal.php" style="color:#262137 !important;margin-left:-2px"><b class="Tipografia--general Subtitulos">Cosmetica & Cuidado Personal ></b></a> <a href="Tintes.php" style="color:#262137"><b class="Tipografia--general Subtitulos breadcrumb" style="color:red;">Champu</b></a></section>
 </div>
 </div>
 </div>

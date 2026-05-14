@@ -8,6 +8,12 @@
   <meta name="description" content="Calidad en cada ingrediente; en Chemical Broker contamos con un amplio portafolio de ingredientes farmaceuticos los cuales cumplen con las mejores certificaciones a nivel global con el objetivo de brindar la mayor calida a nuestros socios de negocios lo cual nos convierte en uno de los principales proveedores de ingredientes quimicos para farmaceutica a nivel global.">
   <link rel="canonical" href="https://chemicalbroker.mx/pharmaceutical.php">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
+  <!-- Material Icons (por si los usas en otros lados) -->
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<!-- Font Awesome (ICONOS PRO) -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
   <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -597,116 +603,351 @@ recaptchaResponse.value = token;
 
 
   <div class="container">
-    <div class="row center-align">
-      <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Spray_Nasal.php" style="cursor:pointer;">
-          <div class="contenedor">
-            <div class="transfo" id="overlay" style="border-radius:10px"></div>
-            <div class="centrado_sub" style="position:absolute;z-index:2">
-              <h2 class="titulo_submercado"></h2><b class="titulo_submercado"> <span
-                  style="position:relative;z-index:2">Sprays Nasales </span></b><b> </b>
-              <hr class="animacion" />
-              <p> <b style="color:white !important">
-                  <p class="leer_mas_mercados center-align"> Leer Más</p>
-                </b></p>
-            </div><img class="mercadosimagen" src="img/SPRAY_NASAL.jpeg" alt="" style="border-radius:10px" />
-          
-          </div>
-          <!-- <div class="container" style="background-color:#071637;border-radius:15px;padding:5px;margin-top:-30px;width:100%;">
-                <p class="Tipografia--general letranegro General--Cuerpo center-align" style="color:white;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam excepturi possimus ab a debitis, ad iure nam deserunt eligendi quod aspernatur magni in hic, minima eos fuga, esse illum voluptatem. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Harum beatae, molestiae ab, in quam quibusdam, nam inventore iusto fugit architecto quaerat quos dolor laboriosam excepturi dicta. Minima necessitatibus consectetur possimus?</p>
-            </div> -->
-        </a></div>
-      <div class="col s12 m12 l6 xl6 mercados zoom "><a href="Jarabes.php" style="cursor:pointer;">
-          <div class="contenedor">
-            <div class="transfo" id="overlay" style="border-radius:10px"></div>
-            <div class="centrado_sub " style="position:absolute;z-index:2">
-              <h2 class="titulo_submercado"></h2><b class="titulo_submercado"> <span
-                  style="position:relative;z-index:2">Jarabes </span></b><b> </b>
-              <hr class="animacion" />
-              <p> <b style="color:white !important">
-                  <p class="leer_mas_mercados center-align"> Leer Más</p>
-                </b></p>
-            </div><img class="mercadosimagen" src="img/SYRUP_280421.jpeg" alt="" style="border-radius:10px" />
-          </div>
-        </a></div>
-      <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Pomadas_Ungüentos.php" style="cursor:pointer;">
-          <div class="contenedor">
-            <div class="transfo" id="overlay" style="border-radius:10px"></div>
-            <div class="centrado_sub" style="position:absolute;z-index:2">
-              <h2 class="titulo_submercado"></h2><b class="titulo_submercado"> <span
-                  style="position:relative;z-index:2">Pomadas </span><br />y<br />Ungüentos</b><b> </b>
-              <hr class="animacion" />
-              <p> <b style="color:white !important">
-                  <p class="leer_mas_mercados center-align"> Leer Más</p>
-                </b></p>
-            </div><img class="mercadosimagen" src="img/POMADA_100521.jpg" alt="" style="border-radius:10px" />
-          </div>
-        </a></div>
-      <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Tabletas_Duras.php" style="cursor:pointer;">
-          <div class="contenedor">
-            <div class="transfo" id="overlay" style="border-radius:10px"></div>
-            <div class="centrado_sub" style="position:absolute;z-index:2">
-              <h2 class="titulo_submercado"></h2><b class="titulo_submercado"> <span
-                  style="position:relative;z-index:2">Tabletas<br>Duras </span></b><b> </b>
-              <hr class="animacion" />
-              <p> <b style="color:white !important">
-                  <p class="leer_mas_mercados center-align"> Leer Más</p>
-                </b></p>
-            </div><img class="mercadosimagen" src="img/TABLETAS_DURAS_100521.jpg" alt="" style="border-radius:10px" />
-          </div>
-        </a></div>
-      <div class="col s12 m12 l6 xl6 mercados  columna3"><a href="Tabletas_Blandas.php" style="cursor:pointer;">
-          <div class="contenedor">
-            <div class="transfo" id="overlay" style="border-radius:10px"></div>
-            <div class="centrado_sub" style="position:absolute;z-index:2">
-              <h2 class="titulo_submercado"></h2><b class="titulo_submercado"> <span
-                  style="position:relative;z-index:2">Tabletas<br>Blandas </span></b><b> </b>
-              <hr class="animacion" />
-              <p> <b style="color:white !important">
-                  <p class="leer_mas_mercados center-align"> Leer Más</p>
-                </b></p>
-            </div><img class="mercadosimagen" src="img/CAPSULAS_BLANDAS_280421.jpeg" alt=""
-              style="border-radius:10px" />
-          </div>
-        </a></div>
-      <div class="col s12 m12 l6 xl6 mercados zoom columna3"><a href="Supositorios.php" style="cursor:pointer;">
-          <div class="contenedor">
-            <div class="transfo" id="overlay" style="border-radius:10px"></div>
-            <div class="centrado_sub" style="position:absolute;z-index:2">
-              <h2 class="titulo_submercado"></h2><b class="titulo_submercado"> <span
-                  style="position:relative;z-index:2">Supositorios </span></b><b> </b>
-              <hr class="animacion" />
-              <p> <b style="color:white !important">
-                  <p class="leer_mas_mercados center-align"> Leer Más</p>
-                </b></p>
-            </div><img class="mercadosimagen" src="img/SUPOSITORIOS_100521.jpg" alt="" style="border-radius:10px" />
-          </div>
-        </a></div>
-      <div class="col s12 m12 l6 xl6 mercados zoom columna3"><a href="Inyectables.php" style="cursor:pointer;">
-          <div class="contenedor">
-            <div class="transfo" id="overlay" style="border-radius:10px"></div>
-            <div class="centrado_sub" style="position:absolute;z-index:2">
-              <h2 class="titulo_submercado"></h2><b class="titulo_submercado"> <span
-                  style="position:relative;z-index:2">Inyectables </span></b><b> </b>
-              <hr class="animacion" />
-              <p> <b style="color:white !important">
-                  <p class="leer_mas_mercados center-align"> Leer Más </p>
-                </b></p>
-            </div><img class="mercadosimagen" src="img/INJECTABLE_280421.jpeg" alt="" style="border-radius:10px" />
-          </div>
-        </a></div>
-      <div class="col s12 m12 l6 xl6 mercados zoom columna4"><a href="Suplementos_nutricionh.php" style="cursor:pointer;">
-          <div class="contenedor">
-            <div class="transfo" id="overlay" style="border-radius:10px"></div>
-            <div class="centrado_sub" style="position:absolute;z-index:2">
-              <h2 class="titulo_submercado"></h2><b class="titulo_submercado"> <span
-                  style="position:relative;z-index:2">Suplementos<br>Alimenticios</span></b><b> </b>
-              <hr class="animacion" />
-              <p> <b style="color:white !important">
-                  <p class="leer_mas_mercados center-align"> Leer Más </p>
-                </b></p>
-            </div><img class="mercadosimagen" src="img/SUPLEMENTS_040521.jpeg" alt="" style="border-radius:10px" />
-          </div>
-        </a></div>
+    <div class="row">
+
+     <!-- CARD 1 -->
+
+  <div class="col s12 m6">
+  <div class="card custom-card card-farma">
+    
+    <div class="card-image custom-image-container">
+
+    <img class="mercadosimagen" src="img/SPRAY_NASAL.jpeg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle bg-farma">
+        <i class="fa-solid fa-pills"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Sprays Nasales</h5>
+        <p>Ingredientes y soluciones para la industria Farmacéutica.</p>
+
+        <a href="Spray_Nasal.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+       
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="card-farma dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+   <!-- CARD 2 -->
+
+   <div class="col s12 m6">
+  <div class="card custom-card card-farma">
+    
+    <div class="card-image custom-image-container">
+
+    <img class="mercadosimagen" src="img/SYRUP_280421.jpeg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle bg-farma">
+        <i class="fa-solid fa-pills"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Jarabes</h5>
+        <p>Ingredientes y soluciones para la industria Farmacéutica.</p>
+
+        <a href="Jarabes.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+       
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="card-farma dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+  <!-- CARD 3 -->
+
+  <div class="col s12 m6">
+  <div class="card custom-card card-farma">
+    
+    <div class="card-image custom-image-container">
+
+    <img class="mercadosimagen" src="img/POMADA_100521.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle bg-farma">
+        <i class="fa-solid fa-pills"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Pomadas y Ungüentos</h5>
+        <p>Ingredientes y soluciones para la industria Farmacéutica.</p>
+
+        <a href="Pomadas_Ungüentos.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+       
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="card-farma dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<!-- CARD 4 -->
+
+<div class="col s12 m6">
+  <div class="card custom-card card-farma">
+    
+    <div class="card-image custom-image-container">
+
+    <img class="mercadosimagen" src="img/TABLETAS_DURAS_100521.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle bg-farma">
+        <i class="fa-solid fa-pills"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Tabletas Duras</h5>
+        <p>Ingredientes y soluciones para la industria Farmacéutica.</p>
+
+        <a href="Tabletas_Duras.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+       
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="card-farma dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<!-- CARD 5 -->
+
+<div class="col s12 m6">
+  <div class="card custom-card card-farma">
+    
+    <div class="card-image custom-image-container">
+
+    <img class="mercadosimagen" src="img/CAPSULAS_BLANDAS_280421.jpeg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle bg-farma">
+        <i class="fa-solid fa-pills"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Capsulas Blandas</h5>
+        <p>Ingredientes y soluciones para la industria Farmacéutica.</p>
+
+        <a href="Tabletas_Blandas.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+       
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="card-farma dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<!-- CARD 6 -->
+
+<div class="col s12 m6">
+  <div class="card custom-card card-farma">
+    
+    <div class="card-image custom-image-container">
+
+    <img class="mercadosimagen" src="img/SUPOSITORIOS_100521.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle bg-farma">
+        <i class="fa-solid fa-pills"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Supositorios</h5>
+        <p>Ingredientes y soluciones para la industria Farmacéutica.</p>
+
+        <a href="Supositorios.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+       
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="card-farma dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<!-- CARD 7 -->
+
+<div class="col s12 m6">
+  <div class="card custom-card card-farma">
+    
+    <div class="card-image custom-image-container">
+
+    <img class="mercadosimagen" src="img/INJECTABLE_280421.jpeg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle bg-farma">
+        <i class="fa-solid fa-pills"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Injectables</h5>
+        <p>Ingredientes y soluciones para la industria Farmacéutica.</p>
+
+        <a href="Inyectables.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+       
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="card-farma dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<!-- CARD 8 -->
+
+<div class="col s12 m6">
+  <div class="card custom-card card-farma">
+    
+    <div class="card-image custom-image-container">
+
+    <img class="mercadosimagen" src="img/SUPLEMENTS_040521.jpeg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle bg-farma">
+        <i class="fa-solid fa-pills"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Suplementos</h5>
+        <p>Ingredientes y soluciones para la industria Farmacéutica.</p>
+
+        <a href="Suplementos_nutricionh.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+       
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="card-farma dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+      
+    
         <!-- <div class="col s12 m12 l4 xl4">
           <div>
             <img src="img/FARMACEUTICA_CB.jpg" alt="" width="100%">
@@ -857,18 +1098,15 @@ recaptchaResponse.value = token;
           href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download="download"
           style="color:black !important;font-size:16px">Politica de Privacidad
           <script type="text/javascript" src="js/main.js"></script>
-          <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
-    crossorigin="anonymous"></script>
-  <script src="js/materialize.js?n=1" type="text/javascript"></script>
-  <script src="js/init.js?n=1"></script>
-  <script type="text/javscript" src="js/materialize.min.js?n=1"></script>
-  <script type="text/javascript"
-    src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
-  <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen" />
-  <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen" />
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-    integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus" />
+          <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+    <script src="js/materialize.js?n=1" type="text/javascript"></script>
+    <script src="js/init.js?n=1"></script>
+    <script type="text/javscript" src="js/materialize.min.js?n=1"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
+    <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
         </a></p>
     </div>
   </footer>

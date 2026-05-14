@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
 <meta name="description" content="La industria de las cremas para el cuidado de la piel forma parte del sector cosmético y dermocosmético, y se enfoca en la formulación, fabricación y comercialización de productos destinados a proteger, hidratar, tratar o mejorar el aspecto de la piel.">
-<title>Chemical Broker | Bloqueadores Solares Faciales</title>
+<title>Chemical Broker | Detergentes para Ropa | Proveedor Global y Nacional de Ingredientes Quimicos</title>
 <link rel="shortcut icon" href="img/CB_ICON.ico" />
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
@@ -392,9 +392,9 @@ id="aparece"></i></a></li>
 <div class="container-fluid">
 <div class="slider slider-prueba" style="margin-top:0px">
 <ul class="slides slides-pruea">
-<li> <img src="img/CHAMPU.jpg" alt="" style="height:400px">
+<li> <img src="img/CB_WASH_CLOTHING.jpg" alt="" style="height:400px">
 <div class="caption center-align"><br><br><br><br>
-<h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">Bloqueadores Solares Faciales</b>
+<h3 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h3><b class="segundotitulo" style="font-size: 26px;">Detergentes para Ropa</b>
 </div>
 </li>
 </ul>
@@ -403,124 +403,98 @@ id="aparece"></i></a></li>
 <div class="container">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>  >&nbsp </b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important"><b>Mercados&nbsp </b><b>   >&nbsp </b></a><a class="breditem active" href="Cosmetica_Cuidadopersonal.php" style="color:#262137 !important;margin-left:-2px"><b>Cosmetica & Cuidado Personal ></b></a> <a href="Bloqueadores_Solares.php" style="color:#262137"><b class="Tipografia--general Subtitulos breadcrumb" style="color:red;">Bloqueadores Solares Faciales</b></a></section>
+<section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp </b><b class="Tipografia--general Subtitulos">  >&nbsp </b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important"><b class="Tipografia--general Subtitulos">Mercados&nbsp </b><b class="Tipografia--general Subtitulos">   >&nbsp </b></a><a class="breditem active" href="Cosmetica_Cuidadopersonal.php" style="color:#262137 !important;margin-left:-2px"><b class="Tipografia--general Subtitulos">Detergentes ></b></a> <a href="Bloqueadores_Solares.php" style="color:#262137"><b class="Tipografia--general Subtitulos breadcrumb" style="color:red;">Detergentes Ropa</b></a></section>
 </div>
 </div>
 </div>
+
 
 <div class="container">
     <div class="row">
         <div class="col s12 m12 l12 xl12">
 
-        <p class="Tipografia--general letranegro General--Cuerpo">La industria de los bloqueadores solares faciales se dedica a formular, producir y distribuir productos que protegen la piel del rostro de los efectos nocivos de la radiación ultravioleta (UV). Estos productos tienen una doble función: cuidado preventivo de la salud (prevención del cáncer de piel, envejecimiento prematuro, manchas) y cosmética dermatológica (texturas ligeras, con color, matificantes, antioxidantes, etc.).</p>
+        <h1 class="Tipografia--general letranegro General--Cuerpo"><b>Detergente para Ropa</b></h1>
 
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Características de la Industria</b></h2>
+            <p class="Tipografia--general letranegro General--Cuerpo">La industria de detergentes forma parte del sector de químicos de limpieza (home care) y está enfocada principalmente en productos para lavandería (polvo, líquido, cápsulas).</p>
+            <br>
+            <ol>
+                <li class="Elementos--Listas">Los detergentes son mezclas químicas diseñadas para remover suciedad, grasa y manchas.</li>
+                <li class="Elementos--Listas">Están compuestos principalmente por tensioactivos (surfactantes), que permiten separar la suciedad del tejido.</li>
+            </ol>
+            <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>A nivel global:</b></p>
+            <ol>
+                <li class="Elementos--Listas">Crece alrededor de 4–4.5% anual (CAGR)</li>
+                <li class="Elementos--Listas">Mercado estimado en más de 60 mil millones USD (2024–2025)</li>
+                <li class="Elementos--Listas">Alta demanda impulsada por:
+                    <ol>
+                        <li class="Elementos--Listas">higiene post-pandemia</li>
+                        <li class="Elementos--Listas">urbanización</li>
+                        <li class="Elementos--Listas">crecimiento de consumo en países emergentes</li>
+                    </ol>
+                </li>
+            </ol>
 
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Principales Quimicos utilizados en detergentes</b></h2>
 
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Proceso de Producción:</b></h2>
+        <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Surfactantes (tensioactivos)</b></h2>
+
+        <p class="Tipografia--general letranegro General--Cuerpo">Son el ingrediente más importante (≈32% del mercado químico del detergente)</p>
+
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Funcion:</b></h2>
 
         <ol>
-            <li class="Elementos--Listas">I+D avanzada: Se formulan filtros solares que sean eficaces, seguros, no irritantes y cosméticamente elegantes (sin dejar residuo blanco, sin sensación grasa).</li>
-            <li class="Elementos--Listas">Formulación: Mezcla de filtros UV con ingredientes hidratantes, antioxidantes y estabilizantes. Se adaptan a distintos tipos de piel (seca, grasa, sensible).</li>
-            <li class="Elementos--Listas">Homogeneización: Muy cuidadosa para asegurar la distribución uniforme de los filtros en toda la base del producto.</li>
-            <li class="Elementos--Listas">Envasado: En tubos, frascos dosificadores o sprays, con empaques especiales para proteger la estabilidad del filtro frente a la luz y el calor.</li>
-            <li class="Elementos--Listas">Control de calidad: Incluye pruebas de SPF (Sun Protection Factor), resistencia al agua, estabilidad, fototoxicidad, compatibilidad con la piel y pruebas clínicas.</li>
+            <li class="Elementos--Listas"> Reducen la tensión superficial del agua</li>
+            <li class="Elementos--Listas">Permiten desprender grasa y suciedad</li>
         </ol>
 
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Principales Empresas del Sector:</b></h2>
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Tipos principales:</b></h2>
 
         <ol>
-            <li class="Elementos--Listas">Laboratorios dermatológicos: La Roche-Posay, Avène, Eucerin, ISDIN, Bioderma, Vichy.</li>
-            <li class="Elementos--Listas">Marcas cosméticas: Neutrogena, L’Oréal, Garnier, Nivea, Shiseido, Clinique.</li>
-            <li class="Elementos--Listas">Marcas especializadas y naturales: EltaMD, Supergoop!, Biossance, Coola, The Ordinary, Avene Cleanance.</li>
-            <li class="Elementos--Listas">Farmacéuticas: Galderma, Pierre Fabre, Johnson & Johnson (Neutrogena), Beiersdorf.</li>
-        </ol>
-
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Segmentación del Mercado:</b></h2>
-
-        <ol>
-            <li class="Elementos--Listas">Por tipo de piel: grasa, seca, sensible, con tendencia acneica, piel madura.</li>
-            <li class="Elementos--Listas">Por textura o formato: gel, crema, fluido, stick, polvo, bruma, mousse.</li>
-            <li class="Elementos--Listas">Por filtro solar: químico (orgánico), físico (mineral) o mixto.</li>
-            <li class="Elementos--Listas">Por beneficios adicionales: con color, matificante, hidratante, anti-edad, resistente al agua, efecto glow, oil-free.</li>
-        </ol>
-
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Tendencias del Mercado:</b></h2>
-
-
-        <ol>
-            <li class="Elementos--Listas">Protección de amplio espectro (UVA + UVB + IR + luz azul).</li>
-            <li class="Elementos--Listas">Fórmulas sin nanopartículas ni ingredientes controvertidos.</li>
-            <li class="Elementos--Listas">Uso diario como parte del skincare diario, no solo en playa o verano.</li>
-            <li class="Elementos--Listas">Sunscreens con activos de skincare: niacinamida, ácido hialurónico, vitamina C.</li>
-            <li class="Elementos--Listas">Protección invisible, sin "white cast", apta para todos los tonos de piel.</li>
-            <li class="Elementos--Listas">Enfoque sostenible: envases reciclables y filtros que no dañen el ecosistema marino.</li>
-        </ol>
-
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Ingredientes Químicos Utilizados en Bloqueadores Solares Faciales</b></h2>
-
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Filtros Solares (activos UV):</b></h2>
-
-        <ol>
-            <li class="Elementos--Listas">Octinoxato (Ethylhexyl Methoxycinnamate) – UVB</li>
-            <li class="Elementos--Listas">Avobenzona (Butyl Methoxydibenzoylmethane) – UVA</li>
-            <li class="Elementos--Listas">Octocrylene – UVB + estabilizante de Avobenzona</li>
-            <li class="Elementos--Listas">Homosalate – UVB</li>
-            <li class="Elementos--Listas">Ensulizole (Phenylbenzimidazole Sulfonic Acid) – UVB</li>
-            <li class="Elementos--Listas">Tinosorb S (Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine) – UVA + UVB</li>
-            <li class="Elementos--Listas">Uvinul A Plus (Diethylamino Hydroxybenzoyl Hexyl Benzoate) – UVA</li>
-            <li class="Elementos--Listas">Mexoryl SX/XL (propietarios de L’Oréal) – UVA + UVB</li>
+            <li class="Elementos--Listas">Aniónicos (los más usados)</li>
+            <ol>
+                <li class="Elementos--Listas">Ej: Alquilbenceno sulfonato (LAS)</li>
+                <li class="Elementos--Listas">Representan más del 50% del uso</li>
+            </ol>
         </ol>
 
         <ol>
-            <li class="Elementos--Listas" style="margin-top:50px;">Filtros Físicos (minerales): Actúan como pantalla que refleja y dispersa la radiación.
-                <ol>
-                    <li class="Elementos--Listas">Dióxido de titanio (Titanium Dioxide)</li>
-                    <li class="Elementos--Listas">Óxido de zinc (Zinc Oxide)</li>
-                </ol>
-            </li>
+            <li class="Elementos--Listas">No iónicos</li>
+            <ol>
+                <li class="Elementos--Listas">Mejor desempeño en agua dura</li>
+                <li class="Elementos--Listas">Usados en detergentes premium</li>
+            </ol>
         </ol>
-
-        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Emolientes y Vehículos Hidratantes:</b></h2>
 
         <ol>
-            <li class="Elementos--Listas">Glicerina</li>
-            <li class="Elementos--Listas">Propilenglicol</li>
-            <li class="Elementos--Listas">Caprylic/Capric Triglyceride</li>
-            <li class="Elementos--Listas">Dimeticona (silicona que aporta sedosidad y fijación)</li>
-            <li class="Elementos--Listas">Butylene Glycol</li>
+            <li class="Elementos--Listas">Catiónicos</li>
+            <ol>
+                <li class="Elementos--Listas">Propiedades suavizantes y bactericidas</li>
+            </ol>
         </ol>
 
+        <ol>
+            <li class="Elementos--Listas">Anfóteros / zwitteriónicos</li>
+            <ol>
+                <li class="Elementos--Listas">Suaves, usados en formulaciones delicadas</li>
+            </ol>
+        </ol>
 
-<h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Agentes Estabilizantes y Conservantes:</b></h2>
+        <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Builders (Coadyuvantes o Constructores</b></h2>
 
-<ol>
-    <li class="Elementos--Listas">Disodium EDTA</li>
-    <li class="Elementos--Listas">Phenoxyethanol</li>
-    <li class="Elementos--Listas">Ethylhexylglycerin</li>
-    <li class="Elementos--Listas">Parabenos (en menor uso por presión del mercado)</li>
-    <li class="Elementos--Listas">Sorbato de potasio, benzoato de sodio</li>
-</ol>
+        <h2 class="Tipografia--general letranegro General--Cuerpo">Función:</h2>
 
-<h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Antioxidantes y Activos Funcionales:</b></h2>
+        <ol>
+            <li class="Elementos--Listas">Mejoran la acción del surfactante</li>
+            <li class="Elementos--Listas">Eliminan dureza del agua</li>
+        </ol>
 
-<ol>
-    <l class="Elementos--Listas">Vitamina C (ácido ascórbico o derivados)</li>
-    <li class="Elementos--Listas">Vitamina E (tocoferol)</li>
-    <li class="Elementos--Listas">Niacinamida (vitamina B3)</li>
-    <li class="Elementos--Listas">Ácido ferúlico</li>
-    <li class="Elementos--Listas">Té verde, extracto de uva, cúrcuma (extractos antioxidantes)</li>
-</ol>
+        <h2 class="Tipografia--general letranegro General--Cuerpo">Ejemplos:</h2>
 
-<h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b>Ingredientes Sensoriales y de Acabado:</b></h2>
-
-<ol>
-    <li class="Elementos--Listas">Silicas y polvos matificantes</li>
-    <li class="Elementos--Listas">Pigmentos con color (óxidos de hierro)</li>
-    <li class="Elementos--Listas">Fragancias o formulaciones sin fragancia</li>
-    <li class="Elementos--Listas">Micas para efecto glow o radiante</li>
-    <li class="Elementos--Listas">Filtros ópticos para corrección de tono (CC creams con FPS)</li>
-</ol>
+        <ol>
+            <li class="Elementos--Listas">Tripolifosfato de sodio (STPP)</li>
+            <li class="Elementos--Listas">Carbonato de sodio</li>
+            <li class="Elementos--Listas">Zeolitas</li>
+        </ol>
 
         </div>
     </div>

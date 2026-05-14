@@ -560,7 +560,7 @@
     <div class="row">
         <div class="col s12 m12 l12 xl12">
 
-        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="2-Etilhexanol.php"><b class="Tipografia--general Subtitulos" style="color:red;">2-Etilhexanol</b></a></section>
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Inicio&nbsp>&nbsp </b></a><a href="Products_news.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Productos&nbsp>&nbsp </b></a><a class="active" href="2-Etilhexanol.php"><b class="Tipografia--general Subtitulos" style="color:red;">2-Etilhexanol</b></a></section>
 
             <p class="Tipografia--general letranegro General--Cuerpo">El 2-Etilhexanol (abreviado 2-EH) es un compuesto orgánico con fórmula C8H18O. Es un Alcohol quiral ramificado de ocho carbonos. Es un líquido incoloro que es poco soluble en agua, pero soluble en la mayoría de los solventes orgánicos. Se produce a gran escala (>2 000 000 000 kg/año) para su uso en numerosas aplicaciones, como solventes, sabores y fragancias, y especialmente como precursor para la producción de otros productos químicos, como emolientes y plastificantes. Se encuentra en las fragancias naturales de la planta, y el olor ha sido reportado como terroso, y ligeramente floral para el enantiómero R y ligero y una fragancia floral dulce y ligera para el enantiómero S.</p>
 

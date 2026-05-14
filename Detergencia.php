@@ -14,6 +14,10 @@
     <link rel="stylesheet" href="css/jquery.dataTables.min.css"/>
     <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+      <!-- Material Icons (por si los usas en otros lados) -->
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<!-- Font Awesome (ICONOS PRO) -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="js/materialize.js?n=1" type="text/javascript"></script>
     <script src="js/init.js?n=1"></script>
@@ -415,68 +419,194 @@ recaptchaResponse.value = token;
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-          <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b>Inicio&nbsp </b><b>  >&nbsp </b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important"><b>Mercados&nbsp </b><b>   >&nbsp </b></a><a class="breditem active" href="Detergencia.php" style="color:red !important;margin-left:-2px"><b class="Tipografia--general Subtitulos">Detergencia </b></a></section>
+          <section style="margin-top:125px"><a class="breditem active" href="index.php" style="color:#262137 !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp </b><b class="Tipografia--general Subtitulos">  >&nbsp </b></a><a class="breditem active" href="Mercados.php" style="color:#262137 !important"><b class="Tipografia--general Subtitulos">Mercados&nbsp </b><b class="Tipografia--general Subtitulos">   >&nbsp </b></a><a class="breditem active" href="Detergencia.php" style="color:red !important;margin-left:-2px"><b class="Tipografia--general Subtitulos">Detergencia </b></a></section>
         </div>
       </div>
     </div>
     <div class="container">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
-          <p style="color:#262137;">La limpieza constituye más que nunca algo esencial para el correcto desarrollo de la vida, desde tiempos antiguos el hombre ha encontrado y desarrollado nuevas soluciones que le han permitido hacer la vida más limpia, deteniendo de esta manera el desarrollo de nuevas enfermedades,</p>
+          <p style="color:#262137;" class="Tipografia--general letranegro General--Cuerpo">La limpieza constituye más que nunca algo esencial para el correcto desarrollo de la vida, desde tiempos antiguos el hombre ha encontrado y desarrollado nuevas soluciones que le han permitido hacer la vida más limpia, deteniendo de esta manera el desarrollo de nuevas enfermedades,</p>
         </div>
       </div>
     </div>
     <div class="container">
-      <div class="row center-align">
-        <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Proximamente.php" style="cursor:pointer;">
-            <div class="contenedor">
-              <div class="transfo" id="overlaydeter" style="border-radius:10px"></div>
-              <div class="centrado_sub" style="position:absolute;z-index:2">
-                <h5 class="titulo_submercado"><b class="titulo_submercado">Detergentes <br>para<br> Ropa</b><b> </b>
-                  <hr class="animacion"/>
-                  <p> <b style="color:white !important">
-                      <p class="leer_mas_mercados"> Leer Mas</p></b></p>
-                </h5>
-              </div><img class="mercadosimagen" src="img/CB_WASH_CLOTHING.jpg" alt="" style="border-radius:10px"/>
-            </div></a></div>
-        <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Proximamente.php" style="cursor:pointer;">
-            <div class="contenedor">
-              <div class="transfo" id="overlaydeter" style="border-radius:10px"></div>
-              <div class="centrado_sub" style="position:absolute;z-index:2">
-                <h5 class="titulo_submercado"><b class="titulo_submercado">Detergente Industrial</b><b> </b>
-                  <hr class="animacion"/>
-                  <p> <b style="color:white !important">
-                      <p class="leer_mas_mercados"> Leer Mas</p></b></p>
-                </h5>
-              </div><img class="mercadosimagen" src="img/CB_INDUSTRIAL.jpg" alt="" style="border-radius:10px"/>
-            </div></a></div>
-        <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Proximamente.php" style="cursor:pointer;">
-            <div class="contenedor">
-              <div class="transfo" id="overlaydeter" style="border-radius:10px"></div>
-              <div class="centrado_sub" style="position:absolute;z-index:2">
-                <h5 class="titulo_submercado"><b class="titulo_submercado">Suavizantes <br/>de<br/>Ropa</b><b> </b>
-                  <hr class="animacion"/>
-                  <p> <b style="color:white !important">
-                      <p class="leer_mas_mercados">  Leer Mas </p></b></p>
-                </h5>
-              </div><img class="mercadosimagen" src="img/CB_SOFT.jpg" alt="" style="border-radius:10px"/>
-            </div></a></div>
-        <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Proximamente.php" style="cursor:pointer;">
-            <div class="contenedor">
-              <div class="transfo" id="overlaydeter" style="border-radius:10px"></div>
-              <div class="centrado_sub" style="position:absolute;z-index:2">
-                <h5 class="titulo_submercado"><b class="titulo_submercado">Sanitizantes </b><b> </b>
-                  <hr class="animacion"/>
-                  <p> <b style="color:white !important">
-                      <p class="leer_mas_mercados">  Leer Mas </p></b></p>
-                </h5>
-              </div><img class="mercadosimagen" src="img/CB_SANITIZANTE.jpg" alt="" style="border-radius:10px"/>
-            </div></a></div>
+      <div class="row">
+
+      <!-- CARD 1 -->
+
+<div class="col s12 m6">
+  <div class="card custom-card card-detergente">
+
+    <div class="card-image custom-image-container">
+
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/CB_WASH_CLOTHING.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-detergencia"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-soap"></i>
       </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Detergentes para Ropa</h5>
+        <p>Materias primas y soluciones para productos de limpieza y mantenimiento.</p>
+
+        <a href="Detergente_Ropa.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
     </div>
 
+  </div>
+</div>
 
-   
+<!-- CARD 2 -->
+
+<div class="col s12 m6">
+  <div class="card custom-card card-detergente">
+
+    <div class="card-image custom-image-container">
+
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/CB_INDUSTRIAL.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-detergencia"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-soap"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Detergente Industrial</h5>
+        <p>Materias primas y soluciones para productos de limpieza y mantenimiento.</p>
+
+        <a href="Detergentes_industrial.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<!-- CARD 3 -->
+
+<div class="col s12 m6">
+  <div class="card custom-card card-detergente">
+
+    <div class="card-image custom-image-container">
+
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/CB_SOFT.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-detergencia"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-soap"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Suavizante de Ropa</h5>
+        <p>Materias primas y soluciones para productos de limpieza y mantenimiento.</p>
+
+        <a href="Suavizantes.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<!-- CARD 4 -->
+
+<div class="col s12 m6">
+  <div class="card custom-card card-detergente">
+
+    <div class="card-image custom-image-container">
+
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/CB_SANITIZANTE.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-detergencia"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-soap"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Sanitizantes</h5>
+        <p>Materias primas y soluciones para productos de limpieza y mantenimiento.</p>
+
+        <a href="Sanitizantes.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+      </div>
+    </div>
+  
+
+       
     <footer style="margin-top:70px">
   <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
       alt=""></div><br><br>

@@ -579,8 +579,8 @@
             <div class="col s12 m12 l12 xl12">
 
             <section class=""><a class="breditem active" href="index.php"
-            style="color:black !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
-            href="Productos_news.php" style="color:black !important;margin-left:-2px"><b>Productos</b><b> >
+            style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
+            href="Productos_news.php" style="color:black !important;margin-left:-2px"><b class="Tipografia--general Subtitulos">Productos</b><b> >
               &nbsp</b><a class="breditem active" href="Acidos_Grasos_Destilados_Palma.php"
               style="color:red !important;margin-left:-2px"><b
                 class="Tipografia--general  Subtitulos ">Ácidos Grasos Destilados de Palma</b></a></section>

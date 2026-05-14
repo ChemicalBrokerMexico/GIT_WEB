@@ -1,3 +1,9 @@
+<?php 
+
+include "lang_V2/idioma.php";
+
+
+?>
 <!DOCTYPE html>
 <html lang="es"> 
   <head> 
@@ -381,7 +387,7 @@
         <ul class="slides slides-pruea">
           <li><img src="img/CB_MARKETS_200422.jpg" style="height:800px;filter: brightness(0.8);" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br><b>Mercados</b></h1><b class="segundotitulo" style="font-size:26px"></b>
+              <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br><b><?php echo $textos['titulo'];?></b></h1><b class="segundotitulo" style="font-size:26px"></b>
               <div class="container">
     </div>
             </div>
@@ -888,7 +894,7 @@
         <h5>Química Industrial</h5>
         <p>Suministro de materias primas y soluciones para procesos industriales.</p>
 
-        <a href="Industria_Quimica.php" class="btn custom-btn-white">
+        <a href="Proximamente.php" class="btn custom-btn-white">
           LEER MÁS
           <i class="fa-solid fa-arrow-right"></i>
         </a>
@@ -912,7 +918,8 @@
         <!-- </div> -->
       </div>
 
-
+<a href="?lang=es" style="color:black;">ES</a>
+<a href="?lang=en" style="color:black;">EN</a>
 
       <footer class="altofooter">
         <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg" alt=""></div><br><br>

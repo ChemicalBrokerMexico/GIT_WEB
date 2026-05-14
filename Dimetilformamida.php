@@ -443,7 +443,7 @@ Científicamente se denominan dioles (alcoholes bivalentes), que se desvían del
 <div class="row">
 <div class="col s12 m12 l12 xl12">
 
-<section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Dimetilformamida.php"><b class="Tipografia--general Subtitulos" style="color:red;">N, N-Dimetilformamida</b></a></section>
+<section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Inicio&nbsp>&nbsp </b></a><a href="Products_news.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Productos&nbsp>&nbsp </b></a><a class="active" href="Dimetilformamida.php"><b class="Tipografia--general Subtitulos" style="color:red;">N, N-Dimetilformamida</b></a></section>
 <h2 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>N, N-Dimetilformamida</b></h2>
 <!-- <p class="Tipografia--general letranegro General--Cuerpo">La N-Metilpirrolidona es un disolvente organico aprotico altamente polar con un contenido reducido de aminas libres y un bajo contenido de agua, se utiliza principalmente en la industria farmaceutica en la sistensis de péptidos y para que los fabricantes de membranas proporcionen altos rendimientos, alta eficiencia y mayores tasas de reciclaje que los grados convencionales.</p> -->
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">La N, N-Dimetilformamida (Dimetilformamida), comunmente abreviado como DMF, es un compuesto organico, es un liquido incoloro miscible en agua y en la mayoria de componentes organicos.</p>

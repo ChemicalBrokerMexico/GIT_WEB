@@ -640,7 +640,7 @@
             <div class="col s12 m12 l12 xl12">
 
             
-            <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Products_news.php"><b class="Tipografia--general Subtitulos" style="color:black;">Productos > </b></a><a class="active" href="Jarabe_Maiz.php"><b class="Tipografia--general Subtitulos" style="color:red;">Jarabe de Maíz</b></a></section>
+            <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Inicio&nbsp>&nbsp </b></a><a class="active" href="Products_news.php"><b class="Tipografia--general Subtitulos" style="color:black;">Productos > </b></a><a class="active" href="Jarabe_Maiz.php"><b class="Tipografia--general Subtitulos" style="color:red;">Jarabe de Maíz</b></a></section>
 
                 <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Jarabe de Maíz</b></h2>
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-bottom:0px;">El <b>Jarabe de Maíz</b> es un edulcorante líquido, creado a partir del almidón o fécula de maíz. Con un rango de jarabes carbón-refinados, desmineralizados y de conversión enzimática los ingredientes <span style="color:orange;">Clearsweet®</span> <b>Jarabes de Maíz</b> y <span style="color:green;">Cleardex®</span> <b>Jarabe de Maíz</b> pueden ayudar a alcanzar la textura justa y sabor característico de sus requerimientos de aplicación como:</p>

@@ -17,6 +17,10 @@
   <link rel="stylesheet" href="css/jquery.dataTables.min.css" />
   <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+     <!-- Material Icons (por si los usas en otros lados) -->
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<!-- Font Awesome (ICONOS PRO) -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
   <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
     crossorigin="anonymous"></script>
   <script src="js/materialize.js?n=1" type="text/javascript"></script>
@@ -548,8 +552,8 @@ recaptchaResponse.value = token;
     <div class="row">
       <div class="col s12 m12 l12 xl12">
         <section style="margin-top:125px"><a class="breditem active" href="index.php"
-            style="color:#262137 !important"><b>Inicio&nbsp </b><b> >&nbsp </b></a><a class="breditem active"
-            href="Mercados.php" style="color:#262137 !important"><b>Mercados&nbsp </b><b>>&nbsp </b></a><a
+            style="color:#262137 !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp </b><b class="Tipografia--general Subtitulos"> >&nbsp </b></a><a class="breditem active"
+            href="Mercados.php" style="color:#262137 !important"><b class="Tipografia--general Subtitulos">Mercados&nbsp </b><b class="Tipografia--general Subtitulos">>&nbsp </b></a><a
             class="breditem active" href="agroquimicos.php" style="color:red !important;margin-left:-2px"><b
               class="Tipografia--general Subtitulos">Agroquimicos</b></a></section>
       </div>
@@ -637,43 +641,141 @@ recaptchaResponse.value = token;
 
     <div class="container">
       <div class="row center-align">
-        <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Insecticidas.php" style="cursor:pointer;">
-            <div class="contenedor">
-              <div class="transfo" id="overlayagro" style="border-radius:10px"></div>
-              <div class="centrado_sub" style="position:absolute;z-index:2">
-                <h5 class="titulo_submercado"><b class="titulo_submercado">Insecticidas</b><b> </b>
-                  <hr class="animacion"/>
-                  <p> <b style="color:white !important">
-                      <p class="leer_mas_mercados"> Leer Mas</p></b></p>
-                </h5>
-              </div><img class="mercadosimagen" src="img/INSECTICIDA.jpg" alt="" style="border-radius:10px"/>
-            </div></a></div>
-        <div class="col s12 m12 l6 xl6 mercados zoom "><a href="Pesticidas.php" style="cursor:pointer;">
-            <div class="contenedor">
-              <div class="transfo" id="overlayagro" style="border-radius:10px"></div>
-              <div class="centrado_sub" style="position:absolute;z-index:2">
-                <h5 class="titulo_submercado"><b class="titulo_submercado">Pesticidas </b><b> </b>
-                  <hr class="animacion"/>
-                  <p> <b style="color:white !important">
-                      <p class="leer_mas_mercados"> Leer Mas</p></b></p>
-                </h5>
-              </div><img class="mercadosimagen" src="img/PESTICIDAS_280122.jpg" alt="" style="border-radius:10px"/>
-            </div></a></div>
-        <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Fertilizantes.php" style="cursor:pointer;">
-            <div class="contenedor">
-              <div class="transfo" id="overlayagro" style="border-radius:10px"></div>
-              <div class="centrado_sub" style="position:absolute;z-index:2">
-                <h5 class="titulo_submercado"><b class="titulo_submercado">Fertilizantes </b><b> </b>
-                  <hr class="animacion"/>
-                  <p> <b style="color:white !important">
-                      <p class="leer_mas_mercados">  Leer Mas </p></b></p>
-                </h5>
-              </div><img class="mercadosimagen " src="img/FERTILIZANTES.jpg" alt="" style="border-radius:10px"/>
-            </div></a></div>
+
+      <!-- CARD 1 -->
+
+<div class="col s12 m6">
+  <div class="card custom-card card-agro">
+
+    <div class="card-image custom-image-container">
+
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/INSECTICIDA.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-agroquimicos"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-seedling"></i>
       </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Insecticidas</h5>
+        <p>Soluciones químicas para la protección y optimización de cultivos.</p>
+
+        <a href="Insecticidas.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+  <!-- CARD 2 -->
+
+  <div class="col s12 m6">
+  <div class="card custom-card card-agro">
+
+    <div class="card-image custom-image-container">
+
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/PESTICIDAS_280122.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-agroquimicos"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-seedling"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Pesticidas</h5>
+        <p>Soluciones químicas para la protección y optimización de cultivos.</p>
+
+        <a href="Pesticidas.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+  <!-- CARD 3 -->
+
+  <div class="col s12 m6">
+  <div class="card custom-card card-agro">
+
+    <div class="card-image custom-image-container">
+
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/FERTILIZANTES.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-agroquimicos"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-seedling"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Fertilizantes</h5>
+        <p>Soluciones químicas para la protección y optimización de cultivos.</p>
+
+        <a href="Fertilizantes.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+
+
+       
     </div>
     
-
+</div>
   
       
   

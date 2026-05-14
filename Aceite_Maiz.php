@@ -566,7 +566,7 @@
             <div class="col s12 m12 l12 xl12">
 
           
-      <section style="margin-top:0px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Products_news.php"><b class="Tipografia--general Subtitulos" style="color:black;">Productos > </b></a><a class="active" href="Aceite_Maiz.php"><b class="Tipografia--general Subtitulos" style="color:red;">Aceite de Maiz</b></a></section>
+      <section style="margin-top:0px;"><a href="index.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Inicio&nbsp>&nbsp </b></a><a class="active" href="Products_news.php"><b class="Tipografia--general Subtitulos" style="color:black;">Productos > </b></a><a class="active" href="Aceite_Maiz.php"><b class="Tipografia--general Subtitulos" style="color:red;">Aceite de Maiz</b></a></section>
 
 
             <h2 class="Tipografia--general letranegro Titulos"><b style="color:#071637;">Aceite de Maiz</b></h2>

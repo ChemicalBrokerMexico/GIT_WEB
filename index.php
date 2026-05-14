@@ -1,3 +1,9 @@
+<?php 
+
+include "lang_V2/idioma.php";
+
+
+?>
 <!DOCTYPE html >
 <html lang="es"> 
   <head> 
@@ -393,7 +399,7 @@
 <ul class="slides">
 <li> <img src="img/CB_QUIMICA.jpg" style="height:800px;" alt="Industria Quimica">
 <div class="caption center-align"><br><br><br><br>
-<br><b class="segundotitulo">Nosotros</b>
+<br><b class="segundotitulo"><?php echo $textos['nosotros'];?></b>
 
 <div class="container" style="margin-top:-100px;">
 <div class="row">
@@ -414,7 +420,7 @@
 <div class="row">
 <div class="col s12 m12 l12 xl12">
 <section style="margin-top:75px"><a class="active" href="#" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="index.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Nosotros</b></a></section>
-<p class="Tipografia--general letranegro General--Cuerpo"><b style="color:#071637">Chemical Broker</b> comenzó hace más de 9 años, nos basamos en una historia aún más larga de innovación y crecimiento.</p>
+<p class="Tipografia--general letranegro General--Cuerpo"><?php echo $textos['Introduccion-us'];?></p>
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Hoy nos hemos convertido en uno de los mayores distribuidores de Oleo químicos; Ácidos Grasos, Alcoholes Grasos, Glicerinas, Triglicéridos, Derivados de Palma, Destilados de Ácidos Grasos, Glicoles, Aceites y Grasas, Conservadores, entre otros.</p>
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Nos vemos a nosotros mismos como el puente que conecta a los proveedores en lugares lejanos con los clientes. Y como un canal de distribución, que trae materiales esenciales, necesarios para miles de fabricantes, para crear productos que mejoren la vida de millones de consumidores en todo el mundo.</p>
 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Incluso estamos ampliando nuestra línea de productos mientras desarrollamos soluciones renovables de base biológica para el futuro.</p>
@@ -505,7 +511,9 @@
   <p class="Tipografia--general letranegro General--Cuerpo">Ser un proveedor mundial de ingredientes químicos que aporte soluciones adecuadas y especificas en la adquisición de insumos para la industria química, enfocados en las necesidades del cliente.</p>
   <h2 style="margin-top:50px;"><b class="Tipografia--general letranegro Titulos" style="color:#262137;">Visión</b></h6> 
   <p class="Tipografia--general letranegro General--Cuerpo">"Ser el líder global en la comercialización de productos químicos, ofreciendo soluciones innovadoras, sostenibles y de alta calidad que impulsen el desarrollo industrial y ambientalmente responsable. nuestro compromiso es transformar la industria química a través de excelencia operativa, alianzas estratégicas y un enfoque en la satisfacción de nuestros clientes, promoviendo un impacto positivo en cada mercado que atendemos."</p>
-    </div>
+  <a href="?lang=es" style="color:black;">ES</a>
+<a href="?lang=en" style="color:black;">EN</a>    
+</div>
   </div>
 </div>
 <footer class="altofooter">

@@ -6,6 +6,10 @@
     <title>Chemical Broker | Tortillas & Snacks | Proveedor Global y Nacional de Ingredientes Quimicos para la Industria Alimentaria.</title>
     <meta name="description" content="Desarrolla tortillas y snacks irresistibles con ingredientes premium: mayor vida útil, mejor textura y calidad consistente en cada producción."> 
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
+            <!-- Material Icons (por si los usas en otros lados) -->
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<!-- Font Awesome (ICONOS PRO) -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -405,55 +409,137 @@
     </div>
     <div class="container">
       <div class="row center-align">
-        <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Tortillas.php" style="cursor:pointer;">
-            <div class="contenedor">
-              <div class="transfo" id="overlayalimentos" style="border-radius: 10px;" style="border-radius: 10px;"></div>
-              <div class="centrado_sub" style="position:absolute;z-index:2">
-                <h5 class="titulo_submercado"><b class="titulo_submercado">Tortillas</b><b> </b>
-                  <hr class="animacion"/>
-                  <p> <b style="color:white !important">
-                      <p class="leer_mas_mercados">Leer Mas</p></b></p>
-                </h5>
-              </div><img class="mercadosimagen " src="img/CB_TORTILLAS_210521.jpeg" alt="" style="border-radius: 10px;"/>
-            </div></a></div>
-            <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Totopos.php" style="cursor:pointer;">
-            <div class="contenedor">
-              <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
-              <div class="centrado_sub" style="position:absolute;z-index:2">
-                <h5 class="titulo_submercado"><b class="titulo_submercado">Totopos</b><b> </b>
-                  <hr class="animacion"/>
-                  <p> <b style="color:white !important">
-                      <p class="leer_mas_mercados"> Leer Mas</p></b></p>
-                </h5>
-              </div><img class="mercadosimagen " src="img/CB_TOTOPOS_210521.jpeg" alt="" style="border-radius: 10px;"/>
-            </div></a></div>
-     
+
+<!-- CARD 1 -->
+<div class="col s12 m6">
+  <div class="card custom-card card-alimentaria">
+
+    <div class="card-image custom-image-container">
+
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/CB_TORTILLAS_210521.jpeg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-alimentos"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-utensils"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Tortillas</h5>
+        <p>Ingredientes y soluciones para la industria alimentaria y de nutrición.</p>
+
+        <a href="Tortillas.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<!-- CARD 1 -->
+<div class="col s12 m6">
+  <div class="card custom-card card-alimentaria">
+
+    <div class="card-image custom-image-container">
+
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/CB_TOTOPOS_210521.jpeg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-alimentos"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-utensils"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Totopos</h5>
+        <p>Ingredientes y soluciones para la industria alimentaria y de nutrición.</p>
+
+        <a href="Totopos.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<!-- CARD 1 -->
+<div class="col s12 m6">
+  <div class="card custom-card card-alimentaria">
+
+    <div class="card-image custom-image-container">
+
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/CB_CHIPS.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-alimentos"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-utensils"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Papas</h5>
+        <p>Ingredientes y soluciones para la industria alimentaria y de nutrición.</p>
+
+        <a href="Papas.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
        
-       
-            <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Papas.php" style="cursor:pointer;">
-            
-            <div class="contenedor">
-            <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
-            <div class="centrado_sub" style="position:absolute;z-index:2">
-              <h5 class="titulo_submercado"><b class="titulo_submercado">Papas</b>
-                <hr class="animacion"/>
-                <p> <b style="color:white !important">
-                    <p class="leer_mas_mercados">Leer Mas</p></b></p>
-              </h5>
-            </div><img class="mercadosimagen " src="img/CB_CHIPS.jpg" alt="" style="border-radius: 10px;"/>
-          </div>
-          </a>
-
-            </div>
-            <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Proximamente.php" style="cursor:pointer;"/>
-     
-
-            </div>
-            </div>
-
-         
+      </div>
   
     </div>
+
+    
  
     
     <footer style="margin-top:70px">

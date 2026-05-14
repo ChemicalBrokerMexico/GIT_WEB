@@ -4,543 +4,1871 @@ $(document).ready(function(){
     <div class="divfooter2 center-align"><span class="inicial--productos Tipografia--general"><b>All</b></span></div><br><br><br></div>
     `
     document.getElementById("contenedorliteral").innerHTML = `
-    
-    <div class="row" style="margin-top:-30px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CANOLA_ACEITE.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Canola RBD</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El Aceite de Canola Refinado Blanqueado y Desodorizado (RBD) es un tipo de aceite vegetal que se ha sometido a un proceso de refinamiento para eliminar impurezas, blanquearlo y eliminar olores o sabores fuertes.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Canola.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/ACEITE_COCO_RBD.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Coco RBD</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Aceite de Coco Refinado, Blanqueado, Desodorizado (RBD)</b> es un tipo de aceite de coco que ha pasado por un proceso de refinacion para eliminar impurezas, olores y sabores fuertes. Este tipo de aceite es ideal para aplicaciones culinarias y cosméticas donde se prefiere un producto neutro en olor y sabor.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Coco_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
 
 
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CBM_IMAGEN_NO_1_ACEITE-MAIZ-RBD.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Maiz RBD</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Aceite de Maíz Refinado, Blanqueado y Desodorizado (RBD)</b>, es un tipo de aceite vegetal que se obtiene del maíz mediante un proceso de refinamiento. Este proceso implica eliminar impurezas, olores y sabores no deseados del aceite crudo de maíz.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Maiz.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
+    <div class="col s12">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+
+        <img src="img/CANOLA_ACEITE.jpg" alt="Aceite de Canola RBD">
+
+        <!-- SHAPE AMARILLO -->
+        <div class="shape-overlay"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon">
+            <i class="fa-solid fa-seedling"></i>
+          </div>
+
+          <h4>Aceite de<br>Canola RBD</h4>
+
+          <div class="divider-custom"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El Aceite de Canola Refinado Blanqueado y Desodorizado (RBD) es un tipo de aceite vegetal que se ha sometido a un proceso de refinamiento para eliminar impurezas, blanquearlo y eliminar olores o sabores fuertes.
+          </p>
+
+          <a href="Aceite_Canola.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
     </div>
 
-
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/Palma_Aceite_281124.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Palma RBD</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Aceite de Palma Refinado, Blanqueado y Desodorizado (RBD)</b> es una forma procesada del aceite de palma crudo, ampliamente utilizado en la industria alimentaria, cosmética y química debido a sus características versátiles.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Palma_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/PALMISTE_RBD.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Palmiste RBD</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Aceite de Palmiste Refinado, Blanqueado y Desodorizado (RBD)</b> es un aceite vegetal obtenido a partir de la semilla o núcleo de la palma de aceite (Elaeis guineensis). Este aceite es diferente al aceite de palma, que se extrae de la pulpa del fruto. El término RBD indica que ha pasado por procesos de refinado, blanqueado y desodorizado para eliminar impurezas, colores y olores, haciéndolo más adecuado para aplicaciones industriales y alimenticias.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Palmiste_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
-    
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/ACEITE_RBD_211223.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Soya RBD</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Aceite de Soya Refinado, Blanqueado y Desodorizado (RBD)</b> es un aceite comestible muy utilizado en la cocina, tanto en la preparación de alimentos como en la producción de productos procesados. Es conocido por ser versátil y tener un alto punto de humo, lo que lo hace adecuado para freír y cocinar a altas temperaturas.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-    
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align ">
-    <img src="img/COCOS_FRESCOS_030524.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Ácidos Grasos</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Ácidos Grasos</b> se derivan de grasas y aceites animales como el sebo de res y de aceites vegetales tales como aceite de soja, aceite de colza, aceite de coco y de palmiste, aceite de palma aceite, entre otros.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Chemical Broker ofrece una amplia gama de Ácidos Grasos de cadena corta, cadena media y cadena larga. Nuestras relaciones de negocios con nuestros fabricantes en America, Europa y Asia brindan capacidad de respuesta y garantía de suministro en todo el mundo.
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Acidos_grasos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/ACIDOS_GRASOS_PALMA.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Ácidos Grasos Destilados de Palma</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Ácidos Grasos Destilados de Palma</b> se obtienen por desdoblamiento y posterior destilación al vacío del aceite de palma. El producto obtenido es un sólido blanco opaco a temperatura ambiente, con un punto de fusión sobre los 45 °C. Es rico en acido palmítico y esteárico.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Acidos_Grasos_Destilados_Palma.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
- 
-
-    <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/ALCOHOL_GRASO_250225.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Alcoholes Grasos</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Alcoholes Grasos</b> de fracción media y fracción pesada a partir de materias primas naturales sostenibles. </p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Nuestras relaciones de negocios con nuestros fabricantes en America, Europa y Asia brindan capacidad de respuesta y garantía de suministro en todo el mundo.
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Alcoholes_Grasos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
-    <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/chipset.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Alcohol Isopropilico</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Alcohol Isopropilico</b> (propan-2-ol, Isopropanol o 2-propanol), es un compuesto orgánico incoloro e inflamable con un olor a alcohol acre.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Se utiliza en la fabricación de una amplia variedad de productos químicos industriales y domésticos y es un ingrediente común en productos como antisépticos, desinfectantes y detergentes.
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Alcohol_Isopropilico.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
-    <div class="row" style="margin-top:150px;">
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/ANTIOXIDANTES_020823.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class="col s12 m12 l12 xl6 columnas_antioxidantes div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Antioxidantes</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Antioxidantes</b> son moléculas capaces de retardar o prevenir la oxidación de otras moléculas y alargar la vida útil de los productos.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Los antioxidantes son muy importantes para la industria alimentaria humana y animal, así como para la industria farmacéutica, veterinaria y cosmética ya que logran que los productos conserven sus propiedades y sus niveles de calidad.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Antioxidantes.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </p>
-    </div>
-    </div>
+  </div>
+</div>
 
 
-    <div class="row" style="margin-top:150px;">
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/AZUCAR_BANNER_310724.jpg" alt=""  class="zoom IMG_Seccion_Prod">
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/ACEITE_COCO_RBD.jpg" alt="Aceite de Coco">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-coco"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon coco">
+            <i class="fa-solid fa-leaf"></i>
+          </div>
+
+          <h4>Aceite de<br>Coco</h4>
+
+          <div class="divider-custom coco"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El aceite de coco es un aceite vegetal obtenido de la pulpa del coco, ampliamente utilizado en la industria alimentaria, cosmética y farmacéutica por sus propiedades funcionales y estabilidad.
+          </p>
+
+          <a href="Aceite_Coco_RBD.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
     </div>
-    <div class="col s12 m12 l12 xl6 columnas_antioxidantes div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Azúcar Refinada</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Azúcar Refinada</b> es un tipo de azúcar que ha sido procesada para eliminar las impurezas y el color. Se obtiene a partir de la caña de azúcar o la remolacha azucarera. </p>
-    <p class="Tipografia--general General--Cuerpo letranegro">El proceso de refinación implica varias etapas, incluyendo la trituración, la purificación con cal, la carbonatación, la filtración, la cristalización y finalmente, el secado. Este proceso produce un azúcar blanco, granulado y de alta pureza, que es el tipo de azúcar más comúnmente utilizado en la cocina y la repostería.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Azucar_Refinada.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </p>
+
+  </div>
+</div>
+
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/CBM_IMAGEN_NO_1_ACEITE-MAIZ-RBD.png" alt="Aceite de Maíz">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-maiz"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon maiz">
+            <i class="fa-solid fa-wheat-awn"></i>
+          </div>
+
+          <h4>Aceite de<br>Maíz</h4>
+
+          <div class="divider-custom maiz"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El aceite de maíz es un aceite vegetal obtenido del germen del maíz, ampliamente utilizado en la industria alimentaria por su estabilidad, perfil lipídico y versatilidad en procesos de cocción y formulación.
+          </p>
+
+          <a href="Aceite_Maiz.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
     </div>
+
+  </div>
+</div>
+
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/Palma_Aceite_281124.jpg" alt="Aceite de Palma RBD">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-palma"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon palma">
+            <i class="fa-solid fa-industry"></i>
+          </div>
+
+          <h4>Aceite de Palma<br>RBD</h4>
+
+          <div class="divider-custom palma"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El aceite de palma RBD (Refinado, Blanqueado y Desodorizado) es un ingrediente ampliamente utilizado en la industria alimentaria e industrial por su estabilidad, rendimiento y versatilidad en aplicaciones a gran escala.
+          </p>
+
+          <a href="Aceite_Palma_RBD.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
     </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/PALMISTE_RBD.jpg" alt="Aceite de Palmiste RBD">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-palmiste"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon palmiste">
+            <i class="fa-solid fa-flask"></i>
+          </div>
+
+          <h4>Aceite de Palmiste<br>RBD</h4>
+
+          <div class="divider-custom palmiste"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El aceite de palmiste RBD (Refinado, Blanqueado y Desodorizado) es ampliamente utilizado en la industria oleoquímica para la producción de jabones, detergentes y derivados por su alto contenido de ácidos grasos saturados.
+          </p>
+
+          <a href="Aceite_Palmiste_RBD.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/ACEITE_RBD_211223.jpg" alt="Aceite de Soya RBD">
+
+        <div class="shape-overlay-soya"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <div class="top-icon soya">
+            <i class="fa-solid fa-seedling"></i>
+          </div>
+
+          <h4>Aceite de Soya<br>RBD</h4>
+
+          <div class="divider-custom soya"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El aceite de soya RBD es uno de los aceites vegetales más utilizados a nivel global, empleado en aplicaciones alimentarias e industriales por su disponibilidad, funcionalidad y perfil lipídico.
+          </p>
+
+          <a href="Aceite_RBD.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/COCOS_FRESCOS_030524.jpg" alt="Ácidos Grasos">
+
+        <div class="shape-overlay-acidos"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <div class="top-icon acidos">
+            <i class="fa-solid fa-flask"></i>
+          </div>
+
+          <h4>Ácidos<br>Grasos</h4>
+
+          <div class="divider-custom acidos"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Los ácidos grasos son compuestos derivados de aceites vegetales utilizados en la industria oleoquímica para la producción de surfactantes, jabones, detergentes y aplicaciones industriales especializadas.
+          </p>
+
+          <a href="Acidos_grasos.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/ACIDOS_GRASOS_PALMA.jpg" alt="Ácidos Grasos Destilados de Palma">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-acidos-palma"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon acidos-palma">
+            <i class="fa-solid fa-flask"></i>
+          </div>
+
+          <h4>Ácidos Grasos Destilados<br>de Palma</h4>
+
+          <div class="divider-custom acidos-palma"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Los ácidos grasos destilados de palma son derivados oleoquímicos utilizados en la producción de jabones, detergentes, surfactantes y aplicaciones industriales, destacando por su estabilidad y funcionalidad química.
+          </p>
+
+          <a href="Acidos_Grasos_Destilados_Palma.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/ALCOHOL_GRASO_250225.jpg" alt="Alcoholes Grasos">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-alcoholes"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon alcoholes">
+            <i class="fa-solid fa-vial"></i>
+          </div>
+
+          <h4>Alcoholes<br>Grasos</h4>
+
+          <div class="divider-custom alcoholes"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Los alcoholes grasos son compuestos oleoquímicos ampliamente utilizados como materia prima en la fabricación de surfactantes, detergentes, productos de cuidado personal y aplicaciones industriales.
+          </p>
+
+          <a href="Alcoholes_Grasos.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/chipset.jpg" alt="Alcohol Isopropílico">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-ipa"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon ipa">
+            <i class="fa-solid fa-droplet"></i>
+          </div>
+
+          <h4>Alcohol<br>Isopropílico</h4>
+
+          <div class="divider-custom ipa"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El alcohol isopropílico (IPA) es un solvente ampliamente utilizado en limpieza industrial, farmacéutica y electrónica, destacando por su rápida evaporación y alta eficacia en la eliminación de contaminantes.
+          </p>
+
+          <a href="Alcohol_Isopropilico.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/ANTIOXIDANTES_020823.jpg" alt="Antioxidantes">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-antioxidantes"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon antioxidantes">
+            <i class="fa-solid fa-shield-heart"></i>
+          </div>
+
+          <h4>Antioxidantes</h4>
+
+          <div class="divider-custom antioxidantes"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Los antioxidantes son compuestos utilizados para prevenir la oxidación y prolongar la vida útil de productos en la industria alimentaria, cosmética y farmacéutica, asegurando estabilidad y calidad.
+          </p>
+
+          <a href="Antioxidantes.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/AZUCAR_BANNER_310724.jpg" alt="Azúcar Refinada">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-azucar"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon azucar">
+            <i class="fa-solid fa-cubes"></i>
+          </div>
+
+          <h4>Azúcar<br>Refinada</h4>
+
+          <div class="divider-custom azucar"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            La azúcar refinada es un ingrediente esencial en la industria alimentaria, utilizada en la formulación de bebidas, panificación, confitería y múltiples aplicaciones industriales por su pureza y funcionalidad.
+          </p>
+
+          <a href="Azucar_Refinada.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/CB_BICARBONATO_SODIO_271222.jpg" alt="Bicarbonato de Sodio">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-bicarbonato"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon bicarbonato">
+            <i class="fa-solid fa-cubes"></i>
+          </div>
+
+          <h4>Bicarbonato<br>de Sodio</h4>
+
+          <div class="divider-custom bicarbonato"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El bicarbonato de sodio es un compuesto versátil utilizado en aplicaciones alimentarias, farmacéuticas, limpieza e industriales, destacando por su capacidad reguladora, neutralizante y funcional.
+          </p>
+
+          <a href="Bicarbonato_Sodio.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/CB_COLLAGEN_280723.jpg" alt="Colágeno Hidrolizado">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-colageno"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon colageno">
+            <i class="fa-solid fa-bone"></i>
+          </div>
+
+          <h4>Colágeno<br>Hidrolizado</h4>
+
+          <div class="divider-custom colageno"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El colágeno hidrolizado es un ingrediente funcional utilizado en suplementos alimenticios, alimentos y productos cosméticos, reconocido por sus beneficios en salud articular, piel y bienestar general.
+          </p>
+
+          <a href="Colageno_Hidrolizado.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/CB_DEXTROSAS_130323.jpg" alt="Dextrosas">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-dextrosa"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon dextrosa">
+            <i class="fa-solid fa-bolt"></i>
+          </div>
+
+          <h4>Dextrosas</h4>
+
+          <div class="divider-custom dextrosa"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Las dextrosas son azúcares simples ampliamente utilizadas en la industria alimentaria y farmacéutica como fuente de energía rápida, mejorador de textura y componente funcional en diversas formulaciones.
+          </p>
+
+          <a href="Dextrosas.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/CB_ESTEARINA_PALMA_281223.png" alt="Estearina de Palma Alto Hidrogenado RBD">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-estearina"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon estearina">
+            <i class="fa-solid fa-cube"></i>
+          </div>
+
+          <h4>Estearina de Palma<br>Alto Hidrogenado</h4>
+
+          <div class="divider-custom estearina"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            La estearina de palma alto hidrogenado es una fracción sólida derivada del aceite de palma, utilizada en aplicaciones industriales y alimentarias que requieren estructura, estabilidad y alto punto de fusión.
+          </p>
+
+          <a href="Estearina_Palma_Hidrogenado.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/ESTERES_SORBITAN_140923.jpg" alt="Ésteres de Sorbitán">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-sorbitan"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon sorbitan">
+            <i class="fa-solid fa-circle-nodes"></i>
+          </div>
+
+          <h4>Ésteres de<br>Sorbitán</h4>
+
+          <div class="divider-custom sorbitan"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Los ésteres de sorbitán son emulsificantes utilizados en la industria alimentaria, cosmética y farmacéutica para estabilizar mezclas, mejorar texturas y optimizar la integración de fases en formulaciones.
+          </p>
+
+          <a href="Esteres_Sorbitan.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</diV>
+
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/ESTERES_SORBITAN_ETOXILADOS_290125.jpg" alt="Ésteres de Sorbitán Etoxilados">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-sorbitan-etox"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon sorbitan-etox">
+            <i class="fa-solid fa-atom"></i>
+          </div>
+
+          <h4>Ésteres de Sorbitán<br>Etoxilados</h4>
+
+          <div class="divider-custom sorbitan-etox"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Los ésteres de sorbitán etoxilados son emulsificantes avanzados utilizados en formulaciones cosméticas, farmacéuticas y de limpieza, ofreciendo mayor solubilidad, estabilidad y eficiencia en sistemas complejos.
+          </p>
+
+          <a href="Esteres_Sorbitan_Etoxilados.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/LOGO_FERRAZONE_100124.jpg" alt="Ferrazone">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-ferrazone"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon ferrazone">
+            <i class="fa-solid fa-shield-heart"></i>
+          </div>
+
+          <h4>Ferrazone</h4>
+
+          <div class="divider-custom ferrazone"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Ferrazone es un compuesto utilizado como agente fortificante en aplicaciones alimentarias e industriales, contribuyendo a mejorar el valor nutricional y la funcionalidad de diversas formulaciones.
+          </p>
+
+          <a href="Ferrazone.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/ALIMENTOS_FOSFORO_280824.jpg" alt="Fosfatos">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-fosfatos"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon fosfatos">
+            <i class="fa-solid fa-gears"></i>
+          </div>
+
+          <h4>Fosfatos</h4>
+
+          <div class="divider-custom fosfatos"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Los fosfatos son compuestos ampliamente utilizados en la industria alimentaria, detergentes y procesos industriales, actuando como reguladores, estabilizantes y agentes funcionales en diversas aplicaciones.
+          </p>
+
+          <a href="Fosfatos.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/BANNER_PRINCIPAL.jpg" alt="Glicerina">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-glicerina"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon glicerina">
+            <i class="fa-solid fa-droplet"></i>
+          </div>
+
+          <h4>Glicerina</h4>
+
+          <div class="divider-custom glicerina"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            La glicerina es un compuesto altamente versátil utilizado en las industrias cosmética, farmacéutica y alimentaria como agente humectante, solvente y estabilizante, destacando por su pureza y capacidad de retención de humedad.
+          </p>
+
+          <a href="Glycerins.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/GLICOLES_BANNER_140425.jpg" alt="Glicoles">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-glicoles"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon glicoles">
+            <i class="fa-solid fa-vial"></i>
+          </div>
+
+          <h4>Glicoles</h4>
+
+          <div class="divider-custom glicoles"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Los glicoles son compuestos químicos utilizados como solventes, humectantes y agentes funcionales en aplicaciones industriales, farmacéuticas y alimentarias, destacando por su versatilidad y estabilidad.
+          </p>
+
+          <a href="Glycols.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/CB_JARABE_MAIZ_270223.jpg" alt="Jarabe de Maíz">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-jarabe"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon jarabe">
+            <i class="fa-solid fa-droplet"></i>
+          </div>
+
+          <h4>Jarabe<br>de Maíz</h4>
+
+          <div class="divider-custom jarabe"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El jarabe de maíz es un edulcorante líquido ampliamente utilizado en la industria alimentaria para mejorar textura, dulzor y estabilidad en bebidas, confitería y productos de panificación.
+          </p>
+
+          <a href="Jarabe_Maiz.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/LAURIL-SULFATO-SODIO-94_PICTURE_1_V2.jpg" alt="Lauril Sulfato de Sodio">
+
+        <!-- SHAPE -->
+        <div class="fa-solid fa-bubbles"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon sls">
+            <i class="fa-solid fa-bubbles"></i>
+          </div>
+
+          <h4>Lauril Sulfato<br>de Sodio</h4>
+
+          <div class="divider-custom sls"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El lauril sulfato de sodio (SLS) es un surfactante ampliamente utilizado en detergentes y productos de cuidado personal por su alta capacidad de limpieza, generación de espuma y eficiencia en la remoción de suciedad.
+          </p>
+
+          <a href="Lauril_Sulfato_Sodio-94.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/LECITINAS_4.jpg" alt="Lecitinas">
+
+        <div class="shape-overlay-lecitinas"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+        <div class="product-content">
+
+          <div class="top-icon lecitinas">
+            <i class="fa-solid fa-seedling"></i>
+          </div>
+
+          <h4>Lecitinas</h4>
+
+          <div class="divider-custom lecitinas"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Las lecitinas son emulsificantes de origen natural utilizadas en la industria alimentaria, farmacéutica y de nutrición animal para mejorar la estabilidad, textura e integración de ingredientes.
+          </p>
+
+          <a href="Lecitinas.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/CB_POPSTART_MALTODEXTRINA_080323.jpg" alt="Maltodextrina">
+
+        <div class="shape-overlay-maltodextrina"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+        <div class="product-content">
+
+          <div class="top-icon maltodextrina">
+            <i class="fa-solid fa-layer-group"></i>
+          </div>
+
+          <h4>Maltodextrina</h4>
+
+          <div class="divider-custom maltodextrina"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            La maltodextrina es un carbohidrato utilizado en la industria alimentaria y de suplementos como agente de carga, estabilizante y fuente de energía controlada, mejorando textura y funcionalidad en diversas formulaciones.
+          </p>
+
+          <a href="Maltodextrina.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/CB_METIL_130223.jpg" alt="N,N-Dimetilformamida">
+
+        <div class="shape-overlay-dmf"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+        <div class="product-content">
+
+          <div class="top-icon dmf">
+            <i class="fa-solid fa-flask"></i>
+          </div>
+
+          <h4>N,N-Dimetilformamida</h4>
+
+          <div class="divider-custom dmf"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            La N,N-dimetilformamida (DMF) es un solvente polar ampliamente utilizado en procesos químicos, farmacéuticos y de polímeros, destacando por su alta capacidad de disolución y estabilidad en aplicaciones industriales exigentes.
+          </p>
+
+          <a href="Dimetilformamida.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/NITRURO-BORO-FOTO.jpg" alt="Nitruro de Boro">
+
+        <div class="shape-overlay-bn"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+        <div class="product-content">
+
+          <div class="top-icon bn">
+            <i class="fa-solid fa-microchip"></i>
+          </div>
+
+          <h4>Nitruro de Boro</h4>
+
+          <div class="divider-custom bn"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El nitruro de boro es un material avanzado utilizado en aplicaciones industriales de alto desempeño, destacando por su resistencia térmica, propiedades dieléctricas y capacidad como lubricante sólido en entornos exigentes.
+          </p>
+
+          <a href="Nitruro_Boro.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/N-METHYL_081122.jpg" alt="N-Metilpirrolidona">
+
+        <div class="shape-overlay-nmp"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+        <div class="product-content">
+
+          <div class="top-icon nmp">
+            <i class="fa-solid fa-flask"></i>
+          </div>
+
+          <h4>N-Metilpirrolidona</h4>
+
+          <div class="divider-custom nmp"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            La N-metilpirrolidona (NMP) es un solvente polar de alto desempeño utilizado en aplicaciones industriales como recubrimientos, limpieza técnica y procesos químicos, destacando por su alta capacidad de disolución.
+          </p>
+
+          <a href="N-Metilpirrolidona.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/CB_PASTA_SOYA_280223.jpg" alt="Pasta de Soya">
+
+        <div class="shape-overlay-soya"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+        <div class="product-content">
+
+          <div class="top-icon soya">
+            <i class="fa-solid fa-wheat-awn"></i>
+          </div>
+
+          <h4>Pasta de Soya</h4>
+
+          <div class="divider-custom soya"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            La pasta de soya es una fuente de proteína vegetal ampliamente utilizada en la nutrición animal, destacando por su alto valor nutricional y su papel clave en la formulación de alimentos balanceados.
+          </p>
+
+          <a href="Pasta_Soya.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/MANZANA_VERDE_141222.jpg" alt="Pectinas">
+
+        <div class="shape-overlay-pectinas"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+        <div class="product-content">
+
+          <div class="top-icon pectinas">
+            <i class="fa-solid fa-apple-whole"></i>
+          </div>
+
+          <h4>Pectinas</h4>
+
+          <div class="divider-custom pectinas"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Las pectinas son agentes gelificantes de origen natural ampliamente utilizados en la industria alimentaria para mejorar la textura, estabilidad y consistencia en productos como mermeladas, bebidas y confitería.
+          </p>
+
+          <a href="Pectinas.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/CB_SEBO_ALTO_HIDROGENADO.jpg" alt="Sebo Alto Hidrogenado">
+
+        <div class="shape-overlay-sebo"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+        <div class="product-content">
+
+          <div class="top-icon sebo">
+            <i class="fa-solid fa-cube"></i>
+          </div>
+
+          <h4>Sebo Alto<br>Hidrogenado</h4>
+
+          <div class="divider-custom sebo"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El sebo alto hidrogenado es una grasa sólida de origen animal utilizada en aplicaciones industriales como la fabricación de jabones, velas y otros productos que requieren estabilidad y alto punto de fusión.
+          </p>
+
+          <a href="Sebo_Alto_Hidrogeno.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/pasta-dientes-fluor.jpg" alt="Sorbitol">
+
+        <div class="shape-overlay-sorbitol"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+        <div class="product-content">
+
+          <div class="top-icon sorbitol">
+            <i class="fa-solid fa-leaf"></i>
+          </div>
+
+          <h4>Sorbitol</h4>
+
+          <div class="divider-custom sorbitol"></div>
+
+           <p class="Tipografia--general letranegro General--Cuerpo">
+            El sorbitol es un poliol utilizado como edulcorante y agente humectante en la industria alimentaria, farmacéutica y de cuidado personal, destacando por su estabilidad y funcionalidad en diversas formulaciones.
+          </p>
+
+          <a href="Sorbitoles.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/CB_Sulfosuccionatos.jpg" alt="Sulfosuccinatos">
+
+        <div class="shape-overlay-sulfo"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+        <div class="product-content">
+
+          <div class="top-icon sulfo">
+            <i class="fa-solid fa-droplet"></i>
+          </div>
+
+          <h4>Sulfosuccinatos</h4>
+
+          <div class="divider-custom sulfo"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Los sulfosuccinatos son surfactantes suaves utilizados en formulaciones de cuidado personal y limpieza, destacando por su alta capacidad de humectación y su desempeño en sistemas delicados.
+          </p>
+
+          <a href="Sulfosuccinatos.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/BANNER_PRINCIPAL_TCM.jpg" alt="Triglicéridos de Cadena Media">
+
+        <div class="shape-overlay-mct"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+        <div class="product-content">
+
+          <div class="top-icon mct">
+            <i class="fa-solid fa-bolt"></i>
+          </div>
+
+          <h4>Triglicéridos de<br>Cadena Media</h4>
+
+          <div class="divider-custom mct"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Los triglicéridos de cadena media (MCT) son lípidos utilizados en alimentos funcionales, suplementos y aplicaciones farmacéuticas por su rápida absorción, eficiencia energética y alta pureza.
+          </p>
+
+          <a href="Trigliceridos_Cadena_Media.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/CB_2_ETHYLHEXANOL_050923.jpg" alt="2-Etilhexanol">
+
+        <div class="shape-overlay-2eh"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+        <div class="product-content">
+
+          <div class="top-icon eh">
+            <i class="fa-solid fa-industry"></i>
+          </div>
+
+          <h4>2-Etilhexanol</h4>
+
+          <div class="divider-custom eh"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El 2-etilhexanol es un alcohol utilizado como intermediario químico en la producción de plastificantes, recubrimientos y solventes industriales, siendo clave en aplicaciones como PVC, pinturas y adhesivos.
+          </p>
+
+          <a href="2-Etilhexanol.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
 
 
 
 
-    <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_BICARBONATO_SODIO_271222.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_bicarbonato_sodio div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Bicarbonato de Sodio</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Bicarbonato de Sodio</b> es un compuesto sólido cristalino de color blanco soluble en agua, con un ligero sabor alcalino parecido al del carbonato de sodio (menos fuerte y más salado) Se puede encontrar como mineral en la naturaleza o se puede producir artificialmente.  La forma mineral natural es nahcolita. Es un componente del mineral natrón y se encuentra disuelto en muchos manantiales minerales.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Bicarbonato_Sodio.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
-
-    <div class="row" style="margin-top:150px;">
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_COLLAGEN_280723.jpg" alt="Colágeno Hidrolizado" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class="col s12 m12 l12 xl6 columnas_dextrosas div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Colágeno Hidrolizado</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Colágeno Hidrolizado</b> es un producto proteico natural, obtenido por hidrólisis enzimática de material rico en colágeno de origen bovino. Tiene un olor y sabor muy neutro y es adecuado para aplicaciones de mezclas de polvo seco, bebidas, barras, galletas y chicles.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Colageno_Hidrolizado.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
-    <div class="row" style="margin-top:70px;display:none">
-    <div class="col s12 m12 l12 xl6 center-align style="margin-top:150px;">
-    <img src="img/Acidos.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class="col s12 m12 l12 xl6 columnas_acidulantes div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Acidulantes</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro"> Los acidulantes son sustancias activas que modifican la acidez de los alimentos y ayudan a reforzar su sabor</p>
-    <p class="Tipografia--general General--Cuerpo letranegro"> Los acidulantes tambien cumplen funciones de aromatizacion, son antioxidantes y aumentan la vida util de los alimentos para evitar la oxidacion en las sustancias eseciales que confieren las propiedades organolepticas al producto.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas" ><b><a href="Acidulantes.php" style="color:#212637;" class="Botones arrowblue"> Leer Mas...</a></b></p>
-    </p>
-    </div>
-    </div>
-
-
-    <div class="row" style="margin-top:150px;display:none">
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_DEXTROSAS_130323.jpg" alt="Dextrosas"  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class="col s12 m12 l12 xl6 columnas_gomas div-textoprod"  style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Gomas</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La dextrosa es un azúcar simple, químicamente idéntico a la glucosa, que proporciona 4 kcal por gramo y tiene varios usos, desde el culinario, la elaboración de productos procesados de mano de la industria alimentaria, hasta el medicinal y el deportivo.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro"> Es indispensable para el buen funcionamiento del organismo, pues proporciona nutrición a las células para que transforme el azúcar en energía. Sin embargo, dado que es un azúcar simple, un uso indebido o excesivo puede provocar serios problemas de salud, sobre todo a largo plazo</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Dextrosas.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
-    
-    <div class="row" style="margin-top:70px;display:none">
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="" alt="" style="width:100%">
-    </div>
-    <div class="col s12 m12 l12 xl6 columnas_carbomeros div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Carbomeros</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los carbomeros son polímeros sintéticos hidrofílicos de ácido acrílico. En cosmética, se usan para espesar las preparaciones como agente gelificante y emulsionante, pero también como solvente para ayudar a que las fórmulas se mantengan bien mezcladas. Estas son moléculas grandes que no penetran las barreras de la piel.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Carbomeros.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-    
-    
-    <div class="row" style="margin-top:150px;">
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_DEXTROSAS_130323.jpg" alt="Dextrosas"  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class="col s12 m12 l12 xl6 columnas_dextrosas div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Dextrosas</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Las <b>Dextrosas</b> es un azúcar que se encuentra ampliamente en la naturaleza, por ejemplo, en la miel y muchas frutas. Como componente de la celulosa, el almidón y el glucógeno, se encuentra en todas las plantas y animales y también se conoce como "azúcar de uva" o "azúcar en la sangre".</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Dextrosas.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_ESTEARINA_PALMA_281223.png" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Estearina de Palma Alto Hidrogenado RBD</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La <b>Estearina de Palma Refinada, Blanqueada y Desodorizada (RBD)</b> es una grasa vegetal derivada del aceite de palma. La Estearina de Palma RBD es una fracción sólida del aceite de palma RBD, obtenida por fraccionamiento mediante procesos simples de cristalización y separación a temperatura controlada. Las propiedades físicas de la Estearina de Palma RBD difieren ampliamente de las del aceite de palma RBD. La Estearina de Palma RBD está disponible en una gama más amplia de puntos de fusión y valores de yodo. </p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Estearina_Palma_Hidrogenado.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
-
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/ESTERES_SORBITAN_140923.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Esteres de sorbitan </b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Esteres de Sorbitan</b> de la más alta calidad. Con años de experiencia en la industria y un compromiso inquebrantable con la excelencia, estamos aquí para satisfacer tus necesidades en el mercado de emulsionantes y estabilizadores. </p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Esteres_Sorbitan.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/ESTERES_SORBITAN_ETOXILADOS_290125.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Esteres de Sorbitan Etoxilados</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Ésteres de Sorbitán Etoxilados</b> son un grupo de surfactantes no iónicos derivados del sorbitán (un derivado del sorbitol) que han sido modificados mediante la adición de óxido de etileno. Estos compuestos se utilizan ampliamente en diversas industrias debido a sus propiedades emulsionantes, estabilizantes y dispersantes.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Esteres_Sorbitan_Etoxilados.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
-
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/LOGO_FERRAZONE_100124.jpg" alt="" class="zoom IMG_Seccion_Prod" style="100%">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Ferrazone®</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Ferrazone® (Ácido Etilendiaminotetraacético (EDTA) Férrico y de Sodio)</b> es apto para uso alimentario y ha sido recomendado por la Organización Mundial de la Salud como el único suplemento de hierro adecuado para la fortificación masiva de harinas de cereales con alto contenido de fitatos y también se recomienda para condimentos como salsa de soja y salsa de pescado. Ferrazone® se utiliza en iniciativas de enriquecimiento de alimentos a gran escala en África, América Latina, Asia y Medio Oriente.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Ferrazone.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/ALIMENTOS_FOSFORO_280824.jpg" alt="" class="zoom IMG_Seccion_Prod" style="100%">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Fosfatos</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Fosfatos</b> son un grupo de sustancias químicas que contienen el ion fosfato, PO₄³⁻. Estos compuestos se derivan del ácido fosfórico (H₃PO₄) y se utilizan en una amplia variedad de aplicaciones. A continuación, se ofrece una descripción detallada de los ingredientes y tipos de Fosfatos, junto con sus usos y funciones:</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Fosfatos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-    
-    
-    <div class="row" style="margin-top:70px;display:none">
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="" alt="" style="width:100%">
-    </div>
-    <div class="col s12 m12 l12 xl6 columnas_edta">
-    <h5 class="Tipografia--general Titulos"><b>EDTA´s</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El ácido etilendiaminotetraacético, también denominado EDTA o con menor frecuencia AEDT, es una sustancia utilizada como agente quelante que puede crear complejos con un metal que tenga una estructura de coordinación octaédrica. Coordina a metales pesados de forma reversible por cuatro posiciones acetato y dos amino, lo que lo convierte en un ligando hexadentado, y el más importante de los ligandos quelatos. Fue sintetizado por primera vez en 1935 por Ferdinand Münz. </p>
-    <p class="Tipografia--general General--Cuerpo letranegro">El EDTA y sus derivados tienen la valiosa propiedad química de combinarse con iones metálicos polivalentes en solución para formar complejos coordinados cíclicos no iónicos, solubles en agua y virtualmente no disociables. A estos complejos se les conoce como quelatos.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Carbomeros.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-    
-    
-    <div class="row" style="margin-top:150px;"> 
-    <div class = "col s12 m12 l12 xl6 center-align">
-    <img src="img/BANNER_PRINCIPAL.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_glicerinas  div-textoprod" style="position:relative;">
-    <h5 class="Titulos Tipografia--general"><b>Glicerinas</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La <b>Glicerina</b> de la mas alta Pureza y Calidad para las formulaciones de nuestros clientes.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Hoy en dia nuestra oferta incluye glicerina en cumplimiento a GMP´s, Kosher, Halal, GFSI, FCC, USP, RSPO Mass Balance. 
-    <p class="Tipografia--general General--Cuerpo letranegro btn_leerMas"><b><a href="Glycerins.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </p>
-    </div>
-    </div>
-    
-    
-    <div class="row" style="margin-top:150px">
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/GLICOLES_BANNER_140425.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class="col s12 m12 l12 xl6 columnas_glicoles  div-textoprod" style="position:relative;">
-    <h5 class="Titulos Tipografia--general"><b>Glicoles</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Glicoles</b> son un tipo de compuestos líquidos densos con sabor dulce y acre, son compuestos químicos orgánicos creados a partir de una estructura de hidrocarburo alifático y dos grupos hidroxilo; grupos -OH) que resultan de la reacción del agua con el óxido de etileno.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Todos los glicoles se presentan en forma de líquido claro, transparente, inodoro y de baja volatilidad. Los glicoles de poco peso molecular son totalmente miscibles en agua y la mayoría cuentan con una gran capacidad para disolverse en casi todos los compuestos orgánicos.</p>
-    <p class="Tipografia--general Botones btn_leerMas"><b><a href="Glycols.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
-
-    <div class="row" style="margin-top:150px">
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_JARABE_MAIZ_270223.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class="col s12 m12 l12 xl6 columnas_jarabe_maiz div-textoprod" style="position:relative;">
-    <h5 class="Titulos Tipografia--general"><b>Jarabe de Maíz</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Jarabe de Maíz</b> es un edulcorante líquido, creado a partir del almidón o fécula de maíz.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Con un rango de jarabes carbón-refinados, desmineralizados y de conversión enzimática los ingredientes <span style="color:orange">Clearsweet®</span> Jarabes de Maíz y <span style="color:green">Cleardex®</span> Jarabe de Maíz pueden ayudar a alcanzar la textura justa y sabor característico de sus requerimientos </p>
-    <p class="Tipografia--general Botones btn_leerMas" ><b><a href="Jarabe_Maiz.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-    
-
-    <div class="row" style="margin-top:150px"> 
-    <div class = "col s12 m12 l12 xl6 center-align">
-    <img src="img/LAURIL-SULFATO-SODIO-94_PICTURE_1_V2.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_lauril_sulfato div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Lauril Sulfato de Sodio 94%</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Lauril Sulfato de Sodio 94%</b> es un alquilsulfato en forma de polvo. El producto pertenece a los tensoactivos de naturaleza aniónica con un alto contenido en sustancia activa de al menos el 94%.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Es un surfactante anionico con alto poder detergente, espumante y humectante. Las características principales de este producto incluyen una excelente capacidad de emulsión, humectabilidad y, lo que es más importante, fuertes propiedades de formación de espuma: este producto produce una espuma alta y muy estable.</p>
-    <p class="Tipografia--general Botones btn_leerMas" ><b><a href="Lauril_Sulfato_Sodio-94.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-    
-
-    <div class="row" style="margin-top:150px"> 
-    <div class = "col s12 m12 l12 xl6 center-align">
-    <img src="img/LECITINAS_4.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_lecitinas  div-textoprod" style="position:relative">
-    <h5 class="Tipografia--general Titulos"><b>Lecitinas</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La <b>Lecitina</b> es una sustancia organica abundante en las membranas de las celulas vegetales y animales, especialmente en las del tejido nervioso; se obtiene de las grasas animales, la yema de huevo, algunas semillas y se emplea en la elaboracion de ciertos alimentos, como la margarina o el chocolate tambien se aplica en otras industrias como farmaceutica y cosmetica. </p>
-    <p class="Tipografia--general Botones btn_leerMas"><b><a href="Lecitinas.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
-
-    <div class="row" style="margin-top:150px"> 
-    <div class = "col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_POPSTART_MALTODEXTRINA_080323.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_maltodextrina div-textoprod" style="position:relative">
-    <h5 class="Tipografia--general Titulos"><b>Maltrodextrina</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La <b>Maltodextrina</b> es una mezcla de polímeros de glucosa que aparecen como resultado de la hidrolisis del almidón. </p>
-    <p class="Tipografia--general Botones btn_leerMas"><b><a href="Maltodextrina.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
-    <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_METIL_130223.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_dimetilformamida div-textoprod" style="position:relative">
-    <h5 class="Tipografia--general Titulos"><b>N, N-Dimetilformamida</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La <b>N, N-Dimetilformamida (Dimetilformamida)</b>, comunmente abreviado como DMF, es un compuesto organico, es un liquido incoloro miscible en aguay en la mayoria de componentes organicos.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Dimetilformamida.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
-
-    <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/NITRURO-BORO-FOTO.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_nitruro_boro div-textoprod" style="position:relative">
-    <h5 class="Tipografia--general Titulos"><b>Nitruro de Boro</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Nitruro de Boro</b> es un compuesto quimico formado por atomos de boro y nitrogeno. Su formula quimica es BN. Este material tiene propiedades interesantes y se utiliza en diversas aplicaciones.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Las soluciones en polvo de Nitruro de Boro fusionan las propiedades clave del Nitruro de Boro Hexagonal (HBN) con una variedad de formas y tamaños de particulas.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Las soluciones em polvo del Nitruro de Boro permiten a nuestros Clientes maximizar los beneficios en una amplia gama de mercados y aplicaciones.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Nitruro_Boro.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
-    <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/N-METHYL_081122.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_metilpirrolidona div-textoprod" style="position:relative">
-    <h5 class="Tipografia--general Titulos"><b>N-Metilpirrolidona</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La <b>N-Metilpirrolidona</b> es un disolvente organico aprotico altamente polar con un contenido reducido de aminas libres y un bajo contenido de agua, se utiliza principalmente en la industria farmaceutica en la sistensis de péptidos y para que los fabricantes de membranas proporcionen altos rendimientos, alta eficiencia y mayores tasas de reciclaje que los grados convencionales.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="N-Metilpirrolidona.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
-    
-    <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_PASTA_SOYA_280223.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_pasta_soya div-textoprod" style="position:relative">
-    <h5 class="Tipografia--general Titulos"><b>Pasta de Soya</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La <b>Pasta de Soya</b> es la fuente de proteína más importante utilizada en la alimentación humana y del ganado. La pasta de soya es la fuente natural más concentrada de proteína, aminoácidos y energía. Debido a esto en la actualidad es el ingrediente más utilizado por nutriólogos en la elaboración de alimentos balanceados para cualquier tipo de animal.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Pasta_Soya.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
-    <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/MANZANA_VERDE_141222.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_pectinas" style="position:relative">
-    <h5 class="Tipografia--general Titulos"><b>Pectinas</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Las <b>Pectinas</b> son una mezcla de polimeros ácidos y neutros muy ramificados.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Las Pectinas son hidrocoloides solubles en agua con funciones gelificantes y espesantes.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Las Pectinas tambien proporcionan superficies cargadas que regulan el pH y el balance ionico.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">La Pectina contiene principalmente ácidos galacturonicosparcialmente metoxilados. La pectina, un ingrediente versátil para texturas innovadoras La pectina es un ingrediente y un componente natural de las plantas. La pectina se encuentra en muchas frutas, pero es especialmente abundante en las manzanas y los cítricos. La pectina de la fruta está asociada a la celulosa en los tejidos vegetales, donde juega un papel fundamental en la determinación de sus propiedades mecánicas.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas" style="margin-top:30px"><b><a href="Pectinas.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
-
-
-    
-
-
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_SEBO_ALTO_HIDROGENADO.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative">
-    <h5 class="Tipografia--general Titulos"><b>Sebo Alto Hidrogenado</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Sebo Alto Hidrogenado (HFTA)</b>,por sus siglas en ingles, es conocido por su notable versatilidad, lo que lo convierte en un aditivo común en una amplia gama de productos. El ácido graso de sebo hidrogenado (HFTA) se utiliza como intermediario en lubricantes y aceites para laminación, como emoliente en productos para el cuidado personal y como emulsionante en una variedad de aplicaciones.</p>
-    
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Sebo_Alto_Hidrogeno.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
-
-   
-    <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/pasta-dientes-fluor.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_sorbitoles div-textoprod" style="position:relative">
-    <h5 class="Tipografia--general Titulos"><b>Sorbitoles</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Sorbitol</b> es un polialcohol, alcohol polihidrico alditol de azucar, industrialmente se obtiene por reduccion mediante hidrogenacion catalítica del monosacárido mas comun, “la glucosa”. </p>
-    <p class="Tipografia--general General--Cuerpo letranegro">En la naturaleza el sorbitol es uno de los tres glucidos (sacarosa, almidon y sorbitol), principales producidos por la fotosintesis en las hojas adultas de ciertas plantas de la familia Rosaceae y Plantaginaceae, se ecuentran en cantidades apreciables en algas rojas, peras, manzanas, cerezas, duraznos.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas" style="position:absolute:left:10px;bottom:-30px"><b><a href="Sorbitoles.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
-
-    <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_Sulfosuccionatos.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_sorbitoles div-textoprod" style="position:relative">
-    <h5 class="Tipografia--general Titulos"><b>Sulfosuccinatos</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Sulfossucinatos</b> son una clase de surfactantes aniónicos utilizados en una variedad de aplicaciones industriales y de cuidado personal. Estos compuestos se derivan del acido succínico y se caracterizan por tener grupos sulfonato como grupos funcionales principales.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Introducimos nuestros sulfosuccinatos de alta calidad, agentes tensoactivos de ultima generación diseñados para ofrecer resultados superiores en una amplia gama de aplicaciones industriales y de cuidado personal.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas" style="position:absolute:left:10px;bottom:-30px"><b><a href="Sulfosuccinatos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
-    <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/BANNER_PRINCIPAL_TCM.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_sorbitoles div-textoprod" style="position:relative">
-    <h5 class="Tipografia--general Titulos"><b>Trigliceridos de Cadena Media</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Triglicéridos</b> de cadena media (TCM) son un tipo de grasa compuesta por ácidos grasos con una longitud de cadena media (entre 6 y 12 átomos de carbono). A diferencia de los Triglicéridos de cadena larga (TCL), los TCM se digieren y absorben más fácilmente, lo que los hace una fuente rápida de energía.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas" style="position:absolute:left:10px;bottom:-30px"><b><a href="Trigliceridos_Cadena_Media.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
-
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_2_ETHYLHEXANOL_050923.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos aceite_1024"><b>2-Etilhexanol</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>2-etilhexanol (abreviado 2-EH)</b> es un alcohol graso ramificado, un compuesto orgánico de ocho átomos de carbono con un grupo alcohol. Es un líquido incoloro que es poco soluble en agua, pero soluble en la mayoría de los disolventes orgánicos. </p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="2-Etilhexanol.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-    
 
     `
 
@@ -555,540 +1883,1871 @@ function filtroall(){
     `
     document.getElementById("contenedorliteral").innerHTML = `
 
-    <div class="row" style="margin-top:-30px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CANOLA_ACEITE.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Canola RBD</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El Aceite de Canola Refinado Blanqueado y Desodorizado (RBD) es un tipo de aceite vegetal que se ha sometido a un proceso de refinamiento para eliminar impurezas, blanquearlo y eliminar olores o sabores fuertes.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Canola.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
+   
+   
+    <div class="col s12">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+
+        <img src="img/CANOLA_ACEITE.jpg" alt="Aceite de Canola RBD">
+
+        <!-- SHAPE AMARILLO -->
+        <div class="shape-overlay"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon">
+            <i class="fa-solid fa-seedling"></i>
+          </div>
+
+          <h4>Aceite de<br>Canola RBD</h4>
+
+          <div class="divider-custom"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El Aceite de Canola Refinado Blanqueado y Desodorizado (RBD) es un tipo de aceite vegetal que se ha sometido a un proceso de refinamiento para eliminar impurezas, blanquearlo y eliminar olores o sabores fuertes.
+          </p>
+
+          <a href="Aceite_Canola.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
     </div>
 
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_ACEITE_COCO2.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Coco</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b style="color:#071637">Aceite de coco</b> es un aceite vegetal derivado de la pulpa del coco (Cocos nucifera). Se obtiene mediante procesos de prensado en frio o extracción con calor de la carne blanca o la copra del coco. Es conocido por su alta concentración de ácidos grasos saturados de cadena media, especialmente acido láurico.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Coco.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/ACEITE_COCO_RBD.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Coco RBD</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Aceite de Coco Refinado, Blanqueado, Desodorizado (RBD)</b> es un tipo de aceite de coco que ha pasado por un proceso de refinacion para eliminar impurezas, olores y sabores fuertes. Este tipo de aceite es ideal para aplicaciones culinarias y cosméticas donde se prefiere un producto neutro en olor y sabor.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Coco_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CBM_IMAGEN_NO_1_ACEITE-MAIZ-RBD.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Maiz</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Aceite de Maíz Refinado, Blanqueado y Desodorizado (RBD)</b>, es un tipo de aceite vegetal que se obtiene del maíz mediante un proceso de refinamiento. Este proceso implica eliminar impurezas, olores y sabores no deseados del aceite crudo de maíz.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Maiz.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
+  </div>
+</div>
 
 
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/Palma_Aceite_281124.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Palma RBD</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Aceite de Palma Refinado, Blanqueado y Desodorizado (RBD)</b> es una forma procesada del aceite de palma crudo, ampliamente utilizado en la industria alimentaria, cosmética y química debido a sus características versátiles.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Palma_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/ACEITE_COCO_RBD.jpg" alt="Aceite de Coco">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-coco"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon coco">
+            <i class="fa-solid fa-leaf"></i>
+          </div>
+
+          <h4>Aceite de<br>Coco</h4>
+
+          <div class="divider-custom coco"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El aceite de coco es un aceite vegetal obtenido de la pulpa del coco, ampliamente utilizado en la industria alimentaria, cosmética y farmacéutica por sus propiedades funcionales y estabilidad.
+          </p>
+
+          <a href="Aceite_Coco_RBD.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
     </div>
 
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/PALMISTE_RBD.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Palmiste RBD</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Aceite de Palmiste Refinado, Blanqueado y Desodorizado (RBD)</b> es un aceite vegetal obtenido a partir de la semilla o núcleo de la palma de aceite (Elaeis guineensis). Este aceite es diferente al aceite de palma, que se extrae de la pulpa del fruto. El término RBD indica que ha pasado por procesos de refinado, blanqueado y desodorizado para eliminar impurezas, colores y olores, haciéndolo más adecuado para aplicaciones industriales y alimenticias.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Palmiste_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-    
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/ACEITE_RBD_211223.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Soya RBD</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Aceite de Soya Refinado, Blanqueado y Desodorizado (RBD)</b> es un aceite comestible muy utilizado en la cocina, tanto en la preparación de alimentos como en la producción de productos procesados. Es conocido por ser versátil y tener un alto punto de humo, lo que lo hace adecuado para freír y cocinar a altas temperaturas.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-    
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align ">
-    <img src="img/COCOS_FRESCOS_030524.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Ácidos Grasos</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Ácidos Grasos</b> se derivan de grasas y aceites animales como el sebo de res y de aceites vegetales tales como aceite de soja, aceite de colza, aceite de coco y de palmiste, aceite de palma aceite, entre otros.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Chemical Broker ofrece una amplia gama de Ácidos Grasos de cadena corta, cadena media y cadena larga. Nuestras relaciones de negocios con nuestros fabricantes en America, Europa y Asia brindan capacidad de respuesta y garantía de suministro en todo el mundo.
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Acidos_grasos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/ACIDOS_GRASOS_PALMA.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Ácidos Grasos Destilados de Palma</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Ácidos Grasos Destilados de Palma</b> se obtienen por desdoblamiento y posterior destilación al vacío del aceite de palma. El producto obtenido es un sólido blanco opaco a temperatura ambiente, con un punto de fusión sobre los 45 °C. Es rico en acido palmítico y esteárico.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Acidos_Grasos_Destilados_Palma.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
- 
-
-    <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/ALCOHOL_GRASO_250225.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Alcoholes Grasos</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Alcoholes Grasos</b> de fracción media y fracción pesada a partir de materias primas naturales sostenibles. </p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Nuestras relaciones de negocios con nuestros fabricantes en America, Europa y Asia brindan capacidad de respuesta y garantía de suministro en todo el mundo.
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Alcoholes_Grasos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
-    <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/chipset.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Alcohol Isopropilico</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Alcohol Isopropilico</b> (propan-2-ol, Isopropanol o 2-propanol), es un compuesto orgánico incoloro e inflamable con un olor a alcohol acre.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Se utiliza en la fabricación de una amplia variedad de productos químicos industriales y domésticos y es un ingrediente común en productos como antisépticos, desinfectantes y detergentes.
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Alcohol_Isopropilico.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
-    <div class="row" style="margin-top:150px;">
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/ANTIOXIDANTES_020823.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class="col s12 m12 l12 xl6 columnas_antioxidantes div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Antioxidantes</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Antioxidantes</b> son moléculas capaces de retardar o prevenir la oxidación de otras moléculas y alargar la vida útil de los productos.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Los antioxidantes son muy importantes para la industria alimentaria humana y animal, así como para la industria farmacéutica, veterinaria y cosmética ya que logran que los productos conserven sus propiedades y sus niveles de calidad.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Antioxidantes.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </p>
-    </div>
-    </div>
-
-    <div class="row" style="margin-top:150px;">
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/AZUCAR_BANNER_310724.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class="col s12 m12 l12 xl6 columnas_antioxidantes div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Azúcar Refinada</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Azúcar refinada</b> es un tipo de azúcar que ha sido procesada para eliminar las impurezas y el color. Se obtiene a partir de la caña de azúcar o la remolacha azucarera. </p>
-    <p class="Tipografia--general General--Cuerpo letranegro">El proceso de refinación implica varias etapas, incluyendo la trituración, la purificación con cal, la carbonatación, la filtración, la cristalización y finalmente, el secado. Este proceso produce un azúcar blanco, granulado y de alta pureza, que es el tipo de azúcar más comúnmente utilizado en la cocina y la repostería.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Azucar_Refinada.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </p>
-    </div>
-    </div>
+  </div>
+</div>
 
 
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
 
-    <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_BICARBONATO_SODIO_271222.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_bicarbonato_sodio div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Bicarbonato de Sodio</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Bicarbonato de Sodio</b> es un compuesto sólido cristalino de color blanco soluble en agua, con un ligero sabor alcalino parecido al del carbonato de sodio (menos fuerte y más salado) Se puede encontrar como mineral en la naturaleza o se puede producir artificialmente.  La forma mineral natural es nahcolita. Es un componente del mineral natrón y se encuentra disuelto en muchos manantiales minerales.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Bicarbonato_Sodio.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
+    <div class="row no-margin row-equal">
 
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/CBM_IMAGEN_NO_1_ACEITE-MAIZ-RBD.png" alt="Aceite de Maíz">
 
-    <div class="row" style="margin-top:150px;">
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_COLLAGEN_280723.jpg" alt="Colágeno Hidrolizado" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class="col s12 m12 l12 xl6 columnas_dextrosas div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Colágeno Hidrolizado</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Colágeno Hidrolizado</b> es un producto proteico natural, obtenido por hidrólisis enzimática de material rico en colágeno de origen bovino. Tiene un olor y sabor muy neutro y es adecuado para aplicaciones de mezclas de polvo seco, bebidas, barras, galletas y chicles.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Colageno_Hidrolizado.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
+        <!-- SHAPE -->
+        <div class="shape-overlay-maiz"></div>
 
-    <div class="row" style="margin-top:70px;display:none">
-    <div class="col s12 m12 l12 xl6 center-align style="margin-top:150px;">
-    <img src="img/Acidos.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class="col s12 m12 l12 xl6 columnas_acidulantes div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Acidulantes</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro"> Los acidulantes son sustancias activas que modifican la acidez de los alimentos y ayudan a reforzar su sabor</p>
-    <p class="Tipografia--general General--Cuerpo letranegro"> Los acidulantes tambien cumplen funciones de aromatizacion, son antioxidantes y aumentan la vida util de los alimentos para evitar la oxidacion en las sustancias eseciales que confieren las propiedades organolepticas al producto.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas" ><b><a href="Acidulantes.php" style="color:#212637;" class="Botones arrowblue"> Leer Mas...</a></b></p>
-    </p>
-    </div>
-    </div>
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
 
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
 
-    <div class="row" style="margin-top:150px;display:none">
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_DEXTROSAS_130323.jpg" alt="Dextrosas"  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class="col s12 m12 l12 xl6 columnas_gomas div-textoprod"  style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Gomas</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La dextrosa es un azúcar simple, químicamente idéntico a la glucosa, que proporciona 4 kcal por gramo y tiene varios usos, desde el culinario, la elaboración de productos procesados de mano de la industria alimentaria, hasta el medicinal y el deportivo.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro"> Es indispensable para el buen funcionamiento del organismo, pues proporciona nutrición a las células para que transforme el azúcar en energía. Sin embargo, dado que es un azúcar simple, un uso indebido o excesivo puede provocar serios problemas de salud, sobre todo a largo plazo</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Dextrosas.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon maiz">
+            <i class="fa-solid fa-wheat-awn"></i>
+          </div>
+
+          <h4>Aceite de<br>Maíz</h4>
+
+          <div class="divider-custom maiz"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El aceite de maíz es un aceite vegetal obtenido del germen del maíz, ampliamente utilizado en la industria alimentaria por su estabilidad, perfil lipídico y versatilidad en procesos de cocción y formulación.
+          </p>
+
+          <a href="Aceite_Maiz.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
     </div>
 
-    
-    <div class="row" style="margin-top:70px;display:none">
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="" alt="" style="width:100%">
-    </div>
-    <div class="col s12 m12 l12 xl6 columnas_carbomeros div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Carbomeros</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los carbomeros son polímeros sintéticos hidrofílicos de ácido acrílico. En cosmética, se usan para espesar las preparaciones como agente gelificante y emulsionante, pero también como solvente para ayudar a que las fórmulas se mantengan bien mezcladas. Estas son moléculas grandes que no penetran las barreras de la piel.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Carbomeros.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-    
-    
-    <div class="row" style="margin-top:150px;">
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_DEXTROSAS_130323.jpg" alt="Dextrosas"  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class="col s12 m12 l12 xl6 columnas_dextrosas div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Dextrosas</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Las <b>Dextrosas</b> es un azúcar que se encuentra ampliamente en la naturaleza, por ejemplo, en la miel y muchas frutas. Como componente de la celulosa, el almidón y el glucógeno, se encuentra en todas las plantas y animales y también se conoce como "azúcar de uva" o "azúcar en la sangre".</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Dextrosas.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_ESTEARINA_PALMA_281223.png" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Estearina de Palma Alto Hidrogenado RBD</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La <b>Estearina de Palma refinada, blanqueada y desodorizada (RBD)</b> es una grasa vegetal derivada del aceite de palma. La Estearina de Palma RBD es una fracción sólida del aceite de palma RBD, obtenida por fraccionamiento mediante procesos simples de cristalización y separación a temperatura controlada. Las propiedades físicas de la Estearina de Palma RBD difieren ampliamente de las del aceite de palma RBD. La Estearina de Palma RBD está disponible en una gama más amplia de puntos de fusión y valores de yodo. </p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Estearina_Palma_Hidrogenado.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
+  </div>
+</div>
 
 
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/ESTERES_SORBITAN_140923.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Esteres de sorbitan</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Esteres de Sorbitan</b> de la más alta calidad. Con años de experiencia en la industria y un compromiso inquebrantable con la excelencia, estamos aquí para satisfacer tus necesidades en el mercado de emulsionantes y estabilizadores. </p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Esteres_Sorbitan.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/Palma_Aceite_281124.jpg" alt="Aceite de Palma RBD">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-palma"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon palma">
+            <i class="fa-solid fa-industry"></i>
+          </div>
+
+          <h4>Aceite de Palma<br>RBD</h4>
+
+          <div class="divider-custom palma"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El aceite de palma RBD (Refinado, Blanqueado y Desodorizado) es un ingrediente ampliamente utilizado en la industria alimentaria e industrial por su estabilidad, rendimiento y versatilidad en aplicaciones a gran escala.
+          </p>
+
+          <a href="Aceite_Palma_RBD.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
     </div>
 
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/ESTERES_SORBITAN_ETOXILADOS_290125.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Esteres de Sorbitan Etoxilados</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Ésteres de Sorbitán Etoxilados</b> son un grupo de surfactantes no iónicos derivados del sorbitán (un derivado del sorbitol) que han sido modificados mediante la adición de óxido de etileno. Estos compuestos se utilizan ampliamente en diversas industrias debido a sus propiedades emulsionantes, estabilizantes y dispersantes.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Esteres_Sorbitan_Etoxilados.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/PALMISTE_RBD.jpg" alt="Aceite de Palmiste RBD">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-palmiste"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon palmiste">
+            <i class="fa-solid fa-flask"></i>
+          </div>
+
+          <h4>Aceite de Palmiste<br>RBD</h4>
+
+          <div class="divider-custom palmiste"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El aceite de palmiste RBD (Refinado, Blanqueado y Desodorizado) es ampliamente utilizado en la industria oleoquímica para la producción de jabones, detergentes y derivados por su alto contenido de ácidos grasos saturados.
+          </p>
+
+          <a href="Aceite_Palmiste_RBD.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
     </div>
 
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/LOGO_FERRAZONE_100124.jpg" alt="" class="zoom IMG_Seccion_Prod" style="100%">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Ferrazone®</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Ferrazone® (Ácido Etilendiaminotetraacético (EDTA) Férrico y de Sodio)</b> es apto para uso alimentario y ha sido recomendado por la Organización Mundial de la Salud como el único suplemento de hierro adecuado para la fortificación masiva de harinas de cereales con alto contenido de fitatos y también se recomienda para condimentos como salsa de soja y salsa de pescado. Ferrazone® se utiliza en iniciativas de enriquecimiento de alimentos a gran escala en África, América Latina, Asia y Medio Oriente.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Ferrazone.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/ACEITE_RBD_211223.jpg" alt="Aceite de Soya RBD">
+
+        <div class="shape-overlay-soya"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <div class="top-icon soya">
+            <i class="fa-solid fa-seedling"></i>
+          </div>
+
+          <h4>Aceite de Soya<br>RBD</h4>
+
+          <div class="divider-custom soya"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El aceite de soya RBD es uno de los aceites vegetales más utilizados a nivel global, empleado en aplicaciones alimentarias e industriales por su disponibilidad, funcionalidad y perfil lipídico.
+          </p>
+
+          <a href="Aceite_RBD.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
     </div>
 
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/ALIMENTOS_FOSFORO_280824.jpg" alt="" class="zoom IMG_Seccion_Prod" style="100%">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Fosfatos</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Fosfatos</b> son un grupo de sustancias químicas que contienen el ion fosfato, PO₄³⁻. Estos compuestos se derivan del ácido fosfórico (H₃PO₄) y se utilizan en una amplia variedad de aplicaciones. A continuación, se ofrece una descripción detallada de los ingredientes y tipos de Fosfatos, junto con sus usos y funciones:</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Fosfatos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-    
-    <div class="row" style="margin-top:70px;display:none">
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="" alt="" style="width:100%">
-    </div>
-    <div class="col s12 m12 l12 xl6 columnas_edta">
-    <h5 class="Tipografia--general Titulos"><b>EDTA´s</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El ácido etilendiaminotetraacético, también denominado EDTA o con menor frecuencia AEDT, es una sustancia utilizada como agente quelante que puede crear complejos con un metal que tenga una estructura de coordinación octaédrica. Coordina a metales pesados de forma reversible por cuatro posiciones acetato y dos amino, lo que lo convierte en un ligando hexadentado, y el más importante de los ligandos quelatos. Fue sintetizado por primera vez en 1935 por Ferdinand Münz. </p>
-    <p class="Tipografia--general General--Cuerpo letranegro">El EDTA y sus derivados tienen la valiosa propiedad química de combinarse con iones metálicos polivalentes en solución para formar complejos coordinados cíclicos no iónicos, solubles en agua y virtualmente no disociables. A estos complejos se les conoce como quelatos.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Carbomeros.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-    
-    
-    <div class="row" style="margin-top:150px;"> 
-    <div class = "col s12 m12 l12 xl6 center-align">
-    <img src="img/BANNER_PRINCIPAL.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_glicerinas  div-textoprod" style="position:relative;">
-    <h5 class="Titulos Tipografia--general"><b>Glicerinas</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La <b>Glicerina</b> de la mas alta Pureza y Calidad para las formulaciones de nuestros clientes.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Hoy en dia nuestra oferta incluye glicerina en cumplimiento a GMP´s, Kosher, Halal, GFSI, FCC, USP, RSPO Mass Balance. 
-    <p class="Tipografia--general General--Cuerpo letranegro btn_leerMas"><b><a href="Glycerins.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </p>
-    </div>
-    </div>
-    
-    
-    <div class="row" style="margin-top:150px">
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/GLICOLES_BANNER_140425.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class="col s12 m12 l12 xl6 columnas_glicoles  div-textoprod" style="position:relative;">
-    <h5 class="Titulos Tipografia--general"><b>Glicoles</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Glicoles</b> son un tipo de compuestos líquidos densos con sabor dulce y acre, son compuestos químicos orgánicos creados a partir de una estructura de hidrocarburo alifático y dos grupos hidroxilo; grupos -OH) que resultan de la reacción del agua con el óxido de etileno.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Todos los glicoles se presentan en forma de líquido claro, transparente, inodoro y de baja volatilidad. Los glicoles de poco peso molecular son totalmente miscibles en agua y la mayoría cuentan con una gran capacidad para disolverse en casi todos los compuestos orgánicos.</p>
-    <p class="Tipografia--general Botones btn_leerMas"><b><a href="Glycols.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
+  </div>
+</div>
 
 
-    <div class="row" style="margin-top:150px">
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_JARABE_MAIZ_270223.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class="col s12 m12 l12 xl6 columnas_jarabe_maiz div-textoprod" style="position:relative;">
-    <h5 class="Titulos Tipografia--general"><b>Jarabe de Maíz</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Jarabe de Maíz</b> es un edulcorante líquido, creado a partir del almidón o fécula de maíz.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Con un rango de jarabes carbón-refinados, desmineralizados y de conversión enzimática los ingredientes <span style="color:orange">Clearsweet®</span> Jarabes de Maíz y <span style="color:green">Cleardex®</span> Jarabe de Maíz pueden ayudar a alcanzar la textura justa y sabor característico de sus requerimientos </p>
-    <p class="Tipografia--general Botones btn_leerMas" ><b><a href="Jarabe_Maiz.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-    
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
 
-    <div class="row" style="margin-top:150px"> 
-    <div class = "col s12 m12 l12 xl6 center-align">
-    <img src="img/LAURIL-SULFATO-SODIO-94_PICTURE_1_V2.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_lauril_sulfato div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Lauril Sulfato de Sodio 94%</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El Lauril Sulfato de Sodio 94% es un alquilsulfato en forma de polvo. El producto pertenece a los tensoactivos de naturaleza aniónica con un alto contenido en sustancia activa de al menos el 94%.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Es un surfactante anionico con alto poder detergente, espumante y humectante. Las características principales de este producto incluyen una excelente capacidad de emulsión, humectabilidad y, lo que es más importante, fuertes propiedades de formación de espuma: este producto produce una espuma alta y muy estable.</p>
-    <p class="Tipografia--general Botones btn_leerMas" ><b><a href="Lauril_Sulfato_Sodio-94.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-    
+    <div class="row no-margin row-equal">
 
-    <div class="row" style="margin-top:150px"> 
-    <div class = "col s12 m12 l12 xl6 center-align">
-    <img src="img/LECITINAS_4.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_lecitinas  div-textoprod" style="position:relative">
-    <h5 class="Tipografia--general Titulos"><b>Lecitinas</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La <b>Lecitina</b> es una sustancia organica abundante en las membranas de las celulas vegetales y animales, especialmente en las del tejido nervioso; se obtiene de las grasas animales, la yema de huevo, algunas semillas y se emplea en la elaboracion de ciertos alimentos, como la margarina o el chocolate tambien se aplica en otras industrias como farmaceutica y cosmetica. </p>
-    <p class="Tipografia--general Botones btn_leerMas"><b><a href="Lecitinas.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/COCOS_FRESCOS_030524.jpg" alt="Ácidos Grasos">
 
+        <div class="shape-overlay-acidos"></div>
 
-    <div class="row" style="margin-top:150px"> 
-    <div class = "col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_POPSTART_MALTODEXTRINA_080323.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_maltodextrina div-textoprod" style="position:relative">
-    <h5 class="Tipografia--general Titulos"><b>Maltrodextrina</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La <b>Maltodextrina</b> es una mezcla de polímeros de glucosa que aparecen como resultado de la hidrolisis del almidón. </p>
-    <p class="Tipografia--general Botones btn_leerMas"><b><a href="Maltodextrina.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <div class="top-icon acidos">
+            <i class="fa-solid fa-flask"></i>
+          </div>
+
+          <h4>Ácidos<br>Grasos</h4>
+
+          <div class="divider-custom acidos"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Los ácidos grasos son compuestos derivados de aceites vegetales utilizados en la industria oleoquímica para la producción de surfactantes, jabones, detergentes y aplicaciones industriales especializadas.
+          </p>
+
+          <a href="Acidos_grasos.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
     </div>
 
-    <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_METIL_130223.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_dimetilformamida div-textoprod" style="position:relative">
-    <h5 class="Tipografia--general Titulos"><b>N, N-Dimetilformamida</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La <b>N, N-Dimetilformamida (Dimetilformamida)</b>, comunmente abreviado como DMF, es un compuesto organico, es un liquido incoloro miscible en aguay en la mayoria de componentes organicos.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Dimetilformamida.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/ACIDOS_GRASOS_PALMA.jpg" alt="Ácidos Grasos Destilados de Palma">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-acidos-palma"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon acidos-palma">
+            <i class="fa-solid fa-flask"></i>
+          </div>
+
+          <h4>Ácidos Grasos Destilados<br>de Palma</h4>
+
+          <div class="divider-custom acidos-palma"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Los ácidos grasos destilados de palma son derivados oleoquímicos utilizados en la producción de jabones, detergentes, surfactantes y aplicaciones industriales, destacando por su estabilidad y funcionalidad química.
+          </p>
+
+          <a href="Acidos_Grasos_Destilados_Palma.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
     </div>
 
+  </div>
+</div>
 
-    <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/NITRURO-BORO-FOTO.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_nitruro_boro div-textoprod" style="position:relative">
-    <h5 class="Tipografia--general Titulos"><b>Nitruro de Boro</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Nitruro de Boro</b> es un compuesto quimico formado por atomos de boro y nitrogeno. Su formula quimica es BN. Este material tiene propiedades interesantes y se utiliza en diversas aplicaciones.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Las soluciones en polvo de Nitruro de Boro fusionan las propiedades clave del Nitruro de Boro Hexagonal (HBN) con una variedad de formas y tamaños de particulas.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Las soluciones em polvo del Nitruro de Boro permiten a nuestros Clientes maximizar los beneficios en una amplia gama de mercados y aplicaciones.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Nitruro_Boro.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
 
-    <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/N-METHYL_081122.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_metilpirrolidona div-textoprod" style="position:relative">
-    <h5 class="Tipografia--general Titulos"><b>N-Metilpirrolidona</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La <b>N-Metilpirrolidona</b> es un disolvente organico aprotico altamente polar con un contenido reducido de aminas libres y un bajo contenido de agua, se utiliza principalmente en la industria farmaceutica en la sistensis de péptidos y para que los fabricantes de membranas proporcionen altos rendimientos, alta eficiencia y mayores tasas de reciclaje que los grados convencionales.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="N-Metilpirrolidona.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
+    <div class="row no-margin row-equal">
 
-    
-    <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_PASTA_SOYA_280223.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_pasta_soya div-textoprod" style="position:relative">
-    <h5 class="Tipografia--general Titulos"><b>Pasta de Soya</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La <b>Pasta de Soya</b> es la fuente de proteína más importante utilizada en la alimentación humana y del ganado. La pasta de soya es la fuente natural más concentrada de proteína, aminoácidos y energía. Debido a esto en la actualidad es el ingrediente más utilizado por nutriólogos en la elaboración de alimentos balanceados para cualquier tipo de animal.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Pasta_Soya.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/ALCOHOL_GRASO_250225.jpg" alt="Alcoholes Grasos">
 
-    <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/MANZANA_VERDE_141222.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_pectinas" style="position:relative">
-    <h5 class="Tipografia--general Titulos"><b>Pectinas</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Las <b>Pectinas</b> son una mezcla de polimeros ácidos y neutros muy ramificados.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Las pectinas son hidrocoloides solubles en agua con funciones gelificantes y espesantes.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Las pectinas tambien proporcionan superficies cargadas que regulan el pH y el balance ionico.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">La Pectina contiene principalmente ácidos galacturonicosparcialmente metoxilados. La pectina, un ingrediente versátil para texturas innovadoras La pectina es un ingrediente y un componente natural de las plantas. La pectina se encuentra en muchas frutas, pero es especialmente abundante en las manzanas y los cítricos. La pectina de la fruta está asociada a la celulosa en los tejidos vegetales, donde juega un papel fundamental en la determinación de sus propiedades mecánicas.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas" style="margin-top:30px"><b><a href="Pectinas.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
+        <!-- SHAPE -->
+        <div class="shape-overlay-alcoholes"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon alcoholes">
+            <i class="fa-solid fa-vial"></i>
+          </div>
+
+          <h4>Alcoholes<br>Grasos</h4>
+
+          <div class="divider-custom alcoholes"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Los alcoholes grasos son compuestos oleoquímicos ampliamente utilizados como materia prima en la fabricación de surfactantes, detergentes, productos de cuidado personal y aplicaciones industriales.
+          </p>
+
+          <a href="Alcoholes_Grasos.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
     </div>
 
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_SEBO_ALTO_HIDROGENADO.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative">
-    <h5 class="Tipografia--general Titulos"><b>Sebo Alto Hidrogenado</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Sebo Alto Hidrogenado (HFTA)</b>,por sus siglas en ingles, es conocido por su notable versatilidad, lo que lo convierte en un aditivo común en una amplia gama de productos. El ácido graso de sebo hidrogenado (HFTA) se utiliza como intermediario en lubricantes y aceites para laminación, como emoliente en productos para el cuidado personal y como emulsionante en una variedad de aplicaciones.</p>
-    
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Sebo_Alto_Hidrogeno.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-    
-    <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/pasta-dientes-fluor.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_sorbitoles div-textoprod" style="position:relative">
-    <h5 class="Tipografia--general Titulos"><b>Sorbitoles</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Sorbitol</b> es un polialcohol, alcohol polihidrico alditol de azucar, industrialmente se obtiene por reduccion mediante hidrogenacion catalítica del monosacárido mas comun, “la glucosa”. </p>
-    <p class="Tipografia--general General--Cuerpo letranegro">En la naturaleza el sorbitol es uno de los tres glucidos (sacarosa, almidon y sorbitol), principales producidos por la fotosintesis en las hojas adultas de ciertas plantas de la familia Rosaceae y Plantaginaceae, se ecuentran en cantidades apreciables en algas rojas, peras, manzanas, cerezas, duraznos.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas" style="position:absolute:left:10px;bottom:-30px"><b><a href="Sorbitoles.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/chipset.jpg" alt="Alcohol Isopropílico">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-ipa"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon ipa">
+            <i class="fa-solid fa-droplet"></i>
+          </div>
+
+          <h4>Alcohol<br>Isopropílico</h4>
+
+          <div class="divider-custom ipa"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El alcohol isopropílico (IPA) es un solvente ampliamente utilizado en limpieza industrial, farmacéutica y electrónica, destacando por su rápida evaporación y alta eficacia en la eliminación de contaminantes.
+          </p>
+
+          <a href="Alcohol_Isopropilico.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
     </div>
 
-    <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_Sulfosuccionatos.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_sorbitoles div-textoprod" style="position:relative">
-    <h5 class="Tipografia--general Titulos"><b>Sulfosuccinatos</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Sulfossucinatos</b> son una clase de surfactantes aniónicos utilizados en una variedad de aplicaciones industriales y de cuidado personal. Estos compuestos se derivan del acido succínico y se caracterizan por tener grupos sulfonato como grupos funcionales principales.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Introducimos nuestros sulfosuccinatos de alta calidad, agentes tensoactivos de ultima generación diseñados para ofrecer resultados superiores en una amplia gama de aplicaciones industriales y de cuidado personal.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas" style="position:absolute:left:10px;bottom:-30px"><b><a href="Sulfosuccinatos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/ANTIOXIDANTES_020823.jpg" alt="Antioxidantes">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-antioxidantes"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon antioxidantes">
+            <i class="fa-solid fa-shield-heart"></i>
+          </div>
+
+          <h4>Antioxidantes</h4>
+
+          <div class="divider-custom antioxidantes"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Los antioxidantes son compuestos utilizados para prevenir la oxidación y prolongar la vida útil de productos en la industria alimentaria, cosmética y farmacéutica, asegurando estabilidad y calidad.
+          </p>
+
+          <a href="Antioxidantes.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
     </div>
 
-    <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/BANNER_PRINCIPAL_TCM.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_sorbitoles div-textoprod" style="position:relative">
-    <h5 class="Tipografia--general Titulos"><b>Trigliceridos de Cadena Media</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Triglicéridos</b> de cadena media (TCM) son un tipo de grasa compuesta por ácidos grasos con una longitud de cadena media (entre 6 y 12 átomos de carbono). A diferencia de los Triglicéridos de cadena larga (TCL), los TCM se digieren y absorben más fácilmente, lo que los hace una fuente rápida de energía.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas" style="position:absolute:left:10px;bottom:-30px"><b><a href="Trigliceridos_Cadena_Media.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
+  </div>
+</div>
+
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/AZUCAR_BANNER_310724.jpg" alt="Azúcar Refinada">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-azucar"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon azucar">
+            <i class="fa-solid fa-cubes"></i>
+          </div>
+
+          <h4>Azúcar<br>Refinada</h4>
+
+          <div class="divider-custom azucar"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            La azúcar refinada es un ingrediente esencial en la industria alimentaria, utilizada en la formulación de bebidas, panificación, confitería y múltiples aplicaciones industriales por su pureza y funcionalidad.
+          </p>
+
+          <a href="Azucar_Refinada.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
     </div>
 
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_2_ETHYLHEXANOL_050923.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos aceite_1024"><b>2-Etilhexanol</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>2-etilhexanol (abreviado 2-EH)</b> es un alcohol graso ramificado, un compuesto orgánico de ocho átomos de carbono con un grupo alcohol. Es un líquido incoloro que es poco soluble en agua, pero soluble en la mayoría de los disolventes orgánicos. </p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="2-Etilhexanol.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-    
+  </div>
+</div>
 
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/CB_BICARBONATO_SODIO_271222.jpg" alt="Bicarbonato de Sodio">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-bicarbonato"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon bicarbonato">
+            <i class="fa-solid fa-cubes"></i>
+          </div>
+
+          <h4>Bicarbonato<br>de Sodio</h4>
+
+          <div class="divider-custom bicarbonato"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El bicarbonato de sodio es un compuesto versátil utilizado en aplicaciones alimentarias, farmacéuticas, limpieza e industriales, destacando por su capacidad reguladora, neutralizante y funcional.
+          </p>
+
+          <a href="Bicarbonato_Sodio.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/CB_COLLAGEN_280723.jpg" alt="Colágeno Hidrolizado">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-colageno"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon colageno">
+            <i class="fa-solid fa-bone"></i>
+          </div>
+
+          <h4>Colágeno<br>Hidrolizado</h4>
+
+          <div class="divider-custom colageno"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El colágeno hidrolizado es un ingrediente funcional utilizado en suplementos alimenticios, alimentos y productos cosméticos, reconocido por sus beneficios en salud articular, piel y bienestar general.
+          </p>
+
+          <a href="Colageno_Hidrolizado.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/CB_DEXTROSAS_130323.jpg" alt="Dextrosas">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-dextrosa"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon dextrosa">
+            <i class="fa-solid fa-bolt"></i>
+          </div>
+
+          <h4>Dextrosas</h4>
+
+          <div class="divider-custom dextrosa"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Las dextrosas son azúcares simples ampliamente utilizadas en la industria alimentaria y farmacéutica como fuente de energía rápida, mejorador de textura y componente funcional en diversas formulaciones.
+          </p>
+
+          <a href="Dextrosas.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/CB_ESTEARINA_PALMA_281223.png" alt="Estearina de Palma Alto Hidrogenado RBD">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-estearina"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon estearina">
+            <i class="fa-solid fa-cube"></i>
+          </div>
+
+          <h4>Estearina de Palma<br>Alto Hidrogenado</h4>
+
+          <div class="divider-custom estearina"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            La estearina de palma alto hidrogenado es una fracción sólida derivada del aceite de palma, utilizada en aplicaciones industriales y alimentarias que requieren estructura, estabilidad y alto punto de fusión.
+          </p>
+
+          <a href="Estearina_Palma_Hidrogenado.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/ESTERES_SORBITAN_140923.jpg" alt="Ésteres de Sorbitán">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-sorbitan"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon sorbitan">
+            <i class="fa-solid fa-circle-nodes"></i>
+          </div>
+
+          <h4>Ésteres de<br>Sorbitán</h4>
+
+          <div class="divider-custom sorbitan"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Los ésteres de sorbitán son emulsificantes utilizados en la industria alimentaria, cosmética y farmacéutica para estabilizar mezclas, mejorar texturas y optimizar la integración de fases en formulaciones.
+          </p>
+
+          <a href="Esteres_Sorbitan.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</diV>
+
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/ESTERES_SORBITAN_ETOXILADOS_290125.jpg" alt="Ésteres de Sorbitán Etoxilados">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-sorbitan-etox"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon sorbitan-etox">
+            <i class="fa-solid fa-atom"></i>
+          </div>
+
+          <h4>Ésteres de Sorbitán<br>Etoxilados</h4>
+
+          <div class="divider-custom sorbitan-etox"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Los ésteres de sorbitán etoxilados son emulsificantes avanzados utilizados en formulaciones cosméticas, farmacéuticas y de limpieza, ofreciendo mayor solubilidad, estabilidad y eficiencia en sistemas complejos.
+          </p>
+
+          <a href="Esteres_Sorbitan_Etoxilados.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/LOGO_FERRAZONE_100124.jpg" alt="Ferrazone">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-ferrazone"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon ferrazone">
+            <i class="fa-solid fa-shield-heart"></i>
+          </div>
+
+          <h4>Ferrazone</h4>
+
+          <div class="divider-custom ferrazone"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Ferrazone es un compuesto utilizado como agente fortificante en aplicaciones alimentarias e industriales, contribuyendo a mejorar el valor nutricional y la funcionalidad de diversas formulaciones.
+          </p>
+
+          <a href="Ferrazone.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/ALIMENTOS_FOSFORO_280824.jpg" alt="Fosfatos">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-fosfatos"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon fosfatos">
+            <i class="fa-solid fa-gears"></i>
+          </div>
+
+          <h4>Fosfatos</h4>
+
+          <div class="divider-custom fosfatos"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Los fosfatos son compuestos ampliamente utilizados en la industria alimentaria, detergentes y procesos industriales, actuando como reguladores, estabilizantes y agentes funcionales en diversas aplicaciones.
+          </p>
+
+          <a href="Fosfatos.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/BANNER_PRINCIPAL.jpg" alt="Glicerina">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-glicerina"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon glicerina">
+            <i class="fa-solid fa-droplet"></i>
+          </div>
+
+          <h4>Glicerina</h4>
+
+          <div class="divider-custom glicerina"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            La glicerina es un compuesto altamente versátil utilizado en las industrias cosmética, farmacéutica y alimentaria como agente humectante, solvente y estabilizante, destacando por su pureza y capacidad de retención de humedad.
+          </p>
+
+          <a href="Glycerins.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/GLICOLES_BANNER_140425.jpg" alt="Glicoles">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-glicoles"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon glicoles">
+            <i class="fa-solid fa-vial"></i>
+          </div>
+
+          <h4>Glicoles</h4>
+
+          <div class="divider-custom glicoles"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Los glicoles son compuestos químicos utilizados como solventes, humectantes y agentes funcionales en aplicaciones industriales, farmacéuticas y alimentarias, destacando por su versatilidad y estabilidad.
+          </p>
+
+          <a href="Glycols.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/CB_JARABE_MAIZ_270223.jpg" alt="Jarabe de Maíz">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-jarabe"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon jarabe">
+            <i class="fa-solid fa-droplet"></i>
+          </div>
+
+          <h4>Jarabe<br>de Maíz</h4>
+
+          <div class="divider-custom jarabe"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El jarabe de maíz es un edulcorante líquido ampliamente utilizado en la industria alimentaria para mejorar textura, dulzor y estabilidad en bebidas, confitería y productos de panificación.
+          </p>
+
+          <a href="Jarabe_Maiz.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/LAURIL-SULFATO-SODIO-94_PICTURE_1_V2.jpg" alt="Lauril Sulfato de Sodio">
+
+        <!-- SHAPE -->
+        <div class="fa-solid fa-bubbles"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon sls">
+            <i class="fa-solid fa-bubbles"></i>
+          </div>
+
+          <h4>Lauril Sulfato<br>de Sodio</h4>
+
+          <div class="divider-custom sls"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El lauril sulfato de sodio (SLS) es un surfactante ampliamente utilizado en detergentes y productos de cuidado personal por su alta capacidad de limpieza, generación de espuma y eficiencia en la remoción de suciedad.
+          </p>
+
+          <a href="Lauril_Sulfato_Sodio-94.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/LECITINAS_4.jpg" alt="Lecitinas">
+
+        <div class="shape-overlay-lecitinas"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+        <div class="product-content">
+
+          <div class="top-icon lecitinas">
+            <i class="fa-solid fa-seedling"></i>
+          </div>
+
+          <h4>Lecitinas</h4>
+
+          <div class="divider-custom lecitinas"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Las lecitinas son emulsificantes de origen natural utilizadas en la industria alimentaria, farmacéutica y de nutrición animal para mejorar la estabilidad, textura e integración de ingredientes.
+          </p>
+
+          <a href="Lecitinas.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/CB_POPSTART_MALTODEXTRINA_080323.jpg" alt="Maltodextrina">
+
+        <div class="shape-overlay-maltodextrina"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+        <div class="product-content">
+
+          <div class="top-icon maltodextrina">
+            <i class="fa-solid fa-layer-group"></i>
+          </div>
+
+          <h4>Maltodextrina</h4>
+
+          <div class="divider-custom maltodextrina"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            La maltodextrina es un carbohidrato utilizado en la industria alimentaria y de suplementos como agente de carga, estabilizante y fuente de energía controlada, mejorando textura y funcionalidad en diversas formulaciones.
+          </p>
+
+          <a href="Maltodextrina.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/CB_METIL_130223.jpg" alt="N,N-Dimetilformamida">
+
+        <div class="shape-overlay-dmf"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+        <div class="product-content">
+
+          <div class="top-icon dmf">
+            <i class="fa-solid fa-flask"></i>
+          </div>
+
+          <h4>N,N-Dimetilformamida</h4>
+
+          <div class="divider-custom dmf"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            La N,N-dimetilformamida (DMF) es un solvente polar ampliamente utilizado en procesos químicos, farmacéuticos y de polímeros, destacando por su alta capacidad de disolución y estabilidad en aplicaciones industriales exigentes.
+          </p>
+
+          <a href="Dimetilformamida.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/NITRURO-BORO-FOTO.jpg" alt="Nitruro de Boro">
+
+        <div class="shape-overlay-bn"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+        <div class="product-content">
+
+          <div class="top-icon bn">
+            <i class="fa-solid fa-microchip"></i>
+          </div>
+
+          <h4>Nitruro de Boro</h4>
+
+          <div class="divider-custom bn"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El nitruro de boro es un material avanzado utilizado en aplicaciones industriales de alto desempeño, destacando por su resistencia térmica, propiedades dieléctricas y capacidad como lubricante sólido en entornos exigentes.
+          </p>
+
+          <a href="Nitruro_Boro.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/N-METHYL_081122.jpg" alt="N-Metilpirrolidona">
+
+        <div class="shape-overlay-nmp"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+        <div class="product-content">
+
+          <div class="top-icon nmp">
+            <i class="fa-solid fa-flask"></i>
+          </div>
+
+          <h4>N-Metilpirrolidona</h4>
+
+          <div class="divider-custom nmp"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            La N-metilpirrolidona (NMP) es un solvente polar de alto desempeño utilizado en aplicaciones industriales como recubrimientos, limpieza técnica y procesos químicos, destacando por su alta capacidad de disolución.
+          </p>
+
+          <a href="N-Metilpirrolidona.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/CB_PASTA_SOYA_280223.jpg" alt="Pasta de Soya">
+
+        <div class="shape-overlay-soya"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+        <div class="product-content">
+
+          <div class="top-icon soya">
+            <i class="fa-solid fa-wheat-awn"></i>
+          </div>
+
+          <h4>Pasta de Soya</h4>
+
+          <div class="divider-custom soya"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            La pasta de soya es una fuente de proteína vegetal ampliamente utilizada en la nutrición animal, destacando por su alto valor nutricional y su papel clave en la formulación de alimentos balanceados.
+          </p>
+
+          <a href="Pasta_Soya.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/MANZANA_VERDE_141222.jpg" alt="Pectinas">
+
+        <div class="shape-overlay-pectinas"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+        <div class="product-content">
+
+          <div class="top-icon pectinas">
+            <i class="fa-solid fa-apple-whole"></i>
+          </div>
+
+          <h4>Pectinas</h4>
+
+          <div class="divider-custom pectinas"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Las pectinas son agentes gelificantes de origen natural ampliamente utilizados en la industria alimentaria para mejorar la textura, estabilidad y consistencia en productos como mermeladas, bebidas y confitería.
+          </p>
+
+          <a href="Pectinas.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/CB_SEBO_ALTO_HIDROGENADO.jpg" alt="Sebo Alto Hidrogenado">
+
+        <div class="shape-overlay-sebo"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+        <div class="product-content">
+
+          <div class="top-icon sebo">
+            <i class="fa-solid fa-cube"></i>
+          </div>
+
+          <h4>Sebo Alto<br>Hidrogenado</h4>
+
+          <div class="divider-custom sebo"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El sebo alto hidrogenado es una grasa sólida de origen animal utilizada en aplicaciones industriales como la fabricación de jabones, velas y otros productos que requieren estabilidad y alto punto de fusión.
+          </p>
+
+          <a href="Sebo_Alto_Hidrogeno.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/pasta-dientes-fluor.jpg" alt="Sorbitol">
+
+        <div class="shape-overlay-sorbitol"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+        <div class="product-content">
+
+          <div class="top-icon sorbitol">
+            <i class="fa-solid fa-leaf"></i>
+          </div>
+
+          <h4>Sorbitol</h4>
+
+          <div class="divider-custom sorbitol"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El sorbitol es un poliol utilizado como edulcorante y agente humectante en la industria alimentaria, farmacéutica y de cuidado personal, destacando por su estabilidad y funcionalidad en diversas formulaciones.
+          </p>
+
+          <a href="Sorbitoles.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/CB_Sulfosuccionatos.jpg" alt="Sulfosuccinatos">
+
+        <div class="shape-overlay-sulfo"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+        <div class="product-content">
+
+          <div class="top-icon sulfo">
+            <i class="fa-solid fa-droplet"></i>
+          </div>
+
+          <h4>Sulfosuccinatos</h4>
+
+          <div class="divider-custom sulfo"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Los sulfosuccinatos son surfactantes suaves utilizados en formulaciones de cuidado personal y limpieza, destacando por su alta capacidad de humectación y su desempeño en sistemas delicados.
+          </p>
+
+          <a href="Sulfosuccinatos.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/BANNER_PRINCIPAL_TCM.jpg" alt="Triglicéridos de Cadena Media">
+
+        <div class="shape-overlay-mct"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+        <div class="product-content">
+
+          <div class="top-icon mct">
+            <i class="fa-solid fa-bolt"></i>
+          </div>
+
+          <h4>Triglicéridos de<br>Cadena Media</h4>
+
+          <div class="divider-custom mct"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Los triglicéridos de cadena media (MCT) son lípidos utilizados en alimentos funcionales, suplementos y aplicaciones farmacéuticas por su rápida absorción, eficiencia energética y alta pureza.
+          </p>
+
+          <a href="Trigliceridos_Cadena_Media.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/CB_2_ETHYLHEXANOL_050923.jpg" alt="2-Etilhexanol">
+
+        <div class="shape-overlay-2eh"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+        <div class="product-content">
+
+          <div class="top-icon eh">
+            <i class="fa-solid fa-industry"></i>
+          </div>
+
+          <h4>2-Etilhexanol</h4>
+
+          <div class="divider-custom eh"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El 2-etilhexanol es un alcohol utilizado como intermediario químico en la producción de plastificantes, recubrimientos y solventes industriales, siendo clave en aplicaciones como PVC, pinturas y adhesivos.
+          </p>
+
+          <a href="2-Etilhexanol.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+  
+      
     `
 };
 
@@ -1098,184 +3757,640 @@ function filtroa(){
     <div class="divfooter2" style="text-align:center;"><span style="font-size:55px;border-bottom:3px solid #262137;"><b>A</b></span></div><br><br></div>
     `
     document.getElementById("contenedorliteral").innerHTML = `
+    <div class="col s12">
+    <div class="card product-card-pro">
+  
+      <div class="row no-margin row-equal">
+  
+        <!-- IMAGEN -->
+        <div class="col s12 m6 image-container">
+  
+          <img src="img/CANOLA_ACEITE.jpg" alt="Aceite de Canola RBD">
+  
+          <!-- SHAPE AMARILLO -->
+          <div class="shape-overlay"></div>
+  
+          <!-- DOTS -->
+          <div class="dots-pattern">
+            <div></div><div></div><div></div><div></div><div></div>
+            <div></div><div></div><div></div><div></div><div></div>
+            <div></div><div></div><div></div><div></div><div></div>
+            <div></div><div></div><div></div><div></div><div></div>
+          </div>
+  
+        </div>
+  
+        <!-- CONTENIDO -->
+        <div class="col s12 m6 content-container">
+  
+          <div class="product-content">
+  
+            <!-- ICONO -->
+            <div class="top-icon">
+              <i class="fa-solid fa-seedling"></i>
+            </div>
+  
+            <h4>Aceite de<br>Canola RBD</h4>
+  
+            <div class="divider-custom"></div>
+  
+            <p class="Tipografia--general letranegro General--Cuerpo">
+              El Aceite de Canola Refinado Blanqueado y Desodorizado (RBD) es un tipo de aceite vegetal que se ha sometido a un proceso de refinamiento para eliminar impurezas, blanquearlo y eliminar olores o sabores fuertes.
+            </p>
+  
+            <a href="Aceite_Canola.php" class="btn custom-btn-pro">
+              LEER MÁS
+              <i class="fa-solid fa-arrow-right"></i>
+            </a>
+  
+          </div>
+  
+        </div>
+  
+      </div>
+  
+    </div>
+  </div>
+  
+  <div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
 
-    <div class="row" style="margin-top:-10px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CANOLA_ACEITE.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Canola RBD</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El Aceite de Canola Refinado Blanqueado y Desodorizado (RBD) es un tipo de aceite vegetal que se ha sometido a un proceso de refinamiento para eliminar impurezas, blanquearlo y eliminar olores o sabores fuertes.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Canola.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
+    <div class="row no-margin row-equal">
 
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_ACEITE_COCO2.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Coco</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b style="cor:#071637">Aceite de coco</b> es un aceite vegetal derivado de la pulpa del coco (Cocos nucifera). Se obtiene mediante procesos de prensado en frio o extracción con calor de la carne blanca o la copra del coco. Es conocido por su alta concentración de ácidos grasos saturados de cadena media, especialmente acido láurico.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Coco.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/ACEITE_COCO_RBD.jpg" alt="Aceite de Coco">
 
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/ACEITE_COCO_RBD.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Coco RBD</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Aceite de Coco Refinado, Blanqueado, Desodorizado (RBD)</b> es un tipo de aceite de coco que ha pasado por un proceso de refinacion para eliminar impurezas, olores y sabores fuertes. Este tipo de aceite es ideal para aplicaciones culinarias y cosméticas donde se prefiere un producto neutro en olor y sabor.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Coco_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
+        <!-- SHAPE -->
+        <div class="shape-overlay-coco"></div>
 
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CBM_IMAGEN_NO_1_ACEITE-MAIZ-RBD.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Maiz</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Aceite de Maíz Refinado, Blanqueado y Desodorizado (RBD)</b>, es un tipo de aceite vegetal que se obtiene del maíz mediante un proceso de refinamiento. Este proceso implica eliminar impurezas, olores y sabores no deseados del aceite crudo de maíz.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Maiz.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
 
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/Palma_Aceite_281124.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Palma RBD</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Aceite de Palma Refinado, Blanqueado y Desodorizado (RBD)</b> es una forma procesada del aceite de palma crudo, ampliamente utilizado en la industria alimentaria, cosmética y química debido a sus características versátiles.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Palma_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
 
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/PALMISTE_RBD.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos aceite_1024"><b>Aceite de Palmiste RBD</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Aceite de Palmiste Refinado, Blanqueado y Desodorizado (RBD)</b> es un aceite vegetal obtenido a partir de la semilla o núcleo de la palma de aceite (Elaeis guineensis). Este aceite es diferente al aceite de palma, que se extrae de la pulpa del fruto. El término RBD indica que ha pasado por procesos de refinado, blanqueado y desodorizado para eliminar impurezas, colores y olores, haciéndolo más adecuado para aplicaciones industriales y alimenticias.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_Palmiste_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
+        <div class="product-content">
 
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/ACEITE_RBD_211223.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Aceite de Soya RBD</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Aceite de Soya Refinado, Blanqueado y Desodorizado (RBD)</b> es un aceite comestible muy utilizado en la cocina, tanto en la preparación de alimentos como en la producción de productos procesados. Es conocido por ser versátil y tener un alto punto de humo, lo que lo hace adecuado para freír y cocinar a altas temperaturas.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Aceite_RBD.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
+          <!-- ICONO -->
+          <div class="top-icon coco">
+            <i class="fa-solid fa-leaf"></i>
+          </div>
 
-    <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/COCOS_FRESCOS_030524.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative">
-    <h5 class="Tipografia--general Titulos"><b>Ácidos Grasos</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Ácidos Grasos</b> se derivan de grasas y aceites animales como el sebo de res y de aceites vegetales tales como aceite de soja, aceite de colza, aceite de coco y de palmiste, aceite de palma aceite, entre otros.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Chemical Broker ofrece una amplia gama de Ácidos Grasos de cadena corta, cadena media y cadena larga. Nuestras relaciones de negocios con nuestros fabricantes en America, Europa y Asia brindan capacidad de respuesta y garantía de suministro en todo el mundo.
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Acidos_grasos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
+          <h4>Aceite de<br>Coco</h4>
 
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/ACIDOS_GRASOS_PALMA.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;>
-    <h5 class="Tipografia--general Titulos" style="font-family: Arial !important;font-size:18px !important"><b style="font-family: Arial !important;font-size:18px !important">Ácidos Grasos Destilados de Palma</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Ácidos Grasos Destilados de Palma</b> se obtienen por desdoblamiento y posterior destilación al vacío del aceite de palma. El producto obtenido es un sólido blanco opaco a temperatura ambiente, con un punto de fusión sobre los 45 °C. Es rico en acido palmítico y esteárico.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Acidos_Grasos_Destilados_Palma.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
+          <div class="divider-custom coco"></div>
 
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El aceite de coco es un aceite vegetal obtenido de la pulpa del coco, ampliamente utilizado en la industria alimentaria, cosmética y farmacéutica por sus propiedades funcionales y estabilidad.
+          </p>
 
-    <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/ALCOHOL_GRASO_250225.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative">
-    <h5 class="Tipografia--general Titulos"><b>Alcoholes Grasos</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Alcoholes Grasos</b> de fracción media y fracción pesada a partir de materias primas naturales sostenibles. </p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Nuestras relaciones de negocios con nuestros fabricantes en America, Europa y Asia brindan capacidad de respuesta y garantía de suministro en todo el mundo.
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Alcoholes_Grasos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
+          <a href="Aceite_Coco_RBD.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
 
-    <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/chipset.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Alcohol Isopropilico</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Alcohol Isopropilico</b> (propan-2-ol, Isopropanol o 2-propanol), es un compuesto orgánico incoloro e inflamable con un olor a alcohol acre.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Se utiliza en la fabricación de una amplia variedad de productos químicos industriales y domésticos y es un ingrediente común en productos como antisépticos, desinfectantes y detergentes.
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Alcohol_Isopropilico.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
+        </div>
 
-    
-    <div class="row" style="margin-top:150px;">
-    
-    <div class="col s12 m12 l12 xl6 center-align ">
-    
-    <img src="img/ANTIOXIDANTES_020823.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    
-    <div class="col s12 m12 l12 xl6 columnas_antioxidantes div-textoprod" style="position:relative">
-    <h5 class="Tipografia--general Titulos"><b>Antioxidantes</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Antioxidantes</b> son moléculas capaces de retardar o prevenir la oxidación de otras moléculas y alargar la vida útil de los productos.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Los antioxidantes son muy importantes para la industria alimentaria humana y animal, así como para la industria farmacéutica, veterinaria y cosmética ya que logran que los productos conserven sus propiedades y sus niveles de calidad.</p>
-    
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Antioxidantes.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-
-    </p>
-
- 
+      </div>
 
     </div>
 
-    </div>
-
-    
-    <div class="row" style="margin-top:150px;">
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/AZUCAR_BANNER_310724.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class="col s12 m12 l12 xl6 columnas_antioxidantes div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Azúcar Refinada</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Azúcar refinada</b> es un tipo de azúcar que ha sido procesada para eliminar las impurezas y el color. Se obtiene a partir de la caña de azúcar o la remolacha azucarera. </p>
-    <p class="Tipografia--general General--Cuerpo letranegro">El proceso de refinación implica varias etapas, incluyendo la trituración, la purificación con cal, la carbonatación, la filtración, la cristalización y finalmente, el secado. Este proceso produce un azúcar blanco, granulado y de alta pureza, que es el tipo de azúcar más comúnmente utilizado en la cocina y la repostería.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Azucar_Refinada.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </p>
-    </div>
-    </div>
+  </div>
+</div>
 
 
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
 
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/CBM_IMAGEN_NO_1_ACEITE-MAIZ-RBD.png" alt="Aceite de Maíz">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-maiz"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon maiz">
+            <i class="fa-solid fa-wheat-awn"></i>
+          </div>
+
+          <h4>Aceite de<br>Maíz</h4>
+
+          <div class="divider-custom maiz"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El aceite de maíz es un aceite vegetal obtenido del germen del maíz, ampliamente utilizado en la industria alimentaria por su estabilidad, perfil lipídico y versatilidad en procesos de cocción y formulación.
+          </p>
+
+          <a href="Aceite_Maiz.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/Palma_Aceite_281124.jpg" alt="Aceite de Palma RBD">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-palma"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon palma">
+            <i class="fa-solid fa-industry"></i>
+          </div>
+
+          <h4>Aceite de Palma<br>RBD</h4>
+
+          <div class="divider-custom palma"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El aceite de palma RBD (Refinado, Blanqueado y Desodorizado) es un ingrediente ampliamente utilizado en la industria alimentaria e industrial por su estabilidad, rendimiento y versatilidad en aplicaciones a gran escala.
+          </p>
+
+          <a href="Aceite_Palma_RBD.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/PALMISTE_RBD.jpg" alt="Aceite de Palmiste RBD">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-palmiste"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon palmiste">
+            <i class="fa-solid fa-flask"></i>
+          </div>
+
+          <h4>Aceite de Palmiste<br>RBD</h4>
+
+          <div class="divider-custom palmiste"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El aceite de palmiste RBD (Refinado, Blanqueado y Desodorizado) es ampliamente utilizado en la industria oleoquímica para la producción de jabones, detergentes y derivados por su alto contenido de ácidos grasos saturados.
+          </p>
+
+          <a href="Aceite_Palmiste_RBD.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/ACEITE_RBD_211223.jpg" alt="Aceite de Soya RBD">
+
+        <div class="shape-overlay-soya"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <div class="top-icon soya">
+            <i class="fa-solid fa-seedling"></i>
+          </div>
+
+          <h4>Aceite de Soya<br>RBD</h4>
+
+          <div class="divider-custom soya"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El aceite de soya RBD es uno de los aceites vegetales más utilizados a nivel global, empleado en aplicaciones alimentarias e industriales por su disponibilidad, funcionalidad y perfil lipídico.
+          </p>
+
+          <a href="Aceite_RBD.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/COCOS_FRESCOS_030524.jpg" alt="Ácidos Grasos">
+
+        <div class="shape-overlay-acidos"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <div class="top-icon acidos">
+            <i class="fa-solid fa-flask"></i>
+          </div>
+
+          <h4>Ácidos<br>Grasos</h4>
+
+          <div class="divider-custom acidos"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Los ácidos grasos son compuestos derivados de aceites vegetales utilizados en la industria oleoquímica para la producción de surfactantes, jabones, detergentes y aplicaciones industriales especializadas.
+          </p>
+
+          <a href="Acidos_grasos.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/ACIDOS_GRASOS_PALMA.jpg" alt="Ácidos Grasos Destilados de Palma">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-acidos-palma"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon acidos-palma">
+            <i class="fa-solid fa-flask"></i>
+          </div>
+
+          <h4>Ácidos Grasos Destilados<br>de Palma</h4>
+
+          <div class="divider-custom acidos-palma"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Los ácidos grasos destilados de palma son derivados oleoquímicos utilizados en la producción de jabones, detergentes, surfactantes y aplicaciones industriales, destacando por su estabilidad y funcionalidad química.
+          </p>
+
+          <a href="Acidos_Grasos_Destilados_Palma.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/ALCOHOL_GRASO_250225.jpg" alt="Alcoholes Grasos">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-alcoholes"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon alcoholes">
+            <i class="fa-solid fa-vial"></i>
+          </div>
+
+          <h4>Alcoholes<br>Grasos</h4>
+
+          <div class="divider-custom alcoholes"></div>
+
+           <p class="Tipografia--general letranegro General--Cuerpo">
+            Los alcoholes grasos son compuestos oleoquímicos ampliamente utilizados como materia prima en la fabricación de surfactantes, detergentes, productos de cuidado personal y aplicaciones industriales.
+          </p>
+
+          <a href="Alcoholes_Grasos.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/chipset.jpg" alt="Alcohol Isopropílico">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-ipa"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon ipa">
+            <i class="fa-solid fa-droplet"></i>
+          </div>
+
+          <h4>Alcohol<br>Isopropílico</h4>
+
+          <div class="divider-custom ipa"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El alcohol isopropílico (IPA) es un solvente ampliamente utilizado en limpieza industrial, farmacéutica y electrónica, destacando por su rápida evaporación y alta eficacia en la eliminación de contaminantes.
+          </p>
+
+          <a href="Alcohol_Isopropilico.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/ANTIOXIDANTES_020823.jpg" alt="Antioxidantes">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-antioxidantes"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon antioxidantes">
+            <i class="fa-solid fa-shield-heart"></i>
+          </div>
+
+          <h4>Antioxidantes</h4>
+
+          <div class="divider-custom antioxidantes"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Los antioxidantes son compuestos utilizados para prevenir la oxidación y prolongar la vida útil de productos en la industria alimentaria, cosmética y farmacéutica, asegurando estabilidad y calidad.
+          </p>
+
+          <a href="Antioxidantes.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/AZUCAR_BANNER_310724.jpg" alt="Azúcar Refinada">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-azucar"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon azucar">
+            <i class="fa-solid fa-cubes"></i>
+          </div>
+
+          <h4>Azúcar<br>Refinada</h4>
+
+          <div class="divider-custom azucar"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            La azúcar refinada es un ingrediente esencial en la industria alimentaria, utilizada en la formulación de bebidas, panificación, confitería y múltiples aplicaciones industriales por su pureza y funcionalidad.
+          </p>
+
+          <a href="Azucar_Refinada.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
    
 
     `
@@ -1289,17 +4404,58 @@ function filtrob(){
     document.getElementById("contenedorliteral").innerHTML = `
     
 
-    <div class="row" style="margin-top:0px"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_BICARBONATO_SODIO_271222.jpg" alt="" class="zoom IMG_Seccion_Prod">
+    <div class="col s12" style="margin-top:50px">
+    <div class="card product-card-pro">
+  
+      <div class="row no-margin row-equal">
+  
+        <!-- IMAGEN -->
+        <div class="col s12 m6 image-container">
+          <img src="img/CB_BICARBONATO_SODIO_271222.jpg" alt="Bicarbonato de Sodio">
+  
+          <!-- SHAPE -->
+          <div class="shape-overlay-bicarbonato"></div>
+  
+          <!-- DOTS -->
+          <div class="dots-pattern">
+            <div></div><div></div><div></div><div></div><div></div>
+            <div></div><div></div><div></div><div></div><div></div>
+            <div></div><div></div><div></div><div></div><div></div>
+            <div></div><div></div><div></div><div></div><div></div>
+          </div>
+        </div>
+  
+        <!-- CONTENIDO -->
+        <div class="col s12 m6 content-container">
+  
+          <div class="product-content">
+  
+            <!-- ICONO -->
+            <div class="top-icon bicarbonato">
+              <i class="fa-solid fa-cubes"></i>
+            </div>
+  
+            <h4>Bicarbonato<br>de Sodio</h4>
+  
+            <div class="divider-custom bicarbonato"></div>
+  
+            <p class="Tipografia--general letranegro General--Cuerpo">
+              El bicarbonato de sodio es un compuesto versátil utilizado en aplicaciones alimentarias, farmacéuticas, limpieza e industriales, destacando por su capacidad reguladora, neutralizante y funcional.
+            </p>
+  
+            <a href="Bicarbonato_Sodio.php" class="btn custom-btn-pro">
+              LEER MÁS
+              <i class="fa-solid fa-arrow-right"></i>
+            </a>
+  
+          </div>
+  
+        </div>
+  
+      </div>
+  
     </div>
-    <div class= "col s12 m12 l12 xl6 columnas_bicarbonato_sodio div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Bicarbonato de Sodio</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Bicarbonato de Sodio</b> es un compuesto sólido cristalino de color blanco soluble en agua, con un ligero sabor alcalino parecido al del carbonato de sodio (menos fuerte y más salado) Se puede encontrar como mineral en la naturaleza o se puede producir artificialmente.  La forma mineral natural es nahcolita. Es un componente del mineral natrón y se encuentra disuelto en muchos manantiales minerales.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Bicarbonato_Sodio.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
+  </div>
 
     `
 }
@@ -1314,17 +4470,58 @@ function filtroc(){
     
     document.getElementById("contenedorliteral").innerHTML = `
     
-    <div class="row" style="margin-top:-8px;">
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_COLLAGEN_280723.jpg" alt="Colágeno Hidrolizado" class="zoom IMG_Seccion_Prod">
+    <div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/CB_COLLAGEN_280723.jpg" alt="Colágeno Hidrolizado">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-colageno"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon colageno">
+            <i class="fa-solid fa-bone"></i>
+          </div>
+
+          <h4>Colágeno<br>Hidrolizado</h4>
+
+          <div class="divider-custom colageno"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El colágeno hidrolizado es un ingrediente funcional utilizado en suplementos alimenticios, alimentos y productos cosméticos, reconocido por sus beneficios en salud articular, piel y bienestar general.
+          </p>
+
+          <a href="Colageno_Hidrolizado.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
     </div>
-    <div class="col s12 m12 l12 xl6 columnas_dextrosas div-textoprod" style="position:relative">
-    <h5 class="Tipografia--general Titulos"><b>Colágeno Hidrolizado</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Colageno Hidrolizado</b> es un producto proteico natural, obtenido por hidrólisis enzimática de material rico en colágeno de origen bovino. Tiene un olor y sabor muy neutro y es adecuado para aplicaciones de mezclas de polvo seco, bebidas, barras, galletas y chicles.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Colageno_Hidrolizado.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
+
+  </div>
+</div>
     `;
     
 }
@@ -1336,32 +4533,58 @@ function filtrod(){
     `
     
     document.getElementById("contenedorliteral").innerHTML = `
-    <div class="row" style="margin-top:0px;">
-    
-    <div class="col s12 m12 l12 xl6 center-align">
-    
-    <img src="img/CB_DEXTROSAS_130323.jpg" alt="" class="zoom IMG_Seccion_Prod">
+    <div class="col s12" style="margin-top:50px">
+    <div class="card product-card-pro">
+  
+      <div class="row no-margin row-equal">
+  
+        <!-- IMAGEN -->
+        <div class="col s12 m6 image-container">
+          <img src="img/CB_DEXTROSAS_130323.jpg" alt="Dextrosas">
+  
+          <!-- SHAPE -->
+          <div class="shape-overlay-dextrosa"></div>
+  
+          <!-- DOTS -->
+          <div class="dots-pattern">
+            <div></div><div></div><div></div><div></div><div></div>
+            <div></div><div></div><div></div><div></div><div></div>
+            <div></div><div></div><div></div><div></div><div></div>
+            <div></div><div></div><div></div><div></div><div></div>
+          </div>
+        </div>
+  
+        <!-- CONTENIDO -->
+        <div class="col s12 m6 content-container">
+  
+          <div class="product-content">
+  
+            <!-- ICONO -->
+            <div class="top-icon dextrosa">
+              <i class="fa-solid fa-bolt"></i>
+            </div>
+  
+            <h4>Dextrosas</h4>
+  
+            <div class="divider-custom dextrosa"></div>
+  
+            <p class="Tipografia--general letranegro General--Cuerpo">
+              Las dextrosas son azúcares simples ampliamente utilizadas en la industria alimentaria y farmacéutica como fuente de energía rápida, mejorador de textura y componente funcional en diversas formulaciones.
+            </p>
+  
+            <a href="Dextrosas.php" class="btn custom-btn-pro">
+              LEER MÁS
+              <i class="fa-solid fa-arrow-right"></i>
+            </a>
+  
+          </div>
+  
+        </div>
+  
+      </div>
+  
     </div>
-    
-    <div class="col s12 m12 l12 xl6 columnas_acidos_grasos  div-textoprod" style="position:relative">
-    <h5 class="Tipografia--general Titulos" ><b>Dextrosas</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Las <b>Dextrosas</b> es un azúcar que se encuentra ampliamente en la naturaleza, por ejemplo, en la miel y muchas frutas. Como componente de la celulosa, el almidón y el glucógeno, se encuentra en todas las plantas y animales y también se conoce como "azúcar de uva" o "azúcar en la sangre".</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Dextrosas.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-    
-    <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_METIL_130223.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_dimetilformamida div-textoprod" style="position:relative">
-    <h5 class="Tipografia--general Titulos"><b>N, N-Dimetilformamida</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La <b>N, N-Dimetilformamida (Dimetilformamida)</b>, comunmente abreviado como DMF, es un compuesto organico, es un liquido incoloro miscible en aguay en la mayoria de componentes organicos.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Dimetilformamida.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
+  </div>
     
     `;
     
@@ -1377,42 +4600,166 @@ function filtroe(){
     document.getElementById("contenedorliteral").innerHTML = `
 
 
-    <div class="row" style="margin-top:0px;"> 
-    <div class="col s12 m12 l12 xl6 center-align" >
-    <img src="img/CB_ESTEARINA_PALMA_281223.png" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Estearina de Palma Alto Hidrogenado RBD</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La <b>Estearina de Palma Refinada, Blanqueada y Desodorizada (RBD)</b> es una grasa vegetal derivada del aceite de palma. La Estearina de Palma RBD es una fracción sólida del aceite de palma RBD, obtenida por fraccionamiento mediante procesos simples de cristalización y separación a temperatura controlada. Las propiedades físicas de la Estearina de Palma RBD difieren ampliamente de las del aceite de palma RBD. La Estearina de Palma RBD está disponible en una gama más amplia de puntos de fusión y valores de yodo. </p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas" style="position:absolute;left:10px;bottom:-30px"><b><a href="Estearina_Palma_Hidrogenado.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
+    <div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/CB_ESTEARINA_PALMA_281223.png" alt="Estearina de Palma Alto Hidrogenado RBD">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-estearina"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon estearina">
+            <i class="fa-solid fa-cube"></i>
+          </div>
+
+          <h4>Estearina de Palma<br>Alto Hidrogenado</h4>
+
+          <div class="divider-custom estearina"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            La estearina de palma alto hidrogenado es una fracción sólida derivada del aceite de palma, utilizada en aplicaciones industriales y alimentarias que requieren estructura, estabilidad y alto punto de fusión.
+          </p>
+
+          <a href="Estearina_Palma_Hidrogenado.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
     </div>
 
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/ESTERES_SORBITAN_140923.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Esteres de Sorbitan </b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Esteres de Sorbitan</b> de la más alta calidad. Con años de experiencia en la industria y un compromiso inquebrantable con la excelencia, estamos aquí para satisfacer tus necesidades en el mercado de emulsionantes y estabilizadores. </p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Esteres_Sorbitan.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
+  </div>
+</div>
+
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/ESTERES_SORBITAN_140923.jpg" alt="Ésteres de Sorbitán">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-sorbitan"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon sorbitan">
+            <i class="fa-solid fa-circle-nodes"></i>
+          </div>
+
+          <h4>Ésteres de<br>Sorbitán</h4>
+
+          <div class="divider-custom sorbitan"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Los ésteres de sorbitán son emulsificantes utilizados en la industria alimentaria, cosmética y farmacéutica para estabilizar mezclas, mejorar texturas y optimizar la integración de fases en formulaciones.
+          </p>
+
+          <a href="Esteres_Sorbitan.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
     </div>
 
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/ESTERES_SORBITAN_ETOXILADOS_290125.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Esteres de Sorbitan Etoxilados</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Ésteres de Sorbitán Etoxilados</b> son un grupo de surfactantes no iónicos derivados del sorbitán (un derivado del sorbitol) que han sido modificados mediante la adición de óxido de etileno. Estos compuestos se utilizan ampliamente en diversas industrias debido a sus propiedades emulsionantes, estabilizantes y dispersantes.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Esteres_Sorbitan_Etoxilados.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
+  </div>
+</diV>
+
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/ESTERES_SORBITAN_ETOXILADOS_290125.jpg" alt="Ésteres de Sorbitán Etoxilados">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-sorbitan-etox"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon sorbitan-etox">
+            <i class="fa-solid fa-atom"></i>
+          </div>
+
+          <h4>Ésteres de Sorbitán<br>Etoxilados</h4>
+
+          <div class="divider-custom sorbitan-etox"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Los ésteres de sorbitán etoxilados son emulsificantes avanzados utilizados en formulaciones cosméticas, farmacéuticas y de limpieza, ofreciendo mayor solubilidad, estabilidad y eficiencia en sistemas complejos.
+          </p>
+
+          <a href="Esteres_Sorbitan_Etoxilados.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
     </div>
 
+  </div>
+</div>
     
 
     `;
@@ -1428,31 +4775,114 @@ function filtrof(){
     `;
     document.getElementById("contenedorliteral").innerHTML = `
     
-    <div class="row" style="margin-top:"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/LOGO_FERRAZONE_100124.jpg" alt="" class="zoom IMG_Seccion_Prod" style="100%">
+    <div class="col s12" style="margin-top:50px">
+    <div class="card product-card-pro">
+  
+      <div class="row no-margin row-equal">
+  
+        <!-- IMAGEN -->
+        <div class="col s12 m6 image-container">
+          <img src="img/LOGO_FERRAZONE_100124.jpg" alt="Ferrazone">
+  
+          <!-- SHAPE -->
+          <div class="shape-overlay-ferrazone"></div>
+  
+          <!-- DOTS -->
+          <div class="dots-pattern">
+            <div></div><div></div><div></div><div></div><div></div>
+            <div></div><div></div><div></div><div></div><div></div>
+            <div></div><div></div><div></div><div></div><div></div>
+            <div></div><div></div><div></div><div></div><div></div>
+          </div>
+        </div>
+  
+        <!-- CONTENIDO -->
+        <div class="col s12 m6 content-container">
+  
+          <div class="product-content">
+  
+            <!-- ICONO -->
+            <div class="top-icon ferrazone">
+              <i class="fa-solid fa-shield-heart"></i>
+            </div>
+  
+            <h4>Ferrazone</h4>
+  
+            <div class="divider-custom ferrazone"></div>
+  
+            <p class="Tipografia--general letranegro General--Cuerpo">
+              Ferrazone es un compuesto utilizado como agente fortificante en aplicaciones alimentarias e industriales, contribuyendo a mejorar el valor nutricional y la funcionalidad de diversas formulaciones.
+            </p>
+  
+            <a href="Ferrazone.php" class="btn custom-btn-pro">
+              LEER MÁS
+              <i class="fa-solid fa-arrow-right"></i>
+            </a>
+  
+          </div>
+  
+        </div>
+  
+      </div>
+  
     </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Ferrazone®</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Ferrazone® (Ácido Etilendiaminotetraacético (EDTA) Férrico y de Sodio)</b> es apto para uso alimentario y ha sido recomendado por la Organización Mundial de la Salud como el único suplemento de hierro adecuado para la fortificación masiva de harinas de cereales con alto contenido de fitatos y también se recomienda para condimentos como salsa de soja y salsa de pescado. Ferrazone® se utiliza en iniciativas de enriquecimiento de alimentos a gran escala en África, América Latina, Asia y Medio Oriente.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Ferrazone.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+  </div>
+  
+  <div class="col s12" style="margin-top:50px">
+    <div class="card product-card-pro">
+  
+      <div class="row no-margin row-equal">
+  
+        <!-- IMAGEN -->
+        <div class="col s12 m6 image-container">
+          <img src="img/ALIMENTOS_FOSFORO_280824.jpg" alt="Fosfatos">
+  
+          <!-- SHAPE -->
+          <div class="shape-overlay-fosfatos"></div>
+  
+          <!-- DOTS -->
+          <div class="dots-pattern">
+            <div></div><div></div><div></div><div></div><div></div>
+            <div></div><div></div><div></div><div></div><div></div>
+            <div></div><div></div><div></div><div></div><div></div>
+            <div></div><div></div><div></div><div></div><div></div>
+          </div>
+        </div>
+  
+        <!-- CONTENIDO -->
+        <div class="col s12 m6 content-container">
+  
+          <div class="product-content">
+  
+            <!-- ICONO -->
+            <div class="top-icon fosfatos">
+              <i class="fa-solid fa-gears"></i>
+            </div>
+  
+            <h4>Fosfatos</h4>
+  
+            <div class="divider-custom fosfatos"></div>
+  
+            <p class="Tipografia--general letranegro General--Cuerpo">
+              Los fosfatos son compuestos ampliamente utilizados en la industria alimentaria, detergentes y procesos industriales, actuando como reguladores, estabilizantes y agentes funcionales en diversas aplicaciones.
+            </p>
+  
+            <a href="Fosfatos.php" class="btn custom-btn-pro">
+              LEER MÁS
+              <i class="fa-solid fa-arrow-right"></i>
+            </a>
+  
+          </div>
+  
+        </div>
+  
+      </div>
+  
     </div>
-    </div>
-
-
-    <div class="row" style="margin-top:150px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/ALIMENTOS_FOSFORO_280824.jpg" alt="" class="zoom IMG_Seccion_Prod" style="100%">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Fosfatos</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Fosfatos</b> son un grupo de sustancias químicas que contienen el ion fosfato, PO₄³⁻. Estos compuestos se derivan del ácido fosfórico (H₃PO₄) y se utilizan en una amplia variedad de aplicaciones. A continuación, se ofrece una descripción detallada de los ingredientes y tipos de Fosfatos, junto con sus usos y funciones:</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Fosfatos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
+  </div>
+  
+  
+  
     `;
 }
 
@@ -1465,37 +4895,112 @@ function filtrog(){
     document.getElementById("contenedorliteral").innerHTML = `
     
     
-    <div class="row"> 
-    <div class = "col s12 m12 l12 xl6 center-align">
-    <img src="img/BANNER_PRINCIPAL.jpg" alt=""  class="zoom IMG_Seccion_Prod">
+    <div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/BANNER_PRINCIPAL.jpg" alt="Glicerina">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-glicerina"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon glicerina">
+            <i class="fa-solid fa-droplet"></i>
+          </div>
+
+          <h4>Glicerina</h4>
+
+          <div class="divider-custom glicerina"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            La glicerina es un compuesto altamente versátil utilizado en las industrias cosmética, farmacéutica y alimentaria como agente humectante, solvente y estabilizante, destacando por su pureza y capacidad de retención de humedad.
+          </p>
+
+          <a href="Glycerins.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
     </div>
 
-    <div class= "col s12 m12 l12 xl6 columnas_glicerinas div-textoprod" style="position:relative">
-    <h5 class="Titulos Tipografia--general"><b>Glicerinas</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La <b>Glicerina</b> de la mas alta Pureza y Calidad para las formulaciones de nuestros clientes.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Hoy en dia nuestra oferta incluye glicerina en cumplimiento a GMP´s, Kosher, Halal, GFSI, FCC, USP, RSPO Mass Balance. </p>
-    
-    <p class="Tipografia--general General--Cuerpo letranegro btn_leerMas"><b><a href="Glycerins.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/GLICOLES_BANNER_140425.jpg" alt="Glicoles">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-glicoles"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon glicoles">
+            <i class="fa-solid fa-vial"></i>
+          </div>
+
+          <h4>Glicoles</h4>
+
+          <div class="divider-custom glicoles"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Los glicoles son compuestos químicos utilizados como solventes, humectantes y agentes funcionales en aplicaciones industriales, farmacéuticas y alimentarias, destacando por su versatilidad y estabilidad.
+          </p>
+
+          <a href="Glycols.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
     </div>
-    
-    
-    
-    </div>
-    
-    <div class="row" style="margin-top:70px">
-    <div class="col s12 m12 l12 xl6 center-align" > 
-    <img src="img/GLICOLES_BANNER_140425.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    
-    <div class="col s12 m12 l12 xl6 columnas_glicoles div-textoprod" style="position:relative">
-    <h5 class="Titulos Tipografia--general"><b>Glicoles</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Glicoles</b> son un tipo de compuestos líquidos densos con sabor dulce y acre, son compuestos químicos orgánicos creados a partir de una estructura de hidrocarburo alifático y dos grupos hidroxilo; grupos -OH) que resultan de la reacción del agua con el óxido de etileno.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Todos los glicoles se presentan en forma de líquido claro, transparente, inodoro y de baja volatilidad. Los glicoles de poco peso molecular son totalmente miscibles en agua y la mayoría cuentan con una gran capacidad para disolverse en casi todos los compuestos orgánicos.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro btn_leerMas"><b><a href="Glycols.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
+
+  </div>
+</div>
+  
     `
 };
 
@@ -1509,7 +5014,7 @@ function filtroh(){
     
     <h5>Bakes</h5>
     <hr style="border:1px solid #b21b27">
-    <p> Los ácidos son un elemento fundamental agentes usados usados por una gran variedad de industrias para remover impurezas y producir fertilizantes, incluso pintura para los ojos</p>
+    <p class="Tipografia--general letranegro General--Cuerpo"> Los ácidos son un elemento fundamental agentes usados usados por una gran variedad de industrias para remover impurezas y producir fertilizantes, incluso pintura para los ojos</p>
     <b><a href="#" style="color:#212637;" class="arrowblue">Leer Mas...</a></b>
     `;
 }
@@ -1523,7 +5028,7 @@ function filtroi(){
     
     <h5>Bakes</h5>
     <hr style="border:1px solid #b21b27">
-    <p> Los ácidos son un elemento fundamental agentes usados usados por una gran variedad de industrias para remover impurezas y producir fertilizantes, incluso pintura para los ojos</p>
+    <p class="Tipografia--general letranegro General--Cuerpo"> Los ácidos son un elemento fundamental agentes usados usados por una gran variedad de industrias para remover impurezas y producir fertilizantes, incluso pintura para los ojos</p>
     <b><a href="#" style="color:#212637;" class="arrowblue">Leer Mas...</a></b>
     `;
 }
@@ -1549,23 +5054,58 @@ function filtroj(){
     document.getElementById("contenedorliteral").innerHTML = `
     
     
-    <div class="row">
-    
-    <div class="col s12 m12 l12 xl6 center-align">
-    
-    <img src="img/CB_JARABE_MAIZ_270223.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    
+    <div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/CB_JARABE_MAIZ_270223.jpg" alt="Jarabe de Maíz">
+
+        <!-- SHAPE -->
+        <div class="shape-overlay-jarabe"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon jarabe">
+            <i class="fa-solid fa-droplet"></i>
+          </div>
+
+          <h4>Jarabe<br>de Maíz</h4>
+
+          <div class="divider-custom jarabe"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El jarabe de maíz es un edulcorante líquido ampliamente utilizado en la industria alimentaria para mejorar textura, dulzor y estabilidad en bebidas, confitería y productos de panificación.
+          </p>
+
+          <a href="Jarabe_Maiz.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
     </div>
-    
-    <div class="col s12 m12 l12 xl6 columnas_jarabe_maiz div-textoprod" style="position:relative">
-    
-    <h5 class="Titulos Tipografia--general"><b>Jarabe de Maíz</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Jarabe de Maíz</b> es un edulcorante líquido, creado a partir del almidón o fécula de maíz.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Con un rango de jarabes carbón-refinados, desmineralizados y de conversión enzimática los ingredientes <span style="color:orange">Clearsweet®</span> Jarabes de Maíz y <span style="color:green">Cleardex®</span> Jarabe de Maíz pueden ayudar a alcanzar la textura justa y sabor característico de sus requerimientos </p>
-    <p class="Tipografia--general Botones btn_leerMas" ><b><a href="Jarabe_Maiz.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
+
+  </div>
+</div>
     `
 }
 
@@ -1579,7 +5119,7 @@ function filtrok(){
     
     <h5>Bakes</h5>
     <hr style="border:1px solid #b21b27">
-    <p> Los ácidos son un elemento fundamental agentes usados usados por una gran variedad de industrias para remover impurezas y producir fertilizantes, incluso pintura para los ojos</p>
+    <p class="Tipografia--general letranegro General--Cuerpo"> Los ácidos son un elemento fundamental agentes usados usados por una gran variedad de industrias para remover impurezas y producir fertilizantes, incluso pintura para los ojos</p>
     <b><a href="#" style="color:#212637;" class="arrowblue">Leer Mas...</a></b>
     `;
 }
@@ -1595,29 +5135,110 @@ function filtrol(){
     document.getElementById("contenedorliteral").innerHTML = `
 
 
-    <div class="row" style="margin-top:0px"> 
-    <div class = "col s12 m12 l12 xl6 center-align">
-    <img src="img/LAURIL-SULFATO-SODIO-94_PICTURE_1_V2.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_lauril_sulfato div-textoprod" style="position:relative">
-    <h5 class="Tipografia--general Titulos"><b>Lauril Sulfato de Sodio 94%</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Lauril Sulfato de Sodio 94%</b> es un alquilsulfato en forma de polvo. El producto pertenece a los tensoactivos de naturaleza aniónica con un alto contenido en sustancia activa de al menos el 94%.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Es un surfactante anionico con alto poder detergente, espumante y humectante. Las características principales de este producto incluyen una excelente capacidad de emulsión, humectabilidad y, lo que es más importante, fuertes propiedades de formación de espuma: este producto produce una espuma alta y muy estable.</p>
-    <p class="Tipografia--general Botones btn_leerMas"><b><a href="Lauril_Sulfato_Sodio-94.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
+    <div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/LAURIL-SULFATO-SODIO-94_PICTURE_1_V2.jpg" alt="Lauril Sulfato de Sodio">
+
+        <!-- SHAPE -->
+        <div class="fa-solid fa-bubbles"></div>
+
+        <!-- DOTS -->
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+
+        <div class="product-content">
+
+          <!-- ICONO -->
+          <div class="top-icon sls">
+            <i class="fa-solid fa-bubbles"></i>
+          </div>
+
+          <h4>Lauril Sulfato<br>de Sodio</h4>
+
+          <div class="divider-custom sls"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El lauril sulfato de sodio (SLS) es un surfactante ampliamente utilizado en detergentes y productos de cuidado personal por su alta capacidad de limpieza, generación de espuma y eficiencia en la remoción de suciedad.
+          </p>
+
+          <a href="Lauril_Sulfato_Sodio-94.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+
+      </div>
+
     </div>
 
-    <div class="row" style="margin-top:70px"> 
-    <div class = "col s12 m12 l12 xl6 center-align" style="margin-top:0px">
-    <img src="img/LECITINAS_4.jpg" alt="" style="width:100%;border-radius:5px">
+  </div>
+</div>
+
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/LECITINAS_4.jpg" alt="Lecitinas">
+
+        <div class="shape-overlay-lecitinas"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+        <div class="product-content">
+
+          <div class="top-icon lecitinas">
+            <i class="fa-solid fa-seedling"></i>
+          </div>
+
+          <h4>Lecitinas</h4>
+
+          <div class="divider-custom lecitinas"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Las lecitinas son emulsificantes de origen natural utilizadas en la industria alimentaria, farmacéutica y de nutrición animal para mejorar la estabilidad, textura e integración de ingredientes.
+          </p>
+
+          <a href="Lecitinas.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+      </div>
+
     </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative">
-    <h5 class="Titulos Tipografia--general" style="margin-top:12px"><b>Lecitinas</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La <b>Lecitina</b> es una sustancia organica abundante en las membranas de las celulas vegetales y animales, especialmente en las del tejido nervioso; se obtiene de las grasas animales, la yema de huevo, algunas semillas y se emplea en la elaboracion de ciertos alimentos, como la margarina o el chocolate tambien se aplica en otras industrias como farmaceutica y cosmetica. </p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Lecitinas.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
+
+  </div>
+</div>
+
+  
+
     `;
 }
 
@@ -1629,18 +5250,55 @@ function filtrom(){
     
     document.getElementById("contenedorliteral").innerHTML = `
 
+    <div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
 
-    <div class="row" style="margin-top:0px"> 
-    <div class = "col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_POPSTART_MALTODEXTRINA_080323.jpg" alt=""  class="zoom IMG_Seccion_Prod">
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/CB_POPSTART_MALTODEXTRINA_080323.jpg" alt="Maltodextrina">
+
+        <div class="shape-overlay-maltodextrina"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+        <div class="product-content">
+
+          <div class="top-icon maltodextrina">
+            <i class="fa-solid fa-layer-group"></i>
+          </div>
+
+          <h4>Maltodextrina</h4>
+
+          <div class="divider-custom maltodextrina"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            La maltodextrina es un carbohidrato utilizado en la industria alimentaria y de suplementos como agente de carga, estabilizante y fuente de energía controlada, mejorando textura y funcionalidad en diversas formulaciones.
+          </p>
+
+          <a href="Maltodextrina.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+      </div>
+
     </div>
-    <div class= "col s12 m12 l12 xl6 columnas_maltodextrina div-textoprod" style="position:relative">
-    <h5 class="Tipografia--general Titulos"><b>Maltrodextrina</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La <b>Maltodextrina</b> es una mezcla de polímeros de glucosa que aparecen como resultado de la hidrolisis del almidón. </p>
-    <p class="Tipografia--general Botones btn_leerMas"><b><a href="Maltodextrina.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
+
+  </div>
+</div>
+
+
     `;
 }
 
@@ -1652,35 +5310,151 @@ function filtron(){
     document.getElementById("contenedorliteral").innerHTML = `
     
     
-    <div class="row"> 
-    <div class = "col s12 m12 l12 xl6 center-align">
-    <img src="img/NITRURO-BORO-FOTO.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_nitruro_boro div-textoprod" style="position:relative">
-    <h5 class="Titulos Tipografia--general Titulos"><b>Nitruro de Boro</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Nitruro de Boro</b> es un compuesto quimico formado por atomos de boro y nitrogeno. Su formula quimica es BN. Este material tiene propiedades interesantes y se utiliza en diversas aplicaciones.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Las soluciones en polvo de Nitruro de Boro fusionan las propiedades clave del Nitruro de Boro Hexagonal (HBN) con una variedad de formas y tamaños de particulas.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Las soluciones em polvo del Nitruro de Boro permiten a nuestros Clientes maximizar los beneficios en una amplia gama de mercados y aplicaciones.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro btn_leerMas"><b><a href="Nitruro_Boro.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    
-    
-    
-    </div>
-    
+    <div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
 
-    <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/N-METHYL_081122.jpg" alt="" class="zoom IMG_Seccion_Prod">
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/CB_METIL_130223.jpg" alt="N,N-Dimetilformamida">
+
+        <div class="shape-overlay-dmf"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+        <div class="product-content">
+
+          <div class="top-icon dmf">
+            <i class="fa-solid fa-flask"></i>
+          </div>
+
+          <h4>N,N-Dimetilformamida</h4>
+
+          <div class="divider-custom dmf"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            La N,N-dimetilformamida (DMF) es un solvente polar ampliamente utilizado en procesos químicos, farmacéuticos y de polímeros, destacando por su alta capacidad de disolución y estabilidad en aplicaciones industriales exigentes.
+          </p>
+
+          <a href="Dimetilformamida.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+      </div>
+
     </div>
-    <div class= "col s12 m12 l12 xl6 columnas_metilpirrolidona div-textoprod" style="position:relative">
-    <h5 class="Tipografia--general Titulos"><b>N-Metilpirrolidona</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La <b>N-Metilpirrolidona</b> es un disolvente organico aprotico altamente polar con un contenido reducido de aminas libres y un bajo contenido de agua, se utiliza principalmente en la industria farmaceutica en la sistensis de péptidos y para que los fabricantes de membranas proporcionen altos rendimientos, alta eficiencia y mayores tasas de reciclaje que los grados convencionales.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="N-Metilpirrolidona.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+
+  </div>
+</div>
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/NITRURO-BORO-FOTO.jpg" alt="Nitruro de Boro">
+
+        <div class="shape-overlay-bn"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+        <div class="product-content">
+
+          <div class="top-icon bn">
+            <i class="fa-solid fa-microchip"></i>
+          </div>
+
+          <h4>Nitruro de Boro</h4>
+
+          <div class="divider-custom bn"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El nitruro de boro es un material avanzado utilizado en aplicaciones industriales de alto desempeño, destacando por su resistencia térmica, propiedades dieléctricas y capacidad como lubricante sólido en entornos exigentes.
+          </p>
+
+          <a href="Nitruro_Boro.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+      </div>
+
     </div>
+
+  </div>
+</div>
+
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/N-METHYL_081122.jpg" alt="N-Metilpirrolidona">
+
+        <div class="shape-overlay-nmp"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+        <div class="product-content">
+
+          <div class="top-icon nmp">
+            <i class="fa-solid fa-flask"></i>
+          </div>
+
+          <h4>N-Metilpirrolidona</h4>
+
+          <div class="divider-custom nmp"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            La N-metilpirrolidona (NMP) es un solvente polar de alto desempeño utilizado en aplicaciones industriales como recubrimientos, limpieza técnica y procesos químicos, destacando por su alta capacidad de disolución.
+          </p>
+
+          <a href="N-Metilpirrolidona.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+      </div>
+
     </div>
+
+  </div>
+</div>
+
 
     `
 }
@@ -1694,7 +5468,7 @@ function filtroo(){
     
     <h5>Bakes</h5>
     <hr style="border:1px solid #b21b27">
-    <p> Los ácidos son un elemento fundamental agentes usados usados por una gran variedad de industrias para remover impurezas y producir fertilizantes, incluso pintura para los ojos</p>
+    <p class="Tipografia--general letranegro General--Cuerpo"> Los ácidos son un elemento fundamental agentes usados usados por una gran variedad de industrias para remover impurezas y producir fertilizantes, incluso pintura para los ojos</p>
     <b><a href="#" style="color:#212637;" class="arrowblue">Leer Mas...</a></b>
     `;
 }
@@ -1707,32 +5481,101 @@ function filtrop(){
     document.getElementById("contenedorliteral").innerHTML = `
     
     
-    <div class="row"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_PASTA_SOYA_280223.jpg" alt="" class="zoom IMG_Seccion_Prod">
+    <div class="col s12" style="margin-top:50px">
+    <div class="card product-card-pro">
+  
+      <div class="row no-margin row-equal">
+  
+        <!-- IMAGEN -->
+        <div class="col s12 m6 image-container">
+          <img src="img/CB_PASTA_SOYA_280223.jpg" alt="Pasta de Soya">
+  
+          <div class="shape-overlay-soya"></div>
+  
+          <div class="dots-pattern">
+            <div></div><div></div><div></div><div></div><div></div>
+            <div></div><div></div><div></div><div></div><div></div>
+            <div></div><div></div><div></div><div></div><div></div>
+            <div></div><div></div><div></div><div></div><div></div>
+          </div>
+        </div>
+  
+        <!-- CONTENIDO -->
+        <div class="col s12 m6 content-container">
+          <div class="product-content">
+  
+            <div class="top-icon soya">
+              <i class="fa-solid fa-wheat-awn"></i>
+            </div>
+  
+            <h4>Pasta de Soya</h4>
+  
+            <div class="divider-custom soya"></div>
+  
+            <p class="Tipografia--general letranegro General--Cuerpo">
+              La pasta de soya es una fuente de proteína vegetal ampliamente utilizada en la nutrición animal, destacando por su alto valor nutricional y su papel clave en la formulación de alimentos balanceados.
+            </p>
+  
+            <a href="Pasta_Soya.php" class="btn custom-btn-pro">
+              LEER MÁS
+              <i class="fa-solid fa-arrow-right"></i>
+            </a>
+  
+          </div>
+        </div>
+  
+      </div>
+  
     </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative">
-    <h5 class="Tipografia--general Titulos"><b>Pasta de Soya</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">La <b>Pasta de Soya</b> es la fuente de proteína más importante utilizada en la alimentación humana y del ganado. La pasta de soya es la fuente natural más concentrada de proteína, aminoácidos y energía. Debido a esto en la actualidad es el ingrediente más utilizado por nutriólogos en la elaboración de alimentos balanceados para cualquier tipo de animal.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Pasta_Soya.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+  </div>
+  
+  <div class="col s12" style="margin-top:50px">
+    <div class="card product-card-pro">
+  
+      <div class="row no-margin row-equal">
+  
+        <!-- IMAGEN -->
+        <div class="col s12 m6 image-container">
+          <img src="img/MANZANA_VERDE_141222.jpg" alt="Pectinas">
+  
+          <div class="shape-overlay-pectinas"></div>
+  
+          <div class="dots-pattern">
+            <div></div><div></div><div></div><div></div><div></div>
+            <div></div><div></div><div></div><div></div><div></div>
+            <div></div><div></div><div></div><div></div><div></div>
+            <div></div><div></div><div></div><div></div><div></div>
+          </div>
+        </div>
+  
+        <!-- CONTENIDO -->
+        <div class="col s12 m6 content-container">
+          <div class="product-content">
+  
+            <div class="top-icon pectinas">
+              <i class="fa-solid fa-apple-whole"></i>
+            </div>
+  
+            <h4>Pectinas</h4>
+  
+            <div class="divider-custom pectinas"></div>
+  
+            <p class="Tipografia--general letranegro General--Cuerpo">
+              Las pectinas son agentes gelificantes de origen natural ampliamente utilizados en la industria alimentaria para mejorar la textura, estabilidad y consistencia en productos como mermeladas, bebidas y confitería.
+            </p>
+  
+            <a href="Pectinas.php" class="btn custom-btn-pro">
+              LEER MÁS
+              <i class="fa-solid fa-arrow-right"></i>
+            </a>
+  
+          </div>
+        </div>
+  
+      </div>
+  
     </div>
-    </div>
-    
-    <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/MANZANA_VERDE_141222.jpg" alt="" class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 " style="margin-top:-32px">
-    <h5 class="Tipografia--general Titulos"><b>Pectinas</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Las <b>Pectinas</b> son una mezcla de polimeros ácidos y neutros muy ramificados.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Las Pectinas son hidrocoloides solubles en agua con funciones gelificantes y espesantes.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Las Pectinas tambien proporcionan superficies cargadas que regulan el pH y el balance ionico.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">La Pectina contiene principalmente ácidos galacturonicosparcialmente metoxilados. La pectina, un ingrediente versátil para texturas innovadoras La pectina es un ingrediente y un componente natural de las plantas. La pectina se encuentra en muchas frutas, pero es especialmente abundante en las manzanas y los cítricos. La pectina de la fruta está asociada a la celulosa en los tejidos vegetales, donde juega un papel fundamental en la determinación de sus propiedades mecánicas.</p>
-    <p class="Tipografia--general Botones letranegro Leerpectina"><b><a href="Pectinas.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
+  </div>
     
 
     `
@@ -1748,7 +5591,7 @@ function filtroq(){
     
     <h5>Bakes</h5>
     <hr style="border:1px solid #b21b27">
-    <p> Los ácidos son un elemento fundamental agentes usados usados por una gran variedad de industrias para remover impurezas y producir fertilizantes, incluso pintura para los ojos</p>
+    <p class="Tipografia--general letranegro General--Cuerpo"> Los ácidos son un elemento fundamental agentes usados usados por una gran variedad de industrias para remover impurezas y producir fertilizantes, incluso pintura para los ojos</p>
     <b><a href="#" style="color:#212637;" class="arrowblue">Leer Mas...</a></b>
     `;
 }
@@ -1762,7 +5605,7 @@ function filtror(){
     
     <h5>Bakes</h5>
     <hr style="border:1px solid #b21b27">
-    <p> Los ácidos son un elemento fundamental agentes usados usados por una gran variedad de industrias para remover impurezas y producir fertilizantes, incluso pintura para los ojos</p>
+    <p class="Tipografia--general letranegro General--Cuerpo"> Los ácidos son un elemento fundamental agentes usados usados por una gran variedad de industrias para remover impurezas y producir fertilizantes, incluso pintura para los ojos</p>
     <b><a href="#" style="color:#212637;" class="arrowblue">Leer Mas...</a></b>
     `;
 }
@@ -1779,49 +5622,151 @@ function filtros(){
 
 
 
-    
-    <div class="row" style="margin-top:0px"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img//CB_SEBO_ALTO_HIDROGENADO.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Sebo Alto Hidrogenado</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Sebo Alto Hidrogenado (HFTA)</b>,por sus siglas en ingles, es conocido por su notable versatilidad, lo que lo convierte en un aditivo común en una amplia gama de productos. El ácido graso de sebo hidrogenado (HFTA) se utiliza como intermediario en lubricantes y aceites para laminación, como emoliente en productos para el cuidado personal y como emulsionante en una variedad de aplicaciones.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas" style="position:absolute;left:10px;bottom:-30px"><b><a href="Sebo_Alto_Hidrogeno.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
+    <div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/CB_SEBO_ALTO_HIDROGENADO.jpg" alt="Sebo Alto Hidrogenado">
+
+        <div class="shape-overlay-sebo"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+        <div class="product-content">
+
+          <div class="top-icon sebo">
+            <i class="fa-solid fa-cube"></i>
+          </div>
+
+          <h4>Sebo Alto<br>Hidrogenado</h4>
+
+          <div class="divider-custom sebo"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El sebo alto hidrogenado es una grasa sólida de origen animal utilizada en aplicaciones industriales como la fabricación de jabones, velas y otros productos que requieren estabilidad y alto punto de fusión.
+          </p>
+
+          <a href="Sebo_Alto_Hidrogeno.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+      </div>
+
     </div>
 
-  
-
-    <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/pasta-dientes-fluor.jpg" alt=""  class="zoom IMG_Seccion_Prod">
-    </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative">
-    <h5 class="Tipografia--general Titulos"><b>Sorbitoles</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>Sorbitol</b> es un polialcohol, alcohol polihidrico alditol de azucar, industrialmente se obtiene por reduccion mediante hidrogenacion catalítica del monosacárido mas comun, “la glucosa”. </p>
-    <p class="Tipografia--general General--Cuerpo letranegro">En la naturaleza el sorbitol es uno de los tres glucidos (sacarosa, almidon y sorbitol), principales producidos por la fotosintesis en las hojas adultas de ciertas plantas de la familia Rosaceae y Plantaginaceae, se ecuentran en cantidades apreciables en algas rojas, peras, manzanas, cerezas, duraznos.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="Sorbitoles.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
+  </div>
+</div>
 
 
-    <div class="row" style="margin-top:150px"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_Sulfosuccionatos.jpg" alt=""  class="zoom IMG_Seccion_Prod">
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/pasta-dientes-fluor.jpg" alt="Sorbitol">
+
+        <div class="shape-overlay-sorbitol"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+        <div class="product-content">
+
+          <div class="top-icon sorbitol">
+            <i class="fa-solid fa-leaf"></i>
+          </div>
+
+          <h4>Sorbitol</h4>
+
+          <div class="divider-custom sorbitol"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            El sorbitol es un poliol utilizado como edulcorante y agente humectante en la industria alimentaria, farmacéutica y de cuidado personal, destacando por su estabilidad y funcionalidad en diversas formulaciones.
+          </p>
+
+          <a href="Sorbitoles.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+      </div>
+
     </div>
-    <div class= "col s12 m12 l12 xl6 columnas_sorbitoles div-textoprod" style="position:relative">
-    <h5 class="Tipografia--general Titulos"><b>Sulfosuccinatos</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Sulfossucinatos</b> son una clase de surfactantes aniónicos utilizados en una variedad de aplicaciones industriales y de cuidado personal. Estos compuestos se derivan del acido succínico y se caracterizan por tener grupos sulfonato como grupos funcionales principales.</p>
-    <p class="Tipografia--general General--Cuerpo letranegro">Introducimos nuestros sulfosuccinatos de alta calidad, agentes tensoactivos de ultima generación diseñados para ofrecer resultados superiores en una amplia gama de aplicaciones industriales y de cuidado personal.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas" style="position:absolute:left:10px;bottom:-30px"><b><a href="Sulfosuccinatos.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
+
+  </div>
+</div>
+
+
+<div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/CB_Sulfosuccionatos.jpg" alt="Sulfosuccinatos">
+
+        <div class="shape-overlay-sulfo"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+        <div class="product-content">
+
+          <div class="top-icon sulfo">
+            <i class="fa-solid fa-droplet"></i>
+          </div>
+
+          <h4>Sulfosuccinatos</h4>
+
+          <div class="divider-custom sulfo"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Los sulfosuccinatos son surfactantes suaves utilizados en formulaciones de cuidado personal y limpieza, destacando por su alta capacidad de humectación y su desempeño en sistemas delicados.
+          </p>
+
+          <a href="Sulfosuccinatos.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+      </div>
+
     </div>
-    </div>
-    
-    
+
+  </div>
+</div>
     `;
     
     
@@ -1838,19 +5783,55 @@ function filtrot(){
     
     document.getElementById("contenedorliteral").innerHTML = `
     
-    <div class="row" style="margin-top:0px"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img//BANNER_PRINCIPAL_TCM.jpg" alt=""  class="zoom IMG_Seccion_Prod">
+    <div class="col s12" style="margin-top:50px">
+  <div class="card product-card-pro">
+
+    <div class="row no-margin row-equal">
+
+      <!-- IMAGEN -->
+      <div class="col s12 m6 image-container">
+        <img src="img/BANNER_PRINCIPAL_TCM.jpg" alt="Triglicéridos de Cadena Media">
+
+        <div class="shape-overlay-mct"></div>
+
+        <div class="dots-pattern">
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div><div></div>
+        </div>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="col s12 m6 content-container">
+        <div class="product-content">
+
+          <div class="top-icon mct">
+            <i class="fa-solid fa-bolt"></i>
+          </div>
+
+          <h4>Triglicéridos de<br>Cadena Media</h4>
+
+          <div class="divider-custom mct"></div>
+
+          <p class="Tipografia--general letranegro General--Cuerpo">
+            Los triglicéridos de cadena media (MCT) son lípidos utilizados en alimentos funcionales, suplementos y aplicaciones farmacéuticas por su rápida absorción, eficiencia energética y alta pureza.
+          </p>
+
+          <a href="Trigliceridos_Cadena_Media.php" class="btn custom-btn-pro">
+            LEER MÁS
+            <i class="fa-solid fa-arrow-right"></i>
+          </a>
+
+        </div>
+      </div>
+
     </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos"><b>Trigliceridos de Cadena Media</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">Los <b>Triglicéridos de cadena media</b> (TCM) son un tipo de grasa compuesta por ácidos grasos con una longitud de cadena media (entre 6 y 12 átomos de carbono). A diferencia de los Triglicéridos de cadena larga (TCL), los TCM se digieren y absorben más fácilmente, lo que los hace una fuente rápida de energía.</p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas" style="position:absolute;left:10px;bottom:-30px"><b><a href="Trigliceridos_Cadena_Media.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-    
-    
+
+  </div>
+</div>
+  
+  
     
     `;
     
@@ -2105,21 +6086,53 @@ function filtro2(){
     `
     document.getElementById("contenedorliteral").innerHTML = `
 
-    <div class="row" style="margin-top:-10px;"> 
-    <div class="col s12 m12 l12 xl6 center-align">
-    <img src="img/CB_2_ETHYLHEXANOL_050923.jpg" alt="" class="zoom IMG_Seccion_Prod">
+    <div class="col s12" style="margin-top:50px">
+    <div class="card product-card-pro">
+  
+      <div class="row no-margin row-equal">
+  
+        <!-- IMAGEN -->
+        <div class="col s12 m6 image-container">
+          <img src="img/CB_2_ETHYLHEXANOL_050923.jpg" alt="2-Etilhexanol">
+  
+          <div class="shape-overlay-2eh"></div>
+  
+          <div class="dots-pattern">
+            <div></div><div></div><div></div><div></div><div></div>
+            <div></div><div></div><div></div><div></div><div></div>
+            <div></div><div></div><div></div><div></div><div></div>
+            <div></div><div></div><div></div><div></div><div></div>
+          </div>
+        </div>
+  
+        <!-- CONTENIDO -->
+        <div class="col s12 m6 content-container">
+          <div class="product-content">
+  
+            <div class="top-icon eh">
+              <i class="fa-solid fa-industry"></i>
+            </div>
+  
+            <h4>2-Etilhexanol</h4>
+  
+            <div class="divider-custom eh"></div>
+  
+            <p class="Tipografia--general letranegro General--Cuerpo">
+              El 2-etilhexanol es un alcohol utilizado como intermediario químico en la producción de plastificantes, recubrimientos y solventes industriales, siendo clave en aplicaciones como PVC, pinturas y adhesivos.
+            </p>
+  
+            <a href="2-Etilhexanol.php" class="btn custom-btn-pro">
+              LEER MÁS
+              <i class="fa-solid fa-arrow-right"></i>
+            </a>
+  
+          </div>
+        </div>
+  
+      </div>
+  
     </div>
-    <div class= "col s12 m12 l12 xl6 columnas_acidos_grasos div-textoprod" style="position:relative;">
-    <h5 class="Tipografia--general Titulos aceite_1024"><b>2-Etilhexanol</b></h5>
-    <hr style="border:1px solid #b21b27">
-    <p class="Tipografia--general General--Cuerpo letranegro">El <b>2-etilhexanol (abreviado 2-EH)</b> es un alcohol graso ramificado, un compuesto orgánico de ocho átomos de carbono con un grupo alcohol. Es un líquido incoloro que es poco soluble en agua, pero soluble en la mayoría de los disolventes orgánicos. </p>
-    <p class="Tipografia--general Botones letranegro btn_leerMas"><b><a href="2-Etilhexanol.php" style="color:#212637;" class="Botones arrowblue">Leer Mas...</a></b></p>
-    </div>
-    </div>
-
-    
-
- 
+  </div>
 
     
     

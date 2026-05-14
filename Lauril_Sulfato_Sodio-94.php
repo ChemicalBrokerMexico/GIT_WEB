@@ -652,7 +652,7 @@
         <div class="row">
             <div class="col s12 m12 l12 xl12">
 
-            <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Lauril_Sulfato_Sodio-94.php"><b class="Tipografia--general Subtitulos" style="color:black;"></b></a><a class="active" href="Lauril_Sulfato_Sodio-94.php"><b class="Tipografia--general Subtitulos" style="color:red;">Lauril Sulfato de Sodio 94%</b></a></section>
+            <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Inicio&nbsp>&nbsp </b></a><a href="Products_news.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Productos&nbsp>&nbsp </b></a><a class="active" href="Lauril_Sulfato_Sodio-94.php"><b class="Tipografia--general Subtitulos" style="color:black;"></b></a><a class="active" href="Lauril_Sulfato_Sodio-94.php"><b class="Tipografia--general Subtitulos" style="color:red;">Lauril Sulfato de Sodio 94%</b></a></section>
                 <!-- <h5 class="Tipografia--general letranegro Titulos"><b>Lauril
                         Sulfato de Sodio 94%</b></h5> -->
                 <p class="Tipografia--general letranegro General--Cuerpo"><b style="color:#071637;">El Lauril Sulfato de Sodio 94%</b> es un

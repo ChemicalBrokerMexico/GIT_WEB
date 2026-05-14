@@ -643,8 +643,8 @@
         <div class="row bread_mobile">
             <div class="col s12 m12 l12 xl12">
                 <section class="breditem--inicio"><a class="breditem active" href="index.php"
-                        style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
-                        href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b>
+                        style="color:#262137 !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos"> > &nbsp</b></a><a class="breditem active"
+                        href="Productos_news.php" style="color:#262137 !important;margin-left:-2px"><b class="Tipografia--general Subtitulos">Productos</b><b>
                             >
                             &nbsp</b><a class="breditem active" href="Pasta_Soya.php"
                             style="color:red !important;margin-left:-2px"><b

@@ -593,7 +593,7 @@
     <div class="row">
         <div class="col s12 m12 l12 xl12">
 
-        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Products_news.php"><b class="Tipografia--general Subtitulos" style="color:black;">Productos > </b></a><a class="active" href="Esteres_Sorbitan_Etoxilados.php"><b class="Tipografia--general Subtitulos" style="color:red;">Esteres de Sorbitan Etoxilados | Tensoactivos No Ionicos</b></a></section>
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Inicio&nbsp>&nbsp </b></a><a class="active" href="Products_news.php"><b class="Tipografia--general Subtitulos" style="color:black;">Productos > </b></a><a class="active" href="Esteres_Sorbitan_Etoxilados.php"><b class="Tipografia--general Subtitulos" style="color:red;">Esteres de Sorbitan Etoxilados | Tensoactivos No Ionicos</b></a></section>
 
        
         <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Esteres de Sorbitan Etoxilados | Tensoactivos No Iónicos</b></h2>

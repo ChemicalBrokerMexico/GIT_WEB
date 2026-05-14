@@ -5,6 +5,10 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
 <meta name="description" content="Soluciones químicas para la industria cárnica: aditivos, antioxidantes, sales funcionales y mejoradores para procesos de embutidos, curados y productos frescos. Suministro confiable.">
 <link rel="canonical" href="https://chemicalbroker.mx/Carnicos.php">
+    <!-- Material Icons (por si los usas en otros lados) -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<!-- Font Awesome (ICONOS PRO) -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 <title>Chemical Broker | Carnicos | Proveedor Global y Nacional de Ingredientes Quimicos para la Industria Alimentaria.</title>
 <link rel="shortcut icon" href="img/CB_ICON.ico" />
 
@@ -482,75 +486,178 @@
 </div>
 </div>
 <div class="container">
-<div class="row center-align">
-<div class="col s12 m12 l6 xl6 mercados zoom"><a href="Vacuno.php" style="cursor:pointer;">
-<div class="contenedor">
-<div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
-<div class="centrado_sub" style="position:absolute;z-index:2">
-<h5 class="titulo_submercado"><b class="titulo_submercado">Vacuno </b><b> </b>
-<hr class="animacion"/>
-<p> <b style="color:white !important">
-<p class="leer_mas_mercados"> Leer Mas</p></b></p>
-</h5>
-</div><img class="mercadosimagen " src="img/CB_BOVINE_200521.jpeg" alt="" style="border-radius: 10px;"/>
-</div></a></div>
-<div class="col s12 m12 l6 xl6 mercados zoom"><a href="Porcino.php" style="cursor:pointer;">
-<div class="contenedor">
-<div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
-<div class="centrado_sub" style="position:absolute;z-index:2">
-<h5 class="titulo_submercado"><b class="titulo_submercado">Porcino</b>
-<hr class="animacion"/>
-<p> <b style="color:white !important">
-<p class="leer_mas_mercados"> Leer Mas</p></b></p>
-</h5>
-</div><img class="mercadosimagen " src="img/CB_PORCINE_200521.jpg" alt="" style="border-radius: 10px;"/>
-</div></a></div>
+<div class="row">
 
+ <!-- CARD 1 -->
+ <div class="col s12 m6">
+  <div class="card custom-card card-alimentaria">
 
-<!-- <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Equino.php" style="cursor:pointer;">
-<div class="contenedor">
-<div class="transfo" id="overlayalimentos"></div>
-<div class="centrado_sub" style="position:absolute;z-index:2">
-<h5 class="titulomercado"><b class="titulomercado">Equino</b><b> </b>
-<hr class="animacion"/>
-<p> <b style="color:white !important">
-<p class="leer_mas_mercados"> Leer Mas</p></b></p>
-</h5>
-</div><img class="mercadosimagen " src="img/CB_EQUINE_200521.jpg" alt=""/>
-</div></a></div> -->
-<div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Aves_Corral.php" style="cursor:pointer;">
+    <div class="card-image custom-image-container">
 
-<div class="contenedor">
-<div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
-<div class="centrado_sub" style="position:absolute;z-index:2">
-<h5 class="titulo_submercado"><b class="titulo_submercado">Aves<br>de<br>Corral</b>
-<hr class="animacion"/>
-<p> <b style="color:white !important">
-<p class="leer_mas_mercados"> Leer Mas</p></b></p>
-</h5>
-</div><img class="mercadosimagen " src="img/CB_AVES_200521.jpeg" alt="" style="border-radius: 10px;"/>
-</div>
-</a>
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/CB_BOVINE_200521.jpeg" alt="" />
 
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-alimentos"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-utensils"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Vacuno</h5>
+        <p>Ingredientes y soluciones para la industria alimentaria y de nutrición.</p>
+
+        <a href="Vacuno.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
 </div>
 
 
-<div class="col s12 m12 l6 xl6 mercados zoom columna3"><a href="Pescados.php" style="cursor:pointer;">
 
-<div class="contenedor">
-<div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
-<div class="centrado_sub" style="position:absolute;z-index:2">
-<h5 class="titulo_submercado"><b class="titulo_submercado">Pescados</b><b> </b>
-<hr class="animacion"/>
-<p> <b style="color:white !important">
-<p class="leer_mas_mercados"> Leer Mas</p></b></p>
-</h5>
-</div><img class="mercadosimagen " src="img/CB_FISH_200521.jpg" alt="" style="border-radius: 10px;"/>
-</div>
-</a>
+ <!-- CARD 2 -->
+ <div class="col s12 m6">
+  <div class="card custom-card card-alimentaria">
 
+    <div class="card-image custom-image-container">
+
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/CB_PORCINE_200521.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-alimentos"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-utensils"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Porcino</h5>
+        <p>Ingredientes y soluciones para la industria alimentaria y de nutrición.</p>
+
+        <a href="Porcino.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
 </div>
+
+
+ <!-- CARD 1 -->
+ <div class="col s12 m6">
+  <div class="card custom-card card-alimentaria">
+
+    <div class="card-image custom-image-container">
+
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/CB_AVES_200521.jpeg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-alimentos"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-utensils"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Aves de Corral</h5>
+        <p>Ingredientes y soluciones para la industria alimentaria y de nutrición.</p>
+
+        <a href="Aves_Corral.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
 </div>
+
+
+ <!-- CARD 1 -->
+ <div class="col s12 m6">
+  <div class="card custom-card card-alimentaria">
+
+    <div class="card-image custom-image-container">
+
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/CB_FISH_200521.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-alimentos"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-utensils"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Pescados</h5>
+        <p>Ingredientes y soluciones para la industria alimentaria y de nutrición.</p>
+
+        <a href="Pescados.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+
 </div>
 
 </div>

@@ -561,8 +561,8 @@
     <div class="row bread_mobile">
       <div class="col s12 m12 l12 xl12">
         <section class="breditem--inicio" style="width:350px;"><a class="breditem active" href="index.php"
-            style="color:#262137 !important"><b>Inicio&nbsp</b><b> > &nbsp</b></a><a class="breditem active"
-            href="Bicar-Pharma-API.php" style="color:#262137 !important;margin-left:-2px"><b>Productos</b><b> >
+            style="color:#262137 !important"><b class="Subtitulos Tipografia--general">Inicio&nbsp</b><b class="Subtitulos Tipografia--general"> > &nbsp</b></a><a class="breditem active"
+            href="Bicar-Pharma-API.php" style="color:#262137 !important;margin-left:-2px"><b class="Subtitulos Tipografia--general">Productos</b><b> >
               &nbsp</b><a class="breditem active" href="Bicarbonato_Sodio.php"
               style="color:red !important;margin-left:-2px;"><b
                 class="Tipografia--general Subtitulos">Bicar-Pharma-API</b></a></section>

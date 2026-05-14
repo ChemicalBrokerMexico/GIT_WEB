@@ -561,7 +561,7 @@
 
   <div class="row">
     <div class="col s12 m12 l12 xl12">
-    <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a href="index.php" style="color:black !important;"><b>Productos&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Sulfosuccionatos</b></a></section>
+    <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Inicio&nbsp>&nbsp </b></a><a href="index.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Productos&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Sulfosuccionatos</b></a></section>
     </div>
   </div>
 

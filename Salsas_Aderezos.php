@@ -7,6 +7,10 @@
     <meta name="description" content="Compra ingredientes para salsas y aderezos: aditivos de grado alimenticio que mejoran textura, sabor y conservación."> 
     <link rel="canonical" href="https://chemicalbroker.mx/Salsas_Aderezos.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
+           <!-- Material Icons (por si los usas en otros lados) -->
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<!-- Font Awesome (ICONOS PRO) -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
@@ -402,56 +406,214 @@
     </div>
     <div class="container">
       <div class="row center-align">
-        <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Guacamole.php" style="cursor:pointer;">
-            <div class="contenedor">
-              <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
-              <div class="centrado_sub" style="position:absolute;z-index:2">
-                <h5 class="titulo_submercado"><b class="titulo_submercado">Guacamole</b><b> </b>
-                  <hr class="animacion"/>
-                  <p> <b style="color:white !important">
-                      <p class="leer_mas_mercados">Leer Mas</p></b></p>
-                </h5>
-              </div><img class="mercadosimagen " src="img/CB_GUACAMOLE.jpeg" alt="" style="border-radius: 10px;"/>
-            </div></a></div>
-            <div class="col s12 m12 l6 xl6 mercados zoom"><a href="Salsas.php" style="cursor:pointer;">
-            <div class="contenedor">
-              <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
-              <div class="centrado_sub" style="position:absolute;z-index:2">
-                <h5 class="titulo_submercado"><b class="titulo_submercado">Salsas</b><b> </b>
-                  <hr class="animacion"/>
-                  <p> <b style="color:white !important">
-                      <p class="leer_mas_mercados"> Leer Mas</p></b></p>
-                </h5>
-              </div><img class="mercadosimagen " src="img/CB_SALSAS.jpg" alt="" style="border-radius: 10px;"/>
-            </div></a></div>
-   
-       
-       
-            <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="aderezos.php" style="cursor:pointer;">
-            
-            <div class="contenedor">
-            <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
-            <div class="centrado_sub" style="position:absolute;z-index:2">
-              <h5 class="titulo_submercado"><b class="titulo_submercado">Aderezos</b>
-                <hr class="animacion"/>
-                <p> <b style="color:white !important">
-                    <p class="leer_mas_mercados">Leer Mas</p></b></p>
-              </h5>
-            </div><img class="mercadosimagen " src="img/CB_DRESSEDS_180621.jpg" alt="" style="border-radius: 10px;"/>
-          </div>
-          </a>
 
-            </div>
-            <div class="col s12 m12 l6 xl6 mercados zoom columna2"><a href="Consomes.php" style="cursor:pointer;">
-            <div class="contenedor">
-            <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
-            <div class="centrado_sub" style="position:absolute;z-index:2">
-              <h5 class="titulo_submercado"><b class="titulo_submercado">Consomes</b>
-                <hr class="animacion"/>
-                <p> <b style="color:white !important">
-                    <p class="leer_mas_mercados">Leer Mas</p></b></p>
-              </h5>
-            </div><img class="mercadosimagen " src="img/CB_CHICKEN_SOUP_180621.jpg" alt="" style="border-radius: 10px;"/>
+
+      <!-- CARD 1 -->
+<div class="col s12 m6">
+  <div class="card custom-card card-alimentaria">
+
+    <div class="card-image custom-image-container">
+
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/CB_GUACAMOLE.jpeg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-alimentos"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-utensils"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Guacamole</h5>
+        <p>Ingredientes y soluciones para la industria alimentaria y de nutrición.</p>
+
+        <a href="Guacamole.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<!-- CARD 1 -->
+<div class="col s12 m6">
+  <div class="card custom-card card-alimentaria">
+
+    <div class="card-image custom-image-container">
+
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/CB_SALSAS.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-alimentos"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-utensils"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Salsas</h5>
+        <p>Ingredientes y soluciones para la industria alimentaria y de nutrición.</p>
+
+        <a href="Salsas.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<!-- CARD 1 -->
+<div class="col s12 m6">
+  <div class="card custom-card card-alimentaria">
+
+    <div class="card-image custom-image-container">
+
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/CB_DRESSEDS_180621.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-alimentos"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-utensils"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Aderezos</h5>
+        <p>Ingredientes y soluciones para la industria alimentaria y de nutrición.</p>
+
+        <a href="aderezos.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<!-- CARD 1 -->
+<div class="col s12 m6">
+  <div class="card custom-card card-alimentaria">
+
+    <div class="card-image custom-image-container">
+
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/CB_CHICKEN_SOUP_180621.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-alimentos"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-utensils"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Consomes</h5>
+        <p>Ingredientes y soluciones para la industria alimentaria y de nutrición.</p>
+
+        <a href="Consomes.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<!-- CARD 1 -->
+<div class="col s12 m6">
+  <div class="card custom-card card-alimentaria">
+
+    <div class="card-image custom-image-container">
+
+      <!-- VIDEO -->
+      <img class="mercadosimagen" src="img/CB_SASONADORES_180621.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-alimentos"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+        <i class="fa-solid fa-utensils"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Sazonadores</h5>
+        <p>Ingredientes y soluciones para la industria alimentaria y de nutrición.</p>
+
+        <a href="Sazonadores.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+     
           </div>
 
             </div>
@@ -489,22 +651,7 @@
             </div>
         -->
            
-           <div class="col s12 m12 l6 xl6 mercados zoom columna4"><a href="Sazonadores.php" style="cursor:pointer;">
-           
-           <div class="contenedor">
-           <div class="transfo" id="overlayalimentos" style="border-radius: 10px;"></div>
-           <div class="centrado_sub" style="position:absolute;z-index:2">
-             <h5 class="titulo_submercado"><b class="titulo_submercado">Sazonadores</b>
-               <hr class="animacion"/>
-               <p> <b style="color:white !important">
-                   <p class="leer_mas_mercados">Leer Mas</p></b></p>
-             </h5>
-           </div><img class="mercadosimagen " src="img/CB_SASONADORES_180621.jpg" alt="" style="border-radius: 10px;"/>
-         </div>
-         </a>
-
-           </div>
-           </div>
+          
            </div>
 
     </div>

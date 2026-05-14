@@ -587,7 +587,7 @@
         <div class="row">
             <div class="col s12 m12 l12 xl12">
             
-            <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Sebo_Alto_Hidrogenaado.php"><b class="Tipografia--general Subtitulos" style="color:red;">Estearina de Palma Alto Hidrogenado</b></a></section>
+            <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Inicio&nbsp>&nbsp </b></a><a href="Products_news.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Productos&nbsp>&nbsp </b></a><a class="active" href="Sebo_Alto_Hidrogenaado.php"><b class="Tipografia--general Subtitulos" style="color:red;">Estearina de Palma Alto Hidrogenado</b></a></section>
 
                 <p class="Tipografia--general letranegro General--Cuerpo">El <b>Ácido Graso de Sebo Hidrogenado</b> (HTFA, por sus siglas en inglés) se deriva de fuentes animales como la grasa de res procesada o el cordero. La hidrogenación de Ácidos Grasos se refiere a un proceso químico en el que se agrega hidrógeno para lograr la saturación</p>
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">La hidrogenación consta de tres componentes: el Ácido Graso de sebo insaturado, la fuente de hidrógeno y un catalizador que estimula la reacción deseada, normalmente un metal como el níquel o el paladio. La hidrogenación del ácido de sebo puede ser parcial o completa, según el uso al que se destine. La destilación es el paso final en el proceso de hidrogenación de Ácidos Grasos</p>

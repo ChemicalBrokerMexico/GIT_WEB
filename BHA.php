@@ -561,7 +561,7 @@
     <div class="row">
       <div class="col s12 m12 l12 xl12">
 
-      <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="index.php"><b class="Tipografia--general Subtitulos" style="color:red;">Familias > </b></a><a class="active" href="Antioxidantes.php"><b class="Tipografia--general Subtitulos" style="color:red;">Antioxidantes > </b></a><a class="active" href="BHA.php"><b class="Tipografia--general Subtitulos" style="color:red;">BHA </b></a></section>
+      <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Inicio&nbsp>&nbsp </b></a><a class="active" href="index.php"><b class="Tipografia--general Subtitulos" style="color:black;">Familias > </b></a><a class="active" href="Antioxidantes.php"><b class="Tipografia--general Subtitulos" style="color:black;">Antioxidantes > </b></a><a class="active" href="BHA.php"><b class="Tipografia--general Subtitulos" style="color:red;">BHA </b></a></section>
 
         <h5 class="Tipografia--general letranegro Titulos" style="margin-top:19px;"><b>BHA (Butilhidroxianisol)</b></h5>
         <p class="Tipografia--general letranegro General--Cuerpo"><b>Butilhidroxianisol</b>, también conocido como <b>BHA</b> es un

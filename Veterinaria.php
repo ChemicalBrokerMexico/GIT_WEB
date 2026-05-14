@@ -7,7 +7,10 @@
   <meta name="description" content="Calidad en cada ingrediente; en Chemical Broker contamos con un amplio portafolio de ingredientes farmaceuticos los cuales cumplen con las mejores certificaciones a nivel global con el objetivo de brindar la mayor calida a nuestros socios de negocios.">
   <link rel="canonical" href="https://chemicalbroker.mx/Veterinaria.php">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
-
+<!-- Material Icons (por si los usas en otros lados) -->
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<!-- Font Awesome (ICONOS PRO) -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
 
   <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
@@ -621,118 +624,301 @@ recaptchaResponse.value = token;
                 </div> -->
 
 
-                <div class="col s12 m12 l6 xl6 mercados  columna3"><a href="Medicamentos_Terapeuticos.php" style="cursor:pointer;">
-          <div class="contenedor">
-            <div class="transfo" id="overlay" style="border-radius:10px"></div>
-            <div class="centrado_sub" style="position:absolute;z-index:2">
-              <h2 class="titulo_submercado"></h2><b class="titulo_submercado"><span
-                  style="position:relative;z-index:2">Medicamentos<br>Terapeuticos</span></b><b> </b>
-              <hr class="animacion" />
-              <p> <b style="color:white !important">
-                  <p class="leer_mas_mercados center-align"> Leer Más</p>
-                </b></p>
-            </div><img class="mercadosimagen" src="img/MEDICANTOS_TERAPEUTICOS.jpg" alt=""
-              style="border-radius:10px" />
-          </div>
-        </a></div>
+              <!-- CARD 1 -->
 
-        <div class="col s12 m12 l6 xl6 mercados  columna3"><a href="Vacunas.php" style="cursor:pointer;">
-          <div class="contenedor">
-            <div class="transfo" id="overlay" style="border-radius:10px"></div>
-            <div class="centrado_sub" style="position:absolute;z-index:2">
-              <h2 class="titulo_submercado"></h2><b class="titulo_submercado"> <span
-                  style="position:relative;z-index:2">Vacunas</span></b><b> </b>
-              <hr class="animacion" />
-              <p> <b style="color:white !important">
-                  <p class="leer_mas_mercados center-align"> Leer Más</p>
-                </b></p>
-            </div><img class="mercadosimagen" src="img/VACUNAS_VETERINARIA.jpg" alt=""
-              style="border-radius:10px" />
-          </div>
-        </a></div>
+<div class="col s12 m6">
+  <div class="card custom-card card-vet">
+
+    <div class="card-image custom-image-container">
+
+    <img class="mercadosimagen" src="img/MEDICANTOS_TERAPEUTICOS.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-veterinaria"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+      <i class="fa-solid fa-paw"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Medicamentos Terapeuticos</h5>
+        <p>Soluciones nutricionales y productos para la industria veterinaria.</p>
+
+        <a href="Medicamentos_Terapeuticos.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+ <!-- CARD 2 -->
+
+ <div class="col s12 m6">
+  <div class="card custom-card card-vet">
+
+    <div class="card-image custom-image-container">
+
+    <img class="mercadosimagen" src="img/VACUNAS_VETERINARIA.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-veterinaria"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+      <i class="fa-solid fa-paw"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Vacunas</h5>
+        <p>Soluciones nutricionales y productos para la industria veterinaria.</p>
+
+        <a href="Vacunas.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<!-- CARD 3 -->
+
+<div class="col s12 m6">
+  <div class="card custom-card card-vet">
+
+    <div class="card-image custom-image-container">
+
+    <img class="mercadosimagen" src="img/Suplementos_veterinaria.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-veterinaria"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+      <i class="fa-solid fa-paw"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Suplementos Nutricionales</h5>
+        <p>Soluciones nutricionales y productos para la industria veterinaria.</p>
+
+        <a href="Suplementos_Nutricionales.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<!-- CARD 3 -->
+
+<div class="col s12 m6">
+  <div class="card custom-card card-vet">
+
+    <div class="card-image custom-image-container">
+
+    <img class="mercadosimagen" src="img/Productos_dermatologicos_veterinaria.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-veterinaria"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+      <i class="fa-solid fa-paw"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Productos Dermatologicos</h5>
+        <p>Soluciones nutricionales y productos para la industria veterinaria.</p>
+
+        <a href="Productos_Dermatologicos.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<!-- CARD 4 -->
+
+<div class="col s12 m6">
+  <div class="card custom-card card-vet">
+
+    <div class="card-image custom-image-container">
+
+    <img class="mercadosimagen" src="img/antiparasitarios_veterinaria.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-veterinaria"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+      <i class="fa-solid fa-paw"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Antiparasitario</h5>
+        <p>Soluciones nutricionales y productos para la industria veterinaria.</p>
+
+        <a href="Antiparasitarios.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<!-- CARD 5 -->
+
+<div class="col s12 m6">
+  <div class="card custom-card card-vet">
+
+    <div class="card-image custom-image-container">
+
+    <img class="mercadosimagen" src="img/anestesia_veterinaria.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-veterinaria"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+      <i class="fa-solid fa-paw"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Anestesicos y Sedantes</h5>
+        <p>Soluciones nutricionales y productos para la industria veterinaria.</p>
+
+        <a href="Anestesicos_Sedantes.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col s12 m6">
+  <div class="card custom-card card-vet">
+
+    <div class="card-image custom-image-container">
+
+    <img class="mercadosimagen" src="img/medicamento_prescripcion_210624.jpg" alt="" />
+
+      <!-- OVERLAY -->
+      <div class="overlay overlay-submercado-veterinaria"></div>
+
+      <!-- ICONO -->
+      <div class="icon-circle">
+      <i class="fa-solid fa-paw"></i>
+      </div>
+
+      <!-- CONTENIDO -->
+      <div class="card-content-custom">
+        <h5>Medicamentos de Prescripcion</h5>
+        <p>Soluciones nutricionales y productos para la industria veterinaria.</p>
+
+        <a href="Medicamentos_Prescripcion.php" class="btn custom-btn-white">
+          LEER MÁS
+          <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- CUADRITOS -->
+      <div class="dots-pattern">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
 
 
-        <div class="col s12 m12 l6 xl6 mercados  columna3"><a href="Suplementos_Nutricionales.php" style="cursor:pointer;">
-          <div class="contenedor">
-            <div class="transfo" id="overlay" style="border-radius:10px"></div>
-            <div class="centrado_sub" style="position:absolute;z-index:2">
-              <h2 class="titulo_submercado"></h2><b class="titulo_submercado"> <span
-                  style="position:relative;z-index:2">Suplementos<br>Nutricionales</span></b><b> </b>
-              <hr class="animacion" />
-              <p> <b style="color:white !important">
-                  <p class="leer_mas_mercados center-align"> Leer Más</p>
-                </b></p>
-            </div><img class="mercadosimagen" src="img/Suplementos_veterinaria.jpg" alt=""
-              style="border-radius:10px" />
-          </div>
-        </a></div>
 
-        <div class="col s12 m12 l6 xl6 mercados  columna3"><a href="Productos_Dermatologicos.php" style="cursor:pointer;">
-          <div class="contenedor">
-            <div class="transfo" id="overlay" style="border-radius:10px"></div>
-            <div class="centrado_sub" style="position:absolute;z-index:2">
-              <h2 class="titulo_submercado"></h2><b class="titulo_submercado"> <span
-                  style="position:relative;z-index:2">Productos<br>Dermatologicos</span></b><b> </b>
-              <hr class="animacion" />
-              <p> <b style="color:white !important">
-                  <p class="leer_mas_mercados center-align"> Leer Más</p>
-                </b></p>
-            </div><img class="mercadosimagen" src="img/Productos_dermatologicos_veterinaria.jpg" alt=""
-              style="border-radius:10px" />
-          </div>
-        </a></div>
-
-        <div class="col s12 m12 l6 xl6 mercados  columna3"><a href="Antiparasitarios.php" style="cursor:pointer;">
-          <div class="contenedor">
-            <div class="transfo" id="overlay" style="border-radius:10px"></div>
-            <div class="centrado_sub" style="position:absolute;z-index:2">
-              <h2 class="titulo_submercado"></h2><b class="titulo_submercado"> <span
-                  style="position:relative;z-index:2">Antiparasitarios</span></b><b> </b>
-              <hr class="animacion" />
-              <p> <b style="color:white !important">
-                  <p class="leer_mas_mercados center-align"> Leer Más</p>
-                </b></p>
-            </div><img class="mercadosimagen" src="img/antiparasitarios_veterinaria.jpg" alt=""
-              style="border-radius:10px" />
-          </div>
-        </a></div>
-
-
-        <div class="col s12 m12 l6 xl6 mercados  columna3"><a href="Anestesicos_Sedantes.php" style="cursor:pointer;">
-          <div class="contenedor">
-            <div class="transfo" id="overlay" style="border-radius:10px"></div>
-            <div class="centrado_sub" style="position:absolute;z-index:2">
-              <h2 class="titulo_submercado"></h2><b class="titulo_submercado"> <span
-                  style="position:relative;z-index:2">Anestesicos <br>y<br> Sedantes</span></b><b> </b>
-              <hr class="animacion" />
-              <p> <b style="color:white !important">
-                  <p class="leer_mas_mercados center-align"> Leer Más</p>
-                </b></p>
-            </div><img class="mercadosimagen" src="img/anestesia_veterinaria.jpg" alt=""
-              style="border-radius:10px" />
-          </div>
-        </a></div>
-
-        <div class="col s12 m12 l6 xl6 mercados  columna3"><a href="Medicamentos_Prescripcion.php" style="cursor:pointer;">
-          <div class="contenedor">
-            <div class="transfo" id="overlay" style="border-radius:10px"></div>
-            <div class="centrado_sub" style="position:absolute;z-index:2">
-              <h2 class="titulo_submercado"></h2><b class="titulo_submercado"> <span
-                  style="position:relative;z-index:2">Medicamentos <br>de<br> Prescripcion</span></b><b> </b>
-              <hr class="animacion" />
-              <p> <b style="color:white !important">
-                  <p class="leer_mas_mercados center-align"> Leer Más</p>
-                </b></p>
-            </div><img class="mercadosimagen" src="img/medicamento_prescripcion_210624.jpg" alt=""
-              style="border-radius:10px" />
-          </div>
-        </a></div>
-            </div>
-        </div>
-
+       
 
         </div>
 </div>
+
+        </div>
+  </div>
+
 
 <footer style="margin-top:70px">
   <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"

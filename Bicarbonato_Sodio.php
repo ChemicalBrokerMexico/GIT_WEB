@@ -560,7 +560,7 @@
     <div class="row">
       <div class="col s12 m12 l12 xl12" style="margin-top:130px;">
 
-      <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Bicarbonato de Sodio</b></a></section>
+      <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Inicio&nbsp>&nbsp </b></a><a href="Products_news.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Productos&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Bicarbonato de Sodio</b></a></section>
 
         <p class="Tipografia--general General--Cuerpo letranegro" style="margin-bottom:0px;"><b>El Bicarbonato de
             Sodio</b> es un compuesto sólido cristalino de color blanco soluble en agua, con un ligero sabor alcalino
