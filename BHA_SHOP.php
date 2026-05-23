@@ -3,7 +3,6 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
-    <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos.">
     <title>Chemical Broker | Butil Hidroxi Anisol (BHA) | Proveedor Global | Compra</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="Compra Butilhidroxianisol (BHA) de alta pureza. Antioxidante ampliamente usado en alimentos, cosméticos, farmacéutica. Envios rapidos y seguros">
     <link rel="canonical" href="https://chemicalbroker.mx/BHA_SHOP.php">
@@ -489,10 +488,10 @@
 <div class="container" style="margin-top:80px">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section style="margin-top:75px"><a class="active" href="#" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Acido_Citrico.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Butilhidroxianisol (BHA) > </b></a><a class="breditem active" href="Acido_Citrico_Anhidro_Shop.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">butilhidroxianisol (BHA) Shop</b></a></section>
+<section style="margin-top:75px"><a class="active" href="#" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Products_news.php" style="color:black !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Productos > </b></a><a class="breditem active" href="BHA.php" style="color:black !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Butilhidroxianisol (BHA) > </b></a><a class="breditem active" href="Acido_Citrico_Anhidro_Shop.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Butilhidroxianisol (BHA) Shop</b></a></section>
 
-<p class="Tipografia--general letranegro General--Cuerpo"><b>Butilhidroxianisol</b>, también conocido como <b>BHA</b> es un compuesto químico que se utiliza como conservante en alimentos, productos farmacéuticos y productos de cuidado personal. Se produce sintéticamente y se usa como alternativa a los conservantes naturales como el Ácido Cítrico.</p>
-<p class="Tipografia--general letranegro General--Cuerpo">El <b>Butilhidroxianisol</b> es una mezcla de dos isómeros de compuestos orgánicos; 2-tert-butil-4-hidroxianisol y 3-tert-butil-4-hidroxianisol. El anillo aromático conjugado del BHA es capaz de estabilizar a un radical libre, secuestrándolo. Al actuar como un agente secuestrante, se evitan posteriores reacciones de radicales libres.</p>
+<p class="Tipografia--general letranegro General--Cuerpo"><b>El BHA (Butilhidroxianisol)</b> es un antioxidante sintético de naturaleza fenólica, compuesto por una mezcla de isómeros del hidroxi-anisol terciario-butilado, utilizado principalmente para prevenir la oxidación de grasas y aceites en alimentos, cosméticos y algunos productos farmacéuticos; químicamente es liposoluble, actúa inhibiendo reacciones de radicales libres y se emplea en bajas concentraciones para prolongar la vida útil, mantener la estabilidad sensorial y proteger formulaciones susceptibles al deterioro oxidativo.</p>
+
 
 
 </div>
@@ -506,10 +505,11 @@
         </div>
         <div class="col s6 m6 l6 xl6">
             <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Butilhidroxianisol (BHA)</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Datos del Producto</b></h2>
         
         </div>
         <div class="col s6 m6 l6 xl6">
-            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Datos del Producto</b></h2>
+           
             <table>
                 <tr>
                     <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Descripcion Química:</b></td>
@@ -523,27 +523,6 @@
                     <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Familia Química:</b></td>
                     <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Antioxidantes sintéticos</td>
                 </tr>
-                <!-- <tr>
-                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Grado:</b></td>
-                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><form action="">
-                      <div class="input-field col s12 l6">
-                        <input type="text" id="first_name" class="validate">
-                        <label for="first_name">First Name</label>
-                      </div>
-                      <div class="input-field col s12 l6">
-                        <input type="text" id="last_name" class="validate">
-                        <label for="last_name">Last Name</label>
-                      </div>
-                      <div class="input-field col s12">
-                        <input type="email" id="email" class="validate">
-                        <label for="email" data-error="wrong" data-success="right">Email</label>
-                      </div>
-                      <div class="input-field col s12">
-                        <textarea id="textarea1" class="materialize-textarea"></textarea>
-                        <label for="textarea1">Textarea</label>
-                      </div>
-                    </form></td>
-                </tr> -->
                 <tr>
                     <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Grado:</b></td>
                     <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">FCC</td>
@@ -581,7 +560,7 @@
                     <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Prueba de color</td>
                 </tr>
                 <tr>
-                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Solubilidad:</td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Solubilidad:</b></td>
                     <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Fácilmente soluble en alcohol, propilenglicol. Insoluble en agua.</td>
                 </tr>
                 <tr>
@@ -602,19 +581,7 @@
                 </tr>
             </table>
         </div>
-        <div class="col s12 m12 l12 xl12">
-        <!-- <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Datos del Producto</b></h2> -->
-        <!-- <table>
-            <tr>
-                <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Documentos Tecnicos</b></td>
-                <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Hoja de datos de seguridad</td>
-            </tr>
-            <tr>
-                <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Documentos Normativos</b></td>
-                <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Ver Documentos</td>
-            </tr>
-        </table> -->
-        </div>
+  
     </div>
 </div>
 
@@ -627,66 +594,6 @@
     </div>
 </div>
 
-<div class="container">
-<section class="product-hero">
-  <div class="container">
-    
-    <div class="product-info">
-      <h1>Butilhidroxianisol (BHA)</h1>
-      
-      <p class="subtitle">
-        Antioxidante sintético de alta pureza ideal para prolongar la vida útil de grasas, aceites y productos sensibles.
-      </p>
-
-      <div class="badges">
-        <span>FCC</span>
-        <span>Kosher</span>
-        <span>Halal</span>
-      </div>
-
-      <div class="cta">
-        <a class="btn-primary">Solicitar Cotización</a>
-
-        
-      </div>
-    </div>
-
-    <div class="product-image">
-      <img src="img/CAJA_ANTIOXIDANTES_190226.jpg" alt="BHA Chemical Broker">
-    </div>
-
-  </div>
-</section>
-
-
-<section class="specs">
-  <h2>Especificaciones</h2>
-
-  <div class="spec-grid">
-
-    <div class="spec-item">
-      <span>CAS</span>
-      <strong>25013-16-5</strong>
-    </div>
-
-    <div class="spec-item">
-      <span>Pureza</span>
-      <strong>98.5%</strong>
-    </div>
-
-    <div class="spec-item">
-      <span>Color</span>
-      <strong>Blanco amarillento</strong>
-    </div>
-
-    <div class="spec-item">
-      <span>Punto de fusión</span>
-      <strong>48–63 °C</strong>
-    </div>
-
-  </div>
-</section>
-</div>
 
 
 <footer class="altofooter">

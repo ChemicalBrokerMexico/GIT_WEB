@@ -3,8 +3,8 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
-    <meta name="description" content="Optimiza tus formulaciones con BUDAL® 2308 Fosfato de Sodio y Aluminio, un ingrediente versátil y de alto desempeño ideal para aplicaciones alimenticias e industriales. Mejora estabilidad, textura y rendimiento en cada proceso.">
-    <title>Chemical Broker | Mono Laurato de Sorbitan Span 20 | Proveedor Global | Compra</title>
+    <meta name="description" content="El SPAN™ 20 es un emulsificante no iónico ideal para aplicaciones alimentarias, cosméticas e industriales. Mejora la estabilidad, dispersión y textura de las formulaciones, optimizando el desempeño y la calidad de productos líquidos y emulsiones.">
+    <title>Chemical Broker | Mono Laurato de Sorbitan Span 60 | Proveedor Global | Compra</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link rel="canonical" href="https://chemicalbroker.mx/Enfoque_Quimico_Emull_S20_Shop.php">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>

@@ -3,10 +3,9 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
-    <meta name="description" content="El SPAN™ 80 es un emulsificante no iónico de alto desempeño ideal para aplicaciones alimentarias, cosméticas y farmacéuticas. Favorece la estabilidad de emulsiones agua en aceite, mejorando la textura, dispersión y consistencia de las formulaciones.">
-    <title>Chemical Broker | Mono Oleato de Sorbitan Span 80 | Proveedor Global | Compra</title>
-    <link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <link rel="canonical" href="https://chemicalbroker.mx/Enfoque_Quimico_Emull_S80_Shop.php">
+    <meta name="description" content="El Aceite de Soya RBD 100 PPM es una excelente opción para aplicaciones alimentarias e industriales gracias a su estabilidad, versatilidad y calidad consistente. Ideal para frituras, formulaciones y procesos de producción que requieren un aceite de sabor neutro y alto desempeño.">
+    <title>Chemical Broker | Aceite de Soya 100 ppm TBHQ | Proveedor Global | Compra</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Soya_RBD_100PPM_Cargill_Shop.php">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen"/>
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen"/>
@@ -32,6 +31,88 @@
       gtag('js', new Date());
       gtag('config', 'G-SGJQ8FDDJ6');
     </script>
+    <style>
+      .product-hero {
+  padding: 60px 0;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+}
+
+.product-info {
+  max-width: 50%;
+}
+
+.product-info h1 {
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.subtitle {
+  margin: 15px 0;
+  color: #555;
+  font-size: 16px;
+}
+
+.badges span {
+  display: inline-block;
+  background: #0d1b2a;
+  color: #fff;
+  padding: 6px 12px;
+  margin-right: 8px;
+  border-radius: 20px;
+  font-size: 12px;
+}
+
+.cta {
+  margin-top: 20px;
+}
+
+.btn-primary {
+  background: #0d1b2a;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+
+.btn-secondary {
+  border: 1px solid #0d1b2a;
+  padding: 12px 20px;
+  border-radius: 8px;
+}
+
+.product-image img {
+  width: 350px;
+}
+
+.spec-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+
+.spec-item {
+  background: #f8f9fb;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.spec-item span {
+  font-size: 12px;
+  color: #777;
+}
+
+.spec-item strong {
+  display: block;
+  margin-top: 5px;
+}
+
+    </style>
   </head>
   <body> 
     <div class="modal" id="modal1" style="overflow-y:auto">
@@ -390,11 +471,11 @@
       </div>
     </ul>
     <div class="container-fluid">
-      <div class="slider slider-prueba" style="margin-top:0px">
-        <ul class="slides slides-pruea">
-          <li><img src="img/FOSFATOS_BANNER_110724.jpg" style="height:400px;" alt="Historia Ascendente">
+      <div class="slider slider-prueba" style="margin-top:0px;height:440px;">
+        <ul class="slides slides-pruea" style="height:400px;">
+          <li><img src="img/ACEITE_RBD_211223.jpg" style="height:820px;margin-top:-420px;">
             <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Fosfato Disodico de Hidrogeno</b><br></h1>
+              <h1 class="primertitulo"><b class="boldbanner">Aceite de Soya RBD 100 PPM Shop</b><br></h1>
               <div class="container">
     </div>
             </div>
@@ -403,14 +484,14 @@
       </div>
     </div>
 
-</div>
 
 <div class="container" style="margin-top:80px">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section style="margin-top:75px"><a class="active" href="index.php" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp > </b><a class="active" href="Products_news.php" style="color:black !important"><b class="Tipografia--general Subtitulos">Productos&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Fosfatos.php" style="color:black !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Fosfatos > </b></a><a class="breditem active" href="Fosfato_Disódico_Hidrogeno.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Fosfato Disódico de Hidrogeno</b></a></section>
+<section style="margin-top:75px"><a class="active" href="#" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Productos_news.php" style="color:black !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Productos > </b></a><a class="breditem active" href="Aceite_RBD.php" style="color:black !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Aceite de Soya RBD > </b></a><a class="breditem active" href="Aceite_Canola_RBD_Cargill_Shop.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Aceite de Soya RBD 100 PPM Shop</b></a></section>
 
-<p class="Tipografia--general letranegro General--Cuerpo">El BUDAL® Na 221; El Fosfato Disódico de Hidrógeno, también conocido como fosfato ácido disódico o disodium hydrogen phosphate, es una sal inorgánica derivada del ácido fosfórico que contiene dos átomos de sodio, un átomo de hidrógeno y el grupo fosfato, cuya fórmula química es Na₂HPO₄; se presenta comúnmente como polvo o cristales blancos solubles en agua y actúa principalmente como agente regulador de pH, tampón (buffer), emulsificante y estabilizante, siendo ampliamente utilizado en la industria alimentaria, farmacéutica, tratamiento de agua y en procesos químicos debido a su capacidad para mantener la alcalinidad moderada y controlar la acidez en diferentes formulaciones.</p>
+<p class="Tipografia--general letranegro General--Cuerpo"><b>Aceite de Soya Refinado, Blanqueado y Deodorizado 100 ppm de TBHQ.</b> - Es un aceite vegetal obtenido de la soya que ha pasado por procesos industriales de refinado para eliminar impurezas, blanqueado para remover pigmentos y colorantes naturales, y deodorizado mediante destilación al vacío para eliminar olores y sabores indeseables, resultando en un aceite claro, estable y neutro. La adición de TBHQ (terc-butilhidroquinona) a 100 ppm actúa como antioxidante sintético, previniendo la oxidación y rancidez del aceite, aumentando su vida útil y manteniendo sus propiedades funcionales para aplicaciones en la industria alimentaria, como frituras, productos horneados y alimentos procesados.</p>
+
 
 </div>
 </div>
@@ -419,115 +500,129 @@
 <div class="container" style="margin-top:100px">
     <div class="row">
         <div class="col s6 m6 l6 x6">
-        <img src="img/SACO_PRODUCTOS_GENERAL_LOGO.jpg" style="width:100%;" alt="SACO DE PRODUCTO">
+
+        <img src="img/PIPA_GENERAL_210526.png" style="width:100%;" alt="SACO DE PRODUCTO">
         </div>
         <div class="col s6 m6 l6 xl6">
-            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Mono Oleato de Sorbitan Span 80</b></h2>
-        </div>
-        <div class="col s6 m6 l6 xl6">
+            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Aceite de Soya RBD | 100 ppm</b></h2>
             <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Datos del Producto</b></h2>
+        
+        </div>
+        <div class="col s6 m6 l6 xl6">
+            
 
-            <p class="Tipografia--general letranegro General--Cuerpo">El Mono Oleato de Sorbitán, también conocido comercialmente como Span 80, es un emulsificante no iónico obtenido a partir de la reacción entre sorbitol y ácido oleico. Se utiliza ampliamente en las industrias alimentaria, cosmética, farmacéutica y química debido a su capacidad para estabilizar mezclas de agua y aceite, mejorando la uniformidad y consistencia de las formulaciones. Este ingrediente destaca por sus propiedades emulsificantes, humectantes y dispersantes, siendo común en productos como cremas, lociones, alimentos procesados, lubricantes, detergentes y formulaciones industriales donde se requiere estabilidad, textura y una adecuada dispersión de componentes oleosos.</p>
-    
-        <table>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Descripción Química:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Mono Oleato de Sorbitan</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">CAS #:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">1338-43-8</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Familia Química:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Esteres de Sorbitan</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Sinónimos</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Span 80</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Grado:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Alimentos</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Certificaciones:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Kosher</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Presentación:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Tambor 222 Kg<br>Grenel</td>
-           </tr>
-           <tr>
-            <td colspan="2" class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Especificaciones:</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Apariencia:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Liquido viscoso</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Color:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Color amarillo ámbar, transparente a ligeramente opalescente.</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Incide de Acidez (mgKOH/g):</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">8 máximo </td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Índice de Hidroxilo (mgKOH/g):</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">193 – 210</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Índice de Saponificación (mgKOH/g):</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">145 – 160</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Color Gardner:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">8 máximo</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Índice de Peróxido (%):</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Libre</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Sulfitos Libres (%):</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Libre</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Densidad (g/ml):</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">0.98 – 1.02</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Vida de Anaquel:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">2 años a partir de la fecha de elaboración y en su envase original.</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Cantidad Mínima de Venta:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">800 Kg.</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Funciones:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">El Mono Oleato de Sorbitán funciona principalmente como emulsificante, estabilizante, dispersante y agente humectante en diferentes formulaciones industriales. Su función principal es facilitar la mezcla entre fases oleosas y acuosas, evitando la separación de ingredientes y mejorando la estabilidad física de los productos. También actúa como tensioactivo no iónico, reduciendo la tensión superficial y favoreciendo una dispersión uniforme de aceites, pigmentos y otros componentes insolubles. En aplicaciones cosméticas y alimentarias contribuye a mejorar la textura, consistencia y apariencia de las formulaciones, mientras que en productos farmacéuticos e industriales ayuda a mantener la homogeneidad, estabilidad y desempeño durante el almacenamiento y uso del producto.</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Aplicaciones:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">El Mono Oleato de Sorbitán tiene diversas aplicaciones en las industrias alimentaria, cosmética, farmacéutica e industrial gracias a sus propiedades emulsificantes y estabilizantes. En la industria alimentaria se emplea en productos como margarinas, aderezos, panificación y emulsiones alimenticias para mejorar textura, estabilidad y apariencia. En cosmética y cuidado personal se utiliza en cremas, lociones, maquillajes, productos capilares y limpiadores, ayudando a mantener mezclas homogéneas y una mejor sensación de aplicación. En la industria farmacéutica forma parte de pomadas, emulsiones y sistemas de liberación de ingredientes activos. Además, se aplica en lubricantes, pinturas, agroquímicos, detergentes y productos textiles, donde favorece la dispersión de aceites y pigmentos, mejora la estabilidad de las formulaciones y optimiza el desempeño de los productos durante su uso y almacenamiento.</td>
-           </tr> 
-        </table>
+          
+            <table>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Descripción Química:</td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Aceite de Soya Refinado Blanqueado y Deodorizado 100 ppm de TBHQ</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>CAS #:</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">8001-22-7</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Familia Química:</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Triglicéridos</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Grado</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Alimentos</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Certificaciones:</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">- Halal<br>- Kosher</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Presentación:</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Pipa de Acero Inoxidable 20,000 Kg.</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;" class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" colspan="2" ><b>Especificaciones:</b></td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Apariencia:</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Liquido transparente a 20°C</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Olor:</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Característico libre de olor extraño</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Materia Extraña:</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Libre de materia extraña visible</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Color Rojo:</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">2.5 máximo</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Ácidos Grasos Libres como oleico (282) (%):</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">0.05 máximo</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Índice de Peróxido (meq/Kg):</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">1 máximo</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Humedad (%):</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">0.05 máximo</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Índice de Yodo (cg/g):</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">120 - 140</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Antioxidante:</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">100 ppm de TBHQ máximo</td>
+</tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Vida de Anaquel:</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">180 días a partir de su fecha de elaboración, bajo condiciones de almacenamiento controlado.</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Almacenamiento:</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">A granel se recomienda mantener en tanques de acero inoxidable. Mantener máximo a 32°C.</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Cantidad Mínima de Venta:</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">20,000 Kg.</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Funciones:</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">El Aceite de Soya Refinado, Blanqueado y Deodorizado (RBD) con 100 ppm de TBHQ cumple múltiples funciones en la industria alimentaria: actúa como medio de cocción y fritura, aportando textura y sabor a los alimentos; sirve como ingrediente en productos procesados y horneados por su estabilidad y neutralidad de sabor; funciona como portador de nutrientes liposolubles y como vehículo para aditivos y aromas; y gracias al TBHQ a 100 ppm, mantiene la estabilidad antioxidante, evitando la rancidez y prolongando la vida útil del producto final, asegurando consistencia y seguridad en aplicaciones comerciales y domésticas</td>
+                </tr>
+                <tr>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Aplicaciones:</b></td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">El Aceite de Soya Refinado, Blanqueado y Deodorizado (RBD) con 100 ppm de TBHQ se utiliza ampliamente en la industria alimentaria debido a su estabilidad, sabor neutro y resistencia a la oxidación; sus aplicaciones incluyen frituras industriales y domésticas, elaboración de margarinas y shortenings, productos horneados y repostería, aderezos y salsas, así como alimentos procesados que requieren aceites vegetales estables, y también se emplea como ingrediente en mezclas de aceites y productos enriquecidos, donde el TBHQ ayuda a prolongar la vida útil y mantener la calidad sensorial del producto final.</td>
+                </tr>
+            </table>
+
 
         </div>
-
-
+        <div class="col s12 m12 l12 xl12">
+        <!-- <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Datos del Producto</b></h2> -->
+        <!-- <table>
+            <tr>
+                <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Documentos Tecnicos</b></td>
+                <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Hoja de datos de seguridad</td>
+            </tr>
+            <tr>
+                <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Documentos Normativos</b></td>
+                <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Ver Documentos</td>
+            </tr>
+        </table> -->
+        </div>
     </div>
+</div>
 
 <div class="container">
     <div class="row">
     <div class="col s12 m12 l12 xl12">
-        <a href="https://wa.me/5615242685?text=Hola" clas="float-wa" target="_blank"><h2 class="Tipografia--general letranegro General--Cuerpo"><b><button class="btn" style="background-color:#071637;color:white;cursor:pointer;">Cotiza o Consulta con nosotros tu requerimiento</button> </b></h2></a>
+        <a href="https://wa.me/5615242685?text=Hola Deseo Comprar este Producto" clas="float-wa" target="_blank"><h2 class="Tipografia--general letranegro General--Cuerpo"><b><button class="btn" style="background-color:#071637;color:white;cursor:pointer;border-radius:15px">Cotiza o Consulta con nosotros tu requerimiento</button> </b></h2></a>
             <!-- <button style="background-color:#071637;color:white;width:100%;border-radius:15px;height:60px;">Contactenos</button> -->
         </div>
     </div>
-</div>
 </div>
 
 

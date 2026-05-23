@@ -3,10 +3,9 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
-    <meta name="description" content="El SPAN™ 80 es un emulsificante no iónico de alto desempeño ideal para aplicaciones alimentarias, cosméticas y farmacéuticas. Favorece la estabilidad de emulsiones agua en aceite, mejorando la textura, dispersión y consistencia de las formulaciones.">
-    <title>Chemical Broker | Mono Oleato de Sorbitan Span 80 | Proveedor Global | Compra</title>
-    <link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <link rel="canonical" href="https://chemicalbroker.mx/Enfoque_Quimico_Emull_S80_Shop.php">
+    <meta name="description" content="El bicarbonato de sodio USP es un ingrediente de alta pureza utilizado en las industrias farmacéutica, alimentaria y química. Ideal para formulaciones, control de pH y aplicaciones especializadas con calidad certificada.">
+    <title>Chemical Broker | Bicarbonato de Sodio USP Granular Fino Shop | Proveedor Global | Compra</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <link rel="canonical" href="https://chemicalbroker.mx/Bicarbonato_Sodio_USP_Granular_Fino_Shop.php">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen"/>
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen"/>
@@ -32,6 +31,88 @@
       gtag('js', new Date());
       gtag('config', 'G-SGJQ8FDDJ6');
     </script>
+    <style>
+      .product-hero {
+  padding: 60px 0;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+}
+
+.product-info {
+  max-width: 50%;
+}
+
+.product-info h1 {
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.subtitle {
+  margin: 15px 0;
+  color: #555;
+  font-size: 16px;
+}
+
+.badges span {
+  display: inline-block;
+  background: #0d1b2a;
+  color: #fff;
+  padding: 6px 12px;
+  margin-right: 8px;
+  border-radius: 20px;
+  font-size: 12px;
+}
+
+.cta {
+  margin-top: 20px;
+}
+
+.btn-primary {
+  background: #0d1b2a;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+
+.btn-secondary {
+  border: 1px solid #0d1b2a;
+  padding: 12px 20px;
+  border-radius: 8px;
+}
+
+.product-image img {
+  width: 350px;
+}
+
+.spec-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+
+.spec-item {
+  background: #f8f9fb;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.spec-item span {
+  font-size: 12px;
+  color: #777;
+}
+
+.spec-item strong {
+  display: block;
+  margin-top: 5px;
+}
+
+    </style>
   </head>
   <body> 
     <div class="modal" id="modal1" style="overflow-y:auto">
@@ -390,11 +471,11 @@
       </div>
     </ul>
     <div class="container-fluid">
-      <div class="slider slider-prueba" style="margin-top:0px">
-        <ul class="slides slides-pruea">
-          <li><img src="img/FOSFATOS_BANNER_110724.jpg" style="height:400px;" alt="Historia Ascendente">
+      <div class="slider slider-prueba" style="margin-top:0px;height:440px;">
+        <ul class="slides slides-pruea" style="height:400px;">
+          <li><img src="img/CB_BICARBONATO_SODIO_271222.jpg" style="height:820px;margin-top:-420px;">
             <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Fosfato Disodico de Hidrogeno</b><br></h1>
+              <h1 class="primertitulo"><b class="boldbanner">Bicarbonato de Sodio USP | Granular Fino</b><br></h1>
               <div class="container">
     </div>
             </div>
@@ -403,14 +484,14 @@
       </div>
     </div>
 
-</div>
 
 <div class="container" style="margin-top:80px">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section style="margin-top:75px"><a class="active" href="index.php" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp > </b><a class="active" href="Products_news.php" style="color:black !important"><b class="Tipografia--general Subtitulos">Productos&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Fosfatos.php" style="color:black !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Fosfatos > </b></a><a class="breditem active" href="Fosfato_Disódico_Hidrogeno.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Fosfato Disódico de Hidrogeno</b></a></section>
+<section style="margin-top:75px"><a class="active" href="#" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Productos_news.php" style="color:black !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Productos > </b></a><a class="breditem active" href="Bicarbonato_Sodio.php" style="color:black !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Bicarbonato de Sodio USP > </b></a><a class="breditem active" href="Bicarbonato_Sodio_USP_Granular_Fino_Shop.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Bicarbonato de Sodio USP Granular Fino Shop</b></a></section>
 
-<p class="Tipografia--general letranegro General--Cuerpo">El BUDAL® Na 221; El Fosfato Disódico de Hidrógeno, también conocido como fosfato ácido disódico o disodium hydrogen phosphate, es una sal inorgánica derivada del ácido fosfórico que contiene dos átomos de sodio, un átomo de hidrógeno y el grupo fosfato, cuya fórmula química es Na₂HPO₄; se presenta comúnmente como polvo o cristales blancos solubles en agua y actúa principalmente como agente regulador de pH, tampón (buffer), emulsificante y estabilizante, siendo ampliamente utilizado en la industria alimentaria, farmacéutica, tratamiento de agua y en procesos químicos debido a su capacidad para mantener la alcalinidad moderada y controlar la acidez en diferentes formulaciones.</p>
+<p class="Tipografia--general letranegro General--Cuerpo">El <b>Bicarbonato de Sodio USP</b> en granular fino es un compuesto químico de alta pureza (NaHCO₃) fabricado bajo los estándares de calidad de la United States Pharmacopeia (USP), presentado en una granulometría controlada de partículas finas que mejora su fluidez, dosificación y uniformidad en procesos industriales y farmacéuticos; se caracteriza por ser un sólido blanco, cristalino, inodoro y soluble en agua, con propiedades alcalinizantes, amortiguadoras (buffer) y efervescentes, utilizado en formulaciones farmacéuticas, alimentarias y aplicaciones técnicas que requieren especificaciones estrictas de pureza, identidad y control de impurezas.</p>
+
 
 </div>
 </div>
@@ -419,115 +500,177 @@
 <div class="container" style="margin-top:100px">
     <div class="row">
         <div class="col s6 m6 l6 x6">
+
         <img src="img/SACO_PRODUCTOS_GENERAL_LOGO.jpg" style="width:100%;" alt="SACO DE PRODUCTO">
         </div>
         <div class="col s6 m6 l6 xl6">
-            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Mono Oleato de Sorbitan Span 80</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Bicarbonato de Sodio USP | Granular Fino</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Datos del Producto</b></h2>
         </div>
         <div class="col s6 m6 l6 xl6">
-            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Datos del Producto</b></h2>
+            
 
-            <p class="Tipografia--general letranegro General--Cuerpo">El Mono Oleato de Sorbitán, también conocido comercialmente como Span 80, es un emulsificante no iónico obtenido a partir de la reacción entre sorbitol y ácido oleico. Se utiliza ampliamente en las industrias alimentaria, cosmética, farmacéutica y química debido a su capacidad para estabilizar mezclas de agua y aceite, mejorando la uniformidad y consistencia de las formulaciones. Este ingrediente destaca por sus propiedades emulsificantes, humectantes y dispersantes, siendo común en productos como cremas, lociones, alimentos procesados, lubricantes, detergentes y formulaciones industriales donde se requiere estabilidad, textura y una adecuada dispersión de componentes oleosos.</p>
-    
-        <table>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Descripción Química:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Mono Oleato de Sorbitan</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">CAS #:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">1338-43-8</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Familia Química:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Esteres de Sorbitan</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Sinónimos</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Span 80</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Grado:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Alimentos</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Certificaciones:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Kosher</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Presentación:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Tambor 222 Kg<br>Grenel</td>
-           </tr>
-           <tr>
-            <td colspan="2" class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Especificaciones:</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Apariencia:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Liquido viscoso</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Color:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Color amarillo ámbar, transparente a ligeramente opalescente.</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Incide de Acidez (mgKOH/g):</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">8 máximo </td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Índice de Hidroxilo (mgKOH/g):</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">193 – 210</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Índice de Saponificación (mgKOH/g):</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">145 – 160</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Color Gardner:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">8 máximo</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Índice de Peróxido (%):</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Libre</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Sulfitos Libres (%):</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Libre</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Densidad (g/ml):</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">0.98 – 1.02</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Vida de Anaquel:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">2 años a partir de la fecha de elaboración y en su envase original.</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Cantidad Mínima de Venta:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">800 Kg.</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Funciones:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">El Mono Oleato de Sorbitán funciona principalmente como emulsificante, estabilizante, dispersante y agente humectante en diferentes formulaciones industriales. Su función principal es facilitar la mezcla entre fases oleosas y acuosas, evitando la separación de ingredientes y mejorando la estabilidad física de los productos. También actúa como tensioactivo no iónico, reduciendo la tensión superficial y favoreciendo una dispersión uniforme de aceites, pigmentos y otros componentes insolubles. En aplicaciones cosméticas y alimentarias contribuye a mejorar la textura, consistencia y apariencia de las formulaciones, mientras que en productos farmacéuticos e industriales ayuda a mantener la homogeneidad, estabilidad y desempeño durante el almacenamiento y uso del producto.</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Aplicaciones:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">El Mono Oleato de Sorbitán tiene diversas aplicaciones en las industrias alimentaria, cosmética, farmacéutica e industrial gracias a sus propiedades emulsificantes y estabilizantes. En la industria alimentaria se emplea en productos como margarinas, aderezos, panificación y emulsiones alimenticias para mejorar textura, estabilidad y apariencia. En cosmética y cuidado personal se utiliza en cremas, lociones, maquillajes, productos capilares y limpiadores, ayudando a mantener mezclas homogéneas y una mejor sensación de aplicación. En la industria farmacéutica forma parte de pomadas, emulsiones y sistemas de liberación de ingredientes activos. Además, se aplica en lubricantes, pinturas, agroquímicos, detergentes y productos textiles, donde favorece la dispersión de aceites y pigmentos, mejora la estabilidad de las formulaciones y optimiza el desempeño de los productos durante su uso y almacenamiento.</td>
-           </tr> 
-        </table>
+       <table>
+        <tr>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Descripción Química:</b></td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Bicarbonato de Sodio</td>
+        </tr>
+        <tr>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Formula:</b></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">NaHCO3</td>
+        </tr>
+        <tr>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Peso Molecular:</b></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">84.01</td>
+        </tr>
+        <tr>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>CAS #:</b></td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">144-55-8</td>
+        </tr>
+        <tr>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Familia Química:</b></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Sales inorgánicas</td>
+        </tr>
+        <tr>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Grado:</b></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">USP | FCC</td>
+        </tr>
+        <tr>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Certificaciones:</b></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">NSF 60 | Kosher Passover</td>
+        </tr>
+        <tr>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Presentación:</b></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">- Saco 20 Kg.</td>
+        </tr>
+        <tr>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" colspan="2"><b>Especificaciones:</b></td>
+        </tr>
+        <tr>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Apariencia:</b></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Polvo cristalino blanco</td>
+        </tr>
+        <tr>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Ensayo (%):</b></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">99.0 – 100.5</td>
+        </tr>
+        <tr>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Cloruro (ppm):</b></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">150 máximo</td>
+        </tr>
+        <tr>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Perdida por secado (%):</b></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">0.25 máximo</td>
+        </tr>
+        <tr>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Compuestos de azufre (ppm):</b></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">150 máximo</td>
+        </tr>
+        <tr>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Densidad aparente (lb/ft3):</b></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">68 – 82</td>
+        </tr>
+        <tr>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>pH (Solución 1%):</b></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">8.3</td>
+        </tr>
+        <tr>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Sustancias insolubles</b></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Conforme</td>
+        </tr>
+        <tr>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Metales pesados (ppm):</b></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">5 máximo</td>
+        </tr>
+        <tr>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Plomo (Pb) (ppm):</b></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">2 máximo</td>
+        </tr>
+        <tr>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Arsénico (ppm):</b></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">2 máximo</td>
+        </tr>
+        <tr>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Amoniaco:</b></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Conforme</td>
+        </tr>
+        <tr>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Límite de amoniaco:</b></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Conforme</td>
+        </tr>
+        <tr>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Identidad:</b></td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;" class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Conforme</td>
+        </tr>
+        <tr>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Carbonato normal:</b></td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Conforme</td>
+        </tr>
+       </table>
+
+       <table style="margin-top:100px;">
+        <tr>
+            <th class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" colspan="4"><b>Distribución del Tamaño de partículas:</b></th>
+        </tr>
+        <tr>
+            <th class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><b>Tamiz estándar de EE. UU.</b></th>
+            <th class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><b>Micrón</b></th>
+            <th class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><b>Mínimo</b></th>
+            <th class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><b>Máximo</b></th>
+        </tr>
+        <tr>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Malla +80:</td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">180</td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">0</td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">2</td>
+        </tr>
+        <tr>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Malla +200:</td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">75</td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">70</td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">100</td>
+        </tr>
+        <tr>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Malla +325:</td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">45</td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">90</td>
+            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">100</td>
+        </tr>
+       </table>
+           
+       <table style="margin-top:100px;">
+       <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Vida de Anaquel:</b></td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">3 años a partir de la fecha de elaboración y en su envase original.</td>
+            </tr>
+            <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Cantidad Mínima de Venta:</b></td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">25,922 Kg.</td>
+            </tr>
+            <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Funciones:</b></td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">El Bicarbonato de Sodio USP en granular fino cumple funciones como agente regulador de pH y amortiguador (buffer) al neutralizar ácidos y estabilizar formulaciones, actúa como antiácido en preparaciones farmacéuticas, funciona como componente efervescente al reaccionar con ácidos liberando dióxido de carbono, sirve como agente alcalinizante en distintos procesos y, gracias a su granulometría fina, facilita una mejor fluidez, dosificación uniforme y compresibilidad en procesos de mezclado y tableteado, manteniendo el cumplimiento de las especificaciones de pureza establecidas por la United States Pharmacopeia.</td>
+            </tr>
+            <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Aplicaciones:</b></td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">El Bicarbonato de Sodio USP en granular fino se aplica en la industria farmacéutica como componente de tabletas y polvos efervescentes, antiácidos orales, regulador de pH en soluciones y formulaciones líquidas, y como agente alcalinizante en preparaciones específicas; en la industria alimentaria se utiliza como leudante y regulador de acidez; y en procesos industriales y de laboratorio como neutralizante de ácidos y estabilizador químico, siendo especialmente valorado por su granulometría fina que favorece la fluidez, la dosificación precisa y la uniformidad en mezclas, todo bajo los estándares de calidad establecidos por la United States Pharmacopeia.</td>
+            </tr>
+
+       </table>
+
+       <p class="Tipografia--general letranegro General--Cuerpo">Nota: Este producto no está destinado para uso farmacéutico</p>
 
         </div>
-
-
     </div>
+</div>
 
 <div class="container">
     <div class="row">
     <div class="col s12 m12 l12 xl12">
-        <a href="https://wa.me/5615242685?text=Hola" clas="float-wa" target="_blank"><h2 class="Tipografia--general letranegro General--Cuerpo"><b><button class="btn" style="background-color:#071637;color:white;cursor:pointer;">Cotiza o Consulta con nosotros tu requerimiento</button> </b></h2></a>
+        <a href="https://wa.me/5615242685?text=Hola Deseo Comprar este Producto" clas="float-wa" target="_blank"><h2 class="Tipografia--general letranegro General--Cuerpo"><b><button class="btn" style="background-color:#071637;color:white;cursor:pointer;border-radius:15px">Cotiza o Consulta con nosotros tu requerimiento</button> </b></h2></a>
             <!-- <button style="background-color:#071637;color:white;width:100%;border-radius:15px;height:60px;">Contactenos</button> -->
         </div>
     </div>
-</div>
 </div>
 
 

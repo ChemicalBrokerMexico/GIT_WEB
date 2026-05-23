@@ -18,7 +18,10 @@ SELECT
     i.id_industria,
     i.nombre_industria,
     p.Link_Web,
-    p.ruta_documentos
+    p.ruta_documentos,
+    p.fabricante,
+    p.descripcion_fabricante,
+    p.pais
 FROM productos p
 INNER JOIN segmentos s ON p.id_segmento = s.id_segmento
 INNER JOIN industrias i ON s.id_industria = i.id_industria
@@ -57,6 +60,10 @@ while($row = $resultado->fetch_assoc()){
     <link rel="stylesheet" href="css/jquery.dataTables.min.css" />
     <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+    <!-- Material Icons (por si los usas en otros lados) -->
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<!-- Font Awesome (ICONOS PRO) -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     <script src="https://code.jquery.com/jquery-3.5.1.js"
         integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="js/materialize.js?n=1" type="text/javascript"></script>
@@ -89,6 +96,11 @@ while($row = $resultado->fetch_assoc()){
             transition: all 0.3s ease;
             box-sizing: border-box;
         }
+
+        .logo-fabricante:hover{
+    transform:scale(1.05);
+    opacity:0.9;
+}
 
         /* Imagen */
         .card-industria img .card-industria video {
@@ -230,15 +242,141 @@ while($row = $resultado->fetch_assoc()){
         }
 
         /* OVERLAY */
-        .overlay-pro {
+        .overlay-pro-farma {
             position: absolute;
             top: 0;
             left: 0;
             width: 100%;
             height: 100%;
 
-            background: linear-gradient(135deg,
-                    rgba(7, 22, 55, 0.4),
+            background: linear-gradient(90deg,
+                    #0066ff,
+                    rgba(7, 22, 55, 0.8));
+
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            padding: 12px;
+            color: white;
+        }
+
+        .overlay-pro-veterinaria {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+
+            background: linear-gradient(90deg,
+                    #42A5FA,
+                    rgba(67, 160, 71, 0.2));
+
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            padding: 12px;
+            color: white;
+        }
+
+        .overlay-pro-alimentos {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+
+            background: linear-gradient(90deg,
+                    #F5DF4D,
+                    rgba(255, 193, 7, 0.2));
+
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            padding: 12px;
+            color: white;
+        }
+
+        .overlay-pro-alimentos-animales {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+
+            background: linear-gradient(90deg,
+                    #b5ddf2,
+                    rgba(102, 187, 106, 0.2));
+
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            padding: 12px;
+            color: white;
+        }
+
+        .overlay-pro-agroquimicos {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+
+            background: linear-gradient(90deg,
+                    #009639,
+                    rgba(46, 125, 50, 0.2));
+
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            padding: 12px;
+            color: white;
+        }
+
+        .overlay-pro-cosmeticos {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+
+            background: linear-gradient(90deg,
+                    #f5b6cd,
+                    rgba(216, 27, 96, 0.2));
+
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            padding: 12px;
+            color: white;
+        }
+
+        .overlay-pro-detergentes {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+
+            background: linear-gradient(90deg,
+                    rgba(0,172,193,0.85),
+                    rgba(7, 22, 55, 0.8));
+
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            padding: 12px;
+            color: white;
+        }
+
+        .overlay-pro-quimicos {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+
+            background: linear-gradient(90deg,
+                    rgba(251,140,0,0.85),
                     rgba(7, 22, 55, 0.8));
 
             display: flex;
@@ -316,6 +454,15 @@ while($row = $resultado->fetch_assoc()){
         .card-industria-pro.activa .check-activo {
             display: flex;
         }
+
+        .logo-fabricante{
+    filter: grayscale(10%);
+}
+
+.logo-fabricante:hover{
+    transform:scale(1.05);
+    filter:none;
+}
     </style>
 
 
@@ -953,11 +1100,11 @@ while($row = $resultado->fetch_assoc()){
                             <source class="mercadosimagen" src="VIDEO/Farma.mp4" type="video/mp4">
                         </video>
 
-                        <div class="overlay-pro">
+                        <div class="overlay-pro-farma">
 
                             <!-- ICONO -->
                             <div class="icono-industria">
-                                <i class="material-icons">medical_services</i>
+                                <i class="fa-solid fa-pills"></i>
                             </div>
 
                             <!-- TEXTO -->
@@ -983,7 +1130,7 @@ while($row = $resultado->fetch_assoc()){
 
                 <div class="col s12 m6 l3">
 
-                    <div class="card-industria-pro" data-industria="1" data-nombre="Veterinaria">
+                    <div class="card-industria-pro" data-industria="2" data-nombre="Veterinaria" data-segmento="0" data-nindustria="Veterinaria" data-color="#42A5FA">
 
                         <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted
                             defaultMuted playsinline>
@@ -993,11 +1140,11 @@ while($row = $resultado->fetch_assoc()){
                         </video>
 
 
-                        <div class="overlay-pro">
+                        <div class="overlay-pro-veterinaria">
 
                             <!-- ICONO -->
                             <div class="icono-industria">
-                                <i class="material-icons">medical_services</i>
+                                <i class="fa-solid fa-paw"></i>
                             </div>
 
                             <!-- TEXTO -->
@@ -1007,7 +1154,7 @@ while($row = $resultado->fetch_assoc()){
 
                             <!-- CHECK ACTIVO -->
                             <div class="check-activo">
-                                <i class="material-icons">check</i>
+                            <i class="material-icons">check</i>
                             </div>
 
                             <!-- PATRÓN -->
@@ -1032,11 +1179,11 @@ while($row = $resultado->fetch_assoc()){
                             <source class="mercadosimagen" src="VIDEO/NUTRICION_HUMANA2.mp4" type="video/mp4">
                         </video>
 
-                        <div class="overlay-pro">
+                        <div class="overlay-pro-alimentos">
 
                             <!-- ICONO -->
                             <div class="icono-industria">
-                                <i class="material-icons">medical_services</i>
+                                <i class="fa-solid fa-utensils"></i>
                             </div>
 
                             <!-- TEXTO -->
@@ -1061,7 +1208,7 @@ while($row = $resultado->fetch_assoc()){
 
                 <div class="col s12 m6 l3">
 
-                    <div class="card-industria-pro" data-industria="1" data-nombre="Alimentos & Nutricion Animal">
+                    <div class="card-industria-pro" data-industria="4" data-nombre="Alimento y Nutricion Animal" data-segmento="0" data-nindustria="Alimento y Nutricion Animal" data-color="#b5ddf2">
 
                         <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted
                             defaultMuted playsinline>
@@ -1070,11 +1217,11 @@ while($row = $resultado->fetch_assoc()){
                             <source class="mercadosimagen" src="VIDEO/ALIMENTO_ANIMAL2.mp4" type="video/mp4">
                         </video>
 
-                        <div class="overlay-pro">
+                        <div class="overlay-pro-alimentos-animales">
 
                             <!-- ICONO -->
                             <div class="icono-industria">
-                                <i class="material-icons">medical_services</i>
+                                <i class="fa-solid fa-wheat-awn"></i>
                             </div>
 
                             <!-- TEXTO -->
@@ -1100,7 +1247,7 @@ while($row = $resultado->fetch_assoc()){
 
                 <div class="col s12 m6 l3" style="margin-top:50px;">
 
-                    <div class="card-industria-pro" data-industria="1" data-nombre="Agroquímicos">
+                    <div class="card-industria-pro" data-industria="5" data-nombre="Agroquimicos" data-segmento="0" data-nindustria="Agroquimicos" data-color="#009639">
 
                         <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted
                             defaultMuted playsinline>
@@ -1108,11 +1255,11 @@ while($row = $resultado->fetch_assoc()){
 
                             <source class="mercadosimagen" src="VIDEO/AGRICULTURA3.mp4" type="video/mp4">
                         </video>
-                        <div class="overlay-pro">
+                        <div class="overlay-pro-agroquimicos">
 
                             <!-- ICONO -->
                             <div class="icono-industria">
-                                <i class="material-icons">medical_services</i>
+                                <i class="fa-solid fa-seedling"></i>
                             </div>
 
                             <!-- TEXTO -->
@@ -1136,7 +1283,7 @@ while($row = $resultado->fetch_assoc()){
 
                 <div class="col s12 m6 l3" style="margin-top:50px;">
 
-                    <div class="card-industria-pro" data-industria="1" data-nombre="Cosmeticos & Cuidado Personal">
+                    <div class="card-industria-pro" data-industria="6" data-nombre="Cosmetica y Cuidado Personal" data-segmento="0" data-nindustria="Cosmetica y Cuidado Personal" data-color="#f5b6cd">
 
                         <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted
                             defaultMuted playsinline>
@@ -1144,11 +1291,11 @@ while($row = $resultado->fetch_assoc()){
 
                             <source class="mercadosimagen" src="VIDEO/COSMETICOS.mp4" type="video/mp4">
                         </video>
-                        <div class="overlay-pro">
+                        <div class="overlay-pro-cosmeticos">
 
                             <!-- ICONO -->
                             <div class="icono-industria">
-                                <i class="material-icons">medical_services</i>
+                                <i class="fa-solid fa-pump-soap"></i>
                             </div>
 
                             <!-- TEXTO -->
@@ -1174,7 +1321,7 @@ while($row = $resultado->fetch_assoc()){
 
                 <div class="col s12 m6 l3" style="margin-top:50px;">
 
-                    <div class="card-industria-pro" data-industria="1" data-nombre="Detergentes & Hogar">
+                    <div class="card-industria-pro" data-industria="7" data-nombre="Detergentes y Hogar" data-segmento="0" data-nindustria="Detergentes y Hogar" data-color="rgba(0,172,193,0.85">
 
                         <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted
                             defaultMuted playsinline>
@@ -1182,11 +1329,11 @@ while($row = $resultado->fetch_assoc()){
 
                             <source class="mercadosimagen" src="VIDEO/DETERGENTES2.mp4" type="video/mp4">
                         </video>
-                        <div class="overlay-pro">
+                        <div class="overlay-pro-detergentes">
 
                             <!-- ICONO -->
                             <div class="icono-industria">
-                                <i class="material-icons">medical_services</i>
+                                <i class="fa-solid fa-soap"></i>
                             </div>
 
                             <!-- TEXTO -->
@@ -1211,7 +1358,7 @@ while($row = $resultado->fetch_assoc()){
 
                 <div class="col s12 m6 l3" style="margin-top:50px;">
 
-                    <div class="card-industria-pro" data-industria="1" data-nombre="Químicos">
+                    <div class="card-industria-pro" data-industria="8" data-nombre="Quimicos" data-segmento="0" data-nindustria="Quimicos" data-color="rgba(251,140,0,0.85)">
 
                         <video width="100%" style="border-radius:10px" autoplay="autoplay" loop="loop" muted
                             defaultMuted playsinline>
@@ -1219,11 +1366,11 @@ while($row = $resultado->fetch_assoc()){
 
                             <source class="mercadosimagen" src="VIDEO/QUIMICO.mp4" type="video/mp4">
                         </video>
-                        <div class="overlay-pro">
+                        <div class="overlay-pro-quimicos">
 
                             <!-- ICONO -->
                             <div class="icono-industria">
-                                <i class="material-icons">medical_services</i>
+                            <i class="fa-solid fa-flask"></i>
                             </div>
 
                             <!-- TEXTO -->
@@ -1233,7 +1380,7 @@ while($row = $resultado->fetch_assoc()){
 
                             <!-- CHECK ACTIVO -->
                             <div class="check-activo">
-                                <i class="material-icons">check</i>
+                                <i class="fa-solid fa-flask"></i>
                             </div>
 
                             <!-- PATRÓN -->
@@ -1463,7 +1610,20 @@ while($row = $resultado->fetch_assoc()){
 
         <div class="col s12 m6 l4 xl4 center-align">
             ${prod.imagen 
-                ? `<img src="${prod.imagen}" style="max-width:100%; max-height:120px; object-fit:contain;">`
+                ? `<img src="${prod.imagen}"
+     class="logo-fabricante modal-trigger"
+     href="#modalFabricante"
+     data-fabricante="${prod.fabricante}"
+     data-logo="${prod.imagen}"
+     data-descripcion="${prod.descripcion_fabricante}"
+     data-pais="${prod.pais}"
+     style="
+    max-width:240px;
+    max-height:150px;
+    object-fit:contain;
+    cursor:pointer;
+    transition:0.3s;
+">`
                 : ""}
         </div>
 
@@ -1492,6 +1652,8 @@ while($row = $resultado->fetch_assoc()){
        style="margin-right:10px;border-radius:15px;background-color:#071637;">
        Solicitar cotización
     </a>
+
+   
 
    
 
@@ -1555,6 +1717,31 @@ while($row = $resultado->fetch_assoc()){
                 });
 
         });
+
+
+        // ===============================
+// MODAL FABRICANTE
+// ===============================
+document.addEventListener("click", function(e){
+
+const logo = e.target.closest(".logo-fabricante");
+
+if(!logo) return;
+
+const fabricante = logo.dataset.fabricante;
+const descripcion = logo.dataset.descripcion;
+const pais = logo.dataset.pais;
+const logoImg = logo.dataset.logo;
+
+document.getElementById("fabricanteNombre").textContent = fabricante;
+
+document.getElementById("fabricanteDescripcion").textContent = descripcion;
+
+document.getElementById("fabricantePais").textContent = pais;
+
+document.getElementById("fabricanteLogo").src = logoImg;
+
+});
     </script>
 
     <script>
@@ -1686,6 +1873,60 @@ while($row = $resultado->fetch_assoc()){
 
     </div>
 
+    <div id="modalFabricante" class="modal modal-fixed-footer">
+
+    <div class="modal-content">
+
+        <div class="row valign-wrapper">
+
+            <!-- LOGO -->
+            <div class="col s12 m4 center-align">
+
+                <img id="fabricanteLogo"
+                     style="
+                        max-width:180px;
+                        max-height:120px;
+                        object-fit:contain;
+                     ">
+
+            </div>
+
+            <!-- INFO -->
+            <div class="col s12 m8">
+
+                <h4 id="fabricanteNombre"
+                    style="font-weight:600;margin-bottom:10px;color:black">
+                </h4>
+
+                <div class="chip blue lighten-5 blue-text text-darken-4"
+                     id="fabricantePais">
+                </div>
+
+                <p id="fabricanteDescripcion"
+                   style="
+                    margin-top:15px;
+                    line-height:1.8;
+                    text-align:justify;
+                    color:black;
+                   ">
+                </p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="modal-footer">
+
+        <a href="#!"
+           class="modal-close btn" style="background-color:#071637;border-radius:15px;margin-right:45px;margin-top:10px;">
+           Cerrar
+        </a>
+
+    </div>
+
+</div>
 
 </body>
 

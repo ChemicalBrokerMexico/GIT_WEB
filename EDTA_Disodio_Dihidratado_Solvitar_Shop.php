@@ -3,10 +3,9 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
-    <meta name="description" content="El SPAN™ 80 es un emulsificante no iónico de alto desempeño ideal para aplicaciones alimentarias, cosméticas y farmacéuticas. Favorece la estabilidad de emulsiones agua en aceite, mejorando la textura, dispersión y consistencia de las formulaciones.">
-    <title>Chemical Broker | Mono Oleato de Sorbitan Span 80 | Proveedor Global | Compra</title>
-    <link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <link rel="canonical" href="https://chemicalbroker.mx/Enfoque_Quimico_Emull_S80_Shop.php">
+    <meta name="description" content="El EDTA Complejo de Calcio y Disodio Dihidratado es un agente quelante de alta eficiencia utilizado en aplicaciones alimentarias, farmacéuticas e industriales. Ayuda a estabilizar formulaciones, mejorar la conservación y proteger los productos contra la degradación causada por metales.">
+    <title>Chemical Broker | EDTA complejo de Calcio y Disodio Dihidratado | Proveedor Global | Compra</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <link rel="canonical" href="https://chemicalbroker.mx/EDTA_Disodio_Dihidratado_Solvitar_Shop.php">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen"/>
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen"/>
@@ -32,6 +31,88 @@
       gtag('js', new Date());
       gtag('config', 'G-SGJQ8FDDJ6');
     </script>
+    <style>
+      .product-hero {
+  padding: 60px 0;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+}
+
+.product-info {
+  max-width: 50%;
+}
+
+.product-info h1 {
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.subtitle {
+  margin: 15px 0;
+  color: #555;
+  font-size: 16px;
+}
+
+.badges span {
+  display: inline-block;
+  background: #0d1b2a;
+  color: #fff;
+  padding: 6px 12px;
+  margin-right: 8px;
+  border-radius: 20px;
+  font-size: 12px;
+}
+
+.cta {
+  margin-top: 20px;
+}
+
+.btn-primary {
+  background: #0d1b2a;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+
+.btn-secondary {
+  border: 1px solid #0d1b2a;
+  padding: 12px 20px;
+  border-radius: 8px;
+}
+
+.product-image img {
+  width: 350px;
+}
+
+.spec-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+
+.spec-item {
+  background: #f8f9fb;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.spec-item span {
+  font-size: 12px;
+  color: #777;
+}
+
+.spec-item strong {
+  display: block;
+  margin-top: 5px;
+}
+
+    </style>
   </head>
   <body> 
     <div class="modal" id="modal1" style="overflow-y:auto">
@@ -390,11 +471,11 @@
       </div>
     </ul>
     <div class="container-fluid">
-      <div class="slider slider-prueba" style="margin-top:0px">
-        <ul class="slides slides-pruea">
-          <li><img src="img/FOSFATOS_BANNER_110724.jpg" style="height:400px;" alt="Historia Ascendente">
+      <div class="slider slider-prueba" style="margin-top:0px;height:440px;">
+        <ul class="slides slides-pruea" style="height:400px;">
+          <li><img src="img/CB_ESTEARINA_PALMA_281223.png" style="height:820px;margin-top:-420px;">
             <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Fosfato Disodico de Hidrogeno</b><br></h1>
+              <h1 class="primertitulo"><b class="boldbanner">Fosfato Disodico de Hidrogeno Budal Na 221</b><br></h1>
               <div class="container">
     </div>
             </div>
@@ -403,14 +484,14 @@
       </div>
     </div>
 
-</div>
 
 <div class="container" style="margin-top:80px">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section style="margin-top:75px"><a class="active" href="index.php" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp > </b><a class="active" href="Products_news.php" style="color:black !important"><b class="Tipografia--general Subtitulos">Productos&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Fosfatos.php" style="color:black !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Fosfatos > </b></a><a class="breditem active" href="Fosfato_Disódico_Hidrogeno.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Fosfato Disódico de Hidrogeno</b></a></section>
+<section style="margin-top:75px"><a class="active" href="#" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Productos_news.php" style="color:black !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Productos > </b></a><a class="breditem active" href="Aceite_Canola_RBD_Cargill_Shop.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">EDTA Disodio Dihidratado Solvitar</b></a></section>
 
-<p class="Tipografia--general letranegro General--Cuerpo">El BUDAL® Na 221; El Fosfato Disódico de Hidrógeno, también conocido como fosfato ácido disódico o disodium hydrogen phosphate, es una sal inorgánica derivada del ácido fosfórico que contiene dos átomos de sodio, un átomo de hidrógeno y el grupo fosfato, cuya fórmula química es Na₂HPO₄; se presenta comúnmente como polvo o cristales blancos solubles en agua y actúa principalmente como agente regulador de pH, tampón (buffer), emulsificante y estabilizante, siendo ampliamente utilizado en la industria alimentaria, farmacéutica, tratamiento de agua y en procesos químicos debido a su capacidad para mantener la alcalinidad moderada y controlar la acidez en diferentes formulaciones.</p>
+<p class="Tipografia--general letranegro General--Cuerpo"><b>El Solvitar de Nouryon</b> es un complejo de EDTA cálcico-disódico de grado alimentario (etilendiaminotetraacético, CaNa₂EDTA·2H₂O) específicamente formulado para la industria de alimentos y bebidas, donde actúa como agente quelante y secuestrante de iones metálicos trazas presentes en materias primas, agua o superficies de equipo de proceso. Al formar complejos estables con metales como hierro, cobre o manganeso, previene reacciones indeseables que catalizan la oxidación y degradación de ingredientes, ayudando a mantener el color, sabor, textura y claridad, retardar el enranciamiento y extender la vida útil de productos como bebidas enlatadas, vegetales, salsas y aderezos sin afectar su calidad sensorial; además, cumple con especificaciones alimentarias estrictas (E385/INS 385, FCC, JECFA, FSSC 22000) y se produce como microgránulos tasteless y odorless para uso seguro en formulaciones alimentarias.</p>
+
 
 </div>
 </div>
@@ -419,115 +500,201 @@
 <div class="container" style="margin-top:100px">
     <div class="row">
         <div class="col s6 m6 l6 x6">
+
         <img src="img/SACO_PRODUCTOS_GENERAL_LOGO.jpg" style="width:100%;" alt="SACO DE PRODUCTO">
         </div>
         <div class="col s6 m6 l6 xl6">
-            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Mono Oleato de Sorbitan Span 80</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>EDTA complejo de calcio y Disodio Dihidratado</b></h2>
+        
         </div>
         <div class="col s6 m6 l6 xl6">
             <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Datos del Producto</b></h2>
 
-            <p class="Tipografia--general letranegro General--Cuerpo">El Mono Oleato de Sorbitán, también conocido comercialmente como Span 80, es un emulsificante no iónico obtenido a partir de la reacción entre sorbitol y ácido oleico. Se utiliza ampliamente en las industrias alimentaria, cosmética, farmacéutica y química debido a su capacidad para estabilizar mezclas de agua y aceite, mejorando la uniformidad y consistencia de las formulaciones. Este ingrediente destaca por sus propiedades emulsificantes, humectantes y dispersantes, siendo común en productos como cremas, lociones, alimentos procesados, lubricantes, detergentes y formulaciones industriales donde se requiere estabilidad, textura y una adecuada dispersión de componentes oleosos.</p>
-    
-        <table>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Descripción Química:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Mono Oleato de Sorbitan</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">CAS #:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">1338-43-8</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Familia Química:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Esteres de Sorbitan</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Sinónimos</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Span 80</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Grado:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Alimentos</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Certificaciones:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Kosher</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Presentación:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Tambor 222 Kg<br>Grenel</td>
-           </tr>
-           <tr>
-            <td colspan="2" class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Especificaciones:</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Apariencia:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Liquido viscoso</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Color:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Color amarillo ámbar, transparente a ligeramente opalescente.</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Incide de Acidez (mgKOH/g):</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">8 máximo </td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Índice de Hidroxilo (mgKOH/g):</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">193 – 210</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Índice de Saponificación (mgKOH/g):</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">145 – 160</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Color Gardner:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">8 máximo</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Índice de Peróxido (%):</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Libre</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Sulfitos Libres (%):</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Libre</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Densidad (g/ml):</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">0.98 – 1.02</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Vida de Anaquel:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">2 años a partir de la fecha de elaboración y en su envase original.</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Cantidad Mínima de Venta:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">800 Kg.</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Funciones:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">El Mono Oleato de Sorbitán funciona principalmente como emulsificante, estabilizante, dispersante y agente humectante en diferentes formulaciones industriales. Su función principal es facilitar la mezcla entre fases oleosas y acuosas, evitando la separación de ingredientes y mejorando la estabilidad física de los productos. También actúa como tensioactivo no iónico, reduciendo la tensión superficial y favoreciendo una dispersión uniforme de aceites, pigmentos y otros componentes insolubles. En aplicaciones cosméticas y alimentarias contribuye a mejorar la textura, consistencia y apariencia de las formulaciones, mientras que en productos farmacéuticos e industriales ayuda a mantener la homogeneidad, estabilidad y desempeño durante el almacenamiento y uso del producto.</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Aplicaciones:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">El Mono Oleato de Sorbitán tiene diversas aplicaciones en las industrias alimentaria, cosmética, farmacéutica e industrial gracias a sus propiedades emulsificantes y estabilizantes. En la industria alimentaria se emplea en productos como margarinas, aderezos, panificación y emulsiones alimenticias para mejorar textura, estabilidad y apariencia. En cosmética y cuidado personal se utiliza en cremas, lociones, maquillajes, productos capilares y limpiadores, ayudando a mantener mezclas homogéneas y una mejor sensación de aplicación. En la industria farmacéutica forma parte de pomadas, emulsiones y sistemas de liberación de ingredientes activos. Además, se aplica en lubricantes, pinturas, agroquímicos, detergentes y productos textiles, donde favorece la dispersión de aceites y pigmentos, mejora la estabilidad de las formulaciones y optimiza el desempeño de los productos durante su uso y almacenamiento.</td>
-           </tr> 
-        </table>
+            <table>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Descripción Química:</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">EDTA complejo de Calcio y Disodio Dihidratado</td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">CAS #:</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">23411-34-9 (Di hidratado)<br>62-33-9 (anhidro)</td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Formula Química:</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">EDTA-CaNa2.2H2O</td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Peso Molecular:</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">410.3 (Di hidratado)<br>374.3 (Anhidro)</td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Familia Química:</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">EDTA´s</td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Sinónimos</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">- EDTA de Calcio</td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Grado:</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">- USP | EP | FCC</td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Certificaciones:</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">- Kosher | Halal | JECFA</td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Presentación:</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">- Saco 25 Kg.</td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" colspan="2">Especificaciones:</td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Apariencia:</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"></td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Apariencia de 5% solución:</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"></td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Arsénico:</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"></td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Ensayo en base anhidra:</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"></td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Cloruro</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"></td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">EDTA libre como EDTA-Na₂</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"></td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Metales pesados como Pb</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"></td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Identificación</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"></td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Contenido de hierro</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"></td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Plomo</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"></td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Magnesio Sustancia quelante</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"></td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Mercurio</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"></td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">NTA-H₃</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"></td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">pH, solución acuosa al 1 % p/v</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"></td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">pH, solución acuosa al 20 % p/v</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"></td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Fe total</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"></td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Contenido de agua</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"></td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" colspan="2">Características</td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Densidad aparente, colada</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"></td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Densidad aparente, sin colada, vertida</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"></td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Contenido de calcio</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"></td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Solubilidad in agua, 20°C</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"></td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Solubilidad in agua, 80°C</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"></td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" colspan="2">Valores secuestrantes (aprox.), teóricos</td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Cobre, pH 2-14</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">155 mg metal/g</td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Férrico, pH 1-10</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">135 mg metal/g</td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Manganeso, pH 3-13</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">135 mg metal/g</td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Zinc, pH 2-13</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">160 mg metal/g</td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Vida de Anaquel:</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">- 2 años a partir de la fecha de elaboración y en su envase original.</td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Cantidad Mínima de Venta:</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">- Pallet 750 Kg.</td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Función:</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">El Solvitar de Nouryon cumple en alimentos la función principal de agente quelante y secuestrante de metales traza, uniéndose de manera selectiva a iones como hierro y cobre que catalizan reacciones de oxidación; gracias a ello, previene el enranciamiento de grasas y aceites, la pérdida de color, la formación de sabores indeseables y la turbidez, contribuyendo a mantener la estabilidad fisicoquímica, la calidad sensorial y la vida útil de productos como aderezos, mayonesas, salsas, vegetales en conserva y bebidas, todo sin modificar el perfil organoléptico de la formulación.</td>
+              </tr>
+              <tr>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Aplicación:</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">El Solvitar de Nouryon se aplica en la industria de alimentos y bebidas como estabilizante en productos susceptibles a oxidación o decoloración, tales como mayonesas, aderezos y salsas emulsionadas, vegetales y legumbres en conserva, productos del mar procesados, bebidas carbonatadas y no carbonatadas, así como en sistemas con aceites y grasas, donde su acción quelante controla metales traza provenientes de materias primas, agua o equipos, ayudando a preservar color, sabor, textura y claridad durante el almacenamiento y distribución, y extendiendo la vida útil del producto terminado.</td>
+              </tr>
+            </table>
+          
+     
+
 
         </div>
-
-
+        <div class="col s12 m12 l12 xl12">
+      
+        </div>
     </div>
+</div>
 
 <div class="container">
     <div class="row">
     <div class="col s12 m12 l12 xl12">
-        <a href="https://wa.me/5615242685?text=Hola" clas="float-wa" target="_blank"><h2 class="Tipografia--general letranegro General--Cuerpo"><b><button class="btn" style="background-color:#071637;color:white;cursor:pointer;">Cotiza o Consulta con nosotros tu requerimiento</button> </b></h2></a>
+        <a href="https://wa.me/5615242685?text=Hola Deseo Comprar este Producto" clas="float-wa" target="_blank"><h2 class="Tipografia--general letranegro General--Cuerpo"><b><button class="btn" style="background-color:#071637;color:white;cursor:pointer;border-radius:15px">Cotiza o Consulta con nosotros tu requerimiento</button> </b></h2></a>
             <!-- <button style="background-color:#071637;color:white;width:100%;border-radius:15px;height:60px;">Contactenos</button> -->
         </div>
     </div>
-</div>
 </div>
 
 

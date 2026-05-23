@@ -3,10 +3,10 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
-    <meta name="description" content="El SPAN™ 80 es un emulsificante no iónico de alto desempeño ideal para aplicaciones alimentarias, cosméticas y farmacéuticas. Favorece la estabilidad de emulsiones agua en aceite, mejorando la textura, dispersión y consistencia de las formulaciones.">
-    <title>Chemical Broker | Mono Oleato de Sorbitan Span 80 | Proveedor Global | Compra</title>
+    <meta name="description" content="El Polioxietileno Sorbitán Monoestearato es un emulsificante y dispersante de alta eficiencia utilizado en aplicaciones alimentarias, cosméticas y farmacéuticas. Favorece la estabilidad de emulsiones, mejora la textura y optimiza la uniformidad en distintas formulaciones industriales.">
+    <title>Chemical Broker | Polioxietileno (60) Sorbitan Mono Estearato | Proveedor Global | Compra</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <link rel="canonical" href="https://chemicalbroker.mx/Enfoque_Quimico_Emull_S80_Shop.php">
+    <link rel="canonical" href="https://chemicalbroker.mx/Polioxietileno_60_Sorbitan_Indovinya_Shop.php">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen"/>
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen"/>
@@ -394,7 +394,7 @@
         <ul class="slides slides-pruea">
           <li><img src="img/FOSFATOS_BANNER_110724.jpg" style="height:400px;" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Fosfato Disodico de Hidrogeno</b><br></h1>
+              <h1 class="primertitulo"><b class="boldbanner">Polioxietileno 60 Sorbitan Mono Laurato | Polisorbato 60 | Tween 60 </b><br></h1>
               <div class="container">
     </div>
             </div>
@@ -408,9 +408,9 @@
 <div class="container" style="margin-top:80px">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section style="margin-top:75px"><a class="active" href="index.php" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp > </b><a class="active" href="Products_news.php" style="color:black !important"><b class="Tipografia--general Subtitulos">Productos&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Fosfatos.php" style="color:black !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Fosfatos > </b></a><a class="breditem active" href="Fosfato_Disódico_Hidrogeno.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Fosfato Disódico de Hidrogeno</b></a></section>
+<section style="margin-top:75px"><a class="active" href="index.php" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp > </b><a class="active" href="Products_news.php" style="color:black !important"><b class="Tipografia--general Subtitulos">Productos&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Fosfatos.php" style="color:black !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Fosfatos > </b></a><a class="breditem active" href="Fosfato_Disódico_Hidrogeno.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Alkest (r) TW 60 K</b></a></section>
 
-<p class="Tipografia--general letranegro General--Cuerpo">El BUDAL® Na 221; El Fosfato Disódico de Hidrógeno, también conocido como fosfato ácido disódico o disodium hydrogen phosphate, es una sal inorgánica derivada del ácido fosfórico que contiene dos átomos de sodio, un átomo de hidrógeno y el grupo fosfato, cuya fórmula química es Na₂HPO₄; se presenta comúnmente como polvo o cristales blancos solubles en agua y actúa principalmente como agente regulador de pH, tampón (buffer), emulsificante y estabilizante, siendo ampliamente utilizado en la industria alimentaria, farmacéutica, tratamiento de agua y en procesos químicos debido a su capacidad para mantener la alcalinidad moderada y controlar la acidez en diferentes formulaciones.</p>
+<p class="Tipografia--general letranegro General--Cuerpo">El ALKEST® TW 60 K, Polioxietileno (60) Sorbitan Monoestearato es un tensioactivo no iónico, mejor conocido por su nombre comercial Polisorbato 60 o Tween 60.</p>
 
 </div>
 </div>
@@ -422,98 +422,148 @@
         <img src="img/SACO_PRODUCTOS_GENERAL_LOGO.jpg" style="width:100%;" alt="SACO DE PRODUCTO">
         </div>
         <div class="col s6 m6 l6 xl6">
-            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Mono Oleato de Sorbitan Span 80</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>ALKEST (R) TW 60 K</b></h2>
         </div>
         <div class="col s6 m6 l6 xl6">
             <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Datos del Producto</b></h2>
 
-            <p class="Tipografia--general letranegro General--Cuerpo">El Mono Oleato de Sorbitán, también conocido comercialmente como Span 80, es un emulsificante no iónico obtenido a partir de la reacción entre sorbitol y ácido oleico. Se utiliza ampliamente en las industrias alimentaria, cosmética, farmacéutica y química debido a su capacidad para estabilizar mezclas de agua y aceite, mejorando la uniformidad y consistencia de las formulaciones. Este ingrediente destaca por sus propiedades emulsificantes, humectantes y dispersantes, siendo común en productos como cremas, lociones, alimentos procesados, lubricantes, detergentes y formulaciones industriales donde se requiere estabilidad, textura y una adecuada dispersión de componentes oleosos.</p>
-    
-        <table>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Descripción Química:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Mono Oleato de Sorbitan</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">CAS #:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">1338-43-8</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Familia Química:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Esteres de Sorbitan</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Sinónimos</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Span 80</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Grado:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Alimentos</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Certificaciones:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Kosher</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Presentación:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Tambor 222 Kg<br>Grenel</td>
-           </tr>
-           <tr>
-            <td colspan="2" class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Especificaciones:</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Apariencia:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Liquido viscoso</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Color:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Color amarillo ámbar, transparente a ligeramente opalescente.</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Incide de Acidez (mgKOH/g):</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">8 máximo </td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Índice de Hidroxilo (mgKOH/g):</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">193 – 210</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Índice de Saponificación (mgKOH/g):</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">145 – 160</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Color Gardner:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">8 máximo</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Índice de Peróxido (%):</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Libre</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Sulfitos Libres (%):</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Libre</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Densidad (g/ml):</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">0.98 – 1.02</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Vida de Anaquel:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">2 años a partir de la fecha de elaboración y en su envase original.</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Cantidad Mínima de Venta:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">800 Kg.</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Funciones:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">El Mono Oleato de Sorbitán funciona principalmente como emulsificante, estabilizante, dispersante y agente humectante en diferentes formulaciones industriales. Su función principal es facilitar la mezcla entre fases oleosas y acuosas, evitando la separación de ingredientes y mejorando la estabilidad física de los productos. También actúa como tensioactivo no iónico, reduciendo la tensión superficial y favoreciendo una dispersión uniforme de aceites, pigmentos y otros componentes insolubles. En aplicaciones cosméticas y alimentarias contribuye a mejorar la textura, consistencia y apariencia de las formulaciones, mientras que en productos farmacéuticos e industriales ayuda a mantener la homogeneidad, estabilidad y desempeño durante el almacenamiento y uso del producto.</td>
-           </tr>
-           <tr>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Aplicaciones:</td>
-            <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">El Mono Oleato de Sorbitán tiene diversas aplicaciones en las industrias alimentaria, cosmética, farmacéutica e industrial gracias a sus propiedades emulsificantes y estabilizantes. En la industria alimentaria se emplea en productos como margarinas, aderezos, panificación y emulsiones alimenticias para mejorar textura, estabilidad y apariencia. En cosmética y cuidado personal se utiliza en cremas, lociones, maquillajes, productos capilares y limpiadores, ayudando a mantener mezclas homogéneas y una mejor sensación de aplicación. En la industria farmacéutica forma parte de pomadas, emulsiones y sistemas de liberación de ingredientes activos. Además, se aplica en lubricantes, pinturas, agroquímicos, detergentes y productos textiles, donde favorece la dispersión de aceites y pigmentos, mejora la estabilidad de las formulaciones y optimiza el desempeño de los productos durante su uso y almacenamiento.</td>
-           </tr> 
-        </table>
+       <table>
+        <tr>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Descripción Química:</td>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Polioxietileno (60) Sorbitan Monoestearato</td>
+        </tr>
+        <tr>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">CAS #:</td>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">9005-67-8</td>
+        </tr>
+        <tr>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Familia Química:</td>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Esteres de Sorbitan Etoxilados</td>
+        </tr>
+        <tr>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Sinónimos</td>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Polisorbato 60 | Tween 60</td>
+        </tr>
+        <tr>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Grado:</td>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">USP | FCC</td>
+        </tr>
+        <tr>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Certificaciones:</td>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Kosher | Halal | REACH</td>
+        </tr>
+        <tr>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Presentación:</td>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Tambor 213 Kg.<br>Granel</td>
+        </tr>
+        <tr>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" colspan="2">Especificaciones:</td>
+        </tr>
+        <tr>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Apariencia, 25 °C:</td>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Pasta amarillenta</td>
+        </tr>
+        <tr>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Contenido de Óxido de Etileno, %:</td>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">65.0 – 69.5</td>
+        </tr>
+        <tr>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Contenido de Ácidos Esteárico y Palmítico (C18 y C16), g/100g: </td>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">21.5 – 26.0</td>
+        </tr>
+        <tr>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Índice de Acidez (C18&C16), mgKOH/g:</td>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">200.0 – 212.0</td>
+        </tr>
+        <tr>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Punto de Solidificación (C16 y C18), ºC:</td>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">52.0 – 68.0</td>
+        </tr>
+        <tr>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">C18 Esteárico, %:</td>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">40.0 – 60.0</td>
+        </tr>
+        <tr>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">C16 Palmítico y C18 Esteárico, %:</td>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">902.0 – 100.0</td>
+        </tr>
+        <tr>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Plomo, como Pb, ppm:</td>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">2.0</td>
+        </tr>
+        <tr>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Arsénico, como As, ppm:</td>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">3.0</td>
+        </tr>
+        <tr>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Hidroxilo, índice de, mg KOH/g:</td>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">81.0 – 96.0</td>
+        </tr>
+        <tr>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Acidez, índice de, mgKOH/g:</td>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">2.0</td>
+        </tr>
+        <tr>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Óxido de etileno residual, ppm:</td>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">1.0</td>
+        </tr>
+        <tr>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">pH, 5% p/p, acuoso, 25ºC:</td>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">6.0 – 7.0</td>
+        </tr>
+        <tr>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Saponificación, índice de, mgKOH/g (media):</td>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">45.0 – 55.0</td>
+        </tr>
+        <tr>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Identificación FCC:</td>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Pasa</td>
+        </tr>
+        <tr>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Metales pesados, ppm:</td>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">10.0</td>
+        </tr>
+        <tr>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Dioxana, ppm:</td>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">10.0</td>
+        </tr>
+        <tr>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Identificación (IR):</td>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Pasa</td>
+        </tr>
+        <tr>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Cenizas Sulfatadas, %p:</td>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">0.250</td>
+        </tr>
+        <tr>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Agua, %p:</td>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">3.0</td>
+        </tr>
+        <tr>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Peroxide value, mEq/1000g:</td>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">10.0</td>
+        </tr>
+        <tr>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Color Gardner, 60 ºC:</td>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">5.0</td>
+        </tr>
+        <tr>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Vida de Anaquel:</td>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">2 años a partir de la fecha de elaboración y en su envase original.</td>
+        </tr>
+        <tr>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Cantidad Mínima de Venta:</td>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Pallet 852 Kg.</td>
+        </tr>
+        <tr>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Función:</td>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Surfactante, Emulsificante, Estabilizante.</td>
+        </tr>
+        <tr>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Aplicación:</td>
+          <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">El Polioxietileno (20) Sorbitan Monostearate (Polisorbato 60 o Tween 60) es un emulsionante no iónico ampliamente utilizado para estabilizar y homogeneizar mezclas de aceite y agua, principalmente en la industria alimentaria (panificación, cremas, rellenos, helados y coberturas, donde mejora textura, volumen y vida útil), en la industria cosmética (cremas, lociones, maquillajes y productos capilares para mejorar estabilidad, suavidad y dispersión de ingredientes), en la industria farmacéutica (vehículo y solubilizante en formulaciones orales, tópicas e inyectables) y en aplicaciones industriales y químicas como dispersante y estabilizante en formulaciones especializadas.</td>
+        </tr>
+       </table>
 
         </div>
 
