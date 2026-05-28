@@ -7,6 +7,7 @@
   <title>Chemical Broker | Bicarbonato de Sodio de Solvay | Proveedor Global y Nacional de Ingredientes Quimicos</title>
   <meta name="description" content="Ofrecemos Bicarbonato de sodio de alta pureza, ideal para aplicaciones alimentarias, de limpieza y en diversas industrias. Versátil y efectivo, nuestro producto garantiza resultados óptimos en cada uso. ¡Elige nuestro bicarbonato de sodio para calidad y rendimiento superior en tus procesos!">
   <link rel="canonical" href="https://chemicalbroker.mx/Bicarbonato_Sodio.php">
+  <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
   <script>
     window.dataLayer = window.dataLayer || [];

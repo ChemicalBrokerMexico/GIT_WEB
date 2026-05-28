@@ -389,38 +389,25 @@
         </div>
       </div>
     </ul>
-<div class="row">
-<div class="slider slider-prueba">
-<ul class="slides">
-<li><div style="height:800px;background:linear-gradient(#071637 99%);">
+    <div class="container-fluid">
+      <div class="slider slider-prueba" style="margin-top:0px">
+        <ul class="slides slides-pruea">
+          <li><img src="img/CB_BHT_230524.jpg" style="height:400px;" alt="Historia Ascendente">
+            <div class="caption center-align"><br><br><br><br>
+              <h1 class="primertitulo"><b class="boldbanner">BHT (Butilhidroxitolueno)</b><br></h1>
+              <div class="container">
+    </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
 
-<b class="segundotitulo" style="float:right;color:white;margin-top:200px;margin-right:150px;">Butilhidroxitolueno (BHT)</b>
-
-</div>
-<div class="caption center-align"><br><br><br><br>
-<br>
-
-<div class="container" style="margin-top:-100px;">
-<div class="row">
-<div class="col s12 m12 l12 xl12">
-
-
-
-</div>
-</div>
-</div>
-
-
-</div>
-</li>
-</ul>
-</div>
-</div>
 
 <div class="container" style="margin-top:80px">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section style="margin-top:75px"><a class="active" href="#" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="BHA.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Butilhidroxitolueno (BHT) > </b></a><a class="breditem active" href="Acido_Citrico_Anhidro_Shop.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Butilhidroxitolueno (BHT) Shop</b></a></section>
+<section style="margin-top:75px"><a class="active" href="#" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="BHA.php" style="color:black !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Butilhidroxitolueno (BHT) > </b></a><a class="breditem active" href="BHT_SHOP.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Butilhidroxitolueno (BHT) Shop</b></a></section>
 
 <p class="Tipografia--general letranegro General--Cuerpo">El BHT (Butilhidroxitolueno) es un antioxidante químico sintético muy utilizado para evitar la oxidación (enranciamiento) de grasas, aceites y otros compuestos sensibles al oxígeno.</p>
 
@@ -609,10 +596,11 @@
 <div class="container" style="margin-top:100px">
     <div class="row">
         <div class="col s6 m6 l6 x6">
-        <img src="img/CAJA_ANTIOXIDANTES_190226.jpg" style="width:100%;" alt="SACO DE PRODUCTO">
+        <img src="img/CAJA_BLANCA_300426.jpg" style="width:100%;" alt="SACO DE PRODUCTO">
         </div>
         <div class="col s6 m6 l6 xl6">
             <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Butilhidroxitolueno (BHT)</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Datos del Producto</b></h2>
             <!-- <table>
                 <tr>
                     <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b><center>Tipo de embalaje:</center></b></td>
@@ -625,7 +613,7 @@
             </table> -->
         </div>
         <div class="col s6 m6 l6 xl6">
-            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Datos del Producto</b></h2>
+          
             <table>
                 <tr>
                     <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Descripcion Química:</b></td>

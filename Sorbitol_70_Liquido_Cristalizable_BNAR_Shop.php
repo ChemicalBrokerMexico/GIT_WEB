@@ -389,38 +389,25 @@
         </div>
       </div>
     </ul>
-<div class="row">
-<div class="slider slider-prueba">
-<ul class="slides">
-<li><div style="height:800px;background:linear-gradient(#071637 99%);">
+    <div class="container-fluid">
+      <div class="slider slider-prueba" style="margin-top:0px">
+        <ul class="slides slides-pruea">
+          <li><img src="img/pasta-dientes-fluor.jpg" style="height:400px;" alt="Historia Ascendente">
+            <div class="caption center-align"><br><br><br><br>
+              <h1 class="primertitulo"><b class="boldbanner">Sorbitol 70 Liquido Cristalizable BNAR Shop</b><br></h1>
+              <div class="container">
+    </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
 
-<b class="segundotitulo" style="float:right;color:white;margin-top:200px;margin-right:150px;">Sorbitol 70% Liquido Cristalizable BNAR Shop</b>
-
-</div>
-<div class="caption center-align"><br><br><br><br>
-<br>
-
-<div class="container" style="margin-top:-100px;">
-<div class="row">
-<div class="col s12 m12 l12 xl12">
-
-
-
-</div>
-</div>
-</div>
-
-
-</div>
-</li>
-</ul>
-</div>
-</div>
 
 <div class="container" style="margin-top:80px">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section style="margin-top:75px"><a class="active" href="index.php" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Sorbitoles.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Sorbitoles > </b></a><a class="breditem active" href="Sorbitol_70_Liquido_Cristalizable_BNAR_Shop.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Sorbitol 70% Liquido Cristalizable BNAR Shop</b></a></section>
+<section style="margin-top:75px"><a class="active" href="index.php" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Productos_news.php" style="color:black !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Productos > </b></a><a class="breditem active" href="Sorbitoles.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Sorbitoles > </b></a><a class="breditem active" href="Sorbitol_70_Liquido_Cristalizable_BNAR_Shop.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Sorbitol 70% Liquido Cristalizable BNAR Shop</b></a></section>
 
 <p class="Tipografia--general letranegro General--Cuerpo"><b>Sorbitol</b> (también llamado D-glucitol) es un <b>alcohol de azúcar (poliol)</b> obtenido por <b>hidrogenación de glucosa</b>. En su forma líquida al <b>70 % de materia seca</b> es un <b>líquido viscoso, transparente, con sabor ligeramente dulce</b>, y se utiliza como <b>edulcorante, humectante y agente funcional</b> en múltiples industrias.</p>
 <p class="Tipografia--general letranegro General--Cuerpo"><b>Bajo nivel de azúcares reductores</b> significa que las impurezas como glucosas libres están muy controladas (≤ ≈ 0.15 %). Esto es importante para minimizar reacciones de Maillard y prolongar estabilidad/claridad en formulaciones.</p>
@@ -435,147 +422,150 @@
 
 <div class="col s6 m6 l6 xl6">
 
-<img src="img/CBM_TAMBOR_WEB.jpg" style="width:100%;" alt="Tambor de Producto">
+<img src="img/CBM_TAMBOR_METALICO.png" style="width:100%;" alt="Tambor de Producto">
 
 </div>
 
     <div class="col s6 m6 l6 xl6">
 <table>
     <tr>
-      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Descripción Química:</center></td>
+      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Descripción Química:</b></center></td>
       <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>D-Glucitol</center></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>CAS #:</center></td>
+      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>CAS #:</b></center></td>
       <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>50-70-4</center></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Familia Química:</center></td>
+      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Familia Química:</b></center></td>
       <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Polioles</center></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Sinónimos</center></td>
+      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Sinónimos</b></center></td>
       <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><ol>
-        <li class="Elementos--Listas">D-Sorbitol</li>
-        <li class="Elementos--Listas">D-Glucitol</li>
-        <li class="Elementos--Listas">Glucitol</li>
-        <li class="Elementos--Listas">Hexano-1,2,3,4,5,6-hexol</li>
-        <li class="Elementos--Listas">Sorbit</li>
-        <li class="Elementos--Listas">Sorbitol syrup / Sorbitol solution</li>
-        <li class="Elementos--Listas">Sorbitol líquido 70 %</li>
+        <center><li class="Elementos--Listas">D-Sorbitol</li></center>
+        <center><li class="Elementos--Listas">D-Glucitol</li></center>
+        <center><li class="Elementos--Listas">Glucitol</li></center>
+        <center><li class="Elementos--Listas">Hexano-1,2,3,4,5,6-hexol</li></center>
+        <center><li class="Elementos--Listas">Sorbit</li></center>
+        <center><li class="Elementos--Listas">Sorbitol syrup / Sorbitol solution</li></center>
+        <center><li class="Elementos--Listas">Sorbitol líquido 70 %</li></center>
       </ol></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Grado:</center></td>
+      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Grado:</b></center></td>
       <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>USP | FCC</center></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Certificaciones:</center></td>
+      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Certificaciones:</b></center></td>
       <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Kosher | Halal</center></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Presentación:</center></td>
+      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Presentación:</b></center></td>
       <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><ol>
-        <li class="Elementos--Listas">Tambor 270 Kg.</li>
-        <li class="Elementos--Listas">IBC 1,300 Kg.</li>
-        <li class="Elementos--Listas">Granel</li>
+        <center><li class="Elementos--Listas">Tambor 270 Kg.</li></center>
+        <center><li class="Elementos--Listas">IBC 1,300 Kg.</li></center>
+        <center><li class="Elementos--Listas">Granel</li></center>
       </ol></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" colspan="2"><center>Especificaciones:</center></td>
+      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" colspan="2"><center><b>Especificaciones:</b></center></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Apariencia:</center></td>
+      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Apariencia:</b></center></td>
       <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Líquido transparente, incoloro y almibarado, miscible con agua.</center></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Identificación A:<br>Examina la cromatografía obtenida en el ensayo.</center></td>
+      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Identificación A:<br>Examina la cromatografía obtenida en el ensayo.</b></center></td>
       <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>El pico principal en el cromatograma obtenido con la solución de prueba es similar en tiempo de retención al pico principal en el cromatograma obtenido con la solución de referencia.</center></td>
     </tr>
     <tr><center>
-      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Identificación B °:<br>Ángulo de rotación.</center></td>
+      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Identificación B °:<br>Ángulo de rotación.</b></center></td>
       <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>0 - +1.5</center></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Identificación C:<br>Aspecto a 25 °C.</center></td>
+      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Identificación C:<br>Aspecto a 25 °C.</b></center></td>
       <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Líquido claro y almibarado</center></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Aspecto de la solución:</center></td>
+      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Aspecto de la solución:</b></center></td>
       <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Claro e incoloro</center></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Conductividad (μS/cm):</center></td>
+      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Conductividad (μS/cm):</b></center></td>
       <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>10 máximo</center></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Azúcares reductores (calculados como equivalente de glucosa) (%):</center></td>
+      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Azúcares reductores (calculados como equivalente de glucosa) (%):</b></center></td>
       <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>0.05 máximo</center></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Plomo (Pb) (ppm):</center></td>
+      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Plomo (Pb) (ppm):</b></center></td>
       <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>0.5 máximo</center></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Níquel (Ni) (ppm):</center></td>
+      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Níquel (Ni) (ppm):</b></center></td>
       <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>1 máximo</center></td>
     </tr>
     <tr>
-  <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Contenido de agua (%):</center></td>
+  <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Contenido de agua (%):</b></center></td>
   <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>28 – 32 máximo</center></td></tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Ensayo (Sustancia anhidra) (%):</center></td>
+      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Ensayo (Sustancia anhidra) (%):</b></center></td>
       <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>68 – 72 máximo</center></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Ensayo (D-sorbitol) (%):</center></td>
+      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Ensayo (D-sorbitol) (%):</b></center></td>
       <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>97.1 mínimo</center></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" colspan="2"><center>Microbiológico</center></center></td>
+      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" colspan="2"><center><b>Microbiológico</b></center></center></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Recuento total de microbios aeróbicos:</center></td>
+      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Recuento total de microbios aeróbicos:</b></center></td>
       <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>500 máximo</center></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Mohos y levaduras totales:</center></td>
+      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Mohos y levaduras totales:</b></center></td>
       <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>100 máximo</center></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>E. coli:</center></td>
+      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>E. coli:</b></center></td>
       <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>-</center></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Vida de Anaquel:</center></td>
+      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Vida de Anaquel:</b></center></td>
       <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>2 años a partir de la fecha de elaboración y en su envase original.<br>El producto debe almacenarse en un recipiente cerrado a una temperatura de entre 25 y 35 °C (77 y 95 °F). Nota: Las temperaturas de almacenamiento más altas pueden provocar cambios de color y una disminución del pH debido a la reacción de Milliard, mientras que las temperaturas más bajas pueden provocar congelación. No se requieren requisitos específicos de humedad, siempre que el producto se mantenga sellado y en condiciones higiénicas.</center></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Cantidad Mínima de Venta:</center></td>
+      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Cantidad Mínima de Venta:</b></center></td>
       <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Pallet 1,080 Kg.</center></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Función:</center></td>
+      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Función:</b></center></td>
       <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Humectante. - su alta afinidad por el agua le permite retener humedad, mejorar la estabilidad y evitar el resecamiento o endurecimiento de productos alimentarios, farmacéuticos y cosméticos.<br>Agente funcional. - aportando dulzor moderado, cuerpo, viscosidad y control de cristalización, además de reducir reacciones indeseables como el pardeamiento, gracias a su bajo contenido de azúcares reductores.<br>Materia prima química. - aprovechando sus múltiples grupos hidroxilo para participar en reacciones de esterificación y en la síntesis de ésteres de sorbitol y sorbitano, utilizados como emulsificantes y tensioactivos no iónicos en diversas industrias.</center></td>
     </tr>
     <tr>
-      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Aplicación:</center></td>
+      <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Aplicación:</b></center></td>
       <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Este producto se utiliza como humectante en numerosos productos de panadería, como bizcochos, bizcochos de masa fina, brazos de gitano y pasteles, así como en pan de jengibre y galletas. No fermenta con levadura de panadería ni se degrada a las temperaturas utilizadas en repostería. La sustitución de la sacarosa entre un 3 % y un 5 % por este sorbitol contribuye a una mejora significativa de la vida útil de los productos horneados. También se puede utilizar como plastificante en cápsulas de gelatina y en formulaciones líquidas. Otras aplicaciones incluyen como agente de carga en soluciones y jarabes sin azúcar.<br>El sorbitol 70 % líquido, especialmente en grados de bajo contenido de azúcares reductores, se utiliza como materia prima en procesos de esterificación para la obtención de ésteres de sorbitol y sorbitano, empleados ampliamente como emulsificantes y tensioactivos no iónicos. Debido a su naturaleza de polialcohol con múltiples grupos hidroxilo, el sorbitol puede reaccionar con ácidos carboxílicos, principalmente ácidos grasos, formando mono-, di- o poliésteres. En la práctica industrial, el sorbitol 70 % no se esterifica directamente por su contenido de agua, sino que se somete previamente a deshidratación parcial para formar sorbitano, el cual posteriormente se esterifica bajo condiciones controladas de temperatura y catálisis ácida, obteniéndose productos estables, de color claro y con propiedades funcionales bien definidas, donde el bajo nivel de azúcares reductores contribuye a minimizar reacciones secundarias y degradación térmica.</center></td>
     </tr>
 </table>
-    </div>
-</div>
-
-</div>
 
 <div class="container">
     <div class="row">
-        <div class="col s12 m12 l12 xl12">
-        <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank"><h2 class="Tipografia--general letranegro General--Cuerpo"><b><button class="btn" style="background-color:#071637;color:white;cursor:pointer;">Cotiza o Consulta con nosotros tu requerimiento</button> </b></h2></a>
+    <div class="col s12 m12 l12 xl12">
+        <a href="https://wa.me/5615242685?text=Hola Deseo Comprar este Producto" clas="float-wa" target="_blank"><h2 class="Tipografia--general letranegro General--Cuerpo"><b><button class="btn" style="background-color:#071637;color:white;cursor:pointer;border-radius:15px;">Cotiza o Consulta con nosotros tu requerimiento</button> </b></h2></a>
             <!-- <button style="background-color:#071637;color:white;width:100%;border-radius:15px;height:60px;">Contactenos</button> -->
         </div>
     </div>
 </div>
+
+    </div>
+</div>
+
+</div>
+
+
 
 
 

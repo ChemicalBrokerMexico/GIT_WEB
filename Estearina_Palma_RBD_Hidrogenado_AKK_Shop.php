@@ -3,10 +3,9 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
-    <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos.">
-    <title>Chemical Broker | Butil Hidroxi Anisol (BHA) | Proveedor Global | Compra</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <meta name="description" content="Compra Butilhidroxianisol (BHA) de alta pureza. Antioxidante ampliamente usado en alimentos, cosméticos, farmacéutica. Envios rapidos y seguros">
-    <link rel="canonical" href="https://chemicalbroker.mx/BHA_SHOP.php">
+    <meta name="description" content="La estearina de palma RBD hidrogenada es una grasa vegetal de alta estabilidad utilizada en las industrias alimentaria, cosmética y química. Ideal para aplicaciones que requieren consistencia, textura y excelente desempeño en formulaciones industriales.">
+    <title>Chemical Broker | Estearina de Palma RBD Alto Hidrogenado | Proveedor Global | Shop</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <link rel="canonical" href="https://chemicalbroker.mx/Estearina_Palma_RBD_Hidrogenado_AKK_Shop.php">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen"/>
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen"/>
@@ -489,7 +488,7 @@
 <div class="container" style="margin-top:80px">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section style="margin-top:75px"><a class="active" href="#" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Acido_Citrico.php" style="color:black !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Estearina de Palma RBD Alto Hidrogenado > </b></a><a class="breditem active" href="Acido_Citrico_Anhidro_Shop.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Estearina de Palma RBD Alto Hidrogenado Shop</b></a></section>
+<section style="margin-top:75px"><a class="active" href="#" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="active" href="Productos_news.php" style="color:black !important"><b class="Tipografia--general Subtitulos">Productos&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Estearina_Palma_Hidrogenado.php" style="color:black !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Estearina de Palma RBD Alto Hidrogenado > </b></a><a class="breditem active" href="Estearina_Palma_RBD_Hidrogenado_AKK_Shop.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Estearina de Palma RBD Alto Hidrogenado Shop</b></a></section>
 
 <p class="Tipografia--general letranegro General--Cuerpo"><b>La Estearina de Palma RBD (Refinada, Blanqueada y Deodorizada) Alto Hidrogenada</b> es una fracción sólida del aceite de palma que ha sido sometida a procesos de refinación, blanqueo y desodorización, seguida de una hidrogenación intensiva que incrementa su punto de fusión y estabilidad oxidativa; se caracteriza por su alto contenido de ácidos grasos saturados, especialmente ácido esteárico y palmítico, lo que le confiere una textura dura, mayor resistencia al enranciamiento y funcionalidad como agente estructurante, siendo ampliamente utilizada en la industria alimentaria (como en grasas para panificación, confitería y coberturas), así como en aplicaciones industriales como la fabricación de jabones, velas y productos oleoquímicos.</p>
 
@@ -503,38 +502,39 @@
     <div class="row">
         <div class="col s6 m6 l6 x6">
 
-        <img src="img/SACO_PRODUCTOS_GENERAL_LOGO.jpg" style="width:100%;" alt="SACO DE PRODUCTO">
+        <img src="img/SACO_GENERAL_210529_V2.jpg" style="width:100%;" alt="SACO DE PRODUCTO">
         </div>
         <div class="col s6 m6 l6 xl6">
             <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Estearina de Palma RBD Alto Hidrogenado</b></h2>
+            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Datos del Producto</b></h2>
         
         </div>
         <div class="col s6 m6 l6 xl6">
-            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Datos del Producto</b></h2>
+
 
             <table style="margin-top:30px;">
             <tr>
-                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Descripción Química:</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Descripción Química:</b></td>
                 <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Estearina de Palma</td>
             </tr>
             
             <tr>
-                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Familia Química:</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Familia Química:</b></td>
                 <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Grasas Vegetales</td>
             </tr>
          
             <tr>
-                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Grado:</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Grado:</b></td>
                 <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">FCC</td>
             </tr>
      
             <tr>
-                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Certificaciones:</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Certificaciones:</b></td>
                 <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Kosher</td>
             </tr>
     
             <tr>
-                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Presentación:</td>
+                <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Presentación:</b></td>
                 <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Saco 25.0 Kg.</td>
             </tr>
         </table>
@@ -610,7 +610,7 @@
                     <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"></td>
                 </tr>
                 <tr>
-                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Hierro:</td>
+                    <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Hierro:</b></td>
                     <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">1.5 Máximo</td>
                 </tr>
                 <tr>
@@ -640,7 +640,7 @@
                     </tr>
 
                     <tr>
-                        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;">Cantidad Mínima de Venta:</td>
+                        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Cantidad Mínima de Venta:</b<</td>
                         <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Pallet de 1,000 Kg.</td>
                     </tr>
 

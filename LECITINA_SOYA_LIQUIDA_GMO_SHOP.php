@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
     <title>Chemical Broker | Lecitina de Soya Liquida GMO | Compra</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <meta name="description" content="Compra lecitinas de alta pureza para industria alimentaria, farmacéutica y cosmética. Calidad certificada, disponibilidad inmediata y envíos a todo México. Solicita cotización.">
+    <meta name="description" content="La lecitina de soya líquida GMO es un emulsificante versátil utilizado en las industrias alimentaria, farmacéutica y química. Ideal para mejorar textura, estabilidad y mezcla en diversas formulaciones industriales y alimenticias.">
     <link rel="canonical" href="https://chemicalbroker.mx/LECITINA_SOYA_LIQUIDA_GMO_SHOP.php">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen"/>
@@ -388,40 +388,27 @@
         </div>
       </div>
     </ul>
-<div class="row">
-<div class="slider slider-prueba">
-<ul class="slides">
-<li><div style="height:800px;background:linear-gradient(#071637 99%);">
+    <div class="container-fluid">
+      <div class="slider slider-prueba" style="margin-top:0px;height:440px;">
+        <ul class="slides slides-pruea" style="height:400px;">
+          <li><img src="img/LECITINAS_041120.jpg" style="height:820px;margin-top:-420px;">
+            <div class="caption center-align"><br><br><br><br>
+              <h1 class="primertitulo"><b class="boldbanner">Lecitina de Soya Liquida GMO Shop</b><br></h1>
+              <div class="container">
+    </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
 
-<b class="segundotitulo" style="float:right;color:white;margin-top:200px;margin-right:150px;">Lecitina de Soya Liquida GMO Shop</b>
-
-</div>
-<div class="caption center-align"><br><br><br><br>
-<br>
-
-<div class="container" style="margin-top:-100px;">
-<div class="row">
-<div class="col s12 m12 l12 xl12">
-
-
-
-</div>
-</div>
-</div>
-
-
-</div>
-</li>
-</ul>
-</div>
-</div>
 
 <div class="container" style="margin-top:80px">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section style="margin-top:75px"><a class="active" href="index.php" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Lecitinas_Prod.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Lecitina de Soya Liquida GMO > </b></a><a class="breditem active" href="LECITINA_SOYA_LIQUIDA_GMO_SHOP.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Lecitina de Soya Liquida GMO Shop</b></a></section>
+<section style="margin-top:75px"><a class="active" href="index.php" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Productos_news.php" style="color:black !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Productos > </b></a><a class="breditem active" href="Lecitinas_Prod.php" style="color:black !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Lecitina de Soya Liquida GMO > </b></a><a class="breditem active" href="LECITINA_SOYA_LIQUIDA_GMO_SHOP.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Lecitina de Soya Liquida GMO Shop</b></a></section>
 
-<p class="Tipografia--general letranegro General--Cuerpo">La <b>Lecitina de Soya líquida</b> es un <b>ingrediente de origen natural</b> que se obtiene del <b>aceite de soya</b>, y se usa principalmente como <b>emulsificante</b>, <b>estabilizante</b> y <b>agente humectante</b> en alimentos, y procesos industriales.</p>
+<p class="Tipografia--general letranegro General--Cuerpo"><b>La Lecitina de Soya líquida es un ingrediente de origen natural</b> que se obtiene del aceite de soya, y se usa principalmente como emulsificante, estabilizante y agente humectante en alimentos, y procesos industriales.</p>
 
 
 </div>
@@ -434,7 +421,7 @@
 
 <div class="col s6 m6 l6 xl6">
 
-<img src="img/CBM_TAMBOR_WEB.jpg" style="width:100%;" alt="Tambor de Producto">
+<img src="img/CBM_TAMBOR_METALICO.png" style="width:100%;" alt="Tambor de Producto">
 
 </div>
 
@@ -443,16 +430,16 @@
 <table>
     
     <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Descripción Química:</center></td>
+        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b><b>Descripción Química:</b></center></td>
         <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Lecitina de Soya</center></td>
     </tr>    
 
     <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>CAS #:</center></td>
+        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>CAS #:</b></center></td>
         <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>8002-43-5</center></td>
     </tr>
     <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Familia Química:</center></td>
+        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Familia Química:</b></center></td>
         <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Lecitinas</center></td>
     </tr>
     <!-- <tr>
@@ -460,123 +447,126 @@
         <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>MPG<br>1,2-Propanodiol</center></td>
     </tr> -->
     <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Grado:</center></td>
+        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Grado:</b></center></td>
         <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>FCC</center></td>
     </tr>
     <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Certificaciones:</center></td>
+        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Certificaciones:</b></center></td>
         <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Kosher | Halal</center></td>
     </tr>
     <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Presentación:</center></td>
+        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Presentación:</b></center></td>
         <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Tambor 200 Kg<br>IBC Kg<br>Granel</center></td>
     </tr>
     <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" colspan="2"><center>Especificaciones:</center></td>
+        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" colspan="2"><center><b>Especificaciones:</b></center></td>
 
     </tr>
     <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Apariencia:</center></td>
+        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Apariencia:</b></center></td>
         <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Liquido de color amarillo a ámbar</center></td>
     </tr>
     <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Olor y sabor:</center></td>
+        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Olor y sabor:</b></center></td>
         <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Característico</center></td>
     </tr>
     <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Insoluble en Acetona (%):</center></td>
+        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Insoluble en Acetona (%):</b></center></td>
         <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>62 mínimo</center></td>
     </tr>
     <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Índice de acidez (mg KOH/g):</center></td>
+        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Índice de acidez (mg KOH/g):</b></center></td>
         <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>30 máximo</center></td>
     </tr>
     <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Índice de peróxido (meq/Kg):</center></td>
+        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Índice de peróxido (meq/Kg):</b></center></td>
         <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>5 máximo</center></td>
     </tr>
     <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Humedad (%):</center></td>
+        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Humedad (%):</b></center></td>
         <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>1.5 máximo</center></td>
     </tr>
     <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Insolubles en hexano (%):)</center></td>
+        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Insolubles en hexano (%):)</b></center></td>
         <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>0.1 máximo</center></td>
     </tr>
     <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Disolvente residual (ppm):</center></td>
+        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Disolvente residual (ppm):</b></center></td>
         <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>50 máximo</center></td>
     </tr>
     <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Arsénico (ppm):</center></td>
+        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Arsénico (ppm):</b></center></td>
         <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>3 máximo</center></td>
     </tr>
     <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Plomo (ppm):</center></td>
+        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Plomo (ppm):</b></center></td>
         <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>1 máximo</center></td>
     </tr>
     <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Mercurio (ppm):</center></td>
+        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Mercurio (ppm):</b></center></td>
         <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>1 máximo</center></td>
     </tr>
     <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Viscocidad (cP):</center></td>
+        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Viscocidad (cP):</b></center></td>
         <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>10,000 máximo</center></td>
     </tr>
     <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Color Gardner escala Lovibond:</center></td>
+        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Color Gardner escala Lovibond:</b></center></td>
         <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>16 máximo</center></td>
     </tr>
     <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Salmonella / 375 gramos:</center></td>
+        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Salmonella / 375 gramos:</b></center></td>
         <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Negativo</center></td>
     </tr>
     <!-- <tr>
         <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;" colspan="2"><center>Valores Típicos:</center></td>
     </tr> -->
     <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Recuento total en placa (CFU):</center></td>
+        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Recuento total en placa (CFU):</b></center></td>
         <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>1,000 máximo</center></td>
     </tr>
     <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Moho (CFU):</center></td>
+        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Moho (CFU):</b></center></td>
         <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>50 máximo</center></td>
     </tr>
     <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Levadura (CFU):</center></td>
+        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Levadura (CFU):</b></center></td>
         <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>50 máximo</center></td>
     </tr>
     <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Enterobacteriácea (CFU):</center></td>
+        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Enterobacteriácea (CFU):</b></center></td>
         <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>24 meses a partir de la fecha de elaboración y en su envase original.</center></td>
     </tr>
     <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Cantidad Mínima de Venta:</center></td>
+        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Cantidad Mínima de Venta:</b></center></td>
         <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Pallet 800 Kg.</center></td>
     </tr>
     <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Función:</center></td>
+        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Función:</b></center></td>
         <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Emulsificante, Estabilizante y Agente Humectante.</center></td>
     </tr>
     <tr>
-        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center>Aplicación:</center></td>
+        <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><center><b>Aplicación:</b></center></td>
         <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;"><center>Uso en productos alimenticios y cosméticos de alta calidad.</center></td>
     </tr>
 </table>
 
-    </div>
-</div>
-
-</div>
 
 <div class="container">
     <div class="row">
     <div class="col s12 m12 l12 xl12">
-        <a href="https://wa.me/5615242685?text=Hola" clas="float-wa" target="_blank"><h2 class="Tipografia--general letranegro General--Cuerpo"><b><button class="btn" style="background-color:#071637;color:white;cursor:pointer;">Cotiza o Consulta con nosotros tu requerimiento</button> </b></h2></a>
+        <a href="https://wa.me/5615242685?text=Hola Deseo Comprar este Producto" clas="float-wa" target="_blank"><h2 class="Tipografia--general letranegro General--Cuerpo"><b><button class="btn" style="background-color:#071637;color:white;cursor:pointer;border-radius:15px;margin-left:-350px;">Cotiza o Consulta con nosotros tu requerimiento</button> </b></h2></a>
             <!-- <button style="background-color:#071637;color:white;width:100%;border-radius:15px;height:60px;">Contactenos</button> -->
         </div>
     </div>
 </div>
+
+    </div>
+</div>
+
+</div>
+
+
 
 
 

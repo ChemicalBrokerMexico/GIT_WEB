@@ -3,7 +3,7 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
-    <meta name="description" content="El bicarbonato de sodio USP es un ingrediente de alta pureza utilizado en las industrias farmacéutica, alimentaria y química. Ideal para formulaciones, control de pH y aplicaciones especializadas con calidad certificada.">
+    <meta name="description" content="El bicarbonato de sodio USP granular fino es un ingrediente de alta pureza utilizado en las industrias farmacéutica, alimentaria y química. Ideal para formulaciones que requieren rápida disolución, control de pH y calidad certificada.">
     <title>Chemical Broker | Bicarbonato de Sodio USP Granular Fino Shop | Proveedor Global | Compra</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link rel="canonical" href="https://chemicalbroker.mx/Bicarbonato_Sodio_USP_Granular_Fino_Shop.php">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>

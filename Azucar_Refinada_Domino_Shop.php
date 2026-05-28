@@ -418,7 +418,7 @@
 <div class="container" style="margin-top:100px">
     <div class="row">
         <div class="col s6 m6 l6 x6">
-        <img src="img/SACO_PRODUCTOS_GENERAL_LOGO.jpg" style="width:100%;" alt="SACO DE PRODUCTO">
+        <img src="img/SACO_GENERAL_210529_V2.jpg" style="width:100%;" alt="SACO DE PRODUCTO">
         </div>
         <div class="col s6 m6 l6 xl6">
             <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Azucar Refinada</b></h2>
@@ -557,20 +557,25 @@
                 <td class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Las aplicaciones del azúcar refinada abarcan una amplia gama dentro de la industria alimentaria y el consumo cotidiano, utilizándose en la elaboración de bebidas (refrescos, jugos, bebidas energéticas), productos de panificación y repostería (pan, pasteles, galletas), confitería (dulces, caramelos, chocolates), lácteos (yogures, helados), conservas (mermeladas, jaleas), así como en salsas, aderezos y alimentos procesados, donde además de aportar dulzor, cumple funciones tecnológicas clave como conservación, textura, color y estabilidad del producto final</td>
               </tr>
             </table>
+
+            
         </div>
 
+        
 
-    </div>
-
+</div>
 <div class="container">
     <div class="row">
-    <div class="col s12 m12 l12 xl12">
-        <a href="https://wa.me/5615242685?text=Hola" clas="float-wa" target="_blank"><h2 class="Tipografia--general letranegro General--Cuerpo"><b><button class="btn" style="background-color:#071637;color:white;cursor:pointer;">Cotiza o Consulta con nosotros tu requerimiento</button> </b></h2></a>
+    <div class="col s12 m12 l12 xl12 ">
+    <a href="https://wa.me/5615242685?text=Hola Deseo Comprar este Producto" clas="float-wa" target="_blank"><h2 class="Tipografia--general letranegro General--Cuerpo"><b><button class="btn" style="background-color:#071637;color:white;cursor:pointer;border-radius:15px;margin-left:230px;">Cotiza o Consulta con nosotros tu requerimiento</button> </b></h2></a>
             <!-- <button style="background-color:#071637;color:white;width:100%;border-radius:15px;height:60px;">Contactenos</button> -->
         </div>
     </div>
 </div>
-</div>
+    </div>
+
+
+
 
 
 

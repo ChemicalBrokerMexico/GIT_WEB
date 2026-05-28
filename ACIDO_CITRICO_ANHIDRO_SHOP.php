@@ -3,8 +3,8 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
-    <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos.">
-    <title>Chemical Broker | Acido Citrico Anhidro | Proveedor Global | Shop</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <meta name="description" content="El ácido cítrico anhidro es un ingrediente de alta pureza utilizado en las industrias alimentaria, farmacéutica y química. Ideal como acidulante, regulador de pH y agente conservante en diversas formulaciones industriales.">
+    <title>Chemical Broker | Acido Citrico Anhidro Shop | Proveedor Global</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="Acido citrico anhidro calidad industrial y alimenticia. Ideal para alimentos, bebidas, productos farmacéuticos y cosméticos. Suministro confiable y especifico tecnicas completas.">
     <link rel="canonical" href="https://chemicalbroker.mx/ACIDO_CITRICO_ANHIDRO_SHOP.php">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
@@ -420,9 +420,9 @@
 <div class="container" style="margin-top:80px">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section style="margin-top:75px"><a class="active" href="#" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Acido_Citrico.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Acido Citrico Anhidro > </b></a><a class="breditem active" href="Acido_Citrico_Anhidro_Shop.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Acido Citrico Anhidro Shop</b></a></section>
+<section style="margin-top:75px"><a class="active" href="#" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Productos_news.php" style="color:black !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Productos > </b></a><a class="breditem active" href="Acido_Citrico.php" style="color:black !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Acido Citrico Anhidro > </b></a><a class="breditem active" href="ACIDO_CITRICO_ANHIDRO_SHOP.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Acido Citrico Anhidro Shop</b></a></section>
 
-<p class="Tipografia--general letranegro General--Cuerpo">El Ácido Cítrico Anhidro es un ácido orgánico natural, en forma de polvo blanco, sin agua, que se usa para dar acidez, conservar y regular el pH en muchos productos.</p>
+<p class="Tipografia--general letranegro General--Cuerpo"><b>El Ácido Cítrico Anhidro</b> es un ácido orgánico natural, en forma de polvo blanco, sin agua, que se usa para dar acidez, conservar y regular el pH en muchos productos.</p>
 
 </div>
 </div>
@@ -431,7 +431,7 @@
 <div class="container" style="margin-top:100px">
     <div class="row">
         <div class="col s6 m6 l6 x6">
-        <img src="img/SACO_PRODUCTOS_GENERAL_LOGO.jpg" style="width:100%;" alt="SACO DE PRODUCTO">
+        <img src="img/SACO_GENERAL_210529_V2.jpg" style="width:100%;" alt="SACO DE PRODUCTO">
         </div>
         <!-- <div class="col s6 m6 l6 xl6">
             <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Ácido Cítrico</b></h2>
@@ -524,17 +524,18 @@
             </tr>
         </table>
         </div> -->
-    </div>
-</div>
-
-<div class="container">
+        <div class="container">
     <div class="row">
     <div class="col s12 m12 l12 xl12">
-        <a href="https://wa.me/5615242685?text=Hola" clas="float-wa" target="_blank"><h2 class="Tipografia--general letranegro General--Cuerpo"><b><button class="btn" style="background-color:#071637;color:white;cursor:pointer;">Cotiza o Consulta con nosotros tu requerimiento</button> </b></h2></a>
+        <a href="https://wa.me/5615242685?text=Hola Deseo Comprar este Producto" clas="float-wa" target="_blank"><h2 class="Tipografia--general letranegro General--Cuerpo"><b><button class="btn" style="background-color:#071637;color:white;cursor:pointer;border-radius:15px;margin-left:200px;">Cotiza o Consulta con nosotros tu requerimiento</button> </b></h2></a>
             <!-- <button style="background-color:#071637;color:white;width:100%;border-radius:15px;height:60px;">Contactenos</button> -->
         </div>
     </div>
 </div>
+
+    </div>
+</div>
+
 
 
 

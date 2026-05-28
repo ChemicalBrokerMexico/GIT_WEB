@@ -624,19 +624,6 @@
 </table>
 
         </div>
-        <div class="col s12 m12 l12 xl12">
-        <!-- <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Datos del Producto</b></h2> -->
-        <!-- <table>
-            <tr>
-                <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Documentos Tecnicos</b></td>
-                <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Hoja de datos de seguridad</td>
-            </tr>
-            <tr>
-                <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:white;"><b>Documentos Normativos</b></td>
-                <td class="Tipografia--general letranegro General--Cuerpo" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#a7a7a7;color:white;">Ver Documentos</td>
-            </tr>
-        </table> -->
-        </div>
     </div>
 </div>
 

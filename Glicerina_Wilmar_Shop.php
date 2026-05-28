@@ -3,8 +3,8 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
-    <meta name="description" content="La glicerina al 99.7% es un ingrediente de alta pureza utilizado en las industrias farmacéutica, cosmética, alimentaria y química. Ideal como humectante, solvente y agente estabilizante en múltiples formulaciones industriales.">
-    <title>Chemical Broker | Vainillina | Glicerina 99.7% | Compra</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <meta name="description" content="La Glicerina al 99.7% es un ingrediente de alta pureza utilizado en las industrias farmacéutica, cosmética, alimentaria y química. Ideal como humectante, solvente y agente estabilizante en múltiples formulaciones industriales.">
+    <title>Chemical Broker | Wilfarin 997 | Glicerina 99.7% | Shop</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link rel="canonical" href="https://chemicalbroker.mx/Glicerina_Wilmar_Shop.php">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen"/>
@@ -473,7 +473,7 @@
     <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px;height:440px;">
         <ul class="slides slides-pruea" style="height:400px;">
-          <li><img src="img/CB_ESTEARINA_PALMA_281223.png" style="height:820px;margin-top:-420px;">
+          <li><img src="img/BANNER_PRINCIPAL.jpg" style="height:820px;margin-top:-420px;">
             <div class="caption center-align"><br><br><br><br>
               <h1 class="primertitulo"><b class="boldbanner">Glicerina 99.7% | Wilfarin 997</b><br></h1>
               <div class="container">
@@ -488,7 +488,7 @@
 <div class="container" style="margin-top:80px">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section style="margin-top:75px"><a class="active" href="#" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Productos_news.php" style="color:black !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Productos > </b></a><a class="breditem active" href="Aceite_Canola_RBD_Cargill_Shop.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Glicerina 99.7% | Wilfarin 997</b></a></section>
+<section style="margin-top:75px"><a class="active" href="#" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:black;"> >&nbsp  </b></a><a class="breditem active" href="Productos_news.php" style="color:black !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Productos > </b></a><a class="breditem active" href="Glycerins.php" style="color:black !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Glicerina 99.7% > </b></a><a class="breditem active" href="Glicerina_Wilmar_Shop.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Glicerina 99.7% | Wilfarin 997</b></a></section>
 
 <p class="Tipografia--general letranegro General--Cuerpo"><b>La Glicerina al 99.7% (también llamada glicerol 99.7%)</b> es glicerina de alta pureza, donde el 99.7% del contenido es glicerol y solo 0.3% corresponde a impurezas o trazas (agua, sales, alcoholes residuales, etc.).</p>
 
@@ -502,14 +502,14 @@
     <div class="row">
         <div class="col s6 m6 l6 x6">
 
-        <img src="img/SACO_PRODUCTOS_GENERAL_LOGO.jpg" style="width:100%;" alt="SACO DE PRODUCTO">
+        <img src="img/CBM_TAMBOR_METALICO.png" style="width:100%;" alt="SACO DE PRODUCTO">
         </div>
         <div class="col s6 m6 l6 xl6">
             <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Glicerina 99.7% | Wilfarin 997</b></h2>
-        
+            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Datos del Producto</b></h2>
         </div>
         <div class="col s6 m6 l6 xl6">
-            <h2 class="Tipografia--general letranegro General--Cuerpo"><b>Datos del Producto</b></h2>
+    
 
      <table>
         <tr>
@@ -519,55 +519,55 @@
             <th class="Tipografia--general General--Cuerpo letranegro" style="border-bottom:1px solid white;border-right:1px solid white;background-color:#071637;color:red;"><center><b>BP-997</b></center></th>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Descripción Química</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center><b>Descripción Química:</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Glicerina 99.7%</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Glicerina 99.7%</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Glicerina 99.7%</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Sinónimos:</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center><b>Sinónimos:</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Glicerol<br>Glicerina<br>Propano-1-2-3-triol<br>Trihidroxipropano</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Glicerol<br>Glicerina<br>Propano-1-2-3-triol<br>Trihidroxipropano</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Glicerol<br>Glicerina<br>Propano-1-2-3-triol<br>Trihidroxipropano</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Grado:</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center><b>Grado:</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Grado USP</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Grado EP</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Grado BP</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Apariencia:</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center><b>Apariencia:</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Liquido Transparente</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Liquido Transparente</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Liquido Transparente</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Contenido de glicerina (%):</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center><b>Contenido de glicerina (%):</b></b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>99.7%</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>99.7%</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>99.7%</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Contenido de humedad (%):</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center><b>Contenido de humedad (%):</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>0.3 Max.</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>0.3 Max.</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>0.3 Max.</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;" style="border:solid #a7a7a7 1px;"><center>Color (mL de FeCl3):</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;" style="border:solid #a7a7a7 1px;"><center><b>Color (mL de FeCl3):</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;" style="border:solid #a7a7a7 1px;"><center>0.4 Max</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;" style="border:solid #a7a7a7 1px;"><center>-</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;" style="border:solid #a7a7a7 1px;"><center>-</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Color (APHA):</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center><b>Color (APHA):</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>-</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>10 Max.</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>10 Max.</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;" style="border:solid #a7a7a7 1px;"><center>Identificación A (IR):</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;" style="border:solid #a7a7a7 1px;"><center><b>Identificación A (IR):</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;" style="border:solid #a7a7a7 1px;"><center>Conforme</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;" style="border:solid #a7a7a7 1px;"><center>-</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;" style="border:solid #a7a7a7 1px;"><center>-</center></td>
@@ -576,85 +576,85 @@
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;background-color: #f2f2f2;color:black" colspan="4"><b>Identificacion B:</b></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;" style="border:solid #a7a7a7 1px;"><center>- Dietilenglicol:</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;" style="border:solid #a7a7a7 1px;"><center><b>- Dietilenglicol:</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;" style="border:solid #a7a7a7 1px;"><center>0.1 Max.</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;" style="border:solid #a7a7a7 1px;"><center>-</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;" style="border:solid #a7a7a7 1px;"><center>-</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>- Etilenglicol:</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center><b>- Etilenglicol:</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>0.1 Max.</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>-</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>-</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Identificación C (GC):</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center><b>Identificación C (GC):</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Conforme</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>-</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>-</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Identificación A, B, C y D:</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center><b>Identificación A, B, C y D:</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>-</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Conforme</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Conforme</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Gravedad específica (a 25 °C):</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center><b>Gravedad específica (a 25 °C):</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>1.2612 Min.</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>-</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>-</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Residuos de ignición (%):</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center><b>Residuos de ignición (%):</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>0.01 Max.</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>-</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>-</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Cenizas sulfatadas (%):</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center><b>Cenizas sulfatadas (%):</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>-</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>0.01 Max.</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>0.01 Max.</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Cloruros (ppm):</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center><b>Cloruros (ppm):</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>10 Max.</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>10 Max.</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>10 Max.</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Sulfatos (%):</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center><b>Sulfatos (%):</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>0.002 Max</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>-</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>-</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Metales pesados (ppm):</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center><b>Metales pesados (ppm):</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>5 Max.</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>5 Max.</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>5 Max.</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Compuestos clorados (%):</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center><b>Compuestos clorados (%):</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>0.003 Max</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>-</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>-</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Compuestos halogenados (ppm):</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center><b>Compuestos halogenados (ppm):</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>-</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>35 Max.</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>35 Max.</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Ácidos grasos y ésteres (ml de NaOH 0,5 N/50 g):</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center><b>Ácidos grasos y ésteres (ml de NaOH 0,5 N/50 g):</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>1 Max.</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>-</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>-</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Impureza A (grados) y compuestos relacionados:</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center><b>Impureza A (grados) y compuestos relacionados:</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>-</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Conforme</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Conforme</center></td>
@@ -663,83 +663,83 @@
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;background-color:#f2f2f2;" colspan="4"><b>Compuestos relacionados:</b></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>- Impureza individual (%):</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center><b>- Impureza individual (%):</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>0.1 Max.</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>-</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>-</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>- Impurezas totales (%):</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center><b>- Impurezas totales (%):</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>1 Max.</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>-</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>-</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Acidez y alcalinidad (ml de NaOH 0,1 M/50 ml de solución S):</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center><b>Acidez y alcalinidad (ml de NaOH 0,1 M/50 ml de solución S):</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>-</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>0.2 Max.</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>0.2 Max.</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Índice de refracción (n₂O/D):</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center><b>Índice de refracción (n₂O/D):</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>-</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>1.470 – 1.475</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>1.470 – 1.475</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Aldehídos (ppm):</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center><b>Aldehídos (ppm):</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>-</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>10 Max.</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>10 Max.</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Ésteres (ml de HCl 0,1 M/50 ml de solución S):</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center><b>Ésteres (ml de HCl 0,1 M/50 ml de solución S):</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>-</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>8 Min.</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>8 Min</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Azúcar:</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center><b>Azúcar:</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>-</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Pasa</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Pasa</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Forma del producto</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center><b>Forma del producto</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Liquido</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Liquido</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Liquido</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Envase:</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center><b>Envase:</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>PE, DR , ISO , FB</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>PE, DR , ISO , FB</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>PE, DR , ISO , FB</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;" style="border:solid #a7a7a7 1px;"><center>N.º CAS:</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;" style="border:solid #a7a7a7 1px;"><center><b>N.º CAS:</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;" style="border:solid #a7a7a7 1px;"><center>56-81-5</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;" style="border:solid #a7a7a7 1px;"><center>56-81-5</center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;" style="border:solid #a7a7a7 1px;"><center>56-81-5</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Presentación:</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center><b>Presentación:</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;" colspan="4"><center>Tambor 250 Kg.<br>IBC 1,000 Kg.<br>Flexitanque 25,000 Kg.</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Vida de Anaquel:</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center><b>Vida de Anaquel:</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;" colspan="4"><center>3 años a partir de la fecha de elaboración y en su envase original.</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Cantidad Mínima de Venta:</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center><b>Cantidad Mínima de Venta:</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;" colspan="4"><center>20,000 Kg.</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Funciones:</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center><b>Funciones:</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;" colspan="4"><center>La Glicerina es un compuesto químico versátil cuya principal función es actuar como agente humectante, emoliente, solvente, plastificante, lubricante, estabilizante y vehículo de formulación en múltiples industrias; gracias a su capacidad para atraer y retener humedad, se utiliza ampliamente en alimentos para conservar frescura y textura, en productos farmacéuticos como excipiente y agente suavizante, en cosméticos y cuidado personal para hidratar la piel y el cabello, en aplicaciones industriales como anticongelante y lubricante, y en procesos químicos como materia prima para resinas, explosivos, detergentes, tabaco, pinturas y productos de higiene, además de funcionar como fuente de carbono y componente técnico en formulaciones especializadas.</center></td>
         </tr>
         <tr>
-            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center>Aplicaciones:</center></td>
+            <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;"><center><b>Aplicaciones:</b></center></td>
             <td  class="Tipografia--general General--Cuerpo letranegro" style="border:solid #a7a7a7 1px;" colspan="4"><center>La glicerina (glicerol) es un ingrediente altamente versátil gracias a su capacidad humectante, solvente, lubricante y estabilizante, por lo que se utiliza de forma transversal en múltiples industrias. En la Industria Alimentaria, se emplea como humectante para retener humedad, mejorar textura y prolongar vida útil en panificación, confitería, chicles, barras energéticas, bebidas, sabores y extractos; también actúa como solvente de aditivos, edulcorante de bajo índice glucémico y crioprotector. En la Industria Farmacéutica, se usa como excipiente en jarabes, soluciones orales, supositorios y cápsulas, como agente edulcorante, humectante, lubricante y conservador de la estabilidad del producto; además, se emplea en formulaciones tópicas y como vehículo para principios activos. En Cosmética y Cuidado Personal, la glicerina es clave en cremas, lociones, jabones, shampoos, pastas dentales, geles, desodorantes y productos dermatológicos por su capacidad de atraer y retener agua, mejorar la elasticidad de la piel y aportar suavidad. En la Industria Química, se utiliza como intermediario de síntesis para resinas, plastificantes, polioles, alquidales, anticongelantes, lubricantes industriales y fluidos hidráulicos, así como solvente en reacciones químicas. En Tabaco y Vapeo, funciona como humectante y generador de vapor. En Agroindustria, se usa como portador de formulaciones, agente humectante y estabilizante en productos fitosanitarios y nutricionales. En la Industria Textil y del Cuero, actúa como suavizante, humectante y lubricante de fibras y pieles. En Explosivos y Aplicaciones Técnicas, es materia prima para la fabricación de nitroglicerina. Finalmente, en Aplicaciones Industriales y Técnicas, se emplea como anticongelante, lubricante, fluido de transferencia térmica, agente crioprotector en biotecnología y conservador de enzimas y microorganismos.</center></td>
         </tr>
      </table>
