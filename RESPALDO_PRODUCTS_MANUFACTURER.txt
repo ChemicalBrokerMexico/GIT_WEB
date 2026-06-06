@@ -27,20 +27,21 @@ SELECT
 
     p.fabricante,
     p.descripcion_fabricante,
-    p.pais,
-
-    p.activo
+    p.pais
 
 FROM productos p
 
-INNER JOIN producto_clasificacion pc
-    ON p.id_producto = pc.id_producto
+INNER JOIN producto_segmento ps
+    ON p.id_producto = ps.id_producto
 
 INNER JOIN segmentos s
-    ON pc.id_segmento = s.id_segmento
+    ON ps.id_segmento = s.id_segmento
+
+INNER JOIN producto_industria pi
+    ON p.id_producto = pi.id_producto
 
 INNER JOIN industrias i
-    ON pc.id_industria = i.id_industria
+    ON pi.id_industria = i.id_industria
 
 WHERE p.activo = 1
 
@@ -1572,100 +1573,81 @@ while($row = $resultado->fetch_assoc()){
             // ===============================
             function renderProductos() {
 
-contenedorProductos.innerHTML = "";
+                contenedorProductos.innerHTML = "";
 
-const productosFiltrados = productos.filter(p => {
+                const productosFiltrados = productos.filter(p => {
 
-    let coincideIndustria = industriaSeleccionada
-        ? p.id_industria == industriaSeleccionada
-        : true;
+                    let coincideIndustria = industriaSeleccionada ?
+                        p.id_industria == industriaSeleccionada :
+                        true;
 
-    let coincideSegmento = segmentoSeleccionado
-        ? p.id_segmento == segmentoSeleccionado
-        : true;
+                    let coincideSegmento = segmentoSeleccionado ?
+                        p.id_segmento == segmentoSeleccionado :
+                        true;
 
-    return coincideIndustria && coincideSegmento;
+                    return coincideIndustria && coincideSegmento;
+                });
 
-});
+                if (productosFiltrados.length === 0) {
+                    contenedorProductos.innerHTML = `
+        <div style="width:100%; text-align:center; margin-top:40px;">
+            <p>No hay productos disponibles</p>
+        </div>`;
+                    return;
+                }
 
-// EVITAR DUPLICADOS DEL MISMO PRODUCTO
-const productosUnicos = [
-    ...new Map(
-        productosFiltrados.map(p => [p.id_producto, p])
-    ).values()
-];
+                productosFiltrados.forEach(prod => {
 
-if(productosUnicos.length === 0){
+                    const div = document.createElement("div");
+                    div.style.marginTop = "20px";
+                    div.classList.add("card", "hoverable", "card-producto");
 
-    contenedorProductos.innerHTML = `
-    <div style="width:100%; text-align:center; margin-top:40px;">
-        <p>No hay productos disponibles</p>
-    </div>
-    `;
-
-    return;
-}
-
-productosUnicos.forEach(prod => {
-
-    const div = document.createElement("div");
-
-    div.style.marginTop = "20px";
-
-    div.classList.add(
-        "card",
-        "hoverable",
-        "card-producto"
-    );
-
-    div.innerHTML = `
+                    div.innerHTML = `
 
 <div class="card-content">
 
-<div class="row valign-wrapper" style="margin-bottom:0;">
+    <div class="row valign-wrapper" style="margin-bottom:0;">
 
-    <div class="col s12 m6 l8 xl8">
+        <div class="col s12 m6 l8 xl8">
 
-        <div class="chip orange lighten-5 orange-text text-darken-4">
-            ${prod.nombre_industria}
+            <div class="chip orange lighten-5 orange-text text-darken-4">
+                ${prod.nombre_industria}
+            </div>
+
+            <span class="card-title" style="font-weight:600;">
+                ${prod.nombre_producto}
+            </span>
+
+            <p class="grey-text text-darken-1" style="margin:0;text-align:justify">
+                ${prod.descripcion}
+            </p>
+
+            <a href="${prod.Link_Web}" class="blue-text text-darken-2">
+                Ver detalles →
+            </a>
+
         </div>
 
-        <span class="card-title" style="font-weight:600;">
-            ${prod.nombre_producto}
-        </span>
-
-        <p class="grey-text text-darken-1" style="margin:0;text-align:justify">
-            ${prod.descripcion}
-        </p>
-
-        <a href="${prod.Link_Web}" class="blue-text text-darken-2">
-            Ver detalles →
-        </a>
-
-    </div>
-
-    <div class="col s12 m6 l4 xl4 center-align">
-
-        ${prod.imagen
-            ? `<img src="${prod.imagen}"
-                class="logo-fabricante modal-trigger"
-                href="#modalFabricante"
-                data-fabricante="${prod.fabricante}"
-                data-logo="${prod.imagen}"
-                data-descripcion="${prod.descripcion_fabricante}"
-                data-pais="${prod.pais}"
-                style="
-                    max-width:240px;
-                    max-height:150px;
-                    object-fit:contain;
-                    cursor:pointer;
-                    transition:0.3s;
-                ">`
-            : ""}
+        <div class="col s12 m6 l4 xl4 center-align">
+            ${prod.imagen 
+                ? `<img src="${prod.imagen}"
+     class="logo-fabricante modal-trigger"
+     href="#modalFabricante"
+     data-fabricante="${prod.fabricante}"
+     data-logo="${prod.imagen}"
+     data-descripcion="${prod.descripcion_fabricante}"
+     data-pais="${prod.pais}"
+     style="
+    max-width:240px;
+    max-height:150px;
+    object-fit:contain;
+    cursor:pointer;
+    transition:0.3s;
+">`
+                : ""}
+        </div>
 
     </div>
-
-</div>
 
 </div>
 
@@ -1673,34 +1655,35 @@ productosUnicos.forEach(prod => {
 
 <div class="card-action grey lighten-5">
 
-<a href="descargar_doctos.php?producto=${prod.ruta_documentos}"
-   class="btn-small"
-   style="margin-right:10px;border-radius:15px;background-color:#071637;">
-   Descargar documentos
-</a>
+    <a href="descargar_doctos.php?producto=${prod.ruta_documentos}" 
+       class="btn-small"
+       style="margin-right:10px;border-radius:15px;background-color:#071637;">
+       Descargar documentos
+    </a>
 
-<a class="btn-small modal-trigger"
-   href="#modalMuestra"
-   data-producto="${prod.nombre_producto}"
-   style="margin-right:10px;border-radius:15px;background-color:#071637;">
-   Solicitar muestra
-</a>
+    <a class="btn-small modal-trigger"
+       href="#modalMuestra"
+       data-producto="${prod.nombre_producto}"
+       style="margin-right:10px;border-radius:15px;background-color:#071637;">
+       Solicitar muestra
+    </a>
 
-<a class="btn-small"
-   href="https://wa.me/525615242686?text=Hola,%20quiero%20cotizar%20productos%20químicos"
-   style="margin-right:10px;border-radius:15px;background-color:#071637;">
-   Solicitar cotización
-</a>
+    <a class="btn-small" href="https://wa.me/525615242686?text=Hola,%20quiero%20cotizar%20productos%20químicos"
+       style="margin-right:10px;border-radius:15px;background-color:#071637;">
+       Solicitar cotización
+    </a>
+
+   
+
+   
 
 </div>
-
 `;
 
-    contenedorProductos.appendChild(div);
+                    contenedorProductos.appendChild(div);
+                });
 
-});
-
-}
+            }
 
         });
 

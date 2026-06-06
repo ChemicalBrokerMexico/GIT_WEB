@@ -243,7 +243,7 @@
 <div style="display:flex;justify-content:center"> 
 <p class="Botones Logindesktop Tipografia--general" style="align-self:center"> <b>Iniciar Sesión</b></p>
 </div></a> -->
-<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:60px;">search</i></a></li>
+<li class="ul-independiente right"><a class="btn-search-desktop1" href="Buscador_CB.php" id="busquedaprueba"><i class="material-icons left search-desktop-icon letranegro" style="font-size:24px;font-weight:500;position:absolute;z-index:1;margin-left:188px;">search</i></a></li>
 </ul>
         <div style="height:0;"><a class="sidenav-trigger btn-search-mobile1 right" href="#" data-target="mobile-search"><i class="material-icons search-mobile-icon margin-left-search-mobile-icon" style="width:0px;margin-left:-10px">search</i></a></div>
       </div>
@@ -395,7 +395,6 @@
             <div class="caption center-align"><br><br><br><br>
               <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Servicio Intengral</b>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Servicio Integral</b></a></section>
     </div>
             </div>
           </li>
@@ -406,6 +405,7 @@
     <div class="container" style="margin-top:150px;">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Servicio Integral</b></a></section>
           <p class="Tipografia--general letranegro General--Cuerpo"><b class="Tipografia--general letranegro General--Cuerpo" style="color:#262137">Chemical Broker</b> se distingue por la excelencia en sus negocios a nivel global, por medio de un <b style="color:#262137">“Servicio Integral”&nbsp</b>dirigido a nuestros socios de negocios, en la Venta de Productos Químicos, al considerar los siguientes fundamentos: 
           </p>
           <ol class="Tipografia--general letranegro Elementos--Listas" style="margin-top:30px">
