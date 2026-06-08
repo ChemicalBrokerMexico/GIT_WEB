@@ -392,7 +392,7 @@
 <div class="container" style="margin-top:-100px;">
 <div class="row">
 <div class="col s12 m12 l12 xl12">
-<section style="margin-top:125px"><a class="active" href="#" style="color:white !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp</b><b class="Tipografia--general Subtitulos" style="color:white;"> >&nbsp  </b></a><a class="breditem active" href="Política_Calidad.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Política de Caidad</b></a></section>
+
 </div>
 </div>
 </div>
@@ -408,6 +408,8 @@
     <div class="container" style="margin-top:130px;">
         <div class="row">
             <div class="col s12 m12 l12 xl12">
+
+            <section style="margin-top:125px"><a class="active" href="#" style="color:black !important"><b class="Tipografia--general Subtitulos">Inicio&nbsp > </b></a><a class="breditem active" href="Política_Calidad.php" style="color:red !important;margin-left:-2px"><b class="Tipografia-general Subtitulos">Política de Caidad</b></a></section>
                 <h2 class="Tipografia--general Titulos top--lecitinas center-align"><b style="color:#071637;font-size:22px;">Política de Calidad</b></h2>
                 <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;">Para <b style="color:#071637;font-size:16px">Chemical Broker</b> nuestro compromiso es lograr la satisfacción de las necesidades de nuestros socios de negocios y su desarrollo a través de la comercialización de ingredientes químicos, para las industrias: <b>Farmacéutica</b>, <b>Nutrición Humana</b>, <b>Veterinaria</b>, <b>Nutrición Animal</b>, <b>Cosmética & Cuidado Personal</b>, <b>Agroquímicos</b>, <b>Detergentes</b>, <b>Cuidado del Hogar e Industria Química en general</b>, para cumplir con el marco regulatorio, normas y políticas aplicables, con el principal objetivo de lograr la mejora continua de nuestros procesos y nuestro Sistema de Gestión Integral.</p>
                 <h2 class="Tipografia--general Titulos top--lecitinas center-align" style="margin-top:50px;"><b style="color:#071637;font-size:22px;">Objetivos de Calidad</b></h2>

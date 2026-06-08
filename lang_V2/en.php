@@ -109,4 +109,121 @@ $textos = [
     "PARRAFO-ATENCION-PERSONAL3" => "Our sales process is standardized according to the International Standard ISO 9001, to reduce omissions, errors or lack of efficient service.",
     "PARRAFOR-ATENCION-PERSONAL4" => "The sale of our chemical products is carried out with personalized attention to know, understand and satisfy the needs of our customers",
     
+    //CODIGO DE CONDUCTA
+
+    "TITULO_CODIGO_CONDUCTA" => "Code of Conduct",
+    "PRIMER_PARRAFO_COFC" => "The Global Code of Ethics reflects our corporate philosophy, defining our core values ​​and the standards of conduct expected of Chemical Broker members, both internally and externally. The Global Code of Ethics establishes the principles for fair and respectful treatment of our employees and business partners.",
+    "PRIMER_SUBTITULO_COFC" => "Chemical Broker's Corporate Responsibility Commitment",
+    "SEGUNDO_PARRAFO_COFC" => "Chemical Broker combines economic success and social responsibility with environmental protection. We do this as an organization. Therefore, our corporate responsibility policies are fundamentally the same nationally and internationally and are based on a Code of Conduct.",
+    "TERCER_PARRAFO_COFC" => "To succeed in what we do and to put into practice our strategy “Our excellence lies in our service”, it is vital that each and every member of the Chemical Broker team knows and applies our values: Excellence, Service, Commitment and Business Ethics.",
+    "SEGUNDO_SUBTITULO_COFC" => "Our value 'Commitment' reflects our full adherence to the commitment to corporate responsibility",
+    "TERCER_SUBTITULO_COFC" => "What does this mean?",
+    "CUARTO_PARRAFO_COFC" => "Nothing is more important than our integrity, both corporate and individual. Chemical Broker is strictly committed to rigorous compliance with the law and to ethical business practices, and expects all employees to adhere to these standards. This commitment must be fully integrated throughout the organization, as each individual acts as an ambassador for the company. It is of vital importance to us that your behavior conforms to our standards; these cannot be compromised.",
+    "QUINTO_PARRAFO_COFC" => "We are convinced that our compliance system, which has been continuously improving since its introduction, has proven effective. However, maintaining compliance will always be a challenge, and we must foster and continue to develop our compliance culture in accordance with our values.",
+    "SEXTO_PARRAFO_COFC" => "Therefore, we expect you to take personal responsibility for complying with all of them:",
+    "LISTA1_COFC" => "<li>Applicable laws,</li><li>Basic international standards,</li><li>Corporate policies and directives.</li>",
+    "SEPTIMO_PARRAFO_COFC" => "The Chemical Broker Code of Conduct summarizes important laws and corporate policies that govern the behavior of all individuals within our organization in their dealings with business partners, managers, other individuals, and the community. While it guides us in making the right decisions, it does not cover every situation we may encounter. Specific laws and regulations may apply in certain areas of activity or locations.",
+    "OCTAVO_PARRAFO_COFC" => "Ensuring compliance is part of our daily work. At Chemical Broker, we must maintain and further develop a genuine culture where executives act as role models in promoting business ethics and legal compliance, and where compliance is everyone's responsibility.",
+    "NOVENO_PARRAFO_COFC" => "Chemical Broker is committed to providing you with all the information and assistance you need to comply with these obligations. If you have any questions, please don't hesitate to ask.",
+    "TEXTO_FINAL_COFC" => "Thank you for your commitment",
+    "TEXTO_FINAL_COFC" => "Our Global Code of Ethics is available as a PDF file, in Spanish.",
+    "COFC_BOTON_DESCARGA" => "Download Code of Conduct",
+
+    //POLITICA DE CALIDAD   
+
+    "TITULO_POLITICA_CALIDAD" => "Quality Policy",
+    "PRIMER_PARRAFO_POLITICA_CALIDAD" => "At Chemical Broker, our commitment is to satisfy the needs of our business partners and their development through the marketing of chemical ingredients for the following industries: Pharmaceutical, Human Nutrition, Veterinary, Animal Nutrition, Cosmetics & Personal Care, Agrochemicals, Detergents, Home Care, and the Chemical Industry in general, in compliance with the applicable regulatory framework, standards, and policies, with the main objective of achieving continuous improvement of our processes and our Integrated Management System.",
+    "TITULO_OBJETIVOS_CALIDAD" => "Quality Objectives",
+    "LISTA_OBJETIVOS_CALIDAD" => "<li>Maintain customer satisfaction.</li><li>Maintain business profitability.</li><li>Annual sales growth.</li><li>Continuously improve the results of our Integrated Management System processes.</li><li>Promote the personal and professional development of the organization's members.</li><li>Continuous improvement of the Integrated Management System.</li><li>Comply with the applicable legal, regulatory, standards, and policies.</li>",
+
+
+     //MERCADOS
+
+     "TITULO_MERCADOS" => "Chemical Broker is a global provider of brokerage, marketing, distribution, import and export services for chemical ingredients, for the Pharmaceutical, Veterinary, Food and Human Nutrition, Animal Nutrition, Cosmetics and Personal Care, Detergents, Agrochemical, Industrial and Chemical Industry in general.",
+     "TITULO_FARMACEUTICA" => "Pharmaceutical",
+     "TEXTO_FARMACEUTICA" => "Ingredients and solutions for the Pharmaceutical industry.",
+     "BOTON_LEER_MAS" => "Read More",
+     "TITULO_VETERINARIA" => "Vet",
+     "TEXTO_VETERINARIA" => "Nutritional solutions and products for the veterinary industry.",
+     "TITULO_ALIMENTARIA" => "Food & Human Nutrition",
+     "TEXTO_ALIMENTARIA" => "Ingredients and solutions for the food and nutrition industry.",
+     "TITULO_NUTRICION_ANIMAL" => "Animal Nutrition",
+     "TEXTO_NUTRICION_ANIMAL" => "Ingredients and solutions to improve animal performance and health.",
+     "TITULO_AGROQUIMICOS" => "Agrochemicals",
+     "TEXTO_AGROQUIMICOS" => "Chemical solutions for crop protection and optimization.",
+     "TITULO_COSMETICOS" => "Cosmetics & Personal Care",
+     "TEXTO_COSMETICOS" => "Specialized ingredients for beauty and personal care formulations.",
+     "TITULO_DETERGENTES" => "Detergents",
+     "TEXTO_DETERGENTES" => "Raw materials and solutions for cleaning and maintenance products.",
+     "TITULO_QUIMICA_INDUSTRIAL" => "Industrial Chemistry",
+     "TEXTO_QUIMICA_INDUSTRIAL" => "Supply of raw materials and solutions for industrial processes.",
+
+
+     //INDUSTRIA FARMACEUTICA 
+
+     "SLOGAN_FARMACEUTICA" => "“Quality in every ingredient; Our commitment to pharmaceutical excellence”",
+    "PRIMER_PARRAFO_FARMACEUTICA" => "The pharmaceutical industry provides the world with solutions that allow us to preserve human health and improve our quality of life.",
+    "SEGUNDO_PARRAFO_FARMACEUTICA" => "Chemical Broker offers a broad portfolio of excipients that comply with International Pharmacopoeias and ICH-Q7 Good Manufacturing Practices. We have established ourselves as one of the leading global suppliers and a leader in Mexico in the marketing of these types of chemical ingredients, guaranteeing quality, traceability, regulatory compliance, and a reliable supply for the pharmaceutical industry.",
+    "PRIMER_SUBTITULO_FARMACEUTICA" => "Excipients",
+    "TERCER_PARRAFO_FARMACEUTICA" => "In the manufacture of medicines for a better quality of life, excipients are the substances responsible for enabling the active ingredients to fulfill their purpose when mixed together and can constitute 90% of the total composition of a medicine:",
+    "BANNERS_FARMACEUTICA" => "Excipients act as a vehicle to give body, texture, shape and preservation to the active ingredient, facilitating its ingestion and regulating its activity in the body.",
+    "SEGUNDO_SUBTITULO_FUNCIONES" => "Features",
+    "LISTA_FUNCIONES" => "<li>They increase the value of the formula, since the amounts of Active Pharmaceutical Ingredients (APIs) per dose are sometimes extremely small.</li><li>They ensure the stability of the Active Pharmaceutical Ingredients, acting as lubricants, thickeners, dehydrating agents, and binders.</li><li>They improve the organoleptic properties; that is, the taste, smell, and appearance of the drug, acting as colorants, sweeteners, and flavorings.</li><li>They improve bioavailability; that is, the amount of drug that reaches the bloodstream.</li>",
+    "TITULO_SPRAYS_NASALES" => "Nasal Sprays",
+    "TEXTO_SPRAY_NASAL" => "Ingredients and solutions for the Pharmaceutical industry.",
+    "TITULO_JARABES" => "Syrups",
+    "TEXTO_JARABES" => "Ingredients and solutions for the Pharmaceutical industry.",
+    "TITULO_POMADAS" => "Ointments and Salves",
+    "TEXTO_POMADAS" => "Ingredients and solutions for the Pharmaceutical industry.",
+    "TITULO_TABLETAS_DURAS" => "Hard Tablets",
+    "TEXTO_TABLETAS_DURAS" => "Ingredients and solutions for the Pharmaceutical industry.",
+    "TITULO_CAPSULAS_BLANDAS" => "Soft Capsules",
+    "TEXTO_CAPSULAS_BLANDAS" => "Ingredients and solutions for the Pharmaceutical industry.",
+    "TITULO_SUPOSITORIOS" => "Suppositories",
+    "TEXTO_SUPOSITORIOS" => "Ingredients and solutions for the Pharmaceutical industry.",
+    "TITULO_INYECTABLES" => "Injectables",
+    "TEXTO_INYECTABLES" => "Ingredients and solutions for the Pharmaceutical industry.",
+    "TITULO_SUPLEMENTOS" => "Supplements",
+    "TEXTO_SUPLEMENTOS" => "Ingredients and solutions for the Pharmaceutical industry.",
+
+
+    //MERCADO_FARMACEUTICO_SPAY_NASAL
+
+    "TITULO_SPRAY_NASAL" => "Nasal Spray",
+    "TEXTO_SPRAY_NASAL" => "The nasal spray market is an important part of the pharmaceutical sector, addressing a variety of upper respiratory tract health needs. These products are designed to deliver medication directly into the nasal cavity, making them effective in treating conditions such as nasal congestion, allergies, sinusitis, colds, and rhinitis, among others.",
+    "SUBTITULO_SPRAY_NASAL" => "Some of the key points of this market are:",
+    "LISTA1_SPRAY_NASAL" => "<li>Market Growth: The nasal spray market has experienced steady growth due to factors such as the increasing prevalence of respiratory conditions, the aging population, and greater awareness of self-care.</li><li>Innovation: Pharmaceutical companies are constantly innovating in the development of new products and formulations to improve the efficacy, convenience, and safety of nasal sprays.</li><li>Regulation: Nasal sprays are subject to strict regulations by health agencies in different countries to ensure their safety and efficacy. This includes clear labeling requirements, safety testing, and quality assurance.</li>",
+    "SUBTITULO2_SPRAY_NASAL" => "Chemical ingredients used in nasal sprays:",
+    "LISTA2_SPRAY_NASAL" => "<li>Decongestants: Nasal decongestants are often adrenergic compounds, such as oxymetazoline, phenylephrine, or pseudoephedrine. These compounds act on alpha-adrenergic receptors in nasal blood vessels, causing constriction and reducing nasal congestion. Antihistamines: Antihistamines used in nasal sprays, such as azelastine or olopatadine, block histamine receptors in the nasal mucosa, helping to reduce inflammation and symptoms associated with allergic rhinitis. Corticosteroids: Nasal corticosteroids, such as fluticasone, budesonide, or mometasone, are potent anti-inflammatories that reduce inflammation and swelling of the nasal mucosa by inhibiting the release of inflammatory mediators and cytokine synthesis. Preservatives and stabilizers: Preservatives and stabilizers are used to maintain the sterility and stability of the product throughout its shelf life. These ingredients may include preservatives such as benzalkonium chloride or sodium chloride, as well as pH stabilizers and antioxidants.</li>",
+    "PRODUCTOS_SPRAY_NASAL" => "Products",
+    "GLICERINA_SPRAY_NASAL" => "Glycerin",
+    "TEXTO_GLICERINA_SPRAY_NASAL" => "Versatile, high-purity ingredient ideal for industrial, cosmetic, and pharmaceutical applications.",
+
+    //MERCADO_FARMACEUTICO_JARABES
+
+     //MERCADO_FARMACEUTICO_JARABES
+
+     "TITULO_JARABES" => "Syrups",
+     "TEXTO_JARABES" => "Syrups originated between 1820 and 1896, created by the French pharmacist Abel Guillón.",
+     "TEXTO2_JARABES" => "The syrup industry is an important part of the pharmaceutical and healthcare sectors. These syrups, also known as liquid solutions, are liquid formulations containing one or more active ingredients dissolved in a liquid vehicle, usually water, sugar, or other additives.",
+     "SUBTITULO_JARABES" => "Important aspects to consider about the industry:",
+     "LISTA1_JARABES" => "<li>Product Variety: The syrup industry offers a wide variety of products to meet market needs. This includes simple syrups, such as corn syrup and sugar syrup, as well as specialty syrups, such as maple syrup, agave syrup, and maltitol syrup, which are used in specific products or in the formulation of foods and beverages for special diets.</li><li>Production and Formulation: Syrups are produced by mixing different ingredients, such as sugars (like corn syrup, glucose syrup, and sucrose syrup), water, and sometimes other additives such as flavorings, colorings, and preservatives.</li><li>Ingredients and Additives: The main ingredients in syrups are sugars, which can come from various sources such as sugar cane, sugar beets, corn, rice, wheat, and other grains. In addition to sugars, other ingredients and additives can be added to improve organoleptic characteristics.</li>",
+     "SUBTITULO2_JARABES" => "Most important chemical ingredients in syrups:",
+     "LISTA2_JARABES" => "<li>Water: Water is an essential component in most syrups, as it is used to dissolve the ingredients and adjust the viscosity of the final product.</li><li>Acids: Some syrups may contain acids such as citric acid or malic acid, which are used to balance the flavor and provide acidity.</li><li>Flavorings and colorings: Natural or artificial flavorings and colorings may be added to enhance the taste and appearance of the syrup.</li><li> These may include fruit extracts, artificial flavors, and food colorings.</li><li>Preservatives: In some cases, preservatives such as sodium benzoate or potassium sorbate may be added to extend the syrup's shelf life by inhibiting the growth of microorganisms.</li><li>Thickeners and stabilizers: To control the syrup's viscosity and stability, thickeners and stabilizers such as guar gum, xanthan gum, and carrageenan may be added.</li><li>Artificial sweeteners: In syrups designed to be low-calorie or sugar-free, artificial sweeteners such as aspartame, sucralose, or acesulfame potassium may be used to provide sweetness without adding calories.</li>",
+     "SUBTITULO3_JARABES" => "Types of Syrups",
+     "LISTA3_JARABES" => "<ol><li>Aromatic Syrups (Non-medicinal syrups<ol><li>Serve as vehicles for extemporaneous preparations,</li><li>As a starting point for medicinal syrups,</li><li>Simple syrup, juice syrup</li></ol></li></ol>",
+     "LISTA4_JARABES" => "<ol><li>Medicated syrups <ol><li>Antihistamine syrup</li></ol></li></ol>",
+     "SUBTITULO4_JARABES" => "Applications",
+     "SUBTITULO5_JARABES" => "Food Industry",
+     "TEXTO3_JARABES" => "Sweeteners: Syrups are used as sweeteners in a variety of food products, including beverages, baked goods, cereals, desserts, and candies. High-fructose corn syrup (HFCS) is one of the most widely used sweeteners in the food industry due to its low cost and its ability to improve food texture and stability.",
+     "TEXTO4_JARABES" => "Thickeners and stabilizers: Some syrups, such as glucose syrup and maltose syrup, are used as thickening and stabilizing agents in products such as sauces, dressings, and ice cream to improve texture and consistency.",
+     "TEXTO5_JARABES" => "Humectants and preservatives: Syrups are also used as humectants to retain moisture in baked goods and as preservatives to extend the shelf life of food.",
+     "TEXTO6_JARABES" => "Flavorings: In some cases, syrups are used as flavorings to add flavor and sweetness to foods and beverages",
+     "SUBTITULO6_JARABES" => "Pharmaceutical Industry",
+     "TEXTO7_JARABES" => "Vehicles for liquid medications: Syrups are used as vehicles for administering liquid medications, especially those intended for children and people who have difficulty swallowing pills. These syrups may contain active ingredients as well as additives to improve taste and texture.",
+     "TEXTO8_JARABES" => "Excipients in pharmaceutical formulations: In addition to serving as vehicles for liquid medications, syrups are also used as excipients in the formulation of tablets, capsules, and other pharmaceutical products to improve the stability and palatability of the medications.",
+     "SUBTITULO7_JARABES" => "Other applications",
+     "TEXTO9_JARABES" => "Cosmetic industry: Some syrups are used in the cosmetic industry as ingredients in skin and hair care products due to their moisturizing properties.",
+     "TEXTO10_JARABES" => "Chemical industry: In the chemical industry, syrups can be used as raw materials in the production of chemicals and biofuels.",
+ 
 ];

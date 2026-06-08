@@ -395,7 +395,7 @@
             <div class="caption center-align"><br><br><br><br>
               <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Codigo de Conducta</b>
               <div class="container">
-      <section style="margin-top:10px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Code_of_Conduct.php"><b class="Tipografia--general Subtitulos" style="color:red;">Codigo de Conducta</b></a></section>
+     
     </div>
             </div>
           </li>
@@ -406,6 +406,9 @@
     <div class="container" style="margin-top:130px;">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
+        
+        <section style="margin-top:10px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Code_of_Conduct.php"><b class="Tipografia--general Subtitulos" style="color:red;">Codigo de Conducta</b></a></section>
+
           <p class="Tipografia--general letranegro General--Cuerpo" style="text-align:justify">El Código Global de Ética refleja nuestra filosofía corporativa, definiendo nuestros valores básicos y los estándares de conducta que se esperan de los integrantes de&nbsp<b style="color:#262137">Chemical Broker</b>, interna y externamente, <b style="color:#262137">El Código Global de Ética</b> establece los principios para el trato justo y respetuoso de nuestros colaboradores y socios de negocios.
           </p>
           <h2 class="letranegro Tipografia--general General--Cuerpo" style="margin-top:50px"><b style="color:#262137;border-bottom:1.5px solid #b12729">Compromiso de Responsabilidad Corporativa de Chemical Broker</b></h2>

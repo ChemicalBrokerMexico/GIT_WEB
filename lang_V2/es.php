@@ -110,8 +110,128 @@ $textos = [
     //SERVICIO_INTEGRAL
 
     "SERVICIO-INTEGRAL" => "Chemical Broker se distingue por la excelencia en sus negocios a nivel global, por medio de un “Servicio Integral” dirigido a nuestros socios de negocios, en la Venta de Productos Químicos, al considerar los siguientes fundamentos:",
-    "SERVICIO-INTEGRAL-LISTA" => "<ol><li>Calidad Mundial</li><li>Abastecimiento Oportuno</li><li>Garantia</li><li>Seguridad</li><li>Precios Justos y Competitivos</li><li>Atencion Personal; pre,inter, post venta</li></ol>"
+    "SERVICIO-INTEGRAL-LISTA" => "<ol><li>Calidad Mundial</li><li>Abastecimiento Oportuno</li><li>Garantia</li><li>Seguridad</li><li>Precios Justos y Competitivos</li><li>Atencion Personal; pre,inter, post venta</li></ol>",
+    "EN-CHEMICALBROKER" => "En Chemical Broker",
+    "TITULO-CALIDAD-MUNDIAL" => "Los productos que ofrecemos a nuestros clientes cumplen, con las normas internacionales de Calidad, Inocuidad y Buenas Prácticas de Manufactura (BPM´s), las cuales podrán consultarse en la siguiente página Normas de Calidad Mundial",
+    "SUBTITULO-ABASTECIMIENTO" => "No hay producto más caro, que aquel que No se tiene",
+    "PARRAFO-ABASTECIMIENTO" => "Trabajamos con pronósticos de consumos trimestrales, semestrales y anuales con nuestros socios de negocios; lo cual garantiza la cantidad de producto solicitado y permite cumplir en tiempo y forma con sus requerimientos.",
+    "PARRAFO2-ABASTECIMIENTO" => "Contamos con Centros de Distribución en cumplimiento con Buenas Prácticas de Manufactura (BMP´s) y Certificados en las Normas Internacionales  ISO 9001 & FSSC 22,000, en las principales Ciudad de México, con una capacidad de almacenamiento de 30 días naturales, para el consumo programado de nuestros socios de negocios.",
+    "PARRAFO3-ABASTECIMIENTO" => "Nuestra Logística está certificada en las normas internacionales ISO 90001 & FSCC 22,000, en cumplimiento con los máximos estándares de sanitización, inocuidad y tiempo.",
+    "TITULO-GARANTIAPROD" => "Garantia del Producto",
+    "PARRAFO-GARANTIA-PROD" => "Garantizamos la entera satisfacción de nuestros socios de negocios, con productos en óptimas condiciones de calidad (calidad mundial), vida de anaquel, cumplimento a especificaciones, correcto empaque, cumplimento a características solicitadas previamente y atención prioritaria ante cualquier no conformidad que pudiera presentarse.",
+    "TITULO-SEGURIDAD-PRODUCTO" => "Seguridad del Producto",
+    "Parrafor-Garantia-Producto" => "Ofrecemos coberturas de riesgo para cubrir cualquier incidente, que pudiera suscitarse durante la operación de compra – venta.",
+    "TITULO-PRECIOS-JUSTOS" => "Precios Justos y Competitivos",
+    "PARRAFO-PRECIOS-JUSTOS" => "El valor de nuestros productos químicos es definido acorde a los siguientes rubros:",
+    "LISTA-PRECIOS-JUSTOS" => "<li>Calidad</li><li>Certificaciones</li><li>Valor de mercado</li>",
+    "ATENCION-PERSONAL-TITULO" => "Atencion Personal Pre, Inter y Post-Venta",
+    "PARRAFO-ATENCION-PERSONAL" => "Nuestra organización está formada por miembros especializados, en cada uno de los puestos de trabajo donde desarrollan sus habilidades estratégicas y operativas.",
+    "PARRAFO-ATENCION-PERSONAL2" => "Los Ejecutivos de Ventas de Chemical Broker son personas especializadas en la industria química para cada una de las divisiones que atendemos, (por ejemplo: Ingenieros en Alimentos, Ingenieros Químicos, Químicos Farmacobiólogo, etc.).",
+    "PARRAFO-ATENCION-PERSONAL3" => "Nuestro proceso de ventas es estandarizado acorde a la Norma Internacional ISO 9001, para reducir las omisiones, errores o falta de un servicio eficiente.",
+    "PARRAFOR-ATENCION-PERSONAL4" => "La venta de nuestros productos químicos se realiza con una atención personalizada para conocer, entender y satisfacer las necesidades de nuestros clientes",
 
+
+    //CODIGO DE CONDUCTA
+
+    "TITULO_CODIGO_CONDUCTA" => "Codigo de Conducta",
+    "PRIMER_PARRAFO_COFC" => "El Código Global de Ética refleja nuestra filosofía corporativa, definiendo nuestros valores básicos y los estándares de conducta que se esperan de los integrantes de Chemical Broker, interna y externamente, El Código Global de Ética establece los principios para el trato justo y respetuoso de nuestros colaboradores y socios de negocios.",
+    "PRIMER_SUBTITULO_COFC" => "Compromiso de Responsabilidad Corporativa de Chemical Broker",
+    "SEGUNDO_PARRAFO_COFC" => "Chemical Broker combino el éxito económico y la responsabilidad social, con la protección del medio ambiente. Y esto lo llevamos a cabo como una Organización. Por tanto, nuestra normativa de responsabilidad corporativa es fundamentalmente la misma a nivel nacional e internacional y está basada en un Código de Conducta.",
+    "TERCER_PARRAFO_COFC" => "Para tener éxito en lo que hacemos y para poner en práctica nuestra estrategia  “Nuestra excelencia, está en nuestro Servicio”, es vital que todos y cada uno de los integrantes del equipo de Chemical Broker conozcan y apliquen nuestros valores: Excelencia, Servicio, Compromiso y Ética Empresarial.",
+    "SEGUNDO_SUBTITULO_COFC" => "Nuestro valor 'Compromiso' refleja nuestra adhesión completa al compromiso de responsabilidad corporativa",
+    "TERCER_SUBTITULO_COFC" => "¿Qué quiere decir esto?",
+    "CUARTO_PARRAFO_COFC" => "No hay nada más importante que nuestra integridad tanto empresarial como individual Chemical Broker está estrictamente comprometido con el riguroso cumplimiento de la ley, así como con una ética empresarial, y espera que todos los empleados se adhieran a dichas normas. Dicho compromiso debe desarrollarse plenamente en la organización, dado que cada uno de los individuos actúa como embajador de la empresa. Para nosotros, es de vital importancia que su comportamiento sea conforme a nuestras normas; estas no se pueden ver comprometidas.",
+    "QUINTO_PARRAFO_COFC" => "Estamos convencidos de que nuestro sistema de cumplimiento, que ha estado mejorando de forma continua se viene desarrollando desde su introducción, ha demostrado ser eficaz. No obstante, su cumplimiento siempre constituirá un reto y debemos fomentar y seguir desarrollando de forma permanente nuestra cultura de cumplimiento en función de nuestros valores.",
+    "SEXTO_PARRAFO_COFC" => "Por tanto, esperamos que asuma la responsabilidad personal de cumplir con todas:",
+    "LISTA1_COFC" => "<li>Las leyes aplicables,</li><li>Los estándares internacionales básicos,</li><li>Las políticas y directivas corporativas.</li>",
+    "SEPTIMO_PARRAFO_COFC" => "El Código de Conducta Chemical Broker, resume leyes importantes y políticas corporativas que regulan el comportamiento de todos los individuos de nuestra organización; en sus tratos con socios comerciales, responsables, otros individuos y la sociedad. Aunque nos orienta para que tomemos las decisiones correctas, no cubre todas las situaciones a las que nos enfrentamos. Es posible que sean de aplicación leyes y normativas específicas en determinados campos de actividad o ubicaciones.",
+    "OCTAVO_PARRAFO_COFC" => "Garantizar el cumplimiento forma parte de nuestro trabajo diario. Los integrantes del equipo de Chemical Broker debemos mantener y seguir desarrollando una verdadera cultura en la que los ejecutivos actúen como modelos de referencia a la hora de promover la ética empresarial y el cumplimiento legal, y en la que el cumplimiento sea responsabilidad de todos.",
+    "NOVENO_PARRAFO_COFC" => "Chemical Broker tiene el compromiso de proporcionarle toda la información y la asistencia que precisa para cumplir con estas obligaciones. En caso de duda, solo tiene que preguntar.",
+    "TEXTO_FINAL_COFC" => "Gracias por su compromiso.",
+    "TEXTO_FINAL_COFC" => "Nuestro Código Global de Ética se encuentra disponible en archivo PDF, en Español.",
+    "COFC_BOTON_DESCARGA" => "Descargar Codigo de Conducta",
+
+    //POLITICA DE CALIDAD 
+
+    "TITULO_POLITICA_CALIDAD" => "Política de Calidad",
+    "PRIMER_PARRAFO_POLITICA_CALIDAD" => "Para Chemical Broker nuestro compromiso es lograr la satisfacción de las necesidades de nuestros socios de negocios y su desarrollo a través de la comercialización de ingredientes químicos, para las industrias: Farmacéutica, Nutrición Humana, Veterinaria, Nutrición Animal, Cosmética & Cuidado Personal, Agroquímicos, Detergentes, Cuidado del Hogar e Industria Química en general, para cumplir con el marco regulatorio, normas y políticas aplicables, con el principal objetivo de lograr la mejora continua de nuestros procesos y nuestro Sistema de Gestión Integral.",
+    "TITULO_OBJETIVOS_CALIDAD" => "Objetivos de Calidad",
+    "LISTA_OBJETIVOS_CALIDAD" => "<li>Mantener la satisfacción del Cliente.</li><li>Mantener la rentabilidad del negocio.</li><li>Crecimiento en ventas anuales.</li><li>Mejorar continuamente el resultado de nuestros procesos de nuestro Sistema de Gestión Integral.</li><li>Promover el desarrollo personal y profesional de los miembros de la Organización.</li><li>Mejora continua del Sistema de Gestión Integrado.</li><li>Cumplir con el marco legal regulatorio; normas y políticas aplicables.</li>",
+
+    //MERCADOS
+
+    "TITULO_MERCADOS" => "Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de ingredientes químicos, para las industrias Farmacéutica, Veterinaria, Alimentaria y Nutrición Humana, Nutrición Animal, Cosmética y del Cuidado Personal, Detergentes, Agroquímica, Industrial e Industria Química en general.",
+    "TITULO_FARMACEUTICA" => "Farmacéutica",
+    "TEXTO_FARMACEUTICA" => "Ingredientes y soluciones para la industria Farmacéutica.",
+    "BOTON_LEER_MAS" => "Leer Más",
+    "TITULO_VETERINARIA" => "Veterinaria",
+    "TEXTO_VETERINARIA" => "Soluciones nutricionales y productos para la industria veterinaria.",
+    "TITULO_ALIMENTARIA" => "Alimentaria & Nutrición Humana",
+    "TEXTO_ALIMENTARIA" => "Ingredientes y soluciones para la industria alimentaria y de nutrición.",
+    "TITULO_NUTRICION_ANIMAL" => "Nutrición Animal",
+    "TEXTO_NUTRICION_ANIMAL" => "Ingredientes y soluciones para mejorar el rendimiento y salud animal.",
+    "TITULO_AGROQUIMICOS" => "Agroquímicos",
+    "TEXTO_AGROQUIMICOS" => "Soluciones químicas para la protección y optimización de cultivos.",
+    "TITULO_COSMETICOS" => "Cosméticos & Cuidado Personal",
+    "TEXTO_COSMETICOS" => "Ingredientes especializados para formulaciones de belleza y cuidado personal.",
+    "TITULO_DETERGENTES" => "Detergentes",
+    "TEXTO_DETERGENTES" => "Materias primas y soluciones para productos de limpieza y mantenimiento.",
+    "TITULO_QUIMICA_INDUSTRIAL" => "Química Industrial",
+    "TEXTO_QUIMICA_INDUSTRIAL" => "Suministro de materias primas y soluciones para procesos industriales.",
+
+
+    //INDUSTRIA FARMACEUTICA
+
+    "SLOGAN_FARMACEUTICA" => "“Calidad en cada ingrediente; Nuestro compromiso con la excelencia farmacéutica”",
+    "PRIMER_PARRAFO_FARMACEUTICA" => "La Industria Farmacéutica provee al mundo soluciones que permiten preservar la salud humana y mejorar su calidad de vida.",
+    "SEGUNDO_PARRAFO_FARMACEUTICA" => "Chemical Broker ofrece un amplio portafolio de excipientes que cumplen con las Farmacopeas Internacionales y las Buenas Prácticas de Manufactura ICH-Q7. Nos consolidamos como uno de los principales proveedores a nivel global y líderes en México en la comercialización de este tipo de ingredientes químicos, garantizando calidad, trazabilidad, cumplimiento regulatorio y un suministro confiable para la industria farmacéutica.",
+    "PRIMER_SUBTITULO_FARMACEUTICA" => "Excipientes",
+    "TERCER_PARRAFO_FARMACEUTICA" => "En la fabricación de medicamentos para una mejor calidad de vida, los Excipientes, son las sustancias responsables de que los Activos cumplan con su cometido al ser mezclados entre sí y pueden constituir el 90% de la composición total de un medicamento:",
+    "BANNERS_FARMACEUTICA" => "Los excipientes funcionan como vehículo para darle cuerpo, textura, forma y conservación al principio activo, facilitando su ingesta y regulando su actividad en el organismo.",
+    "SEGUNDO_SUBTITULO_FUNCIONES" => "Funciones",
+    "LISTA_FUNCIONES" => "<li>Aumentan el valor de la fórmula, pues las cantidades de Principio Activo (API´S) por sus siglas en inglés, por dosis, a veces son sumamente pequeñas.</li><li>Aseguran la estabilidad del Principio Activo, como lubrificantes, espesantes, deshidratantes y aglutinantes.</li><li>Mejoran las propiedades organolépticas; es decir el sabor, el olor y la apariencia del fármaco como colorantes, edulcorantes, aromatizantes.</li><li>Mejoran la biodisponibilidad; es decir la cantidad de fármaco que llega al torrente sanguíneo.</li>",
+    "TITULO_SPRAYS_NASALES" => "Sprays Nasales",
+    "TEXTO_SPRAY_NASAL" => "Ingredientes y soluciones para la industria Farmacéutica.",
+    "TITULO_JARABES" => "Jarabes",
+    "TEXTO_JARABES" => "Ingredientes y soluciones para la industria Farmacéutica.",
+    "TITULO_POMADAS" => "Pomadas y Ungüentos",
+    "TEXTO_POMADAS" => "Ingredientes y soluciones para la industria Farmacéutica.",
+    "TITULO_TABLETAS_DURAS" => "Tabletas Duras",
+    "TEXTO_TABLETAS_DURAS" => "Ingredientes y soluciones para la industria Farmacéutica.",
+    "TITULO_CAPSULAS_BLANDAS" => "Capsulas Blandas",
+    "TEXTO_CAPSULAS_BLANDAS" => "Ingredientes y soluciones para la industria Farmacéutica.",
+    "TITULO_SUPOSITORIOS" => "Supositorios",
+    "TEXTO_SUPOSITORIOS" => "Ingredientes y soluciones para la industria Farmacéutica.",
+    "TITULO_INYECTABLES" => "Injectables",
+    "TEXTO_INYECTABLES" => "Ingredientes y soluciones para la industria Farmacéutica.",
+    "TITULO_SUPLEMENTOS" => "Suplementos",
+    "TEXTO_SUPLEMENTOS" => "Ingredientes y soluciones para la industria Farmacéutica.",
+
+
+    //MERCADO_FARMACEUTICO_SPRAY_NASAL
+
+    "TITULO_SPRAY_NASAL" => "Spray Nasal",
+    "TEXTO_SPRAY_NASAL" => "El mercado de los sprays nasales es una parte importante del sector farmacéutico que aborda una variedad de necesidades de salud relacionadas con el tracto respiratorio superior. Estos productos están diseñados para administrar medicamentos directamente en la cavidad nasal, lo que los hace efectivos para tratar afecciones como congestión nasal, alergias, sinusitis, resfriados y rinitis entre otros.",
+    "SUBTITULO_SPRAY_NASAL" => "Algunos de los puntos clave de este mercado son:",
+    "LISTA1_SPRAY_NASAL" => "<li>Crecimiento de mercado: El mercado de los sprays nasales ha experimentado un crecimiento constante debido a factores como el aumento de la prevalencia de condiciones respiratorias, el envejecimiento de la población y una mayor conciencia sobre el autocuidado de la salud.</li><li>innovación: Las empresas farmacéuticas están en constantemente innovando en el desarrollo de nuevos productos y formulaciones para mejorar la eficacia, la comodidad y seguridad de los sprays nasales.</li><li>Regulación: Los sprays nasales están sujetos a regulaciones estrictas por parte de las agencias de salud en diferentes países para garantizar su seguridad y eficacia. Esto incluye requisitos de etiquetado claros, pruebas de seguridad y calidad.</li>",
+    "SUBTITULO2_SPRAY_NASAL" => "Ingredientes químicos utilizados en los sprays nasales:",
+    "LISTA2_SPRAY_NASAL" => "<li>Descongestionantes: Los descongestionantes nasales son a menudo compuestos adrenérgicos, como la oximetazolina, la fenilefrina o la pseudoefedrina. Estos compuestos actúan sobre los receptores alfa- adrenérgicos en los vasos sanguíneos nasales causando construcción y reduciendo la congestión nasal.</li>Antihistamínicos: los antihistamínicos utilizados en los sprays nasales como la azelastina o la olopatadina bloquean los receptores de histamina en la mucosa nasal, lo que ayuda a reducir la inflamación y los síntomas asociados con la rinitis alérgica.<li></li><li>Corticosteroides: Los corticosteroides nasales, como la fluticasona, la budesónida o la mometasona, son potentes antiinflamatorios que reducen la inflamación y la hinchazón de la mucosa nasal al inhibir la liberación de los mediadores inflamatorios y la síntesis de citoquinas.</li><li>Conservantes y estabilizadores: Los conservantes y estabilizadores se utilizan para mantener la esterilidad y la estabilidad del producto durante su vida útil. Estos ingredientes pueden incluir conservantes como el cloruro de benzalconio o el cloruro de sodio, así como estabilizadores de pH y antioxidantes</li>",
+    "PRODUCTOS_SPRAY_NASAL" => "Productos",
+    "GLICERINA_SPRAY_NASAL" => "Glicerina",
+    "TEXTO_GLICERINA_SPRAY_NASAL" => "Ingrediente versátil de alta pureza ideal para aplicaciones industriales, cosméticas y farmacéuticas.",
+
+    //MERCADO_FARMACEUTICO_JARABES
+
+    "TITULO_JARABES" => "Jarabes",
+    "TEXTO_JARABES" => "Los jarabes tuvieron su origen entre 1820 – 1896 creados por el farmacéutico francés Abel Guillón.",
+    "TEXTO2_JARABES" => "La industria de los jarabes es una parte importante del sector farmacéutico y de salud en general. Estos jarabes también conocidos como soluciones liquidas, son formulaciones liquidas que contienen uno o mas ingredientes activos disueltos en un vehículo líquido, generalmente agua, azúcar u otros aditivos.",
+    "SUBTITULO_JARABES" => "Aspectos importantes a considerar sobre la industria:",
+    "LISTA1_JARABES" => "<li>Variedad de productos: La industria de los jarabes ofrece una amplia variedad de productos para satisfacer las necesidades del mercado. Esto incluye jarabes simples, como jarabe de maíz y jarabe de azúcar, así como jarabes especializados, como jarabe de arce, jarabe de agave y jarabe de maltitol, que se utilizan en productos específicos o en la formulación de alimentos y bebidas para dietas especiales.</li><li>roducción y formulación: Los jarabes se producen mediante la mezcla de diferentes ingredientes, como azucares (como jarabe de maíz, jarabe de glucosa, jarabe de sacarosa) agua y en ocasiones otros aditivos como saborizantes, colorantes y conservantes.</li><li>Ingredientes y aditivos: Los ingredientes principales de los jarabes son los azucares, que pueden provenir de diversas fuentes como la caña de azúcar, la remolacha, el maíz, el arroz y el trigo y otros cereales. Además de los azucares se pueden agregar otros ingredientes y aditivos para mejorar las características organolépticas.</li>",
+    "SUBTITULO2_JARABES" => "Ingredientes químicos mas importantes de los jarabes:",
+    "LISTA2_JARABES" => "<li>Agua: El agua es un componente esencial en la mayoría de los jarabes, ya que se utilizan a disolver los ingredientes y ajustar la viscosidad del producto final.</li><li>Ácidos: Algunos jarabes pueden contener ácidos como acido cítrico o ácido málico, que se utilizan para equilibrar el sabor y proporcionar acidez.</li><li>Saborizantes y colorantes: Se pueden agregar saborizantes y colorantes naturales o artificiales para mejorar el sabor y la apariencia del jarabe. Estos pueden incluir extractos de frutas, aromas artificiales y colorantes alimentarios.</li><li>Conservantes: En algunos casos, se pueden agregar conservantes como el benzoato de sodio o el sorbato de potasio para prolongar la vida útil del jarabe al inhibir el crecimiento de microorganismos.</li><li>Espesantes y estabilizantes: Para controlar la viscosidad y estabilidad del jarabe, se pueden agregar espesantes y estabilizantes como la goma guar, la goma xantana y la carragenina.</li><li>Edulcorantes artificiales: En los jarabes diseñados para ser bajos en calorías o sin azúcar, se pueden utilizar edulcorantes artificiales como el aspartamo, la sucralosa o el acesulfamo de potasio para proporcionar dulzor sin agregar calorías.</li>",
+    "SUBTITULO3_JARABES" => "Tipos de Jarabes",
+    "LISTA3_JARABES" => "<ol><li>Jarabes Aromáticos (Jarabes no medicamentosos<ol><li>Sirven como vehículos de preparación extemporáneas,</li><li>Como punto de partida de jarabes medicamentos,</li><li>Jarabe simple, jarabe de zumos</li></ol></li></ol>",
+    "LISTA4_JARABES" => "<ol><li>Jarabes medicamentosos <ol><li>Jarabe Antihistamínico</li></ol></li></ol>"
 
 
 
