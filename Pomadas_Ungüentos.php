@@ -504,7 +504,7 @@
 
 <!-- SEGUNDA CARD FINAL  -->
         </div>
-
+<!-- 
         <div class="col s12 m12 l4 xl4">
         <div class="card">
           <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
@@ -512,43 +512,43 @@
           </div>
           <div class="card-content">
             <span class="card-title activator grey-text text-darken-4"><b>Acidos Grasos</b></span>
-          </div>
+          </div> -->
           <!-- <div class="card-reveal">
             <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
             <p>Here is some more information about this product that is only revealed once clicked on.</p>
           </div> -->
-        </div>
-          </div>
+        <!-- </div>
+          </div> -->
 
-          <div class="col s12 m12 l4 xl4">
+          <!-- <div class="col s12 m12 l4 xl4">
         <div class="card">
           <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
            <a href="Glycerins.php"><img class="activator" src="img/BANNER_PRINCIPAL.jpg"></a>
           </div>
           <div class="card-content">
             <span class="card-title activator grey-text text-darken-4"><b>Glicerinas</b></span>
-          </div>
+          </div> -->
           <!-- <div class="card-reveal">
             <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
             <p>Here is some more information about this product that is only revealed once clicked on.</p>
           </div> -->
-        </div>
-          </div>
+        <!-- </div>
+          </div> -->
 
-          <div class="col s12 m12 l4 xl4">
+          <!-- <div class="col s12 m12 l4 xl4">
         <div class="card">
           <div class="card-image waves-effect waves-block waves-light" style="border-radius:30px;">
            <a href="Proximamente.php"><img class="activator" src="img/Polioles_260226.jpg"></a>
           </div>
           <div class="card-content">
             <span class="card-title activator grey-text text-darken-4"><b>Polioles</b></span>
-          </div>
+          </div> -->
           <!-- <div class="card-reveal">
             <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
             <p>Here is some more information about this product that is only revealed once clicked on.</p>
           </div> -->
-        </div>
-          </div>
+        <!-- </div>
+          </div> -->
       </div>
     </div>
     <footer style="margin-top:70px">

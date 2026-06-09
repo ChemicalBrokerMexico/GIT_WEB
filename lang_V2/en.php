@@ -199,8 +199,6 @@ $textos = [
     "GLICERINA_SPRAY_NASAL" => "Glycerin",
     "TEXTO_GLICERINA_SPRAY_NASAL" => "Versatile, high-purity ingredient ideal for industrial, cosmetic, and pharmaceutical applications.",
 
-    //MERCADO_FARMACEUTICO_JARABES
-
      //MERCADO_FARMACEUTICO_JARABES
 
      "TITULO_JARABES" => "Syrups",
@@ -226,4 +224,57 @@ $textos = [
      "TEXTO9_JARABES" => "Cosmetic industry: Some syrups are used in the cosmetic industry as ingredients in skin and hair care products due to their moisturizing properties.",
      "TEXTO10_JARABES" => "Chemical industry: In the chemical industry, syrups can be used as raw materials in the production of chemicals and biofuels.",
  
+
+     // MERCADO DE POMADAS
+
+    "TITULO_POMADAS" => "Ointments and salves",
+    "PARRAFO1_POMADAS" => "Pharmaceutical preparations for the treatment of conditions such as skin rashes, skin irritation, bites, and fungal infections are normally supplied in the form of a cream or ointment, as this provides an effective means of administering the active ingredient directly to the required area. Chemical Broker, in conjunction with its clients, is responsible for the correct distribution of chemical ingredients suitable for this industry.",
+    "PARRAFO2_POMADAS" => "They are made up of fats or similar substances that have a semi-solid appearance at 25°C. This physical property is what truly defines them, as their chemical composition is extremely varied.",
+    "SUBTITULO1_POMADAS" => "Applications:",
+    "PARRAFO3_POMADAS" => "Ointments are used for a variety of purposes, from relieving muscle pain to treating skin problems. Their versatility makes them suitable for both therapeutic and cosmetic care.",
+    "SUBTITULO2_POMADAS" => "Economic growth of the industry",
+    "PARRAFO4_POMADAS" => "The economic growth of the ointment industry has been remarkable in recent years. Several factors contribute to this increase, including the growing demand for personal care and therapeutic products, as well as the interest in natural and organic ingredients.",
+    "PARRAFO5_POMADAS" => "The ointment market has expanded due to the diversification of applications, from medicinal properties to more aesthetic uses. Constant innovation in formulations, with an emphasis on high-quality ingredients, has driven consumer preference.",
+    "SUBTITULO3_POMADAS" => "Typical manufacturing process",
+    "LISTA1_POMADAS" => "<li>Preparation of the oil phase: Flake or powdered ingredients, sometimes pre-mixed dry, are dispersed in mineral oil or silicone oil.</li><li>Hydration of ingredients in the aqueous phase: Emulsifiers, thickeners, and stabilizers are dispersed in water in a separate tank.</li><li>Formation of the emulsion: The two phases are mixed under vigorous agitation to form the emulsion.</li><li>Dispersion of the active ingredient: Active ingredients constitute only a small proportion of the formulation, but they must be properly dispersed to maximize performance.</li><li>",
+    "CARD_PRODUCTO" => "Product",
+    "GLICERINA_CARD" => "Glycerin",
+    "GLICERINA_CARD_TEXTO" => "Versatile, high-purity ingredient ideal for industrial, cosmetic, and pharmaceutical applications.",
+    "GLICERINA_CARD_VER_PRODUCTO" => "View Product",
+    "CARBOMEROS_CARD" => "Carbomers",
+    "CARBOMEROS_CARD_TEXTO" => "Versatile, high-purity ingredient ideal for industrial, cosmetic, and pharmaceutical applications.",
+    "ACIDOS_GRASOS_CARD" => "Fatty acids",
+    "ACIDOS_GRASOS_CARD_TEXTO" => "Versatile, high-purity ingredient ideal for industrial, cosmetic, and pharmaceutical applications.",
+    
+    //MERCADO DE TABLETAS DURAS 
+
+    "TITULO_TABLETAS_DURAS" => "HARD TABLETS",
+    "TEXTO_PRIMER-PARRAFO_TABLETAS_DURAS" => "The tablet drug industry is an essential part of the pharmaceutical sector, characterized by constant advancements and adaptations. Pharmaceutical companies invest in research and development to formulate safe and effective tablets, encompassing a wide variety of medications.",
+    "TEXTO_SEGUNDO_PARRAFO_TABLETA_DURAS" => "The contents of the capsules may be solid, liquid, or pasty. They consist of one or more active ingredients with or without excipients such as solvents, diluents, lubricants, or disintegrants. The contents do not cause deterioration of the capsule shell.",
+    "SUBTITULO1_TABLETAS_DURAS" => "Types of Tablets",
+    "LISTA1_TABLETAS_DURAS" => "<ol><li>Uncoated: Obtained by simple compression. They are composed of the drug and the excipient (diluent, binders, disintegrants, lubricants).</li><li>Multi-layer tablets: Obtained by multiple compressions, resulting in several superimposed cores, with different compaction in each one. These types of tablets are used either to administer two or more incompatible drugs, or to obtain a longer-lasting effect from one of them. Coated tablets or dragees: The coating protects the drug from moisture and air, as well as masking unpleasant tastes and odors. Controlled-release tablets: These tablets control the release of the active ingredient in the body. Effervescent tablets: These are obtained by compressing granules of effervescent salts, generally an acid, such as citric acid, and an alkali, such as sodium bicarbonate. Sublingual tablets: These are held under the tongue until completely absorbed.
+    This route is used because the absorption of the active ingredient is faster, or in some cases where the active ingredient is poorly absorbed or degraded in the intestine. Orodispersible tablets: When placed in the mouth, they dissolve rapidly upon contact with saliva and are then swallowed.
+    </li><li>Modified-release tablet: The purpose of this type of tablet is to modify the rate, timing, or location of release of the active ingredient.</li><li>Gastro-resistant tablet: The purpose is for it to resist gastric juices and be absorbed in the intestinal tract. This may be because they cause gastric lesions or because they decompose in gastric juices.</li></ol>",
+    "SUBTITULO2_TABLETAS_DURAS" => "Characteristics",
+    "LISTA2_TABLETAS_DURAS" => "<ol><li>They are ready-made and only need to be dosed,</li><li>Dosing of solid substances (powders, granules, tablets),</li><li>A type of hard gelatin capsule suitable for liquid or semi-solid substances.</li></ol>",
+    "SUBTITULO3_TABLETAS_DURAS" => "Advantages of this type of capsules",
+    "LISTA3_TABLETAS_DURAS" => "<ol><li>Simple composition and preparation,</li><li>Drug protection,</li><li>Good organoleptic characteristics.</li></ol>",
+    "SUBTITULO_PRODUCTO" => "Products",
+    "CARD_SORBITOLES" => "Sorbitols",
+    "CARD_SORBITOLES_TEXTO" => "",
+    "CARD_EDULCORANTES" => "Sweeteners",
+
+
+    //TABLETAS BLANDAS
+
+    "TITULO_TABLETAS_BLANDAS" => "Soft Tablets",
+    "PARRAFO1_TABLETAS_BLANDAS" => "They are an oral dosage form consisting of a soft, flexible outer shell, usually made of gelatin or polymeric material, that contains the liquid, semisolid, or gel medication. This shell provides a protective barrier for the medication and facilitates its ingestion.",
+    "SUBTITULO1_TABLETAS_BLANDAS" => "Advantages of soft capsules",
+    "LISTA1_TABLETAS_BLANDAS" => "<ol><li>They allow the administration of liquid, semi-solid, or viscous formulations that cannot be compressed into tablets.</li><li>They are easy to swallow and have a faster dissolution time compared to tablets.</li><li>They can contain variable doses of medication, allowing for more precise dosing.</li><li>The outer coating provides protection against oxidation, moisture, and other factors that could degrade the medication.</li></ol>",
+    "PARRAFO2_TABLETAS_BLANDAS" => "Applications in the pharmaceutical industry: Softgels are used for a wide range of medications, including pain relievers, vitamins, dietary supplements, essential oils, and specialty pharmaceuticals. They are also popular for over-the-counter medications and nutraceutical products.",
+    "LISTA2_TABLETAS_BLANDAS" => "<ol><li>Contain medications without their odor being perceptible</li><li>Size from 5mm to 2cm</li><li>Dispense liquids or pastes that do not dissolve its walls</li><li></li></ol>",
+    "SUBTITULO_PRODUCTOS" => "Products",
+    "CARD_GLICERINA_TABLETAS_BLANDAS" => "Glycerin",
+
+
 ];

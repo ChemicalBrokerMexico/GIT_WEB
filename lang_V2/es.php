@@ -231,7 +231,72 @@ $textos = [
     "LISTA2_JARABES" => "<li>Agua: El agua es un componente esencial en la mayoría de los jarabes, ya que se utilizan a disolver los ingredientes y ajustar la viscosidad del producto final.</li><li>Ácidos: Algunos jarabes pueden contener ácidos como acido cítrico o ácido málico, que se utilizan para equilibrar el sabor y proporcionar acidez.</li><li>Saborizantes y colorantes: Se pueden agregar saborizantes y colorantes naturales o artificiales para mejorar el sabor y la apariencia del jarabe. Estos pueden incluir extractos de frutas, aromas artificiales y colorantes alimentarios.</li><li>Conservantes: En algunos casos, se pueden agregar conservantes como el benzoato de sodio o el sorbato de potasio para prolongar la vida útil del jarabe al inhibir el crecimiento de microorganismos.</li><li>Espesantes y estabilizantes: Para controlar la viscosidad y estabilidad del jarabe, se pueden agregar espesantes y estabilizantes como la goma guar, la goma xantana y la carragenina.</li><li>Edulcorantes artificiales: En los jarabes diseñados para ser bajos en calorías o sin azúcar, se pueden utilizar edulcorantes artificiales como el aspartamo, la sucralosa o el acesulfamo de potasio para proporcionar dulzor sin agregar calorías.</li>",
     "SUBTITULO3_JARABES" => "Tipos de Jarabes",
     "LISTA3_JARABES" => "<ol><li>Jarabes Aromáticos (Jarabes no medicamentosos<ol><li>Sirven como vehículos de preparación extemporáneas,</li><li>Como punto de partida de jarabes medicamentos,</li><li>Jarabe simple, jarabe de zumos</li></ol></li></ol>",
-    "LISTA4_JARABES" => "<ol><li>Jarabes medicamentosos <ol><li>Jarabe Antihistamínico</li></ol></li></ol>"
+    "LISTA4_JARABES" => "<ol><li>Jarabes medicamentosos <ol><li>Jarabe Antihistamínico</li></ol></li></ol>",
+    "SUBTITULO4_JARABES" => "Aplicaciones",
+    "SUBTITULO5_JARABES" => "Industria Alimentaria",
+    "TEXTO3_JARABES" => "Edulcorantes: Los jarabes se utilizan como edulcorantes en una variedad de productos alimenticios, incluyendo bebidas, productos horneados, cereales, postres y dulces. El jarabe de maíz alto en fructosa (HFCS) es uno de los edulcorantes mas utilizados en la industria alimentaria debido a su bajo costo y su capacidad para mejorar la textura y la estabilidad de los alimentos.",
+    "TEXTO4_JARABES" => "Espesantes y estabilizadores: Algunos jarabes como el jarabe de glucosa y el jarabe de maltosa, se utilizan como agentes espesantes y estabilizadores en productos como salsas, aderezos y helados para mejorar la textura y la consistencia.",
+    "TEXTO5_JARABES" => "Agentes humectantes y conservantes: Los jarabes también se utilizan como agentes humectantes para mantener la humedad en los productos horneados y como conservantes para prolongar la vida útil de los alimentos.",
+    "TEXTO6_JARABES" => "Saborizantes: En algunos casos, los jarabes se utilizan como saborizantes para agregar sabor y dulzura a los alimentos y bebidas",
+    "SUBTITULO6_JARABES" => "Industria Farmacéutica",
+    "TEXTO7_JARABES" => "Vehículos para medicamentos líquidos: Los jarabes se utilizan como vehículos para administrar medicamentos líquidos, especialmente aquellos destinados para niños y personas que tienen dificultad para tragar pastillas. Estos jarabes pueden contener ingredientes activos así como aditivos para mejorar el sabor y la textura",
+    "TEXTO8_JARABES" => "Excipientes en formulaciones farmacéuticas: Además de servir como vehículos para medicamentos líquidos, los jarabes también se utilizan como excipientes en la formulación de tabletas, capsulas y otros productos farmacéuticos para mejorar la estabilidad y la palatabilidad de los medicamentos.",
+    "SUBTITULO7_JARABES" => "Otras aplicaciones",
+    "TEXTO9_JARABES" => "Industria cosmética: Algunos jarabes se utilizan en la industria cosmética como ingredientes en productos para el cuidado de la piel y el cabello debido a sus propiedades humectantes.",
+    "TEXTO10_JARABES" => "Industria química: En la industria química, los jarabes pueden utilizarse como materia prima en la producción de productos químicos y biocombustibles.",
+
+
+    // MERCADO DE POMADAS
+
+    "TITULO_POMADAS" => "Pomadas & Ungüentos",
+    "PARRAFO1_POMADAS" => "Las preparaciones farmacéuticas para el tratamiento de afecciones como; erupciones cutaeas, irritacion de la piel, picaduras, infecciones fungicas, son normalmente suministradas en forma de crema o pomada, ya que esto proporciona un medio eficaz para administrar el ingrediente activo, directamente en el área requerida, Chemical Broker en conjunto con sus clientes se encarga de la correcta distribución de ingredientes químicos adecuados para esta industria.",
+    "PARRAFO2_POMADAS" => "Están constituidos por grasas o sustancias de parecidas características que presentan aspecto semisólido a 25°C. Es esta propiedad física lo que realmente las define ya que la composición química es enormemente variada.",
+    "SUBTITULO1_POMADAS" => "Aplicaciones:",
+    "PARRAFO3_POMADAS" => "Las pomadas se aplican para diversas finalidades, desde aliviar dolores musculares hasta tratar problemas de la piel. Su versatilidad las hace aptas para el cuidado terapéutico y estético.",
+    "SUBTITULO2_POMADAS" => "Crecimiento economico de la industria",
+    "PARRAFO4_POMADAS" => "El crecimiento económico de la industria de las pomadas ha sido notable en los últimos años. Varios factores contribuyen a este aumento, incluyendo la creciente demanda de productos de cuidado personal y terapéuticos, asi como el interés en ingredientes naturales y orgánicos.",
+    "PARRAFO5_POMADAS" => "El mercado de las pomadas ha experimentado una expansión debido a la diversificación de aplicaciones, desde propiedades medicinales hasta enfoques mas estéticos. La innovación constante en formulaciones, con un énfasis en ingredientes de alta calidad ha impulsado la preferencia del consumidor.",
+    "SUBTITULO3_POMADAS" => "Proceso de fabricación típico",
+    "LISTA1_POMADAS" => "<li>Preparación de la fase oleosa: Los ingredientes en escamas o en polvo, a veces mezclados en seco por adelantado, se dispersan en aceite mineral o aceite de silicona.</li><li>Hidratación de ingredientes en fase acuosa: Los emulsionantes, espesantes y estabilizantes se dispersan en agua en un tanque separado.</li><li>Formado la emulsión: Las dos fases se mezclan bajo agitación vigorosa para formar la emulsión.</li><li>Dispersión de la ingresión activa: Los ingredientes activos solo constituyen una proporción pequeña de la formulación, pero deben dispersarse correctamente para maximizar el rendimiento.</li>",
+    "CARD_PRODUCTO" => "Producto",
+    "GLICERINA_CARD" => "Glicerina",
+    "GLICERINA_CARD_TEXTO" => "Ingrediente versátil de alta pureza ideal para aplicaciones industriales, cosméticas y farmacéuticas.",
+    "GLICERINA_CARD_VER_PRODUCTO" => "Ver Producto",
+    "CARBOMEROS_CARD" => "Carbomeros",
+    "CARBOMEROS_CARD_TEXTO" => "Ingrediente versátil de alta pureza ideal para aplicaciones industriales, cosméticas y farmacéuticas.",
+    "ACIDOS_GRASOS_CARD" => "Acidos Grasos",
+    "ACIDOS_GRASOS_CARD_TEXTO" => "Ingrediente versátil de alta pureza ideal para aplicaciones industriales, cosméticas y farmacéuticas.",
+
+
+    //MERCADO DE TABLETAS DURAS 
+
+    "TITULO_TABLETAS_DURAS" => "TABLETAS_DURAS",
+    "TEXTO_PRIMER-PARRAFO_TABLETAS_DURAS" => "La industria de los medicamentos en tabletas es una parte esencial del sector farmacéutico caracterizado por constantes avances y adaptaciones. Las compañías farmacéuticas invierten en investigación y desarrollo para formular tabletas seguras y efectivas, abarcando una amplia variedad de medicamentos.",
+    "TEXTO_SEGUNDO_PARRAFO_TABLETA_DURAS" => "El contenido de las capsulas puede ser de consistencia sólida, liquida o pastosa. Esta constituido por uno o mas principios activos con o sin excipientes tales como disolventes, diluyentes, lubricantes, disgregantes, el contenido no causa deterioro en la cubierta.",
+    "SUBTITULO1_TABLETAS_DURAS" => "Tipos de Comprimidos",
+    "LISTA1_TABLETAS_DURAS" => "<ol><li>No recubiertos: Obtenidos por simple compresión. Están compuestos por el fármaco y el excipiente (diluyente, aglutinantes, disgregantes, lubricantes),</li><li>Comprimidos de capas múltiples: Obtenidos por múltiples compresiones con lo que se obtienen varios núcleos superpuestos, con distinta compactación en cada uno de ellos. Este tipo de comprimidos se utilizan bien para administrar dos o más fármacos incompatibles entre sí, o bien para obtener una acción más prolongada de uno de ellos</li><li>Recubiertos o grageas: El recubrimiento sirve para proteger al fármaco de la humedad y del aire, así como para enmascarar sabores y olores desagradables.</li><li>Comprimidos de liberación controlada: Son comprimidos que ejercen un control sobre la liberación del principio activo en el organismo.</li><li>Comprimidos efervescentes: Se obtienen por compresión de un granulado de sales efervescentes, generalmente un ácido, como el ácido cítrico y un álcali como el bicarbonato de sodio.</li><li>Comprimido Sublingual: Se mantienen bajo la lengua hasta su completa absorción.</li><li>
+    Se utiliza esta vía porque la absorción del principio activo es mas rápida o en algunos casos donde el principio activo se absorbe mal o degrada al intestino.</li><li>Comprimido bucodispersable: Al colocarlos en la boca se deshacen rápidamente al entrar en contacto con la saliva, luego se tragan.
+    </li><li>Comprimido de liberación modificada: El objetivo de este tipo de comprimidos es modificar la velocidad, el momento o el lugar de liberación del principio activo</li><li>Comprimido gastro-resistente: El objetivo es que resista los jugos gástricos y se puedan absorber en la zona intestinal. El motivo puede ser porque producen lesiones gástricas o por descomponerse en los jugos gástricos.</li></ol>",
+    "SUBTITULO2_TABLETAS_DURAS" => "Caracteristicas",
+    "LISTA2_TABLETAS_DURAS" => "<ol><li>Se encuentran preparadas solo deben de dosificarse,</li><li>Dosificación de sustancias solidas (polvos, granulados, comprimidos),</li><li>Un tipo de capsula gelatinosa dura apta para sustancias liquidas o semisólidas.</li></ol>",
+    "SUBTITULO3_TABLETAS_DURAS" => "Ventajas de este tipo de capsulas",
+    "LISTA3_TABLETAS_DURAS" => "<ol><li>Composición y elaboración sencilla,</li><li>Protección del fármaco,</li><li>Buenas Características Organolépticas.</li></ol>",
+    "SUBTITULO_PRODUCTO" => "Productos",
+    "CARD_SORBITOLES" => "Sorbitoles",
+    "CARD_SORBITOLES_TEXTO" => "",
+    "CARD_EDULCORANTES" => "Edulcorantes",
+
+    //TABLETAS BLANDAS
+
+    "TITULO_TABLETAS_BLANDAS" => "Tabletas Blandas",
+    "PARRAFO1_TABLETAS_BLANDAS" => "Son una forma de dosificación oral que consiste en una cubierta externa suave y flexible, generalmente hecha de gelatina o material polimerico, que contiene el medicamento líquido, semisólido o en forma de gel. Esta cubierta proporciona una barrera protectora para el medicamento y facilita su ingestión",
+    "SUBTITULO1_TABLETAS_BLANDAS" => "Ventajas de las capsulas blandas",
+    "LISTA1_TABLETAS_BLANDAS" => "<ol><li>Permiten la administración de formulaciones liquidas, semisólidas o viscosas que no se pueden comprimir en tabletas.</li><li>Son fáciles de tragar y tienen un tiempo de disolución más rápido en comparación con las tabletas.</li><li>Pueden contener dosis variables de medicamentos lo que permite una dosificación mas precisa</li><li>La cubierta externa proporciona protección contra la oxidación, la humedad y otros factores que podrían degradar el medicamento</li></ol>",
+    "PARRAFO2_TABLETAS_BLANDAS" => "Aplicaciones en la industria farmacéutica: Las capsulas blandas se utilizan para una amplia gama de medicamentos, incluidos analgésicos, vitaminas, suplementos dietéticos, aceites esenciales y productos farmacéuticos especializados. También son populares para medicamentos de venta libre y productos nutracéuticos.",
+    "LISTA2_TABLETAS_BLANDAS" => "<ol><li>Contener fármacos sin que se perciba su olor</li><li>Tamaño de 5mm a 2cm</li><li>Dosificar líquidos o pastas que no disuelvan sus paredes</li><li></li></ol>",
+    "SUBTITULO_PRODUCTOS" => "Productos",
+    "CARD_GLICERINA_TABLETAS_BLANDAS",
+
 
 
 
