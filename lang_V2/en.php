@@ -277,4 +277,62 @@ $textos = [
     "CARD_GLICERINA_TABLETAS_BLANDAS" => "Glycerin",
 
 
+    // SUPOSITORIOS
+
+    "TITULO_SUPOSITORIOS" => "Suppositories",
+    "PARRAFO1_SUPOSITORIOS" => "The suppository industry is a specific branch of the pharmaceutical industry focused on the production of medications intended for rectal, vaginal, or urethral administration. These products are valued primarily for their ability to bypass the digestive system, allowing for faster and more direct absorption of the medication into the body and reducing degradation by gastric or hepatic enzymes.",
+    "SUBTITULO1_SUPOSITORIOS" => "Characteristics of Suppositories", 
+    "LISTA1" => "<ol><li>Shape and design: They have a solid shape, usually conical or cylindrical, designed to facilitate insertion into the body. Their size and composition vary depending on the site of administration.</li><li>Formulation base: Suppositories are manufactured with lipophilic bases (such as cocoa butter or substitutes) or hydrophilic bases (such as polyethylene glycol), which allow for the controlled release of the active ingredient.</li><li>Types of medications: They usually contain analgesics, anti-inflammatories, antinausea drugs, antipyretics, hormones (such as progesterone), or medications for the treatment of infections.</li></ol>",
+    "SUBTITULO2_SUPOSITORIOS" => "Advantages of suppositories",
+    "LISTA2_SUPOSITORIOS" => "<ol><li>A useful alternative for patients with difficulty swallowing pills or capsules.</li><li>They prevent drug degradation in the gastrointestinal system.</li><li>Suitable for pediatric, geriatric, or emergency treatments.</li></ol>",
+    "SUBTITULO3_SUPOSITORIOS" => "Key applications:",
+    "LISTA3_SUPOSITORIOS" => "<ol><li>Pharmaceutical industry: Medical suppositories for the management of pain, fever, nausea, among others.</li><li>Veterinary industry: Use in animals that cannot be easily medicated orally.</li><li>Reproductive health: Vaginal suppositories for contraception, hormonal treatments, or infections.</li></ol>",
+
+   //VETERINARIA
+
+   "TITULO_VETERINARIA" => "Vet",
+   "BANNER_VETERINARIA" => "Committed to the vitality of your companions: The veterinary excellence your pet deserves",
+   "SUBTITULO1_VETERINARIA" => "Veterinary Industry",
+   "PARRAFO1_VETERINARIA" => "The pharmaceutical industry is dedicated to the health and well-being of animals. This sector encompasses diverse areas, from individual clinical care to the production and marketing of pharmaceuticals and food products—some key aspects of the pharmaceutical industry.",
+   "LISTA1_VETERINARIA" => "<ol><li>Veterinary pharmaceutical products: Development and marketing of medicines and pharmaceutical products specifically for animals, including vaccines, antibiotics, and treatments for specific diseases.</li><li>Vaccines: Vaccines are essential for preventing diseases in animals. The veterinary industry develops and produces vaccines for a variety of infectious diseases, such as rabies, canine parvovirus, Newcastle disease in birds, among others.</li><li>Vaccines: Vaccines are essential for preventing diseases in animals. The veterinary industry develops and produces vaccines for a variety of infectious diseases, such as rabies, canine parvovirus, Newcastle disease in birds, among others.</li></ol>",
+   "SUBTITULO2_VETERINARIA" => "Forms of Pharmaceutical Medications",
+   "LISTA2_VETERINARIA" => "<ol><li>Liquid and semi-solid forms: Suspensions and emulsions are liquid forms that allow the incorporation of drugs with very diverse physicochemical properties. Their advantage lies in the fact that they allow for convenient and precise dose adjustment, according to the needs of the species and the animal's weight.</li><li>Solid forms: Powders and granules allow for easy dose adjustment. In general, they are better accepted by animals. They are administered to the side of the mouth with the help of a dosing device.</li><li>Immediate-release and controlled-release tablets: These are used in dogs and cats.</li><li>Medicated premixes: These are liquid, semi-solid, and more frequently solid forms that are administered to animals with their feed.</li></ol>",
+   "SUBTITULO3_VETERINARIA" => "Industry Growth",
+   "PARRAFO2_VETERINARIA" => "50% of the value of this sector is due to production animals and livestock farming in general; in a 5-year forecast (2020) it will have a value of almost 55 billion dollars (almost 51 billion €)",
+   "PARRAFO3_VETERINARIA" => "Another important role is that of the United States, which between 2015 and 2019 experienced growth in the veterinary pharmaceutical sector of 11.1%, very similar to that observed globally and driven mainly by its high animal production.",
+   "PARRAFO4_VETERINARIA" => "Among the market segments that stood out were veterinary parasiticides, representing sales of approximately $9.912 billion, or about 30% of the total market. Vaccines were the fastest-growing market segment.",
+   "PARRAFO5_VETERINARIA" => "The report details the oral route as the largest in the market (representing 55.3%) and veterinary hospitals as the largest points of sale, accounting for almost 67% of the total market. Other end-use channels, such as pharmacies and veterinary clinics, are also included.",
+   "PARRAFO6_VETERINARIA" => "The chemical industry provides the veterinary industry with essential pharmaceutical actives for various veterinary treatments.",
+   "PARRAFO7_VETERINARIA" => "The non-profit organization HealthforAnimals has conducted its five-yearly study to examine the interactions between the veterinary industry and regulatory systems, and in particular, the impact of regulations on the animal health industry's ability to access innovative markets and continue marketing existing products. To gather information, questionnaires were collected from various animal health companies across all continents.",
+   "SUBTITULO4_VETERINARIA" => "Most common veterinary products",
+   "CARD_MEDICAMENTOS_TERAPEUTICOS" => "Therapeutic Medications",
+   "TEXTO_GENERAL_CARDS" => "Nutritional solutions and products for the veterinary industry.",
+   "LEER_MAS_GENERAL" => "Read More",
+   "CARD_VACUNAS" => "Vaccines",
+   "CARD_SUPLEMENTOS_NUTRICIONALES" => "Nutritional Supplements",
+   "CARD_PRODUCTOS_DERMATOLOGICOS" => "Dermatological Products",
+   "CARD_ANTIPARASITARIO" => "Antiparasitic",
+   "CARD_ANESTESICOS_SEDANTES" => "Anesthetics and Sedatives",
+   "CARD_MEDICAMENTOS_PRESCRIPCION" => "Prescription Medications",
+
+    //MEDICAMENTOS TERAPEUTICOS
+
+    "PARRAFO1_MEDICAMENTOS_TERAPEUTICOS" => "
+    The pet therapeutic drug industry is a specialized segment within the animal health sector that has grown significantly in recent years. This growth is driven by the increasing number of pets, the changing perception of animals as family members, and advances in veterinary research. Here is a detailed overview of this industry:",
+    "SUBTITULO1_MEDICAMENTOS_TERAPEUTICOS" => "Main Features",
+    "LISTA1_MEDICAMENTOS_TERAPEUTICOS" => "<ol><li>Focus on animal welfare:<ol><li>Pet owners are seeking advanced treatments that improve their animals' quality of life.</li><li>There is a greater willingness to spend on innovative therapies to treat chronic, infectious, and degenerative diseases.</li></ol></li></ol>",
+    "LISTA2_MEDICAMENTOS_TERAPEUTICOS" => "<ol><li>Market segmentation:<ol><li>Species: Dogs, cats, and other pets (birds, fish, rabbits, etc.).</li><li>Types of therapies: Anti-inflammatories, antibiotics, vaccines, antiparasitic drugs, and specialized treatments such as immunotherapies or biological products.</li></ol></li></ol>",
+    "LISTA3_MEDICAMENTOS_TERAPEUTICOS" => "<ol><li>Technology and personalization:<ol><li>Development of specific medicines for different races, sizes, and ages.</li><li>Use of technologies such as regenerative medicine (stem cell therapies) and nutraceuticals.</li></ol></li></ol>",
+    "SUBTITULO2_MEDICAMENTOS_TERAPEUTICOS" => "Factors that drive growth:",
+    "LISTA4_MEDICAMENTOS_TERAPEUTICOS" => "<ol><li>Greater longevity of pets:<ol><li>Improved pet care has extended their life expectancy, increasing the demand for medications to treat age-related diseases such as arthritis, cancer, and cardiovascular disease.</li></ol></li></ol>",
+    "LISTA5_MEDICAMENTOS_TERAPEUTICOS" => "<ol><li>Advances in veterinary medicine:<ol><li>Application of human medical research to veterinary medicine.</li><li>Development of innovative therapies such as biologics, advanced vaccines, and products for autoimmune diseases.</li></ol></li></ol>",
+    "LISTA6_MEDICAMENTOS_TERAPEUTICOS" => "<ol><li>Owner awareness:<ol><li>Greater knowledge about animal health and access to medical information.</li><li>Growing interest in preventative and personalized treatments.</li></ol></li></ol>",
+    "SUBTITULO3_MEDICAMENTOS_TERAPEUTICOS" => "Industry Challenges",
+    "LISTA7_MEDICAMENTOS_TERAPEUTICOS" => "<ol><li>Strict regulation:<ol><li>Veterinary medicines are subject to rigorous regulations similar to those for human medicines.</li><li>Extensive safety and efficacy testing requirements.</li></ol></li></ol>",
+    "LISTA8_MEDICAMENTOS_TERAPEUTICOS" => "
+    <ol><li>Development Costs:<ol><li>Research and development of therapeutic drugs can be expensive and take several years.</li><li>Prices can be a barrier for some owners.</li></ol></li></ol>",
+    "LISTA9_MEDICAMENTOS_TERAPEUTICOS" => "<ol><li>Antimicrobial resistance:<ol><li>The overuse of antibiotics in animals poses resistance challenges, driving the search for alternatives such as probiotics and natural therapies.</li></ol></li></ol>",
+
+
+
 ];

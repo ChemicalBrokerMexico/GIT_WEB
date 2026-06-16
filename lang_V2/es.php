@@ -297,6 +297,60 @@ $textos = [
     "SUBTITULO_PRODUCTOS" => "Productos",
     "CARD_GLICERINA_TABLETAS_BLANDAS",
 
+    // SUPOSITORIOS
+
+    "TITULO_SUPOSITORIOS" => "Supositorios",
+    "PARRAFO1_SUPOSITORIOS" => "La industria de los supositorios es una rama específica de la industria farmacéutica enfocada en la producción de medicamentos destinados a ser administrados por vía rectal, vaginal o uretral. Este tipo de productos es valorado principalmente por su capacidad para evitar el sistema digestivo, lo que permite una absorción más rápida y directa del medicamento en el cuerpo, reduciendo la degradación por enzimas gástricas o hepáticas.",
+    "SUBTITULO1_SUPOSITORIOS" => "Carascterísticas de los Supositorios", 
+    "LISTA1" => "<ol><li>Forma y diseño: Tienen una forma sólida, usualmente cónica o cilíndrica, diseñada para facilitar su inserción en el cuerpo. Su tamaño y composición varían según el lugar de administración.</li><li>Base de formulación: Los supositorios se fabrican con bases lipofílicas (como manteca de cacao o sustitutos) o hidrofílicas (como glicol de polietileno), que permiten la liberación controlada del principio activo.</li><li>Tipos de medicamentos: Suelen contener analgésicos, antiinflamatorios, antináuseas, antipiréticos, hormonas (como progesterona) o medicamentos para el tratamiento de infecciones.</li></ol>",
+    "SUBTITULO2_SUPOSITORIOS" => "Ventajas de los supositorios",
+    "LISTA2_SUPOSITORIOS" => "<ol><li>Alternativa útil para pacientes con problemas para tragar píldoras o cápsulas.</li><li>Evitan la degradación del fármaco en el sistema gastrointestinal.</li><li>Adecuados para tratamientos pediátricos, geriátricos o de emergencia.</li></ol>",
+    "SUBTITULO3_SUPOSITORIOS" => "Aplicaciones clave:",
+    "LISTA3_SUPOSITORIOS" => "<ol><li>Industria farmacéutica: Supositorios médicos para manejo del dolor, fiebre, náuseas, entre otros.</li><li>Industria veterinaria: Uso en animales que no pueden ser medicados por vía oral fácilmente</li><li>Salud reproductiva: Supositorios vaginales para anticonceptivos, tratamientos hormonales o infecciones.</li></ol>",
+
+    //VETERINARIA
+
+    "TITULO_VETERINARIA" => "Veterinaria",
+    "BANNER_VETERINARIA" => "Comprometidos con la vitalidad de tus compañeros: La excelencia veterinaria que tu mascota merece.",
+    "SUBTITULO1_VETERINARIA" => "Industria Veterinaria",
+    "PARRAFO1_VETERINARIA" => "La industria farmacéutica se dedica al cuidado de la salud y bienestar de los animales. Este sector abarca diversas áreas, desde la atención clínica individual hasta la producción y comercialización de productos farmacéuticos y alimentos algunos aspectos clave en la industria farmacéutica.",
+    "LISTA1_VETERINARIA" => "<ol><li>Productos farmacéuticos veterinarios: Desarrollo y comercialización de medicamentos y productos farmacéuticos específicos para animales, incluyendo vacunas, antibióticos y tratamientos para enfermedades específicas.</li><li>Vacunas: Las vacunas son esenciales para prevenir enfermedades en animales. La industria veterinaria desarrolla y produce vacunas para una variedad de enfermedades infecciosas, como la rabia la parvovirosis canina, la enfermedad de Newcastle en aves, entre otras</li><li>Vacunas: Las vacunas son esenciales para prevenir enfermedades en animales. La industria veterinaria desarrolla y produce vacunas para una variedad de enfermedades infecciosas, como la rabia la parvovirosis canina, la enfermedad de Newcastle en aves, entre otras</li></ol>",
+    "SUBTITULO2_VETERINARIA" => "Formas de Medicamentos Farmaceuticos",
+    "LISTA2_VETERINARIA" => "<ol><li>Formas liquidas y semisólidas: Las suspensiones y las emulsiones son formas liquidas que permiten incorporar fármacos con propiedades fisicoquímicas muy diversas. Su ventaja reside en que permiten un ajuste cómodo y preciso de la dosis, de acuerdo con las necesidades de la especie y el peso del animal.</li><li>Formas solidas: Los polvos y gránulos permiten un fácil ajuste de la dosis. En general, son mejor aceptados por los animales. Se administran en la parte lateral de la boca con ayuda de un dosificador</li><li>Comprimidos de liberación inmediata y de liberación controlada: se utilizan en perros y gatos.</li><li>Premezclas medicamentosas: son formas liquidas, semisólidas y con mas frecuencia solidas que se administran a los animales con el pienso.</li></ol>",
+    "SUBTITULO3_VETERINARIA" => "Crecimiento de la Industria",
+    "PARRAFO2_VETERINARIA" => "El 50% del valor de este sector se debe a los animales de producción y a la ganadería en general, en una previsión de 5 años (2020) tendrá un valor de casi 55 mil millones de dólares (casi 51 mil millones de €)",
+    "PARRAFO3_VETERINARIA" => "Otro papel importante es el de Estados Unidos, que entre 2015 y 2019 experimentó un crecimiento en el sector farmacéutico veterinario del 11.1 %, muy similar al que se observa a nivel mundial e impulsado principalmente por su alta producción animal.",
+    "PARRAFO4_VETERINARIA" => "Entre los segmentos de mercado que destacaron se encuentran los parasiticidas veterinarios, represento ventas por el orden de 9.912 millones de dólares, aproximadamente el 30% del mercado total. Las vacunas sería el segmento de mercado en más rápido crecimiento.",
+    "PARRAFO5_VETERINARIA" => "Por vía de administración y canal de uso final, en el informe se detalla la vía oral como la mas grande del mercado (representando el 55.3%) y como los mayores puntos de venta, los hospitales veterinarios, con casi el 67% del mercado total. También se incluyen otros canales de uso final como farmacias y clínicas veterinarias.",
+    "PARRAFO6_VETERINARIA" => "La industria química provee a la industria veterinaria de activos farmacéuticos indispensables para diversos tratamientos veterinarios.",
+    "PARRAFO7_VETERINARIA" => "La organización sin fines de lucro HealthforAnimals, ha llevado a cabo un estudio, que se realiza cada cinco años, con el propósito de examinar las interacciones entre la industria y los sistemas reguladores de productos veterinarios y, en particular, el impacto de las regulaciones en la capacidad de la industria de la salud animal para acceder a los mercados innovadores y continuar comercializando productos existentes. Para recabar información, se han recogido cuestionarios de distintas empresas de salud animal de todos los continentes.",
+    "SUBTITULO4_VETERINARIA" => "Productos veterinarios mas comunes",
+    "CARD_MEDICAMENTOS_TERAPEUTICOS" => "Medicamentos Terapeuticos",
+    "TEXTO_GENERAL_CARDS" => "Soluciones nutricionales y productos para la industria veterinaria.",
+    "LEER_MAS_GENERAL" => "Leer Mas",
+    "CARD_VACUNAS" => "Vacunas",
+    "CARD_SUPLEMENTOS_NUTRICIONALES" => "Suplementos Nutricionales",
+    "CARD_PRODUCTOS_DERMATOLOGICOS" => "Productos Dermatologicos",
+    "CARD_ANTIPARASITARIO" => "Antiparasitario",
+    "CARD_ANESTESICOS_SEDANTES" => "Anestesicos y Sedantes",
+    "CARD_MEDICAMENTOS_PRESCRIPCION" => "Medicamentos de Prescripcion",
+
+
+    //MEDICAMENTOS TERAPEUTICOS
+
+    "PARRAFO1_MEDICAMENTOS_TERAPEUTICOS" => "La industria de medicamentos terapéuticos para mascotas es un segmento especializado dentro del sector de la salud animal que ha crecido significativamente en los últimos años. Este crecimiento está impulsado por el aumento en la cantidad de mascotas, el cambio en la percepción de los animales como miembros de la familia y el avance en la investigación veterinaria. Aquí hay un panorama detallado sobre esta industria:",
+    "SUBTITULO1_MEDICAMENTOS_TERAPEUTICOS" => "Caracteristicas Principales",
+    "LISTA1_MEDICAMENTOS_TERAPEUTICOS" => "<ol><li>Enfoque en el bienestar animal:<ol><li>Los dueños de mascotas buscan tratamientos avanzados que mejoren la calidad de vida de sus animales.</li><li>Hay una mayor disposición a gastar en terapias innovadoras para tratar enfermedades crónicas, infecciosas y degenerativas.</li></ol></li></ol>",
+    "LISTA2_MEDICAMENTOS_TERAPEUTICOS" => "<ol><li>Segmentación del mercado:<ol><li>Especies: Perros, gatos y otras mascotas (aves, peces, conejos, etc.).</li><li>Tipos de terapias: Antiinflamatorios, antibióticos, vacunas, medicamentos contra parásitos, y tratamientos especializados como inmunoterapias o productos biológicos.</li></ol></li></ol>",
+    "LISTA3_MEDICAMENTOS_TERAPEUTICOS" => "<ol><li>Tecnología y personalización:<ol><li>Desarrollo de medicamentos específicos para diferentes razas, tamaños y edades.</li><li>Uso de tecnologías como la medicina regenerativa (terapias con células madre) y los nutracéuticos.</li></ol></li></ol>",
+    "SUBTITULO2_MEDICAMENTOS_TERAPEUTICOS" => "Factores que impulsan el crecimiento:",
+    "LISTA4_MEDICAMENTOS_TERAPEUTICOS" => "<ol><li>Mayor longevidad de las mascotas:<ol><li>La mejora en el cuidado de las mascotas ha extendido su esperanza de vida, lo que aumenta la demanda de medicamentos para tratar enfermedades relacionadas con la edad, como artritis, cáncer y enfermedades cardiovasculares.</li></ol></li></ol>",
+    "LISTA5_MEDICAMENTOS_TERAPEUTICOS" => "<ol><li>Avances en la medicina veterinaria:<ol><li>Aplicación de investigaciones de la medicina humana a la veterinaria.</li><li>Desarrollo de terapias innovadoras como biológicos, vacunas avanzadas y productos para enfermedades autoinmunes.</li></ol></li></ol>",
+    "LISTA6_MEDICAMENTOS_TERAPEUTICOS" => "<ol><li>Conciencia del propietario:<ol><li>Mayor conocimiento sobre la salud animal y acceso a información médica.</li><li>Creciente interés en tratamientos preventivos y personalizados.</li></ol></li></ol>",
+    "SUBTITULO3_MEDICAMENTOS_TERAPEUTICOS" => "Desafios de la Industria",
+    "LISTA7_MEDICAMENTOS_TERAPEUTICOS" => "<ol><li>Regulación estricta:<ol><li>Los medicamentos veterinarios están sujetos a normativas rigurosas similares a las de los medicamentos humanos.</li><li>Requisitos extensivos de pruebas de seguridad y eficacia.</li></ol></li></ol>",
+    "LISTA8_MEDICAMENTOS_TERAPEUTICOS" => "<ol><li>Costo de desarrollo:<ol><li>La investigación y desarrollo de medicamentos terapéuticos puede ser costosa y llevar varios años.</li><li>Los precios pueden ser una barrera para algunos propietarios.</li></ol></li></ol>",
+    "LISTA9_MEDICAMENTOS_TERAPEUTICOS" => "<ol><li>Resistencia antimicrobiana:<ol><li>El uso excesivo de antibióticos en animales plantea desafíos de resistencia, impulsando la búsqueda de alternativas como probióticos y terapias naturales.</li></ol></li></ol>",
 
 
 
