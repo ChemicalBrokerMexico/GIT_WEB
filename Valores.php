@@ -394,7 +394,7 @@
             <div class="caption center-align"><br><br><br><br>
               <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Valores</b>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Valores.php"><b class="Tipografia--general Subtitulos" style="color:red;">Valores</b></a></section>
+      
     </div>
             </div>
           </li>
@@ -406,6 +406,7 @@
     <div class="container" style="margin-top:130px">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Valores.php"><b class="Tipografia--general Subtitulos" style="color:red;">Valores</b></a></section>
           <h2 class="Tipografia--general letranegro General--Cuerpo"><b class="Tipografia--general letranegro General--Cuerpo" style="color:#262137;border-bottom:1.5px solid #b12729">Como Regimos Nuestro Actuar</b></h2>
           <p class="Tipografia--general letranegro General--Cuerpo" style="margin-top:30px"><b style="color:#262137;">Chemical Broker</b> es una organización regida por <b style="color: #262137">valores universales</b>, aplicables en todo momento y lugar, sin importar raza, credo, posición económica o cualquier otro tipo de distinción entre seres vivos.
           </p>

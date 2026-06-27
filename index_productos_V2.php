@@ -1,31 +1,59 @@
+<?php
+
+include('conexion2.php');
+
+$conexion = $cnn->conectar();
+
+$sql = "
+SELECT
+    id_producto,
+    familia_quimica,
+    producto,
+    tiene_pagina,
+    url_producto
+FROM productos
+ORDER BY familia_quimica ASC, producto ASC
+";
+
+$resultado = mysqli_query($conexion, $sql);
+
+$familias = [];
+
+while($fila = mysqli_fetch_assoc($resultado)){
+
+    $familias[$fila['familia_quimica']][] = $fila;
+}
+
+?>
+
 <!DOCTYPE html>
 <html>
 
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Sulfosuccinatos | Proveedor Global y Nacional de Ingredientes Quimicos</title>
-  <meta name="description" content="Descubre los usos, beneficios y aplicaciones de los sulfosuccinatos en nuestra completa guía. Los sulfosuccinatos son compuestos químicos versátiles ampliamente utilizados en diversas industrias, desde productos de cuidado personal hasta aplicaciones industriales. Conoce más sobre cómo los sulfosuccinatos pueden mejorar tus productos y procesos aquí."> 
-  <link rel="shortcut icon" href="img/CB_ICON.ico" />
-  <link rel="canonical" href="https://chemicalbroker.mx/Sulfosuccinatos.php">
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
+  <title>Chemical Broker | Sebo Alto Hidrogenado | Proveedor Global y Nacional de Ingredientes Quimicos</title>
+  <meta name="description" content="El sebo alto hidrogenado es una grada solida de alta estabilidad, usado en alimentos, confiteria y formulaciones industriales por su resistencia termica">
+    <link rel="shortcut icon" href="img/CB_ICON.ico" />
+  <link rel="canonical" href="https://chemicalbroker.mx/Sebo_Alto_Hidrogenado.php">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
 
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
-    gtag('config', 'G-SGJQ8FDDJ6');
-  </script>
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', 'G-SGJQ8FDDJ6');
+    </script>
 
 <script type="application/Id+json">
     {
 
       "@context": "https://schema.org",
       "@type": "Product",
-      "name": "Sulfosuccinatos",
-      "description": "Descubre los usos, beneficios y aplicaciones de los sulfosuccinatos en nuestra completa guía. Los sulfosuccinatos son compuestos químicos versátiles ampliamente utilizados en diversas industrias, desde productos de cuidado personal hasta aplicaciones industriales. Conoce más sobre cómo los sulfosuccinatos pueden mejorar tus productos y procesos aquí.,
+      "name": "Sebo Alto Hidrogenado",
+      "description": "El sebo alto hidrogenado es una grada solida de alta estabilidad, usado en alimentos, confiteria y formulaciones industriales por su resistencia termica,
       "brand": {
         "@type": "Brand",
         "name": "Chemical Broker"
@@ -33,7 +61,32 @@
 
       "offers":{
         "@type": "Offer",
-        "url": "https://chemicalbroker.mx/Sulfosuccinatos.php",
+        "url": "https://chemicalbroker.mx/Sebo_Alto_Hidrogenado.php",
+        "priceCurrency": "MXN",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Chemical Broker"
+        }
+      }
+    }
+  </script>
+  
+  <script type="application/Id+json">
+    {
+
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Polisorbato 80",
+      "description": "Chemical Broker distribuye mundialmente Polisorbatos,
+      "brand": {
+        "@type": "Brand",
+        "name": "Chemical Broker"
+      },
+
+      "offers":{
+        "@type": "Offer",
+        "url": "https://chemicalbroker.mx/Polisorbato_80.php",
         "priceCurrency": "MXN",
         "availability": "https://schema.org/InStock",
         "seller": {
@@ -73,12 +126,12 @@
                 sitio web, puede almacenar o recuperar información en su navegador, principalmente en forma de cookies.
                 Esta información puede ser sobre usted, sus preferencias o su dispositivo y se utiliza principalmente
                 para hacer que el sitio funcione como espera. Por lo general, la informacion no lo identifica
-                directamente, pero puede brindarle una experiencia web más personalizada. Debido a que respetamos su
+                directamente, pero puede brindarle una experiencia web mas personalizada. Debido a que respetamos su
                 derecho a la privacidad, puede optar por no permitir algunos tipos de cookies. Haga clic en los titulos
                 de las diferentes categorías para obtener más información y cambiar nuestra configuración
                 predeterminada. Sin embargo, bloquear algunos tipos de cookies puede afectar su experiencia en el sitio
                 y los servicios que podemos ofrecer.</p>
-              <p> <a class="Botones Tipografia--general" href="#" style="color:blue;float:left;">Más información</a></p>
+              <p> <a class="Botones Tipografia--general" href="#" style="color:blue;float:left;">Mas información</a></p>
               <div class="row">
                 <div class="col s12 m12 l12 xl12" style="margin-top:16px"><a
                     class="modal-close Tipografia--general Botones" href="#!"
@@ -265,10 +318,11 @@
                       <li> <a class="arrowblue Tipogradia--general Subtitulos"
                           href="PDF/CB_POLITICA_PRIVACIDAD_240521.pdf" download>Politica de Privacidad <i
                             class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-                            <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece"
-                                                        id="aparece"></i></a></li>
-                                                        <li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBM_CODCONDUCT_PROVEEDORES.pdf" download>Código de Conducta de Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
-<li><a class="arrowblue Tipografia--general Subtitulos" href="../PDF/CBM_CODCONDUCT_CLIENTES.pdf" download>Código de Conducta de Clientes &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                      <li><a class="arrowblue Tipografia--general Subtitulos" href="Politica_Calidad.php">Politica de
+                          Calidad &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
+                      <li><a class="arrowblue Tipografia--general Subtitulos"
+                          href="../PDF/CBM_CODCONDUCT_PROVEEDORES.pdf" download>Código de Conducta de
+                          Proveedores &nbsp <i class="fas fa-long-arrow-alt-right desaparece" id="aparece"></i></a></li>
                     </p>
                   </ul>
                 </section>
@@ -321,16 +375,18 @@
       <ul class="hide-on-med-and-down">
         <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
             href="Mercados.php"><b>Mercados</b></a></li>
-        <ul id="dropdown3" class="dropdown-content">
+            <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos"
+            href="index_productos.php"><b>Productos</b></a></li>
+        <!-- <ul id="dropdown3" class="dropdown-content">
                     <li><a href="Productos_news.php" class="Tipografia--general letranegro Subtitulos">Familias</a>
           </li>
           
-<li><a href="Catalogos_Productos" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
+<li><a href="Catalogos_Productos.php" class="Tipografia--general letranegro Subtitulos">Catalogos</a></li> 
           </li>
         </ul>
-        <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="#!"
-            data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a></li>
-        <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos" <li><a
+        <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" href="index_productos.php"
+            data-target="dropdown3"><b>Productos<i class="material-icons right">arrow_drop_down</i></b></a></li> -->
+        <li><a class="elemennav-secun Tipografia--general letranegro Subtitulos"></a><li><a
               class="elemennav-secun Tipografia--general letranegro Subtitulos"
               href="Servicios.php"><b>Servicios</b></a></li>
 <li> <a class="elemennav-secun Tipografia--general letranegro Subtitulos dropdown-trigger" data-target="dropdown4" href="Cumplimiento.php"><b>Cumplimiento<i class="material-icons right">arrow_drop_down</i></b></a>
@@ -453,7 +509,7 @@
     <div class="divider"></div>
     <li> <a href="Cumplimiento.php" style="color:white !important"><i class="small material-icons right"
           style="color:white !important;margin-top:0px !important;">chevron_right</i>
-        <p style="color:white !important;">Sistema de Gestión Integral </p>
+        <p style="color:white !important;">Cumplimiento </p>
       </a></li>
     <div class="divider"></div>
     <li> <a href="Contact.php" style="color:white !important"><i class="small material-icons right"
@@ -525,7 +581,7 @@
                 </tr>
                 <tr>
                   <td style="border:hidden;background-color:#262137"><a href="Cumplimiento.php"
-                      style="color:white !important;border:hidden">Sistema de Gestión Integral </a></td>
+                      style="color:white !important;border:hidden">Cumplimiento </a></td>
                 </tr>
                 <tr>
                   <td style="border:hidden;background-color:#262137"><a href="Contact.php"
@@ -543,9 +599,9 @@
   <div class="container-fluid">
       <div class="slider slider-prueba" style="margin-top:0px">
         <ul class="slides slides-pruea">
-          <li><img src="img/CB_Sulfosuccionatos.jpg" style="height:800px;" alt="Historia Ascendente">
+          <li><img src="" style="height:800px;" alt="Historia Ascendente">
             <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Sulfosuccionatos</b><br></h1>
+              <h1 class="primertitulo"><b class="boldbanner">Productos</b><br></h1>
               <div class="container">
       
     </div>
@@ -554,102 +610,118 @@
         </ul>
       </div>
     </div>
-  
 
 
-  <div class="container" style="margin-top:130px;">
+<div class="container-familias" style="margin-top:120px;">
 
-  <div class="row">
-    <div class="col s12 m12 l12 xl12">
-    <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Inicio&nbsp>&nbsp </b></a><a href="index.php" style="color:black !important;"><b class="Tipografia--general Subtitulos">Productos&nbsp>&nbsp </b></a><a class="active" href="Historia_Hechos.php"><b class="Tipografia--general Subtitulos" style="color:red;">Sulfosuccionatos</b></a></section>
+
+  <div id="alfabeto">
+    <button data-letter="ALL">Todos</button>
+
+    <button data-letter="A">A</button>
+    <button data-letter="B">B</button>
+    <button data-letter="C">C</button>
+    <button data-letter="D">D</button>
+    <button data-letter="E">E</button>
+    <button data-letter="F">F</button>
+    <button data-letter="G">G</button>
+    <button data-letter="H">H</button>
+    <button data-letter="I">I</button>
+    <button data-letter="J">J</button>
+    <button data-letter="K">K</button>
+    <button data-letter="L">L</button>
+    <button data-letter="M">M</button>
+    <button data-letter="N">N</button>
+    <button data-letter="O">O</button>
+    <button data-letter="P">P</button>
+    <button data-letter="Q">Q</button>
+    <button data-letter="R">R</button>
+    <button data-letter="S">S</button>
+    <button data-letter="T">T</button>
+    <button data-letter="U">U</button>
+    <button data-letter="V">V</button>
+    <button data-letter="W">W</button>
+    <button data-letter="X">X</button>
+    <button data-letter="Y">Y</button>
+    <button data-letter="Z">Z</button>
+</div>
+
+    <div class="familias-grid">
+
+        <?php foreach($familias as $familia => $productos){ ?>
+
+            <div class="familia-card" data-letter="<?= strtoupper(substr($familia,0,1)) ?>">
+
+                <div class="familia-header">
+
+                    <span class="familia-nombre">
+
+                        <?= htmlspecialchars($familia) ?>
+
+                    </span>
+
+                    <!-- <span class="contador">
+
+                       
+
+                    </span> -->
+
+                    <span class="toggle">
+
+                        +
+                    </span>
+
+                </div>
+
+                <div class="productos-familia">
+
+                    <?php foreach($productos as $producto){ ?>
+
+                        <div class="producto-item">
+
+                            <?php if($producto['tiene_pagina'] == 1){ ?>
+
+                                <a
+                                href="<?= htmlspecialchars($producto['url_producto']) ?>"
+                                class="producto-link"
+                                >
+
+                                    <?= htmlspecialchars($producto['producto']) ?>
+
+                                </a>
+
+                            <?php }else{ ?>
+
+                                <span class="producto-normal">
+
+                                    <?= htmlspecialchars($producto['producto']) ?>
+
+                                </span>
+
+                            <?php } ?>
+
+                        </div>
+
+                    <?php } ?>
+
+                </div>
+
+            </div>
+
+        <?php } ?>
+
     </div>
-  </div>
 
-    <div class="row">
-        <div class="col s12 m12 l12 xl12">
+</div>
 
-      
+<button id="btnTop" class="btn-top">↑</button>
 
-            <h2 class="Tipografia--general letranegro General--Cuerpo pleca-sulfosuccinatos"><b style="color:white;background-color:black;padding:30px;display:inline-block;text-align:center;font-size:32px;">Sulfosuccinatos</b></h2>
-            <p class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;">¿Buscas una solución efectiva para la limpieza y emulsificación de aceites y grasas?</p>
-            <h2 class="letranegro General--Cuerpo Tipografia--general" style="color:#008080;margin-top:50px;text-align: center;font-size:30px;"><b>¡Tenemos la respuesta para Ti!</b></h2>
-            <p class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;">Los sulfossucinatos son una clase de surfactantes aniónicos utilizados en una variedad de aplicaciones industriales y de cuidado personal. Estos compuestos se derivan del acido succínico y se caracterizan por tener grupos sulfonato como grupos funcionales principales.</p>
-            <p class="letranegro General--Cuerpo Tipografia--general" style="margin-top:50px;">Introducimos nuestros sulfosuccinatos de alta calidad, agentes tensoactivos de ultima generación diseñados para ofrecer resultados superiores en una amplia gama de aplicaciones industriales y de cuidado personal.</p>
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;text-align: center;font-size:30px;"><b style="color:#008080;">Los Sulfosuccionatos son conocidos por su capacidad de proporcionar propiedades de limpieza y espuma.</b></h2>
-
-            <h2 class="Tipografia--general letranegro General--Cuerpo" style="margin-top:50px;"><b style="color:black;">Aplicaciones</b></h2>
-            <div class="col s12 m12 l12 xl12">
-                <h2 class="letranegro General--Cuerpo Tipografia--General"><b>Cuidado Personal</b></h2>
-                <ol>
-                    <li style="list-style-type:disc;color:#A6A6A6;">Champus</li>
-                    <li style="list-style-type:disc;color:#A6A6A6;">Acondicionadores</li>
-                    <li style="list-style-type:disc;color:#A6A6A6;">Geles de Ducha</li>
-                    <li style="list-style-type:disc;color:#A6A6A6;">Jabones Liquidos</li>
-                    <li style="list-style-type:disc;color:#A6A6A6;">Cremas Depilatorias</li>
-                    <li style="list-style-type:disc;color:#A6A6A6;">Exfoliantes</li>
-                    <li style="list-style-type:disc;color:#A6A6A6;">Productos del Cuidado de la Piel</li>
-                    <li style="list-style-type:disc;color:#A6A6A6;">Productos de Limpieza Facial</li>
-                    <li style="list-style-type:disc;color:#A6A6A6;">Cremas y Lociones</li>
-                </ol>
-            </div>
-            <div class="col s12 m12 l12 xl12">
-                <h2 class="letranegro General--Cuerpo Tipografia--General"><b>Detergentes</b></h2>
-                <ol>
-                    <li style="list-style-type:disc;color:#A6A6A6;">Detergentes Liquidos</li>
-                    <li style="list-style-type:disc;color:#A6A6A6;">Detergente en Polvo</li>
-                    <li style="list-style-type:disc;color:#A6A6A6;">Limpiadores Multiusos</li>
-                    <li style="list-style-type:disc;color:#A6A6A6;">Limpiadores para Baños y Cocinas</li>
-                    <li style="list-style-type:disc;color:#A6A6A6;">Limpiadores de Superficies</li>
-                </ol>
-            </div>
-            <div class="col s12 m12 l12 xl12" style="margin-top:0px; ">
-                <h2 class="letranegro General--Cuerpo Tipografia--General"><b>Minería</b></h2>
-                <ol>
-                    <li style="list-style-type:disc;color:#A6A6A6;">Agentes Espumantes en el Proceso de Flotacion de Minerales</li>
-                </ol>
-            </div>
-            <div class="col s12 m12 l12 xl12">
-                <h2 class="letranegro General--Cuerpo Tipografia--General"><b>Química</b></h2>
-                <ol>
-                    <li style="list-style-type:disc;color:#A6A6A6;">Produccion de Emulsiones</li>
-                    <li style="list-style-type:disc;color:#A6A6A6;">Produccion de Agentes Humectantes</li>
-                    <li style="list-style-type:disc;color:#A6A6A6;">Produccion de Aditivos para la Industria Textil</li>
-                </ol>
-            </div>
-        </div>
-        <div class="col s12 m12 l12 xl12">
-        <h2 class="letranegro General--Cuerpo Tipografia--General"><b>Productos:</b></h2>
-        <ol>
-            <li style="color:black;list-style-type: disc;margin-top:30px;">Dioctilsulfosuccinato de sodio 50%</li>
-            <li style="color:black;list-style-type: disc;margin-top:30px;">Dioctilsulfosuccinato de sodio 60%</li>
-            <li style="color:black;list-style-type: disc;margin-top:30px;">Dioctilsulfosuccinato de sodio 70%</li>
-            <li style="color:black;list-style-type: disc;margin-top:30px;">Lauril éter sulfosuccinato de sodio 30%</li>
-            <li style="color:black;list-style-type: disc;margin-top:30px;">Lauril éter sulfosuccinato de sodio 40%</li>
-            <li style="color:black;list-style-type: disc;margin-top:30px;">Lauril Sulfosuccinato de Sodio</li>
-            <li style="color:black;list-style-type: disc;margin-top:30px;">1, 2, carboxietil n octadecil sulfosuccinato tetrasódico</li>
-            <li style="color:black;list-style-type: disc;margin-top:30px;">Nonil éter di sulfosuccinato de sodio</li>
-            <li style="color:black;list-style-type: disc;margin-top:30px;">Cocoamida de sulfosuccinato disódico</li>
-            <li style="color:black;list-style-type: disc;margin-top:30px;">Lauril sulfosuccinato di sodico 3 moles</li>
-            <li style="color:black;list-style-type: disc;margin-top:30px;">Lauril sulfosuccinato di sodico 7 moles</li>
-            <li style="color:black;list-style-type: disc;margin-top:30px;">Lauril sulfosuccinato di sodico</li>
-            <li style="color:black;list-style-type: disc;margin-top:30px;">Síntesis de otros sulfosuccinatos a partir de alcoholes grasos, amidas y etoxilados, etc.</li>
-        </ol>
-        <h2 class="letranegro General--Cuerpo Tipografia--General" style="margin-top:50px;"><b>¿Por qué elegir nuestros Sulfosuccinatos?</b></h2>
-        <p class="letranegro General--Cuerpo Tipografia--General">Por que ofrecemos productos de alta calidad; fabricados bajo estrictos estándares de calidad para garantizar la máxima eficiencia y seguridad en tus aplicaciones.</p>
-        <h2 class="letranegro General--Cuerpo Tipografia--General" style="margin-top:50px;">¡No esperes mas!</h2>
-        <h2 class="letranegro General--Cuerpo Tipografia--General" style="margin-top:50px;"><b style="color:#071637;">Eleva tus productos y procesos al siguiente nivel con nuestros Sulfosuccinatos de alta calidad. ¡haz tu pedido ahora y experimenta la diferencia!</b></h2>
-        <p class="letranegro General--Cuerpo Tipografia--General" style="margin-top:50px;">Para mas información, ¡contactanos hoy mismo!</p>
-        </div>
-
-        <a href="https://wa.me/5615242685?text=Hola" class="float-wa" target="_blank">
-    <i class="fa fa-whatsapp" style="margin-top:16px;"></i>
-</a>
-
-    </div>
-  </div>
-
+<script src="js/catalogo2.js"></script>
 
 </body>
+
+
+
 <footer style="margin-top:70px">
   <div class="divfooter" style="text-align:center;"><img class="imglogoCE" src="img/CB_IMAGOTIPO_LEON.jpg"
       alt=""></div><br><br>
@@ -668,11 +740,12 @@
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-    <script src="https://code.jquery.com/jquery-3.5.1.js"
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
   <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
     crossorigin="anonymous"></script>
   <script src="js/materialize.js" type="text/javascript"></script>
   <script src="js/init.js"></script>
+  <script src="js/catalogo.js"></script>
 
   <script type="text/javscript" src="js/materialize.min.js"></script>
   <script type="text/javascript"
@@ -686,4 +759,5 @@
 </a>
   </div>
 </footer>
+
 </html>

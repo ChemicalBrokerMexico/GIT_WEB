@@ -396,7 +396,7 @@
             <div class="caption center-align"><br><br><br><br>
               <h1 class="primertitulo"><b class="boldbanner">Chemical Broker </b><br></h1><b class="segundotitulo" style="font-size:26px">Marca</b>
               <div class="container">
-      <section style="margin-top:30px;"><a href="index.php" style="color:white !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Marca.php"><b class="Tipografia--general Subtitulos" style="color:red;">Marca</b></a></section>
+
     </div>
             </div>
           </li>
@@ -407,6 +407,7 @@
     <div class="container" style="margin-top:150px;">
       <div class="row">
         <div class="col s12 m12 l12 xl12">
+        <section style="margin-top:30px;"><a href="index.php" style="color:black !important;"><b>Inicio&nbsp>&nbsp </b></a><a class="active" href="Marca.php"><b class="Tipografia--general Subtitulos" style="color:red;">Marca</b></a></section>
           <h6 class="center-align Tipografia--general" style="color: #262137;"><b style="color:#262137;border-bottom: 1.5px solid #b12729;font-size:18px">"Una Marca, Una Identidad"</b><br/></h6>
           <p class="center-align in-view wow animate_animated animate_bounceInDown letranegro Tipografia--general" style="font-size:18px">Todas las organizaciones tienen una identificación comercial; una<b class="Tipografia--general" style="color:#262137"> marca</b>, que las relaciona con las personas por los productos o servicios que ofrecen en el mercado.
           </p>

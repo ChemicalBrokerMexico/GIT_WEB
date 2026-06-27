@@ -491,7 +491,7 @@
     
     <p class="card-description">
       Ingrediente versátil de alta pureza ideal para aplicaciones industriales, cosméticas y farmacéuticas.
-    </p>
+    </p>""
   </div>
 
   <div class="card-action">
@@ -501,9 +501,9 @@
 </div>
 
 
-
+</div>
 <!-- SEGUNDA CARD FINAL  -->
-        </div>
+      
 <!-- 
         <div class="col s12 m12 l4 xl4">
         <div class="card">

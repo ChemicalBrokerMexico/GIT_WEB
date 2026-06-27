@@ -21,7 +21,7 @@
   
   /* ICONO VERDE */
   .card-vet .icon-circle {
-    background: #42A5F5 !important;
+    background: #848586 !important;
   }
   
   /* CUADRITOS VERDES */
@@ -543,6 +543,427 @@
   .icon-circle.bg-farma {
     background: #1E88E5 !important;
   }
+
+  body{
+    font-family: Arial, Helvetica, sans-serif;
+    background:#ffffff;
+    margin:0;
+    padding:0;
+}
+
+.container-catalogo{
+    max-width:1400px;
+    margin:auto;
+    padding:50px 70px;
+}
+
+.titulo{
+    font-size:48px;
+    font-weight:700;
+    color:#1f2937;
+    margin-bottom:35px;
+}
+
+#buscar{
+    width:100%;
+    padding:2px;
+    border:none;
+    border-radius:12px;
+    background:#ffffff;
+    box-shadow:0 4px 18px rgba(0,0,0,.08);
+    margin-bottom:40px;
+    font-size:16px;
+}
+
+#buscar:focus{
+    outline:none;
+}
+
+.abecedario{
+
+    display:grid;
+
+    grid-template-columns:
+    repeat(27,1fr);
+
+    width:100%;
+
+    margin-bottom:30px;
+
+    text-align:center;
+}
+
+.abecedario a{
+
+    text-decoration:none;
+
+    color:black;
+
+    font-size:18px;
+
+    font-weight:500;
+}
+
+/* .abecedario a:hover{
+    background:#071637;
+    color:#ffffff;
+} */
+
+.letra{
+    font-size:20px;
+    font-weight:300;
+    color:#1f2937;
+    margin-top:35px;
+    margin-bottom:15px;
+    margin-left: 16px;
+}
+
+.familia{
+
+    display:block;
+
+    width:100%;
+
+    margin-top:16px;
+
+    margin-bottom:16px;
+
+    padding:0;
+
+    background:none;
+
+    border:none;
+
+    border-radius:0;
+
+    color:black;
+
+    font-size:18px;
+
+    text-transform:none;
+
+    letter-spacing:.8px;
+
+    font-weight:400;
+
+    margin-left: 16px;
+}
+
+.producto-item{
+
+    display:flex;
+
+    align-items:center;
+
+    min-height:20px;
+
+    width:100%;
+
+    margin-left: 16px;
+}
+
+.familia-grid{
+
+    display:grid;
+
+    grid-template-columns:
+    repeat(3,minmax(300px,1fr));
+
+    column-gap:50px;
+
+    row-gap:14px;
+
+    width:100%;
+
+    margin-bottom:35px;
+}
+
+.nombre-producto-link{
+
+    color:#1565c0;
+
+    text-decoration:none;
+
+    font-weight:10;
+
+    font-size: 18px;
+}
+
+.nombre-producto-link:hover{
+
+    color:#0d47a1;
+}
+
+.nombre-producto-normal{
+
+    display:block;
+
+    font-size:16px;
+
+    color:black;
+}
+.detalle-producto{
+    color:#6b7280;
+    font-size:15px;
+    line-height:28px;
+}
+
+.detalle-producto strong{
+    color:#374151;
+    font-weight:600;
+}
+
+.separador{
+    margin-left:12px;
+    margin-right:12px;
+    color:#cbd5e1;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+/* .sticky-header{
+    position:sticky;
+    top:0;
+    z-index:1000;
+
+    background:#ffffff;
+
+    padding-top:15px;
+    padding-bottom:15px;
+
+    border-bottom:1px solid #ececec;
+} */
+
+.sticky-header{
+    border-bottom:none;
+}
+
+#btnTop{
+
+    position:fixed;
+
+    right:25px;
+
+    bottom:100px;
+
+    width:55px;
+
+    height:55px;
+
+    z-index:999999;
+
+    background-color: black !important;
+}
+
+#btnTop:hover{
+
+    transform:translateY(-2px);
+
+    transition:.2s;
+}
+
+.sticky-header .row{
+    margin-bottom:0 !important;
+}
+
+.sticky-header .input-field{
+    margin-bottom:0 !important;
+    padding-bottom:1 !important;
+}
+
+.sticky-header input{
+    margin-bottom:1 !important;
+}
+
+body{
+
+    background:#ffffff;
+
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.container-familias{
+
+    width:95%;
+
+    max-width:1800px;
+
+    margin:auto;
+
+    padding-top:40px;
+
+    padding-bottom:60px;
+}
+
+.titulo-catalogo{
+
+    font-size:42px;
+
+    font-weight:300;
+
+    margin-bottom:40px;
+}
+
+.familias-grid{
+
+    display:grid;
+
+    grid-template-columns:
+    repeat(3,1fr);
+
+    gap:30px;
+}
+
+.familia-card {
+    border: none;
+    box-shadow: none;
+    padding: 0;
+    margin: 0;
+    background: transparent;
+}
+
+/* .familia-card:hover{
+
+    box-shadow:
+    0 6px 18px rgba(0,0,0,.08);
+} */
+
+.familia-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 12px;  /* 🔥 espacio interno */
+    cursor: pointer;
+    font-weight: 600; /* elegante, no pesado */
+    font-size: 18px;
+    letter-spacing: 0.2px;
+    color: #222;
+}
+
+.familia-nombre{
+
+    font-size:18px;
+
+    font-weight:500;
+}
+
+.contador{
+
+    color:#777;
+}
+
+.toggle{
+
+    font-size:24px;
+
+    color:#1565c0;
+}
+
+.productos-familia{
+
+    display:none;
+
+    padding:18px 22px;
+}
+
+.productos-familia.activa{
+
+    display:block;
+}
+
+.producto-item{
+
+    margin-bottom:10px;
+}
+
+.producto-link{
+
+    color:#1565c0;
+
+    text-decoration:none;
+
+    font-weight:400;
+}
+
+.producto-link:hover{
+
+    text-decoration:underline;
+}
+
+.producto-normal{
+
+    color:#222;
+
+    font-weight:400;
+}
+
+@media(max-width:992px){
+
+    .familias-grid{
+
+        grid-template-columns:
+        repeat(2,1fr);
+    }
+
+}
+
+@media(max-width:600px){
+
+    .familias-grid{
+
+        grid-template-columns:1fr;
+    }
+
+}
+
+.productos-familia {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+}
+
+.productos-familia.active {
+    max-height: 500px; /* o más según tu contenido */
+}
+
+.productos-familia {
+    display: none;
+}
+
+.productos-familia.active {
+    display: block;
+}
+
+/* Responsive */
+
+@media(max-width:768px){
+
+    .container-catalogo{
+        padding:25px;
+    }
+
+    .titulo{
+        font-size:34px;
+    }
+
+    .nombre-producto-link,
+    .nombre-producto-normal{
+    
+        font-size:16px;
+    }
+
+    .detalle-producto{
+        font-size:14px;
+        line-height:24px;
+    }
+
+    .separador{
+        display:none;
+    }
+
+}
   
   /* MOBILE */
   @media (max-width: 600px) {
@@ -965,6 +1386,104 @@ li {
 .custom-btn:hover {
   background: #1565c0;
 }
+
+.familia-card {
+    width: 100%;
+    break-inside: avoid;
+}
+
+.familias-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    align-items: start;
+}
+
+.familia-card {
+    align-self: start;
+}
+
+.familias-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    align-items: start;
+}
+
+.familia-card {
+    width: 100%;
+}
+
+.productos-familia {
+    display: none;
+}
+
+.productos-familia.active {
+    display: block;
+    max-height: none;
+    overflow: visible;
+}
+
+.btn-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+
+    width: 45px;
+    height: 45px;
+
+    border: none;
+    border-radius: 50%;
+    background: #333;
+    color: white;
+
+    cursor: pointer;
+    display: none;
+
+    box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+}
+
+#alfabeto {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 6px;
+    margin: 20px 0;
+}
+
+#alfabeto button {
+    background: transparent;
+    border: none;
+    font-size: 14px;
+    font-weight: 500;
+    color: #222;
+    cursor: pointer;
+    padding: 4px 6px;
+}
+
+/* ❌ sin hover visual */
+#alfabeto button:hover {
+    background: transparent;
+    color: #222;
+    text-decoration: none;
+    transform: none;
+}
+
+/* opcional: quitar focus feo del navegador */
+#alfabeto button:focus {
+    outline: none;
+}
+
+#alfabeto button.active {
+    font-weight: 700;
+}
+
+.catalogo-wrapper {
+    display: flex;
+    align-items: flex-start;
+    gap: 25px;
+}
+
 
 
 @media only screen and (max-width: 576px) {
@@ -2928,6 +3447,25 @@ font-size: 12px;
         height: 50px;
     }
 
+    .familia-grid{
+
+        display:grid;
+    
+        grid-template-columns:
+            repeat(3, 1fr);
+    
+        gap:18px 40px;
+    
+        width:100%;
+    
+        margin-bottom:35px;
+    }
+
+    .familia-grid{
+
+        grid-template-columns:1fr;
+    }
+
 }
 
 
@@ -3347,6 +3885,13 @@ font-size: 12px;
 
 @media only screen and (min-width: 992px) {
    
+    .familia-grid{
+
+        grid-template-columns:
+        repeat(2,minmax(0,1fr));
+
+    }
+
     .videos_mercados{
         width:115%;
         margin-top:-200px;
@@ -3472,6 +4017,13 @@ margin-top: -44px;
 .Tabla_TCM_Desktop{
     display: none;
 }
+
+.familia-grid{
+
+    grid-template-columns:
+    repeat(2,1fr);
+}
+
 
 }
 
@@ -4044,6 +4596,12 @@ margin-top: -44px;
 
     .Tabla_TCM_Desktop{
         display: none;
+    }
+
+    .familia-grid{
+
+        grid-template-columns:
+        repeat(3,1fr);
     }
 
 }
