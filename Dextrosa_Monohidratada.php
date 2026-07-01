@@ -3,7 +3,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Dextrosa Monohidratada | Proveedor Global y Nacional de Ingredientes Quimicos</title>
+  <title>Chemical Broker | Dextrosa Monohidratada | Proveedor Global y Nacional de Dextrosa Monohidratada</title>
   <meta name="description" content="Dextrosa monohidratada (D-glucosa con agua de cristalización) ideal para alimentos, фарmacéutica y fermentación. Alta calidad y funcionalidad.">
   <link rel="canonical" href="https://chemicalbroker.mx/Dextrosa_Monohidratada.php">
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>

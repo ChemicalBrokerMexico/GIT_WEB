@@ -3,7 +3,7 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Fosfato Monocálcico Anhidro | Proveedor Global</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <title>Chemical Broker | Fosfato Monocálcico Anhidro | Proveedor Global y Nacional de Fosfato Monocalcico Anhidro</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="Fosfato Monocalcico anhidro de grado premium, perfecto para aplicaciones en la industria alimentaria y agropecuaria. Ofrecemos productos de alta pureza con entregas rapidas y precios competitivos para maximizar la eficiencia de la producción.">
     <link rel="canonical" href="https://chemicalbroker.mx/Fosfato_Monocalcico_Anhidro.php">
     <script>

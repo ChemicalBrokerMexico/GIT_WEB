@@ -3,8 +3,8 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Polisorbato 80 | Proveedor Global y Nacional de Ingredientes Quimicos</title>
-  <meta name="description" content="Chemical Broker distribuye mundialmente Polisorbatos"> 
+  <title>Chemical Broker | Polisorbato 80 | Proveedor Global y Nacional de Polisorbato 80</title>
+  <meta name="description" content="El polisorbato 80 es un ingrediente de alta calidad utilizado como emulsificante y solubilizante en las industrias alimentaria, farmacéutica, cosmética e industrial. En Chemical Broker ofrecemos suministro confiable, calidad consistente y asesoría especializada para optimizar sus procesos productivos."> 
   <link rel="canonical" href="https://chemicalbroker.mx/Polisorbato_80.php">
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
   <script>
@@ -817,7 +817,6 @@
     </p>
     <script type="text/javascript" src="js/Products.js"></script>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">

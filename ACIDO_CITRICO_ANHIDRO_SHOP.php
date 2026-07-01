@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
     <meta name="description" content="El ácido cítrico anhidro es un ingrediente de alta pureza utilizado en las industrias alimentaria, farmacéutica y química. Ideal como acidulante, regulador de pH y agente conservante en diversas formulaciones industriales.">
-    <title>Chemical Broker | Acido Citrico Anhidro Shop | Proveedor Global</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <title>Chemical Broker | Acido Citrico Anhidro Shop | Proveedor Global y Nacional</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="Acido citrico anhidro calidad industrial y alimenticia. Ideal para alimentos, bebidas, productos farmacéuticos y cosméticos. Suministro confiable y especifico tecnicas completas.">
     <link rel="canonical" href="https://chemicalbroker.mx/ACIDO_CITRICO_ANHIDRO_SHOP.php">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>

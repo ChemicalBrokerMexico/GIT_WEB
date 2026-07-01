@@ -3,7 +3,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Dextrosa Anhidra | Proveedor Global y Nacional de Ingredientes Quimicos</title>
+  <title>Chemical Broker | Dextrosa Anhidra | Proveedor Global y Nacional de Dextrosa Anhidra</title>
   <meta name="description" content="Compra dextrosa anhidra grado alimenticio y farmacéutico. Alta pureza, excelente solubilidad y suministro confiable para tu industria. Cotiza hoy.">
   <link rel="canonical" href="https://chemicalbroker.mx/Dextrosa_Anhidra.php">
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>

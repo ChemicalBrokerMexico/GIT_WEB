@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
     <meta name="description" content="El BUDAL® 2402 es un agente leudante de alta eficiencia diseñado para aplicaciones de panificación industrial. Ayuda a mejorar el volumen, la textura y la estabilidad de productos horneados, garantizando un desempeño uniforme y resultados de calidad en cada proceso.">
-    <title>Chemical Broker | Sulfato de Aluminio y Sodio K BUDAL 2402 | Proveedor Global | Compra</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <title>Chemical Broker | Sulfato de Aluminio y Sodio K BUDAL 2402 | Proveedor Global y Nacional | Compra</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link rel="canonical" href="https://chemicalbroker.mx/Sulfato_Aluminio_SodioK_Budal2402_Shop.php">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen"/>

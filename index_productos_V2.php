@@ -32,7 +32,7 @@ while($fila = mysqli_fetch_assoc($resultado)){
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Sebo Alto Hidrogenado | Proveedor Global y Nacional de Ingredientes Quimicos</title>
+  <title>Catalogo de Productos</title>
   <meta name="description" content="El sebo alto hidrogenado es una grada solida de alta estabilidad, usado en alimentos, confiteria y formulaciones industriales por su resistencia termica">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/Sebo_Alto_Hidrogenado.php">
@@ -596,26 +596,41 @@ while($fila = mysqli_fetch_assoc($resultado)){
   </ul>
 
 
-  <div class="container-fluid">
-      <div class="slider slider-prueba" style="margin-top:0px">
-        <ul class="slides slides-pruea">
-          <li><img src="" style="height:800px;" alt="Historia Ascendente">
-            <div class="caption center-align"><br><br><br><br>
-              <h1 class="primertitulo"><b class="boldbanner">Productos</b><br></h1>
-              <div class="container">
-      
+  <div class="row">
+        <div class="slider slider-prueba">
+            <ul class="slides">
+                <li>
+                    <div id="BannerDinamico" style="height:800px;background:linear-gradient(#071637 99%);">
+                        <b class="segundotitulo"
+                            style="float:right;color:white;margin-top:200px;margin-right:150px;"><span>
+                                Productos</span><br><span id="segundotitulo"></span></b>
+                    </div>
+                    <div class="caption center-align"><br><br><br><br>
+                        <br>
+
+                        <div class="container" style="margin-top:-100px;">
+                            <div class="row">
+                                <div class="col s12 m12 l12 xl12">
+
+
+
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </div>
+                </li>
+            </ul>
+        </div>
     </div>
-            </div>
-          </li>
-        </ul>
-      </div>
-    </div>
+
 
 
 <div class="container-familias" style="margin-top:120px;">
 
 
-  <div id="alfabeto">
+  <div id="alfabeto" style="margin-top:-30px;">
     <button data-letter="ALL">Todos</button>
 
     <button data-letter="A">A</button>
@@ -644,73 +659,72 @@ while($fila = mysqli_fetch_assoc($resultado)){
     <button data-letter="X">X</button>
     <button data-letter="Y">Y</button>
     <button data-letter="Z">Z</button>
+
+    <div class="familias-grid" style="margin-top:30px;">
+
+<?php foreach($familias as $familia => $productos){ ?>
+
+    <div class="familia-card" data-letter="<?= strtoupper(substr($familia,0,1)) ?>">
+
+    <div class="familia-header">
+
+<div class="familia-titulo">
+
+    <span class="toggle">+</span>
+
+    <span class="familia-nombre">
+        <?= htmlspecialchars($familia) ?>
+    </span>
+
 </div>
 
-    <div class="familias-grid">
+<!-- <span class="contador">
+ 
+</span> -->
 
-        <?php foreach($familias as $familia => $productos){ ?>
+</div>
 
-            <div class="familia-card" data-letter="<?= strtoupper(substr($familia,0,1)) ?>">
+        <div class="productos-familia">
 
-                <div class="familia-header">
+            <?php foreach($productos as $producto){ ?>
 
-                    <span class="familia-nombre">
+                <div class="producto-item">
 
-                        <?= htmlspecialchars($familia) ?>
+                    <?php if($producto['tiene_pagina'] == 1){ ?>
 
-                    </span>
+                        <a
+                        href="<?= htmlspecialchars($producto['url_producto']) ?>"
+                        class="producto-link"
+                        >
 
-                    <!-- <span class="contador">
+                            <?= htmlspecialchars($producto['producto']) ?>
 
-                       
+                        </a>
 
-                    </span> -->
+                    <?php }else{ ?>
 
-                    <span class="toggle">
+                        <span class="producto-normal">
 
-                        +
-                    </span>
+                            <?= htmlspecialchars($producto['producto']) ?>
 
-                </div>
-
-                <div class="productos-familia">
-
-                    <?php foreach($productos as $producto){ ?>
-
-                        <div class="producto-item">
-
-                            <?php if($producto['tiene_pagina'] == 1){ ?>
-
-                                <a
-                                href="<?= htmlspecialchars($producto['url_producto']) ?>"
-                                class="producto-link"
-                                >
-
-                                    <?= htmlspecialchars($producto['producto']) ?>
-
-                                </a>
-
-                            <?php }else{ ?>
-
-                                <span class="producto-normal">
-
-                                    <?= htmlspecialchars($producto['producto']) ?>
-
-                                </span>
-
-                            <?php } ?>
-
-                        </div>
+                        </span>
 
                     <?php } ?>
 
                 </div>
 
-            </div>
+            <?php } ?>
 
-        <?php } ?>
+        </div>
 
     </div>
+
+<?php } ?>
+
+</div>
+</div>
+
+   
 
 </div>
 

@@ -3,8 +3,8 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Polisorbato 20 | Proveedor Global y Nacional de Ingredientes Quimicos</title>
-  <meta name="description" content="Chemical Broker distribuye mundialmente Polisorbatos"> 
+  <title>Chemical Broker | Polisorbato 20 | Proveedor Global y Nacional de Polisorbato 20</title>
+  <meta name="description" content="El polisorbato 20 es un ingrediente de alta calidad utilizado como emulsificante y agente dispersante en las industrias alimentaria, cosmética, farmacéutica e industrial. En Chemical Broker ofrecemos suministro confiable, calidad consistente y asesoría especializada para sus procesos productivos."> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/Polisorbato_20.php">
   <script type="text/javascript"
@@ -792,7 +792,6 @@
     </p>
     <script type="text/javascript" src="js/Products.js"></script>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">

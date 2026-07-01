@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Maltodextrina 10 | Proveedor Global y Nacional de Ingredientes Quimicos</title>
+    <title>Chemical Broker | Maltodextrina 10 | Proveedor Global y Nacional de Maltodextrina 10</title>
     <meta name="description" content="La maltodextrina DE 10 es un polisacárido obtenido a partir de la hidrólisis parcial del almidón (generalmente de maíz), caracterizado por un bajo grado de hidrólisis (DE 10). Se presenta como un polvo blanco, de sabor neutro o ligeramente dulce.">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
@@ -687,7 +687,7 @@
     </p>
     <script type="text/javascript" src="js/Products.js"></script>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
+  <link rel="canonical" href="https://chemicalbroker.mx/Maltodextrina10.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">

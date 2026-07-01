@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Acido Miristico de Peter Cremer</title>
+    <title>Chemical Broker | Acido Miristico de Peter Cremer | Proveedor Global y Nacional de Acido Miristico</title>
     <meta name="description" content="Compra Ácido Miristico puro y de alta calidad, ideal para la industria cosmetica y de cuidad personal. Perfecto para la formulacion de cremas, lociones, jabones y productos de limpieza, Asegura resultados efectivos con nuestro suministro confiable y constante">
     <link rel="canonical" href="https://chemicalbroker.mx/Acido_Miristico.php">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />

@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Pectinas para Nutricion Humana | Proveedor Global</title>
+    <title>Chemical Broker | Pectinas para Nutricion Humana | Proveedor Global y Nacional de Pectinas</title>
     <meta name="description" content="Las pectinas en la nutricion humana aportan fibra soluble, mejoran la digestion, regulan el colesterol y se usan en alimentos funcionales">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/Pectinas_Farmaceutica.php">

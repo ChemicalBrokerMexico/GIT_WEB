@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html lang="es">
-
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | C-SORBIDEX SORBITOL | Proveedor Global</title>
+    <title>Chemical Broker | C-SORBIDEX SORBITOL | Proveedor Global y Nacional de Sorbitol</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="El C-Sorbidex Sorbitol es un poliol altamente versatil utilizado en formulaciones que requieren control de humedad, dulzor moderado textura mejorada y excelente estabilidad quimica.">
         <link rel="shortcut icon" href="img/CB_ICON.ico" />

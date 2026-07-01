@@ -4,7 +4,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
   <meta name="description" content="Nuestra Línea de Acidulantes incluye opciones sintéticas y de origen natural, cumpliendo estándares internacionales de calidad y permitiendo seleccionar el producto adecuado segun los parametros de pureza, solubilidad, internsidad de acidez y desempeño esperado">
-  <title>Chemical Broker | Acidulantes</title>
+  <title>Chemical Broker | Acidulantes | Proveedor Global y Nacional de Acidulantes</title>
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/Acidulantes.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">

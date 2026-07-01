@@ -3,10 +3,10 @@
   <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <!-- <meta name="description" content="Chemical Broker es un proveedor mundial de servicios de intermediación, comercialización, distribución, importación y exportación de productos químicos."> -->
-    <title>Unsaturated</title>
+    <meta name="description" content="Los diglicéridos insaturados (Unsaturated Diglycerides) son ingredientes de alta calidad utilizados como emulsificantes en las industrias alimentaria y de bebidas para mejorar la estabilidad y textura de diversas formulaciones. En Chemical Broker ofrecemos suministro confiable, calidad consistente y asesoría especializada para sus procesos productivos."> 
+    <title>Unsaturated Diglicerydes | Proveedor Global y Nacional de Unsaturated Diglicerydes</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-
+    <link rel="canonical" href="https://chemicalbroker.mx/Unsaturated_Diglicerydes.php">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
     <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">

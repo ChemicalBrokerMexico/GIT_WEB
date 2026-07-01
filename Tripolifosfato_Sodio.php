@@ -3,12 +3,12 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Tripolifosfato de Sodio</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <meta name="description" content="Los fosfatos se pueden definir como productos quimicos versatiles y multifuncionales que se comercializan ampliamente en diversas industiras debido a sus propiedades beneficiosas y aplicaciones variadas">
+    <title>Chemical Broker | Tripolifosfato de Sodio | Proveedor Global y Nacional de Tripolifosfato de Sodio</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <meta name="description" content="El tripolifosfato de sodio es un compuesto químico de alta calidad utilizado en las industrias alimentaria e industrial por sus propiedades funcionales. En Chemical Broker ofrecemos suministro confiable, calidad consistente y asesoría especializada para satisfacer los requerimientos de diversos procesos productivos.">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">
-    <link rel="canonical" href="https://chemicalbroker.mx/index.php">
+    <link rel="canonical" href="https://chemicalbroker.mx/Tripolifosfato_Sodio.php">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
     <link rel="stylesheet" href="css/History_Line.css?n=1">
     <link rel="stylesheet" href="css/jquery.dataTables.min.css">

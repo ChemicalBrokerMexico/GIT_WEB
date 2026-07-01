@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Aceites y Grasas</title>
+    <title>Chemical Broker | Aceites y Grasas | Proveedor Global y Nacional</title>
     <meta name="description"
         content="Compra ingredientes quimicos especializados para la industria de aceites y grasas. Mejora la eficiencia y estabilidad de tus productos con nuestros quimicos confiables y servicio profesional">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />

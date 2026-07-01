@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Acidos Grasos | Proveedor Global Y Nacional de Ingredientes Quimicos</title>
+  <title>Chemical Broker | Acidos Grasos | Proveedor Global Y Nacional de Ácidos Grasos</title>
   <meta name="description" content="Ácidos grasos de alta pureza, ideales para aplicaciones industriales, cosméticas y alimentarias. Versátiles y esenciales para la fabricación de productos especializados. ¡Compra ácidos grasos de calidad premium al mejor precio!"> 
   <link rel="canonical" href="https://chemicalbroker.mx/Acidos_Grasos.php">
   <script>

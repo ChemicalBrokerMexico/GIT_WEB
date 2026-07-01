@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Estearina de Palma RBD</title>
+  <title>Chemical Broker | Estearina de Palma RBD | Proveedor Global y Nacional de Estearina de Palma RBD</title>
   <meta name="description" content="Descubre la estearina de palma RBD, un derivado de alta calidad del aceite de palma. Ideal para aplicaciones en alimentos, productos cosméticos y jabones, gracias a su pureza y versatilidad.">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">

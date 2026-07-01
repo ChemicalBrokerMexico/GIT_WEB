@@ -3,7 +3,7 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Fosfatos | Proveedor Global</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <title>Chemical Broker | Fosfatos | Proveedor Global y Nacional de Fosfatos</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="Los Fosfatos se pueden definir como productos quimicos versatiles y multifuncionales que se comercializan ampliamente en diversas industiras debido a sus propiedades beneficiosas y aplicaciones variadas">
     <link rel="canonical" href="https://chemicalbroker.mx/Fosfatos.php">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>

@@ -4,8 +4,8 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | 2-Etilhexanol del Fabricante BASF | Proveedor Global y Nacional de Ingredientes Quimicos</title>
-  <meta name="description" content="El 2-ethyl hexanol es un alcohol industrial usado como intermediario quimico en plastificantes, recubrimientos, adhesivos y resinas"> 
+  <title>Chemical Broker | 2-Etilhexanol del Fabricante BASF | Proveedor Global y Nacional de 2-Etilhexanol</title>
+  <meta name="description" content="El 2-Ethilhexanol es un alcohol industrial usado como intermediario quimico en plastificantes, recubrimientos, adhesivos y resinas"> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/2-Etilhexanol.php">
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>

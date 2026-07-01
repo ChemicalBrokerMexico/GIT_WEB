@@ -3,16 +3,13 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Sorbitol del Fabricante Cargill | Proveedor Global y Nacional de Ingredientes Quimicos</title>
+  <title>Chemical Broker | Sorbitol del Fabricante Cargill | Proveedor Global y Nacional de Sorbitoles</title>
   <meta name="description" content="El sorbitol es un poliol utilizado como edulcorante y humectante, aporta dulzor bajo en calorias y se usa en alimentos y productos farmaceuticos">
   <meta http-equiv="Expires" content="0">
   <meta http-equiv="Last-Modified" content="0">
   <meta http-equiv="Cache-Control" content="no-cache, mustrevalidate">
   <meta http-equiv="Pragma" content="no-cache">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
-
-
-  
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -894,7 +891,7 @@ Pub Chem:
     </p>
     <script type="text/javascript" src="js/Products.js"></script>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
+  <link rel="canonical" href="https://chemicalbroker.mx/Sorbitoles.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">

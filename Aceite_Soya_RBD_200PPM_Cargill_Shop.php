@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0"/>
     <meta name="description" content="El Aceite de Soya RBD 200 PPM ofrece alta estabilidad oxidativa y excelente desempeño en aplicaciones alimentarias e industriales. Ideal para frituras y formulaciones, proporciona calidad consistente, sabor neutro y gran versatilidad en procesos de producción alimentaria.">
-    <title>Chemical Broker | Aceite de Soya 200 ppm TBHQ | Proveedor Global | Compra</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <title>Chemical Broker | Aceite de Soya 200 ppm TBHQ | Proveedor Global y Nacional | Compra</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Soya_RBD_200PPM_Cargill_Shop.php">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen"/>

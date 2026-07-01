@@ -3,7 +3,7 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Fosfato Tricálcico | Proveedor Global</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <title>Chemical Broker | Fosfato Tricálcico | Proveedor Global y Nacional de Fosfato Tricálcico</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="Fosfato Tricálcico, también conocido como fosfato de calcio tribásico, es un compuesto químico con la fórmula Ca₃(PO₄)₂. Se encuentra en la naturaleza en forma de minerales como la apatita y es un componente importante del tejido óseo y dental en los seres humanos y otros animales">
     <link rel="canonical" href="https://chemicalbroker.mx/Fosfatos_Tricalcico.php">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>

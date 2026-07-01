@@ -3,7 +3,7 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Fosfato Monosódico Anhidro | Proveedor Global</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <title>Chemical Broker | Fosfato Monosódico Anhidro | Proveedor Global y Nacional de Fosfato Monosódico Anhidro</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="Fosfato monosódico anhidro de alta pureza, perfecto para aplicaciones en la industria alimentaria y farmaceutica. Ofrecemos un producto confiable con entregas rapidas y precios competitivos para optimizar tus procesos de produccion">
     <link rel="canonical" href="https://chemicalbroker.mx/Fosfato_Monosodico_Anhidro.php">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>

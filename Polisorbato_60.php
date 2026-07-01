@@ -3,9 +3,9 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Polisorbato 60 | Proveedor Global y Nacional de Ingredientes Quimicos</title>
+  <title>Chemical Broker | Polisorbato 60 | Proveedor Global y Nacional Polisorbato 60</title>
   <meta name="description" content="Polisorbato 60 de alta calidad: emulsificante y estabilizante ideal para aplicaciones alimentarias, cosméticas y farmacéuticas. Facilita la mezcla de ingredientes, mejora la textura y prolonga la estabilidad de tus formulaciones con resultados consistentes y confiables."> 
-  <link rel="canonical" href="https://chemicalbroker.mx/Polisorbat_60.php">
+  <link rel="canonical" href="https://chemicalbroker.mx/Polisorbato_60.php">
   <script type="text/javascript"
     src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
 
@@ -837,7 +837,6 @@
     </p>
     <script type="text/javascript" src="js/Products.js"></script>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">

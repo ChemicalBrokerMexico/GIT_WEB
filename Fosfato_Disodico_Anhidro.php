@@ -3,7 +3,7 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Fosfato Disodico Anhidro | Proveedor Global</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <title>Chemical Broker | Fosfato Disodico Anhidro | Proveedor Global y Nacional de Fosfato Disodico Anhidro</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="Fosfato disódico anhidro de alta pureza disponible para venta. Ideal para aplicaciones en la industria alimentaria, farmaceutica y quimica. Ofrecemos envios rapidos y precios competitivos. Mejora tus productos con un aditivo confiable y versatil.">
     <link rel="canonical" href="https://chemicalbroker.mx/Fosfato_Disodico_Anhidro.php">
     <script src="js/Traduccion.js"></script>

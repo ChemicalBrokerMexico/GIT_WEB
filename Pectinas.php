@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Pectinas | Proveedor Global y Nacional de Ingredientes Quimicos</title>
+    <title>Chemical Broker | Pectinas | Proveedor Global y Nacional de Pectinas</title>
     <meta name="description" content="Chemical Broker brinda a sus socios de negocio Pectinas de la mas alta calidad a nivel mundial del fabricante Cargill con el objetivo de satisfacer sus necesidades">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
 
@@ -834,7 +834,7 @@
     </p>
     <script type="text/javascript" src="js/Products.js"></script>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
+  <link rel="canonical" href="https://chemicalbroker.mx/Pectinas.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">

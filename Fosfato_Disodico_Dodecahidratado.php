@@ -3,7 +3,7 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Fosfato Disodico Dodecahidratado | Proveedor Global</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <title>Chemical Broker | Fosfato Disodico Dodecahidratado | Proveedor Global y Nacional de Fosfato Disodico Dodecahidratado</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="Fosfato disódico dodecahidratado de calidad superior para uso en la industria alimentaria, farmaceutica y química. Garantiza la pureza en cada lote. Ofrecemos entregas rapidas y precios competitivos para satisfacer las necesidades de tu produccion.">
     <link rel="canonical" href="https://chemicalbroker.mx/Fosfato_Disodico_Dodecahidratado.php">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>

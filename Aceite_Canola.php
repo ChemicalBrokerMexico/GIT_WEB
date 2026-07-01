@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Aceite de Canola RBD | Proveedor Global y Nacional de Ingredientes Quimicos</title>
+  <title>Chemical Broker | Aceite de Canola RBD | Proveedor Global y Nacional de Aceite de Canola RBD</title>
   <meta name="description" content="Aceite de canola RBD, Refinado, Blanqueado y Desodorizado de alta calidad. Ideal para aplicaciones alimenticias e industriales por su pureza y versatilidad. Descubre más aquí."> 
   <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Canola.php">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />

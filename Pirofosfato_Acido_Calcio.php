@@ -3,12 +3,12 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Pirofosfato Acido de Calcio</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <meta name="description" content="Los fosfatos se pueden definir como productos quimicos versatiles y multifuncionales que se comercializan ampliamente en diversas industiras debido a sus propiedades beneficiosas y aplicaciones variadas">
+    <title>Chemical Broker | Pirofosfato Acido de Calcio | Proveedor Global y Nacional de Pirofosfato Acido de Calcio</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <meta name="description" content="El Pirofosfato Ácido de Calcio es un ingrediente de alta calidad utilizado en aplicaciones alimentarias por sus propiedades funcionales en diversos procesos de formulación. En Chemical Broker ofrecemos suministro confiable, calidad consistente y asesoría especializada para satisfacer las necesidades de la industria.">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">
-    <link rel="canonical" href="https://chemicalbroker.mx/index.php">
+    <link rel="canonical" href="https://chemicalbroker.mx/Pirofosfato_Acido_Calcio.php">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymus">
     <link rel="stylesheet" href="css/History_Line.css?n=1">
     <link rel="stylesheet" href="css/jquery.dataTables.min.css">

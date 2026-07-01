@@ -3,7 +3,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Lauril Sulfato de Sodio 94% del Fabricante Stepan | Proveedor Global y Nacional de Ingredientes Quimicos</title>
+    <title>Chemical Broker | Lauril Sulfato de Sodio 94% del Fabricante Stepan | Proveedor Global y Nacional de Lauril Sulfato de Sodio 94%</title>
     <meta name="description" content="El Lauril Sulfato de Sodio 94% es un alquilsulfato en forma de polvo. El producto pertenece a los tensoactivos de naturaleza aniónica con un alto contenido en sustancia activa de al menos el 94%.">
     <script type="text/javascript" src="js/Products.js"></script>
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">

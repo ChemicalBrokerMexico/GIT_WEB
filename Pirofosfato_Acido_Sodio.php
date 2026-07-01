@@ -4,9 +4,9 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Pirofosfato Acido de Sodio | Proveedor Global</title>
+  <title>Chemical Broker | Pirofosfato Acido de Sodio | Proveedor Global y Nacional de Pirofosfato Acido Sodio</title>
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
-  <meta name="description" content="Los fosfatos se pueden definir como productos quimicos versatiles y multifuncionales que se comercializan ampliamente en diversas industiras debido a sus propiedades beneficiosas y aplicaciones variadas">
+  <meta name="description" content="El pirofosfato ácido de sodio es un ingrediente de alta calidad utilizado en la industria alimentaria por sus propiedades funcionales en procesos de formulación y producción. En Chemical Broker ofrecemos suministro confiable, calidad consistente y asesoría especializada para atender las necesidades de su empresa.">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen">
   <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen">

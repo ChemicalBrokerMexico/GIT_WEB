@@ -3,11 +3,10 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Fosfato Monosódico Monohidratado | Proveedor Global</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <title>Chemical Broker | Fosfato Monosódico Monohidratado | Proveedor Global y Nacional de Fosfato Monosódico Monohidratado</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="El fosfato monosódico monohidratado, también conocido como fosfato de sodio monobásico monohidratado, es un compuesto químico con la fórmula NaH₂PO₄·H₂O. Este compuesto es la forma monohidratada del fosfato monosódico y se utiliza en diversas aplicaciones industriales y alimentarias.">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/Fosfato_Monosodico_Monohidratado.php">
-  
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
     <script>
         window.dataLayer = window.dataLayer || [];

@@ -4,10 +4,9 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Aceite de Maiz RBD | Proveedor Global y Nacional de Ingredientes Quimicos</title>
+  <title>Chemical Broker | Aceite de Maiz RBD | Proveedor Global y Nacional de Aceite de Maiz RBD</title>
   <meta name="description" content="El Aceite de maíz RBD de alta calidad, ideal para aplicaciones alimentarias e industriales. Rico en ácidos grasos esenciales y antioxidantes, ofrece estabilidad y sabor suave. ¡Compra aceite de maíz refinado, blanqueado y desodorizado al mejor precio! y de la mejor calidad"> 
   <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Maiz.php">
- 
   <script>
     window.dataLayer = window.dataLayer || [];
 

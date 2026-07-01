@@ -3,7 +3,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Trigliceridos de Cadena Media | Proveedor Global y Nacional de Ingredientes Quimicos</title>
+  <title>Chemical Broker | Trigliceridos de Cadena Media | Proveedor Global y Nacional de Trigliceridos de Cadena Media</title>
   <meta name="description" content="Los trigliceridos de cadena media aportan energia rapida, facil digestion y se utilizan en nutricion clinica, deportiva y alimentos funcionales"> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/Trigliceridos_Cadena_Media.php">
@@ -1240,7 +1240,6 @@
     </p>
     <script type="text/javascript" src="js/Products.js"></script>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">

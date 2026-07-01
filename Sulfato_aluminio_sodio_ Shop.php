@@ -6,7 +6,7 @@
     <meta name="description" content="Optimiza tus formulaciones con BUDAL® 2308 Fosfato de Sodio y Aluminio, un ingrediente versátil y de alto desempeño ideal para aplicaciones alimenticias e industriales. Mejora estabilidad, textura y rendimiento en cada proceso.">
     <title>Chemical Broker | Fosfato de Sodio y Aluminio | Proveedor Global | Compra</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <link rel="canonical" href="https://chemicalbroker.mx/Azucar_Refinada.php">
+    <link rel="canonical" href="https://chemicalbroker.mx/Sulfato_aluminio_sodio_Shop.php">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
     <link href="css/materialize.css?n=1" type="text/css" rel="stylesheet" media="screen"/>
     <link href="css/styles.css?n=1" type="text/css" rel="stylesheet" media="screen"/>

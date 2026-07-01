@@ -4,10 +4,9 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | C-PHARM SORBIDEX | Proveedor Global</title>
+    <title>Chemical Broker | C-PHARM SORBIDEX | Proveedor Global y Nacional de Sorbitol</title>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <meta name="description" content="El Sorbitol C-Pharm Sorbidex de Cargill es un poliol de alta pureza diseñado para aplicaciones que requieren un dulzor moderado, estabilidad, humectacion y baja cariogenicidad.">
-        <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/C-PHARM_SORBIDEX_SORBITOL.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">

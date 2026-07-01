@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html>
-
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Aceite de Palma RBD | Proveedor Global y Nacional de Ingredientes Quimicos</title>
+  <title>Chemical Broker | Aceite de Palma RBD | Proveedor Global y Nacional de Aceite de Palma RBD</title>
   <meta name="description" content="El Aceite de palma RBD de alta pureza, perfecto para aplicaciones alimentarias e industriales. Refinado, blanqueado y desodorizado para un sabor neutro y alta estabilidad. ¡Compra aceite de palma de calidad premium al mejor precio!"> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Palma_RBD.php">

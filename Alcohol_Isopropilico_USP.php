@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Alcohol Isopropílico USP de Lyondell Basell | Proveedor Global </title>
+    <title>Chemical Broker | Alcohol Isopropílico USP de Lyondell Basell | Proveedor Global y Nacional de Alcohol Isopropilico USP</title>
     <meta name="description" content="Chemical Broker distribuye mundialmente Alcohol Isopropilico grado USP de Lyondell Basell.">
         <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/Alcohol_Isopropilico_USP.php">

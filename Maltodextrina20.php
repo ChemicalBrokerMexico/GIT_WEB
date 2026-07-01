@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Maltodextrina 20 | Proveedor Global y Nacional de Ingredientes Quimicos</title>
+    <title>Chemical Broker | Maltodextrina 20 | Proveedor Global y Nacional de Maltodextrina20</title>
     <meta name="description" content="La maltodextrina DE 20 es un polisacárido obtenido mediante la hidrólisis parcial del almidón, con un mayor grado de conversión (DE 20) en comparación con maltodextrinas de menor DE. Se presenta como un polvo blanco, altamente soluble y con un sabor ligeramente dulce.">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
@@ -686,7 +686,7 @@
     </p>
     <script type="text/javascript" src="js/Products.js"></script>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
+  <link rel="canonical" href="https://chemicalbroker.mx/Maltodextrina20.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">

@@ -3,7 +3,7 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-<title>Chemical Broker | Dimetilformamida del Fabricante Basf | Proveedor Global y Nacional de Ingredientes Quimicos</title>
+<title>Chemical Broker | Dimetilformamida del Fabricante Basf | Proveedor Global y Nacional de Dimetilformamida</title>
 <meta name="description" content="Adquiere dimetilformamida (DMF) de alta pureza para aplicaciones industriales y químicas. Este solvente versátil y eficaz es ideal para procesos de síntesis y fabricación. Asegura la calidad y rendimiento de tus productos con nuestra dimetilformamida confiable y de calidad superior.">
 <link rel="shortcut icon" href="img/CB_ICON.ico" />
 

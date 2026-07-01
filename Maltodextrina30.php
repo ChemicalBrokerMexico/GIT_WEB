@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Maltodextrina 30 | Proveedor Global y Nacional de Ingredientes Quimicos</title>
+    <title>Chemical Broker | Maltodextrina 30 | Proveedor Global y Nacional de Maltodextrina 30</title>
     <meta name="description" content="Maltodextrina DE 30 de alta solubilidad y rápida absorción, ideal para alimentos, bebidas y nutrición deportiva. Mayor dulzor y eficiencia energética. Solicita cotización.">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
@@ -685,7 +685,7 @@
     </p>
     <script type="text/javascript" src="js/Products.js"></script>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
+  <link rel="canonical" href="https://chemicalbroker.mx/Maltodextrina30.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">

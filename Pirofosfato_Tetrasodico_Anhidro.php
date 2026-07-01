@@ -3,8 +3,8 @@
 <head> 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-    <title>Chemical Broker | Pirofosfato Tetrasodico Anhidro | Proveedor Global</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
-    <meta name="description" content="Los fosfatos se pueden definir como productos quimicos versatiles y multifuncionales que se comercializan ampliamente en diversas industiras debido a sus propiedades beneficiosas y aplicaciones variadas">
+    <title>Chemical Broker | Pirofosfato Tetrasodico Anhidro | Proveedor Global y Nacional de Pirofosfato Tetrasodico Anhidro</title><link rel="shortcut icon" href="img/CB_ICON.ico" />
+    <meta name="description" content="El pirofosfato tetrasódico anhidro es un compuesto químico de alta calidad utilizado en aplicaciones alimentarias e industriales por sus propiedades funcionales. En Chemical Broker ofrecemos suministro confiable, calidad consistente y asesoría especializada para satisfacer los requerimientos de diversos procesos productivos.">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
     <script>
       window.dataLayer = window.dataLayer || [];

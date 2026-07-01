@@ -4,8 +4,8 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Sebo Alto Hidrogenado | Proveedor Global y Nacional de Ingredientes Quimicos</title>
-  <meta name="description" content="El sebo alto hidrogenado es una grada solida de alta estabilidad, usado en alimentos, confiteria y formulaciones industriales por su resistencia termica">
+  <title>Chemical Broker | Sebo Alto Hidrogenado | Proveedor Global y Nacional de Sebo Alto Hidrogenado</title>
+  <meta name="description" content="El sebo alto hidrogenado es una materia prima de alta calidad utilizada en aplicaciones industriales para la fabricación de lubricantes, velas, jabones y otros productos especializados. En Chemical Broker ofrecemos suministro confiable, calidad consistente y asesoría especializada para atender las necesidades de su industria.">
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/Sebo_Alto_Hidrogenado.php">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
@@ -709,7 +709,6 @@
     </p>
     <script type="text/javascript" src="js/Products.js"></script>
     <link rel="shortcut icon" href="img/CB_ICON.ico" />
-  <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
   <link href="css/styles.css" type="text/css" rel="stylesheet" media="screen,projection">

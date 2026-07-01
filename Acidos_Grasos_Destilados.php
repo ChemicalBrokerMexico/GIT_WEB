@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Ácidos Grasos Destilados de Peter Cremer</title>
+  <title>Chemical Broker | Ácidos Grasos Destilados de Peter Cremer | Proveedor Global y Nacional de Ácidos Grasos Destilados</title>
   <meta name="description" content="Conoces los Ácidos Grasos Destilados, en Chemical Broker contamos con los Acidos Grasos Destilados de Peter Cremer los cuales tienen una calidad mundial">
   <link rel="canonical" href="https://chemicalbroker.mx/Acidos_Grasos_Destilados.php">
   <link rel="shortcut icon" href="img/CB_ICON.ico" />

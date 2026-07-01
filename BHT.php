@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Butilhidroxitolueno (BHT) | Proveedor Global Y Nacional de Ingredientes Quimicos</title>
+  <title>Chemical Broker | Butilhidroxitolueno (BHT) | Proveedor Global Y Nacional de BHT (Butilhidroxitolueno)</title>
   <meta name="description" content="Maximiza la estabilidad y protección de tus productos con BHT, un potente antioxidante ideal para aplicaciones alimentarias, cosméticas e industriales. Previene la oxidación y extiende la vida útil de tus formulaciones. ¡Compra BHT de alta pureza al mejor precio!"> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/BHT.php">

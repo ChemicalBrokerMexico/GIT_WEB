@@ -3,14 +3,13 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Azucar Refinada | Proveedor Global y Nacional de Ingredientes Quimicos</title>
+  <title>Chemical Broker | Azucar Refinada | Proveedor Global y Nacional de Azucar Refinada</title>
   <meta name="description" content="Azucar Refinada de alta pureza para la industria alimentaria. Ingredientes clave para bebidas, panificacion, confiteria y procesos industriales que requieren calidad, sabor y consistencia"> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/Azucar_Refinada.php">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGJQ8FDDJ6"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
-
         function gtag() {
             dataLayer.push(arguments);
         }
@@ -557,11 +556,9 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col s12 m12 l12 xl12">
-                          
                                 </div>
                             </div>
                         </div>
-
                     </div>
                 </li>
             </ul>

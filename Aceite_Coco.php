@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,maximun-scale=1.0">
-  <title>Chemical Broker | Aceite de Coco del Fabricante Vantage</title>
+  <title>Chemical Broker | Aceite de Coco del Fabricante Vantage | Proveedor Global y Nacional de Aceite de Coco</title>
   <meta name="description" content="El aceite de coco es un ingrediente natural ampliamente utilizado en las industrias alimentaria, cosmética, farmacéutica y de cuidado personal debido a su alta estabilidad oxidativa y su perfil de ácidos grasos."> 
   <link rel="shortcut icon" href="img/CB_ICON.ico" />
   <link rel="canonical" href="https://chemicalbroker.mx/Aceite_Coco.php">

@@ -698,7 +698,7 @@
 
     display:block;
 
-    font-size:16px;
+    font-size:17px;
 
     color:black;
 }
@@ -897,6 +897,40 @@ body{
     color:#222;
 
     font-weight:400;
+}
+
+.contador{
+
+    margin-left:auto;
+
+    color:#777;
+
+}
+
+.familia-header{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    padding:18px 22px;
+
+    cursor:pointer;
+
+    
+
+}
+
+.familia-titulo{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:8px;
+
 }
 
 @media(max-width:992px){
@@ -1454,7 +1488,7 @@ li {
 #alfabeto button {
     background: transparent;
     border: none;
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 500;
     color: #222;
     cursor: pointer;
